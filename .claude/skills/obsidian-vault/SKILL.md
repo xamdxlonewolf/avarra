@@ -13,8 +13,12 @@ This repository **is** the Obsidian vault for Avarra. All notes are highly detai
 
 ## Organization
 
-- **Structured folders**, not a flat layout — group notes by kind (e.g. lore, locations, characters, factions, sessions, and Daggerheart system reference).
-- Every note begins with **YAML front-matter** for metadata-driven search and discovery. Prefer consistent keys across notes of the same kind (e.g. `title`, `type`, `tags`, `status`, `aliases`, plus kind-specific fields like `region`, `faction`, `class`, `domain`).
+**The schema is authoritative in `00 - Core/Meta/Conventions.md` — read it before creating notes.** Summary:
+
+- **Numbered top-level folders** (`00 - Core` … `14 - Assets`, `99 - Archive`) on a four-layer model: **World** = what exists (01–10), **Campaign** = what happened (12), **Secrets** = what the GM knows (11), **Canon** = what is actually true (00). One canonical home folder per entity; other sections link, never duplicate.
+- Every note begins with **YAML front-matter**. Base keys on *every* note: `title`, `type`, `visibility` (`player|gm`), `note_status` (`stub|draft|fleshed|canon`), `tags`, `aliases`, `created`, `updated`. Common optional: `status` (in-world state), `world` (`avarra|green-reach|kiln`), `reveals: []`. Plus kind-specific keys — copy the matching template from `00 - Core/Meta/Templates/`.
+- `note_status` = how complete the note is; `status` = the thing's state in the fiction. Never conflate them.
+- **`visibility` drives player-safe export** — set it on every note from birth; keep spoilers in `## GM Notes` sections or `11 - Secrets`.
 - Use **Title Case** for note filenames.
 
 ## Linking
