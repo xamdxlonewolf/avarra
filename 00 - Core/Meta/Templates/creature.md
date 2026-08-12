@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [creature]
 aliases: []
-world: avera
+world:
 category: 
 habitat: 
 reveals: []

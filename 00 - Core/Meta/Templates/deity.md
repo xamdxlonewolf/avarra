@@ -6,7 +6,7 @@ note_status: stub
 status:                 # worshipped | forgotten | dead | fictional
 tags: [deity, religion]
 aliases: []
-world: avera
+world:
 domain: 
 faith: 
 reveals: []

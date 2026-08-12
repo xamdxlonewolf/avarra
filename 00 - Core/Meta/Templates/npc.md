@@ -6,12 +6,12 @@ note_status: stub
 status: alive          # alive | dead | missing | unknown
 tags: [npc]
 aliases: []
-world: avera           # avarra | avera | vara
+world:
 culture: 
 faction: 
 location: 
 role: 
-counterpart:           # soul-mirror on the other side, if known (GM)
+counterpart:           # optional cross-reference (GM)
 reveals: []
 created: 
 updated: 

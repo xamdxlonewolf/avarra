@@ -11,7 +11,7 @@ player:
 class: 
 ancestry: 
 community: 
-counterpart:            # their Varan-side soul-mirror (GM)
+counterpart:            # optional cross-reference (GM)
 created: 
 updated: 
 ---

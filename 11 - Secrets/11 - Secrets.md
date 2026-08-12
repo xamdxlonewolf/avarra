@@ -15,7 +15,7 @@ updated: 2026-08-11
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- 
+- **GM Truth** — [[The Cost]] (`reveal_tag: the-cost-of-peace`) — why the Empire works; the fused sacrifice/threat secret
 
 ## Related
-- 
+- [[The Premise]] · [[Themes]] (GM · `00 - Core`)

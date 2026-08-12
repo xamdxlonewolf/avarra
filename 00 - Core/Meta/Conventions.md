@@ -11,7 +11,7 @@ updated: 2026-08-11
 
 # Vault Conventions
 
-How the Avarra vault is organized and how every note is tagged. This is the contract all notes obey so metadata-driven search, discovery, and player-safe export work.
+How this vault is organized and how every note is tagged. This is the contract all notes obey so metadata-driven search, discovery, and player-safe export work.
 
 ## The four-layer model
 
@@ -69,8 +69,8 @@ updated:      # YYYY-MM-DD
 ### Common optional keys
 ```yaml
 status:       # IN-WORLD state (alive | dead | ruined | active | forgotten | ...)
-world:        # avarra | avera | vara   — which half a thing belongs to
-reveals: []   # secret reveal_tags this note exposes, e.g. [vara-is-alive, avarra-is-whole]
+world:        # optional — which world/realm a thing belongs to, if the setting has more than one
+reveals: []   # secret reveal_tags this note exposes, e.g. [the-big-secret]
 ```
 
 > **`note_status` vs `status`:** `note_status` = editorial completeness of the file. `status` = the thing's state inside the fiction. They never overlap.
@@ -102,12 +102,5 @@ Templates for the common kinds live in `00 - Core/Meta/Templates/`.
 - Connect notes with `[[wikilinks]]`; link inline and/or in a `## Links` section.
 - Use MOC / index notes to aggregate topics; find backlinks by searching `[[Note Title]]`.
 
-## Names (resolved 2026-08-11)
-
-The two worlds are **Avera** (organic, player-facing) and **Vara** (crystalline); the lost whole is **Avarra**. `world:` values are **`avera` | `vara` | `avarra`**. *Green Reach* / *the Kiln* are retired to GM design shorthand for the organic-vs-vitreous aesthetic; *the Wardens* is kept. Full scheme: [[Names & Descent]].
-
 ## Related
-- [[The Fracture]] — the true cosmology (in `00 - Core/Cosmology`)
-- [[Names & Descent]] — the naming scheme
-- [[The Meaning of Avarra]] — the flagship reveal
 - [[00 - Core]] — section index

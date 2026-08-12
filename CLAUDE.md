@@ -4,66 +4,30 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this repository is
 
-Avarra is a **worldbuilding repository** and serves as the **Obsidian vault** for the Avarra setting. There is no application code, build system, or tests — content is highly detailed Markdown notes organized in a structured folder system, each with detailed YAML front-matter that drives metadata-based search and discovery.
+This is a **worldbuilding repository** and serves as an **Obsidian vault** for a tabletop RPG setting. There is no application code, build system, or tests — content is detailed Markdown notes organized in a structured folder system, each with YAML front-matter that drives metadata-based search and discovery.
 
-The tabletop system for Avarra is **Daggerheart**.
+The tabletop system is **Daggerheart**.
 
-## What Avarra is (the setting)
+## What the setting is
 
-> **Names (resolved 2026-08-11).** The two worlds are **Avera** (the organic, player-facing half) and **Vara** (the crystalline half); the lost whole is **Avarra**. *Green Reach* and *the Kiln* are retired to **GM design shorthand** for the organic-vs-vitreous aesthetic contrast — never used in-world. *The Wardens* is kept. See [[Names & Descent]] (`03 - Cultures`) for the full scheme.
+> **"The Empire That Wasn't Evil."** An enormous, centuries-old empire that is *genuinely good at governing* — safe roads, fair courts, low crime, protected trade, preserved cultures, no slavery, a citizenry that genuinely likes it. And yet there is a rebellion whose members are *not obviously wrong.* The campaign is the slow discovery of **why anyone would destroy a government that works** — and the players cannot resolve it by picking the good guys, because there are none. They decide what kind of world they actually want.
 
-**The thematic spine:** *Every civilization thinks it is living in the real world. There is no "real" world — only people afraid of losing their home. Can two civilizations share a reality that was never built to hold both of them?*
+**The design contract (load-bearing — do not violate):** *both the Empire's defenders and the rebels must stay right for the entire campaign.* The test for any secret/faction/reveal: *could a thoughtful, decent person, knowing the full truth, still choose to keep it running?* If the answer becomes "no," the story has collapsed into Evil Empire / Plucky Rebels — the cliché this premise exists to transcend. This is a **`moral-parallax`** build.
 
-**The campaign shape:** a chaptered saga (4–6 seasons, ~120–150 sessions of ≤3 hours) built as an **iceberg** — small, familiar troubles that slowly recontextualize into something older and vaster. The player-facing surface is deliberately *comfortable* high fantasy so the reveals land as awe, not exposition. The campaign's arc, in four beats:
+**The players** are a **mixed commission of inquiry / circuit court** in imperial service — a *job*, not an imposed identity: who each character is and whether they love or despise the Empire is player-authored. They personally dispense the Empire's justice (complicity built in), which makes each province a self-contained, table-ready case that also seeds the iceberg.
 
-> "We are exploring the ruins of the past." → "The past is happening somewhere else." → "The past is us." → "We have been trying to become whole by destroying ourselves." → "What if we choose to recognize ourselves instead?"
+**Authoring rule:** teach through *"something is weird,"* never an encyclopedia dump. Comfort/competence first (a world worth loving) → uncanny when the seam shows → grimdark spikes at the pressure points. The peace is real; the cost is real; everyone is grateful.
 
-**The familiar surface (player-facing):** a lush, ancient, deeply lived-in high-fantasy world — old-growth forests, river-cities, worn stone, an agrarian-scholarly culture obsessed with its own antiquity, its lineages, and the "ancient civilizations" it excavates and reveres. Mature high civilization at its height (the heartland), dotted with frontier/ruin pockets, and rimmed by scarce, walled-out "wastes" in the far north, far south, and dead islands. Magic is a bounded, respected craft — not infrastructure. Default tone is early-Elder-Scrolls / Zelda **wonder**, hardening to uncanny **mystery** when it matters, with **grimdark spikes** at the pressure points (so there is always something to lose).
+The canonical write-ups live in the vault — start there, they are the source of truth:
+- **`00 - Core/Concept/The Premise.md`** — full overview, vantage, design contract, build roadmap *(GM)*
+- **`00 - Core/Themes/Themes.md`** — the moral-parallax spine *(GM)*
+- **`11 - Secrets/GM Truth/The Cost.md`** — the core secret: why the Empire works *(GM · spoiler)*
 
-**The word "Avarra" (player-facing):** players hear the word constantly but no one can quite translate it — it surfaces as an archaic term on old inscriptions, a name scholars argue over, a root that recurs across the setting. It is *never explained to players as exposition*; its meaning is decoded by the table through pattern recognition over dozens of sessions. (What it actually means is GM-secret canon, below.)
-
-**Authoring rule (critical):** teach the world through *"something is weird,"* never through an encyclopedia dump. Questions first; answers much later. Every reveal should feel inevitable in retrospect, not arbitrary. The next major work is the campaign's **revelation architecture** (what players know at sessions 1–10, 20, 40, 60, 80, 100+, and the specific clues that earn each turn) — not more lore.
-
-<!-- ============================================================ -->
-<!-- GM SECRET — CORE CANON. Do NOT include in any player handout. -->
-<!-- ============================================================ -->
-
-## GM SECRET — the true cosmology
-
-**Spoiler wall.** Everything below is the hidden truth of the setting. It is `visibility: gm` canon. Never surface it to players directly; it is revealed only through the campaign's iceberg structure.
-
-There was one reality. It **fractured** — not from a fall from paradise, but because it could not reconcile **two incompatible ways of existing**. The two halves are not parallel universes and neither is the "original":
-
-- **Avera** (our familiar side; GM shorthand *"Green Reach"*): organic, growing, mutable, imperfect, warm, materially abundant. Its people are the **Averans**.
-- **Vara** (the "negative"; GM shorthand *"the Kiln"*): structured, geometric, crystalline, ordered, stable, thermally transformed — a world of glass, ash, and standing light. Street-for-street the *same* places, vitrified. Beautiful and alien, not hellish. Its people are the **Varans**.
-
-They are **two solutions to the same existential problem**. Same souls, alien clothes.
-
-- **The soul-pool never divided.** Souls belong to the underlying reality, not to either world, so the same souls recur on both sides — not as identical copies but as **diverged possibilities** (lovers on one side, enemies on the other; a child here, an elder there; sometimes no counterpart at all). These are *possibilities of the same reality.*
-- **The alignments are reality trying to remember it was one** — attempting to reunify. Because the halves have developed independently for millennia, reunification is catastrophic: matter can't decide which version to obey, geographies and bodies and histories try to occupy the same state, reality chooses neither, and **breaks**. The wreckage becomes an archaeological layer.
-- **The strata are the scars of failed reunifications.** The party believes they excavate a sequence of ancient *civilizations*; they eventually find the impossible — two civilizations in the *exact same chronological layer*, then another, then another — and realize the layers aren't `civ → civ → civ` but `world → world → world`. **The "ancients" aren't predecessors. They're previous collisions.** The players aren't digging up the past; they're digging up previous attempts to become whole.
-- **The Wardens** are not secret villains and get **no redemption arc** — they are the most morally uncomfortable people the party meets. They discovered that **recognition accelerates reunification**: if enough people recognize the other half is *alive*, reality starts trying to reconcile. So their doctrine is *forget* — and their great lie is a single verb tense: Vara must remain **"there was** another civilization," never **"there is."** They have made horrible choices for generations because they have never had another option, and every prior cycle proved them right. (Their fingerprint on the world: investigative magic — divination, speaking to the dead, scrying the deep past — is culturally taboo, because it's the fast path to recognition.)
-- **Why this cycle is different (the new factor):** for the first time in recorded history, **both halves become aware of each other simultaneously** — someone on the Varan side discovers the truth at the same time the party does. Every prior cycle ran *discover → collide → destroy → forget → diverge.* This one can run *discover → recognize → **communicate**.* Mutual awareness is the anomaly — it's why the cycle is accelerating and why the Wardens' calculations are failing. **Do not give the players a clean cycle number.** Let them believe it's predictable, then watch it collapse: "73 years" → "61" → "19" → "there isn't a cycle anymore."
-- **The real final question is not "can we stop the alignment?"** (that is the Wardens' failed thousand-year project). It is **"can reality become one without one half of itself dying?"** Every previous cycle failed because all parties shared the same false premise — that becoming whole means *choosing which half is real* (replacement). The players discover the third possibility: reality doesn't have to choose; Avera doesn't have to become Vara, nor Vara Avera — they can become **something neither has ever been.** This can manifest in the finale at the level of a single soul meeting its counterpart: the old cycle whispers *"absorb them and be whole"*; the new solution is *"you don't have to become me, and I don't have to become you."*
-- **The climax is relational, not martial.** Catastrophe rages — glass growing through forests, forests through glass, cities overlapping, both civilizations mobilizing — but the win condition is to **make the other side see that there is a person on the other side.** The Wardens preserved the world by making people *forget*; the party saves both worlds by making them *remember each other.* The solution is **created by the players, not excavated from a ruin.**
-
-**The name "Avarra" (the title is the thesis).** *Avarra* is the true name of the unified reality — canonically correct, but known to almost no one. Neither half thinks "we live in half of Avarra"; each has its own internal name for its world and each is certain *"we are the world."* That parity is load-bearing (see naming rule below). The word survived because **the fracture was imperfect**: each half's *everyday word for "the world"* is an unrecognized descendant of "Avarra" — Averan **"Avera"** (ah-VEH-rah, "the world / our home"; *Avarra* softened) and Varan **"Vara"** (VAH-rah, "the world / the place that contains us"; *Avarra* with the initial vowel dropped and the doubled consonant simplified). Critically, **both peoples treat their word as generic, not a proper noun** — ask an Averan why the world is called Avera and they'd say "why wouldn't it be?" The reveal is not "these two words are related" but "your word for *the world* was always a **name**." The three-tier descent *Avarra → Avera / Vara* is locked. Players decode this by **pattern recognition, not NPC exposition** — a flagship instance of the "something is weird" rule. The intended reveal ladder: *"Avarra was whole" → "When Avarra divided, we remained" → "We are Avarra."* At first the table reads "Avarra" as the name of the ancient people/empire; only later does it resolve into the name reality had when it was one thing. The title's three-stage meaning: setting name → historical/archaeological mystery → the name of the lost whole → the thing the players choose to become. The campaign moves from *"We are the world"* to *"We are Avarra — both."* **Target set-piece for first contact:** an NPC asks what the party calls their world; the party answers; the NPC pauses — *"That's what we call ours."*
-
-**Naming rule (satisfied).** Both civilizations' internal names plainly mean "the world" / "home" and **neither signals protagonist vs. antagonist** — both are just home, from the inside. Resolved: **Avera** (Averans, adj. Averan) and **Vara** (Varans, adj. Varan), sibling descendants of **Avarra** (Avarrans, adj. Avarran). The near-twin forms are deliberate — legible enough at the table that no one asks "which side?", yet close enough that *Averan* + *Varan* → *Avarran* is the phonetic payload of the reveal. "Green Reach" and "the Kiln" survive only as **GM design shorthand** for the organic-vs-vitreous contrast; they are never the peoples' names for themselves.
-
-**Ending correction (do not violate).** The goal is **not to restore old Avarra.** Pre-fracture unity was merely the state *before* the split, not an ideal — the players are not putting reality back the way it was. They create **the first Avarra that has learned to contain difference** — the first version that can hold both expressions without one dying. Everyone in the setting begins obsessed with the past (the guild wants to understand what came before; the Wardens want to preserve what has worked before; both halves treat their historical continuity as sacred), and the players' discovery refutes that obsession: **the answer isn't buried in the ruins — they are the first people who get to make history instead of excavating it.** The finale must never read as "put reality back together as it was."
-
-**Never explained (deliberate cosmic mystery):** *why* reality originally split, and *why* reality wants to be whole at all. The players get a complete answer to "what is happening?", a sufficient answer to "why has it been happening?", but never to "why does reality itself want to be one?" This is *origin* left unknowable — not the central conflict.
-
-<!-- ============================================================ -->
-<!-- END GM SECRET                                                -->
-<!-- ============================================================ -->
+> **GM-secret spoiler wall:** the truth of *why the Empire works* is a fused secret — a small ongoing sacrifice of people that *also* holds a returning catastrophe at bay, where no one alive can confirm the threat is still real. Never surface it as exposition; it is revealed only through the iceberg. Details in `The Cost` (`visibility: gm`).
 
 ## Vault structure & conventions
 
 The vault uses numbered top-level folders (`00 - Core` … `14 - Assets`, `99 - Archive`) on a four-layer model — **World** (what exists), **Campaign** (what happened), **Secrets** (what the GM knows), **Canon** (what is actually true). The full folder tree, front-matter schema, and `type` vocabulary live in **`00 - Core/Meta/Conventions.md`** — that file is the source of truth; consult it before creating notes. Per-kind templates are in `00 - Core/Meta/Templates/`.
-
-The locked canon is fleshed out in the vault: **`00 - Core/Cosmology/The Fracture.md`** (true cosmology), `00 - Core/Themes/Themes.md`, and `11 - Secrets/` (revelation architecture). This CLAUDE.md remains the operational quick-reference.
 
 **GM-secret / spoiler convention:** every note carries `visibility: gm | player` (the machine-filterable source of truth for player-safe export), and fully-secret material also lives under GM-only sections/folders (`11 - Secrets`, most of `00 - Core`, `12 - Campaigns`). Mixed notes stay `player` with a walled-off `## GM Notes` section. Public notes list the secrets they'd expose via `reveals: []`, keyed to each secret's `reveal_tag`. Set `visibility` on every note from birth.
 
@@ -73,28 +37,22 @@ Use the project-scoped **`/obsidian` (obsidian-vault) skill** for finding, creat
 
 - **Structured folders** by note kind (not a flat layout).
 - Every note starts with **YAML front-matter** — keep metadata keys consistent across notes of the same kind so search/discovery works.
-- **Title Case** filenames; connect notes with Obsidian `[[wikilinks]]`; use index / map-of-content notes to aggregate topics.
+- **Title Case** filenames; connect notes with Obsidian `[[wikilinks]]`; use index / map-of-content (MOC) notes to aggregate topics.
 
 ## Creative craft skills (worldbuilding & fiction)
 
 A suite of fiction/worldbuilding skills is installed (from `jwynia/agent-skills`). **Use them** — don't hand-wave a design task you have a purpose-built skill for. They form a linked system: **`story-sense` is the router** — when something feels broken, thin, or stuck, invoke it first to diagnose *which* problem this is, then it points to the specific skill. Don't guess; diagnose, then reach for the named tool.
 
-**Two Avarra-specific adaptations (important):**
-- **`shared-world`** — adopt its *philosophy* (canon-status tracking: Established / Proposed / Contradicted; a running conflicts log; "the bible grows with the story, stay lean"), but **ignore its file scaffolding and Deno scripts** — our vault (`00–14` folders, `visibility`/`note_status`/`reveals` front-matter, templates, MOCs in `00 - Core/Meta/`) is already a stronger, spoiler-aware world bible. Track canon status and contradictions *inside* our existing notes (e.g. `11 - Secrets/Contradictions`, `note_status`), not in a parallel `world-bible/` tree.
-- **`metabolic-cultures`** — built for closed-loop *space habitats*; Avarra has no space travel, so **do not use it by default.** Only reach for it metaphorically — its "matter as identity / who counts as one of us" axis could shade **Vara** (the sealed vitreous half) or a walled-off siege-enclave in the "wastes." Otherwise skip.
+**Two adaptations to note:**
+- **`shared-world`** — adopt its *philosophy* (canon-status tracking: Established / Proposed / Contradicted; a running conflicts log; "the bible grows with the story, stay lean"), but **ignore its file scaffolding and Deno scripts** — this vault (`00–14` folders, `visibility`/`note_status`/`reveals` front-matter, templates, MOCs in `00 - Core/Meta/`) is already a stronger, spoiler-aware world bible. Track canon status and contradictions *inside* the existing notes (e.g. `11 - Secrets/Contradictions`, `note_status`), not in a parallel `world-bible/` tree.
+- **`metabolic-cultures`** — built for closed-loop *space habitats*. Only reach for it if the setting has sealed/closed-system cultures; otherwise skip.
 
-**Skills that map unusually well onto Avarra's core thesis — prefer these when the work touches them:**
-- **`moral-parallax`** — the Wardens engine. Systems that export harm, complicity without clean villains, innocence made impossible, no tidy resolution. Use for the Wardens, the cost of the cycle, and any "who pays for our comfort" material.
-- **`memetic-depth`** — the mechanical recipe for the *"teach through 'something is weird,' never an encyclopedia dump"* rule. Its 40/40/20 recognizable/inferrable/inscrutable ratio is how the "Avarra" word and the strata reveals earn awe through pattern recognition. Use whenever a place/culture needs implied depth without exposition.
-- **`oblique-worldbuilding`** — in-world epigraphs/documents whose *blindness* does the work. Perfect for seeding reveals (and the Wardens' forget-doctrine) through documentary voices that can't afford to see the truth. Never explains; primes.
-- **`key-moments`** (Wonder + Mystery genres) — build the campaign's revelation architecture around emotional beats first. Directly serves the iceberg reveal ladder (sessions 1–10, 20, 40, …).
-- **`cliche-transcendence`** — enforces the "comfortable familiar surface, uncanny underneath" contract against default high-fantasy tropes. Run on any element that feels stock.
-- **`world-fates`** — meta-campaign wheel-of-fortune; keeps powers impermanent and consequences accumulating across a 120–150 session saga. Its "cycle accelerating / no clean cycle number" pressure fits Avarra's shrinking-timeline reveal. (Its Deno scripts need Deno; the framework is usable without them.)
-
-**The rest, by job:**
-- *World generators:* `systemic-worldbuilding` (trace consequences of any new element), `belief-systems`, `economic-systems`, `governance-systems`, `settlement-design` (cities/regions), `conlang` + `language-evolution` (the locked Avarra → Avera/Vara descent and any new tongues; keep them phonologically consistent and historically layered).
-- *Character & story:* `character-arc` (NPCs/historical figures with real inner journeys), `character-naming` (use its entropy approach — don't let default names cluster), `positional-revelation` (ordinary-job PCs who become structural pivots — fits the "not chosen ones" surface), `perspectival-constellation` (interlocking POVs, e.g. Averan + Varan counterparts), `underdog-unit` (David-vs-Goliath / institutional-outcast stories), `endings` (the finale — pair with the locked "don't restore old Avarra" ending correction).
-- *Texture & table voice:* `paradox-fables` (unresolved-wisdom teaching stories — good for in-world folklore around the fracture), `joke-engineering` (only for NPCs whose personality warrants it — used sparingly, with `dialogue`), `dialogue` (session/gameplay writing), `table-tone` (GM narration calibration — wonder → mystery → grimdark spikes).
+**By job:**
+- *Diagnosis & routing:* `story-sense` (invoke first when something feels off).
+- *World generators:* `systemic-worldbuilding` (trace consequences of any new element), `belief-systems`, `economic-systems`, `governance-systems`, `settlement-design` (cities/regions), `conlang` + `language-evolution` (keep tongues phonologically consistent and historically layered).
+- *Depth & texture:* `memetic-depth` (implied depth via the 40/40/20 recognizable/inferrable/inscrutable ratio — teach through "something is weird," not exposition), `oblique-worldbuilding` (in-world epigraphs/documents whose blindness seeds reveals), `cliche-transcendence` (fresh angles on stock tropes — familiar surface, uncanny underneath), `paradox-fables` (unresolved-wisdom folklore), `world-fates` (impermanent powers + accumulating consequences across a long campaign).
+- *Character & story:* `character-arc`, `character-naming` (use its entropy approach — don't let names cluster), `positional-revelation` (ordinary-job characters who become structural pivots), `perspectival-constellation` (interlocking POVs), `underdog-unit` (David-vs-Goliath / institutional-outcast), `moral-parallax` (harm-exporting systems, complicity without clean villains), `key-moments` (build around emotional beats — wonder, mystery, etc.), `endings` (stick the finale).
+- *Table voice:* `joke-engineering` (sparingly, with `dialogue`), `dialogue` (session/gameplay writing), `table-tone` (GM narration calibration).
 
 **Scripts caveat:** several skills ship Deno `.ts` helpers. They're optional — the frameworks work without running them, and Deno may not be installed. Prefer applying the method directly.
 

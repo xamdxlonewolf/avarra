@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [culture]
 aliases: []
-world: avera
+world:
 language: 
 homeland: 
 reveals: []

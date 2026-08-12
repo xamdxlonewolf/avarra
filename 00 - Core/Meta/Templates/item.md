@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [item]
 aliases: []
-world: avera
+world:
 category: 
 owner: 
 reveals: []

@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [myth, religion]
 aliases: []
-world: avera
+world:
 reveals: []
 created: 
 updated: 

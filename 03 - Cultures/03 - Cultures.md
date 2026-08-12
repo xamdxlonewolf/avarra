@@ -15,8 +15,16 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- [[Names & Descent]] — the world/people naming scheme (Avarra → Avera / Vara) and its pronunciation, demonyms, and reveal
+
+### Peoples
+The conquered and constituent peoples of the Empire — one per ring of [[The Shape of the Empire]], each a distinct relationship to imperial rule.
+
+- [[The Vaurin]] — the heartland majority who have forgotten they are a people at all; the invisible default. ([[The Aurenne]], core)
+- [[The Haldar]] — the long-integrated hill-clans who are *genuinely content*; the conquest is now a schoolroom date. ([[The Halden]], settled province)
+- [[The Kessadi]] — the recently-pacified delta civilization with a real grievance; proud, prosperous, and unreconciled. ([[Kessad]], recently-pacified)
+- [[The Tallun]] — the cold-edge marchfolk bound by duty, not grievance or comfort; the linekeepers. ([[The Outmark]], frontier)
 
 ## Related
-- [[The Meaning of Avarra]] (GM · `11 - Secrets`)
-- [[The Fracture]] (GM · `00 - Core`)
+- [[The Shape of the Empire]] — the imperial rings these peoples inhabit
+- [[The Premise]] · [[Themes]]
+- [[04 - Settlements]] · [[05 - Factions]]

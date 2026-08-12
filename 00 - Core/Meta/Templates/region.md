@@ -6,7 +6,7 @@ note_status: stub
 status: 
 tags: [region, geography]
 aliases: []
-world: avera
+world:
 reveals: []
 created: 
 updated: 

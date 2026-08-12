@@ -6,7 +6,7 @@ note_status: stub
 status: active          # active | ruined | buried | sealed
 tags: [site]
 aliases: []
-world: avera
+world:
 region: 
 stratum:                # archaeological layer, if excavated (GM significance)
 reveals: []

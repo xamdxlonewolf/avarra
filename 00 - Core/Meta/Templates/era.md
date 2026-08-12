@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [era, history]
 aliases: []
-world: avera
+world:
 spans: 
 preceded_by: 
 followed_by: 

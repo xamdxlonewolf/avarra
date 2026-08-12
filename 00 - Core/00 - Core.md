@@ -15,7 +15,9 @@ The spine of the vault. **Canon** = what is actually true. **Cosmology** = how r
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- 
+- **Concept** — [[The Premise]] (the setting overview + design contract) · [[Build Plan]] (handoff brief + roadmap) *(GM)*
+- **Themes** — [[Themes]] (the moral-parallax spine) *(GM)*
+- **Meta** — [[Vault Conventions]]
 
 ## Related
-- 
+- [[The Cost]] — the core secret (GM · `11 - Secrets`)

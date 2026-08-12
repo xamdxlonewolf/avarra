@@ -5,9 +5,9 @@ visibility: player
 note_status: stub
 tags: [magic]
 aliases: []
-world: avera
+world:
 category: 
-taboo: false            # true if culturally forbidden (Warden fingerprint)
+taboo: false            # true if culturally forbidden
 reveals: []
 created: 
 updated: 
