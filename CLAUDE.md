@@ -75,6 +75,29 @@ Use the project-scoped **`/obsidian` (obsidian-vault) skill** for finding, creat
 - Every note starts with **YAML front-matter** — keep metadata keys consistent across notes of the same kind so search/discovery works.
 - **Title Case** filenames; connect notes with Obsidian `[[wikilinks]]`; use index / map-of-content notes to aggregate topics.
 
+## Creative craft skills (worldbuilding & fiction)
+
+A suite of fiction/worldbuilding skills is installed (from `jwynia/agent-skills`). **Use them** — don't hand-wave a design task you have a purpose-built skill for. They form a linked system: **`story-sense` is the router** — when something feels broken, thin, or stuck, invoke it first to diagnose *which* problem this is, then it points to the specific skill. Don't guess; diagnose, then reach for the named tool.
+
+**Two Avarra-specific adaptations (important):**
+- **`shared-world`** — adopt its *philosophy* (canon-status tracking: Established / Proposed / Contradicted; a running conflicts log; "the bible grows with the story, stay lean"), but **ignore its file scaffolding and Deno scripts** — our vault (`00–14` folders, `visibility`/`note_status`/`reveals` front-matter, templates, MOCs in `00 - Core/Meta/`) is already a stronger, spoiler-aware world bible. Track canon status and contradictions *inside* our existing notes (e.g. `11 - Secrets/Contradictions`, `note_status`), not in a parallel `world-bible/` tree.
+- **`metabolic-cultures`** — built for closed-loop *space habitats*; Avarra has no space travel, so **do not use it by default.** Only reach for it metaphorically — its "matter as identity / who counts as one of us" axis could shade **Vara** (the sealed vitreous half) or a walled-off siege-enclave in the "wastes." Otherwise skip.
+
+**Skills that map unusually well onto Avarra's core thesis — prefer these when the work touches them:**
+- **`moral-parallax`** — the Wardens engine. Systems that export harm, complicity without clean villains, innocence made impossible, no tidy resolution. Use for the Wardens, the cost of the cycle, and any "who pays for our comfort" material.
+- **`memetic-depth`** — the mechanical recipe for the *"teach through 'something is weird,' never an encyclopedia dump"* rule. Its 40/40/20 recognizable/inferrable/inscrutable ratio is how the "Avarra" word and the strata reveals earn awe through pattern recognition. Use whenever a place/culture needs implied depth without exposition.
+- **`oblique-worldbuilding`** — in-world epigraphs/documents whose *blindness* does the work. Perfect for seeding reveals (and the Wardens' forget-doctrine) through documentary voices that can't afford to see the truth. Never explains; primes.
+- **`key-moments`** (Wonder + Mystery genres) — build the campaign's revelation architecture around emotional beats first. Directly serves the iceberg reveal ladder (sessions 1–10, 20, 40, …).
+- **`cliche-transcendence`** — enforces the "comfortable familiar surface, uncanny underneath" contract against default high-fantasy tropes. Run on any element that feels stock.
+- **`world-fates`** — meta-campaign wheel-of-fortune; keeps powers impermanent and consequences accumulating across a 120–150 session saga. Its "cycle accelerating / no clean cycle number" pressure fits Avarra's shrinking-timeline reveal. (Its Deno scripts need Deno; the framework is usable without them.)
+
+**The rest, by job:**
+- *World generators:* `systemic-worldbuilding` (trace consequences of any new element), `belief-systems`, `economic-systems`, `governance-systems`, `settlement-design` (cities/regions), `conlang` + `language-evolution` (the locked Avarra → Avera/Vara descent and any new tongues; keep them phonologically consistent and historically layered).
+- *Character & story:* `character-arc` (NPCs/historical figures with real inner journeys), `character-naming` (use its entropy approach — don't let default names cluster), `positional-revelation` (ordinary-job PCs who become structural pivots — fits the "not chosen ones" surface), `perspectival-constellation` (interlocking POVs, e.g. Averan + Varan counterparts), `underdog-unit` (David-vs-Goliath / institutional-outcast stories), `endings` (the finale — pair with the locked "don't restore old Avarra" ending correction).
+- *Texture & table voice:* `paradox-fables` (unresolved-wisdom teaching stories — good for in-world folklore around the fracture), `joke-engineering` (only for NPCs whose personality warrants it — used sparingly, with `dialogue`), `dialogue` (session/gameplay writing), `table-tone` (GM narration calibration — wonder → mystery → grimdark spikes).
+
+**Scripts caveat:** several skills ship Deno `.ts` helpers. They're optional — the frameworks work without running them, and Deno may not be installed. Prefer applying the method directly.
+
 ## Daggerheart SRD reference
 
 Read the online SRD when rules or system details are needed:

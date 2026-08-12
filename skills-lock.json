@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "skills": {
+    "belief-systems": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/belief-systems/SKILL.md",
+      "computedHash": "9430a34e543468e565e30208a67e69edc46957e7cfd058329d16161796bd73a1"
+    },
+    "character-arc": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/character/character-arc/SKILL.md",
+      "computedHash": "8097c033149c3c25734c971bfd3445d8a84f7b47fc532d9ef8e907d22eae4018"
+    },
+    "character-naming": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/character/character-naming/SKILL.md",
+      "computedHash": "c2bc7263596fc6283181cbe6908ce232644cdbf91fe484eb7982d830a79682ef"
+    },
+    "cliche-transcendence": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/craft/cliche-transcendence/SKILL.md",
+      "computedHash": "e48db6e7139fb0fab0cbbf0dddf2d132d10ed5ef6136583e5bb61f83110f5867"
+    },
+    "conlang": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/conlang/SKILL.md",
+      "computedHash": "e147ec8799a60066073c21567bd2724b633123dad4c772a4a9276d24b1f943d4"
+    },
+    "dialogue": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/character/dialogue/SKILL.md",
+      "computedHash": "6f9437f052ccc51157b4f0e210b2ce755ed472179946c9eea1af8e070d36d8b0"
+    },
+    "economic-systems": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/economic-systems/SKILL.md",
+      "computedHash": "60c0bc5184963317694572ff9cdb10a02c368d90ec169b9102e492cdd462bada"
+    },
+    "endings": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/structure/endings/SKILL.md",
+      "computedHash": "83c5bfd747b390aec8312f66d9f61fd2cd2fb4921976272c9ac8d515832a6441"
+    },
+    "governance-systems": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/governance-systems/SKILL.md",
+      "computedHash": "6ec8c47479446884196d521bcb08cac278a71c3ebcc877acfb9ee38bf00c3d9c"
+    },
+    "joke-engineering": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/humor/joke-engineering/SKILL.md",
+      "computedHash": "e09ec32320b952d988338510d8d3c4252eeecf97bc9323e21b28976643fe6556"
+    },
+    "key-moments": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/structure/key-moments/SKILL.md",
+      "computedHash": "2d41baad991b119edea19f7bdcf7d4fab29889e8faa19c3dc5dd7f2092a49be0"
+    },
+    "language-evolution": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/language-evolution/SKILL.md",
+      "computedHash": "73f8f5b9c26693ea1298ad56f2a691d35eaf27534d327c64d83c5035e306fbee"
+    },
+    "memetic-depth": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/character/memetic-depth/SKILL.md",
+      "computedHash": "ecb8fe5d6123af241302868117417007108fe6e72b7c0e4765d7cdfec8a2a387"
+    },
+    "metabolic-cultures": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/metabolic-cultures/SKILL.md",
+      "computedHash": "96031ce6c277e9e40021f22093674f54317409eb7a85f717f9752955a64ce92e"
+    },
+    "moral-parallax": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/structure/moral-parallax/SKILL.md",
+      "computedHash": "ab2fb5ca0a780136af82c227dfd756c148e4cc9d3b64e9099efe5e8cc6a57fa2"
+    },
+    "oblique-worldbuilding": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/oblique-worldbuilding/SKILL.md",
+      "computedHash": "4c406e78027ced3726a9cabc67d882d479229d6207a18138fa1afcd45bf2b434"
+    },
+    "paradox-fables": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/application/paradox-fables/SKILL.md",
+      "computedHash": "164050f2e13915b7919efd8d7d589e26a3dbe9e3839afa4ddcf55d28d799d2f8"
+    },
+    "perspectival-constellation": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/structure/perspectival-constellation/SKILL.md",
+      "computedHash": "b4b1572344847164f708e9b5ddc7b14907b21da5f595a8ebed03dea3dbeb3ed9"
+    },
+    "positional-revelation": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/structure/positional-revelation/SKILL.md",
+      "computedHash": "7f97b177e160ad38e31e58e6287e268278282d85016c43be4f7045cee12a01aa"
+    },
+    "settlement-design": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/settlement-design/SKILL.md",
+      "computedHash": "5217b7ad28c001a72060644e9bc2862594f872981b6b8f22f49fd983787ba466"
+    },
+    "shared-world": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/application/shared-world/SKILL.md",
+      "computedHash": "1132fb742d8a03e7c558ee9b47f715802fa9464b997334edf401d79c68872a76"
+    },
+    "story-sense": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/core/story-sense/SKILL.md",
+      "computedHash": "2d115a45213cf092fd892a44377d1cc6a27a8b38a31d7763964496da0f573cf8"
+    },
+    "systemic-worldbuilding": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/systemic-worldbuilding/SKILL.md",
+      "computedHash": "8890e13dd5916e2060342f219eab0c2b0f000013289823196a02c583e5872d50"
+    },
+    "table-tone": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/application/table-tone/SKILL.md",
+      "computedHash": "7ca2917a70ff9bb31177ad4af618b25e64ab43c9cc9437bf542cbcbdf4aa5b51"
+    },
+    "underdog-unit": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/character/underdog-unit/SKILL.md",
+      "computedHash": "315be4ea10aabd2fe0a1cac6f6a6cb72533b7448a4fb5d5f6a9b115eae9238fc"
+    },
+    "world-fates": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/world-fates/SKILL.md",
+      "computedHash": "83e3ade98d9c2ee2ee0d092231b2ac44843a8ef8d5abab6d370f061b5d48f2e8"
+    },
+    "worldbuilding": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/worldbuilding/worldbuilding/SKILL.md",
+      "computedHash": "c45bdee91831263b7020d3a52523b8f024394747bf857d406ade56525cc303eb"
+    }
+  }
+}
