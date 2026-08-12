@@ -1,5 +1,5 @@
 ---
-title: 00 – Core
+title: 00 - Core
 type: moc
 visibility: gm
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 00 – Core
+# 00 - Core
 
 The spine of the vault. **Canon** = what is actually true. **Cosmology** = how reality works. **Themes** = what the setting explores. **Meta** = how the vault is organized. Much of Core is `visibility: gm`.
 

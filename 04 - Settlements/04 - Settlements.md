@@ -1,5 +1,5 @@
 ---
-title: 04 – Settlements
+title: 04 - Settlements
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 04 – Settlements
+# 04 - Settlements
 
 Places people live and places they dig — continents, regions, cities, towns, villages, and sites.
 

@@ -1,5 +1,5 @@
 ---
-title: 09 – Creatures
+title: 09 - Creatures
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 09 – Creatures
+# 09 - Creatures
 
 Beasts, monsters, spirits, constructs, and unique creatures.
 

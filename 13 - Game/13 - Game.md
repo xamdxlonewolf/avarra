@@ -1,5 +1,5 @@
 ---
-title: 13 – Game
+title: 13 - Game
 type: moc
 visibility: gm
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 13 – Game
+# 13 - Game
 
 System-facing material — rules, mechanics, encounters, tables, and Daggerheart SRD reference.
 

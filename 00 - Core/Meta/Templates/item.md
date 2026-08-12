@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [item]
 aliases: []
-world: green-reach
+world: avera
 category: 
 owner: 
 reveals: []

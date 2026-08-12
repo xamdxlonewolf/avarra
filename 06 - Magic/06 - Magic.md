@@ -1,5 +1,5 @@
 ---
-title: 06 – Magic
+title: 06 - Magic
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 06 – Magic
+# 06 - Magic
 
 Magic as a bounded, respected craft — systems, traditions, schools, practices, artifacts, phenomena. (Some practices are quietly taboo.)
 

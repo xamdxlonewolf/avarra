@@ -1,5 +1,5 @@
 ---
-title: 11 – Secrets
+title: 11 - Secrets
 type: moc
 visibility: gm
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 11 – Secrets
+# 11 - Secrets
 
 **GM ONLY.** The revelation architecture: mysteries, revelations, clues, contradictions, and GM truth. Each secret carries a `reveal_tag`; player-facing notes list what they expose via `reveals: []`.
 

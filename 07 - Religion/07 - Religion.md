@@ -1,5 +1,5 @@
 ---
-title: 07 – Religion
+title: 07 - Religion
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 07 – Religion
+# 07 - Religion
 
 Deities, faiths, mythology, rituals, and religious history.
 

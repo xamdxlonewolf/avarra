@@ -1,5 +1,5 @@
 ---
-title: 10 – Items
+title: 10 - Items
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 10 – Items
+# 10 - Items
 
 Weapons, armor, equipment, artifacts, and materials. Canonical home for items (Magic links here, does not duplicate).
 

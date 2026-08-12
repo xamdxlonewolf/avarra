@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [event, history]
 aliases: []
-world: green-reach
+world: avera
 era: 
 date_in_world: 
 reveals: []

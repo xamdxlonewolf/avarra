@@ -1,5 +1,5 @@
 ---
-title: 14 – Assets
+title: 14 - Assets
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 14 – Assets
+# 14 - Assets
 
 Maps, images, handouts, documents, and references.
 

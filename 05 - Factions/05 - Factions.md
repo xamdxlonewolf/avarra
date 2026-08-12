@@ -1,5 +1,5 @@
 ---
-title: 05 – Factions
+title: 05 - Factions
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 05 – Factions
+# 05 - Factions
 
 Governments, organizations, guilds, religious orders, militaries, and criminal powers.
 

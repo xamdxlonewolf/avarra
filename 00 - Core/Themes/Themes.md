@@ -42,6 +42,7 @@ Default **wonder** (early-Elder-Scrolls / Zelda) → **uncanny mystery** when it
 Teach through *"something is weird,"* never an encyclopedia dump. Questions first; answers much later. Every reveal should feel inevitable in retrospect, not arbitrary.
 
 ## Links
-- [[The Fracture]]
-- [[00 – Core]]
-- [[11 – Secrets]]
+- [[The Fracture]] — the true cosmology these themes serve
+- [[The Meaning of Avarra]] — the title-as-thesis reveal
+- [[Names & Descent]] — the naming that carries the reveal
+- [[11 - Secrets]] — the revelation architecture (section)

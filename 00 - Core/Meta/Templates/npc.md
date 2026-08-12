@@ -6,7 +6,7 @@ note_status: stub
 status: alive          # alive | dead | missing | unknown
 tags: [npc]
 aliases: []
-world: green-reach     # avarra | green-reach | kiln
+world: avera           # avarra | avera | vara
 culture: 
 faction: 
 location: 

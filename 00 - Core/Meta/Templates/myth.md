@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [myth, religion]
 aliases: []
-world: green-reach
+world: avera
 reveals: []
 created: 
 updated: 

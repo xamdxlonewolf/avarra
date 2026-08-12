@@ -11,7 +11,7 @@ player:
 class: 
 ancestry: 
 community: 
-counterpart:            # their Kiln-side soul-mirror (GM)
+counterpart:            # their Varan-side soul-mirror (GM)
 created: 
 updated: 
 ---

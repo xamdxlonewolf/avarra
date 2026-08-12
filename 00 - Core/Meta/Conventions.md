@@ -16,9 +16,9 @@ How the Avarra vault is organized and how every note is tagged. This is the cont
 ## The four-layer model
 
 - **World = what exists.** The persistent setting (sections 01–10). The source of truth.
-- **Campaign = what happened.** What the players did to the world (12 – Campaigns), kept separate so player actions never force a rewrite of the setting.
-- **Secrets = what the GM knows.** The revelation architecture (11 – Secrets) + GM sections of otherwise-public notes.
-- **Canon = what is actually true.** The settled truth (00 – Core/Canon, Cosmology), regardless of what any in-world source believes.
+- **Campaign = what happened.** What the players did to the world (12 - Campaigns), kept separate so player actions never force a rewrite of the setting.
+- **Secrets = what the GM knows.** The revelation architecture (11 - Secrets) + GM sections of otherwise-public notes.
+- **Canon = what is actually true.** The settled truth (00 - Core/Canon, Cosmology), regardless of what any in-world source believes.
 
 ## Folder tree
 
@@ -69,8 +69,8 @@ updated:      # YYYY-MM-DD
 ### Common optional keys
 ```yaml
 status:       # IN-WORLD state (alive | dead | ruined | active | forgotten | ...)
-world:        # avarra | green-reach | kiln   — which half a thing belongs to
-reveals: []   # secret reveal_tags this note exposes, e.g. [kiln-is-alive, avarra-meaning]
+world:        # avarra | avera | vara   — which half a thing belongs to
+reveals: []   # secret reveal_tags this note exposes, e.g. [vara-is-alive, avarra-is-whole]
 ```
 
 > **`note_status` vs `status`:** `note_status` = editorial completeness of the file. `status` = the thing's state inside the fiction. They never overlap.
@@ -102,11 +102,12 @@ Templates for the common kinds live in `00 - Core/Meta/Templates/`.
 - Connect notes with `[[wikilinks]]`; link inline and/or in a `## Links` section.
 - Use MOC / index notes to aggregate topics; find backlinks by searching `[[Note Title]]`.
 
-## Working names (pending naming pass)
+## Names (resolved 2026-08-11)
 
-*Green Reach*, *the Kiln*, and *the Wardens* are placeholders. The `world:` values `green-reach` / `kiln` are stable machine keys even after display names change.
+The two worlds are **Avera** (organic, player-facing) and **Vara** (crystalline); the lost whole is **Avarra**. `world:` values are **`avera` | `vara` | `avarra`**. *Green Reach* / *the Kiln* are retired to GM design shorthand for the organic-vs-vitreous aesthetic; *the Wardens* is kept. Full scheme: [[Names & Descent]].
 
 ## Related
-- [[00 – Core]]
-- [[Cosmology]] (see `00 - Core/Cosmology`)
-- [[11 – Secrets]]
+- [[The Fracture]] — the true cosmology (in `00 - Core/Cosmology`)
+- [[Names & Descent]] — the naming scheme
+- [[The Meaning of Avarra]] — the flagship reveal
+- [[00 - Core]] — section index

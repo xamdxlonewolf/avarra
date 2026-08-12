@@ -6,7 +6,7 @@ note_status: stub
 status: active          # active | ruined | abandoned | contested
 tags: [settlement]
 aliases: []
-world: green-reach
+world: avera
 region: 
 population: 
 reveals: []

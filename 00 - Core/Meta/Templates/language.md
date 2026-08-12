@@ -5,7 +5,7 @@ visibility: player
 note_status: stub
 tags: [language]
 aliases: []
-world: green-reach
+world: avera
 speakers: 
 descends_from:          # parent language / root (GM: Avarra roots)
 reveals: []

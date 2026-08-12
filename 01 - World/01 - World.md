@@ -1,5 +1,5 @@
 ---
-title: 01 – World
+title: 01 - World
 type: moc
 visibility: player
 note_status: stub
@@ -9,7 +9,7 @@ created: 2026-08-11
 updated: 2026-08-11
 ---
 
-# 01 – World
+# 01 - World
 
 The physical setting as its inhabitants understand it — geography, climate, ecology, sky, planes, and strange phenomena.
 

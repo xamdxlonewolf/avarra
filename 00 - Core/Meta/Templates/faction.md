@@ -6,7 +6,7 @@ note_status: stub
 status: active          # active | defunct | hidden
 tags: [faction]
 aliases: []
-world: green-reach
+world: avera
 category:               # government | organization | guild | religious-order | military | criminal
 seat:                   # headquarters / seat of power
 public_face:            # what outsiders believe it is
