@@ -12,6 +12,8 @@ updated: 2026-08-12
 # Build Plan
 
 > **Handoff entry point.** If you are a fresh agent picking up this world, start here. This is the *how* and *what-order*; the *what* lives in the notes below.
+>
+> **STATUS (2026-08-12):** Setting locked ("The Empire That Wasn't Evil"). **Task 1 — the entire playable surface — is COMPLETE** (geography, peoples, the players' court, the rebellion; see inventory below). Committed to git (`576f855` on `master`). **Next up = Task 2 (the secret's selection mechanism)** or a **naming pass** — user's choice, not yet started. Nothing is mid-flight; you are picking up between phases.
 
 ## Read first (the source of truth, in order)
 
@@ -30,21 +32,20 @@ updated: 2026-08-12
 - **Surface major forks for the user; don't lock them unilaterally.** Produce concrete options (as we did with the session-1 sketch), let the user's taste decide. This world is built to *their* feel.
 - **Set `visibility` on every note from birth.** Player-facing world notes are `player` with any secret in a walled `## GM Notes`; anything touching [[The Cost]] is `gm`.
 
-## Task 1 — the playable surface (this build)
+## Task 1 — the playable surface (COMPLETE ✅)
 
-Tracked in the task list (IDs 1a–1d). Sequencing (dependencies enforced in the tracker):
+Built and committed. The world players *touch* now exists end to end. Inventory (all `note_status: draft` unless noted; read these to get current):
 
-```
-1a  Imperial geography & map        ← FOUNDATION, unblocked, start here
-      ├── 1b  Conquered peoples       (needs 1a)
-      │        └── 1c  The rebellion  (needs 1a + 1b)
-      └── 1d  The commission of inquiry (needs 1a)   ← the PC-facing engine
-```
+- **1a — Geography & map** ✅
+  - `01 - World/Geography/Climate & Terrain.md` — physical geography; why the Empire can feed & move itself.
+  - `04 - Settlements/Continents/The Shape of the Empire.md` — the administrative spine: **three rings** (Core / Provinces / Marches, by distance from the network) and **three separated powers** (Governors hold · Circuits judge · the Rolls count). The design hub for the Empire's competence.
+  - `04 - Settlements/Regions/` — **The Aurenne** (content core/capital), **The Halden** (long-integrated, happy), **Kessad** (recently-pacified, aggrieved), **The Outmark** (eerie frontier).
+- **1b — Peoples** ✅ (`03 - Cultures/Peoples/`) — one per ring, one per stance toward the Empire:
+  - **The Vaurin** (heartland majority who mistake themselves for neutrality), **The Haldar** (genuinely content), **The Kessadi** (real grievance; the rebellion's soil), **The Tallun** (dutiful frontier; their watch-religion is a late-game Cost seed).
+- **1d — The Assize** ✅ (`05 - Factions/Governments/The Assize.md`, `note_status: fleshed`) — the players' circuit court and the week-to-week engine: can/cannot authority, the open-petition door, five party-mappable seats, riding season, per-province arc recipe. Session-zero ready.
+- **1c — The rebellion (the Sworn)** ✅ (`05 - Factions/Movements/The Sworn.md` + figures in `08 - People/`: Nemara Ishekar, Davan Kesharan, Marsu of the Low Wharfs) — an uneasy three-wing alliance; the players' *own fair verdicts* recruit for it.
 
-- **1a — Geography & map.** Imperial core / frontier / recently-pacified provinces; how it's administered; where the circuit rides; geography that makes "roads work, famines rare, trade protected" plausible. → `04 - Settlements` (+ maybe `01 - World`). Skills: `settlement-design`, `systemic-worldbuilding`, `memetic-depth`, `cliche-transcendence`.
-- **1b — Conquered peoples.** 2–4 distinct cultures with real texture; ≥1 recently-pacified (grievance), ≥1 long-integrated (content). The human ground the rebellion grows from. Skills: `memetic-depth`, `belief-systems`, `cliche-transcendence`, `character-naming`.
-- **1c — The rebellion.** Who, what they know/suspect, why *now*, methods, internal factions. **Must stay sympathetic.** Skills: `moral-parallax` (primary), `governance-systems`, `character-arc`.
-- **1d — The commission of inquiry.** The PCs' institution: remit, authority & limits, ranks, how it travels and staffs itself (the "job not identity" frame). The week-to-week engine — prioritize table usability. Skills: `governance-systems`, `positional-revelation`, `underdog-unit`.
+> The three iceberg seeds planted across 1a–1c, all deniable, none confirming anything: the **"reconciled" ledger / "reconciling the rolls"** euphemism; the **Outmark's** unbroken silence (the "dam" half of [[The Cost]]); the **Zero Stone / impossible milestone counts** (land older than the Empire).
 
 ## Decided already (don't re-litigate)
 
@@ -66,9 +67,16 @@ Tracked in the task list (IDs 1a–1d). Sequencing (dependencies enforced in the
 - **1c — Leadership = coalition with a figurehead (Nemara) but no true head;** compartmented cells; she can't command the violence her legitimacy shelters.
 - **1c — Violence at campaign start = mostly civil + sabotage, insurgent wing straining at the leash** (grows toward violence as the window closes). This is the campaign-temperature dial; may be re-tuned when early sessions are designed.
 
-## Later (not this build)
+## Next up (not yet started — user picks the order)
 
-Task 2 — the secret's **selection mechanism** (the `moral-parallax` centerpiece; where defensible-vs-monstrous is won). Then: revelation architecture, magic & Daggerheart fit, session/arc structure.
+The user's two candidate next moves, either is a clean start:
+
+1. **Task 2 — the secret's selection mechanism.** THE centerpiece. Now that the world exists, design *who* pays the cost in [[The Cost]] and *how they are chosen* — the single decision that determines whether the Empire stays defensible (the design contract lives or dies here). Keep victims few, benefit vast, threat genuinely uncertain, selection not-obviously-unjust. Primary skill: `moral-parallax`. This is where the fringe "ledger doesn't balance" crank (see The Sworn) and the frontier silence eventually point.
+2. **Naming pass.** Lock all provisional names now that the cultures/peoples behind them exist. Use `conlang` / `language-evolution` for phonological consistency and `character-naming`'s entropy approach so names don't cluster. Everything currently named is a working label (see the "Names are provisional" note above).
+
+**Then, later:** revelation architecture (the clue/reveal timeline by session milestone — `key-moments` + `oblique-worldbuilding` + `memetic-depth`); magic & Daggerheart fit in an orderly world; session/arc structure (the case-of-the-arc engine).
+
+> **How this build was run (repeat it):** each subtask went to a fresh-context background subagent, briefed to read this Build Plan + the premise notes cold, stay lean, use the named skills, and **surface high-impact forks rather than lock them.** The user made the taste calls; decisions were logged above. This pattern worked well — reuse it for Task 2 (though the secret is sensitive enough you may want to design it in the main thread with the user rather than fan out).
 
 ## Links
 - [[The Premise]] · [[Themes]] · [[The Cost]] · [[00 - Core]]
