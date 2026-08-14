@@ -10,20 +10,9 @@ The tabletop system is **Daggerheart**.
 
 ## What the setting is
 
-> **"The Empire That Wasn't Evil."** An enormous, centuries-old empire that is *genuinely good at governing* — safe roads, fair courts, low crime, protected trade, preserved cultures, no slavery, a citizenry that genuinely likes it. And yet there is a rebellion whose members are *not obviously wrong.* The campaign is the slow discovery of **why anyone would destroy a government that works** — and the players cannot resolve it by picking the good guys, because there are none. They decide what kind of world they actually want.
+> **No setting is currently defined.** The vault was reset to its bare framework on 2026-08-14 — the previous setting ("The Empire That Wasn't Evil," and its after-world pivot) was scrapped and lives only in git history. The folder structure, conventions, templates, and craft-skill suite are intact and ready for a fresh setting.
 
-**The design contract (load-bearing — do not violate):** *both the Empire's defenders and the rebels must stay right for the entire campaign.* The test for any secret/faction/reveal: *could a thoughtful, decent person, knowing the full truth, still choose to keep it running?* If the answer becomes "no," the story has collapsed into Evil Empire / Plucky Rebels — the cliché this premise exists to transcend. This is a **`moral-parallax`** build.
-
-**The players** are a **mixed commission of inquiry / circuit court** in imperial service — a *job*, not an imposed identity: who each character is and whether they love or despise the Empire is player-authored. They personally dispense the Empire's justice (complicity built in), which makes each province a self-contained, table-ready case that also seeds the iceberg.
-
-**Authoring rule:** teach through *"something is weird,"* never an encyclopedia dump. Comfort/competence first (a world worth loving) → uncanny when the seam shows → grimdark spikes at the pressure points. The peace is real; the cost is real; everyone is grateful.
-
-The canonical write-ups live in the vault — start there, they are the source of truth:
-- **`00 - Core/Concept/The Premise.md`** — full overview, vantage, design contract, build roadmap *(GM)*
-- **`00 - Core/Themes/Themes.md`** — the moral-parallax spine *(GM)*
-- **`11 - Secrets/GM Truth/The Cost.md`** — the core secret: why the Empire works *(GM · spoiler)*
-
-> **GM-secret spoiler wall:** the truth of *why the Empire works* is a fused secret — a small ongoing sacrifice of people that *also* holds a returning catastrophe at bay, where no one alive can confirm the threat is still real. Never surface it as exposition; it is revealed only through the iceberg. Details in `The Cost` (`visibility: gm`).
+When a new setting is established, record its canonical write-ups in the vault (the source of truth) and summarize the essentials here — the premise, the design spine/contract, the players' vantage, the authoring rule, and pointers to the key notes (typically under `00 - Core/Concept`, `00 - Core/Themes`, and any GM secret under `11 - Secrets`).
 
 ## Vault structure & conventions
 

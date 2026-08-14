@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-14
 ---
 
 # 00 - Core
@@ -15,9 +15,8 @@ The spine of the vault. **Canon** = what is actually true. **Cosmology** = how r
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- **Concept** — [[The Premise]] (the setting overview + design contract) · [[Build Plan]] (handoff brief + roadmap) *(GM)*
-- **Themes** — [[Themes]] (the moral-parallax spine) *(GM)*
-- **Meta** — [[Vault Conventions]]
+- **Meta** — [[Conventions]] (vault schema, folder tree, front-matter, `type` vocab) · Templates in `00 - Core/Meta/Templates/`
+- *(Concept, Themes, Cosmology, Canon: empty — awaiting a new setting.)*
 
 ## Related
-- [[The Cost]] — the core secret (GM · `11 - Secrets`)
+- 
