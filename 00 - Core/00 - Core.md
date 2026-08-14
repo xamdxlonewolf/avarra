@@ -15,8 +15,9 @@ The spine of the vault. **Canon** = what is actually true. **Cosmology** = how r
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
+- **Concept** — [[The Premise]] (the integrated-"monsters" two-layer world) · [[Build Plan]] (status + next task) *(GM)*
 - **Meta** — [[Conventions]] (vault schema, folder tree, front-matter, `type` vocab) · Templates in `00 - Core/Meta/Templates/`
-- *(Concept, Themes, Cosmology, Canon: empty — awaiting a new setting.)*
+- *(Themes, Cosmology, Canon: empty so far.)*
 
 ## Related
-- 
+- [[03 - Cultures]] — the Kinds (ancestries) and, later, the Conditions
