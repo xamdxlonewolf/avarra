@@ -34,7 +34,7 @@ Top-level folders use **numeric prefixes** to force reading order in the sidebar
 06 - Magic        Systems · Traditions · Schools · Practices · Artifacts · Phenomena
 07 - Religion     Deities · Faiths · Mythology · Rituals · Religious History
 08 - People       NPCs · Historical Figures · Leaders · Heroes · Villains
-09 - Creatures    Beasts · Monsters · Spirits · Constructs · Unique
+09 - Creatures    Beasts · Monsters · Spirits · Constructs · Unique · Conditions
 10 - Items        Weapons · Armor · Equipment · Artifacts · Materials
 11 - Secrets      Mysteries · Revelations · Clues · Contradictions · GM Truth   (GM ONLY)
 12 - Campaigns    <Campaign>/ Arcs · Chapters · Sessions · Player Characters · Campaign NPCs
@@ -87,7 +87,7 @@ reveals: []   # secret reveal_tags this note exposes, e.g. [the-big-secret]
 `era`, `event`, `timeline`,
 `npc`, `pc`, `character`,
 `deity`, `faith`, `myth`, `ritual`,
-`creature`, `adversary`,
+`creature`, `adversary`, `condition`,
 `item`, `magic`,
 `secret`, `mystery`, `clue`, `revelation`,
 `campaign`, `arc`, `chapter`, `session`, `thread`,

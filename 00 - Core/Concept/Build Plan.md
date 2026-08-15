@@ -14,30 +14,32 @@ updated: 2026-08-14
 
 > **Handoff entry point.** Fresh agent picking up this world: start here, then read [[The Premise]]. This is a **NEW setting** (started 2026-08-14) — an integrated-"monsters" world. The two prior settings in this vault (original "Avarra," then "The Empire That Wasn't Evil") were scrapped and live only in git history — **do not treat them as canon.**
 
-> **STATUS (2026-08-14):** Concept phase. The **two-layer model is LOCKED** (born *Kind* / acquired *Condition*, stacking). The **Condition roster is mid-design** — the 4 core are decided; the user rejected my first batch of 3 "extra" Conditions and wants **4 new replacement Conditions designed from scratch.** **This is the next task.** Context was cleared here; nothing else mid-flight.
+> **STATUS (2026-08-14):** Concept phase. The **two-layer model is LOCKED**, the **acquisition engine is LOCKED** (Given at the Turning Tree / Struck later), and the **full 9-Condition roster is LOCKED** (monsters, standing, path, and rough % of population — see below). The **Leaf-Mother religion** seed is captured. **NEXT = design each Condition's mechanics** (take/boon/Tithe) against Daggerheart, then Kitsune/Selkie ancestries, then society.
 
 ## Locked decisions (do not re-litigate)
 
 - **Premise:** vampires/werewolves/etc. are *integrated, accepted, needed* members of society; fresh takes, not tropes. Tone **~5% scary** (mostly mundane, real obstacle underneath). See [[The Premise]].
 - **Two-layer model:** everyone has a **Kind** (born ancestry, mundane) + optionally a **Condition** (acquired becoming, ~75% of people get one). They **stack** (e.g. a born Selkie who later becomes a vampire). The sorting test: *becoming = Condition; born-that-way = Kind.*
-- **Custom born-ancestries kept:** **only [[Kitsune]] and [[Selkie]]** (user cut Puca, Rusalka, Doppelganger from the ancestry list). These sit alongside the 18 Daggerheart stock ancestries. Fresh-take angle still TBD (they must be more than their folklore default — designed against the stock roster below).
-- **The 4 CORE Conditions (locked as concepts, need full design):**
-  - **Long-Lived** (the "vampire") — aging halts, perfect memory; society's archivists/judges/notaries. Tithe: body won't self-renew, needs regulated infusions of vitality; denied too long → starts *taking*.
-  - **Two-Bodied** (the "werewolf") — a second competent self (different senses/instincts); rescue, wild-work, war. Tithe: both selves must be lived; the unbidden shift is the edge.
-  - **Returned** (the "zombie") — died with unfinished purpose, kept going; do the deadly jobs, tend the dead. Tithe: must renew purpose/tether or "settle"; purpose lost → hungry for warmth.
-  - **Bound** (the "demon") — took a supernatural *contract* for power (NOT born-demon — distinct from Daggerheart's Infernis); enforcers/oath-keepers. Tithe: keep paying the contract's terms or it collects *you.* (Closest to true horror.)
+- **Acquisition engine (LOCKED — full detail in [[The Premise]]):** two paths. **Given** = at the **Awakening / Leaf-Fall**, a child's 10th-year solstice, families gather at a town **Turning Tree**; a leaf-colour = a Condition Given, or a hug (no colour) = one of **the Kept** (the normal, wanted-in-their-own-right). **Struck** = a normal person crosses a threshold later (dying, an oath, a drowning) and turns with no ceremony. Sort rule: Given-only = innate fates; Struck-only = things a 10-yr-old can't have done (died / sworn a pact); Both = survivable near-death doors.
+- **Population math (LOCKED):** ~60% Given · ~15% Struck later · ~25% Kept for life (= 75% Conditioned over a lifetime).
+- **Leaf-Mother (LOCKED as a *belief*, not cosmology):** some say she blessed the Conditions and the Turning Trees are her hands; skeptics say it's just what the Trees do. Live schism re: the Kept and the Struck. Flesh later with `belief-systems`.
+- **The 9-Condition roster (LOCKED — monsters, standing, path, ~% pop.):** see the full table in [[The Premise]]. Core: **Long-Lived** (vampire, Given, ~2.5%), **Two-Bodied** (werewolf, Given, ~18%), **Returned** (zombie, Struck, ~9%), **Bound** (demon-contract, Struck, ~5%). New: **Siren** (revered, Both, ~11%), **Gorgon** (feared, Both, ~7%), **Djinn** (Given, ~10%), **Leshy** (looked-down/frontier, Both, ~12%), **Phoenix** (legendary, Given, trace <0.1%).
+- **Vampire sink (LOCKED):** Long-Lived can have children but none are guaranteed to inherit it; they outlive their families and either stop or start over — an emotional Tithe + a natural population cap. Deathless, not unkillable.
 
 ## Rejected (don't re-propose)
 
-- As **Conditions**: Selkie, Puca, Kitsune, Doppelganger (user: these read as *born* Kinds, not becomings — correct). Rusalka folded into "death by water" as a *threshold* of the Returned, not its own Condition.
-- As custom **ancestries**: Puca, Rusalka, Doppelganger were cut. Only Kitsune + Selkie survive.
-- My first "extra Conditions" batch — **the Kindled, the Taken, the Hungering** — user did NOT like these. **Design 4 fresh replacements instead.** (Aim for a spread of standing: some revered, some normal, some feared/looked-down-on; each a genuine *becoming* with a distinct Tithe; keep the ~5%-scary dial.)
+- As **Conditions**: Selkie, Puca, Kitsune, Doppelganger (read as *born* Kinds, not becomings). Rusalka folded into "death by water" as a threshold of the Returned.
+- As custom **ancestries**: Puca, Rusalka, Doppelganger cut. Only Kitsune + Selkie survive.
+- **Condition batch #1** — the Kindled / Taken / Hungering (invented, not iconic; some Tithes were anti-fun).
+- **Condition batch #2** — the Well / Chorus / Unspooled / Graven (invented creatures, not recognizable monsters; some Tithes seized PC control — an anti-fun trap).
+- **Rejected for the last slot:** Ghoul (redundant w/ Returned), Minotaur/Troll/Ogre (read as D&D player races — breaks cross-system portability), Ghost/Mummy, Frankenstein/Invisible Man/Deep One/Dullahan/Thunderbird ("too far"). **Design rule learned:** use *recognizable folklore monsters* given a fresh spin (like vampire/werewolf), NOT invented creatures or D&D-race lookalikes; Tithes must be manageable-in-play and never take control of the PC.
 
 ## NEXT TASK (resume here)
 
-1. **Design 4 new Conditions** to sit alongside the 4 core (Long-Lived / Two-Bodied / Returned / Bound). Requirements: each is a true *becoming* (not born); distinct role society needs; distinct Tithe (the obstacle); fresh (not a stock trope); spread across standing (revered ↔ normal ↔ feared). Skill: `systemic-worldbuilding` to trace each one's social consequences; `cliche-transcendence` for the fresh angle.
-2. **Confirm the "threshold" engine** (see [[The Premise]]) or pick a different cause for how Conditions arise.
-3. **Then:** flesh Kitsune + Selkie ancestries (fresh angle vs. stock roster); rank all Conditions by commonality + standing; then trace the *society* (banking, law, marriage, city design when 3 of 4 people carry a Tithe) — the step that turns the bestiary into a *place.*
+1. **Design each of the 9 Conditions' mechanics** — for each: the *fresh take* (integrated role), the *boon* (attractive, playable Daggerheart benefit hooked to a core resource — Hope/Stress/Fear/HP/thresholds/Evasion/Experiences), and the *Tithe* (manageable upkeep + opt-in scary edge). Write each up as a full canonical note (Condition/creature template, `visibility: gm`, wikilinked). Skills: `systemic-worldbuilding` (social consequences), `cliche-transcendence` (fresh angle). Consult the Daggerheart SRD for exact feature wording.
+2. **Flesh Kitsune + Selkie** ancestries (fresh angle vs. stock roster).
+3. **Turning Tree / Leaf-Mother:** name the Tree, decide one-great-tree vs. scion-per-town (leaning scion-per-town), build the religion with `belief-systems`.
+4. **Then trace the *society*** (banking, law, marriage, city design when 3 of 4 people carry a Tithe) — turns the bestiary into a *place.*
 
 ## Daggerheart baseline (design against this so ours are unique)
 
