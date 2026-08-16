@@ -16,7 +16,7 @@ updated: 2026-08-16
 
 # Kitsune
 
-> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **Three features — Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands). Revised 2026-08-16 after a folklore check: foxfire (kitsunebi) unifies the Fox actives, and *Fox's Glamour* adds the single most iconic kitsune trait — illusion / wearing another face (distinct from the werewolf's beast-change; fills the cut-Doppelganger niche).** Open questions below.
+> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands).** Foxfire (kitsunebi) unifies the Fox actives; *Fox's Glamour* carries the iconic illusion / wearing-another-face trait (distinct from the werewolf's beast-change; fills the cut-Doppelganger niche). Passed a folklore check (6/7 iconic traits). Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
