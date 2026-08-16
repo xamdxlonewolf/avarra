@@ -14,7 +14,7 @@ updated: 2026-08-15
 
 > **Handoff entry point.** Fresh agent picking up this world: start here, then read [[The Premise]]. This is a **NEW setting** (started 2026-08-14) — an integrated-"monsters" world. The two prior settings in this vault (original "Avarra," then "The Empire That Wasn't Evil") were scrapped and live only in git history — **do not treat them as canon.**
 
-> **STATUS (2026-08-15):** Concept phase. The **two-layer model is LOCKED**, the **acquisition engine is LOCKED** (Given at the Turning Tree / Struck later), and the **full 9-Condition roster is LOCKED** (monsters, standing, path, and rough % of population — see below). **✅ ALL 9 CONDITIONS' MECHANICS ARE NOW DESIGNED & LOCKED** (each has a full canonical note in `09 - Creatures/Conditions/` with a Daggerheart Transformation card: boon + Tithe, built against real SRD terms; folklore monsters renamed to state-of-being titles except Phoenix, kept legendary). The **Leaf-Mother religion** seed is captured. **NEXT = flesh Kitsune + Selkie ancestries**, then name/build the Turning Tree + Leaf-Mother religion, then trace society.
+> **STATUS (2026-08-16):** Concept phase. The **two-layer model is LOCKED**, the **acquisition engine is LOCKED** (Given at the Turning Tree / Struck later), and the **full 9-Condition roster is LOCKED** (monsters, standing, path, and rough % of population — see below). **✅ ALL 9 CONDITIONS' MECHANICS ARE NOW DESIGNED & LOCKED** (each has a full canonical note in `09 - Creatures/Conditions/` with a Daggerheart Transformation card: boon + Tithe, built against real SRD terms; folklore monsters renamed to state-of-being titles except Phoenix, kept legendary). **✅ ALL 3 CUSTOM ANCESTRIES (KINDS) ARE NOW DESIGNED & LOCKED** — [[Kitsune]] (two features: Slip the Frame + a chosen Fox — Wilds / Snows / Sands), [[Selkie]] (Second Skin + Slip the Hold), and a new mountain-born Kind, [[Tengu]] (Wind-Winged + The Mountain's Mood). Each is a full canonical note in `03 - Cultures/Peoples/`, built to the SRD two-feature ancestry pattern (NOT the Condition Transformation card). The **Leaf-Mother religion** seed is captured. **NEXT = name/build the Turning Tree + Leaf-Mother religion**, then trace society.
 
 ## Locked decisions (do not re-litigate)
 
@@ -29,7 +29,7 @@ updated: 2026-08-15
 ## Rejected (don't re-propose)
 
 - As **Conditions**: Selkie, Puca, Kitsune, Doppelganger (read as *born* Kinds, not becomings). Rusalka folded into "death by water" as a threshold of the Returned.
-- As custom **ancestries**: Puca, Rusalka, Doppelganger cut. Only Kitsune + Selkie survive.
+- As custom **ancestries**: Puca, Rusalka, Doppelganger cut. Kitsune + Selkie survive, and **Tengu** (mountain-born crow-folk) was added 2026-08-16 as the third — so **three** custom ancestries now, not two.
 - **Condition batch #1** — the Kindled / Taken / Hungering (invented, not iconic; some Tithes were anti-fun).
 - **Condition batch #2** — the Well / Chorus / Unspooled / Graven (invented creatures, not recognizable monsters; some Tithes seized PC control — an anti-fun trap).
 - **Rejected for the last slot:** Ghoul (redundant w/ Returned), Minotaur/Troll/Ogre (read as D&D player races — breaks cross-system portability), Ghost/Mummy, Frankenstein/Invisible Man/Deep One/Dullahan/Thunderbird ("too far"). **Design rule learned:** use *recognizable folklore monsters* given a fresh spin (like vampire/werewolf), NOT invented creatures or D&D-race lookalikes; Tithes must be manageable-in-play and never take control of the PC.
@@ -37,8 +37,8 @@ updated: 2026-08-15
 ## NEXT TASK (resume here)
 
 1. ~~**Design each of the 9 Conditions' mechanics**~~ **✅ DONE (2026-08-15).** All nine have full canonical notes in `09 - Creatures/Conditions/` — each a Daggerheart Transformation card (boon + Tithe) built against real SRD terms, boons that do something *in-scene* (not just downtime), and Tithes that never seize PC control. Renamed to state-of-being titles (siren→Far-Voiced, gorgon→The Stilled, djinn→The Answered, leshy→The Taken-In); **Phoenix kept its legendary name on purpose** (the one Condition that can't hide in a crowd). Design rules captured for reuse: use exact DH terms (real range bands / conditions / damage / Hope-Stress costs); prefer a plain attack roll over a Spellcast Roll (class-agnostic + portable). *(Open tweak: Phoenix fire immunity may be dialed to resistance later.)*
-2. **Flesh Kitsune + Selkie** ancestries (fresh angle vs. stock roster). ← **RESUME HERE**
-3. **Turning Tree / Leaf-Mother:** name the Tree, decide one-great-tree vs. scion-per-town (leaning scion-per-town), build the religion with `belief-systems`.
+2. ~~**Flesh Kitsune + Selkie** ancestries~~ **✅ DONE (2026-08-16).** Both fleshed and locked, plus a third custom Kind added — [[Tengu]] (mountain-born crow-folk). All three are full notes in `03 - Cultures/Peoples/`, SRD two-feature pattern: [[Kitsune]] = Slip the Frame + a chosen Fox (Wilds / Snows / Sands, each a full feature); [[Selkie]] = Second Skin (with the *Anchored* upside) + Slip the Hold; [[Tengu]] = Wind-Winged (flight + dive) + The Mountain's Mood (can't be caught off guard by terrain hazards). Design notes: dropped Kitsune's Foxfire to make room for the buffed Fox choice; both customs' escape features (Slip the Frame / Slip the Hold) kept a notch above the stock band, balanced against each other; Kinds carry no Tithe, so no downside mechanics.
+3. **Turning Tree / Leaf-Mother:** name the Tree, decide one-great-tree vs. scion-per-town (leaning scion-per-town), build the religion with `belief-systems`. ← **RESUME HERE**
 4. **Then trace the *society*** (banking, law, marriage, city design when 3 of 4 people carry a Tithe) — turns the bestiary into a *place.*
 
 ## Daggerheart baseline (design against this so ours are unique)
@@ -53,4 +53,4 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/
 - Set `visibility` on every note from birth; obey `00 - Core/Meta/Conventions.md`.
 
 ## Links
-- [[The Premise]] · [[Kitsune]] · [[Selkie]] · [[00 - Core]]
+- [[The Premise]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[00 - Core]]

@@ -22,7 +22,7 @@ Vampires, werewolves, and their kin exist and are **part of society** — accept
 
 The central mechanic that makes the world cohere. Every person has **two layers**, and they **stack**:
 
-1. **Kind — what you are *born* (Ancestry).** Mundane. Nobody blinks at it. This is the Daggerheart ancestry layer (Human, Elf, Drakona, …) **plus a small set of custom born-ancestries** unique to this world ([[Kitsune]], [[Selkie]]). Being a Kind is just your birth-shape.
+1. **Kind — what you are *born* (Ancestry).** Mundane. Nobody blinks at it. This is the Daggerheart ancestry layer (Human, Elf, Drakona, …) **plus a small set of custom born-ancestries** unique to this world ([[Kitsune]], [[Selkie]], [[Tengu]]). Being a Kind is just your birth-shape.
 2. **Condition — what you *become* (acquired).** The interesting layer. Vampire, werewolf, etc. are **not species — they are becomings**: something happens to a person and they transform. Roughly **75% of people acquire a Condition** over a lifetime (so ~1 in 4 never do). A Condition carries an ongoing cost (the **Tithe** — see below).
 
 > **The design test that sorts the two:** *a Condition is a **becoming** (something happens → you change); an Ancestry is a **Kind** (born that way).* This test is why the roster shook out the way it did (see below).
@@ -92,5 +92,5 @@ We are effectively authoring **custom ancestries + a Condition layer** for Dagge
 
 ## Links
 - [[Build Plan]] — status, locked decisions, and the next task (design the 9 Conditions' mechanics)
-- [[Kitsune]] · [[Selkie]] — the two custom born-ancestries kept for this world
+- [[Kitsune]] · [[Selkie]] · [[Tengu]] — the three custom born-ancestries kept for this world
 - [[00 - Core]] · [[03 - Cultures]]

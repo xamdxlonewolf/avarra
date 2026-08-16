@@ -2,7 +2,7 @@
 title: Tengu
 type: people
 visibility: player
-note_status: draft
+note_status: locked
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Crow-Born, The Wind-Winged, The Peak-Born]
@@ -16,7 +16,7 @@ updated: 2026-08-16
 
 # Tengu
 
-> **A custom born-ancestry (Kind), not a Condition.** The third homebrew ancestry kept for this world (with [[Kitsune]] and [[Selkie]]) — the **mountain-born**. You are *born* Tengu — it is your birth-shape, mundane in this world. **First draft (2026-08-16) — angle proposed, mechanics rough.** See "Open questions" at the bottom; refine one pass at a time.
+> **A custom born-ancestry (Kind), not a Condition.** The third homebrew ancestry kept for this world (with [[Kitsune]] and [[Selkie]]) — the **mountain-born**. You are *born* Tengu — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): two features — Wind-Winged + The Mountain's Mood.** Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
@@ -35,15 +35,13 @@ Because they can go where footpaths can't and read the mountain's mood before it
 ## Daggerheart (ancestry features)
 
 - **Wind-Winged** — You can fly. While flying, once per scene you can mark a **Stress** to fold your wings and **dive** on a target within Close range: treat it as a **Finesse** attack dealing **d8** physical damage using your Proficiency, and end the dive anywhere within **Very Close** range of that target.
-- **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. When the GM would spring an environmental hazard or a terrain-based ambush on the group, you feel it coming an instant early — you may act or call a warning before it lands.
+- **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands.
 
-## Open questions (to refine next)
+## Open questions (optional future tweaks — not blockers)
 
-- **Flight feature — dive vs. evasion.** I gave flight an *offensive* twist (a diving strike) to feel crow-born and to differentiate from Faerie's *Wings* (which is evasive: Stress for +2 Evasion) — even though you're fine with the overlap. Confirm you want the dive-attack flavor, or prefer we mirror Faerie's defensive version, or grant plain flight + something else entirely.
-- **The Mountain's Mood** — the "feel the hazard an instant early" clause is a soft GM-facing perk; is that too fuzzy, or exactly the right texture? Could tighten to a hard "you can't be surprised by environmental/terrain hazards."
-- **Is flight too strong as an at-will Kind feature?** Faerie has it, so there's precedent, but flag it — some tables gate at-will flight. Option: flight is at-will but the *dive* is the Stress-gated part (current draft), which keeps it in band.
+- **Flight lever (resolved 2026-08-16)** — kept the *offensive* dive (fold wings, d8 Finesse on a Close target, end at Very Close) over Faerie-style evasion. At-will flight is kept, with the dive as the Stress-gated part so it stays in-band (Faerie sets the precedent for at-will flight on a Kind).
+- **The Mountain's Mood (resolved 2026-08-16)** — tightened the soft "feel it an instant early" perk into a hard rule: **cannot be caught off guard by environmental hazards or terrain ambushes.**
 - Physical read: how corvid is a Tengu — full wings + feathers (overt), or subtler (feathered hair, wings that furl away)? Affects the "mundane, nobody blinks" tone.
-- **Canon note:** [[The Premise]] and [[Build Plan]] currently say the world has *two* custom ancestries (Kitsune + Selkie). Adding Tengu makes it **three** — those locked docs need a one-line update once we lock this.
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
