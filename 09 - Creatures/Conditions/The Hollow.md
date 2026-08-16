@@ -14,7 +14,7 @@ path: Struck only (chains off Bound)
 population: ~1.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # The Hollow
@@ -31,7 +31,7 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 
 - **The Absence** — Name what the contract took (the [[Bound]] Pledge). You permanently lose it — fictionally and, where relevant, mechanically — **and** you are **immune to anything that works through it**. The bigger the hole, the wider the immunity and the heavier the daily lack; agree the cash-out with the GM at the moment you become Hollow. Three lanes:
   - **A capacity of the mind** (fear, grief, love, the ability to lie, memory of a person/place) → immune to effects that work through it (gave up fear → auto-pass fear/horror/intimidation; gave up deceit → you *cannot* lie, and no lie deceives you). Mostly fiction + a clean immunity.
-  - **A sense of the body** (an eye, hearing, taste) → a fictional loss with a sharp edge (gave up an eye → disadvantage on rolls needing depth/distance, **but** immune to gaze- and sight-based effects: [[Gorgon]] stilling, blinding light, illusions you must see).
+  - **A sense of the body** (an eye, hearing, taste) → a fictional loss with a sharp edge (gave up an eye → disadvantage on rolls needing depth/distance, **but** immune to gaze- and sight-based effects: [[The Stilled]] stilling, blinding light, illusions you must see).
   - **A part of the body** (a leg, a hand) → fictional loss + a standing penalty the group accepts, offset by immunity to pain/effects through it (and often a prosthetic or Condition-crafted replacement in the fiction).
 - **The Quiet** *(Tithe)* — Place **3 Quiet tokens** on this card; begin play with them filled. **Spend a Quiet token** to do what the hole makes easy — to feel *nothing* where feeling would cost you: ignore a fear/despair/grief effect, push through what should stop you, stay perfectly calm and empty under pressure (mark nothing, take no Stress; the emptiness carries you). Refill all tokens on a **long rest spent in genuine human connection** — company, warmth, a shared meal, being *known*. **At 0 tokens the pull turns loud:** while empty, whenever a bargain, favor, or offer of power is on the table, the GM may present it as unusually reasonable, and **refusing to reach for it costs a Stress**. *(Suggestion, never compulsion — you can always say no; it just aches. This is the road back to [[Bound]] → the Given-Over spiral.)*
 

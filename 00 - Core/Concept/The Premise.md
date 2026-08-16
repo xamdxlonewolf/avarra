@@ -7,7 +7,7 @@ status: active
 tags: [core, premise, concept, design-hub]
 aliases: [The Concept, The Pitch, The Two-Layer World]
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # The Premise
@@ -42,9 +42,9 @@ In their **10th year, on the solstice**, children gather with their families aro
 Some Conditions **cannot** be Given to a child (you can't die at 10; a child can't swear a contract). These arrive only when a normal person crosses a **threshold** later — the door you go through decides what you become. No leaf, no ceremony: viewed as tragic, miraculous, or a little suspect. So **the Kept are not a closed club** — a slice of them still turn.
 
 > **The clean rule that sorts Given / Struck / Both:**
-> - **Given only** = *innate fates* (Long-Lived, Two-Bodied, Djinn, Phoenix).
+> - **Given only** = *innate fates* (Long-Lived, Two-Bodied, The Answered, Phoenix).
 > - **Struck only** = *things a 10-year-old physically cannot have done* — died (Returned), or sworn a pact (Bound).
-> - **Both** = *survivable near-death doors* that can be foreseen by the Tree **or** walked through by accident (Siren, Gorgon, Leshy). A Given Siren (blue leaf at 10, guild-trained) and a Struck Siren (actually drowned at 30) feel very different at the table.
+> - **Both** = *survivable near-death doors* that can be foreseen by the Tree **or** walked through by accident (Far-Voiced, The Stilled, The Taken-In). A Given Far-Voiced (blue leaf at 10, guild-trained) and a Struck Far-Voiced (actually drowned at 30) feel very different at the table.
 
 ### The population math (LOCKED)
 Of the whole population, over a lifetime: **~60% Given** at the Tree · **~15% Struck** later · **~25% stay Kept for life** (60 + 15 = the 75% Conditioned). So at the ceremony itself ~40% of children get no colour, and about a third of *those* will still be Struck someday.
@@ -76,10 +76,10 @@ Each is a recognizable monster given a fresh, integrated take. Standing spans re
 **The 5 NEW (locked; monsters + standing chosen, mechanics TBD):**
 | Condition | Monster | Path | ~% pop. | Standing / door |
 |---|---|---|---|---|
-| **Siren** | siren | Both | ~11% | revered — signal network / law / performance · door: drowning |
-| **Gorgon** | gorgon | Both | ~7% | feared / guild-regulated — peacekeeping, medicine · door: survived being struck to stone |
-| **Djinn** | djinn/jinni | Given only | ~10% | wildcard — artisans, elemental craft |
-| **Leshy** | leshy | Both | ~12% | respected-but-looked-down — agriculture, frontier, forestry · door: lost & dying in deep wild |
+| **Far-Voiced** | siren | Both | ~11% | revered — signal network / law / performance · door: drowning |
+| **The Stilled** | gorgon | Both | ~7% | feared / guild-regulated — peacekeeping, medicine · door: survived being struck to stone |
+| **The Answered** | djinn/jinni | Given only | ~10% | wildcard — artisans, elemental craft, watch/rescue crews |
+| **The Taken-In** | leshy | Both | ~12% | respected-but-looked-down — agriculture, frontier, forestry · door: lost & dying in deep wild |
 | **Phoenix** | phoenix | Given only | **<0.1% (trace)** | **legendary** — almost never seen; known through stories; hook = cyclical rebirth |
 
 **The Kept** = the normal ~25% (Tree hugged them, no colour). Wanted and special in their own right — not "unconditioned lack."

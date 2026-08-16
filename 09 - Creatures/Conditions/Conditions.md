@@ -7,7 +7,7 @@ status: active
 tags: [moc, condition, index, design-hub]
 aliases: [The Conditions, Condition Roster, Becomings]
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Conditions — Index
@@ -27,11 +27,11 @@ Conditions are built as Daggerheart **Transformation cards** (see the SRD Transf
 | [[Returned]] | zombie | normal | Struck | ~9% | ✅ mechanics locked |
 | [[Bound]] | demon (by contract) | feared | Struck | ~5% | ✅ mechanics locked |
 | [[The Hollow]] | the price of a contract | pitied / uneasy | Struck (chains off Bound) | ~1.5% | ✅ mechanics locked |
-| [[Siren]] | siren | revered | Both | ~11% | ⬜ TBD |
-| [[Gorgon]] | gorgon | feared / regulated | Both | ~7% | ⬜ TBD |
-| [[Djinn]] | djinn | wildcard | Given | ~10% | ⬜ TBD |
-| [[Leshy]] | leshy | looked-down / frontier | Both | ~12% | ⬜ TBD |
-| [[Phoenix]] | phoenix | legendary | Given | <0.1% | ⬜ TBD |
+| [[Far-Voiced]] | siren | revered | Both | ~11% | ✅ mechanics locked |
+| [[The Stilled]] | gorgon | feared / regulated | Both | ~7% | ✅ mechanics locked |
+| [[The Answered]] | djinn | wildcard | Given | ~10% | ✅ mechanics locked |
+| [[The Taken-In]] | leshy | looked-down / frontier | Both | ~12% | ✅ mechanics locked |
+| [[Phoenix]] | phoenix | legendary | Given | <0.1% (one at a time) | ✅ mechanics locked |
 
 **The Kept** — the normal ~25% who receive no Condition (the Tree hugs them; wanted in their own right).
 **The Given-Over** *(title, not a Condition)* — the world's name for a Bound who signs contract after contract until the being effectively owns them; an NPC-tier fate. See [[Bound]].

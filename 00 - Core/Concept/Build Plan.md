@@ -7,14 +7,14 @@ status: active
 tags: [meta, build-plan, roadmap, handoff]
 aliases: [Roadmap, Handoff Brief]
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Build Plan
 
 > **Handoff entry point.** Fresh agent picking up this world: start here, then read [[The Premise]]. This is a **NEW setting** (started 2026-08-14) — an integrated-"monsters" world. The two prior settings in this vault (original "Avarra," then "The Empire That Wasn't Evil") were scrapped and live only in git history — **do not treat them as canon.**
 
-> **STATUS (2026-08-14):** Concept phase. The **two-layer model is LOCKED**, the **acquisition engine is LOCKED** (Given at the Turning Tree / Struck later), and the **full 9-Condition roster is LOCKED** (monsters, standing, path, and rough % of population — see below). The **Leaf-Mother religion** seed is captured. **NEXT = design each Condition's mechanics** (take/boon/Tithe) against Daggerheart, then Kitsune/Selkie ancestries, then society.
+> **STATUS (2026-08-15):** Concept phase. The **two-layer model is LOCKED**, the **acquisition engine is LOCKED** (Given at the Turning Tree / Struck later), and the **full 9-Condition roster is LOCKED** (monsters, standing, path, and rough % of population — see below). **✅ ALL 9 CONDITIONS' MECHANICS ARE NOW DESIGNED & LOCKED** (each has a full canonical note in `09 - Creatures/Conditions/` with a Daggerheart Transformation card: boon + Tithe, built against real SRD terms; folklore monsters renamed to state-of-being titles except Phoenix, kept legendary). The **Leaf-Mother religion** seed is captured. **NEXT = flesh Kitsune + Selkie ancestries**, then name/build the Turning Tree + Leaf-Mother religion, then trace society.
 
 ## Locked decisions (do not re-litigate)
 
@@ -23,7 +23,7 @@ updated: 2026-08-14
 - **Acquisition engine (LOCKED — full detail in [[The Premise]]):** two paths. **Given** = at the **Awakening / Leaf-Fall**, a child's 10th-year solstice, families gather at a town **Turning Tree**; a leaf-colour = a Condition Given, or a hug (no colour) = one of **the Kept** (the normal, wanted-in-their-own-right). **Struck** = a normal person crosses a threshold later (dying, an oath, a drowning) and turns with no ceremony. Sort rule: Given-only = innate fates; Struck-only = things a 10-yr-old can't have done (died / sworn a pact); Both = survivable near-death doors.
 - **Population math (LOCKED):** ~60% Given · ~15% Struck later · ~25% Kept for life (= 75% Conditioned over a lifetime).
 - **Leaf-Mother (LOCKED as a *belief*, not cosmology):** some say she blessed the Conditions and the Turning Trees are her hands; skeptics say it's just what the Trees do. Live schism re: the Kept and the Struck. Flesh later with `belief-systems`.
-- **The 9-Condition roster (LOCKED — monsters, standing, path, ~% pop.):** see the full table in [[The Premise]]. Core: **Long-Lived** (vampire, Given, ~2.5%), **Two-Bodied** (werewolf, Given, ~18%), **Returned** (zombie, Struck, ~9%), **Bound** (demon-contract, Struck, ~5%). New: **Siren** (revered, Both, ~11%), **Gorgon** (feared, Both, ~7%), **Djinn** (Given, ~10%), **Leshy** (looked-down/frontier, Both, ~12%), **Phoenix** (legendary, Given, trace <0.1%).
+- **The 9-Condition roster (LOCKED — monsters, standing, path, ~% pop.):** see the full table in [[The Premise]]. Core: **Long-Lived** (vampire, Given, ~2.5%), **Two-Bodied** (werewolf, Given, ~18%), **Returned** (zombie, Struck, ~9%), **Bound** (demon-contract, Struck, ~5%). New: **Far-Voiced** (siren, revered, Both, ~11%), **The Stilled** (gorgon, feared, Both, ~7%), **The Answered** (djinn, Given, ~10%), **The Taken-In** (leshy, looked-down/frontier, Both, ~12%), **Phoenix** (legendary, Given, trace <0.1%).
 - **Vampire sink (LOCKED):** Long-Lived can have children but none are guaranteed to inherit it; they outlive their families and either stop or start over — an emotional Tithe + a natural population cap. Deathless, not unkillable.
 
 ## Rejected (don't re-propose)
@@ -36,8 +36,8 @@ updated: 2026-08-14
 
 ## NEXT TASK (resume here)
 
-1. **Design each of the 9 Conditions' mechanics** — for each: the *fresh take* (integrated role), the *boon* (attractive, playable Daggerheart benefit hooked to a core resource — Hope/Stress/Fear/HP/thresholds/Evasion/Experiences), and the *Tithe* (manageable upkeep + opt-in scary edge). Write each up as a full canonical note (Condition/creature template, `visibility: gm`, wikilinked). Skills: `systemic-worldbuilding` (social consequences), `cliche-transcendence` (fresh angle). Consult the Daggerheart SRD for exact feature wording.
-2. **Flesh Kitsune + Selkie** ancestries (fresh angle vs. stock roster).
+1. ~~**Design each of the 9 Conditions' mechanics**~~ **✅ DONE (2026-08-15).** All nine have full canonical notes in `09 - Creatures/Conditions/` — each a Daggerheart Transformation card (boon + Tithe) built against real SRD terms, boons that do something *in-scene* (not just downtime), and Tithes that never seize PC control. Renamed to state-of-being titles (siren→Far-Voiced, gorgon→The Stilled, djinn→The Answered, leshy→The Taken-In); **Phoenix kept its legendary name on purpose** (the one Condition that can't hide in a crowd). Design rules captured for reuse: use exact DH terms (real range bands / conditions / damage / Hope-Stress costs); prefer a plain attack roll over a Spellcast Roll (class-agnostic + portable). *(Open tweak: Phoenix fire immunity may be dialed to resistance later.)*
+2. **Flesh Kitsune + Selkie** ancestries (fresh angle vs. stock roster). ← **RESUME HERE**
 3. **Turning Tree / Leaf-Mother:** name the Tree, decide one-great-tree vs. scion-per-town (leaning scion-per-town), build the religion with `belief-systems`.
 4. **Then trace the *society*** (banking, law, marriage, city design when 3 of 4 people carry a Tithe) — turns the bestiary into a *place.*
 

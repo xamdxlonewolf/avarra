@@ -14,7 +14,7 @@ path: Struck only
 population: ~5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-15
 ---
 
 # Bound
@@ -55,4 +55,4 @@ Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
 - Chains into: [[The Hollow]] (what an expired contract leaves behind)
-- Contrast: [[Returned]] (the other Struck-only Condition — accident of death vs. sworn choice)
+- Contrast: [[Returned]] (the other Struck-only Condition — accident of death vs. sworn choice) · [[Far-Voiced]] (detects others' lies vs. betrays the Far-Voiced's own feeling)
