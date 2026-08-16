@@ -46,5 +46,5 @@ Because they defuse rather than escalate and can light a safe, cold lamp anywher
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[Selkie]] — the other custom ancestry
+- [[Selkie]] · [[Tengu]] — the other custom ancestries
 - [[03 - Cultures]]

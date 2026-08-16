@@ -46,5 +46,5 @@ Because they can't be kept down and can't be kept out, Selkies are the world's *
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[Kitsune]] — the other custom ancestry
+- [[Kitsune]] · [[Tengu]] — the other custom ancestries
 - [[03 - Cultures]]
