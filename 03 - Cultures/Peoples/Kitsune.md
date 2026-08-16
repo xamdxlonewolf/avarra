@@ -2,7 +2,7 @@
 title: Kitsune
 type: people
 visibility: player
-note_status: draft
+note_status: locked
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Fox-Born, Fox of the Wilds, Fox of the Snows, Fox of the Sands]
@@ -16,7 +16,7 @@ updated: 2026-08-16
 
 # Kitsune
 
-> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **Refined 2026-08-16: Foxfire dropped; two features — Slip the Frame + your Fox (Wilds / Snows / Sands), each a full feature.** See "Open questions" for anything still open.
+> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): two features — Slip the Frame + your Fox (Wilds / Snows / Sands).** Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
