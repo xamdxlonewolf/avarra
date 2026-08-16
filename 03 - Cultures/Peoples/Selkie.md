@@ -2,7 +2,7 @@
 title: Selkie
 type: people
 visibility: player
-note_status: draft
+note_status: locked
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Sea-Born, The Skin-Kin]
@@ -16,7 +16,7 @@ updated: 2026-08-16
 
 # Selkie
 
-> **A custom born-ancestry (Kind), not a Condition.** One of two homebrew ancestries kept for this world (with [[Kitsune]]), sitting alongside Daggerheart's stock roster. You are *born* Selkie — hereditary, mundane in this world. **First draft (2026-08-16) — angle proposed, mechanics rough.** See "Open questions" at the bottom; refine one pass at a time.
+> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Kitsune]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Selkie — hereditary, mundane in this world. **✅ LOCKED (2026-08-16): two features — Second Skin + Slip the Hold.** Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
@@ -34,14 +34,15 @@ Because they can't be kept down and can't be kept out, Selkies are the world's *
 
 ## Daggerheart (ancestry features)
 
-- **Second Skin** — You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than others can, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
+- **Second Skin** — You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than anyone should, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
+  - *Anchored.* Your skin is your fixed point in the world. Wherever you leave it stashed, you always know the direction and distance to it and can find your way back to it unerringly, however far you've travelled or however turned-around you are. (Loaning your skin, or having it taken, is a matter of story and trust — never a mechanical penalty.)
 - **Slip the Hold** — When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
 
-## Open questions (to refine next)
+## Open questions (optional future tweaks — not blockers)
 
-- **Does the removable skin get mechanics at all?** Right now it's flavor + the *Second Skin* utility bundle, deliberately with no "skin stolen" downside (Kinds have no Tithe; a stolen-skin penalty would be an anti-fun gotcha). Confirm we want it purely narrative, or find an *upside* mechanic for shedding it (e.g., leaving the skin as a stashed anchor you can return to).
-- **Second Skin** vs. Ribbet's *Amphibious* — kept distinct by giving Selkies "hold breath longer + at-home-in-water advantage," NOT true underwater breathing. Confirm that's the line we want (should a Selkie be able to breathe underwater at all, or is that firmly Ribbet's lane?).
-- **Slip the Hold** power band — escaping a grab + ignoring forced movement + a free reposition, all for one Stress, is generous. Compare Faun *Kick* / Faerie *Wings*. Consider trimming to just "end the grab and reposition."
+- **Removable skin (resolved 2026-08-16)** — the skin gets an *upside* hook (*Anchored*: always find your way back to your stashed skin), never a downside. Confirmed no "skin stolen" penalty (Kinds have no Tithe; a debuff there would be an anti-fun gotcha). Loaning/losing it stays a story beat.
+- **Second Skin vs. Ribbet (resolved 2026-08-16)** — kept distinct: Selkies are *at home in water* (long breath-hold, ignore cold/deep, swim advantage) but **NOT** true underwater breathers — that stays Ribbet's lane.
+- **Slip the Hold power band (noted, kept)** — end grab/Restrained + ignore forced movement + reposition, one Stress, is deliberately a notch above the stock band, matched to Kitsune's full-strength Slip the Frame so the two custom ancestries stay balanced against each other. Flag here if a play-test wants it trimmed.
 - Physical read: how seal is a Selkie *out* of the skin — subtle (cool skin, dark eyes) or overt? Affects the "mundane, nobody blinks" tone.
 
 ## Links
