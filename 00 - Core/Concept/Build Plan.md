@@ -14,6 +14,8 @@ updated: 2026-08-15
 
 > **Handoff entry point.** Fresh agent picking up this world: start here, then read [[The Premise]]. This is a **NEW setting** (started 2026-08-14) — an integrated-"monsters" world. The two prior settings in this vault (original "Avarra," then "The Empire That Wasn't Evil") were scrapped and live only in git history — **do not treat them as canon.**
 
+> **For the full build tracker** (Epics → Stories → Tasks, dependency-ordered, with canon-status tags & a live progress tally), see **[[Roadmap]]**. This note is the *fast* status brief; the Roadmap is the *detailed* plan.
+
 > **STATUS (2026-08-16):** Concept phase. The **two-layer model is LOCKED**, the **acquisition engine is LOCKED** (Given at the Turning Tree / Struck later), and the **full 9-Condition roster is LOCKED** (monsters, standing, path, and rough % of population — see below). **✅ ALL 9 CONDITIONS' MECHANICS ARE NOW DESIGNED & LOCKED** (each has a full canonical note in `09 - Creatures/Conditions/` with a Daggerheart Transformation card: boon + Tithe, built against real SRD terms; folklore monsters renamed to state-of-being titles except Phoenix, kept legendary). **✅ ALL 3 CUSTOM ANCESTRIES (KINDS) ARE NOW DESIGNED & LOCKED** — [[Kitsune]] (three features: Slip the Frame + Fox's Glamour + a chosen Fox — Wilds / Snows / Sands), [[Selkie]] (three features: Second Skin + Slip the Hold + Seal-Kin), and a new mountain-born Kind, [[Tengu]] (three features: Wind-Winged + The Mountain's Mood + Wind-Caller). Each is a full canonical note in `03 - Cultures/Peoples/`, built to the SRD ancestry-feature pattern (NOT the Condition Transformation card). All three custom Kinds now run three features each. The **Leaf-Mother religion** seed is captured. **NEXT = name/build the Turning Tree + Leaf-Mother religion**, then trace society.
 
 ## Locked decisions (do not re-litigate)
@@ -53,4 +55,4 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/
 - Set `visibility` on every note from birth; obey `00 - Core/Meta/Conventions.md`.
 
 ## Links
-- [[The Premise]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[00 - Core]]
+- [[Roadmap]] — full Epic → Story → Task tracker · [[The Premise]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[00 - Core]]

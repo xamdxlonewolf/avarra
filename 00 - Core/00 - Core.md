@@ -16,7 +16,7 @@ The spine of the vault. **Canon** = what is actually true. **Cosmology** = how r
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
 - **Concept** — [[The Premise]] (the integrated-"monsters" two-layer world) · [[Build Plan]] (status + next task) *(GM)*
-- **Meta** — [[Conventions]] (vault schema, folder tree, front-matter, `type` vocab) · Templates in `00 - Core/Meta/Templates/`
+- **Meta** — [[Conventions]] (vault schema, folder tree, front-matter, `type` vocab) · [[Roadmap]] (Epic → Story → Task build tracker) · Templates in `00 - Core/Meta/Templates/`
 - *(Themes, Cosmology, Canon: empty so far.)*
 
 ## Related
