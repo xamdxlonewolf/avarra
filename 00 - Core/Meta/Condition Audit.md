@@ -12,7 +12,7 @@ updated: 2026-08-19
 
 # Condition Audit
 
-> **What this is.** A design/balance review of all ten Conditions (see [[Conditions]]), run 2026-08-19 before building society on top of them. Findings are triaged **Tier 1** (fix before building forward), **Tier 2** (cheap consistency cleanup), **Tier 3** (taste-forks). Tier 1 and Tier 2 are **done** (2026-08-19); Tier 3 taste-forks remain open. Track resolution here as a running list (the pass-two convention from [[Roadmap]]).
+> **What this is.** A design/balance review of all ten Conditions (see [[Conditions]]), run 2026-08-19 before building society on top of them. Findings are triaged **Tier 1** (fix before building forward), **Tier 2** (cheap consistency cleanup), **Tier 3** (taste-forks). Tiers 1, 2, and 3 are **resolved** (2026-08-19) — with a single item, **#12 (flight density), deliberately left open** for a later rework pass. Track resolution here as a running list (the pass-two convention from [[Roadmap]]).
 
 ## Verdict in one line
 
@@ -40,11 +40,12 @@ The Conditions are strong — the anti-fun traps are genuinely avoided and no Ti
 - [x] **`note_status`.** **Resolved:** flipped 9 Condition cards to `locked`; **[[Long-Lived]] left `draft`** pending its Tier-3 monster-legibility question (#11). ([[Conditions]] MOC stays `draft` as an index.)
 - [x] **Hope-economy pressure.** **Resolved (targeted):** [[The Stilled]]'s Gaze moved **off Hope** — using it now feeds the Grey clock instead of spending Hope, which the re-rhythm made natural. Left the rest on Hope-cost as a deliberate throttle; revisit only with playtest data on which specific boons bite.
 
-## Tier 3 — Taste-forks (OPEN — need the user)
+## Tier 3 — Taste-forks (RESOLVED 2026-08-19, except #12 flagged for rework)
 
-- [ ] **#11 — Is [[Long-Lived]] still recognizably a *vampire*?** Reframed so hard (ageless + perfect memory + "feed on knowledge or fade") it may not *read* as vampire. The "feed or fade" + immortality skeleton is there, but it's the least legible-to-its-monster of the set. Keep the clean break, or re-attach a small vampiric tell (blood-as-memory, a threshold custom, a sensory thing)?
-- [ ] **#12 — Flight appears 3× among Conditions** (avian [[Two-Bodied]] [now a *real* flier — the lane vs. [[Tengu]] holds on no-hands/no-person-mind, not clipped wings], [[Bound]]'s granted power, [[Phoenix]]) + Tengu. Probably fine at this world's density — but make it a conscious worldbuilding note, not an accident.
-- [ ] **#8 — The demon complex is top-heavy.** One monster (demon) spans three notes — [[Bound]], [[The Unbound]], the Given-Over — while every other monster gets one. Rich and good, but confirm it's intended.
+- [x] **#11 — Is [[Long-Lived]] still recognizably a *vampire*?** **Resolved — re-attached two subtle tells** (user chose recognizable-but-fresh over the clean break): (1) **Blood-Read**, a usable card mechanic — a single drop of blood yields a *glimpse of memory* (blood-drinking reframed as memory-reading, non-predatory, no damage); (2) **the old courtesy**, passive story flavor — a Long-Lived never crosses a private threshold uninvited, held as deep manners, "the last shadow" of the cannot-enter-unbidden vampire. GM Notes guard both against being weaponized into "the vampire rules." Long-Lived flipped to **locked**.
+- [x] **#10 — Phoenix fire immunity.** **Resolved — kept full immunity** (user's call): a Phoenix *is* fire; total immunity is on-myth, and as a trace spotlight-only Condition (<0.1%) it won't warp normal play. No card change; the long-open "resistance dial" is closed as decided.
+- [x] **#8 — The demon complex is top-heavy.** **Resolved — confirmed intended.** One monster (demon) spanning three notes ([[Bound]], [[The Unbound]], the Given-Over) is a deliberate richness: the contract → release → forfeit arc is the setting's one fully-mapped moral spiral, and it earns the extra surface. Documented as a conscious choice, closed.
+- [ ] **#12 — Flight appears 3× among Conditions** (avian [[Two-Bodied]], [[Bound]]'s granted power, [[Phoenix]]) + [[Tengu]] — **FLAGGED FOR REWORK (user's call).** Revisit whether flight is over-dense across the roster and whether some of these powers should be spread to other movement/senses. Left **open** on purpose; not blocking — resolve in a later pass (likely alongside the Bound granted-power list).
 
 ---
 
@@ -52,7 +53,7 @@ The Conditions are strong — the anti-fun traps are genuinely avoided and no Ti
 
 | Condition | State after Tier 2 |
 |---|---|
-| [[Long-Lived]] | Clean; **left `draft`** — only open Q is monster-legibility (#11, Tier 3). |
+| [[Long-Lived]] | **Locked.** Added two vampiric tells — Blood-Read (memory-from-blood mechanic) + the threshold courtesy (flavor). |
 | [[Two-Bodied]] | Locked. Tier-1 rework + post-audit refine: growth = Experiences (2nd capability is a once-ever milestone), real flight freed (lane vs. Tengu = no hands/mind), other self has a voice. |
 | [[Returned]] | Locked. Refuse to Fall costs a scar, finite; Refuse the Rest cut. |
 | [[Bound]] | Locked. Given-Over name settled (Forfeit = guild term); top-heavy demon complex (#8) is Tier-3. |
