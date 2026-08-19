@@ -31,7 +31,7 @@ updated: 2026-08-15
 
 - **The Granted Power** — When you became Bound, you named what you wanted, and the contract granted it. With the GM, choose one **modest-but-real** boon your class doesn't give you — e.g. **flight/gliding** (as some ancestries have), **you can never become lost** (always know true north and the way back), **you don't need to breathe**, **you need no food or water**, **you can speak and understand any tongue**, **you always know when someone lies to you**. Invoke active boons by marking a **Stress**; passive ones simply work.
 - **The Terms** *(Tithe)* — Your contract carries **Terms** written on the card: a standing obligation the counterparty exacts (e.g. "never refuse a sincere plea," "collect what is owed," "tell no lie on a holy day"). Keep the Terms and the power is clean. **Break a Term, or miss a payment, and the contract *collects*:** the GM gains **Fear**; until you make restitution (a defined act, GM-adjudicated) your Granted Power costs a **Hit Point** instead of Stress; and **The Whisper** begins — while you owe a debt, when you roll with **Fear** the GM may voice an intrusive thought or a plausible lie the counterparty wants you to believe. You may act against it freely, but **shutting it out costs a Stress**. The debt compounds each time you fall further behind. *(The Whisper suggests; it never commands — the counterparty cannot take control of you.)*
-- **The Pledge** — At signing you also named **what you would give when the contract ends** — a part of yourself (an eye, a leg, your capacity for fear, your memory of home). Written on the card. You keep it while the contract runs. When a term-limited contract comes due, the counterparty **collects the Pledge**, and you become one of **[[The Hollow]]**.
+- **The Pledge** — At signing you also named **what you would give when the contract ends** — a part of yourself (an eye, a leg, your capacity for fear, your memory of home). Written on the card. You keep it while the contract runs. When a term-limited contract comes due, the counterparty releases you and **collects the Pledge**, and you become one of **[[The Unbound]]** (colloquially, the Hollow).
 
 ## The counterparty
 
@@ -42,7 +42,7 @@ Choose at creation, or leave it **unknown** as a thread to discover:
 
 ## Getting out
 
-The only sure release is to **kill the thing that holds your contract** — but a patron that can grant power can often **sense the intent forming**, so plotting it is its own peril. Term-limited contracts instead simply **end**, collecting the Pledge → see [[The Hollow]].
+The only sure release is to **kill the thing that holds your contract** — but a patron that can grant power can often **sense the intent forming**, so plotting it is its own peril. Term-limited contracts instead simply **end**, releasing you and collecting the Pledge → see [[The Unbound]].
 
 ## The Given-Over *(title, not a Condition)*
 
@@ -50,9 +50,9 @@ The only sure release is to **kill the thing that holds your contract** — but 
 
 ## GM Notes
 
-Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts the player can reject at a Stress cost. Never puppet the PC. The Pledge is the long fuse: term-limited Bound PCs are walking toward [[The Hollow]], which should be a known, dreaded horizon, not a surprise.
+Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts the player can reject at a Stress cost. Never puppet the PC. The Pledge is the long fuse: term-limited Bound PCs are walking toward [[The Unbound]], which should be a known, dreaded horizon, not a surprise.
 
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
-- Chains into: [[The Hollow]] (what an expired contract leaves behind)
+- Chains into: [[The Unbound]] (what an expired contract leaves behind — colloquially, the Hollow)
 - Contrast: [[Returned]] (the other Struck-only Condition — accident of death vs. sworn choice) · [[Far-Voiced]] (detects others' lies vs. betrays the Far-Voiced's own feeling)

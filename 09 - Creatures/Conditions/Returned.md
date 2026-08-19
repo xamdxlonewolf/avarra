@@ -14,7 +14,7 @@ path: Struck only
 population: ~9%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-19
 ---
 
 # Returned
@@ -29,8 +29,7 @@ The Returned are **Struck only** — you cannot be Given this at age 10, because
 
 *You died with something unfinished. It keeps you walking.*
 
-- **Unfinished Business** — You have already died once, and death's grip on you is loose. When you make a **death move**, you may choose **Risk It All** — and if you roll a failure (Fear > Hope), you **don't die**: instead you're taken out of the scene, "unstrung," and rise again by the next **long rest** (describe how you pull yourself back together). Only choosing **Blaze of Glory**, or spending the arc-move below, can truly end you. You are also **unshaken by the dead and dying** — automatically pass rolls to resist fear, horror, or despair from corpses, gore, and deathly places.
-- **Refuse the Rest** *(1/arc)* — Once per campaign arc, when you would make a death move, you may instead **auto-succeed it outright** — the unfinished thing simply will not let you go. No roll.
+- **Unfinished Business** *(boon)* — You have already died once, and death's grip on you is loose. When you make a **death move**, you gain a fourth option: **Refuse to Fall.** Instead of dying you give out — taken out of the current scene, "unstrung" — and you pull yourself back together by the next **long rest** (describe how). Like any brush with death, coming back leaves a mark: **cross out a Hope slot as a scar.** **If you would cross out your *last* Hope slot this way, you cannot Refuse to Fall** — the unfinished thing finally lets go, and that death is true and final (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). Your other death-move options are unchanged — you may still choose **Blaze of Glory**, or gamble on **Risk It All** and simply die if it fails. Refuse to Fall is the *steady* road back, and it is **finite** — counted in scars. You are also **unshaken by the dead and dying** — automatically pass rolls to resist fear, horror, or despair from corpses, gore, and deathly places.
 - **The Tether** *(Tithe)* — Name your **Purpose** — the unfinished thing that holds you here (write it on the card). While you can still act toward it, you are steady. If a **long rest** passes in which you did nothing in service of your Purpose, you begin to **settle**: mark a **Stress** that can't be cleared until you next act toward it, and your **touch runs cold** — living creatures you touch (or that touch you) feel a bone-deep wrongness and mark a Stress, and you have **disadvantage** on rolls to comfort, persuade, or charm the living until you act toward your Purpose again.
 
 ## Fulfilling your Purpose
@@ -43,11 +42,11 @@ Taking up a **new** Purpose instead keeps you Returned and walking. *(A major ch
 
 ## The Tithe, in the world
 
-The Tither is emotional as much as mechanical: a Returned is only steady while they have a reason. Neglect it and they cool — literally and socially — which is why the living can tell a "settling" Returned at a touch, and why the Returned build their lives around their purpose with almost religious care. **Blaze of Glory** is their one guaranteed true death: after a life of refusing rest, a Returned may finally choose their moment and go out spectacularly.
+The Tither is emotional as much as mechanical: a Returned is only steady while they have a reason. Neglect it and they cool — literally and socially — which is why the living can tell a "settling" Returned at a touch, and why the Returned build their lives around their purpose with almost religious care. Their returns are **counted** — each Refuse to Fall burns a Hope slot, so a long-walking Returned is a person you can see running out of comebacks — and **Blaze of Glory** remains the death they can *choose*: after a life of refusing rest, going out spectacularly on their own terms rather than on the last scar.
 
 ## GM Notes
 
-Being "unstrung" (taken out on a failed Risk It All) should still *cost* — they're gone for the rest of that scene/fight and only reassemble by the next long rest. It's not free immortality; it's "hard to keep down." Use a lapsed Purpose as story pressure, not a punishment — a Returned drifting toward settling is a character in quiet crisis.
+**Refuse to Fall is "hard to keep down," not immortality.** It costs a scar (a Hope slot) every time, exactly like any other character's brush with death — so it is *finite*, and the table can watch the count fall. Being "unstrung" also still costs the scene: they're out of the current fight and only reassemble by the next long rest. When the last Hope slot would go, they can't come back — that's the true death, and death-move tension is fully intact for a Returned nearing the end of their scars. Use a lapsed Purpose as story pressure, not a punishment — a Returned drifting toward settling is a character in quiet crisis.
 
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]

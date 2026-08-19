@@ -61,9 +61,9 @@ Some hold that the **Leaf-Mother** blessed the world with the Conditions, and th
 
 Integrated, lived-in, **~5% scary** — creatures are neighbours, colleagues, and family, accepted for the most part; the fresh-ness is in taking the standard tropes and turning them into *roles society needs*, each with an obstacle that must be met to keep living with the Condition.
 
-## The Condition roster (9 total — LOCKED)
+## The Condition roster (9 selectable + 1 downstream — LOCKED)
 
-Each is a recognizable monster given a fresh, integrated take. Standing spans revered → normal → looked-down → feared → legendary. Full takes/boons/Tithes are the next design task; % of population and path are locked below.
+Each is a recognizable monster given a fresh, integrated take. Standing spans revered → normal → looked-down → feared → legendary. There are **9 Conditions a person can be Given or Struck with** (below); a **10th, [[The Unbound]] (colloq. the Hollow), is a *downstream* state** — what a [[Bound]] becomes when a term-limited contract ends — so it can't be picked at creation, only reached through Bound. All ten now have **full, locked mechanics** in `09 - Creatures/Conditions/` (see [[Conditions]]).
 
 **The 4 CORE (locked as concepts, need full design):**
 | Condition | Monster | Path | ~% pop. | Role society needs |
@@ -81,6 +81,8 @@ Each is a recognizable monster given a fresh, integrated take. Standing spans re
 | **The Answered** | djinn/jinni | Given only | ~10% | wildcard — artisans, elemental craft, watch/rescue crews |
 | **The Taken-In** | leshy | Both | ~12% | respected-but-looked-down — agriculture, frontier, forestry · door: lost & dying in deep wild |
 | **Phoenix** | phoenix | Given only | **<0.1% (trace)** | **legendary** — almost never seen; known through stories; hook = cyclical rebirth |
+
+**The downstream 10th — [[The Unbound]]** *(colloq. the Hollow)* | the price of a contract | Struck — **chains off [[Bound]] only** | ~1.5% | pitied/uneasy — released from a contract, but missing the Pledge they paid. Not selectable at creation.
 
 **The Kept** = the normal ~25% (Tree hugged them, no colour). Wanted and special in their own right — not "unconditioned lack."
 

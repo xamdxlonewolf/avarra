@@ -1,11 +1,11 @@
 ---
-title: The Hollow
+title: The Unbound
 type: condition
 visibility: gm
 note_status: draft
 status: active
-tags: [condition, becoming, struck, hollow, contract]
-aliases: [Hollow, The Hollowed, The Pledged]
+tags: [condition, becoming, struck, unbound, hollow, contract]
+aliases: [The Unbound, Unbound, The Hollow, Hollow, The Hollowed, The Pledged]
 world:
 category: Condition
 monster: (the price of a contract)
@@ -14,16 +14,18 @@ path: Struck only (chains off Bound)
 population: ~1.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-19
 ---
 
-# The Hollow
+# The Unbound
 
-> **What a term-limited [[Bound]] contract leaves behind.** When the term ends, the counterparty collects the **Pledge** — the part of themselves the person named at signing — and they are left **Hollow**: a person with a hole where a piece of them used to be, exactly as agreed. **Struck only**; it chains off Bound. Rare (~1.5% — only the subset of Bound whose contracts were term-limited, rather than open-ended).
+> **What a term-limited [[Bound]] contract leaves behind.** When the term ends, the counterparty releases the person and collects the **Pledge** — the part of themselves they named at signing — and they walk away **unbound**: free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. **Struck only**; it chains off Bound. Rare (~1.5% — only the subset of Bound whose contracts were term-limited, rather than open-ended). Colloquially still called **the Hollow**, for the absence the freedom cost.
+
+> **On the name.** The Condition is titled for the *release* — the contract is over, they are **unbound** — but the common tongue fixes on the *cost* and calls them **the Hollow**. Both are true: a freedom, and an absence. The note uses "the Unbound" for the state and "the Hollow" as the lived-in nickname.
 
 ## The take
 
-The Pledge was **chosen up front**, at the signing — you knew what you would owe (an eye, a leg, your capacity for fear, your memory of home). So the loss is **both grief and gift**: the hole is also an immunity. Standing: **pitied / uneasy** — people aren't *afraid* of the Hollow, they're unsettled by the *absence* in them. Where the [[Long-Lived]] must keep **learning** to stay whole, the Hollow must keep **connecting** to stay quiet — the opposite fuel.
+The Pledge was **chosen up front**, at the signing — you knew what you would owe (an eye, a leg, your capacity for fear, your memory of home). So the loss is **both grief and gift**: the hole is also an immunity. Standing: **pitied / uneasy** — people aren't *afraid* of the Unbound, they're unsettled by the *absence* in them. Where the [[Long-Lived]] must keep **learning** to stay whole, the Unbound must keep **connecting** to stay quiet — the opposite fuel.
 
 ## Daggerheart — Transformation card
 
@@ -37,12 +39,12 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 
 ## Player guardrail (IMPORTANT)
 
-**A player cannot simply choose the Hollow at character creation.** It is a *downstream* state: you become Hollow only after playing through (or arranging at session zero, with the GM) an actual [[Bound]] contract — establishing **what the contract was, what you Pledged, and the moment the term came due and it was collected.** The Absence must be a specific, agreed loss with real weight, not a free immunity. Talk it through with the GM first.
+**A player cannot simply choose the Unbound at character creation.** It is a *downstream* state: you become Unbound only after playing through (or arranging at session zero, with the GM) an actual [[Bound]] contract — establishing **what the contract was, what you Pledged, and the moment the term came due and it was collected.** The Absence must be a specific, agreed loss with real weight, not a free immunity. Talk it through with the GM first.
 
 ## GM Notes
 
-The Quiet is a **temptation engine**, not a compulsion — keep every "reach for the bargain" beat refusable at a Stress cost. The tragedy to play toward: a Hollow who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the **Given-Over** (see [[Bound]]). Warmth is the only thing that actually fills the hole; contracts only mute it.
+The Quiet is a **temptation engine**, not a compulsion — keep every "reach for the bargain" beat refusable at a Stress cost. The tragedy to play toward: an Unbound who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the **Given-Over** (see [[Bound]]). Warmth is the only thing that actually fills the hole; contracts only mute it.
 
 ## Links
 - [[Conditions]] · [[Bound]] (the cause) · [[The Premise]] · [[Build Plan]]
-- Contrast: [[Long-Lived]] (kept whole by *learning*; the Hollow by *connection*)
+- Contrast: [[Long-Lived]] (kept whole by *learning*; the Unbound by *connection*)
