@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-14
+updated: 2026-08-19
 ---
 
 # 11 - Secrets
@@ -15,7 +15,9 @@ updated: 2026-08-14
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- 
+
+### GM Truth
+- [[Is the Leaf-Mother Real]] — 🔒 **keystone secret** (`reveal_tag: leaf-mother-is-real`): she **is** real and benevolent; the Trees genuinely are her hands; the gifts are real. Skeptics are sincere and wrong. Exposed-by: [[Turning Tree]], [[The Leaf-Mother]].
 
 ## Related
-- 
+- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Roadmap]]

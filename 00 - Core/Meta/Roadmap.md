@@ -30,8 +30,8 @@ updated: 2026-08-17
 
 | # | Epic | Unblocks / why here | Blast radius | Status |
 |---|------|--------------------|:---:|:---:|
-| **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | 🟢 ~90% |
-| **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | ⬜ next |
+| **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | 🟢 ~95% |
+| **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | 🟢 core done |
 | **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ⬜ |
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | ⬜ |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; custom ancestries ✅ done | Low | 🟢 partial |
@@ -47,40 +47,45 @@ updated: 2026-08-17
 ---
 
 ## Epic 0 — Foundations
-**Skill:** `systemic-worldbuilding` · **Status:** 🟢 nearly done — only the keystone secret remains.
+**Skill:** `systemic-worldbuilding` · **Status:** 🟢 nearly done — only *name the setting* remains.
 
 - [x] 🔒 Two-layer model (Kind + Condition) — see [[The Premise]]
 - [x] 🔒 Acquisition engine (Given at the Tree / Struck later) + population math
 - [x] 🔒 Full 10-Condition roster (monsters, standing, path, %)
 - [x] 🔒 All 10 Condition **mechanics** designed (Transformation cards in `09 - Creatures/Conditions/`)
-- [ ] 🟡 **Lock the keystone GM secret** — *is the Leaf-Mother real?* Decide the one-line answer (don't flesh it). Everything in Epic 1 & the theme aim at this. → seeds [[#Epic 9 — Secrets & Canon]]
+- [x] 🔒 **Keystone GM secret locked (2026-08-19):** *the Leaf-Mother is real and benevolent* — the Trees genuinely are her hands, the gifts are real, skeptics are sincere and wrong. One-line answer decided, not fleshed. → [[Is the Leaf-Mother Real]] (`reveal_tag: leaf-mother-is-real`), seeds [[#Epic 9 — Secrets & Canon]]
 - [ ] 🟡 **Name the setting** (currently unnamed) — low urgency, but stops being "the setting" once it has a name
 
 ---
 
 ## Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)
-**Skill:** `belief-systems` (+ `oblique-worldbuilding` for in-world texts, `paradox-fables` for the schism folklore) · **Status:** ⬜ **← NEXT** · **Blast radius: High.**
+**Skill:** `belief-systems` (+ `oblique-worldbuilding` for in-world texts, `paradox-fables` for the schism folklore) · **Status:** 🟢 **core done (2026-08-19)** — Tree + faith notes written; deferred sub-items remain. · **Blast radius: High.**
 
-> The Leaf-Fall is *already* locked as the engine ([[The Premise]]). This epic makes the Tree and its religion **concrete** — the thing every later system references.
+> The Leaf-Fall is *already* locked as the engine ([[The Premise]]). This epic makes the Tree and its religion **concrete** — the thing every later system references. **Core notes:** [[Turning Tree]] (object + rite) and [[The Leaf-Mother]] (the faith).
 
-### Story 1.1 — The Turning Tree (the object)
-- [ ] 🟡 Name the Tree (species-name + common name)
-- [ ] 🟡 **One great Tree vs. scion-per-town** (Build Plan leans scion-per-town) — decide; it drives geography & settlement layout
-- [ ] What a Tree physically *is* / where scions come from / can one die or be moved
-- [ ] The Leaf-Fall ceremony: staging, who attends, what the colours look like, the "hug" (Kept) moment
-- [ ] How the colour→Condition mapping is read/known (a priesthood? common knowledge? a guild?)
+### Story 1.1 — The Turning Tree (the object) → [[Turning Tree]]
+- [x] 🟡 Name the Tree — everyday **Turning Tree**; reverent **Hand of the Mother**; species-word **motherwood**; the origin is **the Awakening Tree** (liturg. *the First Hand*). *(Proposed — safe to change.)*
+- [x] 🔒 **Topology decided (2026-08-19):** **one origin Tree (the Awakening Tree); town Trees are living grafts of it** — carried out to towns as they arise. Gives a Tree nearby *and* a pilgrimage. Drives geography (Epic 3) & settlement layout (Epic 7).
+- [x] What a Tree physically *is* / where scions come from (graft-rite) / can one die or be moved (mortal wood; sickens & dies; replace by fresh graft; hard to transplant mature)
+- [x] The Leaf-Fall ceremony: staging, who attends, the colour-fall, the "hug" (Kept) moment
+- [x] How the colour→Condition mapping is read/known — folk-known commons + **tree-warden clergy** as authoritative readers (full colour palette deferred to Epic 2/4)
 
-### Story 1.2 — The Leaf-Mother (the religion)
-- [ ] 🔒 (already) she's a *belief, not confirmed cosmology* — keep it that way in-notes
-- [ ] Believers' doctrine: the Conditioned are *chosen*; the Trees are her hands
-- [ ] Skeptics' position: it's just what the Trees do — biology, not benediction
-- [ ] The live schism (from [[The Premise]]): *if she blesses everyone, why are ~25% Given nothing? Are the Kept unblessed or spared? What does it mean the Struck receive a Condition she never handed out?*
-- [ ] Clergy / institutions of the faith (feeds [[#Epic 5 — Factions & Orders]])
-- [ ] 1–2 in-world texts or sayings (`oblique-worldbuilding`) that carry the doctrine *and* seed a reveal
+### Story 1.2 — The Leaf-Mother (the religion) → [[The Leaf-Mother]]
+- [x] 🔒 (already) she's a *belief, not confirmed cosmology* — kept that way in-notes (player-facing; GM truth walled off in [[Is the Leaf-Mother Real]])
+- [x] Believers' doctrine: the Conditioned are *chosen*; the Trees are her hands (gift-religion, "tend what you're given")
+- [x] Skeptics' position: it's just what the Trees do — and the faith is **orthopraxic**, so skeptics belong through practice
+- [x] The live schism — built as **three good-faith branches**: Kept (spared/slighted), Struck (still hers?), and does-a-mind-choose (believer/skeptic)
+- [ ] Clergy / institutions of the faith — sketched (tree-wardens, the Awakening-Tree seat); full orders **deferred to [[#Epic 5 — Factions & Orders]]**
+- [x] 1–2 in-world texts (`oblique-worldbuilding`) that carry doctrine *and* seed a reveal — the Tender's blessing + the Kept-child's saying
 
 ### Story 1.3 — Reconcile with canon
-- [ ] Ensure Tree/Leaf-Mother notes declare `reveals:` for the keystone secret (Epic 0)
-- [ ] Cross-link from [[The Premise]], [[Conditions]], and the relevant section MOCs
+- [x] Tree/Leaf-Mother notes declare `reveals: [leaf-mother-is-real]`
+- [x] Cross-linked from [[The Premise]], the [[07 - Religion]] & [[11 - Secrets]] MOCs (Conditions cross-link pending a later pass)
+
+> **Deferred out of Epic 1 (tracked):** full clergy orders + pilgrimage-seat politics → Epic 5 · colour→Condition palette → Epic 2/4 · sacred calendar/solstice reckoning → Epic 3 · faith economy → Epic 2 · **the wider pantheon / other religions** (Motherfaith is one faith among several — user directive 2026-08-19) → **new religion-as-a-whole pass** (see Story 1.4).
+
+### Story 1.4 — Wider pantheon / other religions (🟡 NEW — deferred)
+- [ ] 🟡 The Leaf-Mother is *one faith among several* — design the other gods/religions and how they coexist, compete, or syncretize with the Motherfaith. Keeps the world alive & diverse. *(Per user, do this in the religion-as-a-whole pass, not now.)*
 
 ---
 
@@ -162,11 +167,11 @@ updated: 2026-08-17
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic 0 — Foundations:** 4 / 6 tasks (67%) — keystone secret + name remain
-- **Epic 1 — Anchor:** 0 / ~14 — **next**
+- **Epic 0 — Foundations:** 5 / 6 tasks (83%) — only *name the setting* remains
+- **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Locked decisions:** two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries.
+- **Locked decisions:** two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, **keystone secret (Leaf-Mother real+benevolent)**, **Tree topology (one Awakening Tree + living grafts)**.
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
