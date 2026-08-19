@@ -2,7 +2,7 @@
 title: Far-Voiced
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, given, struck, siren]
 aliases: [The Far-Voiced, Siren, Carriers, Chorus-Trained]

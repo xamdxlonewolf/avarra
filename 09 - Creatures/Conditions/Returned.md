@@ -2,7 +2,7 @@
 title: Returned
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, struck, zombie]
 aliases: [The Returned, Zombie, Reanimated, The Unfinished]

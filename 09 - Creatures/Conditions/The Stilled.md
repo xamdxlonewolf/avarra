@@ -2,7 +2,7 @@
 title: The Stilled
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, given, struck, gorgon]
 aliases: [Stilled, Gorgon, Grey-Touched, Stone-Kissed]
@@ -31,17 +31,17 @@ One of the Stilled has a gaze that can hold a moment still — a bleeding wound 
 
 *You can hold a moment still. The stillness has to come from somewhere — and if you don't move it along, it settles into you.*
 
-- **The Stilling Gaze** — Spend a **Hope** to still a wound, a spreading harm, or a struggle you can see: stop a creature's bleeding or the spread of a poison/disease, or render a target **Restrained** for a beat — held fast, unable to act, until they mark a Stress to break free or the scene moves on. It is brief and precise; nothing you still this way is harmed by the stilling itself.
-- **The Grey** *(Tithe)* — Place **3 Grey tokens** on this card. Between rests you must **move it off** — real, vigorous exertion: a hard spar, a dance, heavy labor, a fight, anything that works the body. If a rest passes without it, **remove a token**:
-  - **2 tokens:** no effect.
-  - **1 token:** the **grey creeps in** — your joints stiffen; you have **disadvantage** on Agility rolls and on rolls to evade.
-  - **0 tokens:** the stillness **seizes**. The next time you use the Stilling Gaze, or the next time you take damage, one of your own limbs **locks stone-still** — useless until it's tended and rested off (describe it: an arm, a leg, your jaw). The GM may instead gain a **Fear**: something small and nearby — a doorknob, a cup, a patch of ground — turns permanently to stone, collateral of the seizing. Afterward, refill to **2 tokens**.
+- **The Stilling Gaze** — You may still a wound, a spreading harm, or a struggle you can see: stop a creature's bleeding or the spread of a poison/disease, or render a target **Restrained** for a beat — held fast, unable to act, until they mark a Stress to break free or the scene moves on. It is brief and precise; nothing you still this way is harmed by the stilling itself. But the stillness has to come from somewhere: **each time you use the Gaze, add a Grey token** (see *The Grey*).
+- **The Grey** *(Tithe)* — The stillness you spend collects in you, and if you don't work it back out, it settles. Place **Grey tokens** on this card, starting at **0** — this is a *filling* clock, not a draining one. **Add a Grey token** each time you use the Stilling Gaze, and **add one** whenever a rest passes without real, vigorous exertion (a hard spar, a dance, heavy labor, a fight — anything that works the body). **Clear one token** for each scene you spend in that kind of exertion. The stillness rises:
+  - **1 token:** no effect.
+  - **2 tokens:** the **grey creeps in** — your joints stiffen; you have **disadvantage** on Agility rolls and on rolls to evade.
+  - **3 tokens (full):** the stillness **seizes**. The next time you use the Stilling Gaze, or the next time you take damage, one of your own limbs **locks stone-still** — useless until it's tended and rested off (describe it: an arm, a leg, your jaw). The GM may instead gain a **Fear**: something small and nearby — a doorknob, a cup, a patch of ground — turns permanently to stone, collateral of the seizing. Afterward, clear back to **1 token**.
 
 *(The seizing only ever locks the Stilled's own body, or harmless scenery — it never petrifies another creature and never takes a PC's turn away from its player. Nobody's will bends; nobody else pays the debt.)*
 
 ## The Tithe, in the world
 
-The pleasant version is why the training is what it is: the Stilled drill hard, spar often, and stay physically busy almost as a matter of professional identity — a still member of the Stilled is one in trouble, so the guilds build constant motion into the job itself (patrols, practice bouts, dance as therapy). The scary edge is exactly why licensing exists: an unlicensed or careless one of the Stilled who lets the Grey run to zero is a real, documented hazard — to themselves first, but a stilled doorknob is one thing and a stilled hand on a weapon is another, which is why the guild's oversight is strict rather than ceremonial.
+The pleasant version is why the training is what it is: the Stilled drill hard, spar often, and stay physically busy almost as a matter of professional identity — every use of the gaze banks a little grey, so the guilds build constant motion into the job itself (patrols, practice bouts, dance as therapy) to work it back out before it settles. The scary edge is exactly why licensing exists: an unlicensed or careless one of the Stilled who lets the Grey run to zero is a real, documented hazard — to themselves first, but a stilled doorknob is one thing and a stilled hand on a weapon is another, which is why the guild's oversight is strict rather than ceremonial.
 
 ## Getting Struck
 
