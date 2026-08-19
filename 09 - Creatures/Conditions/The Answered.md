@@ -2,7 +2,7 @@
 title: The Answered
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, given, djinn]
 aliases: [The Answered, Djinn, Jinni, Answerers]

@@ -2,7 +2,7 @@
 title: The Unbound
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, struck, unbound, hollow, contract]
 aliases: [The Unbound, Unbound, The Hollow, Hollow, The Hollowed, The Pledged]

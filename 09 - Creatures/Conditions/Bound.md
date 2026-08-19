@@ -2,7 +2,7 @@
 title: Bound
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, struck, demon, contract]
 aliases: [The Bound, Demon, Contract-Sworn, Oath-Keepers]
@@ -46,7 +46,7 @@ The only sure release is to **kill the thing that holds your contract** — but 
 
 ## The Given-Over *(title, not a Condition)*
 
-*(Placeholder name.)* The world's name for a Bound who keeps signing — power after power, pledge after pledge — first out of **fear of paying** what they already owe (sign another contract to defer the debt), then because it becomes too much to stop. Bit by bit they give themselves over until the being effectively **holds them**. This is an **NPC-tier fate / narrative title**, not a playable Condition — a PC who has signed away nearly all of themselves is no longer really playable. Guild term of art: *the Forfeit*.
+The world's name for a Bound who keeps signing — power after power, pledge after pledge — first out of **fear of paying** what they already owe (sign another contract to defer the debt), then because it becomes too much to stop. Bit by bit they give themselves over until the being effectively **holds them**. This is an **NPC-tier fate / narrative title**, not a playable Condition — a PC who has signed away nearly all of themselves is no longer really playable. The plain name is **the Given-Over**; among the contract-guilds the term of art is **the Forfeit**.
 
 ## GM Notes
 

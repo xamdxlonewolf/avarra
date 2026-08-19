@@ -2,7 +2,7 @@
 title: Two-Bodied
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, given, werewolf, shifter]
 aliases: [The Two-Bodied, Werewolf, Animal-Shifters, The Other Self]

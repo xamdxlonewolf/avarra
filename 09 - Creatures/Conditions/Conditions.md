@@ -16,7 +16,7 @@ updated: 2026-08-19
 
 ## Mechanical frame
 
-Conditions are built as Daggerheart **Transformation cards** (see the SRD Transformations WIP): a flavor line + **features** — at minimum a **boon** and a **Tithe/drawback**, hooked to real resources (Hope, Stress, HP, Fear, tiers, Experiences). One transformation per PC; it sits in the loadout like a heritage card and doesn't count against domain-card limits. **Design rule:** a Tithe is satisfied by normal play/rest; the scary edge is opt-in or narrative — it must **never seize control of the PC**. Keep takes recognizable-but-fresh and reasonably system-portable. *(Feature **count** currently varies card to card — normalizing power across the roster is a tracked Tier-2 audit item; see [[Condition Audit]].)*
+Conditions are built as Daggerheart **Transformation cards** (see the SRD Transformations WIP): a flavor line + **features** — at minimum a **boon** and a **Tithe/drawback**, hooked to real resources (Hope, Stress, HP, Fear, tiers, Experiences). One transformation per PC; it sits in the loadout like a heritage card and doesn't count against domain-card limits. **Design rule:** a Tithe is satisfied by normal play/rest; the scary edge is opt-in or narrative — it must **never seize control of the PC**. Keep takes recognizable-but-fresh and reasonably system-portable. *(Feature **count** varies card to card **by design** — spotlight/complex Conditions carry more than the workhorse cards; what's held constant is a clean boon + labeled Tithe per card. See [[Condition Audit]].)*
 
 ## The roster — 9 selectable + 1 downstream
 

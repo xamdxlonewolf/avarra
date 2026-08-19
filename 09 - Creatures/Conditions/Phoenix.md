@@ -2,7 +2,7 @@
 title: Phoenix
 type: condition
 visibility: gm
-note_status: draft
+note_status: locked
 status: active
 tags: [condition, becoming, given, phoenix, legendary]
 aliases: [The Phoenix, Ash-Born, The Cyclical, Ember-Souled]
@@ -49,8 +49,8 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 
 **The rebirth**:
 
-- **Rise From Ash** — When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene — you return with all Hit Points and Stress cleared, standing in your own ashes. But rebirth burns part of who you were: **cross out a Hope slot** (as a scar) and, with the GM, name a piece of the old life that did *not* come back — a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before.
-- **The Dwindling** *(Tithe)* — Rebirth is finite: **each Rise From Ash permanently crosses out a Hope slot**, exactly as a scar does. Your lives are counted in Hope. **When you would cross out your last Hope slot to Rise, you cannot** — that death is your true and final one, and this turn of the soul ends for good (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). *Then, somewhere, a leaf falls for the next Phoenix.* The dread is the **count**: everyone at the table can see how many risings are left, and so, quietly, can the Phoenix.
+- **Rise From Ash** — When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene — you return with all Hit Points and Stress cleared, standing in your own ashes. But rebirth burns part of who you were: with the GM, name a piece of the old life that did *not* come back — a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before. (The count this costs you is **The Dwindling**, below.)
+- **The Dwindling** *(Tithe)* — Rebirth is finite, and paid in self. **Each Rise From Ash permanently crosses out a Hope slot**, as a scar does; your lives are counted in Hope. **When you would cross out your last Hope slot to Rise, you cannot** — that death is your true and final one, and this turn of the soul ends for good (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). *Then, somewhere, a leaf falls for the next Phoenix.* The dread is the **count**: everyone at the table can see how many risings are left, and so, quietly, can the Phoenix.
 
 *(Rise From Ash acts only on the Phoenix's own body and Hope; Kindle is an ordinary attack, no different from a torch or a blade in what it may target. Nothing here compels another creature's will.)*
 
