@@ -12,7 +12,7 @@ updated: 2026-08-15
 
 # The Premise
 
-> **Design hub.** The core concept of the setting: a world where "monsters" (vampires, werewolves, etc.) are **not hated or hidden — they are integrated members of society**, given a *fresh* take rather than the standard tropes. The system is unnamed so far; this note fixes the load-bearing design. Status & next steps: [[Build Plan]].
+> **Design hub.** The core concept of **The Turning** (the setting's name, locked 2026-08-20): a world where "monsters" (vampires, werewolves, etc.) are **not hated or hidden — they are integrated members of society**, given a *fresh* take rather than the standard tropes. The world is named for its defining act — the tenth-year **Turning** at the [[Turning Tree]]. This note fixes the load-bearing design. Status & next steps: [[Build Plan]].
 
 ## The one-line pitch
 

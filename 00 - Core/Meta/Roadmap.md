@@ -30,7 +30,7 @@ updated: 2026-08-17
 
 | # | Epic | Unblocks / why here | Blast radius | Status |
 |---|------|--------------------|:---:|:---:|
-| **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | 🟢 ~95% |
+| **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | ✅ done |
 | **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | 🟢 core done |
 | **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ⬜ |
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | ⬜ |
@@ -47,14 +47,14 @@ updated: 2026-08-17
 ---
 
 ## Epic 0 — Foundations
-**Skill:** `systemic-worldbuilding` · **Status:** 🟢 nearly done — only *name the setting* remains.
+**Skill:** `systemic-worldbuilding` · **Status:** ✅ **complete (2026-08-20).**
 
 - [x] 🔒 Two-layer model (Kind + Condition) — see [[The Premise]]
 - [x] 🔒 Acquisition engine (Given at the Tree / Struck later) + population math
 - [x] 🔒 Full 10-Condition roster (monsters, standing, path, %)
 - [x] 🔒 All 10 Condition **mechanics** designed (Transformation cards in `09 - Creatures/Conditions/`)
 - [x] 🔒 **Keystone GM secret locked (2026-08-19):** *the Leaf-Mother is real and benevolent* — the Trees genuinely are her hands, the gifts are real, skeptics are sincere and wrong. One-line answer decided, not fleshed. → [[Is the Leaf-Mother Real]] (`reveal_tag: leaf-mother-is-real`), seeds [[#Epic 9 — Secrets & Canon]]
-- [ ] 🟡 **Name the setting** (currently unnamed) — low urgency, but stops being "the setting" once it has a name
+- [x] 🔒 **Setting named (2026-08-20): _The Turning_** — named for its defining act (the tenth-year Turning at the [[Turning Tree]]); plainest register, sits flush with "Turning Tree" / "Turning-week." (Variant "The Turning Lands" available for regional phrasing.)
 
 ---
 
@@ -167,11 +167,11 @@ updated: 2026-08-17
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic 0 — Foundations:** 5 / 6 tasks (83%) — only *name the setting* remains
+- **Epic 0 — Foundations:** 6 / 6 tasks (100%) ✅ — setting named *The Turning* (2026-08-20)
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Locked decisions:** two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, **keystone secret (Leaf-Mother real+benevolent)**, **Tree topology (one Awakening Tree + living grafts)**.
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent), Tree topology (one Awakening Tree + living grafts).
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
