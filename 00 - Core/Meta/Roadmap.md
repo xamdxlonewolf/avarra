@@ -100,10 +100,12 @@ updated: 2026-08-17
 > - **R2 social guard (from the keystone):** the Leaf-Mother's benevolence is *cosmological, not social* — do **not** let it launder injustice. Struck stigma, Tithe-infrastructure-as-leverage, guild conscription are **real frictions to keep**, not misreadings to dissolve.
 
 ### Story 2.1 — Law & citizenship (`governance-systems`) ✅ **DONE (2026-08-20)** → [[Law and Citizenship]]
-- [x] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound) — the **Warrant** system (guild-issued, tracks danger-to-others not power); the **Inviolate Will** doctrine sorts the criminal code
-- [x] How the Struck are handled legally (no ceremony, sometimes "a little suspect") — the **Roll** (Turning-register) + the **read-in / unread** Struck seam; documentation gap, not mere prejudice
-- [x] Rights of the Kept — Rolled at ten, untithed, unwarranted; the *default legal person*; wrinkles: still-Struck-later, and pitied where reverence runs hot
-- [x] **Bonus locks:** the **three pillars** (Long-Lived / Bound / Far-Voiced *are* the legal apparatus); **3 polity stances** (Warm / Ordered / Frontier) satisfying the no-planet-of-hats rule; R2 guard applied in GM Notes
+> **Core design call (user, 2026-08-20): citizenship is _witnessed, not recorded_.** No universal register (that was too invasive for a ~5%-scary world). You belong because your town *watched you Turn*; proof-at-a-distance runs through **vouching people** (Long-Lived memory / Bound binding word / Far-Voiced unfakeable feeling), not papers. The only per-person paper is a **guild safety-licence for the ~3 hazardous Conditions.** A universal register survives *only* as **one aberrant kingdom's paranoia** (the Watchful) — the creepy version is rare and villainous, not the baseline.
+- [x] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound) — the **guild safety-licence** (danger-to-others only, held by the person, not a census); the **Inviolate Will** doctrine (no Condition compels a will) sorts the criminal code
+- [x] How the Struck are handled legally ("a little suspect") — they **changed *unwitnessed*** (later & alone), so must be **vouched anew**; the vulnerable are the *unvouched*, not the "undocumented"
+- [x] Rights of the Kept — witnessed at ten, untithed, unlicensed; the *default legal person*; wrinkles: still-Struck-later, and pitied where reverence runs hot
+- [x] **Bonus locks:** the **three pillars** (Long-Lived / Bound / Far-Voiced *are* the evidence/contract apparatus — and are *why* no register is needed); **3 polity stances** (Warm / Watchful-register-keeper / Frontier) — no planet-of-hats; R2 guard applied in GM Notes
+- **🟡 Deferred:** in-world naming + regional/language variants for every institution (names here are provisional descriptive placeholders) → after polity archetypes + language sketches exist (Epic 2 tail / Epic 4).
 ### Story 2.2 — Economy & the Tithe-infrastructure (`economic-systems`)
 - [ ] The institutions that help people *pay their Tithes* (the "why society organizes around the Conditioned")
 - [ ] Labor: which Conditions do which needed jobs (already sketched per-Condition — systematize)

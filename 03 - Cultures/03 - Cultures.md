@@ -23,7 +23,7 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 - *(These sit alongside Daggerheart's 18 stock ancestries — see [[Build Plan]].)*
 
 ### Social Structures
-- [[Law and Citizenship]] — the universal legal grammar of a world where 3 of 4 carry a Condition (the Roll, the Struck seam, the Inviolate Will, Warrants, and the three polity stances). *(Epic 2, Story 2.1.)*
+- [[Law and Citizenship]] — the universal legal grammar of a world where 3 of 4 carry a Condition. Citizenship is *witnessed, not recorded* (your town saw you Turn; proof runs through vouching people, not papers); the Inviolate Will doctrine; guild safety-licences for the ~3 hazardous Conditions; three polity stances. *(Epic 2, Story 2.1.)*
 
 ### Conditions (acquired becomings — the "monster" layer)
 - *(All 10 designed & locked with full mechanics — see [[Conditions]] in `09 - Creatures`.)*
