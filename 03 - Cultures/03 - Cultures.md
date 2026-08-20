@@ -17,12 +17,16 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
 
 ### Custom Kinds (born-ancestries unique to this world)
-- [[Kitsune]] — fox-born; custom ancestry (fresh angle TBD)
-- [[Selkie]] — sea-born; custom ancestry (fresh angle TBD)
+- [[Kitsune]] — fox-born; custom ancestry (locked, 3 features)
+- [[Selkie]] — sea-born; custom ancestry (locked, 3 features)
+- [[Tengu]] — mountain-born crow-folk; custom ancestry (locked, 3 features)
 - *(These sit alongside Daggerheart's 18 stock ancestries — see [[Build Plan]].)*
 
+### Social Structures
+- [[Law and Citizenship]] — the universal legal grammar of a world where 3 of 4 carry a Condition (the Roll, the Struck seam, the Inviolate Will, Warrants, and the three polity stances). *(Epic 2, Story 2.1.)*
+
 ### Conditions (acquired becomings — the "monster" layer)
-- *(In design — 4 core locked as concepts, 4 replacements to be designed. See [[Build Plan]]. May get its own folder/MOC once built.)*
+- *(All 10 designed & locked with full mechanics — see [[Conditions]] in `09 - Creatures`.)*
 
 ## Related
 - [[The Premise]] — the two-layer (Kind + Condition) model

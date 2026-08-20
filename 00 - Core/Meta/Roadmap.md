@@ -99,10 +99,11 @@ updated: 2026-08-17
 > - **Register:** late-medieval burgher surface (no print, no gunpowder); the *only* advancement beyond comes from **Condition-labor** — legible, concentrated, paid-for by Tithes.
 > - **R2 social guard (from the keystone):** the Leaf-Mother's benevolence is *cosmological, not social* — do **not** let it launder injustice. Struck stigma, Tithe-infrastructure-as-leverage, guild conscription are **real frictions to keep**, not misreadings to dissolve.
 
-### Story 2.1 — Law & citizenship (`governance-systems`)
-- [ ] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound)
-- [ ] How the Struck are handled legally (no ceremony, sometimes "a little suspect")
-- [ ] Rights of the Kept
+### Story 2.1 — Law & citizenship (`governance-systems`) ✅ **DONE (2026-08-20)** → [[Law and Citizenship]]
+- [x] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound) — the **Warrant** system (guild-issued, tracks danger-to-others not power); the **Inviolate Will** doctrine sorts the criminal code
+- [x] How the Struck are handled legally (no ceremony, sometimes "a little suspect") — the **Roll** (Turning-register) + the **read-in / unread** Struck seam; documentation gap, not mere prejudice
+- [x] Rights of the Kept — Rolled at ten, untithed, unwarranted; the *default legal person*; wrinkles: still-Struck-later, and pitied where reverence runs hot
+- [x] **Bonus locks:** the **three pillars** (Long-Lived / Bound / Far-Voiced *are* the legal apparatus); **3 polity stances** (Warm / Ordered / Frontier) satisfying the no-planet-of-hats rule; R2 guard applied in GM Notes
 ### Story 2.2 — Economy & the Tithe-infrastructure (`economic-systems`)
 - [ ] The institutions that help people *pay their Tithes* (the "why society organizes around the Conditioned")
 - [ ] Labor: which Conditions do which needed jobs (already sketched per-Condition — systematize)
@@ -176,7 +177,7 @@ updated: 2026-08-17
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard). Story 2.1/2.2/2.3 pending.
+- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard). **Story 2.1 (Law & citizenship) ✅ done** → [[Law and Citizenship]]. Story 2.2/2.3 pending.
 - **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
 
 ## Links
