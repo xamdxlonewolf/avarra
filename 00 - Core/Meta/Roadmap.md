@@ -90,9 +90,14 @@ updated: 2026-08-17
 ---
 
 ## Epic 2 — Society & Institutions
-**Skill:** `governance-systems`, `economic-systems` · **Status:** ⬜ · **Blast radius: High.**
+**Skill:** `governance-systems`, `economic-systems` · **Status:** 🟢 in progress (started 2026-08-20) · **Blast radius: High.**
 
 > The payoff epic: *how does a civilization work when 3 of 4 people carry a Tithe?* Every settlement & faction inherits these answers, so it comes before the specific places.
+
+> **Frame locked before starting (2026-08-20 — see [[The Premise]]):**
+> - **Scale:** ~15 large polities across 3 large + 1 small continent. Epic 2 builds the **universal social physics** + **2–3 polity archetypes**; the rest are named-stubs deferred to Epic 3/7.
+> - **Register:** late-medieval burgher surface (no print, no gunpowder); the *only* advancement beyond comes from **Condition-labor** — legible, concentrated, paid-for by Tithes.
+> - **R2 social guard (from the keystone):** the Leaf-Mother's benevolence is *cosmological, not social* — do **not** let it launder injustice. Struck stigma, Tithe-infrastructure-as-leverage, guild conscription are **real frictions to keep**, not misreadings to dissolve.
 
 ### Story 2.1 — Law & citizenship (`governance-systems`)
 - [ ] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound)
@@ -171,7 +176,8 @@ updated: 2026-08-17
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent), Tree topology (one Awakening Tree + living grafts).
+- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard). Story 2.1/2.2/2.3 pending.
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
