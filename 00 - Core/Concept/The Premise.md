@@ -12,7 +12,7 @@ updated: 2026-08-15
 
 # The Premise
 
-> **Design hub.** The core concept of the setting: a world where "monsters" (vampires, werewolves, etc.) are **not hated or hidden — they are integrated members of society**, given a *fresh* take rather than the standard tropes. The system is unnamed so far; this note fixes the load-bearing design. Status & next steps: [[Build Plan]].
+> **Design hub.** The core concept of **The Turning** (the setting's name, locked 2026-08-20): a world where "monsters" (vampires, werewolves, etc.) are **not hated or hidden — they are integrated members of society**, given a *fresh* take rather than the standard tropes. The world is named for its defining act — the tenth-year **Turning** at the [[Turning Tree]]. This note fixes the load-bearing design. Status & next steps: [[Build Plan]].
 
 ## The one-line pitch
 
@@ -55,7 +55,11 @@ Of the whole population, over a lifetime: **~60% Given** at the Tree · **~15% S
 
 ## The Leaf-Mother (a religion — belief, not confirmed cosmology)
 
-Some hold that the **Leaf-Mother** blessed the world with the Conditions, and the **Turning Tree** is how she reaches down — the town scions are her hands, the Leaf-Fall is her *choosing*. This is **a belief held by some**, not locked cosmology. It hands us built-in friction: **believers** (the Conditioned are *chosen*), **skeptics** (it's just what the Trees do — biology, not benediction), and a live theological schism — *if she blesses everyone, why are 25% Given nothing? Are the Kept unblessed, or spared? And what does it mean that the Struck receive a Condition she never handed out?* Build out later with `belief-systems`.
+Some hold that the **Leaf-Mother** blessed the world with the Conditions, and the **Turning Tree** is how she reaches down — the town scions are her hands, the Leaf-Fall is her *choosing*. This is **a belief held by some**, not locked cosmology. It hands us built-in friction: **believers** (the Conditioned are *chosen*), **skeptics** (it's just what the Trees do — biology, not benediction), and a live theological schism — *if she blesses everyone, why are 25% Given nothing? Are the Kept unblessed, or spared? And what does it mean that the Struck receive a Condition she never handed out?*
+
+> **Built out (Epic 1, 2026-08-19):** the faith is now concrete — [[The Leaf-Mother]] (doctrine, practice, clergy, the three-branch schism, in-world texts) and [[Turning Tree]] (the object & the Leaf-Fall rite; **one Awakening Tree**, town Trees are **living grafts** of it — a Tree nearby *and* a pilgrimage). The Motherfaith is *one faith among several*; the wider pantheon comes in a later religion pass.
+>
+> **Keystone locked (GM):** underneath the belief, [[Is the Leaf-Mother Real|she is real and benevolent]] — the gifts are real gifts, the skeptics sincere and wrong. Player-facing notes keep her unproven; the confirmation is the GM's to place, and lands as *warmth*, not horror.
 
 ## Tone
 
