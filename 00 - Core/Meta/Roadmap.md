@@ -151,6 +151,9 @@ updated: 2026-08-17
 ## Epic 6 — History
 **Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** ⬜ · When did the Trees appear? Eras, the shape of the past. Seed the *theme* early; flesh once there's a world to have a history *of*.
 
+**Seeds (banked, not yet fleshed):**
+- 🟡 **The Grafting / the old pilgrimage era.** Once there was only the **Awakening Tree** on the motherland, and a child's tenth-year Turning meant a *pilgrimage* to it. The far-flung couldn't make the trip and **stayed Kept for want of it**, so the old far reaches ran heavy on the Kept and the Struck. Then the Tree's grafts spread out to the towns — her reach *travelled with them* — and full reach now stands wherever a healthy graft does. This is the historical origin of today's pattern: present-day thin reach is a matter of *Tree-poor places*, not raw distance. (Seeds geography — Epic 3 — and reconciles with the locked keystone edge in [[Is the Leaf-Mother Real]].)
+
 ---
 
 ## Epic 7 — Settlements

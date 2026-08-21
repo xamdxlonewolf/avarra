@@ -25,7 +25,7 @@ This is the plain answer to *why society organizes around the Conditioned*: not 
 
 ## The structural key: self-paying vs provided-for Tithes
 
-The single most important economic fact is that **not all Tithes cost the same to pay — and some don't cost anything at all, because paying them *is* doing useful work.** This splits the Conditioned into two economic classes, and almost everything else follows from the split.
+The single most important economic fact is that **not all Tithes cost the same to pay — and some don't cost anything at all, because paying them *is* doing useful work.** This sorts the Conditioned along a spectrum from *self-paying* to *provided-for*, and almost everything else follows from where a Condition sits on it. It is a **spectrum, not a wall** — the most interesting cases sit on the seam, and *which side a person lands on can depend on their vocation, not just their Condition* (see Far-Voiced and the Returned below).
 
 **Self-paying Tithes — the work is the payment.** For several Conditions, the upkeep is discharged *by doing exactly the labor society needs.* These people are an economist's miracle: their maintenance cost and their productive output are the same act.
 
@@ -34,19 +34,24 @@ The single most important economic fact is that **not all Tithes cost the same t
 | [[The Answered]] | use the element in earnest | **the craft itself** — a Tide-Answered shipwright slakes the Tithe by building the ship |
 | [[Two-Bodied]] | spend time as the animal | **the ranging work** — herding, rescue, courier, scout; being the beast *is* the job |
 | [[The Stilled]] | burn off the Grey by exertion | **active labor** — surgery, riot-lines, demolition; the vigorous work clears the clock |
-| [[Returned]] | act toward the Purpose | **the deadly jobs** — when the Purpose aligns with the work (plague wards, recovery), doing it pays the Tithe |
 
-**Provided-for Tithes — upkeep that must be supplied.** For the others, the Tithe is a *cost* with no productive by-product. Someone must furnish the green, the outlet, the novelty, the warmth — and that furnishing is the Tithe-infrastructure sector.
+**On the seam — self-paying *if* the vocation fits, provided-for if it doesn't.** Two Conditions don't sit cleanly in either column; their placement turns on *what work the person actually does.* This is where the spectrum shows its seam.
+
+| Condition | The Tithe | Self-pays when… | Falls to provided-for when… |
+|---|---|---|---|
+| [[Far-Voiced]] | vent strong emotion each day | the vocation *is* the vent — **performer, crier, negotiator, sworn witness**; feeling in earnest on the job discharges the Tithe | the voice has **no outlet** — isolated posting, dull labor, silence — and they need a **venting-hall** furnished for them |
+| [[Returned]] | act toward the Purpose | the **Purpose aligns with the work** — plague wards, recovery, tending the dead; doing the deadly job pays it | the Purpose is **personal or unmet by any trade** (a vengeance, a vow, a person to find) — no employer can furnish it, and it pulls *against* ordinary work |
+
+**Provided-for Tithes — upkeep that must be supplied.** For the rest, the Tithe is a *cost* with no productive by-product. Someone must furnish the green, the novelty, the warmth — and that furnishing is the Tithe-infrastructure sector.
 
 | Condition | The Tithe | ...must be provided |
 |---|---|---|
 | [[The Taken-In]] | rest on living land | **green** — trivial on the farm, a real expense in a stone city (potted groves, garden-leave) |
 | [[Long-Lived]] | learn something genuinely new | **novelty** — books, travel, correspondence, the traffic of a university town |
-| [[Far-Voiced]] | vent strong emotion each day | **outlets** — venting-halls, or performance that doubles as the vent |
 | [[The Unbound]] | keep connecting to others | **warmth** — company, being known; the one Tithe money buys least well |
 | [[Bound]] | keep the Terms | **whatever the counterparty set** — idiosyncratic, sometimes ruinous |
 
-**Why this matters:** the self-payers are prosperous and integrated almost automatically — their Condition *is* a trade. The provided-for are economically **exposed**: they depend on someone furnishing their upkeep, and *whoever furnishes it holds power over them.* This is the seam the injustice runs through (below).
+**Why this matters:** the self-payers are prosperous *almost* automatically — their Condition *is* a trade — though prosperity isn't the same as ease: the [[The Stilled]] self-pays and is still the most tightly licensed person in the world, and the [[The Answered]] self-pays under heavy guild discipline (see [[Law and Citizenship]]). Self-paying buys a living, not necessarily social comfort. The provided-for are economically **exposed**: they depend on someone furnishing their upkeep, and *whoever furnishes it holds power over them.* And the seam-dwellers are the most precarious of all — a Far-Voiced who loses their stage or a Returned whose Purpose turns personal can **slide from self-paying to exposed overnight.** This is the seam the injustice runs through (below).
 
 ## Tithe-poverty and the safety net
 
@@ -79,13 +84,13 @@ The headline financial fact of The Turning is that **its banks do not die.** A [
 
 - **The trusted note.** A note issued by a deathless house is trusted almost as coin, because everyone knows the banker *cannot forget a debt, cannot be quietly succeeded by a defaulting heir, and will personally answer for it in fifty years.* Their paper circulates further and holds value better than any crown's — the nearest thing this world has to a gold standard is *the word of a house that won't die.*
 - **The long instrument.** Deathless houses lend and endow on horizons no mortal lender would risk — century loans, multi-generation trusts, the patient financing of cathedrals, canals, and universities. (Match to the register: this is *longer* medieval banking, not *modern* banking — letters of credit and endowments, **not** stock exchanges or joint-stock companies, which this world does not have.)
-- **The concentration risk.** Wealth that never passes to an heir never disperses. Even at ~2.5% of the population, the deathless can slowly gather an outsized share of standing capital — which is precisely the ossification the vampire's rarity is *meant* to cap, and a live tension the economy never fully resolves.
+- **The concentration risk.** Wealth that never passes to an heir never disperses *through inheritance* — the great scattering that mortal death forces on every other fortune simply never happens here. Even at ~2.5% of the population, the deathless can slowly gather an outsized share of standing capital — which is precisely the ossification the vampire's rarity is *meant* to cap, and a live tension the economy never fully resolves. (This is not undone by their habit of endowing — see below: an endowment moves the *coin* out but keeps the *steering*, so influence concentrates even as liquid wealth flows into the institutions they still direct.)
 
 ## Inheritance and the problem of not dying
 
 Inheritance law is warped by the deathless, and in a poignant direction. A [[Long-Lived]]'s children **do not inherit the Condition** — they age and die while the parent does not. So a deathless person **outlives every heir**, and their estate never enters the inheritance stream at all. What becomes of a fortune that is never passed down?
 
-The characteristic answer closes a beautiful loop: **the deathless endow.** Having no heirs and needing, for their own Tithe, a steady supply of *novelty* — new books, new scholarship, new things to learn — a Long-Lived characteristically funds the very institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. (It is also how they grieve: an endowment in the name of a child who died a century ago.)
+The characteristic answer closes a beautiful loop: **the deathless endow.** Having no heirs and needing, for their own Tithe, a steady supply of *novelty* — new books, new scholarship, new things to learn — a Long-Lived characteristically funds the very institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. (It is also how they grieve: an endowment in the name of a child who died a century ago.) **This is not the same as letting the fortune go.** An endowment is coin converted into *permanent, directed patronage* — the founder does not die, so they keep the chair, name the scholars, and steer the institution for centuries. So endowment eases the *coin* concentration (liquid wealth flows out into public works) while quietly deepening the *influence* concentration (the same few deathless hands still guide the universities, courts, and archives their money built). The ossification the rarity-cap fights doesn't vanish; it changes shape from hoarded gold to entrenched patronage.
 
 For everyone else inheritance is ordinary — *except* the **[[Two-Bodied]] bloodlines**, where the Condition, the family animal, and often the family trade descend together, so a guild place and a Condition can be a single inheritance. And the law's sharpest open question, from [[Law and Citizenship]], is economic at root: the **Given-Over** — a [[Bound]] who contracted away so much of themselves that the counterparty effectively *owns the person*. That is the ultimate inheritance failure: an estate, and a self, absorbed by a creditor.
 
@@ -105,13 +110,15 @@ Every gate breeds a black market, and this economy's gates are **Tithe-provision
 
 ## How polities vary
 
-The grammar is universal; the *distribution* is political. The three stances from [[Law and Citizenship]] have sharp economic faces:
+The grammar is universal; the *distribution* is political — and varies the way a real world's does. It runs on the same **independent axes** as the law (see [[Law and Citizenship#How polities vary]] — theology, reach, governance), each with a sharp economic face, so a polity's economy is the *combination* of its settings, not one of three fixed types. The three touchstone points have these economic faces:
 
-**1. The Warm (gift-integrationist).** Treats **Tithe-provision as a public good** — town greenhouses, endowed venting-halls and libraries, ranging-commons held in common. The Conditioned are kept whole at civic expense because a whole populace is a safe and productive one (and because the faith says tend every gift). **Its economic injustice is soft:** the same provision comes with *expectation* — you are helped to tend your gift, and quietly obligated to spend it as the community sees fit. Subsidy shades into conscription.
+**The Warm** *(high theology).* Treats **Tithe-provision as a public good** — town greenhouses, endowed venting-halls and libraries, ranging-commons held in common. The Conditioned are kept whole at civic expense because a whole populace is a safe and productive one (and because the faith says tend every gift). **Its economic injustice is soft:** the same provision comes with *expectation* — you are helped to tend your gift, and quietly obligated to spend it as the community sees fit. Subsidy shades into conscription.
 
-**2. The Watchful (the register-keeper).** The kingdom that writes its people down (see [[Law and Citizenship]]) turns **Tithe-need into leverage.** It provides — efficiently, even generously — but *holds* what it provides: the green, the outlet, the novelty, all furnished through channels the crown controls and can withhold. Its deathless-house finance is superb and centuries-deep. **Its injustice is cold and precise:** a population whose upkeep runs through the state is a population that cannot afford to refuse it — the most complete control in the world, dressed as care.
+**The Watchful** *(governance at its extreme).* The crown that writes its people down (see [[Law and Citizenship]]) turns **Tithe-need into leverage.** It provides — efficiently, even generously — but *holds* what it provides: the green, the outlet, the novelty, all furnished through channels the crown controls and can withhold. Its deathless-house finance is superb and centuries-deep. **Its injustice is cold and precise:** a population whose upkeep runs through the state is a population that cannot afford to refuse it — the most complete control in the world, dressed as care.
 
-**3. The Frontier (thin-reach).** Little formal Tithe-infrastructure and few specialists; people improvise their own provision or do without. Freer (no guild monopoly, no crown's leash; the Taken-In are neighbours, not curiosities) and harsher (the provided-for Tithe-poor slide with no net, untrained Struck manage dangerous Conditions alone). A barter-and-favor economy at the edges, cash-poor and land-rich.
+**The Frontier** *(low reach).* Little formal Tithe-infrastructure and few specialists; people improvise their own provision or do without. Freer (no guild monopoly, no crown's leash; the Taken-In are neighbours, not curiosities) and harsher (the provided-for Tithe-poor slide with no net, untrained Struck manage dangerous Conditions alone). A barter-and-favor economy at the edges, cash-poor and land-rich.
+
+**But mind the combinations** — the economic texture is set by *where a polity sits on all three axes at once.* A devout frontier runs commons-minded charity with almost no infrastructure to fund it; a secular Tree-rich republic has deep markets and thin welfare; a Watchful-and-pious core turns generous provision into the tightest leash in the world. The touchstones above are corners, not a census of the world's economies.
 
 ## Links
 - [[The Premise]] — world scale & register (late-medieval; Condition-labor advances) · [[Law and Citizenship]] — the legal grammar this rests on

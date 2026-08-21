@@ -14,6 +14,8 @@ updated: 2026-08-21
 
 > **Purpose.** A **fresh-context read-through** companion. The user wants to walk through everything built in Epic 2 so far, read each note together, and audit it against intent — *does it sound like what they want?* This note is the map: what to read, in what order, and what to pressure-test. Start here, then open each artifact in the listed order.
 
+> **✅ AUDIT COMPLETE (2026-08-21).** Walked all four artifacts with the user in dependency order; every checkpoint confirmed or resolved in place. **Resolutions:** (1) **Frame** — reframed "~15 polities" as the *great powers* (top tier), with smaller states/free-cities/frontier beneath; named one continent the **motherland** (origin of the Awakening Tree) and corrected the reach model per user — *reach travels with the grafts*, so thin reach = Tree-poor places today; the old distance-gradient (one Tree, pilgrimage, far-flung stayed Kept) is banked as an **Epic 6 history seed** ("The Grafting"). (2) **Keystone** — added a nod in clue #3 that the reach has *grown* with the grafts (better evidence of a hand than a static edge). (3) **2.1 polity stances** — rewrote from a 3-type menu into **three independent axes** (theology / reach / governance) with Warm/Watchful/Frontier kept as illustrative touchstones; the Watchful's precise sin tightened to *"a census of persons and their Conditions"* (not "keeping records at all"). (4) **2.2 self-paying/provided-for** — reframed as a **spectrum with a named seam**; **Far-Voiced and Returned** moved to an explicit seam table (self-pay by vocation, else provided-for); folded in that self-paying buys *a living, not ease* (Stilled/Answered self-pay yet are the most-licensed). (5) **2.2 banking** — reconciled concentrate-vs-endow: endowment converts *coin* to *directed patronage*, so influence concentrates even as liquid wealth flows out. All edits on branch `worktree-epic-2-society`.
+
 > **Where the work lives.** Branch `worktree-epic-2-society`, **draft PR #7** (pushed, not merged — awaiting this audit). Not on `master` yet except the keystone-edge salvage.
 
 ## How to run the audit (suggested)
@@ -28,35 +30,35 @@ Read in **dependency order** (each note leans on the one above it). For each: re
 
 ### 1. Frame — `The Premise.md` (new section: "World scale & register")
 The two dials locked 2026-08-20, before any content.
-- [ ] **Scale:** ~15 large polities across 3 large + 1 small continent. Build *universal rules + 2–3 archetypes* now; defer the rest. — *Right amount of world? Right split (rules now, places later)?*
-- [ ] **Register:** late-medieval burgher surface (no printing press, no gunpowder); the *only* advancement beyond comes from **Condition-labor**. — *Does "advanced by Conditions, not generic magic-tech" still feel right? Is the "everything is paid for" rule the texture you want?*
+- [x] **Scale:** ~15 large polities across 3 large + 1 small continent. Build *universal rules + 2–3 archetypes* now; defer the rest. — *Right amount of world? Right split (rules now, places later)?*
+- [x] **Register:** late-medieval burgher surface (no printing press, no gunpowder); the *only* advancement beyond comes from **Condition-labor**. — *Does "advanced by Conditions, not generic magic-tech" still feel right? Is the "everything is paid for" rule the texture you want?*
 
 ### 2. Keystone edge — `11 - Secrets/GM Truth/Is the Leaf-Mother Real.md` (GM-ONLY)
 The salvaged refinement: she's real & benevolent **but bounded, and giving costs her**; the **R2 social guard** (her kindness is cosmological, not social — don't let it launder injustice).
-- [ ] *Does the "bounded/costly" edge improve the schism (two-sided) without reopening "is she kind" (locked yes)?*
-- [ ] *Is the R2 guard the right instinct — society can be unjust atop true gifts?* (This guard drives the injustice in both 2.1 and 2.2.)
+- [x] *Does the "bounded/costly" edge improve the schism (two-sided) without reopening "is she kind" (locked yes)?*
+- [x] *Is the R2 guard the right instinct — society can be unjust atop true gifts?* (This guard drives the injustice in both 2.1 and 2.2.)
 
 ### 3. Story 2.1 — `03 - Cultures/Social Structures/Law and Citizenship.md`
 **The big reframe.** Citizenship is **witnessed, not recorded** (user call: a universal register was too invasive). Key beats to check:
-- [ ] **Witnessed citizenship** — you belong because your town *saw you Turn*; no register. — *Warm enough? Un-invasive enough?*
-- [ ] **Proof by vouching people** (Long-Lived memory / Bound binding word / Far-Voiced unfakeable feeling), not papers; the vulnerable are the *unvouched*. — *Does this feel like a clever Condition-labor advance or a stretch?*
-- [ ] **The Struck** = those who changed *unwitnessed* (later, alone) → must be vouched anew. — *Is "a little suspect" now earned rather than prejudiced?*
-- [ ] **The Inviolate Will** — no Condition compels a will; the legal floor under ~5%-scary. — *Good as constitutional bedrock?*
-- [ ] **Guild safety-licence** — only the ~3 hazardous Conditions; held by the person; ~90% carry nothing. — *Narrow enough to not feel like surveillance?*
-- [ ] **The three pillars** (Long-Lived/Bound/Far-Voiced *are* the legal apparatus). — *Love it or too neat?*
-- [ ] **Rights of the Kept** — default legal person; still-Struck-later; pitied where reverence runs hot.
-- [ ] **Three polity stances:** Warm / **Watchful** (the one register-keeping kingdom — the dictator idea) / Frontier. — *Do these three read as good-faith + distinct? Is the Watchful the right "creepy exception"?*
-- [ ] **Names are provisional** (deferred). — *Confirm you're happy leaving names for later.*
+- [x] **Witnessed citizenship** — you belong because your town *saw you Turn*; no register. — *Warm enough? Un-invasive enough?*
+- [x] **Proof by vouching people** (Long-Lived memory / Bound binding word / Far-Voiced unfakeable feeling), not papers; the vulnerable are the *unvouched*. — *Does this feel like a clever Condition-labor advance or a stretch?*
+- [x] **The Struck** = those who changed *unwitnessed* (later, alone) → must be vouched anew. — *Is "a little suspect" now earned rather than prejudiced?*
+- [x] **The Inviolate Will** — no Condition compels a will; the legal floor under ~5%-scary. — *Good as constitutional bedrock?*
+- [x] **Guild safety-licence** — only the ~3 hazardous Conditions; held by the person; ~90% carry nothing. — *Narrow enough to not feel like surveillance?*
+- [x] **The three pillars** (Long-Lived/Bound/Far-Voiced *are* the legal apparatus). — *Love it or too neat?*
+- [x] **Rights of the Kept** — default legal person; still-Struck-later; pitied where reverence runs hot.
+- [x] **Three polity stances:** Warm / **Watchful** (the one register-keeping kingdom — the dictator idea) / Frontier. — *Do these three read as good-faith + distinct? Is the Watchful the right "creepy exception"?*
+- [x] **Names are provisional** (deferred). — *Confirm you're happy leaving names for later.*
 
 ### 4. Story 2.2 — `03 - Cultures/Social Structures/Economy and the Tithe.md`
 Built on 2.1. The load-bearing ideas the user flagged for review:
-- [ ] **Thesis: the Tithe is the engine** — upkeep for 75% = a whole provisioning sector ("why society organizes around the Conditioned"). — *Does this framing land?*
-- [ ] **Self-paying vs provided-for Tithes** — work-is-payment (Answered/Two-Bodied/Stilled/Returned) vs pure-cost (Taken-In/Long-Lived/Far-Voiced/Unbound/Bound). **This is the structural key — check it hardest.** — *Does the split hold? Are the assignments right?*
-- [ ] **Tithe-poverty** — "too poor to stay whole" → slides toward the scary edge; the welfare question. — *Right kind of stakes?*
-- [ ] **Whoever furnishes a provided-for Tithe holds power** — coercion with a friendly face (the R2 lever). — *Is this the injustice you want mechanized?*
-- [ ] **Labor by Condition** — Tithe and vocation are the same shape; **the Kept = free generalist labor** (freedom under the slight). — *Like the inversion?*
-- [ ] **Deathless banking** — the trusted note ≈ gold standard; century instruments; concentration risk; **outlive-all-heirs → endow** (fund the libraries that feed their own novelty-Tithe). — *Does the endow-not-inherit loop delight or overreach? Register kept medieval (letters of credit, NOT stock markets) — correct?*
-- [ ] **Center/periphery** (reach-edge shapes trade) + **shadow economy** (illicit Tithe-supply, off-book contracts, sold vouching).
+- [x] **Thesis: the Tithe is the engine** — upkeep for 75% = a whole provisioning sector ("why society organizes around the Conditioned"). — *Does this framing land?*
+- [x] **Self-paying vs provided-for Tithes** — work-is-payment (Answered/Two-Bodied/Stilled/Returned) vs pure-cost (Taken-In/Long-Lived/Far-Voiced/Unbound/Bound). **This is the structural key — check it hardest.** — *Does the split hold? Are the assignments right?*
+- [x] **Tithe-poverty** — "too poor to stay whole" → slides toward the scary edge; the welfare question. — *Right kind of stakes?*
+- [x] **Whoever furnishes a provided-for Tithe holds power** — coercion with a friendly face (the R2 lever). — *Is this the injustice you want mechanized?*
+- [x] **Labor by Condition** — Tithe and vocation are the same shape; **the Kept = free generalist labor** (freedom under the slight). — *Like the inversion?*
+- [x] **Deathless banking** — the trusted note ≈ gold standard; century instruments; concentration risk; **outlive-all-heirs → endow** (fund the libraries that feed their own novelty-Tithe). — *Does the endow-not-inherit loop delight or overreach? Register kept medieval (letters of credit, NOT stock markets) — correct?*
+- [x] **Center/periphery** (reach-edge shapes trade) + **shadow economy** (illicit Tithe-supply, off-book contracts, sold vouching).
 
 ---
 
