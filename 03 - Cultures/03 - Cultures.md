@@ -17,12 +17,18 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
 
 ### Custom Kinds (born-ancestries unique to this world)
-- [[Kitsune]] — fox-born; custom ancestry (fresh angle TBD)
-- [[Selkie]] — sea-born; custom ancestry (fresh angle TBD)
+- [[Kitsune]] — fox-born; custom ancestry (locked, 3 features)
+- [[Selkie]] — sea-born; custom ancestry (locked, 3 features)
+- [[Tengu]] — mountain-born crow-folk; custom ancestry (locked, 3 features)
 - *(These sit alongside Daggerheart's 18 stock ancestries — see [[Build Plan]].)*
 
+### Social Structures
+- [[Law and Citizenship]] — the universal legal grammar of a world where 3 of 4 carry a Condition. Citizenship is *witnessed, not recorded* (your town saw you Turn; proof runs through vouching people, not papers); the Inviolate Will doctrine; guild safety-licences for the ~3 hazardous Conditions; polity variation on three independent axes (theology / reach / governance). *(Epic 2, Story 2.1.)*
+- [[Economy and the Tithe]] — the universal economic grammar. The Tithe is the engine (upkeep for 75% = a whole sector); self-paying vs provided-for Tithes (a spectrum, with Far-Voiced & Returned on the seam); labor-by-Condition; the Kept as free generalist labor; deathless banking houses & the endow-not-inherit loop; center/periphery; shadow economy. *(Epic 2, Story 2.2.)*
+- [[Daily Life]] — the universal grammar of everyday life. Marriage & family as a spectrum (mundane-mixed → the aching Long-Lived marriage you outlive); medicine (Stilled surgeons, Returned tending the dead — miraculous, unequally distributed); city design as principles (the Tree at the centre, Tithe-provision as civic utility). Where the ~5%-scary dial sits at eye level. *(Epic 2, Story 2.3.)*
+
 ### Conditions (acquired becomings — the "monster" layer)
-- *(In design — 4 core locked as concepts, 4 replacements to be designed. See [[Build Plan]]. May get its own folder/MOC once built.)*
+- *(All 10 designed & locked with full mechanics — see [[Conditions]] in `09 - Creatures`.)*
 
 ## Related
 - [[The Premise]] — the two-layer (Kind + Condition) model

@@ -10,7 +10,7 @@ world:
 domain: becoming, gifts, the Turning, the tended life
 reveals: [leaf-mother-is-real]
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-20
 ---
 
 # The Leaf-Mother
@@ -67,7 +67,7 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
    - **Skeptics:** "it's just what the Trees do." Biology, or a phenomenon so old it wears a face we gave it. The grafting is observable horticulture; the *choosing mind* is an inference they decline to make.
    - **The faith's own genius:** because it is **orthopraxic**, a skeptic who tends their Tithe and brings their children to the Tree is a *good member of the Motherfaith* — belief in the Mother is honoured but not policed. This keeps the skeptic sincere and un-persecuted, and keeps the setting ~5%-scary rather than inquisitorial.
 
-> **Design note (belief-systems).** Every branch above is a *good-faith* position — no faction is secretly right-and-evil. Per the locked keystone ([[Is the Leaf-Mother Real]]) the believers are, underneath, correct — but the world is built so being a skeptic costs nothing day to day, which makes the schism *poignant* (sincere people reasoning from incomplete evidence) rather than *ironic* (dupes being farmed). Keep it that way.
+> **Design note (belief-systems).** Every branch above is a *good-faith* position — no faction is secretly right-and-evil. Per the locked keystone ([[Is the Leaf-Mother Real]]) the believers are right about the big things (she is real, present, and kind) — **but the keystone's constraint (she is benevolent yet *bounded*, and giving costs her) makes this schism genuinely two-sided, not lopsided.** The skeptics have correctly *felt the edge* of her reach — the thinning at the margins, the unmet Struck, the Kept who seem passed over — and mislabelled a *limit* as an *absence*. So each reading holds a true kernel: the **Wide-Hand** is right that she reaches the thresholds, and the **Narrow-Hand's** unease is *earned* because she reaches them only at the farthest, chanciest edge of her arm; and the Kept are genuinely *both* — some chosen for wholeness, some simply past her reach, with no way to tell which. **No faction holds the whole shape** (believers see the hand and miss the edge; skeptics see the edge and miss the hand). The world is built so being a skeptic costs nothing day to day, which keeps the schism *poignant* (sincere people each holding half a truth) rather than *ironic* (dupes being farmed) — and better fuel for it: neither side can ever be simply refuted. Keep it that way.
 
 ## In-world texts (doctrine that also seeds a reveal)
 

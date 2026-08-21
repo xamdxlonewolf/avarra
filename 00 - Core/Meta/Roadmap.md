@@ -90,22 +90,34 @@ updated: 2026-08-17
 ---
 
 ## Epic 2 — Society & Institutions
-**Skill:** `governance-systems`, `economic-systems` · **Status:** ⬜ · **Blast radius: High.**
+**Skill:** `governance-systems`, `economic-systems` · **Status:** 🟢 in progress (started 2026-08-20) · **Blast radius: High.**
 
 > The payoff epic: *how does a civilization work when 3 of 4 people carry a Tithe?* Every settlement & faction inherits these answers, so it comes before the specific places.
 
-### Story 2.1 — Law & citizenship (`governance-systems`)
-- [ ] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound)
-- [ ] How the Struck are handled legally (no ceremony, sometimes "a little suspect")
-- [ ] Rights of the Kept
-### Story 2.2 — Economy & the Tithe-infrastructure (`economic-systems`)
-- [ ] The institutions that help people *pay their Tithes* (the "why society organizes around the Conditioned")
-- [ ] Labor: which Conditions do which needed jobs (already sketched per-Condition — systematize)
-- [ ] Banking / longevity / inheritance under the Long-Lived (they outlive heirs)
-### Story 2.3 — Daily life
-- [ ] Marriage & family across Kinds + Conditions (stacking); the Long-Lived emotional Tithe socially
-- [ ] Medicine (The Stilled in medicine; the Returned tending the dead)
-- [ ] City design when a quarter of adults have a becoming — *feeds [[#Epic 7 — Settlements]]*
+> **Frame locked before starting (2026-08-20 — see [[The Premise]]):**
+> - **Scale:** ~15 large polities across 3 large + 1 small continent. Epic 2 builds the **universal social physics** + **2–3 polity archetypes**; the rest are named-stubs deferred to Epic 3/7.
+> - **Register:** late-medieval burgher surface (no print, no gunpowder); the *only* advancement beyond comes from **Condition-labor** — legible, concentrated, paid-for by Tithes.
+> - **R2 social guard (from the keystone):** the Leaf-Mother's benevolence is *cosmological, not social* — do **not** let it launder injustice. Struck stigma, Tithe-infrastructure-as-leverage, guild conscription are **real frictions to keep**, not misreadings to dissolve.
+
+### Story 2.1 — Law & citizenship (`governance-systems`) ✅ **DONE (2026-08-20)** → [[Law and Citizenship]]
+> **Core design call (user, 2026-08-20): citizenship is _witnessed, not recorded_.** No universal register (that was too invasive for a ~5%-scary world). You belong because your town *watched you Turn*; proof-at-a-distance runs through **vouching people** (Long-Lived memory / Bound binding word / Far-Voiced unfakeable feeling), not papers. The only per-person paper is a **guild safety-licence for the ~3 hazardous Conditions.** A universal register survives *only* as **one aberrant kingdom's paranoia** (the Watchful) — the creepy version is rare and villainous, not the baseline.
+- [x] Legal status of each Condition; who regulates the feared ones (The Stilled, Bound) — the **guild safety-licence** (danger-to-others only, held by the person, not a census); the **Inviolate Will** doctrine (no Condition compels a will) sorts the criminal code
+- [x] How the Struck are handled legally ("a little suspect") — they **changed *unwitnessed*** (later & alone), so must be **vouched anew**; the vulnerable are the *unvouched*, not the "undocumented"
+- [x] Rights of the Kept — witnessed at ten, untithed, unlicensed; the *default legal person*; wrinkles: still-Struck-later, and pitied where reverence runs hot
+- [x] **Bonus locks:** the **three pillars** (Long-Lived / Bound / Far-Voiced *are* the evidence/contract apparatus — and are *why* no register is needed); **3 polity stances** (Warm / Watchful-register-keeper / Frontier) — no planet-of-hats; R2 guard applied in GM Notes
+- **🟡 Deferred:** in-world naming + regional/language variants for every institution (names here are provisional descriptive placeholders) → after polity archetypes + language sketches exist (Epic 2 tail / Epic 4).
+### Story 2.2 — Economy & the Tithe-infrastructure (`economic-systems`) ✅ **DONE (2026-08-20)** → [[Economy and the Tithe]]
+> **Thesis:** the **Tithe is the economy's engine** — 75% of people carry a permanent upkeep, so *Tithe-provision is a whole sector* (the answer to "why society organizes around the Conditioned"). **Structural key:** **self-paying Tithes** (the work *is* the payment — Answered craft, Two-Bodied ranging, Stilled exertion, Returned purpose) vs **provided-for Tithes** (pure cost — Taken-In green, Long-Lived novelty, Far-Voiced outlets, Unbound warmth, Bound terms). The provided-for are *economically exposed* → whoever furnishes the Tithe holds power (the R2 lever).
+- [x] Institutions that help people pay their Tithes — the **Tithe-infrastructure sector**; **Tithe-poverty** ("too poor to stay whole" → slides to the scary edge); public-good / private-burden / leverage answers
+- [x] Labor by Condition (systematized) — the Tithe and the vocation are usually the *same shape*; **the Kept = free generalist labor** (untithed, unguilded — an economic freedom under the social slight)
+- [x] Banking / longevity / inheritance under the Long-Lived — **deathless houses** (the trusted note ≈ this world's gold standard; century instruments; concentration risk); the deathless **outlive all heirs → endow** (pay their own novelty-Tithe by funding libraries/universities); Given-Over = a self absorbed by a creditor
+- [x] **Bonus:** center/periphery (reach-edge shapes the trade map); shadow economy (illicit Tithe-supply, off-book contracts, sold vouching); 3 polity economic faces (Warm public-good / Watchful leverage / Frontier improvise)
+### Story 2.3 — Daily life (`governance-systems` / `worldbuilding`) ✅ **DONE (2026-08-21)** → [[Daily Life]]
+> **Frame:** everyday life is where the **~5%-scary** dial is set at eye level — warm and ordinary at the surface, a real ache in the specific cases. Family presented as a **spectrum** (mundane → aching); medicine as **wonder + uncanny** blended; city as **principles only** (concrete places deferred to Epic 7).
+- [x] Marriage & family across Kinds + Conditions (stacking) — a **spectrum**: most households mundane-mixed (no "unmixed baseline" to marry away from); the middle = Tithe as shared family labor; the aching end = **loving someone you'll outlive** (the Long-Lived marriage — *the cost measured in funerals*, stop-or-begin-again). Threads: threshold courtesy in the home, the **Returned's "cold embrace"** as a family diagnostic, Two-Bodied bloodlines, raising a child before they Turn.
+- [x] Medicine — **the Stilled are the surgeons** (gaze arrests bleeding/holds still, wonder + the feared-licensed edge); **the Returned do the lethal work** (plague wards, tending the dead); rest is ordinary 1400s care, **unequally distributed** (clusters in the rich core; Tithe-poor can't reach it)
+- [x] City design — **principles, not places** (feeds [[#Epic 7 — Settlements]]): the **Tree at the centre**, Tithe-provision as civic utility (venting-halls, garden-commons, ranging-commons, endowed libraries), dangerous trades on the edges, homes that accommodate becomings, reach-edge writes the map
+- [x] **Bonus:** 3 polity domestic faces on the same theology/reach/governance axes + "mind the combinations"; R2 guard applied in GM Notes (the injustice reaches the hearth and stays real)
 
 ---
 
@@ -141,6 +153,9 @@ updated: 2026-08-17
 ## Epic 6 — History
 **Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** ⬜ · When did the Trees appear? Eras, the shape of the past. Seed the *theme* early; flesh once there's a world to have a history *of*.
 
+**Seeds (banked, not yet fleshed):**
+- 🟡 **The Grafting / the old pilgrimage era.** Once there was only the **Awakening Tree** on the motherland, and a child's tenth-year Turning meant a *pilgrimage* to it. The far-flung couldn't make the trip and **stayed Kept for want of it**, so the old far reaches ran heavy on the Kept and the Struck. Then the Tree's grafts spread out to the towns — her reach *travelled with them* — and full reach now stands wherever a healthy graft does. This is the historical origin of today's pattern: present-day thin reach is a matter of *Tree-poor places*, not raw distance. (Seeds geography — Epic 3 — and reconciles with the locked keystone edge in [[Is the Leaf-Mother Real]].)
+
 ---
 
 ## Epic 7 — Settlements
@@ -171,7 +186,8 @@ updated: 2026-08-17
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent), Tree topology (one Awakening Tree + living grafts).
+- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard); **all three stories done + audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅ (2026-08-21)** → [[Daily Life]]. **Epic 2 audit complete (2026-08-21)** → [[Epic 2 Audit Guide]]. **Remaining:** 2–3 polity archetypes + the deferred in-world naming pass (Epic 2 tail → Epic 4).
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub

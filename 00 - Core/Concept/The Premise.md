@@ -7,7 +7,7 @@ status: active
 tags: [core, premise, concept, design-hub]
 aliases: [The Concept, The Pitch, The Two-Layer World]
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-20
 ---
 
 # The Premise
@@ -64,6 +64,27 @@ Some hold that the **Leaf-Mother** blessed the world with the Conditions, and th
 ## Tone
 
 Integrated, lived-in, **~5% scary** — creatures are neighbours, colleagues, and family, accepted for the most part; the fresh-ness is in taking the standard tropes and turning them into *roles society needs*, each with an obstacle that must be met to keep living with the Condition.
+
+## World scale & register (LOCKED 2026-08-20)
+
+Two dials set before Epic 2, so law/economy/settlements build against a fixed frame:
+
+### Scale — a wide world of rival powers
+**~15 *great powers* across 3 large continents + 1 small one** — the top tier, not the whole count. Beneath them the world swarms the way a late-medieval one does: smaller kingdoms, free cities, marches, petty principalities, and un-polity'd frontier fill the space between the great powers. "~15" names the powers worth naming, not the number of places that exist. Not one empire and not a fog of city-states — a handful-plus of real powers that trade, compete, and *differ in how they treat the Conditioned*. This gives enough uniformity to generalize the social rules and enough contrast for border-, migration-, and law-clash stories.
+
+**One continent is the motherland** — the origin, where the **[[Turning Tree|Awakening Tree]]** still stands. The whole world's town Trees are grafts carried out from it, so *today* her reach travels with the grafts and full reach stands wherever a healthy Tree does. Thin reach is now a matter of genuinely **Tree-poor places** (few, young, or sickening Trees), not raw distance from the motherland. (The old distance-gradient — when there was *one* Tree and the far-flung stayed Kept for want of the pilgrimage — is **history**; see [[Roadmap|Epic 6]].) The keystone edge (the Leaf-Mother's reach *thins* where the Trees are thin — those places run higher on the Kept and the Struck) **wants** a big map with a real frontier and a real origin; scale and cosmology point the same way.
+
+> **Build discipline (progressive elaboration).** 15 fully-built polities is pass-two work, not Epic 2 work. **Epic 2 builds the *universal social physics*** — how law, economy, and daily life bend around a Tithe-carrying majority (largely portable, since it flows from the Trees + Conditions, which are locked and universal) — **plus 2–3 contrasting polity *archetypes*** to prove the rules flex. The remaining ~12 stay named-stubs until [[Roadmap|Epic 3 (World Frame)]] and Epic 7 (Settlements).
+
+### Register — late-medieval, advanced by *Conditions* not by generic magic-tech
+**Surface: a late-medieval burgher world** (~1400s Bruges/Florence) — chartered towns, guild halls, cathedrals, markets; early banking (houses, letters of credit, ledgers); mechanical clocks, water/wind mills; universities. **No printing press, no gunpowder.** Swords-and-lanterns on top.
+
+**The one advancement *beyond* our 1400s comes from Condition-labor — and only there.** This world's "magic" isn't wandering wizards; it's the Conditions, and 3 of 4 people carry one. So its selective leaps are *lawful and legible*, concentrated exactly where the Conditions live:
+- **The Long-Lived** (deathless) → banking houses, universities, archives, and courts with *centuries* of unbroken institutional memory — depth our history needed the 1700s to reach, because the founder never died.
+- **The Stilled** (preservation/medicine), **the Returned** (the deadly jobs, tending the dead), **the Taken-In** (making frontier land productive) → public works and medicine that shouldn't be possible without industry.
+- **The Answered** and **Far-Voiced** → coordination and signal at a distance no medieval polity should have.
+
+> **The rule that keeps it honest:** every advance is *paid for* — by a Tithe, by someone's becoming. No free-floating "magic makes everything better" that erases scarcity. The advancement is legible (you can see *whose* labor buys it), concentrated (present where those Conditions are common, absent where they aren't), and costly. This isn't decoration — it **is** Epic 2's economy story.
 
 ## The Condition roster (9 selectable + 1 downstream — LOCKED)
 
