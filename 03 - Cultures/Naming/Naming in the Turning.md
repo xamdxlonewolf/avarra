@@ -1,0 +1,92 @@
+---
+title: Naming in the Turning
+type: reference
+visibility: player
+note_status: fleshed
+status: active
+tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
+aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
+reveals: [leaf-mother-is-real]
+created: 2026-08-21
+updated: 2026-08-21
+---
+
+# Naming in the Turning
+
+> **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions the [[Roadmap|Epic 2]] social-structure notes first wrote as plain descriptive placeholders. The governing principle — the reason this pass waited until the [[Polity Archetypes|polity archetypes]] existed — is one lever:
+
+> ## **The name a polity gives a shared thing reveals its stance.**
+> Every polity has the same institutions (they flow from the [[Turning Tree|Trees]] and the Conditions, which are universal). But **what each calls them** is set by where it sits on the [[Polity Archetypes|theology / reach / governance axes]]. A [[The Leaf-Mother|devout]] land calls the release-hall a *gift-hall*; a merchant coast calls it a *release-house*; a surveillance-crown calls it a *counted hall*. Same building, three worldviews. This note is the working dictionary of that.
+
+## How names are built
+
+- **The root is [[The Old Tongue]]** (Maiethren, the liturgical Mothertongue). Sacred and old things keep their Old-Tongue shape; everyday things wear it down. See that note for the full sound-palette and pronunciation key (**CAPS** = stress; `ae`="ay"; `th`= soft _th_ as in _thin_).
+- **Three daughter drifts carry the stance in the *sound* itself:** the pious core (**[[Polity Archetypes|Threnmaieth]]**) conserves the sacred sound; the devout frontier (**[[Polity Archetypes|Vaethorn]]**) wears it rougher; the secular coast (**[[Polity Archetypes|Lestrand]]**) erodes it smooth (the *th* drops, ends clip). *The most-drifted name belongs to the least-devout place.*
+- **The common tongue** — the plainspoken trade-vernacular most people actually speak — is the worn-down middle everyone shares. Its words are the plain compounds already used across the notes (*the Kept*, *venting-hall*), understood as **worn Old-Tongue** rather than a separate language.
+
+## The three polities
+
+Full derivations in [[The Old Tongue#The three polities, named]]. In short:
+
+| Working label | In-world name | Says | Literally | Its stance, in its own name |
+|---|---|---|---|---|
+| the Waiting Lands | **Vaethorn** | vay-THORN | "the Waiting Land" | keeps the sacred *th*; names its own longing |
+| the Ledger Coast | **Lestrand** | leh-STRAND | "the Reckoning Coast" | most-eroded name = most secular polity |
+| the Tallied Crown | **Threnmaieth** | THREN-my-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
+
+## The institution dictionary
+
+The universal grammar's institutions, with the **common-tongue** name and the three polity variants where stance diverges. Names remain lightly held — good working canon, open to a polish pass with the wider naming of Epic 4.
+
+### Citizenship & law (from [[Law and Citizenship]])
+
+| Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|---|
+| proof-by-people (vouching) | **standing-for** | *the speaking* (vouched at worship) | *warranting* (a commercial guarantee) | *the naming* (you are named to the crown) |
+| the safety-licence | **the ticket** | *the blessing-to-practice* | *the guild-ticket* | *the crown-warrant* |
+| a census of persons | *(none — no one else keeps one)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
+| the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
+
+> **The darkest coinage.** Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name is the [[Polity Archetypes|sanctified-surveillance]] thesis in a single word.
+
+### Tithe-provision (civic infrastructure, from [[Economy and the Tithe]] / [[Daily Life]])
+
+| Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|---|
+| venting-hall ([[Far-Voiced]]) | **the ael-hall** (AYL, "the airing") | *the gift-hall* | *the release-house* (also the playhouse) | *the counted hall* |
+| ranging-commons ([[Two-Bodied]]) | **the ranging** | *the wild-leave* | *the beast-yard* (a hired yard) | *the ranging-roll* |
+| garden-commons ([[The Taken-In]]) | **the greens** | *the Mother's green* (held in common) | *the leaf-lot* (rented by the season) | *the tended green* (crown-furnished) |
+| endowed library ([[Long-Lived]] novelty) | **the long-house of books** | *the deathless gift* | *the endowment* / *the house* | *the crown archive* |
+
+### The people (the standing-terms, from [[Law and Citizenship]])
+
+The three life-outcomes of the [[Turning Tree|Leaf-Fall]] keep their plain common-tongue names **everywhere** — *the Given*, *the Struck*, *the Kept* are universal. But each polity's *second* word for them betrays how it feels:
+
+| Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|
+| **the Given** (a Condition Given) | *the gifted* (blessed) | *the Given* (plain) | *the marked* (on the roll) |
+| **the Struck** (turned later, alone) | *the late-come* (met at a later door) | *the turned* (neutral, a fact) | *the unwitnessed* (suspect until named) |
+| **the Kept** (untithed, whole) | *the Waited* / *Mother-kept* (pitied — passed over) | *the free* (**approving** — unencumbered labor) | *the unmarked* / *the passed-over* (noted as such) |
+
+> **Read across a single row and you have the whole setting.** The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied-as-free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained). One kind of person; three societies' worth of judgment. This row *is* the [[Polity Archetypes|"name reveals stance"]] lever in miniature.
+
+## How to coin more (for later notes)
+
+When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system honest:
+1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn*, or coin a new root in the same sound-palette.
+2. **Push it through the right drift** for the place (conserved / worn / eroded).
+3. **Give the pronunciation** (CAPS = stress) on first use — always.
+4. **Let the *name* carry the stance** — if a devout and a secular polity would name the same thing, they should name it *differently*, and the difference should be legible.
+
+## Links
+- [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
+- [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[Conditions]]
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]
+
+## GM Notes
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+
+- **The names encode the R2 guard, per polity.** Each polity's vocabulary is its *self-justification*, not the truth of what it does. Threnmaieth's "keeping-whole" (Threnhael) is surveillance that calls itself care; Lestrand's "the free" for the Kept is a market reframing a social slight as a virtue; Vaethorn's "the Waited" wraps real pity in reverence. Per [[Is the Leaf-Mother Real|the keystone]], none of these framings is *dissolved* by the reveal — they are how each society launders its own injustice, and confirming the Mother is kind doesn't make any of the three names honest.
+- **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
+- **Names are working canon, not frozen.** Good enough to build on now; open to a polish pass alongside the wider Epic 4 language/culture work. If a later note needs a fourth polity's variant, coin it by the rules above rather than retrofitting these.
