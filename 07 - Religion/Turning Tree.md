@@ -22,7 +22,7 @@ updated: 2026-08-19
 
 A Turning Tree is a broad, slow, long-lived hardwood — canopy like a great oak or beech, but its own kind — that stands at the ceremonial heart of a town, usually in a square, a green, or a walled temple-yard kept for it. Out of season it looks like an unusually grand old tree and townsfolk treat it as one: children climb the low boughs, courts and markets convene in its shade, lovers carve nothing into it (that's taboo). **In the tenth-year solstice week it turns** — the canopy shifts through colours no ordinary tree wears, and it *chooses.*
 
-The everyday word is **Turning Tree** (for what it does at the solstice: it *turns*, and it *turns children into what they'll become*). The devout call each one **a Hand of the Mother** — see [[The Leaf-Mother]] — and the reverent species-word in liturgy is **motherwood**. *(Names 🟡 Proposed — safe to change.)*
+The everyday word is **Turning Tree** (for what it does at the solstice: it *turns*, and it *turns children into what they'll become*). The devout call each one **a Hand of the Mother** — see [[The Leaf-Mother]] — and the reverent species-word in liturgy is **motherwood**. In the old liturgical [[The Old Tongue|root tongue]] the Tree is **Thaeloren** *(thae-LOR-en)* — **thael** (Tree) + **oren** (to witness), *"the Tree that witnesses"* (everyday worn form: *the Thallow*). *(Names 🟡 Proposed — safe to change; the Old-Tongue form added in the 2026-08-21 naming pass.)*
 
 ## One Tree, many hands — the graft (🔒 topology LOCKED 2026-08-19)
 

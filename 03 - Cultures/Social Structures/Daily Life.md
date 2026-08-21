@@ -15,7 +15,7 @@ updated: 2026-08-21
 
 > **What this is.** The *universal grammar of everyday life* in **The Turning** — what it is to marry, raise children, fall ill, and live in a town when **3 of 4 people carry a [[The Premise|Condition]]**. This is where the setting's **~5%-scary** dial is set at eye level: almost everything is warm, ordinary, and lived-in, with a real ache underneath in the specific cases. Built for [[Roadmap|Epic 2, Story 2.3]], on [[Law and Citizenship]] (the legal grammar) and [[Economy and the Tithe]] (the economic one). How the ~15 polities vary is the last section; concrete cities come in [[Roadmap|Epic 7]].
 
-> **⚠️ Names are provisional.** Institutions and customs here carry **plain descriptive terms** on purpose. In-world names — with regional/language variants — are a **deferred pass** ([[Roadmap|Epic 2]] tail / Epic 4). Don't treat any capitalized term as locked vocabulary.
+> **📖 Names: descriptive here, in-world names now exist.** Institutions and customs keep **plain descriptive terms** in the body for legibility, but the [[The Old Tongue|naming pass]] is done (2026-08-21) — each has a settled common-tongue name + three stance-revealing polity variants in [[Naming in the Turning]]; the root language is [[The Old Tongue]]. Good working canon, open to a later polish pass.
 
 ## Marriage & family — the whole spectrum, from mundane to aching
 
@@ -74,7 +74,7 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[Law and Citizenship]] — the legal grammar (witnessed citizenship, the Inviolate Will) · [[Economy and the Tithe]] — the economic grammar (Tithe-provision, deathless inheritance) this rests on
 - [[The Premise]] — world scale & register · [[Turning Tree]] — the civic/sacred heart every town organizes around · [[The Leaf-Mother]]
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Returned]] · [[The Stilled]] · [[Two-Bodied]] · [[Far-Voiced]] · [[The Taken-In]]
-- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (the Waiting Lands · the Ledger Coast · the Tallied Crown), each with its domestic face
+- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its domestic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Roadmap]] (Epic 2, Story 2.3) · [[03 - Cultures]]
 
 ## GM Notes
@@ -84,5 +84,5 @@ As with law and economy, everyday life varies the way a real world's does — al
 - **The Long-Lived marriage is the setting's quietest, most reusable ache.** Loving someone you will outlive and bury — a spouse, a child — is the deepest emotional Tithe in the world and it plays at the table without any monster in the room. Reserve it for weight. (It also seeds NPCs: the deathless widower who has stopped; the one who keeps beginning again.)
 - **The "cold embrace" is a diagnostic and a hook.** A Returned's family can feel a lapsing Purpose at a touch. A loved one who has "run cold" is a quiet family crisis — and a ready adventure seed (what unfinished thing is slipping? can the party help meet it before the Returned settles or turns cold to everyone?).
 - **The reach-edge (medicine and infrastructure clustering in the core) has a GM-side *cause*.** In-world the frontier's thin medicine reads as plain distance-and-poverty; the deeper reason — [[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]] — stays GM-side. Don't let a player-facing note assert the cause.
-- **Naming deferred.** All customs and institution terms here are provisional placeholders (venting-hall, ranging-commons, garden-commons, etc.) — the in-world naming pass with regional/language variants comes after the polity archetypes and language sketches exist ([[Roadmap|Epic 2]] tail → Epic 4).
+- **Naming is done (2026-08-21).** In-world names for the customs and institution terms here (venting-hall, ranging-commons, garden-commons, etc.) live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility. Remaining deep-language work is [[Roadmap|Epic 4]].
 - **Hooks.** A Long-Lived asked to marry into a mortal family and the grief everyone can see coming; a Returned whose embrace has gone cold and the race to find their unfinished thing; a Tithe-poor family watching a child slide for want of green or novelty; a Watchful clerk recording a Turning that a family wanted kept private; a frontier town with no stiller when a birth goes wrong; a Kept child made to feel a failure at their own Leaf-Fall. Feed to [[Roadmap|Epic 5 (Factions)]] and Epic 7 (Settlements).

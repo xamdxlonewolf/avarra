@@ -15,7 +15,7 @@ updated: 2026-08-20
 
 > **What this is.** The *universal economic grammar* of **The Turning** — how a late-medieval economy works when **3 of 4 people carry a [[The Premise|Condition]]**, and each Condition carries a **Tithe** (a permanent upkeep). This is the portable layer; how the ~15 polities vary is the last section. Built with `economic-systems` for [[Roadmap|Epic 2, Story 2.2]], on the frame from [[The Premise]] (late-medieval; advances only from Condition-labor) and the legal grammar from [[Law and Citizenship]].
 
-> **⚠️ Names are provisional.** Institutions here carry **plain descriptive terms** on purpose. In-world names — with regional/language variants — are a **deferred pass** ([[Roadmap|Epic 2]] tail / Epic 4). Don't treat any capitalized term as locked vocabulary.
+> **📖 Names: descriptive here, in-world names now exist.** Institutions keep **plain descriptive terms** in the body for legibility, but the [[The Old Tongue|naming pass]] is done (2026-08-21) — each has a settled common-tongue name + three stance-revealing polity variants in [[Naming in the Turning]]; the root language is [[The Old Tongue]]. Good working canon, open to a later polish pass.
 
 ## The thesis: the Tithe is the engine
 
@@ -123,7 +123,7 @@ The grammar is universal; the *distribution* is political — and varies the way
 ## Links
 - [[The Premise]] — world scale & register (late-medieval; Condition-labor advances) · [[Law and Citizenship]] — the legal grammar this rests on
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Two-Bodied]] · [[The Answered]] · [[The Taken-In]] · [[Far-Voiced]] · [[Returned]] · [[The Stilled]] · [[Bound]] · [[The Unbound]]
-- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (the Waiting Lands · the Ledger Coast · the Tallied Crown), each with its economic face
+- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its economic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Roadmap]] (Epic 2, Story 2.2) · [[03 - Cultures]]
 
 ## GM Notes
@@ -132,5 +132,5 @@ The grammar is universal; the *distribution* is political — and varies the way
 - **R2 social guard — the economy is where the injustice is most *mechanical*.** Per [[Is the Leaf-Mother Real|the keystone]], the Leaf-Mother's benevolence is **cosmological, not social.** She gave real gifts; she did **not** build the economy that grew around them. The exploitation here — **Tithe-need as leverage** (control the supply, control the person), guild conscription of self-paying labor, the deathless slowly concentrating capital, the illicit Tithe-trade preying on the desperate, the Given-Over as a creditor absorbing a person — is **not a misreading to be dissolved by the reveal.** It is the setting's moral engine. Confirming she is real and kind must **not** make the economy fair. Protect that gap.
 - **The single sharpest economic lever for play:** whoever furnishes a provided-for Tithe holds power over its bearer. A PC Taken-In whose only green is the guild's; a Long-Lived whose patron rations the novelty they need to not fade; a Bound whose counterparty is their employer. This is coercion with a friendly face — the ~5%-scary edge in economic form.
 - **The reach-edge (core vs frontier distribution) has a GM-side *cause*.** The thinning at the margins reads in-world as plain distance-and-biology; the real reason — [[Is the Leaf-Mother Real|her reach is bounded]] — stays GM-side. Don't let a player-facing note assert the cause.
-- **Naming deferred.** All institution terms here are provisional placeholders (see [[Roadmap|Epic 2]] tail → Epic 4 naming pass).
+- **Naming is done (2026-08-21).** In-world names for every institution term here live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility. Remaining deep-language work is [[Roadmap|Epic 4]].
 - **Hooks.** A Tithe-supply monopoly to break; a deathless house calling in a century-old debt; an endowment with strings; a smuggling ring in green or novelty; a frontier town with no net when its Struck can't cope; the Watchful crown's Tithe-channels as a control system to escape or sabotage. Feed to [[Roadmap|Epic 5 (Factions)]] and Epic 7 (Settlements).

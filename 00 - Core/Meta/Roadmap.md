@@ -32,7 +32,7 @@ updated: 2026-08-17
 |---|------|--------------------|:---:|:---:|
 | **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | ✅ done |
 | **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | 🟢 core done |
-| **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | 🟢 core + archetypes done |
+| **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ✅ done |
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | ⬜ |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; custom ancestries ✅ done | Low | 🟢 partial |
 | **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ⬜ |
@@ -124,7 +124,7 @@ updated: 2026-08-17
 - [x] **Three corners built** — **The Waiting Lands** (theology high · reach low · gov low — warm/poor/faithful pilgrim edge), **The Ledger Coast** (theology low · reach high · gov low — rich/cool secular merchant power), **The Tallied Crown** (all three high — sanctified surveillance, the darkest corner). Each walked through law · economy · daily life + its distinct injustice.
 - [x] **R2 guard applied** — three *different* injustices (guilt-theology / market-fade / sacred census), none dissolvable by the keystone reveal because they share no mechanism, only that people built them. Reach-edge cause kept GM-side in all three.
 - [x] 🟡 **Naming labels are provisional** (working names picked with user 2026-08-21: Waiting Lands / Ledger Coast / Tallied Crown) — settled in-world names come *in* the naming pass below.
-- [ ] 🟡 **UNLOCKED — the deferred in-world naming pass.** Now that the archetypes exist: settle names for the three + regional/language variants for every provisional institution term across all four social-structure notes (venting-hall, ranging-commons, vouching, the census, etc.). Design lever: *the name a polity gives a shared institution reveals its stance.* Runs with Epic 4 languages. **← Epic 2's last open task.**
+- [x] ✅ **DONE (2026-08-21) — the in-world naming pass.** Built [[The Old Tongue]] (root liturgical tongue *Maiethren* — warm/weighty phonology, pronunciation key, sacred root lexicon; **one root → three daughter drifts** mirroring the one-Tree/grafts cosmology) and named the three polities from it: **Vaethorn** (the Waiting Lands), **Lestrand** (the Ledger Coast), **Threnmaieth** (the Tallied Crown) — *the most-eroded name is the most secular polity.* Then [[Naming in the Turning]] (institution dictionary: common-tongue name + three stance-variants each — e.g. venting-hall → gift-hall / release-house / counted hall; the census = Threnhael "the whole-keeping"). Design lever landed as built: *the name a polity gives a shared institution reveals its stance.* All four social-structure notes updated. **Epic 2 tail complete.** (Deep grammar + the other ~12 polities' tongues → [[#Epic 4 — Cultures & Kinds|Epic 4]].)
 
 ---
 
@@ -145,10 +145,10 @@ updated: 2026-08-17
 - [x] 🔒 [[Selkie]] — locked (3 features)
 - [x] 🔒 [[Tengu]] — locked (3 features)
 - [ ] 🟡 **Revisit flag:** give all three a light glance at the next review pass (may get small reworks) — noted, not blocking
-### Story 4.2 — Peoples, customs, naming (pending)
+### Story 4.2 — Peoples, customs, naming (🟢 seeded by the Epic 2 naming pass)
 - [ ] How Kinds distribute across the world / cultures
 - [ ] Naming conventions per culture (`character-naming` entropy approach)
-- [ ] (optional) any conlang seeds
+- [x] 🟢 **Root language + naming system seeded (2026-08-21, from the Epic 2 tail):** [[The Old Tongue]] (*Maiethren* — the liturgical root tongue: phonology, pronunciation key, sacred lexicon, **one root → three daughter drifts**) and [[Naming in the Turning]] (the "name reveals stance" institution dictionary). Covers the three Epic-2 polities. **Remaining Epic 4 language work:** deep grammar/morphology (only if dialogue is ever needed); the other ~12 great powers' tongues; the [[Kitsune]]/[[Selkie]]/[[Tengu]] naming registers.
 
 ---
 
@@ -193,7 +193,7 @@ updated: 2026-08-17
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** 🟢 nearly complete (started 2026-08-20); frame locked (world scale + register + R2 guard); **all four stories done + core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅ (2026-08-21)** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅ (2026-08-21)** → [[Polity Archetypes]] (three corners: Waiting Lands / Ledger Coast / Tallied Crown). Core audit complete (2026-08-21) → [[Epic 2 Audit Guide]]. **One task left:** the deferred in-world naming pass — now *unlocked* by the archetypes (Epic 2 tail → Epic 4 languages).
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] (root liturgical tongue + three daughter drifts) + [[Naming in the Turning]] (institution dictionary, "name reveals stance"). Core audit complete → [[Epic 2 Audit Guide]]. **→ Next: Epic 3 (World Frame).**
 - **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
 
 ## Links
