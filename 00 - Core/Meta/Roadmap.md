@@ -112,10 +112,12 @@ updated: 2026-08-17
 - [x] Labor by Condition (systematized) — the Tithe and the vocation are usually the *same shape*; **the Kept = free generalist labor** (untithed, unguilded — an economic freedom under the social slight)
 - [x] Banking / longevity / inheritance under the Long-Lived — **deathless houses** (the trusted note ≈ this world's gold standard; century instruments; concentration risk); the deathless **outlive all heirs → endow** (pay their own novelty-Tithe by funding libraries/universities); Given-Over = a self absorbed by a creditor
 - [x] **Bonus:** center/periphery (reach-edge shapes the trade map); shadow economy (illicit Tithe-supply, off-book contracts, sold vouching); 3 polity economic faces (Warm public-good / Watchful leverage / Frontier improvise)
-### Story 2.3 — Daily life
-- [ ] Marriage & family across Kinds + Conditions (stacking); the Long-Lived emotional Tithe socially
-- [ ] Medicine (The Stilled in medicine; the Returned tending the dead)
-- [ ] City design when a quarter of adults have a becoming — *feeds [[#Epic 7 — Settlements]]*
+### Story 2.3 — Daily life (`governance-systems` / `worldbuilding`) ✅ **DONE (2026-08-21)** → [[Daily Life]]
+> **Frame:** everyday life is where the **~5%-scary** dial is set at eye level — warm and ordinary at the surface, a real ache in the specific cases. Family presented as a **spectrum** (mundane → aching); medicine as **wonder + uncanny** blended; city as **principles only** (concrete places deferred to Epic 7).
+- [x] Marriage & family across Kinds + Conditions (stacking) — a **spectrum**: most households mundane-mixed (no "unmixed baseline" to marry away from); the middle = Tithe as shared family labor; the aching end = **loving someone you'll outlive** (the Long-Lived marriage — *the cost measured in funerals*, stop-or-begin-again). Threads: threshold courtesy in the home, the **Returned's "cold embrace"** as a family diagnostic, Two-Bodied bloodlines, raising a child before they Turn.
+- [x] Medicine — **the Stilled are the surgeons** (gaze arrests bleeding/holds still, wonder + the feared-licensed edge); **the Returned do the lethal work** (plague wards, tending the dead); rest is ordinary 1400s care, **unequally distributed** (clusters in the rich core; Tithe-poor can't reach it)
+- [x] City design — **principles, not places** (feeds [[#Epic 7 — Settlements]]): the **Tree at the centre**, Tithe-provision as civic utility (venting-halls, garden-commons, ranging-commons, endowed libraries), dangerous trades on the edges, homes that accommodate becomings, reach-edge writes the map
+- [x] **Bonus:** 3 polity domestic faces on the same theology/reach/governance axes + "mind the combinations"; R2 guard applied in GM Notes (the injustice reaches the hearth and stays real)
 
 ---
 
@@ -184,7 +186,7 @@ updated: 2026-08-17
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard). **Story 2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **Story 2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]. Story 2.3 (Daily life) pending, then 2–3 polity archetypes.
+- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard); **all three stories done + audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅ (2026-08-21)** → [[Daily Life]]. **Epic 2 audit complete (2026-08-21)** → [[Epic 2 Audit Guide]]. **Remaining:** 2–3 polity archetypes + the deferred in-world naming pass (Epic 2 tail → Epic 4).
 - **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
 
 ## Links
