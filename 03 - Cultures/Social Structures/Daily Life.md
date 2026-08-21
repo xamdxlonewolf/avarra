@@ -74,6 +74,7 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[Law and Citizenship]] — the legal grammar (witnessed citizenship, the Inviolate Will) · [[Economy and the Tithe]] — the economic grammar (Tithe-provision, deathless inheritance) this rests on
 - [[The Premise]] — world scale & register · [[Turning Tree]] — the civic/sacred heart every town organizes around · [[The Leaf-Mother]]
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Returned]] · [[The Stilled]] · [[Two-Bodied]] · [[Far-Voiced]] · [[The Taken-In]]
+- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (the Waiting Lands · the Ledger Coast · the Tallied Crown), each with its domestic face
 - [[Roadmap]] (Epic 2, Story 2.3) · [[03 - Cultures]]
 
 ## GM Notes

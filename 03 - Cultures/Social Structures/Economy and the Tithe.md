@@ -123,6 +123,7 @@ The grammar is universal; the *distribution* is political — and varies the way
 ## Links
 - [[The Premise]] — world scale & register (late-medieval; Condition-labor advances) · [[Law and Citizenship]] — the legal grammar this rests on
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Two-Bodied]] · [[The Answered]] · [[The Taken-In]] · [[Far-Voiced]] · [[Returned]] · [[The Stilled]] · [[Bound]] · [[The Unbound]]
+- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (the Waiting Lands · the Ledger Coast · the Tallied Crown), each with its economic face
 - [[Roadmap]] (Epic 2, Story 2.2) · [[03 - Cultures]]
 
 ## GM Notes

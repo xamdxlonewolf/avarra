@@ -116,6 +116,7 @@ The grammar above is universal; the *tone* is not — and the world is as varied
 ## Links
 - [[The Premise]] — world scale & register (the frame this is built against) · [[Turning Tree]] · [[The Leaf-Mother]]
 - [[Conditions]] — the roster this law regulates · [[The Stilled]] · [[Bound]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Taken-In]] · [[The Unbound]]
+- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes below (the Waiting Lands · the Ledger Coast · the Tallied Crown)
 - [[Roadmap]] (Epic 2, Story 2.1) · [[03 - Cultures]]
 
 ## GM Notes

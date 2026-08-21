@@ -32,7 +32,7 @@ updated: 2026-08-17
 |---|------|--------------------|:---:|:---:|
 | **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | ✅ done |
 | **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | 🟢 core done |
-| **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ⬜ |
+| **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | 🟢 core + archetypes done |
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | ⬜ |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; custom ancestries ✅ done | Low | 🟢 partial |
 | **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ⬜ |
@@ -119,6 +119,13 @@ updated: 2026-08-17
 - [x] City design — **principles, not places** (feeds [[#Epic 7 — Settlements]]): the **Tree at the centre**, Tithe-provision as civic utility (venting-halls, garden-commons, ranging-commons, endowed libraries), dangerous trades on the edges, homes that accommodate becomings, reach-edge writes the map
 - [x] **Bonus:** 3 polity domestic faces on the same theology/reach/governance axes + "mind the combinations"; R2 guard applied in GM Notes (the injustice reaches the hearth and stays real)
 
+### Story 2.4 — Polity archetypes (`governance-systems` / `worldbuilding`) ✅ **DONE (2026-08-21)** → [[Polity Archetypes]]
+> **Frame:** prove the universal social physics flex by building **2–3 polities at *different corners* of the theology/reach/governance axis-space** (audit design note: NOT three-in-a-row on one axis). Each pair shares **exactly one** axis and differs on the other two, so the set *isolates* each axis and proves the three are independent. Extends the single-axis touchstones (Warm/Watchful/Frontier) into full three-knob corners.
+- [x] **Three corners built** — **The Waiting Lands** (theology high · reach low · gov low — warm/poor/faithful pilgrim edge), **The Ledger Coast** (theology low · reach high · gov low — rich/cool secular merchant power), **The Tallied Crown** (all three high — sanctified surveillance, the darkest corner). Each walked through law · economy · daily life + its distinct injustice.
+- [x] **R2 guard applied** — three *different* injustices (guilt-theology / market-fade / sacred census), none dissolvable by the keystone reveal because they share no mechanism, only that people built them. Reach-edge cause kept GM-side in all three.
+- [x] 🟡 **Naming labels are provisional** (working names picked with user 2026-08-21: Waiting Lands / Ledger Coast / Tallied Crown) — settled in-world names come *in* the naming pass below.
+- [ ] 🟡 **UNLOCKED — the deferred in-world naming pass.** Now that the archetypes exist: settle names for the three + regional/language variants for every provisional institution term across all four social-structure notes (venting-hall, ranging-commons, vouching, the census, etc.). Design lever: *the name a polity gives a shared institution reveals its stance.* Runs with Epic 4 languages. **← Epic 2's last open task.**
+
 ---
 
 ## Epic 3 — The World Frame
@@ -186,7 +193,7 @@ updated: 2026-08-17
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
 - **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
 - **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** 🟢 in progress (started 2026-08-20); frame locked (world scale + register + R2 guard); **all three stories done + audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅ (2026-08-21)** → [[Daily Life]]. **Epic 2 audit complete (2026-08-21)** → [[Epic 2 Audit Guide]]. **Remaining:** 2–3 polity archetypes + the deferred in-world naming pass (Epic 2 tail → Epic 4).
+- **Epic 2 — Society:** 🟢 nearly complete (started 2026-08-20); frame locked (world scale + register + R2 guard); **all four stories done + core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅ (2026-08-21)** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅ (2026-08-21)** → [[Polity Archetypes]] (three corners: Waiting Lands / Ledger Coast / Tallied Crown). Core audit complete (2026-08-21) → [[Epic 2 Audit Guide]]. **One task left:** the deferred in-world naming pass — now *unlocked* by the archetypes (Epic 2 tail → Epic 4 languages).
 - **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
 
 ## Links
