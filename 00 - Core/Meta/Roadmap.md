@@ -33,8 +33,8 @@ updated: 2026-08-17
 | **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | ✅ done |
 | **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | 🟢 core done |
 | **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ✅ done |
-| **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | ⬜ |
-| **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; custom ancestries ✅ done | Low | 🟢 partial |
+| **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | 🟢 core done |
+| **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; **4** custom ancestries ✅ done | Low | 🟢 partial |
 | **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ⬜ |
 | **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | ⬜ |
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ⬜ |
@@ -129,22 +129,28 @@ updated: 2026-08-17
 ---
 
 ## Epic 3 — The World Frame
-**Skill:** `systemic-worldbuilding` · **Status:** ⬜ · Geography, climate, where the Trees grow, the physical stage. Depends only on Epic 0; can run in parallel with Epic 1–2 once the one-vs-many-Trees call is made.
+**Skill:** `systemic-worldbuilding` · **Status:** ✅ **core done (2026-08-22)** — the four-continent frame, all four continent notes, the calendar, and (pulled forward) the 4th ancestry are written. · Geography, climate, where the Trees grow, the physical stage.
 
-- [ ] Geography & regions (`01 - World`)
-- [ ] Where Turning Trees grow (ties to Epic 1.1) — climate/ecology consequences
-- [ ] Astronomy/solstice (the Leaf-Fall is solstice-timed — lock the calendar)
+> **Built as a reach-gradient.** The load-bearing call: the whole map is a **gradient of the [[Turning Tree|Trees']] reach** — sacred-dense origin → mercantile middle → thin frontier → storm-walled isle beyond. Physical map = cosmological map. → [[The World Frame]].
+
+- [x] 🟡 **Geography & regions (`01 - World`)** → [[The World Frame]] (top-level) + four continents: **[[Maiethorn]]** (Motherland, full reach, holds [[Polity Archetypes|Threnmaieth]]), **[[Strandoren]]** (Shore-lands, high reach, trade, holds [[Polity Archetypes|Lestrand]]), **[[Heskoren]]** (Sundered Reach, thin reach, frontier, holds [[Polity Archetypes|Vaethorn]]), **[[The Sundering Isle]]** (Kumbaan — storm-walled, near-no reach, Yumboe homeland). The three archetype polities placed on three *different* continents; **rival faiths woven into the large continents** (heartland heresy / fortune-and-contract cult / the old ways), not quarantined — seeds the [[Roadmap|Story 1.4]] religion pass.
+- [x] 🟡 **Where Turning Trees grow** — the reach-gradient *is* this: densest/healthiest on Maiethorn, thinning outward, near-none across the storm-wall. Present-day thin reach = Tree-poor places (young/sick/few grafts), per the [[Roadmap|Epic 6 Grafting]] history. Keystone edge kept GM-side in every continent note.
+- [x] 🟡 **Astronomy/solstice — calendar locked** → [[The Reckoning of the Year]]: two solstices; the Leaf-Fall is **High Solstice / midsummer**, held **Turning-Week**; ~1400s-legible 12-month lunar-hinged calendar; [[The Sundering Isle|Kumbaan]] keeps the *moon, not the solstice* (a keystone tell).
+- [x] 🟡 **(Pulled forward from Epic 4) — 4th custom ancestry built to full depth** → [[Yumboe]] (the good people / Bakhna Rakhna): three Daggerheart features (Hollow-Hill · Moon-Waked · The Unseen Hands), folklore-checked (Wolof/Senegambian *Yumboe* myth), small/pearly/silver, LOCKED. Its own non-Maiethren tongue seeded. The Isle *needed* its people, so the ancestry came here rather than waiting for Epic 4.
+- **Map assets baked in (per user):** every geography note carries a **GPT Image prompt**; [[The World Frame]] additionally carries an **Azgaar heightmap template**, a **Maiethren name base**, and a bonus **Azgaar seed script**. (The Isle's own Wolof-flavoured name base is seeded in [[Yumboe]], to build alongside Epic 4.)
+- **🟡 Deferred (tracked):** per-region *deep* climate/ecology; the ~12 other great powers as named-stubs (→ [[Roadmap|Epic 7]]); month-names + the Isle's name base (→ Epic 4 naming); the rival faiths' full build (→ religion pass, [[Roadmap|Story 1.4]]).
 
 ---
 
 ## Epic 4 — Cultures & Kinds
 **Skill:** `worldbuilding`, `character-naming`, optional `conlang`/`language-evolution` · **Status:** 🟢 custom ancestries DONE; peoples/customs pending. · **Blast radius: Low.**
 
-### Story 4.1 — Custom ancestries ✅ **DONE (merged 2026-08-17)**
+### Story 4.1 — Custom ancestries ✅ **DONE (3 merged 2026-08-17; 4th added 2026-08-22)**
 - [x] 🔒 [[Kitsune]] — locked (3 features)
 - [x] 🔒 [[Selkie]] — locked (3 features)
 - [x] 🔒 [[Tengu]] — locked (3 features)
-- [ ] 🟡 **Revisit flag:** give all three a light glance at the next review pass (may get small reworks) — noted, not blocking
+- [x] 🔒 [[Yumboe]] — locked (3 features: Hollow-Hill · Moon-Waked · The Unseen Hands). **Built in Epic 3** (the far isle [[The Sundering Isle]] needed its people); the good people / *Bakhna Rakhna*, small/pearly/silver hill-folk, folklore-checked, their own non-Maiethren tongue. Now **four** custom ancestries.
+- [ ] 🟡 **Revisit flag:** give all four a light glance at the next review pass (may get small reworks) — noted, not blocking
 ### Story 4.2 — Peoples, customs, naming (🟢 seeded by the Epic 2 naming pass)
 - [ ] How Kinds distribute across the world / cultures
 - [ ] Naming conventions per culture (`character-naming` entropy approach)
@@ -191,10 +197,11 @@ updated: 2026-08-17
 
 - **Epic 0 — Foundations:** 6 / 6 tasks (100%) ✅ — setting named *The Turning* (2026-08-20)
 - **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
-- **Epic 4 — Cultures & Kinds:** custom ancestries 3/3 ✅; peoples/customs 0/3
-- **Epics 2, 3, 5–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] (root liturgical tongue + three daughter drifts) + [[Naming in the Turning]] (institution dictionary, "name reveals stance"). Core audit complete → [[Epic 2 Audit Guide]]. **→ Next: Epic 3 (World Frame).**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, 3 custom ancestries, keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**.
+- **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]]); 4th ancestry ([[Yumboe]]) pulled forward. Map assets (GPT Image prompts + Azgaar heightmap template + Maiethren name base + seed script) baked in. Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7), rival-faith full build (→religion pass).
+- **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅** (Kitsune · Selkie · Tengu · Yumboe); peoples/customs 0/3
+- **Epics 5–10:** not yet decomposed (progressive elaboration)
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] (root liturgical tongue + three daughter drifts) + [[Naming in the Turning]] (institution dictionary, "name reveals stance"). Core audit complete → [[Epic 2 Audit Guide]]. **→ Epic 3 (World Frame) core now done; next: continue Epic 3 tail / Epic 4 peoples, or Epic 5.**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week)**.
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub

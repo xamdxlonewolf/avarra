@@ -47,7 +47,7 @@ The origin. Old beyond reliable dating, vast, and the one Tree no one grafted fr
 
 ## The Leaf-Fall (the ceremony)
 
-The rite the whole world is built around. Held in the **tenth-year solstice week** (calendar locked to solstice in [[The Premise]]; exact reckoning deferred to Epic 3).
+The rite the whole world is built around. Held in the **tenth-year solstice week** (calendar locked to solstice in [[The Premise]]; the reckoning is now fixed — the High Solstice / midsummer, held **[[The Reckoning of the Year|Turning-Week]]**).
 
 **Who attends.** Every child who turns ten since the last solstice, brought by family; the town gathers as witness; a **tree-warden** or local clergy of [[The Leaf-Mother]] officiates (the precise office is fleshed in Epic 5). It is simultaneously a sacred rite and the town's biggest festival of the year — part christening, part graduation, part fair.
 
