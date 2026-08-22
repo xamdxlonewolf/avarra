@@ -15,7 +15,9 @@ The physical setting as its inhabitants understand it — geography, climate, ec
 
 ## Contents
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- 
+- **[[The World Frame]]** — the top-level geography: four continents on a reach-gradient (start here)
+- **Continents:** [[Maiethorn]] (Motherland) · [[Strandoren]] (Shore-lands) · [[Heskoren]] (Sundered Reach) · [[The Sundering Isle]] (Yumboe homeland)
 
 ## Related
-- 
+- [[The Premise]] (world scale & register) · [[Turning Tree]] · [[The Old Tongue]] · [[Polity Archetypes]]
+- [[Roadmap]] (Epic 3 — The World Frame)
