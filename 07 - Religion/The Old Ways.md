@@ -46,7 +46,7 @@ updated: 2026-08-23
 ## Clergy (sketch — orders deferred to Epic 5)
 
 - **Door-keepers** (also **Kin-speakers**) — they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when they can. Not a hierarchy; a reputation. A famous door-keeper is just the one three valleys will walk to.
-- **No seat.** The Old Ways cannot have a mother-church. The land is the seat. Vaethorn's tree-wardens find this infuriating and, in a dry year, quietly useful.
+- **No seat.** The Old Ways cannot have a mother-church. The land is the seat. Vaethorn's [[The Tree-Wardens|tree-wardens]] find this infuriating and, in a dry year, quietly useful.
 
 ## The live schism (the faith arguing with itself)
 

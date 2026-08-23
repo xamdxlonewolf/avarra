@@ -70,6 +70,17 @@ The three life-outcomes of the [[Turning Tree|Leaf-Fall]] keep their plain commo
 
 > **Read across a single row and you have the whole setting.** The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied-as-free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained). One kind of person; three societies' worth of judgment. This row *is* the [[Polity Archetypes|"name reveals stance"]] lever in miniature.
 
+### Clergy (from [[The Tree-Wardens]], Story 5.1)
+
+Names 🟡 — everyday *tree-wardens* is already in the faith notes; the liturgical coinages are proposed.
+
+| Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|---|
+| the Motherfaith's working clergy | **tree-wardens** (liturg. *Orenhael*) | *Hands-folk* | *tree-tenders* | *the Reckoned Hands* |
+| the pilgrimage college | **the First Seat** | *the First Hand's college* | *the old seat* (a civic bureau) | *the Reckoned Seat* (wants them on the roll) |
+| graft-carriers / sick-Tree circuit | **Road-hands** (liturg. *Thaelvaeth*) | *the waiting-hands* | *the graft-carts* | *the counted road* |
+| authorization to cut a scion | **Cutting-leave** | *the wood's blessing* | *the carrying-licence* | *the scion-warrant* |
+
 ### Faiths (from [[Faiths of the Turning]])
 
 Same lever, now for religions. The common-tongue name is what a traveller says; the own-name is what the house says; the polity's *second* word is how the state files them.
@@ -93,7 +104,7 @@ When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
-- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[Faiths of the Turning]] · [[Conditions]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
 - [[Kinds of the Turning]] — hearths, not nations
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]

@@ -46,11 +46,11 @@ Religion is lived, not just believed. The Motherfaith is dense with practice —
 
 ## Clergy & institutions
 
-*(Sketched here; the faith's orders are fleshed as factions in [[Roadmap|Epic 5]].)*
+Full faction: [[The Tree-Wardens]] (Epic 5, Story 5.1). Names 🟡. The load-bearing shape:
 
-- **Tree-wardens** — the working clergy. They tend the town Tree, officiate the Leaf-Fall, and hold the **authoritative reading of the colours** (see [[Turning Tree]]: common colours are folk-known, but wardens confirm them and rule on the rare/subtle/mixed falls). This gives the clergy a *needed civic function*, not just a devotional one — a concrete reason society organizes around them.
-- **The seat at the Awakening Tree.** The faith's central authority sits in the shadow of the origin Tree — the destination of pilgrimage, the source of graft-scions carried to new towns, and (by implication) the closest thing to a mother-church. Its internal structure, offices, and politics are deferred to Epic 5.
-- **Economic base (🟡).** Likely a mix of the festival economy, the graft-and-warden services towns depend on, and offerings — systematized in [[Roadmap|Epic 2]] (economy) / Epic 5 (orders).
+- **Tree-wardens** — the working clergy, one order with offices (not rival chapters). They tend the town Tree, officiate the Leaf-Fall, and hold the **authoritative reading of the colours** (see [[Turning Tree]]: common colours are folk-known, but wardens confirm them and rule on the rare/subtle/mixed falls). This gives the clergy a *needed civic function*, not just a devotional one — a concrete reason society organizes around them.
+- **The First Seat** — a *college*, not a throne, in the Motherwood about the Awakening Tree. Destination of pilgrimage; authorizes graft-scions (cuts may come from the origin *or* a healthy town Tree acting on its behalf). It confirms Road-hands and Speakers; it does not appoint every town-warden.
+- **Economic base.** Towns house the warden-hearth; Turning-Week is the festival share; Cutting-leave carries a fee framed as carrying-earth; pilgrimage keeps the Seat. They are **not** the Tithe-infrastructure sector (that is still [[Economy and the Tithe]] / Story 5.3).
 
 ## The live schism (the faith arguing with itself)
 
@@ -87,10 +87,11 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
 
 - **Player-facing, keystone-adjacent.** Carries `reveals: [leaf-mother-is-real]` because its doctrine, taken as true, *is* the keystone. Present it as **belief** — reverent where it's reverent, and letting the skeptics have their full dignity. Never let a player-facing beat confirm the Mother; the confirmation is the GM's to place, and per [[Is the Leaf-Mother Real]] it should land as *warmth*, not horror.
 - **The schism is the reusable engine.** The three questions above are the faith's inexhaustible fuel for NPCs, factions, and family drama (a Kept sibling, a Struck spouse, a skeptic parent). Reach for them whenever a scene needs belief-shaped conflict. Per [[The Other Hands]], Narrow-Hand is right that she does not Strike, and Wide-Hand is right that the catch is still hers (her household, her allowance). Do not let a player-facing scene award the win to either branch.
-- **Deferred, on purpose:** the clergy's full orders/politics and the pilgrimage-seat's structure (Epic 5). The sacred calendar is now locked ([[The Reckoning of the Year]]); the faith's economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
+- **Clergy orders:** built as [[The Tree-Wardens]] (Story 5.1, names 🟡). The sacred calendar is locked ([[The Reckoning of the Year]]); the faith's Tithe-economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism. The other four houses' orders remain Epic 5 Story 5.2.
 
 ## Links
 - [[Turning Tree]] — the object and rite this faith is built around
+- [[The Tree-Wardens]] — the working clergy (Story 5.1)
 - [[Faiths of the Turning]] — the other faiths, and how this one lives beside them
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Child at Four Doors]]
 - [[The Premise]] — the locked engine (Given / Struck / Kept, the Tithe, population math)

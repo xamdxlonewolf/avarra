@@ -30,7 +30,7 @@ updated: 2026-08-23
 
 The three mainland rivals were planted in [[The World Frame]] so the friction sits *inside* the settled world. [[The Open Table]] is the isolate: grown with no Tree and no Mother-name, the control case.
 
-Smaller household rites, quay-charms, and Kind-customs ([[Kitsune]], [[Selkie]], [[Tengu]] especially) exist and stay local — they are not load-bearing. Their naming registers wait for [[Roadmap|Epic 4]]. Full clergy orders wait for [[Roadmap|Epic 5]].
+Smaller household rites, quay-charms, and Kind-customs ([[Kitsune]], [[Selkie]], [[Tengu]] especially) exist and stay local — they are not load-bearing. Kind-hearths and hearth-registers: [[Kinds of the Turning]] · [[Naming People in the Turning]]. Motherfaith clergy: [[The Tree-Wardens]]. The other four houses' orders wait for [[Roadmap|Epic 5 Story 5.2]].
 
 ## The argument (what a becoming *is*)
 
@@ -69,11 +69,12 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 
 - **No confirmed pantheon in player-facing text.** The Leaf-Mother remains a *belief* in public notes. The other faiths stay beliefs. The GM-layer household (she Gives; Other Hands Strike) lives in [[The Other Hands]] and is **not** to be dumped into these pages.
 - **Faith names are 🔒 locked (2026-08-23):** *Haelthael*, *Leddoren*, *Vaeloren*, *Ndeyaan* — user taste call. Texture around them stays polishable.
-- **No clergy politics.** Tree-wardens, Watchers, Book-hands, door-keepers, table-keepers are sketched on each faith note. Orders, seats, and money wait for [[Roadmap|Epic 5]].
+- **Clergy politics.** Motherfaith orders are built — [[The Tree-Wardens]] (Story 5.1, names 🟡). Watchers, Book-hands, door-keepers, table-keepers remain sketched on each faith note until [[Roadmap|Epic 5 Story 5.2]]. Tithe-infra and safety-guilds wait for Story 5.3.
 - **The nature of her limit.** The Watching *claims* to remember a cost. That claim is fuel for [[Roadmap|Epic 6]], not an answer.
 
 ## Links
 - The five: [[The Leaf-Mother]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
+- Clergy (5.1): [[The Tree-Wardens]]
 - The shared story: [[The Child at Four Doors]]
 - Placed on: [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM)
