@@ -27,7 +27,7 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[The Watching]] — Maiethorn heartland heresy (*Haelthael*); the Tree as witness, not Mother · clergy: [[The Watchers]]
 - [[The Fair Hand]] — Strandoren contract-faith (*Leddoren*); Conditions as bargains struck · clergy: [[The Book-Hands]]
 - [[The Old Ways]] — Heskoren land-and-kin faith (*Vaeloren*); the grafts are guests · clergy: [[The Door-Keepers]]
-- [[The Open Table]] — Kumbaan isolate faith (*Ndeyaan*); hospitality, moon, staying-kin · clergy: [[The Table-Keepers]]
+- [[The Open Table]] — Kumbaan isolate faith (*Ndeyaan*); hospitality, moon, staying-kin · clergy: [[The Table-Keepers]] · isle flavor: [[The Shore-Sitters]]
 
 ### Teaching-story
 - [[The Child at Four Doors]] — one fable, a different last line in every house

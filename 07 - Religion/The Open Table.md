@@ -47,8 +47,9 @@ updated: 2026-08-23
 
 Full faction: [[The Table-Keepers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
 
-- **Table-keepers** (also **hill-hosts**) — almost not clergy. The person whose hall the valley comes to on the bright nights. Reputation, not office. One job: keep the table. There is no seat across the sea, and no pilgrimage but the crossing itself. No Kumbaan mission.
-- **A Yumboe abroad** is a table-keeper by necessity. One person can keep Ndeyaan in a Lestrand attic. That is how the faith travels, when it travels at all. Recruits by faith (who will lay the extra place), not by Kind.
+- **Table-keepers** (also **hill-hosts**) — almost not clergy. The person whose hall the valley comes to on the bright nights. Reputation, not office. One job: keep the table. Full faction: [[The Table-Keepers]].
+- **Shore-sitters** (also **wall-waiters**) — the other isle job. They sit the storm-beach and wait. They do not swim out. The living go uphill to a table. Flavor, not a mainland order. Full faction: [[The Shore-Sitters]].
+- **A Yumboe abroad** is a table-keeper by necessity. One person can keep Ndeyaan in a Lestrand attic. That is how the faith travels, when it travels at all. Recruits by faith (who will lay the extra place), not by Kind. No Kumbaan mission.
 
 ## The live schism (the faith arguing with itself)
 
@@ -70,6 +71,7 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 - [[The Sundering Isle]] (Kumbaan) · [[The Child at Four Doors]]
 - [[The Leaf-Mother]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon, not the solstice)
 - [[The Table-Keepers]] — the working house (Story 5.2)
+- [[The Shore-Sitters]] — sister house on the storm-beach (Story 5.2). They wait; they do not seat.
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes

@@ -51,7 +51,7 @@ They are useful the way a notary is useful. A port cannot live without someone w
 | A ten-year-old's Settler household, Turning-Week | The child Turned (or was Kept); the personal book must open | Stand as *witness*, not petitioner. Speak the signing-watch line if they speak. Enter colour (or the hug), Tithe, what the year owes. Put the book in the child's hands. | Will not speak the Tender's blessing. Will not call the colour a gift. Will not Speak the civic name — the warden does that; they copy what was seen into a private book. |
 | Anyone with a contract | Marriage, hull, a year's closing | Witness, copy, stamp, date. | Will not hide a clause. Hidden terms are the house's one sin. Will not show a *personal* book to a crown-clerk. |
 | A Bound, on oath-day | The year's Terms must be spoken where a neighbour can hear | Recite the Terms *as already written*. Mark the civic book closed if the Tithe-year was paid, or owing if it was not. | **Will not rewrite the Terms.** That is the Counterparty's clause, not a clerk's. Will not pretend a stamp can ease a Pledge. |
-| A Bound who wants the clause changed | The Terms are killing them; they have heard a clerk can "fix it" | A **Counterparty** Book-hand may sit a *petition-watch*: they witness the ask, keep the book open, and wait. If something answers, they copy what was answered. A **Book Alone** hand will not sit that hour — they do not believe anyone is across the table. | Will not dictate a new clause. Will not sell an easing. Anyone who claims they can is [[The Back Table\|the Back Table]], or a liar. |
+| A Bound who wants the clause changed | The Terms are killing them; they have heard a clerk can "fix it" | A **Counterparty** Book-hand may sit a *petition-watch*: they witness the ask, keep the book open, and wait. If something answers, they copy what was answered. A **Book Alone** hand will not sit that hour — they do not believe anyone is across the table. | Will not dictate a new clause. Will not sell an easing. Anyone who claims they can is a liar, or someone taking coin in a cellar. |
 | A Struck who is not Bound | They Changed later (drowned, died, taken); this town cannot house the Tithe | **Civic settling:** find a payable year — passage to a hall that exists, a warrant, someone to [[Law and Citizenship\|stand for]] them. | Will not take them to a Tree to be acknowledged as Given. Will not name them kin at a door. Will not rewrite a Bound contract under this heading. |
 | A child of the house, about nine | They must learn to keep a book before they Turn | Sit with a blank personal book: colour, Tithe, debts, what the year owes you. Private. Not the Threnhael. | Will not let a Reckoned clerk "help" copy it. Will not teach the book as a census. |
 | A Tithe-poor Settler | The year will not close; they cannot stamp a fee | Some stay and rewrite until the candle dies. Some mark *owing* faster. Both are of the house. | Will not furnish a venting-hall or a greens-share. They may *write a term that assumes one*. Story 5.3 owns the hall. |
@@ -103,7 +103,7 @@ A "high house" is a room with old copies and a better lamp. It is not a palace. 
 - They will not call a Leaf-Fall a gift, and they will not retcon a Given child into a debtor. The book opens at the colour; it does not invent a storm.
 - They will not ride out as contract-paladins or carry a scion. They sit.
 - They will not keep a membership roll of Book-hands. A roll would be a Threnhael.
-- They will not rewrite a Bound's Terms or sell an easing of a Pledge. The clerk is not the Counterparty. Anyone who does that work after the lamps is [[The Back Table]].
+- They will not rewrite a Bound's Terms or sell an easing of a Pledge. The clerk is not the Counterparty.
 
 ## Who may keep a table
 
@@ -130,7 +130,6 @@ Struck Book-hands must still be **vouched anew**. Civic settling is how the hous
 | [[The Tree-Wardens]] | Leaf-Fall as festival *and* signing-watch. On Lestrand they share a square and ignore each other's sentences. | Gift-language vs. debt-language over the same Bound soul. A Bound warden is the seam; a Bound Book-hand is the house at home. |
 | [[The Watchers]] | Rarely share a square. "What falls, was seen" sounds, to a Settler, like a clause with no number. | A Bound who wants a second reading of an oath-day and a Watcher who will not call it a signing. |
 | [[The Old Ways]] | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first — kin, or payable year. Play as two courtesies, not a trial. |
-| [[The Back Table]] | Honest Book-hands share a quay with people who stamp after the lamps. Same ink. Opposite hour. | A Bound who was told the clerk can "fix the clause." The house will not. The Back Table will say they can. |
 | [[The Open Table]] | A Settler who sits a moon-feast twice has been called kin in a language with no book. | Do not turn "no one is a stranger twice" into a term. That is this house leaking onto the isle. There is no Leddoren mission on [[The Sundering Isle\|Kumbaan]]. |
 
 ## How they live in the three corners
@@ -145,7 +144,7 @@ Grace is a closed book. That is the house's kindness, and its cruelty.
 
 Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. Confirming the Leaf-Mother is real does not make the fading kind, and does not convert a Bound's clause into a clerk's draft. The Fair Hand misreads a cost as a price ([[The Fair Hand]] GM); the Leddhael are that misreading *at a desk*, helping — except where the desk has no right to write.
 
-Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay toward [[The Back Table]]. That is the R2 of honesty.
+Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That is the R2 of honesty. The shadow economy still exists ([[Economy and the Tithe]]); it does not yet have a lived house ([[Rogue House Options]]).
 
 This is not a hunt and not a queue. The Road-hands already walk the scion they were given leave to plant. Book-hands do not need a travelling underdog.
 
@@ -168,7 +167,7 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 ## Links
 - [[The Fair Hand]] — the faith this house keeps · [[Faiths of the Turning]]
 - [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]] · [[Law and Citizenship]]
-- [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Back Table]]
+- [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[Rogue House Options]]
 - [[Strandoren]] · [[Polity Archetypes|Lestrand]] · [[Naming in the Turning]] (the Uncounted Book)
 - [[The Old Tongue]] (Leddhael 🟡) · [[Kinds of the Turning]]
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
@@ -177,10 +176,10 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **Wrong about the verb, right about the ache — now wearing a stamp.** Per the keystone, Leaf-Fall is a gift, not a signing. Per [[The Other Hands]], *Orledd* answers sworn asks; the Fair Hand is right about that door and wrong that every becoming is a bargain. Do not let a Book-hand retcon a Given child into a debtor. **Do not let a Book-hand rewrite Orledd's clause.** A petition-watch is *keeping the door* (purchase); it is not acolyte-authority. Do not play them as devil-worship, devil-acolytes, or capitalism-cosplay. They are as sincere as the Orenhael.
-- **The Back Table is where the rejected job went.** If a Bound needs a new clause, the honest house waits or refuses. The rogue house sells the wait, or fakes the answer. Some ugly hours *do* get a reply — that is still Orledd, not a clerk's power. Do not give the Back Table a magic stamp that authors Terms.
+- **No lived rogue house yet.** The Back Table was tried and rejected (too much a night-clone of this desk). Next face: [[Rogue House Options]]. Do not give anyone a magic stamp that authors Terms.
 - **Name collision to avoid.** *Orledd* (the Counterparty) is already *oren* + *ledd* in reverse. This house's liturgical name is **Leddhael**, not *Orenledd*. If you swap the coinage, do not land on Orledd's roots.
 - **The injustice is the closed book of the rich and the owing of the poor.** Causal + social distance: the Book-hand sees one table; the quay sees a step-around; Lestrand's "the free" for the Kept is the same market wearing a theology. R2: the reveal does not make the fade kind. A Tithe-poor Settler is still a person the city steps around.
-- **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins. If you need an underdog, do not send Book-hands up the pilgrim road with a scion. Their exposed edge is novation — a hot potato, not a travelling unit. Story 5.3 still owns Tithe-infra.
+- **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins or Orledd-acolytes. If you need an underdog, do not send Book-hands up the pilgrim road with a scion. Their exposed edge is civic settling — and the Bound they cannot help. Story 5.3 still owns Tithe-infra.
 - **Taste still open (do not treat as locked).**
   1. **The name *Leddhael.*** Everyday *Book-hands* / *Settlers* is already in canon. Swap or drop the coinage. Not *Orenledd*.
   2. **No membership roll.** Proposed — a roll would be a Threnhael. The other clean option: the oldest book-room in a port keeps a *table-list* of who may stamp that quay, and nowhere else.

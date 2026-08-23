@@ -50,7 +50,7 @@ updated: 2026-08-23
 
 Full faction: [[The Book-Hands]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
 
-- **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, teach children how to keep a book, and settle a Struck's *civic* year (a hall, a warrant). They recite a [[Bound]]'s Terms on oath-day; they do **not** rewrite those Terms (the Counterparty's clause, not a clerk's). On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly. The refused Bound-job lives at [[The Back Table]].
+- **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, teach children how to keep a book, and settle a Struck's *civic* year (a hall, a warrant). They recite a [[Bound]]'s Terms on oath-day; they do **not** rewrite those Terms (the Counterparty's clause, not a clerk's). On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
 - **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a mother-church. A "high house" in a rich port is just the oldest book-room. No membership roll — a roll would be a Threnhael.
 
 ## The live schism (the faith arguing with itself)

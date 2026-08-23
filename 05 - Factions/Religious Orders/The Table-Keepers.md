@@ -17,9 +17,9 @@ updated: 2026-08-23
 
 # The Table-Keepers
 
-> **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — hill-hosts on [[The Sundering Isle|Kumbaan]]. They are **almost not clergy** and **not a mainland play-order**. Almost no one reaches the isle; a Yumboe abroad keeping an attic is a rare beat, not an organization. The fourth *mainland* house in this pass is [[The Back Table]], not this one. The faith itself is done; this note does not rebuild it.
+> **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — hill-hosts on [[The Sundering Isle|Kumbaan]]. They are **almost not clergy**. A Yumboe abroad keeping an attic is how the faith travels, rarely. The storm-shore is a *different* isle job → [[The Shore-Sitters]]. The faith itself is done; this note does not rebuild it.
 
-> **Canon status.** 🟡 **Parked as isle practice (taste call 2026-08-23).** Do not grow a mainland table-keeper circuit. Do not make this a Kind-only *order* for play — on Kumbaan the hosts are Yumboe because that is who lives there. 🔒 **Locked upstream:** the rite *is* supper; no chapel; no Kumbaan mission.
+> **Canon status.** 🟡 **Kept (taste call 2026-08-23).** Names still polishable. 🔒 **Locked upstream:** the rite *is* supper; no chapel; no Kumbaan mission; not a Kind-only order — on the isle they are Yumboe because that is who lives there.
 
 *(Mainland everyday: **table-keepers**, also **hill-hosts.** Own-name, 🟡: **the Njaalo** — NJAH-lo — a [[Yumboe]] coinage in the night-keeping tongue, "the hall that is kept." Not Maiethren; this house owes the liturgy nothing. Sailors say **moon-hosts**. [[Polity Archetypes|Vaethorn]] has them as a sailor's tale. [[Polity Archetypes|Lestrand]] says **the Moon-Feast people** when a quay wants a story. [[Polity Archetypes|Threnmaieth]] does not file them — they are off the map.)*
 
@@ -123,6 +123,7 @@ Struck table-keepers on the mainland must still be **vouched anew** if they want
 | [[The Watchers]] | A Watcher who crossed would find the night already kept — for a different reason. | Do not invent a Night Watch on the isle. |
 | [[The Book-Hands]] | A Settler who sits twice has been called kin in a language with no book. | Do not turn the sentence into a term. |
 | [[The Door-Keepers]] | Ancestor-meals and a place set look like cousins to a traveller. They are not. The dead in the ground are not the unseen hands. | Do not fold the isle into a grove. |
+| [[The Shore-Sitters]] | Sister house. They sit the storm-beach. A living wreck they walk uphill; they do not seat on the sand. | A Table-Keeper does not go down to wait. The sand decides *alive*; the hall decides *kin*. |
 
 ## How they live in the three corners (and off the map)
 
@@ -158,7 +159,8 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
 ## Links
 - [[The Open Table]] — the faith this house keeps · [[Yumboe]] — the people who most often keep it
 - [[The Sundering Isle]] (Kumbaan) · [[Faiths of the Turning]]
-- [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Back Table]] (mainland rogue; not this house)
+- [[The Shore-Sitters]] — the other Kumbaan house (the sand, not the hall)
+- [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]]
 - [[Naming People in the Turning]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon)
 - [[Law and Citizenship]] · [[Kinds of the Turning]]
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]

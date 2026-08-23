@@ -84,8 +84,9 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Nethoren** *(neth-OR-en)* — *neth* + *oren* = "the night-witnesses." Liturgical name of [[The Watchers]]. Not *Haeloren* (too close to Orenhael).
 - **Leddhael** *(LED-hayl)* — *ledd* + *hael* = "the accounted-whole." Liturgical name of [[The Book-Hands]]. Not *Orenledd* (collides with *Orledd*, the Counterparty).
 - **Vaelbren** *(VAYL-bren)* — *vael* (older: land's yield) + *bren* = "the yield-hearth." Liturgical name of [[The Door-Keepers]]. Not *Vaelorn* (the Taking).
-- **Njaalo** *(NJAH-lo)* — not Maiethren; a [[Yumboe]] coinage, "the hall that is kept." Own-name of [[The Table-Keepers]] (isle practice).
-- **Nethledd** *(neth-LED)* — *neth* + *ledd* = "the night-account." Cant-name of [[The Back Table]] (🟡). Not *Orledd*.
+- **Njaalo** *(NJAH-lo)* — not Maiethren; a [[Yumboe]] coinage, "the hall that is kept." Own-name of [[The Table-Keepers]].
+- Isle flavor (not Maiethren): **Njawaal** *(njah-WAHL)* — [[The Shore-Sitters]].
+- Rogue-house cants (🟡, pick one house): *Orenvaeth* · *Thaelneth* · *Vaethledd* — see [[Rogue House Options]]. Not *Orledd*. Not *Nethledd* (retired with the Back Table).
 
 ## The three polities, named
 
@@ -99,7 +100,8 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Polity Archetypes]] — the three polities named here · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[The Tree-Wardens]] — Orenhael · Thaelvaeth (🟡)
-- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Back Table]] — Nethoren · Leddhael · Vaelbren · Njaalo · Nethledd (🟡)
+- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] — Nethoren · Leddhael · Vaelbren · Njaalo · Njawaal (🟡)
+- [[Rogue House Options]] — one mainland shadow house, not yet picked
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds

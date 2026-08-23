@@ -64,7 +64,7 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[The Sundering Isle]] (Kumbaan) — their storm-walled homeland · [[The Open Table]] — their isolate faith (*Ndeyaan*) · [[The World Frame]] — the world they're rare across
+- [[The Sundering Isle]] (Kumbaan) — their storm-walled homeland · [[The Open Table]] — their isolate faith (*Ndeyaan*) · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The World Frame]] — the world they're rare across
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] — the other three custom ancestries (all mainland-native)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (Kumbaan's twelve moons)
 - [[03 - Cultures]]
