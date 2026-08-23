@@ -54,7 +54,10 @@ The sacred lexicon the setting's names are built from. (Meanings are the *root* 
 | **eol** | AY-ohl | a hinge; the year's turning | Month-root — [[The Reckoning of the Year|Eolthael]], the High-Solstice month. |
 | **bren** | bren | hearth; the kept fire | Month-root — [[The Reckoning of the Year|Brenorn]]. |
 | **lir** | leer | thaw; water that runs again | Month-root — [[The Reckoning of the Year|Liren]]. |
-| **sael** | sayl | sowing; the first green | Month-root — [[The Reckoning of the Year|Saelorn]]. Distinct from **vael** (a gift Given) and **hael** (wholeness). |
+| **sael** | sayl | sowing; the first green | Month-root — [[The Reckoning of the Year|Saelorn]]. Distinct from **vael** (a gift Given) and **hael** (wholeness). Also the greens-keepers' root. |
+| **ael** | ayl | to air; to let feeling out | The [[Far-Voiced]] outlet — the **ael-hall**. Distinct from **sael** (sowing) and **hael** (wholeness). |
+| **stel** | stel | to still; to hold from moving | The [[The Stilled\|Stilled]]'s craft. New coinage, Story 5.3. |
+| **crae** | kray | craft; the working of an element | The [[The Answered\|Answered]] shops as a sector. New coinage, Story 5.3. |
 
 **A name that carries the whole setting:** the Awakening Tree's own liturgical name is **Thaeloren** *(thae-LOR-en)* — **thael** (Tree) + **oren** (to witness): *"the Tree that witnesses."* The world's entire [[Law and Citizenship|citizenship-by-witness]] system is folded into the name of the Tree itself. (Everyday worn form: **"the Thallow."**)
 
@@ -88,6 +91,14 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - Isle flavor (not Maiethren): **Njawaal** *(njah-WAHL)* — [[The Shore-Sitters]].
 - **Vaethledd** *(VAYTH-led)* — *vaeth* + *ledd* = "the waiting reckoned." Cant-name of [[The Slide]]. Not *Orledd*. Not *Nethledd* (retired with the Back Table). Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*.
 
+**Guild / furnishing coinages (Story 5.3 — 🟡 Proposed):**
+
+- **Saelhael** *(SAYL-hayl)* — *sael* + *hael* = "the sown-whole." Liturgical name of [[The Greens-Keepers]]. Not *Saelorn* (a month).
+- **Aeloren** *(ayl-OR-en)* — *ael* + *oren* = "the witnessed airing." Liturgical name of [[The Hall-Keepers]]. Near *Vaeloren* / *Leddoren* — everyday *hall-keepers* is the table word. Not *Aelledd* (Slide-adjacent). Not *Aelbren* (collides with Vaelbren).
+- **Stelhael** *(stel-HAYL)* — *stel* + *hael* = "the held-whole." Liturgical name of [[The Stillers]].
+- **the Crae** *(kray)* — *crae* = "craft." Umbrella of [[The Element-Guilds]]. Four doors, not four liturgies.
+- [[The Intake]] has no liturgical name. Cant: *the catching-year*.
+
 ## The three polities, named
 
 The [[Polity Archetypes]] get their in-world names here — each derived from its own daughter drift, so the name *sounds like* the polity's stance:
@@ -101,6 +112,7 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[The Tree-Wardens]] — Orenhael · Thaelvaeth (🟡)
 - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] — Nethoren · Leddhael · Vaelbren · Njaalo · Njawaal · Vaethledd (🟡)
+- [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] — Saelhael · Aeloren · Stelhael · the Crae (🟡)
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds

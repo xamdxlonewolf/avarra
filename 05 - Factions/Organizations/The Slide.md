@@ -17,7 +17,7 @@ updated: 2026-08-23
 
 # The Slide
 
-> **What this is.** The lived face of **illicit Tithe-supply** from [[Economy and the Tithe]] — not a fifth faith, not clergy, not a night-clone of [[The Book-Hands]]. They do not help you *pay* a Tithe. They **own the moment you start to fail**, and they make failure useful. Built with `economic-systems`, `moral-parallax`, and `cliche-transcendence` for [[Roadmap|Epic 5, Story 5.2]]. Official Tithe-infrastructure waits for Story 5.3; **do not clone this house as those guilds.**
+> **What this is.** The lived face of **illicit Tithe-supply** from [[Economy and the Tithe]] — not a fifth faith, not clergy, not a night-clone of [[The Book-Hands]]. They do not help you *pay* a Tithe. They **own the moment you start to fail**, and they make failure useful. Built with `economic-systems`, `moral-parallax`, and `cliche-transcendence` for [[Roadmap|Epic 5, Story 5.2]]. Official Tithe-infrastructure is [[Tithe-Infrastructure]]; **do not clone this house as those guilds.**
 
 > **Canon status.** 🟡 **Picked (taste call 2026-08-23).** Names still polishable. 🔒 **Locked by pick:** this is the mainland shadow house; the Bought Watch and the Quiet Cut stay unused. 🔒 **Locked upstream:** Tithe-need as leverage; R2 — she did not build this; recruits by practice / desperation / Condition-lean, **not Kind**; ~5% scary (ordinary neighbour, a real obstacle). They do **not** rewrite Bound Terms, steal scions, or sell a false Turning-witness.
 
@@ -103,7 +103,7 @@ The feared-licensed are not barred. A [[The Stilled\|Stilled]] who rents stillne
 | [[The Book-Hands]] | A Settler who marked *owing* has just made a customer. The clerk will watch them walk down the quay. | The Slide does not stamp. The clerk does not furnish. The Bound they cannot help is still not this house's Terms to rewrite. |
 | [[The Door-Keepers]] | A Struck named *kin* at a door still has a Tithe. Kinship is not green. | Do not fold a drowning-stone into a rented lot. |
 | [[The Table-Keepers]] | No contact that matters. The second sitting is not a week. | Do not charge for the extra place. That is a different faith's one impiety. |
-| Story 5.3 guilds (not yet built) | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Do not clone this house as those guilds.** The guilds are the public good / the crown's channel / the posted market. The Slide is who they pretend not to know. |
+| [[Tithe-Infrastructure\|Official halls and greens]] | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Do not clone this house as those guilds.** The guilds are the public good / the crown's channel / the posted market. The Slide is who they pretend not to know. |
 
 ## How they live in the three corners (and off the map)
 
@@ -129,7 +129,7 @@ Off-book Bound brokerage and sold vouching still exist as nameless underside ([[
 ## Economy of the house
 
 - **The week is the living.** Paid in coin, in labor, in a favor, in a child sent to carry water. The book counts weeks first.
-- **They are not a charity-order and not Tithe-infrastructure.** A town greenhouse, a counted ael-hall, an endowed long-house of books — those are 5.3. A week-keeper may sit next to all three and take the overflow.
+- **They are not a charity-order and not Tithe-infrastructure.** A town greenhouse, a counted ael-hall, an endowed long-house of books — those are [[Tithe-Infrastructure]]. A week-keeper may sit next to all three and take the overflow.
 - **Deathless proximity.** A junior at a long-house who rations novelty is how ossification feels at street level: not a century loan, a page at a time. The house does not *run* the bank.
 - **No collection for a hall across the water.** There isn't one.
 
@@ -145,6 +145,7 @@ On its face: a landlord being practical, almost kind. Underneath: the product is
 - [[Economy and the Tithe]] — the shadow this house faces · [[Law and Citizenship]]
 - [[The Taken-In]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Unbound]] · [[Bound]] · [[Returned]]
 - [[The Book-Hands]] — the clerk who marked *owing* · [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]]
+- [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] — the official doors this house sits next to
 - [[Rogue House Options]] — this was pick C; A and B unused
 - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*Vaethledd* 🟡)
 - [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]] · [[Build Plan]]
@@ -154,7 +155,7 @@ On its face: a landlord being practical, almost kind. Underneath: the product is
 
 - **They do not know what story they are in.** `cliche-transcendence`: the default is the mustache-twirling slumlord, the Tithe-cult, the devil-church. Rotate. Form stays landlord/creditor (load-bearing). Knowledge, goal, role do not: they are in a rent-and-credit story. They want *continuity of the week*, not a victim they relish. A corpse is a ruined asset. Play them as patient, useful, and sure they helped.
 - **Moral parallax.** Distances: causal ("I kept them from the Cry") and informational (the town is glad not to see). Engine: exchange — every week of green is paid later by the same person. Comfort mechanism: the word *extended*. The town is complicit; do not make the week-keeper the only villain. R2: she did not build this. The reveal does not open a free greenhouse.
-- **Do not clone them as Story 5.3.** Official Tithe-infra and the licence-guilds are the public / posted / counted version of *furnishing*. This house is the overflow the guilds will pretend not to know. If 5.3 needs an underdog, do not make it "the nice Slide." Road-hands already walk.
+- **Do not clone them as the official guilds.** Official Tithe-infra and the licence-guilds are the public / posted / counted version of *furnishing*. This house is the overflow those guilds pretend not to know. The 5.3 underdog is [[The Intake]] (a shed, not a week). Road-hands already walk.
 - **Do not absorb unused trades.** No false Turning-witness. No stolen scion. No Bound-clause rewrite. No Back Table. Off-book contracts and sold vouching stay nameless unless a later pick asks for a face.
 - **No Kind-gate. No Kumbaan export. No offices.**
 - **Taste still open (do not treat as locked).**

@@ -140,7 +140,7 @@ Sketched on [[The Leaf-Mother]]; settled enough to play:
 - **Cutting-leave has a fee.** Framed as the cost of carrying-earth and a Road-hand's year. Experienced, at the edge, as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll.
 - **Pilgrimage keeps the Seat.** Offerings, lodging, the devout who settle in the Motherwood. The college is rich in *proximity*, not in a Condition-tithe.
 
-The Orenhael is **not** the Tithe-infrastructure sector. Venting-halls, greens, ranging-commons, and the safety-guilds remain [[Economy and the Tithe]] / [[Law and Citizenship]] — Story 5.3. Wardens *point* a new Given at a guild. They do not licence the Stilled.
+The Orenhael is **not** the Tithe-infrastructure sector. Venting-halls, greens, ranging-commons, and the safety-guilds live in [[Tithe-Infrastructure]]. Wardens *point* a new Given at a guild. They do not licence the Stilled.
 
 ## In-world text
 
@@ -155,6 +155,7 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Faiths of the Turning]] — how they share a square with the other four houses
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2)
+- [[Tithe-Infrastructure]] · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] (Story 5.3) — wardens *point*; they do not licence
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
@@ -172,5 +173,5 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
   4. **One order.** Revisit only if play needs a Motherfaith civil war. The schism already supplies intra-faith conflict.
 - **Threnmaieth must not capture the Seat in the first sentence.** Proximity is pressure, not ownership. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll — and keep some Speakers who don't.
 - **Do not invent Kind-orders or a Kumbaan mission.** Road-hands do not "bring the Mother" across the storm-wall. [[The Open Table]] is the control case.
-- **Story 5.2 is built; do not rebuild it here.** [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]. Story 5.3 (Tithe-infra, safety-guilds) still waits. Do not clone Road-hands onto those houses or into 5.3.
+- **Stories 5.2–5.3 are built; do not rebuild them here.** [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]. Tithe-infra is [[Tithe-Infrastructure]]; the underdog there is [[The Intake]], not a Road-hand clone.
 - **Hooks.** A mixed fall two houses want to name; a Cutting-leave the party is asked to carry (or lose); a skeptic warden and a Wanting Kept apprentice in the same hearth; a Road-hand circuit whose next Tree is already dying; a Speaker who will not write a colour onto the Threnhael; Harrow's green getting the scion the three hamlets can see from the ford.

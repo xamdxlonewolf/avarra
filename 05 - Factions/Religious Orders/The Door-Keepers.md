@@ -138,7 +138,7 @@ This is a spatial + inheritance parallax, not a queue. The Seat's scion-queue is
 - **No Cutting-leave, no fee.** They do not sell wood. If a Guest-reading town wants a scion, that coin goes to the Seat, not to the Kin-speaker. A First-reading district that pays a Cutting-leave and still refuses the blessing is doing both courtesies at once, and will argue about it after.
 - **Standing for the Struck is unpaid.** The ones who most need a kin-name are the ones a town will not house. Some door-keepers spend a year on one person. Some cannot. Both are of the house.
 
-They are **not** the Tithe-infrastructure sector. Garden-commons and ranging-commons remain [[Economy and the Tithe]] / Story 5.3. A Taken-In door-keeper may *live* in a green. They do not licence it.
+They are **not** the Tithe-infrastructure sector. Garden-commons and ranging-commons live in [[Tithe-Infrastructure]]. A Taken-In door-keeper may *live* in a green. They do not licence it.
 
 ## In-world text
 

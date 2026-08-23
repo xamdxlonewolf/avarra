@@ -50,7 +50,7 @@ Full faction: [[The Tree-Wardens]] (Epic 5, Story 5.1). Names 🟡. The load-bea
 
 - **Tree-wardens** — the working clergy, one order with offices (not rival chapters). They tend the town Tree, officiate the Leaf-Fall, and hold the **authoritative reading of the colours** (see [[Turning Tree]]: common colours are folk-known, but wardens confirm them and rule on the rare/subtle/mixed falls). This gives the clergy a *needed civic function*, not just a devotional one — a concrete reason society organizes around them.
 - **The First Seat** — a *college*, not a throne, in the Motherwood about the Awakening Tree. Destination of pilgrimage; authorizes graft-scions (cuts may come from the origin *or* a healthy town Tree acting on its behalf). It confirms Road-hands and Speakers; it does not appoint every town-warden.
-- **Economic base.** Towns house the warden-hearth; Turning-Week is the festival share; Cutting-leave carries a fee framed as carrying-earth; pilgrimage keeps the Seat. They are **not** the Tithe-infrastructure sector (that is still [[Economy and the Tithe]] / Story 5.3).
+- **Economic base.** Towns house the warden-hearth; Turning-Week is the festival share; Cutting-leave carries a fee framed as carrying-earth; pilgrimage keeps the Seat. They are **not** the Tithe-infrastructure sector (that is [[Tithe-Infrastructure]]).
 
 ## The live schism (the faith arguing with itself)
 

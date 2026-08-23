@@ -69,7 +69,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 
 - **No confirmed pantheon in player-facing text.** The Leaf-Mother remains a *belief* in public notes. The other faiths stay beliefs. The GM-layer household (she Gives; Other Hands Strike) lives in [[The Other Hands]] and is **not** to be dumped into these pages.
 - **Faith names are 🔒 locked (2026-08-23):** *Haelthael*, *Leddoren*, *Vaeloren*, *Ndeyaan* — user taste call. Texture around them stays polishable.
-- **Clergy politics.** Working people: [[The Tree-Wardens]] (5.1) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] (isle flavor). Mainland shadow house: [[The Slide]] (not clergy). Names 🟡. Tithe-infra and safety-guilds wait for Story 5.3 — do not clone the Slide as those guilds.
+- **Clergy politics.** Working people: [[The Tree-Wardens]] (5.1) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] (isle flavor). Mainland shadow house: [[The Slide]] (not clergy). Tithe-infra and safety-guilds: [[Tithe-Infrastructure]] (5.3). Names 🟡. Do not clone the Slide as those guilds.
 - **The nature of her limit.** The Watching *claims* to remember a cost. That claim is fuel for [[Roadmap|Epic 6]], not an answer.
 
 ## Links

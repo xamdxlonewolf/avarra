@@ -162,7 +162,7 @@ Almost none, as an institution. That is the point.
 - **A Second-reader eats as a neighbour.** Some old districts leave a plate at the room under the chapel during Turning-Week. That is courtesy, not a wage.
 - **Threnmaieth's tell.** Being a *column* can become a living if a crown-clerk pays for a copied lintel or a listed name. A Watcher who takes that coin has not left the house. They have let the roll furnish it. The Bare Tree branch will not eat with them. The Masked will, and argue after.
 
-The Nethoren are **not** the Tithe-infrastructure sector and **not** a safety-guild. They point no one at a licence. They describe a fall.
+The Nethoren are **not** the Tithe-infrastructure sector and **not** a safety-guild. They point no one at a licence. They describe a fall. The tickets live in [[Tithe-Infrastructure]].
 
 ## In-world text
 

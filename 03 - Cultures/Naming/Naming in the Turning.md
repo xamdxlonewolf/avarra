@@ -87,6 +87,19 @@ Names 🟡 — everyday words are already in the faith notes; the liturgical / o
 | [[The Shore-Sitters]] (isle flavor) | **shore-sitters** (own *Njawaal*) | *(a sailor's tale)* | *(the wreck-waiters)* | *(off the map)* |
 | [[The Slide]] (shadow house) | **the Slide** / **week-keepers** (cant *Vaethledd*) | *the last pot* / *gift-credit* | *week-rent* | *(the late week — unfiled)* |
 
+### Tithe-infrastructure & tickets (from [[Tithe-Infrastructure]], Story 5.3)
+
+Names 🟡 — everyday words are already in the economy/law notes; the liturgical / umbrella coinages are proposed.
+
+| Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|---|
+| the official furnishing sector | **the furnishing** / **the greens and the halls** | *the gift-works* | *the provision* | *the counted channel* |
+| [[The Greens-Keepers\|greens-keepers]] | **greens-keepers** / **lot-keepers** (liturg. *Saelhael*) | *Mother's-green hands* | *lot-keepers* | *the Tended* |
+| [[The Hall-Keepers\|hall-keepers]] | **hall-keepers** / **ael-hands** (liturg. *Aeloren*) | *gift-hall folk* | *release-hands* | *counted-hall clerks* |
+| [[The Stillers]] | **stillers** (liturg. *Stelhael*) | *blessing-surgeons* | *ticket-surgeons* | *crown-stillers* |
+| [[The Element-Guilds]] | **the element-guilds** (umbrella *the Crae*) | *gift-shops* | *the craft-houses* | *the Reckoned Craes* |
+| [[The Intake]] | **the Intake** / **the shed** (cant *catching-year*) | *the late-catching* | *the emergency ticket* | *the unwitnessed warrant* |
+
 ### Faiths (from [[Faiths of the Turning]])
 
 Same lever, now for religions. The common-tongue name is what a traveller says; the own-name is what the house says; the polity's *second* word is how the state files them.
@@ -101,8 +114,8 @@ Same lever, now for religions. The common-tongue name is what a traveller says; 
 
 ## How to coin more (for later notes)
 
-When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system honest:
-1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn*, or coin a new root in the same sound-palette.
+When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the system honest:
+1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael*, or coin a new root in the same sound-palette.
 2. **Push it through the right drift** for the place (conserved / worn / eroded).
 3. **Give the pronunciation** (CAPS = stress) on first use — always.
 4. **Let the *name* carry the stance** — if a devout and a secular polity would name the same thing, they should name it *differently*, and the difference should be legible.
@@ -110,7 +123,7 @@ When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
-- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Faiths of the Turning]] · [[Conditions]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
 - [[Kinds of the Turning]] — hearths, not nations
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]

@@ -8,7 +8,7 @@ tags: [society, law, citizenship, governance, epic-2, social-structure]
 aliases: [Law of the Turning, Citizenship, Condition Law, Witnessed Citizenship]
 reveals: [leaf-mother-is-real]
 created: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-23
 ---
 
 # Law and Citizenship
@@ -117,6 +117,7 @@ The grammar above is universal; the *tone* is not — and the world is as varied
 - [[The Premise]] — world scale & register (the frame this is built against) · [[Turning Tree]] · [[The Leaf-Mother]]
 - [[Conditions]] — the roster this law regulates · [[The Stilled]] · [[Bound]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Taken-In]] · [[The Unbound]]
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes below (Vaethorn · Lestrand · Threnmaieth) · [[The Old Tongue]] — the root language · [[Naming in the Turning]] — in-world names for the institutions here
+- [[Tithe-Infrastructure]] — official furnishing · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] — the tickets and the raw-Struck desk (Story 5.3)
 - [[Roadmap]] (Epic 2, Story 2.1) · [[03 - Cultures]]
 
 ## GM Notes
@@ -126,4 +127,4 @@ The grammar above is universal; the *tone* is not — and the world is as varied
 - **Design note — witnessed, not recorded (user call, 2026-08-20).** The original draft made a universal Turning-*register* the citizenship engine; the user rightly flagged "records kept on everyone at ten" as too invasive and off-tone for a ~5%-scary world. Reframed: citizenship is **witnessed communal memory**, proof runs through **vouching people** (Long-Lived / Bound / Far-Voiced), and the only per-person paper is a **guild safety-licence for the ~3 hazardous Conditions.** The register survives *only* as one aberrant kingdom's paranoia (the Watchful). Keep the baseline warm; keep the record creepy and rare.
 - **The reach-edge is the *cause* of the Frontier stance, and it's GM truth.** In the body, the frontier's higher Kept/Struck rates read as plain distance-and-biology (the skeptics' whole case). The *reason* — [[Is the Leaf-Mother Real|her reach is bounded and thins at the margins]] — is the locked keystone edge and stays GM-side. Same observable fact, two readings; don't let a player-facing note assert the cause.
 - **Naming is done (2026-08-21).** The in-world naming pass is complete — [[The Old Tongue]] (root tongue + drifts + the three polity names) and [[Naming in the Turning]] (institution dictionary: common-tongue name + three stance-variants each). The body here keeps plain descriptors on purpose (legibility); the in-world names live in those two notes. Remaining language work (deep grammar, the other polities' tongues) is [[Roadmap|Epic 4]].
-- **Hooks this opens.** The Watchful kingdom's register as a thing to steal, forge, or escape; an unvouched Struck the party must decide whether to stand for or turn away; a Given-Over personhood case with no settled law; a warm polity's "vocation" that is really conscription; a stranger who *cannot be vouched* and what that costs them. Feed these to [[Roadmap|Epic 5 (Factions)]] and Epic 7 (Settlements) when the named polities get built.
+- **Hooks this opens.** The Watchful kingdom's register as a thing to steal, forge, or escape; an unvouched Struck the party must decide whether to stand for or turn away; a Given-Over personhood case with no settled law; a warm polity's "vocation" that is really conscription; a stranger who *cannot be vouched* and what that costs them. Lived ticket-houses: [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]]. Feed leftover settlement texture to [[Roadmap|Epic 7]].

@@ -54,7 +54,7 @@ They are useful the way a notary is useful. A port cannot live without someone w
 | A Bound who wants the clause changed | The Terms are killing them; they have heard a clerk can "fix it" | A **Counterparty** Book-hand may sit a *petition-watch*: they witness the ask, keep the book open, and wait. If something answers, they copy what was answered. A **Book Alone** hand will not sit that hour — they do not believe anyone is across the table. | Will not dictate a new clause. Will not sell an easing. Anyone who claims they can is a liar, or someone taking coin in a cellar. |
 | A Struck who is not Bound | They Changed later (drowned, died, taken); this town cannot house the Tithe | **Civic settling:** find a payable year — passage to a hall that exists, a warrant, someone to [[Law and Citizenship\|stand for]] them. | Will not take them to a Tree to be acknowledged as Given. Will not name them kin at a door. Will not rewrite a Bound contract under this heading. |
 | A child of the house, about nine | They must learn to keep a book before they Turn | Sit with a blank personal book: colour, Tithe, debts, what the year owes you. Private. Not the Threnhael. | Will not let a Reckoned clerk "help" copy it. Will not teach the book as a census. |
-| A Tithe-poor Settler | The year will not close; they cannot stamp a fee | Some stay and rewrite until the candle dies. Some mark *owing* faster. Both are of the house. | Will not furnish a venting-hall or a greens-share. They may *write a term that assumes one*. Story 5.3 owns the hall. |
+| A Tithe-poor Settler | The year will not close; they cannot stamp a fee | Some stay and rewrite until the candle dies. Some mark *owing* faster. Both are of the house. | Will not furnish a venting-hall or a greens-share. They may *write a term that assumes one*. [[The Hall-Keepers]] / [[The Greens-Keepers]] own the hall and the lot. |
 
 ### An ordinary week on Lestrand (the faith *is* the profession)
 
@@ -93,7 +93,7 @@ A Book Alone hand stops at step 1 and sends the Bound home. They will not play a
 
 ### What they carry
 
-A **stamp** (personal, not a guild-licence — the ticket is a different paper, Story 5.3). Ink. A cord-knife for striking a line. The small **personal books** they sell or gift to children of the house — not the Threnhael; a clerk who confuses them has started a fight. On a Bound's oath-day, the year's working contract, read aloud — *as written*, not as improved.
+A **stamp** (personal, not a guild-licence — the ticket is a different paper, [[The Stillers]] / [[The Hall-Keepers]] / [[The Element-Guilds]]). Ink. A cord-knife for striking a line. The small **personal books** they sell or gift to children of the house — not the Threnhael; a clerk who confuses them has started a fight. On a Bound's oath-day, the year's working contract, read aloud — *as written*, not as improved.
 
 A "high house" is a room with old copies and a better lamp. It is not a palace. The next quay does not write here for leave.
 
@@ -154,7 +154,7 @@ This is not a hunt and not a queue. The Road-hands already walk the scion they w
 - **High houses endow rooms.** Deathless money ([[Economy and the Tithe]]) likes a fair copy that will outlive a hull. That is proximity-wealth, not a Condition-tithe, and it is why the oldest rooms sit on the richest quays.
 - **Civic settling is badly paid.** The Struck who most need a hall and a warrant are the ones who can least stamp a fee. Some Book-hands stay until the candle dies. Some mark *owing* faster. Both are of the house.
 
-They are **not** the Tithe-infrastructure sector and **not** a safety-guild. They may write a term that *assumes* a venting-hall or a greens-share. They do not furnish one. That wait is Story 5.3.
+They are **not** the Tithe-infrastructure sector and **not** a safety-guild. They may write a term that *assumes* a venting-hall or a greens-share. They do not furnish one. That door is [[Tithe-Infrastructure]].
 
 ## In-world text
 
@@ -168,6 +168,7 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 - [[The Fair Hand]] — the faith this house keeps · [[Faiths of the Turning]]
 - [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]] · [[Law and Citizenship]]
 - [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Slide]]
+- [[Tithe-Infrastructure]] · [[The Hall-Keepers]] · [[The Greens-Keepers]] — the hall and share a settling may assume
 - [[Strandoren]] · [[Polity Archetypes|Lestrand]] · [[Naming in the Turning]] (the Uncounted Book)
 - [[The Old Tongue]] (Leddhael 🟡) · [[Kinds of the Turning]]
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
@@ -179,7 +180,7 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 - **The Slide is the lived shadow house.** They own a Tithe-week, not a stamp. Do not give anyone a magic stamp that authors Terms. Do not fold sold-vouching or Bound-easing into either desk.
 - **Name collision to avoid.** *Orledd* (the Counterparty) is already *oren* + *ledd* in reverse. This house's liturgical name is **Leddhael**, not *Orenledd*. If you swap the coinage, do not land on Orledd's roots.
 - **The injustice is the closed book of the rich and the owing of the poor.** Causal + social distance: the Book-hand sees one table; the quay sees a step-around; Lestrand's "the free" for the Kept is the same market wearing a theology. R2: the reveal does not make the fade kind. A Tithe-poor Settler is still a person the city steps around.
-- **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins or Orledd-acolytes. If you need an underdog, do not send Book-hands up the pilgrim road with a scion. Their exposed edge is civic settling — and the Bound they cannot help. Story 5.3 still owns Tithe-infra.
+- **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins or Orledd-acolytes. If you need an underdog, do not send Book-hands up the pilgrim road with a scion. Their exposed edge is civic settling — and the Bound they cannot help. Tithe-infra is [[Tithe-Infrastructure]]; the underdog there is [[The Intake]].
 - **Taste still open (do not treat as locked).**
   1. **The name *Leddhael.*** Everyday *Book-hands* / *Settlers* is already in canon. Swap or drop the coinage. Not *Orenledd*.
   2. **No membership roll.** Proposed — a roll would be a Threnhael. The other clean option: the oldest book-room in a port keeps a *table-list* of who may stamp that quay, and nowhere else.

@@ -41,11 +41,26 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 |---|---|---|
 | [[The Slide]] | Rent *not falling* — one week of green, outlet, or novelty; never quite let you recover | Someone whose Tithe-queue is longer than their edge |
 
-- [[The Slide]] — picked (everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡). Not clergy. Do not clone as Story 5.3's official guilds.
+- [[The Slide]] — picked (everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡). Not clergy. Official guilds pretend not to know them.
 - [[Rogue House Options]] — menu closed. Bought Watch / Quiet Cut unused. Back Table retired.
 
-### Still to build
-- **⭐ Story 5.3** — Tithe-infrastructure and the safety-guilds
+### Tithe-infrastructure & safety-guilds (Story 5.3)
+
+| House | The job, in one line | Who sends for them |
+|---|---|---|
+| [[Tithe-Infrastructure]] | Official furnishing = *enough* and a gate; long-houses stay deathless patronage | A GM mapping the sector |
+| [[The Greens-Keepers]] | Keep the lot so Taken-In do not go to seed; will not follow you home | A Taken-In in a stone town; a Book-hand whose term assumes a share |
+| [[The Hall-Keepers]] | Keep the hour; train a Given voice; stamp the Voice-ticket | A Far-Voiced who needs an outlet; a child after sea-blue |
+| [[The Stillers]] | Stamp the strictest ticket; theatre and yard on one Grey-clock | A pale-stone child; a street about to become a massacre |
+| [[The Element-Guilds]] | Four craft-doors so an Answered's element is used in earnest | A lamp-amber child; a hull that wants Tide |
+| [[The Intake]] | Catch a raw Struck before the rope; success is silence | A runner; a family; a square that already has a rope |
+
+- [[Tithe-Infrastructure]] — sector hub. Do not clone the Slide or the Road-hands.
+- [[The Greens-Keepers]] — everyday *greens-keepers*; liturgical *Saelhael* 🟡.
+- [[The Hall-Keepers]] — everyday *hall-keepers*; liturgical *Aeloren* 🟡. One lintel (outlet + Voice-ticket).
+- [[The Stillers]] — everyday *stillers*; liturgical *Stelhael* 🟡. The model licence-guild.
+- [[The Element-Guilds]] — everyday *element-guilds*; umbrella *the Crae* 🟡. Four doors, not four orders.
+- [[The Intake]] — everyday *the Intake* / *the shed*; cant *catching-year* 🟡. Desk underdog, not a circuit.
 
 ## Related
 - [[Roadmap]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]] 

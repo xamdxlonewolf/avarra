@@ -8,7 +8,7 @@ tags: [society, daily-life, family, marriage, medicine, city, epic-2, social-str
 aliases: [Daily Life in the Turning, Family and Medicine, Living in the Turning, Everyday Life]
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Daily Life
@@ -75,6 +75,7 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[The Premise]] — world scale & register · [[Turning Tree]] — the civic/sacred heart every town organizes around · [[The Leaf-Mother]]
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Returned]] · [[The Stilled]] · [[Two-Bodied]] · [[Far-Voiced]] · [[The Taken-In]]
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its domestic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
+- [[Tithe-Infrastructure]] — the civic utilities named above, now with lived houses (Story 5.3)
 - [[Roadmap]] (Epic 2, Story 2.3) · [[03 - Cultures]]
 
 ## GM Notes
