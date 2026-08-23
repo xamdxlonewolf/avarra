@@ -43,7 +43,7 @@ Because they can't be kept down and can't be kept out, Selkies are the world's *
 
 ## Naming & tongue
 
-Hearth-register **Sakoa** (sah-KOH-ah) 🟡 — liquid, rounded, coastal; seed `20260824`. Full inventory and the two-name pattern live in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn.
+Hearth-register **Sakoa** (sah-KOH-ah) 🔒 — liquid, rounded, coastal; seed `20260824`. Full inventory and the two-name pattern live in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn.
 
 Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 

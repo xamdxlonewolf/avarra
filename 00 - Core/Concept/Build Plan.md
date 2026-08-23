@@ -28,6 +28,9 @@ updated: 2026-08-23
 - **Leaf-Mother (LOCKED as a *belief*, not cosmology):** some say she blessed the Conditions and the Turning Trees are her hands; skeptics say it's just what the Trees do. Live schism re: the Kept and the Struck. Flesh later with `belief-systems`.
 - **The 9-Condition roster (LOCKED — monsters, standing, path, ~% pop.):** see the full table in [[The Premise]]. Core: **Long-Lived** (vampire, Given, ~2.5%), **Two-Bodied** (werewolf, Given, ~18%), **Returned** (zombie, Struck, ~9%), **Bound** (demon-contract, Struck, ~5%). New: **Far-Voiced** (siren, revered, Both, ~11%), **The Stilled** (gorgon, feared, Both, ~7%), **The Answered** (djinn, Given, ~10%), **The Taken-In** (leshy, looked-down/frontier, Both, ~12%), **Phoenix** (legendary, Given, trace <0.1%).
 - **Vampire sink (LOCKED):** Long-Lived can have children but none are guaranteed to inherit it; they outlive their families and either stop or start over — an emotional Tithe + a natural population cap. Deathless, not unkillable.
+- **Kind distribution (LOCKED 2026-08-23):** hearths, not nations. Kitsune = three Fox-grounds (Wilds / Snows / Sands, Sands = Maiethorn's Rain-Shadow); Selkie = coasts; Tengu = ridges; Yumboe = Kumbaan only. Stock ancestries lean, they do not own continents. See [[Kinds of the Turning]].
+- **Person-naming (LOCKED 2026-08-23):** named by *place*; custom Kinds keep a hearth-register (*Kusawe* · *Sakoa* · *Gonan* + Yumboe). See [[Naming People in the Turning]].
+- **Calendar months (LOCKED 2026-08-23):** twelve Maiethren months; year-start splits by stance (Eolthael / Nethael / last real Turning-Week); Kumbaan keeps twelve moons. Leaf-colours locked on [[Turning Tree]].
 
 ## Rejected (don't re-propose)
 

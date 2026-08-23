@@ -16,7 +16,7 @@ updated: 2026-08-23
 
 > **What this is.** How **Kinds** (born ancestries) sit on the map of **The Turning**. This is the load-bearing [[Roadmap|Story 4.2]] note: it fixes the *distribution rule* so later settlements and casts don't accidentally turn each Kind into a country. Naming — how a person *sounds* — lives in [[Naming People in the Turning]]. The four custom ancestries themselves are already locked ([[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]); this note does not rebuild them.
 
-> **Canon status.** 🟡 Proposed distribution, resting on 🔒 locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). Safe to tune hearths and stock-ancestry leans.
+> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). Town-level pockets stay free for Epic 7.
 
 ## The rule
 

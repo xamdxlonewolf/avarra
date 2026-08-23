@@ -19,7 +19,7 @@ updated: 2026-08-23
 > ## **A person is named by the place that raised them. A custom Kind may also keep a hearth-name.**
 > Stock ancestries have no private tongue. The four custom Kinds do — a *register* for given names, kin-names, and in-group talk — and they still wear the local [[The Old Tongue|Maiethren drift]] on the street. You can often hear both homes in one introduction.
 
-> **Canon status.** 🟡 Proposed registers and sample lists, resting on 🔒 locks: [[The Old Tongue]] phonology + three drifts; [[Yumboe]] isolate tongue already seeded; Kind-hearths in [[Kinds of the Turning]]. Deep grammar is still deferred (only if spoken dialogue is ever needed). The other ~12 great powers get tongues when those powers are named ([[Roadmap|Epic 7]]), not before.
+> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): named-by-place; hearth-registers *Kusawe / Sakoa / Gonan*; two-name pattern. Individual sample names stay a working list (draw from the seeds). Deep grammar is still deferred (only if spoken dialogue is ever needed). The other ~12 great powers get tongues when those powers are named ([[Roadmap|Epic 7]]), not before.
 
 ## The two-name pattern
 
@@ -48,11 +48,11 @@ Do not invent a fourth "human language." This *is* the person-language of the Tr
 
 ## The four hearth-registers
 
-Each custom Kind's register is a **naming-language** (phonology + syllable shape + a working list). Not a grammar. Own-names for the people themselves are 🟡 — the common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay locked.
+Each custom Kind's register is a **naming-language** (phonology + syllable shape + a working list). Not a grammar. Own-names for the people themselves are 🔒 (user-approved 2026-08-23). The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay locked.
 
 Inventories were generated with a seeded LCG (the same family of entropy the `character-naming` skill uses). **When you need a new name, re-run from the seed and pick deep in the list.** Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*.
 
-### [[Kitsune]] — *Kusawe* (koo-SAH-way) 🟡
+### [[Kitsune]] — *Kusawe* (koo-SAH-way) 🔒
 
 **Feel:** light, slipping, a little sibilant — a mouth that leaves a corner in the sentence. **Not** a Japanese-median list (no Kenji / Akiko / Yuki cluster).
 
@@ -68,7 +68,7 @@ Inventories were generated with a seeded LCG (the same family of entropy the `ch
 
 A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Raki Maethaem* on the roll. The hearth-name is the one they answer to when someone is trying to pin them down; they consider this funny.
 
-### [[Selkie]] — *Sakoa* (sah-KOH-ah) 🟡
+### [[Selkie]] — *Sakoa* (sah-KOH-ah) 🔒
 
 **Feel:** liquid, rounded, coastal — names you can say with cold air in your mouth. **Not** a Celtic-median list (no Morag / Finn / Siobhan cluster).
 
@@ -84,7 +84,7 @@ A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Raki Mae
 
 The day a child is first given the run of their own skin is when the hearth-name is spoken *to the water*. The civic byname comes later, from the town that watched them Turn. Two homes, two names; they do not consider this a conflict.
 
-### [[Tengu]] — *Gonan* (GO-nan) 🟡
+### [[Tengu]] — *Gonan* (GO-nan) 🔒
 
 **Feel:** clipped, windy, high-country — shorter names, hard onsets, said as if the wind might take the end. **Not** the same mouth as Kitsune (that is the trap: two folklore-Japanese Kinds collapsing into one sound). Ridge-speech, not court-speech.
 
@@ -136,6 +136,6 @@ Before locking a new PC/NPC name, check:
 ## GM Notes
 *(Stripped on player-safe export.)*
 
-- **Own-names are lightly held.** *Kusawe / Sakoa / Gonan* are working hearth-endonyms. If they sour in the mouth, swap them from the same seed-lists; do not swap in "Kitsune-to" Japanese or "Selkie-to" Gaelic.
+- **Own-names are locked.** *Kusawe / Sakoa / Gonan* were approved 2026-08-23. Individual *person* names stay a working list — draw from the seeds, don't swap the endonyms for Japanese/Gaelic medians.
 - **Two names is a Kind×place tell, not a secret identity.** Players should hear it in ordinary introductions. The inscrutable bit is smaller: the lost fourth Fox-word ([[Kinds of the Turning]]), a Yumboe who *does* take a mainland byname (they have decided to stay), a Threnmaieth clerk who refuses to record hearth-names (the roll wants one name only).
 - **No deep grammar.** Do not write "sentences" in Kusawe or Gonan. If a scene needs an in-group word, coin *one word* from the inventory and gloss it.

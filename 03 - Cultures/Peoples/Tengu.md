@@ -40,7 +40,7 @@ Because they can go where footpaths can't and read the mountain's mood before it
 
 ## Naming & tongue
 
-Hearth-register **Gonan** (GO-nan) 🟡 — clipped, windy, high-country; seed `20260825`. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
+Hearth-register **Gonan** (GO-nan) 🔒 — clipped, windy, high-country; seed `20260825`. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
 
 Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
 

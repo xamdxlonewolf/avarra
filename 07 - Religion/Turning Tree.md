@@ -65,7 +65,7 @@ The colour that falls tells the town which Condition has been Given. How that re
 
 - **Common knowledge, formalized by clergy.** The core colour-meanings are folk-known — an ordinary townsperson can read the obvious ones (everyone knows what the deep-red Long-Lived leaf or the storm-grey Two-Bodied fall looks like). But the **tree-wardens / clergy** hold the authoritative reading, confirm it aloud at the ceremony, and handle the **rare, subtle, or mixed falls** (a colour few have seen; a fall that could be read two ways). This gives the faith a real, needed civic function beyond doctrine — a reason society *organizes around* the Tree, not just prays at it.
 - **The Given-only Conditions** have clear, well-known colours (they're only ever seen at the Tree). **The Struck-capable Conditions** (the "Both" paths — [[Far-Voiced]], [[The Stilled]], [[The Taken-In]]) *can* fall as colours too, which is why a Given Far-Voiced and a Struck Far-Voiced share a nature but not a story (see [[The Premise]]'s Given/Struck/Both rule).
-- **The colour palette** (🟡 Proposed — folk-known commons locked in feel; exact hues safe to tune):
+- **The colour palette** (🔒 Locked 2026-08-23):
 
 | Leaf-colour | Condition | Who can read it |
 |---|---|---|

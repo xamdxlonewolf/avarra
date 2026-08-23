@@ -49,7 +49,7 @@ Every Kitsune has **Slip the Frame** and **Fox's Glamour**, **and** chooses one 
 
 ## Naming & tongue
 
-Hearth-register **Kusawe** (koo-SAH-way) 🟡 — light, slipping, sibilant; seed `20260823`. Full inventory, collision rules, and the two-name pattern (hearth-given + place-byname) live in [[Naming People in the Turning]]. Working given names: Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan. Daily speech is the local [[The Old Tongue|Maiethren drift]]; the fox-name is what they answer to when someone is trying to pin them down.
+Hearth-register **Kusawe** (koo-SAH-way) 🔒 — light, slipping, sibilant; seed `20260823`. Full inventory, collision rules, and the two-name pattern (hearth-given + place-byname) live in [[Naming People in the Turning]]. Working given names: Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan. Daily speech is the local [[The Old Tongue|Maiethren drift]]; the fox-name is what they answer to when someone is trying to pin them down.
 
 Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 

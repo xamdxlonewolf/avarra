@@ -45,7 +45,7 @@ A plainly-countable, ~1400s-legible calendar:
 - **Twelve months** tied to the moon's cycle, in **four seasons of three months** each, hinged on the two solstices (and the two equinoxes between them as lesser markers).
 - **Weeks** as the working unit of the burgher world — guild-weeks, market-days, the mechanical clock-towers of the trade cities striking the hours. (No printing press means calendars are clergy- and clerk-kept, not mass-printed — one more reason the [[Turning Tree|tree-wardens]] and the [[Polity Archetypes|Tallied Crown's]] clerks hold quiet power: they *keep the dates.*)
 
-#### The twelve months (🟡 Proposed)
+#### The twelve months (🔒 Locked 2026-08-23)
 
 Liturgical names are [[The Old Tongue|Maiethren]]; the common-tongue / [[Polity Archetypes|Lestrand]] worn form sits beside them (same lever as [[Naming in the Turning]]: the name you use reveals the stance). Counted here **from the Deep Solstice** as an astronomical order — see *when the year starts*, below. New roots (*neth, eol, bren, lir, sael*) live in [[The Old Tongue#Notable words & roots]].
 
@@ -66,7 +66,7 @@ Liturgical names are [[The Old Tongue|Maiethren]]; the common-tongue / [[Polity 
 
 > **When the year starts (the name-reveals-stance lever, on time itself).** The devout and the clergy begin the year at **Eolthael** — the Turning is the hinge that matters. [[Polity Archetypes|Lestrand]] and the deathless houses begin it at **Nethael** — midwinter is when the books close. [[Polity Archetypes|Vaethorn]] follows the clergy in the pulpit and the last *actual* Turning-Week in the fields (a child "turns the year" when the local Tree last managed a fall). Same twelve names; three new-year's days. A disputed date is a campaign lever ([[#GM Notes]]).
 
-#### Kumbaan's moons (🟡)
+#### Kumbaan's moons (🔒 Locked 2026-08-23)
 
 [[The Sundering Isle|Kumbaan]] does not use this table. The [[Yumboe]] keep **twelve named moons**, lunar, owing the solstice nothing. Working set (hearth-register seed `20260826`; polish freely):
 
