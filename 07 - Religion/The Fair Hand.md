@@ -33,7 +33,7 @@ updated: 2026-08-23
 - **Nothing is given.** The Leaf-Fall is a *striking of terms*. The colour is the grant; the Tithe is the price; the town's need is the other side of the deal. "Tend what you're given" is how a creditor teaches you to be grateful for the interest.
 - **The Bound prove the model.** A Bound *chose*, named a grant, named Terms, named a Pledge. The Fair Hand says this is not a special horror — it is the same grammar as every becoming, written large enough to read. The Motherfaith's fear of the Bound is, to them, embarrassment: the Bound make the ledger visible.
 - **The Kept declined, or were not offered.** No bargain taken; nothing owed; nothing owed *to* them. This is a cooler dignity than spared-or-slighted. On Lestrand it rhymes with calling the Kept *the free* ([[Naming in the Turning]]). The Fair Hand did not invent that slight; they gave it a theology.
-- **The Struck signed later, in a storm.** Extremity is when people accept bad terms. A drowning, an oath, a death — of course the book opens then. The Struck are not suspects; they are people who bargained without a clerk. The faith's kindness is to *rewrite the terms fairly* after the fact (vouching-as-novation). Its cruelty is the same motion: a Struck who cannot settle fades, and the quay steps around them.
+- **The Struck signed later, in a storm.** Extremity is when people accept bad terms. A drowning, an oath, a death — of course the book opens then. The Struck are not suspects; they are people who bargained without a clerk. The faith's kindness is to *settle the year fairly* after the fact (a hall, a warrant — vouching-as-novation). A [[Bound]]'s *Terms* are the exception: those belong to the Counterparty, not to a clerk. Its cruelty is the same motion: a Struck who cannot settle fades, and the quay steps around them.
 - **Grace is a closed book.** Not forgiveness, not a mother's lap. You paid. You are even. Walk.
 
 ## Practice
@@ -50,7 +50,7 @@ updated: 2026-08-23
 
 Full faction: [[The Book-Hands]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
 
-- **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, rewrite a Struck's terms after the fact, and teach children how to keep a book. On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
+- **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, teach children how to keep a book, and settle a Struck's *civic* year (a hall, a warrant). They recite a [[Bound]]'s Terms on oath-day; they do **not** rewrite those Terms (the Counterparty's clause, not a clerk's). On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly. The refused Bound-job lives at [[The Back Table]].
 - **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a mother-church. A "high house" in a rich port is just the oldest book-room. No membership roll — a roll would be a Threnhael.
 
 ## The live schism (the faith arguing with itself)

@@ -84,6 +84,7 @@ Names 🟡 — everyday words are already in the faith notes; the liturgical / o
 | [[The Book-Hands\|the Fair Hand]]'s people | **Book-hands** (liturg. *Leddhael*) | *Bargainers' clerks* | *the Settling-hands* | *the Uncounted Book* |
 | [[The Door-Keepers\|the Old Ways]]' people | **door-keepers** / **Kin-speakers** (liturg. *Vaelbren*) | *the door-folk* | *grove-talkers* | *the Unreached* |
 | [[The Table-Keepers\|the Open Table]]'s people | **table-keepers** / **hill-hosts** (own *Njaalo*) | *(a sailor's tale)* | *the Moon-Feast people* | *(off the map)* |
+| [[The Back Table]] (rogue; not a faith) | **the Back Table** (cant *Nethledd*) | *(denied, and used)* | *the Quiet Stamp* | *off-book* |
 
 ### Faiths (from [[Faiths of the Turning]])
 

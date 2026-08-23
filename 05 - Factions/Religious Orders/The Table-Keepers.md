@@ -17,9 +17,9 @@ updated: 2026-08-23
 
 # The Table-Keepers
 
-> **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — the table-keepers / hill-hosts sketched on that faith note, now built as a faction. They are **almost not clergy**. There is **no seat across the sea**, and **no pilgrimage but the crossing itself**. There is **no Kumbaan mission**. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+> **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — hill-hosts on [[The Sundering Isle|Kumbaan]]. They are **almost not clergy** and **not a mainland play-order**. Almost no one reaches the isle; a Yumboe abroad keeping an attic is a rare beat, not an organization. The fourth *mainland* house in this pass is [[The Back Table]], not this one. The faith itself is done; this note does not rebuild it.
 
-> **Canon status.** 🟡 **Proposed** (the own-name, whether a mainlander who has sat twice may keep a table). 🔒 **Locked upstream:** table-keepers exist; the rite *is* supper; no chapel and almost no clergy; no mission to the isle or from it; they recruit by *faith* (who will lay the extra place), never by [[Kinds of the Turning|Kind]] — this is not a Yumboe-only order.
+> **Canon status.** 🟡 **Parked as isle practice (taste call 2026-08-23).** Do not grow a mainland table-keeper circuit. Do not make this a Kind-only *order* for play — on Kumbaan the hosts are Yumboe because that is who lives there. 🔒 **Locked upstream:** the rite *is* supper; no chapel; no Kumbaan mission.
 
 *(Mainland everyday: **table-keepers**, also **hill-hosts.** Own-name, 🟡: **the Njaalo** — NJAH-lo — a [[Yumboe]] coinage in the night-keeping tongue, "the hall that is kept." Not Maiethren; this house owes the liturgy nothing. Sailors say **moon-hosts**. [[Polity Archetypes|Vaethorn]] has them as a sailor's tale. [[Polity Archetypes|Lestrand]] says **the Moon-Feast people** when a quay wants a story. [[Polity Archetypes|Threnmaieth]] does not file them — they are off the map.)*
 
@@ -158,7 +158,7 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
 ## Links
 - [[The Open Table]] — the faith this house keeps · [[Yumboe]] — the people who most often keep it
 - [[The Sundering Isle]] (Kumbaan) · [[Faiths of the Turning]]
-- [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]]
+- [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Back Table]] (mainland rogue; not this house)
 - [[Naming People in the Turning]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon)
 - [[Law and Citizenship]] · [[Kinds of the Turning]]
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]

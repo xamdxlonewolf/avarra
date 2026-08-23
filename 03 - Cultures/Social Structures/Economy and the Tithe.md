@@ -105,8 +105,8 @@ The economy is not evenly spread, and the reason is the same one that shapes the
 
 Every gate breeds a black market, and this economy's gates are **Tithe-provision** and **vouching**:
 - **Illicit Tithe-supply.** Where legitimate provision is rationed, gated, or unaffordable, a shadow market fills it: smuggled green for a Taken-In cut off from land, unlicensed venting-rooms, black-market novelty (rare texts, forbidden knowledge) for a starving Long-Lived. The desperate customer is someone sliding toward their scary edge — which makes this trade both lucrative and cruel.
-- **Off-book contracts.** The [[Bound]]'s whole domain has an underside: contracts sworn outside the contract-guilds, unregistered terms, and the predatory brokers who arrange them — the pipeline that feeds the Given-Over.
-- **Sold vouching.** Since citizenship runs on [[Law and Citizenship|vouching]], the unvouched will *buy* a voucher — and a market exists in dubious character-witnesses (the one thing that *can't* be faked is a Long-Lived's memory, which is exactly why their honest vouch is priceless and their corrupt one catastrophic).
+- **Off-book contracts.** The [[Bound]]'s whole domain has an underside: contracts sworn outside the honest tables, unregistered terms, and the predatory brokers who arrange them — the pipeline that feeds the Given-Over. Lived face: [[The Back Table]].
+- **Sold vouching.** Since citizenship runs on [[Law and Citizenship|vouching]], the unvouched will *buy* a voucher — and a market exists in dubious character-witnesses (the one thing that *can't* be faked is a Long-Lived's memory, which is exactly why their honest vouch is priceless and their corrupt one catastrophic). Lived face: [[The Back Table]].
 
 ## How polities vary
 

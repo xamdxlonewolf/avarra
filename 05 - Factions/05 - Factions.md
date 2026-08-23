@@ -23,15 +23,17 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 |---|---|---|
 | [[The Tree-Wardens]] | Tend the wood, officiate the Leaf-Fall, Speak the colour, carry grafts | Every town with a Tree; a waiting town; a sickening scion |
 | [[The Watchers]] | Sit the eve-vigil; *describe* a strange fall beside the warden, not over them | A family that does not trust one mouth on a mixed leaf; Turning-Week eve |
-| [[The Book-Hands]] | Stamp signings; rewrite a Struck's terms so they can be paid; teach a child to keep a book | A quay that needs a notary; a Struck whose storm-terms cannot be lived |
+| [[The Book-Hands]] | Stamp signings; settle a Struck's civic year; recite a Bound's Terms — not rewrite them | A quay that needs a notary; a Struck who needs a hall and a warrant |
 | [[The Door-Keepers]] | Walk the old doors; speak at ancestor-meals; name a Struck *kin* at the door that made them | Someone who needs the drowning-pool found; a Struck the town will not house |
-| [[The Table-Keepers]] | Open the hall (or the attic); lay the extra place; on the second night, make a stranger kin | The valley on a bright night; a guest who climbed a mainland stair |
+| [[The Table-Keepers]] | Isle practice: open the hill-hall; lay the extra place. **Not a mainland order.** | The valley on a bright night on Kumbaan; a rare Yumboe attic |
+| [[The Back Table]] | After the lamps: sold vouching, illicit Tithe, off-book Bound brokerage | The unvouched; the Tithe-poor; a Bound the honest table would not rewrite |
 
 - [[The Tree-Wardens]] — Story 5.1 ✅ (everyday *tree-wardens*; liturgical *Orenhael* 🟡).
 - [[The Watchers]] — Story 5.2 (everyday *Watchers*; liturgical *Nethoren* 🟡). No seat. Day jobs; the house is a practice.
-- [[The Book-Hands]] — Story 5.2 (everyday *Book-hands*; liturgical *Leddhael* 🟡). No seat, many tables. On Lestrand the faith *is* the profession.
+- [[The Book-Hands]] — Story 5.2 (everyday *Book-hands*; liturgical *Leddhael* 🟡). No seat, many tables. Do **not** rewrite Bound Terms.
 - [[The Door-Keepers]] — Story 5.2 (everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡). The land is the seat.
-- [[The Table-Keepers]] — Story 5.2 (everyday *table-keepers* / *hill-hosts*; own-name *Njaalo* 🟡). Almost not clergy; no mission.
+- [[The Table-Keepers]] — Story 5.2, **parked as isle practice** (everyday *table-keepers*; own-name *Njaalo* 🟡). Not a mainland play-order.
+- [[The Back Table]] — Story 5.2 add-on (everyday *the Back Table*; cant *Nethledd* 🟡). Rogue, under the radar; the shadow economy with a face.
 
 ### Still to build
 - **⭐ Story 5.3** — Tithe-infrastructure and the safety-guilds

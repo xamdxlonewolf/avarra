@@ -182,10 +182,11 @@ The sketched offices in [[Turning Tree]] / [[The Leaf-Mother]], built as **one o
 ### Story 5.2 — The other four houses' orders ✅ **DONE (2026-08-23)**
 Watchers, Book-hands, door-keepers / Old-Ways tenders, Open-Table hosts — **one lived order each**, not a god-list of paladins. Names from [[The Old Tongue]] / [[Naming in the Turning]]. Faiths were not rebuilt.
 - [x] [[The Watching]] — [[The Watchers]] (no mother-church; second reading alongside the warden, not over; liturgical *Nethoren* 🟡)
-- [x] [[The Fair Hand]] — [[The Book-Hands]] (no seat, many tables; liturgical *Leddhael* 🟡)
+- [x] [[The Fair Hand]] — [[The Book-Hands]] (no seat, many tables; liturgical *Leddhael* 🟡). **Taste: they do not rewrite Bound Terms.**
 - [x] [[The Old Ways]] — [[The Door-Keepers]] (the land is the seat; liturgical *Vaelbren* 🟡)
-- [x] [[The Open Table]] — [[The Table-Keepers]] (almost not clergy; no Kumbaan mission; own-name *Njaalo* 🟡)
+- [x] [[The Open Table]] — [[The Table-Keepers]] **parked as isle practice** (own-name *Njaalo* 🟡). Not a mainland play-order.
 - [x] Recruits by faith / office / Condition-lean, **not Kind**. Did not clone the Tree-Wardens' four-office shape onto houses that have no seat.
+- [x] 🟡 Mainland rogue add-on — [[The Back Table]] (*Nethledd*): the shadow economy with a face. Not a fifth faith. Not Orledd's church.
 
 ### Story 5.3 — Tithe-infrastructure & the safety-guilds ⬜ **NEXT**
 The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outlets; the ~3 hazardous-Condition licence-guilds from [[Law and Citizenship]]. At least one underdog-unit (impossible mandate, thin resources) for play. *(Road-hands already occupy the clergy underdog; 5.3 should not clone them. The four houses' exposed edges — recut lintel, novation, host-rights, the sentence that will not travel — are not travelling units either.)*
