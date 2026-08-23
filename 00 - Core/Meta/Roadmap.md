@@ -35,7 +35,7 @@ updated: 2026-08-23
 | **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ✅ done |
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | 🟢 core done |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; **4** custom ancestries ✅ · Story 4.2 ✅ | Low | 🟢 core done |
-| **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ⬜ next |
+| **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | 🟢 5.1 done · ⬜ 5.2 next |
 | **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | ⬜ |
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ⬜ |
 | **8** | [[#Epic 8 — People]] | The cast | Low | ⬜ |
@@ -60,7 +60,7 @@ updated: 2026-08-23
 ---
 
 ## Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)
-**Skill:** `belief-systems` (+ `oblique-worldbuilding` for in-world texts, `paradox-fables` for the schism folklore) · **Status:** 🟢 **core done (2026-08-19); Story 1.4 done (2026-08-23)** — Tree + Motherfaith + the other four faiths written; clergy orders still deferred to Epic 5. · **Blast radius: High.**
+**Skill:** `belief-systems` (+ `oblique-worldbuilding` for in-world texts, `paradox-fables` for the schism folklore) · **Status:** 🟢 **core done (2026-08-19); Story 1.4 done (2026-08-23); clergy → Story 5.1 (2026-08-23)** — Tree + Motherfaith + the other four faiths written; full orders proposed as [[The Tree-Wardens]]. · **Blast radius: High.**
 
 > The Leaf-Fall is *already* locked as the engine ([[The Premise]]). This epic makes the Tree and its religion **concrete** — the thing every later system references. **Core notes:** [[Turning Tree]] (object + rite) and [[The Leaf-Mother]] (the faith).
 
@@ -77,14 +77,14 @@ updated: 2026-08-23
 - [x] Believers' doctrine: the Conditioned are *chosen*; the Trees are her hands (gift-religion, "tend what you're given")
 - [x] Skeptics' position: it's just what the Trees do — and the faith is **orthopraxic**, so skeptics belong through practice
 - [x] The live schism — built as **three good-faith branches**: Kept (spared/slighted), Struck (still hers?), and does-a-mind-choose (believer/skeptic)
-- [ ] Clergy / institutions of the faith — sketched (tree-wardens, the Awakening-Tree seat); full orders **deferred to [[#Epic 5 — Factions & Orders]]**
+- [x] 🟡 Clergy / institutions of the faith — full orders built as [[The Tree-Wardens]] (Story 5.1, 2026-08-23). Names and the skeptic-warden call still **taste-open**.
 - [x] 1–2 in-world texts (`oblique-worldbuilding`) that carry doctrine *and* seed a reveal — the Tender's blessing + the Kept-child's saying
 
 ### Story 1.3 — Reconcile with canon
 - [x] Tree/Leaf-Mother notes declare `reveals: [leaf-mother-is-real]`
 - [x] Cross-linked from [[The Premise]], the [[07 - Religion]] & [[11 - Secrets]] MOCs (Conditions cross-link pending a later pass)
 
-> **Deferred out of Epic 1 (tracked):** full clergy orders + pilgrimage-seat politics → Epic 5 · Conditions cross-link (pending). Colour palette ✅ Story 4.2 · Calendar ✅ Epic 3 · faith economy ✅ Epic 2 · wider pantheon ✅ Story 1.4.
+> **Deferred out of Epic 1 (tracked):** Conditions cross-link (pending). Clergy orders ✅ Story 5.1 ([[The Tree-Wardens]], names 🟡). Colour palette ✅ Story 4.2 · Calendar ✅ Epic 3 · faith economy ✅ Epic 2 · wider pantheon ✅ Story 1.4. Other houses' orders → Story 5.2.
 
 ### Story 1.4 — Wider pantheon / other religions ✅ **DONE (2026-08-23)** → [[Faiths of the Turning]]
 - [x] 🟡 The Leaf-Mother is *one faith among several* — four lived rival faiths built against the Epic 3 continental seeds, plus how they coexist / syncretize / fight. **Not** a D&D god-list; no second cosmology locked. → [[The Watching]] (*Haelthael*, Maiethorn) · [[The Fair Hand]] (*Leddoren*, Strandoren) · [[The Old Ways]] (*Vaeloren*, Heskoren) · [[The Open Table]] (*Ndeyaan*, Kumbaan) · shared paradox-fable [[The Child at Four Doors]]
@@ -164,18 +164,31 @@ updated: 2026-08-23
 ---
 
 ## Epic 5 — Factions & Orders
-**Skill:** `governance-systems`, `underdog-unit`, `moral-parallax` · **Status:** ⬜ **next** · Depends on Epics 1, 2, and 4.2. The institutional actors — clergy, rival-faith orders, Tithe-infra, the guilds that train the Given and licence the hazardous. Recruits by **Condition / faith / office, not by Kind** ([[Kinds of the Turning]]).
+**Skill:** `governance-systems`, `underdog-unit`, `moral-parallax` · **Status:** 🟢 **Story 5.1 done (2026-08-23)** · ⬜ **Story 5.2 next.** Depends on Epics 1, 2, and 4.2. The institutional actors — clergy, rival-faith orders, Tithe-infra, the guilds that train the Given and licence the hazardous. Recruits by **Condition / faith / office, not by Kind** ([[Kinds of the Turning]]).
 
-> Progressive elaboration: story headings only until we start. Do not invent Kind-only orders.
+> Do not invent Kind-only orders. Do not rebuild [[The Tree-Wardens]]. *Orenhael* / *Thaelvaeth* / skeptic-wardens stay 🟡 polishable.
 
-### Story 5.1 — Motherfaith clergy (the tree-wardens)
-The sketched offices in [[Turning Tree]] / [[The Leaf-Mother]]: who cuts a graft, who reads a colour, who seats at Thaeloren. Full orders. (The Epic 1 leftover.)
+### Story 5.1 — Motherfaith clergy (the tree-wardens) ✅ **DONE (2026-08-23)** → [[The Tree-Wardens]]
+The sketched offices in [[Turning Tree]] / [[The Leaf-Mother]], built as **one order with offices**, not rival chapters.
+- [x] 🟡 Everyday name stays **tree-wardens**; liturgical **Orenhael** *(or-EN-hayl)* proposed from existing roots
+- [x] 🟡 Offices: warden-hearth (town) · the Speaking (colour-authority) · Road-hands / *Thaelvaeth* (graft + sickness) · the First Seat (college, not a throne)
+- [x] 🔒 Graft rule kept from Epic 1: Seat *authorizes*; a healthy town Tree may supply the cut
+- [x] 🟡 Who may serve: practice-first; **not by Kind**; Condition *leans* (Kept hearths, Long-Lived Speakers, Two-Bodied Road-hands); skeptics allowed at the town-hearth, Seat believer-heavy
+- [x] 🟡 The **scion-queue** as the order's injustice (R2 / moral-parallax); Cutting-leave fee
+- [x] 🟡 Road-hands built as the underdog office (time + thin soil + authority that expires)
+- [x] Polity faces (Vaethorn Hands-folk · Lestrand tree-tenders · Threnmaieth Reckoned Hands) + one in-world Cutting-leave
+- [x] 🟡 Names / skeptic-warden / college-not-pope parked as working canon (not locked). Do not rebuild. Polish later if wanted.
 
-### Story 5.2 — The other four houses' orders
-Watchers, Book-hands, door-keepers / Old-Ways tenders, Open-Table hosts — one lived order each, not a god-list of paladins. Names from [[The Old Tongue]] / [[Naming in the Turning]].
+### Story 5.2 — The other four houses' orders ⬜ **NEXT**
+Watchers, Book-hands, door-keepers / Old-Ways tenders, Open-Table hosts — **one lived order each**, not a god-list of paladins. Names from [[The Old Tongue]] / [[Naming in the Turning]]. Sketches already live on the faith notes; do not rebuild the faiths.
+- [ ] [[The Watching]] — Watchers (no mother-church; second reading alongside the warden, not over)
+- [ ] [[The Fair Hand]] — Book-hands (no seat, many tables)
+- [ ] [[The Old Ways]] — door-keepers / Kin-speakers (the land is the seat)
+- [ ] [[The Open Table]] — table-keepers / hill-hosts (almost not clergy; no Kumbaan mission)
+- [ ] Recruits by faith / office / Condition-lean, **not Kind**. Do not clone the Tree-Wardens' four-office shape onto houses that have no seat.
 
 ### Story 5.3 — Tithe-infrastructure & the safety-guilds
-The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outlets; the ~3 hazardous-Condition licence-guilds from [[Law and Citizenship]]. At least one underdog-unit (impossible mandate, thin resources) for play.
+The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outlets; the ~3 hazardous-Condition licence-guilds from [[Law and Citizenship]]. At least one underdog-unit (impossible mandate, thin resources) for play. *(Road-hands already occupy the clergy underdog; 5.3 should not clone them.)*
 
 ---
 
@@ -212,12 +225,12 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
-- **Epic 1 — Anchor:** 14 / 15 (93%) — core + Story 1.4 + colour palette (2026-08-23). Remaining: full clergy orders (→E5), Conditions cross-link
+- **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅**. **Story 4.2 ✅ and 🔒 (2026-08-23, user-approved)** → [[Kinds of the Turning]] · [[Naming People in the Turning]] · months · Kumbaan name base · leaf-colours. Revisit flag on the four ancestries still open (not blocking). Deep grammar + ~12 powers' tongues still deferred.
-- **Epic 5 — Factions:** ⬜ next — decomposed to story headings only (below). **Epics 6–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Next: Epic 5 factions.**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**. Next: Epic 5.
+- **Epic 5 — Factions:** 🟢 Story 5.1 ✅ done → [[The Tree-Wardens]] (names 🟡, do not rebuild). **⭐ Next: Story 5.2** — the other four houses' orders (Watchers · Book-hands · door-keepers · table-keepers). Story 5.3 still headings only. **Epics 6–10:** not yet decomposed (progressive elaboration)
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Story 5.1 done. Next: Story 5.2 (other four houses' orders).**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**. Story 5.1 done ([[The Tree-Wardens]], names 🟡). **Next: Story 5.2.**
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub

@@ -77,6 +77,11 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Vaeloren** *(vay-LOR-en)* — *vael* + *oren* in the *older* sense = "the land's witnessing." [[The Old Ways]]' liturgical name.
 - **Ndeyaan** *(ndey-AHN)* — not Maiethren; the [[Yumboe]] night-keeping. [[The Open Table]]'s own name. The one faith-name that owes the liturgy nothing.
 
+**Clergy coinages (Story 5.1 — 🟡 Proposed):**
+
+- **Orenhael** *(or-EN-hayl)* — *oren* + *hael* = "the witnessing-whole." Liturgical name of [[The Tree-Wardens]]: they *speak the fall truly* and *keep the Tree hale.*
+- **Thaelvaeth** *(THALE-vayth)* — *thael* + *vaeth* = "the Tree gone to the waiting." Liturgical name of the Road-hands.
+
 ## The three polities, named
 
 The [[Polity Archetypes]] get their in-world names here — each derived from its own daughter drift, so the name *sounds like* the polity's stance:
@@ -88,6 +93,7 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 ## Links
 - [[Polity Archetypes]] — the three polities named here · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
+- [[The Tree-Wardens]] — Orenhael · Thaelvaeth (🟡)
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds

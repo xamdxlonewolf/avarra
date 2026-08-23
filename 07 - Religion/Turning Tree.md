@@ -36,7 +36,7 @@ This is the setting's chosen shape because it gives us **both** at once:
 
 ### The Awakening Tree
 
-The origin. Old beyond reliable dating, vast, and the one Tree no one grafted from another — every other Turning Tree descends from it. In liturgy it is **the First Hand**. It is a genuine pilgrimage destination: devout families make the journey to be Turned under the origin; some settle nearby; the faith's central clergy seat sits in its shadow (see [[The Leaf-Mother]], to be fleshed in Epic 5). It stands on [[Maiethorn]], in the Sacred Core.
+The origin. Old beyond reliable dating, vast, and the one Tree no one grafted from another — every other Turning Tree descends from it. In liturgy it is **the First Hand**. It is a genuine pilgrimage destination: devout families make the journey to be Turned under the origin; some settle nearby; the faith's central clergy seat sits in its shadow — the **First Seat**, a college of [[The Tree-Wardens]], not a throne. It stands on [[Maiethorn]], in the Sacred Core.
 
 ## Where scions come from — grafting, and what can go wrong
 
@@ -49,7 +49,7 @@ The origin. Old beyond reliable dating, vast, and the one Tree no one grafted fr
 
 The rite the whole world is built around. Held in the **tenth-year solstice week** (calendar locked to solstice in [[The Premise]]; the reckoning is now fixed — the High Solstice / midsummer, held **[[The Reckoning of the Year|Turning-Week]]**).
 
-**Who attends.** Every child who turns ten since the last solstice, brought by family; the town gathers as witness; a **tree-warden** or local clergy of [[The Leaf-Mother]] officiates (the precise office is fleshed in Epic 5). It is simultaneously a sacred rite and the town's biggest festival of the year — part christening, part graduation, part fair.
+**Who attends.** Every child who turns ten since the last solstice, brought by family; the town gathers as witness; a **tree-warden** of [[The Tree-Wardens]] officiates (the town hearth; the First Seat is only a pilgrimage-week presence). It is simultaneously a sacred rite and the town's biggest festival of the year — part christening, part graduation, part fair.
 
 **Staging.** Children come to the Tree one at a time (or in the small cohort of a given year), stand within the canopy's reach, and wait. The Tree turns and lets fall what it will. The rest of the town watches from the edge of the boughs.
 
@@ -79,7 +79,7 @@ The colour that falls tells the town which Condition has been Given. How that re
 
 **The Tree never Strikes**, so [[Returned]] and [[Bound]] have **no colour** (and [[The Unbound]] has none — it chains off Bound). The Kept hug is ordinary summer-green, *no naming colour* — that is why the Taken-In leaf must not be ordinary green.
 
-Rare, mixed, or argumentative falls (two colours; a colour no one present has seen; a Phoenix-reading someone wants to be wrong) are why the tree-wardens exist as a civic office, not only a devout one. Full orders → [[Roadmap|Epic 5]].
+Rare, mixed, or argumentative falls (two colours; a colour no one present has seen; a Phoenix-reading someone wants to be wrong) are why the tree-wardens exist as a civic office, not only a devout one. Full orders: [[The Tree-Wardens]].
 
 > **A Tree never Strikes.** The Tree only **Gives** or **Keeps**. The **Struck** (Conditions that arrive through a later threshold — a drowning, an oath, a death survived) happen *away* from the Tree, with no leaf and no ceremony (locked in [[The Premise]]). The faith's reading of the Struck — whether they're still the Mother's doing — is exactly the live schism fleshed in [[The Leaf-Mother]].
 
@@ -87,10 +87,11 @@ Rare, mixed, or argumentative falls (two colours; a colour no one present has se
 
 - **This note is player-facing but keystone-adjacent.** It carries `reveals: [leaf-mother-is-real]` because the *graft continuity* ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms the Leaf-Mother is real and present. Present it to players as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics in-world grant the grafting (it's observable horticulture) while denying the conclusion (that a *mind* chooses through it).
 - **The scary edge is not here.** Resist making the Tree eerie or the ceremony sinister — that's off-tone for this setting and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Dread lives in individual Tithes, not in the rite.
-- **Deferred, on purpose:** the clergy's offices / tree-wardens as an institution (Epic 5). The Awakening Tree's continent is placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the colour→Condition palette is proposed above; the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
+- **Clergy offices:** built as [[The Tree-Wardens]] (Epic 5 Story 5.1; names 🟡). The Awakening Tree's continent is placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the colour→Condition palette is locked above; the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
 
 ## Links
 - [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy)
+- [[The Tree-Wardens]] — the working clergy (warden-hearth, Speakers, Road-hands, First Seat)
 - [[Faiths of the Turning]] — the other faiths that share or refuse this Tree
 - [[The Premise]] — the locked engine (Given / Struck / Kept, population math, the Tithe)
 - [[Is the Leaf-Mother Real]] — GM keystone truth this note points at
