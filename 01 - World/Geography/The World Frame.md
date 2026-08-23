@@ -10,7 +10,7 @@ aliases: [The World, The Known World, The Four Continents, The Turning Lands, Wo
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # The World Frame
@@ -33,10 +33,10 @@ This also mirrors the [[The Old Tongue|language]]: the [[The Old Tongue|Old Tong
 
 | # | Continent | Reach | Role | The named polity here | Rival-faith seed |
 |---|---|:---:|---|---|---|
-| **①** | **[[Maiethorn]]** *(the Motherland)* | ●●● full | The sacred origin; the Awakening Tree stands here | **[[Polity Archetypes|Threnmaieth]]** (the Tallied Crown) | a heartland heresy / older faith grown-over |
-| **②** | **[[Strandoren]]** *(the Shore-lands)* | ●●○ high | The great trade continent, the world's crossroads | **[[Polity Archetypes|Lestrand]]** (the Ledger Coast) | a fortune-and-contract cult |
-| **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** (the Waiting Lands) | an older animist / ancestor faith |
-| **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(its own)* | its own faith, its own tongue |
+| **①** | **[[Maiethorn]]** *(the Motherland)* | ●●● full | The sacred origin; the Awakening Tree stands here | **[[Polity Archetypes|Threnmaieth]]** (the Tallied Crown) | [[The Watching]] |
+| **②** | **[[Strandoren]]** *(the Shore-lands)* | ●●○ high | The great trade continent, the world's crossroads | **[[Polity Archetypes|Lestrand]]** (the Ledger Coast) | [[The Fair Hand]] |
+| **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** (the Waiting Lands) | [[The Old Ways]] |
+| **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(its own)* | [[The Open Table]] |
 
 The three [[Polity Archetypes|archetype polities]] deliberately land on **three different continents** — proof that they're *corners of an axis-space*, not neighbours. Each of the three large continents also carries **several of the ~15 [[The Premise|great powers]]** (named-stubbed until [[Roadmap|Epic 7]]); the archetype is only the most-worked example on each.
 
@@ -58,14 +58,14 @@ Reading the world roughly **east → west**, along the reach-gradient:
 - **[[Heskoren]] — thin reach.** Grafts young, scattered, and prone to sickening; whole districts wait on a Tree that hasn't taken. Runs heavy on the [[Law and Citizenship|Kept and the Struck]]; the frontier's whole social character (custom over law, vouching stretched thin, the unvouched Struck as a constant problem) flows from this.
 - **[[The Sundering Isle]] — near-none.** Few or no healthy [[Turning Tree|Trees]] at all — the grafts never reached across the storm-wall, or never took when they did. The Isle's people acquire their nature by **their own path**, outside the Leaf-Fall entirely (detail deferred to the Isle note + the Yumboe ancestry). This makes it the sharpest edge of the [[Is the Leaf-Mother Real|keystone question]] in the whole world.
 
-## Rival faiths on the map (seeds — full build deferred)
+## Rival faiths on the map
 
-The [[The Leaf-Mother|Motherfaith]] is **one faith among several** ([[The Premise|per the locked frame]] and the deferred [[Roadmap|Story 1.4]]). Rather than quarantine other religions on the far isle, they're **woven into the large continents**, where they rub against the Motherfaith and generate friction. Seeded here as *hooks with a place*; the actual pantheon-building is the later **religion-as-a-whole pass**, not this geography pass.
+The [[The Leaf-Mother|Motherfaith]] is **one faith among several** ([[The Premise|per the locked frame]]; built in [[Faiths of the Turning]]). Rather than quarantine other religions on the far isle, they're **woven into the large continents**, where they rub against the Motherfaith and generate friction.
 
-- **[[Maiethorn]] — the heartland heresy.** Right in the sacred core, an **older faith the Motherfaith grew over** (or a schismatic branch of it) persists — the friction is *at the center*, not the edge. Because it's oldest, it may remember things the Motherfaith would rather forget. (A quiet keystone hook — see GM Notes.)
-- **[[Strandoren]] — the fortune-and-contract cult.** A mercantile theology that reads Conditions not as *gifts given* but as **bargains struck** — you got what you bargained for, the world is a ledger of deals. A direct doctrinal rival to the Motherfaith's gift-doctrine, perfectly at home on a trade continent and among the [[Bound]].
-- **[[Heskoren]] — the old ways.** An **animist / ancestor faith** that predates the grafts: *"the Mother's reach is new here; we had our own ways before her Trees came."* Reveres the Struck and the [[The Taken-In|Taken-In]] as the land's own children, and resents the Motherfaith as a latecomer. Frontier friction with real theological standing.
-- **[[The Sundering Isle]] — its own faith entirely.** Grown in isolation, owing nothing to the Leaf-Mother; the Yumboes' own cosmology (detail with the Isle + ancestry notes).
+- **[[Maiethorn]] — [[The Watching]]** (*Haelthael*). Right in the sacred core, an older Tree-faith the Motherfaith grew over. The Tree *sees*; it does not owe you a mother's name. It may remember things the Motherfaith would rather forget.
+- **[[Strandoren]] — [[The Fair Hand]]** (*Leddoren*). A mercantile theology that reads Conditions not as gifts given but as **bargains struck**. Direct doctrinal rival to gift-doctrine, at home among the [[Bound]].
+- **[[Heskoren]] — [[The Old Ways]]** (*Vaeloren*). An animist / ancestor faith that predates the grafts: the Mother's reach is new here. Reveres the Struck and the [[The Taken-In|Taken-In]] as the land's own children.
+- **[[The Sundering Isle]] — [[The Open Table]]** (*Ndeyaan*). Grown in isolation, owing nothing to the Leaf-Mother; hospitality, moon, and the staying-kin.
 
 ---
 
@@ -160,7 +160,8 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 - **Continents:** [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - **Polities placed here:** [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn)
 - **Upstream frame:** [[The Premise]] (scale & register) · [[Turning Tree]] (one Awakening Tree + grafts) · [[The Old Tongue]] (the drift-gradient) · [[Is the Leaf-Mother Real]] (the reach-edge)
-- **People:** the Yumboes (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]]
+- **Faiths:** [[Faiths of the Turning]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
+- **People:** [[Yumboe]] (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes
@@ -168,5 +169,5 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 
 - **The map IS the keystone edge, drawn.** The reach-gradient (dense core → thin frontier → Treeless isle) is the ground-level face of [[Is the Leaf-Mother Real|the Mother's bounded reach]]. In-world it reads as plain distance-and-history: the [[Roadmap|Epic 6 "Grafting"]] story explains today's thin edges as *Tree-poor places* (young/sick/few grafts), and the skeptics take that as the whole truth. It *is* most of the truth. The part that stays GM-side is *why* the grafts thin with distance from Thaeloren — that her reach itself has an edge. Never let a player-facing region note assert the deeper cause; let it read as geography.
 - **The Sundering Isle is the sharpest test.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the strongest natural experiment in the world: if the Yumboes acquire natures with no Tree at all, what does that say about whether the Mother is behind *any* of it? Reserve this — it's a late, high-value reveal beat, not early colour. (How the Yumboes actually transform is deferred to the Isle + ancestry notes; keep the door open there.)
-- **The heartland heresy remembers.** The [[Maiethorn]] older-faith seed is placed at the sacred center on purpose: an old religion grown-over by the Motherfaith is the natural keeper of *pre-Motherfaith* memory — what the world believed before the Trees, or before the Trees were understood as Hers. A live thread to the keystone; flesh in the religion pass, but plant it knowing it points here.
+- **The heartland heresy remembers.** [[The Watching]] is placed at the sacred center on purpose: an old religion grown-over by the Motherfaith is the natural keeper of *pre-Motherfaith* memory — what the world believed before the Trees were understood as Hers. Built in [[Faiths of the Turning]]; it still points here.
 - **East/west is not locked cosmology.** Only the relative positions matter (see the orientation note above). If a later map or campaign wants the gradient to run north→south or along a different axis, that's free — the *gradient* is the canon, not the compass.

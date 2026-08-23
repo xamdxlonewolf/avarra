@@ -10,7 +10,7 @@ aliases: [The Shore-lands, The Trade Continent, The Crossroads, Strandor]
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Strandoren
@@ -47,9 +47,9 @@ Strandoren is the **crossroads of the known world** — a continent of harbours,
 
 Faith worn light — but not absent, and here it has a **rival with real doctrine**:
 
-### The fortune-and-contract cult
+### The fortune-and-contract cult — [[The Fair Hand]]
 
-A mercantile theology that reads Conditions not as *gifts given* (the [[The Leaf-Mother|Motherfaith]]'s line) but as **bargains struck** — the world is a ledger of deals, and what you became is what you (or your line) *bargained for*. A direct doctrinal rival to gift-doctrine, perfectly at home on a trade continent and especially among the [[Bound]] (whose entire Condition *is* a contract). It reframes the Tithe as a *debt serviced* rather than an upkeep tended. Seeded here; full build in the **religion-as-a-whole pass** ([[Roadmap|Story 1.4]]).
+A mercantile theology that reads Conditions not as *gifts given* (the [[The Leaf-Mother|Motherfaith]]'s line) but as **bargains struck** — the world is a ledger of deals, and what you became is what you (or your line) *bargained for*. Direct doctrinal rival to gift-doctrine, at home among the [[Bound]]. It reframes the Tithe as a *term serviced* rather than an upkeep tended. Full build: [[The Fair Hand]] (*Leddoren*) · map: [[Faiths of the Turning]].
 
 ## Story hooks
 
@@ -77,7 +77,7 @@ NO TEXT, NO LABELS, no writing anywhere.
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Polity Archetypes]] (Lestrand) · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
+- [[Polity Archetypes]] (Lestrand) · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 

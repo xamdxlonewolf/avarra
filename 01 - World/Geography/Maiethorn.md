@@ -10,7 +10,7 @@ aliases: [The Motherland, The Old Heart, The Sacred Continent, The First Land]
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Maiethorn
@@ -47,9 +47,9 @@ Maiethorn is the world's **old heart** — the continent people mean when they s
 
 The **[[The Leaf-Mother|Motherfaith]]'s** birthplace and stronghold — its institutions, its pilgrimage, its authoritative tree-wardens all seat here. But the sacred center is *contested*, not serene:
 
-### The heartland heresy
+### The heartland heresy — [[The Watching]]
 
-An **older faith the Motherfaith grew over** (or an ancient schism from it) persists in Maiethorn's oldest districts — the friction is at the *center*, not the frontier. Because it is old, it claims to remember what the world believed *before* the Trees were understood as the Mother's hands. Seeded here as a hook; full build in the **religion-as-a-whole pass** ([[Roadmap|Story 1.4]]). *(A quiet keystone thread — see GM Notes.)*
+An **older Tree-faith the Motherfaith grew over** persists in Maiethorn's oldest districts — the friction is at the *center*, not the frontier. They keep the Tree as *witness* (*Haelthael*) and refuse the Mother-name. Because it is old, it claims to remember what the world believed *before* the Trees were understood as the Mother's hands. Full build: [[The Watching]] · map: [[Faiths of the Turning]]. *(A quiet keystone thread — see GM Notes.)*
 
 ## Story hooks
 
@@ -76,7 +76,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 
 ## Links
 - [[The World Frame]] — the four-continent frame this belongs to · neighbours: [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Old Tongue]] (conservative drift)
+- [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Watching]] · [[The Old Tongue]] (conservative drift)
 - [[Polity Archetypes]] (Threnmaieth) · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 
@@ -84,5 +84,5 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **Full reach here is the "control" end of the natural experiment.** Maiethorn is where the Trees are healthiest and the Given densest — the baseline against which the frontier's thin reach and the Isle's no-reach are read. Keep the *cause* GM-side ([[Is the Leaf-Mother Real|her reach is fullest at the source]]); in-world it's just "the oldest, best-tended Trees." Don't let a region note assert why proximity to Thaeloren means fuller reach.
-- **The heartland heresy is a keystone keeper.** Placed at the sacred center precisely so an *old* faith can hold *old* memory — what was believed before the Motherfaith, or before the Trees were called Hers. It's the natural in-world source that could corroborate the keystone from an unexpected direction (not the skeptics, not the devout — the *heretics*). Flesh in the religion pass; plant it now knowing it points at [[Is the Leaf-Mother Real]].
+- **The heartland heresy is a keystone keeper.** [[The Watching]] sits at the sacred center precisely so an *old* faith can hold *old* memory — what was believed before the Trees were called Hers. It's the natural in-world source that could corroborate the keystone from an unexpected direction (not the skeptics, not the devout — the *heretics*). Built; it still points at [[Is the Leaf-Mother Real]].
 - **Threnmaieth's tell lives here.** Per [[Polity Archetypes]], the Tallied Crown distrusts the [[Law and Citizenship|three pillars]] and keeps a ledger instead — and its Long-Lived crown-archivists may quietly remember what the [[Naming in the Turning|Threnhael]] was made to overwrite. On Maiethorn, that archivist is near the sacred center *and* near the old heresy — a rich place to seat that character.

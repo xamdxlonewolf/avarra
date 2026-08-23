@@ -10,7 +10,7 @@ world:
 domain: becoming, gifts, the Turning, the tended life
 reveals: [leaf-mother-is-real]
 created: 2026-08-19
-updated: 2026-08-20
+updated: 2026-08-23
 ---
 
 # The Leaf-Mother
@@ -22,7 +22,7 @@ updated: 2026-08-20
 - **A gift-religion, not a salvation-religion.** No one is being *rescued* from a fallen state. The founding fact is that the world received *gifts* (the Conditions) and goes on receiving them each solstice. The faith is a long answer to *how do you live worthy of a gift?*
 - **Orthopraxy over orthodoxy.** What makes you of the Motherfaith is what you **do** — you bring your children to the Tree, you tend your Tithe honestly, you keep the festival — far more than what you privately believe about *who* does the choosing. This is the structural reason a devout believer and a quiet skeptic can stand at the same Leaf-Fall and both belong. **Right practice binds; right belief is argued about.**
 - **Divine character: a mother.** Benevolent, attentive, generous, and *quiet* — she does not thunder, command, or demand worship. She gives, and (the faithful say) she watches. The maternal frame is the whole tone: you don't fear the Mother, you try not to waste what she hands you.
-- **One faith among several (🟡, per design 2026-08-19).** The Motherfaith is the dominant faith of the Turning lands but **not the only religion** — other gods and traditions exist and get built in the religion-as-a-whole pass (see [[#Later / deferred]]). The Leaf-Mother is not written as the universe's sole power; she is *this* people's Mother.
+- **One faith among several (🔒, built 2026-08-23).** The Motherfaith is the dominant faith of the Turning lands but **not the only religion**. The others — and how they coexist, compete, and syncretize — live in [[Faiths of the Turning]]. The Leaf-Mother is not written as the universe's sole power; she is *this* people's Mother.
 
 ## Cosmology & doctrine (as believed)
 
@@ -40,7 +40,7 @@ Religion is lived, not just believed. The Motherfaith is dense with practice —
 
 - **The Leaf-Fall** — the central rite, a child's tenth-year solstice Turning. Full staging in [[Turning Tree]]. It is at once sacrament, coming-of-age, and the town's great festival.
 - **The Tending** — the ongoing, private devotion of *paying your Tithe well*. Framed religiously: to tend your Condition honestly is to honour the gift. A Two-Bodied who runs their other self, a Long-Lived who keeps their vigils — the faith calls this worship-by-living, not just upkeep.
-- **The Turning-week festival** — the solstice week around the Leaf-Falls: markets, feasts, the reunion of families, the naming of the year's new Given and new Kept. The emotional high point of the calendar (calendar locked to solstice in [[The Premise]]; exact reckoning deferred to Epic 3).
+- **The Turning-week festival** — the solstice week around the Leaf-Falls: markets, feasts, the reunion of families, the naming of the year's new Given and new Kept. The emotional high point of the calendar (reckoning locked in [[The Reckoning of the Year]] — High Solstice / Turning-Week).
 - **Threshold rites for the Struck** — because the Struck receive a Condition *away* from the Tree (a drowning survived, an oath sworn, a death crossed — see [[The Premise]]), the faith has grown **quiet rites to receive them back**: a Struck person is brought to the Tree *after* the fact, not to be Turned (the Tree doesn't Strike) but to be **acknowledged** — folded into the community of the Given rather than left as an anomaly. How warmly this is done is itself contested (schism, below).
 - **Tree-tending** — the civic-sacred care of the town's Turning Tree (watering rites, warding against blight, the graft-rites when a new scion is planted). Handled by the **tree-wardens** (clergy, below).
 
@@ -87,14 +87,12 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
 
 - **Player-facing, keystone-adjacent.** Carries `reveals: [leaf-mother-is-real]` because its doctrine, taken as true, *is* the keystone. Present it as **belief** — reverent where it's reverent, and letting the skeptics have their full dignity. Never let a player-facing beat confirm the Mother; the confirmation is the GM's to place, and per [[Is the Leaf-Mother Real]] it should land as *warmth*, not horror.
 - **The schism is the reusable engine.** The three questions above are the faith's inexhaustible fuel for NPCs, factions, and family drama (a Kept sibling, a Struck spouse, a skeptic parent). Reach for them whenever a scene needs belief-shaped conflict.
-- **Deferred, on purpose:** the clergy's full orders/politics and the pilgrimage-seat's structure (Epic 5); the sacred calendar (Epic 3); the faith's economy (Epic 2); the *other* religions the Motherfaith coexists and syncretizes with (religion-as-a-whole pass — see below). Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
-
-## Later / deferred
-
-- **Wider pantheon (🟡, user directive 2026-08-19).** The Leaf-Mother is *one faith among several*. Build the other gods/religions — and how they coexist, compete, or syncretize with the Motherfaith — in a dedicated religion-as-a-whole pass. Logged in [[Roadmap]] (Epic 1 / a new religion story). This keeps the world alive and diverse rather than a single-faith monoculture.
+- **Deferred, on purpose:** the clergy's full orders/politics and the pilgrimage-seat's structure (Epic 5). The sacred calendar is now locked ([[The Reckoning of the Year]]); the faith's economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
 
 ## Links
 - [[Turning Tree]] — the object and rite this faith is built around
+- [[Faiths of the Turning]] — the other faiths, and how this one lives beside them
+- [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Child at Four Doors]]
 - [[The Premise]] — the locked engine (Given / Struck / Kept, the Tithe, population math)
 - [[Is the Leaf-Mother Real]] — the GM keystone truth this faith points at
 - [[Conditions]] — the gifts themselves · [[Build Plan]] · [[Roadmap]]

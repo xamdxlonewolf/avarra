@@ -11,7 +11,7 @@ language: the Yumboe tongue (non-Maiethren)
 homeland: "[[The Sundering Isle]] (Kumbaan)"
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Yumboe
@@ -53,7 +53,7 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 
 ## Open questions (optional future tweaks — not blockers)
 
-- **Folklore check passed (2026-08-22).** Measured against the Wolof/Senegambian *Yumboe* myth (Keightley, *The Fairy Mythology*): hits the iconic traits — **pearly-white skin & silver hair** (Overview/physical read), **dwelling beneath the hills** (*Hollow-Hill*), **nocturnal, dancing in the moonlight** (*Moon-Waked*), **feasts served by invisible servants seen only as hands and feet** (*The Unseen Hands* — the signature), **hospitality to natives and foreigners alike** (Values/Customs), **the name "the good people / Bakhna Rakhna"** (Naming), and the "spirits of the dead / ancestral" flavour reinvented as their moon-and-lineage faith rather than literal ghosts (see [[The Sundering Isle]]). The corn-stealing and shore-fishing survive as customs colour.
+- **Folklore check passed (2026-08-22).** Measured against the Wolof/Senegambian *Yumboe* myth (Keightley, *The Fairy Mythology*): hits the iconic traits — **pearly-white skin & silver hair** (Overview/physical read), **dwelling beneath the hills** (*Hollow-Hill*), **nocturnal, dancing in the moonlight** (*Moon-Waked*), **feasts served by invisible servants seen only as hands and feet** (*The Unseen Hands* — the signature), **hospitality to natives and foreigners alike** (Values/Customs), **the name "the good people / Bakhna Rakhna"** (Naming), and the "spirits of the dead / ancestral" flavour reinvented as their moon-and-lineage faith rather than literal ghosts (see [[The Open Table]]). The corn-stealing and shore-fishing survive as customs colour.
 - **Lane separation (checked, clean).** *Hollow-Hill* is **earth/underground + small**, dodging [[Selkie]] (water), [[Tengu]] (sky/heights), and [[Kitsune]] (society/illusion). *Moon-Waked* is **night-sight + rest-recovery**, distinct from Kitsune's *Fox of the Sands* darkvision (which pairs with hearing) and Fox of the Snows' vanishing. *The Unseen Hands* is a **conjured-helpers control/support** beat found nowhere else — it deliberately **cannot restrain** (that would brush [[Tengu]]'s *Wind-Caller* shove/Vulnerable and generic grapples) and **cannot damage** (the good people don't fight), keeping it in the disadvantage/advantage control lane. No overlap with any [[Conditions|Condition]] (esp. not [[Two-Bodied]] transformation or [[The Stilled]] stone).
 - **Small-size band vs. stock Halfling/Faerie (noted, kept distinct by flavour).** Being small grants squeeze + hide-advantage + can't-be-lost-underground + tremor-sense — bundled into the *earth* identity rather than generic luck (Halfling) or flight (Faerie). If play-test finds the size perk thin or too strong, the tremor-sense clause is the easiest dial.
 - **Moon-Waked recovery (flag).** The "+1 Stress cleared resting under moonlight" is a gentle, non-combat perk in the spirit of the good people's ease — confirm it feels right, or swap for a flat night-time advantage if a recovery bonus is fiddly at your table.
@@ -63,6 +63,6 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[The Sundering Isle]] (Kumbaan) — their storm-walled homeland · [[The World Frame]] — the world they're rare across
+- [[The Sundering Isle]] (Kumbaan) — their storm-walled homeland · [[The Open Table]] — their isolate faith (*Ndeyaan*) · [[The World Frame]] — the world they're rare across
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] — the other three custom ancestries (all mainland-native)
 - [[03 - Cultures]]

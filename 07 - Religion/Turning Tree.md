@@ -11,7 +11,7 @@ region:
 stratum:
 reveals: [leaf-mother-is-real]
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-23
 ---
 
 # Turning Tree
@@ -73,10 +73,11 @@ The colour that falls tells the town which Condition has been Given. How that re
 
 - **This note is player-facing but keystone-adjacent.** It carries `reveals: [leaf-mother-is-real]` because the *graft continuity* ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms the Leaf-Mother is real and present. Present it to players as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics in-world grant the grafting (it's observable horticulture) while denying the conclusion (that a *mind* chooses through it).
 - **The scary edge is not here.** Resist making the Tree eerie or the ceremony sinister — that's off-tone for this setting and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Dread lives in individual Tithes, not in the rite.
-- **Deferred, on purpose:** the Awakening Tree's map location (Epic 3), the full colour→Condition palette (Epic 2/4), the clergy's offices and the tree-wardens as an institution (Epic 5), and the calendar/solstice reckoning (Epic 3). Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
+- **Deferred, on purpose:** the full colour→Condition palette (Epic 2/4) and the clergy's offices / tree-wardens as an institution (Epic 5). The Awakening Tree's continent is now placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
 
 ## Links
 - [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy)
+- [[Faiths of the Turning]] — the other faiths that share or refuse this Tree
 - [[The Premise]] — the locked engine (Given / Struck / Kept, population math, the Tithe)
 - [[Is the Leaf-Mother Real]] — GM keystone truth this note points at
 - [[Conditions]] — what can be Given · [[Build Plan]] · [[Roadmap]]

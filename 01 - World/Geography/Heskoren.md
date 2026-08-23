@@ -10,7 +10,7 @@ aliases: [The Sundered Reach, The Frontier, The Far Lands, Heskorn, The Waiting 
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # Heskoren
@@ -48,8 +48,7 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 Two faiths in tension, and the friction is the frontier's own:
 
 - The **[[The Leaf-Mother|Motherfaith]]** burns hottest here (see Vaethorn) — a theology of longing and pilgrimage grown around the scarce gift.
-- ### The old ways
-  An **animist / ancestor faith** that *predates the grafts*: **"the Mother's reach is new here — we had our own ways before her Trees came."** It reveres the [[The Premise|Struck]] and the [[The Taken-In|Taken-In]] as the land's own children (those who became something *without* the Tree's blessing — exactly the people the Motherfaith struggles to place), and resents the Motherfaith as a latecomer colonizing an older sacred landscape. Real theological standing, real grievance. Seeded here; full build in the **religion-as-a-whole pass** ([[Roadmap|Story 1.4]]). *(A keystone-adjacent faith — see GM Notes.)*
+- **[[The Old Ways]]** (*Vaeloren*). An **animist / ancestor faith** that *predates the grafts*: **"the Mother's reach is new here — we had our own ways before her Trees came."** It reveres the [[The Premise|Struck]] and the [[The Taken-In|Taken-In]] as the land's own children, and resents the Motherfaith as a latecomer. Real theological standing, real grievance. Full build: [[The Old Ways]] · map: [[Faiths of the Turning]]. *(A keystone-adjacent faith — see GM Notes.)*
 
 ## Story hooks
 
@@ -77,7 +76,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
-- [[Polity Archetypes]] (Vaethorn) · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
+- [[Polity Archetypes]] (Vaethorn) · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Roadmap]] (Epic 3; Epic 6 Grafting history) · [[01 - World]]
 
@@ -85,5 +84,5 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **Heskoren is the sharpest in-world test of the keystone edge — protect it.** Per [[Polity Archetypes]], the Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer ([[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]]) is exactly the answer that would land hardest and cruellest here — it would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is *young/sick/scarce grafts* (true as far as it goes) and history (the [[Roadmap|Grafting]] era). The gap between "true as far as it goes" and the whole truth is where the play lives.
-- **The old ways may be half-right for the wrong reasons.** The animist faith reveres the Struck and Taken-In as *the land's own, made without the Tree* — and on a near-Treeless frontier, people genuinely do become things without a healthy Tree nearby. That's a live thread: the old-ways faith is the frontier mirror of [[Maiethorn]]'s heartland heresy — two old faiths, at opposite edges of the world, both remembering something the Motherfaith smooths over. Whether they're *right* about the Mother stays keystone-gated.
+- **The old ways may be half-right for the wrong reasons.** [[The Old Ways]] revere the Struck and Taken-In as *the land's own, made without the Tree* — and on a near-Treeless frontier, people genuinely do become things without a healthy Tree nearby. That's a live thread: they are the frontier mirror of [[The Watching]] — two old faiths, at opposite edges of the world, both remembering something the Motherfaith smooths over. Whether they're *right* about the Mother stays keystone-gated.
 - **This is where the "secular frontier" un-built corner lives.** [[Polity Archetypes]] names it explicitly as reachable-but-unbuilt (low theology · low reach · low governance). Heskoren is its natural home — a harder, colder Vaethorn with the faith burned out instead of up. Good raw material when Epic 7 needs a second Heskoren power.

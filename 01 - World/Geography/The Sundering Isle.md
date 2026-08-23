@@ -10,7 +10,7 @@ aliases: [Kumbaan, The Sunder, The Storm-Walled Isle, The Hidden Home, The Yumbo
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # The Sundering Isle
@@ -48,14 +48,14 @@ The Isle is the homeland of the **Yumboes** ("Bakhna Rakhna," *the good people*)
 
 ## Faith
 
-The Yumboes' own cosmology, **grown in isolation** and owing nothing to the [[The Leaf-Mother|Motherfaith]] — the sharpest religious "other" in the world precisely because it developed with no contact with the Trees. Their old accounts frame the good people as bound up with **the ancestors and the dead** (folklore-true: the Yumboes are called "the spirits of the dead"), which this world reinvents as a living faith of hill, moon, and lineage rather than literal ghosts. Full build with the ancestry note + the religion pass ([[Roadmap|Story 1.4]]).
+**[[The Open Table]]** (*Ndeyaan*) — the Yumboes' own cosmology, **grown in isolation** and owing nothing to the [[The Leaf-Mother|Motherfaith]]. Their old accounts frame the good people as bound up with **the ancestors and the dead** (folklore-true: the Yumboes are called "the spirits of the dead"), reinvented here as a living faith of hill, moon, hospitality, and the staying-kin — not literal ghosts. Full build: [[The Open Table]] · the people: [[Yumboe]] · map: [[Faiths of the Turning]].
 
 ## Story hooks
 
 - **The crossing itself** — an expedition to breach the storm-wall as a campaign spine; who has done it, what they brought back, whether there's a season or a way.
 - A **lone Yumboe on the mainland** — a walking legend, treated as myth-made-flesh; the ~5%-scary dial at its gentlest (a wondrous stranger) or its loneliest (a person no one believes is real).
 - The Isle as the **keystone's natural experiment** — a people who became themselves with no Tree (see GM Notes).
-- A mainland scholar (or heretic — cf. [[Maiethorn]]'s heartland heresy, [[Heskoren]]'s old ways) who believes Kumbaan holds the answer to what the Trees really are.
+- A mainland scholar (or heretic — cf. [[The Watching]], [[The Old Ways]]) who believes Kumbaan holds the answer to what the Trees really are.
 
 ## Map-generation prompt (GPT Image — base art, label-free)
 
@@ -75,14 +75,14 @@ Cartography style, atmospheric, mysterious. NO TEXT, NO LABELS, no writing anywh
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
-- The Yumboes (4th custom ancestry — homeland here) · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
+- [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)
-- [[Roadmap]] (Epic 3; religion pass Story 1.4) · [[01 - World]]
+- [[Faiths of the Turning]] · [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **The Isle is the strongest keystone experiment — guard the reveal.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the cleanest natural test of whether the Mother is behind *any* of it. Per [[Is the Leaf-Mother Real|the keystone]], she is real and benevolent but her reach is **bounded** — it thins to nothing across the storm-wall. So *how* the Yumboes acquire their nature is a live, high-value question: it might be an *entirely different* mechanism (nothing to do with the Mother), or a sign her reach is subtler than the Trees. **Keep the mechanism open in the ancestry note** — don't resolve it early; it's a late reveal beat, not starting colour.
-- **Three old faiths, three edges, one buried truth.** The Isle's isolate faith joins [[Maiethorn]]'s heartland heresy and [[Heskoren]]'s old ways as the world's three keystone-adjacent religions — each grown far from (or before) the Motherfaith's account, each possibly preserving a fragment of what the Trees really are. The Isle's is the *purest* control: a cosmology with zero Motherfaith contamination. If a campaign triangulates the keystone, these three are the corners.
+- **Three old faiths, three edges, one buried truth.** [[The Open Table]] joins [[The Watching]] and [[The Old Ways]] as the world's three keystone-adjacent religions — each grown far from (or before) the Motherfaith's account, each possibly preserving a fragment of what the Trees really are. The Isle's is the *purest* control: a cosmology with zero Motherfaith contamination. If a campaign triangulates the keystone, these three are the corners. See [[Faiths of the Turning]].
 - **"Spirits of the dead" is folklore, not literal here.** The source myth calls Yumboes ghosts/ancestral spirits. We reinvent them as a *living* people (they're a playable Kind), but the ancestral flavour is deliberately kept as their *faith's* self-image — a people who venerate hill, moon, and lineage and speak of themselves in the old ancestral idiom. Don't make them literally undead (that's the [[Returned]]'s lane).
 - **The storm-wall is a dial, not a lock.** Keep whether it can be crossed — and how — a GM lever. A permanent absolute wall kills the expedition hook; a seasonal thinning, a known-but-deadly passage, or a Condition/Kind that can survive it (a [[Selkie]]? a [[Far-Voiced]]?) keeps the door usable when the story wants it.

@@ -11,7 +11,7 @@ speakers: liturgical/learned everywhere; conserved as daily speech in the Tree-r
 descends_from:          # none — this IS the root
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # The Old Tongue
@@ -44,7 +44,7 @@ The sacred lexicon the setting's names are built from. (Meanings are the *root* 
 | **ren** | ren | speech, tongue | As a suffix, "the speech of —" (Maieth-**ren** = Mother-speech). |
 | **thael** | thayl | the Tree; sacred motherwood | The [[Turning Tree]] itself. |
 | **maieth** | MY-eth | the Mother | The [[The Leaf-Mother]]. |
-| **vael** | vayl | gift | A [[The Premise|Condition Given]] — a blessing handed down. |
+| **vael** | vayl | gift; *older:* what the land yields | A [[The Premise|Condition Given]] — a blessing handed down. [[The Old Ways]] claim this is a *narrowing*: the frontier still uses *vael* for harvest, a child returned from water, a person the hill kept. |
 | **vaeth** | vayth | the waiting; the longing | The state of awaiting a gift (the [[Law and Citizenship|Kept]]; the pilgrim's longing). |
 | **hael** | hayl | whole, hale, sound | Untithed wholeness / health / being kept-whole. |
 | **thren** | thren | to count, to tally, to number | *Sacred* counting — stewardship, accounting-before-the-Mother. (Contrast **ledd**.) |
@@ -63,6 +63,15 @@ Each daughter is the Old Tongue *eroded* by distance from the Trees and the fait
 | **Worn** | **[[Polity Archetypes|Vaethorn]]** (the devout frontier) | *th* **revered but softening** in common speech (Vaethorn → "Wethorn"); endings simplify; vowels flatten. | Rough-warm folk-speech that still *reaches* for the old holy words. |
 | **Eroded** | **[[Polity Archetypes|Lestrand]]** (the secular coast) | *th* **→ t/d and often dropped**; long vowels clipped; word-ends worn off; trade-contact loans. | Smooth, clipped, mercantile. The most-drifted sound = the least-devout polity. |
 
+## The four faith-names (Story 1.4)
+
+Coined from the same roots, so a faith *sounds* like the land that keeps it. Full notes in [[Faiths of the Turning]].
+
+- **Haelthael** *(hayl-THALE)* — *hael* + *thael* = "the Tree kept whole." [[The Watching]]'s own name: the Tree before it was given a mother's name.
+- **Leddoren** *(led-OR-en)* — *ledd* + *oren* = "the witnessed account." [[The Fair Hand]]'s own name: the Tree as a signing-table.
+- **Vaeloren** *(vay-LOR-en)* — *vael* + *oren* in the *older* sense = "the land's witnessing." [[The Old Ways]]' liturgical name.
+- **Ndeyaan** *(ndey-AHN)* — not Maiethren; the [[Yumboe]] night-keeping. [[The Open Table]]'s own name. The one faith-name that owes the liturgy nothing.
+
 ## The three polities, named
 
 The [[Polity Archetypes]] get their in-world names here — each derived from its own daughter drift, so the name *sounds like* the polity's stance:
@@ -73,6 +82,7 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 
 ## Links
 - [[Polity Archetypes]] — the three polities named here · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
+- [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages) · [[03 - Cultures]]

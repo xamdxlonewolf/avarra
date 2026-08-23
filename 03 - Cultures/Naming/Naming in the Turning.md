@@ -8,7 +8,7 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-23
 ---
 
 # Naming in the Turning
@@ -70,6 +70,18 @@ The three life-outcomes of the [[Turning Tree|Leaf-Fall]] keep their plain commo
 
 > **Read across a single row and you have the whole setting.** The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied-as-free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained). One kind of person; three societies' worth of judgment. This row *is* the [[Polity Archetypes|"name reveals stance"]] lever in miniature.
 
+### Faiths (from [[Faiths of the Turning]])
+
+Same lever, now for religions. The common-tongue name is what a traveller says; the own-name is what the house says; the polity's *second* word is how the state files them.
+
+| Faith | Common tongue | Own name | **Vaethorn** | **Lestrand** | **Threnmaieth** |
+|---|---|---|---|---|---|
+| [[The Leaf-Mother]] | the Motherfaith | *Maieth* | *the Mother* (hot) | *the old rite* (worn light) | *the Reckoned Faith* |
+| [[The Watching]] | the Watching | *Haelthael* | *the First Watching* (cousin-dissent) | *(rarely met)* | **the Grown-Over** (a column on the roll) |
+| [[The Fair Hand]] | the Fair Hand | *Leddoren* | *the Bargainers* (suspect) | *the Settling* (ordinary) | *the Uncounted Book* (private books offend the crown) |
+| [[The Old Ways]] | the Old Ways | *Vaeloren* | *the Before-Faith* (live fight) | *(a frontier curiosity)* | *the Unreached* |
+| [[The Open Table]] | the Open Table | *Ndeyaan* | *(a sailor's tale)* | *the Moon-Feast* (quay-story) | *(not on the roll — off the map)* |
+
 ## How to coin more (for later notes)
 
 When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system honest:
@@ -81,7 +93,7 @@ When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
-- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[Conditions]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[Faiths of the Turning]] · [[Conditions]]
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]
 
 ## GM Notes

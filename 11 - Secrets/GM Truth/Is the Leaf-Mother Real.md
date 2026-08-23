@@ -10,7 +10,7 @@ category: truth
 foreshadowed_by: []
 revealed_in:
 created: 2026-08-19
-updated: 2026-08-20
+updated: 2026-08-23
 ---
 
 # Is the Leaf-Mother Real
@@ -40,7 +40,7 @@ Locking "she is real and kind" does **not** flatten the mystery. The world keeps
 - **What she wants**, beyond giving good gifts — undecided. She is kind; her larger purpose (if any) is unwritten.
 - **Where she is / whether she can be reached** — undecided. Revelation is deliberately quiet; there is no throne to visit.
 - **The *nature* of her limit** — **locked that it exists, open on what it is.** *That* her reach has an edge and giving costs her is now canon (see the constraint above); *why* — is she finite by nature, spent from some old wound, rationing a power that could run out, holding something back to hold something else up? — is deliberately unwritten, live design space for History (Epic 6) and the wider-pantheon pass. Lock the ache, not its cause.
-- **Whether she is the only such power** — **explicitly open.** Per the user (2026-08-19), the Leaf-Mother is *one faith among several*; other gods and religions get built in the religion-as-a-whole pass. Locking her as real does not make her exclusive. *(Note the open door: if her reach is bounded, another power could sit at or beyond that edge — a natural, unforced hook for the Struck and for other faiths, not committed here.)*
+- **Whether she is the only such power** — **explicitly open.** Per the user (2026-08-19), the Leaf-Mother is *one faith among several*; the other **faiths** are now built ([[Faiths of the Turning]]) — that pass deliberately did **not** lock any other *power* as real or false. Locking her as real does not make her exclusive. *(Note the open door: if her reach is bounded, another power could sit at or beyond that edge — a natural, unforced hook for the Struck, the Bound's counterparty, the Watching's older face, the Old Ways' land-doors. Still not committed.)*
 
 ## How It Surfaces (clues, in order)
 

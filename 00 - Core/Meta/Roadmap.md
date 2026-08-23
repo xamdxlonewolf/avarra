@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-08-17
+updated: 2026-08-23
 ---
 
 # Roadmap
@@ -59,7 +59,7 @@ updated: 2026-08-17
 ---
 
 ## Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)
-**Skill:** `belief-systems` (+ `oblique-worldbuilding` for in-world texts, `paradox-fables` for the schism folklore) · **Status:** 🟢 **core done (2026-08-19)** — Tree + faith notes written; deferred sub-items remain. · **Blast radius: High.**
+**Skill:** `belief-systems` (+ `oblique-worldbuilding` for in-world texts, `paradox-fables` for the schism folklore) · **Status:** 🟢 **core done (2026-08-19); Story 1.4 done (2026-08-23)** — Tree + Motherfaith + the other four faiths written; clergy orders still deferred to Epic 5. · **Blast radius: High.**
 
 > The Leaf-Fall is *already* locked as the engine ([[The Premise]]). This epic makes the Tree and its religion **concrete** — the thing every later system references. **Core notes:** [[Turning Tree]] (object + rite) and [[The Leaf-Mother]] (the faith).
 
@@ -82,10 +82,10 @@ updated: 2026-08-17
 - [x] Tree/Leaf-Mother notes declare `reveals: [leaf-mother-is-real]`
 - [x] Cross-linked from [[The Premise]], the [[07 - Religion]] & [[11 - Secrets]] MOCs (Conditions cross-link pending a later pass)
 
-> **Deferred out of Epic 1 (tracked):** full clergy orders + pilgrimage-seat politics → Epic 5 · colour→Condition palette → Epic 2/4 · sacred calendar/solstice reckoning → Epic 3 · faith economy → Epic 2 · **the wider pantheon / other religions** (Motherfaith is one faith among several — user directive 2026-08-19) → **new religion-as-a-whole pass** (see Story 1.4).
+> **Deferred out of Epic 1 (tracked):** full clergy orders + pilgrimage-seat politics → Epic 5 · colour→Condition palette → Epic 4 · Conditions cross-link (pending). Calendar ✅ Epic 3 · faith economy ✅ Epic 2 · wider pantheon ✅ Story 1.4.
 
-### Story 1.4 — Wider pantheon / other religions (🟡 NEW — deferred)
-- [ ] 🟡 The Leaf-Mother is *one faith among several* — design the other gods/religions and how they coexist, compete, or syncretize with the Motherfaith. Keeps the world alive & diverse. *(Per user, do this in the religion-as-a-whole pass, not now.)*
+### Story 1.4 — Wider pantheon / other religions ✅ **DONE (2026-08-23)** → [[Faiths of the Turning]]
+- [x] 🟡 The Leaf-Mother is *one faith among several* — four lived rival faiths built against the Epic 3 continental seeds, plus how they coexist / syncretize / fight. **Not** a D&D god-list; no second cosmology locked. → [[The Watching]] (*Haelthael*, Maiethorn) · [[The Fair Hand]] (*Leddoren*, Strandoren) · [[The Old Ways]] (*Vaeloren*, Heskoren) · [[The Open Table]] (*Ndeyaan*, Kumbaan) · shared paradox-fable [[The Child at Four Doors]]
 
 ---
 
@@ -133,12 +133,12 @@ updated: 2026-08-17
 
 > **Built as a reach-gradient.** The load-bearing call: the whole map is a **gradient of the [[Turning Tree|Trees']] reach** — sacred-dense origin → mercantile middle → thin frontier → storm-walled isle beyond. Physical map = cosmological map. → [[The World Frame]].
 
-- [x] 🟡 **Geography & regions (`01 - World`)** → [[The World Frame]] (top-level) + four continents: **[[Maiethorn]]** (Motherland, full reach, holds [[Polity Archetypes|Threnmaieth]]), **[[Strandoren]]** (Shore-lands, high reach, trade, holds [[Polity Archetypes|Lestrand]]), **[[Heskoren]]** (Sundered Reach, thin reach, frontier, holds [[Polity Archetypes|Vaethorn]]), **[[The Sundering Isle]]** (Kumbaan — storm-walled, near-no reach, Yumboe homeland). The three archetype polities placed on three *different* continents; **rival faiths woven into the large continents** (heartland heresy / fortune-and-contract cult / the old ways), not quarantined — seeds the [[Roadmap|Story 1.4]] religion pass.
+- [x] 🟡 **Geography & regions (`01 - World`)** → [[The World Frame]] (top-level) + four continents: **[[Maiethorn]]** (Motherland, full reach, holds [[Polity Archetypes|Threnmaieth]]), **[[Strandoren]]** (Shore-lands, high reach, trade, holds [[Polity Archetypes|Lestrand]]), **[[Heskoren]]** (Sundered Reach, thin reach, frontier, holds [[Polity Archetypes|Vaethorn]]), **[[The Sundering Isle]]** (Kumbaan — storm-walled, near-no reach, Yumboe homeland). The three archetype polities placed on three *different* continents; **rival faiths woven into the large continents** and now built ([[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] — [[Faiths of the Turning]]).
 - [x] 🟡 **Where Turning Trees grow** — the reach-gradient *is* this: densest/healthiest on Maiethorn, thinning outward, near-none across the storm-wall. Present-day thin reach = Tree-poor places (young/sick/few grafts), per the [[Roadmap|Epic 6 Grafting]] history. Keystone edge kept GM-side in every continent note.
 - [x] 🟡 **Astronomy/solstice — calendar locked** → [[The Reckoning of the Year]]: two solstices; the Leaf-Fall is **High Solstice / midsummer**, held **Turning-Week**; ~1400s-legible 12-month lunar-hinged calendar; [[The Sundering Isle|Kumbaan]] keeps the *moon, not the solstice* (a keystone tell).
 - [x] 🟡 **(Pulled forward from Epic 4) — 4th custom ancestry built to full depth** → [[Yumboe]] (the good people / Bakhna Rakhna): three Daggerheart features (Hollow-Hill · Moon-Waked · The Unseen Hands), folklore-checked (Wolof/Senegambian *Yumboe* myth), small/pearly/silver, LOCKED. Its own non-Maiethren tongue seeded. The Isle *needed* its people, so the ancestry came here rather than waiting for Epic 4.
 - **Map assets baked in (per user):** every geography note carries a **GPT Image prompt**; [[The World Frame]] additionally carries an **Azgaar heightmap template**, a **Maiethren name base**, and a bonus **Azgaar seed script**. (The Isle's own Wolof-flavoured name base is seeded in [[Yumboe]], to build alongside Epic 4.)
-- **🟡 Deferred (tracked):** per-region *deep* climate/ecology; the ~12 other great powers as named-stubs (→ [[Roadmap|Epic 7]]); month-names + the Isle's name base (→ Epic 4 naming); the rival faiths' full build (→ religion pass, [[Roadmap|Story 1.4]]).
+- **🟡 Deferred (tracked):** per-region *deep* climate/ecology; the ~12 other great powers as named-stubs (→ [[Roadmap|Epic 7]]); month-names + the Isle's name base (→ Epic 4 naming). Rival faiths ✅ Story 1.4.
 
 ---
 
@@ -196,12 +196,12 @@ updated: 2026-08-17
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
 - **Epic 0 — Foundations:** 6 / 6 tasks (100%) ✅ — setting named *The Turning* (2026-08-20)
-- **Epic 1 — Anchor:** 12 / 15 (80%) — core done; deferred: full clergy orders (→E5), wider pantheon Story 1.4 (→religion pass), Conditions cross-link
-- **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]]); 4th ancestry ([[Yumboe]]) pulled forward. Map assets (GPT Image prompts + Azgaar heightmap template + Maiethren name base + seed script) baked in. Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7), rival-faith full build (→religion pass).
+- **Epic 1 — Anchor:** 13 / 15 (87%) — core done + Story 1.4 (wider pantheon) done 2026-08-23 → [[Faiths of the Turning]]. Remaining: full clergy orders (→E5), Conditions cross-link
+- **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]]); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in. Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅** (Kitsune · Selkie · Tengu · Yumboe); peoples/customs 0/3
 - **Epics 5–10:** not yet decomposed (progressive elaboration)
-- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] (root liturgical tongue + three daughter drifts) + [[Naming in the Turning]] (institution dictionary, "name reveals stance"). Core audit complete → [[Epic 2 Audit Guide]]. **→ Epic 3 (World Frame) core now done; next: continue Epic 3 tail / Epic 4 peoples, or Epic 5.**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week)**.
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] (root liturgical tongue + three daughter drifts) + [[Naming in the Turning]] (institution dictionary, "name reveals stance"). Core audit complete → [[Epic 2 Audit Guide]]. **→ Epic 3 core done; Story 1.4 done. Next: Epic 4 peoples/naming, or Epic 5 factions.**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🟡; "one among several" 🔒).
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
