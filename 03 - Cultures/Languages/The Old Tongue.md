@@ -77,10 +77,16 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Vaeloren** *(vay-LOR-en)* — *vael* + *oren* in the *older* sense = "the land's witnessing." [[The Old Ways]]' liturgical name.
 - **Ndeyaan** *(ndey-AHN)* — not Maiethren; the [[Yumboe]] night-keeping. [[The Open Table]]'s own name. The one faith-name that owes the liturgy nothing.
 
-**Clergy coinages (Story 5.1 — 🟡 Proposed):**
+**Clergy coinages (Story 5.1–5.2 — 🟡 Proposed):**
 
 - **Orenhael** *(or-EN-hayl)* — *oren* + *hael* = "the witnessing-whole." Liturgical name of [[The Tree-Wardens]]: they *speak the fall truly* and *keep the Tree hale.*
 - **Thaelvaeth** *(THALE-vayth)* — *thael* + *vaeth* = "the Tree gone to the waiting." Liturgical name of the Road-hands.
+- **Nethoren** *(neth-OR-en)* — *neth* + *oren* = "the night-witnesses." Liturgical name of [[The Watchers]]. Not *Haeloren* (too close to Orenhael).
+- **Leddhael** *(LED-hayl)* — *ledd* + *hael* = "the accounted-whole." Liturgical name of [[The Book-Hands]]. Not *Orenledd* (collides with *Orledd*, the Counterparty).
+- **Vaelbren** *(VAYL-bren)* — *vael* (older: land's yield) + *bren* = "the yield-hearth." Liturgical name of [[The Door-Keepers]]. Not *Vaelorn* (the Taking).
+- **Njaalo** *(NJAH-lo)* — not Maiethren; a [[Yumboe]] coinage, "the hall that is kept." Own-name of [[The Table-Keepers]].
+- Isle flavor (not Maiethren): **Njawaal** *(njah-WAHL)* — [[The Shore-Sitters]].
+- **Vaethledd** *(VAYTH-led)* — *vaeth* + *ledd* = "the waiting reckoned." Cant-name of [[The Slide]]. Not *Orledd*. Not *Nethledd* (retired with the Back Table). Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*.
 
 ## The three polities, named
 
@@ -94,6 +100,7 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Polity Archetypes]] — the three polities named here · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[The Tree-Wardens]] — Orenhael · Thaelvaeth (🟡)
+- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] — Nethoren · Leddhael · Vaelbren · Njaalo · Njawaal · Vaethledd (🟡)
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds

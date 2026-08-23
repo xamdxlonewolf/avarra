@@ -48,7 +48,7 @@ The Isle is the homeland of the **Yumboes** ("Bakhna Rakhna," *the good people*)
 
 ## Faith
 
-**[[The Open Table]]** (*Ndeyaan*) — the Yumboes' own cosmology, **grown in isolation** and owing nothing to the [[The Leaf-Mother|Motherfaith]]. Their old accounts frame the good people as bound up with **the ancestors and the dead** (folklore-true: the Yumboes are called "the spirits of the dead"), reinvented here as a living faith of hill, moon, hospitality, and the staying-kin — not literal ghosts. Full build: [[The Open Table]] · the people: [[Yumboe]] · map: [[Faiths of the Turning]].
+**[[The Open Table]]** (*Ndeyaan*) — the Yumboes' own cosmology, **grown in isolation** and owing nothing to the [[The Leaf-Mother|Motherfaith]]. Their old accounts frame the good people as bound up with **the ancestors and the dead** (folklore-true: the Yumboes are called "the spirits of the dead"), reinvented here as a living faith of hill, moon, hospitality, and the staying-kin — not literal ghosts. Full build: [[The Open Table]] · the people: [[Yumboe]] · the hall: [[The Table-Keepers]] · the sand: [[The Shore-Sitters]] · map: [[Faiths of the Turning]].
 
 ## Story hooks
 
@@ -75,7 +75,7 @@ Cartography style, atmospheric, mysterious. NO TEXT, NO LABELS, no writing anywh
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
-- [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
+- [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (twelve moons, not solstices)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)
 - [[Faiths of the Turning]] · [[Roadmap]] (Epic 3) · [[01 - World]]

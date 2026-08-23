@@ -1,0 +1,25 @@
+---
+title: Rogue House Options
+type: reference
+visibility: gm
+note_status: draft
+status: superseded
+tags: [faction, rogue, options, epic-5, taste-call]
+aliases: [Mainland Rogue Options, Shadow House Options]
+world: The Turning
+reveals: []
+created: 2026-08-23
+updated: 2026-08-23
+---
+
+# Rogue House Options
+
+> **Picked (taste call 2026-08-23): [[The Slide]].** Lived note is there. Do not rebuild this menu.
+
+The Back Table is **out** (night-clone of [[The Book-Hands]]). The Bought Watch (false Turning-witness) and the Quiet Cut (stolen scions) were offered and **not taken**. Do not flesh them. Do not fold them into the Slide.
+
+Cants left unused: *Orenvaeth* · *Thaelneth*. The Slide's cant is *Vaethledd* 🟡.
+
+## Links
+- [[The Slide]] — the picked house
+- [[Economy and the Tithe]] · [[Roadmap]] · [[05 - Factions]] · [[Build Plan]]

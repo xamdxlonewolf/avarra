@@ -33,7 +33,7 @@ updated: 2026-08-23
 - **Nothing is given.** The Leaf-Fall is a *striking of terms*. The colour is the grant; the Tithe is the price; the town's need is the other side of the deal. "Tend what you're given" is how a creditor teaches you to be grateful for the interest.
 - **The Bound prove the model.** A Bound *chose*, named a grant, named Terms, named a Pledge. The Fair Hand says this is not a special horror — it is the same grammar as every becoming, written large enough to read. The Motherfaith's fear of the Bound is, to them, embarrassment: the Bound make the ledger visible.
 - **The Kept declined, or were not offered.** No bargain taken; nothing owed; nothing owed *to* them. This is a cooler dignity than spared-or-slighted. On Lestrand it rhymes with calling the Kept *the free* ([[Naming in the Turning]]). The Fair Hand did not invent that slight; they gave it a theology.
-- **The Struck signed later, in a storm.** Extremity is when people accept bad terms. A drowning, an oath, a death — of course the book opens then. The Struck are not suspects; they are people who bargained without a clerk. The faith's kindness is to *rewrite the terms fairly* after the fact (vouching-as-novation). Its cruelty is the same motion: a Struck who cannot settle fades, and the quay steps around them.
+- **The Struck signed later, in a storm.** Extremity is when people accept bad terms. A drowning, an oath, a death — of course the book opens then. The Struck are not suspects; they are people who bargained without a clerk. The faith's kindness is to *settle the year fairly* after the fact (a hall, a warrant — vouching-as-novation). A [[Bound]]'s *Terms* are the exception: those belong to the Counterparty, not to a clerk. Its cruelty is the same motion: a Struck who cannot settle fades, and the quay steps around them.
 - **Grace is a closed book.** Not forgiveness, not a mother's lap. You paid. You are even. Walk.
 
 ## Practice
@@ -46,10 +46,12 @@ updated: 2026-08-23
 - **Quay-blessings.** Short, worn, eroded-tongue: *fair wind, fair term.* Said over a hull, a contract, a marriage. The sacred and the commercial use the same sentence, which is the point.
 - **The personal book.** Colour, Tithe, debts, what the year owes you. Private. Not the [[Naming in the Turning|Threnhael]]. A Settler will die to keep a crown-clerk out of it — the Fair Hand's one shared fury with every other faith on that subject.
 
-## Clergy (sketch — orders deferred to Epic 5)
+## Clergy & institutions
 
-- **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, rewrite a Struck's terms after the fact, and teach children how to keep a book. On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
-- **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a mother-church. A "high house" in a rich port is just the oldest book-room.
+Full faction: [[The Book-Hands]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
+
+- **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, teach children how to keep a book, and settle a Struck's *civic* year (a hall, a warrant). They recite a [[Bound]]'s Terms on oath-day; they do **not** rewrite those Terms (the Counterparty's clause, not a clerk's). On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
+- **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a mother-church. A "high house" in a rich port is just the oldest book-room. No membership roll — a roll would be a Threnhael.
 
 ## The live schism (the faith arguing with itself)
 
@@ -70,6 +72,7 @@ On its face: a Bound's pride, a little cold. Underneath: the Fair Hand's whole c
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — gift-doctrine's rival
 - [[Strandoren]] · [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]]
 - [[Polity Archetypes|Lestrand]] · [[The Child at Four Doors]]
+- [[The Book-Hands]] — the working house (Story 5.2)
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
