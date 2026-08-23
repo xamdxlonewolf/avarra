@@ -18,10 +18,10 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 ## Contents
 
 ### Religious orders (Epic 5)
-- [[The Tree-Wardens]] — Story 5.1: the Motherfaith's one order (everyday *tree-wardens*; liturgical *Orenhael* 🟡). Town hearths, Speakers, Road-hands, the First Seat.
+- [[The Tree-Wardens]] — Story 5.1 ✅: the Motherfaith's one order (everyday *tree-wardens*; liturgical *Orenhael* 🟡). Town hearths, Speakers, Road-hands, the First Seat.
 
 ### Still to build
-- Story 5.2 — the other four houses' orders (Watchers, Book-hands, door-keepers, table-keepers)
+- **⭐ Story 5.2** — the other four houses' orders (Watchers, Book-hands, door-keepers, table-keepers)
 - Story 5.3 — Tithe-infrastructure and the safety-guilds
 
 ## Related
