@@ -17,7 +17,7 @@ updated: 2026-08-23
 
 > **The fortune-and-contract faith of [[Strandoren]].** A mercantile theology that reads Conditions not as gifts given but as **bargains struck**. The world is a ledger of deals; the Tithe is a *term*, not a devotion; when the book is closed you are *even*, and owe no gratitude forever. Direct doctrinal rival to the [[The Leaf-Mother|Motherfaith]]'s gift-language, at home on the trade continent and especially among the [[Bound]]. Built with `belief-systems` for [[Roadmap|Story 1.4]]; seeded on [[Strandoren]] and [[The World Frame]].
 
-> **Canon status.** 🟡 Proposed. The *placement* (mercantile rival to gift-doctrine; not villain-theology) is 🔒 locked in the geography notes.
+> **Canon status.** 🔒 **Name locked** (*Leddoren* / the Fair Hand) 2026-08-23. Texture 🟡. The *placement* (mercantile rival to gift-doctrine; not villain-theology) is 🔒 locked in the geography notes.
 
 *(Everyday: **the Fair Hand.** Their own name: **Leddoren** — led-OR-en — *ledd* + *oren*, "the witnessed account." Lestrand slang: **the Settling.** The Motherfaith's name for them: **the Bargainers.** A Bound who has paid their year's Terms will say they have **a closed book**.)*
 
@@ -70,12 +70,12 @@ On its face: a Bound's pride, a little cold. Underneath: the Fair Hand's whole c
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — gift-doctrine's rival
 - [[Strandoren]] · [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]]
 - [[Polity Archetypes|Lestrand]] · [[The Child at Four Doors]]
-- [[Is the Leaf-Mother Real]] · [[07 - Religion]]
+- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **Wrong about the verb, right about the ache.** Per the keystone, Conditions are real *gifts*; no bargain was struck at the Leaf-Fall. The Fair Hand misreads a cost as a price. They have correctly felt that giving is not free (her constraint). Do not play them as devil-worship or capitalism-cosplay. They are as sincere as the Motherfaith.
-- **Do not collapse the Bound's counterparty into this faith.** [[Bound]] already lets a table choose demon, cosmic-horror, or unknown. The Fair Hand *claims* all Conditions work like Bound. That claim is theology, not a retcon of the Condition card. The open door in [[Is the Leaf-Mother Real]] ("another power could sit at her edge") stays open — the Counterparty branch is the in-world shape of that door, not a decision to walk through it.
+- **The Counterparty is real for Bound — not for every becoming.** Per [[The Other Hands]], *Orledd* answers sworn asks; the face a Bound names (demon / vast / unknown) is a mask. The Fair Hand is *right* about that door and *wrong* that Leaf-Fall is a signing. Do not let this faith retcon Mother's Gifts into bargains. Do not play Orledd as a devil.
 - **Lestrand's injustice wearing vestments.** Calling the Kept "the free" and the fading "a book that would not close" is the market-fade from [[Polity Archetypes]], sacralized. R2: the reveal does not make this kind. A Tithe-poor Settler who cannot close the book is still a person the rich city steps around.
 - **The personal book vs. the Threnhael.** Same impulse (write the becoming down), opposite ethics (mine / the crown's). A campaign that steals, forges, or subpoenas a Settler's book is stealing a soul in *their* language — useful, and easy to play as mere paperwork if you aren't careful.

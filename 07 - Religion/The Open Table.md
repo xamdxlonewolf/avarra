@@ -17,7 +17,7 @@ updated: 2026-08-23
 
 > **The isolate faith of [[The Sundering Isle|Kumbaan]].** Grown with no [[Turning Tree|Tree]] and no Mother-name. The [[Yumboe|good people]] keep the night, set a place for hands that have no bodies, and hold that a stranger at the table is the holiest thing in the world — not a colour, not a graft, not a bargain. Built with `belief-systems` for [[Roadmap|Story 1.4]]; seeded on [[The Sundering Isle]] and in [[Yumboe]].
 
-> **Canon status.** 🟡 Proposed (including the name *Ndeyaan*). 🔒 bones: isolate cosmology; ancestral flavour reinvented as living faith, not literal ghosts; owes nothing to the Leaf-Mother.
+> **Canon status.** 🔒 **Name locked** (*Ndeyaan* / the Open Table) 2026-08-23. Texture 🟡. 🔒 bones: isolate cosmology; ancestral flavour reinvented as living faith, not literal ghosts; owes nothing to the Leaf-Mother or her household.
 
 *(Mainland everyday: **the Open Table**, or sailors' **the Moon-Feast.** Their own name: **Ndeyaan** — ndey-AHN — the night-keeping. In full courtesy, **Bakhna Ndeya** — "the good night." The opening of every meal that matters is already their creed: *"No one is a stranger twice."*)*
 
@@ -67,12 +67,12 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 - [[Faiths of the Turning]] — the map · [[Yumboe]] — the people who keep this
 - [[The Sundering Isle]] (Kumbaan) · [[The Child at Four Doors]]
 - [[The Leaf-Mother]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon, not the solstice)
-- [[Is the Leaf-Mother Real]] · [[07 - Religion]]
+- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
-- **The cleanest control.** A cosmology with zero Motherfaith contamination. If a campaign triangulates the keystone, this is the third corner with [[The Watching]] and [[The Old Ways]]. Reserve the *meaning* of a Treeless becoming — do not resolve how Yumboes acquire nature ([[Yumboe]] open question; [[The Sundering Isle]] GM Notes). Their doctrine (*we were never lacking*) is a late warmth-or-ache beat, not starting colour.
+- **The cleanest control.** A cosmology with zero Motherfaith contamination — and, per [[The Other Hands]], **not of her household**. Do not fold the staying-kin into Threnvaeth or anyone else. Yumboes: no Gifts on the isle; Struck possible but rare (see [[Yumboe]]). Their doctrine (*we were never lacking*) is still a late beat.
 - **Not ghosts.** The source myth calls Yumboes ancestral spirits. We reinvented them as a playable Kind. Ndeyaan keeps the ancestral *idiom* and parks it in the hands, not in the people. The Returned already own literal undeath. If a table leans Staying, play it as family-who-serve, not as haunt.
 - **Hospitality is the ~5% dial at its gentlest.** A Yumboe host is wonder, not threat. The uncanny is the hands and the distance. Do not turn the Open Table into a trap-cult or a "eat and you belong forever" fairy-bargain — that is the Fair Hand's grammar leaking in. "No one is a stranger twice" is courtesy with legal weight, not a geas.
 - **The calendar tell.** Kumbaan keeps the moon, not the High Solstice ([[The Reckoning of the Year]]). That is already a keystone tell (a people outside her ordinary hand keep a different sky). Ndeyaan is the faith-face of that fact. Don't over-explain it; let a mainland priest notice that their holiest week is, here, just weather.

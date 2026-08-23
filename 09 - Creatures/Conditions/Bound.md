@@ -53,6 +53,8 @@ The world's name for a Bound who keeps signing — power after power, pledge aft
 
 Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts the player can reject at a Stress cost. Never puppet the PC. The Pledge is the long fuse: term-limited Bound PCs are walking toward [[The Unbound]], which should be a known, dreaded horizon, not a surprise.
 
+**Whose hand.** Per [[The Other Hands]], the Counterparty is **Orledd** — the household Hand who answers a sworn ask. The face chosen at creation (demon / cosmic-horror / unknown) is a *mask*; the terms are the same shape. Do not play Orledd as a devil, and do not let this retcon Given Conditions into bargains.
+
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Fair Hand]] (the faith that reads every becoming as a contract)
 - Chains into: [[The Unbound]] (what an expired contract leaves behind — colloquially, the Hollow)

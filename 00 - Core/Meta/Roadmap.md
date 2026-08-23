@@ -54,6 +54,7 @@ updated: 2026-08-23
 - [x] 🔒 Full 10-Condition roster (monsters, standing, path, %)
 - [x] 🔒 All 10 Condition **mechanics** designed (Transformation cards in `09 - Creatures/Conditions/`)
 - [x] 🔒 **Keystone GM secret locked (2026-08-19):** *the Leaf-Mother is real and benevolent* — the Trees genuinely are her hands, the gifts are real, skeptics are sincere and wrong. One-line answer decided, not fleshed. → [[Is the Leaf-Mother Real]] (`reveal_tag: leaf-mother-is-real`), seeds [[#Epic 9 — Secrets & Canon]]
+- [x] 🟡 **Household elaboration (2026-08-23):** she is first of a pantheon; she Gives only; Other Hands Strike at restricted doors under her allowance. Yumboes: no Gifts, rare Struck. → [[The Other Hands]] (`reveal_tag: the-other-hands`). Names of the lesser Hands 🟡; structure 🔒. Player-facing unconfirmed.
 - [x] 🔒 **Setting named (2026-08-20): _The Turning_** — named for its defining act (the tenth-year Turning at the [[Turning Tree]]); plainest register, sits flush with "Turning Tree" / "Turning-week." (Variant "The Turning Lands" available for regional phrasing.)
 
 ---
@@ -195,13 +196,13 @@ updated: 2026-08-23
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic 0 — Foundations:** 6 / 6 tasks (100%) ✅ — setting named *The Turning* (2026-08-20)
+- **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 13 / 15 (87%) — core done + Story 1.4 (wider pantheon) done 2026-08-23 → [[Faiths of the Turning]]. Remaining: full clergy orders (→E5), Conditions cross-link
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]]); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in. Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅** (Kitsune · Selkie · Tengu · Yumboe); peoples/customs 0/3
 - **Epics 5–10:** not yet decomposed (progressive elaboration)
 - **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] (root liturgical tongue + three daughter drifts) + [[Naming in the Turning]] (institution dictionary, "name reveals stance"). Core audit complete → [[Epic 2 Audit Guide]]. **→ Epic 3 core done; Story 1.4 done. Next: Epic 4 peoples/naming, or Epic 5 factions.**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🟡; "one among several" 🔒).
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡).
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub

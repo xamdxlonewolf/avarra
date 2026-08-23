@@ -67,8 +67,8 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 
 ## What this pass does not lock
 
-- **No second cosmology.** The Leaf-Mother remains a *belief* in player-facing text. The other faiths are also beliefs. This pass does **not** decide that any other power is real, false, her older face, or the thing at the Bound's elbow. Those doors stay open — see GM Notes and [[Is the Leaf-Mother Real]].
-- **No full pantheon of named gods.** Household figures and Kind-saints can accrue later. The load-bearing map is the five faiths.
+- **No confirmed pantheon in player-facing text.** The Leaf-Mother remains a *belief* in public notes. The other faiths stay beliefs. The GM-layer household (she Gives; Other Hands Strike) lives in [[The Other Hands]] and is **not** to be dumped into these pages.
+- **Faith names are 🔒 locked (2026-08-23):** *Haelthael*, *Leddoren*, *Vaeloren*, *Ndeyaan* — user taste call. Texture around them stays polishable.
 - **No clergy politics.** Tree-wardens, Watchers, Book-hands, door-keepers, table-keepers are sketched on each faith note. Orders, seats, and money wait for [[Roadmap|Epic 5]].
 - **The nature of her limit.** The Watching *claims* to remember a cost. That claim is fuel for [[Roadmap|Epic 6]], not an answer.
 
@@ -76,17 +76,17 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - The five: [[The Leaf-Mother]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - The shared story: [[The Child at Four Doors]]
 - Placed on: [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Turning Tree]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]]
+- [[Turning Tree]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM)
 - [[Roadmap]] (Story 1.4) · [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
-- **The Mother is still the only locked power.** Per [[Is the Leaf-Mother Real]], she is real, benevolent, bounded, and costly. Locking that **does not** make her exclusive — and this pass deliberately does not fill the vacancy. If a campaign wants a counterparty at her edge (the Bound's unknown, the Watching's older face, the Old Ways' land-doors, the Isle's staying-kin), that is live design space, not a second keystone. Do not confirm it in a player-facing note.
-- **Each rival holds a true kernel and misses the hand.**
-  - The Watching correctly remembers a *Before* and a *cost* (her limit is real). They miss that the seeing *is* a mother's.
-  - The Fair Hand correctly feels that giving is not free (the Tithe; the constraint). They misread a cost as a price, and love as a term.
-  - The Old Ways correctly notice that people become things at thresholds with no healthy Tree (her edge; the Struck). They miss that she still *catches* there.
-  - The Open Table is the cleanest experiment: a people who never Turned. Keep their mechanism open ([[Yumboe]], [[The Sundering Isle]]). Their faith's claim — *we were never lacking* — is a late, high-value beat, not early colour.
+- **The household is now filled — still GM-only.** Per [[Is the Leaf-Mother Real]] she is real, benevolent, bounded, and costly. Per [[The Other Hands]] she is **first of a household**: she Gives; lesser Hands Strike at restricted doors under her allowance. Do not confirm this in a player-facing note. The Open Table's staying-kin are **not** of that household — do not absorb Kumbaan.
+- **Each rival holds a true kernel and misses the whole.**
+  - The Watching correctly remembers a *Before* and a *cost*, and a household before it was named Mother. They miss that the seeing *is* hers.
+  - The Fair Hand is right about Bound (there *is* a Counterparty) and wrong that every becoming is a bargain. Mother's Gifts are still gifts.
+  - The Old Ways are right that land-doors are real. They miss that she authorized the guests.
+  - The Open Table is the cleanest experiment: no Gifts, rare Struck, a faith that was never hers ([[Yumboe]], [[The Sundering Isle]], [[The Other Hands]]). Their claim — *we were never lacking* — is still a late beat.
 - **R2 still holds across faiths.** Confirming she is kind does not dissolve Threnmaieth's counting of heretics, Lestrand's priced fading, or Vaethorn's guilt-theology. Rival faiths can be *used* as leverage; they are not automatically the moral good because they dissent.
 - **Triangulation.** If a campaign ever works toward the keystone, the three old corners are the Watching, the Old Ways, and the Open Table — pre-Mother, pre-graft, and never-grafted. The Fair Hand is the *modern* misreading (commerce wearing a theology). Use all four; don't let one become the reveal-mouthpiece.

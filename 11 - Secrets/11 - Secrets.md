@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-19
+updated: 2026-08-23
 ---
 
 # 11 - Secrets
@@ -18,6 +18,7 @@ updated: 2026-08-19
 
 ### GM Truth
 - [[Is the Leaf-Mother Real]] — 🔒 **keystone secret** (`reveal_tag: leaf-mother-is-real`): she **is** real and benevolent; the Trees genuinely are her hands; the gifts are real. Skeptics are sincere and wrong. Exposed-by: [[Turning Tree]], [[The Leaf-Mother]].
+- [[The Other Hands]] — 🟡 **household elaboration** (`reveal_tag: the-other-hands`): she is first of a real pantheon; she **Gives** only; lesser gods Strike at restricted doors under her allowance. Kumbaan: no Gifts, rare Struck. Do not confirm in player-facing notes.
 
 ## Related
-- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Roadmap]]
+- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Faiths of the Turning]] · [[Roadmap]]

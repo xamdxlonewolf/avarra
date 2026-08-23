@@ -86,7 +86,7 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
 ## GM Notes
 
 - **Player-facing, keystone-adjacent.** Carries `reveals: [leaf-mother-is-real]` because its doctrine, taken as true, *is* the keystone. Present it as **belief** — reverent where it's reverent, and letting the skeptics have their full dignity. Never let a player-facing beat confirm the Mother; the confirmation is the GM's to place, and per [[Is the Leaf-Mother Real]] it should land as *warmth*, not horror.
-- **The schism is the reusable engine.** The three questions above are the faith's inexhaustible fuel for NPCs, factions, and family drama (a Kept sibling, a Struck spouse, a skeptic parent). Reach for them whenever a scene needs belief-shaped conflict.
+- **The schism is the reusable engine.** The three questions above are the faith's inexhaustible fuel for NPCs, factions, and family drama (a Kept sibling, a Struck spouse, a skeptic parent). Reach for them whenever a scene needs belief-shaped conflict. Per [[The Other Hands]], Narrow-Hand is right that she does not Strike, and Wide-Hand is right that the catch is still hers (her household, her allowance). Do not let a player-facing scene award the win to either branch.
 - **Deferred, on purpose:** the clergy's full orders/politics and the pilgrimage-seat's structure (Epic 5). The sacred calendar is now locked ([[The Reckoning of the Year]]); the faith's economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
 
 ## Links

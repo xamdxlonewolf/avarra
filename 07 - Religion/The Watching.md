@@ -17,7 +17,7 @@ updated: 2026-08-23
 
 > **The heartland heresy of [[Maiethorn]].** An older Tree-faith the [[The Leaf-Mother|Motherfaith]] grew over — not a frontier dissent, a *centre* one. They keep the Tree and refuse the Mother-name. They say the colours fall because the Tree *sees*, not because a she *chooses*. Built with `belief-systems` for [[Roadmap|Story 1.4]]; seeded on [[Maiethorn]] and [[The World Frame]].
 
-> **Canon status.** 🟡 Proposed. The *placement* (old faith at the sacred centre; keystone-adjacent memory) is 🔒 locked in the geography notes.
+> **Canon status.** 🔒 **Name locked** (*Haelthael* / the Watching) 2026-08-23. Texture 🟡. The *placement* (old faith at the sacred centre; keystone-adjacent memory) is 🔒 locked in the geography notes.
 
 *(Everyday: **the Watching.** Their own name: **Haelthael** — hayl-THALE — *hael* + *thael*, "the Tree kept whole." They mean the Tree before anyone split it into a Mother and her hands. The Motherfaith's soft name is **the First Watching**; [[Polity Archetypes|Threnmaieth]]'s file-name is **the Grown-Over**.)*
 
@@ -70,12 +70,12 @@ On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predate
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the faith that grew over this one
 - [[Maiethorn]] · [[Turning Tree]] (Thaeloren) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over as a file-name)
-- [[Is the Leaf-Mother Real]] · [[07 - Religion]]
+- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
-- **The keystone keeper at the centre.** Placed on Maiethorn so old memory sits next to the Awakening Tree, not out on the frontier. They are the natural in-world source that could corroborate the keystone from an unexpected direction — not the skeptics, not the devout: the *heretics*. They have hold of the Before and the cost (her boundedness). They miss that the seeing *is* hers.
+- **The keystone keeper at the centre.** Placed on Maiethorn so old memory sits next to the Awakening Tree, not out on the frontier. They are the natural in-world source that could corroborate the keystone from an unexpected direction — not the skeptics, not the devout: the *heretics*. They have hold of the Before, the cost, and (per [[The Other Hands]]) a household that was not yet named Mother. They miss that the seeing *is* hers.
 - **Do not confirm their metaphysics.** "What she is" stays open ([[Is the Leaf-Mother Real]]). The Masked reading (she is a later face) and the Bare Tree reading (there was never a she) are both playable. Neither is the locked answer. The lintel is a clue, not a verdict.
 - **The cost they remember is Epic 6 fuel.** That giving costs her is locked. *What* was spent is the open nature of the limit. Let Watchers argue; do not let a note decide.
 - **Threnmaieth's tell.** Filing them as the Grown-Over is the census doing theology. A Long-Lived crown-archivist who still has the un-recut lintel-copy is the positional character this faith wants ([[positional-revelation]] later, Epic 8).

@@ -48,6 +48,8 @@ The Tither is emotional as much as mechanical: a Returned is only steady while t
 
 **Refuse to Fall is "hard to keep down," not immortality.** It costs a scar (a Hope slot) every time, exactly like any other character's brush with death — so it is *finite*, and the table can watch the count fall. Being "unstrung" also still costs the scene: they're out of the current fight and only reassemble by the next long rest. When the last Hope slot would go, they can't come back — that's the true death, and death-move tension is fully intact for a Returned nearing the end of their scars. Use a lapsed Purpose as story pressure, not a punishment — a Returned drifting toward settling is a character in quiet crisis.
 
+**Whose hand.** Per [[The Other Hands]], a Returned is Struck by **the Quiet Tally** (*Threnvaeth*) — the household clerk of leftover purpose — under the Leaf-Mother's allowance. She does not Give this at the Tree; she authorizes the catch. Do not put that in player-facing text. The unfinished business is still *theirs*; Threnvaeth does not puppet the Purpose.
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]]
+- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Other Hands]] (GM)
 - Contrast: [[Bound]] (the other Struck-only Condition) · [[Long-Lived]] (deathless-but-Given, vs. died-and-Struck)

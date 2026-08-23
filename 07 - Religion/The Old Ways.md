@@ -17,7 +17,7 @@ updated: 2026-08-23
 
 > **The ancestor-and-land faith of [[Heskoren]].** It predates the grafts. It says the Mother's reach is new here, and the land was already making children of its own — the [[The Premise|Struck]], the [[The Taken-In|Taken-In]] — at rivers, drowning-pools, oath-stones, and groves. The Trees are *guests*, not the source. Built with `belief-systems` for [[Roadmap|Story 1.4]]; seeded on [[Heskoren]] and [[The World Frame]].
 
-> **Canon status.** 🟡 Proposed. The *placement* (pre-graft frontier faith; reveres Struck and Taken-In; real grievance) is 🔒 locked in the geography notes.
+> **Canon status.** 🔒 **Name locked** (*Vaeloren* / the Old Ways) 2026-08-23. Texture 🟡. The *placement* (pre-graft frontier faith; reveres Struck and Taken-In; real grievance) is 🔒 locked in the geography notes.
 
 *(Everyday — and their own common name: **the Old Ways.** Liturgical: **Vaeloren** — vay-LOR-en — *vael* + *oren*. They use **vael** in an older sense: not "a Condition Given" but **what the land yields**. The Motherfaith, they say, *narrowed* the word to a leaf-colour. Vaethorn-pious speech calls them **the Before-Faith**; the Taken-In among them say **the Green Kin**.)*
 
@@ -67,12 +67,12 @@ On its face: frontier courtesy, a little barbed. Underneath: the Old Ways' whole
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the latecomer
 - [[Heskoren]] · [[The Taken-In]] · [[The Premise]] (the Struck) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (the older sense of *vael*)
-- [[Is the Leaf-Mother Real]] · [[07 - Religion]]
+- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
-- **Half-right at the edge.** Per the keystone she *does* catch at thresholds, at the farthest, chanciest reach of her arm. The Old Ways have built a whole religion on the part she can barely do — and so they look, from the core, like people who never needed her. They needed her less often. That is not the same. Keep their grievance real (the grafts *are* late; the Motherfaith *did* talk as if becoming were new). Keep their miss intact (the water was not first in the way they mean).
+- **Half-right at the edge.** Per [[The Other Hands]] the land-doors are real (Vaelorn, Ornhael, Eloren) and she does not walk them herself — she authorizes them. The Old Ways have built a whole religion on the part she does not do in person. Keep their grievance real (the grafts *are* late; the Motherfaith *did* talk as if becoming were new). Keep their miss intact: the guests came with her leave.
 - **Frontier mirror of the Watching.** Two old faiths, opposite edges of the world, both remembering something the Motherfaith smooths over. The Watching remembers a Before *at the Tree*. The Old Ways remember a Before *without* one. If a campaign triangulates the keystone, these two plus [[The Open Table]] are the corners. Do not let them agree too easily — they would not.
 - **Vaethorn's guilt-theology is the enemy, not the warden.** The injustice on this continent is scarcity read as unworthiness. The Old Ways refuse that reading (a closed door is weather). A Guest-reading Kin-speaker and a Tender-reading warden can share a dying grove in good faith. A Narrow-Hand preacher calling the Struck "not hers" is who the Old Ways will not eat with.
 - **The older *vael* is a scholar-tell.** Let someone notice that the frontier still uses the word for a harvest and a returned child. The Motherfaith narrowed it. That is memetic depth, not a pronunciamento.
