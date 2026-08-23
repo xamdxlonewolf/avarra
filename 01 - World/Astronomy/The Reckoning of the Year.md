@@ -10,7 +10,7 @@ aliases: [The Calendar, The Turning Year, Turning-Week, The Solstice Reckoning, 
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-22
+updated: 2026-08-23
 ---
 
 # The Reckoning of the Year
@@ -38,13 +38,41 @@ The year hinges on **two solstices** — the world's fixed astronomical anchors:
 
 The Leaf-Fall is not a single day but **Turning-Week** — the week bracketing the High Solstice, when the [[Turning Tree|Trees]] hold their colour and the choosing is done. Every child who has turned ten since the last High Solstice Turns this week; the town gathers, the tree-wardens officiate, and it is at once the holiest rite and the biggest fair of the year (part christening, part graduation, part festival — see [[Turning Tree]]). A person's Turning-year becomes a lifelong marker of age and cohort: *"we Turned the same summer."*
 
-### Months & weeks (working frame)
+### Months & weeks
 
 A plainly-countable, ~1400s-legible calendar:
 
 - **Twelve months** tied to the moon's cycle, in **four seasons of three months** each, hinged on the two solstices (and the two equinoxes between them as lesser markers).
 - **Weeks** as the working unit of the burgher world — guild-weeks, market-days, the mechanical clock-towers of the trade cities striking the hours. (No printing press means calendars are clergy- and clerk-kept, not mass-printed — one more reason the [[Turning Tree|tree-wardens]] and the [[Polity Archetypes|Tallied Crown's]] clerks hold quiet power: they *keep the dates.*)
-- Exact month-names are deferred to the wider [[The Old Tongue|naming]]/Epic 4 work — they'd be Maiethren-rooted in the [[The World Frame|core world]] and drift with the daughter tongues (a small future hook: *what does [[The Sundering Isle|Kumbaan]] call its moonlit months?*).
+
+#### The twelve months (🟡 Proposed)
+
+Liturgical names are [[The Old Tongue|Maiethren]]; the common-tongue / [[Polity Archetypes|Lestrand]] worn form sits beside them (same lever as [[Naming in the Turning]]: the name you use reveals the stance). Counted here **from the Deep Solstice** as an astronomical order — see *when the year starts*, below. New roots (*neth, eol, bren, lir, sael*) live in [[The Old Tongue#Notable words & roots]].
+
+| # | Season | Liturgical | Says | Worn / common | Holds |
+|---|---|---|---|---|---|
+| 1 | Winter | **Nethael** (neth-AYL) | "the night made whole" | *Nethel* / **the Deep** | the **Deep Solstice** |
+| 2 | Winter | **Brenorn** (bren-ORN) | "hearth-land" | *Brennor* / **Hearth-month** | midwinter hush; deathless account-closing finishes |
+| 3 | Winter→Spring | **Liren** (LEER-en) | "the thaw's speech" | *Liren* / **the Thaw** | water runs again |
+| 4 | Spring | **Saelorn** (SAY-lorn) | "sowing-land" | *Salorn* / **Seed-month** | first green |
+| 5 | Spring | **Haelren** (HAYL-ren) | "hale-speech" | *Hailren* / **Hale-month** | the land sound |
+| 6 | Summer | **Eolthael** (ay-ohl-THALE) | "the Tree's hinge" | *Yoltal* / **Turning-month** | the **High Solstice** · **Turning-Week** |
+| 7 | Summer | **Vaelorn** (VAY-lorn) | "gift-land" | *Valorn* / **Gift-month** | after-Turning; the colours settle |
+| 8 | Summer | **Leddorn** (led-ORN) | "reckoning-land" | *Leddorn* / **Ledger-month** | late-summer markets, contract-terms |
+| 9 | Autumn | **Ornvael** (ORN-vayl) | "the land's yield" | *Ornvale* / **Harvest** | bringing-in |
+| 10 | Autumn | **Threnael** (thren-AYL) | "the tally made whole" | *Trennel* / **the Tally** | autumn count |
+| 11 | Autumn | **Vaethren** (VAYTH-ren) | "the waiting-speech" | *Vaeren* / **the Wait** | longing toward the dark |
+| 12 | Winter | **Nethorn** (NETH-orn) | "night-land" | *Nethorn* / **Dark-month** | approaching the Deep |
+
+> **When the year starts (the name-reveals-stance lever, on time itself).** The devout and the clergy begin the year at **Eolthael** — the Turning is the hinge that matters. [[Polity Archetypes|Lestrand]] and the deathless houses begin it at **Nethael** — midwinter is when the books close. [[Polity Archetypes|Vaethorn]] follows the clergy in the pulpit and the last *actual* Turning-Week in the fields (a child "turns the year" when the local Tree last managed a fall). Same twelve names; three new-year's days. A disputed date is a campaign lever ([[#GM Notes]]).
+
+#### Kumbaan's moons (🟡)
+
+[[The Sundering Isle|Kumbaan]] does not use this table. The [[Yumboe]] keep **twelve named moons**, lunar, owing the solstice nothing. Working set (hearth-register seed `20260826`; polish freely):
+
+**Yaaba · Ndibi · Sambiyo · Waandi · Lunji · Saalo · Soonke · Nkoosa · Ndenjoo · Yendo · Njili · Mbela**
+
+A mainlander will try to line *Saalo* up with Seed-month and be cheerfully, consistently wrong. That mismatch *is* the tell.
 
 ## How it varies across the world
 
@@ -58,7 +86,7 @@ The reckoning is **universal in principle** (one sun, one moon, the two solstice
 ## Links
 - [[Turning Tree]] (the Leaf-Fall, held Turning-Week) · [[The Leaf-Mother]] (the faith that reads the solstice as her choosing) · [[The Premise]] (solstice-timing locked)
 - [[The World Frame]] — the reach-gradient this calendar is lived along · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Yumboe]] (the lunar-reckoning people) · [[The Old Tongue]] (month-names, deferred)
+- [[Yumboe]] (the lunar-reckoning people) · [[The Old Tongue]] (month-roots) · [[Naming in the Turning]] · [[Naming People in the Turning]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes

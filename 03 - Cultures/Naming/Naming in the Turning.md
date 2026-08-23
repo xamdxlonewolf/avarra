@@ -94,6 +94,8 @@ When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
 - [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[Faiths of the Turning]] · [[Conditions]]
+- [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
+- [[Kinds of the Turning]] — hearths, not nations
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]
 
 ## GM Notes

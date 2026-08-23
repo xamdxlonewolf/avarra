@@ -6,17 +6,17 @@ note_status: locked
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Fox-Born, Fox of the Wilds, Fox of the Snows, Fox of the Sands]
-world:
-language:
-homeland:
+world: The Turning
+language: Kusawe (hearth-register); daily speech is the local Maiethren drift
+homeland: three hearths — Wilds / Snows / Sands (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-23
 ---
 
 # Kitsune
 
-> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands).** Foxfire (kitsunebi) unifies the Fox actives; *Fox's Glamour* carries the iconic illusion / wearing-another-face trait (distinct from the werewolf's beast-change; fills the cut-Doppelganger niche). Passed a folklore check (6/7 iconic traits). Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]], [[Tengu]], and [[Yumboe]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands).** Foxfire (kitsunebi) unifies the Fox actives; *Fox's Glamour* carries the iconic illusion / wearing-another-face trait (distinct from the werewolf's beast-change; fills the cut-Doppelganger niche). Passed a folklore check (6/7 iconic traits). Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
@@ -47,6 +47,12 @@ Every Kitsune has **Slip the Frame** and **Fox's Glamour**, **and** chooses one 
   - **Fox of the Snows** *(arctic fox — the sacred white fox that vanishes in its own pale fire)* — *Knack:* you leave no trail worth following — adversaries have **disadvantage** on rolls to track, trail, or find you, and you have **advantage** on rolls to **Hide** or move unseen in open, snowy, pale, or exposed terrain. *Foxfire — Cold Vanishing:* once per scene, mark a **Stress** to wrap yourself in cold white foxfire and let the eye slide off you — become **Hidden** even while observed and in the open, so long as you don't take an action that would obviously reveal you.
   - **Fox of the Sands** *(fennec — the many-tailed fox that always knows what's coming)* — *Knack:* you see clearly in darkness and dim light as far as you would in daylight, and your great ears miss nothing — **advantage** on rolls to hear, notice, or locate hidden creatures, sounds, or movement. *Foxfire — Ward-Flame:* when you or an ally within **Close** range would be targeted by an attack, you can mark a **Stress** to throw up a sudden curtain of foxfire — the target gains a **+2 bonus to their Evasion** against that attack.
 
+## Naming & tongue
+
+Hearth-register **Kusawe** (koo-SAH-way) 🟡 — light, slipping, sibilant; seed `20260823`. Full inventory, collision rules, and the two-name pattern (hearth-given + place-byname) live in [[Naming People in the Turning]]. Working given names: Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan. Daily speech is the local [[The Old Tongue|Maiethren drift]]; the fox-name is what they answer to when someone is trying to pin them down.
+
+Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
+
 ## Open questions (optional future tweaks — not blockers)
 
 - **Folklore check passed (2026-08-16).** Measured against the kitsune myth ([Wikipedia: Kitsune](https://en.wikipedia.org/wiki/Kitsune)): now hits **6 of the 7** most-iconic traits — bewitching/leading-astray (Wilds' *Wisp-Lure*), trickery/misdirection (whole identity + Slip the Frame), foxfire/kitsunebi (the unifying thread), nine-tails-as-honorific, the sacred white fox (Snows), longevity/foresight ("knows what's coming," Sands). The last big gap — **shapeshifting/illusion** — is now filled by **Fox's Glamour**, framed as *illusion/disguise* (fox-wife, wearing another face) rather than the werewolf's beast-change, so it stays distinct from [[Two-Bodied]] and fills the cut-**Doppelganger** niche.
@@ -60,5 +66,6 @@ Every Kitsune has **Slip the Frame** and **Fox's Glamour**, **and** chooses one 
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[Selkie]] · [[Tengu]] — the other custom ancestries
+- [[Selkie]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
+- [[Kinds of the Turning]] · [[Naming People in the Turning]]
 - [[03 - Cultures]]

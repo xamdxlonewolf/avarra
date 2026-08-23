@@ -29,7 +29,7 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 
 ## Geography & Climate
 
-- **Rugged and various.** The Azgaar template builds Heskoren as the large, mountainous far-continent: highland spines, upland moors, deep forests, and long river-runs down to a wild coast. Bigger weather, harder winters, more untamed ground than the Old World pair.
+- **Rugged and various.** The Azgaar template builds Heskoren as the large, mountainous far-continent: highland spines, upland moors, deep forests, and long river-runs down to a wild coast. Bigger weather, harder winters, more untamed ground than the Old World pair. [[Tengu]] ridge-towns and Fox-of-the-Snows hearths sit on the spines; Fox-of-the-Wilds and the deeper woods share the same forests; [[Selkie]] families hold the wild coast ([[Kinds of the Turning]]).
 - **The grafted pockets.** Settlement clusters wherever a graft has *taken* — a healthy Tree is the seed of a town, and the map of Heskoren's civilization is really a map of its surviving Trees. Between them: un-polity'd wild, thinly-held marches, and long roads between Tree and Tree.
 - **The frontier coast** faces the open ocean back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it.
 - **Climate**: cooler, wetter, wilder than Maiethorn/Strandoren; a land where the solstice-timed [[Turning Tree|Leaf-Fall]] is a hard-won event of a decade, not a yearly certainty.
@@ -78,6 +78,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Vaethorn) · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
+- [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]
 - [[Roadmap]] (Epic 3; Epic 6 Grafting history) · [[01 - World]]
 
 ## GM Notes

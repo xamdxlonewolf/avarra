@@ -36,7 +36,7 @@ This is the setting's chosen shape because it gives us **both** at once:
 
 ### The Awakening Tree
 
-The origin. Old beyond reliable dating, vast, and the one Tree no one grafted from another — every other Turning Tree descends from it. In liturgy it is **the First Hand**. It is a genuine pilgrimage destination: devout families make the journey to be Turned under the origin; some settle nearby; the faith's central clergy seat sits in its shadow (see [[The Leaf-Mother]], to be fleshed in Epic 5). *(Its location on the map is deferred to [[Roadmap|Epic 3 — the World Frame]]; only its existence and role are fixed here.)*
+The origin. Old beyond reliable dating, vast, and the one Tree no one grafted from another — every other Turning Tree descends from it. In liturgy it is **the First Hand**. It is a genuine pilgrimage destination: devout families make the journey to be Turned under the origin; some settle nearby; the faith's central clergy seat sits in its shadow (see [[The Leaf-Mother]], to be fleshed in Epic 5). It stands on [[Maiethorn]], in the Sacred Core.
 
 ## Where scions come from — grafting, and what can go wrong
 
@@ -65,7 +65,21 @@ The colour that falls tells the town which Condition has been Given. How that re
 
 - **Common knowledge, formalized by clergy.** The core colour-meanings are folk-known — an ordinary townsperson can read the obvious ones (everyone knows what the deep-red Long-Lived leaf or the storm-grey Two-Bodied fall looks like). But the **tree-wardens / clergy** hold the authoritative reading, confirm it aloud at the ceremony, and handle the **rare, subtle, or mixed falls** (a colour few have seen; a fall that could be read two ways). This gives the faith a real, needed civic function beyond doctrine — a reason society *organizes around* the Tree, not just prays at it.
 - **The Given-only Conditions** have clear, well-known colours (they're only ever seen at the Tree). **The Struck-capable Conditions** (the "Both" paths — [[Far-Voiced]], [[The Stilled]], [[The Taken-In]]) *can* fall as colours too, which is why a Given Far-Voiced and a Struck Far-Voiced share a nature but not a story (see [[The Premise]]'s Given/Struck/Both rule).
-- **The colour palette itself is deferred** — a per-Condition colour table is a natural small task for when we systematize the Conditions against society (Epic 2/4). Locked here: *there is a readable colour-language, clergy are its authority, the common ones are folk-known.* 🟡
+- **The colour palette** (🟡 Proposed — folk-known commons locked in feel; exact hues safe to tune):
+
+| Leaf-colour | Condition | Who can read it |
+|---|---|---|
+| **deep red / wine** | [[Long-Lived]] | folk-known (already proverbial) |
+| **storm-grey** | [[Two-Bodied]] | folk-known (already proverbial) |
+| **lamp-amber / brass** | [[The Answered]] | folk-known |
+| **sea-blue** | [[Far-Voiced]] | folk-known (a Given blue-leaf child is trained; a Struck Far-Voiced has no leaf at all) |
+| **pale stone / marble-white** | [[The Stilled]] | folk-known, and feared — the warden says it carefully |
+| **copper-green / verdigris** | [[The Taken-In]] | folk-known *if you know not to confuse it with the hug* — this green is *wrong*, metallic, not the Tree's own |
+| **white-fire / opal** | [[Phoenix]] | **clergy-known from texts.** Almost no living town has seen it fall. A warden who names it at a ceremony has just made history (and a problem). |
+
+**The Tree never Strikes**, so [[Returned]] and [[Bound]] have **no colour** (and [[The Unbound]] has none — it chains off Bound). The Kept hug is ordinary summer-green, *no naming colour* — that is why the Taken-In leaf must not be ordinary green.
+
+Rare, mixed, or argumentative falls (two colours; a colour no one present has seen; a Phoenix-reading someone wants to be wrong) are why the tree-wardens exist as a civic office, not only a devout one. Full orders → [[Roadmap|Epic 5]].
 
 > **A Tree never Strikes.** The Tree only **Gives** or **Keeps**. The **Struck** (Conditions that arrive through a later threshold — a drowning, an oath, a death survived) happen *away* from the Tree, with no leaf and no ceremony (locked in [[The Premise]]). The faith's reading of the Struck — whether they're still the Mother's doing — is exactly the live schism fleshed in [[The Leaf-Mother]].
 
@@ -73,7 +87,7 @@ The colour that falls tells the town which Condition has been Given. How that re
 
 - **This note is player-facing but keystone-adjacent.** It carries `reveals: [leaf-mother-is-real]` because the *graft continuity* ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms the Leaf-Mother is real and present. Present it to players as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics in-world grant the grafting (it's observable horticulture) while denying the conclusion (that a *mind* chooses through it).
 - **The scary edge is not here.** Resist making the Tree eerie or the ceremony sinister — that's off-tone for this setting and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Dread lives in individual Tithes, not in the rite.
-- **Deferred, on purpose:** the full colour→Condition palette (Epic 2/4) and the clergy's offices / tree-wardens as an institution (Epic 5). The Awakening Tree's continent is now placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
+- **Deferred, on purpose:** the clergy's offices / tree-wardens as an institution (Epic 5). The Awakening Tree's continent is placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the colour→Condition palette is proposed above; the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
 
 ## Links
 - [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy)

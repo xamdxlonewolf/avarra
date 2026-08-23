@@ -20,7 +20,7 @@ Deities, faiths, mythology, rituals, and religious history.
 
 ### The Motherfaith (Epic 1 — the world's central faith)
 - [[The Leaf-Mother]] — gift-religion, orthopraxy-over-orthodoxy, the three-branch schism, clergy, in-world texts
-- [[Turning Tree]] — the sacred object & the Leaf-Fall rite; one Awakening Tree, town Trees are living grafts of it
+- [[Turning Tree]] — the sacred object & the Leaf-Fall rite; one Awakening Tree, town Trees are living grafts of it; colour→Condition palette (Story 4.2)
 
 ### The other faiths (Story 1.4)
 - [[The Watching]] — Maiethorn heartland heresy (*Haelthael*); the Tree as witness, not Mother

@@ -71,7 +71,7 @@ The [[The Leaf-Mother|Motherfaith]] is **one faith among several** ([[The Premis
 
 ## Map-generation assets
 
-> **How to use these.** Four ways to render the world, matched to the tools you use. **① GPT Image prompt** → atmospheric base art (refine in Wonderdraft). **② Azgaar heightmap template** → a procedural, *labelled* world map with our continents' shapes. **③ Azgaar Maiethren name base** → so Azgaar auto-names places in our language. **④ Azgaar seed script (bonus)** → inject our polities + faith.
+> **How to use these.** Ways to render the world, matched to the tools you use. **① GPT Image prompt** → atmospheric base art (refine in Wonderdraft). **② Azgaar heightmap template** → a procedural, *labelled* world map with our continents' shapes. **③ Azgaar Maiethren name base** → so Azgaar auto-names the Tree-touched world. **③b Azgaar Kumbaan name base** → the Isle, in its own mouth. **④ Azgaar seed script (bonus)** → inject our polities + faith.
 >
 > **The label caveat (true of all AI image gens):** GPT Image / Midjourney / SD produce beautiful map *art* but **garbled text** — place-labels come out as gibberish and coastlines won't stay consistent between runs. So the prompts below say **"no text, no labels"** for a clean base you annotate yourself (in Wonderdraft, or from the vault's names). For a *labelled* cartographic map, use the **Azgaar** assets instead — that's what they're for.
 
@@ -131,7 +131,17 @@ So Azgaar auto-generates burgs/states that sound like our world. **Menu → Opti
 ```
 Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren
 ```
-*Tuning:* set the name base's **"double-word" / min-max length** to taste; the roots above recombine into plausible Old-Tongue names. Add a *separate* base for the Isle's non-Maiethren register once we've named it (Wolof-flavoured — open vowels, `mb`/`nk`/`nd` nasal clusters).
+*Tuning:* set the name base's **"double-word" / min-max length** to taste; the roots above recombine into plausible Old-Tongue names.
+
+### ③b Azgaar Kumbaan name base
+
+A **separate** base for [[The Sundering Isle]] — do not mix it with Maiethren. Open vowels, pre-nasal `mb` / `nd` / `nk` / `nj`, Wolof/Senegambian flavour, from the [[Yumboe]] register (seed `20260826` plus the locked own-names). **Menu → Options → Configure → (Cultures / Names) → Add name base**, name it `Kumbaan`:
+
+```
+Kumbaan,Bakhna,Rakhna,Ndeyaan,Ambaa,Njeela,Kumbo,Sambanka,Ndeya,Mbaraan,Njunda,Rakhilo,Sonkaa,Mbindaa,Yumbaka,Ndoolu,Sambiyo,Lunji,Yaaba,Saalo,Mbela,Soonke,Njili,Yendo,Waandi,Koriwaa,Mbaloolaa,Njunjo,Ndenjoo,Loowaa,Sindo,Nkusu,Bandoo,Lunkaa,Njaanjaa,Roondoo,Yaarose,Bundoke,Kanku,Lasoo,Nkiseke,Ndibi,Njuke,Nkoosa,Kumbili,Waandi,Yabuko
+```
+
+Person-names vs place-names: the short open words (Yaaba, Lunji, Saalo) work as people; the longer prenasal compounds (Mbaloolaa, Ndenjoo, Njaanjaa) read as hills and halls. Full rules in [[Naming People in the Turning]].
 
 ### ④ Azgaar seed script (bonus — version-fragile)
 
@@ -161,7 +171,7 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 - **Polities placed here:** [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn)
 - **Upstream frame:** [[The Premise]] (scale & register) · [[Turning Tree]] (one Awakening Tree + grafts) · [[The Old Tongue]] (the drift-gradient) · [[Is the Leaf-Mother Real]] (the reach-edge)
 - **Faiths:** [[Faiths of the Turning]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
-- **People:** [[Yumboe]] (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]]
+- **People:** [[Yumboe]] (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Kinds of the Turning]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes

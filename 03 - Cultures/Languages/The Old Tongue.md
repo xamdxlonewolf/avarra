@@ -18,7 +18,7 @@ updated: 2026-08-23
 
 > **What this is.** The root language of **The Turning** — the old **liturgical tongue of the [[Turning Tree|Awakening Tree]]**, in which the [[The Leaf-Mother|Motherfaith]] says its rites. Every place-name, institution, and polity-name in the setting derives from it. In-world it is called **Maiethren** *(mah-YETH-ren, "Mother-speech")* by the devout, or just **the Old Tongue** by everyone else. It is this world's **Latin**: nobody's mother-tongue on the street anymore, but the ancestor of every tongue that is, and still the language of the Tree, the rite, and the law's oldest words.
 
-> **The structure this note establishes (the payoff).** One root tongue, **three daughter drifts**, mirroring the world's own cosmology: **one Awakening Tree → grafts carried outward** is the same shape as **one sacred tongue → vernaculars drifting outward.** Because a daughter tongue drifts *further* the further it is from the conserving pull of the Trees and the faith, **how a polity sounds reveals its stance** — the core keeps the old sacred sound nearly whole, the frontier wears it rougher, the secular coast erodes it smooth. This is the engine behind the [[Polity Archetypes|"name reveals stance"]] naming lever. Built with the `conlang` skill for the [[Roadmap|Epic 2 tail]] naming pass (root-tongue layer; deep grammar is deferred to [[Roadmap|Epic 4]]).
+> **The structure this note establishes (the payoff).** One root tongue, **three daughter drifts**, mirroring the world's own cosmology: **one Awakening Tree → grafts carried outward** is the same shape as **one sacred tongue → vernaculars drifting outward.** Because a daughter tongue drifts *further* the further it is from the conserving pull of the Trees and the faith, **how a polity sounds reveals its stance** — the core keeps the old sacred sound nearly whole, the frontier wears it rougher, the secular coast erodes it smooth. This is the engine behind the [[Polity Archetypes|"name reveals stance"]] naming lever. Built with the `conlang` skill for the [[Roadmap|Epic 2 tail]] naming pass (root-tongue layer; month-roots added in Story 4.2). Deep grammar is still deferred — only if spoken dialogue is ever needed.
 
 ## Phonology & feel
 
@@ -50,6 +50,11 @@ The sacred lexicon the setting's names are built from. (Meanings are the *root* 
 | **thren** | thren | to count, to tally, to number | *Sacred* counting — stewardship, accounting-before-the-Mother. (Contrast **ledd**.) |
 | **ledd** | led | to reckon, to account | *Commercial* counting — the ledger, the sum. The secular twin of **thren**. |
 | **orn** | orn | land, ground, holding | A held or settled land. |
+| **neth** | neth | night; the long dark | Month-root — [[The Reckoning of the Year|Nethael, Nethorn]]. |
+| **eol** | AY-ohl | a hinge; the year's turning | Month-root — [[The Reckoning of the Year|Eolthael]], the High-Solstice month. |
+| **bren** | bren | hearth; the kept fire | Month-root — [[The Reckoning of the Year|Brenorn]]. |
+| **lir** | leer | thaw; water that runs again | Month-root — [[The Reckoning of the Year|Liren]]. |
+| **sael** | sayl | sowing; the first green | Month-root — [[The Reckoning of the Year|Saelorn]]. Distinct from **vael** (a gift Given) and **hael** (wholeness). |
 
 **A name that carries the whole setting:** the Awakening Tree's own liturgical name is **Thaeloren** *(thae-LOR-en)* — **thael** (Tree) + **oren** (to witness): *"the Tree that witnesses."* The world's entire [[Law and Citizenship|citizenship-by-witness]] system is folded into the name of the Tree itself. (Everyday worn form: **"the Thallow."**)
 
@@ -85,6 +90,8 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
+- [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds
+- [[The Reckoning of the Year]] — the twelve months coined from these roots
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages) · [[03 - Cultures]]
 
 ## GM Notes
@@ -92,4 +99,4 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 
 - **The etymology is a quiet keystone tell.** That **Thaeloren** = "the Tree that witnesses" is not decoration: per [[Is the Leaf-Mother Real|the keystone]], the Tree genuinely *does* witness (she is real, and the Leaf-Fall is her seeing each child). The language preserves a truth the skeptics have explained away. Don't gloss it in player-facing text as mere poetry; let a scholar-PC *notice* it.
 - **Drift is GM-legible as the reach-edge.** The daughters drift furthest where the Trees are thinnest — which is the same [[Is the Leaf-Mother Real|bounded-reach]] edge that stays GM-side elsewhere. In-world the erosion reads as plain distance-and-trade (true, as far as it goes); the deeper pull that *conserves* the tongue near the Trees is the Mother's nearness. Same fact, two readings.
-- **Deep grammar is deferred.** This note fixes phonology, a root lexicon, and the drift-rules — enough to coin consistent names. Morphology/syntax (a *full* conlang) is [[Roadmap|Epic 4]] work, only if the campaign ever needs spoken dialogue. Don't relexify English into "sentences" before then.
+- **Deep grammar is still deferred.** This note fixes phonology, a root lexicon (including the month-roots), and the drift-rules — enough to coin consistent names. Morphology/syntax (a *full* conlang) is only worth it if the campaign ever needs spoken dialogue. Don't relexify English into "sentences." Person-names and hearth-registers live in [[Naming People in the Turning]].

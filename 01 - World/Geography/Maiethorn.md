@@ -31,8 +31,9 @@ Maiethorn is the world's **old heart** — the continent people mean when they s
 
 - **The Sacred Core.** At Maiethorn's heart stands **Thaeloren, the [[Turning Tree|Awakening Tree]]** — the First Hand, in a deep old grove that is the destination of the world's great pilgrimage. The land around it is the most densely-grafted on earth: an old, gentle country of rounded hills, river valleys, and Tree-crowned towns, worn smooth by long settlement (the Azgaar template smooths this land for exactly this reason).
 - **The Motherwood.** Vast old-growth forest of [[Turning Tree|motherwood]] and its wild kin rings the core — the healthiest Trees, the graft-nurseries from which scions travel to the whole world. Tree-wardens' seat and the faith's institutions cluster in the wood's clearings.
-- **A central range** divides the continent's watersheds; temperate, seasonal climate (the [[The Premise|~1400s]] burgher world's — four true seasons, real winters that make the **solstice-timed** Leaf-Fall meaningful). Old roads and river-trade knit it together.
-- **The western coast** faces the busy **inner sea** toward [[Strandoren]] — the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's.
+- **A central range** divides the continent's watersheds; temperate, seasonal climate (the [[The Premise|~1400s]] burgher world's — four true seasons, real winters that make the **solstice-timed** Leaf-Fall meaningful). Old roads and river-trade knit it together. [[Tengu]] hearths and Fox-of-the-Snows country sit on the high snows; the range is also why the east is dry (below).
+- **The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country** — the one true dry reach in the known world. This is the hearth of the [[Kitsune|Fox of the Sands]]. It is still Maiethorn (same Trees, same conservative tongue, same pilgrimage-pull westward toward Thaeloren); it is simply the Motherland's *other weather*. Towns here cluster at wells and at whatever graft will take in thin soil. 🟡
+- **The western coast** faces the busy **inner sea** toward [[Strandoren]] — the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's. [[Selkie]] families are common on these quays, as they are on any old water.
 
 ## Reach
 
@@ -78,6 +79,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[The World Frame]] — the four-continent frame this belongs to · neighbours: [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Watching]] · [[The Old Tongue]] (conservative drift)
 - [[Polity Archetypes]] (Threnmaieth) · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
+- [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes

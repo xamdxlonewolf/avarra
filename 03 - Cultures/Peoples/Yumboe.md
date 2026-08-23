@@ -48,8 +48,9 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 
 - **Their name for themselves:** *Bakhna Rakhna* — "the good people."
 - **Their homeland:** *Kumbaan* (koom-BAHN) — "the hidden home." (Mainlanders call it [[The Sundering Isle]].)
-- **Sample given names** *(working set — for [[Kitsune]]/[[Selkie]]/[[Tengu]]-style texture; polish alongside Epic 4 naming):* Ambaa, Njeela, Kumbo, Sambanka, Ndeya, Mbaraan, Njunda, Rakhilo, Sonkaa, Mbindaa, Yumbaka, Ndoolu.
-- This register also seeds the Isle's **own Azgaar name base** (distinct from the [[The World Frame#Map-generation assets|Maiethren base]]).
+- **Sample given names** *(working set, seed `20260826` — add from the same inventory, pick deep in the list):* Ambaa, Njeela, Kumbo, Sambanka, Ndeya, Mbaraan, Njunda, Rakhilo, Sonkaa, Mbindaa, Yumbaka, Ndoolu, **Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.**
+- Full person-naming rules (two-name pattern, collision, how they stay a *single* register on the mainland): [[Naming People in the Turning]]. Distribution: [[Kinds of the Turning]].
+- The Isle's **Azgaar name base** (places) lives in [[The World Frame#③b Azgaar Kumbaan name base]].
 
 ## Open questions (optional future tweaks — not blockers)
 
@@ -65,4 +66,5 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[The Sundering Isle]] (Kumbaan) — their storm-walled homeland · [[The Open Table]] — their isolate faith (*Ndeyaan*) · [[The World Frame]] — the world they're rare across
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] — the other three custom ancestries (all mainland-native)
+- [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (Kumbaan's twelve moons)
 - [[03 - Cultures]]

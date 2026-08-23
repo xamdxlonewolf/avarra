@@ -71,11 +71,12 @@ any other shore. Decorative compass rose, faint graticule, heavy current lines.
 Cartography style, atmospheric, mysterious. NO TEXT, NO LABELS, no writing anywhere.
 ```
 *Optional Midjourney line:* `--ar 3:2 --style raw --v 6`
-*(For a labelled map, use the Azgaar assets in [[The World Frame#Map-generation assets]] and read this as the small storm-ringed isle far west. The Isle needs its **own** Wolof-flavoured name base — open vowels, `mb`/`nd`/`nk`/`nj` prenasal clusters — distinct from the Maiethren base; to be built with the ancestry note.)*
+*(For a labelled map, use the Azgaar assets in [[The World Frame#Map-generation assets]] and read this as the small storm-ringed isle far west. The Isle's own name base is [[The World Frame#③b Azgaar Kumbaan name base]].)*
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
 - [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
+- [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (twelve moons, not solstices)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)
 - [[Faiths of the Turning]] · [[Roadmap]] (Epic 3) · [[01 - World]]
 

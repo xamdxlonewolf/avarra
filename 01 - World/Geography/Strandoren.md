@@ -29,7 +29,7 @@ Strandoren is the **crossroads of the known world** — a continent of harbours,
 
 ## Geography & Climate
 
-- **The indented coast.** Strandoren's defining feature — a shoreline of countless natural harbours, tidal estuaries, and sheltered sounds (the Azgaar template cuts a rough, trough-riddled coast here on purpose). Every notable town is a port; the sea is the continent's highway.
+- **The indented coast.** Strandoren's defining feature — a shoreline of countless natural harbours, tidal estuaries, and sheltered sounds (the Azgaar template cuts a rough, trough-riddled coast here on purpose). Every notable town is a port; the sea is the continent's highway. This is the densest [[Selkie]] hearth in the world — not a Selkie nation, a *lot of shoreline* ([[Kinds of the Turning]]).
 - **The inner sea** (east) — the narrow, crowded, ancient water between Strandoren and [[Maiethorn]]: the busiest crossing in the world, the "Old World" trade artery.
 - **The open ocean** (west/south) — where the coast faces the widening sea toward [[Heskoren]] and, far beyond, [[The Sundering Isle]]. Strandoren's boldest merchant-houses run the frontier trade to Heskoren; almost none have crossed the storm-wall to the Isle (those who claim to are the tellers of the Yumboe stories).
 - **Interior**: fertile lowlands and river-plains feeding the port-cities; mild maritime climate, wet and temperate. Mature grafted Trees stand thick along the wealthy coasts and thin only in the deep interior.
@@ -79,6 +79,7 @@ NO TEXT, NO LABELS, no writing anywhere.
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Lestrand) · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
+- [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]
 - [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes

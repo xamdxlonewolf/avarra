@@ -6,17 +6,17 @@ note_status: locked
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Crow-Born, The Wind-Winged, The Peak-Born]
-world:
-language:
-homeland:
+world: The Turning
+language: Gonan (hearth-register); daily speech is the local Maiethren drift
+homeland: the ridges — [[Maiethorn]] central range and [[Heskoren]] highland spines (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-16
-updated: 2026-08-16
+updated: 2026-08-23
 ---
 
 # Tengu
 
-> **A custom born-ancestry (Kind), not a Condition.** The third homebrew ancestry kept for this world (with [[Kitsune]] and [[Selkie]]) — the **mountain-born**. You are *born* Tengu — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Wind-Winged + The Mountain's Mood + Wind-Caller.** Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** The third homebrew ancestry kept for this world (with [[Kitsune]], [[Selkie]], and [[Yumboe]]) — the **mountain-born**. You are *born* Tengu — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Wind-Winged + The Mountain's Mood + Wind-Caller.** Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
@@ -38,6 +38,12 @@ Because they can go where footpaths can't and read the mountain's mood before it
 - **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands.
 - **Wind-Caller** — You command the mountain wind the way the old fan-bearers did. Mark a **Stress** to call a sudden gust and choose one: **shove** a target within **Far** range a step closer or farther and knock it **Vulnerable**; **carry** yourself or a willing ally an extra move on the wind (a great leap, a saving glide down from a height, a boost across a gap); or **sweep** an area within Close range clear of smoke, gas, fog, or loose airborne projectiles until the start of your next turn.
 
+## Naming & tongue
+
+Hearth-register **Gonan** (GO-nan) 🟡 — clipped, windy, high-country; seed `20260825`. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
+
+Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
+
 ## Open questions (optional future tweaks — not blockers)
 
 - **Flight lever (resolved 2026-08-16)** — kept the *offensive* dive (fold wings, d8 Finesse on a Close target, end at Very Close) over Faerie-style evasion. At-will flight is kept, with the dive as the Stress-gated part so it stays in-band (Faerie sets the precedent for at-will flight on a Kind). **Gate simplified 2026-08-16:** the dive was double-gated (once per scene *and* mark a Stress) — dropped the per-scene cap, keeping just the Stress cost, to match the house pattern (Kitsune's Slip the Frame, Selkie's Slip the Hold, Tengu's own Wind-Caller are all Stress-only). Double-gating is reserved for Seal-Kin's stronger no-surprise+aid effect.
@@ -47,5 +53,6 @@ Because they can go where footpaths can't and read the mountain's mood before it
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[Kitsune]] · [[Selkie]] — the other two custom ancestries
+- [[Kitsune]] · [[Selkie]] · [[Yumboe]] — the other custom ancestries
+- [[Kinds of the Turning]] · [[Naming People in the Turning]]
 - [[03 - Cultures]]

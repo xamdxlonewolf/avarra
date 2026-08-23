@@ -6,17 +6,17 @@ note_status: locked
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Sea-Born, The Skin-Kin]
-world:
-language:
-homeland:
+world: The Turning
+language: Sakoa (hearth-register); daily speech is the local Maiethren drift
+homeland: the coasts — densest on [[Strandoren]] (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-16
+updated: 2026-08-23
 ---
 
 # Selkie
 
-> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Kitsune]] and [[Tengu]]), sitting alongside Daggerheart's stock roster. You are *born* Selkie — hereditary, mundane in this world. **✅ LOCKED (2026-08-16): three features — Second Skin + Slip the Hold + Seal-Kin.** Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Kitsune]], [[Tengu]], and [[Yumboe]]), sitting alongside Daggerheart's stock roster. You are *born* Selkie — hereditary, mundane in this world. **✅ LOCKED (2026-08-16): three features — Second Skin + Slip the Hold + Seal-Kin.** Open questions below are optional future tweaks, not blockers.
 
 ## Overview
 
@@ -41,6 +41,12 @@ Because they can't be kept down and can't be kept out, Selkies are the world's *
 - **Slip the Hold** — When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
 - **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: until the end of your next turn you **cannot be caught off guard** by anything approaching through the water, and the nearest seal-kin surface to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety.
 
+## Naming & tongue
+
+Hearth-register **Sakoa** (sah-KOH-ah) 🟡 — liquid, rounded, coastal; seed `20260824`. Full inventory and the two-name pattern live in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn.
+
+Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
+
 ## Open questions (optional future tweaks — not blockers)
 
 - **Removable skin (resolved 2026-08-16)** — the skin gets an *upside* hook (*Anchored*: always find your way back to your stashed skin), never a downside. Confirmed no "skin stolen" penalty (Kinds have no Tithe; a debuff there would be an anti-fun gotcha). Loaning/losing it stays a story beat.
@@ -51,5 +57,6 @@ Because they can't be kept down and can't be kept out, Selkies are the world's *
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
-- [[Kitsune]] · [[Tengu]] — the other custom ancestries
+- [[Kitsune]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
+- [[Kinds of the Turning]] · [[Naming People in the Turning]]
 - [[03 - Cultures]]
