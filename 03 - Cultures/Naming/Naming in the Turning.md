@@ -85,6 +85,7 @@ Names 🟡 — everyday words are already in the faith notes; the liturgical / o
 | [[The Door-Keepers\|the Old Ways]]' people | **door-keepers** / **Kin-speakers** (liturg. *Vaelbren*) | *the door-folk* | *grove-talkers* | *the Unreached* |
 | [[The Table-Keepers\|the Open Table]]'s people | **table-keepers** / **hill-hosts** (own *Njaalo*) | *(a sailor's tale)* | *the Moon-Feast people* | *(off the map)* |
 | [[The Shore-Sitters]] (isle flavor) | **shore-sitters** (own *Njawaal*) | *(a sailor's tale)* | *(the wreck-waiters)* | *(off the map)* |
+| [[The Slide]] (shadow house) | **the Slide** / **week-keepers** (cant *Vaethledd*) | *the last pot* / *gift-credit* | *week-rent* | *(the late week — unfiled)* |
 
 ### Faiths (from [[Faiths of the Turning]])
 
@@ -109,7 +110,7 @@ When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
-- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[Faiths of the Turning]] · [[Conditions]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
 - [[Kinds of the Turning]] — hearths, not nations
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]

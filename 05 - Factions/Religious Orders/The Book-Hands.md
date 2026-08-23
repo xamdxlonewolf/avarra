@@ -144,7 +144,7 @@ Grace is a closed book. That is the house's kindness, and its cruelty.
 
 Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. Confirming the Leaf-Mother is real does not make the fading kind, and does not convert a Bound's clause into a clerk's draft. The Fair Hand misreads a cost as a price ([[The Fair Hand]] GM); the Leddhael are that misreading *at a desk*, helping — except where the desk has no right to write.
 
-Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That is the R2 of honesty. The shadow economy still exists ([[Economy and the Tithe]]); it does not yet have a lived house ([[Rogue House Options]]).
+Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That is the R2 of honesty. The shadow economy still exists ([[Economy and the Tithe]]); the lived face of illicit Tithe-supply is [[The Slide]]. They do not stamp, and they do not rewrite Terms.
 
 This is not a hunt and not a queue. The Road-hands already walk the scion they were given leave to plant. Book-hands do not need a travelling underdog.
 
@@ -167,7 +167,7 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 ## Links
 - [[The Fair Hand]] — the faith this house keeps · [[Faiths of the Turning]]
 - [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]] · [[Law and Citizenship]]
-- [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[Rogue House Options]]
+- [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Slide]]
 - [[Strandoren]] · [[Polity Archetypes|Lestrand]] · [[Naming in the Turning]] (the Uncounted Book)
 - [[The Old Tongue]] (Leddhael 🟡) · [[Kinds of the Turning]]
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
@@ -176,7 +176,7 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **Wrong about the verb, right about the ache — now wearing a stamp.** Per the keystone, Leaf-Fall is a gift, not a signing. Per [[The Other Hands]], *Orledd* answers sworn asks; the Fair Hand is right about that door and wrong that every becoming is a bargain. Do not let a Book-hand retcon a Given child into a debtor. **Do not let a Book-hand rewrite Orledd's clause.** A petition-watch is *keeping the door* (purchase); it is not acolyte-authority. Do not play them as devil-worship, devil-acolytes, or capitalism-cosplay. They are as sincere as the Orenhael.
-- **No lived rogue house yet.** The Back Table was tried and rejected (too much a night-clone of this desk). Next face: [[Rogue House Options]]. Do not give anyone a magic stamp that authors Terms.
+- **The Slide is the lived shadow house.** They own a Tithe-week, not a stamp. Do not give anyone a magic stamp that authors Terms. Do not fold sold-vouching or Bound-easing into either desk.
 - **Name collision to avoid.** *Orledd* (the Counterparty) is already *oren* + *ledd* in reverse. This house's liturgical name is **Leddhael**, not *Orenledd*. If you swap the coinage, do not land on Orledd's roots.
 - **The injustice is the closed book of the rich and the owing of the poor.** Causal + social distance: the Book-hand sees one table; the quay sees a step-around; Lestrand's "the free" for the Kept is the same market wearing a theology. R2: the reveal does not make the fade kind. A Tithe-poor Settler is still a person the city steps around.
 - **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins or Orledd-acolytes. If you need an underdog, do not send Book-hands up the pilgrim road with a scion. Their exposed edge is civic settling — and the Bound they cannot help. Story 5.3 still owns Tithe-infra.

@@ -86,7 +86,7 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Vaelbren** *(VAYL-bren)* — *vael* (older: land's yield) + *bren* = "the yield-hearth." Liturgical name of [[The Door-Keepers]]. Not *Vaelorn* (the Taking).
 - **Njaalo** *(NJAH-lo)* — not Maiethren; a [[Yumboe]] coinage, "the hall that is kept." Own-name of [[The Table-Keepers]].
 - Isle flavor (not Maiethren): **Njawaal** *(njah-WAHL)* — [[The Shore-Sitters]].
-- Rogue-house cants (🟡, pick one house): *Orenvaeth* · *Thaelneth* · *Vaethledd* — see [[Rogue House Options]]. Not *Orledd*. Not *Nethledd* (retired with the Back Table).
+- **Vaethledd** *(VAYTH-led)* — *vaeth* + *ledd* = "the waiting reckoned." Cant-name of [[The Slide]]. Not *Orledd*. Not *Nethledd* (retired with the Back Table). Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*.
 
 ## The three polities, named
 
@@ -100,8 +100,7 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Polity Archetypes]] — the three polities named here · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[The Tree-Wardens]] — Orenhael · Thaelvaeth (🟡)
-- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] — Nethoren · Leddhael · Vaelbren · Njaalo · Njawaal (🟡)
-- [[Rogue House Options]] — one mainland shadow house, not yet picked
+- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] — Nethoren · Leddhael · Vaelbren · Njaalo · Njawaal · Vaethledd (🟡)
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds

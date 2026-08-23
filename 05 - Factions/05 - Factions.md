@@ -35,8 +35,14 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 - [[The Table-Keepers]] — Story 5.2 (everyday *table-keepers*; own-name *Njaalo* 🟡). Kept.
 - [[The Shore-Sitters]] — Story 5.2 isle flavor (everyday *shore-sitters*; own-name *Njawaal* 🟡). The sand, not the hall.
 
-### Taste-open
-- [[Rogue House Options]] — pick **one** mainland shadow house (Bought Watch / Quiet Cut / Slide). The Back Table is retired.
+### Shadow house (Story 5.2)
+
+| House | The job, in one line | Who sends for them |
+|---|---|---|
+| [[The Slide]] | Rent *not falling* — one week of green, outlet, or novelty; never quite let you recover | Someone whose Tithe-queue is longer than their edge |
+
+- [[The Slide]] — picked (everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡). Not clergy. Do not clone as Story 5.3's official guilds.
+- [[Rogue House Options]] — menu closed. Bought Watch / Quiet Cut unused. Back Table retired.
 
 ### Still to build
 - **⭐ Story 5.3** — Tithe-infrastructure and the safety-guilds
