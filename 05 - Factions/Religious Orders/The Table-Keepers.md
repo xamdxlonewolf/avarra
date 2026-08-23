@@ -23,6 +23,8 @@ updated: 2026-08-23
 
 *(Mainland everyday: **table-keepers**, also **hill-hosts.** Own-name, 🟡: **the Njaalo** — NJAH-lo — a [[Yumboe]] coinage in the night-keeping tongue, "the hall that is kept." Not Maiethren; this house owes the liturgy nothing. Sailors say **moon-hosts**. [[Polity Archetypes|Vaethorn]] has them as a sailor's tale. [[Polity Archetypes|Lestrand]] says **the Moon-Feast people** when a quay wants a story. [[Polity Archetypes|Threnmaieth]] does not file them — they are off the map.)*
 
+**In one sentence:** they are the person who opens the hall (or the attic) and lays an extra place — on Kumbaan that is how a valley eats and how a stranger becomes kin; on the mainland it is one room, one supper, and a sentence the quay will not enforce.
+
 ## Shape of the order (at a glance)
 
 - **Almost not an order.** Ndeyaan has no chapel, no college, no colour-authority, no graft, no book, no door-walk that wants a title. The person whose hall the valley comes to on the bright nights is a table-keeper. Reputation, not office. When they die, the valley comes to the next hall that still sets the extra place.
@@ -32,25 +34,66 @@ updated: 2026-08-23
 
 ## What they actually do
 
-The faith already named the practice ([[The Open Table#Practice]]). The order is those acts given a host.
+The faith already named the rites ([[The Open Table#Practice]]). This is the *table* — who is fed, what the host's hands do, what they refuse.
 
-### The hill-hall (Kumbaan)
+### If you meet one
 
-On the bright nights the valley comes. Hill-hall or open turf, the extra place, the unseen hands fetching and pouring, songs, no colour-reading, no terms recited. The table-keeper is the one who opened the hall — often because it was their grandmother's, often because it was the only roof that still fitted the crowd.
+On [[The Sundering Isle|Kumbaan]] a table-keeper looks like the person whose hill-hall the valley already knows. Small, pearl-pale, silver-haired if they are Yumboe (most are, because that is who lives there). They open the door on the bright nights. By mainland noon they are often asleep. You would not call them a priest. You would go to their hall when the moon is up because that is where the food is and where a stranger is allowed to sit.
+
+On the mainland they look like one person in a rented room who still sets a place no body will use. A sailor finds them by asking for the Moon-Feast. A clerk finds them by following a rumour and then files them as a guest. They cook. They pour. They say the sentence on the second night.
+
+They are useful the way a host is useful. They do not water Trees, stamp books, or walk drowning-stones. If you came for those jobs you have the wrong house.
+
+### Who comes, and when
+
+| Who | Why they come | What the table-keeper does | What they will not do |
+|---|---|---|---|
+| The valley, on a bright night (Kumbaan) | The moon is up; the hall is where you eat | Open the hall. Lay the extra place *slightly back from the board*, not at the end. Let the unseen hands fetch and pour. Sing. Sleep when the moon is down. | Will not read a colour. Will not test a guest. Will not omit the extra place. |
+| A stranger who crossed the storm-wall | They have already been through drowning-water; they need a seat | First night: guest (already sacred). Feed them. Learn a name if they offer one. Second night: say *no one is a stranger twice* and treat them as of the table. | Will not make them Turn. Will not ask what they *are*. Will not sell the sentence as a proverb. |
+| Anyone at an ordinary supper | The extra place is every meal that matters, not only the feast | Set it. A poor house still sets it. The hands make the extra possible. | Will not count the household as the bodies you can see. That is the one impiety. |
+| A guest on the mainland (attic) | They heard of a Moon-Feast; they are hungry; they are curious | Same two sittings, smaller room. Feed them. Say the sentence on the second night. Treat them as kin *inside the room*. | Will not walk them to a warden to be filed as belonging. Will not stamp a book. Will not collect for a hall across the water. |
+| A rare Struck on the isle | A drowning, a death, a green taking — uncommon enough to be family news | Feed them. Keep them in the household. Do not make a class of them. | Will not invent a mainland receiving-rite. Will not send them to a Tree that is not there. |
+| A warden, a Book-hand, a Watcher who crossed | Courtesy, curiosity, a campaign | They are a guest. First night, second night. The host will find their noon-faith *loud*. | Will not give them a Tree to tend, a book to stamp, or a Night Watch to keep. There is nothing here for those jobs. |
+
+### A bright night on Kumbaan (the job you can see)
+
+Dusk. The table-keeper opens the hill-hall — often because it was their grandmother's, often because it was the only roof that still fitted the crowd. People arrive as the moon clears the Paps. The extra place is already set, slightly back, a little apart. The unseen hands begin to fetch and pour; you can see the cups move. Songs. No colour-reading. No terms recited. A Staying host says the dead's names when they fill that place. A Serving host does not, and still fills it.
+
+The table-keeper's work in the hour: open, set, greet, keep the extra place from being used as a spare stool, send a child for more bread if the hands have not already gone, say the sentence if someone is sitting their second night. When the moon goes down they sleep. Daylight is not a fallen hour. It is the Sabbath of sleep.
 
 They do not confirm becoming. There is no Leaf-Fall on the isle. They do not vouch a Struck in the mainland sense; Struck are rare enough to be a family matter, not a class ([[Yumboe]]). They do not licence, graft, or file.
 
-The one real impiety is omitting the extra place. Not because the staying starve (they do not) but because you have counted the household too small. A poor house still lays it. The hands make this possible. That is not a metaphor they use.
+### An ordinary supper (the job you can miss)
 
-### The attic (a Yumboe abroad)
+The extra place is not only feast-furniture. A poor house lays it on a quiet night. To omit it is the one real impiety — not because the staying starve (they do not) but because you have counted the household too small. The hands make this possible. That is not a metaphor they use. It is why a table-keeper can host beyond their means without becoming a Tithe-charity.
 
-A Yumboe on the mainland is a table-keeper **by necessity**. One person can keep Ndeyaan in a Lestrand attic. They lay the extra place. They feed a guest. On the second sitting they say the sentence. Mainlanders who hear a proverb have missed that it is a *legal* sentence on Kumbaan in all but parchment — and that on the quay it is not enforceable.
+A child of the house learns the work by carrying dishes and by being told not to sit in the extra place. That is the apprenticeship. There is no Seat to confirm it.
 
-This is how the faith travels, when it travels at all. It does not travel as a mission. There is no Njaalo chapter-house in a port, no collection for a hall across the water, no Road-hand of the moon. A second Yumboe in the same city may share a supper and not share a roof. Both are of the table.
+### An attic on Lestrand (the same job, no hall)
 
-### The second sitting (belonging)
+A Yumboe on the mainland is a table-keeper **by necessity**. Morning (their night-end): they may work a quay kitchen, mend, copy — rent in the local coin. Evening: they lay the extra place in a room that fits four. Someone climbs the stair. First night they are a guest. Second night the host says the sentence and means it. The quay will not file the guest as a citizen. The host will still set them a place the third night.
 
-The first night you are a guest (and a guest is already sacred). The second, you are of the table. On Kumbaan this is how a stranger becomes kin. On the mainland this collides with [[Law and Citizenship|citizenship-by-witness]]: you belong because your town *watched you Turn*, not because you ate twice. A table-keeper who treats the second supper as belonging is doing their faith honestly. A warden who smiles and files them as a guest is doing *theirs*. Neither is a villain. The sentence does not cross the storm-wall intact.
+This is how the faith travels, when it travels at all. It does not travel as a mission. There is no Njaalo chapter-house, no collection, no Road-hand of the moon. A second Yumboe in the same city may share a supper and not share a roof. Both are of the table. A mainlander who has sat twice and opened their *own* room is of the table too, if you take the faith-not-Kind lean (taste still open).
+
+### The second sitting (what "doing the job" *does* to a person)
+
+The first night you are a guest (and a guest is already sacred). The second, you are of the table. On Kumbaan this is how a stranger becomes kin — nearly law, in all but parchment. On the mainland this collides with [[Law and Citizenship|citizenship-by-witness]]: you belong because your town *watched you Turn*, not because you ate twice.
+
+A table-keeper who treats the second supper as belonging is doing their faith honestly. A warden who smiles and files them as a guest is doing *theirs*. Neither is a villain. The sentence does not cross the storm-wall intact. The host's job, abroad, is to keep the sentence *inside the room* and not pretend the clerk will honour it.
+
+### What they carry
+
+An extra plate. Songs. The sentence. On the isle, a hall (inherited, or the one that still fits). On the mainland, rent and whatever the room will hold. No stamp. No token from a land-door. No colour-scrap. No Cutting-leave.
+
+The extra place is set slightly back from the board, not at the end. A mainlander who puts it at the foot "for a servant" is corrected. No sermon. The plate is moved.
+
+### What they refuse (the job's edge)
+
+- They will not read a colour, tend a Tree, or keep a Night Watch.
+- They will not turn the sentence into a Fair Hand term or a geas. Eat, and be the household — not *sign, and owe*.
+- They will not test a guest. The storm-wall already did.
+- They will not send a mission, collect for a hall across the water, or plant a Moon-Feast chapter in Vaethorn.
+- They will not omit the extra place to look poorer or more devout. That is the one impiety.
 
 ## Who may keep a table
 

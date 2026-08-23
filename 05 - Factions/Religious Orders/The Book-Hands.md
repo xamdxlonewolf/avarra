@@ -23,6 +23,8 @@ updated: 2026-08-23
 
 *(Everyday: **Book-hands**, or **Settlers.** Liturgical, 🟡: **the Leddhael** — LED-hayl — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* [[Polity Archetypes|Vaethorn]]'s second word is **Bargainers' clerks**; [[Polity Archetypes|Lestrand]]'s is **the Settling-hands** (ordinary, like saying *notary*); [[Polity Archetypes|Threnmaieth]] files them with the house as **the Uncounted Book** — private books offend the crown.)*
 
+**In one sentence:** they are notaries who treat a becoming the way they treat a hull — grant, term, witness, close the book — and the person you send for when someone Changed later and alone and the terms they woke up with cannot be paid.
+
 ## Shape of the order (at a glance)
 
 - **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a college in anyone's sacred wood. A "high house" in a rich port is the oldest book-room — age, not authority. The next quay has its own table and does not write to the first for leave.
@@ -32,27 +34,60 @@ updated: 2026-08-23
 
 ## What they actually do
 
-The faith already named the practice ([[The Fair Hand#Practice]]). The order is those acts given a desk.
+The faith already named the rites ([[The Fair Hand#Practice]]). This is the *desk* — who sits down, what gets written, what they refuse.
 
-### The table (witnessing)
+### If you meet one
 
-Book-hands attend the Leaf-Fall as *witnesses*, not petitioners. They do not speak the Tender's blessing. They speak, if they speak, the signing-watch line. The colour is entered in the child's personal book — grant and term — in a hand the child is then taught to keep.
+On [[Polity Archetypes|Lestrand]] a Book-hand looks like a clerk. Ink-stained, a small stamp on a cord, a table in a guild-room or a quay-shrine the size of a pantry. Before noon they may witness a hull. After, a Bound's oath-day. Same sentence both times: *fair wind, fair term.* You would not know which hour was "church" unless you already kept Leddoren.
 
-They also witness ordinary signings: marriage, hull, a Bound's Terms, a year's closed book. The sacred and the commercial use the same sentence (*fair wind, fair term*), which is the point, and which is why a Motherfaith warden on Lestrand can share a square with them and ignore their words.
+Off the coast they are rarer and more obviously religious — the person a pilgrim-town sends for when a Struck cannot live on the terms they woke with, and the Hands-folk would rather walk them to a Tree.
 
-There is no Speaker-equivalent. Accuracy is the house's piety; there is no last word above the table you sat at. If two Book-hands disagree on a clause, they write both readings and date them. That is not a schism. That is a book.
+They are useful the way a notary is useful. A port cannot live without someone who will stamp a signing. The faith is that the stamp and the becoming use the same grammar.
 
-### Novation (rewriting a Struck)
+### Who sits down, and when
 
-When a person changes later and alone, the Fair Hand's kindness is to **rewrite the terms fairly** after the fact — vouching-as-novation. A Book-hand sits with the Struck, names the grant they already carry, names a term that can actually be paid, and finds someone to stand for them ([[Law and Citizenship|standing-for]]). The book that was opened in a storm gets a clerk.
+| Who | Why they come | What the Book-hand does | What they will not do |
+|---|---|---|---|
+| A ten-year-old's Settler household, Turning-Week | The child Turned (or was Kept); the personal book must open | Stand as *witness*, not petitioner. Speak the signing-watch line if they speak. Enter colour (or the hug), Tithe, what the year owes. Put the book in the child's hands. | Will not speak the Tender's blessing. Will not call the colour a gift. Will not Speak the civic name — the warden does that; they copy what was seen into a private book. |
+| Anyone with a contract | Marriage, hull, a Bound's Terms, a year's closing | Witness, copy, stamp, date. Recite Terms on a Bound's oath-day and mark the book *closed* or *owing*. | Will not hide a clause. Hidden terms are the house's one sin. Will not show a *personal* book to a crown-clerk. |
+| A Struck, or the people standing for one | They Changed later, alone; the "terms" they woke with cannot be paid in this town | **Novation:** name the grant they already carry, write a term that can actually be paid, find a warrant ([[Law and Citizenship\|standing-for]]). Strike through the storm-terms. | Will not take them to a Tree to be acknowledged as Given. Will not name them kin at a door (that is a door-keeper). Will not pretend a term they cannot pay is fair. |
+| A child of the house, about nine | They must learn to keep a book before they Turn | Sit with a blank personal book: colour, Tithe, debts, what the year owes you. Private. Not the Threnhael. | Will not let a Reckoned clerk "help" copy it. Will not teach the book as a census. |
+| A Tithe-poor Settler | The year will not close; they cannot stamp a fee | Some stay and rewrite until the candle dies. Some mark *owing* faster. Both are of the house. | Will not furnish a venting-hall or a greens-share. They may *write a term that assumes one*. Story 5.3 owns the hall. |
 
-Its cruelty is the same motion. A Struck who cannot settle — no term they can pay, no one who will warrant — is marked *owing*. The quay steps around a book that will not close. The Book-hand who wrote *owing* may have argued for a softer term until the candle went. They still wrote it. That is the house's injustice, and it does not require a villain.
+### An ordinary week on Lestrand (the faith *is* the profession)
 
-### Teaching the book
+**Morning — the commercial table.** Hulls, marriages, copies, a deathless house's instrument. Paid by the stamp. A Kept clerk (Lestrand's *free*) may do only this and still be of the house if they keep accounts honestly and will die to keep a crown-clerk out of a personal book.
 
-Children of Settler households learn to keep a personal book the way other children learn the Tender's blessing: colour, Tithe, debts, what the year owes you. Private. Not the Threnhael. A Book-hand who teaches this in a Lestrand counting-house is doing Sunday and weekday as one job.
+**Turning-Week and oath-days — the signing-watch.** They attend the Leaf-Fall as witnesses. They do not officiate. They stand at the edge of the square with a child's first book and wait for a colour they can enter. A Bound's oath-day is the high holy day: Terms recited in a voice the quay can hear, the year's book closed or marked owing. The Motherfaith calls this ostentation. The Fair Hand calls it the only honest worship.
+
+**When someone Changed last week — novation.** This is the work that looks like clergy to a Vaethorn visitor. A drowning came back Far-Voiced in a town with no ael-hall. A death came back Returned with a purpose the street will not house. An oath was sworn in a storm. The Book-hand sits, writes the grant (already carried), strikes the impossible term, writes a possible one, finds a warrant. Kindness. Then, if no term will pay and no one will stand, they write *owing*. The quay steps around. Same motion.
+
+**They never write the word *gift*,** even as a loan. A first-year apprentice who copies *vael* into a personal book is made to strike it and write *grant*. No one calls this a rule. It is how the ink goes.
 
 They do **not** cut grafts, tend Trees, or carry scions. A sickening Tree is a warden's crisis and a door-keeper's fight. A Book-hand will write the delay into a contract.
+
+There is no Speaker-equivalent. If two Book-hands disagree on a clause, they write both readings and date them. That is not a schism. That is a book.
+
+### How novation actually runs (the hour)
+
+1. The Struck sits. The storm-book — if they have one — or a blank, if they do not. The Book-hand names what is already true: *you carry a voice; you carry a purpose; you carry Terms.*
+2. They name what cannot be paid *here*: a hall that is not in this town; a warmth no one will give; a Pledge whose counterparty has no quay-name.
+3. They write a new term a neighbour can see being paid — not confession, *clearing*. Passage to a release-house. A warrant by a named clerk. A seventh day.
+4. They find someone to **stand for** the person, because a Struck changed unwitnessed and must be vouched anew. A Bound word, a Long-Lived memory, a Far-Voiced feeling — the three pillars. The Book-hand can write the term. They are not themselves a pillar unless they are Bound, Long-Lived, or Far-Voiced.
+5. If steps 3–4 fail: *owing, not broken.* The book stays open. The quay learns the name. That is the fade, sacralized.
+
+### What they carry
+
+A **stamp** (personal, not a guild-licence — the ticket is a different paper, Story 5.3). Ink. A cord-knife for striking a line. The small **personal books** they sell or gift to children of the house — not the Threnhael; a clerk who confuses them has started a fight. On a Bound's oath-day, the year's working contract, read aloud.
+
+A "high house" is a room with old copies and a better lamp. It is not a palace. The next quay does not write here for leave.
+
+### What they refuse (the job's edge)
+
+- They will not show a personal book to the crown. A campaign that subpoenas one is stealing a soul in *their* language.
+- They will not call a Leaf-Fall a gift, and they will not retcon a Given child into a debtor. The book opens at the colour; it does not invent a storm.
+- They will not ride out as contract-paladins or carry a scion. They sit.
+- They will not keep a membership roll of Book-hands. A roll would be a Threnhael.
 
 ## Who may keep a table
 

@@ -23,6 +23,8 @@ updated: 2026-08-23
 
 *(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical, 🟡: **the Vaelbren** — VAYL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* [[Polity Archetypes|Vaethorn]]'s second word is **the door-folk** (or *Before-speakers* when the fight is hot); [[Polity Archetypes|Lestrand]]'s is **grove-talkers** (a frontier curiosity); [[Polity Archetypes|Threnmaieth]] files them with the house as **the Unreached**.)*
 
+**In one sentence:** they are the person three valleys walk to when someone needs to know which drowning-pool still returns, which grove still takes people in — and the mouth that names a Struck *kin* at the door that made them, instead of walking them to a Tree to be filed as late.
+
 ## Shape of the order (at a glance)
 
 - **The land is the seat.** The Old Ways cannot have a mother-church. A hill, a drowning-stone, a grove, an oath-rock — these are the offices. A person is of the house when three valleys will walk to them, not when a college confirms them.
@@ -32,31 +34,62 @@ updated: 2026-08-23
 
 ## What they actually do
 
-The faith already named the practice ([[The Old Ways#Practice]]). The order is those acts given a walker.
+The faith already named the rites ([[The Old Ways#Practice]]). This is the *walk* — who sends for them, what they do with their hands, what they refuse.
 
-### Walking the doors
+### If you meet one
 
-At the year's hinges — not only [[The Reckoning of the Year|High Solstice]] — door-keepers walk the old doors of their district. They greet the water, the hill, the stone. They leave food. They do not ask for a colour. They ask to be *known*.
+A door-keeper looks like someone who knows the district. Mud on the hem, a worn token at the belt (river-stone, grove-twig, a pinch of hill in a twist of cloth — no two alike), a sack that is sometimes food for a door and sometimes food for a meal. You would miss them as clergy if you came from Maiethorn looking for a chapel. You would find them if you asked *who still walks the drowning-stone* or *who will speak at the board for the ones in the ground*.
 
-This is not a circuit assigned by a seat. It is a reputation: the person who still remembers which drowning-pool returns, which grove will take someone in, which oath-stone still hears. A famous door-keeper is just the one three valleys will walk to. A young one is the apprentice who carried the food last year and was watched doing it.
+They are useful the way a midwife is useful, except the birth they attend is a later becoming, and the map they keep is which doors still open. A thin-reach town can live without a warden for a generation. It cannot live long without someone who remembers the water.
+
+### Who sends for them, and when
+
+| Who | Why they come | What the door-keeper does | What they will not do |
+|---|---|---|---|
+| Anyone in the district, at a year's hinge | The doors must be walked — Deep Solstice, the equinoxes, High Solstice, and the local hinges the map does not print | Walk. Greet water, hill, stone, in that order. Leave food. Ask to be *known*, not Given. Take the young one who carried last year. | Will not ask the door for a colour. Will not skip a door because a Tree is healthier this year. |
+| A household at an ancestor-meal | Someone must know the names and keep the empty place | Speak the names. Set the place. Not let a guest sit in it. Eat. Argue Guest/First after the dishes if they argue. | Will not treat the empty place as a Returned's chair. Different door. Will not make this a chapel service. |
+| A Struck, or the people who found them | They Changed at a river, a grove, an oath-stone, a death; the town wants them vouched or gone | Take them back to the door that made them — if it can be found — and **name them kin**. Feed them. Walk with them if the town will not house them. | Will not walk them to a Tree to be acknowledged as Given (the warden may do that the same week; the fight is which name goes first). Will not write terms (that is a Book-hand). Cannot *be* a civic pillar unless they themselves are Long-Lived, Bound, or Far-Voiced. |
+| A warden or a Road-hand | A graft in an old green is sickening; someone has Cutting-leave | Tend the wood as host or as keeper of a guest. Demand the meal before a second cut. | Will not carry the next scion up the road. Will not sell a cut. Will not call the Struck "unreached." |
+| A scholar, a Lestrand clerk, a curious pilgrim | They want the older sense of *vael*, or a drowning-stone found | Show the door. Use the old word for a harvest and a returned child. | Will not give them a map of every door. Some doors are walked, not published. |
+
+### An ordinary season (the walk is the job)
+
+**Most weeks.** Someone asks whether the pool below the ford still returns. The door-keeper goes and looks. They know which grove took someone in ten years ago and whether that hill is still a door. They carry food when the hinge is close. They have a day life — ranging, green-tending, a stall — and the reputation sits on top of it. A famous one is just the one three valleys will walk to. A young one is the apprentice who carried the food last year and was watched doing it.
+
+**The year's hinges.** Not only [[The Reckoning of the Year|High Solstice]] / Turning-Week. Deep Solstice (the long night, the low year). The two equinoxes. Local hinges a Maiethorn calendar does not print — the first flood, the night the hill-ice breaks. They walk the old doors of the district. Water, then hill, then stone. They will not say why that order. A guest who reverses it is corrected without a sermon.
+
+**The meal.** A place at the board for the ones in the ground. Quiet, domestic. The Kin-speaker is the one who knows the names. In a thin-reach district this is the same tired person who walked the ford at dawn.
+
+**When someone Changed later.** They do not start at the Tree. They start at the door — the river if it was water, the grove if it was green, the oath-stone if it was a vow, the death-place if it was unfinished work. They name the person *kin*. The Motherfaith's quiet receiving-rite may happen the same week. A Book-hand's novation may happen the same month. Play as three courtesies, not a trial. The exposed edge is the Struck the *town* will not house: the door-keeper has a name to give and not a pillar. They may spend a season walking with one person. They may not be able to.
 
 They tend a healthy graft as a *guest in the grove* if the town has one. They may Turn under it. They may not pretend it invented becoming.
 
-### Speaking for kin
+### How a kin-naming actually runs (the hour)
 
-Ancestor-meals: a place at the board for the ones in the ground. Quiet, domestic, easy to miss as clergy if you came from Maiethorn looking for a chapel. The Kin-speaker is the one who knows the names and will not let a guest sit in the empty place.
+1. Find the door, if it can be found. If it cannot, the nearest old door of the same kind — water for a drowning, green for a taking. A door that is only a Tree is a last resort, and a First-reading walker will hate it.
+2. Food first. The door is greeted. The person is not tested with a colour.
+3. The Kin-speaker says the name they already had, then the kin-name the door is owed. No leaf. No stamp. The token at the belt is shown, not given — unless this person will walk next year, in which case they will find their own.
+4. The town, if it is watching, still wants a warrant to let them *stay*. The kin-name is courtesy. [[Law and Citizenship|Standing-for]] is civic. A door-keeper who is also Long-Lived, Bound, or Far-Voiced can do both. Most cannot.
 
-When a person changes later and alone, the Old Ways do not take them to a Tree to be *acknowledged as Given*. They take them back to the door that made them — if it can be found — and **name them kin**. The Motherfaith's quiet receiving-rite and this one sometimes happen in the same week, for the same person. The argument is which name goes first. A Book-hand's novation may be a third courtesy in the same month. Play as neighbours, not as a court.
-
-Standing for the unvouched Struck when a town will not is the exposed edge. A door-keeper has the courtesy and not the civic power. [[Law and Citizenship|Standing-for]] still wants a Long-Lived memory, a Bound word, or a Far-Voiced feeling if the town is going to let the person *stay*. The Kin-speaker can give a name. They cannot give a pillar.
-
-### The contested grove
+### The contested grove (when the job collides with a warden)
 
 An ailing graft in an old Taken-In green is the signature fight: warden vs. door-keeper, guest vs. host, pilgrimage-scarcity vs. "we had ways." Play it as neighbours who both love the wood.
 
-A **Guest-reading** Kin-speaker will pilgrimage *and* walk the doors, and will tend a dying graft as kin. A **First-reading** door-keeper will tend the same graft as a *guest in their house* and still refuse the Tender's blessing. Both revere the Struck and the Taken-In. A reading that starts pitying them as "unreached" has already become Motherfaith.
+What they *do* with their hands is the same as the warden for an hour: water, watch blight, sit up with mortal wood. The argument is not horticulture. It is whether this Tree is a guest in the grove or a Tree the town failed. A **Guest-reading** Kin-speaker will pilgrimage *and* walk the doors, and will tend a dying graft as kin. A **First-reading** door-keeper will tend the same graft as a *guest in their house* and still refuse the Tender's blessing. Both revere the Struck and the Taken-In. A reading that starts pitying them as "unreached" has already become Motherfaith.
 
-They do **not** carry the next scion up the road. If a Road-hand arrives with Cutting-leave, the fight is whether this grove *receives* a guest, not whether the door-keeper should have brought the wood themselves.
+If a Road-hand arrives with Cutting-leave, the door-keeper's job is the meal first, then the question *does this grove receive a guest?* — not *shall I have brought the wood myself?* They do not carry scions.
+
+### What they carry
+
+The **token** from their door — river-stone, grove-twig, a pinch of hill. Food for the walk. Names in the head (the ones in the ground; the doors that still open). No stamp. No colour-book. No Cutting-leave.
+
+### What they refuse (the job's edge)
+
+- They will not confirm a colour or officiate a Leaf-Fall. If they bring a child to a healthy graft, the warden Speaks.
+- They will not carry a scion or sell a cut.
+- They will not call the Struck or the Taken-In "unreached." That word is Motherfaith leaking in.
+- They will not publish every door. Some are walked, not mapped.
+- They will not become undeath-priests. Ancestor-meals are kin in the ground. The [[Returned]] are a different door.
 
 ## Who may keep a door
 
