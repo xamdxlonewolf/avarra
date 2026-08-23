@@ -46,10 +46,12 @@ updated: 2026-08-23
 - **Quay-blessings.** Short, worn, eroded-tongue: *fair wind, fair term.* Said over a hull, a contract, a marriage. The sacred and the commercial use the same sentence, which is the point.
 - **The personal book.** Colour, Tithe, debts, what the year owes you. Private. Not the [[Naming in the Turning|Threnhael]]. A Settler will die to keep a crown-clerk out of it — the Fair Hand's one shared fury with every other faith on that subject.
 
-## Clergy (sketch — orders deferred to Epic 5)
+## Clergy & institutions
+
+Full faction: [[The Book-Hands]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
 
 - **Book-hands** (also **Settlers**) — notaries who are also theologians. They witness signings, rewrite a Struck's terms after the fact, and teach children how to keep a book. On Lestrand they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
-- **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a mother-church. A "high house" in a rich port is just the oldest book-room.
+- **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a mother-church. A "high house" in a rich port is just the oldest book-room. No membership roll — a roll would be a Threnhael.
 
 ## The live schism (the faith arguing with itself)
 
@@ -70,6 +72,7 @@ On its face: a Bound's pride, a little cold. Underneath: the Fair Hand's whole c
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — gift-doctrine's rival
 - [[Strandoren]] · [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]]
 - [[Polity Archetypes|Lestrand]] · [[The Child at Four Doors]]
+- [[The Book-Hands]] — the working house (Story 5.2)
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes

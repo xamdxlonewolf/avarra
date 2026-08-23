@@ -98,6 +98,7 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 ## Links
 - [[Is the Leaf-Mother Real]] — the keystone this elaborates (`leaf-mother-is-real`)
 - [[Faiths of the Turning]] — the faiths that hold pieces · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
+- Clergy (do not confirm household through them): [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Returned]] · [[Bound]] · [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]]
 - [[Yumboe]] · [[The Sundering Isle]]
 - [[The Premise]] · [[Roadmap]] · [[11 - Secrets]]

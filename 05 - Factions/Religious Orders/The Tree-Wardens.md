@@ -154,6 +154,7 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[The Leaf-Mother]] — the faith this order serves · [[Turning Tree]] — the object and rite
 - [[Faiths of the Turning]] — how they share a square with the other four houses
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
+- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2)
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
@@ -171,5 +172,5 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
   4. **One order.** Revisit only if play needs a Motherfaith civil war. The schism already supplies intra-faith conflict.
 - **Threnmaieth must not capture the Seat in the first sentence.** Proximity is pressure, not ownership. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll — and keep some Speakers who don't.
 - **Do not invent Kind-orders or a Kumbaan mission.** Road-hands do not "bring the Mother" across the storm-wall. [[The Open Table]] is the control case.
-- **Story 5.2 / 5.3 stay empty on purpose.** Watchers, Book-hands, door-keepers, table-keepers, Tithe-infra, safety-guilds — sketched on their faith/society notes, not rebuilt here.
+- **Story 5.2 is built; do not rebuild it here.** [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]. Story 5.3 (Tithe-infra, safety-guilds) still waits. Do not clone Road-hands onto those houses or into 5.3.
 - **Hooks.** A mixed fall two houses want to name; a Cutting-leave the party is asked to carry (or lose); a skeptic warden and a Wanting Kept apprentice in the same hearth; a Road-hand circuit whose next Tree is already dying; a Speaker who will not write a colour onto the Threnhael; Harrow's green getting the scion the three hamlets can see from the ford.

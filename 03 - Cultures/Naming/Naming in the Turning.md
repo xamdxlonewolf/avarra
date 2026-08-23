@@ -70,9 +70,9 @@ The three life-outcomes of the [[Turning Tree|Leaf-Fall]] keep their plain commo
 
 > **Read across a single row and you have the whole setting.** The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied-as-free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained). One kind of person; three societies' worth of judgment. This row *is* the [[Polity Archetypes|"name reveals stance"]] lever in miniature.
 
-### Clergy (from [[The Tree-Wardens]], Story 5.1)
+### Clergy (from [[The Tree-Wardens]], Story 5.1 · the other four houses, Story 5.2)
 
-Names 🟡 — everyday *tree-wardens* is already in the faith notes; the liturgical coinages are proposed.
+Names 🟡 — everyday words are already in the faith notes; the liturgical / own-name coinages are proposed.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -80,6 +80,10 @@ Names 🟡 — everyday *tree-wardens* is already in the faith notes; the liturg
 | the pilgrimage college | **the First Seat** | *the First Hand's college* | *the old seat* (a civic bureau) | *the Reckoned Seat* (wants them on the roll) |
 | graft-carriers / sick-Tree circuit | **Road-hands** (liturg. *Thaelvaeth*) | *the waiting-hands* | *the graft-carts* | *the counted road* |
 | authorization to cut a scion | **Cutting-leave** | *the wood's blessing* | *the carrying-licence* | *the scion-warrant* |
+| [[The Watchers\|the Watching]]'s people | **Watchers** (liturg. *Nethoren*) | *the night-kin* | *vigil-folk* (rarely met) | *the second column* |
+| [[The Book-Hands\|the Fair Hand]]'s people | **Book-hands** (liturg. *Leddhael*) | *Bargainers' clerks* | *the Settling-hands* | *the Uncounted Book* |
+| [[The Door-Keepers\|the Old Ways]]' people | **door-keepers** / **Kin-speakers** (liturg. *Vaelbren*) | *the door-folk* | *grove-talkers* | *the Unreached* |
+| [[The Table-Keepers\|the Open Table]]'s people | **table-keepers** / **hill-hosts** (own *Njaalo*) | *(a sailor's tale)* | *the Moon-Feast people* | *(off the map)* |
 
 ### Faiths (from [[Faiths of the Turning]])
 
@@ -104,7 +108,7 @@ When [[Roadmap|Epic 5/7]] name new factions, guilds, and places, keep the system
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
-- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[Faiths of the Turning]] · [[Conditions]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
 - [[Kinds of the Turning]] — hearths, not nations
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]

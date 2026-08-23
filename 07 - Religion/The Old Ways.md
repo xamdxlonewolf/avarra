@@ -43,10 +43,12 @@ updated: 2026-08-23
 - **Standing for the Struck.** When a person changes later and alone, the Old Ways do not take them to a Tree to be *acknowledged as Given*. They take them back to the door that made them — if it can be found — and *name them kin*. The Motherfaith's quiet receiving-rite and this one sometimes happen in the same week, for the same person, and the argument is which name goes first.
 - **The contested grove.** An ailing graft in an old Taken-In green is the signature fight: warden vs. door-keeper, guest vs. host, pilgrimage-scarcity vs. "we had ways." Play it as neighbours who both love the wood.
 
-## Clergy (sketch — orders deferred to Epic 5)
+## Clergy & institutions
 
-- **Door-keepers** (also **Kin-speakers**) — they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when they can. Not a hierarchy; a reputation. A famous door-keeper is just the one three valleys will walk to.
-- **No seat.** The Old Ways cannot have a mother-church. The land is the seat. Vaethorn's [[The Tree-Wardens|tree-wardens]] find this infuriating and, in a dry year, quietly useful.
+Full faction: [[The Door-Keepers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
+
+- **Door-keepers** (also **Kin-speakers**) — they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when they can. Not a hierarchy; a reputation. A famous door-keeper is just the one three valleys will walk to. Two jobs, often one mouth.
+- **No seat.** The Old Ways cannot have a mother-church. The land is the seat. Vaethorn's [[The Tree-Wardens|tree-wardens]] find this infuriating and, in a dry year, quietly useful. They walk doors; they do not carry scions.
 
 ## The live schism (the faith arguing with itself)
 
@@ -67,6 +69,7 @@ On its face: frontier courtesy, a little barbed. Underneath: the Old Ways' whole
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the latecomer
 - [[Heskoren]] · [[The Taken-In]] · [[The Premise]] (the Struck) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (the older sense of *vael*)
+- [[The Door-Keepers]] — the working house (Story 5.2)
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes

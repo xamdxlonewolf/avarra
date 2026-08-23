@@ -47,10 +47,12 @@ updated: 2026-08-23
 - **Name what you saw.** After a Turning, a Watcher does not say *tend what you're given*. They sit with the child and *describe* the fall — the colour, the way the leaf came, what the year will ask. Devotion is accurate speech.
 - **Pre-Mother names.** In Haelthael liturgy the origin Tree is only **Thaeloren**. "First Hand" is tolerated as poetry. "Hand of the Mother" is the overlay they will not say.
 
-## Clergy (sketch — orders deferred to Epic 5 Story 5.2)
+## Clergy & institutions
+
+Full faction: [[The Watchers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
 
 - **Watchers** — not priests. They keep the Night Watch, teach the withheld blessing, and (where a town will have it) offer a second reading of a rare or mixed fall: not authoritative over the [[The Tree-Wardens|tree-warden]], a *witness alongside*. In Threnmaieth they are a known column on the roll.
-- **No mother-church.** The Watching has no seat in the Awakening Tree's shadow — that seat was grown-over by the [[The Tree-Wardens|First Seat]]. Their oldest rooms are under older chapels, or in houses that never took a warden's lintel. The archaeology is the theology.
+- **No mother-church.** The Watching has no seat in the Awakening Tree's shadow — that seat was grown-over by the [[The Tree-Wardens|First Seat]]. Their oldest rooms are under older chapels, or in houses that never took a warden's lintel. The archaeology is the theology. Two acts, not four offices.
 
 ## The live schism (the faith arguing with itself)
 
@@ -70,6 +72,7 @@ On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predate
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the faith that grew over this one
 - [[Maiethorn]] · [[Turning Tree]] (Thaeloren) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over as a file-name)
+- [[The Watchers]] — the working house (Story 5.2)
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes

@@ -43,10 +43,12 @@ updated: 2026-08-23
 - **No one is a stranger twice.** Spoken at the second sitting. The first night you are a guest (and a guest is already sacred). The second, you are of the table. Mainlanders who hear this as a proverb have missed that it is a *legal* sentence in all but parchment.
 - **Daylight sleep.** The glare is not holy and not cursed. It is when the good people and the staying-kin rest. A Yumboe abroad will still take their long rest when the moon is down if they can; they will not make a scene about it.
 
-## Clergy (sketch — orders deferred to Epic 5)
+## Clergy & institutions
 
-- **Table-keepers** (also **hill-hosts**) — almost not clergy. The person whose hall the valley comes to on the bright nights. Reputation, not office. There is no seat across the sea, and no pilgrimage but the crossing itself.
-- **A Yumboe abroad** is a table-keeper by necessity. One person can keep Ndeyaan in a Lestrand attic. That is how the faith travels, when it travels at all.
+Full faction: [[The Table-Keepers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
+
+- **Table-keepers** (also **hill-hosts**) — almost not clergy. The person whose hall the valley comes to on the bright nights. Reputation, not office. One job: keep the table. There is no seat across the sea, and no pilgrimage but the crossing itself. No Kumbaan mission.
+- **A Yumboe abroad** is a table-keeper by necessity. One person can keep Ndeyaan in a Lestrand attic. That is how the faith travels, when it travels at all. Recruits by faith (who will lay the extra place), not by Kind.
 
 ## The live schism (the faith arguing with itself)
 
@@ -67,6 +69,7 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 - [[Faiths of the Turning]] — the map · [[Yumboe]] — the people who keep this
 - [[The Sundering Isle]] (Kumbaan) · [[The Child at Four Doors]]
 - [[The Leaf-Mother]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon, not the solstice)
+- [[The Table-Keepers]] — the working house (Story 5.2)
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
