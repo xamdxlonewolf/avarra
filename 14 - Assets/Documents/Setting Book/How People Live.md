@@ -1,4 +1,4 @@
-# Part: How People Live
+# How People Live
 
 ## Law and citizenship
 

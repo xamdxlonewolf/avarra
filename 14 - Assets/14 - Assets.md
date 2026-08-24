@@ -14,10 +14,12 @@ updated: 2026-08-24
 Maps, images, handouts, documents, and references.
 
 ## Contents
-- Setting book extracts in `Documents/Setting Book/`:
-  - [[Lands Ages Powers]] — lands, ages, powers and places; GM Canon appendix
-  - [[How People Live]]
-  - [[The Tree and the Faiths]]
+- **The Turning — World Book** (compiled reading copy of the setting as it stands through settlements):
+  - `Documents/Setting Book/The-Turning-World-Book.html` — searchable, clickable contents
+  - `Documents/Setting Book/The-Turning-World-Book.pdf` — print / annotate
+  - `Documents/Setting Book/README.md` — how to read and rebuild
+
+The vault notes remain the working source of truth. The world book is a reading copy for audit, written as settled setting.
 
 ## Related
-- [[The World Frame]] · [[The Ages of the Turning]] · [[Powers of the Turning]]
+-

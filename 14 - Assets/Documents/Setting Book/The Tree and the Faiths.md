@@ -1,4 +1,4 @@
-# Part: The Tree and the Faiths
+# The Tree and the Faiths
 
 ## The Turning Tree
 

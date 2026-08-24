@@ -2,7 +2,7 @@
 
 Setting book: the lands, the ages, powers and places.
 
-# Part: The Lands
+# The Lands
 
 The map of the Turning is not a scatter of lands. It is a **gradient of the Trees' reach**, and reading it outward tells the whole story of the world:
 
@@ -290,7 +290,7 @@ The reckoning is **universal in principle** (one sun, one moon, the two solstice
 
 ---
 
-# Part: The Ages
+# The Ages
 
 People in this world do not live in "the Fourth Age." They keep **two overlapping clocks**, and which one they glance at tells you where they stand.
 
@@ -1049,7 +1049,7 @@ Skeptics of every house tell a short ending: *There were not two roads. There wa
 
 ---
 
-# Part: Powers and Places
+# Powers and Places
 
 ## The fifteen
 
