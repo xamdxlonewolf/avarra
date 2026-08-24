@@ -23,7 +23,7 @@ updated: 2026-08-24
 
 ## Overview
 
-Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiethorn]] is old and full and [[Strandoren]] is rich and connected, Heskoren is *young, thin, and waiting* — a broad, rugged, half-settled land where the grafts came recently, take poorly, and sicken often, so that whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the [[Law and Citizenship|Kept]] (children who reached no healthy Tree at ten) and the [[The Premise|Struck]] (people who changed later, alone, unwitnessed) — and it is the continent where the [[The Leaf-Mother|Motherfaith]] burns *hottest*, because scarcity of the gift answers not with less devotion but with more: pilgrimage, longing, and a whole theology of *waiting*.
+Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiethorn]] is old and full and [[Strandoren]] is rich and connected, Heskoren is *young, thin, and waiting* — a broad, rugged, half-settled land where the grafts came recently, take poorly, and sicken often, so that whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the [[Law and Citizenship|Kept]] (children who reached no healthy Tree at ten) and the [[The Premise|Struck]] (people who changed later, alone, unwitnessed) — and it is the continent where the [[The Leaf-Mother|Motherfaith]] burns *hottest*, because scarcity of the gift answers not with less devotion but with more: pilgrimage, longing, and a whole theology of *waiting*. In [[The Walking Years]] that pattern was the *rule* of distance (the Long Mile); some districts are still on it. Do not let history agree with Vaethorn's guilt-theology — distance did this, not unworthiness.
 
 **The fresh angle:** the fantasy frontier is usually lawless-and-brutal or noble-savage-pristine. Heskoren is neither — it is *warm, poor, and self-reliant*, the kindest place in the world to a whole neighbour and the loneliest to an unvouched one, where the danger isn't raiders but a **lapsing Condition with no infirmary to reach** and a faith that consoles what it cannot cure. Its cruelty is quiet and theological: scarcity of the gift shading into a doctrine of *unworthiness*.
 
@@ -79,7 +79,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Polity Archetypes]] (Vaethorn) · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]
-- [[Roadmap]] (Epic 3; Epic 6 Story 6.1) · [[The Ages of the Turning]] · [[The Years of Hands]] · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.2) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The Years of Hands]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

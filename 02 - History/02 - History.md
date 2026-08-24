@@ -15,10 +15,11 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 
 ## Contents
 
-### The spine (Story 6.1)
+### The spine (Story 6.1) and the lived road (Story 6.2)
 - [[The Ages of the Turning]] — two clocks, not four stacked ages; Cut-years; the Grafting as a still-moving wave
 - [[Before the Walk]] — unnamed preface; the Tree already stood
-- [[The Walking Years]] — only Thaeloren; you walked or you stayed Kept *(lived texture → Story 6.2)*
+- [[The Walking Years]] — only Thaeloren; you walked or you stayed Kept; the road as a life (three walks, inns, graves)
+- [[The Child Who Counted Stones]] — the road's paradox-fable *(lives in `07 - Religion`)*
 - [[The First Cut]] — the hinge; who cut is contested *(full event → Story 6.3)*
 - [[The Years of Hands]] — town Trees as the default; Heskoren still the wave's front *(residues → Story 6.4)*
 

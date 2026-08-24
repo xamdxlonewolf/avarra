@@ -55,3 +55,4 @@ The "go still" death is intentionally not a death move — it's a slow, tragic o
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
 - Contrast: [[Two-Bodied]] (the other Given-only core Condition)
+- [[The Walking Years]] — Long-Lived who still say *I walked* (perfect memory; disagreed meaning)

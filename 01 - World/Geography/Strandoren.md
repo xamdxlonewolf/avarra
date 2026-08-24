@@ -80,7 +80,7 @@ NO TEXT, NO LABELS, no writing anywhere.
 - [[Polity Archetypes]] (Lestrand) · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]
-- [[Roadmap]] (Epic 3) · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 Story 6.2) · [[The Walking Years]] — the Salt Walk · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

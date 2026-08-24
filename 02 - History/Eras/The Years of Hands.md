@@ -38,7 +38,7 @@ The pilgrimage still exists on purpose. The Walking Years ended as *requirement 
 
 - **Local witness as the legal default** — the grammar in [[Law and Citizenship]] is Hands-era weather. The Walking underneath it is why vouching-at-a-distance exists at all.
 - **The scion-queue as the era's injustice** — already built in [[The Tree-Wardens]]. History's job is only to say: this bottleneck is *the Grafting's child*, not an accident of last week's college.
-- **Visible leftovers** — mile-shrines, empty pilgrim-beds, roads that end at a Tree that used to be a destination further on. The romance of the old mile is a Hands feeling. The graves are Walking facts.
+- **Visible leftovers** — mile-shrines, empty pilgrim-beds, roads that end at a Tree that used to be a destination further on. What those things *were* in the act: [[The Walking Years]] (Story 6.2). The romance of the old mile is a Hands feeling. The graves are Walking facts. Story 6.4 fleshes what they are *now*.
 - **Fate-pressure, noted not rolled** — the First Seat at peak power with long tenure of the queue; Road-hands overextended at the Heskoren front; waiting towns precarious on a single sickening scion. Story 6.4 may table these as play. Do not collapse them here.
 
 ## Key Events

@@ -106,6 +106,10 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Ornthael** *(orn-THALE)* — *orn* + *thael* = "Tree-land." Liturgical name of [[The Years of Hands]]. Not *Maiethorn* (the Motherland). Not *Haelthael* (the Watching).
 - [[Before the Walk]] stays mostly unnamed; [[The Watching]] keep **the Before**.
 
+**Road coinages (Story 6.2 — 🟡 Proposed):**
+
+- **brenhael** *(bren-HAYL)* — *bren* + *hael* = "the hearth kept whole." Cant of a [[The Walking Years|Walking-era road-house]]: the inn that kept you hale for the waiting. Everyday *road-house*. Not *Brenvaeth* (the era). Not *Brenorn* (a month). The three walks (Near Mile · Salt Walk · Long Mile) stay common-tongue on purpose — logistics before liturgy.
+
 Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 
 ## The three polities, named
@@ -127,7 +131,8 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds
 - [[The Reckoning of the Year]] — the twelve months coined from these roots
 - [[The Ages of the Turning]] — era-names *Brenvaeth* · *Eoloren* · *Ornthael* (🔒)
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 Story 6.1) · [[03 - Cultures]]
+- [[The Walking Years]] — *brenhael* 🟡; three walks in the common tongue
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 Stories 6.1–6.2) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

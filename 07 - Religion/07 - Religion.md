@@ -31,6 +31,7 @@ Deities, faiths, mythology, rituals, and religious history.
 
 ### Teaching-story
 - [[The Child at Four Doors]] — one fable, a different last line in every house
+- [[The Child Who Counted Stones]] — the road's paradox-fable (Story 6.2; romance and graves in the same count)
 
 ### History that touches the Tree
 - [[The Ages of the Turning]] — when there was only the one Tree; pilgrimage then grafts *(lives in `02 - History`)*

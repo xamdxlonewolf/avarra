@@ -89,17 +89,17 @@ The [[Turning Tree|Awakening Tree]] is old beyond reliable dating. There is no y
 
 The reckoning is **universal in principle** (one sun, one moon, the two solstices) but *lived* differently along the [[The World Frame|reach-gradient]]:
 
-- **[[Maiethorn]] (full reach):** Turning-Week is a near-certainty and a vast institution — dense healthy [[Turning Tree|Trees]], nearly every child Given, the pilgrimage to [[Maiethorn|Thaeloren]] cresting at the High Solstice.
-- **[[Strandoren]] (high reach):** the solstice is kept, but as much a *commercial* calendar-hinge (fairs, contract-terms, the [[Long-Lived|deathless houses']] reckoning) as a sacred one.
-- **[[Heskoren]] (thin reach):** Turning-Week is a hard-won event of a *decade*, not a certainty — a child may travel days to the nearest turning Tree, or wait years for a graft to take. The solstice still turns; the gift may not fall.
+- **[[Maiethorn]] (full reach):** Turning-Week is a near-certainty and a vast institution — dense healthy [[Turning Tree|Trees]], nearly every child Given, the pilgrimage to [[Maiethorn|Thaeloren]] cresting at the High Solstice. Lived shape of that pilgrimage, when it was *required*: [[The Walking Years]] (the Near Mile).
+- **[[Strandoren]] (high reach):** the solstice is kept, but as much a *commercial* calendar-hinge (fairs, contract-terms, the [[Long-Lived|deathless houses']] reckoning) as a sacred one. The Salt Walk was the berth that made Eolthael; miss the last crossing and you missed the year.
+- **[[Heskoren]] (thin reach):** Turning-Week is a hard-won event of a *decade*, not a certainty — a child may travel days to the nearest turning Tree, or wait years for a graft to take. The solstice still turns; the gift may not fall. Whole districts are still on the Long Mile.
 - **[[The Sundering Isle|Kumbaan]] (no reach):** the [[Yumboe|Yumboes]] keep **the moon, not the solstice** — a nocturnal, lunar reckoning owing nothing to the Trees, because they have none. The one people in the world whose calendar the Leaf-Mother never touched. *(A quiet keystone tell — see GM Notes.)*
 
 ## Links
 - [[Turning Tree]] (the Leaf-Fall, held Turning-Week) · [[The Leaf-Mother]] (the faith that reads the solstice as her choosing) · [[The Premise]] (solstice-timing locked)
 - [[The World Frame]] — the reach-gradient this calendar is lived along · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Yumboe]] (the lunar-reckoning people) · [[The Old Tongue]] (month-roots) · [[Naming in the Turning]] · [[Naming People in the Turning]]
-- [[The Ages of the Turning]] — Cut-years and the two clocks · [[The First Cut]]
-- [[Roadmap]] (Epic 3; Epic 6 Story 6.1) · [[01 - World]]
+- [[The Ages of the Turning]] — Cut-years and the two clocks · [[The First Cut]] · [[The Walking Years]] — when to leave so as not to miss the week
+- [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.2) · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

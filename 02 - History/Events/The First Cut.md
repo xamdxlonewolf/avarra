@@ -52,5 +52,6 @@ All five are playable. The spine does not pick a winner. Skeptics grant the hort
 
 ## Links
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The Years of Hands]]
+- [[The Child Who Counted Stones]] — the walk as count
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Watching]] · [[The Old Ways]]
 - [[Maiethorn]] · [[02 - History]] · [[Roadmap]] (Story 6.3)

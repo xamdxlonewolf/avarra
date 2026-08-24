@@ -54,7 +54,7 @@ An **older Tree-faith the Motherfaith grew over** persists in Maiethorn's oldest
 
 ## Story hooks
 
-- The pilgrimage to Thaeloren as a road-story engine — everyone comes here eventually.
+- The pilgrimage to Thaeloren as a road-story engine — everyone comes here eventually. In [[The Walking Years]] they *had* to; the Near Mile was how Maiethorn Turned.
 - Threnmaieth's [[Naming in the Turning|Threnhael]] census as a thing to steal, forge, escape, or *audit* against the old heresy's memory.
 - The heartland heresy's clergy who "remember" something the Motherfaith teaches otherwise — a scholar-PC's thread straight toward the [[Is the Leaf-Mother Real|keystone]].
 - A Kept child in a fervent full-reach district, treated as spiritually deficient in the one place being Kept is rarest.
@@ -80,7 +80,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Tree-Wardens]] (First Seat) · [[The Watching]] · [[The Old Tongue]] (conservative drift)
 - [[Polity Archetypes]] (Threnmaieth) · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]
-- [[Roadmap]] (Epic 3; Epic 6 Story 6.1) · [[The Ages of the Turning]] · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.2) · [[The Ages of the Turning]] · [[The Walking Years]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

@@ -159,8 +159,8 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
-- [[The Ages of the Turning]] · [[The First Cut]] — Cutting-leave as captured practice; *Brenvaeth* as the inversion of *Thaelvaeth*
-- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 Story 6.1) · [[05 - Factions]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] — Cutting-leave as captured practice; *Brenvaeth* as the inversion of *Thaelvaeth*; origin-hearth was the only Speaking that counted
+- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 Stories 6.1–6.2) · [[05 - Factions]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

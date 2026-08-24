@@ -86,7 +86,7 @@ The headline financial fact of The Turning is that **its banks do not die.** A [
 - **The long instrument.** Deathless houses lend and endow on horizons no mortal lender would risk — century loans, multi-generation trusts, the patient financing of cathedrals, canals, and universities. (Match to the register: this is *longer* medieval banking, not *modern* banking — letters of credit and endowments, **not** stock exchanges or joint-stock companies, which this world does not have.)
 - **The concentration risk.** Wealth that never passes to an heir never disperses *through inheritance* — the great scattering that mortal death forces on every other fortune simply never happens here. Even at ~2.5% of the population, the deathless can slowly gather an outsized share of standing capital — which is precisely the ossification the vampire's rarity is *meant* to cap, and a live tension the economy never fully resolves. (This is not undone by their habit of endowing — see below: an endowment moves the *coin* out but keeps the *steering*, so influence concentrates even as liquid wealth flows into the institutions they still direct.)
 
-**Where the houses came from (🟡, Story 6.1).** Many began as **road-houses** in [[The Walking Years]] — inns, beds, and century-credit for families who had to walk to Thaeloren. When the walk stopped being required in the core, the same Long-Lived still remembered every debtor on the road, and the paper outlived the pilgrimage-season. They became banks. The trusted note is a Walking-era instrument that outlived its road. Lived texture of the inns themselves is Story 6.2; do not invent a second banking-order.
+**Where the houses came from.** Many began as **road-houses** in [[The Walking Years]] — inns, beds, and century-credit for families who had to walk to Thaeloren. Lived: the house in the *act* of being an inn (*brenhael* 🟡; the Held bed; a note you pay on the home-walk). When the walk stopped being required in the core, the same Long-Lived still remembered every debtor on the road, and the paper outlived the pilgrimage-season. They became banks. The trusted note is a Walking-era instrument that outlived its road. Do not invent a second banking-order.
 
 ## Inheritance and the problem of not dying
 
@@ -128,8 +128,8 @@ The grammar is universal; the *distribution* is political — and varies the way
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its economic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
 - [[The Slide]] — lived face of illicit Tithe-supply (Story 5.2) · [[Rogue House Options]] — menu closed
 - [[Tithe-Infrastructure]] — official furnishing (Story 5.3) · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]]
-- [[The Ages of the Turning]] — road-houses → banks · [[The Walking Years]]
-- [[Roadmap]] (Epic 2, Story 2.2; Epic 6 Story 6.1) · [[03 - Cultures]]
+- [[The Ages of the Turning]] — road-houses → banks · [[The Walking Years]] — the inn in the act
+- [[Roadmap]] (Epic 2, Story 2.2; Epic 6 Stories 6.1–6.2) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

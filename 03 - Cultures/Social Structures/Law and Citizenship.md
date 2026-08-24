@@ -25,7 +25,7 @@ So citizenship in The Turning is **witnessed, not recorded.** You are of a place
 
 > **There is no register of the people.** No town, church, or crown keeps a list of everyone and their gift. That would be to hold a record *on* people, and it is not how this world works. Belonging is living communal memory, the way a real village knows its own — not a ledger. (The one kingdom that *does* keep such a list is a notorious exception — see [How polities vary](#How%20polities%20vary) — and it reads as unsettling precisely *because* no one else does it.)
 
-This gives the world its citizenship engine, its regulatory hook, and its central injustice, all from the same warm root. **It is also a Hands-era default.** In [[The Walking Years]] the town that saw you Turn was the crowd under Thaeloren — or no one, if you never arrived. Vouching-at-a-distance exists to *carry that origin-witness home.* The grammar below is how the present works; the road underneath it is [[The Ages of the Turning]].
+This gives the world its citizenship engine, its regulatory hook, and its central injustice, all from the same warm root. **It is also a Hands-era default.** In [[The Walking Years]] the town that saw you Turn was the crowd under Thaeloren — or no one, if you never arrived. Vouching-at-a-distance exists to *carry that origin-witness home.* The grammar below is how the present works; the road underneath it is [[The Ages of the Turning]] and, lived, [[The Walking Years]] (the one-week door, the split household, origin-orphans).
 
 ## How you prove who you are — by *people*, not papers
 
@@ -118,8 +118,8 @@ The grammar above is universal; the *tone* is not — and the world is as varied
 - [[Conditions]] — the roster this law regulates · [[The Stilled]] · [[Bound]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Taken-In]] · [[The Unbound]]
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes below (Vaethorn · Lestrand · Threnmaieth) · [[The Old Tongue]] — the root language · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Tithe-Infrastructure]] — official furnishing · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] — the tickets and the raw-Struck desk (Story 5.3)
-- [[The Ages of the Turning]] — local witness as Hands-era weather · [[The Walking Years]]
-- [[Roadmap]] (Epic 2, Story 2.1; Epic 6 Story 6.1) · [[03 - Cultures]]
+- [[The Ages of the Turning]] — local witness as Hands-era weather · [[The Walking Years]] — witness at the origin, or not at all
+- [[Roadmap]] (Epic 2, Story 2.1; Epic 6 Stories 6.1–6.2) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Carries the keystone tie-in this note is keyed to via `reveals: [leaf-mother-is-real]`.)*

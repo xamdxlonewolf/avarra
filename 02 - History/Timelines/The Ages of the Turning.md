@@ -14,7 +14,7 @@ updated: 2026-08-24
 
 # The Ages of the Turning
 
-> **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2). The hinge event → [[The First Cut]] (Story 6.3). The present as leftover → [[The Years of Hands]] (Story 6.4).
+> **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2 ✅). The hinge event → [[The First Cut]] (Story 6.3). The present as leftover → [[The Years of Hands]] (Story 6.4).
 
 > **Canon status.** 🔒 **Locked 2026-08-24 (user-approved):** two clocks, unnamed preface, Grafting as a still-moving wave, no universal year-zero, dating reveals stance, names (*Brenvaeth · Eoloren · Ornthael*), present **C.Y. 387**, spread-shape (Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never). Still open: who made the First Cut; [[Is the Leaf-Mother Real|the nature of her limit]]. Built with `systemic-worldbuilding` and `world-fates`.
 
@@ -119,13 +119,13 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 - **A creation myth, a first king, a war of the ages.** Kings wait on [[Roadmap|Epic 7]] and [[Roadmap|Epic 8]]. The spine is wood and walking.
 
 ## Links
-- **Eras & the hinge:** [[Before the Walk]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]
+- **Eras & the hinge:** [[Before the Walk]] · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Years of Hands]]
 - [[The Reckoning of the Year]] — months, solstice, three new-year's days; Cut-years live there too
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]]
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Old Tongue]] · [[Naming in the Turning]]
 - [[The Watching]] · [[The Old Ways]] · [[The Fair Hand]] · [[The Open Table]]
-- [[Long-Lived]] · [[Phoenix]] · [[02 - History]] · [[Roadmap]] (Epic 6, Story 6.1)
+- [[Long-Lived]] · [[Phoenix]] · [[02 - History]] · [[Roadmap]] (Epic 6, Stories 6.1–6.2)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

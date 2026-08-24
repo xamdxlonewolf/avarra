@@ -36,7 +36,7 @@ updated: 2026-08-24
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | 🟢 core done |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; **4** custom ancestries ✅ · Story 4.2 ✅ | Low | 🟢 core done |
 | **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ✅ done |
-| **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | 🟢 Story 6.1 done |
+| **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | 🟢 Stories 6.1–6.2 done |
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ⬜ |
 | **8** | [[#Epic 8 — People]] | The cast | Low | ⬜ |
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟡 ongoing |
@@ -202,7 +202,7 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 ---
 
 ## Epic 6 — History
-**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** 🟢 **Story 6.1 done and 🔒 (2026-08-24, user-approved).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]].
+**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** 🟢 **Stories 6.1–6.2 done (2026-08-24).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]]. Lived road: [[The Walking Years]].
 
 > **Load-bearing calls (Story 6.1):** two clocks, not four stacked ages — **how you Turned** (Walking vs Hands) and **where the wood has reached** (the Grafting as a *still-moving wave*). No universal year-zero; dating reveals stance. Do not date the Tree's appearing. Do not lock who cut. Do not lock the nature of her limit. Do not run the colonial "we brought Trees to the far" version.
 
@@ -216,15 +216,15 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 - [x] Spine consequences: local-witness citizenship is Hands-era; deathless houses from road-houses; Cutting-leave captures a heresy; language-drift after the road's conserving pull; Heskoren is the tail
 - [x] One oblique document (White-Note clerk vs Eoloren-count) + era/event notes as spine, not lived chronicle
 
-### Story 6.2 — The Walking Years (lived) ⬜ **NEXT** → [[The Walking Years]]
-The road as a life, not a label. Depends on 6.1.
-- [ ] What the walk was — routes, Turning-Week timing, who could afford it, who died
-- [ ] Far reaches Kept/Struck-heavy as the *rule*, not an edge-case
-- [ ] Institutions of the road (inns, mile-shrines, summer traffic) and the deathless road-house in the act of being a road-house
-- [ ] Witness at the origin, or not at all — the legal under-layer of [[Law and Citizenship]]
-- [ ] [[Long-Lived]] who still say *I walked* (perfect memory, disagreed meaning)
-- [ ] Folklore / one oblique or paradox-fable — romance and graves in the same sentence
-- [ ] 🔒 Do not write a golden age. Do not agree with Vaethorn's guilt-theology that distance was unworthiness.
+### Story 6.2 — The Walking Years (lived) ✅ **DONE (2026-08-24)** → [[The Walking Years]]
+The road as a life, not a label. Depends on 6.1. Do not rebuild the spine.
+- [x] 🟡 What the walk was — three walks (Near Mile · Salt Walk · Long Mile); Turning-Week as a one-week door; who could afford it; who died
+- [x] 🔒 Far reaches Kept/Struck-heavy as the *rule*, not an edge-case (split household; Old Ways refusal is not a miss)
+- [x] 🟡 Institutions of the road — mile-shrines (grave and waymark); road-houses in the act (*brenhael* 🟡); summer traffic; Tithe as a pot and a shed (did not clone Epic 5)
+- [x] 🔒 Witness at the origin, or not at all — vouching-at-a-distance as road-tech; origin-orphans
+- [x] 🔒 [[Long-Lived]] who still say *I walked* — four jobs, disagreed meaning
+- [x] Folklore [[The Child Who Counted Stones]] + innkeeper's slate (Thilim; the Held bed)
+- [x] 🔒 Do not write a golden age. Do not agree with Vaethorn's guilt-theology that distance was unworthiness.
 
 ### Story 6.3 — The First Cut and the spread ⬜ → [[The First Cut]]
 Hinge event + how the wave moved. Depends on 6.1–6.2. Do not rebuild the spine. Do not pick a cutter unless play needs a face.
@@ -274,11 +274,11 @@ What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7.
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅**. **Story 4.2 ✅ and 🔒 (2026-08-23, user-approved)** → [[Kinds of the Turning]] · [[Naming People in the Turning]] · months · Kumbaan name base · leaf-colours. Revisit flag on the four ancestries still open (not blocking). Deep grammar + ~12 powers' tongues still deferred.
 - **Epic 5 — Factions:** ✅ **COMPLETE (2026-08-23).** Stories 5.1–5.3 done → [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] (names 🟡, do not rebuild).
-- **Epic 6 — History:** 🟢 **Story 6.1 done and 🔒 (2026-08-24, user-approved).** 8 / 8 of 6.1. Hub [[The Ages of the Turning]] · [[Before the Walk]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]. Names *Brenvaeth / Eoloren / Ornthael* 🔒. Present C.Y. 387 🔒. Cutter and the nature of her limit still open. **⭐ Next: Story 6.2 (the Walking Years, lived).** Stories 6.3–6.4 task-sketched.
-- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Epic 6 Story 6.1 done. Next: Story 6.2.**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · *Brenvaeth / Eoloren / Ornthael* 🔒 · C.Y. 387 🔒 · Tree undated · cutter unpicked · limit's nature still open). Epic 5 complete (clergy/guild names 🟡). **Next: Story 6.2 (the Walking Years, lived).**
+- **Epic 6 — History:** 🟢 **Stories 6.1–6.2 done (2026-08-24).** 8 / 8 of 6.1 🔒; 7 / 7 of 6.2. Hub [[The Ages of the Turning]] · lived road [[The Walking Years]] · fable [[The Child Who Counted Stones]]. Names *Brenvaeth / Eoloren / Ornthael* 🔒. Walks *Near Mile / Salt Walk / Long Mile* and cant *brenhael* 🟡. Present C.Y. 387 🔒. Cutter and the nature of her limit still open. **⭐ Next: Story 6.3 (the First Cut and the spread).** Story 6.4 task-sketched.
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Epic 6 Stories 6.1–6.2 done. Next: Story 6.3.**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · *Brenvaeth / Eoloren / Ornthael* 🔒 · C.Y. 387 🔒 · Tree undated · cutter unpicked · limit's nature still open). Epic 5 complete (clergy/guild names 🟡). **Next: Story 6.3 (the First Cut and the spread).**
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
-- [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]
+- [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Years of Hands]]
 - [[Conditions]] · [[00 - Core]] · [[Conventions]]
