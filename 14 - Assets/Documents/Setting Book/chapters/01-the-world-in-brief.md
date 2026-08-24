@@ -21,17 +21,3 @@ The surface of life is late-medieval: chartered towns, guild halls, markets, let
 It is the **Years of Hands**, Cut-year **387**. Town Trees stand in most squares. The walk to the origin is no longer required — except where the wood is still travelling, or has failed. On Heskoren the Grafting is not finished. Kumbaan has never Turned.
 
 This book is the world as it stands.
-
-## How to use this copy
-
-This is a compiled world book, written as settled setting, not as a workshop. Design notes, build order, and "why we chose this" have been left out so the world can be read as a world.
-
-**Parts I–VII** are the setting. Names are given as the names. Open questions that the world itself has not settled — who made the First Cut; the nature of the Mother's limit — remain open in the text.
-
-**The GM appendix** at the end is canon the table does not start knowing. It is marked. Read the world first if you want to audit it the way a player would meet it.
-
-**Rules** for Daggerheart sit inside the Condition and Kind entries: Transformation cards and ancestry features, using the game's own terms (Hope, Stress, Hit Points, Fear, range bands). Folklore and in-world papers are quoted as they are told.
-
-The vault remains the working source of truth. This copy is for reading, marking up, and catching what feels thin, contradictory, or wrong.
-
-Print the PDF with a wide right margin, or annotate it in any PDF reader. The HTML is the same book: searchable, with a clickable contents, and it will print if you prefer that route. Open the HTML in a word processor if you want comments in the margin.

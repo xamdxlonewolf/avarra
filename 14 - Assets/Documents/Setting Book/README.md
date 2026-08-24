@@ -1,41 +1,44 @@
 # The Turning — World Book
 
-A compiled setting book covering the world as it stands through Epics 0–7 (foundations through settlements). Written as settled setting, not as a build log.
+A living setting book. The **spine is locked** in `STRUCTURE.md`. New work fills a reserved chapter or a *Not yet written* box; it does not invent a parallel outline.
 
-About **108,000 words** / **~280 PDF pages**. The HTML is the easier reading copy; the PDF is for highlights and margin notes.
+HTML is the reading copy. PDF is the notes copy.
 
 ## Files
 
 | File | What it is |
 |---|---|
-| **The-Turning-World-Book.html** | The book. Open in a browser. Searchable. Clickable contents. Prints cleanly. |
-| **The-Turning-World-Book.pdf** | The same book, paginated, for annotation (Preview, Acrobat, GoodNotes, iPad). |
-| `build_world_book.py` | Regenerates HTML (and PDF, if Chrome is available) from the chapter markdown. |
-| Chapter `.md` files | Source chapters used by the builder. Not the reading copy. |
+| **STRUCTURE.md** | Locked table of contents. Status: filled / partial / reserved. |
+| **chapters/** | One markdown file per chapter. This is what you edit. |
+| **The-Turning-World-Book.html** | The book. Searchable. Clickable contents. Reserved chapters marked *to write*. |
+| **The-Turning-World-Book.pdf** | Same book, paginated, for annotation. |
+| `build_world_book.py` | Rebuilds HTML and PDF from `STRUCTURE.md` + `chapters/`. |
 
-The vault notes remain canonical. This folder is a reading copy for audit.
+The vault notes remain canonical. This folder is the reading copy.
 
-## Why HTML and PDF
+## How to update
 
-- **HTML** — best for sitting down with the whole world: jump the contents, search a name, read on a laptop or tablet.
-- **PDF** — best for notes: highlights, sticky comments, print with a wide right margin.
-- **Word** — open the HTML in Word or Google Docs if you want threaded comments. A native `.docx` is not the reading copy; the book is prose, not a spreadsheet.
-- **Excel** — a bad fit for this.
-
-## Parts
-
-1. The World in Brief
-2. Becomings (Kind / Condition, the Tithe, all ten Conditions with rules)
-3. Peoples (hearths, four custom Kinds, naming, the Old Tongue)
-4. The Tree and the Faiths
-5. How People Live (law, economy, daily life, guilds, three corners)
-6. The Lands (four continents, the calendar)
-7. The Ages (Walking Years, First Cut, Years of Hands, folklore)
-8. Powers and Places (fifteen powers, playable squares, three seats)
-9. GM Appendix (keystone canon — spoilers)
-
-## Rebuild
+1. Open `STRUCTURE.md` and find the chapter.
+2. Edit `chapters/<file>`. Replace a **Not yet written.** block, or add under a heading that already exists.
+3. Run:
 
 ```bash
 python3 "14 - Assets/Documents/Setting Book/build_world_book.py"
 ```
+
+4. Do not rename files or reorder the spine to make a new idea fit. If something has no home, add a reserved heading *inside* the nearest chapter and note it in STRUCTURE.
+
+## Books
+
+| Book | What's in it |
+|---|---|
+| I · What This World Is | Using this book, the world in brief, Kind and Condition |
+| II · Peoples | Conditions, Kinds, language and naming |
+| III · The Tree and the Faiths | Tree, Motherfaith, five faiths, orders and houses |
+| IV · How People Live | Law, economy, daily life, Tithe-guilds |
+| V · The Lands | Continents, calendar, **climate (to write)**, **maps (to write)** |
+| VI · The Ages | Two clocks, Walking Years, First Cut, Years of Hands |
+| VII · Powers and Places | Fifteen powers, gazetteer, **other places (to write)** |
+| VIII · Faces | **People (to write)** |
+| IX · At the Table | **Play material (to write)** |
+| X · For the GM | Keystone canon |

@@ -202,6 +202,42 @@ tr:nth-child(even) td { background: #fbf8f1; }
   padding: 0.2rem 2.4rem 4rem;
 }
 .note-col { display: none; }
+.book-open {
+  margin: 3.4rem 0 0.4rem;
+  padding: 1.3rem 0 0.4rem;
+  border-top: 2px solid var(--leaf);
+  color: var(--leaf);
+  page-break-before: always;
+}
+.book-open .book-num {
+  display: block;
+  font-variant: small-caps;
+  letter-spacing: 0.28em;
+  font-size: 0.82rem;
+  margin-bottom: 0.25rem;
+}
+.book-open .book-title {
+  font-size: 1.35rem;
+  letter-spacing: 0.04em;
+}
+blockquote.tbd {
+  background: #efe4cc;
+  border-left: 4px dashed #8a7349;
+  font-style: normal;
+  color: var(--ink);
+  padding: 0.7rem 1rem;
+  margin: 1rem 0 1.3rem;
+}
+blockquote.tbd strong:first-child {
+  color: #6a5428;
+  letter-spacing: 0.04em;
+}
+nav#toc .reserved a::after {
+  content: " — to write";
+  color: #8a7349;
+  font-style: italic;
+  font-weight: 400;
+}
 @media screen and (max-width: 980px) {
   nav#toc { display: none; }
   main { margin-left: 0; padding: 1.4rem 1.1rem 4rem; }
@@ -232,13 +268,14 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <nav id="toc">
   <p class="toc-title">Contents</p>
   <ol>
+<li class="h1"><a href="#using-this-book">Using This Book</a></li>
 <li class="h1"><a href="#the-world-in-brief">The World in Brief</a></li>
-<li class="h2"><a href="#how-to-use-this-copy">How to use this copy</a></li>
-<li class="h1"><a href="#becomings">Becomings</a></li>
+<li class="h1"><a href="#kind-and-condition">Kind and Condition</a></li>
 <li class="h2"><a href="#how-a-becoming-arrives">How a becoming arrives</a></li>
 <li class="h2"><a href="#the-tithe">The Tithe</a></li>
 <li class="h2"><a href="#nine-to-choose-ten-in-the-world">Nine to choose, ten in the world</a></li>
 <li class="h2"><a href="#roster">Roster</a></li>
+<li class="h1"><a href="#the-conditions">The Conditions</a></li>
 <li class="h2"><a href="#long-lived">Long-Lived</a></li>
 <li class="h2"><a href="#two-bodied">Two-Bodied</a></li>
 <li class="h2"><a href="#returned">Returned</a></li>
@@ -249,24 +286,25 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <li class="h2"><a href="#the-answered">The Answered</a></li>
 <li class="h2"><a href="#the-taken-in">The Taken-In</a></li>
 <li class="h2"><a href="#phoenix">Phoenix</a></li>
-<li class="h1"><a href="#peoples">Peoples</a></li>
+<li class="h1"><a href="#the-kinds">The Kinds</a></li>
 <li class="h2"><a href="#kinds">Kinds</a></li>
 <li class="h2"><a href="#kitsune">Kitsune</a></li>
 <li class="h2"><a href="#selkie">Selkie</a></li>
 <li class="h2"><a href="#tengu">Tengu</a></li>
 <li class="h2"><a href="#yumboe">Yumboe</a></li>
+<li class="h1"><a href="#language-and-naming">Language and Naming</a></li>
 <li class="h2"><a href="#naming-people">Naming People</a></li>
 <li class="h2"><a href="#the-old-tongue">The Old Tongue</a></li>
 <li class="h2"><a href="#naming-institutions">Naming Institutions</a></li>
-<li class="h1"><a href="#the-tree-and-the-faiths">The Tree and the Faiths</a></li>
-<li class="h2"><a href="#the-turning-tree">The Turning Tree</a></li>
-<li class="h2"><a href="#the-leaf-mother">The Leaf-Mother</a></li>
-<li class="h2"><a href="#five-faiths">Five faiths</a></li>
+<li class="h1"><a href="#the-turning-tree">The Turning Tree</a></li>
+<li class="h1"><a href="#the-leaf-mother">The Leaf-Mother</a></li>
+<li class="h1"><a href="#the-five-faiths">The Five Faiths</a></li>
 <li class="h2"><a href="#the-watching">The Watching</a></li>
 <li class="h2"><a href="#the-fair-hand">The Fair Hand</a></li>
 <li class="h2"><a href="#the-old-ways">The Old Ways</a></li>
 <li class="h2"><a href="#the-open-table">The Open Table</a></li>
 <li class="h2"><a href="#the-child-at-four-doors">The Child at Four Doors</a></li>
+<li class="h1"><a href="#orders-and-houses">Orders and Houses</a></li>
 <li class="h2"><a href="#the-tree-wardens">The Tree-Wardens</a></li>
 <li class="h2"><a href="#the-watchers">The Watchers</a></li>
 <li class="h2"><a href="#the-book-hands">The Book-Hands</a></li>
@@ -274,25 +312,35 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <li class="h2"><a href="#the-table-keepers">The Table-Keepers</a></li>
 <li class="h2"><a href="#the-shore-sitters">The Shore-Sitters</a></li>
 <li class="h2"><a href="#the-slide">The Slide</a></li>
-<li class="h1"><a href="#how-people-live">How People Live</a></li>
-<li class="h2"><a href="#law-and-citizenship">Law and citizenship</a></li>
-<li class="h2"><a href="#economy-and-the-tithe">Economy and the Tithe</a></li>
-<li class="h2"><a href="#daily-life">Daily life</a></li>
-<li class="h2"><a href="#tithe-infrastructure">Tithe-infrastructure</a></li>
+<li class="h1"><a href="#law-and-citizenship">Law and Citizenship</a></li>
+<li class="h1"><a href="#economy-and-the-tithe">Economy and the Tithe</a></li>
+<li class="h1"><a href="#daily-life">Daily Life</a></li>
+<li class="h1"><a href="#tithe-infrastructure-and-guilds">Tithe-Infrastructure and Guilds</a></li>
 <li class="h2"><a href="#the-greens-keepers">The Greens-Keepers</a></li>
 <li class="h2"><a href="#the-hall-keepers">The Hall-Keepers</a></li>
 <li class="h2"><a href="#the-stillers">The Stillers</a></li>
 <li class="h2"><a href="#the-element-guilds">The Element-Guilds</a></li>
 <li class="h2"><a href="#the-intake">The Intake</a></li>
 <li class="h2"><a href="#three-corners-vaethorn-lestrand-threnmaieth">Three corners: Vaethorn, Lestrand, Threnmaieth</a></li>
-<li class="h1"><a href="#the-lands">The Lands</a></li>
+<li class="h1"><a href="#the-four-continents">The Four Continents</a></li>
 <li class="h2"><a href="#how-the-continents-sit">How the continents sit</a></li>
 <li class="h2"><a href="#the-four-continents-at-a-glance">The four continents at a glance</a></li>
 <li class="h2"><a href="#maiethorn-the-motherland">Maiethorn — the Motherland</a></li>
 <li class="h2"><a href="#strandoren-the-shore-lands">Strandoren — the Shore-lands</a></li>
 <li class="h2"><a href="#heskoren-the-sundered-reach">Heskoren — the Sundered Reach</a></li>
 <li class="h2"><a href="#the-sundering-isle-kumbaan">The Sundering Isle — Kumbaan</a></li>
-<li class="h2"><a href="#the-reckoning-of-the-year">The Reckoning of the Year</a></li>
+<li class="h1"><a href="#the-reckoning-of-the-year">The Reckoning of the Year</a></li>
+<li class="h1 reserved"><a href="#climate-ecology-and-travel">Climate, Ecology, and Travel</a></li>
+<li class="h2"><a href="#what-belongs-here">What belongs here</a></li>
+<li class="h2"><a href="#maiethorn">Maiethorn</a></li>
+<li class="h2"><a href="#strandoren">Strandoren</a></li>
+<li class="h2"><a href="#heskoren">Heskoren</a></li>
+<li class="h2"><a href="#kumbaan">Kumbaan</a></li>
+<li class="h1 reserved"><a href="#maps">Maps</a></li>
+<li class="h2"><a href="#what-belongs-here-2">What belongs here</a></li>
+<li class="h2"><a href="#world-map">World map</a></li>
+<li class="h2"><a href="#continent-maps">Continent maps</a></li>
+<li class="h2"><a href="#square-and-seat-maps">Square and seat maps</a></li>
 <li class="h1"><a href="#the-ages">The Ages</a></li>
 <li class="h2"><a href="#the-ages-at-a-glance">The ages at a glance</a></li>
 <li class="h2"><a href="#how-years-are-numbered-2">How years are numbered</a></li>
@@ -302,18 +350,36 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <li class="h2"><a href="#the-first-cut">The First Cut</a></li>
 <li class="h2"><a href="#the-years-of-hands">The Years of Hands</a></li>
 <li class="h2"><a href="#folklore-of-the-road-the-cut-and-the-leftover">Folklore of the road, the Cut, and the leftover</a></li>
-<li class="h1"><a href="#powers-and-places">Powers and Places</a></li>
+<li class="h1"><a href="#the-fifteen-powers">The Fifteen Powers</a></li>
 <li class="h2"><a href="#the-fifteen">The fifteen</a></li>
 <li class="h2"><a href="#the-three-corners">The three corners</a></li>
 <li class="h2"><a href="#the-twelve">The twelve</a></li>
+<li class="h1"><a href="#gazetteer">Gazetteer</a></li>
 <li class="h2"><a href="#gazetteer-types">Gazetteer types</a></li>
 <li class="h2"><a href="#playable-squares">Playable squares</a></li>
 <li class="h2"><a href="#the-three-seats">The three seats</a></li>
-<li class="h1"><a href="#appendix-gm-canon">Appendix: GM Canon</a></li>
+<li class="h1 reserved"><a href="#other-places">Other Places</a></li>
+<li class="h2"><a href="#what-belongs-here-3">What belongs here</a></li>
+<li class="h2"><a href="#sick-tree-town">Sick-Tree town</a></li>
+<li class="h2"><a href="#guest-grove">Guest-grove</a></li>
+<li class="h2"><a href="#road-end">Road-end</a></li>
+<li class="h2"><a href="#stub-seats">Stub seats</a></li>
+<li class="h1 reserved"><a href="#faces-of-the-turning">Faces of the Turning</a></li>
+<li class="h2"><a href="#what-belongs-here-4">What belongs here</a></li>
+<li class="h2"><a href="#offices-already-on-the-ground">Offices already on the ground</a></li>
+<li class="h2"><a href="#positional-pivots">Positional pivots</a></li>
+<li class="h2"><a href="#other-people-of-note">Other people of note</a></li>
+<li class="h1 reserved"><a href="#playing-in-the-turning">Playing in the Turning</a></li>
+<li class="h2"><a href="#what-belongs-here-5">What belongs here</a></li>
+<li class="h2"><a href="#making-a-character">Making a character</a></li>
+<li class="h2"><a href="#starting-situations">Starting situations</a></li>
+<li class="h2"><a href="#tone-at-the-table">Tone at the table</a></li>
+<li class="h2"><a href="#sample-frames">Sample frames</a></li>
+<li class="h1"><a href="#gm-canon">GM Canon</a></li>
 <li class="h2"><a href="#gm-only-conditions">GM only — Conditions</a></li>
 <li class="h2"><a href="#gm-only-peoples">GM only — Peoples</a></li>
 <li class="h2"><a href="#gm-only-society-and-faiths">GM only — Society and Faiths</a></li>
-<li class="h2"><a href="#lands-ages-and-places-gm">Lands, ages, and places — GM</a></li>
+<li class="h1"><a href="#appendix-gm-canon">Appendix: GM Canon</a></li>
 <li class="h2"><a href="#the-leaf-mother-2">The Leaf-Mother</a></li>
 <li class="h2"><a href="#the-other-hands">The Other Hands</a></li>
 <li class="h2"><a href="#yumboes-and-kumbaan">Yumboes and Kumbaan</a></li>
@@ -321,6 +387,7 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <li class="h2"><a href="#the-ages-gm-side">The ages, GM-side</a></li>
 <li class="h2"><a href="#places-gm-side">Places, GM-side</a></li>
 <li class="h2"><a href="#what-is-settled-and-what-is-open">What is settled and what is open</a></li>
+<li class="h2"><a href="#secrets-and-reveals">Secrets and reveals</a></li>
 </ol>
 </nav>
 <main>
@@ -329,10 +396,20 @@ tr:nth-child(even) td { background: #fbf8f1; }
   <h1>The Turning</h1>
   <p class="subtitle">Kind, Condition, and the reach of the Tree</p>
   <p class="meta">
-    Compiled reading copy · Cut-year 387<br>
-    Written as settled setting, for audit
+    Living world book · Cut-year 387<br>
+    Spine locked · reserved chapters marked <em>to write</em>
   </p>
 </section>
+<h1 id="using-this-book">Using This Book</h1>
+<p>This is the world book of <strong>the Turning</strong>. It is written as settled setting, not as a workshop: no build-order, no &ldquo;why we chose this.&rdquo; Names are given as the names. Open questions the world itself has not settled stay open in the text.</p>
+<p>The <strong>spine is locked.</strong> Chapters keep their numbers and titles. When more of the world is built, it is written <em>into</em> the chapter that already exists. Grey boxes marked <strong>Not yet written</strong> are reserved holes — intentional, not missing pages. Filling one means replacing the box, not adding a new chapter.</p>
+<p><strong>Books I–IX</strong> are the setting as a player can meet it.</p>
+<p><strong>Book X</strong> is GM canon: the table does not start knowing it. Read the world first if you want to audit it the way a player would.</p>
+<p><strong>Rules</strong> for Daggerheart sit inside the Condition and Kind entries: Transformation cards and ancestry features, using the game&rsquo;s own terms (Hope, Stress, Hit Points, Fear, range bands). Folklore and in-world papers are quoted as they are told.</p>
+<p>The vault remains the working source of truth. This book is the reading copy — for audit now, and for filling as the world grows.</p>
+<p>Print the PDF with a wide right margin, or annotate it in any PDF reader. The HTML is the same book: searchable, with a clickable contents. Open the HTML in a word processor if you want comments in the margin.</p>
+<div class="book-open"><span class="book-num">Book I</span><span class="book-title">What This World Is</span></div>
+
 <h1 id="the-world-in-brief">The World in Brief</h1>
 <p>Vampires, werewolves, and their kin exist in the Turning, and they are part of society — accepted, employed, and needed. They are not a persecuted underclass and they are not a secret. Each is a becoming, not a species, and each is a neighbour with a job and a cost.</p>
 <p>Every person carries two layers, and they stack.</p>
@@ -345,14 +422,7 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <p>The surface of life is late-medieval: chartered towns, guild halls, markets, letters of credit, mills, universities. No printing press. No gunpowder. The one advancement beyond that surface comes from Condition-labor, paid for by Tithes, concentrated where those Conditions live.</p>
 <p>It is the <strong>Years of Hands</strong>, Cut-year <strong>387</strong>. Town Trees stand in most squares. The walk to the origin is no longer required — except where the wood is still travelling, or has failed. On Heskoren the Grafting is not finished. Kumbaan has never Turned.</p>
 <p>This book is the world as it stands.</p>
-<h2 id="how-to-use-this-copy">How to use this copy</h2>
-<p>This is a compiled world book, written as settled setting, not as a workshop. Design notes, build order, and &ldquo;why we chose this&rdquo; have been left out so the world can be read as a world.</p>
-<p><strong>Parts I–VII</strong> are the setting. Names are given as the names. Open questions that the world itself has not settled — who made the First Cut; the nature of the Mother&rsquo;s limit — remain open in the text.</p>
-<p><strong>The GM appendix</strong> at the end is canon the table does not start knowing. It is marked. Read the world first if you want to audit it the way a player would meet it.</p>
-<p><strong>Rules</strong> for Daggerheart sit inside the Condition and Kind entries: Transformation cards and ancestry features, using the game&rsquo;s own terms (Hope, Stress, Hit Points, Fear, range bands). Folklore and in-world papers are quoted as they are told.</p>
-<p>The vault remains the working source of truth. This copy is for reading, marking up, and catching what feels thin, contradictory, or wrong.</p>
-<p>Print the PDF with a wide right margin, or annotate it in any PDF reader. The HTML is the same book: searchable, with a clickable contents, and it will print if you prefer that route. Open the HTML in a word processor if you want comments in the margin.</p>
-<h1 id="becomings">Becomings</h1>
+<h1 id="kind-and-condition">Kind and Condition</h1>
 <p>Every person in the Turning carries two layers, and they stack.</p>
 <p><strong>Kind</strong> is what you are born: the shape of a body and a bloodline. Human, Elf, Drakona, Kitsune, Selkie, Tengu, and the rest. Kind is mundane. Nobody blinks at it. It is simply the ancestry you arrived in.</p>
 <p><strong>Condition</strong> is what you become. Vampire, werewolf, and their kin are not species in this world. They are becomings: something happens, and a person is changed. Roughly three in four people acquire a Condition over a lifetime. One in four never do. A Condition is a managed state with law, guild, medicine, and work attached to it. Society is built around what the Conditioned can do, and around helping them live with the cost.</p>
@@ -458,6 +528,9 @@ tr:nth-child(even) td { background: #fbf8f1; }
 </table>
 <p>The Kept — the ordinary ~25 percent who receive no Condition — are not on this table. The Tree hugged them. They are wanted in their own right.</p>
 <hr>
+<div class="book-open"><span class="book-num">Book II</span><span class="book-title">Peoples</span></div>
+
+<h1 id="the-conditions">The Conditions</h1>
 <h2 id="long-lived">Long-Lived</h2>
 <p><strong>Folk recognition.</strong> The old tales called them vampires. <strong>Path.</strong> Given only — a rare leaf-colour at Leaf-Fall. <strong>Share.</strong> About 2.5 percent. <strong>Standing.</strong> Rare and revered.</p>
 <p>Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is not a blood-drinking predator. They are an ageless keeper of memory who lives on what they learn. Where the folklore vampire fed on the living, the Long-Lived feed on knowledge; when starved they do not hunt — they fade, forget, and finally empty out. The old blood-hunger survives only as an echo: a Long-Lived can read a memory in a single drop of blood. By ancient courtesy they will not cross a threshold uninvited.</p>
@@ -700,7 +773,7 @@ tr:nth-child(even) td { background: #fbf8f1; }
 </ul>
 <p>Rise From Ash acts only on the Phoenix&rsquo;s own body and Hope. Kindle is an ordinary attack, no different from a torch or a blade in what it may target. Nothing here compels another creature&rsquo;s will.</p>
 </div><hr>
-<h1 id="peoples">Peoples</h1>
+<h1 id="the-kinds">The Kinds</h1>
 <h2 id="kinds">Kinds</h2>
 <p>You are raised by a place, not by your ears.</p>
 <p>A Kind is a birth-shape. Nobody blinks at a fox-tail in a Maiethorn market or wings on a Heskoren ridge. Conditions are the becoming the world organizes around; Kinds are the body you brought to the Turning Tree. There are no Kitsune kingdoms, no Selkie thalassocracies, no Tengu mountain-empires.</p>
@@ -873,6 +946,7 @@ tr:nth-child(even) td { background: #fbf8f1; }
 </ul>
 <p>Yumboes are too rare on the mainland to have grown a local byname-layer. They keep the one register.</p>
 <hr>
+<h1 id="language-and-naming">Language and Naming</h1>
 <h2 id="naming-people">Naming People</h2>
 <p>A person is named by the place that raised them. A custom Kind may also keep a hearth-name.</p>
 <p>Stock ancestries have no private tongue. The four custom Kinds do — a register for given names, kin-names, and in-group talk — and they still wear the local Maiethren drift on the street. You can often hear both homes in one introduction.</p>
@@ -1735,8 +1809,9 @@ tr:nth-child(even) td { background: #fbf8f1; }
 </tbody>
 </table>
 <hr>
-<h1 id="the-tree-and-the-faiths">The Tree and the Faiths</h1>
-<h2 id="the-turning-tree">The Turning Tree</h2>
+<div class="book-open"><span class="book-num">Book III</span><span class="book-title">The Tree and the Faiths</span></div>
+
+<h1 id="the-turning-tree">The Turning Tree</h1>
 <p>A Turning Tree is a broad, slow, long-lived hardwood — canopy like a great oak or beech, but its own kind — that stands at the ceremonial heart of a town, usually in a square, a green, or a walled temple-yard kept for it. Out of season it looks like an unusually grand old tree and townsfolk treat it as one: children climb the low boughs, courts and markets convene in its shade, lovers carve nothing into it (that&rsquo;s taboo). In the tenth-year solstice week it turns — the canopy shifts through colours no ordinary tree wears, and it <em>chooses.</em></p>
 <p>The everyday word is <strong>Turning Tree</strong> (for what it does at the solstice: it <em>turns</em>, and it <em>turns children into what they&rsquo;ll become</em>). The devout call each one <strong>a Hand of the Mother</strong>, and the reverent species-word in liturgy is <strong>motherwood</strong>. In the old liturgical tongue the Tree is <strong>Thaeloren</strong> <em>(thae-LOR-en)</em> — <em>thael</em> (Tree) + <em>oren</em> (to witness), &ldquo;the Tree that witnesses.&rdquo; Everyday worn form: <strong>the Thallow</strong>.</p>
 <h3 id="the-awakening-tree">The Awakening Tree</h3>
@@ -1814,7 +1889,7 @@ tr:nth-child(even) td { background: #fbf8f1; }
 <p>Rare, mixed, or argumentative falls (two colours; a colour no one present has seen; a Phoenix-reading someone wants to be wrong) are why the tree-wardens exist as a civic office, not only a devout one.</p>
 <p>A Tree never Strikes. The Tree only <strong>Gives</strong> or <strong>Keeps</strong>. The Struck — Conditions that arrive through a later threshold, a drowning, an oath, a death survived — happen <em>away</em> from the Tree, with no leaf and no ceremony. The faith&rsquo;s reading of the Struck — whether they&rsquo;re still the Mother&rsquo;s doing — is exactly the live schism.</p>
 <hr>
-<h2 id="the-leaf-mother">The Leaf-Mother</h2>
+<h1 id="the-leaf-mother">The Leaf-Mother</h1>
 <p>Some hold that the <strong>Leaf-Mother</strong> blessed the world with the Conditions, and that the Turning Trees are her hands reaching down to <em>choose</em> — each Leaf-Fall an act of a mother&rsquo;s love. This is a belief held by many, not confirmed cosmology: skeptics are sincere and full members of society, and the faith itself is built to make room for them. Everyday: <strong>the Motherfaith</strong>. Their own name: <strong>Maieth</strong>.</p>
 <h3 id="a-gift-religion">A gift-religion</h3>
 <p>No one is being rescued from a fallen state. The founding fact is that the world received <em>gifts</em> (the Conditions) and goes on receiving them each solstice. The faith is a long answer to <em>how do you live worthy of a gift?</em></p>
@@ -1867,7 +1942,7 @@ tr:nth-child(even) td { background: #fbf8f1; }
 </blockquote>
 <p>On its face: the Tender reading of the Kept, made personal and a little defiant. Underneath: it dramatizes the schism — <em>&ldquo;I have decided&rdquo;</em> is a choice made against doubt, not a certainty.</p>
 <hr>
-<h2 id="five-faiths">Five faiths</h2>
+<h1 id="the-five-faiths">The Five Faiths</h1>
 <p>The Motherfaith is the dominant faith of the Turning lands and not the only one. Five lived faiths, each answering a different experience the Trees (or their absence) actually produce. This is not a list of gods.</p>
 <table>
 <thead>
@@ -2168,6 +2243,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <li>A Threnmaieth school-version adds a clerk who writes all four doors on a roll. Children are not meant to laugh. They do.</li>
 </ul>
 <hr>
+<h1 id="orders-and-houses">Orders and Houses</h1>
 <h2 id="the-tree-wardens">The Tree-Wardens</h2>
 <p>The working clergy of the Motherfaith. They are one order with offices, not rival chapters. They recruit by office, practice, and sometimes Condition, never by Kind.</p>
 <p>Everyday, everywhere: <strong>tree-wardens</strong>, or just <strong>wardens.</strong> Liturgical: <strong>the Orenhael</strong> — or-EN-hayl — <em>oren</em> &ldquo;to witness / speak true&rdquo; + <em>hael</em> &ldquo;whole, hale&rdquo;: those who <em>say the fall truly</em> and <em>keep the Tree sound.</em> Vaethorn&rsquo;s second word is <strong>Hands-folk</strong>; Lestrand&rsquo;s is <strong>tree-tenders</strong>; Threnmaieth files them as <strong>the Reckoned Hands.</strong></p>
@@ -3287,8 +3363,9 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><em>One week of the lot. Extended. Do not let the pot dry. If you cannot come, send a child. The week is the same week. We do not call this a gift. We do not call it a debt. Come before the leaves turn. If you have already turned, come anyway.</em></p>
 </blockquote>
 <p>On its face: a landlord being practical, almost kind. Underneath: the product is <em>not falling</em>, and the blindness the writer cannot afford — they think they refused the Mother&rsquo;s word. They also refused the word <em>debt</em>, which is how the book stays a book of weeks and never quite closes. &ldquo;If you have already turned, come anyway&rdquo; is the house&rsquo;s whole case: becoming did not save you from needing them. The child who carries water is learning the trade.</p>
-<h1 id="how-people-live">How People Live</h1>
-<h2 id="law-and-citizenship">Law and citizenship</h2>
+<div class="book-open"><span class="book-num">Book IV</span><span class="book-title">How People Live</span></div>
+
+<h1 id="law-and-citizenship">Law and Citizenship</h1>
 <p>You belong because your town <em>saw</em> you Turn.</p>
 <p>Every child passes through their town Turning Tree in their tenth year, and the whole town is there to watch. The Leaf-Fall is the most-attended day of a community&rsquo;s year — kin, neighbours, the tree-wardens, all gathered. They <em>see</em> the leaf fall on a child, or see the Tree hug them.</p>
 <p>So citizenship in the Turning is <strong>witnessed, not recorded.</strong> You are of a place because that place <em>remembers you</em> — it watched you become who you are.</p>
@@ -3395,7 +3472,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><strong>The Watchful</strong> <em>(governance turned to its extreme — a deliberate aberration).</em> At the far end of the governance axis sits a crown that breaks the world&rsquo;s norm and <em>does</em> write its people down — a ruler who does not trust living memory and keeps a <strong>roster of every subject and their Condition.</strong> Note precisely what makes this aberrant: it is <em>not</em> that they keep written records at all — every polity has guild rolls, notarial acts, and tax ledgers — it is that they keep <strong>a census of persons and their gifts</strong>, a record held <em>on people</em>, which no one else does. Threnmaieth&rsquo;s census calls itself the <strong>Threnhael</strong> <em>(THREN-hayl)</em> — <em>thren</em> (sacred counting) + <em>hael</em> (whole, hale): &ldquo;the keeping-whole.&rdquo; It <em>sounds</em> like care and <em>is</em> total surveillance. Its own clerks say they &ldquo;keep the realm hale&rdquo;; its subjects are &ldquo;kept whole&rdquo;; outsiders hear &ldquo;the Counting.&rdquo; Framed at home as prudence and order; experienced as <strong>surveillance</strong>, because that is what it is. The unvouched are hunted, the Struck are pursued to be catalogued, Tithe-needs become points of leverage, and the Bound especially are watched far past their real hazard — pure stigma dressed as safety, since the Whisper can&rsquo;t command and the roster&rsquo;s clerks know it. A Watchful kingdom that is also devout and Tree-rich is the darkest corner of the whole space.</p>
 <p><strong>The Frontier</strong> <em>(low reach).</em> Far from any healthy Tree, where even witnessing is thin and custom outruns law. The giving thins where the Trees are thin, so these lands run higher on the Kept and higher on the Struck — more people the rite reached faintly or not at all. Freer in the good sense (no one asks for a licence; the Taken-In whom cities keep at arm&rsquo;s length are simply <em>neighbours</em> here, the backbone of the frontier economy) and lawless in the bad (unvouched Struck with no one to stand for them and no guild to train them, feared Conditions met with a rope rather than a licence). Reach and governance often <em>drift</em> together — a thin-reach edge tends to be thinly governed too — but they need not: a devout frontier and a lightly-governed core both exist.</p>
 <hr>
-<h2 id="economy-and-the-tithe">Economy and the Tithe</h2>
+<h1 id="economy-and-the-tithe">Economy and the Tithe</h1>
 <p>In other worlds an economy is organized around producing what people <em>want</em>. In the Turning it is also organized around a thing no other world has: <strong>keeping three of every four people able to carry what they&rsquo;ve become.</strong> Every Condition has a <strong>Tithe</strong> — an ongoing need that must be met or the scary edge shows. Multiply that by about three-quarters of the population and it stops being a private matter. <strong>Tithe-provision is a permanent sector of the economy</strong>, as large and as load-bearing as food or fuel — greenhouses and venting-halls and ranging-commons the way other worlds build power plants and hospitals.</p>
 <p>This is the plain answer to <em>why society organizes around the Conditioned</em>: not reverence, not fear, but <strong>infrastructure.</strong> A civilization where most people need something regular to stay whole <em>builds around providing it</em> — and the ones who provide it, and the ones who need it, are usually the same people.</p>
 <h3 id="self-paying-vs-provided-for-tithes">Self-paying vs provided-for Tithes</h3>
@@ -3539,7 +3616,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><strong>The Frontier</strong> <em>(low reach).</em> Little formal Tithe-infrastructure and few specialists; people improvise their own provision or do without. Freer (no guild monopoly, no crown&rsquo;s leash; the Taken-In are neighbours, not curiosities) and harsher (the provided-for Tithe-poor slide with no net, untrained Struck manage dangerous Conditions alone). A barter-and-favor economy at the edges, cash-poor and land-rich.</p>
 <p>A devout frontier runs commons-minded charity with almost no infrastructure to fund it; a secular Tree-rich republic has deep markets and thin welfare; a Watchful-and-pious core turns generous provision into the tightest leash in the world.</p>
 <hr>
-<h2 id="daily-life">Daily life</h2>
+<h1 id="daily-life">Daily Life</h1>
 <p>Most of family in the Turning is utterly ordinary. Two people marry; some of their household carries a Condition and some doesn&rsquo;t; the children haven&rsquo;t Turned yet and won&rsquo;t until their tenth year. A born-Selkie wife, a husband Returned from a drowning, a Kept grandmother, three children who are simply children so far — this is not a remarkable household. It is <em>the</em> household. Because Conditions <strong>stack</strong> onto Kinds and arrive across a whole life, nearly every family is &ldquo;mixed&rdquo; in some way, and precisely because nearly every family is, <strong>mixed families are not a category anyone thinks about.</strong> There is no &ldquo;interracial marriage&rdquo; tension here in the Condition layer, because there is no unmixed baseline to marry away from.</p>
 <h3 id="family-the-whole-spectrum">Family — the whole spectrum</h3>
 <p><strong>At the warm, mundane end</strong> (most families): a Condition is just a texture of the household, the way a trade or a temperament is. A Two-Bodied parent&rsquo;s other self has a <em>name</em> and the children know it — &ldquo;that&rsquo;s Bramble, mother&rsquo;s otter&rdquo; — and grows up as much a part of the family as a pet that is also a person. A Far-Voiced household is a <em>loud</em> one, because the Tithe means feeling must be aired daily; you do not get to sulk quietly in a home with a Far-Voiced in it, and families learn to treat the evening&rsquo;s singing or weeping or laughing as ordinary weather. A Taken-In parent keeps the windows open and the rooms green. These are quirks, not tragedies — the small daily accommodations of living with people who are also <em>becomings.</em></p>
@@ -3572,7 +3649,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><strong>The Frontier</strong> <em>(low reach).</em> Thin infrastructure, thin medicine, thin ceremony. Families improvise their own Tithe-provision or do without; a travelling stiller is a rare blessing; the Taken-In whom core cities keep at arm&rsquo;s length are <em>neighbours and kin</em> here, the backbone of the place. Freer (no one polices your marriage or your gift) and harsher (a lapsing Condition with no infirmary to reach, an untrained Struck child with no guild to catch them). Warmer in feeling, poorer in safety-net.</p>
 <p>A devout frontier holds joyous Turnings with almost no infirmary behind them; a secular Tree-rich republic has superb medicine and a marriage market that shrugs at theology; a Watchful-and-pious core turns the sacrament of a child&rsquo;s Turning into a state census with a hymn over it.</p>
 <hr>
-<h2 id="tithe-infrastructure">Tithe-infrastructure</h2>
+<h1 id="tithe-infrastructure-and-guilds">Tithe-Infrastructure and Guilds</h1>
 <p>The lived official sector — who furnishes green / novelty / outlets, and who stamps the handful of hazardous-Condition tickets. Not clergy. Not the Slide.</p>
 <p>Everyday: <strong>the furnishing</strong>, or just <strong>the greens and the halls.</strong> There is no liturgical umbrella — this is civic work, not a fifth faith. Vaethorn says <strong>the gift-works</strong>. Lestrand says <strong>the provision</strong> the way it says <em>the wells</em>. Threnmaieth files <strong>the counted channel</strong>.</p>
 <p><strong>In one sentence:</strong> they keep people whole <em>enough</em>, in public, and they stop at the gate.</p>
@@ -4283,7 +4360,9 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><strong>Its injustice</strong> <em>(the sanctified-surveillance blend).</em> The worst of both the high knobs, each excusing the other. The devotion sanctifies the surveillance (<em>it is reverence to be counted</em>), and the surveillance enforces the devotion (<em>to refuse the count is impiety</em>). There is no clean villain and no cackling tyrant — only a wealthy, faithful, orderly people who genuinely believe that accounting for the Mother&rsquo;s gifts is the highest form of tending them, and a machinery of control that this belief makes almost impossible to resist. It reads as chilling <strong>precisely because no other polity keeps such a list</strong> — the creepy record is this one crown&rsquo;s invention, and the faith is what lets it feel like grace.</p>
 <p><strong>The seat.</strong> <strong>Maiethlir</strong> <em>(my-eth-LEER)</em> — a thaw-river Hand in the Sacred Core. The extra mile is the leftover; the Threnhael is the layer. Does not own Thaeloren. The First Seat sits in the Motherwood beside.</p>
 <hr>
-<h1 id="the-lands">The Lands</h1>
+<div class="book-open"><span class="book-num">Book V</span><span class="book-title">The Lands</span></div>
+
+<h1 id="the-four-continents">The Four Continents</h1>
 <p>The map of the Turning is not a scatter of lands. It is a <strong>gradient of the Trees&rsquo; reach</strong>, and reading it outward tells the whole story of the world:</p>
 <p><strong>sacred-dense origin → mercantile middle → thin frontier → storm-walled isle beyond</strong></p>
 <p>There is one Awakening Tree — <strong>Thaeloren</strong> — and every town Tree is a living graft carried outward from it. The further a land sits from the deep, old, densely-grafted core, the thinner its reach tends to run: fewer, younger, more fragile Trees; more children left among the Kept; more people Struck alone and later. The physical map and the cosmological map are the same map. In the world this reads as plain distance and history.</p>
@@ -4444,7 +4523,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <h3 id="faith-4">Faith</h3>
 <p><strong>The Open Table</strong> (<em>Ndeyaan</em>) — the Yumboes&rsquo; own cosmology, grown in isolation and owing nothing to the Motherfaith. Their old accounts frame the good people as bound up with the ancestors and the dead (the Yumboes are called &ldquo;the spirits of the dead&rdquo;), reinvented here as a living faith of hill, moon, hospitality, and the staying-kin — not literal ghosts. The Table-Keepers keep the hall; the Shore-Sitters keep the sand.</p>
 <hr>
-<h2 id="the-reckoning-of-the-year">The Reckoning of the Year</h2>
+<h1 id="the-reckoning-of-the-year">The Reckoning of the Year</h1>
 <p>How the Turning keeps time. The Leaf-Fall is solstice-timed, so the year&rsquo;s reckoning is load-bearing: it fixes when children Turn, when the great festival falls, and how a world with mechanical clocks but no printing press actually counts its days. Astronomy is kept light — enough to run the rite and date events, not a full orrery.</p>
 <h3 id="the-sky">The sky</h3>
 <p>A single sun and a single <strong>moon</strong> on a familiar monthly cycle — enough to give the world nights, tides, and the Yumboes&rsquo; moonlit calendar. Four true seasons, real winters (the temperate Old World register). The one fact that matters cosmologically is the <strong>solstice</strong> — the sun&rsquo;s turning-point — because that is when the Trees turn.</p>
@@ -4600,6 +4679,60 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <li><strong>Kumbaan (no reach):</strong> the Yumboes keep <strong>the moon, not the solstice</strong> — a nocturnal, lunar reckoning owing nothing to the Trees, because they have none. The one people in the world whose calendar the Leaf-Mother never touched.</li>
 </ul>
 <hr>
+<h1 id="climate-ecology-and-travel">Climate, Ecology, and Travel</h1>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> This chapter is reserved for playable weather, what grows, hazards, and how a journey actually feels. The continents in <em>The Four Continents</em> already carry climate-at-a-glance. This is the deeper pass: seasons you can schedule a Tithe around, roads and sea-lanes, disease and forage, and how the Taken-In, Two-Bodied, and Returned work change by country.</p>
+</blockquote>
+<h2 id="what-belongs-here">What belongs here</h2>
+<ul>
+<li>Per-continent seasons and the hazards that matter at the table</li>
+<li>What the Taken-In Tithe needs in rain-shadow, shore, frontier, and isle</li>
+<li>The inner sea as the Old World crossing; Heskoren&rsquo;s wider water; the storm-wall as travel, not scenery</li>
+<li>Roads that still end at a Tree; summer traffic leftover from the Walking Years</li>
+<li>Disease, forage, and where Stilled/Returned medicine clusters</li>
+</ul>
+<h2 id="maiethorn">Maiethorn</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Sacred Core, Motherwood, central range, Rain-Shadow, western inner-sea coast — seasons, soils, and what a graft needs to take.</p>
+</blockquote>
+<h2 id="strandoren">Strandoren</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Indented coasts, interior behind the ports, the inner-sea weather, salt and trade as ecology.</p>
+</blockquote>
+<h2 id="heskoren">Heskoren</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Thin-reach frontier: wild coast, highland spines, live Grafting weather, what a young Tree faces.</p>
+</blockquote>
+<h2 id="kumbaan">Kumbaan</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Storm-walled isle: moon, hill, shallows. No Tree-ecology. The crossing as the fact that keeps the isle itself.</p>
+</blockquote>
+<h1 id="maps">Maps</h1>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> This chapter is reserved for the maps themselves — a world map on the reach-gradient, the four continents, and playable squares at a scale you can walk. Until a map is drawn, the verbal map in <em>The Four Continents</em> is the map.</p>
+</blockquote>
+<h2 id="what-belongs-here-2">What belongs here</h2>
+<ul>
+<li>World map: east-origin Maiethorn → inner sea → Strandoren → Heskoren → storm-wall → Kumbaan</li>
+<li>Continent maps with the fifteen powers placed</li>
+<li>Square maps: Harrow&rsquo;s Green, the three hamlets, Brenthael / Third Hearth, Ornsael</li>
+<li>Seat maps: Eolvaeth, Orentel, Maiethlir (First Seat beside, not inside)</li>
+<li>A travel diagram of the three walks (Near Mile, Salt Walk, Long Mile) as history, and of present Hands-roads</li>
+</ul>
+<h2 id="world-map">World map</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong></p>
+</blockquote>
+<h2 id="continent-maps">Continent maps</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong></p>
+</blockquote>
+<h2 id="square-and-seat-maps">Square and seat maps</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong></p>
+</blockquote>
+<div class="book-open"><span class="book-num">Book VI</span><span class="book-title">The Ages</span></div>
+
 <h1 id="the-ages">The Ages</h1>
 <p>People in this world do not live in &ldquo;the Fourth Age.&rdquo; They keep <strong>two overlapping clocks</strong>, and which one they glance at tells you where they stand.</p>
 <p><strong>Clock 1 — How you Turned</strong> (personal, generational). Did you walk to Thaeloren (or to a neighbour who had already walked), or did you stand under a town graft? Ordinary families date themselves this way: <em>we are a Hands-house; grandmother still talks of the road.</em> A Long-Lived who says <em>&ldquo;I walked&rdquo;</em> is dating the room.</p>
@@ -5318,7 +5451,9 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <li>Kumbaan does not keep this story. A mainland guest who tells it is offered more supper, which is an answer.</li>
 </ul>
 <hr>
-<h1 id="powers-and-places">Powers and Places</h1>
+<div class="book-open"><span class="book-num">Book VII</span><span class="book-title">Powers and Places</span></div>
+
+<h1 id="the-fifteen-powers">The Fifteen Powers</h1>
 <h2 id="the-fifteen">The fifteen</h2>
 <p>Fifteen named powers on the three large continents. Kumbaan is not a thirteenth mainland power and not a sixteenth: it is an isolate with a table, a moon, and a storm-wall. The Isle is a people at home; it is not a flag on the Seat&rsquo;s list.</p>
 <p>Beneath the fifteen the world still swarms — marches, free towns, petty Tree-seats, un-polity&rsquo;d wild. Fifteen names the powers worth naming, not the number of places that exist.</p>
@@ -5674,6 +5809,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><strong>Goals.</strong> Keep taken grafts alive. Host the neighbour&rsquo;s week. Argue the next pot. Survive being the sentence the Seat already wrote.</p>
 <p><strong>Its injustice.</strong> <strong>The queue as a border.</strong> Harrow&rsquo;s luck is politics. The hamlets can see the canopy and send children anyway. Folk-right temptation in a kitchen drawer. Spreading Trees did not make the march kind.</p>
 <hr>
+<h1 id="gazetteer">Gazetteer</h1>
 <h2 id="gazetteer-types">Gazetteer types</h2>
 <p>Every Turning-place already inherits: <strong>the Tree at the centre</strong> (or the neighbour&rsquo;s Tree, or the wait for one); Tithe-provision as civic utility where the polity can afford it; dangerous trades on the edges; homes that accommodate becomings; the reach-edge writing the map.</p>
 <p>Layered on top from the Years of Hands: a road that used to go further; a stone that used to be a day&rsquo;s walk; an upper room that used to be a pilgrim-dorm; a house that used to be an inn. Adaptive reuse is how Ornthael looks like a present.</p>
@@ -6011,8 +6147,138 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 </blockquote>
 <p>Rithim cannot afford to see that &ldquo;I have not said the line&rdquo; is the only refusal the roll still has to metabolize, or that a loud river is a leftover the verso will file as weather. The clerk cannot afford to see that the delay <em>is</em> the leftover: a pilgrimage-town that still thinks the hymn comes first. Both are telling the truth they have. The First Seat, asked later, will say the Tree witnessed. That is also true.</p>
 <hr>
+<h1 id="other-places">Other Places</h1>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> This chapter is reserved for places the world has already implied but not yet seated: leftover settlement types with no named square, and the unnamed seats of the twelve stub powers. Do not make Harrow&rsquo;s Green or Ornsael a capital to tidy the map. Do not capture the First Seat.</p>
+</blockquote>
+<h2 id="what-belongs-here-3">What belongs here</h2>
+<p>Leftover types listed in the Gazetteer that still have no named square:</p>
+<ul>
+<li>A <strong>sick-Tree</strong> town (civic crisis; neighbour&rsquo;s week as the whole year)</li>
+<li>A <strong>guest-grove</strong> (Old Ways door and a graft in the same green)</li>
+<li>A <strong>lead road-end</strong> (the road that used to go further, and now doesn&rsquo;t)</li>
+</ul>
+<p>And, when a stub power needs a place rather than a name:</p>
+<ul>
+<li>Seats of the twelve (currently unnamed on purpose)</li>
+<li>White Note inland houses beyond Mataero&rsquo;s letting-slate</li>
+<li>Kumbaan places, when the Open Table wants ground rather than a table</li>
+</ul>
+<h2 id="sick-tree-town">Sick-Tree town</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> A blighted or dying Tree; pilgrimage or a neighbour; the Road-hands&rsquo; time running out.</p>
+</blockquote>
+<h2 id="guest-grove">Guest-grove</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Two claimants on one green: warden and door-keeper.</p>
+</blockquote>
+<h2 id="road-end">Road-end</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> The road that ends at a Tree that used to be a day&rsquo;s stone farther on.</p>
+</blockquote>
+<h2 id="stub-seats">Stub seats</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> One square each, if a later pass needs the twelve to have doors. Names from the power&rsquo;s own drift. Not capitals of convenience.</p>
+</blockquote>
+<div class="book-open"><span class="book-num">Book VIII</span><span class="book-title">Faces</span></div>
+
+<h1 id="faces-of-the-turning">Faces of the Turning</h1>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> This chapter is reserved for people. Offices already named as furniture in the Gazetteer wait here to become characters: the job is why they matter, not a destiny. Not a chosen-one roster. Not Kind-champions. Not a pope at the First Seat.</p>
+</blockquote>
+<h2 id="what-belongs-here-4">What belongs here</h2>
+<p>Four to six <strong>positional pivots</strong> — ordinary jobs that become structural. Mix: at least one office already named, and at least one mouth from an unused leftover (sick-Tree, guest-grove, Intake desk, Grown-Over room).</p>
+<p>Two clocks visible in the cast: someone who walked and someone who did not; someone on the live front and someone who thinks the wave is over.</p>
+<h2 id="offices-already-on-the-ground">Offices already on the ground</h2>
+<p>These are furniture until they are people. Do not rebuild the seats or squares to give them a stage.</p>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Where they stand</th>
+<th>The job</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Haelin</strong></td>
+<td>Harrow&rsquo;s Green / the hamlets</td>
+<td>warden who sends</td>
+</tr>
+<tr>
+<td><strong>Thilim</strong></td>
+<td>a road-house slate</td>
+<td>innkeeper of the Held bed</td>
+</tr>
+<tr>
+<td><strong>Ledan</strong></td>
+<td><em>(placed with the houses)</em></td>
+<td>clerk who copies</td>
+</tr>
+<tr>
+<td><strong>Mataero</strong></td>
+<td>White Note, inland letting</td>
+<td>occupancy</td>
+</tr>
+<tr>
+<td><strong>Vaethod</strong></td>
+<td>Eolvaeth</td>
+<td>warden of a pilgrim-edge</td>
+</tr>
+<tr>
+<td><strong>Sorim</strong></td>
+<td>Orentel</td>
+<td>factor who holds a berth</td>
+</tr>
+<tr>
+<td><strong>Rithim</strong></td>
+<td>Maiethlir</td>
+<td>Speaker who will not say the line</td>
+</tr>
+</tbody>
+</table>
+<h2 id="positional-pivots">Positional pivots</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Each: the job, a false belief that has to die or not, and how their square intersects the others without making a party of protagonists.</p>
+</blockquote>
+<h2 id="other-people-of-note">Other people of note</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> A Grown-Over Watcher under Maiethlir&rsquo;s recut chapel. An Intake clerk who is not the Slide. Others as play needs a mouth, not a court.</p>
+</blockquote>
+<div class="book-open"><span class="book-num">Book IX</span><span class="book-title">At the Table</span></div>
+
+<h1 id="playing-in-the-turning">Playing in the Turning</h1>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> This chapter is reserved for the table: how to make a character in this world, where a campaign can start, and how the room should feel. The world exists; this is how you sit down in it.</p>
+</blockquote>
+<h2 id="what-belongs-here-5">What belongs here</h2>
+<ul>
+<li>Making a character: Kind + Condition (or Kept) + place, against Daggerheart&rsquo;s class and community</li>
+<li>What &ldquo;the ticket&rdquo; and a Tithe look like at session zero</li>
+<li>Starting situations tied to places that already exist (a seat, a square, a leftover job)</li>
+<li>Tone: integrated, lived-in, about five percent scary</li>
+<li>Sample frames: a live Grafting town; a quay with a White Note; an origin-town under a roll</li>
+</ul>
+<h2 id="making-a-character">Making a character</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Heritage (Kind), transformation (Condition), community, class. The Given / Struck / Kept choice. Guild tickets for the hazardous few. Hearth-name and byname.</p>
+</blockquote>
+<h2 id="starting-situations">Starting situations</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> One door each from Eolvaeth, Orentel, Maiethlir, Harrow&rsquo;s Green, Ornsael, the hamlets, the Third Hearth — not a tour. The leftover job on the street is the hook.</p>
+</blockquote>
+<h2 id="tone-at-the-table">Tone at the table</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Neighbours, colleagues, family. The Tithe is the edge. The Leaf-Fall is warm. Dread does not live in the Tree.</p>
+</blockquote>
+<h2 id="sample-frames">Sample frames</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> Short campaign shapes that use two clocks and do not treat the Years of Hands as post-history.</p>
+</blockquote>
 <section id="gm-appendix">
-<div class="gm-banner"><h1 id="appendix-gm-canon">Appendix: GM Canon</h1><p>Appendix: GM Canon</p></div>
+<div class="book-open"><span class="book-num">Book X</span><span class="book-title">For the GM</span></div>
+
+<div class="gm-banner"><h1 id="gm-canon">GM Canon</h1><p>The table does not start knowing this. Read the world first if you want to meet it as a player would.</p></div>
 <h2 id="gm-only-conditions">GM only — Conditions</h2>
 <ul>
 <li>A Tithe&rsquo;s dangerous edge is story pressure, never a gotcha and never a seizure of the player&rsquo;s character. Consequences land on the Conditioned person&rsquo;s own body, memory, Stress, or immediate surroundings unless a feature explicitly says otherwise. Nobody&rsquo;s will is bent.</li>
@@ -6068,7 +6334,7 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <p><strong>The cold embrace</strong> is a diagnostic and a hook. A Returned whose embrace has gone cold is a quiet family crisis.</p>
 <p><strong>Whoever furnishes a provided-for Tithe holds power over its bearer.</strong> That is the sharpest economic lever. Coercion with a friendly face — the scary edge in economic form.</p>
 <p>Player-facing notes keep her unproven. Skeptics have their full dignity. Never let a player-facing beat confirm the Mother; the confirmation is the GM&rsquo;s to place, and it should land as <em>warmth and relief with an ache under it</em>, not horror. There is no harvest, no betrayal waiting to be uncovered. The floor is sound — bounded, costly, and grieving, but sound.</p>
-<h2 id="lands-ages-and-places-gm">Lands, ages, and places — GM</h2>
+<h1 id="appendix-gm-canon">Appendix: GM Canon</h1>
 <p>Player-facing notes keep her unproven. This appendix is what is actually true, regardless of what anyone in the world believes.</p>
 <h2 id="the-leaf-mother-2">The Leaf-Mother</h2>
 <p><strong>Yes. The Leaf-Mother is real, and she is benevolent — but her reach is not infinite, and giving costs her.</strong></p>
@@ -6321,6 +6587,10 @@ The fourth door was a table with a place set, and no one sitting in it.</p>
 <li><strong>Household names</strong> (Quiet Tally / Counterparty / Second Breath / Holding / Taking, and their Maiethren forms) — polishable; the structure is settled.</li>
 <li><strong>Astronomy beyond one sun, one moon, two solstices</strong> — open space if a later story wants eclipses, comets, or a second moon as omen-material.</li>
 </ul>
+<h2 id="secrets-and-reveals">Secrets and reveals</h2>
+<blockquote class="tbd">
+<p><strong>Not yet written.</strong> The architecture of what the table learns, and in what order. The keystone and the household are already in this chapter. This heading is reserved for later reveals as they are authored — not a second cosmology.</p>
+</blockquote>
 </section>
 </main>
 </body>

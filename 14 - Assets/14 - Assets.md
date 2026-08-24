@@ -14,12 +14,14 @@ updated: 2026-08-24
 Maps, images, handouts, documents, and references.
 
 ## Contents
-- **The Turning — World Book** (compiled reading copy of the setting as it stands through settlements):
-  - `Documents/Setting Book/The-Turning-World-Book.html` — searchable, clickable contents
-  - `Documents/Setting Book/The-Turning-World-Book.pdf` — print / annotate
-  - `Documents/Setting Book/README.md` — how to read and rebuild
+- **The Turning — World Book** (living reading copy; spine locked in `STRUCTURE.md`):
+  - `Documents/Setting Book/The-Turning-World-Book.html`
+  - `Documents/Setting Book/The-Turning-World-Book.pdf`
+  - `Documents/Setting Book/STRUCTURE.md` — chapter map
+  - `Documents/Setting Book/chapters/` — one file per chapter (edit here)
+  - `Documents/Setting Book/README.md` — how to update
 
-The vault notes remain the working source of truth. The world book is a reading copy for audit, written as settled setting.
+The vault notes remain the working source of truth.
 
 ## Related
 -

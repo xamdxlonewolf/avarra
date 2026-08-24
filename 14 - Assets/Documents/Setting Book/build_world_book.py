@@ -15,22 +15,11 @@ except ImportError:
     import markdown
 
 HERE = Path(__file__).resolve().parent
+CHAPTERS_DIR = HERE / "chapters"
+STRUCTURE = HERE / "STRUCTURE.md"
 OUT_HTML = HERE / "The-Turning-World-Book.html"
 OUT_PDF = HERE / "The-Turning-World-Book.pdf"
-
-CHAPTERS = [
-    "00 Front Matter.md",
-    "Becomings.md",
-    "Peoples.md",
-    "The Tree and the Faiths.md",
-    "How People Live.md",
-    "Lands Ages Powers.md",
-]
-
-GM_HEADING_RE = re.compile(
-    r"^(?:## GM only[^\n]*|# Appendix: GM Canon)\s*$",
-    re.MULTILINE,
-)
+GM_FILE = "24-gm-canon.md"
 
 CSS = r"""
 :root {
@@ -229,6 +218,42 @@ tr:nth-child(even) td { background: #fbf8f1; }
   padding: 0.2rem 2.4rem 4rem;
 }
 .note-col { display: none; }
+.book-open {
+  margin: 3.4rem 0 0.4rem;
+  padding: 1.3rem 0 0.4rem;
+  border-top: 2px solid var(--leaf);
+  color: var(--leaf);
+  page-break-before: always;
+}
+.book-open .book-num {
+  display: block;
+  font-variant: small-caps;
+  letter-spacing: 0.28em;
+  font-size: 0.82rem;
+  margin-bottom: 0.25rem;
+}
+.book-open .book-title {
+  font-size: 1.35rem;
+  letter-spacing: 0.04em;
+}
+blockquote.tbd {
+  background: #efe4cc;
+  border-left: 4px dashed #8a7349;
+  font-style: normal;
+  color: var(--ink);
+  padding: 0.7rem 1rem;
+  margin: 1rem 0 1.3rem;
+}
+blockquote.tbd strong:first-child {
+  color: #6a5428;
+  letter-spacing: 0.04em;
+}
+nav#toc .reserved a::after {
+  content: " — to write";
+  color: #8a7349;
+  font-style: italic;
+  font-weight: 400;
+}
 @media screen and (max-width: 980px) {
   nav#toc { display: none; }
   main { margin-left: 0; padding: 1.4rem 1.1rem 4rem; }
@@ -275,8 +300,8 @@ HTML_HEAD = """<!DOCTYPE html>
   <h1>The Turning</h1>
   <p class="subtitle">Kind, Condition, and the reach of the Tree</p>
   <p class="meta">
-    Compiled reading copy · Cut-year 387<br>
-    Written as settled setting, for audit
+    Living world book · Cut-year 387<br>
+    Spine locked · reserved chapters marked <em>to write</em>
   </p>
 </section>
 """
@@ -296,45 +321,62 @@ def slugify(text: str) -> str:
     return text or "section"
 
 
-def split_gm(md: str) -> tuple[str, str]:
-    m = GM_HEADING_RE.search(md)
-    if not m:
-        return md.strip() + "\n\n", ""
-    return md[: m.start()].strip() + "\n\n", md[m.start() :].strip() + "\n\n"
-
-
-def load_chapters() -> tuple[str, str]:
-    main_parts: list[str] = []
-    gm_parts: list[str] = []
-    for name in CHAPTERS:
-        path = HERE / name
-        text = path.read_text(encoding="utf-8")
-        if name == "Lands Ages Powers.md":
-            text = re.sub(
-                r"^# The Turning\s+Setting book:[^\n]+\n+",
-                "",
-                text,
-                count=1,
-            )
-        main, gm = split_gm(text)
-        main_parts.append(main)
-        if gm:
-            gm = re.sub(
-                r"^# Appendix: GM Canon\s*",
-                "## Lands, ages, and places — GM\n\n",
-                gm,
-                count=1,
-            )
-            gm_parts.append(gm)
-    gm_md = ""
-    if gm_parts:
-        gm_md = (
-            "# Appendix: GM Canon\n\n"
-            "The table does not start knowing this. Read the world first if you "
-            "want to meet it as a player would.\n\n"
-            + "\n\n".join(gm_parts)
+def parse_structure() -> list[dict[str, str]]:
+    rows: list[dict[str, str]] = []
+    in_table = False
+    for line in STRUCTURE.read_text(encoding="utf-8").splitlines():
+        if line.startswith("| File | Book |"):
+            in_table = True
+            continue
+        if not in_table:
+            continue
+        if not line.startswith("|"):
+            break
+        cells = [c.strip() for c in line.strip("|").split("|")]
+        if len(cells) < 4 or cells[0].startswith("---") or set(cells[0]) <= {"-"}:
+            continue
+        rows.append(
+            {
+                "file": cells[0],
+                "book": cells[1],
+                "chapter": cells[2],
+                "status": cells[3],
+            }
         )
-    return "\n\n".join(main_parts), gm_md
+    return rows
+
+
+def book_divider(book: str) -> str:
+    if book in ("Front", ""):
+        return ""
+    if "·" in book:
+        num, title = [p.strip() for p in book.split("·", 1)]
+    else:
+        num, title = book, ""
+    return (
+        f'<div class="book-open"><span class="book-num">Book {num}</span>'
+        f'<span class="book-title">{title}</span></div>\n\n'
+    )
+
+
+def load_chapters() -> tuple[str, str, list[dict[str, str]]]:
+    rows = parse_structure()
+    main_parts: list[str] = []
+    gm_md = ""
+    last_book = None
+    for row in rows:
+        path = CHAPTERS_DIR / row["file"]
+        text = path.read_text(encoding="utf-8").strip() + "\n\n"
+        if row["file"] == GM_FILE:
+            gm_md = text
+            continue
+        if row["book"] != last_book:
+            divider = book_divider(row["book"])
+            if divider:
+                main_parts.append(divider)
+            last_book = row["book"]
+        main_parts.append(text)
+    return "\n\n".join(main_parts), gm_md, rows
 
 
 def convert(md: str) -> str:
@@ -387,10 +429,21 @@ def wrap_rules(html: str) -> str:
     )
 
 
+def wrap_tbd(html: str) -> str:
+    def repl(m: re.Match) -> str:
+        inner = m.group(1)
+        head = re.sub(r"<[^>]+>", "", inner)[:80]
+        if "Not yet written" in head or "Reserved." in head:
+            return f'<blockquote class="tbd">{inner}</blockquote>'
+        return m.group(0)
+
+    return re.sub(r"<blockquote>(.*?)</blockquote>", repl, html, flags=re.S)
+
+
 def wrap_gm(html: str) -> str:
     html = re.sub(
-        r"<h1([^>]*)>(Appendix: GM Canon)</h1>\s*<p>(.*?)</p>",
-        r'<div class="gm-banner"><h1\1>Appendix: GM Canon</h1><p>\2</p></div>',
+        r"<h1([^>]*)>GM Canon</h1>\s*<p>(.*?)</p>",
+        r'<div class="gm-banner"><h1\1>GM Canon</h1><p>\2</p></div>',
         html,
         count=1,
         flags=re.DOTALL,
@@ -398,17 +451,32 @@ def wrap_gm(html: str) -> str:
     return '<section id="gm-appendix">\n' + html + "\n</section>"
 
 
+def mark_reserved_toc(toc: str, rows: list[dict[str, str]]) -> str:
+    for row in rows:
+        if row["status"] != "reserved":
+            continue
+        slug = slugify(row["chapter"])
+        toc = toc.replace(
+            f'<li class="h1"><a href="#{slug}">',
+            f'<li class="h1 reserved"><a href="#{slug}">',
+            1,
+        )
+    return toc
+
+
 def build_html() -> Path:
-    main_md, gm_md = load_chapters()
+    main_md, gm_md, rows = load_chapters()
     body = convert(main_md)
+    body = wrap_tbd(body)
     gm_html = convert(gm_md) if gm_md.strip() else ""
     if gm_html:
+        gm_html = wrap_tbd(gm_html)
+        gm_html = book_divider("X · For the GM") + gm_html
         gm_html = wrap_gm(gm_html)
-        if not gm_html.strip().startswith("<section"):
-            gm_html = '<section id="gm-appendix">\n' + gm_html + "\n</section>"
         body = body + "\n" + gm_html
     body = wrap_rules(body)
     body, toc = add_heading_ids(body)
+    toc = mark_reserved_toc(toc, rows)
     html = HTML_HEAD.format(css=CSS, toc=toc) + body + HTML_FOOT
     OUT_HTML.write_text(html, encoding="utf-8")
     return OUT_HTML
