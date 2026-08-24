@@ -19,7 +19,7 @@ updated: 2026-08-24
 
 > **The Sown Tree.** *(SAYL-thale · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree" = "the sown Tree.")* Conservative drift: *th* kept even in thin soil — they are still the Motherland. Theology high · reach **mid-low** (wells, not woods) · governance low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not make a Fox kingdom.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Saelthael*; people **Saelthael-folk**. Not *Saelorn* (a month). Not *Saelhael* (greens-keepers' liturgy). Shares *sael* with [[Saelvaeth]] on purpose — sowing on two continents, Clock 2 unfinished at the origin.
+> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Saelthael*; people **Saelthael-folk**. Not *Saelorn* (a month). Not *Saelhael* (greens-keepers' liturgy). Shares *sael* with [[Saelvaeth]] on purpose — sowing on two continents, Clock 2 unfinished at the origin. Playable square: [[Ornsael]] (Story 7.2). **Not Ornsael's kingdom**; Ornsael is not this power's capital.
 
 ## Overview (public)
 
@@ -27,7 +27,7 @@ updated: 2026-08-24
 
 [[Kitsune|Fox of the Sands]] hearths are densest here. That is terrain, not a flag ([[Kinds of the Turning]]). A town with *no* fox-born would be the thing worth asking about.
 
-**Site.** Maiethorn's dry east. Leftover: **Rain-Shadow walk-hold**. West-road after the core stopped. Proves Ornthael is unfinished even at the origin-continent.
+**Site.** Maiethorn's dry east. Leftover: **Rain-Shadow walk-hold**. West-road after the core stopped. Proves Ornthael is unfinished even at the origin-continent. Fleshed square: [[Ornsael]] (the sown-ground, a well-town still walking west).
 
 **How it formed.** Tree-seats that formed around wells and slow grafts (C.Y. 0–80 was slower here — dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow.
 
@@ -46,9 +46,9 @@ Keep grafts alive in thin soil. Keep the west-road open. Refuse the core's story
 - **Not a Kitsune nation.** Sands-Fox densest. Mixed Kinds. Do not put ears on the flag.
 - **Pair with Saelvaeth.** Same root, two clocks' worth of planting. Do not narrate Saelthael as "history" and Saelvaeth as "frontier flavour."
 - **Keystone:** thin take in dry soil stays horticulture in player text.
-- **Hooks.** A west-road cohort; a well-graft that sickens; a core pilgrim who is shocked to find the neighbour's week *on Maiethorn*; a Sands-Fox warden who is tired of being asked if this is a fox-country.
+- **Hooks.** A west-road cohort out of [[Ornsael]]; a well-graft that sickens; a core pilgrim who is shocked to find the neighbour's week *on Maiethorn*; a Sands-Fox warden who is tired of being asked if this is a fox-country. Pair with [[Harrow's Green]] so both clocks are visible in one campaign week.
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[Kinds of the Turning]] · [[Kitsune]]
-- [[Saelvaeth]] · [[Settlement Seeds]] · [[The Years of Hands]] · [[The First Cut]]
-- [[Roadmap]] (Story 7.1)
+- [[Saelvaeth]] · [[Ornsael]] · [[Settlement Seeds]] · [[The Years of Hands]] · [[The First Cut]]
+- [[Roadmap]] (Story 7.2)

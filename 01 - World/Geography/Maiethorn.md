@@ -32,7 +32,7 @@ Maiethorn is the world's **old heart** — the continent people mean when they s
 - **The Sacred Core.** At Maiethorn's heart stands **Thaeloren, the [[Turning Tree|Awakening Tree]]** — the First Hand, in a deep old grove that is the destination of the world's great pilgrimage. The land around it is the most densely-grafted on earth: an old, gentle country of rounded hills, river valleys, and Tree-crowned towns, worn smooth by long settlement (the Azgaar template smooths this land for exactly this reason).
 - **The Motherwood.** Vast old-growth forest of [[Turning Tree|motherwood]] and its wild kin rings the core — the healthiest Trees, the graft-nurseries from which scions travel to the whole world. The [[The Tree-Wardens|First Seat]] and the faith's institutions cluster in the wood's clearings.
 - **A central range** divides the continent's watersheds; temperate, seasonal climate (the [[The Premise|~1400s]] burgher world's — four true seasons, real winters that make the **solstice-timed** Leaf-Fall meaningful). Old roads and river-trade knit it together. [[Tengu]] hearths and Fox-of-the-Snows country sit on the high snows; the range is also why the east is dry (below).
-- **The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country** — the one true dry reach in the known world. This is the hearth of the [[Kitsune|Fox of the Sands]]. It is still Maiethorn (same Trees, same conservative tongue, same pilgrimage-pull westward toward Thaeloren); it is simply the Motherland's *other weather*. Towns here cluster at wells and at whatever graft will take in thin soil. 🔒
+- **The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country** — the one true dry reach in the known world. This is the hearth of the [[Kitsune|Fox of the Sands]]. It is still Maiethorn (same Trees, same conservative tongue, same pilgrimage-pull westward toward Thaeloren); it is simply the Motherland's *other weather*. Towns here cluster at wells and at whatever graft will take in thin soil. Playable square: [[Ornsael]] (the sown-ground; west-road after the core stopped). 🔒
 - **The western coast** faces the busy **inner sea** toward [[Strandoren]] — the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's. [[Selkie]] families are common on these quays, as they are on any old water.
 
 ## Reach
@@ -44,7 +44,7 @@ How the wood got here is [[The First Cut]]: C.Y. 0–80, origin-towns first, a d
 ## Powers & Polities
 
 - **[[Polity Archetypes|Threnmaieth]] — the Tallied Crown** *(the darkest corner: theology high · reach high · governance high)*. The wealthy, pious, surveilled core kingdom, coiled near the sacred center. Its census — the **[[Naming in the Turning|Threnhael]]** — sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is *why* Threnmaieth has so much to count.
-- **The other five (named-stubs → [[Powers of the Turning]]).** [[Maiethvael]] (the Gift-Realm — devout, rich, no list) · [[Orenbren]] (the Witness-Hearths — lodging as power; does not own the Tree) · [[Saelthael]] (the Sown Tree — Rain-Shadow still walking) · [[Eolstrand]] (the Hinge-Shore — inner-sea face) · [[Lirorn]] (the Thaw-Land — range and snowmelt). Hearths, not Kind-nations. Capitals wait on Story 7.3.
+- **The other five (named-stubs → [[Powers of the Turning]]).** [[Maiethvael]] (the Gift-Realm — devout, rich, no list) · [[Orenbren]] (the Witness-Hearths — lodging as power; does not own the Tree; square: [[The Third Hearth]]) · [[Saelthael]] (the Sown Tree — Rain-Shadow still walking; square: [[Ornsael]]) · [[Eolstrand]] (the Hinge-Shore — inner-sea face) · [[Lirorn]] (the Thaw-Land — range and snowmelt). Hearths, not Kind-nations. Capitals wait on Story 7.3.
 
 ## Faith
 
@@ -82,7 +82,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Tree-Wardens]] (First Seat) · [[The Watching]] · [[The Old Tongue]] (conservative drift)
 - [[Polity Archetypes]] (Threnmaieth) · [[Powers of the Turning]] · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]
-- [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.3) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 complete · Story 7.2 squares) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[The Third Hearth]] · [[Ornsael]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

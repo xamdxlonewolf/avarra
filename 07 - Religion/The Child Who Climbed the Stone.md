@@ -57,7 +57,7 @@ Skeptics of every house tell a short ending: *There were not two roads. There wa
 
 ## Variants
 
-- On [[Maiethorn]] it is told as a square-game; the chorus is only *already here.* The Rain-Shadow telling omits the Tree-town mother, or makes her wrong.
+- On [[Maiethorn]] it is told as a square-game; the chorus is only *already here.* The Rain-Shadow telling ([[Ornsael]]) omits the Tree-town mother, or makes her wrong.
 - On [[Strandoren]] the quay-version starts in the loft and never finds a stone until inland, which is the joke and the bill.
 - On [[Heskoren]] some tellers omit the climb. The waiting child is still asking how far when the story stops. Guest-reading tellers start at the meal under the stone. First-reading tellers start at the claiming of the square.
 - A Seat telling ends on the crowd, not the ford. Speakers think this is the real version: the stone should move.
@@ -75,6 +75,6 @@ Skeptics of every house tell a short ending: *There were not two roads. There wa
 
 ## Links
 - [[The Years of Hands]] · [[The Ages of the Turning]] · [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child at Four Doors]]
-- [[The Walking Years]] · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
+- [[The Walking Years]] · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Old Ways]] · [[The Watching]]
 - [[07 - Religion]] · [[Roadmap]] (Story 6.4)

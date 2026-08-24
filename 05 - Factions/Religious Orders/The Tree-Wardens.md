@@ -160,8 +160,8 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] — Cutting-leave as captured copy-right; *Brenvaeth* as the inversion of *Thaelvaeth*; origin-hearth was the only Speaking that counted; fate-pressure noted not rolled
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
-- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete) · [[05 - Factions]]
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[Ornsael]]
+- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete; Story 7.2) · [[05 - Factions]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

@@ -121,6 +121,12 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **the extra mile** / **the First-Hand year** / **the neighbour's week** — the walk's three jobs in [[The Years of Hands]]. Common-tongue on purpose (jobs, not a fourth age). Not *Brenvaeth* (the requirement). Not *Ornthael* (the era). *The old mile* still means the Long Mile when the neighbour is a continent.
 - **the stone in the square** / **the upper room** / **the Held bed** — leftovers. Everyday first. *brenhael* remains the inn's cant, not the loft's.
 
+**Square coinages (Story 7.2 — 🟡 Proposed):**
+
+- **Ornsael** *(orn-SAYL)* — *orn* + *sael* = "the sown-ground." Rain-Shadow walk-hold on [[Saelthael]]. Not *Saelthael* (the polity). Not *Saelorn* (a month). Not *Saelhael* (greens-keepers). Not *Ornthael* (the era).
+- **Brenthael** *(bren-THALE)* — *bren* + *thael* = "the hearth-Tree." Neighbour Hands-town of [[The Third Hearth]]. Not *brenhael* (an inn's cant). Not *Brenvaeth* (the era). Not *Brenorn* (a month). Not *Orenbren* (the lodging-power).
+- **Brenod** *(BREN-od)* · **Vaelun** *(VAY-lun)* · **Ornath** *(OR-nath)* — worn folk hearth-names of [[The Three Hamlets Past the Ford]]. No liturgy on purpose (the Seat's leave did not write them). Not *Vaeloren* / *Brenvaeth* / *Ornled*.
+
 Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 
 ## The fifteen polities, named
@@ -173,7 +179,8 @@ Full one-line derivations of the original three remain:
 - [[The Walking Years]] — *brenhael* 🟡; three walks in the common tongue
 - [[The First Cut]] — *the nameless knife* · *the generation of argument* 🟡
 - [[The Years of Hands]] — *the extra mile* · *the neighbour's week* · *the First-Hand year* 🟡
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete) · [[03 - Cultures]]
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]] — Story 7.2 squares (*Ornsael* · *Brenthael* · *Brenod / Vaelun / Ornath* 🟡)
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete / Story 7.2) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

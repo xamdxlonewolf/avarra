@@ -33,7 +33,7 @@ The [[The Tree-Wardens|First Seat]] sits in the Motherwood beside this power and
 
 ## Structure & Membership
 
-A compact of hearth-towns, not a single inn. Town-wardens and lodging-guilds. Recruits not by Kind. Deathless houses exist here as *patrons of beds* ([[The Third Hearth]] is a seed of the type, not this power's capital).
+A compact of hearth-towns, not a single inn. Town-wardens and lodging-guilds. Recruits not by Kind. Deathless houses exist here as *patrons of beds* ([[The Third Hearth]] is the fleshed square of the type, not this power's capital; neighbour Hands-town **Brenthael**).
 
 ## Goals & Methods
 
@@ -44,11 +44,11 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 ## GM Notes
 
 - **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. Story 7.3 repeats the warning for Threnmaieth. Hold the gap.
-- **Do not clone a deathless house as the state.** [[The White Note House]] and [[The Third Hearth]] stay seeds. Orenbren is many hearths.
+- **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.
 - **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty.
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[The Tree-Wardens]] · [[Turning Tree]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Settlement Seeds]]
 - [[The Third Hearth]] · [[The White Note House]] · [[Polity Archetypes]]
-- [[Roadmap]] (Story 7.1)
+- [[Roadmap]] (Story 7.2)

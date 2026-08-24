@@ -132,7 +132,7 @@ Vaethorn will preach that the houses *abandoned the waiting-road*. History's job
 
 Seat narration: *her will is still travelling.* Folk memory: *the cart came late, the soil was called thin, we can see Harrow's green from here.* Vaethorn will preach *we wait because we are unworthy.* History does not agree. They wait because the wood is slow, the road is long, and the list was written in the Motherwood.
 
-The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. Do not dump it onto Heskoren. Do not forget it. A west-road child after the Sacred Core has stopped walking is Clock 2 on the Motherland, which is how you know Ornthael is not a finished age.
+The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. Playable square: [[Ornsael]]. Do not dump it onto Heskoren. Do not forget it. A west-road child after the Sacred Core has stopped walking is Clock 2 on the Motherland, which is how you know Ornthael is not a finished age.
 
 ## What is strained (the present tense of pressure)
 
@@ -147,14 +147,15 @@ Play may later ask what gives. Story 6.4 does not answer. It leaves the pressure
 
 ## Settlement seeds
 
-Epic 7 builds places. This story only names the *kinds of leftover* a settlement can be, so the next epic does not invent towns without a past. The catalog: [[Settlement Seeds]]. Named stubs already implied by earlier notes:
+Epic 7 builds places. Story 7.2 fleshed four leftover types. The catalog: [[Settlement Seeds]]. Squares:
 
-- [[Harrow's Green]] — a live-front Tree-town; the neighbour's canopy
-- [[The Three Hamlets Past the Ford]] — waiting cluster; the queue made visible
-- [[The Third Hearth]] — a road-house that stayed a hearth
-- [[The White Note House]] — a road-house that became a desk
+- [[Harrow's Green]] — a live-front Tree-town; the neighbour's canopy ✅
+- [[The Three Hamlets Past the Ford]] — waiting cluster; the queue made visible ✅
+- [[The Third Hearth]] — a road-house that stayed a hearth ✅
+- [[Ornsael]] — Rain-Shadow walk-hold; Clock 2 on the Motherland ✅
+- [[The White Note House]] — a road-house that became a desk (unpicked)
 
-Do not name the ~12 other great powers here. Do not design districts. The Tree-at-the-centre grammar in [[Daily Life]] still holds; residues *layer* it (stone in the square, upper room, road that ends at the boughs).
+Do not design the three archetype capitals here. The Tree-at-the-centre grammar in [[Daily Life]] still holds; residues *layer* it (stone in the square, upper room, road that ends at the boughs).
 
 ## Visibility markers (what a character notices)
 
@@ -191,7 +192,7 @@ The teaching-story of the leftover is [[The Child Who Climbed the Stone]] — a 
 
 A [[Phoenix]]'s rebirths remain the one era-marker even Hands-towns cannot file. Do not name historical Phoenixes until a story needs a fishbowl that old.
 
-Named powers, districts, and faces wait on [[Roadmap|Epic 7]] and [[Roadmap|Epic 8]]. The seeds are on the ground.
+Named powers wait on remaining stubs; districts of the three archetype seats wait on [[Roadmap|Story 7.3]]. Playable squares sit on the ground: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. The unused seed-types are still on the catalog.
 
 ## GM Notes
 
@@ -216,7 +217,7 @@ Named powers, districts, and faces wait on [[Roadmap|Epic 7]] and [[Roadmap|Epic
 
 ## Links
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
-- [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The White Note House]]
+- [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The White Note House]] · [[Ornsael]]
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
 - [[Naming in the Turning]] · [[The Old Tongue]] · [[Long-Lived]] · [[Phoenix]]

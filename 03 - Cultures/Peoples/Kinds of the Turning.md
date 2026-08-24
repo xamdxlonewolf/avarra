@@ -91,7 +91,7 @@ Humans are common, not a default the others deviate from. In this world there is
 ## What this does to later work
 
 - **[[Roadmap|Epic 5]] factions** recruit by Condition, guild, and faith, not by Kind. A tree-warden order that was "Kitsune-only" would be a smell.
-- **[[Roadmap|Epic 7]] settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind.
+- **[[Roadmap|Epic 7]] settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind. [[Ornsael]] is the worked example: fox-market by the well, mixed Kinds, no gate.
 - **[[Roadmap|Epic 8]] people** get a Kind, a Condition or Kept, and a *place*. The place names them; see [[Naming People in the Turning]].
 
 ## Links

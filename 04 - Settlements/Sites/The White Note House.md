@@ -18,7 +18,7 @@ updated: 2026-08-24
 
 > **A road-house that became a desk.** A [[Economy and the Tithe|deathless house]] of the trusted note. **Ledan** writes century-loans from a founding-summer the house calls the White Note's count ([[The Ages of the Turning|the clerk's query]]). **Mataero** *(mah-TAY-ro)* lets the loft. The north bed is house custom — not to let — a founding-name the junior is not to copy onto a term. Seeded as a house-year in Story 6.1, landed as present credit in [[The Years of Hands]]. Epic 7 may place the quay-desk and the inland beds on a map; do not name Lestrand's capital here.
 
-> **Canon status.** 🟡 **Named stub.** Everyday *the White Note*; Lestrand still says *the bed-house* and means the bank. Founding ≈ C.Y. 80 (White Note year 200 = Cut-year 280, per Ledan's conversion-problem). Do not invent a second banking-order. Do not give this house a clergy. Do not let Mataero's conversion be the only honest reading.
+> **Canon status.** 🟡 **Named stub.** Everyday *the White Note*; Lestrand still says *the bed-house* and means the bank. Founding ≈ C.Y. 80 (White Note year 200 = Cut-year 280, per Ledan's conversion-problem). Story 7.2 fleshed the other fate ([[The Third Hearth]]); this house stays a seed. Do not invent a second banking-order. Do not give this house a clergy. Do not let Mataero's conversion be the only honest reading. Do not name Lestrand's capital here (7.3).
 
 ## Overview
 
