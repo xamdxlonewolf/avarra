@@ -13,7 +13,7 @@ updated: 2026-08-24
 
 Places people live and places they dig — continents, regions, cities, towns, villages, and sites.
 
-Continents live in `01 - World`. This section is squares: towns, villages, sites. Story 6.4 planted seeds, not cities. Epic 7 fleshes them.
+Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[Powers of the Turning]]). This section is squares: towns, villages, sites. Story 6.4 planted seeds, not cities. Story 7.1 named the powers. Story 7.2 fleshes squares.
 
 ## Contents
 
@@ -26,4 +26,4 @@ Continents live in `01 - World`. This section is squares: towns, villages, sites
 
 ## Related
 - [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]]
-- [[Roadmap]] (Epic 7 next) 
+- [[Roadmap]] (Epic 7 Story 7.2 next) 

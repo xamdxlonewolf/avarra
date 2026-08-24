@@ -43,7 +43,7 @@ How the wood got here is [[The First Cut]]: C.Y. 40–160, **by sea**, wealthy c
 ## Powers & Polities
 
 - **[[Polity Archetypes|Lestrand]] — the Ledger Coast** *(theology low · reach high · governance low)*. The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale, Tithe-provision as a *private market* (buy your green, your novelty, your outlet — and fade if you can't). The richest and coolest corner of the world.
-- **Other great powers (named-stubs → [[Roadmap|Epic 7]]).** Strandoren holds **several of the ~15 [[The Premise|great powers]]** — a constellation of rival merchant-republics, port-leagues, and charter-cities trading and feuding along the coasts. Likely neighbours: a **guild-league** (many cities, one commercial compact), and at least one power leaning toward the fortune-and-contract cult's theology as *state* religion. Stubbed until Epic 7.
+- **The other four (named-stubs → [[Powers of the Turning]]).** [[Brenledd]] (the Hearth-League — many charters, one compact) · [[Leddvael]] (the Reckoned Gift — Fair Hand as civic rite; Book-hands still have no seat) · [[Trenledd]] (the Worn Count — a roll with the hymn worn off) · [[Netstrand]] (the Night Shore — west water, Heskoren trade). Do not name Lestrand's capital here.
 
 ## Faith
 
@@ -79,7 +79,7 @@ NO TEXT, NO LABELS, no writing anywhere.
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Polity Archetypes]] (Lestrand) · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
+- [[Polity Archetypes]] (Lestrand) · [[Powers of the Turning]] · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]
 - [[Roadmap]] (Epic 3; Epic 6 Stories 6.2–6.3) · [[The Walking Years]] — the Salt Walk · [[The First Cut]] — by sea, coasts first · [[01 - World]]

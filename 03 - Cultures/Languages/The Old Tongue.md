@@ -58,6 +58,7 @@ The sacred lexicon the setting's names are built from. (Meanings are the *root* 
 | **ael** | ayl | to air; to let feeling out | The [[Far-Voiced]] outlet — the **ael-hall**. Distinct from **sael** (sowing) and **hael** (wholeness). |
 | **stel** | stel | to still; to hold from moving | The [[The Stilled\|Stilled]]'s craft. New coinage, Story 5.3. |
 | **crae** | kray | craft; the working of an element | The [[The Answered\|Answered]] shops as a sector. New coinage, Story 5.3. |
+| **hesk** | hesk | far/outer edge | Frontier coinage, not in the old liturgy (the liturgy is older than this grafting). [[Heskoren]], [[Vaelhesk]]. |
 
 **A name that carries the whole setting:** the Awakening Tree's own liturgical name is **Thaeloren** *(thae-LOR-en)* — **thael** (Tree) + **oren** (to witness): *"the Tree that witnesses."* The world's entire [[Law and Citizenship|citizenship-by-witness]] system is folded into the name of the Tree itself. (Everyday worn form: **"the Thallow."**)
 
@@ -122,16 +123,44 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 
 Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 
-## The three polities, named
+## The fifteen polities, named
 
-The [[Polity Archetypes]] get their in-world names here — each derived from its own daughter drift, so the name *sounds like* the polity's stance:
+The three [[Polity Archetypes]] plus the twelve stubs of [[Powers of the Turning]] (Story 7.1, seed `20260827`). Each derived from its drift, so the name *sounds like* the stance. Names 🟡 working canon.
+
+**Conservative ([[Maiethorn]]):**
+
+- **Threnmaieth** *(THREN-my-eth)* — **thren** + **maieth** = *"the Mother's Reckoning."*
+- **Maiethvael** *(my-ETH-vayl)* — **maieth** + **vael** = *"the Mother's Gift."* Same *maieth* as Threnmaieth; gift, not count.
+- **Orenbren** *(or-EN-bren)* — **oren** + **bren** = *"the witnessing-hearth."* Not *brenhael* (an inn).
+- **Saelthael** *(SAYL-thale)* — **sael** + **thael** = *"the sown Tree."* Not *Saelorn* / *Saelhael*.
+- **Eolstrand** *(AY-ohl-strand)* — **eol** + **strand** = *"the hinge-shore."* Not *Eoloren* / *Eolthael*.
+- **Lirorn** *(leer-ORN)* — **lir** + **orn** = *"thaw-land."* Not *Liren* / *Ornthael*.
+
+**Eroded ([[Strandoren]]):**
+
+- **Lestrand** *(leh-STRAND)* — **ledd** + **strand**, eroded smooth = *"the Reckoning Coast."*
+- **Brenledd** *(bren-LED)* — **bren** + **ledd** = *"hearths of the ledger."* The compact.
+- **Leddvael** *(led-VAYL)* — **ledd** + **vael** = *"the gift reckoned."* Not *Leddoren* / *Leddhael*.
+- **Trenledd** *(tren-LED)* — eroded **thren** + **ledd**. Reconstruction *Threnledd* unused: they will not say the holy word.
+- **Netstrand** *(NET-strand)* — eroded **neth** + **strand**. Reconstruction *Nethstrand* unused. Why *night* sits on the west shore is left.
+
+**Worn ([[Heskoren]]):**
+
+- **Vaethorn** *(vay-THORN)* — keeps the sacred **th**; everyday worn **"Wethorn."**
+- **Ornled** *(orn-LED)* — **orn** + **ledd**, clipped. On this continent, dropping *th* is a neglect. Reconstruction *Ornledd* unused.
+- **Vaelhesk** *(VAYL-hesk)* — **vael** (older: land's yield) + *hesk-*. Not *Vaeloren* / *Vaethorn*. The fight is in the first syllable: *vael* vs *vaeth*.
+- **Saelvaeth** *(sayl-VAYTH)* — **sael** + **vaeth** = *"sowing into the waiting."* Shares *sael* with Saelthael on purpose.
+
+Full one-line derivations of the original three remain:
 
 - **Vaethorn** *(vay-THORN)* — **vaeth** (the waiting) + **orn** (land) = *"the Waiting Land."* The devout frontier keeps the sacred **th**; the longing-for-a-gift-that-may-not-fall is in the name itself. Everyday worn form **"Wethorn"**; people **Vaethorn-folk**, or **the Waiting**.
-- **Lestrand** *(leh-STRAND)* — **ledd** (to reckon) + **strand** (shore), eroded smooth = *"the Reckoning Coast."* It is the **most-drifted name of the three**, and that is the point: the faith wore off the docks, and so did the thorn. People **Lestrand-folk** or **Strandmen**.
+- **Lestrand** *(leh-STRAND)* — **ledd** (to reckon) + **strand** (shore), eroded smooth = *"the Reckoning Coast."* It is the **most-drifted name of the original three**, and that is the point: the faith wore off the docks, and so did the thorn. People **Lestrand-folk** or **Strandmen**.
 - **Threnmaieth** *(THREN-my-eth)* — **thren** (sacred counting) + **maieth** (the Mother) = *"the Mother's Reckoning."* The pious core keeps the full sacred sound, and names its census outright as reverent stewardship of Her gifts — the [[Polity Archetypes|sanctified-surveillance]] thesis in one word. People **Threnmaieth-folk**; the crown styles itself **the Mother's Reckoning**.
 
+**Kumbaan** is not a sixteenth name on this list.
+
 ## Links
-- [[Polity Archetypes]] — the three polities named here · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
+- [[Polity Archetypes]] — the three corners · [[Powers of the Turning]] — all fifteen · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
 - [[The Tree-Wardens]] — Orenhael · Thaelvaeth (🟡)
 - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] — Nethoren · Leddhael · Vaelbren · Njaalo · Njawaal · Vaethledd (🟡)

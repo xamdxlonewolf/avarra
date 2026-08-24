@@ -26,13 +26,15 @@ updated: 2026-08-24
 
 ## The three polities
 
-Full derivations in [[The Old Tongue#The three polities, named]]. In short:
+Full derivations in [[The Old Tongue#The fifteen polities, named]]. In short:
 
 | Working label | In-world name | Says | Literally | Its stance, in its own name |
 |---|---|---|---|---|
 | the Waiting Lands | **Vaethorn** | vay-THORN | "the Waiting Land" | keeps the sacred *th*; names its own longing |
-| the Ledger Coast | **Lestrand** | leh-STRAND | "the Reckoning Coast" | most-eroded name = most secular polity |
+| the Ledger Coast | **Lestrand** | leh-STRAND | "the Reckoning Coast" | most-eroded name = most secular of the original three |
 | the Tallied Crown | **Threnmaieth** | THREN-my-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
+
+The other twelve (Story 7.1, 🟡) live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
 
 ## The institution dictionary
 
@@ -165,11 +167,11 @@ Lived names of Ornthael. Everyday first; jobs 🟡. Do not narrate this as post-
 
 ## How to coin more (for later notes)
 
-When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the system honest:
-1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or coin a new root in the same sound-palette. Do not collide *Brenvaeth* (the era) / *Brenorn* (a month) / *brenhael* (a road-house) / *Eoloren* (the Cut) / *Ornthael* (the Hands). *The nameless knife*, *the generation of argument*, and the walk's three jobs stay common-tongue on purpose.
-2. **Push it through the right drift** for the place (conserved / worn / eroded).
+When [[Roadmap|Story 7.2]] names squares (and any leftover factions), keep the system honest:
+1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or coin a new root in the same sound-palette. Do not collide *Brenvaeth* (the era) / *Brenorn* (a month) / *brenhael* (a road-house) / *Eoloren* (the Cut) / *Ornthael* (the Hands), or the fifteen power-names in [[Powers of the Turning]]. *The nameless knife*, *the generation of argument*, and the walk's three jobs stay common-tongue on purpose.
+2. **Push it through the right drift** for the place (conserved / worn / eroded). A power's own name already encodes its stance; a town inside it should *sound like* that power, not like a fourth language.
 3. **Give the pronunciation** (CAPS = stress) on first use — always.
-4. **Let the *name* carry the stance** — if a devout and a secular polity would name the same thing, they should name it *differently*, and the difference should be legible.
+4. **Let the *name* carry the stance** — if a devout and a secular polity would name the same thing, they should name it *differently*, and the difference should be legible. For a fourth (or fifteenth) polity's *institution* variant, coin it by the three-column pattern rather than retrofitting the dictionary.
 
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
@@ -181,11 +183,11 @@ When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the s
 - [[The Walking Years]] — the three walks · *brenhael* (Story 6.2)
 - [[The First Cut]] — the nameless knife · the generation of argument (Story 6.3)
 - [[The Years of Hands]] — the extra mile · the neighbour's week · the First-Hand year (Story 6.4)
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming / Epic 6 complete) · [[03 - Cultures]]
+- [[Powers of the Turning]] — the fifteen named powers (Story 7.1)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **The names encode the R2 guard, per polity.** Each polity's vocabulary is its *self-justification*, not the truth of what it does. Threnmaieth's "keeping-whole" (Threnhael) is surveillance that calls itself care; Lestrand's "the free" for the Kept is a market reframing a social slight as a virtue; Vaethorn's "the Waited" wraps real pity in reverence. Per [[Is the Leaf-Mother Real|the keystone]], none of these framings is *dissolved* by the reveal — they are how each society launders its own injustice, and confirming the Mother is kind doesn't make any of the three names honest.
 - **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
-- **Names are working canon, not frozen.** Good enough to build on now; open to a polish pass alongside the wider Epic 4 language/culture work. If a later note needs a fourth polity's variant, coin it by the rules above rather than retrofitting these.
+- **Names are working canon, not frozen.** Good enough to build on now; the twelve new power-names are 🟡 with the rest of Story 7.1. If a later note needs a fifteenth polity's *institution* variant, coin it by the rules above rather than retrofitting these.

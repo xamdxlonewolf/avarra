@@ -31,14 +31,14 @@ This also mirrors the [[The Old Tongue|language]]: the [[The Old Tongue|Old Tong
 
 ## The four continents at a glance
 
-| # | Continent | Reach | Role | The named polity here | Rival-faith seed |
+| # | Continent | Reach | Role | Named powers here | Rival-faith seed |
 |---|---|:---:|---|---|---|
-| **①** | **[[Maiethorn]]** *(the Motherland)* | ●●● full | The sacred origin; the Awakening Tree stands here | **[[Polity Archetypes|Threnmaieth]]** (the Tallied Crown) | [[The Watching]] |
-| **②** | **[[Strandoren]]** *(the Shore-lands)* | ●●○ high | The great trade continent, the world's crossroads | **[[Polity Archetypes|Lestrand]]** (the Ledger Coast) | [[The Fair Hand]] |
-| **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** (the Waiting Lands) | [[The Old Ways]] |
-| **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(its own)* | [[The Open Table]] |
+| **①** | **[[Maiethorn]]** *(the Motherland)* | ●●● full | The sacred origin; the Awakening Tree stands here | **[[Polity Archetypes|Threnmaieth]]** · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] | [[The Watching]] |
+| **②** | **[[Strandoren]]** *(the Shore-lands)* | ●●○ high | The great trade continent, the world's crossroads | **[[Polity Archetypes|Lestrand]]** · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] | [[The Fair Hand]] |
+| **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] | [[The Old Ways]] |
+| **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(not a mainland power)* | [[The Open Table]] |
 
-The three [[Polity Archetypes|archetype polities]] deliberately land on **three different continents** — proof that they're *corners of an axis-space*, not neighbours. Each of the three large continents also carries **several of the ~15 [[The Premise|great powers]]** (named-stubbed until [[Roadmap|Epic 7]]); the archetype is only the most-worked example on each.
+The three [[Polity Archetypes|archetype polities]] deliberately land on **three different continents** — proof that they're *corners of an axis-space*, not neighbours. Each of the three large continents also carries **several of the ~15 [[The Premise|great powers]]** (named in [[Powers of the Turning]]); the archetype is only the most-worked example on each.
 
 ## How they sit (relative geography)
 
@@ -129,7 +129,7 @@ Add 5 20-100 0-100
 So Azgaar auto-generates burgs/states that sound like our world. **Menu → Options → Configure → (Cultures / Names) → Add name base**, name it `Maiethren`, and paste this comma-separated list into the names field. Built from the [[The Old Tongue|Old Tongue]] phonology (liquids + nasals + soft *th*, long vowels, roots *oren / thael / maieth / vael / vaeth / hael / thren / ledd / orn*):
 
 ```
-Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren
+Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Eolstrand,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth
 ```
 *Tuning:* set the name base's **"double-word" / min-max length** to taste; the roots above recombine into plausible Old-Tongue names.
 
@@ -168,11 +168,11 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 
 ## Links
 - **Continents:** [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- **Polities placed here:** [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn)
+- **Polities placed here:** [[Powers of the Turning]] (fifteen) · [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn)
 - **Upstream frame:** [[The Premise]] (scale & register) · [[Turning Tree]] (one Awakening Tree + grafts) · [[The Old Tongue]] (the drift-gradient) · [[Is the Leaf-Mother Real]] (the reach-edge)
 - **Faiths:** [[Faiths of the Turning]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - **People:** [[Yumboe]] (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Kinds of the Turning]]
-- [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.3) · [[The Ages of the Turning]] · [[The First Cut]] · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 7 Story 7.1) · [[The Ages of the Turning]] · [[The First Cut]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

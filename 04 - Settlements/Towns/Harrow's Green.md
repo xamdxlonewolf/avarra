@@ -26,7 +26,7 @@ A grafted pocket on the Sundered Reach. Settlement clustered where the wood took
 
 It is not the end of the wave. It is a Hand that grew up. The three hamlets can see the green from the ford. The Seat has already written that the wood will take *here* and not, this year, *there.* Harrow's lives inside that sentence whether it asked to or not.
 
-[[Polity Archetypes|Vaethorn]] heat sits on the hearth: the warden is most of the state; a Kept apprentice may be pitied for missing a gift they spend a life tending. [[The Old Ways]] are neighbours, not a museum. A first meal at a later planting is a live argument, not a courtesy-card.
+[[Polity Archetypes|Vaethorn]] heat sits on many hearths as gospel, not always as flag — this square lives in [[Saelvaeth]]'s orbit (the live-front march), not as its capital. [[The Old Ways]] are neighbours, not a museum. A first meal at a later planting is a live argument, not a courtesy-card.
 
 ## Districts & Sites
 
@@ -49,5 +49,5 @@ No named cast (Epic 8). Offices that must exist: a town-warden (practice-first, 
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]]
-- [[Heskoren]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
+- [[Heskoren]] · [[Saelvaeth]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
 - [[04 - Settlements]] · [[Roadmap]] (Story 6.4)

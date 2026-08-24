@@ -44,7 +44,7 @@ How the wood got here is [[The First Cut]]: C.Y. 0–80, origin-towns first, a d
 ## Powers & Polities
 
 - **[[Polity Archetypes|Threnmaieth]] — the Tallied Crown** *(the darkest corner: theology high · reach high · governance high)*. The wealthy, pious, surveilled core kingdom, coiled near the sacred center. Its census — the **[[Naming in the Turning|Threnhael]]** — sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is *why* Threnmaieth has so much to count.
-- **Other great powers (named-stubs → [[Roadmap|Epic 7]]).** Maiethorn holds **several of the ~15 [[The Premise|great powers]]**, not just Threnmaieth — a clutch of old kingdoms and Tree-seats competing for proximity to Thaeloren and for the prestige of the pilgrimage. Likely archetype-neighbours: a **devout-but-lightly-governed** old realm (high theology, high reach, *low* governance — the un-built "warm rich core" corner), and the **pilgrimage-seat** itself as a power in its own right. Leave stubbed until Epic 7.
+- **The other five (named-stubs → [[Powers of the Turning]]).** [[Maiethvael]] (the Gift-Realm — devout, rich, no list) · [[Orenbren]] (the Witness-Hearths — lodging as power; does not own the Tree) · [[Saelthael]] (the Sown Tree — Rain-Shadow still walking) · [[Eolstrand]] (the Hinge-Shore — inner-sea face) · [[Lirorn]] (the Thaw-Land — range and snowmelt). Hearths, not Kind-nations. Capitals wait on Story 7.3.
 
 ## Faith
 
@@ -80,7 +80,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 ## Links
 - [[The World Frame]] — the four-continent frame this belongs to · neighbours: [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Tree-Wardens]] (First Seat) · [[The Watching]] · [[The Old Tongue]] (conservative drift)
-- [[Polity Archetypes]] (Threnmaieth) · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
+- [[Polity Archetypes]] (Threnmaieth) · [[Powers of the Turning]] · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]
 - [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.3) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[01 - World]]
 

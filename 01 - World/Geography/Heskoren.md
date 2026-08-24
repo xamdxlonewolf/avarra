@@ -43,7 +43,7 @@ How the wood got here is [[The First Cut]]: C.Y. 200–387, still incomplete. Th
 ## Powers & Polities
 
 - **[[Polity Archetypes|Vaethorn]] — the Waiting Lands** *(theology high · reach low · governance low)*. The frontier touchstone with the theology knob turned all the way up: ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge whose ruling mood is *waiting* for a graft to take, for a gift that may not come. Its injustice is a **guilt** (scarcity read as unworthiness), not a boot.
-- **Other great powers (named-stubs → [[Roadmap|Epic 7]]).** Heskoren holds **some of the ~15 [[The Premise|great powers]]** — but fewer, poorer, and more scattered than the Old World's; frontier realms, march-lords, free settlements, and long stretches of un-polity'd wild between them. A likely neighbour is the un-built **secular frontier** corner (low theology · low reach · low governance — a Vaethorn without the faith, harder and colder). Stubbed until Epic 7.
+- **The other three (named-stubs → [[Powers of the Turning]]).** [[Ornled]] (the Outer Ledger — **secular frontier**, required corner) · [[Vaelhesk]] (the Far Yield — Old Ways host-rights) · [[Saelvaeth]] (the Sown Waiting — live front as a march; [[Harrow's Green]] in its orbit, not as a capital). Fewer, poorer, scattered; un-polity'd wild still fills the space between.
 
 ## Faith
 
@@ -78,7 +78,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
-- [[Polity Archetypes]] (Vaethorn) · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
+- [[Polity Archetypes]] (Vaethorn) · [[Powers of the Turning]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]
 - [[Roadmap]] (Epic 3; Epic 6 complete) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[01 - World]]
@@ -88,4 +88,4 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 
 - **Heskoren is the sharpest in-world test of the keystone edge — protect it.** Per [[Polity Archetypes]], the Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer ([[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]]) is exactly the answer that would land hardest and cruellest here — it would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is *young/sick/scarce grafts* (true as far as it goes) and history ([[The Ages of the Turning]] — Clock 2 still moving). The gap between "true as far as it goes" and the whole truth is where the play lives.
 - **The old ways may be half-right for the wrong reasons.** [[The Old Ways]] revere the Struck and Taken-In as *the land's own, made without the Tree* — and on a near-Treeless frontier, people genuinely do become things without a healthy Tree nearby. That's a live thread: they are the frontier mirror of [[The Watching]] — two old faiths, at opposite edges of the world, both remembering something the Motherfaith smooths over. Whether they're *right* about the Mother stays keystone-gated.
-- **This is where the "secular frontier" un-built corner lives.** [[Polity Archetypes]] names it explicitly as reachable-but-unbuilt (low theology · low reach · low governance). Heskoren is its natural home — a harder, colder Vaethorn with the faith burned out instead of up. Good raw material when Epic 7 needs a second Heskoren power.
+- **This is where the "secular frontier" corner lives.** [[Ornled]] (Story 7.1). Low theology · low reach · low governance — a harder, colder Vaethorn with the faith burned out instead of up. Do not rebuild it into a Wild West.

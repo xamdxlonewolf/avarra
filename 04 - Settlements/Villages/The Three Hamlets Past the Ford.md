@@ -26,7 +26,7 @@ Three hearths past a ford on [[Heskoren]], close enough to share a complaint and
 
 They have learned not to say *queue.* They can recite the horticulture-sentence. Folk-right cutting is a kitchen-knife in a drawer, not a rebellion with a flag. Most slips die. The ones that take are how the First Seat learns it does not own the Tree's tissue, only the authorization.
 
-[[The Old Ways]] hearths among them may **refuse the neighbour's week** on purpose. Their children are already the land's. Motherfaith neighbours read those children as Kept-for-want. Both families are telling the truth they have. History does not agree with [[Polity Archetypes|Vaethorn]] guilt.
+[[The Old Ways]] hearths among them may **refuse the neighbour's week** on purpose. Their children are already the land's. Motherfaith neighbours read those children as Kept-for-want. Both families are telling the truth they have. History does not agree with [[Polity Archetypes|Vaethorn]] guilt. Geographically they sit on a seam: [[Saelvaeth]] luck they can see, [[Vaelhesk]] refusal in the kitchen, Vaethorn gospel on the tongue, [[Ornled]] slate if they walk the other way.
 
 ## Districts & Sites
 
@@ -49,6 +49,6 @@ No named cast (Epic 8). What must exist: families who walk one child and not ano
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[Harrow's Green]]
-- [[Heskoren]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
+- [[Heskoren]] · [[Saelvaeth]] · [[Vaelhesk]] · [[Ornled]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
 - [[The First Cut]] — the leave that named them without naming them
 - [[04 - Settlements]] · [[Roadmap]] (Story 6.4)

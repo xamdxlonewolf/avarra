@@ -14,9 +14,9 @@ updated: 2026-08-24
 
 # Settlement Seeds
 
-> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground for [[Roadmap|Epic 7]]. Not cities. Not the ~12 unnamed great powers. A catalog of settlement-types that already have a past, so the next epic does not invent towns that feel designed last week. Built from Story 6.4 residues with `settlement-design` as *principles only* (layered development, adaptive reuse, the Tree at the centre from [[Daily Life]]). Named stubs that earlier notes already implied are linked below. Everything else stays a type until Epic 7 picks a map-square.
+> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground for [[Roadmap|Epic 7]]. Not cities. A catalog of settlement-types that already have a past, so Story 7.2 does not invent towns that feel designed last week. The ~15 powers are named in [[Powers of the Turning]]. Built from Story 6.4 residues with `settlement-design` as *principles only* (layered development, adaptive reuse, the Tree at the centre from [[Daily Life]]). Named stubs that earlier notes already implied are linked below. Everything else stays a type until Epic 7 picks a map-square.
 
-> **Canon status.** 🟡 **Seeds, not places.** Do not flesh districts, populations, or street-grids here. Do not name the remaining powers. Do not rebuild the era spine. Names of the four stubs are working canon (Harrow's green was already a Seat sentence).
+> **Canon status.** 🟡 **Seeds, not places.** Do not flesh districts, populations, or street-grids here. Powers are named in [[Powers of the Turning]] (Story 7.1). Do not rebuild the era spine. Names of the four stubs are working canon (Harrow's green was already a Seat sentence).
 
 ## What every Turning-place already inherits
 
@@ -44,10 +44,10 @@ Do not clone Road-hands as a town. Do not clone the Slide as a district. Do not 
 
 ## How Epic 7 should use this
 
-1. **Pick a type, then a square** — geography first ([[The World Frame]]), leftover second, polity-face third (Vaethorn / Lestrand / Threnmaieth, or a new named-stub power).
+1. **Pick a type, then a square** — geography first ([[The World Frame]]), leftover second, polity-face third ([[Powers of the Turning]]).
 2. **Keep the two clocks visible** — a road-end Tree-town that never mentions the stone is a backdrop. A waiting cluster written as "frontier flavour" is a stacked age.
 3. **One leftover job per street, not all of them** — devotion, prestige, and necessity can share an inn; they should not all be the town's *theme*.
-4. **Name powers later, from [[The Old Tongue]]** — the ~12 stubs are Epic 7's first story, not this catalog's.
+4. **Name squares from leftover types, against [[Powers of the Turning]]** — the ~12 stubs are Story 7.1 (done). 7.2 picks a type, then a square, then a polity-face.
 
 ## Named stubs (already implied; do not rebuild)
 
@@ -61,7 +61,7 @@ Do not clone Road-hands as a town. Do not clone the Slide as a district. Do not 
 - [[The Child Who Climbed the Stone]]
 - [[Daily Life]] — Tree-at-the-centre grammar · [[Economy and the Tithe]] · [[Law and Citizenship]]
 - [[Heskoren]] · [[Maiethorn]] · [[Strandoren]] · [[The Tree-Wardens]] · [[The Door-Keepers]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 6.4 → Epic 7)
+- [[04 - Settlements]] · [[Powers of the Turning]] · [[Roadmap]] (Story 6.4 → Epic 7 Story 7.2)
 
 ## GM Notes
 

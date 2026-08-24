@@ -19,7 +19,7 @@ updated: 2026-08-23
 > ## **A person is named by the place that raised them. A custom Kind may also keep a hearth-name.**
 > Stock ancestries have no private tongue. The four custom Kinds do — a *register* for given names, kin-names, and in-group talk — and they still wear the local [[The Old Tongue|Maiethren drift]] on the street. You can often hear both homes in one introduction.
 
-> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): named-by-place; hearth-registers *Kusawe / Sakoa / Gonan*; two-name pattern. Individual sample names stay a working list (draw from the seeds). Deep grammar is still deferred (only if spoken dialogue is ever needed). The other ~12 great powers get tongues when those powers are named ([[Roadmap|Epic 7]]), not before.
+> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): named-by-place; hearth-registers *Kusawe / Sakoa / Gonan*; two-name pattern. Individual sample names stay a working list (draw from the seeds). Deep grammar is still deferred (only if spoken dialogue is ever needed). The other great powers use the same roots and the right drift ([[Powers of the Turning]]); no new grammars.
 
 ## The two-name pattern
 
@@ -44,7 +44,7 @@ Everyday names are worn [[The Old Tongue]]: liquids, nasals, soft *th*, long vow
 
 **Stress:** CAPS on first use; usually the second syllable, as in the Old Tongue.
 
-Do not invent a fourth "human language." This *is* the person-language of the Tree-touched world. If a later power needs its own mouth, coin it from the same roots and the right drift — or, for a power that refused the Tree, from a new inventory with a recorded seed.
+Do not invent a fourth "human language." This *is* the person-language of the Tree-touched world. A named power uses the same roots and the right drift ([[Powers of the Turning]]); it does not get a new mouth unless it refused the Tree. [[Vaelhesk]] keeps older *vael* and frontier *hesk-*. [[The Sundering Isle|Kumbaan]] already has its own register.
 
 ## The four hearth-registers
 

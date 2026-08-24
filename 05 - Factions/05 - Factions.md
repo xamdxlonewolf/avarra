@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # 05 - Factions
@@ -16,6 +16,15 @@ Governments, organizations, guilds, religious orders, militaries, and criminal p
 Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]]. See [[Roadmap#Epic 5 — Factions & Orders]].
 
 ## Contents
+
+### Governments (Story 7.1 — named stubs; do not rebuild)
+
+The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Capitals and districts wait on 7.2–7.3. Kumbaan is not a thirteenth mainland power.
+
+- [[Powers of the Turning]] — hub (count, axes, network, two-mouths document)
+- [[Maiethorn]]: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] *(plus Threnmaieth)*
+- [[Strandoren]]: [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] *(plus Lestrand)*
+- [[Heskoren]]: [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] *(plus Vaethorn)*
 
 ### Religious orders (Epic 5)
 
@@ -63,4 +72,4 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 - [[The Intake]] — everyday *the Intake* / *the shed*; cant *catching-year* 🟡. Desk underdog, not a circuit.
 
 ## Related
-- [[Roadmap]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]] 
+- [[Roadmap]] · [[Powers of the Turning]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]] 
