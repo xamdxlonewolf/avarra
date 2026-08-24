@@ -16,7 +16,7 @@ updated: 2026-08-24
 
 > **What this is.** The named-stub pass for the other great powers ([[Roadmap|Story 7.1]]). [[The Premise]] locked **~15 great powers** across three large continents; Epic 2 built three of them as worked corners ([[Polity Archetypes|Vaethorn · Lestrand · Threnmaieth]]). This note names the remaining twelve, places them, and gives each a *stance* — not a capital, not a street-grid. Built with `settlement-design` (site and network, not districts), `governance-systems` (how a power *forms*), `character-naming` + `conlang` (Old-Tongue compounds, seed `20260827`, pick from the middle), and `language-evolution` (the same three drifts, pushed until the name *sounds like* the stance). `cliche-transcendence` and `memetic-depth` kept Kind-nations, pope-kingdoms, and a fourteen-cell axis-catalogue out.
 
-> **Canon status.** 🟡 **Named stubs.** Names, continents, three-knob corners, and one leftover job each are working canon. Capitals, districts, and populations wait on Stories 7.2–7.3. Do not rebuild the era spine. Do not treat [[The Years of Hands|Ornthael]] as post-history. Do not let [[Polity Archetypes|Threnmaieth]] capture the [[The Tree-Wardens|First Seat]] in the first sentence.
+> **Canon status.** 🔒 **Names and placement locked (2026-08-24, user-approved).** Stub texture stays polishable. Capitals, districts, and populations wait on Stories 7.2–7.3. Do not rebuild the era spine. Do not treat [[The Years of Hands|Ornthael]] as post-history. Do not let [[Polity Archetypes|Threnmaieth]] capture the [[The Tree-Wardens|First Seat]] in the first sentence. Do not rebuild this pass.
 
 ## The count
 

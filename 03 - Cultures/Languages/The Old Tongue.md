@@ -125,7 +125,7 @@ Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked 
 
 ## The fifteen polities, named
 
-The three [[Polity Archetypes]] plus the twelve stubs of [[Powers of the Turning]] (Story 7.1, seed `20260827`). Each derived from its drift, so the name *sounds like* the stance. Names 🟡 working canon.
+The three [[Polity Archetypes]] plus the twelve stubs of [[Powers of the Turning]] (Story 7.1, seed `20260827`). Each derived from its drift, so the name *sounds like* the stance. **Names and placement 🔒** (user-approved 2026-08-24); stub texture stays polishable.
 
 **Conservative ([[Maiethorn]]):**
 

@@ -34,7 +34,7 @@ Full derivations in [[The Old Tongue#The fifteen polities, named]]. In short:
 | the Ledger Coast | **Lestrand** | leh-STRAND | "the Reckoning Coast" | most-eroded name = most secular of the original three |
 | the Tallied Crown | **Threnmaieth** | THREN-my-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
 
-The other twelve (Story 7.1, 🟡) live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
+The other twelve (Story 7.1, 🔒) live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
 
 ## The institution dictionary
 
