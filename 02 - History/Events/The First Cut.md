@@ -8,7 +8,7 @@ tags: [event, history, epic-6, grafting, first-cut]
 aliases: [Eoloren, The Cut, The Witnessed Hinge]
 world: The Turning
 era: "[[The Walking Years]] → [[The Years of Hands]]"
-date_in_world: "C.Y. 0 (working present = C.Y. 387)"
+date_in_world: "C.Y. 0 (present = C.Y. 387)"
 reveals: [leaf-mother-is-real]
 created: 2026-08-24
 updated: 2026-08-24
@@ -16,9 +16,9 @@ updated: 2026-08-24
 
 # The First Cut
 
-> **The hinge.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it, married it to new ground, and it *took*. A town somewhere on [[Maiethorn]] Turned under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical (🟡): **Eoloren** *(ay-ohl-OR-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). **Who cut, and how the Seat captured the copy-right, is Story 6.3.** This note holds the event's job in the spine.
+> **The hinge.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it, married it to new ground, and it *took*. A town somewhere on [[Maiethorn]] Turned under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(ay-ohl-OR-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). **Who cut, and how the Seat captured the copy-right, is Story 6.3.** This note holds the event's job in the spine.
 
-> **Canon status.** 🔒 **That it happened, and that every later town Tree descends from a cut, is locked** (graft topology, [[Turning Tree]]). 🔒 **Who did it is not locked.** 🟡 Name and C.Y. 0 as the clerical epoch.
+> **Canon status.** 🔒 **That it happened, and that every later town Tree descends from a cut, is locked** (graft topology, [[Turning Tree]]). 🔒 **Name and C.Y. 0 as the clerical epoch locked 2026-08-24.** 🔒 **Who did it is not locked.**
 
 ## What Happened (as believed)
 

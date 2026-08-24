@@ -202,16 +202,16 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 ---
 
 ## Epic 6 — History
-**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** 🟢 **Story 6.1 done (2026-08-24).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]].
+**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** 🟢 **Story 6.1 done and 🔒 (2026-08-24, user-approved).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]].
 
 > **Load-bearing calls (Story 6.1):** two clocks, not four stacked ages — **how you Turned** (Walking vs Hands) and **where the wood has reached** (the Grafting as a *still-moving wave*). No universal year-zero; dating reveals stance. Do not date the Tree's appearing. Do not lock who cut. Do not lock the nature of her limit. Do not run the colonial "we brought Trees to the far" version.
 
-### Story 6.1 — The era spine ✅ **DONE (2026-08-24)** → [[The Ages of the Turning]]
+### Story 6.1 — The era spine ✅ **DONE AND 🔒 (2026-08-24, user-approved)** → [[The Ages of the Turning]]
 - [x] 🔒 Two clocks, not four stacked ages — Walking/Hands (personal) · the Grafting as a wave still unfinished at [[Heskoren]] (geographic)
 - [x] 🔒 Unnamed preface → [[Before the Walk]] (Tree old beyond dating; [[The Watching]] keep *the Before*)
-- [x] 🟡 Everyday + liturgical names — Walking Years / *Brenvaeth* · First Cut / *Eoloren* · Years of Hands / *Ornthael* (the *Thaelvaeth* / *Brenvaeth* inversion is load-bearing; names polishable)
+- [x] 🔒 Everyday + liturgical names — Walking Years / *Brenvaeth* · First Cut / *Eoloren* · Years of Hands / *Ornthael* (the *Thaelvaeth* / *Brenvaeth* inversion is load-bearing) *(user-approved 2026-08-24)*
 - [x] 🔒 No universal year-zero; dating reveals stance (Seat Cut-years · house-years · "year the graft took" · Watching refuse the count · Kumbaan moons)
-- [x] 🟡 Working present **C.Y. 387**; First Cut = C.Y. 0; spread-table Maiethorn → Strandoren by sea → Heskoren live → Kumbaan never
+- [x] 🔒 Present **C.Y. 387**; First Cut = C.Y. 0; spread-table Maiethorn → Strandoren by sea → Heskoren live → Kumbaan never *(user-approved 2026-08-24)*
 - [x] 🔒 Do not date the Tree's appearing; do not lock who cut; do not lock [[Is the Leaf-Mother Real|the nature of her limit]]
 - [x] Spine consequences: local-witness citizenship is Hands-era; deathless houses from road-houses; Cutting-leave captures a heresy; language-drift after the road's conserving pull; Heskoren is the tail
 - [x] One oblique document (White-Note clerk vs Eoloren-count) + era/event notes as spine, not lived chronicle
@@ -226,20 +226,22 @@ The road as a life, not a label. Depends on 6.1.
 - [ ] Folklore / one oblique or paradox-fable — romance and graves in the same sentence
 - [ ] 🔒 Do not write a golden age. Do not agree with Vaethorn's guilt-theology that distance was unworthiness.
 
-### Story 6.3 — The First Cut and the spread → [[The First Cut]]
-Hinge event + how the wave moved. Depends on 6.1–6.2.
-- Contested attributions (folk / clergy / devout / Watching / Old Ways) — pick a face only if play needs one
-- Heresy → [[The Tree-Wardens|Cutting-leave]]; the queue is born
-- Continent-by-continent carrying (Maiethorn, sea to Strandoren, late Heskoren, never Kumbaan)
-- Seat narration vs folk memory; R2 — spreading Trees did not make society kind
+### Story 6.3 — The First Cut and the spread ⬜ → [[The First Cut]]
+Hinge event + how the wave moved. Depends on 6.1–6.2. Do not rebuild the spine. Do not pick a cutter unless play needs a face.
+- [ ] The five attributions, lived — folk / clergy / devout / Watching / Old Ways, without collapsing them
+- [ ] Heresy → [[The Tree-Wardens|Cutting-leave]]; the queue is born as the Seat's capture of a copy-right
+- [ ] Continent-by-continent carrying inside the locked bands (Maiethorn C.Y. 0–80 · Strandoren by sea 40–160 · Heskoren 200–387 · Kumbaan never)
+- [ ] Seat narration vs folk memory; R2 — spreading Trees did not make society kind
+- [ ] 🔒 Do not date the Tree. Do not lock [[Is the Leaf-Mother Real|the nature of her limit]]. Do not send a graft across the storm-wall.
 
-### Story 6.4 — Residues (the present as history) → [[The Years of Hands]]
+### Story 6.4 — Residues (the present as history) ⬜ → [[The Years of Hands]]
 What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7.
-- Pilgrimage today: devotion / prestige / necessity
-- Visible leftovers (mile-shrines, empty pilgrim-beds, roads that end at a Tree)
-- Deathless houses' road-past as present credit
-- Heskoren as live Grafting; fate-pressure on Seat / Road-hands / waiting towns (`world-fates`, noted not rolled)
-- Settlement seeds for [[#Epic 7 — Settlements]]
+- [ ] Pilgrimage today: devotion / prestige / necessity (the walk changed jobs, it did not vanish)
+- [ ] Visible leftovers — mile-shrines, empty pilgrim-beds, roads that end at a Tree
+- [ ] Deathless houses' road-past as present credit
+- [ ] Heskoren as live Grafting; fate-pressure on Seat / Road-hands / waiting towns (`world-fates`, noted not rolled)
+- [ ] Settlement seeds for [[#Epic 7 — Settlements]]
+- [ ] 🔒 Do not narrate Ornthael as "the modern age after history." Two clocks; the wave is live.
 
 ---
 
@@ -272,9 +274,9 @@ What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7.
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅**. **Story 4.2 ✅ and 🔒 (2026-08-23, user-approved)** → [[Kinds of the Turning]] · [[Naming People in the Turning]] · months · Kumbaan name base · leaf-colours. Revisit flag on the four ancestries still open (not blocking). Deep grammar + ~12 powers' tongues still deferred.
 - **Epic 5 — Factions:** ✅ **COMPLETE (2026-08-23).** Stories 5.1–5.3 done → [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] (names 🟡, do not rebuild).
-- **Epic 6 — History:** 🟢 **Story 6.1 done (2026-08-24).** 8 / 8 of 6.1. Hub [[The Ages of the Turning]] · [[Before the Walk]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]. **⭐ Next: Story 6.2 (the Walking Years, lived).** 6.3–6.4 story-sketched, not task-fleshed.
+- **Epic 6 — History:** 🟢 **Story 6.1 done and 🔒 (2026-08-24, user-approved).** 8 / 8 of 6.1. Hub [[The Ages of the Turning]] · [[Before the Walk]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]. Names *Brenvaeth / Eoloren / Ornthael* 🔒. Present C.Y. 387 🔒. Cutter and the nature of her limit still open. **⭐ Next: Story 6.2 (the Walking Years, lived).** Stories 6.3–6.4 task-sketched.
 - **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Epic 6 Story 6.1 done. Next: Story 6.2.**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · Tree undated · cutter unpicked · limit's nature still open). Epic 5 complete (names 🟡). **Next: Story 6.2 (the Walking Years, lived).**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · *Brenvaeth / Eoloren / Ornthael* 🔒 · C.Y. 387 🔒 · Tree undated · cutter unpicked · limit's nature still open). Epic 5 complete (clergy/guild names 🟡). **Next: Story 6.2 (the Walking Years, lived).**
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub

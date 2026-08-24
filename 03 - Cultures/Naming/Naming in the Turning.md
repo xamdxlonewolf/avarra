@@ -114,7 +114,7 @@ Same lever, now for religions. The common-tongue name is what a traveller says; 
 
 ### Eras & dating (from [[The Ages of the Turning]], Story 6.1)
 
-Same lever, on history itself. There is no universal year-zero. Names 🟡.
+Same lever, on history itself. There is no universal year-zero. Names 🔒 (user-approved 2026-08-24).
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|

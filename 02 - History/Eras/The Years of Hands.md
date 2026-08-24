@@ -7,7 +7,7 @@ status: active
 tags: [era, history, epic-6, hands, present]
 aliases: [Since the Hands, Ornthael, The Grafted Years, The Age of Hands]
 world: The Turning
-spans: "C.Y. 0–present (working present C.Y. 387) as the default where grafts have taken; the Grafting still unfinished on [[Heskoren]]"
+spans: "C.Y. 0–present (C.Y. 387) as the default where grafts have taken; the Grafting still unfinished on [[Heskoren]]"
 preceded_by: "[[The Walking Years]]"
 followed_by:
 reveals: [leaf-mother-is-real]
@@ -17,9 +17,9 @@ updated: 2026-08-24
 
 # The Years of Hands
 
-> **Clock 1, new default — and the present.** A town [[Turning Tree]] is the ordinary way to Turn. Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical (🟡): **Ornthael** *(orn-THALE)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. **Residues, old roads, and the live Heskoren front are Story 6.4.**
+> **Clock 1, new default — and the present.** A town [[Turning Tree]] is the ordinary way to Turn. Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical 🔒: **Ornthael** *(orn-THALE)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. **Residues, old roads, and the live Heskoren front are Story 6.4.**
 
-> **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🟡 Name. Working present **C.Y. 387**.
+> **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🔒 **Name and present C.Y. 387 locked 2026-08-24.**
 
 ## Overview
 

@@ -78,7 +78,7 @@ A mainlander will try to line *Saalo* up with Seed-month and be cheerfully, cons
 
 Months name a season. **Years have no universal number.** Same lever as the three new-year's days, turned toward history: the count you write on a debt is a theology. Full spine: [[The Ages of the Turning]].
 
-- **[[The Tree-Wardens|First Seat]] / devout clerks** count **Cut-years** from [[The First Cut]] (liturg. the *Eoloren-count*). Working present (🟡): **Cut-year 387**.
+- **[[The Tree-Wardens|First Seat]] / devout clerks** count **Cut-years** from [[The First Cut]] (liturg. the *Eoloren-count*). Present 🔒: **Cut-year 387**.
 - **[[Polity Archetypes|Lestrand]] and the [[Economy and the Tithe|deathless houses]]** count from a house-founding or a note-issue ("the 200th summer of the White Note").
 - **[[Polity Archetypes|Vaethorn]]** counts from **the year our graft took** — the same local-fall logic as their new-year.
 - **[[The Watching]]** refuse the Cut-count. **[[The Sundering Isle|Kumbaan]]** keeps moons and owes the ages nothing.

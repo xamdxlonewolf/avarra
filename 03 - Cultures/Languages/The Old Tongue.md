@@ -99,7 +99,7 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **the Crae** *(kray)* — *crae* = "craft." Umbrella of [[The Element-Guilds]]. Four doors, not four liturgies.
 - [[The Intake]] has no liturgical name. Cant: *the catching-year*.
 
-**Era coinages (Story 6.1 — 🟡 Proposed):**
+**Era coinages (Story 6.1 — 🔒 Locked 2026-08-24):**
 
 - **Brenvaeth** *(bren-VAYTH)* — *bren* + *vaeth* = "the hearth gone to the waiting." Liturgical name of [[The Walking Years]]. Deliberate inversion of *Thaelvaeth* (the Tree gone to the waiting): people walked *in*; later, wood walked *out*.
 - **Eoloren** *(ay-ohl-OR-en)* — *eol* + *oren* = "the witnessed hinge." Liturgical name of [[The First Cut]], and of the clerical year-count (*Eoloren-count* / Cut-years). Not *Eolthael* (a month).
@@ -126,7 +126,7 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds
 - [[The Reckoning of the Year]] — the twelve months coined from these roots
-- [[The Ages of the Turning]] — era-names *Brenvaeth* · *Eoloren* · *Ornthael* (🟡)
+- [[The Ages of the Turning]] — era-names *Brenvaeth* · *Eoloren* · *Ornthael* (🔒)
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 Story 6.1) · [[03 - Cultures]]
 
 ## GM Notes

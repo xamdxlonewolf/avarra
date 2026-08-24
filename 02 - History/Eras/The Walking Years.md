@@ -17,9 +17,9 @@ updated: 2026-08-24
 
 # The Walking Years
 
-> **Clock 1, old default.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *pilgrimage* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the old far reaches ran heavy on the Kept and the [[The Premise|Struck]]. Everyday name: **the Walking Years.** Liturgical (🟡): **Brenvaeth** *(bren-VAYTH)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. **Lived texture of the road is Story 6.2** — this note holds the era's job in the spine, not the mile-by-mile.
+> **Clock 1, old default.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *pilgrimage* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the old far reaches ran heavy on the Kept and the [[The Premise|Struck]]. Everyday name: **the Walking Years.** Liturgical 🔒: **Brenvaeth** *(bren-VAYTH)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. **Lived texture of the road is Story 6.2** — this note holds the era's job in the spine, not the mile-by-mile.
 
-> **Canon status.** 🔒 **The requirement is locked** (banked seed). 🟡 Name, duration, and the romance/graves mix. Do not write this as a golden age.
+> **Canon status.** 🔒 **The requirement is locked** (banked seed). 🔒 **Name locked 2026-08-24** (*the Walking Years* / *Brenvaeth*). Lived texture → Story 6.2. Do not write this as a golden age.
 
 ## Overview
 

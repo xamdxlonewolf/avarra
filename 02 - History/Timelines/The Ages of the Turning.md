@@ -16,7 +16,7 @@ updated: 2026-08-24
 
 > **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2). The hinge event → [[The First Cut]] (Story 6.3). The present as leftover → [[The Years of Hands]] (Story 6.4).
 
-> **Canon status.** 🔒 **Structure locked** (the two clocks, the unnamed preface, the Grafting as a *still-moving wave*, no universal year-zero, dating reveals stance, do not date the Tree's appearing). 🟡 **Names and the working present-year** are proposed — safe to polish. Do not lock who made the First Cut. Do not lock [[Is the Leaf-Mother Real|the nature of her limit]]. Built with `systemic-worldbuilding` (consequences of one Tree, then many) and `world-fates` (the Grafting did not *end*; it changed who holds the bottleneck).
+> **Canon status.** 🔒 **Locked 2026-08-24 (user-approved):** two clocks, unnamed preface, Grafting as a still-moving wave, no universal year-zero, dating reveals stance, names (*Brenvaeth · Eoloren · Ornthael*), present **C.Y. 387**, spread-shape (Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never). Still open: who made the First Cut; [[Is the Leaf-Mother Real|the nature of her limit]]. Built with `systemic-worldbuilding` and `world-fates`.
 
 ## The organizing idea: two clocks, not four stacked ages
 
@@ -32,7 +32,7 @@ Both clocks sit on an unnamed preface: [[Before the Walk]]. The Tree was already
 
 ## The ages at a glance
 
-| | Everyday | Liturgical (🟡) | Says | What it *is* |
+| | Everyday | Liturgical 🔒 | Says | What it *is* |
 |---|---|---|---|---|
 | Preface | **[[Before the Walk]]** | *(mostly unnamed)* · [[The Watching]] keep **the Before** | — | The Tree already stood. Kinds, doors, and seeing without a mother's name. Uncounted on purpose. |
 | Clock 1, old default | **[[The Walking Years]]** | **Brenvaeth** *(bren-VAYTH)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed [[Law and Citizenship\|Kept]] for want of the trip. Far lands ran heavy on the Kept and the [[The Premise\|Struck]]. |
@@ -40,7 +40,7 @@ Both clocks sit on an unnamed preface: [[Before the Walk]]. The Tree was already
 | Clock 2 | **the Grafting** | *(process, not an age you exit)* | — | The carrying of hands. Still unfinished at the [[Heskoren\|Sundered Reach]]. Never crossed the storm-wall. |
 | Clock 1, new default | **[[The Years of Hands]]** | **Ornthael** *(orn-THALE)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains — as devotion, prestige, or necessity where a graft has failed. |
 
-The liturgical pair is a deliberate inversion of the [[The Tree-Wardens|Road-hands']] own name. **[[The Old Tongue|Thaelvaeth]]** is "the Tree gone to the waiting" — wood carried *out*. **Brenvaeth** is "the hearth gone to the waiting" — people walking *in*. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths. Names 🟡; the inversion is load-bearing.
+The liturgical pair is a deliberate inversion of the [[The Tree-Wardens|Road-hands']] own name. **[[The Old Tongue|Thaelvaeth]]** is "the Tree gone to the waiting" — wood carried *out*. **Brenvaeth** is "the hearth gone to the waiting" — people walking *in*. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths. Names 🔒 (user-approved 2026-08-24).
 
 ## How years are numbered (the name-reveals-stance lever, on history itself)
 
@@ -56,13 +56,13 @@ There is **no universal year-zero.** Same twelve months; three new-year's days (
 | [[The Old Ways]] | a closed door, a drowning-year, a guest that took | the Hands are when *guests* arrived, not when history began |
 | [[The Sundering Isle\|Kumbaan]] | **moons** | the mainland ages are a sailor's chart they do not owe |
 
-**Working present (🟡):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose. Safe to slide a few decades when Story 6.3 dates the spread; do not slide it into "last Tuesday" or "a thousand years of kings."
+**Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose. Story 6.3 dates events *inside* the spread-bands below; it does not slide the present.
 
 **What you may not date.** The [[Turning Tree|Awakening Tree]] is **old beyond reliable dating.** [[Before the Walk]] has no start. The *nature* of the [[Is the Leaf-Mother Real|Mother's limit]] stays open. Who made the First Cut stays contested ([[The First Cut]]).
 
-### Working spread of the wave (🟡, for GM dating)
+### Spread of the wave (🔒 shape and bands)
 
-Enough to keep geography honest. Not a campaign almanac.
+Enough to keep geography honest. Not a campaign almanac. Story 6.3 fleshes *how*; it does not rewrite *when*.
 
 | Cut-years | Where the wood went |
 |---|---|
@@ -137,5 +137,5 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 - **Historical fate-shifts (already happened — not proposals).** `world-fates` as philosophy, not a roll: (1) road-houses → deathless banks (reformation); (2) unsanctioned cutting → Cutting-leave and the queue (absorption of a heresy by an institution); (3) required pilgrimage → optional pilgrimage (the institution survives by changing function). Present-day fate-pressure on the First Seat (peak power × long tenure of the queue) and on Road-hands (overextension at the Heskoren front) is noted for Story 6.4 / play. Do not collapse either without a later call.
 - **Long-Lived memory is the era-marker the calendar refused to be.** At C.Y. 387, plenty of deathless people remember the late Walking as biography. They are walking archives, and they do not agree — memory is perfect; *meaning* is not. A Long-Lived who walked as a child and a Seat chronicle that starts at the Cut will fight about the same summer. That fight is play. Do not have "the" Long-Lived account.
 - **Kumbaan is the control.** If a later story "finds an old graft on the Isle," it breaks the isolate and the Open Table. Road-hands do not bring the Mother across the storm-wall. Already locked in Epic 5; history must not undo it.
-- **Working numbers are 🟡.** C.Y. 387 and the spread-table are so later notes can date. If Story 6.3 needs the Heskoren wave later or earlier, slide the table — keep the *shape* (Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never).
+- **Present-year and spread-bands are locked (2026-08-24).** C.Y. 387; Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never. Story 6.3 dates named cuttings *inside* those bands. Do not slide the present, and do not invert the order.
 - **Hooks.** A debt with three dates; a Long-Lived who walked and a town that wants that memory as citizenship; a mile-shrine a Hands-town wants to pull down; a Speaker asked to convert a house-year to a Cut-year for a court; a Heskoren cohort still walking while a neighbouring canopy is one summer from its first fall.

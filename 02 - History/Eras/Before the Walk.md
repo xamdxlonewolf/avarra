@@ -19,7 +19,7 @@ updated: 2026-08-24
 
 > **The unnamed preface.** The [[Turning Tree|Awakening Tree]] already stood. People already had [[Kinds of the Turning|Kinds]]. Some already *became* things at doors the later faith would struggle to place. This era is kept **thin on purpose** — the inscrutable fifth of the past. The spine lives in [[The Ages of the Turning]].
 
-> **Canon status.** 🔒 **There is no date.** 🔒 The Tree is old beyond reliable dating ([[Turning Tree]]). 🟡 Texture. Do not write a creation myth here. Do not start history at a Mother-event.
+> **Canon status.** 🔒 **There is no date.** 🔒 The Tree is old beyond reliable dating ([[Turning Tree]]). 🔒 **Kept thin** — no creation myth, no first king. [[The Watching]] keep **the Before**.
 
 ## Overview
 
