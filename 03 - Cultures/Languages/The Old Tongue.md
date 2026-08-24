@@ -110,6 +110,11 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 
 - **brenhael** *(bren-HAYL)* — *bren* + *hael* = "the hearth kept whole." Cant of a [[The Walking Years|Walking-era road-house]]: the inn that kept you hale for the waiting. Everyday *road-house*. Not *Brenvaeth* (the era). Not *Brenorn* (a month). The three walks (Near Mile · Salt Walk · Long Mile) stay common-tongue on purpose — logistics before liturgy.
 
+**Cut coinages (Story 6.3 — 🟡 Proposed):**
+
+- **the nameless knife** / **the nameless green** — folk objects of [[The First Cut]]. No liturgical form on purpose: naming the green would pick a hearth, and a hearth would pick a hand. Everyday first.
+- **the generation of argument** — the summers from the first taking to the first local Leaf-Fall, when the origin-hearth could not un-cut and had not yet written a leave. Common-tongue on purpose (a quarrel, not a rite). Not *Eoloren* (the hinge). Not *Brenvaeth* (the road).
+
 Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 
 ## The three polities, named

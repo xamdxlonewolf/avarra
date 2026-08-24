@@ -40,7 +40,7 @@ The origin. Old beyond reliable dating, vast, and the one Tree no one grafted fr
 
 ## Where scions come from — grafting, and what can go wrong
 
-- **A graft is a rite, not just horticulture.** Cutting a scion from the Awakening Tree (or, in practice, from an established healthy town Tree acting on the origin's behalf) is done by the faith's tree-wardens; the cutting is carried in living earth and planted with ceremony.
+- **A graft is a rite, not just horticulture.** Cutting a scion from the Awakening Tree (or, in practice, from an established healthy town Tree acting on the origin's behalf) is done by the faith's tree-wardens; the cutting is carried in living earth and planted with ceremony. How that rite was *captured* — a heresy, then a paper — is [[The First Cut]].
 - **A young Tree can't yet Turn.** A freshly planted scion takes years — a generation, by common reckoning — to mature enough to hold a Leaf-Fall. New towns lean on a neighbour's Tree in the meantime (children travel to the nearest turning town), which is itself a source of small-world texture: rivalries, road-customs, "we Turned at Harrow's Tree before we had our own."
 - **A Tree can sicken, and a Tree can die.** They are mortal wood, not indestructible. A blighted or dying Tree is a genuine civic crisis — a town may lose its ability to Turn its own children and fall back on pilgrimage or a neighbour. A dead Tree is replaced only by a fresh graft and the long wait. *(Whether a Tree can be moved once planted: hard to move a mature one; the practice is to graft a new scion rather than transplant. 🟡)*
 - **A town without a Tree** is the natural frontier condition — too new, too remote, or Tree-bereaved. Such places send their ten-year-olds on the road to Turn, which marks them as edge-of-the-map in the setting's geography.
@@ -96,5 +96,5 @@ Rare, mixed, or argumentative falls (two colours; a colour no one present has se
 - [[The Premise]] — the locked engine (Given / Struck / Kept, population math, the Tithe)
 - [[Is the Leaf-Mother Real]] — GM keystone truth this note points at
 - [[Conditions]] — what can be Given · [[Build Plan]] · [[Roadmap]]
-- [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]]
+- [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]] — how the wood travelled; [[The Walking Years]]
 - [[07 - Religion]]

@@ -10,7 +10,7 @@ aliases: [Kumbaan, The Sunder, The Storm-Walled Isle, The Hidden Home, The Yumbo
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The Sundering Isle
@@ -36,7 +36,7 @@ The Sundering Isle is **off the edge of the reach-gradient entirely** — the on
 
 ## Reach
 
-**Near-none.** Few or no healthy [[Turning Tree|Trees]] — the grafts never crossed the storm-wall, or never took. The Yumboes do not Turn at a Tree; whatever they become, they become otherwise. This makes the Isle the **sharpest natural experiment in the world** on the [[Is the Leaf-Mother Real|keystone question]] — a whole people acquiring their nature with no Tree at all. *(Reserved as a high-value reveal — see GM Notes; the mechanism stays open in the ancestry note.)*
+**Near-none.** Few or no healthy [[Turning Tree|Trees]] — the grafts never crossed the storm-wall. [[The First Cut]] is explicit: **never.** Sailors tell of pots that went into the water. Dead wood is not a Tree. Do not find an old scion here in a later story; that breaks the isolate and [[The Open Table]]. The Yumboes do not Turn at a Tree; whatever they become, they become otherwise. This makes the Isle the **sharpest natural experiment in the world** on the [[Is the Leaf-Mother Real|keystone question]] — a whole people acquiring their nature with no Tree at all. *(Reserved as a high-value reveal — see GM Notes; the mechanism stays open in the ancestry note.)*
 
 ## People — the Yumboes
 
@@ -78,7 +78,7 @@ Cartography style, atmospheric, mysterious. NO TEXT, NO LABELS, no writing anywh
 - [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (twelve moons, not solstices)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)
-- [[Faiths of the Turning]] · [[Roadmap]] (Epic 3) · [[01 - World]]
+- [[Faiths of the Turning]] · [[The First Cut]] (Kumbaan never) · [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

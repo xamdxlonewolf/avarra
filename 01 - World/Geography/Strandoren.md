@@ -10,7 +10,7 @@ aliases: [The Shore-lands, The Trade Continent, The Crossroads, Strandor]
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Strandoren
@@ -37,6 +37,8 @@ Strandoren is the **crossroads of the known world** — a continent of harbours,
 ## Reach
 
 **High.** Grafts mature and abundant, especially coastal; the Given are dense and the [[Law and Citizenship|three pillars]] are pure **infrastructure** here — not reverence but the machinery a huge commercial society runs on ([[Long-Lived]] notaries, [[Bound]] whose word closes contracts, [[Far-Voiced]] on every dock and in every court). The [[Law and Citizenship|Struck]] are vouched-in *briskly and efficiently* — an unvouched person is a transaction that can't clear.
+
+How the wood got here is [[The First Cut]]: C.Y. 40–160, **by sea**, wealthy coasts first. A ship is faster than filling every inland hamlet, and a coast could pay a Cutting-leave while a Near-Mile village was still on the list. Interior river-days came later. The Fair Hand files this as *the carrying* — a bill of lading, not a wound in wood.
 
 ## Powers & Polities
 
@@ -80,7 +82,7 @@ NO TEXT, NO LABELS, no writing anywhere.
 - [[Polity Archetypes]] (Lestrand) · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]
-- [[Roadmap]] (Epic 3; Epic 6 Story 6.2) · [[The Walking Years]] — the Salt Walk · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 Stories 6.2–6.3) · [[The Walking Years]] — the Salt Walk · [[The First Cut]] — by sea, coasts first · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

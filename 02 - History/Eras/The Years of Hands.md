@@ -17,7 +17,7 @@ updated: 2026-08-24
 
 # The Years of Hands
 
-> **Clock 1, new default — and the present.** A town [[Turning Tree]] is the ordinary way to Turn. Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical 🔒: **Ornthael** *(orn-THALE)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. **Residues, old roads, and the live Heskoren front are Story 6.4.**
+> **Clock 1, new default — and the present.** A town [[Turning Tree]] is the ordinary way to Turn. Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical 🔒: **Ornthael** *(orn-THALE)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. How the wave moved: [[The First Cut]] (Story 6.3 ✅). **Residues, old roads, and the live Heskoren front are Story 6.4.**
 
 > **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🔒 **Name and present C.Y. 387 locked 2026-08-24.**
 
@@ -43,7 +43,7 @@ The pilgrimage still exists on purpose. The Walking Years ended as *requirement 
 
 ## Key Events
 
-[[The First Cut]] (C.Y. 0) opens the era in clerical count. Everything after is spread, queue, and residue — Story 6.3 and 6.4, then named powers in Epic 7 and faces in Epic 8.
+[[The First Cut]] (C.Y. 0) opens the era in clerical count. How the wood travelled — and how the Seat captured the copy-right — is [[The First Cut]] (Story 6.3). Everything after that is residue — Story 6.4, then named powers in Epic 7 and faces in Epic 8.
 
 A [[Phoenix]]'s rebirths remain the one era-marker even Hands-towns cannot file. Do not name historical Phoenixes until a story needs a fishbowl that old.
 
@@ -54,6 +54,6 @@ A [[Phoenix]]'s rebirths remain the one era-marker even Hands-towns cannot file.
 - **Keystone edge:** Hands-era density on Maiethorn and thinness on Heskoren is the map of a bounded reach. Player-facing, it is young/sick/few grafts and a queue. Keep the mind GM-side.
 
 ## Links
-- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]]
 - [[The World Frame]] · [[The Tree-Wardens]] · [[Law and Citizenship]] · [[Economy and the Tithe]]
 - [[Heskoren]] · [[Phoenix]] · [[02 - History]] · [[Roadmap]] (Story 6.4)

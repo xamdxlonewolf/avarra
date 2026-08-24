@@ -176,7 +176,7 @@ They also disagree with Seat chronicles that start at [[The First Cut]]. A Long-
 >
 > *I do not ask which summer was holy. I ask which mouths will be here at dark. The Held bed is made. If Seine comes I will not have to remember I made it for nothing.*
 
-Thilim cannot afford to see that the Held bed is already a shrine, or that the house's fortune is the farness the wood will later abolish. The cutting in the pot is not a First Cut. It is a man who missed his green. Story 6.3 is someone else's knife.
+Thilim cannot afford to see that the Held bed is already a shrine, or that the house's fortune is the farness the wood will later abolish. The cutting in the pot is not a First Cut. It is a man who missed his green. The knife that was is [[The First Cut]].
 
 ## Folklore
 
@@ -186,7 +186,7 @@ The teaching-story of the road is [[The Child Who Counted Stones]] — romance a
 
 The era has no dated start (it grows out of [[Before the Walk]] when the trip becomes *the* way to Turn). It has a dated hinge: [[The First Cut]] (C.Y. 0). After that the Walking Years cease to be the *default* in lands the wood has reached, and remain the default in lands it has not. [[Heskoren]] is still, in places, *in* this era. That is not a metaphor.
 
-Story 6.3: how the wave moved, and how the Seat captured the copy-right. Do not pick a cutter here. Do not date the Tree.
+Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right → [[The First Cut]]. Do not pick a cutter here. Do not date the Tree.
 
 ## GM Notes
 
@@ -201,7 +201,7 @@ Story 6.3: how the wave moved, and how the Seat captured the copy-right. Do not 
 
 ## Links
 - [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Years of Hands]]
-- [[The Child Who Counted Stones]] — the road's paradox-fable
+- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's
 - [[Turning Tree]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] · [[The Reckoning of the Year]]
 - [[The Tree-Wardens]] · [[The Old Ways]] · [[Long-Lived]] · [[Returned]] · [[Far-Voiced]] · [[The Taken-In]]

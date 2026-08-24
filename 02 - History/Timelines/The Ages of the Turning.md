@@ -14,7 +14,7 @@ updated: 2026-08-24
 
 # The Ages of the Turning
 
-> **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2 ✅). The hinge event → [[The First Cut]] (Story 6.3). The present as leftover → [[The Years of Hands]] (Story 6.4).
+> **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2 ✅). The hinge event and the spread → [[The First Cut]] (Story 6.3 ✅). The present as leftover → [[The Years of Hands]] (Story 6.4).
 
 > **Canon status.** 🔒 **Locked 2026-08-24 (user-approved):** two clocks, unnamed preface, Grafting as a still-moving wave, no universal year-zero, dating reveals stance, names (*Brenvaeth · Eoloren · Ornthael*), present **C.Y. 387**, spread-shape (Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never). Still open: who made the First Cut; [[Is the Leaf-Mother Real|the nature of her limit]]. Built with `systemic-worldbuilding` and `world-fates`.
 
@@ -56,13 +56,13 @@ There is **no universal year-zero.** Same twelve months; three new-year's days (
 | [[The Old Ways]] | a closed door, a drowning-year, a guest that took | the Hands are when *guests* arrived, not when history began |
 | [[The Sundering Isle\|Kumbaan]] | **moons** | the mainland ages are a sailor's chart they do not owe |
 
-**Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose. Story 6.3 dates events *inside* the spread-bands below; it does not slide the present.
+**Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose. Story 6.3 dated events *inside* the spread-bands below; it did not slide the present.
 
 **What you may not date.** The [[Turning Tree|Awakening Tree]] is **old beyond reliable dating.** [[Before the Walk]] has no start. The *nature* of the [[Is the Leaf-Mother Real|Mother's limit]] stays open. Who made the First Cut stays contested ([[The First Cut]]).
 
 ### Spread of the wave (🔒 shape and bands)
 
-Enough to keep geography honest. Not a campaign almanac. Story 6.3 fleshes *how*; it does not rewrite *when*.
+Enough to keep geography honest. Not a campaign almanac. Story 6.3 fleshed *how* inside these bands; it did not rewrite *when*.
 
 | Cut-years | Where the wood went |
 |---|---|
@@ -113,7 +113,7 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 
 ## What this epic does not lock
 
-- **Who made the First Cut** — contested on purpose. Folk / clergy / devout / Watching / Old Ways each have a story. Pick in Story 6.3 only if play needs a face; the spine does not.
+- **Who made the First Cut** — contested on purpose. Folk / clergy / devout / Watching / Old Ways each have a lived story ([[The First Cut]]). The spine does not pick a face. Pick only if play needs a tomb.
 - **When the Tree first stood** — uncounted. [[The Watching]] will fight any date.
 - **The nature of her limit** — [[Is the Leaf-Mother Real|locked that it exists, open on what it is]]. That reach *grew with the grafts* is already keystone evidence of a hand. It is not an explanation of the wound, the finitude, or the rationing. Do not smuggle a cause in as history.
 - **A creation myth, a first king, a war of the ages.** Kings wait on [[Roadmap|Epic 7]] and [[Roadmap|Epic 8]]. The spine is wood and walking.
@@ -125,7 +125,7 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Old Tongue]] · [[Naming in the Turning]]
 - [[The Watching]] · [[The Old Ways]] · [[The Fair Hand]] · [[The Open Table]]
-- [[Long-Lived]] · [[Phoenix]] · [[02 - History]] · [[Roadmap]] (Epic 6, Stories 6.1–6.2)
+- [[Long-Lived]] · [[Phoenix]] · [[The Branch That Came Away]] · [[02 - History]] · [[Roadmap]] (Epic 6, Stories 6.1–6.3)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
@@ -137,5 +137,5 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 - **Historical fate-shifts (already happened — not proposals).** `world-fates` as philosophy, not a roll: (1) road-houses → deathless banks (reformation); (2) unsanctioned cutting → Cutting-leave and the queue (absorption of a heresy by an institution); (3) required pilgrimage → optional pilgrimage (the institution survives by changing function). Present-day fate-pressure on the First Seat (peak power × long tenure of the queue) and on Road-hands (overextension at the Heskoren front) is noted for Story 6.4 / play. Do not collapse either without a later call.
 - **Long-Lived memory is the era-marker the calendar refused to be.** At C.Y. 387, plenty of deathless people remember the late Walking as biography. They are walking archives, and they do not agree — memory is perfect; *meaning* is not. A Long-Lived who walked as a child and a Seat chronicle that starts at the Cut will fight about the same summer. That fight is play. Do not have "the" Long-Lived account.
 - **Kumbaan is the control.** If a later story "finds an old graft on the Isle," it breaks the isolate and the Open Table. Road-hands do not bring the Mother across the storm-wall. Already locked in Epic 5; history must not undo it.
-- **Present-year and spread-bands are locked (2026-08-24).** C.Y. 387; Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never. Story 6.3 dates named cuttings *inside* those bands. Do not slide the present, and do not invert the order.
+- **Present-year and spread-bands are locked (2026-08-24).** C.Y. 387; Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never. Story 6.3 dated the carrying *inside* those bands (generation of argument · sea-as-cargo · Long-Mile dead wood · paying next). Do not slide the present, and do not invert the order.
 - **Hooks.** A debt with three dates; a Long-Lived who walked and a town that wants that memory as citizenship; a mile-shrine a Hands-town wants to pull down; a Speaker asked to convert a house-year to a Cut-year for a court; a Heskoren cohort still walking while a neighbouring canopy is one summer from its first fall.

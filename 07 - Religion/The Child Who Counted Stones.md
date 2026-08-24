@@ -69,6 +69,6 @@ Skeptics of every walk tell a short ending: *There were not two counts. There we
 - **Use it as a tell.** Which last line an NPC offers is a faster read than a speech about Brenvaeth. A Long-Lived who says *I walked* and then tells *this* version has told you which of the four jobs they are doing.
 
 ## Links
-- [[The Walking Years]] · [[The Ages of the Turning]] · [[The Child at Four Doors]]
+- [[The Walking Years]] · [[The Ages of the Turning]] · [[The Child at Four Doors]] · [[The Branch That Came Away]]
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[The Old Ways]] · [[The Watching]]
 - [[07 - Religion]] · [[Roadmap]] (Story 6.2)
