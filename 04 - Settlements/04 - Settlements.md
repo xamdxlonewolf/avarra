@@ -13,12 +13,12 @@ updated: 2026-08-24
 
 Places people live and places they dig — continents, regions, cities, towns, villages, and sites.
 
-Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[Powers of the Turning]]). This section is squares: towns, villages, sites. Story 6.4 planted seeds. Story 7.1 named the powers. **Story 7.2 fleshed four playable squares.**
+Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[Powers of the Turning]]). This section is squares: cities, towns, villages, sites. Story 6.4 planted seeds. Story 7.1 named the powers. **Story 7.2 fleshed four playable squares. Story 7.3 seated the three archetype capitals.**
 
 ## Contents
 
 ### Seeds (Story 6.4 — do not rebuild)
-- [[Settlement Seeds]] — leftover *types* Epic 7 inherits; 7.2 mix recorded there
+- [[Settlement Seeds]] — leftover *types* Epic 7 inherits; 7.2 mix and 7.3 seats recorded there
 
 ### Playable squares (Story 7.2)
 - [[Harrow's Green]] — live-front Tree-town on [[Heskoren]] ([[Saelvaeth]] orbit, not a capital)
@@ -26,9 +26,14 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The Third Hearth]] — Near-Mile road-house that stayed a hearth; neighbour Brenthael
 - [[Ornsael]] — Rain-Shadow walk-hold on [[Saelthael]] (Clock 2 on the Motherland)
 
-### Still a seed
-- [[The White Note House]] — the desk fate; unpicked in 7.2
+### Archetype seats (Story 7.3)
+- [[Eolvaeth]] — Vaethorn's pilgrim-edge seat (not Saelvaeth's march)
+- [[Orentel]] — Lestrand's salt-quay seat ([[The White Note House]] placed, not crowned)
+- [[Maiethlir]] — Threnmaieth's counted river-seat (not the grove; First Seat stays beside)
+
+### Placed site
+- [[The White Note House]] — the desk fate; third quay, north side, Orentel
 
 ## Related
 - [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]]
-- [[Powers of the Turning]] · [[Roadmap]] (Epic 7 Story 7.3 next) 
+- [[Powers of the Turning]] · [[Roadmap]] (Epic 7 Stories 7.1–7.3 done) 

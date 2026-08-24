@@ -42,7 +42,7 @@ How the wood got here is [[The First Cut]]: C.Y. 200–387, still incomplete. Th
 
 ## Powers & Polities
 
-- **[[Polity Archetypes|Vaethorn]] — the Waiting Lands** *(theology high · reach low · governance low)*. The frontier touchstone with the theology knob turned all the way up: ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge whose ruling mood is *waiting* for a graft to take, for a gift that may not come. Its injustice is a **guilt** (scarcity read as unworthiness), not a boot.
+- **[[Polity Archetypes|Vaethorn]] — the Waiting Lands** *(theology high · reach low · governance low)*. The frontier touchstone with the theology knob turned all the way up: ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge whose ruling mood is *waiting* for a graft to take, for a gift that may not come. Its injustice is a **guilt** (scarcity read as unworthiness), not a boot. Seat: [[Eolvaeth]] (pilgrim-edge vale; not [[Saelvaeth]]'s march).
 - **The other three (named-stubs → [[Powers of the Turning]]).** [[Ornled]] (the Outer Ledger — **secular frontier**, required corner) · [[Vaelhesk]] (the Far Yield — Old Ways host-rights) · [[Saelvaeth]] (the Sown Waiting — live front as a march; [[Harrow's Green]] in its orbit, not as a capital; fleshed Story 7.2). Fewer, poorer, scattered; un-polity'd wild still fills the space between.
 
 ## Faith
@@ -78,7 +78,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 
 ## Links
 - [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
-- [[Polity Archetypes]] (Vaethorn) · [[Powers of the Turning]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
+- [[Polity Archetypes]] (Vaethorn; seat [[Eolvaeth]]) · [[Powers of the Turning]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]
 - [[Roadmap]] (Epic 3; Epic 6 complete) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[01 - World]]

@@ -43,8 +43,8 @@ How the wood got here is [[The First Cut]]: C.Y. 0–80, origin-towns first, a d
 
 ## Powers & Polities
 
-- **[[Polity Archetypes|Threnmaieth]] — the Tallied Crown** *(the darkest corner: theology high · reach high · governance high)*. The wealthy, pious, surveilled core kingdom, coiled near the sacred center. Its census — the **[[Naming in the Turning|Threnhael]]** — sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is *why* Threnmaieth has so much to count.
-- **The other five (named-stubs → [[Powers of the Turning]]).** [[Maiethvael]] (the Gift-Realm — devout, rich, no list) · [[Orenbren]] (the Witness-Hearths — lodging as power; does not own the Tree; square: [[The Third Hearth]]) · [[Saelthael]] (the Sown Tree — Rain-Shadow still walking; square: [[Ornsael]]) · [[Eolstrand]] (the Hinge-Shore — inner-sea face) · [[Lirorn]] (the Thaw-Land — range and snowmelt). Hearths, not Kind-nations. Capitals wait on Story 7.3.
+- **[[Polity Archetypes|Threnmaieth]] — the Tallied Crown** *(the darkest corner: theology high · reach high · governance high)*. The wealthy, pious, surveilled core kingdom, coiled near the sacred center. Its census — the **[[Naming in the Turning|Threnhael]]** — sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is *why* Threnmaieth has so much to count. Seat: [[Maiethlir]] (thaw-river Hand; does **not** own the grove).
+- **The other five (named-stubs → [[Powers of the Turning]]).** [[Maiethvael]] (the Gift-Realm — devout, rich, no list) · [[Orenbren]] (the Witness-Hearths — lodging as power; does not own the Tree; square: [[The Third Hearth]]) · [[Saelthael]] (the Sown Tree — Rain-Shadow still walking; square: [[Ornsael]]) · [[Eolstrand]] (the Hinge-Shore — inner-sea face) · [[Lirorn]] (the Thaw-Land — range and snowmelt). Hearths, not Kind-nations. Threnmaieth's capital is [[Maiethlir]] (Story 7.3). The twelve stubs' seats stay unnamed.
 
 ## Faith
 
@@ -80,7 +80,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 ## Links
 - [[The World Frame]] — the four-continent frame this belongs to · neighbours: [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Tree-Wardens]] (First Seat) · [[The Watching]] · [[The Old Tongue]] (conservative drift)
-- [[Polity Archetypes]] (Threnmaieth) · [[Powers of the Turning]] · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
+- [[Polity Archetypes]] (Threnmaieth; seat [[Maiethlir]]) · [[Powers of the Turning]] · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]
 - [[Roadmap]] (Epic 3; Epic 6 complete · Story 7.2 squares) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[The Third Hearth]] · [[Ornsael]] · [[01 - World]]
 

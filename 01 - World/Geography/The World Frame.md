@@ -129,7 +129,7 @@ Add 5 20-100 0-100
 So Azgaar auto-generates burgs/states that sound like our world. **Menu → Options → Configure → (Cultures / Names) → Add name base**, name it `Maiethren`, and paste this comma-separated list into the names field. Built from the [[The Old Tongue|Old Tongue]] phonology (liquids + nasals + soft *th*, long vowels, roots *oren / thael / maieth / vael / vaeth / hael / thren / ledd / orn*):
 
 ```
-Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Eolstrand,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth
+Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Eolstrand,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth,Eolvaeth,Orentel,Maiethlir
 ```
 *Tuning:* set the name base's **"double-word" / min-max length** to taste; the roots above recombine into plausible Old-Tongue names.
 
@@ -168,7 +168,7 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 
 ## Links
 - **Continents:** [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- **Polities placed here:** [[Powers of the Turning]] (fifteen) · [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn)
+- **Polities placed here:** [[Powers of the Turning]] (fifteen) · [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn) · seats [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]]
 - **Upstream frame:** [[The Premise]] (scale & register) · [[Turning Tree]] (one Awakening Tree + grafts) · [[The Old Tongue]] (the drift-gradient) · [[Is the Leaf-Mother Real]] (the reach-edge)
 - **Faiths:** [[Faiths of the Turning]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - **People:** [[Yumboe]] (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Kinds of the Turning]]

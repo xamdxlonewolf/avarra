@@ -18,7 +18,7 @@ updated: 2026-08-24
 
 > **A Rain-Shadow walk-hold.** *(orn-SAYL · [[The Old Tongue|orn]] "land, ground" + [[The Old Tongue|sael]] "sowing" = "the sown-ground.")* Conservative drift: *th* is not in the name, and the holy sound is still in the mouths — they are the Motherland's dry east, still walking west after the core stopped. The new square for [[Roadmap|Story 7.2]] (`settlement-design` at square scale). Proves [[The Years of Hands|Ornthael]] is unfinished even at the origin-continent. Clock 2 is not "the frontier."
 
-> **Canon status.** 🟡 **Playable square.** Seed `20260828` (middle of the list; not *Saelthael*, not *Saelorn*, not *Saelhael*, not *Ornthael*). Everyday *Ornsael*; core travellers will try *the west-road well* and be corrected. **Not [[Saelthael]]'s capital** (capitals wait on Story 7.3). Not a Fox kingdom. Do not clone Road-hands or [[The Slide]] as a district.
+> **Canon status.** 🟡 **Playable square.** Seed `20260828` (middle of the list; not *Saelthael*, not *Saelorn*, not *Saelhael*, not *Ornthael*). Everyday *Ornsael*; core travellers will try *the west-road well* and be corrected. **Not [[Saelthael]]'s capital** (the three corner seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). Not a Fox kingdom. Do not clone Road-hands or [[The Slide]] as a district.
 
 ## Overview
 

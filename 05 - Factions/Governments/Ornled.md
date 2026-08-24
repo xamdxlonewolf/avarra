@@ -8,7 +8,7 @@ tags: [faction, government, polity, heskoren, epic-7]
 aliases: [The Outer Ledger, Ornled-folk, the Secular Frontier]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: a Tree-poor frontier that improvises Tithe as slate and favor — no congregation-net
 reveals: [leaf-mother-is-real]
 created: 2026-08-24

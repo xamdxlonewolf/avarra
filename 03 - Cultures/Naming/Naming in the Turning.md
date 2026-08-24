@@ -167,7 +167,7 @@ Lived names of Ornthael. Everyday first; jobs 🟡. Do not narrate this as post-
 
 ## How to coin more (for later notes)
 
-When [[Roadmap|Story 7.2]] names squares (and any leftover factions), keep the system honest:
+When later notes name leftover squares, keep the system honest:
 1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or coin a new root in the same sound-palette. Do not collide *Brenvaeth* (the era) / *Brenorn* (a month) / *brenhael* (a road-house) / *Eoloren* (the Cut) / *Ornthael* (the Hands), or the fifteen power-names in [[Powers of the Turning]]. *The nameless knife*, *the generation of argument*, and the walk's three jobs stay common-tongue on purpose.
 2. **Push it through the right drift** for the place (conserved / worn / eroded). A power's own name already encodes its stance; a town inside it should *sound like* that power, not like a fourth language.
 3. **Give the pronunciation** (CAPS = stress) on first use — always.
@@ -184,6 +184,8 @@ When [[Roadmap|Story 7.2]] names squares (and any leftover factions), keep the s
 - [[The First Cut]] — the nameless knife · the generation of argument (Story 6.3)
 - [[The Years of Hands]] — the extra mile · the neighbour's week · the First-Hand year (Story 6.4)
 - [[Powers of the Turning]] — the fifteen named powers (Story 7.1)
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]] — Story 7.2
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

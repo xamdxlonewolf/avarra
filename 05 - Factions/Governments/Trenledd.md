@@ -8,7 +8,7 @@ tags: [faction, government, polity, strandoren, epic-7]
 aliases: [The Worn Count, Trenled, Trenledd-folk, the Roll-Interior]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: a Tree-rich interior that keeps a roll of persons and will not call it holy
 reveals: [leaf-mother-is-real]
 created: 2026-08-24

@@ -8,7 +8,7 @@ tags: [faction, government, polity, strandoren, epic-7]
 aliases: [The Night Shore, Netstrand-folk, the West Water]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the open-ocean houses — Heskoren trade, prestige-walks, and Isle-tales
 reveals: [leaf-mother-is-real]
 created: 2026-08-24

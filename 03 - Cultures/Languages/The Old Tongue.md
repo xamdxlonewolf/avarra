@@ -127,6 +127,12 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Brenthael** *(bren-THALE)* — *bren* + *thael* = "the hearth-Tree." Neighbour Hands-town of [[The Third Hearth]]. Not *brenhael* (an inn's cant). Not *Brenvaeth* (the era). Not *Brenorn* (a month). Not *Orenbren* (the lodging-power).
 - **Brenod** *(BREN-od)* · **Vaelun** *(VAY-lun)* · **Ornath** *(OR-nath)* — worn folk hearth-names of [[The Three Hamlets Past the Ford]]. No liturgy on purpose (the Seat's leave did not write them). Not *Vaeloren* / *Brenvaeth* / *Ornled*.
 
+**Seat coinages (Story 7.3 — 🟡 Proposed):**
+
+- **Eolvaeth** *(ay-ohl-VAYTH)* — *eol* + *vaeth* = "the hinge-waiting." [[Polity Archetypes|Vaethorn]]'s pilgrim-edge seat. Everyday worn *Elvaeth*. Not *Vaethorn* (the land). Not *Thaelvaeth* (Road-hands). Not *Eoloren* / *Eolthael* / *Eolstrand*.
+- **Orentel** *(or-EN-tel)* — eroded *oren* + *thael* = "the witnessing-Tree" with the *th* worn off. [[Polity Archetypes|Lestrand]]'s salt-quay seat. Everyday also *the Salt Quay*. Not *Thaeloren* (the grove). Not *Orenbren* (the lodging-power). Not *Lestrand* / *Eolstrand* / *Netstrand*.
+- **Maiethlir** *(my-eth-LEER)* — *maieth* + *lir* = "the Mother's thaw." [[Polity Archetypes|Threnmaieth]]'s counted river-seat. Not *Threnmaieth* / *Threnhael* / *Thaeloren*. Not *Maiethvael* / *Maiethorn*. Not *Lirorn* / *Liren*. Not *Brenthael*.
+
 Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 
 ## The fifteen polities, named
@@ -180,7 +186,8 @@ Full one-line derivations of the original three remain:
 - [[The First Cut]] — *the nameless knife* · *the generation of argument* 🟡
 - [[The Years of Hands]] — *the extra mile* · *the neighbour's week* · *the First-Hand year* 🟡
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]] — Story 7.2 squares (*Ornsael* · *Brenthael* · *Brenod / Vaelun / Ornath* 🟡)
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete / Story 7.2) · [[03 - Cultures]]
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats (*Eolvaeth* · *Orentel* · *Maiethlir* 🟡)
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete / Epic 7 complete) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

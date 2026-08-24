@@ -8,7 +8,7 @@ tags: [faction, government, polity, maiethorn, epic-7, pilgrimage]
 aliases: [The Witness-Hearths, the Lodging-Power, Orenbren-folk]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the Near Mile's lodging-towns, grown into a civic power that does not own the Tree
 reveals: [leaf-mother-is-real]
 created: 2026-08-24
@@ -43,7 +43,7 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 
 ## GM Notes
 
-- **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. Story 7.3 repeats the warning for Threnmaieth. Hold the gap.
+- **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. [[Maiethlir]] is Threnmaieth's counted river-seat, not this compact and not the grove. Hold the gap.
 - **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.
 - **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty.
 

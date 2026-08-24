@@ -8,7 +8,7 @@ tags: [faction, government, polity, maiethorn, epic-7]
 aliases: [The Gift-Realm, the Mother's Gift, Maiethvael-folk]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the old gift-country that shares the Mother and will not keep a list
 reveals: [leaf-mother-is-real]
 created: 2026-08-24

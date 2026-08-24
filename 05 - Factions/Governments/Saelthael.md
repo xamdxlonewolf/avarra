@@ -8,7 +8,7 @@ tags: [faction, government, polity, maiethorn, rain-shadow, epic-7]
 aliases: [The Sown Tree, the Rain-Shadow Realm, Saelthael-folk]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: dry-country Tree-seats that still walk west after the core stopped
 reveals: [leaf-mother-is-real]
 created: 2026-08-24

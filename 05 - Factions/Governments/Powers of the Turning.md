@@ -16,7 +16,7 @@ updated: 2026-08-24
 
 > **What this is.** The named-stub pass for the other great powers ([[Roadmap|Story 7.1]]). [[The Premise]] locked **~15 great powers** across three large continents; Epic 2 built three of them as worked corners ([[Polity Archetypes|Vaethorn · Lestrand · Threnmaieth]]). This note names the remaining twelve, places them, and gives each a *stance* — not a capital, not a street-grid. Built with `settlement-design` (site and network, not districts), `governance-systems` (how a power *forms*), `character-naming` + `conlang` (Old-Tongue compounds, seed `20260827`, pick from the middle), and `language-evolution` (the same three drifts, pushed until the name *sounds like* the stance). `cliche-transcendence` and `memetic-depth` kept Kind-nations, pope-kingdoms, and a fourteen-cell axis-catalogue out.
 
-> **Canon status.** 🔒 **Names and placement locked (2026-08-24, user-approved).** Stub texture stays polishable. Capitals, districts, and populations wait on Stories 7.2–7.3. Do not rebuild the era spine. Do not treat [[The Years of Hands|Ornthael]] as post-history. Do not let [[Polity Archetypes|Threnmaieth]] capture the [[The Tree-Wardens|First Seat]] in the first sentence. Do not rebuild this pass.
+> **Canon status.** 🔒 **Names and placement locked (2026-08-24, user-approved).** Stub texture stays polishable. The three corner seats named Story 7.3 ([[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). The twelve stubs' capitals stay unnamed. Do not rebuild the era spine. Do not treat [[The Years of Hands|Ornthael]] as post-history. Do not let [[Polity Archetypes|Threnmaieth]] capture the [[The Tree-Wardens|First Seat]]. Do not rebuild this pass. Do not rebuild 7.3.
 
 ## The count
 
@@ -47,18 +47,18 @@ Axes: **T**heology (Motherfaith gift-devotion) · **R**each · **G**overnance. �
 
 | Polity | Continent | T | R | G | One-line feel | Leftover it sits on |
 |---|---|:---:|:---:|:---:|---|---|
-| **[[Polity Archetypes\|Threnmaieth]]** | [[Maiethorn]] | ● | ● | ● | the Mother's Reckoning; census as care | origin pilgrimage-towns *under* a roll |
+| **[[Polity Archetypes\|Threnmaieth]]** | [[Maiethorn]] | ● | ● | ● | the Mother's Reckoning; census as care | origin pilgrimage-towns *under* a roll — seat [[Maiethlir]] |
 | **[[Maiethvael]]** | [[Maiethorn]] | ● | ● | ○ | the Gift-Realm — plenty, no list | origin pilgrimage-country that furnishes |
 | **[[Orenbren]]** | [[Maiethorn]] | ● | ● | ◐ | the Witness-Hearths — lodging as power; does not own the Tree | origin pilgrimage-town |
 | **[[Saelthael]]** | [[Maiethorn]] | ● | ◐ | ○ | the Sown Tree — Rain-Shadow still planting | Rain-Shadow walk-hold |
 | **[[Eolstrand]]** | [[Maiethorn]] | ◐ | ● | ○ | the Hinge-Shore — inner-sea face | salt-adjacent Old-World quays |
 | **[[Lirorn]]** | [[Maiethorn]] | ◐ | ● | ◐ | the Thaw-Land — range and snowmelt | ridge-roads; not a Kind-flag |
-| **[[Polity Archetypes\|Lestrand]]** | [[Strandoren]] | ○ | ● | ○ | the Ledger Coast — priced and free | salt quay (do not name its capital here) |
+| **[[Polity Archetypes\|Lestrand]]** | [[Strandoren]] | ○ | ● | ○ | the Ledger Coast — priced and free | salt quay — seat [[Orentel]] |
 | **[[Brenledd]]** | [[Strandoren]] | ○ | ● | ○ | the Hearth-League — many charters, one compact | salt / river towns between houses |
 | **[[Leddvael]]** | [[Strandoren]] | ○* | ● | ◐ | the Reckoned Gift — Fair Hand as civic rite | salt quay with a signing-watch |
 | **[[Trenledd]]** | [[Strandoren]] | ○ | ● | ● | the Worn Count — a roll with the hymn worn off | road-end Tree-towns *filed* |
 | **[[Netstrand]]** | [[Strandoren]] | ◐ | ● | ○ | the Night Shore — west water, Heskoren trade | salt quay; prestige-walk as a product |
-| **[[Polity Archetypes\|Vaethorn]]** | [[Heskoren]] | ● | ○ | ○ | the Waiting Lands — scarce gift, hot faith | waiting cluster / pilgrim edge |
+| **[[Polity Archetypes\|Vaethorn]]** | [[Heskoren]] | ● | ○ | ○ | the Waiting Lands — scarce gift, hot faith | pilgrim-edge — seat [[Eolvaeth]] (not the hamlets) |
 | **[[Ornled]]** | [[Heskoren]] | ○ | ○ | ○ | the Outer Ledger — secular frontier, no congregation-net | waiting cluster without a gospel |
 | **[[Vaelhesk]]** | [[Heskoren]] | ◐** | ○ | ○ | the Far Yield — Old Ways host-rights | guest-grove |
 | **[[Saelvaeth]]** | [[Heskoren]] | ◐ | ○ | ◐ | the Sown Waiting — the live front as a march | live-front Tree-town |
@@ -69,15 +69,15 @@ The three corners [[Polity Archetypes]] left un-built are now on the map: **Maie
 
 ## How they sit (network, not a painted map)
 
-**[[Maiethorn]]** — [[Polity Archetypes|Threnmaieth]] coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]. [[Maiethvael]] is the old gift-country that shares the Mother and refuses the list: same hymns, opposite paper. [[Orenbren]] is the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* it and is not its crown. [[Saelthael]] is the leeward east, still walking west after the core stopped. [[Eolstrand]] faces [[Strandoren]] across the inner sea. [[Lirorn]] holds the central range that divides the waters; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
+**[[Maiethorn]]** — [[Polity Archetypes|Threnmaieth]] coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (thaw-river Hand, *not* the grove). [[Maiethvael]] is the old gift-country that shares the Mother and refuses the list: same hymns, opposite paper. [[Orenbren]] is the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* it and is not its crown. [[Saelthael]] is the leeward east, still walking west after the core stopped. [[Eolstrand]] faces [[Strandoren]] across the inner sea. [[Lirorn]] holds the central range that divides the waters; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
 
-**[[Strandoren]]** — [[Polity Archetypes|Lestrand]] is the premier coast. [[Brenledd]] is the compact of towns that got tired of being priced by one set of houses. [[Leddvael]] made [[The Fair Hand]] a civic rite on a different stretch of signing-water. [[Trenledd]] is the wealthy interior that started counting tickets and did not stop. [[Netstrand]] faces the open ocean toward [[Heskoren]] and, in stories, the storm-wall.
+**[[Strandoren]]** — [[Polity Archetypes|Lestrand]] is the premier coast; its seat is [[Orentel]] (Salt Quay; White Note on the third quay, not the crown). [[Brenledd]] is the compact of towns that got tired of being priced by one set of houses. [[Leddvael]] made [[The Fair Hand]] a civic rite on a different stretch of signing-water. [[Trenledd]] is the wealthy interior that started counting tickets and did not stop. [[Netstrand]] faces the open ocean toward [[Heskoren]] and, in stories, the storm-wall.
 
-**[[Heskoren]]** — [[Polity Archetypes|Vaethorn]] is the waiting-gospel. [[Saelvaeth]] is the live edge of the wave ([[Harrow's Green]] sits in its orbit, not as a capital; fleshed Story 7.2). [[Vaelhesk]] keeps host-rights on old greens. [[Ornled]] is Vaethorn with the faith burned out instead of up — same thin Trees, no congregation to catch you. [[The Three Hamlets Past the Ford]] sit on the seam: they can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them).
+**[[Heskoren]]** — [[Polity Archetypes|Vaethorn]] is the waiting-gospel; its seat is [[Eolvaeth]] (pilgrim-edge, not Saelvaeth's march). [[Saelvaeth]] is the live edge of the wave ([[Harrow's Green]] sits in its orbit, not as a capital; fleshed Story 7.2). [[Vaelhesk]] keeps host-rights on old greens. [[Ornled]] is Vaethorn with the faith burned out instead of up — same thin Trees, no congregation to catch you. [[The Three Hamlets Past the Ford]] sit on the seam: they can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them).
 
 ## What this pass does not do
 
-- **Capitals** wait on Story 7.3. Story 7.2 fleshed leftover squares ([[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]), not throne-cities. A stub that names a throne-city is still early.
+- **Capitals of the three corners** are Story 7.3 ([[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). Story 7.2 fleshed leftover squares, not throne-cities. The twelve stubs' seats stay unnamed. A stub that names a throne-city is still early.
 - **No Kind-nations.** [[Kinds of the Turning]]: hearths, not flags. Saelthael is sand-country, not a Fox kingdom. Lirorn is a watershed, not a Tengu empire. Eolstrand and Netstrand are shores, not Selkie thalassocracies. Vaelhesk is host-rights, not a Taken-In nation.
 - **No faith-nations.** [[The Watching]] stays a heartland heresy *inside* Maiethorn districts, not a sixth Motherland flag. Leddvael is the one power that made a rival faith *civic* — and even there the Book-hands have no seat.
 - **No Kumbaan export.** Do not put a mile-shrine on the Isle to make the list feel complete.
@@ -99,6 +99,7 @@ Neither list is complete. Both are true of the speaker.
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[The Old Tongue]] · [[Naming in the Turning]] · [[Naming People in the Turning]] · [[Kinds of the Turning]]
 - [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
 - [[Faiths of the Turning]] · [[The Tree-Wardens]] · [[Law and Citizenship]] · [[The Premise]]
 - [[05 - Factions]] · [[Roadmap]] (Story 7.1)
 
@@ -111,4 +112,4 @@ Neither list is complete. Both are true of the speaker.
 - **Maiethvael / Threnmaieth** is the Motherland's argument in two names: Mother's *gift* vs Mother's *reckoning*. Same *maieth*, opposite paper.
 - **Saelthael / Saelvaeth** share *sael* (sowing) on two continents — Clock 2 still moving at the origin *and* the front. Do not narrate one as history and the other as frontier flavour. Playable pair: [[Ornsael]] (west-road well) and [[Harrow's Green]] (neighbour's canopy).
 - **Kumbaan stays off the clerk's list on purpose.** A later campaign may reach it; this pass must not promote it to a great power to round a number.
-- **Hooks.** Steal or refuse a Threnhael entry that would name Maiethvael; lodge in Orenbren during Turning-Week ([[The Third Hearth]], Seine's bed, Brenthael's stone); walk Saelthael's leftover west-road from [[Ornsael]]; sign in Leddvael under a gift-reading name; get written in Trenledd; eat Vaelhesk's first meal before a Cutting-leave; sit the seam at the three hamlets (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate).
+- **Hooks.** Steal or refuse a Threnhael entry that would name Maiethvael; lodge in Orenbren during Turning-Week ([[The Third Hearth]], Seine's bed, Brenthael's stone); walk Saelthael's leftover west-road from [[Ornsael]]; sign in Leddvael under a gift-reading name; get written in Trenledd; eat Vaelhesk's first meal before a Cutting-leave; sit the seam at the three hamlets (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate); wait at [[Eolvaeth]] the year the Tree does not speak; book a First-Hand year on [[Orentel]]'s first quay next to a pot; Speak a colour at [[Maiethlir]] and not copy it in the same breath.

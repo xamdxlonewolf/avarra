@@ -8,7 +8,7 @@ tags: [faction, government, polity, strandoren, fair-hand, epic-7]
 aliases: [The Reckoned Gift, Leddvael-folk, the Signing-Coast]
 world: The Turning
 category: government
-seat: unnamed — capitals wait on Story 7.3
+seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the stretch of water that made the Fair Hand a civic rite
 reveals: [leaf-mother-is-real]
 created: 2026-08-24

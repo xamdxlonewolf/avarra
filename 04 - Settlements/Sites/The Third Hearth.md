@@ -82,7 +82,7 @@ Thilim cannot afford to see that Brenthael is telling a Hands truth, or that "a 
 
 - **Two fates of the same origin.** The White Note collected. The Third Hearth kept making the bed. Do not have Thilim "lose" because the paper went to the coast.
 - **One leftover job on the street.** Devotion / extra mile. Necessity in the loft is Thilim's eye, not a second town-theme. Prestige that lands here is the household that missed the White Note — use it as friction, not as Orenbren's brand.
-- **Do not clone a deathless house as the state.** Orenbren is many hearths. Brenthael is a neighbour square, not a capital. Story 7.3 still seats the three archetypes.
+- **Do not clone a deathless house as the state.** Orenbren is many hearths. Brenthael is a neighbour square, not a capital. The three archetype seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — do not retcon Brenthael into [[Maiethlir]].
 - **Thilim's four jobs** stay disagreed. Do not pick which sermon they are.
 - **Mataero's blindness stands.** Do not correct the junior in Thilim's voice unless play wants the collision.
 - **Keystone:** do not let the stone assert the mind. It is a day's water and a name.
