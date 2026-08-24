@@ -18,6 +18,8 @@ The vault notes remain canonical. This folder is the reading copy.
 
 ## How to update
 
+**Only when the user asks for an updated world book.** Do not fold vault work into this book as epics finish.
+
 1. Open `STRUCTURE.md` and find the chapter.
 2. Edit `chapters/<file>`. Replace a **Not yet written.** block, or add under a heading that already exists.
 3. Run:

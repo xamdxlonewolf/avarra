@@ -9,7 +9,7 @@ This is the **locked spine** of *The Turning* world book. Chapter numbers and ti
 
 **Convention in the text.** A reserved hole is a block beginning **Not yet written.** The builder styles those blocks so they are obvious in HTML and PDF. When you fill a hole, delete that block and put the real prose in its place.
 
-The compiled book is `The-Turning-World-Book.html` / `.pdf`. Source chapters live in `chapters/`. Rebuild with `build_world_book.py`. Vault notes remain canonical; this book is the reading copy.
+The compiled book is `The-Turning-World-Book.html` / `.pdf`. Source chapters live in `chapters/`. Rebuild with `build_world_book.py`. Vault notes remain canonical; this book is the reading copy. **Do not update this book as vault work lands — only when the user asks for an updated version.**
 
 ## Spine
 

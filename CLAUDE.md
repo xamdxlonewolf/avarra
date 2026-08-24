@@ -22,16 +22,38 @@ The tabletop system is **Daggerheart**.
 - **[[Build Plan]]** (`00 - Core/Concept/`) — fast status brief + next task.
 - **[[Roadmap]]** (`00 - Core/Meta/Roadmap.md`) — **the detailed build tracker** (Epics → Stories → Tasks, dependency-ordered, canon-status tags, progress tally). **Consult it to know what we're working on and in what order.**
 - **[[The Premise]]** (`00 - Core/Concept/`) — the design hub (full locked detail).
-- The 10 Conditions live in `09 - Creatures/Conditions/`; the 3 custom ancestries (Kitsune, Selkie, Tengu) in `03 - Cultures/Peoples/`.
+- The 10 Conditions live in `09 - Creatures/Conditions/`; the 4 custom ancestries (Kitsune, Selkie, Tengu, Yumboe) in `03 - Cultures/Peoples/`.
+- **World book** (`14 - Assets/Documents/Setting Book/`) — compiled reading copy (HTML + PDF). Vault notes are canonical. **Do not update the world book as we go** — see below.
 
 ## How we build this world (workflow)
 
 We build **incrementally, in dependency order**, tracked in **[[Roadmap]]**. Follow this loop:
 
 1. **Know the current work.** At the start of a session, read [[Build Plan]] then [[Roadmap]] to see the active epic and the next unchecked task. Work top-down through the epics unless the user redirects.
-2. **Pass one — build.** Do the design work for a task/story using the right craft skill; write the canonical note(s) in the vault; then **check the box** in [[Roadmap]] and update its **Progress** tally. Advance canon-status tags as decisions firm up (🟡 Proposed → 🔒 Locked). When an epic finishes, note it and move to the next.
+2. **Pass one — build.** Do the design work for a task/story using the right craft skill; write the canonical note(s) in the vault; then **check the box** in [[Roadmap]] and update its **Progress** tally. Advance canon-status tags as decisions firm up (🟡 Proposed → 🔒 Locked). When an epic finishes, note it and move to the next. **Do not** fold the new work into the world book as part of finishing a task.
 3. **When the Roadmap hits 100% (pass one complete),** do **pass two — verify:** a review sweep over the whole world for consistency, contradictions (log/resolve under `11 - Secrets/Contradictions`), gaps, and quality — using `story-sense` to route what feels off. Only after pass two is the world considered settled.
 4. **Keep the tracker honest.** Update [[Roadmap]] and [[Build Plan]] *as part of finishing a task*, not later. Progressive elaboration: only decompose the next 1–2 epics to task depth; leave later epics coarse until reached.
+
+## The world book (compiled reading copy)
+
+Location: `14 - Assets/Documents/Setting Book/`
+
+| File | What it is |
+|---|---|
+| `STRUCTURE.md` | Locked spine (chapter numbers/titles do not move) |
+| `chapters/` | One markdown file per chapter — this is what you edit |
+| `The-Turning-World-Book.html` / `.pdf` | Compiled reading copies |
+| `build_world_book.py` | Rebuilds HTML + PDF from the spine + chapters |
+| `README.md` | Short how-to |
+
+**Never update the world book as we go.** The vault is the source of truth and is what you write when finishing a story/epic. The world book is a *compiled reading copy* for audit. Update it **only when the user explicitly asks** (e.g. "update the world book", "rebuild the PDF", "fold the new work into the setting book"). Do not treat finishing an epic, checking a Roadmap box, or "keep the tracker honest" as a trigger to touch the book.
+
+**When asked to update it:**
+1. Read `STRUCTURE.md`. Find the existing chapter. Do **not** invent a parallel outline or new chapter numbers.
+2. Edit `chapters/<file>`. Replace a **Not yet written.** block, or add under a heading that already exists. If something has no home, add a reserved heading *inside* the nearest chapter and note it in `STRUCTURE.md`.
+3. Write as settled setting: no design notes, no LOCKED tags, no epic/story numbers, no "why we chose this."
+4. Rebuild: `python3 "14 - Assets/Documents/Setting Book/build_world_book.py"`
+5. Do not rename chapter files or reorder the spine to make a new idea fit.
 
 ## Vault structure & conventions
 
