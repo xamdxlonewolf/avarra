@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # 14 - Assets
@@ -14,8 +14,10 @@ updated: 2026-08-11
 Maps, images, handouts, documents, and references.
 
 ## Contents
-<!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- 
+- Setting book extracts in `Documents/Setting Book/`:
+  - [[Lands Ages Powers]] — lands, ages, powers and places; GM Canon appendix
+  - [[How People Live]]
+  - [[The Tree and the Faiths]]
 
 ## Related
-- 
+- [[The World Frame]] · [[The Ages of the Turning]] · [[Powers of the Turning]]
