@@ -10,7 +10,7 @@ aliases: [The Motherland, The Old Heart, The Sacred Continent, The First Land]
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Maiethorn
@@ -80,7 +80,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Tree-Wardens]] (First Seat) · [[The Watching]] · [[The Old Tongue]] (conservative drift)
 - [[Polity Archetypes]] (Threnmaieth) · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]
-- [[Roadmap]] (Epic 3) · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 Story 6.1) · [[The Ages of the Turning]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

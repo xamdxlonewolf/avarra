@@ -11,7 +11,7 @@ speakers: liturgical/learned everywhere; conserved as daily speech in the Tree-r
 descends_from:          # none — this IS the root
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The Old Tongue
@@ -51,7 +51,7 @@ The sacred lexicon the setting's names are built from. (Meanings are the *root* 
 | **ledd** | led | to reckon, to account | *Commercial* counting — the ledger, the sum. The secular twin of **thren**. |
 | **orn** | orn | land, ground, holding | A held or settled land. |
 | **neth** | neth | night; the long dark | Month-root — [[The Reckoning of the Year|Nethael, Nethorn]]. |
-| **eol** | AY-ohl | a hinge; the year's turning | Month-root — [[The Reckoning of the Year|Eolthael]], the High-Solstice month. |
+| **eol** | AY-ohl | a hinge; the year's turning | Month-root — [[The Reckoning of the Year|Eolthael]], the High-Solstice month. Also the liturgical name of [[The First Cut|the First Cut]]: **Eoloren**. |
 | **bren** | bren | hearth; the kept fire | Month-root — [[The Reckoning of the Year|Brenorn]]. |
 | **lir** | leer | thaw; water that runs again | Month-root — [[The Reckoning of the Year|Liren]]. |
 | **sael** | sayl | sowing; the first green | Month-root — [[The Reckoning of the Year|Saelorn]]. Distinct from **vael** (a gift Given) and **hael** (wholeness). Also the greens-keepers' root. |
@@ -99,6 +99,15 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **the Crae** *(kray)* — *crae* = "craft." Umbrella of [[The Element-Guilds]]. Four doors, not four liturgies.
 - [[The Intake]] has no liturgical name. Cant: *the catching-year*.
 
+**Era coinages (Story 6.1 — 🟡 Proposed):**
+
+- **Brenvaeth** *(bren-VAYTH)* — *bren* + *vaeth* = "the hearth gone to the waiting." Liturgical name of [[The Walking Years]]. Deliberate inversion of *Thaelvaeth* (the Tree gone to the waiting): people walked *in*; later, wood walked *out*.
+- **Eoloren** *(ay-ohl-OR-en)* — *eol* + *oren* = "the witnessed hinge." Liturgical name of [[The First Cut]], and of the clerical year-count (*Eoloren-count* / Cut-years). Not *Eolthael* (a month).
+- **Ornthael** *(orn-THALE)* — *orn* + *thael* = "Tree-land." Liturgical name of [[The Years of Hands]]. Not *Maiethorn* (the Motherland). Not *Haelthael* (the Watching).
+- [[Before the Walk]] stays mostly unnamed; [[The Watching]] keep **the Before**.
+
+Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
+
 ## The three polities, named
 
 The [[Polity Archetypes]] get their in-world names here — each derived from its own daughter drift, so the name *sounds like* the polity's stance:
@@ -117,11 +126,12 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds
 - [[The Reckoning of the Year]] — the twelve months coined from these roots
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages) · [[03 - Cultures]]
+- [[The Ages of the Turning]] — era-names *Brenvaeth* · *Eoloren* · *Ornthael* (🟡)
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 Story 6.1) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **The etymology is a quiet keystone tell.** That **Thaeloren** = "the Tree that witnesses" is not decoration: per [[Is the Leaf-Mother Real|the keystone]], the Tree genuinely *does* witness (she is real, and the Leaf-Fall is her seeing each child). The language preserves a truth the skeptics have explained away. Don't gloss it in player-facing text as mere poetry; let a scholar-PC *notice* it.
-- **Drift is GM-legible as the reach-edge.** The daughters drift furthest where the Trees are thinnest — which is the same [[Is the Leaf-Mother Real|bounded-reach]] edge that stays GM-side elsewhere. In-world the erosion reads as plain distance-and-trade (true, as far as it goes); the deeper pull that *conserves* the tongue near the Trees is the Mother's nearness. Same fact, two readings.
+- **Drift is GM-legible as the reach-edge.** The daughters drift furthest where the Trees are thinnest — which is the same [[Is the Leaf-Mother Real|bounded-reach]] edge that stays GM-side elsewhere. In-world the erosion reads as plain distance-and-trade (true, as far as it goes); the deeper pull that *conserves* the tongue near the Trees is the Mother's nearness. Same fact, two readings. **History adds a mechanism:** the pilgrimage itself was a conserving pull (far mouths walked to the same grove each year). Local Trees let daughters grow *in place* — Hands-era weather on a Walking-era root. See [[The Ages of the Turning]].
 - **Deep grammar is still deferred.** This note fixes phonology, a root lexicon (including the month-roots), and the drift-rules — enough to coin consistent names. Morphology/syntax (a *full* conlang) is only worth it if the campaign ever needs spoken dialogue. Don't relexify English into "sentences." Person-names and hearth-registers live in [[Naming People in the Turning]].

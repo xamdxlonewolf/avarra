@@ -10,7 +10,7 @@ world: The Turning
 domain: witnessing, the Tree before it was named Mother, the Before
 reveals: [leaf-mother-is-real]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The Watching
@@ -73,6 +73,7 @@ On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predate
 - [[Maiethorn]] · [[Turning Tree]] (Thaeloren) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over as a file-name)
 - [[The Watchers]] — the working house (Story 5.2)
+- [[Before the Walk]] — the unnamed preface they keep as *the Before* · [[The Ages of the Turning]]
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
@@ -80,5 +81,5 @@ On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predate
 
 - **The keystone keeper at the centre.** Placed on Maiethorn so old memory sits next to the Awakening Tree, not out on the frontier. They are the natural in-world source that could corroborate the keystone from an unexpected direction — not the skeptics, not the devout: the *heretics*. They have hold of the Before, the cost, and (per [[The Other Hands]]) a household that was not yet named Mother. They miss that the seeing *is* hers.
 - **Do not confirm their metaphysics.** "What she is" stays open ([[Is the Leaf-Mother Real]]). The Masked reading (she is a later face) and the Bare Tree reading (there was never a she) are both playable. Neither is the locked answer. The lintel is a clue, not a verdict.
-- **The cost they remember is Epic 6 fuel.** That giving costs her is locked. *What* was spent is the open nature of the limit. Let Watchers argue; do not let a note decide.
+- **The cost they remember is still open.** That giving costs her is locked. *What* was spent is the open nature of the limit. Story 6.1 showed the edge *moving with wood* and did not pick a cause. Let Watchers argue; do not let a note decide.
 - **Threnmaieth's tell.** Filing them as the Grown-Over is the census doing theology. A Long-Lived crown-archivist who still has the un-recut lintel-copy is the positional character this faith wants ([[positional-revelation]] later, Epic 8).

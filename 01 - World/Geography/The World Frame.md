@@ -10,7 +10,7 @@ aliases: [The World, The Known World, The Four Continents, The Turning Lands, Wo
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The World Frame
@@ -172,12 +172,12 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 - **Upstream frame:** [[The Premise]] (scale & register) · [[Turning Tree]] (one Awakening Tree + grafts) · [[The Old Tongue]] (the drift-gradient) · [[Is the Leaf-Mother Real]] (the reach-edge)
 - **Faiths:** [[Faiths of the Turning]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - **People:** [[Yumboe]] (4th ancestry, homeland = [[The Sundering Isle]]) · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Kinds of the Turning]]
-- [[Roadmap]] (Epic 3) · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 Story 6.1) · [[The Ages of the Turning]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
-- **The map IS the keystone edge, drawn.** The reach-gradient (dense core → thin frontier → Treeless isle) is the ground-level face of [[Is the Leaf-Mother Real|the Mother's bounded reach]]. In-world it reads as plain distance-and-history: the [[Roadmap|Epic 6 "Grafting"]] story explains today's thin edges as *Tree-poor places* (young/sick/few grafts), and the skeptics take that as the whole truth. It *is* most of the truth. The part that stays GM-side is *why* the grafts thin with distance from Thaeloren — that her reach itself has an edge. Never let a player-facing region note assert the deeper cause; let it read as geography.
+- **The map IS the keystone edge, drawn.** The reach-gradient (dense core → thin frontier → Treeless isle) is the ground-level face of [[Is the Leaf-Mother Real|the Mother's bounded reach]]. In-world it reads as plain distance-and-history: [[The Ages of the Turning]] explains today's thin edges as *Tree-poor places* (young/sick/few grafts) and as the *front of a wave still moving* on [[Heskoren]], and the skeptics take that as the whole truth. It *is* most of the truth. The part that stays GM-side is *why* the grafts thin with distance from Thaeloren — that her reach itself has an edge. Never let a player-facing region note assert the deeper cause; let it read as geography.
 - **The Sundering Isle is the sharpest test.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the strongest natural experiment in the world. Per [[The Other Hands]]: no Gifts (reach does not cross); rare Struck (little household purchase); their table is not hers. Reserve the *confirming* beat — it's still late, not early colour.
 - **The heartland heresy remembers.** [[The Watching]] is placed at the sacred center on purpose: an old religion grown-over by the Motherfaith is the natural keeper of *pre-Motherfaith* memory — what the world believed before the Trees were understood as Hers. Built in [[Faiths of the Turning]]; it still points here.
 - **East/west is not locked cosmology.** Only the relative positions matter (see the orientation note above). If a later map or campaign wants the gradient to run north→south or along a different axis, that's free — the *gradient* is the canon, not the compass.

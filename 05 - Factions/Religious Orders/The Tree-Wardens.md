@@ -12,7 +12,7 @@ seat: the First Seat, in the Motherwood about Thaeloren (Maiethorn Sacred Core)
 public_face: the civic-sacred keepers of every town Tree — they tend the wood, speak the colour, carry the grafts
 reveals: [leaf-mother-is-real]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The Tree-Wardens
@@ -137,7 +137,7 @@ Sketched on [[The Leaf-Mother]]; settled enough to play:
 
 - **Towns house and feed the warden-hearth.** A civic stipend in kind — bread, wood, a place on the square. Not a tax on Conditions.
 - **Turning-Week is the festival share.** Markets, reunion, the year's namings. The warden eats from the fair like any other needed office.
-- **Cutting-leave has a fee.** Framed as the cost of carrying-earth and a Road-hand's year. Experienced, at the edge, as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll.
+- **Cutting-leave has a fee.** Framed as the cost of carrying-earth and a Road-hand's year. Experienced, at the edge, as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll. *(Historically: this is how the Seat captured a practice that began without it — [[The First Cut]]. Do not rebuild the office; the origin is a sentence, not a second order.)*
 - **Pilgrimage keeps the Seat.** Offerings, lodging, the devout who settle in the Motherwood. The college is rich in *proximity*, not in a Condition-tithe.
 
 The Orenhael is **not** the Tithe-infrastructure sector. Venting-halls, greens, ranging-commons, and the safety-guilds live in [[Tithe-Infrastructure]]. Wardens *point* a new Given at a guild. They do not licence the Stilled.
@@ -159,13 +159,14 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
-- [[Roadmap]] (Epic 5, Story 5.1) · [[05 - Factions]]
+- [[The Ages of the Turning]] · [[The First Cut]] — Cutting-leave as captured practice; *Brenvaeth* as the inversion of *Thaelvaeth*
+- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 Story 6.1) · [[05 - Factions]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **They are right about the wood and incomplete about the hand.** Per [[Is the Leaf-Mother Real]], every scion *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present the Orenhael as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind — the same two-sided schism, now wearing a lintel.
-- **The queue is the parallax, not the Tree.** Spatial + informational distance: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Exchange engine: every Cutting-leave is a benefit paid somewhere else. Do not let the keystone dissolve this. She is bounded, yes — she cannot gift every child — but *which town gets the next graft* is still a human rationing of her reach. R2: cosmological kindness, clerical injustice.
+- **The queue is the parallax, not the Tree.** Spatial + informational distance: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Exchange engine: every Cutting-leave is a benefit paid somewhere else. Do not let the keystone dissolve this. She is bounded, yes — she cannot gift every child — but *which town gets the next graft* is still a human rationing of her reach. R2: cosmological kindness, clerical injustice. History's one added sentence: the queue is [[The First Cut|the Grafting]]'s child — do not rebuild the office to say it.
 - **Taste still open (do not treat as locked).**
   1. **The name *Orenhael.*** Everyday *tree-wardens* is already in canon. The liturgical name is a coinage from existing roots. Swap or drop.
   2. **Skeptics at the hearth.** The lean above (yes in towns, believer-heavy at the Seat) follows orthopraxy. The other clean options: skeptics in every office, or Speakers must believe. User's call.

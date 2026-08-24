@@ -9,7 +9,7 @@ aliases: [The Religious Landscape, Other Religions, The Wider Pantheon, Faiths]
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Faiths of the Turning
@@ -70,7 +70,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - **No confirmed pantheon in player-facing text.** The Leaf-Mother remains a *belief* in public notes. The other faiths stay beliefs. The GM-layer household (she Gives; Other Hands Strike) lives in [[The Other Hands]] and is **not** to be dumped into these pages.
 - **Faith names are 🔒 locked (2026-08-23):** *Haelthael*, *Leddoren*, *Vaeloren*, *Ndeyaan* — user taste call. Texture around them stays polishable.
 - **Clergy politics.** Working people: [[The Tree-Wardens]] (5.1) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] (isle flavor). Mainland shadow house: [[The Slide]] (not clergy). Tithe-infra and safety-guilds: [[Tithe-Infrastructure]] (5.3). Names 🟡. Do not clone the Slide as those guilds.
-- **The nature of her limit.** The Watching *claims* to remember a cost. That claim is fuel for [[Roadmap|Epic 6]], not an answer.
+- **The nature of her limit.** The Watching *claims* to remember a cost. Story 6.1 showed the edge *moving with wood* and did not pick a cause. That claim is still fuel, not an answer. See [[The Ages of the Turning]].
 
 ## Links
 - The five: [[The Leaf-Mother]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]

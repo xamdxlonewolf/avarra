@@ -7,7 +7,7 @@ status: active
 tags: [core, premise, concept, design-hub]
 aliases: [The Concept, The Pitch, The Two-Layer World]
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The Premise
@@ -72,7 +72,7 @@ Two dials set before Epic 2, so law/economy/settlements build against a fixed fr
 ### Scale — a wide world of rival powers
 **~15 *great powers* across 3 large continents + 1 small one** — the top tier, not the whole count. Beneath them the world swarms the way a late-medieval one does: smaller kingdoms, free cities, marches, petty principalities, and un-polity'd frontier fill the space between the great powers. "~15" names the powers worth naming, not the number of places that exist. Not one empire and not a fog of city-states — a handful-plus of real powers that trade, compete, and *differ in how they treat the Conditioned*. This gives enough uniformity to generalize the social rules and enough contrast for border-, migration-, and law-clash stories.
 
-**One continent is the motherland** — the origin, where the **[[Turning Tree|Awakening Tree]]** still stands. The whole world's town Trees are grafts carried out from it, so *today* her reach travels with the grafts and full reach stands wherever a healthy Tree does. Thin reach is now a matter of genuinely **Tree-poor places** (few, young, or sickening Trees), not raw distance from the motherland. (The old distance-gradient — when there was *one* Tree and the far-flung stayed Kept for want of the pilgrimage — is **history**; see [[Roadmap|Epic 6]].) The keystone edge (the Leaf-Mother's reach *thins* where the Trees are thin — those places run higher on the Kept and the Struck) **wants** a big map with a real frontier and a real origin; scale and cosmology point the same way.
+**One continent is the motherland** — the origin, where the **[[Turning Tree|Awakening Tree]]** still stands. The whole world's town Trees are grafts carried out from it, so *today* her reach travels with the grafts and full reach stands wherever a healthy Tree does. Thin reach is now a matter of genuinely **Tree-poor places** (few, young, or sickening Trees), not raw distance from the motherland. (The old distance-gradient — when there was *one* Tree and the far-flung stayed Kept for want of the pilgrimage — is **history**; see [[The Ages of the Turning]].) The keystone edge (the Leaf-Mother's reach *thins* where the Trees are thin — those places run higher on the Kept and the Struck) **wants** a big map with a real frontier and a real origin; scale and cosmology point the same way.
 
 > **Build discipline (progressive elaboration).** 15 fully-built polities is pass-two work, not Epic 2 work. **Epic 2 builds the *universal social physics*** — how law, economy, and daily life bend around a Tithe-carrying majority (largely portable, since it flows from the Trees + Conditions, which are locked and universal) — **plus 2–3 contrasting polity *archetypes*** to prove the rules flex. The remaining ~12 stay named-stubs until [[Roadmap|Epic 3 (World Frame)]] and Epic 7 (Settlements).
 

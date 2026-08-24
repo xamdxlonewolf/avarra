@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # 07 - Religion
@@ -32,5 +32,8 @@ Deities, faiths, mythology, rituals, and religious history.
 ### Teaching-story
 - [[The Child at Four Doors]] — one fable, a different last line in every house
 
+### History that touches the Tree
+- [[The Ages of the Turning]] — when there was only the one Tree; pilgrimage then grafts *(lives in `02 - History`)*
+
 ## Related
-- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The World Frame]] · [[Roadmap]]
+- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[Roadmap]]

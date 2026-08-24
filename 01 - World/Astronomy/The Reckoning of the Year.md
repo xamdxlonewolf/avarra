@@ -10,7 +10,7 @@ aliases: [The Calendar, The Turning Year, Turning-Week, The Solstice Reckoning, 
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-22
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # The Reckoning of the Year
@@ -74,6 +74,17 @@ Liturgical names are [[The Old Tongue|Maiethren]]; the common-tongue / [[Polity 
 
 A mainlander will try to line *Saalo* up with Seed-month and be cheerfully, consistently wrong. That mismatch *is* the tell.
 
+## How years are numbered
+
+Months name a season. **Years have no universal number.** Same lever as the three new-year's days, turned toward history: the count you write on a debt is a theology. Full spine: [[The Ages of the Turning]].
+
+- **[[The Tree-Wardens|First Seat]] / devout clerks** count **Cut-years** from [[The First Cut]] (liturg. the *Eoloren-count*). Working present (🟡): **Cut-year 387**.
+- **[[Polity Archetypes|Lestrand]] and the [[Economy and the Tithe|deathless houses]]** count from a house-founding or a note-issue ("the 200th summer of the White Note").
+- **[[Polity Archetypes|Vaethorn]]** counts from **the year our graft took** — the same local-fall logic as their new-year.
+- **[[The Watching]]** refuse the Cut-count. **[[The Sundering Isle|Kumbaan]]** keeps moons and owes the ages nothing.
+
+The [[Turning Tree|Awakening Tree]] is old beyond reliable dating. There is no year the world began, and no year she appeared.
+
 ## How it varies across the world
 
 The reckoning is **universal in principle** (one sun, one moon, the two solstices) but *lived* differently along the [[The World Frame|reach-gradient]]:
@@ -87,12 +98,13 @@ The reckoning is **universal in principle** (one sun, one moon, the two solstice
 - [[Turning Tree]] (the Leaf-Fall, held Turning-Week) · [[The Leaf-Mother]] (the faith that reads the solstice as her choosing) · [[The Premise]] (solstice-timing locked)
 - [[The World Frame]] — the reach-gradient this calendar is lived along · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Yumboe]] (the lunar-reckoning people) · [[The Old Tongue]] (month-roots) · [[Naming in the Turning]] · [[Naming People in the Turning]]
-- [[Roadmap]] (Epic 3) · [[01 - World]]
+- [[The Ages of the Turning]] — Cut-years and the two clocks · [[The First Cut]]
+- [[Roadmap]] (Epic 3; Epic 6 Story 6.1) · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **The solstice-timing is a two-reading fact, like everything keystone-adjacent.** Believers: the [[The Leaf-Mother|Mother]] times her choosing to the year's hinge. Skeptics: the [[Turning Tree|Trees]] are photoperiod-sensitive plants that colour with the light, and the "choosing" is biology. Per [[Is the Leaf-Mother Real|the keystone]], she *is* real — so the believers are right about *who*, the skeptics right about the *mechanism* (she works through the Trees' real nature, not against it). Don't resolve it in player text; the calendar works identically either way.
 - **Kumbaan's lunar calendar is the sharpest small tell in the world.** The [[Yumboe|Yumboes]] keep the *moon*, not the *solstice*, because the Trees never reached them — a whole people whose reckoning of time has no Leaf-Fall in it at all. It reads in-world as mere cultural difference (an isolated island keeps its own calendar, of course). It *is* also the keystone experiment ([[The Sundering Isle]]): the one calendar the Mother's Trees demonstrably never shaped. Reserve the significance; let it look like colour.
-- **Whoever keeps the dates holds power.** No printing press → calendars are hand-kept by clergy and clerks. The [[Turning Tree|tree-wardens]] set Turning-Week; the [[Polity Archetypes|Tallied Crown's]] clerks record it. A campaign lever: a disputed date, a miscounted cohort, a child Turned a year "late" because someone kept the calendar wrong (or made them).
+- **Whoever keeps the dates holds power.** No printing press → calendars are hand-kept by clergy and clerks. The [[Turning Tree|tree-wardens]] set Turning-Week; the [[Polity Archetypes|Tallied Crown's]] clerks record it. A campaign lever: a disputed date, a miscounted cohort, a child Turned a year "late" because someone kept the calendar wrong (or made them). Cut-years vs house-years vs "the year the graft took" is the same lever aimed at *history* ([[The Ages of the Turning]]).
 - **Astronomy is deliberately shallow.** One sun, one moon, two solstices — enough to run the rite and date events. If a later story wants eclipses, comets, or a second moon as omen-material, that's open space, not a contradiction; nothing above depends on the sky being simple beyond the solstice.

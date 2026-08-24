@@ -8,7 +8,7 @@ tags: [society, law, citizenship, governance, epic-2, social-structure]
 aliases: [Law of the Turning, Citizenship, Condition Law, Witnessed Citizenship]
 reveals: [leaf-mother-is-real]
 created: 2026-08-20
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Law and Citizenship
@@ -25,7 +25,7 @@ So citizenship in The Turning is **witnessed, not recorded.** You are of a place
 
 > **There is no register of the people.** No town, church, or crown keeps a list of everyone and their gift. That would be to hold a record *on* people, and it is not how this world works. Belonging is living communal memory, the way a real village knows its own — not a ledger. (The one kingdom that *does* keep such a list is a notorious exception — see [How polities vary](#How%20polities%20vary) — and it reads as unsettling precisely *because* no one else does it.)
 
-This gives the world its citizenship engine, its regulatory hook, and its central injustice, all from the same warm root.
+This gives the world its citizenship engine, its regulatory hook, and its central injustice, all from the same warm root. **It is also a Hands-era default.** In [[The Walking Years]] the town that saw you Turn was the crowd under Thaeloren — or no one, if you never arrived. Vouching-at-a-distance exists to *carry that origin-witness home.* The grammar below is how the present works; the road underneath it is [[The Ages of the Turning]].
 
 ## How you prove who you are — by *people*, not papers
 
@@ -118,13 +118,14 @@ The grammar above is universal; the *tone* is not — and the world is as varied
 - [[Conditions]] — the roster this law regulates · [[The Stilled]] · [[Bound]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Taken-In]] · [[The Unbound]]
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes below (Vaethorn · Lestrand · Threnmaieth) · [[The Old Tongue]] — the root language · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Tithe-Infrastructure]] — official furnishing · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] — the tickets and the raw-Struck desk (Story 5.3)
-- [[Roadmap]] (Epic 2, Story 2.1) · [[03 - Cultures]]
+- [[The Ages of the Turning]] — local witness as Hands-era weather · [[The Walking Years]]
+- [[Roadmap]] (Epic 2, Story 2.1; Epic 6 Story 6.1) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Carries the keystone tie-in this note is keyed to via `reveals: [leaf-mother-is-real]`.)*
 
 - **R2 social guard — keep this friction REAL.** Per [[Is the Leaf-Mother Real|the keystone]], the Leaf-Mother's benevolence is **cosmological, not social.** She authored the gifts; she did **not** author the injustice built on top of them. The unjust structures above — the Watchful kingdom's register, unvouched-Struck suspicion, Bound over-watching, guild conscription of the Given, Tithe-need as leverage, the Kept pitied, the Given-Over's lost personhood — are **not misreadings of a kindness to be dissolved by the reveal.** They are the moral spine of the setting. If the campaign ever confirms she is real and kind, that must **not** retroactively make the society just. The keystone answers *is anyone there, and do they mean well* (yes); it pointedly does not answer *is what people built around her fair* (often no). Protect that gap — it is where the play is.
 - **Design note — witnessed, not recorded (user call, 2026-08-20).** The original draft made a universal Turning-*register* the citizenship engine; the user rightly flagged "records kept on everyone at ten" as too invasive and off-tone for a ~5%-scary world. Reframed: citizenship is **witnessed communal memory**, proof runs through **vouching people** (Long-Lived / Bound / Far-Voiced), and the only per-person paper is a **guild safety-licence for the ~3 hazardous Conditions.** The register survives *only* as one aberrant kingdom's paranoia (the Watchful). Keep the baseline warm; keep the record creepy and rare.
-- **The reach-edge is the *cause* of the Frontier stance, and it's GM truth.** In the body, the frontier's higher Kept/Struck rates read as plain distance-and-biology (the skeptics' whole case). The *reason* — [[Is the Leaf-Mother Real|her reach is bounded and thins at the margins]] — is the locked keystone edge and stays GM-side. Same observable fact, two readings; don't let a player-facing note assert the cause.
+- **The reach-edge is the *cause* of the Frontier stance, and it's GM truth.** In the body, the frontier's higher Kept/Struck rates read as plain distance-and-biology (the skeptics' whole case). The *reason* — [[Is the Leaf-Mother Real|her reach is bounded and thins at the margins]] — is the locked keystone edge and stays GM-side. Same observable fact, two readings; don't let a player-facing note assert the cause. History's mundane face: far children once stayed Kept for want of a walk, and some still walk ([[The Ages of the Turning]]).
 - **Naming is done (2026-08-21).** The in-world naming pass is complete — [[The Old Tongue]] (root tongue + drifts + the three polity names) and [[Naming in the Turning]] (institution dictionary: common-tongue name + three stance-variants each). The body here keeps plain descriptors on purpose (legibility); the in-world names live in those two notes. Remaining language work (deep grammar, the other polities' tongues) is [[Roadmap|Epic 4]].
 - **Hooks this opens.** The Watchful kingdom's register as a thing to steal, forge, or escape; an unvouched Struck the party must decide whether to stand for or turn away; a Given-Over personhood case with no settled law; a warm polity's "vocation" that is really conscription; a stranger who *cannot be vouched* and what that costs them. Lived ticket-houses: [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]]. Feed leftover settlement texture to [[Roadmap|Epic 7]].

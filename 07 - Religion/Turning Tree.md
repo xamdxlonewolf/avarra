@@ -11,7 +11,7 @@ region:
 stratum:
 reveals: [leaf-mother-is-real]
 created: 2026-08-19
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Turning Tree
@@ -29,8 +29,8 @@ The everyday word is **Turning Tree** (for what it does at the solstice: it *tur
 There is **one origin Tree: the [[#The Awakening Tree|Awakening Tree]]** — the great, first Tree, the pilgrimage heart of the world. **Every town Turning Tree is a living graft of it.** As towns take root — especially far-flung ones a family could never reach the Awakening Tree from — a **sapling grafted from the Awakening Tree is carried out and planted** in the new town's square. A scion is not a seedling grown from a fallen seed; it is *cut tissue of the one Tree*, kept alive on the road and married into new ground.
 
 This is the setting's chosen shape because it gives us **both** at once:
-- **A Tree nearby.** Everyday families walk to their town's Tree for the Leaf-Fall — the divine is local, no one is exiled from the rite by distance.
-- **A pilgrimage for the devout.** The truly faithful travel to the **Awakening Tree** itself, the first Hand, to have a child Turned there or simply to stand under the origin.
+- **A Tree nearby.** Everyday families walk to their town's Tree for the Leaf-Fall — the divine is local, no one is exiled from the rite by distance. *(This is the Hands-era default. It was not always so — see [[The Ages of the Turning]].)*
+- **A pilgrimage for the devout.** The truly faithful travel to the **Awakening Tree** itself, the first Hand, to have a child Turned there or simply to stand under the origin. On [[Heskoren]], and wherever a graft has failed, the walk is still *necessity*, not only devotion.
 
 > **GM — why this matters (keystone).** Because every scion is *continuous tissue* of the one Tree, "the Turning Trees are her hands" is **literally true**, not metaphor: when any town's Tree chooses, it is the one power choosing through a grafted hand. See [[Is the Leaf-Mother Real]] (`reveal_tag: leaf-mother-is-real`). Keep this note reverent-but-unproven for players; the continuity is doctrine, not demonstrated fact.
 
@@ -87,7 +87,7 @@ Rare, mixed, or argumentative falls (two colours; a colour no one present has se
 
 - **This note is player-facing but keystone-adjacent.** It carries `reveals: [leaf-mother-is-real]` because the *graft continuity* ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms the Leaf-Mother is real and present. Present it to players as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics in-world grant the grafting (it's observable horticulture) while denying the conclusion (that a *mind* chooses through it).
 - **The scary edge is not here.** Resist making the Tree eerie or the ceremony sinister — that's off-tone for this setting and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Dread lives in individual Tithes, not in the rite.
-- **Clergy offices:** built as [[The Tree-Wardens]] (Epic 5 Story 5.1; names 🟡). The Awakening Tree's continent is placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the colour→Condition palette is locked above; the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
+- **Clergy offices:** built as [[The Tree-Wardens]] (Epic 5 Story 5.1; names 🟡). The Awakening Tree's continent is placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the colour→Condition palette is locked above; the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. History of the grafts: [[The Ages of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
 
 ## Links
 - [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy)
@@ -96,4 +96,5 @@ Rare, mixed, or argumentative falls (two colours; a colour no one present has se
 - [[The Premise]] — the locked engine (Given / Struck / Kept, population math, the Tithe)
 - [[Is the Leaf-Mother Real]] — GM keystone truth this note points at
 - [[Conditions]] — what can be Given · [[Build Plan]] · [[Roadmap]]
+- [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]]
 - [[07 - Religion]]

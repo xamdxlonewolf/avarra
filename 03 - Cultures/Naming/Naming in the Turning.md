@@ -8,7 +8,7 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Naming in the Turning
@@ -112,6 +112,20 @@ Same lever, now for religions. The common-tongue name is what a traveller says; 
 | [[The Old Ways]] | the Old Ways | *Vaeloren* | *the Before-Faith* (live fight) | *(a frontier curiosity)* | *the Unreached* |
 | [[The Open Table]] | the Open Table | *Ndeyaan* | *(a sailor's tale)* | *the Moon-Feast* (quay-story) | *(not on the roll — off the map)* |
 
+### Eras & dating (from [[The Ages of the Turning]], Story 6.1)
+
+Same lever, on history itself. There is no universal year-zero. Names 🟡.
+
+| Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|---|
+| the pilgrimage-required past | **the Walking Years** (liturg. *Brenvaeth*) | *the old mile* / *the waiting-road* | *the road-years* (a logistics problem) | *the uncounted summers* (they want them on a roll) |
+| the first successful town-graft | **the First Cut** (liturg. *Eoloren*) | *the wood's blessing* | *the first carrying* | *the first warrant* |
+| the still-moving spread of grafts | **the Grafting** | *her hands travelling* | *the carrying* (supply) | *the counted road* (they would number it) |
+| the town-Tree present | **the Years of Hands** (liturg. *Ornthael*) | *Since the Hands* | *since the local canopy* | *the Reckoned Hands-years* |
+| a year's number | *(none universal)* | *the year our graft took* | *a house-year* / *a note-year* | *a Cut-year* (and a crown-count, later) |
+
+[[Before the Walk]] stays mostly unnamed. [[The Watching]] keep **the Before**. [[The Sundering Isle|Kumbaan]] keeps moons.
+
 ## How to coin more (for later notes)
 
 When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the system honest:
@@ -126,7 +140,8 @@ When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the s
 - [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
 - [[Kinds of the Turning]] — hearths, not nations
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming) · [[03 - Cultures]]
+- [[The Ages of the Turning]] — era-names and Cut-years (Story 6.1)
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming / Epic 6 Story 6.1) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

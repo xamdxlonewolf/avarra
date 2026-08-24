@@ -10,7 +10,7 @@ category: truth
 foreshadowed_by: []
 revealed_in:
 created: 2026-08-19
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Is the Leaf-Mother Real
@@ -39,8 +39,8 @@ Locking "she is real and kind" does **not** flatten the mystery. The world keeps
 - **What she is** (a goddess? the Trees' shared soul? something older wearing a mother's face for our comfort?) — undecided; the *maternal, benevolent intent* is what's locked, not her metaphysical species.
 - **What she wants**, beyond giving good gifts — undecided. She is kind; her larger purpose (if any) is unwritten.
 - **Where she is / whether she can be reached** — undecided. Revelation is deliberately quiet; there is no throne to visit.
-- **The *nature* of her limit** — **locked that it exists, open on what it is.** *That* her reach has an edge and giving costs her is now canon (see the constraint above); *why* — is she finite by nature, spent from some old wound, rationing a power that could run out, holding something back to hold something else up? — is deliberately unwritten, live design space for History (Epic 6) and the wider-pantheon pass. Lock the ache, not its cause.
-- **Whether she is the only such power** — **closed 2026-08-23 (structure 🔒; names 🟡).** She is **not** exclusive. She is the first and greatest of a household. She Gives; the Other Hands Strike, by her allowance, each at one door. Full roster and the Kumbaan lock: [[The Other Hands]] (`reveal_tag: the-other-hands`). Player-facing notes still do not confirm this. The *nature* of her limit (why she is bounded; why Giving costs) remains open for Epic 6.
+- **The *nature* of her limit** — **locked that it exists, open on what it is.** *That* her reach has an edge and giving costs her is now canon (see the constraint above); *why* — is she finite by nature, spent from some old wound, rationing a power that could run out, holding something back to hold something else up? — is deliberately unwritten, live design space for later History stories (6.3–6.4 may show the edge moving; they may not pick a cause) and any leftover pantheon texture. Lock the ache, not its cause.
+- **Whether she is the only such power** — **closed 2026-08-23 (structure 🔒; names 🟡).** She is **not** exclusive. She is the first and greatest of a household. She Gives; the Other Hands Strike, by her allowance, each at one door. Full roster and the Kumbaan lock: [[The Other Hands]] (`reveal_tag: the-other-hands`). Player-facing notes still do not confirm this. The *nature* of her limit (why she is bounded; why Giving costs) remains open — Story 6.1 showed the edge *moving with wood* and did not pick a cause.
 
 ## How It Surfaces (clues, in order)
 
@@ -48,7 +48,7 @@ Because she is quiet and genuinely kind, revelation is a slow accretion of *cohe
 
 1. **The gifts fit too well.** Over a lifetime, a town notices that the Conditions Given tend to be the ones that town will *need* — as if something is looking ahead. Easy to dismiss as hindsight and survivorship bias (and the skeptics do).
 2. **The Kept are cared for, not merely skipped.** Many Kept report the ceremony felt like a *choice made for them*, not an absence — but not all, and the difference nags. Hard to falsify; easy to call sentiment. (Per the constraint, both readings are *true of different Kept* — some chosen, some past her edge — which is exactly why the testimony never resolves cleanly.)
-3. **The reach has an edge.** The quiet, best evidence of the constraint: remote hamlets far from any mature Tree run higher on the Kept and higher on the Struck; a Tree strains and a child goes ungifted where a central town's would not; the giving visibly *thins* where the Trees are thin. Reads mundanely as distance-and-biology (the skeptics' whole case) — but it is the shape of a *bounded hand*, not an absent one. (The old scholars know it was once far starker: before the Awakening Tree's grafts spread, only those who could make the pilgrimage were reached, and the far-flung stayed Kept for want of the trip — see [[Roadmap|Epic 6]]. That the reach has *grown* with the grafts is itself the quiet argument that a hand, not a climate, is behind it.)
+3. **The reach has an edge.** The quiet, best evidence of the constraint: remote hamlets far from any mature Tree run higher on the Kept and higher on the Struck; a Tree strains and a child goes ungifted where a central town's would not; the giving visibly *thins* where the Trees are thin. Reads mundanely as distance-and-biology (the skeptics' whole case) — but it is the shape of a *bounded hand*, not an absent one. (The old scholars know it was once far starker: before the Awakening Tree's grafts spread, only those who could make the pilgrimage were reached, and the far-flung stayed Kept for want of the trip — see [[The Ages of the Turning]]. That the reach has *grown* with the grafts is itself the quiet argument that a hand, not a climate, is behind it.)
 4. **A Tree does something a phenomenon shouldn't.** Rare, quiet moments where a scion acts with apparent *intent* (withholds a colour that would have doomed a child; a scion "reaches" — and sometimes visibly *strains* — for a specific person). Never flashy — always deniable.
 5. **The Struck are met — barely.** Testimony from the Struck that the threshold felt *received*, as if someone reached for them from the far side of the door — but late, or thin, or at the very limit of arriving at all. The strongest experiential evidence *and* the clearest felt-sense of the edge; still only testimony.
 6. **The confirming beat (GM's to place).** If the campaign ever truly confirms her, it should land as *warmth and relief with an ache under it*, not horror — the answer to "is anyone there?" is *yes, she meant it kindly, and she is doing what she can against a limit.* Reserve this; the setting works better with it withheld.
@@ -72,4 +72,4 @@ Because she is quiet and genuinely kind, revelation is a slow accretion of *cohe
 - [[The Premise]] — design hub (the Leaf-Mother section) · [[Build Plan]] · [[Roadmap]] (Epic 0 keystone task)
 - [[The Other Hands]] — the household elaboration (she Gives; they Strike)
 - [[11 - Secrets]] · [[07 - Religion]]
-- Downstream: [[Turning Tree]] · [[The Leaf-Mother]] · [[The Tree-Wardens]] · [[Faiths of the Turning]]
+- Downstream: [[Turning Tree]] · [[The Leaf-Mother]] · [[The Tree-Wardens]] · [[Faiths of the Turning]] · [[The Ages of the Turning]]

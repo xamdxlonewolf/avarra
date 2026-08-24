@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-08-23
+updated: 2026-08-24
 ---
 
 # Roadmap
@@ -36,7 +36,7 @@ updated: 2026-08-23
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | 🟢 core done |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; **4** custom ancestries ✅ · Story 4.2 ✅ | Low | 🟢 core done |
 | **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ✅ done |
-| **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | ⬜ |
+| **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | 🟢 Story 6.1 done |
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ⬜ |
 | **8** | [[#Epic 8 — People]] | The cast | Low | ⬜ |
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟡 ongoing |
@@ -92,7 +92,7 @@ updated: 2026-08-23
 ---
 
 ## Epic 2 — Society & Institutions
-**Skill:** `governance-systems`, `economic-systems` · **Status:** 🟢 in progress (started 2026-08-20) · **Blast radius: High.**
+**Skill:** `governance-systems`, `economic-systems` · **Status:** ✅ **complete (2026-08-21)** · **Blast radius: High.**
 
 > The payoff epic: *how does a civilization work when 3 of 4 people carry a Tithe?* Every settlement & faction inherits these answers, so it comes before the specific places.
 
@@ -136,7 +136,7 @@ updated: 2026-08-23
 > **Built as a reach-gradient.** The load-bearing call: the whole map is a **gradient of the [[Turning Tree|Trees']] reach** — sacred-dense origin → mercantile middle → thin frontier → storm-walled isle beyond. Physical map = cosmological map. → [[The World Frame]].
 
 - [x] 🟡 **Geography & regions (`01 - World`)** → [[The World Frame]] (top-level) + four continents: **[[Maiethorn]]** (Motherland, full reach, holds [[Polity Archetypes|Threnmaieth]]), **[[Strandoren]]** (Shore-lands, high reach, trade, holds [[Polity Archetypes|Lestrand]]), **[[Heskoren]]** (Sundered Reach, thin reach, frontier, holds [[Polity Archetypes|Vaethorn]]), **[[The Sundering Isle]]** (Kumbaan — storm-walled, near-no reach, Yumboe homeland). The three archetype polities placed on three *different* continents; **rival faiths woven into the large continents** and now built ([[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] — [[Faiths of the Turning]]).
-- [x] 🟡 **Where Turning Trees grow** — the reach-gradient *is* this: densest/healthiest on Maiethorn, thinning outward, near-none across the storm-wall. Present-day thin reach = Tree-poor places (young/sick/few grafts), per the [[Roadmap|Epic 6 Grafting]] history. Keystone edge kept GM-side in every continent note.
+- [x] 🟡 **Where Turning Trees grow** — the reach-gradient *is* this: densest/healthiest on Maiethorn, thinning outward, near-none across the storm-wall. Present-day thin reach = Tree-poor places (young/sick/few grafts), per [[The Ages of the Turning]] (the Grafting as a still-moving wave). Keystone edge kept GM-side in every continent note.
 - [x] 🟡 **Astronomy/solstice — calendar locked** → [[The Reckoning of the Year]]: two solstices; the Leaf-Fall is **High Solstice / midsummer**, held **Turning-Week**; ~1400s-legible 12-month lunar-hinged calendar; [[The Sundering Isle|Kumbaan]] keeps the *moon, not the solstice* (a keystone tell).
 - [x] 🟡 **(Pulled forward from Epic 4) — 4th custom ancestry built to full depth** → [[Yumboe]] (the good people / Bakhna Rakhna): three Daggerheart features (Hollow-Hill · Moon-Waked · The Unseen Hands), folklore-checked (Wolof/Senegambian *Yumboe* myth), small/pearly/silver, LOCKED. Its own non-Maiethren tongue seeded. The Isle *needed* its people, so the ancestry came here rather than waiting for Epic 4.
 - **Map assets baked in (per user):** every geography note carries a **GPT Image prompt**; [[The World Frame]] additionally carries an **Azgaar heightmap template**, a **Maiethren name base**, and a bonus **Azgaar seed script**. (The Isle's own Wolof-flavoured name base is seeded in [[Yumboe]], to build alongside Epic 4.)
@@ -202,10 +202,44 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 ---
 
 ## Epic 6 — History
-**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** ⬜ **NEXT.** When did the Trees appear? Eras, the shape of the past. Seed the *theme* early; flesh once there's a world to have a history *of*. *(Progressive elaboration: decompose to Story/Task depth when starting.)*
+**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** 🟢 **Story 6.1 done (2026-08-24).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]].
 
-**Seeds (banked, not yet fleshed):**
-- 🟡 **The Grafting / the old pilgrimage era.** Once there was only the **Awakening Tree** on the motherland, and a child's tenth-year Turning meant a *pilgrimage* to it. The far-flung couldn't make the trip and **stayed Kept for want of it**, so the old far reaches ran heavy on the Kept and the Struck. Then the Tree's grafts spread out to the towns — her reach *travelled with them* — and full reach now stands wherever a healthy graft does. This is the historical origin of today's pattern: present-day thin reach is a matter of *Tree-poor places*, not raw distance. (Seeds geography — Epic 3 — and reconciles with the locked keystone edge in [[Is the Leaf-Mother Real]].)
+> **Load-bearing calls (Story 6.1):** two clocks, not four stacked ages — **how you Turned** (Walking vs Hands) and **where the wood has reached** (the Grafting as a *still-moving wave*). No universal year-zero; dating reveals stance. Do not date the Tree's appearing. Do not lock who cut. Do not lock the nature of her limit. Do not run the colonial "we brought Trees to the far" version.
+
+### Story 6.1 — The era spine ✅ **DONE (2026-08-24)** → [[The Ages of the Turning]]
+- [x] 🔒 Two clocks, not four stacked ages — Walking/Hands (personal) · the Grafting as a wave still unfinished at [[Heskoren]] (geographic)
+- [x] 🔒 Unnamed preface → [[Before the Walk]] (Tree old beyond dating; [[The Watching]] keep *the Before*)
+- [x] 🟡 Everyday + liturgical names — Walking Years / *Brenvaeth* · First Cut / *Eoloren* · Years of Hands / *Ornthael* (the *Thaelvaeth* / *Brenvaeth* inversion is load-bearing; names polishable)
+- [x] 🔒 No universal year-zero; dating reveals stance (Seat Cut-years · house-years · "year the graft took" · Watching refuse the count · Kumbaan moons)
+- [x] 🟡 Working present **C.Y. 387**; First Cut = C.Y. 0; spread-table Maiethorn → Strandoren by sea → Heskoren live → Kumbaan never
+- [x] 🔒 Do not date the Tree's appearing; do not lock who cut; do not lock [[Is the Leaf-Mother Real|the nature of her limit]]
+- [x] Spine consequences: local-witness citizenship is Hands-era; deathless houses from road-houses; Cutting-leave captures a heresy; language-drift after the road's conserving pull; Heskoren is the tail
+- [x] One oblique document (White-Note clerk vs Eoloren-count) + era/event notes as spine, not lived chronicle
+
+### Story 6.2 — The Walking Years (lived) ⬜ **NEXT** → [[The Walking Years]]
+The road as a life, not a label. Depends on 6.1.
+- [ ] What the walk was — routes, Turning-Week timing, who could afford it, who died
+- [ ] Far reaches Kept/Struck-heavy as the *rule*, not an edge-case
+- [ ] Institutions of the road (inns, mile-shrines, summer traffic) and the deathless road-house in the act of being a road-house
+- [ ] Witness at the origin, or not at all — the legal under-layer of [[Law and Citizenship]]
+- [ ] [[Long-Lived]] who still say *I walked* (perfect memory, disagreed meaning)
+- [ ] Folklore / one oblique or paradox-fable — romance and graves in the same sentence
+- [ ] 🔒 Do not write a golden age. Do not agree with Vaethorn's guilt-theology that distance was unworthiness.
+
+### Story 6.3 — The First Cut and the spread → [[The First Cut]]
+Hinge event + how the wave moved. Depends on 6.1–6.2.
+- Contested attributions (folk / clergy / devout / Watching / Old Ways) — pick a face only if play needs one
+- Heresy → [[The Tree-Wardens|Cutting-leave]]; the queue is born
+- Continent-by-continent carrying (Maiethorn, sea to Strandoren, late Heskoren, never Kumbaan)
+- Seat narration vs folk memory; R2 — spreading Trees did not make society kind
+
+### Story 6.4 — Residues (the present as history) → [[The Years of Hands]]
+What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7.
+- Pilgrimage today: devotion / prestige / necessity
+- Visible leftovers (mile-shrines, empty pilgrim-beds, roads that end at a Tree)
+- Deathless houses' road-past as present credit
+- Heskoren as live Grafting; fate-pressure on Seat / Road-hands / waiting towns (`world-fates`, noted not rolled)
+- Settlement seeds for [[#Epic 7 — Settlements]]
 
 ---
 
@@ -237,10 +271,12 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅**. **Story 4.2 ✅ and 🔒 (2026-08-23, user-approved)** → [[Kinds of the Turning]] · [[Naming People in the Turning]] · months · Kumbaan name base · leaf-colours. Revisit flag on the four ancestries still open (not blocking). Deep grammar + ~12 powers' tongues still deferred.
-- **Epic 5 — Factions:** ✅ **COMPLETE (2026-08-23).** Stories 5.1–5.3 done → [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] (names 🟡, do not rebuild). **Epics 6–10:** not yet decomposed (progressive elaboration) — **⭐ Next: Epic 6 (History)**
-- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Next: Epic 6 (History).**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**. Epic 5 complete ([[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]], names 🟡). **Next: Epic 6 (History).**
+- **Epic 5 — Factions:** ✅ **COMPLETE (2026-08-23).** Stories 5.1–5.3 done → [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] (names 🟡, do not rebuild).
+- **Epic 6 — History:** 🟢 **Story 6.1 done (2026-08-24).** 8 / 8 of 6.1. Hub [[The Ages of the Turning]] · [[Before the Walk]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]. **⭐ Next: Story 6.2 (the Walking Years, lived).** 6.3–6.4 story-sketched, not task-fleshed.
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Epic 6 Story 6.1 done. Next: Story 6.2.**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · Tree undated · cutter unpicked · limit's nature still open). Epic 5 complete (names 🟡). **Next: Story 6.2 (the Walking Years, lived).**
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
+- [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]]
 - [[Conditions]] · [[00 - Core]] · [[Conventions]]
