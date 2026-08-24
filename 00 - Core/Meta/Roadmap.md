@@ -36,7 +36,7 @@ updated: 2026-08-24
 | **3** | [[#Epic 3 — The World Frame]] | The physical stage settlements/cultures stand on | Med | 🟢 core done |
 | **4** | [[#Epic 4 — Cultures & Kinds]] | Peoples & customs; **4** custom ancestries ✅ · Story 4.2 ✅ | Low | 🟢 core done |
 | **5** | [[#Epic 5 — Factions & Orders]] | The institutional actors (guilds, Tithe-infra orgs) | Med | ✅ done |
-| **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | 🟢 Stories 6.1–6.3 done |
+| **6** | [[#Epic 6 — History]] | When did the Trees appear? gives the world a past | Med | ✅ done |
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ⬜ |
 | **8** | [[#Epic 8 — People]] | The cast | Low | ⬜ |
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟡 ongoing |
@@ -202,7 +202,7 @@ The sector from [[Economy and the Tithe]]: who furnishes green / novelty / outle
 ---
 
 ## Epic 6 — History
-**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** 🟢 **Stories 6.1–6.3 done (2026-08-24).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]]. Lived road: [[The Walking Years]]. Hinge and spread: [[The First Cut]].
+**Skill:** `world-fates`, `systemic-worldbuilding` · **Status:** ✅ **complete (2026-08-24).** When did the Trees appear? Eras, the shape of the past. Hub: [[The Ages of the Turning]]. Lived road: [[The Walking Years]]. Hinge and spread: [[The First Cut]]. Residues: [[The Years of Hands]] · [[Settlement Seeds]].
 
 > **Load-bearing calls (Story 6.1):** two clocks, not four stacked ages — **how you Turned** (Walking vs Hands) and **where the wood has reached** (the Grafting as a *still-moving wave*). No universal year-zero; dating reveals stance. Do not date the Tree's appearing. Do not lock who cut. Do not lock the nature of her limit. Do not run the colonial "we brought Trees to the far" version.
 
@@ -235,19 +235,30 @@ Hinge event + how the wave moved. Depends on 6.1–6.2. Do not rebuild the spine
 - [x] 🔒 Do not date the Tree. Do not lock [[Is the Leaf-Mother Real|the nature of her limit]]. Do not send a graft across the storm-wall.
 - [x] Folklore [[The Branch That Came Away]] + Seat minute (Rithnali; the verso of dead pots)
 
-### Story 6.4 — Residues (the present as history) ⬜ → [[The Years of Hands]]
-What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7.
-- [ ] Pilgrimage today: devotion / prestige / necessity (the walk changed jobs, it did not vanish)
-- [ ] Visible leftovers — mile-shrines, empty pilgrim-beds, roads that end at a Tree
-- [ ] Deathless houses' road-past as present credit
-- [ ] Heskoren as live Grafting; fate-pressure on Seat / Road-hands / waiting towns (`world-fates`, noted not rolled)
-- [ ] Settlement seeds for [[#Epic 7 — Settlements]]
-- [ ] 🔒 Do not narrate Ornthael as "the modern age after history." Two clocks; the wave is live.
+### Story 6.4 — Residues (the present as history) ✅ **DONE (2026-08-24)** → [[The Years of Hands]]
+What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7. Do not rebuild the spine, the lived road, or the Cut.
+- [x] 🟡 Pilgrimage today — three jobs (devotion / *the extra mile* · prestige / *the First-Hand year* · necessity / *the neighbour's week*); Hands can un-Hands; wood-out / hearths-in
+- [x] 🟡 Visible leftovers — mile-shrines as the stone in the square; upper rooms; roads that end at a Tree
+- [x] 🟡 Deathless houses' road-past as present credit — two fates: [[The White Note House]] (desk) · [[The Third Hearth]] (Held bed)
+- [x] 🟡 Heskoren as live Grafting — [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]; fate-pressure on Seat / Road-hands / waiting towns (`world-fates`, **noted not rolled**)
+- [x] 🟡 Settlement seeds for [[#Epic 7 — Settlements]] → [[Settlement Seeds]]
+- [x] 🔒 Do not narrate Ornthael as "the modern age after history." Two clocks; the wave is live. Folklore [[The Child Who Climbed the Stone]] + Mataero's letting-slate
 
 ---
 
 ## Epic 7 — Settlements
-**Skill:** `settlement-design` · **Status:** ⬜ · Specific places, built on Epics 2–4. *Stub only for now.*
+**Skill:** `settlement-design` · **Status:** ⬜ **next.** Specific places, built on Epics 2–6. Residue types already on the ground → [[Settlement Seeds]]. Do not rebuild the era spine. Do not treat Ornthael as post-history.
+
+> Progressive elaboration from Story 6.4. Task-depth only on the next story when it is picked up. Named stubs already implied (Harrow's · the three hamlets · Third Hearth · White Note) stay seeds until a story fleshes a square.
+
+### Story 7.1 — Name the other powers (stubs)
+The ~12 unnamed great powers across the four continents. Names from [[The Old Tongue]] + stance-drift; hearths not Kind-nations. Include the un-built **secular frontier** corner on [[Heskoren]] ([[Polity Archetypes]]). Kumbaan is not a thirteenth mainland power.
+
+### Story 7.2 — Playable squares from the leftover types
+Flesh a few settlements from [[Settlement Seeds]] (not all nine types). Tree-at-the-centre grammar from [[Daily Life]]; two clocks visible; one leftover job per street. Do not clone Road-hands, the Slide, or Kind-quarters.
+
+### Story 7.3 — The three archetype seats
+Vaethorn / Lestrand / Threnmaieth as *places* (not only corners). Capitals wait on 7.1's naming pass if they need neighbours. Do not let Threnmaieth capture the First Seat in the first sentence.
 
 ---
 
@@ -275,11 +286,11 @@ What the Walking left on the ground. Depends on 6.1–6.3. Feeds Epic 7.
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology, ~12 named-stub powers (→E7). Rival faiths ✅ Story 1.4.
 - **Epic 4 — Cultures & Kinds:** custom ancestries **4/4 ✅**. **Story 4.2 ✅ and 🔒 (2026-08-23, user-approved)** → [[Kinds of the Turning]] · [[Naming People in the Turning]] · months · Kumbaan name base · leaf-colours. Revisit flag on the four ancestries still open (not blocking). Deep grammar + ~12 powers' tongues still deferred.
 - **Epic 5 — Factions:** ✅ **COMPLETE (2026-08-23).** Stories 5.1–5.3 done → [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] (names 🟡, do not rebuild).
-- **Epic 6 — History:** 🟢 **Stories 6.1–6.3 done (2026-08-24).** 8 / 8 of 6.1 🔒; 7 / 7 of 6.2; 6 / 6 of 6.3. Hub [[The Ages of the Turning]] · lived road [[The Walking Years]] · hinge [[The First Cut]] · fables [[The Child Who Counted Stones]] · [[The Branch That Came Away]]. Names *Brenvaeth / Eoloren / Ornthael* 🔒. Walks and *brenhael* 🟡. Cut texture *nameless knife / generation of argument* 🟡. Present C.Y. 387 🔒. **Cutter still unpicked.** Nature of her limit still open. **⭐ Next: Story 6.4 (residues — the present as history).**
-- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Epic 6 Stories 6.1–6.3 done. Next: Story 6.4.**
-- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · *Brenvaeth / Eoloren / Ornthael* 🔒 · C.Y. 387 🔒 · Tree undated · cutter unpicked · limit's nature still open), **First Cut lived** (five attributions uncollapsed · Cutting-leave as captured copy-right · spread inside locked bands · Kumbaan never). Epic 5 complete (clergy/guild names 🟡). **Next: Story 6.4 (residues).**
+- **Epic 6 — History:** ✅ **COMPLETE (2026-08-24).** 8 / 8 of 6.1 🔒; 7 / 7 of 6.2; 6 / 6 of 6.3; 6 / 6 of 6.4. Hub [[The Ages of the Turning]] · lived road [[The Walking Years]] · hinge [[The First Cut]] · residues [[The Years of Hands]] · seeds [[Settlement Seeds]] · fables [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child Who Climbed the Stone]]. Names *Brenvaeth / Eoloren / Ornthael* 🔒. Walks, *brenhael*, Cut texture, residue jobs 🟡. Present C.Y. 387 🔒. **Cutter still unpicked.** Nature of her limit still open. Fate-pressure noted, not rolled. **⭐ Next: Epic 7 (settlements) — Story 7.1, name the other powers.**
+- **Epic 2 — Society:** ✅ **COMPLETE (2026-08-21).** Frame locked (world scale + register + R2 guard); **all four stories + the naming pass done, core audited.** **2.1 (Law & Citizenship) ✅** → [[Law and Citizenship]]; **2.2 (Economy & the Tithe) ✅** → [[Economy and the Tithe]]; **2.3 (Daily Life) ✅** → [[Daily Life]]; **2.4 (Polity Archetypes) ✅** → [[Polity Archetypes]] (three corners, now named **Vaethorn / Lestrand / Threnmaieth**). **Naming pass ✅** → [[The Old Tongue]] + [[Naming in the Turning]]. Core audit complete → [[Epic 2 Audit Guide]]. **→ Story 4.2 done. Epic 5 complete (5.1–5.3). Epic 6 complete (6.1–6.4). Next: Epic 7 Story 7.1.**
+- **Locked decisions:** **setting name (_The Turning_)**, two-layer model, engine, roster, all 10 Condition mechanics, **4 custom ancestries** (Kitsune · Selkie · Tengu · Yumboe), keystone secret (Leaf-Mother real+benevolent **but bounded & costly**), Tree topology (one Awakening Tree + living grafts), **world scale (~15 polities / 3+1 continents)**, **register (late-medieval + Condition-labor advances)**, **world frame (four continents on a reach-gradient: [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]])**, **calendar (High-Solstice Turning-Week + twelve Maiethren months + three new-year's days)**, **five lived faiths** (Motherfaith + Watching / Fair Hand / Old Ways / Open Table — names 🔒), **household cosmology** (she Gives; Other Hands Strike — structure 🔒, Hand-names 🟡), **Kind-hearths not Kind-nations**, hearth-registers ***Kusawe / Sakoa / Gonan***, **leaf-colour table**, **era spine** (two clocks · Grafting as live wave · no universal year-zero · dating reveals stance · *Brenvaeth / Eoloren / Ornthael* 🔒 · C.Y. 387 🔒 · Tree undated · cutter unpicked · limit's nature still open), **First Cut lived** (five attributions uncollapsed · Cutting-leave as captured copy-right · spread inside locked bands · Kumbaan never), **residues lived** (walk's three jobs · Hands can un-Hands · road-past as credit · Heskoren live front · fate-pressure noted not rolled). Epic 5 complete (clergy/guild names 🟡). **Next: Epic 7 Story 7.1 (name the other powers).**
 
 ## Links
 - [[Build Plan]] — handoff brief (points here) · [[The Premise]] — design hub
-- [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]]
+- [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
 - [[Conditions]] · [[00 - Core]] · [[Conventions]]

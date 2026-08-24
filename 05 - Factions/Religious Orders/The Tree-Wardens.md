@@ -159,14 +159,16 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
-- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] — Cutting-leave as captured copy-right; *Brenvaeth* as the inversion of *Thaelvaeth*; origin-hearth was the only Speaking that counted
-- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 Stories 6.1–6.3) · [[05 - Factions]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] — Cutting-leave as captured copy-right; *Brenvaeth* as the inversion of *Thaelvaeth*; origin-hearth was the only Speaking that counted; fate-pressure noted not rolled
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
+- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete) · [[05 - Factions]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
 
 - **They are right about the wood and incomplete about the hand.** Per [[Is the Leaf-Mother Real]], every scion *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present the Orenhael as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind — the same two-sided schism, now wearing a lintel.
 - **The queue is the parallax, not the Tree.** Spatial + informational distance: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Exchange engine: every Cutting-leave is a benefit paid somewhere else. Do not let the keystone dissolve this. She is bounded, yes — she cannot gift every child — but *which town gets the next graft* is still a human rationing of her reach. R2: cosmological kindness, clerical injustice. History's added sentence: the queue is [[The First Cut|the Grafting]]'s child — copy-right captured in the generation of argument. Do not rebuild the office to say it.
+- **Present-day fate-pressure is tabled, not rolled.** Peak Seat × long tenure of the queue; Road-hands overextended at the Heskoren front; waiting towns precarious. See [[The Years of Hands]]. Do not collapse the college here. Do not convert the Seat at the end of a Road-hand story.
 - **Taste still open (do not treat as locked).**
   1. **The name *Orenhael.*** Everyday *tree-wardens* is already in canon. The liturgical name is a coinage from existing roots. Swap or drop.
   2. **Skeptics at the hearth.** The lean above (yes in towns, believer-heavy at the Seat) follows orthopraxy. The other clean options: skeptics in every office, or Speakers must believe. User's call.

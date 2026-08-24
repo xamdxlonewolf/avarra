@@ -82,6 +82,6 @@ Skeptics of every house tell a short ending: *There was not a Hand that learned 
 - **Use it as a tell.** Folk last-line plus a ribboned knife. Watcher last-line plus pears. Old Ways last-line plus a bowl. Fair Hand last-line plus a hold that smells of earth.
 
 ## Links
-- [[The First Cut]] · [[The Ages of the Turning]] · [[The Child Who Counted Stones]] · [[The Child at Four Doors]]
+- [[The First Cut]] · [[The Ages of the Turning]] · [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]] · [[The Child at Four Doors]]
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Old Ways]] · [[The Watching]] · [[The Fair Hand]]
 - [[07 - Religion]] · [[Roadmap]] (Story 6.3)

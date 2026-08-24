@@ -101,7 +101,7 @@ There was no travelling church with offices. [[The Tree-Wardens]] as a graft-car
 
 A **mile-shrine** is a stone at about a day's walk. Water if the ground allows. A flat top for a pack. Often a name. Often a ribbon.
 
-They begin as graves and waymarks in the same act — you bury someone where the column had to stop, and the next year the stop is the place you aim for. The devout later leave ribbons for the Tree. Children later climb them. Hands-towns later argue about pulling them down because the road now ends at a local canopy and the stone is "in the way." The stone does not know which story it is in. Full leftovers: [[The Years of Hands]] (Story 6.4).
+They begin as graves and waymarks in the same act — you bury someone where the column had to stop, and the next year the stop is the place you aim for. The devout later leave ribbons for the Tree. Children later climb them. Hands-towns later argue about pulling them down because the road now ends at a local canopy and the stone is "in the way." The stone does not know which story it is in. Full leftovers: [[The Years of Hands]] (the stone in the square; the upper room).
 
 A ribbon is not a leaf-colour. People tie what they have. A copper-green scrap on a Long-Mile stone does not mean a Taken-In died there. Travellers who have walked once know this. Travellers who have only heard the romance do not.
 
@@ -194,16 +194,17 @@ Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right 
 - **Heskoren is not "living in the past."** A hamlet sending this year's ten-year-olds to a neighbour is doing Clock 2, present tense. A hamlet sending them all the way to Thaeloren is doing Clock 1, present tense. Do not narrate either as re-enactment.
 - **R2:** the Walking did not make far people spiritually deficient. Distance did. Vaethorn's guilt-theology is a Hands-era reading of a Walking-era fact. Old Ways refusal is not "missing the gift"; it is a different door. Do not let history agree with the guilt.
 - **The one-week door is the engine's teeth.** If you let eleven-year-olds Turn Given "because they tried," the split household and the held-over year lose their bite. Struck remains the later door. That is enough mercy.
-- **Do not clone Epic 5 onto the road.** No travelling greens-keepers, no Slide-on-the-mile as a second house, no Road-hands-as-pilgrim-guards. Road-hands carry *wood*, later. Tithe on the road is a pot and a shed. The deathless house is an inn. Let 6.4 show what the leftovers became.
+- **Do not clone Epic 5 onto the road.** No travelling greens-keepers, no Slide-on-the-mile as a second house, no Road-hands-as-pilgrim-guards. Road-hands carry *wood*, later. Tithe on the road is a pot and a shed. The deathless house is an inn. What the leftovers became: [[The Years of Hands]].
 - **Keystone-adjacent, not confirming.** The walk killed children because the Given-door was in one grove. Skeptics: that is how a tree works, and how a road works. Believers: she waited in one place, and waiting is a kindness that had a cost. GM truth: her reach is bounded; carrying wood later moved the edge; *why she needed the wood carried* stays open. Do not smuggle a wound-cause into a grave.
 - **Colonial trap, again.** "We walked because we were faithful" is the Near-Mile sermon. The Long Mile was poorer, later, and full of people who stayed home without being worse. The Salt Walk was a berth. Do not let the hymn outrank the quay.
 - **Hooks.** A Held bed with a name; a sibling Given/Kept pair and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.
 
 ## Links
 - [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Years of Hands]]
-- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's
+- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — the leftover's
+- [[The Third Hearth]] — Thilim still making the bed · [[The White Note House]] — the same fortune, later
 - [[Turning Tree]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] · [[The Reckoning of the Year]]
 - [[The Tree-Wardens]] · [[The Old Ways]] · [[Long-Lived]] · [[Returned]] · [[Far-Voiced]] · [[The Taken-In]]
 - [[The Old Tongue]] · [[Naming in the Turning]]
-- [[02 - History]] · [[Roadmap]] (Story 6.2)
+- [[02 - History]] · [[Roadmap]] (Story 6.2; residues → 6.4)

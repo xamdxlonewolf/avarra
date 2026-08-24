@@ -33,10 +33,12 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[The Child at Four Doors]] — one fable, a different last line in every house
 - [[The Child Who Counted Stones]] — the road's paradox-fable (Story 6.2; romance and graves in the same count)
 - [[The Branch That Came Away]] — the Cut's paradox-fable (Story 6.3; sharing a Hand wounds a Hand)
+- [[The Child Who Climbed the Stone]] — the leftover's paradox-fable (Story 6.4; the square and the ford in the same count)
 
 ### History that touches the Tree
 - [[The Ages of the Turning]] — when there was only the one Tree; pilgrimage then grafts *(lives in `02 - History`)*
 - [[The First Cut]] — the hinge and the spread *(lives in `02 - History`)*
+- [[The Years of Hands]] — the present as leftover *(lives in `02 - History`)*
 
 ## Related
-- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[Roadmap]]
+- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Roadmap]]

@@ -52,7 +52,7 @@ Medicine in The Turning is genuinely astonishing for a [[The Premise|late-mediev
 
 A city here is shaped by a fact no other world's city faces: **most of its adults have an upkeep, and some of those upkeeps are dangerous or expensive to meet.** So the town builds around the Tithe the way ours build around water and waste — as **civic infrastructure, visible and load-bearing:**
 
-- **The Tree at the centre.** Every town is *organized around* its [[Turning Tree]] — it is the civic and sacred heart, the site of the year's most-attended day, the thing the oldest quarter grew up around. A town's age and standing can be read in its Tree (a mature grafted Tree = an old, reach-rich town; a young Tree or none = a new or frontier settlement). Geography and civic layout both point back to it; [[Roadmap|Epic 3/7]] inherit this.
+- **The Tree at the centre.** Every town is *organized around* its [[Turning Tree]] — it is the civic and sacred heart, the site of the year's most-attended day, the thing the oldest quarter grew up around. A town's age and standing can be read in its Tree (a mature grafted Tree = an old, reach-rich town; a young Tree or none = a new or frontier settlement). Geography and civic layout both point back to it. [[The Years of Hands|Residues]] layer this: a stone in the square, an upper room, a road that ends at the boughs. Concrete squares → [[Settlement Seeds]] / [[Roadmap|Epic 7]].
 - **Tithe-provision as public utility.** Where the polity treats provision as a public good (see below), the town furnishes it in the open: **venting-halls** for the [[Far-Voiced]] (part concert hall, part release valve — often doubling as the town's performance venue), **potted groves and garden-commons** so the [[The Taken-In|Taken-In]] don't "go to seed" indoors, **endowed libraries** feeding the [[Long-Lived]]'s novelty-Tithe (and, per [[Economy and the Tithe|the endow loop]], often *built* by a Long-Lived), and **ranging-commons** at the town edge where the [[Two-Bodied]] can be their other selves. These are as normal a part of the streetscape as a well or a market cross.
 - **The dangerous trades on the edges.** The work that carries a bystander hazard sits where such work always sits — at the margins and the edges. Stilled infirmaries and Answered element-workshops (fire, forge, tide) are guild-quartered and set slightly apart; the [[Returned]]'s mortuaries and plague-work sit at the town's edge, near the dead. Not from disgust — from the same logic that puts a tannery downwind.
 - **Homes that accommodate becomings.** Ordinary domestic architecture quietly bends to the Conditions: windows that open and rooms kept green for a Taken-In guest, a household's evening rhythm built around a Far-Voiced's vent, a threshold a Long-Lived waits to be asked across. A Turning home is legibly a home *for becomings.*
@@ -77,7 +77,8 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its domestic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Tithe-Infrastructure]] — the civic utilities named above, now with lived houses (Story 5.3)
 - [[The Walking Years]] — the split household as a Walking-era family fact
-- [[Roadmap]] (Epic 2, Story 2.3; Epic 6 Story 6.2) · [[03 - Cultures]]
+- [[The Years of Hands]] — residues on the square · [[Settlement Seeds]]
+- [[Roadmap]] (Epic 2, Story 2.3; Epic 6 complete) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

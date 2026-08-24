@@ -38,7 +38,7 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 
 **Thin — the ground-level face of the [[Is the Leaf-Mother Real|keystone edge]].** Grafts young, scattered, and prone to sickening; the [[Law and Citizenship|three pillars]] stretched thin (few [[Long-Lived]] to remember, few [[Bound]] to vouch), so citizenship-by-witness is *fragile* and the **unvouched Struck** are a constant, aching problem met with faith rather than machinery. High Kept, high Struck, low specialist infrastructure. In-world this reads as plain distance-and-history ([[The Ages of the Turning]] — Heskoren is the Grafting *this decade*, not a closed age); the deeper cause stays GM-side.
 
-How the wood got here is [[The First Cut]]: C.Y. 200–387, still incomplete. The gap after Strandoren's coasts is **dead wood on the Long Mile**, a chain of Hands that had to grow up, and a queue that preferred a paying next — not unworthiness. Vaethorn will preach otherwise. History does not agree. Old Ways host-rights start at the planting: the first meal, or a claiming.
+How the wood got here is [[The First Cut]]: C.Y. 200–387, still incomplete. The gap after Strandoren's coasts is **dead wood on the Long Mile**, a chain of Hands that had to grow up, and a queue that preferred a paying next — not unworthiness. Vaethorn will preach otherwise. History does not agree. Old Ways host-rights start at the planting: the first meal, or a claiming. Lived front, present tense: [[The Years of Hands]] — [[Harrow's Green]] as the neighbour's canopy; [[The Three Hamlets Past the Ford]] still walking this year.
 
 ## Powers & Polities
 
@@ -81,7 +81,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Polity Archetypes]] (Vaethorn) · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]
-- [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.3) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[01 - World]]
+- [[Roadmap]] (Epic 3; Epic 6 complete) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

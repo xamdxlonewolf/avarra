@@ -115,6 +115,11 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **the nameless knife** / **the nameless green** — folk objects of [[The First Cut]]. No liturgical form on purpose: naming the green would pick a hearth, and a hearth would pick a hand. Everyday first.
 - **the generation of argument** — the summers from the first taking to the first local Leaf-Fall, when the origin-hearth could not un-cut and had not yet written a leave. Common-tongue on purpose (a quarrel, not a rite). Not *Eoloren* (the hinge). Not *Brenvaeth* (the road).
 
+**Residue coinages (Story 6.4 — 🟡 Proposed):**
+
+- **the extra mile** / **the First-Hand year** / **the neighbour's week** — the walk's three jobs in [[The Years of Hands]]. Common-tongue on purpose (jobs, not a fourth age). Not *Brenvaeth* (the requirement). Not *Ornthael* (the era). *The old mile* still means the Long Mile when the neighbour is a continent.
+- **the stone in the square** / **the upper room** / **the Held bed** — leftovers. Everyday first. *brenhael* remains the inn's cant, not the loft's.
+
 Unused cants (do not flesh): *Orenvaeth* · *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is **not** the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 
 ## The three polities, named
@@ -137,7 +142,9 @@ The [[Polity Archetypes]] get their in-world names here — each derived from it
 - [[The Reckoning of the Year]] — the twelve months coined from these roots
 - [[The Ages of the Turning]] — era-names *Brenvaeth* · *Eoloren* · *Ornthael* (🔒)
 - [[The Walking Years]] — *brenhael* 🟡; three walks in the common tongue
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 Stories 6.1–6.2) · [[03 - Cultures]]
+- [[The First Cut]] — *the nameless knife* · *the generation of argument* 🟡
+- [[The Years of Hands]] — *the extra mile* · *the neighbour's week* · *the First-Hand year* 🟡
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*

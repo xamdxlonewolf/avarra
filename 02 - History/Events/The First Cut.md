@@ -16,7 +16,7 @@ updated: 2026-08-24
 
 # The First Cut
 
-> **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(ay-ohl-OR-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]] (Story 6.4).
+> **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(ay-ohl-OR-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]] (Story 6.4 ✅).
 
 > **Canon status.** 🔒 **That it happened, and that every later town Tree descends from a cut, is locked** (graft topology, [[Turning Tree]]). 🔒 **Name and C.Y. 0 as the clerical epoch locked 2026-08-24.** 🔒 **Spread-bands locked** (Maiethorn C.Y. 0–80 · Strandoren by sea 40–160 · Heskoren 200–387 · Kumbaan never). 🟡 **Lived texture (Story 6.3):** the five attributions as practices, the generation of argument, Cutting-leave as captured copy-right, continent-by-continent carrying. **Who cut is not locked.** Names *the nameless knife / the nameless green / the generation of argument* are working coinages — polish later; do not rebuild the spine.
 
@@ -218,7 +218,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - **Clock 1 flips where the wood has taken.** Turning under a town canopy becomes the default. The pilgrimage remains, with a new job (devotion, prestige, or necessity when a graft fails).
 - **The Seat gains a bottleneck.** Cutting-leave and the scion-queue are how an institution absorbed a heresy and called it horticulture. R2: she did not write the queue.
 - **The clerical epoch.** Cut-years begin. Other people do not have to care ([[The Ages of the Turning#How years are numbered (the name-reveals-stance lever, on history itself)|dating reveals stance]]).
-- **Language and money, already traced.** Local Trees let daughters grow in place; the road's conserving pull eases ([[The Old Tongue]]). Road-houses in the core lose pilgrim-seasons and keep the notes ([[Economy and the Tithe]]). Lived leftovers of both → Story 6.4.
+- **Language and money, already traced.** Local Trees let daughters grow in place; the road's conserving pull eases ([[The Old Tongue]]). Road-houses in the core lose pilgrim-seasons and keep the notes ([[Economy and the Tithe]]). Lived leftovers of both → [[The Years of Hands]] (two fates of the road-house; the walk's three jobs).
 
 ## GM Notes (what actually happened)
 
@@ -230,7 +230,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - **The gap is load-bearing R2.** C.Y. 160–200 is not empty time and not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. If you fill the gap with a crusade or a miracle-crossing, you launder the list.
 - **Do not date the Tree.** [[Before the Walk]] has no start. Watchers will fight any date that starts the wood at a knife.
 - **Kumbaan is the control.** A wrecked pot in a sailor's story is allowed. A taking is not.
-- **Historical fate-shift (already happened — not a proposal).** Unsanctioned cutting → Cutting-leave and the queue (absorption). Present-day fate-pressure on the First Seat (peak power × long tenure of the queue) and on Road-hands (overextension at the Heskoren front) is noted for Story 6.4 / play. Do not collapse either here.
+- **Historical fate-shift (already happened — not a proposal).** Unsanctioned cutting → Cutting-leave and the queue (absorption). Present-day fate-pressure is tabled in [[The Years of Hands]] (noted, not rolled). Do not collapse the Seat or the Road-hands here.
 - **Hooks.** The nameless knife in a house that wants it named; Rithnali's verso of dead pots; a folk-right slip that took; a Fair Hand bill of lading for a living hand; a first-meal a Road-hand ate or refused; three hamlets watching Harrow's green; a Rain-Shadow walk after the core stopped; a Watcher grafting pears during a Cutting-leave sermon; a Long-Lived planter who will not say *I walked.*
 
 ## Links
@@ -240,4 +240,4 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Watching]] · [[The Old Ways]] · [[The Fair Hand]] · [[The Open Table]] · [[The Door-Keepers]]
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Old Tongue]] · [[Naming in the Turning]]
-- [[Long-Lived]] · [[The Taken-In]] · [[02 - History]] · [[Roadmap]] (Story 6.3)
+- [[Long-Lived]] · [[The Taken-In]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[02 - History]] · [[Roadmap]] (Story 6.3; residues → 6.4)

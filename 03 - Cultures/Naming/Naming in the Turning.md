@@ -150,10 +150,23 @@ Lived names of Eoloren. Everyday first; objects 🟡. Do not pick a cutter. Do n
 | Seat quarrel before the paper | **the generation of argument** | *the unblessed years* | *the first unlicensed carrying* | *the uncounted cuts* |
 | Old Ways courtesy at a planting | **the first meal** | *(suspect — a guest-word)* | *(a frontier courtesy)* | *(unfiled)* |
 
+### Residues (from [[The Years of Hands]], Story 6.4)
+
+Lived names of Ornthael. Everyday first; jobs 🟡. Do not narrate this as post-history. Do not rebuild the spine, the road, or the Cut.
+
+| Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
+|---|---|---|---|---|
+| origin-walk you already have a Tree for | **the extra mile** | *the First Hand's hug* | *the First-Hand year* | *the counted pilgrimage* |
+| walk because the Tree is missing, young, or sick | **the neighbour's week** (still *the old mile* when the neighbour is a continent) | *the waiting-road* (they use this for all walks) | *the borrowed week* | *the uncounted neighbour* |
+| prestige origin-winter | **the First-Hand year** | *(suspect — a bought hug)* | *the First-Hand year* (plain) | *the counted winter* |
+| mile-shrine now in a Hands square | **the stone in the square** | *the ribbon still* | *the old mile-mark* | *the unfiled stone* |
+| unused pilgrim dorm | **the upper room** | *the waiting-beds* | *merchant-loft* (when let) | *the uncounted loft* |
+| bed never let | **the Held bed** | *the kept-place* | *the unlet* (house custom) | *(wants it on the roll)* |
+
 ## How to coin more (for later notes)
 
 When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the system honest:
-1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or coin a new root in the same sound-palette. Do not collide *Brenvaeth* (the era) / *Brenorn* (a month) / *brenhael* (a road-house) / *Eoloren* (the Cut). *The nameless knife* and *the generation of argument* stay common-tongue on purpose.
+1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or coin a new root in the same sound-palette. Do not collide *Brenvaeth* (the era) / *Brenorn* (a month) / *brenhael* (a road-house) / *Eoloren* (the Cut) / *Ornthael* (the Hands). *The nameless knife*, *the generation of argument*, and the walk's three jobs stay common-tongue on purpose.
 2. **Push it through the right drift** for the place (conserved / worn / eroded).
 3. **Give the pronunciation** (CAPS = stress) on first use — always.
 4. **Let the *name* carry the stance** — if a devout and a secular polity would name the same thing, they should name it *differently*, and the difference should be legible.
@@ -167,7 +180,8 @@ When [[Roadmap|Epic 7]] names new places (and any leftover factions), keep the s
 - [[The Ages of the Turning]] — era-names and Cut-years (Story 6.1)
 - [[The Walking Years]] — the three walks · *brenhael* (Story 6.2)
 - [[The First Cut]] — the nameless knife · the generation of argument (Story 6.3)
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming / Epic 6 Stories 6.1–6.3) · [[03 - Cultures]]
+- [[The Years of Hands]] — the extra mile · the neighbour's week · the First-Hand year (Story 6.4)
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages & naming / Epic 6 complete) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
