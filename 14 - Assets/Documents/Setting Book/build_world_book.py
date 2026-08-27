@@ -249,7 +249,7 @@ blockquote.tbd strong:first-child {
   letter-spacing: 0.04em;
 }
 nav#toc .reserved a::after {
-  content: " — to write";
+  content: " (to write)";
   color: #8a7349;
   font-style: italic;
   font-weight: 400;
@@ -284,7 +284,7 @@ HTML_HEAD = """<!DOCTYPE html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Turning — A World Book</title>
+<title>The Turning: A World Book</title>
 <style>
 {css}
 </style>

@@ -12,7 +12,7 @@
 
 ## Maiethorn
 
-> **Not yet written.** Sacred Core, Motherwood, central range, Rain-Shadow, western inner-sea coast — seasons, soils, and what a graft needs to take.
+> **Not yet written.** Sacred Core, Motherwood, central range, Rain-Shadow, western inner-sea coast: seasons, soils, and what a graft needs to take.
 
 ## Strandoren
 

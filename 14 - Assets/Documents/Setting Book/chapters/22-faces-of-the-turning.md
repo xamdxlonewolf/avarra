@@ -4,7 +4,7 @@
 
 ## What belongs here
 
-Four to six **positional pivots** — ordinary jobs that become structural. Mix: at least one office already named, and at least one mouth from an unused leftover (sick-Tree, guest-grove, Intake desk, Grown-Over room).
+Four to six **positional pivots**: ordinary jobs that become structural. Mix: at least one office already named, and at least one mouth from an unused leftover (sick-Tree, guest-grove, Intake desk, Grown-Over room).
 
 Two clocks visible in the cast: someone who walked and someone who did not; someone on the live front and someone who thinks the wave is over.
 

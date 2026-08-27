@@ -16,7 +16,7 @@
 
 ## Starting situations
 
-> **Not yet written.** One door each from Eolvaeth, Orentel, Maiethlir, Harrow's Green, Ornsael, the hamlets, the Third Hearth — not a tour. The leftover job on the street is the hook.
+> **Not yet written.** One door each from Eolvaeth, Orentel, Maiethlir, Harrow's Green, Ornsael, the hamlets, the Third Hearth. Not a tour. The leftover job on the street is the hook.
 
 ## Tone at the table
 
