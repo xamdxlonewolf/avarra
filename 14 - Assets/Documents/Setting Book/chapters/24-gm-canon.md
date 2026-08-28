@@ -31,11 +31,13 @@ Two names is a Kind × place tell, not a secret identity. Players should hear it
 
 Each polity's vocabulary is its self-justification, not the truth of what it does. Threnmaieth's "keeping-whole" (**Threnhael**) is surveillance that calls itself care. Lestrand's "the free" for the **Kept** (hugged by the Tree, no colour, no Condition Given) is a market reframing a social slight as a virtue. Vaethorn's "the Waited" wraps real pity in reverence. None of these framings is dissolved by confirming the Mother. They are how each society launders its own injustice, and a kind Mother does not make any of the three names honest.
 
-The sound-system, the word-box, and what the linguistics words mean live under **GM only: Language**.
+The word-box and the how-to live in Language and Naming. The sound-system and what the linguistics words mean live under **GM only: Language**.
 
 ## GM only: Language
 
-Language and Naming is the player recipe: pick a list, add a place-byname, look up what a land calls a hall. This section is the machinery behind that, for when you need a name that is not on a list. You need to know which sounds belong in which mouth, and what the linguistics words mean when they show up.
+Language and Naming is where you name a person, mint a new one, glue a hall, and look up what a land calls a building. Keep that chapter as the how-to.
+
+This section is the hard machinery: what the linguistics words mean, which sounds sit in which mouth, and the regular sound-change that makes a name wear the same way every time. Use it when you need a name that still belongs, and the lists are not enough. Do not teach it at the table.
 
 ### What the linguistics words mean
 
@@ -144,14 +146,7 @@ A name that bleeds across registers is a tell. A Selkie named Wishi, or a Tengu 
 
 If the first fox-name that comes to mind is Yuki, throw it back. Same for Morag on a Selkie and Kenji on a Tengu. Pick from the middle of the existing list, or build from the inventory above until it could sit next to Raki, Lavo, or Teku without anyone blinking.
 
-### How to mint a new official name
-
-1. Find a root in the Language and Naming word-box. *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or a new root in the same mouth. Do not collide with a name already on the map.
-2. Glue one or two. Push the compound through the right mouth for the place (conservative / worn / eroded). A town inside a power should sound like that power, not like a fourth language.
-3. Mark the stress on first use.
-4. Let the name carry the stance. If a devout land and a dock town would name the same hall, they should name it differently, and the difference should be hearable. Use the three-column lookup, not a new system.
-
-Do not write sentences in Kusawe or Gonan. Deep grammar stays off the table.
+The player recipe stays in Language and Naming: pick from a list, or use **To make another**, or glue two old words and wear them for the land. The inventories above are the same mouths written as sound-lists, so a new name can be checked against the rule instead of the ear. The sound-change table is how you push any old word through a land without inventing a fourth human mouth. Do not write sentences in Kusawe or Gonan. Deep grammar stays off the table.
 
 ## GM only: Society and Faiths
 

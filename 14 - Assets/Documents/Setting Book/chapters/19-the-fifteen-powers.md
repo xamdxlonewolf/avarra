@@ -13,11 +13,7 @@ Beneath the fifteen the world still swarms: marches, free towns, petty Tree-seat
 | **Heskoren** | thin | **4** | fewer, poorer, scattered; long wild between Trees |
 | **The Sundering Isle** | near-none | **0** | not on this list |
 
-The name a polity gives itself reveals its stance. The root is Old Tongue, pushed through the sound-drift that matches theology and reach.
-
-- **Conservative** (pious Maiethorn): *th* and long vowels kept. The Mother-names cluster here. Threnmaieth counts her; Maiethvael gifts in her name and will not count.
-- **Worn** (Heskoren): *th* revered but softening; frontier coinage *hesk-* (not in the liturgy, because the liturgy is older than this grafting). Vaethorn keeps the holy sound on purpose. Ornled lets it go.
-- **Eroded** (Strandoren): *th* becomes *t* or is dropped; ends clipped. Lestrand is still the most-drifted of the old three. Trenledd is what happens when *thren* itself wears down to a roll.
+The name a polity gives itself is two old words glued, worn the way that land talks. The one-line in the table is the meaning. **The Four Continents** already lists what the land-names mean, and the three corners. **Language and Naming** has the word-box if you need another.
 
 Pronunciation: **CAPS** = stress; `ae` = "ay"; `th` = *thin*.
 
@@ -83,7 +79,7 @@ Neither list is complete. Both are true of the speaker.
 
 ### Threnmaieth: the Tallied Crown
 
-*(THREN-my-eth · theology high · reach high · governance high; the darkest corner)*
+*(THREN-my-eth · thren "to count" + maieth "Mother" = "the Mother's Reckoning." Theology high · reach high · governance high; the darkest corner)*
 
 A pious, Tree-rich core kingdom that is also **Watchful**: it keeps a register of persons. Alone among polities it holds a **census of persons and their Conditions**. Set that in the wealthiest, most devout, most Tree-dense land, and the roster is kept as **sanctified duty**. The Mother's gifts are precious and must be *accounted for.* The other two corners have injustices you can name and resent. This one dresses its injustice in the two things the world most trusts, faith and plenty.
 
@@ -99,7 +95,7 @@ A pious, Tree-rich core kingdom that is also **Watchful**: it keeps a register o
 
 ### Lestrand: the Ledger Coast
 
-*(leh-STRAND · theology low · reach high · governance low)*
+*(leh-STRAND · ledd "to reckon" + strand "shore" = "the Reckoning Coast." Theology low · reach high · governance low)*
 
 A dense, Tree-rich merchant power. The Trees are mature and many, the Given are dense, and the faith is worn *lightly.* Deep markets, thin welfare, and a cool, transactional read on becoming. It shares the Waiting Lands' light-touch governance: no crown writes anyone down. Where the Lands' light state leaves a *gap the faith fills*, the Coast's light state leaves a *space the guilds fill.*
 
@@ -115,7 +111,7 @@ A dense, Tree-rich merchant power. The Trees are mature and many, the Given are 
 
 ### Vaethorn: the Waiting Lands
 
-*(vay-THORN · theology high · reach low · governance low)*
+*(vay-THORN · vaeth "the waiting" + orn "land" = "the Waiting Land." Everyday *Wethorn*. Theology high · reach low · governance low)*
 
 A broad, thinly-peopled land at the world's Tree-poor margin. The faith burns hottest *because* the Trees are scarce. The ruling mood is *waiting*: for a graft to take, a distant Tree to be reached, a gift that may never fall. Where the Trees are few and young, more children come away Kept, more people are Struck later and alone, and the Motherfaith answers that scarcity with *more* devotion, not less: pilgrimage, longing, and a theology built around waiting for a gift that may not come.
 
@@ -137,7 +133,7 @@ The twelve stubs' capitals stay unnamed.
 
 ### Maiethvael: the Gift-Realm
 
-*(my-ETH-vayl · maieth "Mother" + vael "gift" = "the Mother's Gift.")* Conservative drift: *th* kept. Theology high · reach high · governance **low**. Everyday *Maiethvael*; people **Maiethvael-folk**. Not Threnmaieth (the Mother's Reckoning).
+*(my-ETH-vayl · maieth "Mother" + vael "gift" = "the Mother's Gift.")* Theology high · reach high · governance **low**. Everyday *Maiethvael*; people **Maiethvael-folk**. Not Threnmaieth (the Mother's Reckoning).
 
 An old, Tree-dense Motherland realm that treats Tithe-provision as **public tending**: greens, halls, and medicine furnished by congregation and guild, not by a crown channel. Citizenship is witnessed in the world's warm default. There is no Threnhael here. They will tell you counting persons is a failure of trust in the three pillars. The hymns are the same ones Threnmaieth sings. The paper is not.
 
@@ -153,7 +149,7 @@ An old, Tree-dense Motherland realm that treats Tithe-provision as **public tend
 
 ### Orenbren: the Witness-Hearths
 
-*(or-EN-bren · oren "to witness" + bren "hearth" = "the witnessing-hearth.")* Conservative drift. Theology high · reach high · governance mid-low. Everyday *Orenbren*; people **Orenbren-folk**. **It does not own Thaeloren. It does not own the First Seat.** The inns grew a country. They did not become one house.
+*(or-EN-bren · oren "to witness" + bren "hearth" = "the witnessing-hearth.")* Theology high · reach high · governance mid-low. Everyday *Orenbren*; people **Orenbren-folk**. **It does not own Thaeloren. It does not own the First Seat.** The inns grew a country. They did not become one house.
 
 The civic cluster of the **Near Mile**: lodging-squares, upper rooms, and old road-houses that stayed hearths when the walk stopped being required in the core. Pilgrims still come (the extra mile, the First-Hand year: the prestige origin-walk). Orenbren houses them. That is its power: not a crown on the grove, a monopoly on *beds within a week's walk of it*.
 
@@ -171,7 +167,7 @@ The First Seat sits in the Motherwood beside this power and remains a college, n
 
 ### Saelthael: the Sown Tree
 
-*(SAYL-thale · sael "sowing" + thael "Tree" = "the sown Tree.")* Conservative drift: *th* kept even in thin soil. They are still the Motherland. Theology high · reach **mid-low** (wells, not woods) · governance low. Everyday *Saelthael*; people **Saelthael-folk**. Shares *sael* with Saelvaeth on purpose: sowing on two continents, Clock 2 (where the wood has reached) still unfinished at the origin. Playable square: Ornsael. **Not Ornsael's kingdom**; Ornsael is not this power's capital. Not a Fox kingdom.
+*(SAYL-thale · sael "sowing" + thael "Tree" = "the sown Tree.")* They are still the Motherland. Theology high · reach **mid-low** (wells, not woods) · governance low. Everyday *Saelthael*; people **Saelthael-folk**. Shares *sael* with Saelvaeth on purpose: sowing on two continents, Clock 2 (where the wood has reached) still unfinished at the origin. Playable square: Ornsael. **Not Ornsael's kingdom**; Ornsael is not this power's capital. Not a Fox kingdom.
 
 The Rain-Shadow: leeward east of the central range, dry hills and sand-country, towns at wells and at whatever graft will take. Full-reach continent, **thinner wood**. The core stopped walking. Saelthael did not. Children still go west in the neighbour's week (walking to a neighbour's Tree), or further, because a well-Tree is not a certainty.
 
@@ -189,7 +185,7 @@ Fox of the Sands hearths are densest here. That is terrain, not a flag. A town w
 
 ### Eolstrand: the Hinge-Shore
 
-*(AY-ohl-strand · eol "hinge" + strand "shore" = "the hinge-shore.")* Conservative drift: they kept the year-word on a coast-name. Theology **mid** · reach high · governance low. Everyday *Eolstrand*; people **Eolstrand-folk** or **Hinge-folk**. The inner sea is the hinge; the name says so. Not a Selkie nation.
+*(AY-ohl-strand · eol "hinge" + strand "shore" = "the hinge-shore.")* Theology **mid** · reach high · governance low. Everyday *Eolstrand*; people **Eolstrand-folk** or **Hinge-folk**. The inner sea is the hinge; the name says so. Not a Selkie nation.
 
 Maiethorn's western ports on the busy inner sea toward Strandoren: the oldest trade route in the world, the "Old World" crossing. Ancient, rich, less frantic than the Ledger Coast. Faith worn *thinner* here than in Maiethvael because the docks teach pricing. Trees still healthy because this is still the Motherland.
 
@@ -197,7 +193,7 @@ Selkie families are common on these quays, as they are on any old water. That is
 
 **Site.** Inner-sea face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore: prestige sea-pilgrimage; people embarked *from* Strandoren; they landed here).
 
-**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them.
+**How it formed.** Port-kings and charter-harbours grown from the crossing. They still say *th* because the grove is at their backs; mid theology because Lestrand is in front of them.
 
 **Structure.** Guild-coast, light state, old houses. Recruits not by Kind. Far-Voiced on every quay as infrastructure, same as Strandoren, with more hymn left in the voice.
 
@@ -207,7 +203,7 @@ Selkie families are common on these quays, as they are on any old water. That is
 
 ### Lirorn: the Thaw-Land
 
-*(leer-ORN · lir "thaw; water that runs again" + orn "land" = "thaw-land.")* Conservative drift. Theology mid · reach high · governance **mid**. Everyday *Lirorn*; people **Lirorn-folk**. The range divides Maiethorn's waters; the name is the snowmelt, not the Tree. Not a Tengu empire. Not a Fox-of-the-Snows kingdom.
+*(leer-ORN · lir "thaw; water that runs again" + orn "land" = "thaw-land.")* Theology mid · reach high · governance **mid**. Everyday *Lirorn*; people **Lirorn-folk**. The range divides Maiethorn's waters; the name is the snowmelt, not the Tree. Not a Tengu empire. Not a Fox-of-the-Snows kingdom.
 
 Maiethorn's central range: high snow, rope-and-wing towns, rivers that begin as thaw. Reach is still full. Grafts take in the valleys and the sheltered shelves. The weather is bigger, and the state is a **watershed holding**, not a cathedral square. Lowlands drink Lirorn's spring. Ridges notice.
 
@@ -225,7 +221,7 @@ Tengu ridge-towns and Fox-of-the-Snows hearths sit densest here. Mixed Kinds on 
 
 ### Brenledd: the Hearth-League
 
-*(bren-LED · bren "hearth" + ledd "to reckon" = "hearths of the ledger.")* Eroded drift: no *th* to keep. Theology low · reach high · governance low. Everyday *the Brenledd* or *the compact*; people **Brenled-folk**. A league, not a capital.
+*(bren-LED · bren "hearth" + ledd "to reckon" = "hearths of the ledger.")* Theology low · reach high · governance low. Everyday *the Brenledd* or *the compact*; people **Brenled-folk**. A league, not a capital.
 
 A **league of charter-towns** on Strandoren (river-ports, lesser harbours, inland markets) that compact to face Lestrand's houses without becoming one house. Each town is a hearth with its own Tree and its own vouching. The compact is the arithmetic: shared tickets, shared notes, shared refusal to be priced one at a time.
 
@@ -243,7 +239,7 @@ Faith worn light, same as the coast. Trees mature. Nothing is policed; everythin
 
 ### Leddvael: the Reckoned Gift
 
-*(led-VAYL · ledd "to reckon" + vael "gift" = "the gift reckoned.")* Eroded drift. Motherfaith theology **low**; the Fair Hand worn as **civic law**. Reach high · governance **mid**. Everyday *Leddvael*; people **Leddvael-folk**. The name is the doctrine: a gift is a bargain priced. The Book-Hands stamp and recite; they have **no seat** and **do not rewrite Bound Terms**.
+*(led-VAYL · ledd "to reckon" + vael "gift" = "the gift reckoned.")* Motherfaith theology **low**; the Fair Hand worn as **civic law**. Reach high · governance **mid**. Everyday *Leddvael*; people **Leddvael-folk**. The name is the doctrine: a gift is a bargain priced. The Book-Hands stamp and recite; they have **no seat** and **do not rewrite Bound Terms**.
 
 A signing-coast on Strandoren that took the Fair Hand from a dockside theology to a **civic rite**. Leaf-Fall is a festival *and* a signing-watch. Tithe is a term serviced. The Bound are model citizens here: not feared, *employed* as the shape of honesty. Mid governance: the book is a kind of statute without quite becoming a census of souls. They will not copy Threnmaieth's list. They will file a contract.
 
@@ -259,7 +255,7 @@ A signing-coast on Strandoren that took the Fair Hand from a dockside theology t
 
 ### Trenledd: the Worn Count
 
-*(tren-LED · eroded thren "sacred counting" + ledd "to reckon.")* The liturgical reconstruction *Threnledd* is unused on purpose: they will not say the holy word. Theology **low** · reach **high** · governance **high**. Everyday *Trenledd* or *the Trenled*; people **Trenled-folk**. They call the list **the roll**, Lestrand's word for a *tax* roll, here meaning persons. The erosion *is* the thesis.
+*(tren-LED · thren "sacred counting" + ledd "to reckon," with the holy sound sanded off.)* The reconstruction *Threnledd* is unused on purpose: they will not say the holy word. Theology **low** · reach **high** · governance **high**. Everyday *Trenledd* or *the Trenled*; people **Trenled-folk**. They call the list **the roll**, Lestrand's word for a *tax* roll, here meaning persons. Dropping the hymn from the count *is* the thesis.
 
 Wealthy Strandoren interior: mature Trees, dense Given, guilds thick, and a state that **writes people down**. The list began as ticket-and-tax machinery (safety-licences, house-notes, charter-rolls) and forgot to stop at property. There is no hymn that makes it stewardship. There is no Mother to be accounted to. You are on the roll because commerce and hazard-control wanted a name they could find again.
 
@@ -277,7 +273,7 @@ Threnmaieth at least claims to keep you hale. Trenledd claims to keep you *finda
 
 ### Netstrand: the Night Shore
 
-*(NET-strand · eroded neth "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Theology mid-low · reach high · governance low. Everyday *Netstrand*; people **Netstrand-folk**. Why *night* sits on this shore is **not fully explained**: west water, storm stories, watches they keep after dark.
+*(NET-strand · neth "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Theology mid-low · reach high · governance low. Everyday *Netstrand*; people **Netstrand-folk**. Why *night* sits on this shore is **not fully explained**: west water, storm stories, watches they keep after dark.
 
 Strandoren's west and south face: open ocean toward Heskoren and, far beyond, the storm-wall. Bold houses run the frontier trade. The Salt Walk's prestige-berths live here as a *product*, the First-Hand year sold to inland coin. Almost none have crossed to the Sundering Isle. Those who claim to are the tellers of Yumboe stories.
 
@@ -295,7 +291,7 @@ Faith mixed: Motherfaith worn light, Fair Hand ordinary on a signing-quay, quay-
 
 ### Ornled: the Outer Ledger
 
-*(orn-LED · orn "land" + ledd "to reckon"; clipped from *Ornledd*.)* Worn-to-eroded on purpose: on Heskoren, dropping the sacred sound is a neglect, not just distance. Theology **low** · reach **low** · governance **low**. Everyday *Ornled*; people **Ornled-folk**. Reconstruction *Ornledd* unused. They do not tend old endings. A Vaethorn without the faith, harder and colder. Not a lawless brutality and not a pristine wilderness.
+*(orn-LED · orn "land" + ledd "to reckon"; clipped from *Ornledd*.)* On Heskoren, dropping the sacred sound is a neglect, not just distance. Theology **low** · reach **low** · governance **low**. Everyday *Ornled*; people **Ornled-folk**. Reconstruction *Ornledd* unused. They do not tend old endings. A Vaethorn without the faith, harder and colder. Not a lawless brutality and not a pristine wilderness.
 
 Thin-reach Heskoren country that never took the waiting-gospel. Same young grafts, same Kept-heavy and Struck-heavy weather as Vaethorn, and **no congregation to fill the gap**. Tithe-provision is barter, favor, and a slate on the wall. An unvouched Struck is a problem met with a rope, a deal, or a neighbour, not a blessing. Custom outruns law because there is almost no law and almost no hymn.
 
@@ -313,7 +309,7 @@ They do not hate the Mother. They do not *use* her. Vaethorn hears the missing *
 
 ### Vaelhesk: the Far Yield
 
-*(VAYL-hesk · vael in the **older** sense, "what the land yields" + hesk- "far/outer edge" = "the far yield.")* Worn frontier coinage; *vael* kept because the Old Ways claim the Motherfaith *narrowed* it to "gift." Theology **mid** as Motherfaith gift-devotion, high as Old Ways practice. Reach low · governance low. Everyday *Vaelhesk*; people **Vaelhesk-folk** or **the Yield**. The fight with Vaethorn is in the first syllable: *vael* vs *vaeth*. The land is the seat. Not a Taken-In nation.
+*(VAYL-hesk · vael in the **older** sense, "what the land yields" + hesk- "far/outer edge" = "the far yield.")* *Vael* kept because the Old Ways claim the Motherfaith *narrowed* it to "gift." Theology **mid** as Motherfaith gift-devotion, high as Old Ways practice. Reach low · governance low. Everyday *Vaelhesk*; people **Vaelhesk-folk** or **the Yield**. The fight with Vaethorn is in the first syllable: *vael* vs *vaeth*. The land is the seat. Not a Taken-In nation.
 
 Pre-graft host-lands on Heskoren: old greens, ancestor-doors, first meals. The Mother's wood is a **guest**. A Cutting-leave (Seat leave to cut living wood) without the meal is a claiming. The Door-Keepers walk here as Kin-speakers. The land is the seat, not a college.
 
@@ -331,7 +327,7 @@ Struck and the Taken-In are read as the land's own children. A neighbour's week 
 
 ### Saelvaeth: the Sown Waiting
 
-*(sayl-VAYTH · sael "sowing" + vaeth "the waiting" = "sowing into the waiting.")* Worn drift: *th* kept. They still reach for the holy words because the wave is *here*. Theology mid-high · reach low · governance mid-low. Everyday *Saelvaeth*; people **Saelvaeth-folk**. Shares *sael* with Saelthael on purpose: planting on two continents. Playable squares in orbit: Harrow's Green · the Three Hamlets Past the Ford. Still not a capital. Eolvaeth is Vaethorn's seat, not this march's. **Harrow's Green sits in its orbit, not as a capital.**
+*(sayl-VAYTH · sael "sowing" + vaeth "the waiting" = "sowing into the waiting.")* They still reach for the holy words because the wave is *here*. Theology mid-high · reach low · governance mid-low. Everyday *Saelvaeth*; people **Saelvaeth-folk**. Shares *sael* with Saelthael on purpose: planting on two continents. Playable squares in orbit: Harrow's Green · the Three Hamlets Past the Ford. Still not a capital. Eolvaeth is Vaethorn's seat, not this march's. **Harrow's Green sits in its orbit, not as a capital.**
 
 The live front of Clock 2 on Heskoren: C.Y. 200-387, still incomplete. Towns form where a graft has taken; between them, waiting clusters who can see a neighbour's canopy. Harrow's Green is the luckiest kind of square in this march, a Hand that grew up (**not this power's capital**). The Three Hamlets Past the Ford can see that green and were written as remainder (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them). The queue is visible. It is not a metaphor. Pair with Ornsael on Saelthael: same sowing, origin-continent leftover.
 

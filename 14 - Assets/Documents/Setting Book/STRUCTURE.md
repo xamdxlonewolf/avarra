@@ -51,7 +51,9 @@ These stay where they are. Do not promote them to new chapters unless the spine 
 
 ## Headings added inside filled chapters
 
-- **GM only: Language** (ch. 24) — sound-system and linguistics terms for minting names. The player recipe stays in ch. 05.
+- **GM only: Language** (ch. 24) — glossary, sound-inventories, and regular sound-change. The player how-to (pick, make, glue) stays in ch. 05. Continent-name gloss is in ch. 14.
+
+- **What the names mean** (ch. 14) — first-read gloss of the continents, the Awakening Tree, the Isle, and the three corners.
 
 ## How to update
 
