@@ -11,14 +11,16 @@ speakers: liturgical/learned everywhere; conserved as daily speech in the Tree-r
 descends_from:          # none — this IS the root
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-24
+updated: 2026-08-28
 ---
 
 # The Old Tongue
 
+> **How to use this.** The Old Tongue is a box of old words, not a language you have to speak. To name a place, a crown, or a hall: pick one or two roots from the table, glue them, then wear the sound the way that land wears it (devout keeps the *th*; docks sand it off). Mark stress (CAPS) on first use. Everyday talk uses plain compounds (*the Kept*, *the ranging*). Kumbaan is not in this box.
+
 > **What this is.** The root language of **The Turning** — the old **liturgical tongue of the [[Turning Tree|Awakening Tree]]**, in which the [[The Leaf-Mother|Motherfaith]] says its rites. Every place-name, institution, and polity-name in the setting derives from it. In-world it is called **Maiethren** *(mah-YETH-ren, "Mother-speech")* by the devout, or just **the Old Tongue** by everyone else. It is this world's **Latin**: nobody's mother-tongue on the street anymore, but the ancestor of every tongue that is, and still the language of the Tree, the rite, and the law's oldest words.
 
-> **The structure this note establishes (the payoff).** One root tongue, **three daughter drifts**, mirroring the world's own cosmology: **one Awakening Tree → grafts carried outward** is the same shape as **one sacred tongue → vernaculars drifting outward.** Because a daughter tongue drifts *further* the further it is from the conserving pull of the Trees and the faith, **how a polity sounds reveals its stance** — the core keeps the old sacred sound nearly whole, the frontier wears it rougher, the secular coast erodes it smooth. This is the engine behind the [[Polity Archetypes|"name reveals stance"]] naming lever. Built with the `conlang` skill for the [[Roadmap|Epic 2 tail]] naming pass (root-tongue layer; month-roots added in Story 4.2). Deep grammar is still deferred — only if spoken dialogue is ever needed.
+> **The locked shape.** One Tree, grafts carried out. One old tongue, names wearing down as they travel. Devout lands keep the *th*. Dock towns sand it off. How a place sounds is how it sits toward the Tree. That is the engine behind the [[Polity Archetypes|"name reveals stance"]] lever. Deep grammar is still deferred: only if spoken dialogue is ever needed.
 
 ## Phonology & feel
 
@@ -36,7 +38,7 @@ updated: 2026-08-24
 
 ## Notable words & roots
 
-The sacred lexicon the setting's names are built from. (Meanings are the *root* senses; the daughters warp both sound and shade.)
+The old words the setting's names are built from. The meaning is what the word meant in the rite. A dock town may keep the sound and let the meaning slide.
 
 | Root | Says | Meaning | Note |
 |---|---|---|---|
