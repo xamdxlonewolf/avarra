@@ -14,7 +14,7 @@ path: Struck only (chains off Bound)
 population: ~1.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-19
+updated: 2026-08-28
 ---
 
 # The Unbound
@@ -31,7 +31,7 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 
 *You paid what you promised. Something is missing now — and the missing place is quiet, and strong.*
 
-- **The Absence** — Name what the contract took (the [[Bound]] Pledge). You permanently lose it — fictionally and, where relevant, mechanically — **and** you are **immune to anything that works through it**. The bigger the hole, the wider the immunity and the heavier the daily lack; agree the cash-out with the GM at the moment you become Hollow. Three lanes:
+- **The Absence** — Name what the contract took (the [[Bound]] Pledge). You permanently lose it, in the fiction and, where it matters, on the sheet, **and** you are **immune to anything that works through it**. The bigger the hole, the wider the immunity and the heavier the daily lack. Agree the details with the GM at the moment you become Hollow. Three lanes:
   - **A capacity of the mind** (fear, grief, love, the ability to lie, memory of a person/place) → immune to effects that work through it (gave up fear → auto-pass fear/horror/intimidation; gave up deceit → you *cannot* lie, and no lie deceives you). Mostly fiction + a clean immunity.
   - **A sense of the body** (an eye, hearing, taste) → a fictional loss with a sharp edge (gave up an eye → disadvantage on rolls needing depth/distance, **but** immune to gaze- and sight-based effects: [[The Stilled]] stilling, blinding light, illusions you must see).
   - **A part of the body** (a leg, a hand) → fictional loss + a standing penalty the group accepts, offset by immunity to pain/effects through it (and often a prosthetic or Condition-crafted replacement in the fiction).

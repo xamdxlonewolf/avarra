@@ -14,7 +14,7 @@ path: Struck only
 population: ~5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-15
+updated: 2026-08-28
 ---
 
 # Bound
@@ -29,9 +29,9 @@ updated: 2026-08-15
 
 *You swore something to something, and it answered. Now you both keep the terms.*
 
-- **The Granted Power** — When you became Bound, you named what you wanted, and the contract granted it. With the GM, choose one **modest-but-real** boon your class doesn't give you — e.g. **you can never become lost** (always know true north and the way back), **you don't need to breathe**, **you need no food or water**, **you can speak and understand any tongue**, **you always know when someone lies to you**, or a similar small, defined edge. Invoke active boons by marking a **Stress**; passive ones simply work.
+- **The Granted Power** — When you became Bound, you named what you wanted, and the contract granted it. With the GM, choose one small, defined boon your class doesn't give you. Examples: **you can never become lost** (always know true north and the way back), **you don't need to breathe**, **you need no food or water**, **you can speak and understand any tongue**, **you always know when someone lies to you**. Active boons cost a **Stress** to use. Passive ones simply work.
   - **On flight (a rare, marked bargain):** a Bound *may* contract for true flight, but the sky is spoken for — it is the province of the [[Tengu]] and, in legend, the [[Phoenix]] (see the *Flight in this world* note). So a contract for flight is **uncommon and never clean**: it grants literal, visible **wings** (or a stranger tell — a shadow that lifts, feet that won't touch ground) that a Bound **cannot furl or hide**, marking them plainly as something that made a bargain, the way a Phoenix's fire marks them. Most who want the sky are simpler served by *gliding / a saving slow-fall*; **true sustained flight is a GM's call**, priced with heavier Terms and a Pledge to match. It is deliberately not one of the ordinary, hide-in-a-crowd boons above.
-- **The Terms** *(Tithe)* — Your contract carries **Terms** written on the card: a standing obligation the counterparty exacts (e.g. "never refuse a sincere plea," "collect what is owed," "tell no lie on a holy day"). Keep the Terms and the power is clean. **Break a Term, or miss a payment, and the contract *collects*:** the GM gains **Fear**; until you make restitution (a defined act, GM-adjudicated) your Granted Power costs a **Hit Point** instead of Stress; and **The Whisper** begins — while you owe a debt, when you roll with **Fear** the GM may voice an intrusive thought or a plausible lie the counterparty wants you to believe. You may act against it freely, but **shutting it out costs a Stress**. The debt compounds each time you fall further behind. *(The Whisper suggests; it never commands — the counterparty cannot take control of you.)*
+- **The Terms** *(Tithe)* — Your contract carries **Terms** written on the card: a standing obligation the counterparty exacts (e.g. "never refuse a sincere plea," "collect what is owed," "tell no lie on a holy day"). Keep the Terms and the power is clean. **Break a Term, or miss a payment, and the contract collects.** The GM gains **Fear**. Until you make restitution (a defined act the GM sets), your Granted Power costs a **Hit Point** instead of Stress, and **The Whisper** begins. While you owe a debt, when you roll with **Fear** the GM may voice an intrusive thought or a plausible lie the counterparty wants you to believe. You may act against it freely, but **shutting it out costs a Stress**. The debt compounds each time you fall further behind. *(The Whisper suggests; it never commands. The counterparty cannot take control of you.)*
 - **The Pledge** — At signing you also named **what you would give when the contract ends** — a part of yourself (an eye, a leg, your capacity for fear, your memory of home). Written on the card. You keep it while the contract runs. When a term-limited contract comes due, the counterparty releases you and **collects the Pledge**, and you become one of **[[The Unbound]]** (colloquially, the Hollow).
 
 ## The counterparty

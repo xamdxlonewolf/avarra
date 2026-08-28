@@ -14,7 +14,7 @@ path: Given only
 population: ~18%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-19
+updated: 2026-08-28
 ---
 
 # Two-Bodied
@@ -35,7 +35,7 @@ A Two-Bodied has two bodies: their born shape and a specific real **animal**. Sh
 
 *A person who carries a second, animal self — not a beast that overtakes them.*
 
-- **The Other Self** *(boon)* — You have a second body: a specific real animal (see *Choosing your animal* above), chosen when you become Two-Bodied. You may **shift between your two selves at will**, as an action — the change is **always yours to command**, no Stress and no roll (your gear melds with you and returns when you change back). In animal form you gain all three:
+- **The Other Self** *(boon)* — You have a second body: a specific real animal (see *Choosing your animal* above), chosen when you become Two-Bodied. You may **shift between your two selves at will**, as an action — the change is **always yours to command**, no Stress and no roll (your gear melds with you and returns when you change back). In animal form you gain:
   - **Natural build** — your animal's real gifts are yours: a **natural weapon** (teeth, claws, antler, hoof) you can attack with, plus the beast's movement — a wolf's run, an otter's swim, a hawk's flight. This is why a Two-Bodied is worth the shift in a fight, not just out of one.
   - **A signature capability** — chosen with the GM to fit the animal, within the bands above: e.g. a hawk's *see a mouse from the sky*, a wolf's *run a scent for miles*, a bear's *shrug off a blow* (**advantage** on the fitting rolls, or a small once-per-scene effect the GM sets). One signature to start.
   - **An animal Experience** — choose one **Experience** reflecting your animal's nature (e.g. "Wolf's Nose," "Cat's Balance," "Bear's Strength"), usable only in animal form.

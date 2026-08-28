@@ -14,7 +14,7 @@ path: Both
 population: ~7%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-28
 ---
 
 # The Stilled
@@ -31,7 +31,7 @@ One of the Stilled has a gaze that can hold a moment still — a bleeding wound 
 
 *You can hold a moment still. The stillness has to come from somewhere — and if you don't move it along, it settles into you.*
 
-- **The Stilling Gaze** — You may still a wound, a spreading harm, or a struggle you can see: stop a creature's bleeding or the spread of a poison/disease, or render a target **Restrained** for a beat — held fast, unable to act, until they mark a Stress to break free or the scene moves on. It is brief and precise; nothing you still this way is harmed by the stilling itself. But the stillness has to come from somewhere: **each time you use the Gaze, add a Grey token** (see *The Grey*).
+- **The Stilling Gaze** — You may still a wound, a spreading harm, or a struggle you can see. Stop a creature's bleeding or the spread of a poison or disease, or hold a target **Restrained** for a beat: they cannot act until they mark a Stress to break free, or until the scene moves on. It is brief and precise. Nothing you still this way is harmed by the stilling itself. The stillness has to come from somewhere: **each time you use the Gaze, add a Grey token** (see *The Grey*).
 - **The Grey** *(Tithe)* — The stillness you spend collects in you, and if you don't work it back out, it settles. Place **Grey tokens** on this card, starting at **0** — this is a *filling* clock, not a draining one. **Add a Grey token** each time you use the Stilling Gaze, and **add one** whenever a rest passes without real, vigorous exertion (a hard spar, a dance, heavy labor, a fight — anything that works the body). **Clear one token** for each scene you spend in that kind of exertion. The stillness rises:
   - **1 token:** no effect.
   - **2 tokens:** the **grey creeps in** — your joints stiffen; you have **disadvantage** on Agility rolls and on rolls to evade.

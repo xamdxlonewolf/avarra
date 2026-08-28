@@ -14,7 +14,7 @@ path: Given only
 population: ~10%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-28
 ---
 
 # The Answered
@@ -33,12 +33,12 @@ At the Awakening, an Answered child's leaf doesn't just mark them Given — its 
 
 Choose your **element** at creation — **Ember**, **Tide**, **Root**, or **Gale**. It sets both features below.
 
-- **The Answering Hand** *(boon)* — Your element obeys your hands without tool, forge, or force — glass blown with no furnace, a hull bent with no steam, stone coaxed with no chisel — granting **advantage** on any action roll to shape, repair, wield, or read something made of your element. In the moment, it answers too: **spend a Hope** to invoke your element's **Reach** (see the table). The Reach is always available; the Tithe below is what wears down if you don't use it.
-- **The Untended Element** *(Tithe)* — Place **3 tokens** on this card. **Refill all of them** whenever you invoke your Reach in earnest — a rescue, a fight that mattered, real work of your trade (not idle showing-off). Each time you take a rest having done **none** of that since your last, **remove a token**. At **2 tokens:** no effect. At **1** and **0**, the element starts speaking for itself — see the table.
+- **The Answering Hand** *(boon)* — Your element obeys your hands without tool, forge, or force — glass blown with no furnace, a hull bent with no steam, stone coaxed with no chisel — granting **advantage** on any action roll to shape, repair, wield, or read something made of your element. In the moment, it answers too: **spend a Hope** to use your element's **Reach** (see the table). The Reach is always available; the Tithe below is what wears down if you don't use it.
+- **The Untended Element** *(Tithe)* — Place **3 tokens** on this card. **Refill all of them** whenever you use your Reach in earnest — a rescue, a fight that mattered, real work of your trade (not idle showing-off). Each time you take a rest having done **none** of that since your last, **remove a token**. At **2 tokens:** no effect. At **1** and **0**, the element starts speaking for itself — see the table.
 
 | Element | **Reach** — *spend a Hope* | **1 token** (restless) | **0 tokens** (it lets go) |
 |---|---|---|---|
-| **Ember** *(fire)* | Loose fire at a target within **Very Close** range: make an attack roll (Instinct or Strength). On a success, deal **magic damage in d6s equal to your Proficiency** and the target is temporarily **On Fire**. | You run **hot** — disadvantage on action rolls needing a steady hand or a cool head (stealth, precision, composure). | You **flare** — mark a **Stress**; searing heat rolls off you and anyone within **Very Close** must give ground or work through it (scorched cloth, singed hair — no direct damage). Refill to 2. |
+| **Ember** *(fire)* | Send a burst of fire at a target within **Very Close** range. Make an attack roll (Instinct or Strength). On a success, deal **magic damage in d6s equal to your Proficiency** and the target is temporarily **On Fire**. | You run **hot** — disadvantage on action rolls needing a steady hand or a cool head (stealth, precision, composure). | You **flare** — mark a **Stress**; searing heat rolls off you and anyone within **Very Close** must give ground or work through it (scorched cloth, singed hair — no direct damage). Refill to 2. |
 | **Tide** *(water)* | Move like water: breathe and swim freely as though water were air, flow out of a fall or a grapple unharmed, **or** slick the ground within **Very Close** — creatures there must succeed on an **Agility Roll** to move out of it. | You run **thin** — disadvantage on action rolls needing brute force or holding your ground. | You **flood** — mark a **Stress**; water and mud spread under you (**Very Close**), and you *and* everyone in it must make an **Agility Roll** to move out until it drains. Refill to 2. |
 | **Root** *(earth/stone)* | Turn skin to bark and stone until the spotlight leaves you: **reduce the severity of the next damage you take by one threshold**, and gain **advantage** on rolls to resist being moved, knocked down, or Restrained. | You run **slow** — disadvantage on Agility rolls. | You **calcify** — mark a **Stress**; you become **Restrained** by your own stiffening body until you or an ally clears it with a successful action roll. Refill to 2. |
 | **Gale** *(air)* | Move like wind: on a move, reach anywhere within **Close** range with no roll even under pressure; **or** a sudden gust slams a door, knocks something loose, or carries your voice clearly across a storm. | You run **wild** — disadvantage on action rolls needing careful aim or a steady stance. | You **gust** — mark a **Stress**; uncontrolled wind scatters every loose or unsecured thing within **Very Close** (dropped weapons, papers, smoke, dust — GM adjudicates). Refill to 2. |

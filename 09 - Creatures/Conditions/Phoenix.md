@@ -14,7 +14,7 @@ path: Given only
 population: <0.1% (trace)
 reveals: []
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-28
 ---
 
 # Phoenix
@@ -45,11 +45,11 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 
 - **Deathless to Flame** — You cannot be harmed by fire or heat of any kind: you take **no damage from fire** and can walk through, stand in, and breathe within flame unharmed. Ash and cinder are home.
 - **Wings of Fire** — You have wings of living flame and **you can fly.** While flying, you may **mark a Stress** after an adversary attacks you to gain a **+2 bonus to your Evasion** against that attack. (You can furl the wings to pass for ordinary — but the moment you fly, everyone watching *knows what you are*.)
-- **Kindle** — **Spend a Hope** to loose a burst of fire at a target within **Close** range: make an attack roll (Instinct or Strength); on a success, deal **magic damage in d6s equal to your Proficiency** and the target is temporarily **On Fire**.
+- **Kindle** — **Spend a Hope** to send a burst of fire at a target within **Close** range. Make an attack roll (Instinct or Strength). On a success, deal **magic damage in d6s equal to your Proficiency** and the target is temporarily **On Fire**.
 
 **The rebirth**:
 
-- **Rise From Ash** — When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene — you return with all Hit Points and Stress cleared, standing in your own ashes. But rebirth burns part of who you were: with the GM, name a piece of the old life that did *not* come back — a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before. (The count this costs you is **The Dwindling**, below.)
+- **Rise From Ash** — When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene — you return with all Hit Points and Stress cleared, standing in your own ashes. Rebirth burns part of who you were: with the GM, name a piece of the old life that did *not* come back — a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before. (The count this costs you is **The Dwindling**, below.)
 - **The Dwindling** *(Tithe)* — Rebirth is finite, and paid in self. **Each Rise From Ash permanently crosses out a Hope slot**, as a scar does; your lives are counted in Hope. **When you would cross out your last Hope slot to Rise, you cannot** — that death is your true and final one, and this turn of the soul ends for good (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). *Then, somewhere, a leaf falls for the next Phoenix.* The dread is the **count**: everyone at the table can see how many risings are left, and so, quietly, can the Phoenix.
 
 *(Rise From Ash acts only on the Phoenix's own body and Hope; Kindle is an ordinary attack, no different from a torch or a blade in what it may target. Nothing here compels another creature's will.)*
