@@ -4,7 +4,7 @@ You need a person who sounds like they grew up somewhere, and a hall that sounds
 
 **A person is named by the place that raised them.** If they are Kitsune, Selkie, Tengu, or Yumboe, they also keep a hearth-name from their Kind. Everyone else uses the local mouth of the Old Tongue. Two names is ordinary. **Raki of Hallowquay** is an introduction, not a secret identity.
 
-The rest of this chapter is a recipe, then the lists, then a lookup for what each land calls the same building.
+The rest of this chapter is a recipe, then the lists, then a lookup for what each land calls the same building. The full sound-system, and what the linguistics words mean, is in Book X under **GM only: Language**.
 
 ---
 

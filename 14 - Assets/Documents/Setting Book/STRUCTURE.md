@@ -49,6 +49,10 @@ These stay where they are. Do not promote them to new chapters unless the spine 
 - **Gazetteer types** (ch. 20) — leftover types listed; unused ones wait in ch. 21.
 - **Open questions** (ch. 24) — who made the First Cut; the nature of her limit; what she is; whether the storm-wall can be crossed.
 
+## Headings added inside filled chapters
+
+- **GM only: Language** (ch. 24) — sound-system and linguistics terms for minting names. The player recipe stays in ch. 05.
+
 ## How to update
 
 1. Find the chapter in the table (or in `chapters/`).
