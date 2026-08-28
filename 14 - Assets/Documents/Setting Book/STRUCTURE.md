@@ -49,6 +49,12 @@ These stay where they are. Do not promote them to new chapters unless the spine 
 - **Gazetteer types** (ch. 20) — leftover types listed; unused ones wait in ch. 21.
 - **Open questions** (ch. 24) — who made the First Cut; the nature of her limit; what she is; whether the storm-wall can be crossed.
 
+## Headings added inside filled chapters
+
+- **GM only: Language** (ch. 24) — glossary, sound-inventories, and regular sound-change. The player how-to (pick, make, glue) stays in ch. 05. Continent-name gloss is in ch. 14.
+
+- **What the names mean** (ch. 14) — first-read gloss of the continents, the Awakening Tree, the Isle, and the three corners.
+
 ## How to update
 
 1. Find the chapter in the table (or in `chapters/`).

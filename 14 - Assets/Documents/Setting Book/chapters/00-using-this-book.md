@@ -6,7 +6,7 @@ The **spine is locked.** Chapters keep their numbers and titles. When more of th
 
 **Books I–IX** are the setting as a player can meet it.
 
-**Book X** is GM canon. The table does not start knowing it. Read the world first if you want to audit it the way a player would.
+**Book X** is GM canon. The table does not start knowing it. Read the world first if you want to audit it the way a player would. It also holds the sound-system behind the names: which sounds each mouth uses, how an old word wears in each land, and a plain-language key for the linguistics terms. How to name a person, make a new name, and glue a hall stays in **Language and Naming**. Continent names are unpacked in **The Four Continents**.
 
 **Rules** for Daggerheart sit inside the Condition and Kind entries: Transformation cards and ancestry features, using the game's own terms (Hope, Stress, Hit Points, Fear, range bands). Folklore and in-world papers are quoted as they are told.
 

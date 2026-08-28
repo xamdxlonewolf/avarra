@@ -29,13 +29,124 @@ The lost fourth Fox is a grandmother, not a plot coupon. If you ever spend it, s
 
 Two names is a Kind × place tell, not a secret identity. Players should hear it in ordinary introductions. The smaller inscrutable bits: the lost fourth Fox-word; a Yumboe who *does* take a mainland byname (they have decided to stay); a Threnmaieth clerk who refuses to record hearth-names (the roll wants one name only).
 
-Do not write sentences in Kusawe or Gonan (the Kind tongues). If a scene needs an in-group word, coin one word from the inventory and gloss it. Deep grammar is deferred.
-
 Each polity's vocabulary is its self-justification, not the truth of what it does. Threnmaieth's "keeping-whole" (**Threnhael**) is surveillance that calls itself care. Lestrand's "the free" for the **Kept** (hugged by the Tree, no colour, no Condition Given) is a market reframing a social slight as a virtue. Vaethorn's "the Waited" wraps real pity in reverence. None of these framings is dissolved by confirming the Mother. They are how each society launders its own injustice, and a kind Mother does not make any of the three names honest.
 
-Etymology is a quiet keystone tell. **Thaeloren = "the Tree that witnesses"** is not decoration. The Tree genuinely does witness (she is real, and the Leaf-Fall is her seeing each child). The language preserves a truth the skeptics have explained away. Do not gloss it in player-facing text as mere poetry; let a scholar-PC notice it. Reserve the noticing of buried meanings for a scholar-PC or a reveal beat; don't front-load them.
+The word-box and the how-to live in Language and Naming. The sound-system and what the linguistics words mean live under **GM only: Language**.
 
-Drift is GM-legible as the reach-edge (her bounded reach thinning where Trees are thin). The daughters drift furthest where the Trees are thinnest, the same bounded-reach edge that stays GM-side elsewhere. In-world the erosion reads as plain distance-and-trade (true, as far as it goes). The deeper pull that conserves the tongue near the Trees is the Mother's nearness. Same fact, two readings. History adds a mechanism: the pilgrimage itself was a conserving pull (far mouths walked to the same grove each year). Local Trees let daughters grow in place. Hands-era weather on a Walking-era root.
+## GM only: Language
+
+Language and Naming is where you name a person, mint a new one, glue a hall, and look up what a land calls a building. Keep that chapter as the how-to.
+
+This section is the hard machinery: what the linguistics words mean, which sounds sit in which mouth, and the regular sound-change that makes a name wear the same way every time. Use it when you need a name that still belongs, and the lists are not enough. Do not teach it at the table.
+
+### What the linguistics words mean
+
+Linguists have names for things everyone already does with speech. Here they are in this world's terms.
+
+| Word | What it means here |
+|---|---|
+| **Root** | The smallest chunk of meaning. *oren* means "to witness." You glue roots to make names. |
+| **Lexicon** | The word-box. The list of roots you are allowed to build from. The old-word table in Language and Naming is the lexicon. |
+| **Compound** | Two roots glued. **Thaeloren** is *thael* (Tree) + *oren* (witness). |
+| **Etymology** | Where a name comes from. Players hear a pretty word. You know it means "the Tree that witnesses." |
+| **Phonology** | Which sounds this mouth uses, and which it will not. English has *th*; many languages do not. Kusawe has *sh* and no *th*. |
+| **Syllable** | One beat of sound. *Ra-ki* is two syllables. |
+| **CV / CVC** | A recipe for a beat. **C** = a consonant, **V** = a vowel. CV is *ra*. CVC is *tek*. CVF in Kusawe means the beat may end on n, m, or r. |
+| **Stress** | The beat you hit harder. CAPS marks it: thae-LOR-en. |
+| **Digraph** | Two letters, one sound. *ae* is not "a" then "e." It is "ay" as in *day*. Same for *ei* (eye) and *eo* (ay-oh). |
+| **Onset** | The consonant or cluster at the start of a beat. *Kr* in Kukra is an onset. Tengu likes those. Kitsune does not. |
+| **Prenasal** | A hum before a stop: *mb*, *nd*, *nk*, *nj*. Yumboe uses them. The Old Tongue does not. |
+| **Register** | A mouth used for a job, not a whole language. Church-speech vs street-speech. Kusawe is the fox hearth-register: given names and in-group talk. Do not write sentences in it. |
+| **Liturgical / Old Tongue** | The church language, **Maiethren**. Like Latin: nobody's first language at the market, still used for the rite and for old names. |
+| **Vernacular / common tongue** | What people actually say day to day. Worn-down Old Tongue. *The Kept*, *the ranging*, *tree-wardens*. |
+| **Daughter language / drift** | When one language splits into regional versions. Spanish, French, and Italian all come from Latin. Threnmaieth, Vaethorn, and Lestrand all come from Maiethren. They did not invent new tongues. They wore the same one differently. |
+| **Conservative** | A mouth that kept the old sounds. Threnmaieth still says *th*. |
+| **Worn** | A mouth that softened them. Vaethorn still has *th*, but it is gentler, and endings simplify. Everyday **Wethorn**. |
+| **Eroded** | A mouth that sanded sounds off. Lestrand dropped *th* to t or d, or dropped it. |
+| **Sound-change** | A regular swap, not a one-off. If *th* becomes *t* on the docks, it does that in every word, not just one. That is why you can push any old word through the same rule and it will still sound like Lestrand. |
+
+You do not need the rest of a linguistics toolkit. There is no grammar to learn. No sentences in Kusawe, Sakoa, or Gonan. If a scene needs an in-group word, coin one word from that Kind's sounds and say what it means.
+
+### The Old Tongue's mouth
+
+Warm and weighty. A hall-and-hearth tongue. Liquids and nasals (*l r m n*) carry the warmth. *Th* and long vowels carry the weight. No harsh piles of consonants, so it stays sayable.
+
+**Sounds it uses.** Consonants: m n, l r w j, p t k, b d g, f v s h, and *th* as in *thin*. Vowels: a e i o u, plus the digraphs *ae*, *ei*, *eo*.
+
+**Sounds it does not use.** Prenasals (*mb nd nj*). Hard front clusters like *kr* and *gr* (those are Tengu). *Sh* is a fox sound, not a church sound.
+
+**How to say it.** Same key as Language and Naming. CAPS is stress. *th* as in *thin*, never as in *the*. Stress usually on the second beat.
+
+The word-box (the lexicon) is the old-word table in Language and Naming. Glue one or two roots. Then wear the compound the way the land wears it.
+
+### How an old word wears in each land
+
+One Tree, grafts carried out. One old tongue, names wearing down as they travel. Linguists would call Threnmaieth, Vaethorn, and Lestrand **daughter languages**: three children of Maiethren. In this book they are three mouths.
+
+The sound-changes are regular. Push any old word through the same rule.
+
+| Mouth | Land | What happens to the sounds | How it feels |
+|---|---|---|---|
+| **Conservative** | Threnmaieth, pious Maiethorn | Almost nothing. *Th* and long vowels kept whole. | Archaic, formal, holy. Sounds like the rite because it barely moved from it. |
+| **Worn** | Vaethorn, Heskoren folk | *Th* stays but softens (Vaethorn → Wethorn). Endings simplify. Vowels flatten. | Rough-warm folk-speech that still reaches for the old holy words. |
+| **Eroded** | Lestrand, Strandoren docks | *Th* becomes t or d, or drops. Long vowels clip. Word-ends wear off. Trade-words sneak in. | Smooth, clipped, mercantile. The most worn name belongs to the least-devout place. |
+
+Worked examples of the same rule:
+
+- *thael* + *oren* kept whole is **Thaeloren** (the Awakening Tree). Worn everyday: **the Thallow**.
+- *vaeth* + *orn* kept with *th* is **Vaethorn**. Everyday **Wethorn**.
+- *ledd* + *strand* with the *th* already gone is **Lestrand**.
+- *thren* + *maieth* kept whole is **Threnmaieth**. The same *thren* worn to *Tren* is **Trenledd**: the sacred count with the sacred sanded off.
+- *oren* + *thael* with the *th* dropped is **Orentel**, the salt-quay seat.
+
+A devout river-town on a thaw: *maieth* + *lir* = **Maiethlir**, *th* kept. Do not invent a fourth human mouth. A named power uses these roots and the right mouth. Vaelhesk keeps older *vael* and frontier *hesk-*. That is still this family, worn further. Kumbaan is not in this family.
+
+### Why the mouths sit where they sit (GM)
+
+In-world, people will tell you names wear down with distance and trade. That is true as far as it goes. The deeper pull that keeps the old sound near the Trees is the Mother's nearness. Same fact, two readings. Do not assert the deeper one in player-facing text.
+
+History adds a mundane mechanism you can play: the pilgrimage itself was a conserving pull. Far mouths walked to the same grove each year, so the old sound got refreshed. Local Trees let the daughters grow in place. Hands-era weather on a Walking-era root.
+
+**Thaeloren = "the Tree that witnesses"** is not decoration. She is real, and the Leaf-Fall is her seeing each child. The language keeps a truth the skeptics have explained away. Do not gloss it in player-facing text as mere poetry. Let a scholar-PC notice it, or save it for a reveal beat. Do not front-load it.
+
+### The four Kind mouths
+
+Each custom Kind has a **register**: a closed set of sounds for given names and in-group talk. Not a language you write sentences in. The lists in Language and Naming are what you pick from. These inventories are how you mint a new one that still belongs.
+
+**Kitsune: Kusawe** (koo-SAH-way). Light, slipping, a little hissy.
+
+| | |
+|---|---|
+| Consonants | k s sh n r m t w y f h |
+| Vowels | a i u e o, and *ai* as in *eye* |
+| Beats | CV, or CV ending on n/m/r. Two or three beats. |
+| Do not use | *th* (church), *mb/nd/nj* (Yumboe), *kr/gr* (Tengu) |
+
+**Selkie: Sakoa** (sah-KOH-ah). Liquid, rounded, coastal.
+
+| | |
+|---|---|
+| Consonants | l r n m s v f d b k w |
+| Vowels | o u a i e, and *ea*, *oa* |
+| Beats | CV or CVC. Two or three beats. |
+| Do not use | *th*, *sh*, *kr/gr*, *mb/nd/nj* |
+
+**Tengu: Gonan** (GO-nan). Clipped, windy, high-country. Not the same mouth as Kusawe. That is the trap: two folklore-Japanese Kinds collapsing into one sound.
+
+| | |
+|---|---|
+| Consonants | k t g n r h s b d. Front clusters *kr*, *gr*, *hr* are at home. |
+| Vowels | a o u e. Few *i* (that vowel lives with the foxes). |
+| Beats | CVC or CV. One to three beats, prefer two. |
+| Do not use | *th*, *sh*, *mb/nd/nj*, long *ai/ea/oa* |
+
+**Yumboe.** Not Maiethren. Open vowels, a drum-like rhythm, prenasals *mb nd nk nj*. Their own name *Bakhna Rakhna*, homeland *Kumbaan*. Do not put a *th* in it. Do not clip it down to a dock-name.
+
+A name that bleeds across registers is a tell. A Selkie named Wishi, or a Tengu named Maethaem, was raised away, adopted, or is passing. Use it on purpose or not at all.
+
+If the first fox-name that comes to mind is Yuki, throw it back. Same for Morag on a Selkie and Kenji on a Tengu. Pick from the middle of the existing list, or build from the inventory above until it could sit next to Raki, Lavo, or Teku without anyone blinking.
+
+The player recipe stays in Language and Naming: pick from a list, or use **To make another**, or glue two old words and wear them for the land. The inventories above are the same mouths written as sound-lists, so a new name can be checked against the rule instead of the ear. The sound-change table is how you push any old word through a land without inventing a fourth human mouth. Do not write sentences in Kusawe or Gonan. Deep grammar stays off the table.
 
 ## GM only: Society and Faiths
 

@@ -6,7 +6,29 @@ The map of the Turning is a **gradient of the Trees' reach**. Reach is how far t
 
 There is one Awakening Tree, **Thaeloren**. Every town Tree is a living **graft** of it: a cutting of that same wood, planted in new ground. The further a land sits from the deep, old, densely-grafted core, the thinner its reach tends to run: fewer, younger, more fragile Trees. More children are left among the Kept. More people are Struck later and alone. The physical map and the cosmological map are the same map. In the world this reads as plain distance and history.
 
-The Old Tongue drifts furthest from the sacred sound where the Trees are thinnest: conservative in the core, worn on the frontier, eroded on the trade coast.
+Names keep the old *th* nearest the Tree. A frontier town softens it. A dock town sands it off. You can hear how far a land sits from the grove in how people say the same word.
+
+## What the names mean
+
+The names on the map are old words glued together. Here is what they are saying the first time they appear as places.
+
+| Name | Says | Means |
+|---|---|---|
+| **Thaeloren** | thae-LOR-en | the Tree that witnesses. Everyday: **the Thallow**. The Awakening Tree. |
+| **Maiethorn** | mah-YETH-orn | the Mother's Land |
+| **Strandoren** | stran-DOR-en | the Witnessed Shore. Everyday: **Strandor** |
+| **Heskoren** | hesk-OR-en | the Outer Land. Everyday: **Heskorn**. *Hesk-* is a frontier word for the far edge; the old rite is older than this grafting. |
+| **Kumbaan** | koom-BAHN | the hidden home, in the Yumboes' own tongue. Sailors say **the Sundering Isle**, or **the Sunder**, for the water that walls it off. |
+
+Each of the three large continents has a named corner. Same trick, worn three ways:
+
+| Name | Says | Means |
+|---|---|---|
+| **Threnmaieth** | THREN-my-eth | the Mother's Reckoning. Keeps the full old sound. |
+| **Lestrand** | leh-STRAND | the Reckoning Coast. The *th* is gone. |
+| **Vaethorn** | vay-THORN | the Waiting Land. Everyday: **Wethorn**. |
+
+The other named powers on each continent are built from the same old words. You will meet them as you go. **Language and Naming** is the word-box if you want to hear one as it appears, or make another.
 
 ## How the continents sit
 
@@ -36,7 +58,7 @@ The Motherfaith is one faith among several. The Watching, the Fair Hand, and the
 
 ## Maiethorn: the Motherland
 
-*(mah-YETH-orn · maieth "Mother" + orn "land" = "the Mother's Land." The conservative drift, spoken almost unchanged from the liturgy.)*
+*(mah-YETH-orn. The Mother's Land.)*
 
 Maiethorn is the world's **old heart**: the continent people mean when they say "the center." It is long-settled and deeply grafted: every hill with its Tree, and every Tree with its centuries. This is where the Motherfaith began, and where the Awakening Tree grows. A child's Turning is ordinary here because it is almost certain. The Trees are so healthy that nearly every child is Given, and being Kept is rare enough to be an event. The whole Condition-economy runs at full depth: deathless houses centuries old, Stilled infirmaries, Far-Voiced on every court and quay.
 
@@ -50,7 +72,7 @@ Proximity to the holy is pressure. Devotion here is the heaviest in the world. I
 
 **A central range** divides the continent's watersheds. Temperate, seasonal climate: four true seasons, real winters that make the solstice-timed Leaf-Fall meaningful. Old roads and river-trade knit it together. Tengu hearths and Fox-of-the-Snows country sit on the high snows. The range is also why the east is dry.
 
-**The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn (same Trees, same conservative tongue, same pilgrimage-pull westward toward Thaeloren). It is simply the Motherland's other weather. Towns here cluster at wells and at whatever graft will take in thin soil. **Ornsael**, the sown-ground, sits on the west-road: the core had already stopped walking when sand-country still went west.
+**The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn (same Trees, same old *th*, same pilgrimage-pull westward toward Thaeloren). It is simply the Motherland's other weather. Towns here cluster at wells and at whatever graft will take in thin soil. **Ornsael**, the sown-ground, sits on the west-road: the core had already stopped walking when sand-country still went west.
 
 **The western coast** faces the busy **inner sea** toward Strandoren, the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
 
@@ -83,7 +105,7 @@ In the Walking Years, people had to come: the Near Mile was how Maiethorn Turned
 
 ## Strandoren: the Shore-lands
 
-*(worn to **Strandor** in daily speech · strand "shore" + oren = "the Witnessed Shore," eroded smooth. The name itself shows the drift: a sacred root worn down by the docks.)*
+*(stran-DOR-en. Everyday **Strandor**. The Witnessed Shore.)*
 
 Strandoren is the **crossroads of the known world**: a continent of harbours, its long coastline so deeply indented with bays, sounds, and peninsulas that no point sits far from saltwater. It is the **market that grew up facing Maiethorn**: charter-towns, guild halls, banking houses, and quays. The Trees here are mature and many (reach is high, the Given are dense), but the faith is worn light, folded into commerce until a child's Turning is watched less as a sacrament than as a question of which guild the colour opens. Deathless banking is at full scale here. Condition-labor buys the world's most advanced public works.
 
@@ -125,7 +147,7 @@ The Salt Walk was the berth that made Eolthael. Miss the last crossing and you m
 
 ## Heskoren: the Sundered Reach
 
-*(worn to **Heskorn** in daily speech · coined root **hesk-** "far/outer edge" + orn "land" = "the Outer Land." A frontier coinage; the root doesn't appear in the old liturgy because the liturgy is older than the frontier's grafting.)*
+*(hesk-OR-en. Everyday **Heskorn**. The Outer Land.)*
 
 Heskoren is the **edge of the world that the Trees reached last**. The land is young in wood, thin, and waiting: a broad, rugged, half-settled country where the grafts came recently, take poorly, and sicken often. Whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the Kept (children who reached no healthy Tree at ten) and the Struck (people who changed later, alone, unwitnessed). It is where the Motherfaith burns hottest. Scarcity of the gift has heated devotion: pilgrimage, longing, and a theology of waiting. In the Walking Years that pattern was the rule of distance (the Long Mile). Some districts are still on it. Distance did this, not unworthiness.
 
@@ -167,7 +189,7 @@ Two faiths in tension, and the friction is the frontier's own:
 
 ## The Sundering Isle: Kumbaan
 
-*(Common tongue, the sailors' name: **"The Sundering Isle"** or **"the Sunder,"** for the sundering water that walls it off and the ships it has sundered. In the Yumboes' own tongue: **Kumbaan**, koom-BAHN, "the hidden home." Outsiders name the barrier. The Yumboes name the hearth.)*
+*(koom-BAHN, "the hidden home." Sailors say **the Sundering Isle** or **the Sunder**. Outsiders name the barrier. The Yumboes name the hearth.)*
 
 The Sundering Isle is **off the edge of the reach-gradient entirely**: the one land the grafts never reached, or never held. Where Heskoren is thin, the Isle is empty of the Trees the rest of the world is built around, and its people become what they are by **their own path**, outside the Leaf-Fall altogether. The storm-wall has wrecked most who tried the crossing, so that in Maiethorn, Strandoren, and Heskoren alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired, "the good people from across the drowning sea." Some of the stories are even true.
 

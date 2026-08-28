@@ -8,10 +8,12 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-24
+updated: 2026-08-28
 ---
 
 # Naming in the Turning
+
+> **How to use this.** Same building, three names. Find the thing in the dictionary, then the column for the land you are in. Common-tongue is what a traveller says. The local word is how that land sits toward the Tree. To coin a new official name, pick an Old-Tongue root, wear it for the place, mark the stress.
 
 > **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions the [[Roadmap|Epic 2]] social-structure notes first wrote as plain descriptive placeholders. The governing principle — the reason this pass waited until the [[Polity Archetypes|polity archetypes]] existed — is one lever:
 

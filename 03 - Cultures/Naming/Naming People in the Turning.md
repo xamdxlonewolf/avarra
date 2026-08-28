@@ -9,12 +9,12 @@ aliases: [Person Names, Kind Registers, How People Are Named, The Four Registers
 world: The Turning
 reveals: []
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-28
 ---
 
 # Naming People in the Turning
 
-> **What this is.** How **people** are named in **The Turning** — the companion to [[Naming in the Turning]] (which names *institutions*). Built for [[Roadmap|Story 4.2]] with `character-naming` (seeded entropy, not median-hopping) and `conlang` (naming-complexity inventories, no deep grammar). The governing lever is the same shape as the rest of the world's naming, turned toward persons:
+> **How to use this.** To name a person: (1) where were they raised, (2) are they Kitsune / Selkie / Tengu / Yumboe, (3) pick a given name from the matching list, (4) add a byname from the **place**, never from the Kind. Mark stress (CAPS) on first use. The lists and recipes are below. Locked lever:
 
 > ## **A person is named by the place that raised them. A custom Kind may also keep a hearth-name.**
 > Stock ancestries have no private tongue. The four custom Kinds do — a *register* for given names, kin-names, and in-group talk — and they still wear the local [[The Old Tongue|Maiethren drift]] on the street. You can often hear both homes in one introduction.
@@ -48,7 +48,7 @@ Do not invent a fourth "human language." This *is* the person-language of the Tr
 
 ## The four hearth-registers
 
-Each custom Kind's register is a **naming-language** (phonology + syllable shape + a working list). Not a grammar. Own-names for the people themselves are 🔒 (user-approved 2026-08-23). The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay locked.
+Each custom Kind's register is a **naming-language**: a mouth, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are 🔒 (user-approved 2026-08-23). The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay locked.
 
 Inventories were generated with a seeded LCG (the same family of entropy the `character-naming` skill uses). **When you need a new name, re-run from the seed and pick deep in the list.** Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*.
 

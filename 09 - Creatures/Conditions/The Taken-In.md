@@ -14,7 +14,7 @@ path: Both
 population: ~12%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-15
+updated: 2026-08-28
 ---
 
 # The Taken-In
@@ -32,9 +32,9 @@ One of the Taken-In can coax growth, read the wild, and move through it unseen a
 *The wild took you in and gave you back green. It still lives in you — and it needs living things around it.*
 
 - **The Green Word** *(boon)* — Growing things heed you. You have **advantage** on action rolls to forage, track, navigate wild land, calm or read an animal, or find your way, and you never become lost in a natural place. In the moment, the green answers:
-  - **Spend a Hope** to make roots, vines, and brush erupt from any natural ground within **Close** range: make an **attack roll** (Instinct or Strength) against a target there — on a success, deal **physical damage in d6s equal to your Proficiency** and the target is temporarily **Restrained**; **or**
+  - **Spend a Hope** to make roots, vines, and brush erupt from any natural ground within **Close** range. Make an **attack roll** (Instinct or Strength) against a target there. On a success, deal **physical damage in d6s equal to your Proficiency** and the target is temporarily **Restrained**; **or**
   - **Spend a Hope**, while in any natural cover (brush, trees, tall grass, roots, soil), to draw it around you and become **Hidden**; **or**
-  - **Spend a Hope** to force sudden, useful growth — a branch bridging a gap, a screen of thicket, a root ladder, a burst of ripe forage — GM sets the scale.
+  - **Spend a Hope** to force sudden, useful growth. A branch bridging a gap, a screen of thicket, a root ladder, a burst of ripe forage. The GM sets the scale.
 - **The Rooting** *(Tithe)* — Place **3 Green tokens** on this card. **Refill all of them** whenever you take a rest in true contact with living land — soil under you, open sky, a forest, a field, anything growing. Each time you take a rest **cut off** from it — sealed in stone, deep indoors, at sea, on dead ground — **remove a token**:
   - **2 tokens:** no effect.
   - **1 token:** you **wilt** — your green browns and sheds, and you have **disadvantage** on action rolls to resist fear, despair, or exhaustion (the wild in you is starving and it drags at you).
