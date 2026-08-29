@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-08-24
+updated: 2026-08-29
 ---
 
 # Roadmap
@@ -30,6 +30,7 @@ updated: 2026-08-24
 
 | # | Epic | Unblocks / why here | Blast radius | Status |
 |---|------|--------------------|:---:|:---:|
+| **R** | [[#Epic R: Editorial repair and table readiness]] | Clears every actionable finding in the full editorial audit before new canon is built | **High** | 🔴 active next |
 | **0** | [[#Epic 0 — Foundations]] | The load-bearing concept & mechanics | — | ✅ done |
 | **1** | [[#Epic 1 — The Engine's Anchor (Turning Tree & Leaf-Mother)]] | Religion, geography, settlements, law, the schism all point back here | **High** | 🟢 core + 1.4 done |
 | **2** | [[#Epic 2 — Society & Institutions]] | Every settlement & faction inherits these rules | **High** | ✅ done |
@@ -43,6 +44,127 @@ updated: 2026-08-24
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | ⬜ |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
+
+---
+
+## Epic R: Editorial repair and table readiness
+**Source:** [[Editorial Audit 2026-08-29]] · **Status:** 🔴 **active next** · **Blast radius:** High.
+
+> Work this epic before Epic 8. Each story owns one audited domain. Fix every red, yellow, blue, and white finding. A task may close with a documented decision instead of a change when the audit identifies a real choice, but nothing may close through silence. Preserve the protected strengths in section 3 of the audit. Do not update the world book until the user explicitly asks for a rebuild.
+
+### Story R.1: Core premise and engine
+- [ ] Reconcile the population model in [[The Premise]] so Given, Struck, Both-path sub-splits, and Kept total cleanly; decide whether The Unbound is included within Bound's share
+- [ ] Make [[The Premise]] the single canonical source for population figures; replace duplicated figures elsewhere with links or clearly derived summaries
+- [ ] Propagate the settled arithmetic to [[Conditions]], [[Law and Citizenship]], [[Economy and the Tithe]], and [[Build Plan]] without weakening the locked Given / Struck / Kept engine
+
+### Story R.2: Condition mechanics
+- [ ] Replace The Stilled's incorrect `Restrained` usage with a distinct effect, then add an appropriate roll or resource gate to Gaze
+- [ ] State explicitly whether [[Returned]] loses the core Avoid Death move and make Refuse to Fall's relationship to the remaining death moves unambiguous
+- [ ] Standardize all Tithe clock drains to `long rest` unless a card deliberately needs different timing
+- [ ] Add the missing damage die, trait, and other required weapon fields to the [[Two-Bodied]] natural weapon
+- [ ] Rebalance [[Phoenix]] or add firm spotlight and party-consent guidance for its immunity, flight, Evasion, attack, and extra death move package
+- [ ] Narrow [[The Unbound]] mind-lane immunity and distinguish Quiet tokens from both that immunity and Returned's unshaken clause
+- [ ] Rebalance [[Long-Lived]] so its boon and severe low-token penalties occupy the same power band
+- [ ] Give [[The Answered]] a mechanic that expresses being spoken to rather than commanded
+- [ ] Reduce mixed-party token bookkeeping and replace fuzzy refill tests where a cleaner trigger can carry the same fiction
+- [ ] Decide whether and how Condition cards advance from levels 1–10; record a deliberate no-scaling rule if that is the answer
+
+### Story R.3: Custom Kinds
+- [ ] Resolve the three-feature power gap against stock two-feature ancestries by trimming custom Kinds or granting a bounded compensating hearth benefit to stock-ancestry characters
+- [ ] Write the mixed-ancestry ruling, including how custom three-feature packages combine with SRD heritage rules
+- [ ] Consolidate the repeated "cannot be caught off guard" immunity so the four Kinds retain distinct mechanical lanes
+- [ ] Fix stale claims in [[Selkie]] and [[Tengu]], and reconcile Fox of the Sands' "many-tailed" epithet with [[Kitsune]] canon
+- [ ] Explain how dispersed Kind hearths transmit culture without becoming Kind-nations
+- [ ] Address mixed-Kind children in the setting's layered identity model
+
+### Story R.4: Religion and the Turning Tree
+- [ ] Add a scannable "Questions a warden gets asked" section to [[Turning Tree]] covering missed solstices, refusal, orphans, adults who never Turned, whether the rite can repeat, and other likely backstory cases
+- [ ] Settle Leaf-Fall failure and edge-case procedure without confirming the Leaf-Mother in player-facing text
+- [ ] Add one restrained point of religious dread, using the Phoenix fall or a historical mis-Speaking without moving the setting above its 5% scary dial
+- [ ] Give each Other Hand a positive want; state what Orledd receives in a Bound bargain and what strains or breaks the Leaf-Mother's allowance
+- [ ] Turn the Open Table's sentence-that-will-not-travel into a visible table conflict instead of leaving it buried in an order note
+
+### Story R.5: Secrets and revelation
+- [ ] Move the keystone truth leaks in [[Turning Tree]], [[The Leaf-Mother]], and the affected faction notes beneath proper `## GM Notes` walls
+- [ ] Reduce `leaf-mother-is-real` to notes that truly expose confirmation, introduce a lighter adjacent tag if useful, and key `the-other-hands` to every player note that exposes it
+- [ ] Populate `foreshadowed_by` on [[Is the Leaf-Mother Real]] and repair the Secrets MOC so clue-bearing notes can be found
+- [ ] Build a usable firing pin for the keystone: one confirmable artifact, a faction that wants proof found or suppressed, and concrete consequences if confirmation lands
+- [ ] Review all six clue rungs so the reveal can fire in play while preserving deniable early clues
+
+### Story R.6: Society, law, and economy
+- [ ] Correct the licence-rate claim and decide how a 28–33% licensed or supervised population still avoids becoming a general surveillance system
+- [ ] Soften the claim that Tithe-provision rivals food or fuel, or demonstrate the transaction volume that makes the claim true
+- [ ] Define big-city Turning and witnessing procedure for settlements where communal memory cannot know every child
+- [ ] Define legitimate travel and vouching customs so rootless adventurers can cross jurisdictions without routine arbitrary harassment
+- [ ] Add a crime, watch, hearing, and punishment ladder that fits witnessed citizenship and the Inviolate Will doctrine
+- [ ] Resolve why enough Taken-In live in stone cities to sustain urban green-poverty and the Slide's customer base
+- [ ] Chain or separate Netstrand berths, White Note terms, and Orentel holds so the prestige-walk product is not triple-booked
+
+### Story R.7: Factions, institutions, and conflict
+- [ ] Give the Given-Over pipeline and sold-vouching trade named lived faces with motives, methods, limits, and ways they reach the party
+- [ ] Give Threnmaieth three or four named instruments, including a registrar, Reckoned Speaker, and channel-clerk, with distinct good-faith agendas
+- [ ] Unlock two or three inter-faction disputes and let at least one escalate on-screen; remove instructions that prevent useful contact or disagreement
+- [ ] Add a compact want / have / fear / live conflict / hooks block to each faction that needs table-facing retrieval
+- [ ] Break the shared faction-note voice and structure so at least one order is sprawling, one is terse, one is bureaucratic, and one is paranoid
+- [ ] Decide whether [[The Greens-Keepers]] and [[The Hall-Keepers]] remain factions; if not, fold their jurisdictions into [[Tithe-Infrastructure]]
+- [ ] Keep each faction's injustice real while removing prohibitions that make opposition unable to act
+
+### Story R.8: People and capital casts
+- [ ] Build the planned 4–6 positional pivots from existing offices, each with a non-Tree want, leverage created by their job, and a distinct character arc
+- [ ] Give each of [[Eolvaeth]], [[Orentel]], and [[Maiethlir]] three to five named wants carried by people rather than institutions
+- [ ] Connect the cast across capitals, factions, and disputes without turning them into a preassembled adventuring party or another row of document-holding clerks
+
+### Story R.9: History
+- [ ] Add three to five dated non-Tree events within C.Y. 0–387, including inter-power conflict and a mix of political, epidemic, and natural events
+- [ ] Add two or three pre-Walk physical survivals that support archaeology and play without dating the Tree
+- [ ] Give the fifteen powers enough shared history for current borders, treaties, dynastic claims, and grudges to have causes
+- [ ] Re-date Ledan's White Note query to C.Y. 280 and repair every dependent "200th summer" reference
+- [ ] Keep the two-clock model intact while proving that 387 years contained more than the spread of grafts
+
+### Story R.10: Geography and powers
+- [ ] Name the inner sea, central range, and three or four rivers used by existing settlement and history notes
+- [ ] Add a compact travel-time table derived from established walk durations and place the current settlements relative to it
+- [ ] Remove map-generator tooling as an authority inside player-facing geography; extract the tooling to `14 - Assets` and link to it as a production aid
+- [ ] Align [[The World Frame]] with [[The First Cut]] on the strict ruling that no Kumbaan graft ever took
+- [ ] Sharpen or consolidate the weakest power stubs, especially Eolstrand, Lirorn, and Netstrand, without adding more powers
+
+### Story R.11: Settlements and Kumbaan
+- [ ] Break the Eolvaeth / Ornsael near-clone by changing one settlement's physical problem, institutional response, cast shape, and mystery
+- [ ] Vary the one-NPC / one-document / one-blindness formula across all seven developed settlements
+- [ ] Turn [[The White Note House]] from a cross-reference ledger into a usable place or institution
+- [ ] Make an explicit Kumbaan commit-or-gate decision in the Roadmap
+- [ ] If Kumbaan is opened for play, add one settlement, one Table-Keeper, crossing rules, and session-facing wants unrelated to guarding a reveal
+- [ ] Add two or three adventure sites, including pre-Walk ruins, with entrances, pressures, discoveries, and links to current actors
+- [ ] Preserve the best ground-level texture while making each settlement retrieve its conflicts quickly at the table
+- [ ] Give capitals and wild settlements dangers that can enter a scene, not only social conditions that remain in exposition
+
+### Story R.12: Language, naming, and voice
+- [ ] Repair [[The Old Tongue]] to license its real consonant clusters and `ai`, state compound stress accurately, correct Worn-drift, and fix the Maethaem / Reimaethe samples
+- [ ] Promote common-tongue epithets as primary spoken handles and adopt the rule "speak the common name; write the liturgical name"
+- [ ] Retire or respell the worst collisions, beginning with Aeloren and Eolstrand; add roots before any future liturgical coinage
+- [ ] Freeze new liturgical names until the phonology and collision list are repaired
+- [ ] De-clone at least two fables; demote, replace, or substantially rewrite [[The Child Who Climbed the Stone]]
+- [ ] Break one faith, one guild, one fable, and one settlement out of the shared aphoristic template
+- [ ] Cap recurring editorial mantras such as R2 and "both are telling the truth" to one authoritative home
+- [ ] Store a reproducible name generator and algorithm, or delete seed and "re-run" language from canon notes
+
+### Story R.13: Vault hygiene and table readiness
+- [ ] Rewrite [[Build Plan]] as a true fast brief; correct the Condition and ancestry counts, include The Unbound, remove stale contradictions, and drop the `Roadmap` alias
+- [ ] Resolve all 19 `note_status: locked` values into the documented vocabulary and record the chosen finished-state convention
+- [ ] Decide player-safe visibility for the Condition hub and cards so usable player mechanics are not stripped from exports
+- [ ] Fill the `09 - Creatures` MOC, archive [[Rogue House Options]], and fix or remove the opaque "fourteen-cell catalogue" claim
+- [ ] Write the exact player-export strip rule into [[Conventions]], including how nested GM material and blockquotes are handled
+- [ ] Move seeds, story numbers, canon emoji, "do not clone," and similar production scaffolding out of player-facing bodies
+- [ ] Create an "At the Table" note covering character-creation timing, the Kept benefit or deliberate tradeoff, Struck-in-play acquisition, Kind + Condition stacking, advancement, travel papers, city witnessing, crime procedure, and Leaf-Fall edge cases
+- [ ] Build a small Daggerheart dangers layer with wilderness adversaries and hazards for the Long Mile, Heskoren, and other named travel routes
+
+### Epic R completion gate
+- [ ] Every non-green finding in [[Editorial Audit 2026-08-29]] maps to a completed task or a recorded decision with rationale
+- [ ] Protected strengths from audit section 3 remain intact except for necessary arithmetic corrections
+- [ ] Player-facing export contains no keystone confirmation or production scaffolding
+- [ ] Core arithmetic, links, front-matter vocabulary, and Daggerheart rules terms pass a fresh mechanical audit
+- [ ] Table test can create a Kept or Conditioned PC, travel to a city, meet an active conflict, and face a runnable danger without inventing missing procedure
+- [ ] Update [[Build Plan]] and this Progress section, then begin pass-two verification before resuming the old Epic 8 plan
 
 ---
 
@@ -312,6 +434,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Epic R: Editorial repair and table readiness:** 0 / 86 tasks (0%). **⭐ Active next.** Source: [[Editorial Audit 2026-08-29]]. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology. ~12 named-stub powers ✅ Story 7.1. Rival faiths ✅ Story 1.4.
