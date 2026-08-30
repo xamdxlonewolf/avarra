@@ -23,6 +23,16 @@ updated: 2026-08-30
 
 *(Everyday, everywhere: **tree-wardens**, or just **wardens.** Liturgical: **the Orenhael** — or-EN-hayl — [[The Old Tongue|oren]] "to witness / speak true" + [[The Old Tongue|hael]] "whole, hale": those who *say the fall truly* and *keep the Tree sound.* [[Polity Archetypes|Vaethorn]]'s second word is **Hands-folk**; [[Polity Archetypes|Lestrand]]'s is **tree-tenders**; [[Polity Archetypes|Threnmaieth]] files them as **the Reckoned Hands.**)*
 
+## At the table
+
+| | |
+|---|---|
+| **Want** | Sound wood, a colour Spoken truly, a graft that takes. The queue they will not call a queue. |
+| **Have** | Town hearths, Speakers, Road-hands, the First Seat college, the side-yard [[The Remainder]]. |
+| **Fear** | A white-fire they must send by runner. A Speaker who will not copy. A Close that ranks a hug as a seat. |
+| **Live conflict** | Tarvae wants the copy in the same breath. Rithim sometimes will not. The Seat can refuse the roll. Some Speakers do not. |
+| **Hooks** | A mixed fall two houses want to name; a Cutting-leave the party is asked to carry; Harrow's green getting the scion the three hamlets can see; a white-fire letter that does not come back from the Care. |
+
 ## Shape of the order (at a glance)
 
 - **One order, several offices.** The Motherfaith does not run rival chapters. The live argument is already the three-branch schism on [[The Leaf-Mother]] (Tender / Wanting, Wide-Hand / Narrow-Hand, believer / skeptic). The Orenhael holds that argument *inside one house*. A second Motherfaith order would be a costume.
@@ -152,13 +162,40 @@ The Orenhael is **not** the Tithe-infrastructure sector. Venting-halls, greens, 
 
 On its face: competent horticulture, a little cold, the Tender's blessing reused as a shipping-clause. Underneath: the queue confessing itself, and a blindness the clerk cannot afford — that "the soil is thin" and "she did not reach" are the same sentence said from two distances. The three hamlets will run Kept-heavy and call it weather.
 
+## Minutes that do not agree
+
+The college keeps copies. The copies do not share a last line. A party that asks for "the Seat's position" can be handed any of these and told it is current.
+
+*Warden-hearth, unnamed Hands-town, verso of a blight-slate.*
+
+> *The wood is sound. The child is ten. I will Speak. I will not write the colour onto anyone's roll unless the family asks. The Tree witnessed. A tablet is a second, lesser seeing. If the Seat wants this as a policy, they may send a policy. I have a watering-can.*
+
+*Speaker's note, Motherwood, same summer, different hand.*
+
+> *A colour unspoken to the realm is a colour that can be stolen. File the fall. The hearth that will not copy is doing piety as a gap. We are one order. We are not one breath.*
+
+*Road-hand, Heskoren front, written on the inside of a pot-wrap.*
+
+> *The leave was for Harrow's. The three hamlets can see the canopy. I ate at Vaelun first because the grove asked. The Seat may call that delay. The hill called it a meal. I am out of carrying-earth and out of argument. Send a second pot or send a better sentence than soil.*
+
+*Remainder-clerk, side-yard, after a mixed fall.*
+
+> *Scraps logged. Colourless tissue boxed. The Speaking was storm-grey; the Watcher said amber at the serration. We do not Speak. We do not walk the box unless someone with leave takes the earth. Two mouths, one yard. Do not ask us which summer was true.*
+
+*Unsigned, filed under "Reckoned Hands, refused."*
+
+> *Tarvae stood beside. I Spoke. I did not copy. The water was loud. If this is insubordination, the college may recall me. If this is the job, the tablet-hall already knows.*
+
+A later hand has written *Rithim?* in the margin and then struck the question. The college has not decided whether the strike is horticulture or politics.
+
 ## Links
 - [[The Leaf-Mother]] — the faith this order serves · [[Turning Tree]] — the object and rite
 - [[The Remainder]] — the side-yard desk · [[The Spent Leaf]] — the colourless scrap they keep
 - [[Faiths of the Turning]] — how they share a square with the other four houses
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2)
-- [[Tithe-Infrastructure]] · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] (Story 5.3) — wardens *point*; they do not licence
+- [[Tithe-Infrastructure]] · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] — wardens *point*; they do not licence
+- [[The Reckoned Offices]] · [[The Walled Book]] · [[The Protectors]]
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]

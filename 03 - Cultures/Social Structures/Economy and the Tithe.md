@@ -107,8 +107,8 @@ The economy is not evenly spread, and the reason is the same one that shapes the
 
 Every gate breeds a black market, and this economy's gates are **Tithe-provision** and **vouching**:
 - **Illicit Tithe-supply.** Where legitimate provision is rationed, gated, or unaffordable, a shadow market fills it: smuggled green for a Taken-In cut off from land, unlicensed venting-rooms, black-market novelty (rare texts, forbidden knowledge) for a starving Long-Lived. The desperate customer is someone sliding toward their scary edge — which makes this trade both lucrative and cruel. Lived face: [[The Slide]] (Story 5.2).
-- **Off-book contracts.** The [[Bound]]'s whole domain has an underside: contracts sworn outside the honest tables, unregistered terms, and the predatory brokers who arrange them — the pipeline that feeds the Given-Over. No lived face — do not give this trade to the Slide.
-- **Sold vouching.** Since citizenship runs on [[Law and Citizenship|vouching]], the unvouched will *buy* a voucher — and a market exists in dubious character-witnesses (the one thing that *can't* be faked is a Long-Lived's memory, which is exactly why their honest vouch is priceless and their corrupt one catastrophic). No lived face — do not give this trade to the Slide.
+- **Off-book contracts.** The [[Bound]]'s whole domain has an underside: contracts sworn outside the honest tables, unregistered terms, and the predatory brokers who arrange them — the pipeline that feeds the Given-Over. Lived face: [[The Holding Desk]] (not the Slide).
+- **Sold vouching.** Since citizenship runs on [[Law and Citizenship|vouching]], the unvouched will *buy* a voucher — and a market exists in dubious character-witnesses (the one thing that *can't* be faked is a Long-Lived's memory, which is exactly why their honest vouch is priceless and their corrupt one catastrophic). Lived face: [[The Standing Trade]] (not the Slide).
 
 ## How polities vary
 
@@ -126,8 +126,8 @@ The grammar is universal; the *distribution* is political — and varies the way
 - [[The Premise]] — world scale & register (late-medieval; Condition-labor advances) · [[Law and Citizenship]] — the legal grammar this rests on
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Two-Bodied]] · [[The Answered]] · [[The Taken-In]] · [[Far-Voiced]] · [[Returned]] · [[The Stilled]] · [[Bound]] · [[The Unbound]]
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its economic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
-- [[The Slide]] — lived face of illicit Tithe-supply (Story 5.2) · [[Rogue House Options]] — menu closed
-- [[Tithe-Infrastructure]] — official furnishing (Story 5.3) · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]]
+- [[The Slide]] — illicit Tithe-supply · [[The Holding Desk]] — Given-Over pipeline · [[The Standing Trade]] — sold vouching
+- [[Tithe-Infrastructure]] — official furnishing · [[The Greens-Keepers]] · [[The Hall-Keepers]] — jurisdictions · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]]
 - [[The Ages of the Turning]] — road-houses → banks · [[The Walking Years]] — the inn in the act · [[The Years of Hands]] — road-past as credit
 - [[The White Note House]] · [[The Third Hearth]]
 - [[Roadmap]] (Epic 2, Story 2.2; Epic 6 complete) · [[03 - Cultures]]
@@ -139,4 +139,4 @@ The grammar is universal; the *distribution* is political — and varies the way
 - **The single sharpest economic lever for play:** whoever furnishes a provided-for Tithe holds power over its bearer. A PC Taken-In whose only green is the guild's; a Long-Lived whose patron rations the novelty they need to not fade; a Bound whose counterparty is their employer. This is coercion with a friendly face — the ~5%-scary edge in economic form.
 - **The reach-edge (core vs frontier distribution) has a GM-side *cause*.** The thinning at the margins reads in-world as plain distance-and-biology; the real reason — [[Is the Leaf-Mother Real|her reach is bounded]] — stays GM-side. Don't let a player-facing note assert the cause.
 - **Naming is done (2026-08-21).** In-world names for every institution term here live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility. Remaining deep-language work is [[Roadmap|Epic 4]].
-- **Hooks.** A Tithe-supply monopoly to break; a deathless house calling in a century-old debt; an endowment with strings; a smuggling ring in green or novelty; a frontier town with no net when its Struck can't cope; the Watchful crown's Tithe-channels as a control system to escape or sabotage. Lived official faces: [[Tithe-Infrastructure]] and the houses under it. Lived illicit face: [[The Slide]]. Feed leftover settlement texture to [[Roadmap|Epic 7]].
+- **Hooks.** A Tithe-supply monopoly to break; a deathless house calling in a century-old debt; an endowment with strings; a smuggling ring in green or novelty; a frontier town with no net when its Struck can't cope; the Watchful crown's Tithe-channels as a control system to escape or sabotage. Lived official faces: [[Tithe-Infrastructure]]. Lived illicit faces: [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]].

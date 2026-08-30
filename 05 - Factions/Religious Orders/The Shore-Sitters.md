@@ -12,7 +12,7 @@ seat: none — a stretch of storm-beach; one person, a lamp that does not face t
 public_face: the ones who sit the storm-wall and wait — they do not swim out; they take in what the wall does not keep
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Shore-Sitters
@@ -24,6 +24,16 @@ updated: 2026-08-23
 *(Everyday: **shore-sitters**, also **wall-waiters.** Own-name, 🟡: **Njawaal** — njah-WAHL — a [[Yumboe]] coinage, "the sitting at the wall." Not Maiethren. Table-keepers call them **the first night**, half a joke: a wreck is not yet kin.)*
 
 **In one sentence:** they sit the storm-shore with their back to the hill-hall and wait — they do not swim the wall, they do not test anyone with a colour, and if someone is still breathing they walk them uphill to a table.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | The living walked uphill. The wall not tested. |
+| **Have** | A stretch of beach, a hooded lamp, one person. |
+| **Fear** | A ship that takes the lamp as a harbour. A mainlander who wants a Tree. |
+| **Live conflict** | Staying-name the drowned, or carry them unnamed. Same beach. |
+| **Hooks** | A wreck still breathing; a body above the tide; a guest who asks for a colour. |
 
 ## If you meet one
 

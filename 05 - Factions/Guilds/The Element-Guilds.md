@@ -12,7 +12,7 @@ seat: none — four craft-houses; a town may have one yard or four doors on one 
 public_face: the craft guilds that channel the Answered — Ember, Tide, Root, Gale — so the element is used in earnest and does not let go in a crowded room
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Element-Guilds
@@ -24,6 +24,16 @@ updated: 2026-08-23
 *(Everyday: **the element-guilds**, or the **Ember-house**, **Tide-house**, **Root-house**, **Gale-house.** Umbrella, 🟡: **the Crae** — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. [[Polity Archetypes|Vaethorn]]'s second word is **gift-shops**; [[Polity Archetypes|Lestrand]]'s is **the craft-houses**; [[Polity Archetypes|Threnmaieth]] files **the Reckoned Craes**.)*
 
 **In one sentence:** the shop *is* the Tithe — leaving it is not a career change; it is a hazard with your name on it.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | An element used in earnest. A shop that does not let go in a crowded room. |
+| **Have** | Four doors, one ticket-logic, a shared Intake shed. |
+| **Fear** | An idle Answered. A raw Reach on the wrong door. A shop a person cannot leave. |
+| **Live conflict** | Ember-fees are not Tide's. A master pulled to the shed is a hull that waits. |
+| **Hooks** | A child after lamp-amber; a hull that wants Tide; a shop-you-cannot-leave; Intake at the wrong door. |
 
 ## Shape of the house (at a glance)
 

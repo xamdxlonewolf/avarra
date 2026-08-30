@@ -70,9 +70,9 @@ The mechanical Tithe is light — a Phoenix pays **nothing day to day** (no hung
 
 Two engines, run them together: (1) the **count** — let everyone watch the Hope slots go, and make each rising cost something the *player* feels (the face of someone they loved, the reason they started adventuring), not just a mechanical slot; (2) the **fishbowl** — the Phoenix is never anonymous, so seed every town with those who revere, worship, hunt, and hate them, often the same crowd. **Never force a Rise** on a PC — it's always the player's death-move choice alongside the standard three; a Phoenix may choose Blaze of Glory and end if the story earns it. Fire immunity stays full (a Phoenix *is* fire; that call is closed). The rest of the package pays: Evasion is once per rest, and Rise is a new body, not a full reset. As a legendary NPC, a Phoenix's rebirths make superb era-markers and long-campaign mysteries (the same soul, met three times, remembering the party less each time).
 
-**One Gift.** There is never a second living Phoenix Condition while this one can still Rise. If play needs an apparent two, the leftover is not a Phoenix. See [[When the Fire Is Caught]]. Do not build that faction here.
+**One Gift.** There is never a second living Phoenix Condition while this one can still Rise. If play needs an apparent two, the leftover is not a Phoenix. See [[When the Fire Is Caught]]. The house that catches the fire is [[The Protectors]].
 
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
 - Contrast: [[Long-Lived]] (deathless and ageless vs. dies-and-returns-finitely) · [[Returned]] (refuses to stay down, one Purpose, no memory cost vs. true death + rebirth + memory cost) · both are the setting's other answers to "cheating death" — the Phoenix is the one that still, eventually, loses.
-- GM: [[When the Fire Is Caught]]
+- GM: [[When the Fire Is Caught]] · [[The Protectors]]

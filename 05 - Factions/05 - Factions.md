@@ -15,6 +15,15 @@ Governments, organizations, guilds, religious orders, militaries, and criminal p
 
 Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]]. See [[Roadmap#Epic 5 — Factions & Orders]].
 
+## Live fights (can leave the table)
+
+| Fight | Who | What escalates |
+|---|---|---|
+| The Before, opposite edges | [[The Watchers]] · [[The Door-Keepers]] | A meal refused; a Night Watch in Vaelun's guest-grove; a Road-hand in the middle |
+| Upstairs / downstairs | [[The Book-Hands]] · [[The Holding Desk]] | A civic year closed and a covering Term opened, same Bound, same week |
+| Enough / not-falling | [[Tithe-Infrastructure]] · [[The Slide]] | A counted hall late on purpose; a wilt two streets off the lot |
+| One breath / two | [[Maiethlir\|Rithim]] · [[The Reckoned Offices\|Tarvae]] | A colour Spoken and not copied while the registrar waits in the square |
+
 ## Contents
 
 ### Governments (Story 7.1 — named stubs; do not rebuild)
@@ -25,6 +34,8 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 - [[Maiethorn]]: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] *(plus Threnmaieth)*
 - [[Strandoren]]: [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] *(plus Lestrand)*
 - [[Heskoren]]: [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] *(plus Vaethorn)*
+- [[The Reckoned Offices]] — Threnmaieth's named mouths (registrar, Reckoned Speaker, channel-clerk, warrant-hand)
+- [[The Walled Book]] — Kept-class remnant; the Inner Close inside Orenbren; not a sixteenth flag
 
 ### Religious orders (Epic 5)
 
@@ -37,41 +48,54 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 | [[The Door-Keepers]] | Walk the old doors; speak at ancestor-meals; name a Struck *kin* at the door that made them | Someone who needs the drowning-pool found; a Struck the town will not house |
 | [[The Table-Keepers]] | Open the hill-hall; lay the extra place; second night makes kin | The valley on a bright night; a rare Yumboe attic |
 | [[The Shore-Sitters]] | Sit the storm-beach; wait; walk the living uphill | A wreck; a year of empty sand |
+| [[The Pourers]] | Five-year pours into a cup they say they made | A Long-Lived whose funerals have stacked; a withdrawer the long-house will not seat |
 
-- [[The Tree-Wardens]] — Story 5.1 ✅ (everyday *tree-wardens*; liturgical *Orenhael* 🟡).
-- [[The Remainder]] — Story R.5 (everyday *the Remainder* / remainder-clerks). A desk of the First Seat, not a thirteenth house. They keep [[The Spent Leaf]]. Not the unused Quiet Cut.
-- [[The Watchers]] — Story 5.2 (everyday *Watchers*; liturgical *Nethoren* 🟡). No seat. Day jobs; the house is a practice.
-- [[The Book-Hands]] — Story 5.2 (everyday *Book-hands*; liturgical *Leddhael* 🟡). No seat, many tables. Do **not** rewrite Bound Terms.
-- [[The Door-Keepers]] — Story 5.2 (everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡). The land is the seat.
-- [[The Table-Keepers]] — Story 5.2 (everyday *table-keepers*; own-name *Njaalo* 🟡). Kept.
-- [[The Shore-Sitters]] — Story 5.2 isle flavor (everyday *shore-sitters*; own-name *Njawaal* 🟡). The sand, not the hall.
+- [[The Tree-Wardens]] — everyday *tree-wardens*; liturgical *Orenhael* 🟡.
+- [[The Remainder]] — everyday *the Remainder* / remainder-clerks. A desk of the First Seat. They keep [[The Spent Leaf]].
+- [[The Watchers]] — everyday *Watchers*; liturgical *Nethoren* 🟡.
+- [[The Book-Hands]] — everyday *Book-hands*; liturgical *Leddhael* 🟡. Do **not** rewrite Bound Terms.
+- [[The Door-Keepers]] — everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡.
+- [[The Table-Keepers]] — everyday *table-keepers*; own-name *Njaalo* 🟡.
+- [[The Shore-Sitters]] — isle flavor; own-name *Njawaal* 🟡.
+- [[The Pourers]] — everyday *the Pourers* / *the Cup Circle*. Wear [[The Unspent]]. Not a sixth faith.
 
-### Shadow house (Story 5.2)
-
-| House | The job, in one line | Who sends for them |
-|---|---|---|
-| [[The Slide]] | Rent *not falling* — one week of green, outlet, or novelty; never quite let you recover | Someone whose Tithe-queue is longer than their edge |
-
-- [[The Slide]] — picked (everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡). Not clergy. Official guilds pretend not to know them.
-- [[Rogue House Options]] — menu closed. Bought Watch / Quiet Cut unused. Back Table retired.
-
-### Tithe-infrastructure & safety-guilds (Story 5.3)
+### Shadow houses
 
 | House | The job, in one line | Who sends for them |
 |---|---|---|
-| [[Tithe-Infrastructure]] | Official furnishing = *enough* and a gate; long-houses stay deathless patronage | A GM mapping the sector |
+| [[The Slide]] | Rent *not falling* — one week of green, outlet, or novelty | Someone whose Tithe-queue is longer than their edge |
+| [[The Holding Desk]] | Refinance a Bound's Terms after the honest year closes | A Bound who cannot pay the Pledge; a creditor who wants a walkable instrument |
+| [[The Standing Trade]] | Sell a mouth that will say *I was there* | An unvouched traveller; a name that must cross a warrant-line |
+| [[The Protectors]] | Keep the one Phoenix in care (public); harvest the fire (GM) | A square that wants the one; a white-fire letter; a hush |
+
+- [[The Slide]] — everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡. Official guilds no longer pretend not to know them when the doors meet.
+- [[The Holding Desk]] — everyday *hold-clerks*. Not the Slide. Not the unused Back Table.
+- [[The Standing Trade]] — everyday *the Standing Trade*. Not the Slide. Not a reopening of the unused Bought Watch pick.
+- [[The Protectors]] — everyday *the Protectors* / *the Care*. Public hospice. Harvest stays behind the wall.
+- [[Rogue House Options]] — menu closed. Bought Watch / Quiet Cut unused *as Slide jobs*.
+
+### Tithe-infrastructure & safety-guilds
+
+| House | The job, in one line | Who sends for them |
+|---|---|---|
+| [[Tithe-Infrastructure]] | Official furnishing = *enough* and a gate; lots and halls are doors, not colleges | A GM mapping the sector; a wilt or a Cry the official door caused |
 | [[The Greens-Keepers]] | Keep the lot so Taken-In do not go to seed; will not follow you home | A Taken-In in a stone town; a Book-hand whose term assumes a share |
-| [[The Hall-Keepers]] | Keep the hour; train a Given voice; stamp the Voice-ticket | A Far-Voiced who needs an outlet; a child after sea-blue |
+| [[The Hall-Keepers]] | Keep the hour; stamp the Voice-ticket | A Far-Voiced who needs an outlet; a child after sea-blue |
 | [[The Stillers]] | Stamp the strictest ticket; theatre and yard on one Grey-clock | A pale-stone child; a street about to become a massacre |
 | [[The Element-Guilds]] | Four craft-doors so an Answered's element is used in earnest | A lamp-amber child; a hull that wants Tide |
 | [[The Intake]] | Catch a raw Struck before the rope; success is silence | A runner; a family; a square that already has a rope |
 
-- [[Tithe-Infrastructure]] — sector hub. Do not clone the Slide or the Road-hands.
-- [[The Greens-Keepers]] — everyday *greens-keepers*; liturgical *Saelhael* 🟡.
-- [[The Hall-Keepers]] — everyday *hall-keepers*; liturgical *Aeloren* 🟡. One lintel (outlet + Voice-ticket).
-- [[The Stillers]] — everyday *stillers*; liturgical *Stelhael* 🟡. The model licence-guild.
-- [[The Element-Guilds]] — everyday *element-guilds*; umbrella *the Crae* 🟡. Four doors, not four orders.
-- [[The Intake]] — everyday *the Intake* / *the shed*; cant *catching-year* 🟡. Desk underdog, not a circuit.
+- [[Tithe-Infrastructure]] — sector hub. Greens and halls are jurisdictions of this note.
+- [[The Greens-Keepers]] · [[The Hall-Keepers]] — doors, not colleges.
+- [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] — ticket-yards and the shed.
+
+### Three opposition engines (keep distinct)
+
+| Engine | House | Mechanism |
+|---|---|---|
+| Religious self-consumption | [[The Pourers]] | Volunteered years into a god they believe they created |
+| Political classification | [[The Walled Book]] | The Book of Tithes; a Given heir loses the Closed name |
+| Worship used to hide extraction | [[The Protectors]] | Sanctuary, controlled deaths, harvested fire, a hush |
 
 ## Related
-- [[Roadmap]] · [[Powers of the Turning]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]] 
+- [[Roadmap]] · [[Powers of the Turning]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]]

@@ -12,7 +12,7 @@ seat: none — guild-rooms and quay-shrines; a "high house" is just the oldest b
 public_face: notaries who are also theologians — they witness signings, teach children how to keep a book, and settle a Struck's *civic* year; they do not rewrite a Bound's Terms
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Book-Hands
@@ -24,6 +24,16 @@ updated: 2026-08-23
 *(Everyday: **Book-hands**, or **Settlers.** Liturgical, 🟡: **the Leddhael** — LED-hayl — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* [[Polity Archetypes|Vaethorn]]'s second word is **Bargainers' clerks**; [[Polity Archetypes|Lestrand]]'s is **the Settling-hands** (ordinary, like saying *notary*); [[Polity Archetypes|Threnmaieth]] files them with the house as **the Uncounted Book** — private books offend the crown.)*
 
 **In one sentence:** they are notaries — hull in the morning, a child's private book at Turning-Week — and the person who will help a Struck find a *payable year* (a hall, a warrant). They will recite a Bound's Terms on oath-day. They will not change those Terms.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | A year that will close. A stamp that is fair enough that a person can walk. |
+| **Have** | Tables, a civic-settling desk, the right to recite Terms and the refusal to rewrite them. |
+| **Fear** | A Bound who walks downstairs. A private book the crown subpoenas. A Struck who cannot stamp a fee. |
+| **Live conflict** | The civic year closes upstairs. [[The Holding Desk]] opens a covering Term downstairs. Same Bound. Same week. |
+| **Hooks** | An *owing* that walks down the stair; a seventh-day term on a full hall-slate; a Bound the clerk will not help and will not follow — unless this summer they do. |
 
 ## Shape of the order (at a glance)
 
@@ -131,6 +141,7 @@ Struck Book-hands must still be **vouched anew**. Civic settling is how the hous
 | [[The Watchers]] | Rarely share a square. "What falls, was seen" sounds, to a Settler, like a clause with no number. | A Bound who wants a second reading of an oath-day and a Watcher who will not call it a signing. |
 | [[The Old Ways]] | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first — kin, or payable year. Play as two courtesies, not a trial. |
 | [[The Open Table]] | A Settler who sits a moon-feast twice has been called kin in a language with no book. | Do not turn "no one is a stranger twice" into a term. That is this house leaking onto the isle. There is no Leddoren mission on [[The Sundering Isle\|Kumbaan]]. |
+| [[The Holding Desk]] | Upstairs / downstairs. A Settler who marked *owing* has made a customer. | **Unlock.** Follow them down. The honest stamp and the hold do not share a docket. A personhood case can start in this stair. |
 
 ## How they live in the three corners
 
@@ -144,7 +155,7 @@ Grace is a closed book. That is the house's kindness, and its cruelty.
 
 Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. A settled Mother-name would not make the fading kind, and would not convert a Bound's clause into a clerk's draft. The Fair Hand reads a cost as a price; the Leddhael are that reading *at a desk*, helping — except where the desk has no right to write.
 
-Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That is the R2 of honesty. The shadow economy still exists ([[Economy and the Tithe]]); the lived face of illicit Tithe-supply is [[The Slide]]. They do not stamp, and they do not rewrite Terms.
+Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That cellar has a face now: [[The Holding Desk]]. The R2 of honesty is still the refusal to rewrite. The refusal is no longer a reason the clerk cannot follow. The lived face of illicit Tithe-supply remains [[The Slide]]. Sold vouching is [[The Standing Trade]]. They do not stamp those books either.
 
 This is not a hunt and not a queue. The Road-hands already walk the scion they were given leave to plant. Book-hands do not need a travelling underdog.
 

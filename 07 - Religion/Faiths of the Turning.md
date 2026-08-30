@@ -30,7 +30,7 @@ updated: 2026-08-30
 
 The three mainland rivals were planted in [[The World Frame]] so the friction sits *inside* the settled world. [[The Open Table]] is the isolate: grown with no Tree and no Mother-name, the control case.
 
-Smaller household rites, quay-charms, and Kind-customs ([[Kitsune]], [[Selkie]], [[Tengu]] especially) exist and stay local — they are not load-bearing. Kind-hearths and hearth-registers: [[Kinds of the Turning]] · [[Naming People in the Turning]]. Clergy: [[The Tree-Wardens]] (Motherfaith) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] (isle flavor).
+Smaller household rites, quay-charms, and Kind-customs ([[Kitsune]], [[Selkie]], [[Tengu]] especially) exist and stay local — they are not load-bearing. Kind-hearths and hearth-registers: [[Kinds of the Turning]] · [[Naming People in the Turning]]. Clergy: [[The Tree-Wardens]] (Motherfaith) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] (isle flavor). A Long-Lived fringe, not a sixth faith: [[The Pourers]] wearing [[The Unspent|the Poured God]].
 
 ## The argument (what a becoming *is*)
 
@@ -79,6 +79,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - The shared story: [[The Child at Four Doors]]
 - Placed on: [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] · [[The Wrong Green]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM)
+- [[The Unspent]] · [[The Pourers]] — fringe, not a sixth
 - [[Roadmap]] (Story 1.4) · [[07 - Religion]]
 
 ## GM Notes

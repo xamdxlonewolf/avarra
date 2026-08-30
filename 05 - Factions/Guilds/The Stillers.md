@@ -12,7 +12,7 @@ seat: the guild-yard beside the infirmary — a town has one if it has stillers;
 public_face: the surgeon's college that also stands a riot-line — they stamp the strictest ticket in the world because the same gaze that stops a wound can hold a person forever
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Stillers
@@ -24,6 +24,16 @@ updated: 2026-08-23
 *(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical, 🟡: **the Stelhael** — stel-HAYL — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* [[Polity Archetypes|Vaethorn]]'s second word is **blessing-surgeons**; [[Polity Archetypes|Lestrand]]'s is **ticket-surgeons**; [[Polity Archetypes|Threnmaieth]] files them as **crown-stillers**.)*
 
 **In one sentence:** they will save you on the table, and they will make you drill until the Grey is gone — the ticket is competence, and the clock in the surgeon is the hospital's clock.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | A Gaze that holds a wound and not a person forever. A quiet infirmary. |
+| **Have** | The strictest ticket, a yard beside the theatre, a Grey-clock. |
+| **Fear** | A raw Stilled in the square and no Intake for three days. A ticket held as guild-property. |
+| **Live conflict** | The paying theatre wants the master. The shed has a stone person. The charter wants no headlines. |
+| **Hooks** | A riot-line and a surgery in the same hour; a Grey that will not burn off; a crown-stiller who will not release a bed. |
 
 ## Shape of the house (at a glance)
 
@@ -98,7 +108,7 @@ Skeptics are welcome. The Gaze does not require a Mother. Believers in Vaethorn 
 |---|---|---|
 | [[The Hall-Keepers]] · [[The Element-Guilds]] | Sister tickets. Shared Intake. | A Cry is not a Gaze. Do not send a throat to the yard to be stilled quiet. |
 | [[The Greens-Keepers]] | A Taken-In stiller still needs dirt. | The infirmary is not a lot. |
-| [[The Slide]] | Almost no contact. A stiller who needs green or novelty is a person, not a week. | Do not let a ticket become a week-rent. |
+| [[The Slide]] | A stiller who needs green or novelty is a person, not a week. Contact happens when the infirmary closes a bed. | A ticket that becomes a week-rent has left the yard. Let the doors meet; do not merge them. |
 | [[The Tree-Wardens]] | Pale stone is pointed here. | The warden Speaks. The guild trains. |
 | [[The Book-Hands]] | A settling may assume an infirmary. | A frontier with no stiller is an *owing*, not a miracle. |
 | [[The Watchers]] | A second reading may say *pale stone, not storm-grey.* | Description is not a stamp. |

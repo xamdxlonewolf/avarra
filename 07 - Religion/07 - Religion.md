@@ -25,6 +25,7 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[Turning Tree]] — the sacred object & the Leaf-Fall rite; one Awakening Tree, town Trees are living grafts of it; colour→Condition palette; warden questions (miss, refuse, orphan, once-only)
 - [[The Wrong Green]] — cited mis-Speaking (Harrow's, C.Y. 248); the rite's restrained shadow
 - [[The Unspent]] — the Poured God / Cup We Made; a Long-Lived fringe presence, not a Tree-faith
+- [[The Pourers]] — the circle that wears the cup (lives in `05 - Factions`)
 
 ### The other faiths (Story 1.4) and their houses (Story 5.2)
 - [[The Watching]] — Maiethorn heartland heresy (*Haelthael*); the Tree as witness, not Mother · clergy: [[The Watchers]]
