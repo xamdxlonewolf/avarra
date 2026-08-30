@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: dry-country Tree-seats that still walk west after the core stopped
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Saelthael
@@ -29,7 +29,9 @@ updated: 2026-08-24
 
 **Site.** Maiethorn's dry east. Leftover: **Rain-Shadow walk-hold**. West-road after the core stopped. Proves Ornthael is unfinished even at the origin-continent. Fleshed square: [[Ornsael]] (the sown-ground, a well-town still walking west).
 
-**How it formed.** Tree-seats that formed around wells and slow grafts (C.Y. 0–80 was slower here — dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow.
+**How it formed.** Tree-seats that formed around wells and slow grafts (C.Y. 0–80 was slower here — dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow. [[The Thaw-Break]] cut the west-road two summers; children went later, or missed. The Given-door did not loosen.
+
+**What they remember.** The core calls waiting soil. [[The Dry Stair]] is the local dare that is *not* a Tree — they climb it so they know the difference, then they walk west. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -50,5 +52,6 @@ Keep grafts alive in thin soil. Keep the west-road open. Refuse the core's story
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[Kinds of the Turning]] · [[Kitsune]]
-- [[Saelvaeth]] · [[Ornsael]] · [[Settlement Seeds]] · [[The Years of Hands]] · [[The First Cut]]
-- [[Roadmap]] (Story 7.2)
+- [[Saelvaeth]] · [[Ornsael]] · [[The Dry Stair]] · [[The Thaw-Break]] · [[The Other Count]]
+- [[Settlement Seeds]] · [[The Years of Hands]] · [[The First Cut]]
+- [[Roadmap]] (Story 7.2; history R.9)

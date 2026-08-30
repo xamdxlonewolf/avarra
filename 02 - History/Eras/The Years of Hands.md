@@ -36,6 +36,8 @@ The pilgrimage **did not vanish.** It changed jobs. Institutions that survive by
 
 Do not narrate Ornthael as "the modern age after the Grafting." Two clocks. The wave is live. A child on the Long Mile this summer is not doing history.
 
+387 summers also held a war, a split of paper, a fever, a flood, and a hush. Those years sit beside the clocks in [[The Other Count]]. They do not replace them.
+
 ## The walk's three jobs (it changed work, it did not vanish)
 
 In Brenvaeth the walk was *how you Turned.* In Ornthael it is three jobs that share roads, inns, and the one-week door, and do not share a reason. Stance-variants live in [[Naming in the Turning]]. 🟡
@@ -109,7 +111,7 @@ Many [[Economy and the Tithe|deathless houses]] began as **road-houses**. That f
 
 **Two fates of the same origin, still standing.**
 
-- **[[The White Note House]]** — the reformation. Beds let to merchants. Paper on the quay. The 200th summer of the White Note is already a clerk's problem. The Held names are in the founding-book. Most of those beds are let. One is not, which is how a bank proves it used to be an inn.
+- **[[The White Note House]]** — the reformation. Beds let to merchants. Paper on the quay. Ledan's **200th-summer** query (C.Y. 280) is already a clerk's problem; the house is now in its **307th**. The Held names are in the founding-book. Most of those beds are let. One is not, which is how a bank proves it used to be an inn.
 - **[[The Third Hearth]]** — the house that stayed a hearth. Thilim still keeps it, still makes Seine's bed, still knows which mouths will be here at dark. The notes are smaller. The shrine is larger. Lestrand calls this a bed-house that failed to become a bank. Thilim does not call it a failure.
 
 Do not invent a second banking-order. Do not give novelty a new clergy. The long-house of books is still the deathless paying their own Tithe. The road-past is why anyone trusted them to endow in the first place: a mouth that remembered every debtor on the mile is a mouth you let steer a library.
@@ -224,7 +226,7 @@ Named powers wait on remaining stubs; districts of the three archetype seats wai
 - **Hooks.** A stone a Hands-town wants down while a cousin is still walking; Mataero's north bed and a founding-name; Thilim still alive, still making Seine's; a First-Hand year and a neighbour's week in the same loft; a Road-hand and a tenth-year passing; Harrow's green getting the scion the hamlets can see; a folk-right slip that took; a sick Tree in an old-Hands square that puts the town back on the road; a century-debt whose grandchildren do not remember the ford; Ledan's conversion still unanswered; a Phoenix someone wants to use as a year-zero.
 
 ## Links
-- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Other Count]] · [[The Closing]] · [[The Branch That Came Away]] · [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
 - [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The White Note House]] · [[Ornsael]]
 - [[Orentel]] · [[Netstrand]] · [[Orenbren]] — prestige-walk desks
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]

@@ -12,7 +12,7 @@ preceded_by:
 followed_by: "[[The Walking Years]]"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Before the Walk
@@ -41,7 +41,9 @@ What can be said without inventing kings:
 
 None dated. That is the point.
 
-A later chronicle that "discovers" a first king, a first war, or a first sermon in this era is doing the overlay [[The Watching]] warned about. Put named figures in [[Roadmap|Epic 8]], and only if they can survive a Watcher asking *seen by whom?*
+A later chronicle that "discovers" a first king, a first war, or a first sermon in this era is doing the overlay [[The Watching]] warned about. Put named figures in the Hands and the Other Count, and only if they can survive a Watcher asking *seen by whom?*
+
+**Physical leftovers (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play. They do not start a year. Do not date the Tree from them.
 
 ## GM Notes
 
@@ -50,4 +52,6 @@ A later chronicle that "discovers" a first king, a first war, or a first sermon 
 - **Nature of the limit:** a wound-in-the-deep-past is *one* available cause among several. Story 6.1 does not pick it. If a later epic wants "she is spent from something Before," that is a taste call, not a smuggled fact.
 
 ## Links
-- [[The Ages of the Turning]] · [[The Walking Years]] · [[The Watching]] · [[The Old Ways]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] · [[02 - History]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The Watching]] · [[The Old Ways]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]]
+- Leftovers (uncounted): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] · [[The Other Count]]
+- [[02 - History]]

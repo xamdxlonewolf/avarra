@@ -61,6 +61,8 @@ A broad, thinly-peopled land at the world's Tree-poor margin, where the faith bu
 
 **The seat.** [[Eolvaeth]] *(ay-ohl-VAYTH)* — a pilgrim-edge vale behind the Strandoren-facing coast. People walk *here to wait*. The Tree is not a certainty. Not [[Harrow's Green]], not the three hamlets, not [[Saelvaeth]]'s march.
 
+**What they remember.** The wave arrived late ([[The First Cut]]). [[The Hinge Hush]] says they may bless a Heskoren landing and may not levy it as a gospel-due. [[Ornled]] has no hymn; [[Saelvaeth]] may take a pot without their waiting-price. The guilt-theology wants both unworthy. History does not agree. Chronicle: [[The Other Count]].
+
 ---
 
 ## Lestrand — the Ledger Coast
@@ -78,6 +80,8 @@ A dense, Tree-rich merchant power — think the Bruges/Florence surface of the [
 **Its injustice** *(the market blend).* The coolest of the three. Nothing is *policed* — your marriage, your gift, your faith are your own — but everything is *priced*, and a person who cannot pay slides with a whole rich city stepping around them. The Coast will never file you or conscript you. It will simply let you fade if you run out of coin, and feel that it owed you nothing.
 
 **The seat.** [[Orentel]] *(or-EN-tel)* — a salt-quay city on the inner sea. [[The White Note House]] sits on the third quay, north side, and is not the crown.
+
+**What they remember.** Salt-Walk paper that outlived the Closed Seat's gate. Notes that outlived [[The Grey Summer]]. [[The Hinge Hush]] (Sirtol among other throats) is the rate the first quay still charges. [[Brenledd]] piled a compact rather than be priced one hearth at a time. The White Note is a mouth, not this polity. Chronicle: [[The Other Count]].
 
 ---
 
@@ -97,6 +101,8 @@ The mix the three grammars each name as the scariest: **a pious, Tree-rich core 
 
 **The seat.** [[Maiethlir]] *(my-eth-LEER)* — a thaw-river Hand in the Sacred Core. The extra mile is the leftover; the [[Naming in the Turning|Threnhael]] is the layer. Does not own [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood beside.
 
+**What they remember.** [[The Two Papers]] (C.Y. 67): Limrae's desk, the year the reckoning stood. Crown-count starts there; present **Crown-year 320**. [[Maiethvael]] is the cousin who would not be named. The [[The Walled Book|Inner Close]] is the other list — rank, not care — and will not share ink. Chronicle: [[The Other Count]].
+
 ---
 
 ## Reading the set: what the three prove
@@ -113,6 +119,7 @@ The mix the three grammars each name as the scariest: **a pious, Tree-rich core 
 - [[Conditions]] — the roster every polity inherits · [[Long-Lived]] · [[Bound]] · [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]] · [[Two-Bodied]]
 - [[Roadmap]] (Epic 2 tail) · [[03 - Cultures]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — the three seats (Story 7.3)
+- [[The Other Count]] · [[The Two Papers]] · [[The Hinge Hush]] — inherited years (Story R.9)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*

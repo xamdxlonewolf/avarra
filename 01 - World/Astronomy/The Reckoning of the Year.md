@@ -10,7 +10,7 @@ aliases: [The Calendar, The Turning Year, Turning-Week, The Solstice Reckoning, 
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The Reckoning of the Year
@@ -79,7 +79,8 @@ A mainlander will try to line *Saalo* up with Seed-month and be cheerfully, cons
 Months name a season. **Years have no universal number.** Same lever as the three new-year's days, turned toward history: the count you write on a debt is a theology. Full spine: [[The Ages of the Turning]].
 
 - **[[The Tree-Wardens|First Seat]] / devout clerks** count **Cut-years** from [[The First Cut]] (liturg. the *Eoloren-count*). Present 🔒: **Cut-year 387**.
-- **[[Polity Archetypes|Lestrand]] and the [[Economy and the Tithe|deathless houses]]** count from a house-founding or a note-issue ("the 200th summer of the White Note").
+- **[[Polity Archetypes|Lestrand]] and the [[Economy and the Tithe|deathless houses]]** count from a house-founding or a note-issue ("the 307th summer of the White Note" in the present; the famous conversion-problem is the archival **200th**, Ledan's query of C.Y. 280 — [[The Ages of the Turning]]).
+- **[[Polity Archetypes|Threnmaieth]]** writes Cut-years *and* a crown-count from [[The Two Papers]] (C.Y. 67; present **Crown-year 320**).
 - **[[Polity Archetypes|Vaethorn]]** counts from **the year our graft took** — the same local-fall logic as their new-year.
 - **[[The Watching]]** refuse the Cut-count. **[[The Sundering Isle|Kumbaan]]** keeps moons and owes the ages nothing.
 

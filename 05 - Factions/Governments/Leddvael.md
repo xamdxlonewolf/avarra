@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: the stretch of water that made the Fair Hand a civic rite
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Leddvael
@@ -27,7 +27,9 @@ A signing-coast on [[Strandoren]] that took [[The Fair Hand]] from a dockside th
 
 **Site.** A different stretch of indented coast than Lestrand — enough water to have its own houses. Leftover: **salt quay with a signing-watch**. Empty Eolthael berths; holds that smell of earth; Fair Hand clerks in the same wind as Motherfaith tree-tenders.
 
-**How it formed.** Fortune-and-contract practice thickening until a charter-coast found it cheaper to *establish* the Settling than to argue hymns per dock. Not a prophet-kingdom. A habit that got a seal.
+**How it formed.** Fortune-and-contract practice thickening until a charter-coast found it cheaper to *establish* the Settling than to argue hymns per dock. After [[The Grey Summer]] the witnesses had died and a Bound's word still closed; the civic rite is that year made a seal. Not a prophet-kingdom. A habit that got a statute.
+
+**What they remember.** A Given child is a term opened. The Bound are the shape of honesty in a year honesty was a cough. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -49,4 +51,5 @@ Keep signings clear. Vouch the Struck briskly as a later contract. Treat Motherf
 ## Links
 - [[Powers of the Turning]] · [[Strandoren]] · [[The Fair Hand]] · [[The Book-Hands]]
 - [[Bound]] · [[Polity Archetypes]] · [[Faiths of the Turning]]
-- [[Roadmap]] (Story 7.1)
+- [[The Grey Summer]] · [[The Other Count]]
+- [[Roadmap]] (Story 7.1; history R.9)

@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: the central range — snowmelt, high roads, and a watershed with a toll
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Lirorn
@@ -29,7 +29,9 @@ updated: 2026-08-24
 
 **Site.** The range that divides the continent's watersheds. Leftover: ridge-roads that used to be walking-paths to the grove; stones in high squares; some roads that now end at a local Tree.
 
-**How it formed.** March-holds on the snowmelt. Mid governance because water is a fact you can levy without a census of souls: you tax the thaw, the pass, the high road. Theology cooled by height and distance from the grove's daily pressure, not by doubt.
+**How it formed.** March-holds on the snowmelt. Mid governance because water is a fact you can levy without a census of souls: you tax the thaw, the pass, the high road. Theology cooled by height and distance from the grove's daily pressure, not by doubt. [[The Thaw-Break]] (C.Y. 233) moved the notch: **Narol of the Pass** took the toll when the old stone was under the water-line.
+
+**What they remember.** A water-line over a ribbon. Threnmaieth wants the high road counted. The ridge still pays for water the valley drinks. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -49,4 +51,4 @@ Keep the passes and the spring. Be paid for water the core calls a gift. Stay un
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]]
-- [[Settlement Seeds]] · [[Roadmap]] (Story 7.1)
+- [[The Thaw-Break]] · [[The Other Count]] · [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; history R.9)

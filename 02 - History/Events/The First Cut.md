@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 0 (present = C.Y. 387); spread inside locked bands through C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The First Cut
@@ -25,6 +25,14 @@ updated: 2026-08-24
 Everyone agrees *a first successful town-graft occurred.* It happened within a day's living-earth of Thaeloren — close enough that a cut could still be green when it met new ground. That is horticulture, not theology. No two houses agree whose story the cut is. The spine does not pick a winner.
 
 The first green is not named. Folk who need an object call it **the nameless green**. Naming the town would pick a hearth, and a hearth would pick a hand. Play may someday need a tomb. History does not.
+
+## What the Cut broke (the Closed Seat)
+
+In the Walking Years the origin was not an open grove. A class of the untithed — everyday **the Closed Seat**, folk **the Grove-Sitters** — sat on Thaeloren and decided who might walk to it. Distance was one sorter. **Leave** was another. They were an origin-gate that had grown a country, not a flag on three continents.
+
+A local Tree meant you did not need their lintel. That is the monopoly the Cut broke. It is not a sixth attribution of the knife. The five stories still disagree whose hand; they can agree what the copy *did*. The Closed Seat tried to uproot the copies and could not. The war, the collapse, and the retreat behind the surviving walls are [[The Closing]]. Who cut stays unwritten there too.
+
+Do not let the Closing collapse the five mouths into "the empire's thief" or "the empire's saint." The riders fought a pot. They never learned a face.
 
 A freshly planted scion still takes **a generation** to hold a Leaf-Fall ([[Turning Tree]]). So C.Y. 0 is a wound in wood. The first *local Turning* is about twenty summers later. "A graft arrived" and "this town Turns under its own canopy" are never the same year. The wave is slow because each Hand must grow up before it can be a source.
 
@@ -227,7 +235,8 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - **Keystone:** every scion *is* continuous tissue of the one Tree, so the First Cut really did move a Hand. Player-facing, that is doctrine. The growth of reach with grafts is the quiet argument for a mind; it is not a licence to narrate her standing over the first knife. Skeptics still win the mundane reading (horticulture, ships, soil). Both readings share the same wave.
 - **Nature of the limit stays open.** That she *could* reach further once a Hand stood nearer is already locked as pattern. *Why she could not simply reach without the wood* is still unwritten. Do not smuggle finite-by-nature, wound, or rationing in as the reason the first cut worked. Lock the ache. Do not lock the cause.
 - **Colonial trap.** The devout version ("she meant the wood to travel") is one belief among five. Do not let GM voice agree that the far needed saving. The thing saved, when anything was, was a walk. Heskoren still experiences the wave as *waiting*. The Old Ways experience it as guests arriving late. Lestrand experiences it as cargo. Keep all three.
-- **The gap is load-bearing R2.** C.Y. 160–200 is not empty time and not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. If you fill the gap with a crusade or a miracle-crossing, you launder the list.
+- **The gap is load-bearing R2.** C.Y. 160–200 is not empty time and not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. [[The Grey Summer]] stacked a fourth friction; it did not become the gap. If you fill the years with a crusade or a miracle-crossing, you launder the list.
+- **The Closed Seat is not a sixth attribution.** The Cut broke a monopoly. The Closing is the war. Do not name the cutter to explain either.
 - **Do not date the Tree.** [[Before the Walk]] has no start. Watchers will fight any date that starts the wood at a knife.
 - **Kumbaan is the control.** A wrecked pot in a sailor's story is allowed. A taking is not.
 - **Historical fate-shift (already happened — not a proposal).** Unsanctioned cutting → Cutting-leave and the queue (absorption). Present-day fate-pressure is tabled in [[The Years of Hands]] (noted, not rolled). Do not collapse the Seat or the Road-hands here.
@@ -240,4 +249,5 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Watching]] · [[The Old Ways]] · [[The Fair Hand]] · [[The Open Table]] · [[The Door-Keepers]]
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Old Tongue]] · [[Naming in the Turning]]
-- [[Long-Lived]] · [[The Taken-In]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[02 - History]] · [[Roadmap]] (Story 6.3; residues → 6.4)
+- [[The Closing]] · [[The Walled Book]] · [[The Other Count]] — the monopoly-break and the war, cutter still unpicked
+- [[Long-Lived]] · [[The Taken-In]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[02 - History]] · [[Roadmap]] (Story 6.3; war → R.9)

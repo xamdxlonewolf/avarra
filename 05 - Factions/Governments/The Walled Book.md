@@ -21,7 +21,7 @@ Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. Th
 
 This is **political class rule**, not a church. They do not Speak colours. They do not pour a god. They **classify**.
 
-Folk still say there was an older empire of the untithed, and that it sat on the grove. The walls are what is left. How the empire broke is a later telling. The Book is present tense.
+Folk still say there was an older empire of the untithed, and that it sat on the grove. They are right as far as a gate that grew a country. Everyday historical name: **the Closed Seat.** The walls are what is left. How the sitting broke — the copy, the uprooting, Hildal's Retreat — is [[The Closing]]. The Book is present tense.
 
 ## At the table
 
@@ -92,7 +92,7 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 
 - **Political classification.** Engine two of three. Not religious self-consumption ([[The Pourers]]). Not worship used to hide extraction ([[The Protectors]]). The injustice is the Book, not a hymn.
 - **Not a sixteenth power.** Lives inside Orenbren as a walled town. Placement 🟡 pending the later geography pass (whether a weak shore-flag should carry this remnant instead). Do not promote the Close. Do not capture the First Seat. Do not make this Threnmaieth's inner court — that collapses two lists into one.
-- **Old empire, light seed.** Folk memory: the untithed sat on the grove and decided who could walk to it. The First Cut is already the hinge in the wood. The war, the collapse, the retreat behind these walls — later history. Do not date a battle here. Do not name the cutter.
+- **Old empire, now written.** The Closed Seat sat the grove and decided who could walk. [[The First Cut]] broke the monopoly; [[The Closing]] is the war, the collapse, Hildal's Retreat. Do not name the cutter. Do not promote the Close to a sixteenth flag. Do not make Hildal a villain-king.
 - **Distinct from Threnmaieth.** Sacred census writes everyone as care. The Book ranks the tithed and disinherits the Given heir. A campaign can steal both lists and they will not say the same thing about the same child.
 - **Names.** Delamem, Talnin of the Inner Close — seed `20260830`, conservative list, mid-bottom. Inner Close / Walled Book / Closed Heirs / Book of Tithes are common-tongue. No new liturgy.
 - **R.8 seed, do not plot:** [[Hithaen]] is a disinherited Given heir of the Closed, eating in [[Eolvaeth]]'s gift-hall. The labour-line is already written. Do not make them Talnin.
@@ -102,7 +102,7 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 - [[Orenbren]] — the lodging-power this town sits inside · [[Powers of the Turning]]
 - [[Polity Archetypes|Threnmaieth]] · [[The Reckoned Offices]] — the other list
 - [[Law and Citizenship]] — the Kept as default legal person, here elevated to rule
-- [[The Tree-Wardens]] · [[The First Cut]] — hinge, not the war
+- [[The Tree-Wardens]] · [[The First Cut]] — hinge · [[The Closing]] — the war · [[The Low Wall]] — not these walls
 - [[The Pourers]] · [[The Protectors]] — other engines
 - [[Maiethlir]] · [[The Third Hearth]] · [[Hithaen]] — the mouth that lost the line
 - [[05 - Factions]]

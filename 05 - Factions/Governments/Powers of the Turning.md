@@ -75,6 +75,30 @@ The three corners [[Polity Archetypes]] left un-built are now on the map: **Maie
 
 **[[Heskoren]]** — [[Polity Archetypes|Vaethorn]] is the waiting-gospel; its seat is [[Eolvaeth]] (pilgrim-edge, not Saelvaeth's march). [[Saelvaeth]] is the live edge of the wave ([[Harrow's Green]] sits in its orbit, not as a capital; fleshed Story 7.2). [[Vaelhesk]] keeps host-rights on old greens. [[Ornled]] is Vaethorn with the faith burned out instead of up — same thin Trees, no congregation to catch you. [[The Three Hamlets Past the Ford]] sit on the seam: they can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them).
 
+## What they remember (the Other Count)
+
+The fifteen are not fifteen ancient kingdoms. [[Maiethorn]]'s six inherit a grove-gate that fell. [[Strandoren]]'s five inherit a Salt Walk that outlived the gate and a fever that wrote new paper. [[Heskoren]]'s four inherit a late cart and one landing-clause. Full years: [[The Other Count]]. Two clocks still organize a life; these are why a border, a rate, or a grudge can be *pointed at*.
+
+| Polity | What they inherited | The live claim or grudge |
+|---|---|---|
+| **[[Polity Archetypes\|Threnmaieth]]** | [[The Two Papers]] (C.Y. 67) — Limrae's desk; crown-count starts; present Crown-year **320** | Maiethvael will not be named to the roll. The Close's Book is the insult next door. |
+| **[[Maiethvael]]** | The same split — Manril would not be listed | Threnmaieth's tablets at a furnished green. Same hymn, opposite paper. |
+| **[[Orenbren]]** | [[The Closing]] — hearths that would not starve; guest-compact with the Retreat | Beds outside, Book inside. Threnmaieth wants the lodging-rolls. |
+| **[[Saelthael]]** | Slower grafts (dirt); [[The Thaw-Break]] cut the west-road two summers | The core calls waiting soil. They still walk west. |
+| **[[Eolstrand]]** | Oldest crossing; [[The Grey Summer]]; signed [[The Hinge Hush]] (Taerso) | The Hush-rate. Blessing in the mouth; they learned to step around a fade. |
+| **[[Lirorn]]** | Watershed holding; Narol's pass after the Break | Threnmaieth wants the high road counted. The ridge pays for water the valley drinks. |
+| **[[Polity Archetypes\|Lestrand]]** | Salt Walk paper that outlived the gate; Grey notes; signed the Hush (Sirtol) | Brenledd will not be priced one hearth at a time. The White Note is a mouth, not the crown. |
+| **[[Brenledd]]** | Compact piled C.Y. 174 after the Salt-Grey (Nidtol); Hush side-paper | Lestrand still offers to simplify them. Fade happens in the gaps. |
+| **[[Leddvael]]** | Civic Settling after witnesses died in the Grey | A gift-reading family is a bad debtor. Bound as the shape of honesty. |
+| **[[Trenledd]]** | Dirrol's person-column after the Grey | Wanted the Hush written as souls; both shores refused. Colder than the Threnhael. |
+| **[[Netstrand]]** | West-water clause of the Hush; hulls, not the origin-winter | Quotes the far. *Neth* on the shore stays unsolved. |
+| **[[Polity Archetypes\|Vaethorn]]** | Late wave; Hush says they may bless a landing and may not levy it | Ornled has no hymn. Saelvaeth has a pot without their due. Guilt wants both unworthy. |
+| **[[Ornled]]** | Declined the waiting-gospel; Vathne's slate after a Thaw-Break pot died; Hush beach-fee | Vaethorn hears godlessness. No net. |
+| **[[Vaelhesk]]** | Host-rights older than the wave; not on the Hush clause | A first meal is not a landing-due. Vaethorn reads their children as Kept-for-want. |
+| **[[Saelvaeth]]** | Live march from the C.Y. 200s; Hush: may take a pot without a waiting-due | The queue is the border. Harrow's luck is politics. |
+
+Do not add a sixteenth flag. The [[The Walled Book|Inner Close]] sits inside Orenbren and remembers the sitting, not a continent.
+
 ## What this pass does not do
 
 - **Capitals of the three corners** are Story 7.3 ([[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). Story 7.2 fleshed leftover squares, not throne-cities. The twelve stubs' seats stay unnamed. A stub that names a throne-city is still early.
@@ -101,7 +125,8 @@ Neither list is complete. Both are true of the speaker.
 - [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
 - [[Faiths of the Turning]] · [[The Tree-Wardens]] · [[Law and Citizenship]] · [[The Premise]]
-- [[05 - Factions]] · [[Roadmap]] (Story 7.1)
+- [[The Other Count]] · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
+- [[05 - Factions]] · [[Roadmap]] (Story 7.1; shared history R.9)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*

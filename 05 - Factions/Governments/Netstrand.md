@@ -29,7 +29,9 @@ Faith mixed: Motherfaith worn light, Fair Hand ordinary on a signing-quay, quay-
 
 **Site.** Open-ocean coast. Leftover: **salt quay**; empty Eolthael berths held for the Heskoren run and for hulls chartered *in* to Orentel's first quay; earth-smelling holds (graft-pots going out); the neighbour's week billed as a crossing. The far crossing is this shore's prestige. The origin-winter is not.
 
-**How it formed.** West-houses grown from Salt Walk traffic and the later carrying to Heskoren ([[The First Cut]] — by sea, coasts first, then the far). A shore that faces the wave's supply-line, not the grove.
+**How it formed.** West-houses grown from Salt Walk traffic and the later carrying to Heskoren ([[The First Cut]] — by sea, coasts first, then the far). A shore that faces the wave's supply-line, not the grove. [[The Grey Summer]] thinned the west trade for a decade. [[The Hinge Hush]] wrote the leftover into a clause: Netstrand quotes the far crossing; the origin-winter is still assembled on the inner sea.
+
+**What they remember.** Hulls, not a mystery-badge. *Neth* on the shore stays unsolved. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -52,4 +54,5 @@ Quote the far crossing. Keep the Heskoren run profitable. Charter hulls to the i
 - [[Powers of the Turning]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[The Walking Years]] · [[The First Cut]] · [[Lirorn]]
 - [[Orentel]] · [[The White Note House]] — the other two desks of the prestige-walk
-- [[Roadmap]] (Story 7.1; Story R.6)
+- [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[Roadmap]] (Story 7.1; Story R.6; history R.9)
