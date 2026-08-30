@@ -7,7 +7,7 @@ status: active
 tags: [religion, faith, pantheon, syncretism, epic-1, story-1-4]
 aliases: [The Religious Landscape, Other Religions, The Wider Pantheon, Faiths]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-30
 ---
@@ -67,7 +67,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 
 ## What this pass does not lock
 
-- **No confirmed pantheon in player-facing text.** The Leaf-Mother remains a *belief* in public notes. The other faiths stay beliefs. The GM-layer household (she Gives; Other Hands Strike) lives in [[The Other Hands]] and is **not** to be dumped into these pages.
+- **No confirmed pantheon in player-facing text.** The Leaf-Mother remains a *belief* in public notes. The other faiths stay beliefs. Do not dump a household roster onto these pages.
 - **Faith names are 🔒 locked (2026-08-23):** *Haelthael*, *Leddoren*, *Vaeloren*, *Ndeyaan* — user taste call. Texture around them stays polishable.
 - **Clergy politics.** Working people: [[The Tree-Wardens]] (5.1) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] (isle flavor). Mainland shadow house: [[The Slide]] (not clergy). Tithe-infra and safety-guilds: [[Tithe-Infrastructure]] (5.3). Names 🟡. Do not clone the Slide as those guilds.
 - **The nature of her limit.** The Watching *claims* to remember a cost. Story 6.1 showed the edge *moving with wood* and did not pick a cause. That claim is still fuel, not an answer. See [[The Ages of the Turning]].
@@ -82,7 +82,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - [[Roadmap]] (Story 1.4) · [[07 - Religion]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **The household is now filled — still GM-only.** Per [[Is the Leaf-Mother Real]] she is real, benevolent, bounded, and costly. Per [[The Other Hands]] she is **first of a household**: she Gives; lesser Hands Strike at restricted doors under her allowance. Do not confirm this in a player-facing note. The Open Table's staying-kin are **not** of that household — do not absorb Kumbaan.
 - **Each rival holds a true kernel and misses the whole.**

@@ -10,7 +10,7 @@ world: The Turning
 category: organization
 seat: none — the town lot, the garden-commons, a cousin's field; there is no Green Seat
 public_face: the people who keep living land in a stone town so the Taken-In do not go to seed on a parlour floor
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -113,7 +113,7 @@ Whoever furnishes a provided-for Tithe holds power over its bearer. The greens-k
 
 That refusal is their kindness (they will not own you) and their cruelty (they will not walk three streets). The town is glad. A person who wilts *quietly* off the lot is not a public hazard. The Warm can say the gift was offered. The quay can say the season was posted. The crown can say the channel held.
 
-Confirming the Leaf-Mother is real and kind does **not** open a free parlour-grove. She gave the need for living land. She did not build the gate. R2 is the whole point.
+The Motherfaith says she gave the need for living land. The gate is people's work. A kind Tree would not open a free parlour-grove.
 
 They have no scion-queue. They have no week that will not end. They have no catching-year. Do not clone those. This house's constraint is jurisdiction — analog dirt, one key, no authority except the lot.
 
@@ -140,7 +140,7 @@ On its face: competent gardening, a little cold, a commons keeping itself honest
 - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: welfare office, nice slumlord, druid-chapter. Rotate. Form stays gardener/commons (load-bearing). They want *a living lot*, not a client. A wilt on the lot is a ruined commons. A wilt off the lot is weather they have decided not to see.
 - **Moral parallax.** Distances: spatial (the three streets) and informational ("we do not know a pot"). Engine: exchange — every share is a bed someone else waits for — and accumulation — every closed gate feeds the Slide. Comfort: the word *share*. R2: she did not build the gate.

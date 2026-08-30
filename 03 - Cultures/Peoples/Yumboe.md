@@ -9,7 +9,7 @@ aliases: [The Good People, Bakhna Rakhna, The Hill-Folk, The Moon-Waked, The Hid
 world: The Turning
 language: the Yumboe tongue (non-Maiethren)
 homeland: "[[The Sundering Isle]] (Kumbaan)"
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-22
 updated: 2026-08-30
 ---
@@ -60,8 +60,13 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 - **Moon-Waked recovery (flag).** The "+1 Stress cleared resting under moonlight" is a gentle, non-combat perk in the spirit of the good people's ease — confirm it feels right, or swap for a flat night-time advantage if a recovery bonus is fiddly at your table.
 - **The Unseen Hands scope (flag).** Currently at-will utility + once/scene Stress-gated harry (disadvantage OR grant-advantage, no damage, no restrain). Confirm the once/scene cap and the "can't restrain/can't damage" guards feel right; the leanest trim is dropping the at-will utility to pure flavour and keeping only the harry.
 - **Physical read (resolved 2026-08-22).** **Overt and unmistakable:** small stature, pearl-pale luminous skin, silver hair, wide dark night-eyes — a Yumboe reads as a Yumboe at a glance, which is exactly why they can't move unremarked off their isle (the opposite of Selkie's subtle tells). The "two-foot good people" of the oldest tellings are the deep-hill kin of legend; PC Yumboes are small but not doll-sized. *(Decision: full folklore-true small stature, kept human-enough to play.)*
-- **Do Yumboes get [[Conditions|Conditions]]?** **Locked 2026-08-23** (see [[The Other Hands]]). Kumbaan has no Tree — a graft has not crossed the storm-wall — so there is **no Leaf-Fall and no Given Conditions** on the isle. Her reach does not get there; they do not worship her household, so the Other Hands have little purchase. **Struck can still happen, at far smaller percentages** than the mainland — enough for a story, not a social class. A Yumboe abroad under a mainland Tree is a live campaign beat (she *could* Give; it almost never arises), not a racial immunity. Being a Kind, Yumboe still *stacks* with a Condition in principle.
+- **Do Yumboes get [[Conditions|Conditions]]?** On Kumbaan there is no Turning Tree — a graft has not crossed the storm-wall — so there is **no Leaf-Fall and no Given Conditions** on the isle. **Struck still happen, rarely** — enough for a story, not a social class. A Yumboe abroad under a mainland Tree in a tenth-year week is a live campaign beat, not a racial rule. Kind still *stacks* with a Condition in principle.
 - **Mixed Ancestry (locked 2026-08-30).** Mainland Kinds mix as the SRD allows. Yumboe do not. GM leave to play one; if yes, the complete three-feature Kind. A Yumboe–mainland child is full Yumboe or the other Kind, never a mechanical mix.
+
+## GM Notes
+
+- **The isle is a reach-edge, not a racial immunity.** Per [[The Other Hands]]: her Giving does not cross the storm-wall; they do not keep her household's doors, so purchase is thin; Struck are rare because the doors are barely a concept, not because Yumboes are refused. A Yumboe under a mainland Tree *could* be Given. Do not write a Kind-ban. Do not confirm the household in the body.
+- **Keyed tags.** `keystone-adjacent` · `the-other-hands`.
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model

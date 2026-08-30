@@ -10,7 +10,7 @@ world: The Turning
 category: guild
 seat: none — four craft-houses; a town may have one yard or four doors on one yard
 public_face: the craft guilds that channel the Answered — Ember, Tide, Root, Gale — so the element is used in earnest and does not let go in a crowded room
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -115,7 +115,7 @@ Self-paying is an economist's miracle until you want to stop. The Tithe does not
 
 So the guild's kindness (a shop, a crew, a rotation) is also the leash. Leaving is a Tithe-crisis. The Warm calls that vocation. The quay calls that a contract. The crown calls that a channel.
 
-Confirming she is real does **not** make a rest-year safe. She answered. She did not build the shop-rule. R2 is the whole point.
+The Motherfaith says she answered. The shop-rule is people's work. A kind Tree would not make a rest-year safe.
 
 Do not clone the Grey-roster, the hour, or the gate. This injustice is *exit*. The constraint is the element itself — analog shop, local charter, no authority to make another town take your idle journeyman.
 
@@ -144,7 +144,7 @@ On its face: a craft keeping its people steady, a little fierce, a monopoly wear
 - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: four elemental paladin-chapters, fire-police, Avatar-nations. Rotate. Form stays craft guild (load-bearing). Four doors, one grammar. They want work that slakes and a room that does not let go. They do not want a client.
 - **Do not clone the Orenhael's four offices onto four elements.** No Ember-Speaker, no Tide-Road-hand. Shop-rules are local manners, not a college.

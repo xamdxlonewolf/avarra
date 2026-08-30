@@ -9,7 +9,7 @@ aliases: [Elvaeth, the Hinge-Wait, Vaethorn's Seat, the Waiting Seat]
 world: The Turning
 region: "[[Heskoren]]"
 population: a pilgrim-town — a couple thousand souls in Ledger-month, more in Hale-month
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

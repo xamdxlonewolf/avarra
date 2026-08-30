@@ -10,7 +10,7 @@ world: The Turning
 category: religious-order
 seat: none — guild-rooms and quay-shrines; a "high house" is just the oldest book-room in a port
 public_face: notaries who are also theologians — they witness signings, teach children how to keep a book, and settle a Struck's *civic* year; they do not rewrite a Bound's Terms
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -142,7 +142,7 @@ Struck Book-hands must still be **vouched anew**. Civic settling is how the hous
 
 Grace is a closed book. That is the house's kindness, and its cruelty.
 
-Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. Confirming the Leaf-Mother is real does not make the fading kind, and does not convert a Bound's clause into a clerk's draft. The Fair Hand misreads a cost as a price ([[The Fair Hand]] GM); the Leddhael are that misreading *at a desk*, helping — except where the desk has no right to write.
+Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. A settled Mother-name would not make the fading kind, and would not convert a Bound's clause into a clerk's draft. The Fair Hand reads a cost as a price; the Leddhael are that reading *at a desk*, helping — except where the desk has no right to write.
 
 Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That is the R2 of honesty. The shadow economy still exists ([[Economy and the Tithe]]); the lived face of illicit Tithe-supply is [[The Slide]]. They do not stamp, and they do not rewrite Terms.
 
@@ -174,7 +174,7 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Wrong about the verb, right about the ache — now wearing a stamp.** Per the keystone, Leaf-Fall is a gift, not a signing. Per [[The Other Hands]], *Orledd* answers sworn asks; the Fair Hand is right about that door and wrong that every becoming is a bargain. Do not let a Book-hand retcon a Given child into a debtor. **Do not let a Book-hand rewrite Orledd's clause.** A petition-watch is *keeping the door* (purchase); it is not acolyte-authority. Do not play them as devil-worship, devil-acolytes, or capitalism-cosplay. They are as sincere as the Orenhael.
 - **The Slide is the lived shadow house.** They own a Tithe-week, not a stamp. Do not give anyone a magic stamp that authors Terms. Do not fold sold-vouching or Bound-easing into either desk.

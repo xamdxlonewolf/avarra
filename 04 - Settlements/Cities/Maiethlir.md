@@ -9,7 +9,7 @@ aliases: [the Mother's Thaw, the Counted Hearth, Threnmaieth's Seat, the Tallied
 world: The Turning
 region: "[[Maiethorn]]"
 population: a counted city — smaller than Orentel, older; the clerks will tell you a number after every Eolthael
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

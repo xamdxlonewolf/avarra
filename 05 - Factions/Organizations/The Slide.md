@@ -10,7 +10,7 @@ world: The Turning
 category: criminal
 seat: none — a room, a lot, a book of weeks; there is no cellar-church
 public_face: the person who will still give you a week when the greenhouse queue is three weeks and you have two days
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -118,7 +118,7 @@ Whoever furnishes a provided-for Tithe holds power over its bearer. That is alre
 
 The town is glad. A person who is *quietly* almost-falling is not a Cry in the market. The Warm can say the gift is still being tended. The Watchful can say the channel held. The quay can say the owing was marked and someone took them in.
 
-Confirming the Leaf-Mother is real and kind does **not** make the week fair. She gave the need. She did not build the book of weeks. R2 is the whole point.
+The Motherfaith says she gave the need. The book of weeks is people's work. A kind Tree would not make the week fair.
 
 They have no scion-queue. They have no novation. They have no sentence that will not travel. Do not clone those injustices here. The Road-hands already walk. An attic-host already seats. This house's constraint is the measured week — analog, one key, no authority except the one the Tithe gives them.
 
@@ -151,7 +151,7 @@ On its face: a landlord being practical, almost kind. Underneath: the product is
 - [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** `cliche-transcendence`: the default is the mustache-twirling slumlord, the Tithe-cult, the devil-church. Rotate. Form stays landlord/creditor (load-bearing). Knowledge, goal, role do not: they are in a rent-and-credit story. They want *continuity of the week*, not a victim they relish. A corpse is a ruined asset. Play them as patient, useful, and sure they helped.
 - **Moral parallax.** Distances: causal ("I kept them from the Cry") and informational (the town is glad not to see). Engine: exchange — every week of green is paid later by the same person. Comfort mechanism: the word *extended*. The town is complicit; do not make the week-keeper the only villain. R2: she did not build this. The reveal does not open a free greenhouse.

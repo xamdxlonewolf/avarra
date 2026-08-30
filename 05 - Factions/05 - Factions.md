@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # 05 - Factions
@@ -31,6 +31,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 | House | The job, in one line | Who sends for them |
 |---|---|---|
 | [[The Tree-Wardens]] | Tend the wood, officiate the Leaf-Fall, Speak the colour, carry grafts | Every town with a Tree; a waiting town; a sickening scion |
+| [[The Remainder]] | Log blight, unused cuttings, swept leaves; keep the colourless scrap | A mixed-fall leftover; a dead scion in the wrap; a relic rumour that needs a boring answer |
 | [[The Watchers]] | Sit the eve-vigil; *describe* a strange fall beside the warden, not over them | A family that does not trust one mouth on a mixed leaf; Turning-Week eve |
 | [[The Book-Hands]] | Stamp signings; settle a Struck's civic year; recite a Bound's Terms — not rewrite them | A quay that needs a notary; a Struck who needs a hall and a warrant |
 | [[The Door-Keepers]] | Walk the old doors; speak at ancestor-meals; name a Struck *kin* at the door that made them | Someone who needs the drowning-pool found; a Struck the town will not house |
@@ -38,6 +39,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 | [[The Shore-Sitters]] | Sit the storm-beach; wait; walk the living uphill | A wreck; a year of empty sand |
 
 - [[The Tree-Wardens]] — Story 5.1 ✅ (everyday *tree-wardens*; liturgical *Orenhael* 🟡).
+- [[The Remainder]] — Story R.5 (everyday *the Remainder* / remainder-clerks). A desk of the First Seat, not a thirteenth house. They keep [[The Spent Leaf]]. Not the unused Quiet Cut.
 - [[The Watchers]] — Story 5.2 (everyday *Watchers*; liturgical *Nethoren* 🟡). No seat. Day jobs; the house is a practice.
 - [[The Book-Hands]] — Story 5.2 (everyday *Book-hands*; liturgical *Leddhael* 🟡). No seat, many tables. Do **not** rewrite Bound Terms.
 - [[The Door-Keepers]] — Story 5.2 (everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡). The land is the seat.

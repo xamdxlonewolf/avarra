@@ -8,7 +8,7 @@ status: active
 tags: [region, continent, geography, motherland, epic-3]
 aliases: [The Motherland, The Old Heart, The Sacred Continent, The First Land]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-22
 updated: 2026-08-24
 ---
@@ -85,7 +85,7 @@ Cartography style, atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Roadmap]] (Epic 3; Epic 6 complete · Story 7.2 squares) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[The Third Hearth]] · [[Ornsael]] · [[01 - World]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Full reach here is the "control" end of the natural experiment.** Maiethorn is where the Trees are healthiest and the Given densest — the baseline against which the frontier's thin reach and the Isle's no-reach are read. Keep the *cause* GM-side ([[Is the Leaf-Mother Real|her reach is fullest at the source]]); in-world it's just "the oldest, best-tended Trees." Don't let a region note assert why proximity to Thaeloren means fuller reach.
 - **The heartland heresy is a keystone keeper.** [[The Watching]] sits at the sacred center precisely so an *old* faith can hold *old* memory — what was believed before the Trees were called Hers. It's the natural in-world source that could corroborate the keystone from an unexpected direction (not the skeptics, not the devout — the *heretics*). Built; it still points at [[Is the Leaf-Mother Real]].

@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [myth, religion, paradox-fable, teaching-story, epic-6, walking]
 aliases: [The Stone-Count, How Far Is a Ribbon, The Counting Child]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---
@@ -61,7 +61,7 @@ Skeptics of every walk tell a short ending: *There were not two counts. There we
 
 ## GM Notes (the buried truth)
 
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The paradox is the point.** You cannot know the distance without the graves, and you cannot honour the graves without using them as a map. The walk that proved a child was wanted is the walk that marked who was not. Removing the paradox leaves a hymn or a logistics manual. Keep both counts.
 - **No official ribbon-colour.** A copper-green rag is not a Taken-In. If a warden "reads" mile-shrine ribbons as leaf-colours, they are doing Hands-era overlay on Walking-era rag. Useful as a wrong NPC; do not make it doctrine.

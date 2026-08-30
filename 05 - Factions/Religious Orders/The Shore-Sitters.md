@@ -10,7 +10,7 @@ world: The Turning
 category: religious-order
 seat: none — a stretch of storm-beach; one person, a lamp that does not face the sea
 public_face: the ones who sit the storm-wall and wait — they do not swim out; they take in what the wall does not keep
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-23
 ---

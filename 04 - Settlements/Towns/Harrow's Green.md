@@ -9,7 +9,7 @@ aliases: [Harrow's Tree, Harrow's, the Neighbour's Canopy]
 world: The Turning
 region: "[[Heskoren]]"
 population: a small town — a few hundred hearths around one canopy
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-30
 ---

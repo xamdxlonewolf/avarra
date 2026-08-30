@@ -10,7 +10,7 @@ world: The Turning
 category: religious-order
 seat: none — the land is the seat; a famous door-keeper is the one three valleys will walk to
 public_face: they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when a town will not
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -130,7 +130,7 @@ Someone decides whether a sickening graft is a *guest in the grove* or a *Tree t
 
 The Road-hand arrives with leave and soil-science. The door-keeper arrives with grandparents and food. Both can be right about the wood. The years the grove spends arguing are years children walk to a neighbour's canopy — Kept-heavy, Struck-heavy — which the frontier already knows as weather, and which Vaethorn will sanctify as unworthiness if no one says otherwise.
 
-This is a spatial + inheritance parallax, not a queue. The Seat's scion-queue is the Orenhael's injustice; do not clone it onto the Vaelbren. Theirs is *who is host*, and *who will stand for the Struck the town will not*. Confirming the Leaf-Mother is real does not make the grafts first, and does not make a closed door a slight. She authorized the guests ([[The Old Ways]] GM). The grievance stays: the grafts *are* late; the Motherfaith *did* talk as if becoming were new.
+This is a spatial + inheritance parallax, not a queue. The Seat's scion-queue is the Orenhael's injustice; do not clone it onto the Vaelbren. Theirs is *who is host*, and *who will stand for the Struck the town will not*. A real Tree in the grove would not make the grafts first, and would not make a closed door a slight. The grievance stays: the grafts *are* late; the Motherfaith *did* talk as if becoming were new.
 
 ## Economy of the house
 
@@ -157,7 +157,7 @@ On its face: frontier courtesy, a little barbed — the drowning-stone saying re
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Half-right at the edge, now wearing a walking-stick.** Per [[The Other Hands]] the land-doors are real (*Vaelorn*, *Ornhael*, *Eloren*) and she does not walk them herself — she authorizes them. Keep their grievance real. Keep their miss intact: the guests came with her leave. Name collision: **Vaelbren** (this house) is not **Vaelorn** (the Taking). If you swap the coinage, do not land on a lesser Hand.
 - **Ancestor-meals are not the Returned.** The dead in the ground are kin who remained. The Returned are a different door (*Threnvaeth*). Do not make Kin-speakers undeath-priests. The Returned already have a Condition and a Tithe.

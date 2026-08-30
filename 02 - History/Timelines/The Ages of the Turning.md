@@ -7,7 +7,7 @@ status: active
 tags: [history, timeline, eras, grafting, epic-6, moc]
 aliases: [The Ages, How History Is Counted, The Era Spine, Cut-Years, The Grafting]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---
@@ -128,7 +128,7 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 - [[Long-Lived]] · [[Phoenix]] · [[The Branch That Came Away]] · [[The White Note House]] · [[The Third Hearth]] · [[02 - History]] · [[Roadmap]] (Epic 6 complete; Epic 7 next)
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The two clocks protect the keystone without confirming it.** Clock 2 (the wave) is the player-facing face of "reach grew with the grafts" — the quiet argument that a *hand*, not a climate, is behind the thinning. Skeptics still win the mundane reading (young/sick/few grafts, distance, history). Both readings share the same map. Do not let a player-facing era note assert the mind.
 - **The nature of the limit stays open.** Story 6.1 may show that carrying wood *moved the edge*. It may not say *why she needed the wood carried* (finite by nature, spent from a wound, rationing, holding something else up). Lock the ache. Do not lock the cause.

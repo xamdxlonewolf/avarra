@@ -10,7 +10,7 @@ world: The Turning
 spans: "C.Y. 0–present (C.Y. 387) as the default where grafts have taken; the Grafting still unfinished on [[Heskoren]]"
 preceded_by: "[[The Walking Years]]"
 followed_by:
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

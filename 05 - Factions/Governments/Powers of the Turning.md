@@ -7,7 +7,7 @@ status: active
 tags: [moc, faction, government, polity, epic-7, story-7-1]
 aliases: [The Great Powers, The Fifteen, Named Powers, The Other Powers]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---
@@ -104,7 +104,7 @@ Neither list is complete. Both are true of the speaker.
 - [[05 - Factions]] · [[Roadmap]] (Story 7.1)
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **R2 at map-scale.** Fifteen injustices, not one with hats. Maiethvael is not the "good" foil to Threnmaieth (piety as a social tax; the Kept pitied in *plenty*). Trenledd is not Threnmaieth without hymns made kinder (it is colder: no duty to keep you hale). Ornled is not freedom (no congregation-net). Confirming the Mother is kind launders none of them.
 - **Reach-edge stays GM-side.** Saelthael's thin soil and Saelvaeth's young grafts read as horticulture and queue. The bounded-reach cause does not migrate into a stub.

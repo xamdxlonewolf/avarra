@@ -8,7 +8,7 @@ tags: [religion, faith, yumboe, kumbaan, ndeyaan, moon, hospitality, belief-syst
 aliases: [Ndeyaan, The Moon-Table, The Moon-Feast, The Night-Keeping, Bakhna Ndeya]
 world: The Turning
 domain: hospitality, the moon, the staying-kin, the unseen hands
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-30
 ---
@@ -104,7 +104,7 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **The cleanest control.** A cosmology with zero Motherfaith contamination — and, per [[The Other Hands]], **not of her household**. Do not fold the staying-kin into Threnvaeth or anyone else. Yumboes: no Gifts on the isle; Struck possible but rare (see [[Yumboe]]). Their doctrine (*we were never lacking*) is still a late beat.
 - **Not ghosts.** The source myth calls Yumboes ancestral spirits. We reinvented them as a playable Kind. Ndeyaan keeps the ancestral *idiom* and parks it in the hands, not in the people. The Returned already own literal undeath. If a table leans Staying, play it as family-who-serve, not as haunt.

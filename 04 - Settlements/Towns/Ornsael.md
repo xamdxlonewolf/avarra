@@ -9,7 +9,7 @@ aliases: [The Sown Ground, the West-Road Well, Ornsael-well]
 world: The Turning
 region: "[[Maiethorn]]"
 population: a well-town — a few hundred hearths, thinner than the core's
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

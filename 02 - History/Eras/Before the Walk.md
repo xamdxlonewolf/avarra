@@ -10,7 +10,7 @@ world: The Turning
 spans: uncounted — no honest start
 preceded_by:
 followed_by: "[[The Walking Years]]"
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

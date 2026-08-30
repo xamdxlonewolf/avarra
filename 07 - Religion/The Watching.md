@@ -8,7 +8,7 @@ tags: [religion, faith, heresy, maiethorn, watching, haelthael, belief-systems]
 aliases: [Haelthael, The First Watching, The Grown-Over, The Unmothered, The Heartland Heresy]
 world: The Turning
 domain: witnessing, the Tree before it was named Mother, the Before
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-24
 ---
@@ -77,7 +77,7 @@ On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predate
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **The keystone keeper at the centre.** Placed on Maiethorn so old memory sits next to the Awakening Tree, not out on the frontier. They are the natural in-world source that could corroborate the keystone from an unexpected direction — not the skeptics, not the devout: the *heretics*. They have hold of the Before, the cost, and (per [[The Other Hands]]) a household that was not yet named Mother. They miss that the seeing *is* hers.
 - **Do not confirm their metaphysics.** "What she is" stays open ([[Is the Leaf-Mother Real]]). The Masked reading (she is a later face) and the Bare Tree reading (there was never a she) are both playable. Neither is the locked answer. The lintel is a clue, not a verdict.

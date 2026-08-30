@@ -9,7 +9,7 @@ aliases: [Thilim's House, The Third Hearth on the Near Mile, Seine's Bed, Brenth
 world: The Turning
 region: "[[Maiethorn]]"
 stratum:
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

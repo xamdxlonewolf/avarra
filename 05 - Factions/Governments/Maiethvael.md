@@ -10,7 +10,7 @@ world: The Turning
 category: government
 seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the old gift-country that shares the Mother and will not keep a list
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

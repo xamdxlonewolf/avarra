@@ -10,7 +10,7 @@ world: The Turning
 category: government
 seat: none — a league, not a capital (capitals wait anyway)
 public_face: many charter-towns, one commercial compact — Lestrand's rival by arithmetic
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---
