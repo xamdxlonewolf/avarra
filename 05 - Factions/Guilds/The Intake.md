@@ -94,7 +94,8 @@ The empty face is the point. "Burn this" is how success becomes the guild's ordi
 - [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]]
 - [[Tithe-Infrastructure]] · [[Law and Citizenship]]
 - [[The Stilled]] · [[Far-Voiced]] · [[The Answered]]
-- [[The Slide]] · [[The Book-Hands]] · [[The Door-Keepers]]
+- [[The Slide]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Standing Trade]]
+- [[Tesara]] — Orentel catching-year · [[Valen]] — this week's Gaze · [[People of the Turning]]
 - [[05 - Factions]]
 
 ## GM Notes

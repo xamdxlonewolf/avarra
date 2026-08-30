@@ -79,12 +79,12 @@ On its face: a sanctuary doing kindness. Underneath: "we do not keep a second na
 - **Tone.** The public face is kindness. The harvest is the 5% underneath — opt-in for a table that wants it, not a hunt in the first hour. Controlled deaths are prepared, quiet, and terrible. Do not relish them.
 - **Names.** Vimein — seed `20260830`, conservative list, mid-bottom. The Care is common-tongue. No new liturgy. Do not name a capital. Do not add a power.
 - **The public sentence is "the one is in care."** They hide each Phoenix they take in. A remnant going to ash in front of a guest is the fear the outer book cannot write. Hope scars without memories, and fire that answers a child and an old name at once, stay GM hooks.
-- **R.8 / R.13 / Epic 10 seeds, do not plot:** a Protector who walked a Phoenix out; a hidden second Gift (the child is real; the walker from the sanctuary is the remnant); player-agency for a hidden Phoenix PC. Those stories build against this house. Do not write the hidden-Phoenix sheet here.
+- **R.8 / R.13 / Epic 10 seeds, do not plot:** [[Rosire]] walked someone out and now sits Tesara's shed. [[Taeren]] is a hush at a thin Tree. The child is real; the walker from the sanctuary is the remnant. Player-agency for a hidden Phoenix PC stays R.13. Epic 10 picks the opening. Do not write the hidden-Phoenix sheet here.
 - **Clue order** stays on [[When the Fire Is Caught]]. Do not lead with a second bird.
 - **Hooks.** The unproduced Phoenix; the hush-letter; Hope scars without memories; fire that answers two names; a guest's missing hour; Vimein hiring a hush.
 
 ## Links
-- [[Phoenix]] — the card · [[When the Fire Is Caught]] — the engine
+- [[Phoenix]] — the card · [[When the Fire Is Caught]] — the engine · [[Taeren]] · [[Rosire]]
 - [[Turning Tree]] — white-fire row
 - [[The Remainder]] — not this desk · [[The Pourers]] · [[The Walled Book]]
 - [[11 - Secrets]] · [[05 - Factions]]

@@ -99,11 +99,11 @@ On its face: a memorial committee. Underneath: "we made the listener" is the mas
 - **Belief texture.** Experiential (funerals, fade). Orthopraxic (the pour, not a creed). Congregational circles, no pope. World-affirming: they pour so they can *keep walking*. The schism inside the house is stop / don't-stop, not doctrine.
 - **Tone.** ~5%. Sad and a little vain. The edge is a circle that will not let someone stop — opt-in, later. Do not play a blood cult. Do not play a trapped egregore. Do not play a vampire progenitor.
 - **Names.** Molevad — seed `20260832`, worn list, mid-bottom. Circle is unnamed on purpose; the long-house is the place.
-- **R.8 seed, do not plot:** a volunteer who wants out. The thinner return, the unseating, the circle in the door. Not a full arc here.
+- **R.8 seed, do not plot:** [[Reimaethe]] wants out before the fifth year. The thinner return, the unseating, the circle in the door. Not a full arc here.
 - **Hooks.** The five-year mark; the second cup; a mixed Blood-Read; a long-house that will not seat a withdrawer; Threnmaieth asking for the minutes.
 
 ## Links
-- [[The Unspent]] — the presence they wear · [[Long-Lived]]
+- [[The Unspent]] — the presence they wear · [[Long-Lived]] · [[Reimaethe]] — the mouth that wants out
 - [[Faiths of the Turning]] — fringe, not a sixth
 - [[The Other Hands]] — not a sixth door (GM)
 - [[The Walled Book]] · [[The Protectors]] — other engines, keep distinct

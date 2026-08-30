@@ -155,7 +155,7 @@ Same house; the name and the pressure change. The lever is [[Naming in the Turni
 
 - **[[Polity Archetypes|Vaethorn]] (the night-kin).** Cousin-dissent. Thin reach, hot faith: a Watcher household is unusual and not hunted. The Night Watch looks, from a Hands-folk hearth, like extra piety. The withheld Mother-name is the only sting, and a Guest-reading town has larger fights (the grove) than this one.
 - **[[Polity Archetypes|Lestrand]] (vigil-folk, when named).** Rarely met. A Watcher on the docks is a scholar or a migrant from the core. The signing-watch does not need a second reading; the book is the second reading. Faith worn light enough that a withheld blessing is just another quay-sentence.
-- **[[Polity Archetypes|Threnmaieth]] (the second column).** The darkest pressure, and the house's real weather. They are a known column on the roll — the Grown-Over, counted, not pogromed. The Night Watch is a festival-eve custom the crown can schedule. The second reading is tolerated until it contradicts the Speaker the Threnhael has already named. A Long-Lived who still has an un-recut lintel-copy is the person this house will still send for. The ~5% dial holds: pressure, not a hunt.
+- **[[Polity Archetypes|Threnmaieth]] (the second column).** The darkest pressure, and the house's real weather. They are a known column on the roll — the Grown-Over, counted, not pogromed. The Night Watch is a festival-eve custom the crown can schedule. The second reading is tolerated until it contradicts the Speaker the Threnhael has already named. [[Laevila]] is the Long-Lived who still has an un-recut lintel-copy. The ~5% dial holds: pressure, not a hunt.
 
 ## The recut lintel (the order's injustice)
 
@@ -191,7 +191,8 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
 - [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Maiethorn]] · [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over)
 - [[The Old Tongue]] (Nethoren 🟡) · [[Law and Citizenship]] · [[Kinds of the Turning]]
-- [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
+- [[The Child at Four Doors]] · [[Laevila]] · [[People of the Turning]]
+- [[Roadmap]] (Epic 5, Story 5.2; mouth R.8) · [[05 - Factions]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
@@ -207,4 +208,4 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
 - **Do not invent a Kumbaan Night Watch or a Kind-watch.**
 - **Paranoid voice is load-bearing for this rewrite.** The note second-guesses its own sentences because the house does. Do not make them a secret police.
 - **Unlock vs Door-Keepers.** The old "do not let them" lock is lifted. The contested grove is the escalation room. They will not agree. That is the fight.
-- **Hooks.** A mixed fall two houses want to name (warden Speaks one colour; Watcher describes the other); a recut lintel whose hidden face a party is asked to copy; a Bare Tree Second-reader and a Masked household in the same old room; a Threnhael clerk who wants the night *scheduled*; a Night Watch in Vaelun's green; the Long-Lived with the un-recut lintel-copy (a later cast pass).
+- **Hooks.** A mixed fall two houses want to name (warden Speaks one colour; Watcher describes the other); a recut lintel whose hidden face a party is asked to copy; a Bare Tree Second-reader and a Masked household in the same old room; a Threnhael clerk who wants the night *scheduled*; a Night Watch in Vaelun's green; [[Laevila]]'s copy and [[Senithi]]'s marriage.

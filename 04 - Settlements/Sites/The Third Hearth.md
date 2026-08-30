@@ -11,7 +11,7 @@ region: "[[Maiethorn]]"
 stratum:
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The Third Hearth
@@ -59,9 +59,9 @@ The two fates of the same origin still stand. The White Note collected, on a [[S
 
 ## People & Powers
 
-Thilim is already named (Stories 6.2 / 6.4). Do not add an Epic-8 cast around them.
+[[Thilim]] is a person now ([[People of the Turning]]). Do not add a court around the inn.
 
-- **Thilim** — the four [[The Walking Years|Long-Lived *I walked*]] jobs, inland and tired. Blood-Read will give a true fragment. It will not tell you which job they are doing when they make the bed.
+- **[[Thilim]]** — the four [[The Walking Years|Long-Lived *I walked*]] jobs, inland and tired. Blood-Read will give a true fragment. It will not tell you which job they are doing when they make the bed. They want the stone's water for the pot at dark.
 - **Brenthael's town-warden** — unnamed; wants the stone. Practice-first. Speaks a fall in a square that used to be a road.
 - **Orenbren lodging-custom** — hospitality as rent in Eolthael; Thilim charges less and is called a failure for it. The compact does not own this mouth.
 - **The First Seat** sits in the Motherwood *beside* this country and is not its crown. A pilgrim who asks Thilim where the college is will be pointed at the wood, not the inn.
@@ -92,4 +92,5 @@ Thilim cannot afford to see that Brenthael is telling a Hands truth, or that "a 
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Walking Years]] · [[The White Note House]] · [[Orenbren]]
 - [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
 - [[Economy and the Tithe]] · [[Long-Lived]] · [[Maiethorn]] · [[Turning Tree]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.2)
+- [[Thilim]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8)

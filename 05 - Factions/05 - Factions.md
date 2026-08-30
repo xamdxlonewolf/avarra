@@ -52,12 +52,12 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 
 - [[The Tree-Wardens]] — everyday *tree-wardens*; liturgical *Orenhael* 🟡.
 - [[The Remainder]] — everyday *the Remainder* / remainder-clerks. A desk of the First Seat. They keep [[The Spent Leaf]].
-- [[The Watchers]] — everyday *Watchers*; liturgical *Nethoren* 🟡.
+- [[The Watchers]] — everyday *Watchers*; liturgical *Nethoren* 🟡. Mouth: [[Laevila]].
 - [[The Book-Hands]] — everyday *Book-hands*; liturgical *Leddhael* 🟡. Do **not** rewrite Bound Terms.
 - [[The Door-Keepers]] — everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡.
 - [[The Table-Keepers]] — everyday *table-keepers*; own-name *Njaalo* 🟡.
 - [[The Shore-Sitters]] — isle flavor; own-name *Njawaal* 🟡.
-- [[The Pourers]] — everyday *the Pourers* / *the Cup Circle*. Wear [[The Unspent]]. Not a sixth faith.
+- [[The Pourers]] — everyday *the Pourers* / *the Cup Circle*. Wear [[The Unspent]]. Not a sixth faith. Seed: [[Reimaethe]].
 
 ### Shadow houses
 
@@ -87,15 +87,16 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 
 - [[Tithe-Infrastructure]] — sector hub. Greens and halls are jurisdictions of this note.
 - [[The Greens-Keepers]] · [[The Hall-Keepers]] — doors, not colleges.
-- [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] — ticket-yards and the shed.
+- [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] — ticket-yards and the shed. Intake mouth: [[Tesara]] (Orentel).
 
 ### Three opposition engines (keep distinct)
 
-| Engine | House | Mechanism |
-|---|---|---|
-| Religious self-consumption | [[The Pourers]] | Volunteered years into a god they believe they created |
-| Political classification | [[The Walled Book]] | The Book of Tithes; a Given heir loses the Closed name |
-| Worship used to hide extraction | [[The Protectors]] | Sanctuary, controlled deaths, harvested fire, a hush |
+| Engine | House | Mechanism | Seed (do not plot) |
+|---|---|---|---|
+| Religious self-consumption | [[The Pourers]] | Volunteered years into a god they believe they created | [[Reimaethe]] |
+| Political classification | [[The Walled Book]] | The Book of Tithes; a Given heir loses the Closed name | [[Hithaen]] |
+| Worship used to hide extraction | [[The Protectors]] | Sanctuary, controlled deaths, harvested fire, a hush | [[Taeren]] · [[Rosire]] |
 
 ## Related
-- [[Roadmap]] · [[Powers of the Turning]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]]
+- [[Roadmap]] · [[Powers of the Turning]] · [[People of the Turning]]
+- [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]]

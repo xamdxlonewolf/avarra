@@ -11,7 +11,7 @@ region: "[[Heskoren]]"
 population: a pilgrim-town — a couple thousand souls in Ledger-month, more in Hale-month
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Eolvaeth
@@ -68,9 +68,20 @@ Devotion is the job on the street: people walk *to* Eolvaeth to wait together. T
 
 ## People & Powers
 
-No Epic-8 cast. Offices that must exist:
+Cast: [[People of the Turning]]. [[Vaethod]] is a person now, not only an office.
 
-- **Town-warden (Vaethod, 🟡)** — Hands-folk, practice-first, not Kind. Speaks the fall truly enough for a waiting-seat. Will not write a colour that didn't happen, even if a visiting clerk wants the hinge tidy. The year they send a cohort toward Saelvaeth is the year the gospel and the wood disagree. They have not resigned.
+**Named wants on this square (carried by people):**
+
+- [[Vaethod]] — [[Saelid]]'s stall keeps its winter mouths
+- [[Nedaen]] — the gift-hall pot feeds a child through Ledger-month
+- [[Heiral]] — a marriage witnessed without Mother-kept pity
+- [[Daron]] — a corpse named so a grain-debt dies
+
+[[Hithaen]] is eating in the gift-hall this Hale-month. Vaethod has not decided which kind of mouth that is.
+
+Offices that must exist:
+
+- **Town-warden ([[Vaethod]])** — Hands-folk, practice-first, not Kind. Speaks the fall truly enough for a waiting-seat. Will not write a colour that didn't happen, even if a visiting clerk wants the hinge tidy. The year they send a cohort toward Saelvaeth is the year the gospel and the wood disagree. They have not resigned.
 - **The square that watches, and the camp-streets that watch instead** — some years the witness is local. Some years it has to walk home from a luckier Hand. Vouching-at-a-distance on a gospel-capital is the tell that waiting is still a road.
 - **Road-hands passing through** — they sleep in the town that was chosen early and stayed thin, on the way to a town that was not chosen this year. Do not clone them as an Eolvaeth chapter.
 - **Vaethorn-folk custom** — light state, hot faith, alms. No list. [[Polity Archetypes|Threnmaieth]] would like one. [[Ornled]] would not understand why anyone stays.
@@ -105,4 +116,5 @@ Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence sa
 - [[The Tree-Wardens]] · [[Turning Tree]] · [[Daily Life]] — Tree-at-the-centre
 - [[Law and Citizenship]] — the unvouched Struck · [[Naming in the Turning]]
 - [[Orentel]] · [[Maiethlir]] — the other two seats
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3)
+- [[Vaethod]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)

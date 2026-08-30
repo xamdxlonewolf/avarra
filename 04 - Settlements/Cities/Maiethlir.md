@@ -67,13 +67,22 @@ Devotion is the job on the street: people still come because the hinge is holy. 
 
 ## People & Powers
 
-No Epic-8 cast. Offices that must exist:
+Cast: [[People of the Turning]]. [[Rithim]] and [[Laevila]] are people now, not only offices.
 
-- **Speaker / town-warden (Rithim, 🟡)** — Reckoned Hands pressure, practice-first, not Kind. Speaks the fall truly. The copy is a second, lesser seeing. Some summers they let it happen in the same breath. Some they do not. The crown has not replaced them. The Seat has not recalled them. That gap is load-bearing.
+**Named wants on this square (carried by people):**
+
+- [[Rithim]] — [[Valein]] stays unmarked on the tablet
+- [[Laevila]] — [[Senithi]]'s name good for a marriage
+- [[Vehaela]] — an uncounted loft for one winter off [[Lirorn]]'s thin snow
+- [[Baerith]] — the crown stops cutting green on their sister's street
+
+Offices that must exist:
+
+- **Speaker / town-warden ([[Rithim]])** — Reckoned Hands pressure, practice-first, not Kind. Speaks the fall truly. The copy is a second, lesser seeing. Some summers they let it happen in the same breath. Some they do not. The crown has not replaced them. The Seat has not recalled them. That gap is load-bearing.
 - **The tablet-clerks** — Long-Lived among them, memory bent to the census rather than free to check it. Named instruments of the roll live on [[The Reckoned Offices]] (Menirein, Tarvae, Videm, Sirtal). They are not a replacement for this hearth. Rithim is still the town Speaker.
 - **The First Seat** — in the Motherwood, beside, a college not a throne. Some Speakers cooperate with the roll (they believe they are keeping the realm hale). Some refuse. A pilgrim who asks Rithim where the college is will be pointed at the wood, not the tablet-hall.
 - **Orenbren lodging** — a day's argument along the other road. They witness who slept, not what colour. Threnmaieth would like the lodging-rolls. Do not make Brenthael this city.
-- **Watchers in the oldest district** — a second reading *alongside*, not over. Filed as the Grown-Over. No seat.
+- **Watchers in the oldest district** — a second reading *alongside*, not over. Filed as the Grown-Over. [[Laevila]] keeps the old room. No seat.
 
 The Kept are pitied *and* noted as unmarked. A household whose bloodline and upkeep are both on file cannot easily refuse the crown anything.
 
@@ -106,4 +115,5 @@ Rithim cannot afford to see that "I have not said the line" is the only refusal 
 - [[The Watchers]] · [[The Watching]] · [[Maiethvael]] · [[Lirorn]] · [[Naming in the Turning]] (Threnhael)
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — the naming
 - [[Eolvaeth]] · [[Orentel]] — the other two seats
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3)
+- [[Rithim]] · [[Laevila]] · [[People of the Turning]] · [[The Reckoned Offices]]
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)

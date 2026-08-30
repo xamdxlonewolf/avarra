@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, settlements, epic-6, epic-7]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # 04 - Settlements
@@ -36,4 +36,5 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 
 ## Related
 - [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]]
-- [[Powers of the Turning]] · [[Roadmap]] (Epic 7 Stories 7.1–7.3 done) 
+- [[Powers of the Turning]] · [[People of the Turning]] — seats have named wants now
+- [[Roadmap]] (Epic 7 Stories 7.1–7.3 done; cast R.8) 

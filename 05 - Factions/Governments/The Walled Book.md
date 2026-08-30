@@ -95,7 +95,7 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 - **Old empire, light seed.** Folk memory: the untithed sat on the grove and decided who could walk to it. The First Cut is already the hinge in the wood. The war, the collapse, the retreat behind these walls — later history. Do not date a battle here. Do not name the cutter.
 - **Distinct from Threnmaieth.** Sacred census writes everyone as care. The Book ranks the tithed and disinherits the Given heir. A campaign can steal both lists and they will not say the same thing about the same child.
 - **Names.** Delamem, Talnin of the Inner Close — seed `20260830`, conservative list, mid-bottom. Inner Close / Walled Book / Closed Heirs / Book of Tithes are common-tongue. No new liturgy.
-- **R.8 seed, do not plot:** a disinherited Given heir of the Closed. The labour-line is already written. The person is not.
+- **R.8 seed, do not plot:** [[Hithaen]] is a disinherited Given heir of the Closed, eating in [[Eolvaeth]]'s gift-hall. The labour-line is already written. Do not make them Talnin.
 - **Hooks.** The colour that strikes an heir; clerks at the gate; a pilgrim ranked as labour; Orenbren full and the Close shut; a Bound eaten by Book and desk in the same week.
 
 ## Links
@@ -104,5 +104,5 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 - [[Law and Citizenship]] — the Kept as default legal person, here elevated to rule
 - [[The Tree-Wardens]] · [[The First Cut]] — hinge, not the war
 - [[The Pourers]] · [[The Protectors]] — other engines
-- [[Maiethlir]] · [[The Third Hearth]]
+- [[Maiethlir]] · [[The Third Hearth]] · [[Hithaen]] — the mouth that lost the line
 - [[05 - Factions]]
