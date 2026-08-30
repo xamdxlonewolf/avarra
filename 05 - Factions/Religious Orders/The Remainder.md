@@ -27,6 +27,16 @@ That someone is **the Remainder**: a side-yard off the Motherwood, a shed, a kit
 
 They are of the [[The Tree-Wardens|Orenhael]] the way a yard is of a temple. They are not the Quiet Cut (that unused name was *stolen wood*; this desk does not steal). They are not a rival faith.
 
+## At the table
+
+| | |
+|---|---|
+| **Want** | Uncounted tissue kept honest. The box logged. Blight off the next leave. |
+| **Have** | A side-yard, jars, a kitchen scale, [[The Spent Leaf]]. |
+| **Fear** | A relic rumour that will not take a boring answer. A clerk who walks the box. A house that wants the scrap as fire. |
+| **Live conflict** | Bury it / walk it. Same shed. Both think they are tending the wood. |
+| **Hooks** | A mixed-fall leftover; a dead scion in the wrap; a viewing with a price the Seat has not set; a runner who asks if the box is white-fire. |
+
 ## Structure & Membership
 
 - **Who.** Remainder-clerks. Often Kept; sometimes a skeptic who is good with jars; rarely a Road-hand on a winter rotation. Not a Kind-office. Not a Speaker track.
@@ -51,7 +61,7 @@ Methods are small: a box that does not travel; a box that does; a clerk reassign
 
 - **Positional, not chosen.** Competence trap: the people who empty carrying-earth are the people who would find a spend-remainder. Their involvement is the job, not a prophecy. Keep them excellent at jars and bad at politics.
 - **Split want is the faction.** The audit asked for a group that wants proof found *or* suppressed. This desk is both. **Seat majority / orthodox remainder:** bury it. Orthopraxy-over-orthodoxy is the peace; proof would make skeptics a column and give Threnmaieth a fact to count. **Show-it minority (some clerks, some Road-hands):** walk the leaf. They want the scion-queue named as rationing a real reach, not as soil-science. Neither side is a dark court. ~5%: lose a box, refuse a leave, reassign a clerk. Do not invent assassins.
-- **Not an opposition engine.** Story R.7's three engines (Long-Lived sect, Kept regime, Phoenix Protectors) are later and other. Do not grow the Remainder into any of those. Do not let them harvest fire or pour a god.
+- **Not an opposition engine.** The three engines are [[The Pourers]], [[The Walled Book]], [[The Protectors]]. Do not grow this desk into any of those. Do not let them harvest fire or pour a god.
 - **Firing pin.** The artifact and the tests: [[The Spent Leaf]]. What happens if the square ever believes it: [[Is the Leaf-Mother Real#If confirmation lands]]. R2: proving she is kind does not make the queue kind. The show-it clerks are right that the queue is people. They are wrong if they think the leaf will shame the Seat into justice.
 - **Do not sort Kept with this office.** A remainder-clerk who offers to "tell you which hug was a miss" is breaking the locked ache. Shut that down in-world: the leaf will not, and the clerk who promised it was selling.
 
@@ -60,4 +70,5 @@ Methods are small: a box that does not travel; a box that does; a clerk reassign
 - [[The Tree-Wardens]] — the order this desk belongs to · [[Turning Tree]]
 - [[Is the Leaf-Mother Real]] — why the box matters
 - [[The Watchers]] · [[The Book-Hands]]
+- [[The Protectors]] — not this desk · [[The Pourers]] · [[The Walled Book]]
 - [[05 - Factions]] · [[10 - Items]]

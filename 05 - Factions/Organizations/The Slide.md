@@ -19,18 +19,28 @@ updated: 2026-08-30
 
 > **What this is.** The lived face of **illicit Tithe-supply** from [[Economy and the Tithe]] — not a fifth faith, not clergy, not a night-clone of [[The Book-Hands]]. They do not help you *pay* a Tithe. They **own the moment you start to fail**, and they make failure useful. Built with `economic-systems`, `moral-parallax`, and `cliche-transcendence` for [[Roadmap|Epic 5, Story 5.2]]. Official Tithe-infrastructure is [[Tithe-Infrastructure]]; **do not clone this house as those guilds.**
 
-> **Canon status.** 🟡 **Picked (taste call 2026-08-23).** Names still polishable. 🔒 **Locked by pick:** this is the mainland shadow house; the Bought Watch and the Quiet Cut stay unused. 🔒 **Locked upstream:** Tithe-need as leverage; R2 — she did not build this; recruits by practice / desperation / Condition-lean, **not Kind**; ~5% scary (ordinary neighbour, a real obstacle). They do **not** rewrite Bound Terms, steal scions, or sell a false Turning-witness.
+> **Canon status.** 🟡 **Picked (taste call 2026-08-23).** Names still polishable. 🔒 **Locked by pick:** this is the mainland shadow house; the Bought Watch and the Quiet Cut stay unused. 🔒 **Locked upstream:** Tithe-need as leverage; R2 — she did not build this; recruits by practice / desperation / Condition-lean, **not Kind**; ~5% scary (ordinary neighbour, a real obstacle). They do **not** rewrite Bound Terms, steal scions, or sell a false Turning-witness. Those trades have other faces: [[The Holding Desk]], unused wood-theft, [[The Standing Trade]].
 
 *(Everyday: **the Slide**, also **week-keepers.** Cant, 🟡: **the Vaethledd** — VAYTH-led — [[The Old Tongue|vaeth]] "the waiting" + [[The Old Tongue|ledd]] "to reckon": the waiting, reckoned. Not *Orledd*. Not *Nethledd* (retired with the Back Table). [[Polity Archetypes|Vaethorn]] says **the last pot** (or *gift-credit*, when the commons have run out). [[Polity Archetypes|Lestrand]] says **week-rent** the way it says landlord. [[Polity Archetypes|Threnmaieth]] files nothing; the roll already has a counted hall. A clerk who knows will say **the late week**.)*
 
 **In one sentence:** they rent you *not falling* — one week of green, one outlet, one new page — and they are never in a hurry to let you get free.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | Continuity of the week. A person who is always almost whole. |
+| **Have** | A key, a pot or a room or a page, a book of weeks. |
+| **Fear** | A public wilt, a Cry in the market, a fade a neighbour can name — and an official door that closes on purpose so the week becomes the only door. |
+| **Live conflict** | [[Tithe-Infrastructure]] closes. The week opens. Videm will say the channel held. A wilt two streets off is already theirs. |
+| **Hooks** | A week-slip the same date twice; a child who carries water and is learning; a counted hall late on purpose; a PC already on the book. |
 
 ## Shape of the house (at a glance)
 
 - **A practice, not a gang.** There is no seat, no colour, no roster, no cellar liturgy. You are of the Slide when someone comes back next week. Reputation. When they die, the book of weeks goes to whoever still has a pot, a room, or a key.
 - **One job.** Furnish *just enough* Tithe-supply that the person does not become a public hazard, and *never enough* that they recover. The product is the week. The price is remaining theirs.
 - **They think they are in a rent story.** They do not call themselves monsters. They extend. They keep a book. They will tell you they kept someone whole. That is the load-bearing courtesy of the ~5% dial: a kind face, a real key, a measured withhold later.
-- **Not clergy and not 5.3.** They do not stamp books, Speak colours, walk old doors, or open a hill-hall. They do not run the town greenhouse, the counted ael-hall, or a licence-guild. Those wait. The guilds will pretend not to know these people. That pretending is already part of the town.
+- **Not clergy and not the official doors.** They do not stamp books, Speak colours, walk old doors, or open a hill-hall. They do not run the town greenhouse, the counted ael-hall, or a licence-guild. Those wait. On ordinary days the guilds still pretend not to know these people. When the official door closes on purpose, the pretence is over — the two doors can meet in the same street.
 
 ## What they actually do
 
@@ -73,7 +83,7 @@ A key. A pot, a spare room, a stack of pages that are new enough. A book of week
 - They will not pretend to be clergy. No colour, no book-stamp, no door-walk, no extra place.
 - They will not rewrite a Bound's Terms. They may hold a Bound's *rent*. That is money.
 - They will not steal a scion or sell *I watched you Turn.* Those are other unused trades. Do not fold them in.
-- They will not push someone over the scary edge on purpose. A corpse, a public Cry, a wilt the town can see — that is a ruined week and a ruined name.
+- They prefer not to push someone over the scary edge. A corpse, a public Cry, a wilt the town can see — that is a ruined week and a ruined name. Preference is not a lock. A keeper losing the book can withhold too far. The measured week can miss.
 - They will not run a mission, a cellar-church, or a Kumbaan export. There is almost no Tithe on the isle to own.
 - They will not call the week a gift. They will also not call it a cruelty. They call it a week.
 
@@ -98,12 +108,14 @@ The feared-licensed are not barred. A [[The Stilled\|Stilled]] who rents stillne
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
-| [[The Tree-Wardens]] | Almost no contact. A warden furnishes a Tree, not a week. | Do not let a Road-hand become a week-cart. Do not steal a scion to pay a Tithe. |
+| [[The Tree-Wardens]] | A warden furnishes a Tree, not a week. Rare contact, not a ban. | A Road-hand who starts a week-cart has left the wood. Do not steal a scion to pay a Tithe. |
 | [[The Watchers]] | A Watcher who sat an eve-vigil is not in this book. | Do not sell a false watch. That unused trade stays unused. |
 | [[The Book-Hands]] | A Settler who marked *owing* has just made a customer. The clerk will watch them walk down the quay. | The Slide does not stamp. The clerk does not furnish. The Bound they cannot help is still not this house's Terms to rewrite. |
 | [[The Door-Keepers]] | A Struck named *kin* at a door still has a Tithe. Kinship is not green. | Do not fold a drowning-stone into a rented lot. |
 | [[The Table-Keepers]] | No contact that matters. The second sitting is not a week. | Do not charge for the extra place. That is a different faith's one impiety. |
-| [[Tithe-Infrastructure\|Official halls and greens]] | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Do not clone this house as those guilds.** The guilds are the public good / the crown's channel / the posted market. The Slide is who they pretend not to know. |
+| [[Tithe-Infrastructure\|Official halls and greens]] | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Unlock.** Pretending not to know is over when the official door closes on purpose. A public wilt or Cry the gate caused is the escalation. Do not clone this house as those guilds. |
+| [[The Holding Desk]] | Different product. A Bound may be on both books. | Money is not a clause. |
+| [[The Standing Trade]] | A customer who also needs to move may be sent on. | Do not sell a false Turning. That is the other house. |
 
 ## How they live in the three corners (and off the map)
 
@@ -124,7 +136,7 @@ They have no scion-queue. They have no novation. They have no sentence that will
 
 The Bought Watch (false belonging) and the Quiet Cut (stolen wood) stay **unused**. Do not let this house absorb them because it is convenient.
 
-Off-book Bound brokerage and sold vouching still exist as nameless underside ([[Economy and the Tithe]]). They are **not** this house. Do not reopen the Back Table under a new sign.
+Off-book Bound brokerage is [[The Holding Desk]]. Sold vouching is [[The Standing Trade]]. They are **not** this house. Do not reopen the Back Table under a new sign. The unused Slide picks (Bought Watch, Quiet Cut) stay unused as *this* house's jobs.
 
 ## Economy of the house
 
@@ -156,11 +168,12 @@ On its face: a landlord being practical, almost kind. Underneath: the product is
 - **They do not know what story they are in.** `cliche-transcendence`: the default is the mustache-twirling slumlord, the Tithe-cult, the devil-church. Rotate. Form stays landlord/creditor (load-bearing). Knowledge, goal, role do not: they are in a rent-and-credit story. They want *continuity of the week*, not a victim they relish. A corpse is a ruined asset. Play them as patient, useful, and sure they helped.
 - **Moral parallax.** Distances: causal ("I kept them from the Cry") and informational (the town is glad not to see). Engine: exchange — every week of green is paid later by the same person. Comfort mechanism: the word *extended*. The town is complicit; do not make the week-keeper the only villain. R2: she did not build this. The reveal does not open a free greenhouse.
 - **Do not clone them as the official guilds.** Official Tithe-infra and the licence-guilds are the public / posted / counted version of *furnishing*. This house is the overflow those guilds pretend not to know. The 5.3 underdog is [[The Intake]] (a shed, not a week). Road-hands already walk.
-- **Do not absorb unused trades.** No false Turning-witness. No stolen scion. No Bound-clause rewrite. No Back Table. Off-book contracts and sold vouching stay nameless unless a later pick asks for a face.
+- **Do not absorb unused trades.** No false Turning-witness (that is [[The Standing Trade]], a later face, not a Slide pick). No stolen scion. No Bound-clause rewrite (that is [[The Holding Desk]]). No Back Table.
+- **Opposition can act.** They still do not *want* a corpse. A desperate keeper can squeeze. The official door can now meet them on-screen.
 - **No Kind-gate. No Kumbaan export. No offices.**
 - **Taste still open (do not treat as locked).**
   1. **The name *Vaethledd.*** Everyday *the Slide* / *week-keepers* is already in canon. Swap or drop the cant. Not *Orledd*. Not *Nethledd*.
   2. **Practice, not a gang.** Load-bearing. Do not add a Slide-boss in a later polish unless a campaign *is* that city.
-  3. **They do not push people over.** Load-bearing. The edge stays opt-in for PCs; the house's cruelty is the week that will not end, not a jump.
+  3. **Preference against a public hazard.** Not a lock that they never push. The week's cruelty is still the ordinary engine; a miss is playable.
   4. **A person who recovered was let go.** They are not of the house anymore. Playable, not a rule-lawyer point.
 - **Hooks.** A week-slip the same date twice; a child who carries water and is learning; a Book-hand's *owing* that walks downstairs; a counted hall that is late on purpose; a Taken-In whose only dirt is a private lot; a junior at a long-house rationing pages; a Vaethorn cousin who still says *gift*; a Cry that almost happened and was *handled*; a PC who is already on the book.

@@ -27,6 +27,16 @@ updated: 2026-08-30
 
 The faith's playable quarrel is now on [[The Open Table#The sentence at the mainland lintel]] — two sittings vs a Turning-witness, and a tenth-year week a host will not spend on a Tree. This note keeps the table: who is fed, what they refuse, what they carry.
 
+## At the table
+
+| | |
+|---|---|
+| **Want** | An extra place laid. A second night that makes kin. The sentence kept at the lintel. |
+| **Have** | A hill-hall, or one mainland attic. Bread. A lamp that faces the table, not the sea. |
+| **Fear** | A witness who wants the supper to travel. A tenth-year week spent on a Tree. |
+| **Live conflict** | Two sittings vs a Turning-witness at a mainland lintel. The Open Table note is the fight. |
+| **Hooks** | A guest who will not leave; a sentence that will not travel; a child whose host will not walk them to a Tree. |
+
 ## Shape of the order (at a glance)
 
 - **Almost not an order.** Ndeyaan has no chapel, no college, no colour-authority, no graft, no book, no door-walk that wants a title. The person whose hall the valley comes to on the bright nights is a table-keeper. Reputation, not office. When they die, the valley comes to the next hall that still sets the extra place.

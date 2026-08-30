@@ -47,7 +47,7 @@ The only sure release is to **kill the thing that holds your contract** — but 
 
 ## The Given-Over *(title, not a Condition)*
 
-The world's name for a Bound who keeps signing — power after power, pledge after pledge — first out of **fear of paying** what they already owe (sign another contract to defer the debt), then because it becomes too much to stop. Bit by bit they give themselves over until the being effectively **holds them**. This is an **NPC-tier fate / narrative title**, not a playable Condition — a PC who has signed away nearly all of themselves is no longer really playable. The plain name is **the Given-Over**; among the contract-guilds the term of art is **the Forfeit**.
+The world's name for a Bound who keeps signing — power after power, pledge after pledge — first out of **fear of paying** what they already owe (sign another contract to defer the debt), then because it becomes too much to stop. Bit by bit they give themselves over until the being effectively **holds them**. This is an **NPC-tier fate / narrative title**, not a playable Condition — a PC who has signed away nearly all of themselves is no longer really playable. The plain name is **the Given-Over**; among the contract-guilds the term of art is **the Forfeit**. The pipeline that feeds it is [[The Holding Desk]].
 
 ## GM Notes
 
@@ -58,6 +58,6 @@ Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts
 **What Orledd gets.** During the term: the named ask remaining true, and the Terms being kept where other people can see them. That is the food — a readable exchange. Orledd cannot Give; a gift with no named return would be her work. At the end of a term-limited contract they collect the Pledge (already on the card). They do **not** get a soul, worship, or a second signing. The Given-Over spiral is the Bound's fear of paying, not the Counterparty's hunger. A flood of unread bargains starves them. If you need the strain/break rules (when a bargain has gone outside her allowance), they live on [[The Other Hands]].
 
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Fair Hand]] (the faith that reads every becoming as a contract)
+- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Fair Hand]] (the faith that reads every becoming as a contract) · [[The Holding Desk]]
 - Chains into: [[The Unbound]] (what an expired contract leaves behind — colloquially, the Hollow)
 - Contrast: [[Returned]] (the other Struck-only Condition — accident of death vs. sworn choice) · [[Far-Voiced]] (detects others' lies vs. betrays the Far-Voiced's own feeling)

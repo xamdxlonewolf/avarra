@@ -12,7 +12,7 @@ seat: none — oldest rooms under older chapels, or houses that never took a war
 public_face: the people who keep the night before Turning-Week, and who will sit a second reading of a rare fall alongside the warden, not over them
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Watchers
@@ -24,6 +24,18 @@ updated: 2026-08-23
 *(Everyday, everywhere they are known: **Watchers.** Liturgical, 🟡: **the Nethoren** — neth-OR-en — [[The Old Tongue|neth]] "night" + [[The Old Tongue|oren]] "to witness": those who *keep the night and speak what was seen.* [[Polity Archetypes|Vaethorn]]'s second word is **the night-kin**; [[Polity Archetypes|Lestrand]] barely has one (*vigil-folk*, when a clerk needs a label); [[Polity Archetypes|Threnmaieth]] files the house as **the Grown-Over** and the people who keep the vigil as **the second column**.)*
 
 **In one sentence:** they are the neighbour who will sit up with the Tree the night before Turning-Week, and the second pair of eyes a family sends for when a leaf comes down strange — they *describe*, they do not *confirm*. They have day jobs. The house is a practice, not a wage.
+
+If this note is being copied, check who asked for the copy. A second reading that becomes a confirmation is the house breaking itself. A Night Watch that becomes a hunt is the dial failing. The old rooms sit under chapels that grew over them. That is not a metaphor we are willing to finish.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | Accurate speech. A night of matching the Tree's attention. No last word they would have to defend. |
+| **Have** | Old rooms, a coat that smells of last year's eve, a reputation as a second mouth. |
+| **Fear** | Being asked to Speak. A recut beam they are told to call history. A door-keeper who will sit the Before with them and not leave. |
+| **Live conflict** | A Watcher remembers a Before *at* the Tree. A [[The Door-Keepers\|door-keeper]] remembers a Before *without* one. They will sit down. At [[The Three Hamlets Past the Ford\|Vaelun]] the grove is already a guest. The argument can leave the meal. |
+| **Hooks** | A mixed fall two houses want to name; a recut lintel a party is asked to copy; Tarvae filing a second reading as error; a Night Watch held in an old green the Door-Keepers still walk. |
 
 ## Shape of the order (at a glance)
 
@@ -133,8 +145,9 @@ Orthopraxy is the peace. The warden officiates; the Watcher withholds a word. Co
 |---|---|---|
 | [[The Tree-Wardens]] | Same Tree, two blessings. Second reading alongside, not over. | Threnmaieth wants one name on the Threnhael. A Speaker who lets the withheld line stand is a column the crown can count. Two authoritative Speakers in one square is a fight. |
 | [[The Fair Hand]] | Rarely share a square. A Settler hears "what falls, was seen" as a clause with no number. | Almost none, until a Bound wants a second reading of an oath-day and a Watcher will not call it a signing. |
-| [[The Old Ways]] | Two old memories, opposite edges. A Watcher remembers a Before *at* the Tree; a door-keeper remembers a Before *without* one. | They would not agree if a campaign sat them down. Do not let them. |
-| [[The Open Table]] | Almost no contact. A Watcher who crossed the storm-wall would be a guest at supper, and would find the night already kept — for a different reason. | None that matters. Do not invent a Night Watch on [[The Sundering Isle\|Kumbaan]]. |
+| [[The Old Ways]] · [[The Door-Keepers]] | Two old memories, opposite edges. A Watcher remembers a Before *at* the Tree; a door-keeper remembers a Before *without* one. | **Unlock.** Sit them down. Vaelun's guest-grove is the ordinary room. A meal refused, a Night Watch held in an old green, a Road-hand arriving in the middle — let it leave the table. Do not invent a tidy synthesis. |
+| [[The Open Table]] | A Watcher who crossed the storm-wall would be a guest at supper, and would find the night already kept — for a different reason. | Still no Night Watch on [[The Sundering Isle\|Kumbaan]]. Mainland fights are enough. |
+| [[The Reckoned Offices]] | The second column. Counted dissent. | Tarvae files a description as error. Menirein wants the night scheduled. Let the old room refuse. |
 
 ## How they live in the three corners
 
@@ -142,7 +155,7 @@ Same house; the name and the pressure change. The lever is [[Naming in the Turni
 
 - **[[Polity Archetypes|Vaethorn]] (the night-kin).** Cousin-dissent. Thin reach, hot faith: a Watcher household is unusual and not hunted. The Night Watch looks, from a Hands-folk hearth, like extra piety. The withheld Mother-name is the only sting, and a Guest-reading town has larger fights (the grove) than this one.
 - **[[Polity Archetypes|Lestrand]] (vigil-folk, when named).** Rarely met. A Watcher on the docks is a scholar or a migrant from the core. The signing-watch does not need a second reading; the book is the second reading. Faith worn light enough that a withheld blessing is just another quay-sentence.
-- **[[Polity Archetypes|Threnmaieth]] (the second column).** The darkest pressure, and the house's real weather. They are a known column on the roll — the Grown-Over, counted, not pogromed. The Night Watch is a festival-eve custom the crown can schedule. The second reading is tolerated until it contradicts the Speaker the Threnhael has already named. A Long-Lived who still has an un-recut lintel-copy is the positional character this house wants (Epic 8). The ~5% dial holds: pressure, not a hunt.
+- **[[Polity Archetypes|Threnmaieth]] (the second column).** The darkest pressure, and the house's real weather. They are a known column on the roll — the Grown-Over, counted, not pogromed. The Night Watch is a festival-eve custom the crown can schedule. The second reading is tolerated until it contradicts the Speaker the Threnhael has already named. A Long-Lived who still has an un-recut lintel-copy is the person this house will still send for. The ~5% dial holds: pressure, not a hunt.
 
 ## The recut lintel (the order's injustice)
 
@@ -192,4 +205,6 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
   3. **No coordinating body.** Proposed. A quiet lintel-network (letters between old rooms) is a later polish if play needs one. Do not grow a hidden pope in the vestry.
   4. **Masked vs Bare Tree in the square.** Both may Second-read; they will not always agree. That disagreement *is* why they cannot rival the Speaking. Keep it.
 - **Do not invent a Kumbaan Night Watch or a Kind-watch.**
-- **Hooks.** A mixed fall two houses want to name (warden Speaks one colour; Watcher describes the other); a recut lintel whose hidden face a party is asked to copy; a Bare Tree Second-reader and a Masked household in the same old room; a Threnhael clerk who wants the night *scheduled*; the Long-Lived with the un-recut lintel-copy ([[positional-revelation]], Epic 8).
+- **Paranoid voice is load-bearing for this rewrite.** The note second-guesses its own sentences because the house does. Do not make them a secret police.
+- **Unlock vs Door-Keepers.** The old "do not let them" lock is lifted. The contested grove is the escalation room. They will not agree. That is the fight.
+- **Hooks.** A mixed fall two houses want to name (warden Speaks one colour; Watcher describes the other); a recut lintel whose hidden face a party is asked to copy; a Bare Tree Second-reader and a Masked household in the same old room; a Threnhael clerk who wants the night *scheduled*; a Night Watch in Vaelun's green; the Long-Lived with the un-recut lintel-copy (a later cast pass).

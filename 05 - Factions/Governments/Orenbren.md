@@ -27,6 +27,8 @@ The civic agglomeration of the **Near Mile** — lodging-squares, upper rooms, a
 
 The [[The Tree-Wardens|First Seat]] sits in the Motherwood beside this power and remains a college, not a throne. [[Polity Archetypes|Threnmaieth]] would like the lodging-rolls. Orenbren witnesses who slept, not what colour they are.
 
+Inside the lodging-country, not as a sixteenth flag, sits the **[[The Walled Book|Inner Close]]** — a walled town of Closed Heirs who still rank the Conditioned by a Book of Tithes. Orenbren treats the walls as a guest-compact that never opened. The Close ranks who *owes*. They share a country. They do not share a page.
+
 **Site.** [[Maiethorn]] Sacred Core's approach-country. Leftover: **origin pilgrimage-town**. Tree at the centre of each square; the road used to go further and now ends in a festival season.
 
 **How it formed.** Walking-era hearths that federated around the one-week door. When Hands made the origin-walk optional, the beds did not empty — they changed jobs. Adaptive reuse at polity scale: a lodging-network that learned it could levy, charter, and speak as one without becoming clergy.
@@ -45,11 +47,13 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 
 - **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. [[Maiethlir]] is Threnmaieth's counted river-seat, not this compact and not the grove. Hold the gap.
 - **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.
-- **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty; a term that cleared on the quay and a bed that did not.
+- **The Inner Close is not a capital and not a sixteenth power.** Placement inside this compact is working canon; a later geography pass may move the remnant. Do not promote the walls. Do not capture the First Seat.
 - **Prestige-walk chain (Story R.6).** Destination beds, not a fourth seller of the berth.
+- **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty; a term that cleared on the quay and a bed that did not; the Close shut while the beds outside are full.
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[The Tree-Wardens]] · [[Turning Tree]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Settlement Seeds]]
 - [[The Third Hearth]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
+- [[The Walled Book]] — the Inner Close
 - [[Polity Archetypes]] · [[Roadmap]] (Story 7.1; Story R.6)

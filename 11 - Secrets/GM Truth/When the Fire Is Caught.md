@@ -15,7 +15,7 @@ updated: 2026-08-30
 
 # When the Fire Is Caught
 
-> **Story R.2 lock.** This settles the apparent-second-Phoenix problem without touching the one-Gift rule. It does **not** build the harvesters (that is Story R.7). It does **not** write a hidden-Phoenix PC sheet (that is Story R.13). It does **not** plot the campaign opening (that is Epic 10). Those stories build against this engine.
+> **Story R.2 lock.** This settles the apparent-second-Phoenix problem without touching the one-Gift rule. The harvesters are [[The Protectors]] (Story R.7). It does **not** write a hidden-Phoenix PC sheet (that is Story R.13). It does **not** plot the campaign opening (that is Epic 10). Those stories build against this engine.
 
 > **Do not put this in a player-facing note.** Player-facing [[Phoenix]] still reads: there is one, they Rise until they cannot, then a leaf falls.
 
@@ -46,7 +46,7 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 
 - Do not add a second Gift to make the mystery easier.
 - Do not let the remnant count as a Phoenix for Leaf-Fall, law, or the roster.
-- Story R.7 may build the people who catch the fire. They use this engine; they do not rewrite it.
+- [[The Protectors]] catch the fire. They use this engine; they do not rewrite it.
 - Story R.13 may write a hidden-Phoenix PC. If that PC still has a Rise left, they *are* the one Gift. A second leaf waits. If the opening needs an apparent two, the walker from the sanctuary is the remnant.
 - Epic 10 may pick which opening to run. Both are legal. Two Gifts at once is not.
 
@@ -72,5 +72,5 @@ Keep this behind the keystone. Do not lead with a second bird.
 - [[Turning Tree]] — white-fire row; a Spoken fall is history and a problem
 - [[Is the Leaf-Mother Real]] — do not confirm her in player text to explain the slot
 - [[The Other Hands]] — Phoenix is hers only; no Other Hand Gives it
-- [[Roadmap]] — R.7 builds the harvesters; R.13 the hidden PC; Epic 10 the opening
+- [[The Protectors]] — the harvesters · [[Roadmap]] — R.13 the hidden PC; Epic 10 the opening
 - [[11 - Secrets]]

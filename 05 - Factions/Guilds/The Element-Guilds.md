@@ -25,6 +25,16 @@ updated: 2026-08-30
 
 **In one sentence:** the shop *is* the Tithe — leaving it is not a career change; it is a hazard with your name on it.
 
+## At the table
+
+| | |
+|---|---|
+| **Want** | An element used in earnest. A shop that does not let go in a crowded room. |
+| **Have** | Four doors, one ticket-logic, a shared Intake shed. |
+| **Fear** | An idle Answered. A raw Reach on the wrong door. A shop a person cannot leave. |
+| **Live conflict** | Ember-fees are not Tide's. A master pulled to the shed is a hull that waits. |
+| **Hooks** | A child after lamp-amber; a hull that wants Tide; a shop-you-cannot-leave; Intake at the wrong door. |
+
 ## Shape of the house (at a glance)
 
 - **Four doors, one grammar.** Ember (smiths, glass, firefighting). Tide (hulls, dyers, anything that wants water to behave). Root (masons, potters, the carrying-earth a Road-hand may buy). Gale (sails, mills, instruments, the wind a Tengu already knew). They share a ticket-logic and an Intake shed. They do not share a pope. An Ember-master does not set Tide's fees. The **shop is chartered**; journeymen sit under a door. That is not a census of every lamp-amber in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].

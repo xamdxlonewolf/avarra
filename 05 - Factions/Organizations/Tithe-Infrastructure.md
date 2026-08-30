@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: fleshed
 status: active
-tags: [faction, organization, tithe, infrastructure, guilds, epic-5]
+tags: [faction, organization, tithe, infrastructure, guilds]
 aliases: [Tithe-Infrastructure, The Furnishing, Official Tithe-Supply, The Halls and Greens]
 world: The Turning
 category: organization
@@ -17,115 +17,114 @@ updated: 2026-08-30
 
 # Tithe-Infrastructure
 
-> **What this is.** The lived official sector implied by [[Economy and the Tithe]] and [[Law and Citizenship]] — who furnishes green / novelty / outlets, and who stamps the ~3 hazardous-Condition tickets. Not clergy. Not [[The Slide]]. Built with `economic-systems`, `governance-systems`, and `moral-parallax` for [[Roadmap|Epic 5, Story 5.3]].
+Everyday: **the furnishing**, or **the greens and the halls.** No liturgical umbrella. [[Polity Archetypes|Vaethorn]] says **the gift-works**. [[Polity Archetypes|Lestrand]] says **the provision**. [[Polity Archetypes|Threnmaieth]] files **the counted channel**.
 
-> **Canon status.** 🟡 **Proposed** (house names, whether a town greenhouse is a civic office or a guild lot). 🔒 **Locked upstream:** Tithe-provision is a permanent sector; licences are guild-issued, not a census; the Slide is the overflow these houses **pretend not to know**. 🔒 **Do not clone:** Road-hands (already the clergy underdog); the Slide (not "the nice official version"); recut lintel / novation / host-rights / the sentence that will not travel (those stay with the four houses).
+They keep people whole *enough*, in public, and they stop at the gate.
 
-*(Everyday: **the furnishing**, or just **the greens and the halls.** There is no liturgical umbrella — this is civic work, not a fifth faith. [[Polity Archetypes|Vaethorn]] says **the gift-works**. [[Polity Archetypes|Lestrand]] says **the provision** the way it says *the wells*. [[Polity Archetypes|Threnmaieth]] files **the counted channel**.)*
+[[The Greens-Keepers]] and [[The Hall-Keepers]] are doors of this sector, not houses with colleges. The ticket-yards ([[The Stillers]], [[The Element-Guilds]]) remain craft-guilds. [[The Intake]] remains the shed.
 
-**In one sentence:** they keep people whole *enough*, in public, and they stop at the gate.
+## At the table
 
-## Shape of the sector (at a glance)
+| | |
+|---|---|
+| **Want** | A town that does not wilt, Cry, or seize in the square. Enough, then the gate. |
+| **Have** | Lots, hours, long-house stacks, ticket-stools, and a pretence that the late week is weather. |
+| **Fear** | A queue that becomes a street-hazard, and a channel that fails in front of a clerk. |
+| **Live conflict** | The official door closes. [[The Slide]] opens. Videm will say the channel held. A wilt three streets off is already a week. |
+| **Hooks** | A full greens-queue and a wilt two streets off; a counted hall late on purpose; a long-house junior who has started a book of weeks; a Book-hand's settling to a hall that has no hour left. |
 
-- **Two jobs that are not one house.** **Furnishing** keeps a provided-for Tithe from becoming a public hazard (green, an outlet, a new page). **Ticketing** marks competence for the three Conditions that can hurt a bystander ([[The Stilled]], [[Far-Voiced]], [[The Answered]]). A town may house both under one lintel. They are still two jobs. The [[Bound]]'s "ticket" is a table, not a body-guild — see below.
-- **Official means *enough*, not *a week*.** A commons-share, a scheduled hour, a library that is open. The product is a person who can walk away until tomorrow. [[The Slide]]'s product is a person who cannot. The town is glad of both and will not say so about the second.
-- **They think they are in a public-works story.** Wells. Yards. A playhouse. A surgeon's college. They do not call themselves monster-wardens. The ~5% dial stays at the gate, the hour, and the ticket — not at a hunt.
-- **No Furnishing Seat.** Late-medieval reach: a town keeps its own lot and hall. A deathless house endows its own long-house. The licence-guilds charter *their* members. Nothing in this sector micromanages a far commons.
+## Hours and doors (the sector as a form)
 
-## Who furnishes what
+Official means **enough**, not a week. A commons-share, a scheduled hour, a library that is open. The product is a person who can walk away until tomorrow. [[The Slide]]'s product is a person who cannot. The town is glad of both. The town will now have to say so when the two doors meet.
 
-The provided-for Tithes from [[Economy and the Tithe]], given a door you can knock on.
+**Furnishing** and **ticketing** are two jobs. A town may house both under one lintel. They are still two jobs.
 
-| Tithe | The official door | Lived house | What they will not do |
+| Door | Form of *enough* | Closes when | Overflow |
 |---|---|---|---|
-| [[The Taken-In\|Taken-In]] green | garden-commons / the greens / a leaf-lot | [[The Greens-Keepers]] | Will not follow you home. Will not rent you a private pot after the share fails. That is the Slide. |
-| [[Far-Voiced]] outlet | the ael-hall (playhouse and safety-valve) | [[The Hall-Keepers]] | Will not give you an unscheduled Cry. Will not keep you half-vented so you come back tonight. |
-| [[Long-Lived]] novelty | the long-house of books | *no new order* — the deathless house that endowed it, still sitting the chair | Will not ration a page to own you. A junior who does that has started a week. |
-| [[The Unbound\|Unbound]] warmth | *almost none* | family; an attic of [[The Table-Keepers]]; the Slide's paid sitting | The sector cannot buy being known. Do not invent a warmth-guild. |
-| [[Bound]] Terms | the honest table | [[The Book-Hands]] (civic year) + the Counterparty (the clause) | Not a body-licence. Do not grow a fourth hazard-guild. |
-| [[Returned]] Purpose | *cannot be furnished* | a Book-hand may find a payable year; no one can supply a vengeance | Do not invent a Purpose-desk. |
-| [[Two-Bodied]] ranging | the ranging / a beast-yard | civic land, no guild | Self-paying. No ticket. Do not invent wolf-police. |
+| Green — [[The Greens-Keepers]] | A night or an hour on living dirt. Bed-slate is plants. | The share is gone. They will not walk three streets. | A cousin's pot. They do not say the cousin's name. |
+| Outlet — [[The Hall-Keepers]] | A scheduled Cry, a boards-hour, a sweep-hour. Voice-ticket on the same stool. | The lamps. A missed hour is a missed hour. | A room that still shuts. They do not say the room's name. |
+| Novelty | A long-house of books. No librarian-order. The deathless chair still sits. | Closing. They will not courier a rumour to a fade in a shut chamber. | A junior who extends a page. That junior has started a week. |
+| Unbound warmth | Almost none. Family; an attic; a paid sitting. | — | Do not invent a warmth-guild. |
+| Bound Terms | An honest table — [[The Book-Hands]]. Not a body-ticket. | The year closes. The Terms do not. | [[The Holding Desk]]. |
+| Returned Purpose | Cannot be furnished. | — | Do not invent a Purpose-desk. |
+| Two-Bodied ranging | Civic land. No ticket. | — | Do not invent wolf-police. |
 
 **The three tickets** (danger-to-others only, issued by the craft). A ticket names a **competence**, not a Condition. The ticketable pool is large (~29% of people could be asked if they practice). The roll is not. Three guilds, no shared list. Fuller math: [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
 
-| Ticket | Condition | Lived house | Why a ticket at all |
+| Ticket | Condition | Yard | Why a ticket |
 |---|---|---|---|
-| strictest | [[The Stilled]] | [[The Stillers]] | the Gaze can hold a person forever |
-| heavy, training-first | [[Far-Voiced]] | [[The Hall-Keepers]] (the same building as the outlet) | a Cry in a crowded hall |
-| heavy, training-first | [[The Answered]] | [[The Element-Guilds]] | an untended element in a workshop |
-| *not a body-ticket* | [[Bound]] | a table, not a guild-yard | walking legal instrument; the Whisper cannot command |
+| Strictest | [[The Stilled]] | [[The Stillers]] | the Gaze can hold a person forever |
+| Heavy | [[Far-Voiced]] | the hall lintel | a Cry in a crowded room |
+| Heavy | [[The Answered]] | [[The Element-Guilds]] | an untended element in a shop |
+| Not a body-ticket | [[Bound]] | a table | walking legal instrument |
 
-[[The Intake]] is the shared underdog office of the three ticket-houses: the raw Struck, already live, no childhood apprenticeship. Not a travelling clergy. Not a week.
+[[The Intake]] is the shared shed of the three ticket-doors. Raw Struck. Success is silence.
 
-## The long-house (novelty without a new order)
+There is no Furnishing Seat. A town keeps its own lot and hall. A deathless house endows its own stacks. Nothing in this sector micromanages a far commons.
 
-A [[Long-Lived]] house that has endowed a library is already Tithe-infrastructure. The founder is still alive. They still name the scholars. They still sit the chair. Coin went out; steering stayed ([[Economy and the Tithe]]).
+## The lot (green, as a door)
 
-Staff are clerks — often [[Law and Citizenship|the Kept]], unencumbered, able to fetch a book the founder has not read. A junior Long-Lived copies. There is no liturgical name and no college of librarians.
+Open the gate. A [[The Taken-In|Taken-In]] lies down on living ground. The tokens fill. They leave. The bed is turned. Last year's commons-leaf is buried under a new bed. No one will explain this to a guest. A first-year who asks is told *that is how the lot remembers.*
 
-What they furnish is *something genuinely new*. What they will not furnish is a page at a time to a person who cannot walk in. That junior — the one who will extend a subscription one more week — is how [[The Slide]] sits next to a long-house without being one.
+When the queue is longer than the wilt, they still open for the share they have. They close when the share is gone. They know a cousin still has a pot. They do not say the cousin's name.
 
-Do not rebuild the deathless houses here. Do not give novelty a Road-hand circuit.
+A bed-slate is plants. In Threnmaieth the crown already has another list. Videm wants the beds to match the channel. The lot will not invent a bed to close someone else's book.
 
-## The gate (the sector's shared courtesy)
+## The hall (outlet and Voice-ticket, as a door)
 
-Every official door stops at a line the town has agreed to call *enough*:
+Morning: the slate. Evening: the house. Feeling in earnest, on purpose, where a neighbour paid to hear it. One seat is never swept. *That's the first Cry's seat.* No one will explain which Cry.
 
-- The greens-keeper keeps the lot. They do not walk the wilting room.
-- The hall-keeper keeps the hour. They do not open after the lamps for a voice that missed its slate.
-- The long-house is open. It is not a courier of rumours to a fade in a closed chamber.
-- The ticket-house trains the Given child and stamps the competent adult. The raw Struck is [[The Intake]]'s problem, and the guild is glad to forget them if the catching-year is quiet.
+When a voice misses its hour, the keeper does not open the side door. They know a room that still shuts. They do not say the room's name.
 
-The Slide begins where that line is. The guilds **pretend not to know**. That pretending is already part of the town — named in [[The Slide]], now given the other face.
+A Given sea-blue child is apprenticed here. A raw drowning is handed to Intake. The show *is* some people's Tithe and other people's night out.
 
-This is not kindness-as-cruelty in the Slide's shape (the measured week). This is **jurisdiction**. We keep the commons. We do not keep *you*.
+## The long-house
+
+A [[Long-Lived]] house that has endowed a library is already this sector. The founder is still alive. They still sit the chair. Staff are often [[Law and Citizenship|Kept]]. What they furnish is *something genuinely new*. What they will not furnish is a page at a time to a person who cannot walk in.
 
 ## How they live with the other houses
 
-| House | Everyday arrangement | The hard edge |
+| House | Everyday | The fight |
 |---|---|---|
-| [[The Tree-Wardens]] | A warden *points* a new Given at a guild or a greens-share. They do not licence. They do not water a leaf-lot. | Do not let a Road-hand become a greens-cart or a ticket-circuit. |
-| [[The Watchers]] | A second reading may send a rare fall to the right hall. They do not stamp a ticket. | Do not sell a description as a licence. |
-| [[The Book-Hands]] | They write a term that *assumes* a hall or a share. The hall and the share are this sector. | A settling to a hall that is full is an *owing*, not a ticket. |
-| [[The Door-Keepers]] | A Taken-In door-keeper may *live* in a green. They do not run the lot. | Do not fold a drowning-stone into a rented bed. |
-| [[The Table-Keepers]] | Warmth is their extra place, not a Tithe-channel. | Do not charge for the extra place and call it furnishing. |
-| [[The Slide]] | Next door. Overflow. The late week. | **Do not clone them.** Official houses furnish enough and stop. Week-keepers furnish not-falling and continue. The town is glad of the pretending. |
+| [[The Slide]] | Next door. Overflow. The late week. | **Unlock.** Pretending not to know is over when a wilt or a Cry can be walked to. A counted hall late on purpose vs a week-rent that still opens. Let it escalate: a public hazard the official door caused by closing. |
+| [[The Reckoned Offices]] | In Threnmaieth the hall and green *are* the channel. | Videm late vs a lot that still has beds. Sirtal withholding a share. |
+| [[The Tree-Wardens]] | A warden points a new Given at a door. They do not licence. | Do not let a Road-hand become a greens-cart. |
+| [[The Book-Hands]] | A term that assumes a share or a seventh-day hour. | A full lot or a full slate makes the book *owing*. Honesty here is a closed gate. |
+| [[The Holding Desk]] | Not this sector. | A Bound's civic year may assume a hall. The desk downstairs does not furnish one. |
+| [[The Door-Keepers]] | A Taken-In door-keeper may live on a lot. | Guest-rights are not a share-slate. |
 
 ## How they live in the three corners
 
-Same sector; the name and the leash change. The lever is [[Naming in the Turning|the name reveals the stance]].
+- **Vaethorn (gift-works).** Commons-minded, thin purse. A cousin's field. Soft injustice: you were helped, so you will spend the gift as the valley asks. The Slide here is the last pot.
+- **Lestrand (the provision).** Posted. Season-fees. You can be priced out of staying whole. The Slide is week-rent after the season-fee failed.
+- **Threnmaieth (the counted channel).** The crown furnishes and holds. Videm's leash. The Slide is the late week the channel will not admit failed.
 
-- **[[Polity Archetypes|Vaethorn]] (the gift-works).** Tithe-provision as a public good with almost no guild to fund it. A commons that is a cousin's field. A blessing-to-practice said over a stiller who learned on a riot-line because there was no infirmary. Soft injustice: you were helped, so you will spend the gift as the valley sees fit. The Slide here is *the last pot* when the commons run out.
-- **[[Polity Archetypes|Lestrand]] (the provision).** Posted. A leaf-lot by the season. A release-house that is also the playhouse. Guild-tickets as master's papers. You can be priced out of staying whole. The Slide is week-rent after the season-fee failed.
-- **[[Polity Archetypes|Threnmaieth]] (the counted channel).** The crown furnishes — efficiently, even generously — and *holds* what it furnishes. A counted hall. A tended green. A crown-warrant. The darkest leash in the world, dressed as care. The Slide is the late week the channel will not admit failed.
+**Kumbaan.** Almost no Given Tithes. Do not export a greenhouse or an ael-hall.
 
-**[[The Sundering Isle|Kumbaan]].** Almost no Given Tithes. Do not export a greenhouse or an ael-hall. A wreck walked uphill is a guest.
+## In-world text
 
-## What this sector is not
+*A closing-notice, nailed to a lot-gate and, in the same hand, to a hall door. The verso is last week's notice, not taken down.*
 
-- Not a fifth faith. No colour, no blessing except Vaethorn's courtesy-words over a share.
-- Not a census. A bed-list is plants. A hall-slate is hours. A guild-roll is practitioners of a dangerous art. The ticketable pool is not a supervised third of the world. The one kingdom that writes *persons and gifts* is still only [[Polity Archetypes|Threnmaieth]].
-- Not the Road-hands. They carry wood. These houses carry dirt, an hour, a ticket.
-- Not the four houses' travelling edges.
+> *Share is enough. Hour is enough. After close we do not walk the rooms. After the lamps we do not open the side door. If you have already wilted, the lot is still the lot — come when we open. If you have already cried in the street, the hall is still the hall — come at open, not now. If you cannot wait, we do not know a pot. We do not know a room. The town is glad. File that as weather if you must. It is a door.*
+
+On its face: two utilities being practical. Underneath: "we do not know" is the only lie, and the town's gladness is the other door.
 
 ## Links
-- [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]]
-- [[Economy and the Tithe]] — the grammar · [[Law and Citizenship]] — the ticket rule · [[Daily Life]] — halls and greens as streetscape
-- [[The Slide]] — the overflow this sector pretends not to know
-- [[The Tree-Wardens]] · [[The Book-Hands]] · [[The Table-Keepers]]
-- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]]
+- [[The Greens-Keepers]] · [[The Hall-Keepers]] — jurisdictions, not colleges
+- [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]]
+- [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Daily Life]]
+- [[The Slide]] · [[The Holding Desk]] · [[The Reckoned Offices]]
+- [[The Tree-Wardens]] · [[The Book-Hands]]
 - [[The Taken-In]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Stilled]] · [[The Answered]]
-- [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
+- [[Polity Archetypes]] · [[Naming in the Turning]]
+- [[05 - Factions]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **They do not know what story they are in.** `cliche-transcendence`: defaults are the magic-police, the welfare office, the superhero registry, "the nice Slide." Rotate. Form stays civic works + craft guild (load-bearing). Knowledge / goal / role do not: they are in a wells-and-yards story. They want a town that does not wilt, Cry, or seize in the square. They do not want a client.
-- **Moral parallax.** Distances: informational (pretending not to know the Slide) and causal ("we furnished the commons"). Engine: accumulation — every closed gate feeds a week-book — and exchange — every official share is a bed someone else waits for. Comfort mechanism: the words *share*, *hour*, *ticket*, *enough*. The town is complicit. R2: she gave the Tithe; she did not build the lot.
-- **Do not clone.** Intake is the 5.3 underdog (desk, not road). Road-hands already walk. The Slide is not the official guilds. The four houses keep their own injustices.
+- **Bureaucratic voice is the point of this rewrite.** Forms, hours, *enough*. They think they are in a wells-and-yards story.
+- **Greens and halls folded.** Recovered effort goes to named instruments and lived shadow faces, not two more identical slates. Keep the buried leaf and the unswept bench as inscrutable texture.
+- **Unlock vs the Slide.** The audit's "pretend not to know" is no longer a lock. The town is still glad. The doors can now meet on-screen. A public wilt or Cry caused by a closed official door is the escalation.
+- **Moral parallax.** Distances: informational and causal. Engine: accumulation — every closed gate feeds a week-book. Comfort: *share*, *hour*, *ticket*, *enough*. R2: she gave the Tithe; she did not build the lot.
+- **Not a fifth faith.** No colour, no blessing except Vaethorn's courtesy-words over a share. Not a census: a bed-list is plants, a hall-slate is hours, a guild-roll is practitioners of a dangerous art. The ticketable pool is not a supervised third of the world. The one kingdom that writes *persons and gifts* is still only [[Polity Archetypes|Threnmaieth]]. Not the Road-hands. Not the four houses' travelling edges.
+- **Do not clone.** Intake is the underdog. Road-hands already walk. The four houses keep their own injustices. Long-houses stay deathless patronage.
 - **No Kind-gate. No Kumbaan export. No Furnishing pope.**
-- **Taste still open (do not treat as locked).**
-  1. Whether a town greenhouse is a civic stipend or a guild lot. Both can be true in different towns.
-  2. Whether Hall-Keepers and the Voice-ticket are one lintel (proposed: yes, because the seam Condition *is* the building) or two. Splitting them would clone a four-office shape onto a playhouse.
-  3. Long-houses stay deathless patronage. Do not grow a librarian-order in a later polish.
-- **Hooks.** A full greens-queue and a wilt two streets off; a counted hall that is late on purpose; a long-house junior who has started a book of weeks; a Book-hand's settling to a hall that has no hour left; a town that is glad someone "takes the late ones."

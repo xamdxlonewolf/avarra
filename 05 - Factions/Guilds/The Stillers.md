@@ -25,6 +25,16 @@ updated: 2026-08-30
 
 **In one sentence:** they will save you on the table, and they will make you drill until the Grey is gone — the ticket is competence, and the clock in the surgeon is the hospital's clock.
 
+## At the table
+
+| | |
+|---|---|
+| **Want** | A Gaze that holds a wound and not a person forever. A quiet infirmary. |
+| **Have** | The strictest ticket, a yard beside the theatre, a Grey-clock. |
+| **Fear** | A raw Stilled in the square and no Intake for three days. A ticket held as guild-property. |
+| **Live conflict** | The paying theatre wants the master. The shed has a stone person. The charter wants no headlines. |
+| **Hooks** | A riot-line and a surgery in the same hour; a Grey that will not burn off; a crown-stiller who will not release a bed. |
+
 ## Shape of the house (at a glance)
 
 - **The model the others imitate.** If you understand this guild, you understand a Voice-ticket and an element-ticket. A roster of practitioners of a dangerous art. Not a list of a people. The ticketable pool is large; this roll is stillers who Gaze, not every pale-stone in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
@@ -98,7 +108,7 @@ Skeptics are welcome. The Gaze does not require a Mother. Believers in Vaethorn 
 |---|---|---|
 | [[The Hall-Keepers]] · [[The Element-Guilds]] | Sister tickets. Shared Intake. | A Cry is not a Gaze. Do not send a throat to the yard to be stilled quiet. |
 | [[The Greens-Keepers]] | A Taken-In stiller still needs dirt. | The infirmary is not a lot. |
-| [[The Slide]] | Almost no contact. A stiller who needs green or novelty is a person, not a week. | Do not let a ticket become a week-rent. |
+| [[The Slide]] | A stiller who needs green or novelty is a person, not a week. Contact happens when the infirmary closes a bed. | A ticket that becomes a week-rent has left the yard. Let the doors meet; do not merge them. |
 | [[The Tree-Wardens]] | Pale stone is pointed here. | The warden Speaks. The guild trains. |
 | [[The Book-Hands]] | A settling may assume an infirmary. | A frontier with no stiller is an *owing*, not a miracle. |
 | [[The Watchers]] | A second reading may say *pale stone, not storm-grey.* | Description is not a stamp. |

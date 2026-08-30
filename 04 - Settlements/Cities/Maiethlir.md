@@ -11,7 +11,7 @@ region: "[[Maiethorn]]"
 population: a counted city — smaller than Orentel, older; the clerks will tell you a number after every Eolthael
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Maiethlir
@@ -70,7 +70,7 @@ Devotion is the job on the street: people still come because the hinge is holy. 
 No Epic-8 cast. Offices that must exist:
 
 - **Speaker / town-warden (Rithim, 🟡)** — Reckoned Hands pressure, practice-first, not Kind. Speaks the fall truly. The copy is a second, lesser seeing. Some summers they let it happen in the same breath. Some they do not. The crown has not replaced them. The Seat has not recalled them. That gap is load-bearing.
-- **The tablet-clerks** — Long-Lived among them, memory bent to the census rather than free to check it. A crown-archivist who remembers what a line was made to overwrite is a hook, not a name yet.
+- **The tablet-clerks** — Long-Lived among them, memory bent to the census rather than free to check it. Named instruments of the roll live on [[The Reckoned Offices]] (Menirein, Tarvae, Videm, Sirtal). They are not a replacement for this hearth. Rithim is still the town Speaker.
 - **The First Seat** — in the Motherwood, beside, a college not a throne. Some Speakers cooperate with the roll (they believe they are keeping the realm hale). Some refuse. A pilgrim who asks Rithim where the college is will be pointed at the wood, not the tablet-hall.
 - **Orenbren lodging** — a day's argument along the other road. They witness who slept, not what colour. Threnmaieth would like the lodging-rolls. Do not make Brenthael this city.
 - **Watchers in the oldest district** — a second reading *alongside*, not over. Filed as the Grown-Over. No seat.

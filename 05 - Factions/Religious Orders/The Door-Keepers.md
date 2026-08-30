@@ -12,7 +12,7 @@ seat: none — the land is the seat; a famous door-keeper is the one three valle
 public_face: they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when a town will not
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Door-Keepers
@@ -24,6 +24,16 @@ updated: 2026-08-23
 *(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical, 🟡: **the Vaelbren** — VAYL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* [[Polity Archetypes|Vaethorn]]'s second word is **the door-folk** (or *Before-speakers* when the fight is hot); [[Polity Archetypes|Lestrand]]'s is **grove-talkers** (a frontier curiosity); [[Polity Archetypes|Threnmaieth]] files them with the house as **the Unreached**.)*
 
 **In one sentence:** they are the person three valleys walk to when someone needs to know which drowning-pool still returns, which grove still takes people in — and the mouth that names a Struck *kin* at the door that made them, instead of walking them to a Tree to be filed as late.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | Doors walked, kin named, a dying graft fed as guest or as house — they will argue which. |
+| **Have** | A token from their door, names in the head, three valleys that will walk to them. |
+| **Fear** | A town that will not house the Struck they just named. A Watcher who will sit the Before *at* the Tree in their grove. |
+| **Live conflict** | Same Before, opposite edge. They will sit with [[The Watchers]]. At Vaelun the grove is already a guest. A meal can be refused. A Night Watch can be held in the green. |
+| **Hooks** | A dying graft two houses love; a Struck the town will not vouch; a Road-hand told to eat first; a Watcher describing a fall the land already claimed. |
 
 ## Shape of the order (at a glance)
 
@@ -114,7 +124,7 @@ Struck door-keepers must still be **vouched anew**. Naming them kin is the house
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
 | [[The Tree-Wardens]] | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the doors. Vaethorn's Hands-folk find the missing seat infuriating and, in a dry year, quietly useful. | A sickening Tree in an old grove: who is host. Play as neighbours who both love the wood. A Narrow-Hand preacher calling the Struck "not hers" is who they will not eat with. |
-| [[The Watchers]] | Two old memories, opposite edges. Before *at* the Tree / Before *without* one. | They would not agree if a campaign sat them down. Do not let them triangulate too neatly. |
+| [[The Watchers]] | Two old memories, opposite edges. Before *at* the Tree / Before *without* one. | **Unlock.** Sit them down. Do not tidy the Before into one story. Vaelun's guest-grove is the ordinary room. Escalation: a meal refused, a Night Watch in the green, a Road-hand in the middle. |
 | [[The Book-Hands]] | Kin-name and rewritten terms, sometimes the same Struck, same month. | Which name goes first. Two courtesies, not a trial. |
 | [[The Open Table]] | Ancestor-meals and a place set for staying-kin look, to a traveller, like cousins. They are not. The dead in the ground are not the unseen hands. | Do not fold the isle into a grove. There is no Vaeloren mission on [[The Sundering Isle\|Kumbaan]]. |
 
@@ -169,4 +179,5 @@ On its face: frontier courtesy, a little barbed — the drowning-stone saying re
   3. **Famous = three valleys will walk to them.** Load-bearing reputation-test. Do not grow a grove-college in a later polish unless play needs a face — and even then it is a meal, not a Seat.
   4. **Guest-reading / First-reading both tend the dying graft.** Load-bearing. The fight is the blessing, not whether the wood is fed.
 - **Do not invent a Kind-grove or a Kumbaan door-walk.**
-- **Hooks.** A dying graft two houses love; a Struck the town will not vouch and a Kin-speaker who will; a Road-hand told to eat first; a First-reading district that paid Cutting-leave and still withholds the Tender's line; a scholar who notices *vael* still means harvest here.
+- **Unlock vs Watchers.** The old "do not let them" lock is lifted. They will not triangulate neatly. That is the fight, not a reason to keep them apart.
+- **Hooks.** A dying graft two houses love; a Struck the town will not vouch and a Kin-speaker who will; a Road-hand told to eat first; a First-reading district that paid Cutting-leave and still withholds the Tender's line; a Night Watch in the green; a scholar who notices *vael* still means harvest here.
