@@ -7,7 +7,7 @@ status: active
 tags: [meta, audit, epic-2, review, handoff]
 aliases: [Epic 2 Review, Society Audit]
 created: 2026-08-21
-updated: 2026-08-21
+updated: 2026-08-30
 ---
 
 # Epic 2 Audit Guide
@@ -44,7 +44,7 @@ The salvaged refinement: she's real & benevolent **but bounded, and giving costs
 - [x] **Proof by vouching people** (Long-Lived memory / Bound binding word / Far-Voiced unfakeable feeling), not papers; the vulnerable are the *unvouched*. — *Does this feel like a clever Condition-labor advance or a stretch?*
 - [x] **The Struck** = those who changed *unwitnessed* (later, alone) → must be vouched anew. — *Is "a little suspect" now earned rather than prejudiced?*
 - [x] **The Inviolate Will** — no Condition compels a will; the legal floor under ~5%-scary. — *Good as constitutional bedrock?*
-- [x] **Guild safety-licence** — only the ~3 hazardous Conditions; held by the person; ~90% carry nothing. — *Narrow enough to not feel like surveillance?*
+- [x] **Guild safety-licence** — only the ~3 hazardous Conditions; held by the person; ~90% carry nothing. — *Narrow enough to not feel like surveillance?* **Later (Story R.6, 2026-08-30):** the ~90% line was false. Ticketable pool is ~29% of people; a ticket names a use, not a Condition; three guilds, no shared roll. See [[Law and Citizenship]].
 - [x] **The three pillars** (Long-Lived/Bound/Far-Voiced *are* the legal apparatus). — *Love it or too neat?*
 - [x] **Rights of the Kept** — default legal person; still-Struck-later; pitied where reverence runs hot.
 - [x] **Three polity stances:** Warm / **Watchful** (the one register-keeping kingdom — the dictator idea) / Frontier. — *Do these three read as good-faith + distinct? Is the Watchful the right "creepy exception"?*

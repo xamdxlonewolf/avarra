@@ -46,10 +46,13 @@ One of the Taken-In can coax growth, read the wild, and move through it unseen a
 
 The pleasant version is why the Taken-In live where they do: their work *is* their upkeep — a life spent on soil, among growing things, under open sky keeps the green in them fed without a thought. The Tithe only bites when one of the Taken-In is pulled off the land: a long sea voyage, a stretch in a stone gaol, a season stuck in a walled city on a lord's business. Old frontier custom is to send them home before they wilt, and city hosts who must keep one indoors learn to fill the room with potted green and open windows — a courtesy that doubles as keeping their guest from going to seed on the parlour floor.
 
+**They also live in the city.** Not as a contradiction. A copper-green leaf falls at a city Tree; family and a hearth-witness keep them. Grain-hands winter on the quay. [[The Greens-Keepers]] hire green-skill for the lot, then will not sit them at the high table. A rare Struck door opens in a walled grove. Green-poverty is a trap: lot-hours pay for staying whole, not for leaving. Polite districts keep them at arm's length (bark, antler, dirt). The lots are not empty. Fuller economy: [[Economy and the Tithe#Why Taken-In live in stone cities]]. World share stays ~13%; a stone city runs lower, concentrated on the greens. Enough for a queue. Enough for [[The Slide]].
+
 ## GM Notes
 
 Keep the go-to-seed strictly environmental — growth bursting from ground and structures, never roots seizing another creature or forcing an action. A Struck Taken-In's uncertainty ("did I walk out, or was I sent?") is rich long-game material — play it as quiet identity dread, not a hidden puppet-string; the wild in them is *part of them*, not a master. One of the Taken-In dragged deep into a dungeon, a ship's hold, or a stone keep and left to wilt is a slow-building set-piece, not a gotcha.
 
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
+- [[Economy and the Tithe]] — urban green · [[The Greens-Keepers]] · [[The Slide]]
 - Contrast: [[Far-Voiced]] · [[The Stilled]] (the other Both-path Conditions) · [[Returned]] (the other Condition remade by a near-death threshold — died-and-walked vs. lost-and-taken-in)

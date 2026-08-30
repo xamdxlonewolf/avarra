@@ -31,7 +31,7 @@ Everyday: **hall-keepers**, or **ael-hands.** Liturgical *Aeloren* 🟡. This is
 | **Live conflict** | The lamps are out. A throat is still full. Videm's channel says the hour held. The Slide's room still shuts. |
 | **Hooks** | A seventh-day term on a full slate; a sweep-hour that is the only hour a PC can afford; the unswept bench after a Cry no one will name. |
 
-A raw throat goes to [[The Intake]]. A shut room after the lamps is [[The Slide]]. They recruit by practice, not Kind. They do not run a mission-hall on [[The Sundering Isle|Kumbaan]].
+A raw throat goes to [[The Intake]]. A shut room after the lamps is [[The Slide]]. A Voice-ticket names a competence, not a census — [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]]. They recruit by practice, not Kind. They do not run a mission-hall on [[The Sundering Isle|Kumbaan]].
 
 ## Links
 - [[Tithe-Infrastructure]] — the sector this door belongs to

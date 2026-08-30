@@ -17,7 +17,7 @@ updated: 2026-08-30
 
 # The Greens-Keepers
 
-Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael* 🟡. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note.
+Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael* 🟡. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].
 
 **In one sentence:** they keep the lot — and they will not follow you home.
 

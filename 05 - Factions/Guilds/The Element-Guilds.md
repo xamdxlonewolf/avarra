@@ -37,7 +37,7 @@ updated: 2026-08-30
 
 ## Shape of the house (at a glance)
 
-- **Four doors, one grammar.** Ember (smiths, glass, firefighting). Tide (hulls, dyers, anything that wants water to behave). Root (masons, potters, the carrying-earth a Road-hand may buy). Gale (sails, mills, instruments, the wind a Tengu already knew). They share a ticket-logic and an Intake shed. They do not share a pope. An Ember-master does not set Tide's fees.
+- **Four doors, one grammar.** Ember (smiths, glass, firefighting). Tide (hulls, dyers, anything that wants water to behave). Root (masons, potters, the carrying-earth a Road-hand may buy). Gale (sails, mills, instruments, the wind a Tengu already knew). They share a ticket-logic and an Intake shed. They do not share a pope. An Ember-master does not set Tide's fees. The **shop is chartered**; journeymen sit under a door. That is not a census of every lamp-amber in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
 - **Self-paying until you leave.** Earnest work slakes the Tithe. The guild is therefore the upkeep. That is why the monopoly has metaphysical teeth: a benched Answered is not merely unemployed.
 - **They think they are in a craft-mystery story.** Apprenticeships, shop-rules, which coal may go dark. They do not call themselves elemental police. The ~5% dial stays at the idle workshop — not at a hunt for people who glow.
 - **Wildcard standing stays.** An even-tempered Root potter and a short-fused Ember smith share a name and almost nothing else. Do not write a planet-of-hats fire-cult.

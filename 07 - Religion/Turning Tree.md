@@ -47,7 +47,7 @@ The origin. Old beyond reliable dating, vast, and the one Tree no one grafted fr
 
 The rite the whole world is built around. Held in the **tenth-year solstice week** (calendar locked to solstice in [[The Premise]]; the reckoning is now fixed — the High Solstice / midsummer, held **[[The Reckoning of the Year|Turning-Week]]**).
 
-**Who attends.** Every child who turns ten since the last solstice, brought by family; the town gathers as witness; a **tree-warden** of [[The Tree-Wardens]] officiates (the town hearth; the First Seat is only a pilgrimage-week presence). It is simultaneously a sacred rite and the town's biggest festival of the year — part christening, part graduation, part fair.
+**Who attends.** Every child who turns ten since the last solstice, brought by family; the witness-circle gathers; a **tree-warden** of [[The Tree-Wardens]] officiates (the town hearth; the First Seat is only a pilgrimage-week presence). It is simultaneously a sacred rite and the settlement's biggest festival of the year — part christening, part graduation, part fair. In a village the witness-circle *is* the town. In a city it is a hearth; the square is still full. See [Turning-Week in a city](#Turning-Week%20in%20a%20city).
 
 **Staging.** Children come to the Tree one at a time (or in the small cohort of a given year), stand within the canopy's reach, and wait. The Tree turns and lets fall what it will. The rest of the town watches from the edge of the boughs.
 
@@ -55,7 +55,18 @@ The rite the whole world is built around. Held in the **tenth-year solstice week
 - **A colour falls → a Condition is Given.** One or more leaves of a telling colour drift down and settle on the child. **The colour names the Condition** (see *Reading the colours*, below). This is expected, "proper," celebrated — the child grows up already knowing what they'll become, and is trained and guilded toward it.
 - **The leaves hug, no colour → the child is Kept.** Instead of a coloured fall, the ordinary leaves *gather and wrap the child* — a green embrace, no naming colour. This marks one of **the Kept**: kept whole, wanted in their own right. The faith holds the hug as a chosen kindness; the schism argues over it (see [[The Leaf-Mother]]).
 
-**The feel at the table.** Aim for the emotional beat, not spectacle: a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again — or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. The Tithes carry most of the setting's scare. The rite's own shadow is thinner and human: a wrong word, a missed week. See [[The Wrong Green]], and the questions below.
+**The feel at the table.** Aim for the emotional beat, not spectacle: a held breath, a circle watching a single child, a parent who was themselves Given the same colour weeping when it falls again — or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. The Tithes carry most of the setting's scare. The rite's own shadow is thinner and human: a wrong word, a missed week. See [[The Wrong Green]], and the questions below.
+
+## Turning-Week in a city
+
+The Given-door is still **one week**. The Tree is still at the centre. A city of tens of thousands does not grow a second engine. It **nests** the witness.
+
+- **Stands are by hearth, through the week.** Morning, afternoon, eve. A quay-gang, a courtyard, a guild-stair, a lot. Eighty to two hundred mouths who already know the child. Hundreds of ten-year-olds do not stand as one unreadable crowd.
+- **The warden Speaks.** Colour or hug. They do not write a roll of gifts. The week-slate names *which hearths stand at which bell* — a festival schedule, like who has the square for the fair.
+- **The city as a crowd saw a crowd. The hearth saw a child.** That is the legal fact ([[Law and Citizenship#Turning in a city — the hearth stood]]). One pillar of the hearth (Long-Lived, Bound, or Far-Voiced who stood) carries the stand when a far desk asks.
+- **Threnmaieth writes the stand down.** Everyone else does not. A clerk who copies colours off a week-slate has started a Threnhael without a hymn.
+
+A village still watches as one circle. Do not narrate every settlement as a city. Do not invent a city register to "fix" Dunbar's number.
 
 ## Reading the colours (colour → Condition)
 
@@ -98,6 +109,7 @@ These are the backstory questions. The answers are custom, not a new engine. The
 | **The warden named it wrong.** | The Gift does not move. The town does. Speak a second word. Do not stand the child again. Train, un-train, apologise to the neighbour's week. Cite [[The Wrong Green]] (Harrow's, C.Y. 248): a hug Speaked as copper-green; two summers in a garden that could not teach them. | The square still cites the year. Not a haunted Tree. A civic name that wasted years. |
 | **White-fire fell. Or someone wants to say it did.** | A town-warden does not guess [[Phoenix]]. They send to the First Seat by runner. Naming white-fire is history, and a problem, already in the colour table. A false Phoenix-Speaking is the loud cousin of the Wrong Green. | Almost no living town has seen it. The child, if the Seat agrees, cannot hide. That weight is the Condition's, not a second Tithe invented here. |
 | **A child of the Open Table. A Yumboe under our boughs.** | If they stand in their tenth-year week, the Tree does what it does. If the host will not bring them, the week can end. There is no Kumbaan mission and no moon-warden. The fight, when it happens, is already in the port. | [[The Open Table]] holds that they were never lacking. A mainland warden holds that a tenth year is a tenth year. Neither is a villain. The door does not wait for the argument to finish. |
+| **The city cannot know every child.** A port of tens of thousands; hundreds of ten-year-olds in one week. | They stand **by hearth**, in named slots. The square is full. The memory is the street that brought them, plus one pillar who can carry it. Do not write the colours. | "I am of the third quay" is the citizenship sentence. Procedure: [Turning-Week in a city](#Turning-Week%20in%20a%20city) · [[Law and Citizenship]]. |
 
 **UnTurned is not Kept.** Kept means the leaves hugged and the town watched. UnTurned means the child never stood. Both lives can look the same (no Tithe, no guild). Only one was witnessed at the Tree. Citizenship still runs on who saw you; an unTurned neighbour is vouched as *this child we raised*, not as a colour or a hug. Fuller law: [[Law and Citizenship]].
 
@@ -120,6 +132,7 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 - **Firing pin.** Confirmation can fire. The artifact is [[The Spent Leaf]]; the desk that has it is [[The Remainder]]. Early rungs on [[Is the Leaf-Mother Real]] stay deniable. Do not use the Tree as a talking relic.
 - **Once-only is settled, and it does not change the engine.** The Given-door remains the tenth-year High Solstice week. A completed standing is once. A miss is not a standing and does not unlock next year. Some Kept are chosen for wholeness and some are past her reach *this turning*; she does not tell them apart, and a later week is not offered to sort them. That is the ache. Do not quietly invent a second-chance year — [[The Walking Years]] already said the one-week door is the engine's teeth.
 - **UnTurned stays distinct from Kept.** Player-facing custom already wants to fold them together. Let NPCs be sloppy. Do not let the law note be.
+- **City scale does not change the engine (Story R.6).** The Given-door is still one week. A completed standing is still once. UnTurned is still not Kept. A city nests the witness as hearths; it does not grow a register, a second-chance year, or a third Tree-outcome. Threnmaieth writing the stand down is still the aberration.
 - **Clergy offices:** built as [[The Tree-Wardens]] (names 🟡). Edge-case questions live in the table above. The colour→Condition palette stays locked. History of the grafts: [[The Ages of the Turning]]. The Open Table quarrel that can spend a week: [[The Open Table]].
 
 ## Links
@@ -132,5 +145,6 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 - [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]] — how the wood travelled; [[The Walking Years]]
 - [[The Wrong Green]] — the cited mis-Speaking (Harrow's, C.Y. 248)
 - [[The Open Table]] — the mainland lintel that can spend a tenth-year week
+- [[Law and Citizenship]] — hearth-stand, city witnessing (Story R.6)
 - [[The Spent Leaf]] · [[The Remainder]] — how a campaign can confirm the wood without a sermon
 - [[07 - Religion]]

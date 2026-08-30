@@ -9,7 +9,7 @@ aliases: [The Great Powers, The Fifteen, Named Powers, The Other Powers]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Powers of the Turning
@@ -57,7 +57,7 @@ Axes: **T**heology (Motherfaith gift-devotion) · **R**each · **G**overnance. �
 | **[[Brenledd]]** | [[Strandoren]] | ○ | ● | ○ | the Hearth-League — many charters, one compact | salt / river towns between houses |
 | **[[Leddvael]]** | [[Strandoren]] | ○* | ● | ◐ | the Reckoned Gift — Fair Hand as civic rite | salt quay with a signing-watch |
 | **[[Trenledd]]** | [[Strandoren]] | ○ | ● | ● | the Worn Count — a roll with the hymn worn off | road-end Tree-towns *filed* |
-| **[[Netstrand]]** | [[Strandoren]] | ◐ | ● | ○ | the Night Shore — west water, Heskoren trade | salt quay; prestige-walk as a product |
+| **[[Netstrand]]** | [[Strandoren]] | ◐ | ● | ○ | the Night Shore — west water, Heskoren trade | salt quay; hulls for hire (not the First-Hand year) |
 | **[[Polity Archetypes\|Vaethorn]]** | [[Heskoren]] | ● | ○ | ○ | the Waiting Lands — scarce gift, hot faith | pilgrim-edge — seat [[Eolvaeth]] (not the hamlets) |
 | **[[Ornled]]** | [[Heskoren]] | ○ | ○ | ○ | the Outer Ledger — secular frontier, no congregation-net | waiting cluster without a gospel |
 | **[[Vaelhesk]]** | [[Heskoren]] | ◐** | ○ | ○ | the Far Yield — Old Ways host-rights | guest-grove |
