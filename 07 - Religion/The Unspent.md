@@ -49,9 +49,11 @@ Not a sixth Turning. Not a way to become Long-Lived. Not [[Returned|Threnvaeth]]
 - **Tone.** ~5%. A deathless person putting a box of years on a shelf is sad and a little vain, not a blood cult. The scary edge is opt-in and later: a circle that will not let someone stop pouring.
 - **Reveal tag.** `the-unspent`. Player body is the hobby and the claim. Confirmation that the cupboard was already in the house stays behind this wall.
 - **Do not fold into R.7's other engines.** Not the Protectors. Not a Kept empire. The later sect wears *this* mask; it does not become a Hand.
+- **A mouth, not the house.** [[Reimaethe]] wants out before a fifth year. They are a seed. Do not grow the congregation around them on this page.
 
 ## Links
 - [[Long-Lived]] — the Condition whose funerals this practice answers
+- [[Reimaethe]] — volunteer who wants out (seed; house still later)
 - [[The Other Hands]] — five doors; this is not a sixth
 - [[The Leaf-Mother]] · [[Faiths of the Turning]]
 - [[Is the Leaf-Mother Real]] — do not fire the keystone through a cup

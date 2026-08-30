@@ -12,7 +12,7 @@ seat: the shed that does not face the street — borrowed from whichever ticket-
 public_face: the people who take a raw Struck in hand *and* apprentice them at once, before the town uses a rope
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Intake
@@ -147,7 +147,8 @@ On its face: a competent catching, a little desperate, a college's shame in a fo
 - [[The Slide]] — the overflow if the week fails · [[The Tree-Wardens]] — do not clone Road-hands
 - [[The Book-Hands]] · [[The Door-Keepers]] · [[The Watchers]]
 - [[Polity Archetypes]] · [[Naming in the Turning]]
-- [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
+- [[Tesara]] — Orentel catching-year · [[Valen]] — this week's Gaze · [[People of the Turning]]
+- [[Roadmap]] (Epic 5, Story 5.3; mouth R.8) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*

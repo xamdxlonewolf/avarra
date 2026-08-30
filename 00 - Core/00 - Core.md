@@ -21,3 +21,4 @@ The spine of the vault. **Canon** = what is actually true. **Cosmology** = how r
 
 ## Related
 - [[03 - Cultures]] — the Kinds (ancestries) and social grammar · [[Kind Heritage]] — Kind table rulings · [[Conditions]]
+- [[People of the Turning]] — Story R.8 cast hub

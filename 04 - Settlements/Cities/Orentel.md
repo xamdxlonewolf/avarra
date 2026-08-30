@@ -11,7 +11,7 @@ region: "[[Strandoren]]"
 population: a salt-city — tens of thousands; the Tree-town is the smaller half
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Orentel
@@ -65,12 +65,25 @@ Prestige is the job on the street: the walk you do not need, sold. That is how a
 
 ## People & Powers
 
-No Epic-8 cast. Offices that must exist:
+Cast: [[People of the Turning]]. [[Sorim]], [[Mataero]], and [[Tesara]] are people now, not only offices.
 
-- **The charter-council** — houses and craft-guilds. Watches the guild, never the individual. **Sorim** *(SOR-im)* 🟡 is a factor who can be asked who chartered the empty berths this Eolthael. They will answer in occupancy. They are not Ledan.
+**Named wants on this square (carried by people):**
+
+- [[Mataero]] — [[Sorel]] off the century-note
+- [[Sorim]] — berths 1–4 stay held; the hold-fee is the house-share
+- [[Tesara]] — [[Valen]] stamped before the floor takes the master back
+- [[Lasole]] — leaf-lot credit one more season
+- [[Didel]] of Hallowquay — a kin-berth for a wedding, not a First-Hand year
+
+[[Reimaethe]] lets a rise-room. [[Rosire]] works the ticket-infirmary downwind of the shed.
+
+Offices that must exist:
+
+- **The charter-council** — houses and craft-guilds. Watches the guild, never the individual. [[Sorim]] is a factor who can be asked who chartered the empty berths this Eolthael. They will answer in occupancy. They are not Ledan.
 - **Tree-tenders** — Lestrand's word for wardens. Practice-first, not Kind. Speak the fall as a civic fact. A colour that opens a guild is still a colour.
-- **[[The White Note House]]** — Ledan writes; Mataero lets. The north bed is house custom. Do not move Thilim here. Two fates, two lintels.
+- **[[The White Note House]]** — Ledan writes; [[Mataero]] lets. The north bed is house custom. Do not move [[Thilim]] here. Two fates, two lintels.
 - **[[The Book-Hands]]** — ordinary on this quay. Signing-watch as prestige if you book it. They do not rewrite Bound Terms. They do not sit a seat.
+- **[[The Intake]]** — [[Tesara]] sits the stillers' shed. Success is silence. Do not clone [[The Slide]].
 - **Road-hands / graft-carts** — rare; a pot on an Eolthael berth is cargo in the clerk's mouth. Do not clone them as a chapter-house.
 
 The Tithe-poor fade while the city steps around them. That is the injustice. Nothing is policed. Everything is priced.
@@ -105,4 +118,5 @@ Sorim cannot afford to see that "I did not invent the hold" is the market's inju
 - [[The Book-Hands]] · [[The Fair Hand]] · [[The Stillers]] · [[The Hall-Keepers]]
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — warranting
 - [[Eolvaeth]] · [[Maiethlir]] — the other two seats
-- [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3)
+- [[Sorim]] · [[Mataero]] · [[Tesara]] · [[People of the Turning]]
+- [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)

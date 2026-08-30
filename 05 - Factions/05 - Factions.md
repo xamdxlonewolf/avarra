@@ -40,7 +40,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 
 - [[The Tree-Wardens]] — Story 5.1 ✅ (everyday *tree-wardens*; liturgical *Orenhael* 🟡).
 - [[The Remainder]] — Story R.5 (everyday *the Remainder* / remainder-clerks). A desk of the First Seat, not a thirteenth house. They keep [[The Spent Leaf]]. Not the unused Quiet Cut.
-- [[The Watchers]] — Story 5.2 (everyday *Watchers*; liturgical *Nethoren* 🟡). No seat. Day jobs; the house is a practice.
+- [[The Watchers]] — Story 5.2 (everyday *Watchers*; liturgical *Nethoren* 🟡). No seat. Day jobs; the house is a practice. Mouth: [[Laevila]].
 - [[The Book-Hands]] — Story 5.2 (everyday *Book-hands*; liturgical *Leddhael* 🟡). No seat, many tables. Do **not** rewrite Bound Terms.
 - [[The Door-Keepers]] — Story 5.2 (everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡). The land is the seat.
 - [[The Table-Keepers]] — Story 5.2 (everyday *table-keepers*; own-name *Njaalo* 🟡). Kept.
@@ -71,7 +71,8 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 - [[The Hall-Keepers]] — everyday *hall-keepers*; liturgical *Aeloren* 🟡. One lintel (outlet + Voice-ticket).
 - [[The Stillers]] — everyday *stillers*; liturgical *Stelhael* 🟡. The model licence-guild.
 - [[The Element-Guilds]] — everyday *element-guilds*; umbrella *the Crae* 🟡. Four doors, not four orders.
-- [[The Intake]] — everyday *the Intake* / *the shed*; cant *catching-year* 🟡. Desk underdog, not a circuit.
+- [[The Intake]] — everyday *the Intake* / *the shed*; cant *catching-year* 🟡. Desk underdog, not a circuit. Mouth: [[Tesara]] (Orentel).
 
 ## Related
-- [[Roadmap]] · [[Powers of the Turning]] · [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]] 
+- [[Roadmap]] · [[Powers of the Turning]] · [[People of the Turning]]
+- [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]] 

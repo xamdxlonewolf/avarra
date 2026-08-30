@@ -49,6 +49,7 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 - Story R.7 may build the people who catch the fire. They use this engine; they do not rewrite it.
 - Story R.13 may write a hidden-Phoenix PC. If that PC still has a Rise left, they *are* the one Gift. A second leaf waits. If the opening needs an apparent two, the walker from the sanctuary is the remnant.
 - Epic 10 may pick which opening to run. Both are legal. Two Gifts at once is not.
+- Story R.8 seeded mouths only: [[Taeren]] (a hush at a thin Tree) and [[Rosire]] (a door that opened). Do not plot the opening on those notes.
 
 ## How It Surfaces (clues, in order)
 
@@ -73,4 +74,5 @@ Keep this behind the keystone. Do not lead with a second bird.
 - [[Is the Leaf-Mother Real]] — do not confirm her in player text to explain the slot
 - [[The Other Hands]] — Phoenix is hers only; no Other Hand Gives it
 - [[Roadmap]] — R.7 builds the harvesters; R.13 the hidden PC; Epic 10 the opening
+- [[Taeren]] · [[Rosire]] — R.8 seeds, not the house
 - [[11 - Secrets]]

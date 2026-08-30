@@ -11,12 +11,12 @@ region: "[[Strandoren]]"
 stratum:
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The White Note House
 
-> **A road-house that became a desk.** A [[Economy and the Tithe|deathless house]] of the trusted note. **Ledan** writes century-loans from a founding-summer the house calls the White Note's count ([[The Ages of the Turning|the clerk's query]]). **Mataero** *(mah-TAY-ro)* lets the loft. The north bed is house custom — not to let — a founding-name the junior is not to copy onto a term. Seeded as a house-year in Story 6.1, landed as present credit in [[The Years of Hands]]. **Placed Story 7.3:** the quay-desk sits on [[Orentel]]'s third quay, north side; the inland loft is in the rise behind. Do not make the desk the crown.
+> **A road-house that became a desk.** A [[Economy and the Tithe|deathless house]] of the trusted note. **Ledan** writes century-loans from a founding-summer the house calls the White Note's count ([[The Ages of the Turning|the clerk's query]]). [[Mataero]] *(mah-TAY-ro)* lets the loft. The north bed is house custom — not to let — a founding-name the junior is not to copy onto a term. Seeded as a house-year in Story 6.1, landed as present credit in [[The Years of Hands]]. **Placed Story 7.3:** the quay-desk sits on [[Orentel]]'s third quay, north side; the inland loft is in the rise behind. Do not make the desk the crown.
 
 > **Canon status.** 🟡 **Placed site.** Everyday *the White Note*; Lestrand still says *the bed-house* and means the bank. Founding ≈ C.Y. 80 (White Note year 200 = Cut-year 280, per Ledan's conversion-problem). Story 7.2 fleshed the other fate ([[The Third Hearth]]); 7.3 put this house on the Salt Quay without seating it. Do not invent a second banking-order. Do not give this house a clergy. Do not let Mataero's conversion be the only honest reading. Do not rebuild [[Orentel]] from this lintel.
 
@@ -48,4 +48,5 @@ The same fortune as [[The Third Hearth]], later. In Brenvaeth the house was beds
 - [[Orentel]] — the salt-quay seat · [[Polity Archetypes]] · [[Strandoren]]
 - [[Economy and the Tithe]] · [[Long-Lived]]
 - [[The Walking Years]] — the inn in the act
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3)
+- [[Mataero]] · [[Sorel]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)
