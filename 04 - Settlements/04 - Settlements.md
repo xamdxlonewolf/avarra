@@ -34,7 +34,12 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 ### Placed site
 - [[The White Note House]] — the desk fate; third quay, north side, Orentel
 
+### Pre-Walk leftovers (Story R.9 — uncounted; not adventure-sites yet)
+- [[The Low Wall]] — Orenbren lodging-country; not the Inner Close
+- [[The Seeing-Ring]] — over-built Watching hill; Tithsael keeps the night
+- [[The Dry Stair]] — Saelthael rise that does not climb to a Tree
+
 ## Related
 - [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]]
 - [[Powers of the Turning]] · [[People of the Turning]] — seats have named wants now
-- [[Roadmap]] (Epic 7 Stories 7.1–7.3 done; cast R.8) 
+- [[The Other Count]] — dated years · [[Roadmap]] (Epic 7 done; R.9 leftovers; next R.10) 

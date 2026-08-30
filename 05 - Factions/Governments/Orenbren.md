@@ -31,7 +31,9 @@ Inside the lodging-country, not as a sixteenth flag, sits the **[[The Walled Boo
 
 **Site.** [[Maiethorn]] Sacred Core's approach-country. Leftover: **origin pilgrimage-town**. Tree at the centre of each square; the road used to go further and now ends in a festival season.
 
-**How it formed.** Walking-era hearths that federated around the one-week door. When Hands made the origin-walk optional, the beds did not empty — they changed jobs. Adaptive reuse at polity scale: a lodging-network that learned it could levy, charter, and speak as one without becoming clergy.
+**How it formed.** Walking-era hearths that federated around the one-week door. In [[The Closing]] they would not starve a pilgrim-season to save a grove-lintel; that refusal is the compact's first weather. When Hands made the origin-walk optional, the beds did not empty — they changed jobs. Adaptive reuse at polity scale: a lodging-network that learned it could levy, charter, and speak as one without becoming clergy. The guest-compact with the Inner Close starts at Hildal's Retreat: beds outside, Book inside.
+
+**What they remember.** They housed the war by keeping the extra beds open. They did not sit the grove and they do not sit it now. Threnmaieth wants the lodging-rolls. The Close ranks who owes. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -55,5 +57,5 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 - [[Powers of the Turning]] · [[Maiethorn]] · [[The Tree-Wardens]] · [[Turning Tree]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Settlement Seeds]]
 - [[The Third Hearth]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
-- [[The Walled Book]] — the Inner Close
-- [[Polity Archetypes]] · [[Roadmap]] (Story 7.1; Story R.6)
+- [[The Walled Book]] — the Inner Close · [[The Closing]] · [[The Low Wall]]
+- [[Polity Archetypes]] · [[The Other Count]] · [[Roadmap]] (Story 7.1; Story R.6; history R.9)

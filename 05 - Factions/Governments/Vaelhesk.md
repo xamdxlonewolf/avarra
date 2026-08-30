@@ -12,7 +12,7 @@ seat: unnamed — the land is the seat
 public_face: old greens that keep host-rights — the first meal before anyone's leave
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Vaelhesk
@@ -29,7 +29,9 @@ Struck and [[The Taken-In]] are read as the land's own children. A neighbour's w
 
 **Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**. Play with the Door-Keepers. Do not clone [[Harrow's Green]].
 
-**How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200–387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal.
+**How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200–387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal. [[The Thaw-Break]] moved wet guests to high doors. [[The Hinge Hush]] does not write them: a first meal is not a landing-due. Netstrand crews who skip it learn this without a treaty.
+
+**What they remember.** Host-rights older than a Cut-year. Vaethorn reads their children as Kept-for-want. Both families are telling the truth they have. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -51,4 +53,5 @@ Feed the first meal. Name a Struck at the door that made them. Treat a warden wi
 ## Links
 - [[Powers of the Turning]] · [[Heskoren]] · [[The Old Ways]] · [[The Door-Keepers]]
 - [[Polity Archetypes]] · [[The First Cut]] · [[Settlement Seeds]]
-- [[The Three Hamlets Past the Ford]] · [[Roadmap]] (Story 7.1)
+- [[The Three Hamlets Past the Ford]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[Roadmap]] (Story 7.1; history R.9)

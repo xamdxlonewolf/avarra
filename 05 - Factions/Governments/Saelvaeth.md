@@ -12,7 +12,7 @@ seat: unnamed — do not make Harrow's the capital
 public_face: the live edge of the Grafting — a march, not a finished kingdom
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Saelvaeth
@@ -29,7 +29,9 @@ Governance is mid-low because *someone* must stand for the Harrow-sentence: ward
 
 **Site.** Heskoren's grafted pockets on the moving edge. Leftover: **live-front Tree-town**. Necessity's neighbour's week. Fate-pressure noted, not rolled ([[The Years of Hands]]).
 
-**How it formed.** The wave, this decade. Paying-enough, soil-enough, chain-enough nexts on a list written in the Motherwood. A polity made of luck-plus-queue. Vaethorn will preach unworthiness. History does not agree.
+**How it formed.** The wave, this decade. Paying-enough, soil-enough, chain-enough nexts on a list written in the Motherwood. A polity made of luck-plus-queue. [[The Grey Summer]] thinned the supply-line for a decade; [[The Thaw-Break]] made the neighbour's week worse mud. [[The Hinge Hush]] wrote one mercy: they may take a pot without a Vaethorn waiting-due. Vaethorn will preach unworthiness. History does not agree.
+
+**What they remember.** The queue is the border. Harrow's luck is politics. The clause does not make them next on the scion-queue. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -52,4 +54,5 @@ Keep taken grafts alive. Host the neighbour's week. Argue the next pot. Survive 
 ## Links
 - [[Powers of the Turning]] · [[Heskoren]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
 - [[Saelthael]] · [[Polity Archetypes]] · [[The Years of Hands]] · [[The Tree-Wardens]]
-- [[Settlement Seeds]] · [[Ornsael]] · [[Roadmap]] (Story 7.2)
+- [[Settlement Seeds]] · [[Ornsael]] · [[The Other Count]] · [[The Hinge Hush]]
+- [[Roadmap]] (Story 7.2; history R.9)

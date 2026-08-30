@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: the old gift-country that shares the Mother and will not keep a list
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Maiethvael
@@ -27,7 +27,9 @@ An old, Tree-dense Motherland realm that treats Tithe-provision as **public tend
 
 **Site.** Full-reach [[Maiethorn]] country in sight of the pilgrimage weather, not coiled on the grove. Leftover: origin pilgrimage-country that *furnishes* — the extra mile as hospitality, not as a roll-line.
 
-**How it formed.** Gift-integration that never accepted a census. When Threnmaieth began to write people down, Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. Light state on purpose. The gap is filled by faith and guild, not by a clerk.
+**How it formed.** Gift-integration that never accepted a census. [[The Two Papers]] (C.Y. 67) is the year: **Manril** would not be named to Limrae's roll. Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. Light state on purpose. The gap is filled by faith and guild, not by a clerk.
+
+**What they remember.** Same hymn, opposite paper. Threnmaieth's crown-count is a river-habit they will not convert. The Close's Book is someone else's rank. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -48,4 +50,4 @@ Keep the gift hale without writing the gifted down. Furnish generously. Pity the
 ## Links
 - [[Powers of the Turning]] · [[Polity Archetypes]] · [[Maiethorn]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Leaf-Mother]] · [[The Watching]]
-- [[Settlement Seeds]] · [[Roadmap]] (Story 7.1)
+- [[The Two Papers]] · [[The Other Count]] · [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; history R.9)

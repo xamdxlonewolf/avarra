@@ -73,6 +73,14 @@ The Long Mile sorted by **whether you could lose a year.** Food, shoes, a second
 
 [[The Old Ways]] households on Heskoren often **refused the walk** on purpose. Their children were already the land's. Motherfaith neighbours read those children as Kept-for-want, which is a misreading the walk itself cannot correct. Both families are telling the truth they have.
 
+### Who was let through
+
+Distance and coin were not the only sorters. A class of the untithed — **the Closed Seat**, folk **the Grove-Sitters** — sat on Thaeloren and decided who might stand under it. A family could have shoes and a Salt-Walk berth and still fail the lintel. **Grove-leave** was paper you carried to a gate.
+
+Far lands ran heavy on the Kept because some children did not walk, and because some children walked and were turned. Both fill a kitchen. The later romance of the old mile prefers the first cause. Folk songs remember the second.
+
+The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the lintel was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. Do not rebuild the road around a throne. The road was already a life. The gate was a third cruelty on it.
+
 ### Who died
 
 Children died on the road. So did the adults who carried them. River-crossings in the thaw, a fever in a packed Near-Mile inn, a late squall on the inner sea, hunger on a Long-Mile stretch between hearths, a birth that would not wait for the grove. This is not a slaughter-age and not a hymn. It is a logistics problem that killed people, which is what long roads do.
@@ -200,7 +208,7 @@ Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right 
 - **Hooks.** A Held bed with a name; a sibling Given/Kept pair and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.
 
 ## Links
-- [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Years of Hands]]
+- [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Closing]] · [[The Years of Hands]]
 - [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — the leftover's
 - [[The Third Hearth]] — Thilim still making the bed · [[The White Note House]] — the same fortune, later
 - [[Turning Tree]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]

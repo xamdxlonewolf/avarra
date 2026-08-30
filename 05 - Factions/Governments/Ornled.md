@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: a Tree-poor frontier that improvises Tithe as slate and favor — no congregation-net
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Ornled
@@ -29,7 +29,9 @@ They do not hate the Mother. They do not *use* her. Vaethorn hears the missing *
 
 **Site.** Frontier pockets off the hottest pilgrim-roads. Leftover: **waiting cluster without a gospel**. Same stones, same upper rooms if a walk used to pass; the leftover job is necessity, not devotion.
 
-**How it formed.** Kept/Struck-heavy districts that watched the waiting-theology arrive with the grafts and declined to make scarcity a soul-problem. Improvisation as culture. Low governance because no one has the spare people to be a state. The Fair Hand is a rumour from ships, not a civic rite — they have few Bound to make a book of.
+**How it formed.** Kept/Struck-heavy districts that watched the waiting-theology arrive with the grafts and declined to make scarcity a soul-problem. Improvisation as culture. Low governance because no one has the spare people to be a state. The Fair Hand is a rumour from ships, not a civic rite — they have few Bound to make a book of. [[The Thaw-Break]] gave one cluster a year they can point at: **Vathne**'s slate, after a waited pot drowned in someone else's thaw. The Hush writes them as *slate-shore*: a beach-fee, not a hymn. They were not asked.
+
+**What they remember.** Vaethorn hears godlessness. They hear a luxury that died in a cart. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -50,5 +52,6 @@ Stay whole with what is in the pot. Do not owe a hymn for green. Trade with Nets
 
 ## Links
 - [[Powers of the Turning]] · [[Heskoren]] · [[Polity Archetypes]]
-- [[Polity Archetypes]] · [[Law and Citizenship]] · [[The Intake]]
-- [[Settlement Seeds]] · [[Roadmap]] (Story 7.1)
+- [[Law and Citizenship]] · [[The Intake]]
+- [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; history R.9)

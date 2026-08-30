@@ -27,7 +27,18 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 - [[The Wrong Green]] — C.Y. 248; a hug Speaked as copper-green at [[Harrow's Green]]
 - [[Settlement Seeds]] — what Epic 7 inherits *(lives in `04 - Settlements`)*
 
+### The Other Count (Story R.9) — dated years that were not wood
+- [[The Other Count]] — chronicle hub; two clocks still stand
+- [[The Closing]] — C.Y. 19–38; Closed Seat war, collapse, Retreat
+- [[The Two Papers]] — C.Y. 67; Maiethvael / Threnmaieth; crown-count starts
+- [[The Grey Summer]] — C.Y. 171; quay-fever; Trenledd / Brenledd / Leddvael causes
+- [[The Thaw-Break]] — C.Y. 233; one-week melt
+- [[The Hinge Hush]] — C.Y. 304; current inner-sea peace
+- Leftovers (uncounted): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] *(sites live in `04 - Settlements`)*
+
 ## Related
 - [[The Reckoning of the Year]] — how a year is kept; Cut-years live there too
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The World Frame]] · [[Is the Leaf-Mother Real]]
+- [[Powers of the Turning]] — inherited claims · [[The Walled Book]] — remnant of the Closed Seat
+- [[The White Note House]] — Ledan's query is C.Y. 280
 - [[Roadmap]] · [[Build Plan]]

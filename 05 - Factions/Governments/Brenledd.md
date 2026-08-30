@@ -12,7 +12,7 @@ seat: none — a league, not a capital (capitals wait anyway)
 public_face: many charter-towns, one commercial compact — Lestrand's rival by arithmetic
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Brenledd
@@ -29,7 +29,9 @@ Faith worn light, same as the coast. Trees mature. Nothing is policed; everythin
 
 **Site.** The constellation behind and between the premier coast. Leftover: salt and river towns; some road-end Tree-towns that federated instead of fading into a deathless house's hinterland.
 
-**How it formed.** Towns that got tired of being the other party on a Lestrand note. Network emergence, not a founding king: the compact is a pile of charters that learned to speak together. Layered, ugly, and alive.
+**How it formed.** Towns that got tired of being the other party on a Lestrand note. After [[The Grey Summer]], in C.Y. 174, **Nidtol**'s hearth piled the first shared refusal — berth-fees in a summer with no berths, notes called early because a house was frightened. Network emergence, not a founding king: the compact is a pile of charters that learned to speak together. [[The Hinge Hush]] added a side-paper: hinge-tolls will not price them one hearth at a time either. Layered, ugly, and alive.
+
+**What they remember.** Lestrand still offers to simplify them. The fade happens in the gaps the league calls local. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -50,4 +52,5 @@ Keep many tickets cheaper than one house. Underwrite each other. Stay a league w
 ## Links
 - [[Powers of the Turning]] · [[Strandoren]] · [[Polity Archetypes]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Settlement Seeds]]
-- [[Roadmap]] (Story 7.1)
+- [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[Roadmap]] (Story 7.1; history R.9)

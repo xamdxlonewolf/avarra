@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: a Tree-rich interior that keeps a roll of persons and will not call it holy
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Trenledd
@@ -29,7 +29,9 @@ Wealthy [[Strandoren]] interior: mature Trees, dense Given, guilds thick — and
 
 **Site.** Tree-rich interior (not the deep thin interior — reach is high). Leftover: road-end Tree-towns that got *filed*; stones in squares with numbers on the back.
 
-**How it formed.** Guild-tickets plus deathless memory plus a council that distrusted living witness the way Threnmaieth does, without Threnmaieth's scripture. The three pillars work here and are treated as *insufficient* — feeling, word, and memory answer to themselves. A ledger answers to the desk. Evolutionary, not a coup: each crisis added a column.
+**How it formed.** Guild-tickets plus deathless memory plus a council that distrusted living witness the way Threnmaieth does, without Threnmaieth's scripture. [[The Grey Summer]] added the column that would not stop: **Dirrol** wrote *who is still alive to be found.* The three pillars work here and are treated as *insufficient* — feeling, word, and memory answer to themselves. A ledger answers to the desk. Evolutionary, not a coup: each crisis added a column.
+
+**What they remember.** They wanted [[The Hinge Hush]] written as persons. Both shores refused. The Worn Count is a fever's child, not a hymn's. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -51,4 +53,5 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 ## Links
 - [[Powers of the Turning]] · [[Strandoren]] · [[Polity Archetypes]]
 - [[Law and Citizenship]] · [[Naming in the Turning]] · [[The Old Tongue]]
-- [[Roadmap]] (Story 7.1)
+- [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[Roadmap]] (Story 7.1; history R.9)

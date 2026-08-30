@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: the Motherland's inner-sea ports — old, rich, and cooler than the grove
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Eolstrand
@@ -29,7 +29,9 @@ updated: 2026-08-24
 
 **Site.** Inner-sea face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore — people embarked *from* Strandoren; they landed here).
 
-**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides.
+**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides. [[The Grey Summer]] taught the hinge what a quiet sea costs. [[The Hinge Hush]] (Taerso, C.Y. 304) is the rate they still charge: blessing in the mouth, paper on the other shore.
+
+**What they remember.** They did not write a winner. They learned, looking across the water, to step around a fade. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 
@@ -50,4 +52,5 @@ Keep the inner sea the world's highway. Broker pilgrimage-traffic and cargo with
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[Strandoren]] · [[Polity Archetypes]]
 - [[Kinds of the Turning]] · [[Selkie]] · [[The Walking Years]]
-- [[Roadmap]] (Story 7.1)
+- [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[Roadmap]] (Story 7.1; history R.9)
