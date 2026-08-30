@@ -10,7 +10,7 @@ world: The Turning
 domain: hospitality, the moon, the staying-kin, the unseen hands
 reveals: [leaf-mother-is-real]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Open Table
@@ -58,6 +58,34 @@ Full faction: [[The Table-Keepers]] (Epic 5, Story 5.2). Names 🟡. The load-be
 
 Both branches set the extra place. A Serving host who will not say the dead's names and a Staying host who will not stop saying them will still pass the same cup. The argument is for after the dishes.
 
+## The sentence at the mainland lintel
+
+On Kumbaan, *no one is a stranger twice* is how you belong. On the mainland, you belong because a town watched you Turn.
+
+This is the faith's edge on the mainland. It does not need a mission and it does not need a chapel on [[Strandoren]]. It needs a room, a tenth year, and a clerk who has a different grammar.
+
+### Two sittings, one week
+
+**The everyday collision (citizenship).** A guest sits a second night in a Lestrand attic. The host says the sentence and means it. A quay clerk, a Book-hand, a warden passing through, wants a Turning-witness before they will treat that person as *of a place*. Inside the room: kin. Outside the door: guest. Neither office is cruel. The sentence does not cross the lintel intact.
+
+**The week that can close (the Given-door).** A child of the table — isle-raised, convert-raised, a sailor's tenth summer in a port — reaches Turning-Week. The host will not walk them to a [[Turning Tree]]. They were never lacking. A neighbour or a town-warden will. The Given-door is **one week** ([[Turning Tree#Questions a warden gets asked]]). If the argument outlasts Eolthael, the child is unTurned. Struck doors still open later. That is not a comfort the host asked for, and not a victory the warden can file as kindness.
+
+This is not a Kumbaan crusade. The child is already on the mainland. The storm-wall stayed where it was.
+
+### How to start it at the table
+
+You do not need a council. You need one supper and one square.
+
+1. **Night.** Extra place set slightly back. Second sitting, or about to be. The host says the sentence, or refuses to take a ten-year-old down to the Tree in the morning.
+2. **Morning.** A warden, a clerk, or a neighbour who *did* Turn this child-in-all-but-the-wood is in the street with a cohort list, a gossip, or a kind offer.
+3. **The week has days left, or it doesn't.** If you play this in Hale-month, it is manners. If you play it in Eolthael, it is a life.
+
+**Mbela** *(MBEH-lah)* keeps an attic off a Lestrand salt-stair and will not spend a child's week on a colour. **Sorel** of the quay will not file a second supper as belonging, and will walk a tenth-year neighbour to the Tree if the host will not. They are not a party. They are two grammars that share a landing.
+
+Romanticizing the Moon-Feast is itself a slight. Printing the sentence on a luck-card is how Lestrand files the whole faith. The woman in the attic still sets the place.
+
+House detail (who lays the plate, what they refuse): [[The Table-Keepers]].
+
 ## In-world text
 
 *A place-setting blessing, said to the empty plate before the hands arrive. Taught to children. Heard once, badly copied, by a Strandor sailor who did come back. `oblique-worldbuilding`.*
@@ -70,8 +98,9 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 - [[Faiths of the Turning]] — the map · [[Yumboe]] — the people who keep this
 - [[The Sundering Isle]] (Kumbaan) · [[The Child at Four Doors]]
 - [[The Leaf-Mother]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon, not the solstice)
-- [[The Table-Keepers]] — the working house (Story 5.2)
-- [[The Shore-Sitters]] — sister house on the storm-beach (Story 5.2). They wait; they do not seat.
+- [[The Table-Keepers]] — the working house
+- [[The Shore-Sitters]] — sister house on the storm-beach. They wait; they do not seat.
+- [[Turning Tree]] — the one-week door the mainland lintel can spend
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
@@ -79,5 +108,6 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 
 - **The cleanest control.** A cosmology with zero Motherfaith contamination — and, per [[The Other Hands]], **not of her household**. Do not fold the staying-kin into Threnvaeth or anyone else. Yumboes: no Gifts on the isle; Struck possible but rare (see [[Yumboe]]). Their doctrine (*we were never lacking*) is still a late beat.
 - **Not ghosts.** The source myth calls Yumboes ancestral spirits. We reinvented them as a playable Kind. Ndeyaan keeps the ancestral *idiom* and parks it in the hands, not in the people. The Returned already own literal undeath. If a table leans Staying, play it as family-who-serve, not as haunt.
-- **Hospitality is the ~5% dial at its gentlest.** A Yumboe host is wonder, not threat. The uncanny is the hands and the distance. Do not turn the Open Table into a trap-cult or a "eat and you belong forever" fairy-bargain — that is the Fair Hand's grammar leaking in. "No one is a stranger twice" is courtesy with legal weight, not a geas.
+- **Hospitality is the ~5% dial at its gentlest — until a tenth year is in the room.** A Yumboe host is wonder, not threat. Do not turn the Open Table into a trap-cult or a "eat and you belong forever" fairy-bargain — that is the Fair Hand's grammar leaking in. "No one is a stranger twice" is courtesy with legal weight, not a geas. The scare, when you need one, is the week closing while two good offices argue.
+- **Play the lintel.** The sentence vs witnessed citizenship, and the host who will not walk a child to a Tree. Do not invent a mission-chapter to make the faith reachable. Mbela and Sorel are scene-faces, not Epic-8 pivots.
 - **The calendar tell.** Kumbaan keeps the moon, not the High Solstice ([[The Reckoning of the Year]]). That is already a keystone tell (a people outside her ordinary hand keep a different sky). Ndeyaan is the faith-face of that fact. Don't over-explain it; let a mainland priest notice that their holiest week is, here, just weather.

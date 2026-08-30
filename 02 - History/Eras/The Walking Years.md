@@ -12,7 +12,7 @@ preceded_by: "[[Before the Walk]]"
 followed_by: "[[The Years of Hands]]"
 reveals: [leaf-mother-is-real]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The Walking Years
@@ -43,7 +43,7 @@ Miss the week and the door has shut. An eleven-year-old at the origin the follow
 
 This is why families from any distance **left early**, and why the richest or most frightened far households spent a *year* at the origin: a nine-year-old wintered in a road-house so they could not miss. The held-over child is the expensive mercy. Everyone else gambled one summer.
 
-*(🟡 Proposed — follows the locked tenth-year engine. Flip only if a later story needs a second-chance year; do not quietly invent one.)*
+*(🟡 Proposed — follows the locked tenth-year engine. Flip only if a later story needs a second-chance year; do not quietly invent one.)* Hands-era towns with a local Tree did not grow a second door. A fever in your own square in Eolthael is the same shut week as a late Long-Mile arrival. Procedure for misses, refusals, and the folk habit of calling every unGifted child Kept: [[Turning Tree#Questions a warden gets asked]].
 
 ### Three walks, not one road
 

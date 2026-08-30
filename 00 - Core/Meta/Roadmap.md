@@ -78,12 +78,14 @@ updated: 2026-08-30
 - [x] Explain how dispersed Kind hearths transmit culture without becoming Kind-nations — **the other kitchen** (fox-summer / another strand / other perch / hill-feast). → [[Kinds of the Turning]]
 - [x] Address mixed-Kind children in the setting's layered identity model — mainland mixes **allowed** as the SRD; register from a Kind you wear; byname follows place; [[Yumboe]] GM-leave and unmixed
 
-### Story R.4: Religion and the Turning Tree
-- [ ] Add a scannable "Questions a warden gets asked" section to [[Turning Tree]] covering missed solstices, refusal, orphans, adults who never Turned, whether the rite can repeat, and other likely backstory cases
-- [ ] Settle Leaf-Fall failure and edge-case procedure without confirming the Leaf-Mother in player-facing text
-- [ ] Add one restrained point of religious dread, using the Phoenix fall or a historical mis-Speaking without moving the setting above its 5% scary dial
-- [ ] Give each Other Hand a positive want; state what Orledd receives in a Bound bargain and what strains or breaks the Leaf-Mother's allowance
-- [ ] Turn the Open Table's sentence-that-will-not-travel into a visible table conflict instead of leaving it buried in an order note
+### Story R.4: Religion and the Turning Tree ✅ **DONE (2026-08-30)**
+- [x] Add a scannable "Questions a warden gets asked" section to [[Turning Tree]] covering missed solstices, refusal, orphans, adults who never Turned, whether the rite can repeat, and other likely backstory cases
+- [x] Settle Leaf-Fall failure and edge-case procedure without confirming the Leaf-Mother in player-facing text
+- [x] Add one restrained point of religious dread, using the Phoenix fall or a historical mis-Speaking without moving the setting above its 5% scary dial → [[The Wrong Green]]
+- [x] Give each Other Hand a positive want; state what Orledd receives in a Bound bargain and what strains or breaks the Leaf-Mother's allowance → [[The Other Hands]] · [[Bound]]
+- [x] Turn the Open Table's sentence-that-will-not-travel into a visible table conflict instead of leaving it buried in an order note → [[The Open Table#The sentence at the mainland lintel]]
+
+> **R.4 recorded decisions (did not change the locked engine).** The Given-door stays one week in the tenth year ([[The Walking Years]]). A completed standing (colour or hug under sound wood) is once. A miss, refusal, or unsound Tree that spends the week makes a child **unTurned**, not Kept, and does not unlock next year. Struck remains the later mercy. Some Kept are past her reach *this turning*; she does not tell them apart, and a later week is not offered to sort them. Player-facing text does not confirm her. The dread is a human mis-Speaking, not an eerie Tree. Other Hands wants and allowance failure stay GM-only. No Kumbaan mission; the Open Table fight is a mainland lintel.
 
 ### Story R.5: Secrets and revelation
 - [ ] Move the keystone truth leaks in [[Turning Tree]], [[The Leaf-Mother]], and the affected faction notes beneath proper `## GM Notes` walls
@@ -447,7 +449,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic R: Editorial repair and table readiness:** 20 / 97 tasks (21%). **⭐ Active next — Story R.4.** Source: [[Editorial Audit 2026-08-29]]. **Story R.1 ✅** (population arithmetic; Unbound inside Bound; Premise is the sole census). **Story R.2 ✅** (Condition mechanics; one-Gift rule in [[When the Fire Is Caught]]; no level scaling). **Story R.3 ✅** (Hearth-Mark, not a trim; Mixed Ancestry as SRD; Yumboe GM-leave and full Kind; one surprise keyword; other kitchen). Includes three distinct opposition engines and the deferred hidden-Phoenix campaign seed agreed 2026-08-30. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
+- **Epic R: Editorial repair and table readiness:** 25 / 97 tasks (26%). **⭐ Active next — Story R.5.** Source: [[Editorial Audit 2026-08-29]]. **Story R.1 ✅** (population arithmetic; Unbound inside Bound; Premise is the sole census). **Story R.2 ✅** (Condition mechanics; one-Gift rule in [[When the Fire Is Caught]]; no level scaling). **Story R.3 ✅** (Hearth-Mark, not a trim; Mixed Ancestry as SRD; Yumboe GM-leave and full Kind; one surprise keyword; other kitchen). **Story R.4 ✅** — warden questions and Leaf-Fall failure on [[Turning Tree]]; dread → [[The Wrong Green]]; Other Hands wants / Orledd receive / allowance strain → [[The Other Hands]]; Open Table lintel → [[The Open Table]]. Engine untouched (one-week Given-door; unTurned ≠ Kept; no second standing). World book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology. ~12 named-stub powers ✅ Story 7.1. Rival faiths ✅ Story 1.4.
@@ -464,4 +466,5 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]] — Story 7.2 squares · [[Settlement Seeds]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats · [[The White Note House]]
 - [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
+- [[The Wrong Green]] — Story R.4 cited mis-Speaking · [[Turning Tree]] · [[The Open Table]] · [[The Other Hands]]
 - [[Conditions]] · [[Kind Heritage]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]]

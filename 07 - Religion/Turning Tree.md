@@ -11,7 +11,7 @@ region:
 stratum:
 reveals: [leaf-mother-is-real]
 created: 2026-08-19
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Turning Tree
@@ -57,7 +57,7 @@ The rite the whole world is built around. Held in the **tenth-year solstice week
 - **A colour falls → a Condition is Given.** One or more leaves of a telling colour drift down and settle on the child. **The colour names the Condition** (see *Reading the colours*, below). This is expected, "proper," celebrated — the child grows up already knowing what they'll become, and is trained and guilded toward it.
 - **The leaves hug, no colour → the child is Kept.** Instead of a coloured fall, the ordinary leaves *gather and wrap the child* — a green embrace, no naming colour. This marks one of **the Kept**: kept whole, wanted in their own right. Per the locked keystone truth this is a *chosen kindness*, not a failure or an oversight ([[Is the Leaf-Mother Real]]) — though in-world, the faith holds this on belief, and the schism argues over it (see [[The Leaf-Mother]]).
 
-**The feel at the table.** Aim for the emotional beat, not spectacle: a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again — or a parent who quietly hoped for the hug. The ~5%-scary edge is *elsewhere* (in the Tithes); the Leaf-Fall itself is warm, weighty, and communal.
+**The feel at the table.** Aim for the emotional beat, not spectacle: a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again — or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. The Tithes carry most of the setting's scare. The rite's own shadow is thinner and human: a wrong word, a missed week. See [[The Wrong Green]], and the questions below.
 
 ## Reading the colours (colour → Condition)
 
@@ -83,11 +83,44 @@ Rare, mixed, or argumentative falls (two colours; a colour no one present has se
 
 > **A Tree never Strikes.** The Tree only **Gives** or **Keeps**. The **Struck** (Conditions that arrive through a later threshold — a drowning, an oath, a death survived) happen *away* from the Tree, with no leaf and no ceremony (locked in [[The Premise]]). The faith's reading of the Struck — whether they're still the Mother's doing — is exactly the live schism fleshed in [[The Leaf-Mother]].
 
+## Questions a warden gets asked
+
+These are the backstory questions. The answers are custom, not a new engine. The Given-door is still **one week**: the High Solstice week of the year you turn ten ([[The Walking Years]] locked the teeth; Hands-era towns did not grow a second chance). A healthy Tree that is stood under still does one of two things: a colour, or a hug.
+
+| Question | What the town does | What that does to a life |
+|---|---|---|
+| **We missed the week.** Fever, a shut pass, a boat that did not come. The child was ten, and not under the boughs. | They are **unTurned**. The door has shut. Next summer they may visit the square; they do not stand for a Gift. [[The Premise\|Struck]] doors still open later, elsewhere. The expensive mercy is still the old one: winter a *nine*-year-old near a sound Tree so this week cannot be missed. | No colour, no hug. Neighbours remember the miss. Folk will call them Kept. The law should not. Kept is a hug the town watched. |
+| **We will not stand.** A family refuses the Tree — Old Ways, Open Table, fear, a quarrel. | The Tree does not chase them. Same legal result as a miss: **unTurned**, door shut. A warden may ask once. They do not put a rope on a child to make a Gift. | [[The Old Ways]] already treat refusal as a different door, not a failure. [[The Open Table]] will not walk a child of the table to a Tree. That quarrel can spend the week. See [[The Open Table#The sentence at the mainland lintel]]. |
+| **Who brings an orphan?** No living parent, or none who will come. | The town is the family. Kin first; then the household that feeds them; then the **warden-hearth**. An orphan who stands is witnessed like anyone. An orphan no one brings is a miss. | Origin-orphans are older than grafts: a Given child whose only crowd was a continent away, or a road-house child with no mouth to walk them home ([[The Walking Years]]). They need vouching, not a second leaf. |
+| **An adult who never Turned.** Road-child, refuse-child, storm-year, isle-raised, held-over who still missed. | They stay **unTurned**. They do not stand for a Gift at thirty. They can be vouched as the person the town raised. They can still be Struck. Some hearths file them as Kept to be kind. That kindness is sloppy law. | A playable backstory, not a late appointment. The mercy is the later door, or ordinary life with no Tithe and a thinner witness. |
+| **Can they stand again?** Wrong colour wanted. Hug regretted. Parent sure the Tree "missed." | **No.** A completed standing — colour *or* hug, under a Tree the warden called sound — is once. The blessing already says the Hand does not reach twice by chance. A warden who offers a second Leaf-Fall is not being generous. They are inventing a rite the wood has never answered. | You may correct a **Speaking**. You may not rerun a fall. [[The Wrong Green]] is the cited year. |
+| **Our Tree is sick this week.** Blight, a dying canopy, a scion too young. | Do not stand them under unsound wood. Borrow a neighbour's canopy *this same week*. A warden who lets a cohort stand under a Tree they know cannot Turn has spent the week. Those children are unTurned. | The civic crisis is already on this note. The new sentence is timing: next year is not a repair. |
+| **The child is already Struck.** Drowned at nine. Died and [[Returned]] in the spring. A contract no ten-year-old should have reached, and did. | Bring them for **acknowledgment**, not a Gift. The Tree does not Strike, and it does not stack a second Condition on a first. Some canopies still hug them. The town reads that as welcome. A colour on an already-Struck child is a Seat problem, not a second life. | They are Struck, vouched anew, guilded if the door is hazardous. The tenth year is how the square takes them in. It is not a redo. |
+| **Twins, two colours, a fall no one will name.** | Two children, two standings, two outcomes. A mixed or argumentative fall is why the **Speaking** exists. Folk-known colours the square can already read; the warden's word makes them civic. Rare texts live at the First Seat. | Dual practice is common: a Watcher may describe the same fall alongside, not over ([[The Watchers]]). Two authoritative Speakers in one square is a fight. |
+| **The warden named it wrong.** | The Gift does not move. The town does. Speak a second word. Do not stand the child again. Train, un-train, apologise to the neighbour's week. Cite [[The Wrong Green]] (Harrow's, C.Y. 248): a hug Speaked as copper-green; two summers in a garden that could not teach them. | The square still cites the year. Not a haunted Tree. A civic name that wasted years. |
+| **White-fire fell. Or someone wants to say it did.** | A town-warden does not guess [[Phoenix]]. They send to the First Seat by runner. Naming white-fire is history, and a problem, already in the colour table. A false Phoenix-Speaking is the loud cousin of the Wrong Green. | Almost no living town has seen it. The child, if the Seat agrees, cannot hide. That weight is the Condition's, not a second Tithe invented here. |
+| **A child of the Open Table. A Yumboe under our boughs.** | If they stand in their tenth-year week, the Tree does what it does. If the host will not bring them, the week can end. There is no Kumbaan mission and no moon-warden. The fight, when it happens, is already in the port. | [[The Open Table]] holds that they were never lacking. A mainland warden holds that a tenth year is a tenth year. Neither is a villain. The door does not wait for the argument to finish. |
+
+**UnTurned is not Kept.** Kept means the leaves hugged and the town watched. UnTurned means the child never stood. Both lives can look the same (no Tithe, no guild). Only one was witnessed at the Tree. Citizenship still runs on who saw you; an unTurned neighbour is vouched as *this child we raised*, not as a colour or a hug. Fuller law: [[Law and Citizenship]].
+
+### When the Leaf-Fall fails
+
+Failure is about **not completing a standing**, not a third thing the Tree does.
+
+- **A healthy Tree, a child under the boughs, the town watching:** a colour falls, or the leaves hug. Wardens do not write a third outcome in the book.
+- **The week is missed, refused, or spent under unsound wood:** no Given. The later doors still exist. That is the whole mercy.
+- **The rite is interrupted** (fire in the square, a bough down, the child pulled away before the fall): if the week still has days and the Tree is sound, finish the standing. If the week is gone, treat it as a miss.
+- **The Speaking fails:** see [[The Wrong Green]]. Correct the word. Do not bargain with the wood for a different life.
+
+A parent who asks *what if the Tree simply does nothing* is asking a question the hearths do not keep a form for. A skeptic will say that is because it is just a tree, and trees that Turn, Turn. A believer will say the Hand does not come to the square to shrug. The working clergy side with the book they have: two outcomes, or the child was not there.
+
 ## GM Notes
 
 - **This note is player-facing but keystone-adjacent.** It carries `reveals: [leaf-mother-is-real]` because the *graft continuity* ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms the Leaf-Mother is real and present. Present it to players as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics in-world grant the grafting (it's observable horticulture) while denying the conclusion (that a *mind* chooses through it).
-- **The scary edge is not here.** Resist making the Tree eerie or the ceremony sinister — that's off-tone for this setting and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Dread lives in individual Tithes, not in the rite.
-- **Clergy offices:** built as [[The Tree-Wardens]] (Epic 5 Story 5.1; names 🟡). The Awakening Tree's continent is placed ([[Maiethorn]]); the calendar is locked ([[The Reckoning of the Year]]); the colour→Condition palette is locked above; the other faiths that share (or refuse) this Tree are built in [[Faiths of the Turning]]. History of the grafts: [[The Ages of the Turning]]. Fixed here: one origin Tree, town Trees are living grafts of it, Trees mature/sicken/die, the Leaf-Fall's staging and its two outcomes, and that there is a clergy-authoritative colour-language.
+- **The scary edge is not the wood.** Resist making the Tree eerie or the ceremony sinister — that's off-tone and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Most dread still lives in Tithes. The one shadow *inside* the rite is human and cited: [[The Wrong Green]]. Do not add a third visible outcome, a cursed fall, or a retry-leaf to "fix" a hug.
+- **Once-only is settled, and it does not change the engine.** The Given-door remains the tenth-year High Solstice week. A completed standing is once. A miss is not a standing and does not unlock next year. Some Kept are chosen for wholeness and some are past her reach *this turning*; she does not tell them apart, and a later week is not offered to sort them. That is the ache. Do not quietly invent a second-chance year — [[The Walking Years]] already said the one-week door is the engine's teeth.
+- **UnTurned stays distinct from Kept.** Player-facing custom already wants to fold them together. Let NPCs be sloppy. Do not let the law note be.
+- **Clergy offices:** built as [[The Tree-Wardens]] (names 🟡). Edge-case questions live in the table above. The colour→Condition palette stays locked. History of the grafts: [[The Ages of the Turning]]. The Open Table quarrel that can spend a week: [[The Open Table]].
 
 ## Links
 - [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy)
@@ -97,4 +130,6 @@ Rare, mixed, or argumentative falls (two colours; a colour no one present has se
 - [[Is the Leaf-Mother Real]] — GM keystone truth this note points at
 - [[Conditions]] — what can be Given · [[Build Plan]] · [[Roadmap]]
 - [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]] — how the wood travelled; [[The Walking Years]]
+- [[The Wrong Green]] — the cited mis-Speaking (Harrow's, C.Y. 248)
+- [[The Open Table]] — the mainland lintel that can spend a tenth-year week
 - [[07 - Religion]]

@@ -39,13 +39,13 @@ She cannot (or will not) Give a death or a contract to a ten-year-old — those 
 
 Not a D&D twelve. Five Hands, five doors, five Conditions that can arrive without a leaf. Each is **restricted**: one door, one grant, her allowance. They are not a dark court and not a rival pantheon. They are *family labour* — the work she cannot do at the Tree without breaking what a gift is.
 
-| Door | Condition | Everyday name | Liturgical (Maiethren) | The fresh angle (not the cliché) |
-|---|---|---|---|---|
-| died with work unfinished | [[Returned]] | **the Quiet Tally** | *Threnvaeth* (THREN-vayth) — "the counted waiting" | Not Hades, not a reaper. A **clerk of leftover purpose**. Will not close the book while work remains. Warm-solemn, like the Returned themselves. |
-| a contract sworn in extremity | [[Bound]] (and [[The Unbound]] when the term ends) | **the Counterparty** | *Orledd* (or-LED) — "the witnessed reckoning" | Not a devil. The one who **answers a sworn ask** and keeps the term. The Bound's chosen face (demon / vast / unknown) is a *mask they gave*; Orledd wears it. |
-| survived drowning | [[Far-Voiced]] (Struck path) | **the Second Breath** | *Eloren* (ay-LOR-en) — "the deep-witness" | Not Poseidon. The deep that **returns a voice**. The Given Far-Voiced is hers; the drowned one is Eloren's. |
-| survived being turned to stone | [[The Stilled]] (Struck path) | **the Holding** | *Ornhael* (orn-HAYL) — "the whole-ground" | Not a curse-god. The ground that **holds you still and lets you walk out**. |
-| lost and dying in the deep wild | [[The Taken-In]] (Struck path) | **the Taking** | *Vaelorn* (VAYL-orn) — "the yield-land" | Not a hungry forest. The land that **will not let you die unmade** — *vael* in the Old Ways' older sense. |
+| Door | Condition | Everyday name | Liturgical (Maiethren) | What they want (positive) | The fresh angle |
+|---|---|---|---|---|---|
+| died with work unfinished | [[Returned]] | **the Quiet Tally** | *Threnvaeth* (THREN-vayth) — "the counted waiting" | **The last task done well.** Unfinished work finished, the book closed honestly. | Not Hades. A clerk of leftover purpose. Will not close the book while work remains. Warm-solemn, like the Returned themselves. |
+| a contract sworn in extremity | [[Bound]] (and [[The Unbound]] when the term ends) | **the Counterparty** | *Orledd* (or-LED) — "the witnessed reckoning" | **An extremity that can still be answered, and the answer stay readable.** Fewer kept bargains, not more unread ones. | Not a devil. The one who answers a sworn ask and keeps the term. The Bound's chosen face is a *mask they gave*; Orledd wears it. |
+| survived drowning | [[Far-Voiced]] (Struck path) | **the Second Breath** | *Eloren* (ay-LOR-en) — "the deep-witness" | **Voices that would have stopped, used.** Song, warning, comfort — breath spent, not stored. | Not Poseidon. The deep that returns a voice. The Given Far-Voiced is hers; the drowned one is Eloren's. |
+| survived being turned to stone | [[The Stilled]] (Struck path) | **the Holding** | *Ornhael* (orn-HAYL) — "the whole-ground" | **A pause someone walks out of.** Stillness that saves, then lets go. | Not a curse-god. The ground that holds you still and lets you walk out. |
+| lost and dying in the deep wild | [[The Taken-In]] (Struck path) | **the Taking** | *Vaelorn* (VAYL-orn) — "the yield-land" | **That no one die unmade in the wild.** The lost taken in, not eaten. | Not a hungry forest. The land that will not let you die unmade — *vael* in the Old Ways' older sense. |
 
 Collective everyday name: **the Other Hands** (she is the First Hand; they are the rest). They do not have temples of their own on the mainland as a set — the Motherfaith grew over that memory. The rival faiths kept pieces.
 
@@ -54,6 +54,54 @@ Collective everyday name: **the Other Hands** (she is the First Hand; they are t
 - **Allowance** is hers. An Other Hand cannot Strike a Condition outside their door, cannot Give at a Tree, cannot exceed what she has permitted. This is the "restricted powers" the user asked for. It is also *why* the Struck feel received-but-unmet-by-ceremony: a lesser hand, at the edge, by permission.
 - **Purchase** is not clerical magic and not "pray for a domain spell." An Other Hand reaches more easily where their *door is kept* — funerals and unfinished work (Threnvaeth), oaths and books (Orledd), drowning-water (Eloren), stone and stillness (Ornhael), wild and grove (Vaelorn). On the mainland those doors exist even for skeptics; the world is full of them. Belief helps; geography and practice matter more.
 - **Her Giving does not need worship.** Skeptics still Turn. The Trees are her hands, not her collection plate. Do not make the Leaf-Fall faith-gated — that would break the locked engine and the ~5% tone.
+
+### What Orledd receives (the Bound bargain)
+
+A Bound PC named a want in extremity and something answered. If the table does not know what the Counterparty *gets*, Orledd defaults to a devil. Do not let that happen.
+
+**During the term, Orledd receives two things:**
+
+1. **The ask remaining true.** The Granted Power works because the want was real and named. Specificity is the food. A vague "save me" that was never turned into a clause is not a bargain they can hold.
+2. **The Terms being kept in public.** Each kept Term is a witnessed reckoning. That is how a Counterparty *exists* in a world whose ordinary hand Gives. Orledd cannot Give; a gift with no named return would be her work. So they must receive a readable exchange, or the household labour collapses.
+
+**At the end of a term-limited contract, Orledd receives the Pledge** — already locked on [[Bound]]. They have been holding it, not sipping it. Collection is release, not a surprise theft.
+
+**Orledd does not receive:** a soul, worship, a second signing, or the Bound's personhood. A flood of desperate unread bargains *starves* them. The Given-Over spiral is the Bound's fear of paying, not Orledd's appetite. Play a Counterparty who would rather have one kept Term than ten whispered extras.
+
+The face chosen at creation (demon / vast / unknown) is still a mask. The receive does not change with the mask. The Fair Hand is right that a Counterparty exists and wrong that every becoming is this.
+
+### What strains or breaks her allowance
+
+Allowance is not a mood. It is a permission with a failure mode. Use strain often and quietly; use a break almost never.
+
+**Strain** (the door still works; the catch feels thin, late, or off — Narrow-Hand testimony gets louder):
+
+| Hand | A strain looks like |
+|---|---|
+| Threnvaeth | A [[Returned]] kept from their Purpose as cheap deathless labour, so the book cannot close |
+| Orledd | Terms written to eat toward the Given-Over; an ask that was not extremity, only appetite |
+| Eloren | A Struck voice silenced, or used only as a weapon; a drowning arranged so a voice would come back |
+| Ornhael | Someone held as a tool and not allowed to walk out; the Grey treated as a prison |
+| Vaelorn | The lost warehoused as urban green-poverty; land used as a dump for people a city does not want |
+| Any | Reaching on [[The Sundering Isle\|Kumbaan]], where the doors are barely a concept; reaching in a year she has already spent |
+
+Table signs of strain: a threshold that should have caught, and did not (the drowning just drowned); a Strike that felt like a grab, not a catch; a Bound Whisper that lies more, because the Terms are being kept as theatre.
+
+**Break** (household rupture — rare, campaign-grade, not a god-war):
+
+A Hand **breaks allowance** if they do any of these:
+
+- Grant a **Given-only** Condition (Long-Lived, Two-Bodied, Answered, Phoenix)
+- **Give at a Tree**, or during Leaf-Fall
+- Strike **without a true door** (no unfinished death, no sworn ask, no drowning, no stone, no deep wild)
+- Take **another Hand's door**
+- Answer an ask that is a **Gift in disguise** ("make my child Long-Lived"; "send a leaf")
+- **Seize a will** — the Inviolate Will is metaphysical bedrock. A Hand that tried would be outside the household, not a scarier member of it
+- **Persist after she has refused** a particular catch, or narrowed a door for a year
+
+What a break looks like at the table: a door that sticks (the next three drownings stay dead); a bargain that answered with a Gift-shaped clause and the next Leaf-Fall in that town went argumentative; a Hand that keeps reaching and the Struck who come through do not feel received. ~5% scary. This is a family argument that leaves a hinge swollen, not a dark court declaring war.
+
+She can **narrow** a door (fewer Struck that season) or **refuse one catch** without a break. That is still her allowance working. The Hands are not owed a quota.
 
 ### What this does to the schism (upgrade, not flatten)
 
@@ -91,7 +139,7 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 ## Player Misreadings
 
 - **"She's just one god of many, so the gifts are politics."** Reject. She is first; Giving is still love; the Tithe is still honest weight. A household does not make the Leaf-Fall a committee.
-- **"The Other Hands are a dark pantheon / the real villains."** Reject. ~5% scary. Threnvaeth is why the Returned are respected, not why they are a plague.
+- **"The Other Hands are a dark pantheon / the real villains."** Reject. ~5% scary. Each has a positive want (finished work, a readable answer, a used voice, a walked-out pause, the lost taken in). Threnvaeth is why the Returned are respected, not why they are a plague. A broken allowance is a stuck door, not a coup.
 - **"Narrow-Hand wins; she never cared about the Struck."** Incomplete. She authorized the catch. The stigma stays social (R2), not cosmological abandonment.
 - **"Yumboes are immune / rejected."** Wrong. Unreached, not refused. A graft that cannot travel is not a judgment.
 

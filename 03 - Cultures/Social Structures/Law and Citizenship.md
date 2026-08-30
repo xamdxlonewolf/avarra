@@ -96,6 +96,7 @@ Two wrinkles keep them from being a footnote:
 - **The [[The Unbound|Hollow]] (the Unbound)** raise a *capacity and protective-status* question. Freed from a contract but missing the Pledge they paid, an isolated Hollow is pulled to sign again. Kinder polities extend a **protective status** (a guardian, a claim on connection, a bar on presenting them fresh contracts); harsher ones leave them to the pull.
 - **The Given-Over (the "Forfeit")** is the setting's sharpest legal wound: a [[Bound]] who kept re-signing until the counterparty effectively *owns the person*. This is a living case of **legal personhood erased by accumulated contract** — and the contract-guilds have a term of art for it precisely because the law has never fully decided *at what point a person has bargained away enough of themselves to stop being one.* A recurring, unresolved question rather than a settled rule.
 - **[[Phoenix]]** is not a licensing problem at all — a single legendary person who cannot hide is a *political* problem (a symbol no ruler controls), handled by whoever currently wants to own or protect the one alive.
+- **UnTurned is not Kept.** A child who missed, refused, or never stood has no hug and no colour. Folk will call them Kept. The law should file them as the person the town raised, vouched if someone will stand, unwitnessed at the Tree. Procedure: [[Turning Tree#Questions a warden gets asked]]. A second Leaf-Fall is not a remedy. Struck doors still open later.
 
 ## How polities vary
 

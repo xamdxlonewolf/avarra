@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, history, epic-6]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # 02 - History
@@ -24,6 +24,7 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 - [[The Branch That Came Away]] — the Cut's paradox-fable *(lives in `07 - Religion`)*
 - [[The Years of Hands]] — town Trees as the default; the walk's three jobs; Heskoren still the wave's front
 - [[The Child Who Climbed the Stone]] — the leftover's paradox-fable *(lives in `07 - Religion`)*
+- [[The Wrong Green]] — C.Y. 248; a hug Speaked as copper-green at [[Harrow's Green]]
 - [[Settlement Seeds]] — what Epic 7 inherits *(lives in `04 - Settlements`)*
 
 ## Related
