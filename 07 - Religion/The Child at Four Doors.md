@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [myth, religion, paradox-fable, teaching-story, epic-1]
 aliases: [The Four Doors, The Child Who Waited, The Shared Fable]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -57,7 +57,7 @@ Skeptics of every faith tell a seventh ending, which is not kind and is very sho
 
 ## GM Notes (the buried truth)
 
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The paradox is the point.** The child cannot pick without already having been claimed, and cannot be claimed without picking. Each faith resolves the unbearable middle by making *their* door the one that was always open. None of the last lines is the locked cosmology. The locked cosmology is: a mother reached, at cost, and did not reach everyone the same way. The fable will not say that. If it did it would stop being useful.
 - **Use it as a tell.** Which ending an NPC offers is a faster stance-read than a speech about doctrine. A mixed household will argue the last line at table — cheap, true, playable.

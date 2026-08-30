@@ -10,7 +10,7 @@ world: The Turning
 category: government
 seat: unnamed — the land is the seat
 public_face: old greens that keep host-rights — the first meal before anyone's leave
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

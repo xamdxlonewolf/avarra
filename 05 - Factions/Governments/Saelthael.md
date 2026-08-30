@@ -10,7 +10,7 @@ world: The Turning
 category: government
 seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: dry-country Tree-seats that still walk west after the core stopped
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

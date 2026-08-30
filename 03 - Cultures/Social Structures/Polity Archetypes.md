@@ -6,7 +6,7 @@ note_status: fleshed
 status: active
 tags: [society, polity, governance, economy, archetype, epic-2, social-structure]
 aliases: [The Three Corners, Polity Types, Archetypes of the Turning, How Polities Vary, Vaethorn, Lestrand, Threnmaieth, The Waiting Lands, The Ledger Coast, The Tallied Crown]
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-21
 updated: 2026-08-24
 ---
@@ -115,7 +115,7 @@ The mix the three grammars each name as the scariest: **a pious, Tree-rich core 
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — the three seats (Story 7.3)
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **R2 social guard — the whole point of building three corners is that the injustice is *structural*, not local.** Per [[Is the Leaf-Mother Real|the keystone]], the Leaf-Mother's benevolence is **cosmological, not social.** She authored real gifts; she authored *none* of these three societies. The Waiting Lands' guilt-theology of unworthiness, the Ledger Coast's let-the-poor-fade market, the Tallied Crown's sanctified census — three completely different injustices, all built by *people* on top of the same true gifts. If the campaign ever confirms she is real and kind, that must **not** make *any* of these three fair. The set is deliberately designed so that no single "the Mother is good" reveal could launder them, because they don't share a mechanism of injustice — they share only that people built them. Protect that gap in all three; it's where the play is, everywhere.
 - **The reach-edge cause stays GM-side, in every corner.** The Waiting Lands' high Kept/Struck rates, the Ledger Coast's and Tallied Crown's dense Given, the core-vs-frontier medicine gap — all read in-world as plain distance-and-biology (the skeptics' whole case). The real reason — [[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]] — is the locked keystone edge and stays GM-side. Don't let a player-facing note assert the cause. The Waiting Lands are the sharpest test of this: they are the place where a devout population *most wants* an explanation for the thin gift, and where the wrong (true!) answer would land hardest.

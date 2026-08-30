@@ -7,7 +7,7 @@ status: active
 tags: [culture, ancestry, kind, distribution, epic-4]
 aliases: [Kind Distribution, Ancestry Map, The Hearths, Where Kinds Live]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-30
 ---
@@ -150,7 +150,7 @@ Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place th
 - [[Roadmap]] (Story 4.2; Story R.3) · [[03 - Cultures]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Distribution is a reach-tell only for the Yumboes.** Mainland Kind-hearths are mundane geography (foxes in woods, seals on coasts, crows on ridges). Kumbaan's isolation is the one Kind-fact that *also* maps the [[Is the Leaf-Mother Real|keystone edge]]: no Tree, no Gift, a people who are themselves without her. Don't let a player-facing read treat "Yumboes have no Conditions" as a racial immunity — it is a *place* fact ([[The Other Hands]]).
 - **Do not grow Kind-nations later.** If Epic 7 wants a "fox principality," make it a Rain-Shadow *polity* that happens to be Fox-dense, running on the same theology/reach/governance axes as everyone else. The moment a government is *for* a Kind, the two-layer model has started to rot.

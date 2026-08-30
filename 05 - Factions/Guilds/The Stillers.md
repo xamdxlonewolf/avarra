@@ -10,7 +10,7 @@ world: The Turning
 category: guild
 seat: the guild-yard beside the infirmary — a town has one if it has stillers; there is no Stillers' Seat over other towns
 public_face: the surgeon's college that also stands a riot-line — they stamp the strictest ticket in the world because the same gaze that stops a wound can hold a person forever
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -118,7 +118,7 @@ That is not a scion-queue. That is not a week. That is a hospital that runs on i
 
 The ticket-as-property argument (Lestrand, leaking elsewhere) is the second face: competence lives in a person; the chair can start to live in the guild.
 
-Confirming she is real does **not** make the drill optional. She gave a gaze that costs. She did not write the roster. R2 is the whole point.
+The Motherfaith says she gave a gaze that costs. The roster is people's work. A kind Tree would not make the drill optional.
 
 Do not convert the guild at the end of a story. A grudging extra drill-master is the most they will grant. The paying floor still comes first.
 
@@ -145,7 +145,7 @@ On its face: a college keeping its people hale, the code in a work-order. Undern
 - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: monster-police, medusa-cult, superhero registry. Rotate. Form stays surgeon's college (load-bearing). They want a street that does not seize and a patient who lives. They do not want a register of the feared.
 - **Moral parallax.** Distances: causal ("the yard is for their own good") and social (the raw Struck is not *our* apprentice). Engine: exchange — every theatre-hour is Grey someone must then burn — and inheritance — Given children inherit a drill the Struck never had. Comfort: the words *ticket* and *code*. R2: she did not write the roster.

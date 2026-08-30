@@ -6,7 +6,7 @@ note_status: fleshed
 status: active
 tags: [society, economy, tithe, labor, banking, epic-2, social-structure]
 aliases: [The Tithe Economy, Condition Economy, Economy of the Turning]
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-20
 updated: 2026-08-30
 ---
@@ -133,7 +133,7 @@ The grammar is universal; the *distribution* is political — and varies the way
 - [[Roadmap]] (Epic 2, Story 2.2; Epic 6 complete) · [[03 - Cultures]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **R2 social guard — the economy is where the injustice is most *mechanical*.** Per [[Is the Leaf-Mother Real|the keystone]], the Leaf-Mother's benevolence is **cosmological, not social.** She gave real gifts; she did **not** build the economy that grew around them. The exploitation here — **Tithe-need as leverage** (control the supply, control the person), guild conscription of self-paying labor, the deathless slowly concentrating capital, the illicit Tithe-trade preying on the desperate, the Given-Over as a creditor absorbing a person — is **not a misreading to be dissolved by the reveal.** It is the setting's moral engine. Confirming she is real and kind must **not** make the economy fair. Protect that gap.
 - **The single sharpest economic lever for play:** whoever furnishes a provided-for Tithe holds power over its bearer. A PC Taken-In whose only green is the guild's; a Long-Lived whose patron rations the novelty they need to not fade; a Bound whose counterparty is their employer. This is coercion with a friendly face — the ~5%-scary edge in economic form.

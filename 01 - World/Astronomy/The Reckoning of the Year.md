@@ -8,7 +8,7 @@ status: active
 tags: [astronomy, calendar, solstice, time, leaf-fall, epic-3]
 aliases: [The Calendar, The Turning Year, Turning-Week, The Solstice Reckoning, How Time Is Kept]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-22
 updated: 2026-08-24
 ---
@@ -102,7 +102,7 @@ The reckoning is **universal in principle** (one sun, one moon, the two solstice
 - [[Roadmap]] (Epic 3; Epic 6 Stories 6.1–6.2) · [[01 - World]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The solstice-timing is a two-reading fact, like everything keystone-adjacent.** Believers: the [[The Leaf-Mother|Mother]] times her choosing to the year's hinge. Skeptics: the [[Turning Tree|Trees]] are photoperiod-sensitive plants that colour with the light, and the "choosing" is biology. Per [[Is the Leaf-Mother Real|the keystone]], she *is* real — so the believers are right about *who*, the skeptics right about the *mechanism* (she works through the Trees' real nature, not against it). Don't resolve it in player text; the calendar works identically either way.
 - **Kumbaan's lunar calendar is the sharpest small tell in the world.** The [[Yumboe|Yumboes]] keep the *moon*, not the *solstice*, because the Trees never reached them — a whole people whose reckoning of time has no Leaf-Fall in it at all. It reads in-world as mere cultural difference (an isolated island keeps its own calendar, of course). It *is* also the keystone experiment ([[The Sundering Isle]]): the one calendar the Mother's Trees demonstrably never shaped. Reserve the significance; let it look like colour.

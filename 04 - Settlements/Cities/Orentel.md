@@ -9,7 +9,7 @@ aliases: [the Salt Quay, Orentel-quay, Lestrand's Seat, the Ledger Seat]
 world: The Turning
 region: "[[Strandoren]]"
 population: a salt-city — tens of thousands; the Tree-town is the smaller half
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

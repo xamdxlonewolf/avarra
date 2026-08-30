@@ -6,7 +6,7 @@ note_status: fleshed
 status: active
 tags: [society, daily-life, family, marriage, medicine, city, epic-2, social-structure]
 aliases: [Daily Life in the Turning, Family and Medicine, Living in the Turning, Everyday Life]
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-21
 updated: 2026-08-30
 ---
@@ -83,7 +83,7 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[Roadmap]] (Epic 2, Story 2.3; Epic 6 complete; Story 7.2) · [[03 - Cultures]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **R2 social guard — the injustice reaches the hearth, and stays real.** Per [[Is the Leaf-Mother Real|the keystone]], the Leaf-Mother's benevolence is **cosmological, not social.** She gives real gifts; she did **not** author the family pressures, the unequal medicine, or the domestic surveillance built around them. The frictions here — the Kept child pitied at their own table, families conscripted to "spend" a member's gift, Condition-medicine that clusters where the money is while the Tithe-poor slide, the Watchful crown filing bloodlines and Turnings, marriage quietly policed for its gift-value — are **not misreadings to be dissolved by the reveal.** Confirming she is real and kind must **not** make the family or the clinic fair. The keystone answers *is anyone there and do they mean well* (yes); it pointedly does not answer *is it fair to be poor, or Kept, or Struck, in this society* (often no). Protect that gap — it is where the play is.
 - **The Long-Lived marriage is the setting's quietest, most reusable ache.** Loving someone you will outlive and bury — a spouse, a child — is the deepest emotional Tithe in the world and it plays at the table without any monster in the room. Reserve it for weight. (It also seeds NPCs: the deathless widower who has stopped; the one who keeps beginning again.)

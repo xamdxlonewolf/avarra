@@ -10,7 +10,7 @@ world: The Turning
 spans: uncounted start → default ended at [[The First Cut]] (C.Y. 0); residues continue wherever a town still walks
 preceded_by: "[[Before the Walk]]"
 followed_by: "[[The Years of Hands]]"
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-30
 ---

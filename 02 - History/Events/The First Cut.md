@@ -9,7 +9,7 @@ aliases: [Eoloren, The Cut, The Witnessed Hinge, The Nameless Knife, The Generat
 world: The Turning
 era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 0 (present = C.Y. 387); spread inside locked bands through C.Y. 387"
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

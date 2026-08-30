@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [myth, religion, paradox-fable, teaching-story, epic-6, first-cut, grafting]
 aliases: [The Nameless Knife, How a Hand Learned to Walk, The Branch That Would Not Stay]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---
@@ -74,7 +74,7 @@ Skeptics of every house tell a short ending: *There was not a Hand that learned 
 
 ## GM Notes (the buried truth)
 
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The paradox is the point.** You cannot share a Hand without wounding a Hand, and you cannot name a First without inventing a Second that waits. Removing the paradox leaves a theft-ballad or a sermon. Keep the taking and the queue in the same count.
 - **Do not add "and then she told them to cut."** That closes the keystone in a children's stick. The confirming warmth, if it comes, is not this story. The branch *is* her tissue; the story must not say so.

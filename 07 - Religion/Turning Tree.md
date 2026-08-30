@@ -9,7 +9,7 @@ aliases: [The Turning Tree, Turning Trees, Hand of the Mother, The Awakening Tre
 world:
 region:
 stratum:
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-19
 updated: 2026-08-30
 ---
@@ -32,8 +32,6 @@ This is the setting's chosen shape because it gives us **both** at once:
 - **A Tree nearby.** Everyday families walk to their town's Tree for the Leaf-Fall — the divine is local, no one is exiled from the rite by distance. *(This is the Hands-era default. It was not always so — see [[The Ages of the Turning]].)*
 - **A pilgrimage for the devout.** The truly faithful travel to the **Awakening Tree** itself, the first Hand, to have a child Turned there or simply to stand under the origin. On [[Heskoren]], and wherever a graft has failed, the walk is still *necessity*, not only devotion.
 
-> **GM — why this matters (keystone).** Because every scion is *continuous tissue* of the one Tree, "the Turning Trees are her hands" is **literally true**, not metaphor: when any town's Tree chooses, it is the one power choosing through a grafted hand. See [[Is the Leaf-Mother Real]] (`reveal_tag: leaf-mother-is-real`). Keep this note reverent-but-unproven for players; the continuity is doctrine, not demonstrated fact.
-
 ### The Awakening Tree
 
 The origin. Old beyond reliable dating, vast, and the one Tree no one grafted from another — every other Turning Tree descends from it. In liturgy it is **the First Hand**. It is a genuine pilgrimage destination: devout families make the journey to be Turned under the origin; some settle nearby; the faith's central clergy seat sits in its shadow — the **First Seat**, a college of [[The Tree-Wardens]], not a throne. It stands on [[Maiethorn]], in the Sacred Core.
@@ -55,7 +53,7 @@ The rite the whole world is built around. Held in the **tenth-year solstice week
 
 **The two outcomes** (mechanics locked in [[The Premise]]):
 - **A colour falls → a Condition is Given.** One or more leaves of a telling colour drift down and settle on the child. **The colour names the Condition** (see *Reading the colours*, below). This is expected, "proper," celebrated — the child grows up already knowing what they'll become, and is trained and guilded toward it.
-- **The leaves hug, no colour → the child is Kept.** Instead of a coloured fall, the ordinary leaves *gather and wrap the child* — a green embrace, no naming colour. This marks one of **the Kept**: kept whole, wanted in their own right. Per the locked keystone truth this is a *chosen kindness*, not a failure or an oversight ([[Is the Leaf-Mother Real]]) — though in-world, the faith holds this on belief, and the schism argues over it (see [[The Leaf-Mother]]).
+- **The leaves hug, no colour → the child is Kept.** Instead of a coloured fall, the ordinary leaves *gather and wrap the child* — a green embrace, no naming colour. This marks one of **the Kept**: kept whole, wanted in their own right. The faith holds the hug as a chosen kindness; the schism argues over it (see [[The Leaf-Mother]]).
 
 **The feel at the table.** Aim for the emotional beat, not spectacle: a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again — or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. The Tithes carry most of the setting's scare. The rite's own shadow is thinner and human: a wrong word, a missed week. See [[The Wrong Green]], and the questions below.
 
@@ -116,8 +114,10 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 
 ## GM Notes
 
-- **This note is player-facing but keystone-adjacent.** It carries `reveals: [leaf-mother-is-real]` because the *graft continuity* ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms the Leaf-Mother is real and present. Present it to players as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics in-world grant the grafting (it's observable horticulture) while denying the conclusion (that a *mind* chooses through it).
+- **Graft continuity is doctrine in the body, literal in this wall.** Because every scion is *continuous tissue* of the one Tree, "the Turning Trees are her hands" is **literally true**, not metaphor: when any town's Tree chooses, it is the one power choosing through a grafted hand. See [[Is the Leaf-Mother Real]]. Present the body as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics grant the grafting (observable horticulture) and deny the mind. `reveals: [keystone-adjacent]` — the player text does not confirm; this wall does.
+- **The hug.** Some Kept are chosen for wholeness; some are past her reach *this turning*. The body must not say which, and neither does she. Do not let a player-facing sentence call the hug a locked kindness as if the schism were already lost.
 - **The scary edge is not the wood.** Resist making the Tree eerie or the ceremony sinister — that's off-tone and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Most dread still lives in Tithes. The one shadow *inside* the rite is human and cited: [[The Wrong Green]]. Do not add a third visible outcome, a cursed fall, or a retry-leaf to "fix" a hug.
+- **Firing pin.** Confirmation can fire. The artifact is [[The Spent Leaf]]; the desk that has it is [[The Remainder]]. Early rungs on [[Is the Leaf-Mother Real]] stay deniable. Do not use the Tree as a talking relic.
 - **Once-only is settled, and it does not change the engine.** The Given-door remains the tenth-year High Solstice week. A completed standing is once. A miss is not a standing and does not unlock next year. Some Kept are chosen for wholeness and some are past her reach *this turning*; she does not tell them apart, and a later week is not offered to sort them. That is the ache. Do not quietly invent a second-chance year — [[The Walking Years]] already said the one-week door is the engine's teeth.
 - **UnTurned stays distinct from Kept.** Player-facing custom already wants to fold them together. Let NPCs be sloppy. Do not let the law note be.
 - **Clergy offices:** built as [[The Tree-Wardens]] (names 🟡). Edge-case questions live in the table above. The colour→Condition palette stays locked. History of the grafts: [[The Ages of the Turning]]. The Open Table quarrel that can spend a week: [[The Open Table]].
@@ -132,4 +132,5 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 - [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]] — how the wood travelled; [[The Walking Years]]
 - [[The Wrong Green]] — the cited mis-Speaking (Harrow's, C.Y. 248)
 - [[The Open Table]] — the mainland lintel that can spend a tenth-year week
+- [[The Spent Leaf]] · [[The Remainder]] — how a campaign can confirm the wood without a sermon
 - [[07 - Religion]]

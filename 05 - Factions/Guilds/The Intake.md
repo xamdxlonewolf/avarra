@@ -10,7 +10,7 @@ world: The Turning
 category: guild
 seat: the shed that does not face the street — borrowed from whichever ticket-house had a door
 public_face: the people who take a raw Struck in hand *and* apprentice them at once, before the town uses a rope
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -122,7 +122,7 @@ They write the catching-year on the **inside** of a ticket-blank, not on the fac
 
 The paying floor needs the master. The town needs the hazard gone. The Struck needs a year. Intake is given a week and a shed, and is blamed for all three.
 
-If they succeed, the story becomes: *the guild trains its own.* If they fail, the story becomes: *the shed.* Confirming she is real does **not** make the rope kind, and does not give them a better door. She did not unwitness the becoming. People built the square that prefers a rope. R2 is the whole point.
+If they succeed, the story becomes: *the guild trains its own.* If they fail, the story becomes: *the shed.* A kind Tree would not make the rope kind, and would not give them a better door. The becoming was unwitnessed. People built the square that prefers a rope.
 
 They have no scion-queue, no gate-of-dirt, no scheduled hour as their *product*, no shop-you-cannot-leave (they want the person *able* to enter a shop). Do not clone those. This office's constraint is the week-and-the-silence — analog shed, borrowed key, authority that is a charter's fear.
 
@@ -150,7 +150,7 @@ On its face: a competent catching, a little desperate, a college's shame in a fo
 - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Underdog check.** Mandate + 3–4 constraints + outcast sitters + no institutional conversion. Do not add a sunset clause *and* hostile leadership *and* no tools *and* a cursed shed. The organic logic: the floor wants paying work; the charter wants no headlines; the town wants the hazard gone. Those three are enough.
 - **They do not know what story they are in.** Defaults: monster squad, nice Slide, Road-hands in a different cart. Rotate. Form stays first-aid / catching (load-bearing). They want a quiet week. They do not want a client, a relic, or a route.

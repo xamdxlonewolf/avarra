@@ -10,7 +10,7 @@ world: The Turning
 category: government
 seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the stretch of water that made the Fair Hand a civic rite
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

@@ -8,7 +8,7 @@ status: active
 tags: [region, continent, geography, trade, epic-3]
 aliases: [The Shore-lands, The Trade Continent, The Crossroads, Strandor]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-22
 updated: 2026-08-24
 ---
@@ -85,7 +85,7 @@ NO TEXT, NO LABELS, no writing anywhere.
 - [[Roadmap]] (Epic 3; Epic 6 Stories 6.2–6.3) · [[The Walking Years]] — the Salt Walk · [[The First Cut]] — by sea, coasts first · [[01 - World]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **High reach, low faith — the pairing that proves theology and reach are independent.** Strandoren has Trees as healthy as [[Maiethorn]]'s but wears the faith lightly: the reason the Given are dense here is the same as anywhere (healthy grafts), and the reason the *faith* is thin is purely social (commerce erodes devotion). Keep those two facts separate in-world; don't let the cool faith read as thin reach or vice versa. The [[The Old Tongue|eroded language drift]] is the tell — smooth because secular, not because Tree-poor.
 - **The fortune-and-contract cult is a rival *reading* of the true gifts, not a false one.** Per [[Is the Leaf-Mother Real|the keystone]], the Conditions are real gifts — the cult calls them bargains, the Motherfaith calls them blessings, and *both* are interpretations laid over the same real thing. Neither is confirmed by any reveal. The cult is wrong about *who* (no bargain was struck), but its adherents are as sincere as the Motherfaith's. Don't play it as villain-theology.

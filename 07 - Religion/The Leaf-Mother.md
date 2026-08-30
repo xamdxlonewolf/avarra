@@ -8,7 +8,7 @@ tags: [religion, faith, leaf-mother, turning-tree, belief-systems, schism]
 aliases: [Leaf-Mother, The Mother, Motherfaith, The Faith of the Turning, The Giving]
 world:
 domain: becoming, gifts, the Turning, the tended life
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-19
 updated: 2026-08-30
 ---
@@ -67,7 +67,7 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
    - **Skeptics:** "it's just what the Trees do." Biology, or a phenomenon so old it wears a face we gave it. The grafting is observable horticulture; the *choosing mind* is an inference they decline to make.
    - **The faith's own genius:** because it is **orthopraxic**, a skeptic who tends their Tithe and brings their children to the Tree is a *good member of the Motherfaith* — belief in the Mother is honoured but not policed. This keeps the skeptic sincere and un-persecuted, and keeps the setting ~5%-scary rather than inquisitorial.
 
-> **Design note (belief-systems).** Every branch above is a *good-faith* position — no faction is secretly right-and-evil. Per the locked keystone ([[Is the Leaf-Mother Real]]) the believers are right about the big things (she is real, present, and kind) — **but the keystone's constraint (she is benevolent yet *bounded*, and giving costs her) makes this schism genuinely two-sided, not lopsided.** The skeptics have correctly *felt the edge* of her reach — the thinning at the margins, the unmet Struck, the Kept who seem passed over — and mislabelled a *limit* as an *absence*. So each reading holds a true kernel: the **Wide-Hand** is right that she reaches the thresholds, and the **Narrow-Hand's** unease is *earned* because she reaches them only at the farthest, chanciest edge of her arm; and the Kept are genuinely *both* — some chosen for wholeness, some simply past her reach, with no way to tell which. **No faction holds the whole shape** (believers see the hand and miss the edge; skeptics see the edge and miss the hand). The world is built so being a skeptic costs nothing day to day, which keeps the schism *poignant* (sincere people each holding half a truth) rather than *ironic* (dupes being farmed) — and better fuel for it: neither side can ever be simply refuted. Keep it that way.
+Every branch above is a *good-faith* position. No house is a villain-theology. Being a skeptic costs nothing day to day: right practice binds. The questions stay live because no one in the square can close them.
 
 ## In-world texts (doctrine that also seeds a reveal)
 
@@ -76,17 +76,20 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
 - **The Tender's blessing, spoken over each child at the Leaf-Fall:**
   > *"What falls to you, wear well. What is kept from you, keep. The Hand that reaches is the Mother's own — and the Mother does not reach twice by chance."*
 
-  On its face: comfort and the "tend your gift" ethic. Underneath: *"the Mother does not reach twice by chance"* is doctrine asserting **intent** behind the fall — the very thing skeptics deny and the keystone confirms (`reveal_tag: leaf-mother-is-real`). A blessing said over every child in the world is, unknowingly, a true statement.
+  On its face: comfort and the "tend your gift" ethic. Underneath, believers hear **intent**. Skeptics hear a proverb about not asking the wood twice. Both can say the words.
 
 - **A Kept-child's saying (folk, half-consoling, half-barbed):**
   > *"The Tree that gives to all its neighbours held me instead. I have decided that is not the same as being forgotten."*
 
-  On its face: the Tender reading of the Kept, made personal and a little defiant. Underneath: it dramatizes the schism (*"I have decided"* — a choice made against doubt, not a certainty) and seeds the question the campaign can later answer warmly — the embrace **was** a choice, they were **not** forgotten.
+  On its face: the Tender reading of the Kept, made personal and a little defiant. Underneath: *"I have decided"* is a choice made against doubt, not a certainty. The schism lives in that verb.
 
 ## GM Notes
 
-- **Player-facing, keystone-adjacent.** Carries `reveals: [leaf-mother-is-real]` because its doctrine, taken as true, *is* the keystone. Present it as **belief** — reverent where it's reverent, and letting the skeptics have their full dignity. Never let a player-facing beat confirm the Mother; the confirmation is the GM's to place, and per [[Is the Leaf-Mother Real]] it should land as *warmth*, not horror.
+- **Player-facing, keystone-adjacent.** Doctrine taken as true *is* the keystone; the body must present it as **belief**. Reverent where it's reverent; skeptics keep their full dignity. Never let a player-facing beat confirm the Mother. If a campaign fires the pin, it lands as *warmth with an ache* — [[The Spent Leaf]], [[Is the Leaf-Mother Real#If confirmation lands]].
+- **The schism is two-sided, not lopsided.** Believers are right about the big things (she is real, present, and kind). The constraint (bounded, costly) is why skeptics have hold of something real: they have felt the edge — thinning at the margins, unmet Struck, Kept who seem passed over — and mislabelled a *limit* as an *absence*. Wide-Hand is right that she reaches the thresholds; Narrow-Hand's unease is earned because she reaches them only at the farthest edge of her arm, and even then by [[The Other Hands|household hands]]. The Kept are genuinely *both* — some chosen for wholeness, some past her reach — with no way to tell which. No faction holds the whole shape.
+- **The two texts.** The Tender's blessing is, unknowingly, a true statement of intent. The Kept-child's saying seeds the warm answer (the embrace was a choice *for some*; they were not forgotten) without sorting which Kept. Do not let either quote close the keystone in a player's ear.
 - **The schism is the reusable engine.** The three questions above are the faith's inexhaustible fuel for NPCs, factions, and family drama (a Kept sibling, a Struck spouse, a skeptic parent). Reach for them whenever a scene needs belief-shaped conflict. Per [[The Other Hands]], Narrow-Hand is right that she does not Strike, and Wide-Hand is right that the catch is still hers (her household, her allowance). Do not let a player-facing scene award the win to either branch.
+- **Keyed tags.** `keystone-adjacent` (clue and doctrine, no confirmation in the body) · `the-other-hands` (this wall names the household).
 - **Clergy orders:** built as [[The Tree-Wardens]] (Story 5.1, names 🟡). The other four houses: [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2). The sacred calendar is locked ([[The Reckoning of the Year]]); the faith's Tithe-economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
 
 ## Links
@@ -97,5 +100,6 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
 - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[The Premise]] — the locked engine (Given / Struck / Kept, the Tithe, population math)
 - [[Is the Leaf-Mother Real]] — the GM keystone truth this faith points at
+- [[The Spent Leaf]] · [[The Remainder]] · [[The Unspent]]
 - [[Conditions]] — the gifts themselves · [[Build Plan]] · [[Roadmap]]
 - [[07 - Religion]]

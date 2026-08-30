@@ -12,7 +12,7 @@ monster: demon (by contract)
 standing: feared
 path: Struck only
 population: ~5%
-reveals: []
+reveals: [the-other-hands]
 created: 2026-08-14
 updated: 2026-08-30
 ---

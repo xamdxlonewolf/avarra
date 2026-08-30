@@ -9,7 +9,7 @@ aliases: [Maiethren, The Mothertongue, The Old Speech, Root Tongue, The Liturgic
 world: The Turning
 speakers: liturgical/learned everywhere; conserved as daily speech in the Tree-rich pious core; drifted into daughter vernaculars elsewhere
 descends_from:          # none — this IS the root
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-21
 updated: 2026-08-28
 ---
@@ -192,7 +192,7 @@ Full one-line derivations of the original three remain:
 - [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete / Epic 7 complete) · [[03 - Cultures]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The etymology is a quiet keystone tell.** That **Thaeloren** = "the Tree that witnesses" is not decoration: per [[Is the Leaf-Mother Real|the keystone]], the Tree genuinely *does* witness (she is real, and the Leaf-Fall is her seeing each child). The language preserves a truth the skeptics have explained away. Don't gloss it in player-facing text as mere poetry; let a scholar-PC *notice* it.
 - **Drift is GM-legible as the reach-edge.** The daughters drift furthest where the Trees are thinnest — which is the same [[Is the Leaf-Mother Real|bounded-reach]] edge that stays GM-side elsewhere. In-world the erosion reads as plain distance-and-trade (true, as far as it goes); the deeper pull that *conserves* the tongue near the Trees is the Mother's nearness. Same fact, two readings. **History adds a mechanism:** the pilgrimage itself was a conserving pull (far mouths walked to the same grove each year). Local Trees let daughters grow *in place* — Hands-era weather on a Walking-era root. See [[The Ages of the Turning]].

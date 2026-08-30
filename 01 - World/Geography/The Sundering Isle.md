@@ -8,7 +8,7 @@ status: active
 tags: [region, continent, geography, remote, yumboe, epic-3]
 aliases: [Kumbaan, The Sunder, The Storm-Walled Isle, The Hidden Home, The Yumboe Homeland, The Far Isle]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-22
 updated: 2026-08-24
 ---
@@ -81,7 +81,7 @@ Cartography style, atmospheric, mysterious. NO TEXT, NO LABELS, no writing anywh
 - [[Faiths of the Turning]] · [[The First Cut]] (Kumbaan never) · [[Roadmap]] (Epic 3) · [[01 - World]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **The Isle is the strongest keystone experiment — guard the reveal.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the cleanest natural test of whether the Mother is behind *any* of it. Per [[The Other Hands]]: **no Gifts** (no graft has crossed; her reach does not get there); **Struck are rare** (the household has little purchase where it is unknown and the doors are not kept); their Kind and their table are *their own*, not a subtler Tree. Don't resolve a lone Yumboe's Struck-or-not in session one — it's still a late beat, just no longer an empty question.
 - **Three old faiths, three edges, one buried truth.** [[The Open Table]] joins [[The Watching]] and [[The Old Ways]] as the world's three keystone-adjacent religions — each grown far from (or before) the Motherfaith's account, each possibly preserving a fragment of what the Trees really are. The Isle's is the *purest* control: a cosmology with zero Motherfaith contamination. If a campaign triangulates the keystone, these three are the corners. See [[Faiths of the Turning]].

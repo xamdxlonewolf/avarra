@@ -10,7 +10,7 @@ world: The Turning
 category: government
 seat: unnamed — do not make Harrow's the capital
 public_face: the live edge of the Grafting — a march, not a finished kingdom
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

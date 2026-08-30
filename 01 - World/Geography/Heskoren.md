@@ -8,7 +8,7 @@ status: active
 tags: [region, continent, geography, frontier, epic-3]
 aliases: [The Sundered Reach, The Frontier, The Far Lands, Heskorn, The Waiting Continent]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-22
 updated: 2026-08-24
 ---
@@ -84,7 +84,7 @@ atmospheric. NO TEXT, NO LABELS, no writing anywhere.
 - [[Roadmap]] (Epic 3; Epic 6 complete) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[01 - World]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Heskoren is the sharpest in-world test of the keystone edge — protect it.** Per [[Polity Archetypes]], the Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer ([[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]]) is exactly the answer that would land hardest and cruellest here — it would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is *young/sick/scarce grafts* (true as far as it goes) and history ([[The Ages of the Turning]] — Clock 2 still moving). The gap between "true as far as it goes" and the whole truth is where the play lives.
 - **The old ways may be half-right for the wrong reasons.** [[The Old Ways]] revere the Struck and Taken-In as *the land's own, made without the Tree* — and on a near-Treeless frontier, people genuinely do become things without a healthy Tree nearby. That's a live thread: they are the frontier mirror of [[The Watching]] — two old faiths, at opposite edges of the world, both remembering something the Motherfaith smooths over. Whether they're *right* about the Mother stays keystone-gated.

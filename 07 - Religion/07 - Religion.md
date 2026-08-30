@@ -21,8 +21,10 @@ Deities, faiths, mythology, rituals, and religious history.
 ### The Motherfaith (Epic 1 — the world's central faith)
 - [[The Leaf-Mother]] — gift-religion, orthopraxy-over-orthodoxy, the three-branch schism, clergy, in-world texts
 - [[The Tree-Wardens]] — working clergy (Story 5.1; lives in `05 - Factions`; names 🟡)
+- [[The Remainder]] — First Seat side-yard desk; keeps [[The Spent Leaf]]
 - [[Turning Tree]] — the sacred object & the Leaf-Fall rite; one Awakening Tree, town Trees are living grafts of it; colour→Condition palette; warden questions (miss, refuse, orphan, once-only)
 - [[The Wrong Green]] — cited mis-Speaking (Harrow's, C.Y. 248); the rite's restrained shadow
+- [[The Unspent]] — the Poured God / Cup We Made; a Long-Lived fringe presence, not a Tree-faith
 
 ### The other faiths (Story 1.4) and their houses (Story 5.2)
 - [[The Watching]] — Maiethorn heartland heresy (*Haelthael*); the Tree as witness, not Mother · clergy: [[The Watchers]]
@@ -42,4 +44,4 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[The Years of Hands]] — the present as leftover *(lives in `02 - History`)*
 
 ## Related
-- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Roadmap]]
+- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The Spent Leaf]] · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Roadmap]]

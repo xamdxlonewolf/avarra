@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [myth, religion, paradox-fable, teaching-story, epic-6, hands, residues]
 aliases: [The Stone in the Square, How a Grave Learned to Be a Step, The Climbing Child]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---
@@ -66,7 +66,7 @@ Skeptics of every house tell a short ending: *There were not two roads. There wa
 
 ## GM Notes (the buried truth)
 
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The paradox is the point.** You cannot honour the leftover without using it (climb, water, ribbon, house custom), and you cannot use it without pretending, a little, that the road is still the road — or that it is over. Removing the paradox leaves a hymn to progress or a hymn to the old mile. Keep the square and the ford in the same count.
 - **Do not add "and then she moved the stone."** That closes the keystone in a children's climb. The confirming warmth, if it comes, is not this story. The graft *is* her tissue; the story must not say so.

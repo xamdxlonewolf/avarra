@@ -87,13 +87,15 @@ updated: 2026-08-30
 
 > **R.4 recorded decisions (did not change the locked engine).** The Given-door stays one week in the tenth year ([[The Walking Years]]). A completed standing (colour or hug under sound wood) is once. A miss, refusal, or unsound Tree that spends the week makes a child **unTurned**, not Kept, and does not unlock next year. Struck remains the later mercy. Some Kept are past her reach *this turning*; she does not tell them apart, and a later week is not offered to sort them. Player-facing text does not confirm her. The dread is a human mis-Speaking, not an eerie Tree. Other Hands wants and allowance failure stay GM-only. No Kumbaan mission; the Open Table fight is a mainland lintel.
 
-### Story R.5: Secrets and revelation
-- [ ] Move the keystone truth leaks in [[Turning Tree]], [[The Leaf-Mother]], and the affected faction notes beneath proper `## GM Notes` walls
-- [ ] Reduce `leaf-mother-is-real` to notes that truly expose confirmation, introduce a lighter adjacent tag if useful, and key `the-other-hands` to every player note that exposes it
-- [ ] Populate `foreshadowed_by` on [[Is the Leaf-Mother Real]] and repair the Secrets MOC so clue-bearing notes can be found
-- [ ] Build a usable firing pin for the keystone: one confirmable artifact, a faction that wants proof found or suppressed, and concrete consequences if confirmation lands
-- [ ] Review all six clue rungs so the reveal can fire in play while preserving deniable early clues
-- [ ] Add a lesser household deity that accepts the Long-Lived sect's worship and invented mask while letting the sect believe it created the god; keep it outside the Five Hands and unable to Give or Strike
+### Story R.5: Secrets and revelation ✅ **DONE (2026-08-30)**
+- [x] Move the keystone truth leaks in [[Turning Tree]], [[The Leaf-Mother]], and the affected faction notes beneath proper `## GM Notes` walls — Tree blockquote + hug-as-locked-kindness; Mother design-note; ten injustice "Confirming she is real" paragraphs; Yumboe household sentence; Faiths pantheon dump; Law "keystone pattern"
+- [x] Reduce `leaf-mother-is-real` to notes that truly expose confirmation, introduce a lighter adjacent tag if useful, and key `the-other-hands` to every player note that exposes it — `leaf-mother-is-real` is the keystone's `reveal_tag` only; clue notes take `keystone-adjacent`; household GM walls take `the-other-hands`. Vocab on [[Conventions]] and [[11 - Secrets]]
+- [x] Populate `foreshadowed_by` on [[Is the Leaf-Mother Real]] and repair the Secrets MOC so clue-bearing notes can be found
+- [x] Build a usable firing pin for the keystone: one confirmable artifact, a faction that wants proof found or suppressed, and concrete consequences if confirmation lands → [[The Spent Leaf]] · [[The Remainder]] (desk split: bury / walk) · [[Is the Leaf-Mother Real#If confirmation lands]]
+- [x] Review all six clue rungs so the reveal can fire in play while preserving deniable early clues — rungs 1–5 stay deniable; rung 6 is the Spent Leaf during a Giving, not "reserve this"
+- [x] Add a lesser household deity that accepts the Long-Lived sect's worship and invented mask while letting the sect believe it created the god; keep it outside the Five Hands and unable to Give or Strike → [[The Unspent]] (everyday *the Poured God*). Sect stays R.7
+
+> **R.5 recorded decisions (did not change the locked engine).** She is still real, benevolent, bounded, and costly. The Given-door is still one week; a completed standing is still once; unTurned is still not Kept. The Five Hands table is unchanged. The Unspent is furniture, not a sixth door. Confirmation can fire and still does not sort the Kept, name the Other Hands, explain the limit, or launder injustice (R2). World book untouched. Strip-rule sentence stays R.13.
 
 ### Story R.6: Society, law, and economy
 - [ ] Correct the licence-rate claim and decide how a 28–33% licensed or supervised population still avoids becoming a general surveillance system
@@ -449,7 +451,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic R: Editorial repair and table readiness:** 25 / 97 tasks (26%). **⭐ Active next — Story R.5.** Source: [[Editorial Audit 2026-08-29]]. **Story R.1 ✅** (population arithmetic; Unbound inside Bound; Premise is the sole census). **Story R.2 ✅** (Condition mechanics; one-Gift rule in [[When the Fire Is Caught]]; no level scaling). **Story R.3 ✅** (Hearth-Mark, not a trim; Mixed Ancestry as SRD; Yumboe GM-leave and full Kind; one surprise keyword; other kitchen). **Story R.4 ✅** — warden questions and Leaf-Fall failure on [[Turning Tree]]; dread → [[The Wrong Green]]; Other Hands wants / Orledd receive / allowance strain → [[The Other Hands]]; Open Table lintel → [[The Open Table]]. Engine untouched (one-week Given-door; unTurned ≠ Kept; no second standing). World book remains untouched until an explicit rebuild request.
+- **Epic R: Editorial repair and table readiness:** 31 / 97 tasks (32%). **⭐ Active next — Story R.6.** Source: [[Editorial Audit 2026-08-29]]. **Story R.1 ✅** (population arithmetic; Unbound inside Bound; Premise is the sole census). **Story R.2 ✅** (Condition mechanics; one-Gift rule in [[When the Fire Is Caught]]; no level scaling). **Story R.3 ✅** (Hearth-Mark, not a trim; Mixed Ancestry as SRD; Yumboe GM-leave and full Kind; one surprise keyword; other kitchen). **Story R.4 ✅** — warden questions and Leaf-Fall failure on [[Turning Tree]]; dread → [[The Wrong Green]]; Other Hands wants / Orledd receive / allowance strain → [[The Other Hands]]; Open Table lintel → [[The Open Table]]. **Story R.5 ✅** — leaks walled; tag split (`keystone-adjacent` / `the-other-hands`); firing pin [[The Spent Leaf]] + [[The Remainder]]; rungs 1–5 deniable, rung 6 can fire; [[The Unspent]] outside the Five Hands. Engine untouched. World book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology. ~12 named-stub powers ✅ Story 7.1. Rival faiths ✅ Story 1.4.
@@ -467,4 +469,5 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats · [[The White Note House]]
 - [[The Ages of the Turning]] — Epic 6 hub · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
 - [[The Wrong Green]] — Story R.4 cited mis-Speaking · [[Turning Tree]] · [[The Open Table]] · [[The Other Hands]]
+- [[The Spent Leaf]] · [[The Remainder]] · [[The Unspent]] — Story R.5 firing pin and lesser presence
 - [[Conditions]] · [[Kind Heritage]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]]

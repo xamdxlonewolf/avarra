@@ -49,6 +49,8 @@ Not a D&D twelve. Five Hands, five doors, five Conditions that can arrive withou
 
 Collective everyday name: **the Other Hands** (she is the First Hand; they are the rest). They do not have temples of their own on the mainland as a set — the Motherfaith grew over that memory. The rival faiths kept pieces.
 
+**Not a sixth Hand.** [[The Unspent]] (everyday *the Poured God*) sits in the household as furniture, not a door. Long-Lived fringe will dress it and claim they made it. It cannot Give, cannot Strike, cannot catch at a threshold. Do not add it to this table. Do not let a circle pour someone into Long-Lived.
+
 ### Allowance and purchase
 
 - **Allowance** is hers. An Other Hand cannot Strike a Condition outside their door, cannot Give at a Tree, cannot exceed what she has permitted. This is the "restricted powers" the user asked for. It is also *why* the Struck feel received-but-unmet-by-ceremony: a lesser hand, at the edge, by permission.
@@ -149,5 +151,6 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 - Clergy (do not confirm household through them): [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Returned]] · [[Bound]] · [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]]
 - [[Phoenix]] is hers only — [[When the Fire Is Caught]] (one Gift; remnant is not a second Phoenix)
+- [[The Unspent]] — outside this roster; cannot Give or Strike
 - [[Yumboe]] · [[The Sundering Isle]]
 - [[The Premise]] · [[Roadmap]] · [[11 - Secrets]]

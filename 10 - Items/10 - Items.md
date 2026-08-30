@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # 10 - Items
@@ -14,8 +14,9 @@ updated: 2026-08-11
 Weapons, armor, equipment, artifacts, and materials. Canonical home for items (Magic links here, does not duplicate).
 
 ## Contents
-<!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
-- 
+
+### Artifacts
+- [[The Spent Leaf]] — colourless remainder of a Giving; the keystone's firing pin (player body deniable; confirmation in GM Notes)
 
 ## Related
-- 
+- [[The Remainder]] — the desk that keeps the box · [[Is the Leaf-Mother Real]] (GM) · [[Turning Tree]] 

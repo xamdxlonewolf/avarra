@@ -7,7 +7,7 @@ status: active
 tags: [moc, settlements, epic-6, epic-7, residues]
 aliases: [Place Seeds, Leftover Towns, What Epic 7 Inherits]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

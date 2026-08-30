@@ -6,7 +6,7 @@ note_status: fleshed
 status: active
 tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-21
 updated: 2026-08-28
 ---
@@ -190,7 +190,7 @@ When later notes name leftover squares, keep the system honest:
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The names encode the R2 guard, per polity.** Each polity's vocabulary is its *self-justification*, not the truth of what it does. Threnmaieth's "keeping-whole" (Threnhael) is surveillance that calls itself care; Lestrand's "the free" for the Kept is a market reframing a social slight as a virtue; Vaethorn's "the Waited" wraps real pity in reverence. Per [[Is the Leaf-Mother Real|the keystone]], none of these framings is *dissolved* by the reveal — they are how each society launders its own injustice, and confirming the Mother is kind doesn't make any of the three names honest.
 - **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.

@@ -8,7 +8,7 @@ tags: [religion, faith, strandoren, contract, bound, leddoren, belief-systems]
 aliases: [Leddoren, The Settling, The Bargainers, The Closed Book, The Fortune-and-Contract Cult]
 world: The Turning
 domain: bargains, fair terms, the closed book, the Bound
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -76,7 +76,7 @@ On its face: a Bound's pride, a little cold. Underneath: the Fair Hand's whole c
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Wrong about the verb, right about the ache.** Per the keystone, Conditions are real *gifts*; no bargain was struck at the Leaf-Fall. The Fair Hand misreads a cost as a price. They have correctly felt that giving is not free (her constraint). Do not play them as devil-worship or capitalism-cosplay. They are as sincere as the Motherfaith.
 - **The Counterparty is real for Bound — not for every becoming.** Per [[The Other Hands]], *Orledd* answers sworn asks; the face a Bound names (demon / vast / unknown) is a mask. The Fair Hand is *right* about that door and *wrong* that Leaf-Fall is a signing. Do not let this faith retcon Mother's Gifts into bargains. Do not play Orledd as a devil.

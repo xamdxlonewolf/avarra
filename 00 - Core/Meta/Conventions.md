@@ -6,7 +6,7 @@ note_status: draft
 tags: [meta, conventions, schema]
 aliases: [Schema, Front-matter Reference]
 created: 2026-08-11
-updated: 2026-08-11
+updated: 2026-08-30
 ---
 
 # Vault Conventions
@@ -78,6 +78,8 @@ reveals: []   # secret reveal_tags this note exposes, e.g. [the-big-secret]
 > **`visibility`:** `gm` = never shown to players. `player` = safe to hand out. Mixed notes stay `player` but keep secrets in a `## GM Notes` section (stripped on export). Fully-secret notes live in `11 - Secrets` or under a `gm` MOC.
 
 > **`reveals`:** the machine-filterable link between public notes and the secrets they'd spoil. Lets you later query "what is safe to hand out by session 20" by excluding notes that reveal not-yet-revealed `reveal_tag`s. Every secret note declares a `reveal_tag`; public notes list the tags they touch in `reveals: []`.
+
+> **Reveal-tag vocabulary (Story R.5).** `leaf-mother-is-real` = this note's player *body* would confirm the Leaf-Mother, or it is the keystone's own `reveal_tag`. `keystone-adjacent` = clue, doctrine, Tree, or reach-pattern without confirmation — use this so clue-bearing notes can be found without treating the vault as one spoiler. `the-other-hands` = the note exposes the household (usually in `## GM Notes`). `the-unspent` = the lesser household presence the Long-Lived fringe named. `when-the-fire-is-caught` = the Phoenix slot. Index and examples: [[11 - Secrets]]. The exact heading-strip rule for player export is Story R.13.
 
 ### `type` vocabulary
 `moc`, `reference`, `lore`, `cosmology`, `theme`,

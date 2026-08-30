@@ -9,7 +9,7 @@ aliases: [Past the Ford, The Three Hamlets, The Hamlets the Leave Named, Brenod,
 world: The Turning
 region: "[[Heskoren]]"
 population: three hearths — a few dozen houses each, not a town
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

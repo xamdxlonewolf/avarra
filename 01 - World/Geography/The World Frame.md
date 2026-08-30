@@ -8,7 +8,7 @@ status: active
 tags: [world, geography, continents, world-frame, reach-gradient, epic-3, moc]
 aliases: [The World, The Known World, The Four Continents, The Turning Lands, World Map, Geography]
 world: The Turning
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-22
 updated: 2026-08-24
 ---
@@ -175,7 +175,7 @@ Optional. After generating a map in Azgaar, open the **browser console** (F12) a
 - [[Roadmap]] (Epic 3; Epic 7 Story 7.1) · [[The Ages of the Turning]] · [[The First Cut]] · [[01 - World]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **The map IS the keystone edge, drawn.** The reach-gradient (dense core → thin frontier → Treeless isle) is the ground-level face of [[Is the Leaf-Mother Real|the Mother's bounded reach]]. In-world it reads as plain distance-and-history: [[The Ages of the Turning]] explains today's thin edges as *Tree-poor places* (young/sick/few grafts) and as the *front of a wave still moving* on [[Heskoren]], and the skeptics take that as the whole truth. It *is* most of the truth. The part that stays GM-side is *why* the grafts thin with distance from Thaeloren — that her reach itself has an edge. Never let a player-facing region note assert the deeper cause; let it read as geography.
 - **The Sundering Isle is the sharpest test.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the strongest natural experiment in the world. Per [[The Other Hands]]: no Gifts (reach does not cross); rare Struck (little household purchase); their table is not hers. Reserve the *confirming* beat — it's still late, not early colour.

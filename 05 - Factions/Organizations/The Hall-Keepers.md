@@ -10,7 +10,7 @@ world: The Turning
 category: organization
 seat: none — the town ael-hall; a "high hall" is just the oldest playhouse on a quay
 public_face: the playhouse that is also a safety-valve — they keep the hour, they teach a Given child to vent on purpose, they stamp the Voice-ticket
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -114,7 +114,7 @@ The hall sells (or grants) the right to feel in public *on time*. Off-time is a 
 
 The town is glad. An emptied voice is not a Cry in the market. The Warm can say the gift was aired. The quay can say the bill was posted. The crown can say the channel held.
 
-Confirming she is real does **not** make the eighth week kind. She gave a voice that must vent. She did not build the slate. R2 is the whole point.
+The Motherfaith says she gave a voice that must vent. The slate is people's work. A kind Tree would not make the eighth week kind.
 
 They have no scion-queue. They have no gate-of-dirt. They have no Grey-clock (that is the Stillers). Do not clone those. This house's constraint is the hour — analog benches, one slate, no authority after the lamps.
 
@@ -143,7 +143,7 @@ On its face: a playhouse being practical, almost kind (the sweep-hour). Undernea
 - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: magic-police of loud people, opera-church, nice Slide. Rotate. Form stays playhouse + ticket-stool (load-bearing). They want a town that does not Cry in the market, and a bill that fills. They do not want a client who comes back tonight.
 - **One lintel is the point.** Far-Voiced are the seam Condition. The building that empties them is the building that stamps them. Split only if play proves the ticket needs a different mouth — and even then, do not grow four offices.

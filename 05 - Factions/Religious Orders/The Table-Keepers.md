@@ -10,7 +10,7 @@ world: The Turning
 category: religious-order
 seat: none — a hill-hall on Kumbaan; an attic on the mainland; there is no seat across the sea
 public_face: almost not clergy — the person whose hall the valley comes to on the bright nights, or the one who will still lay the extra place in a foreign room
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-30
 ---
@@ -169,7 +169,7 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Not of her household. Not a Kind-order.** Per [[The Other Hands]] the staying-kin are not *Threnvaeth* or anyone else. Do not absorb Kumbaan. Per [[Kinds of the Turning]] and Epic 5, do not invent a Yumboe-only clergy — even though almost every hill-host on the isle *is* Yumboe, because that is who lives there. The attic convert is the proof the rule holds.
 - **Not ghosts, not a geas, not a mission.** The unseen hands are furniture. "No one is a stranger twice" is courtesy with legal weight on the isle, a proverb on the quay. Do not turn the Open Table into a trap-cult or a Fair Hand contract. Do not send table-keepers to plant a hall in Vaethorn. Do not send Road-hands to Kumbaan.

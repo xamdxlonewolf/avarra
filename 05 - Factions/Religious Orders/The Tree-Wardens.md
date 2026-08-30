@@ -10,7 +10,7 @@ world: The Turning
 category: religious-order
 seat: the First Seat, in the Motherwood about Thaeloren (Maiethorn Sacred Core)
 public_face: the civic-sacred keepers of every town Tree — they tend the wood, speak the colour, carry the grafts
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-30
 ---
@@ -118,7 +118,7 @@ A graft takes a generation to Turn. There are always more waiting towns than car
 
 The First Seat frames the queue as **horticulture**: the wood will take *here*; the soil is thin *there*; the carrying-earth is needed for the first. All of that can be true. It is also a choice about who lives another twenty years sending children down the road to a neighbour's canopy — and those years run **Kept-heavy and Struck-heavy**, which the frontier already knows as weather.
 
-This is the clergy's own face of the R2 guard. The Leaf-Mother's kindness did not write the queue. People did. Confirming she is real does not make the waiting hamlet less waiting.
+The Motherfaith's kindness, if you hold it, did not write the queue. People did. A kind Tree would not make the waiting hamlet less waiting.
 
 Road-hands walk the consequence. They plant what they were given leave to plant. They sleep in the town that was not chosen, and they learn not to say *queue*.
 
@@ -154,6 +154,7 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 
 ## Links
 - [[The Leaf-Mother]] — the faith this order serves · [[Turning Tree]] — the object and rite
+- [[The Remainder]] — the side-yard desk · [[The Spent Leaf]] — the colourless scrap they keep
 - [[Faiths of the Turning]] — how they share a square with the other four houses
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2)
@@ -167,7 +168,7 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete; Story 7.2) · [[05 - Factions]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They are right about the wood and incomplete about the hand.** Per [[Is the Leaf-Mother Real]], every scion *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present the Orenhael as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind — the same two-sided schism, now wearing a lintel.
 - **The queue is the parallax, not the Tree.** Spatial + informational distance: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Exchange engine: every Cutting-leave is a benefit paid somewhere else. Do not let the keystone dissolve this. She is bounded, yes — she cannot gift every child — but *which town gets the next graft* is still a human rationing of her reach. R2: cosmological kindness, clerical injustice. History's added sentence: the queue is [[The First Cut|the Grafting]]'s child — copy-right captured in the generation of argument. Do not rebuild the office to say it.

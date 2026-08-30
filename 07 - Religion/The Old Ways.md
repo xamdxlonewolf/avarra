@@ -8,7 +8,7 @@ tags: [religion, faith, heskoren, animism, ancestors, vaeloren, belief-systems]
 aliases: [Vaeloren, The Before-Faith, The Green Kin, The Unreached, The First Kin]
 world: The Turning
 domain: the land's doors, ancestors, the Struck, the Taken-In
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -73,7 +73,7 @@ On its face: frontier courtesy, a little barbed. Underneath: the Old Ways' whole
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Half-right at the edge.** Per [[The Other Hands]] the land-doors are real (Vaelorn, Ornhael, Eloren) and she does not walk them herself — she authorizes them. The Old Ways have built a whole religion on the part she does not do in person. Keep their grievance real (the grafts *are* late; the Motherfaith *did* talk as if becoming were new). Keep their miss intact: the guests came with her leave.
 - **Frontier mirror of the Watching.** Two old faiths, opposite edges of the world, both remembering something the Motherfaith smooths over. The Watching remembers a Before *at the Tree*. The Old Ways remember a Before *without* one. If a campaign triangulates the keystone, these two plus [[The Open Table]] are the corners. Do not let them agree too easily — they would not.

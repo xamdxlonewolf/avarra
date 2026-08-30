@@ -10,7 +10,7 @@ world: The Turning
 category: religious-order
 seat: none — oldest rooms under older chapels, or houses that never took a warden's lintel
 public_face: the people who keep the night before Turning-Week, and who will sit a second reading of a rare fall alongside the warden, not over them
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -150,7 +150,7 @@ They remember a cost, and they have no institution that can keep a lintel from b
 
 The First Seat did not steal a throne from them. There was no throne. What was lost is quieter: a beam recut, a room under a chapel that is now a vestry, a second reading that remains *alongside* because the civic word was given to the warden when the Mother-name grew over the Seeing. All of that can be described as history. It is also a choice, still being made, about whose speech counts in the square.
 
-This is the house's own face of the R2 guard. Confirming the Leaf-Mother is real does not give the Watching a seat, and does not make the Grown-Over column kind. They have hold of the Before and the cost. They do not have the last word on a colour. The keystone, if it ever lands, will not promote them. It will only prove they were looking at a household they still will not name Mother.
+A second reading does not buy a seat. The Grown-Over column stays a column. They have hold of the Before and the cost. They do not have the last word on a colour. A settled Mother-name would not promote them.
 
 They do not walk a scion-queue. That injustice is the Orenhael's. Theirs is the recut beam.
 
@@ -181,7 +181,7 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
 - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **They are the keystone's unexpected corroborators, and they will still miss.** Per [[Is the Leaf-Mother Real]] the seeing *is* hers. Per [[The Other Hands]] they have hold of a household before it was named Mother, and of a cost. Do not confirm their metaphysics. Do not give them a seat in a late reveal — that would turn the heretics into a second Motherfaith. The warmth lands *through* them, not *as* them.
 - **The injustice is the recut lintel, not a hunt.** Spatial + informational distance: the oldest rooms sit under the chapel that grew over them; the Seat sees horticulture and a festival-eve custom; the Bare Tree sees a theft of speech. Inheritance engine: each recut beam is a past choice the present household lives inside. R2: cosmological kindness does not unsay the Grown-Over column.

@@ -9,7 +9,7 @@ aliases: [The White Note, White Note, Ledan's House]
 world: The Turning
 region: "[[Strandoren]]"
 stratum:
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-24
 ---

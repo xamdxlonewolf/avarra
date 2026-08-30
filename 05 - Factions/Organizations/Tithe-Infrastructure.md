@@ -10,7 +10,7 @@ world: The Turning
 category: organization
 seat: none — a town greenhouse, an ael-hall, a long-house; there is no Furnishing Seat
 public_face: the civic utilities that keep three of four people whole — greens, halls, long-houses — and the guild-tickets that keep a handful of those people safe to stand next to
-reveals: [leaf-mother-is-real]
+reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-08-23
 ---
@@ -118,7 +118,7 @@ Same sector; the name and the leash change. The lever is [[Naming in the Turning
 - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [leaf-mother-is-real]`.)*
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** `cliche-transcendence`: defaults are the magic-police, the welfare office, the superhero registry, "the nice Slide." Rotate. Form stays civic works + craft guild (load-bearing). Knowledge / goal / role do not: they are in a wells-and-yards story. They want a town that does not wilt, Cry, or seize in the square. They do not want a client.
 - **Moral parallax.** Distances: informational (pretending not to know the Slide) and causal ("we furnished the commons"). Engine: accumulation — every closed gate feeds a week-book — and exchange — every official share is a bed someone else waits for. Comfort mechanism: the words *share*, *hour*, *ticket*, *enough*. The town is complicit. R2: she gave the Tithe; she did not build the lot.
