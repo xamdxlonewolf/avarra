@@ -12,7 +12,7 @@ seat: unnamed — the three corner seats are named (Story 7.3); this power's sea
 public_face: the Near Mile's lodging-towns, grown into a civic power that does not own the Tree
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Orenbren
@@ -23,7 +23,7 @@ updated: 2026-08-24
 
 ## Overview (public)
 
-The civic agglomeration of the **Near Mile** — lodging-squares, upper rooms, and old road-houses that stayed hearths when the walk stopped being required in the core. Pilgrims still come ([[The Years of Hands|the extra mile]], the First-Hand year). Orenbren houses them. That is its power: not a crown on the grove, a monopoly on *beds within a week's walk of it*.
+The civic agglomeration of the **Near Mile** — lodging-squares, upper rooms, and old road-houses that stayed hearths when the walk stopped being required in the core. Pilgrims still come ([[The Years of Hands|the extra mile]], the First-Hand year). Orenbren **houses** them. That is its power: not a crown on the grove, a monopoly on *beds within a week's walk of it*. It does not sell the Coast product. The berth is [[Orentel]]'s hold; the paper is [[The White Note House]]; the hull may be [[Netstrand]]. This compact takes the sleep.
 
 The [[The Tree-Wardens|First Seat]] sits in the Motherwood beside this power and remains a college, not a throne. [[Polity Archetypes|Threnmaieth]] would like the lodging-rolls. Orenbren witnesses who slept, not what colour they are.
 
@@ -45,10 +45,11 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 
 - **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. [[Maiethlir]] is Threnmaieth's counted river-seat, not this compact and not the grove. Hold the gap.
 - **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.
-- **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty.
+- **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty; a term that cleared on the quay and a bed that did not.
+- **Prestige-walk chain (Story R.6).** Destination beds, not a fourth seller of the berth.
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[The Tree-Wardens]] · [[Turning Tree]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Settlement Seeds]]
-- [[The Third Hearth]] · [[The White Note House]] · [[Polity Archetypes]]
-- [[Roadmap]] (Story 7.2)
+- [[The Third Hearth]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
+- [[Polity Archetypes]] · [[Roadmap]] (Story 7.1; Story R.6)

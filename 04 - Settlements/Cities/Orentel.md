@@ -11,7 +11,7 @@ region: "[[Strandoren]]"
 population: a salt-city — tens of thousands; the Tree-town is the smaller half
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Orentel
@@ -26,13 +26,13 @@ An inner-sea estuary on [[Strandoren]], facing [[Maiethorn]] across the oldest w
 
 [[Polity Archetypes|Lestrand]] is guild self-rule carried as far as it goes. Orentel is the square that proves it: a charter-council of houses and craft-guilds, no crown, no [[Naming in the Turning|Threnhael]]. Citizenship-by-witness runs smoothly because reach is high. The [[Law and Citizenship|three pillars]] are infrastructure. An unvouched person is a transaction that cannot clear.
 
-**Leftover job on this street: prestige** — the First-Hand year as a product; empty Eolthael berths held for households who can pay to walk a walk they do not need. Necessity still eats in the lofts; [[The White Note House|Mataero]] files it as occupancy. Do not make all three the city's theme. Do not let the desk be the leftover.
+**Leftover job on this street: prestige** — the First-Hand year as a product the *city holds*. Empty Eolthael berths on the first quay, assigned by the factor, for households who can pay to walk a walk they do not need. The White Note writes the **terms**. A [[Netstrand]] hull may be the wood in the water. [[Orenbren]] takes the sleep at the origin. Three desks, one commodity. Necessity still eats in the lofts; [[The White Note House|Mataero]] files it as occupancy. Do not make all three the city's theme. Do not let the desk be the leftover. Do not let Netstrand crown the year.
 
 ## Site
 
 The estuary is why anyone stopped. Deep water, a sheltered sound, a tide that writes the working day. The graft took on the **rise above the first quay** — C.Y. 40s–80s, wealthy coast, a paying next — and the oldest lintels still face that Tree. The road used to come inland from the berth toward a healthier origin-canopy. Then this canopy grew up. Then the berth became the point.
 
-Water is the tide, cisterns on the rise, and paid wells in the warehouse-leap. Food is the river-plain, the inner-sea catch, whatever the crossing pays. Fuel is drift, peat, and what the factor-houses book. The [[The Taken-In|Taken-In]] rent **leaf-lots** by the season; they are not a nation. [[Selkie]] hearths are densest on the water — a lot of shoreline, not a gate ([[Kinds of the Turning]]).
+Water is the tide, cisterns on the rise, and paid wells in the warehouse-leap. Food is the river-plain, the inner-sea catch, whatever the crossing pays. Fuel is drift, peat, and what the factor-houses book. The [[The Taken-In|Taken-In]] rent **leaf-lots** by the season; they are not a nation. They are here because they were Given here, because grain-hands winter, because the lot is a job — not because the city is a forest ([[Economy and the Tithe#Why Taken-In live in stone cities]]). [[Selkie]] hearths are densest on the water — a lot of shoreline, not a gate ([[Kinds of the Turning]]). Citizenship-by-witness in a city this size is **by hearth**: the quay-gang stood, not the twenty thousand ([[Law and Citizenship#Turning in a city — the hearth stood]]).
 
 No walls that matter. The boundary is the last crane and the ranging-yard inland. Low governance looks like this: the council charters the guild, never the person.
 
@@ -43,7 +43,7 @@ No walls that matter. The boundary is the last crane and the ranging-yard inland
 Composite: nucleated Tree-town on the rise, linear quays along the tide, leap-frog warehouses where a fire or a silted berth made the next stretch cheaper than rebuilding. The interesting streets are the edges where the rise meets the salt.
 
 - **The Tree at the centre** — still the civic heart, as [[Daily Life]] requires, even when the money is downhill. Mature Hand. Leaf-Fall is a civic and commercial milestone: a family's colour is watched for what guild it opens. Warm it is not. The square still Turns local children for free. That free is the leftover the quay cannot price without noticing itself.
-- **The first quay** — the Salt Walk's old landing. Empty Eolthael berths held as prestige; wool through Hale-month covering a shrine. A smell of earth out of season when a pot, not a child, is the passenger.
+- **The first quay** — the Salt Walk's old landing. Empty Eolthael berths **held** as prestige (Sorim's occupancy); wool through Hale-month covering a shrine. A smell of earth out of season when a pot, not a child, is the passenger. A west-water hull at an inner-sea hold is a Netstrand charter, not a second leftover.
 - **The third quay, north side** — [[The White Note House]]. Ledan's desk. Mataero's loft in the rise behind, twelve beds, north bed not to let. Century instruments. The house is a mouth, not a council. Lestrand will only count it as success.
 - **The release-house** — [[Naming in the Turning|ael-hall]] as playhouse and outlet, ticketed. Superb if you can pay. The queue outside it is the have-and-have-not gap at eye level.
 - **The leaf-lots** — rented green, not Mother's common. They will not follow you home, and home is a loft if they did.
@@ -92,7 +92,8 @@ Sorim cannot afford to see that "I did not invent the hold" is the market's inju
 ## GM Notes
 
 - **Do not make the White Note the crown.** The desk is one house on the third quay. The council is many tickets. A party that only meets Ledan has not met Orentel.
-- **One leftover job.** Prestige / First-Hand year as product. Necessity in the loft is texture, not a second theme. Devotion that books a release-house is friction.
+- **One leftover job.** Prestige / First-Hand year as product **the city holds**. Necessity in the loft is texture, not a second theme. Devotion that books a release-house is friction.
+- **Prestige-walk chain (Story R.6).** Netstrand berths/hulls → White Note terms → Orentel holds. Orenbren houses the year at the origin. Do not let Ledan, Sorim, and a Night-Shore factor each "invent" the same winter.
 - **Do not clone 7.2's stone or sand.** Empty berths and earth-holds are this street's leftover. Salt on the roots is not a ribbon.
 - **Hallowquay stays a lesser quay.** The [[Naming People in the Turning]] example is a neighbourhood byname, not a retcon of the capital.
 - **Keystone:** dense Given stay horticulture-and-trade in player text. Do not let Sorim assert the mind.
@@ -101,7 +102,8 @@ Sorim cannot afford to see that "I did not invent the hold" is the market's inju
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[Polity Archetypes]] · [[Strandoren]]
-- [[The White Note House]] · [[The Third Hearth]] · [[Economy and the Tithe]]
+- [[The White Note House]] · [[The Third Hearth]] · [[Netstrand]] · [[Orenbren]]
+- [[Economy and the Tithe]] · [[Law and Citizenship]] — hearth-stand, leaf-lots
 - [[The Book-Hands]] · [[The Fair Hand]] · [[The Stillers]] · [[The Hall-Keepers]]
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — warranting
 - [[Eolvaeth]] · [[Maiethlir]] — the other two seats

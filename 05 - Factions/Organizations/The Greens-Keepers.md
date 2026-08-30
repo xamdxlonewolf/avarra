@@ -12,14 +12,14 @@ seat: none — the town lot, the garden-commons, a cousin's field; there is no G
 public_face: the people who keep living land in a stone town so the Taken-In do not go to seed on a parlour floor
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Greens-Keepers
 
 > **What this is.** The lived face of **official green** from [[Economy and the Tithe]] — garden-commons, the greens, a leaf-lot. They furnish *enough* living land that a [[The Taken-In|Taken-In]] can rest and walk away. They are not [[The Slide]]. Built with `economic-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.3]].
 
-> **Canon status.** 🟡 **Proposed** (the liturgical name, whether a bed-slate is a plant-list or already too close to a roll). 🔒 **Locked upstream:** green is a provided-for Tithe; cities keep the Taken-In at arm's length; the Slide rents the pot after the share fails. Recruits by practice / office / Condition-lean, **not Kind**.
+> **Canon status.** 🟡 **Proposed** (the liturgical name, whether a bed-slate is a plant-list or already too close to a roll). 🔒 **Locked upstream:** green is a provided-for Tithe; cities keep the Taken-In at social arm's length while employing them on the lots; the Slide rents the pot after the share fails. Recruits by practice / office / Condition-lean, **not Kind**.
 
 *(Everyday: **greens-keepers**, or **lot-keepers.** Liturgical, 🟡: **the Saelhael** — SAYL-hayl — [[The Old Tongue|sael]] "sowing; the first green" + [[The Old Tongue|hael]] "whole": those who *keep you hale by putting you back on growing ground.* [[Polity Archetypes|Vaethorn]]'s second word is **Mother's-green hands**; [[Polity Archetypes|Lestrand]]'s is **lot-keepers** (ordinary, like saying *gardener*); [[Polity Archetypes|Threnmaieth]] files them as **the Tended**.)*
 
@@ -44,7 +44,7 @@ They are useful the way a well is useful. A stone town cannot keep its Taken-In 
 
 | Who | Why they come | What the greens-keeper does | What they will not do |
 |---|---|---|---|
-| A [[The Taken-In\|Taken-In]] who works in town | The rooms are stone; the Tithe is due | Give a share: a bed, a night, a commons-hour. Write the bed, not the person, if they write at all. | Will not follow them home with a pot. Will not open the gate after the share-hour because the wilt has started. |
+| A [[The Taken-In\|Taken-In]] who works in town | The rooms are stone; the Tithe is due. They were Given here, or they came with the grain, or the lot hired them ([[Economy and the Tithe#Why Taken-In live in stone cities]]) | Give a share: a bed, a night, a commons-hour. Write the bed, not the person, if they write at all. | Will not follow them home with a pot. Will not open the gate after the share-hour because the wilt has started. |
 | A family, before the town sees | A parent is going to seed indoors | Open the lot if there is a bed. Send them home with the hour named. | Will not make the wilt a sermon. Will not tell the warden unless the person asks. |
 | A Struck Taken-In, raw | They came through a green door later, alone | Find them dirt *now*. Point them at a door-keeper if the door still needs walking. | Will not name them Given. Will not licence a grove. |
 | A Book-hand with a settling | The term *assumes* a greens-share | Honour the term if there is a bed. Mark the slate *full* if there is not — the book becomes *owing*, not this lot's lie. | Will not invent a bed to close someone else's book. |

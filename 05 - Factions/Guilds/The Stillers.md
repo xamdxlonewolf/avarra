@@ -12,7 +12,7 @@ seat: the guild-yard beside the infirmary — a town has one if it has stillers;
 public_face: the surgeon's college that also stands a riot-line — they stamp the strictest ticket in the world because the same gaze that stops a wound can hold a person forever
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Stillers
@@ -27,7 +27,7 @@ updated: 2026-08-23
 
 ## Shape of the house (at a glance)
 
-- **The model the others imitate.** If you understand this guild, you understand a Voice-ticket and an element-ticket. A roster of practitioners of a dangerous art. Not a list of a people.
+- **The model the others imitate.** If you understand this guild, you understand a Voice-ticket and an element-ticket. A roster of practitioners of a dangerous art. Not a list of a people. The ticketable pool is large; this roll is stillers who Gaze, not every pale-stone in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
 - **Two rooms, one clock.** The infirmary (wonder) and the yard (spar, patrol, the riot-line). Using the Gaze *fills* the Grey. The yard empties it. The guild's best work creates the guild's Tithe. That is not a paradox they have solved. It is the job.
 - **They think they are in a surgeon's-college story.** Apprentices, a code, a ticket like a master's papers. They do not call themselves keepers of monsters. The ~5% dial stays at the gaze that saves you — and at the unlicensed Struck the town will meet with a rope.
 - **No Stillers' pope.** A rich core infirmary is rich. A frontier stiller is one tired person. The charter is local. The state watches the charter.

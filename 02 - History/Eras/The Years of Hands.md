@@ -12,7 +12,7 @@ preceded_by: "[[The Walking Years]]"
 followed_by:
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The Years of Hands
@@ -114,7 +114,14 @@ Many [[Economy and the Tithe|deathless houses]] began as **road-houses**. That f
 
 Do not invent a second banking-order. Do not give novelty a new clergy. The long-house of books is still the deathless paying their own Tithe. The road-past is why anyone trusted them to endow in the first place: a mouth that remembered every debtor on the mile is a mouth you let steer a library.
 
-**The prestige-walk is now a product some houses sell.** A held-over winter at the origin — once the frightened far mercy — is a First-Hand year you can book. The White Note did not invent that. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. Necessity-families still sign the old kind of note: eat now, pay on the home-walk, or when the child is grown, or when a sibling walks next year. Same paper, two jobs. The clerk who files both as occupancy cannot afford to see the difference.
+**The prestige-walk is now a product some houses sell.** A held-over winter at the origin — once the frightened far mercy — is a First-Hand year you can book. One commodity, three Coast desks, plus the origin beds:
+
+- **[[Netstrand]]** supplies **berths** — hulls, crews, west-water capacity chartered *in* to the inner sea. Their own leftover is the far crossing, not this winter.
+- **[[The White Note House]]** writes the **terms** — credit for a year you do not need. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. They did not invent the hold.
+- **[[Orentel]]** **holds** — Sorim's first-quay occupancy. Empty Eolthael berths. The city that stages departure toward Maiethorn.
+- **[[Orenbren]]** **houses** the year at the origin. Beds within a week's walk of the grove. Not a fourth seller of the berth.
+
+Necessity-families still sign the old kind of note: eat now, pay on the home-walk, or when the child is grown, or when a sibling walks next year. Same paper, two jobs. The clerk who files both as occupancy cannot afford to see the difference. Do not let all three Coast mouths claim they invented the winter.
 
 Vaethorn will preach that the houses *abandoned the waiting-road*. History's job is shorter: the walk stopped being required in the core, the memory did not, the paper outlived the season. That is a reformation, not a betrayal, and it still collects. R2: spreading Trees did not make the notes kind.
 
@@ -211,6 +218,7 @@ Named powers wait on remaining stubs; districts of the three archetype seats wai
   Human approval before any later fate-shift. Story 6.4 tables the pressure. It does not turn the wheel.
 
 - **Two fates of the road-house is the leftover's contradiction.** [[The White Note House]] collected. [[The Third Hearth]] kept making the bed. Both are honest. Lestrand will only count the first as success. Play both. Do not have "the" deathless account of the road.
+- **Prestige-walk chain (Story R.6).** Netstrand berths → White Note terms → Orentel holds. Orenbren houses. Do not triple-book the First-Hand year as three inventions.
 - **Colonial trap, present tense.** Maiethorn visitors on Heskoren will read necessity as devotion (*they still walk, how faithful*). Prestige-walkers will read necessity as poverty-theatre. Vaethorn will read delay as unworthiness. The thing that is happening is shorter: a child needs a canopy this week. Keep all three misreadings available. Do not let GM voice agree with any of them.
 - **Do not rebuild.** The spine, the lived road, and the Cut stay put. This note does not pick a cutter, date the Tree, or close the nature of her limit. Kumbaan remains the control: a wrecked pot in a sailor's story is allowed; a taking is not.
 - **Hooks.** A stone a Hands-town wants down while a cousin is still walking; Mataero's north bed and a founding-name; Thilim still alive, still making Seine's; a First-Hand year and a neighbour's week in the same loft; a Road-hand and a tenth-year passing; Harrow's green getting the scion the hamlets can see; a folk-right slip that took; a sick Tree in an old-Hands square that puts the town back on the road; a century-debt whose grandchildren do not remember the ford; Ledan's conversion still unanswered; a Phoenix someone wants to use as a year-zero.
@@ -218,6 +226,7 @@ Named powers wait on remaining stubs; districts of the three archetype seats wai
 ## Links
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
 - [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The White Note House]] · [[Ornsael]]
+- [[Orentel]] · [[Netstrand]] · [[Orenbren]] — prestige-walk desks
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
 - [[Naming in the Turning]] · [[The Old Tongue]] · [[Long-Lived]] · [[Phoenix]]

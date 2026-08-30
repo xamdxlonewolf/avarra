@@ -12,7 +12,7 @@ seat: none — a town greenhouse, an ael-hall, a long-house; there is no Furnish
 public_face: the civic utilities that keep three of four people whole — greens, halls, long-houses — and the guild-tickets that keep a handful of those people safe to stand next to
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # Tithe-Infrastructure
@@ -46,7 +46,7 @@ The provided-for Tithes from [[Economy and the Tithe]], given a door you can kno
 | [[Returned]] Purpose | *cannot be furnished* | a Book-hand may find a payable year; no one can supply a vengeance | Do not invent a Purpose-desk. |
 | [[Two-Bodied]] ranging | the ranging / a beast-yard | civic land, no guild | Self-paying. No ticket. Do not invent wolf-police. |
 
-**The three tickets** (danger-to-others only, held by the person, issued by the craft):
+**The three tickets** (danger-to-others only, issued by the craft). A ticket names a **competence**, not a Condition. The ticketable pool is large (~29% of people could be asked if they practice). The roll is not. Three guilds, no shared list. Fuller math: [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
 
 | Ticket | Condition | Lived house | Why a ticket at all |
 |---|---|---|---|
@@ -104,7 +104,7 @@ Same sector; the name and the leash change. The lever is [[Naming in the Turning
 ## What this sector is not
 
 - Not a fifth faith. No colour, no blessing except Vaethorn's courtesy-words over a share.
-- Not a census. A bed-list is plants. A hall-slate is hours. A guild-roll is practitioners of a dangerous art. The one kingdom that writes *persons and gifts* is still only [[Polity Archetypes|Threnmaieth]].
+- Not a census. A bed-list is plants. A hall-slate is hours. A guild-roll is practitioners of a dangerous art. The ticketable pool is not a supervised third of the world. The one kingdom that writes *persons and gifts* is still only [[Polity Archetypes|Threnmaieth]].
 - Not the Road-hands. They carry wood. These houses carry dirt, an hour, a ticket.
 - Not the four houses' travelling edges.
 

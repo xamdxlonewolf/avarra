@@ -12,7 +12,7 @@ seat: none — a room, a lot, a book of weeks; there is no cellar-church
 public_face: the person who will still give you a week when the greenhouse queue is three weeks and you have two days
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Slide
@@ -46,7 +46,7 @@ They are useful the way a week is useful. If you came for a stamp, a colour, or 
 
 | Who | Why they come | What the week-keeper does | What they will not do |
 |---|---|---|---|
-| A [[The Taken-In\|Taken-In]] cut off from land | The greens-queue is longer than the wilt | Rent a pot, a strip, a night on living dirt. Extend if the week cannot be paid. | Will not give them a commons-share that lasts. Will not walk them to a warden to be filed as housed. |
+| A [[The Taken-In\|Taken-In]] cut off from land | The greens-queue is longer than the wilt. City-Given who never left; harvest-hands who wintered; lot-labor that cannot save the cart-fare home ([[Economy and the Tithe#Why Taken-In live in stone cities]]) | Rent a pot, a strip, a night on living dirt. Extend if the week cannot be paid. | Will not give them a commons-share that lasts. Will not walk them to a warden to be filed as housed. |
 | A [[Far-Voiced]] who lost a stage | Isolated posting, dull labor, nowhere to vent; the Cry is close | A room, an hour, a door that shuts. One outlet. The next week is the same week. | Will not find them honest work. Will not let the Cry happen in the street — that brings the watch, and ruins the book. |
 | A [[Long-Lived]] whose novelty has thinned | The endowment is late; the fade has started | A page, a letter, a gossip that is *new enough*. Rationed. | Will not endow a library. Will not be their deathless patron in public. |
 | An [[The Unbound\|Unbound]] losing warmth | Company costs; the hole is getting loud | Sit with them. Be known, a little. Charge the sitting. | Will not be family. Will not sign them a new Bargain — that is another table. |

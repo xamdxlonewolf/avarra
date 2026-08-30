@@ -12,7 +12,7 @@ seat: none — the town ael-hall; a "high hall" is just the oldest playhouse on 
 public_face: the playhouse that is also a safety-valve — they keep the hour, they teach a Given child to vent on purpose, they stamp the Voice-ticket
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Hall-Keepers
@@ -63,7 +63,7 @@ When a voice misses its hour, the keeper does not open the side door. They know 
 
 ### What they carry
 
-A slate. A stamp (the Voice-ticket — competence, not a census). Chalk. A key. No book of weeks. No colour-scrap.
+A slate. A stamp (the Voice-ticket — competence, not a census; a field-voice who vents at the hedge does not hold one). Chalk. A key. No book of weeks. No colour-scrap. Pool-versus-roll: [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
 
 ### What they refuse (the job's edge)
 

@@ -8,7 +8,7 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Naming in the Turning
@@ -47,6 +47,12 @@ The universal grammar's institutions, with the **common-tongue** name and the th
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
 | proof-by-people (vouching) | **standing-for** | *the speaking* (vouched at worship) | *warranting* (a commercial guarantee) | *the naming* (you are named to the crown) |
+| city / nested witness | **hearth-stand** | *the street that watched* | *the quay-gang* (a commercial circle) | *the named stand* (copied to the Threnhael) |
+| traveler's vouch | **road-word** | *the walking-speak* | *the last warrant* | *the named road* (you are already on a list) |
+| party passage | **company-vouch** | *the shared speaking* | *the company warrant* | *the named company* |
+| host's temporary stand | **guest-right** | *the hosted speaking* | *the inn-warrant* (a week) | *the counted guest* |
+| night hold | **the watch** | *the night-blessing* (a rope if they must) | *the gate* (three questions) | *the counted watch* |
+| public harm hearing | **open hearing** | *the speaking in square* | *the factor's hearing* | *the named hearing* |
 | the safety-licence | **the ticket** | *the blessing-to-practice* | *the guild-ticket* | *the crown-warrant* |
 | a census of persons | *(none — no one else keeps one)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
