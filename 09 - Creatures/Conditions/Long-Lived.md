@@ -31,12 +31,12 @@ Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a w
 
 *Ageless keepers of memory, law, and record — they live on what they learn.*
 
-- **Unfading Mind** — Your aging has stopped and you forget nothing you take in. Spend a **Hope** to recall any detail you have personally witnessed — exact and complete — or to gain **advantage** on a roll to recognize, appraise, or recall.
+- **Unfading Mind** — Your aging has stopped and you forget nothing you take in. You have **advantage** on rolls to recognize, appraise, or recall what you have personally witnessed. **Spend a Hope** to recall a witnessed detail *complete* — the vow as spoken, the face, the exact count. The Hope is for the perfect record, not for the ordinary librarian's job.
 - **Blood-Read** — Memory rides in blood. Taste a **single drop** of a creature's blood (freely given, or from a wound) and you read a **true memory** carried in it — a fragment of what that person has lived, chosen by the GM to fit what the blood remembers. It is never predation and never harms the donor: one drop, one glimpse, and the older or more guarded the memory you reach for, the less you may get. *(This is the Long-Lived's quiet vampiric inheritance — they feed on knowledge, and blood is the oldest record of all.)*
-- **The Hunger to Know** *(Tithe)* — Place **3 Memory tokens** on this card. Refill all of them whenever you **learn something genuinely new** — read a book you haven't, hear a true account, witness a place or event first-hand (a downtime move, or the GM's call in play). Each time you take a rest **without** having learned anything new since your last rest, **remove a token**:
+- **The Hunger to Know** *(Tithe)* — Place **3 Memory tokens** on this card. **At a long rest, refill all tokens** if since your last long rest you **spent Hope on Unfading Mind**, **used Blood-Read**, or **spent a downtime move** in study or first-hand witness. Otherwise **remove a token**. Always-on advantage does not refill the clock; using the keeper-tools does.
   - **2 tokens:** no effect.
-  - **1 token:** the **fade** begins — your action and reaction rolls are at **disadvantage**, and you start losing older memories (describe what slips).
-  - **0 tokens:** you are **starving** — mark a **Hit Point** at the start of each rest, and you cannot clear it while at 0 tokens. If you would mark your last Hit Point this way, you do **not** make a death move: you simply **go still**, mind emptied — the true death of the Long-Lived.
+  - **1 token:** the **fade** begins — **disadvantage** on rolls to recall, recognize, appraise, or use Presence, and you start losing older memories (describe what slips). Other action and reaction rolls are untouched.
+  - **0 tokens:** you are **starving** — you are **Vulnerable**, and at the start of each **long rest** still at 0 tokens you **mark a Stress**. If you would mark your last Stress this way, mark a **Hit Point** instead. If you would mark your last Hit Point this way, you do **not** make a death move: you simply **go still**, mind emptied — the true death of the Long-Lived. You may clear Hit Points and Stress as usual. Getting a token back (a Hope spent on recall, a Blood-Read, a downtime study) stops the starve before the next long rest.
 
 ## The Tithe, in the world
 
@@ -48,7 +48,7 @@ Long-Lived **can** have children and families, but **none are guaranteed** to in
 
 ## GM Notes
 
-The "go still" death is intentionally not a death move — it's a slow, tragic off-ramp the player can see coming for several rests, not a sudden kill. Use it as story pressure (a Long-Lived NPC found statue-still in a sealed archive), not a gotcha.
+The "go still" death is intentionally not a death move — it's a slow, tragic off-ramp the player can see coming across long rests (Stress, then a Hit Point, then still), not a sudden kill and not an unclearable HP spiral. Use it as story pressure (a Long-Lived NPC found statue-still in a sealed archive), not a gotcha. The fade is a thinning mind, not a global curse on every roll.
 
 **On Blood-Read and the threshold:** these are the two quiet vampiric callbacks — recognizable, never the cliché. Keep **Blood-Read** non-predatory: one drop, freely given or from an existing wound, a *glimpse* of memory the GM narrates — never a feeding, never damage, never a way to drain someone. It's an investigative and emotional tool (read the dead man's last sight, feel why a witness lies), not a combat power. The **threshold custom** is pure roleplay and social texture — it is *not* a compulsion or a weakness a foe can exploit mechanically; a Long-Lived can cross uninvited if they truly must, they simply never do, and the manners run bone-deep. Don't let a table weaponize either into "the vampire rules."
 

@@ -7,7 +7,7 @@ status: active
 tags: [meta, audit, condition, balance, review]
 aliases: [Conditions Audit, Condition Balance Pass]
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-08-30
 ---
 
 # Condition Audit
@@ -62,7 +62,24 @@ The Conditions are strong — the anti-fun traps are genuinely avoided and no Ti
 | [[The Stilled]] | Locked. **Re-rhythmed:** Grey is now a *filling* clock fed by using the Gaze (also moved the Gaze off Hope). |
 | [[The Answered]] | Locked. Most complex card; well-built; Ember is the combat default (mild). |
 | [[The Taken-In]] | Locked. Fixed — entangle now attack-roll-first + Proficiency-d6s scaling. |
-| [[Phoenix]] | Locked. Rise From Ash / Dwindling de-duplicated (Rise = rebirth+memory, Dwindling = the count). Fire-immunity→resistance still an open Tier-3 dial. |
+| [[Phoenix]] | Locked. Rise From Ash / Dwindling de-duplicated (Rise = rebirth+memory, Dwindling = the count). Fire immunity kept (user call, #10). R.2: Evasion once per rest; Rise does not clear Stress; table-consent for the other players; remnant cosmology in [[When the Fire Is Caught]]. |
+
+---
+
+## Story R.2 — Editorial repair (2026-08-30)
+
+Source: [[Editorial Audit 2026-08-29]] §5 and §7.1. Cards touched; engine rules not. Fire immunity stays full. One Gift stays one Gift.
+
+- **[[The Stilled]]** — Gaze no longer uses SRD Restrained. Unwilling stilling is an attack roll (Instinct or Presence). **Stilled** is a special condition (no actions or reactions; Stress to break; one target). Grey fills on Gaze and on a long rest without exertion.
+- **[[Returned]]** — Avoid Death is off the list, said out loud. Options: Blaze of Glory, Risk It All, Refuse to Fall. Unshaken stays corpses / gore / deathly places.
+- **Rest clocks** — Long-Lived, Answered, Taken-In, Stilled tick on **long rest**. Far-Voiced, Two-Bodied, Bound, Phoenix keep their own triggers. Checklist on [[Conditions]].
+- **[[Two-Bodied]]** — Natural weapon has category, trait, range, damage die, type, burden, and Natural feature. Die does not level; Proficiency does.
+- **[[Phoenix]]** — Party-consent guidance for the other four players. Wings Evasion once per rest. Rise clears HP, not Stress; Vulnerable until next rest. Immunity unchanged. Apparent-two resolved in [[When the Fire Is Caught]].
+- **[[The Unbound]]** — Mind-lane immunity capped at Stress-marking (or Fear-granting) effects through the pledged hole. Quiet spends a token to act through the hole; it is not a second no-sell and not Returned unshaken.
+- **[[Long-Lived]]** — Unfading Mind advantage is always on; Hope buys complete recall. Fade is recall / recognize / appraise / Presence, not every roll. Starve marks Stress at long rest, then a Hit Point, then still. No unclearable HP spiral.
+- **[[The Answered]]** — **Spoken, not commanded**: one ask per long rest through the element's medium; the element will not obey another creature.
+- **Bookkeeping** — Refills are yes/no (Hope spent, plant touched, name known at the meal). "Genuinely new" and "in earnest" are gone.
+- **Advancement** — Deliberate no-scaling. Recorded on [[Conditions]]. Two-Bodied Experiences and the once-ever second signature stay flavor, not level text.
 
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[Roadmap]]
+- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[Roadmap]] · [[When the Fire Is Caught]]

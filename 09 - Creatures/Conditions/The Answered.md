@@ -31,10 +31,11 @@ At the Awakening, an Answered child's leaf doesn't just mark them Given — its 
 
 *An element answered you at the Awakening. It still does — and it still expects to be spoken to.*
 
-Choose your **element** at creation — **Ember**, **Tide**, **Root**, or **Gale**. It sets both features below.
+Choose your **element** at creation — **Ember**, **Tide**, **Root**, or **Gale**. It sets the Reach table and what you can ask.
 
-- **The Answering Hand** *(boon)* — Your element obeys your hands without tool, forge, or force — glass blown with no furnace, a hull bent with no steam, stone coaxed with no chisel — granting **advantage** on any action roll to shape, repair, wield, or read something made of your element. In the moment, it answers too: **spend a Hope** to use your element's **Reach** (see the table). The Reach is always available; the Tithe below is what wears down if you don't use it.
-- **The Untended Element** *(Tithe)* — Place **3 tokens** on this card. **Refill all of them** whenever you use your Reach in earnest — a rescue, a fight that mattered, real work of your trade (not idle showing-off). Each time you take a rest having done **none** of that since your last, **remove a token**. At **2 tokens:** no effect. At **1** and **0**, the element starts speaking for itself — see the table.
+- **The Answering Hand** *(boon)* — Your element answers your hands without tool, forge, or force — glass blown with no furnace, a hull bent with no steam, stone coaxed with no chisel — granting **advantage** on any action roll to shape, repair, wield, or read something made of your element. In the moment, it answers too: **spend a Hope** to use your element's **Reach** (see the table). The Reach is always available; the Tithe below is what wears down if you don't speak.
+- **Spoken, not commanded** — Once per **long rest**, you may **ask** your element one question it can feel through its medium. Ember: heat, fuel, and what would burn. Tide: flow, depth, and what the water has touched. Root: weight, fault, and what the stone holds. Gale: pressure, scent, and what the air carries. The GM gives a clear impression, not a map. Your element does not obey another creature's order or bargain. If someone tries to treat it as theirs, it does not answer them. You may **spend a Hope** to turn that refusal into a Reach effect aimed at the interruption (the fire flares, the stone holds, the water pulls away).
+- **The Untended Element** *(Tithe)* — Place **3 tokens** on this card. **At a long rest, refill all tokens** if since your last long rest you **spent Hope on Reach**. Otherwise **remove a token**. Asking the element a question does not refill the clock; spending Hope on Reach does. At **2 tokens:** no effect. At **1** and **0**, the element starts speaking for itself — see the table.
 
 | Element | **Reach** — *spend a Hope* | **1 token** (restless) | **0 tokens** (it lets go) |
 |---|---|---|---|
@@ -51,7 +52,7 @@ The pleasant version is why the guilds are shaped the way they are: real, purpos
 
 ## GM Notes
 
-Keep every consequence self-contained to the Answered and their immediate surroundings — never a forced effect on another creature's body, action, or will. Let the chosen element define the character's whole voice at the table (an Ember-Answered feels nothing like a Root-Answered in a fight or a quiet scene). One of the Answered deep in Tithe-debt walking into a crowded hall, a ship's hold, or a dry archive is a slow-building set-piece, not a gotcha.
+Keep every consequence self-contained to the Answered and their immediate surroundings — never a forced effect on another creature's body, action, or will. Let the chosen element define the character's whole voice at the table (an Ember-Answered feels nothing like a Root-Answered in a fight or a quiet scene). **Spoken, not commanded** is the djinn inversion: they ask, they do not own a servant, and no one else is the master. One of the Answered deep in Tithe-debt walking into a crowded hall, a ship's hold, or a dry archive is a slow-building set-piece, not a gotcha.
 
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]

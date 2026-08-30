@@ -32,7 +32,7 @@ A Far-Voiced's voice is never drowned out — by distance, by storm, by battle-n
 *Your voice carries exactly as far, and exactly as true, as you mean it to.*
 
 - **The Carrying Voice** — Your voice is never lost to distance, weather, noise, or water, and it lands with the emotional weight you intend. Spend a **Hope** to be heard clearly and understood by everyone you intend, across any distance or chaos in the scene, **or** to land a rally, warning, plea, or calming word with exact emotional force — gain **advantage** on that roll.
-- **The Undertow** *(Tithe)* — Place **3 Breath tokens** on this card. Whenever you feel a strong emotion in a scene — grief, terror, rage, joy — you must **vent it**: sing, cry out, laugh, weep, something audible, before the scene ends. If you don't, **remove a token**:
+- **The Undertow** *(Tithe)* — Place **3 Breath tokens** on this card. This clock is **scene-triggered**, not a rest drain. When you **mark Stress from feeling**, or the GM names grief, terror, rage, or joy as what's in you this scene, you must **vent it**: sing, cry out, laugh, weep, something audible, before the scene ends. If you don't, **remove a token**:
   - **2 tokens:** no effect.
   - **1 token:** the **undertow pulls** — your voice starts leaking whatever you're actually feeling underneath your words. You have **disadvantage** on rolls to persuade, deceive, or perform a feeling you don't hold.
   - **0 tokens:** the next strong emotion you feel escapes as an involuntary **Cry** — everyone within earshot marks a **Stress** as your raw feeling crashes into them (the GM may instead gain a **Fear** for a crowd or hostile scene). The Cry empties you: mark a **Stress** yourself, then refill to **2 tokens** — it's out now, one way or another.
