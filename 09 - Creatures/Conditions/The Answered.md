@@ -14,7 +14,7 @@ path: Given only
 population: ~10%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # The Answered
@@ -25,7 +25,7 @@ updated: 2026-08-28
 
 At the Awakening, an Answered child's leaf doesn't just mark them Given — its **shade** names which element answered: **Ember** (fire), **Tide** (water), **Root** (earth and stone), or **Gale** (air). From that day the element is *theirs to speak to*, not summon or command — coaxed like clay, never conjured like a spirit. This is why the Answered run the craft guilds built around their element: **Ember-Answered** glasswrights and smiths who don't need a furnace at full heat; **Tide-Answered** shipwrights and dyers who can bend a hull's planks or set a colour without steam or mordant; **Root-Answered** masons and potters who coax stone and clay without chisel or wheel; **Gale-Answered** sailmakers and instrument-makers who cut and voice their work with the wind's own help.
 
-**"Wildcard" standing (~10%)** because the Answered are never one thing. Which element answers, and what temperament came with it, is different every time — an even-tempered Root-Answered potter and a short-fused Ember-Answered smith have nothing in common but the name. Some guilds prize them above any other artisan; some households are wary of hosting one whose element runs hot. No leaf-colour tells you which kind you're getting until you meet them.
+**"Wildcard" standing (~10%; share from [[The Premise]])** because the Answered are never one thing. Which element answers, and what temperament came with it, is different every time — an even-tempered Root-Answered potter and a short-fused Ember-Answered smith have nothing in common but the name. Some guilds prize them above any other artisan; some households are wary of hosting one whose element runs hot. No leaf-colour tells you which kind you're getting until you meet them.
 
 ## Daggerheart — Transformation card
 

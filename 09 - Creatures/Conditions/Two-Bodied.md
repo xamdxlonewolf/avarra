@@ -14,7 +14,7 @@ path: Given only
 population: ~18%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Two-Bodied
@@ -23,7 +23,7 @@ updated: 2026-08-28
 
 ## The take
 
-A Two-Bodied has two bodies: their born shape and a specific real **animal**. Shifting is voluntary and clean. This makes them the setting's most common and versatile labor force (~18%) — rescue, herding, wild-work, war, courier and scout work. Utility over spectacle: a second body suited to a job.
+A Two-Bodied has two bodies: their born shape and a specific real **animal**. Shifting is voluntary and clean. This makes them the setting's most common and versatile labor force (~18%; share from [[The Premise]]) — rescue, herding, wild-work, war, courier and scout work. Utility over spectacle: a second body suited to a job.
 
 **The other self has a voice.** The animal shape is not an empty suit you climb into — it carries its **own personality, temperament and inner voice**, distinct from your born self, and you *converse with it*. Not aloud as a person (the animal mouth can't form human speech) but **in your own head**: a running second opinion — the wolf that wants to run the scent *now*, the hawk that trusts height over talk, the otter that finds the whole meeting tedious. It is named, it is known ("that's Bramble, her otter"), and townsfolk and players alike come to recognize its moods. **It never takes the wheel** — the change and every action stay yours to command (see the Tithe and GM Notes). What it does is *nag, want, and color* — a live companion you happen to be, giving the second body a real character and voice at the table.
 

@@ -14,7 +14,7 @@ path: Given only
 population: ~2.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-14
+updated: 2026-08-30
 ---
 
 # Long-Lived
@@ -23,7 +23,7 @@ updated: 2026-08-14
 
 ## The take
 
-Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a walking, incorruptible record — which is exactly why courts, guilds, and archives are built around them. Their scarcity (~2.5%, **Given only** at the Awakening — a rare leaf-colour) is deliberate: a world with too many deathless people would ossify. They are revered, consulted, and a little apart.
+Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a walking, incorruptible record — which is exactly why courts, guilds, and archives are built around them. Their scarcity (~2.5%, **Given only** at the Awakening — a rare leaf-colour; share from [[The Premise]]) is deliberate: a world with too many deathless people would ossify. They are revered, consulted, and a little apart.
 
 **The old courtesy.** A Long-Lived will not cross the threshold of another's home uninvited — they wait to be asked in, always. It is held as the deepest good manners, a mark of their trustworthiness (a keeper of records does not intrude), and no one quite remembers it as anything else — but it is old, and it is universal among them, and a Long-Lived who is *refused* the door feels the refusal more than they will say. It reads, faintly, as the last shadow of the thing the folklore vampire was: the one who could not enter unbidden. Nobody calls it that. It's simply how the Long-Lived have always been.
 

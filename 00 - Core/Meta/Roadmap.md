@@ -53,9 +53,9 @@ updated: 2026-08-30
 > Work this epic before Epic 8. Each story owns one audited domain. Fix every red, yellow, blue, and white finding. A task may close with a documented decision instead of a change when the audit identifies a real choice, but nothing may close through silence. Preserve the protected strengths in section 3 of the audit. Do not update the world book until the user explicitly asks for a rebuild.
 
 ### Story R.1: Core premise and engine
-- [ ] Reconcile the population model in [[The Premise]] so Given, Struck, Both-path sub-splits, and Kept total cleanly; decide whether The Unbound is included within Bound's share
-- [ ] Make [[The Premise]] the single canonical source for population figures; replace duplicated figures elsewhere with links or clearly derived summaries
-- [ ] Propagate the settled arithmetic to [[Conditions]], [[Law and Citizenship]], [[Economy and the Tithe]], and [[Build Plan]] without weakening the locked Given / Struck / Kept engine
+- [x] Reconcile the population model in [[The Premise]] so Given, Struck, Both-path sub-splits, and Kept total cleanly; decide whether The Unbound is included within Bound's share *(2026-08-30: Unbound is inside Bound's ~5%; Returned ~7%; Both-path Struck ~1% of all people each. Engine 60/15/25 unchanged.)*
+- [x] Make [[The Premise]] the single canonical source for population figures; replace duplicated figures elsewhere with links or clearly derived summaries
+- [x] Propagate the settled arithmetic to [[Conditions]], [[Law and Citizenship]], [[Economy and the Tithe]], and [[Build Plan]] without weakening the locked Given / Struck / Kept engine
 
 ### Story R.2: Condition mechanics
 - [ ] Replace The Stilled's incorrect `Restrained` usage with a distinct effect, then add an appropriate roll or resource gate to Gaze
@@ -447,7 +447,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic R: Editorial repair and table readiness:** 0 / 97 tasks (0%). **⭐ Active next.** Source: [[Editorial Audit 2026-08-29]]. Includes three distinct opposition engines and the deferred hidden-Phoenix campaign seed agreed 2026-08-30. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
+- **Epic R: Editorial repair and table readiness:** 3 / 97 tasks (3%). **⭐ Active next — Story R.2.** Source: [[Editorial Audit 2026-08-29]]. Story R.1 done 2026-08-30 (population arithmetic reconciled; Unbound inside Bound; Premise is the sole census). Includes three distinct opposition engines and the deferred hidden-Phoenix campaign seed agreed 2026-08-30. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology. ~12 named-stub powers ✅ Story 7.1. Rival faiths ✅ Story 1.4.

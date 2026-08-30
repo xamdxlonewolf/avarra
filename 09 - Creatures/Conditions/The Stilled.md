@@ -14,7 +14,7 @@ path: Both
 population: ~7%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # The Stilled
@@ -23,9 +23,9 @@ updated: 2026-08-28
 
 ## The take
 
-One of the Stilled has a gaze that can hold a moment still — a bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. This is why **peacekeepers** want them on a riot line (a stilled brawl is a brawl that didn't turn into a massacre) and why **surgeons and medics** want them in the theatre (a patient held perfectly still is a patient who survives the knife). Feared and **guild-regulated** (~7%) rather than simply revered: the same gaze that stops a wound bleeding can, misused or lost to anger, hold a person still forever — so licenses, oversight, and a strict code govern who may still and why. Old folklore's snake-hair survives as flavor, not mechanics: hair stirs faintly when something nearby has gone dangerously still — a held breath, a nocked arrow, a predator about to spring — a tell their trade has learned to read.
+One of the Stilled has a gaze that can hold a moment still — a bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. This is why **peacekeepers** want them on a riot line (a stilled brawl is a brawl that didn't turn into a massacre) and why **surgeons and medics** want them in the theatre (a patient held perfectly still is a patient who survives the knife). Feared and **guild-regulated** (~7% of all people; share from [[The Premise]]) rather than simply revered: the same gaze that stops a wound bleeding can, misused or lost to anger, hold a person still forever — so licenses, oversight, and a strict code govern who may still and why. Old folklore's snake-hair survives as flavor, not mechanics: hair stirs faintly when something nearby has gone dangerously still — a held breath, a nocked arrow, a predator about to spring — a tell their trade has learned to read.
 
-**Both paths, and they read differently.** A **Given** Stilled drew the colour at the Awakening and trained young under guild discipline — knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. A **Struck** Stilled actually **survived being turned to stone** — held rigid, unbreathing, for however long it took someone to reverse it — and came back with the stillness now living inside them, unpracticed and closer to the surface. Same Condition, very different person at the table.
+**Both paths, and they read differently.** About six parts in seven are **Given**: they drew the colour at the Awakening and trained young under guild discipline — knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. About one part in seven is **Struck**: they actually **survived being turned to stone** — held rigid, unbreathing, for however long it took someone to reverse it — and came back with the stillness now living inside them, unpracticed and closer to the surface. Same Condition, very different person at the table.
 
 ## Daggerheart — Transformation card
 

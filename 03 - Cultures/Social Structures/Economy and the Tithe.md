@@ -8,7 +8,7 @@ tags: [society, economy, tithe, labor, banking, epic-2, social-structure]
 aliases: [The Tithe Economy, Condition Economy, Economy of the Turning]
 reveals: [leaf-mother-is-real]
 created: 2026-08-20
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Economy and the Tithe
@@ -64,19 +64,19 @@ So the question *who pays for Tithe-provision* is this world's version of the we
 
 ## Labor: who does what, and why the fit is so tight
 
-Systematizing the roster's per-Condition roles, the striking thing is how **the Tithe and the vocation are usually the same shape** — the world didn't assign these jobs, the Conditions *are* these jobs:
+Systematizing the roster's per-Condition roles, the striking thing is how **the Tithe and the vocation are usually the same shape** — the world didn't assign these jobs, the Conditions *are* these jobs. How large each workforce is lives on [[The Premise]]; this list is vocation, not a census.
 
-- **[[Two-Bodied]] (~18%, the plurality)** — the versatile backbone of physical labor: herding, haulage, rescue, courier, scouting, war. Runs in bloodlines (whole "wolf-folk" / "hawk-folk" families), so the family trade and the family Condition are one inheritance.
-- **[[The Taken-In]] (~12%)** — the food-and-timber base: farmers, foresters, herders, wardens. The frontier economy *runs* on them (they thrive on living land); cities need their grain but keep them at arm's length.
-- **[[Far-Voiced]] (~11%)** — coordination and trust-at-a-distance: the signal/relay network (criers posted on coasts, roads, borders), performers, negotiators, and sworn court witnesses. A [[The Premise|Condition-labor advance]] — real-time long-distance signal a medieval world shouldn't have.
-- **[[The Answered]] (~10%)** — the elemental crafts, guilded by element: Ember (smiths, glasswrights), Tide (shipwrights, dyers), Root (masons, potters), Gale (sailmakers, millers); plus firefighting and rescue rotations.
-- **[[Returned]] (~9%)** — the work that kills the living, done by those death can't take twice: plague wards, mine and cave-in recovery, deep and dangerous salvage, and tending the dead.
-- **[[The Stilled]] (~7%)** — precision stillness: surgeons and medics, peacekeepers on riot-lines, controlled demolition and stonework. Licensed and guild-disciplined (see [[Law and Citizenship]]).
-- **[[Long-Lived]] (~2.5%)** — the memory professions: archivists, notaries, judges, scholars, and **bankers** (below). Few by design — a world with too many deathless would ossify.
-- **[[Bound]] (~5%)** — the enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding.
-- **[[The Unbound]] (~1.5%)** and **[[Phoenix]] (trace)** — no characteristic sector; the Unbound return to whatever they did before (needing connection to keep at it), the Phoenix is a political symbol, not a worker.
+- **[[Two-Bodied]] (the plurality)** — the versatile backbone of physical labor: herding, haulage, rescue, courier, scouting, war. Runs in bloodlines (whole "wolf-folk" / "hawk-folk" families), so the family trade and the family Condition are one inheritance.
+- **[[The Taken-In]]** — the food-and-timber base: farmers, foresters, herders, wardens. The frontier economy *runs* on them (they thrive on living land); cities need their grain but keep them at arm's length.
+- **[[Far-Voiced]]** — coordination and trust-at-a-distance: the signal/relay network (criers posted on coasts, roads, borders), performers, negotiators, and sworn court witnesses. A [[The Premise|Condition-labor advance]] — real-time long-distance signal a medieval world shouldn't have.
+- **[[The Answered]]** — the elemental crafts, guilded by element: Ember (smiths, glasswrights), Tide (shipwrights, dyers), Root (masons, potters), Gale (sailmakers, millers); plus firefighting and rescue rotations.
+- **[[Returned]]** — the work that kills the living, done by those death can't take twice: plague wards, mine and cave-in recovery, deep and dangerous salvage, and tending the dead.
+- **[[The Stilled]]** — precision stillness: surgeons and medics, peacekeepers on riot-lines, controlled demolition and stonework. Licensed and guild-disciplined (see [[Law and Citizenship]]).
+- **[[Long-Lived]]** — the memory professions: archivists, notaries, judges, scholars, and **bankers** (below). Few by design — a world with too many deathless would ossify.
+- **[[Bound]]** — the enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding. The [[The Unbound]] sit inside this same contract-lane (a released Bound, not a second workforce); they return to whatever they did before, needing connection to keep at it.
+- **[[Phoenix]] (trace)** — no characteristic sector. A political symbol, not a worker.
 
-**And the Kept (~25%)** — here is the quiet inversion. The Kept carry *no Tithe* (no upkeep cost) and *no Condition* (no built-in trade). Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where the faithful *pity* the Kept for missing a gift (see [[Law and Citizenship]]), the ledger tells a different story — the Kept are the least *encumbered* people in the world. A real economic freedom hiding under a social slight.
+**And the Kept (the untithed quarter)** — here is the quiet inversion. The Kept carry *no Tithe* (no upkeep cost) and *no Condition* (no built-in trade). Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where the faithful *pity* the Kept for missing a gift (see [[Law and Citizenship]]), the ledger tells a different story — the Kept are the least *encumbered* people in the world. A real economic freedom hiding under a social slight.
 
 ## Banking and the deathless houses
 
@@ -84,7 +84,7 @@ The headline financial fact of The Turning is that **its banks do not die.** A [
 
 - **The trusted note.** A note issued by a deathless house is trusted almost as coin, because everyone knows the banker *cannot forget a debt, cannot be quietly succeeded by a defaulting heir, and will personally answer for it in fifty years.* Their paper circulates further and holds value better than any crown's — the nearest thing this world has to a gold standard is *the word of a house that won't die.*
 - **The long instrument.** Deathless houses lend and endow on horizons no mortal lender would risk — century loans, multi-generation trusts, the patient financing of cathedrals, canals, and universities. (Match to the register: this is *longer* medieval banking, not *modern* banking — letters of credit and endowments, **not** stock exchanges or joint-stock companies, which this world does not have.)
-- **The concentration risk.** Wealth that never passes to an heir never disperses *through inheritance* — the great scattering that mortal death forces on every other fortune simply never happens here. Even at ~2.5% of the population, the deathless can slowly gather an outsized share of standing capital — which is precisely the ossification the vampire's rarity is *meant* to cap, and a live tension the economy never fully resolves. (This is not undone by their habit of endowing — see below: an endowment moves the *coin* out but keeps the *steering*, so influence concentrates even as liquid wealth flows into the institutions they still direct.)
+- **The concentration risk.** Wealth that never passes to an heir never disperses *through inheritance* — the great scattering that mortal death forces on every other fortune simply never happens here. Even at their locked rarity ([[The Premise|the deathless share]]), the deathless can slowly gather an outsized share of standing capital — which is precisely the ossification the vampire's rarity is *meant* to cap, and a live tension the economy never fully resolves. (This is not undone by their habit of endowing — see below: an endowment moves the *coin* out but keeps the *steering*, so influence concentrates even as liquid wealth flows into the institutions they still direct.)
 
 **Where the houses came from.** Many began as **road-houses** in [[The Walking Years]] — inns, beds, and century-credit for families who had to walk to Thaeloren. Lived: the house in the *act* of being an inn (*brenhael* 🟡; the Held bed; a note you pay on the home-walk). When the walk stopped being required in the core, the same Long-Lived still remembered every debtor on the road, and the paper outlived the pilgrimage-season. They became banks. Present tense of that memory: [[The Years of Hands]] — two fates still standing ([[The White Note House]] collected; [[The Third Hearth]] kept making the bed). The trusted note is a Walking-era instrument that outlived its road. Do not invent a second banking-order.
 
