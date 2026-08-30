@@ -11,15 +11,15 @@ category: Condition
 monster: (the price of a contract)
 standing: pitied / uneasy
 path: Struck only (chains off Bound)
-population: ~1.5%
+population: ~1.5% (inside Bound ~5%)
 reveals: []
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # The Unbound
 
-> **What a term-limited [[Bound]] contract leaves behind.** When the term ends, the counterparty releases the person and collects the **Pledge** — the part of themselves they named at signing — and they walk away **unbound**: free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. **Struck only**; it chains off Bound. Rare (~1.5% — only the subset of Bound whose contracts were term-limited, rather than open-ended). Colloquially still called **the Hollow**, for the absence the freedom cost.
+> **What a term-limited [[Bound]] contract leaves behind.** When the term ends, the counterparty releases the person and collects the **Pledge** — the part of themselves they named at signing — and they walk away **unbound**: free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. **Struck only**; it chains off Bound. Rare (~1.5% of all people, counted *inside* Bound's ~5% contract-lane; share from [[The Premise]] — only the subset of Bound whose contracts were term-limited, rather than open-ended). Colloquially still called **the Hollow**, for the absence the freedom cost.
 
 > **On the name.** The Condition is titled for the *release* — the contract is over, they are **unbound** — but the common tongue fixes on the *cost* and calls them **the Hollow**. Both are true: a freedom, and an absence. The note uses "the Unbound" for the state and "the Hollow" as the lived-in nickname.
 

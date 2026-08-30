@@ -7,7 +7,7 @@ status: active
 tags: [core, premise, concept, design-hub]
 aliases: [The Concept, The Pitch, The Two-Layer World]
 created: 2026-08-14
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The Premise
@@ -46,8 +46,37 @@ Some Conditions **cannot** be Given to a child (you can't die at 10; a child can
 > - **Struck only** = *things a 10-year-old physically cannot have done* — died (Returned), or sworn a pact (Bound).
 > - **Both** = *survivable near-death doors* that can be foreseen by the Tree **or** walked through by accident (Far-Voiced, The Stilled, The Taken-In). A Given Far-Voiced (blue leaf at 10, guild-trained) and a Struck Far-Voiced (actually drowned at 30) feel very different at the table.
 
-### The population math (LOCKED)
-Of the whole population, over a lifetime: **~60% Given** at the Tree · **~15% Struck** later · **~25% stay Kept for life** (60 + 15 = the 75% Conditioned). So at the ceremony itself ~40% of children get no colour, and about a third of *those* will still be Struck someday.
+### The population math (LOCKED — canonical figures)
+
+**This section is the only source for population shares.** Other notes link here or give a derived summary (the Two-Bodied plurality, the Kept quarter). Do not keep a second roster.
+
+**Lifetime paths, unchanged:** of the whole population, **~60% Given** at the Tree · **~15% Struck** later · **~25% stay Kept for life**. The Given and the Struck together are the 75% who carry a Condition. At the ceremony itself about 40% of children receive no colour (the hug). A little over a third of those hugged children will still be Struck someday.
+
+**How the 75% is composed** (settled 2026-08-30, Epic R Story R.1). The path totals above are load-bearing. The per-Condition shares below are the arithmetic that makes them add. Percents are of *all people*, not of the Conditioned.
+
+| Condition | Path | Share | Given | Struck |
+|---|---|---|---|---|
+| [[Long-Lived]] | Given only | ~2.5% | ~2.5% | — |
+| [[Two-Bodied]] | Given only | ~18% | ~18% | — |
+| [[The Answered]] | Given only | ~10% | ~10% | — |
+| [[Phoenix]] | Given only | <0.1% | <0.1% | — |
+| [[Returned]] | Struck only | ~7% | — | ~7% |
+| [[Bound]] (contract-lane) | Struck only | ~5% | — | ~5% |
+| *…of whom currently Bound* | | *~3.5%* | | |
+| *…of whom [[The Unbound]]* | | *~1.5%* | | |
+| [[Far-Voiced]] | Both | ~12% | ~11% | ~1% |
+| [[The Stilled]] | Both | ~7% | ~6% | ~1% |
+| [[The Taken-In]] | Both | ~13% | ~12% | ~1% |
+| **Conditioned** | | **~75%** | **~60%** | **~15%** |
+| The Kept | hug, no colour | ~25% | — | — |
+
+Given column ~2.5 + 18 + 10 + 11 + 6 + 12 = 59.5, plus Phoenix trace. Struck column 7 + 5 + 1 + 1 + 1 = 15. The half-point of slack is the "~" on every share.
+
+**Unbound is inside Bound's share.** [[The Unbound]] is what a term-limited Bound becomes when the contract ends. The ~1.5% is not a tenth Condition stacked on top of Bound's ~5%. Bound's row is the *contract-lane*: people currently Bound (~3.5%) plus people already released and Hollow (~1.5%). Tables that list both as parallel percentages double-count.
+
+**Why Returned moved.** The Struck-only pair used to be Returned ~9 + Bound ~5, and some notes added Unbound ~1.5 on top. That filled (or overfilled) the whole 15% Struck budget before a single Struck Far-Voiced, Stilled, or Taken-In. Returned is now ~7% so the three Both-path doors can carry a real Struck share (~1% of all people each). Most Both-path people are still Given: the Tree usually sees the door coming. A Struck Far-Voiced who actually drowned at thirty stays uncommon, not vanishing.
+
+**Regional drift.** These are world averages. Tree-poor country runs higher on the Kept and the Struck; Tree-dense core runs higher on the Given. The lifetime paths stay 60 / 15 / 25 as the *world* mix.
 
 ### The Tithe
 - **Every Condition has a Tithe** — an upkeep you must meet to keep living well with it. Meet it → valued citizen. Fall behind → the small "scary" edge shows (tone dial **~5% scary**: mostly accepted and mundane, with a real, dangerous obstacle underneath). *Design rule: a Tithe is manageable in normal play (satisfied by rest/routine); the scary edge is opt-in risk or narrative colour — a Tithe must never seize control of the player's character.* The infrastructure that helps people pay their Tithes is *part of why society organizes around the Conditioned.*
@@ -88,28 +117,28 @@ Two dials set before Epic 2, so law/economy/settlements build against a fixed fr
 
 ## The Condition roster (9 selectable + 1 downstream — LOCKED)
 
-Each is a recognizable monster given a fresh, integrated take. Standing spans revered → normal → looked-down → feared → legendary. There are **9 Conditions a person can be Given or Struck with** (below); a **10th, [[The Unbound]] (colloq. the Hollow), is a *downstream* state** — what a [[Bound]] becomes when a term-limited contract ends — so it can't be picked at creation, only reached through Bound. All ten now have **full, locked mechanics** in `09 - Creatures/Conditions/` (see [[Conditions]]).
+Each is a recognizable monster given a fresh, integrated take. Standing spans revered → normal → looked-down → feared → legendary. There are **9 Conditions a person can be Given or Struck with** (below); a **10th, [[The Unbound]] (colloq. the Hollow), is a *downstream* state** — what a [[Bound]] becomes when a term-limited contract ends — so it can't be picked at creation, only reached through Bound. All ten have **full, locked mechanics** in `09 - Creatures/Conditions/` (see [[Conditions]]). **Shares and Given / Struck splits live in the population table above.** This section is the roster's fiction, not a second census.
 
-**The 4 CORE (locked as concepts, need full design):**
-| Condition | Monster | Path | ~% pop. | Role society needs |
-|---|---|---|---|---|
-| **Long-Lived** | vampire | Given only | ~2.5% | archivists, judges, notaries |
-| **Two-Bodied** | werewolf | Given only | ~18% | rescue, wild-work, labor, war |
-| **Returned** | zombie | **Struck only** (requires death) | ~9% | the deadly jobs, tend the dead |
-| **Bound** | demon | **Struck only** (a sworn contract — NOT born-Infernis) | ~5% | enforcers, oath-keepers |
+**The core four:**
+| Condition | Monster | Path | Role society needs |
+|---|---|---|---|
+| **Long-Lived** | vampire | Given only | archivists, judges, notaries |
+| **Two-Bodied** | werewolf | Given only | rescue, wild-work, labor, war |
+| **Returned** | zombie | Struck only (requires death) | the deadly jobs, tend the dead |
+| **Bound** | demon | Struck only (a sworn contract — not born-Infernis) | enforcers, oath-keepers |
 
-**The 5 NEW (locked; monsters + standing chosen, mechanics TBD):**
-| Condition | Monster | Path | ~% pop. | Standing / door |
-|---|---|---|---|---|
-| **Far-Voiced** | siren | Both | ~11% | revered — signal network / law / performance · door: drowning |
-| **The Stilled** | gorgon | Both | ~7% | feared / guild-regulated — peacekeeping, medicine · door: survived being struck to stone |
-| **The Answered** | djinn/jinni | Given only | ~10% | wildcard — artisans, elemental craft, watch/rescue crews |
-| **The Taken-In** | leshy | Both | ~12% | respected-but-looked-down — agriculture, frontier, forestry · door: lost & dying in deep wild |
-| **Phoenix** | phoenix | Given only | **<0.1% (trace)** | **legendary** — almost never seen; known through stories; hook = cyclical rebirth |
+**The added five:**
+| Condition | Monster | Path | Standing / door |
+|---|---|---|---|
+| **Far-Voiced** | siren | Both | revered — signal network / law / performance · door: drowning |
+| **The Stilled** | gorgon | Both | feared / guild-regulated — peacekeeping, medicine · door: survived being struck to stone |
+| **The Answered** | djinn/jinni | Given only | wildcard — artisans, elemental craft, watch/rescue crews |
+| **The Taken-In** | leshy | Both | respected-but-looked-down — agriculture, frontier, forestry · door: lost & dying in deep wild |
+| **Phoenix** | phoenix | Given only | legendary — almost never seen; known through stories; hook = cyclical rebirth |
 
-**The downstream 10th — [[The Unbound]]** *(colloq. the Hollow)* | the price of a contract | Struck — **chains off [[Bound]] only** | ~1.5% | pitied/uneasy — released from a contract, but missing the Pledge they paid. Not selectable at creation.
+**The downstream 10th — [[The Unbound]]** *(colloq. the Hollow).* The price of a contract. Struck, chains off Bound only. Counted *inside* Bound's contract-lane, not added to it. Pitied / uneasy: released, missing the Pledge they paid. Not selectable at creation.
 
-**The Kept** = the normal ~25% (Tree hugged them, no colour). Wanted and special in their own right — not "unconditioned lack."
+**The Kept** are the quarter the Tree hugged and left as they are. Wanted and special in their own right, not an unconditioned lack.
 
 **Design notes carried forward:** the vampire **sink** is emotional + demographic — Long-Lived *can* have children but **none are guaranteed** to inherit it; they outlive spouses/children and either stop or begin a new family and outlive that one too (this is their deepest Tithe, under the vitality one). They die by violence/accident/failed-Tithe — deathless, not unkillable. Phoenix's distinct hook (vs. Returned/Long-Lived) is **cyclical rebirth**, not one-time return or agelessness.
 

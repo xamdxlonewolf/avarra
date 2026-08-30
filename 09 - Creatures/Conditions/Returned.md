@@ -11,10 +11,10 @@ category: Condition
 monster: zombie
 standing: normal / respected
 path: Struck only
-population: ~9%
+population: ~7%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Returned
@@ -23,7 +23,7 @@ updated: 2026-08-28
 
 ## The take
 
-The Returned are **Struck only** — you cannot be Given this at age 10, because it *requires death*. Someone dies with a thing left undone strong enough to hold them, and they get back up. Standing is **normal and quietly respected** (~9%): solemn, dependable, the people you send where the living can't safely go. They are unshaken by gore and death, and death itself struggles to keep them.
+The Returned are **Struck only** — you cannot be Given this at age 10, because it *requires death*. Someone dies with a thing left undone strong enough to hold them, and they get back up. Standing is **normal and quietly respected** (~7% of all people; share from [[The Premise]]): solemn, dependable, the people you send where the living can't safely go. They are unshaken by gore and death, and death itself struggles to keep them.
 
 ## Daggerheart — Transformation card
 

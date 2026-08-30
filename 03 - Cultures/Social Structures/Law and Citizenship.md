@@ -8,7 +8,7 @@ tags: [society, law, citizenship, governance, epic-2, social-structure]
 aliases: [Law of the Turning, Citizenship, Condition Law, Witnessed Citizenship]
 reveals: [leaf-mother-is-real]
 created: 2026-08-20
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Law and Citizenship
@@ -63,14 +63,14 @@ Its consequences are large and load-bearing:
 
 The one place the law *does* attach to individuals is public safety — and it does so narrowly. Because every Condition carries a **Tithe**, there's a natural hook: **the handful of Conditions whose lapsed Tithe or lost temper can hurt bystanders are the only ones that require a licence to practice.** The rule of thumb is consistent across the world: **a licence attaches where a Condition is *dangerous to others* — never where it is merely powerful, and never as a way to keep track of people.** It is the same logic by which any world licenses a few dangerous trades, not a census.
 
-By that rule, only these need a licence — and it's held by the person as a mark of competence, like a master's ticket:
+By that rule, only these need a licence — and it's held by the person as a mark of competence, like a master's ticket. How common each Condition is lives on [[The Premise]], not here.
 
 | Licence weight | Condition | Why |
 |---|---|---|
 | **Strictest** | [[The Stilled]] | The one gaze that can hold a person still forever. Real oversight and a strict code — the model the others imitate. |
 | **Heavy, training-first** | [[Far-Voiced]], [[The Answered]] | A Cry in a crowded hall, an element "letting go" in a workshop — real bystander hazard, mastered by guild apprenticeship and scheduled outlets. |
 | **Contractual, not bodily** | [[Bound]] | Overseen less for bodily hazard (the Whisper can't command) than because a Bound *is* a walking legal instrument (below). |
-| **None** | [[Two-Bodied]] (~18%), [[Long-Lived]], [[Returned]], and all the Kept | No bystander danger worth a licence. **The great majority of the Conditioned carry nothing at all** — they are simply neighbours. |
+| **None** | [[Two-Bodied]], [[Long-Lived]], [[Returned]], and all the Kept | No bystander danger worth a licence. They are simply neighbours. |
 
 **Who holds the pen matters as much as the rule.** Licences are **guild-issued, not state-issued** — the very late-medieval arrangement, and the thing that keeps this from being surveillance. A guild *knows its own members* the way any craft guild does; it isn't a registry of the population, it's a roster of practitioners of a dangerous art, kept by the art's own masters. The state *charters* the guild and lets it police its own under threat of losing the charter. So the [[The Stilled|Stilled's guild]] licenses stillers and the element-guilds channel the [[The Answered|Answered]], while the state watches the guild, not the individual. This diffuses power (no single authority holds the Conditioned) and breeds its own frictions: guilds guard monopolies, licences become property, and an unlicensed practitioner threatens the guild's charter as much as the public's safety.
 

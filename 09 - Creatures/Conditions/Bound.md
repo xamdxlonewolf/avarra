@@ -14,7 +14,7 @@ path: Struck only
 population: ~5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Bound
@@ -23,7 +23,7 @@ updated: 2026-08-28
 
 ## The take
 
-**Struck only** — you cannot be Given this at age 10, because a child cannot consent to a contract. Someone in dire need bargained, and something answered. Society **fears** them (~5%) — the power is real, the terms are binding, and a Bound who falls behind is *collateral* — but also *needs* them: a Bound's sworn word is literally binding and they know a lie when they hear one, so they are the world's **enforcers, oath-keepers, witnesses, and debt-arbiters**. When a treaty absolutely must hold, a Bound swears to it.
+**Struck only** — you cannot be Given this at age 10, because a child cannot consent to a contract. Someone in dire need bargained, and something answered. Society **fears** them (~5% contract-lane, share from [[The Premise]]) — the power is real, the terms are binding, and a Bound who falls behind is *collateral* — but also *needs* them: a Bound's sworn word is literally binding and they know a lie when they hear one, so they are the world's **enforcers, oath-keepers, witnesses, and debt-arbiters**. When a treaty absolutely must hold, a Bound swears to it. That ~5% is the whole contract-lane: people currently Bound (~3.5%) plus the [[The Unbound|Unbound]] already released (~1.5%). Do not add the Hollow as a second percentage on top.
 
 ## Daggerheart — Transformation card
 
