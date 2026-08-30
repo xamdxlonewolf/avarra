@@ -11,7 +11,7 @@ language: Sakoa (hearth-register); daily speech is the local Maiethren drift
 homeland: the coasts — densest on [[Strandoren]] (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # Selkie
@@ -32,14 +32,16 @@ Selkies value **belonging without being bound** — deep loyalty freely given, r
 
 ## Customs & Daily Life
 
-Because they can't be kept down and can't be kept out, Selkies are the world's **rescue swimmers, cold-water divers and salvors, and go-betweens** — the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony: where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters. (Note: **death by drowning is the threshold that Strikes the [[Far-Voiced]]** — Selkies, being so at home in the water, have a complicated, storied relationship with that door.)
+Because they can't be kept down and can't be kept out, Selkies are the world's **rescue swimmers, cold-water divers and salvors, and go-betweens** — the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony: where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters. Kin from **another strand** often come for those skin-days, or the child spends a summer on a second coast — how a quay-born Selkie still sounds like the sea ([[Kinds of the Turning]]). (Note: **death by drowning is the threshold that Strikes the [[Far-Voiced]]** — Selkies, being so at home in the water, have a complicated, storied relationship with that door.)
 
 ## Daggerheart (ancestry features)
+
+Every Selkie has all three. **SRD mix:** Top = Second Skin · Bottom = Slip the Hold · Hearth (not mixed) = Seal-Kin. Full custom package takes no [[Kind Heritage|Hearth-Mark]].
 
 - **Second Skin** — You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than anyone should, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
   - *Anchored.* Your skin is your fixed point in the world. Wherever you leave it stashed, you always know the direction and distance to it and can find your way back to it unerringly, however far you've travelled or however turned-around you are. (Loaning your skin, or having it taken, is a matter of story and trust — never a mechanical penalty.)
 - **Slip the Hold** — When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
-- **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: until the end of your next turn you **cannot be caught off guard** by anything approaching through the water, and the nearest seal-kin surface to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety.
+- **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. *(A warning and a help — not an immunity. The phrase "cannot be caught off guard" lives on [[Tengu|The Mountain's Mood]] only.)*
 
 ## Naming & tongue
 
@@ -52,11 +54,12 @@ Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 - **Removable skin (resolved 2026-08-16)** — the skin gets an *upside* hook (*Anchored*: always find your way back to your stashed skin), never a downside. Confirmed no "skin stolen" penalty (Kinds have no Tithe; a debuff there would be an anti-fun gotcha). Loaning/losing it stays a story beat.
 - **Second Skin vs. Ribbet (resolved 2026-08-16)** — kept distinct: Selkies are *at home in water* (long breath-hold, ignore cold/deep, swim advantage) but **NOT** true underwater breathers — that stays Ribbet's lane.
 - **Slip the Hold power band (noted, kept)** — end grab/Restrained + ignore forced movement + reposition, one Stress, is deliberately a notch above the stock band, matched to Kitsune's full-strength Slip the Frame so the two custom ancestries stay balanced against each other. Flag here if a play-test wants it trimmed.
-- **Feature count (resolved 2026-08-16)** — Selkie now matches Kitsune at **three features** (Second Skin + Slip the Hold + *Seal-Kin*). Earlier lean was "stay at two"; reversed on refinement. *Seal-Kin* is folklore-true (kinship with real seals) and stays clear of [[Far-Voiced]]'s charm/luring lane — it calls seal-kin to *aid*, it doesn't charm people. Tengu stays lean at two by its own distinct shape.
+- **Feature count (resolved 2026-08-16; band settled 2026-08-30)** — Selkie matches the other three customs at **three features**. Earlier lean was "stay at two"; reversed on refinement. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. *Seal-Kin* is folklore-true (kinship with real seals) and stays clear of [[Far-Voiced]]'s charm/luring lane — it calls seal-kin to *aid*, it doesn't charm people. All four customs run three.
+- **Seal-Kin surprise clause (2026-08-30)** — dropped "cannot be caught off guard." The sea names the approach; kin aid; you may move. Information and help, not the Tengu keyword.
 - **Physical read (resolved 2026-08-16)** — **subtle marks** out of the skin: cool sleek skin, large dark eyes, sometimes faint finger-webbing; passes as ordinary, keeps the "mundane, nobody blinks" tone. The seal-self lives in the skin, not the face. (Added to Overview.)
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
-- [[Kinds of the Turning]] · [[Naming People in the Turning]]
+- [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]

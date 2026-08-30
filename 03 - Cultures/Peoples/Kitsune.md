@@ -11,7 +11,7 @@ language: Kusawe (hearth-register); daily speech is the local Maiethren drift
 homeland: three hearths — Wilds / Snows / Sands (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # Kitsune
@@ -34,18 +34,18 @@ Kitsune prize **the graceful exit** and the **unfought fight** — the deal that
 
 ## Customs & Daily Life
 
-Because they defuse rather than escalate and can never quite be cornered, Kitsune are the world's natural **mediators, brokers, and night-couriers**: they carry delicate news between rival houses, hold the neutral ground in a negotiation, walk the dark roads by their own cold foxfire, and are trusted to be somewhere unnoticed and gone again without a scene. Foxfire is a small everyday grace, too — children are taught to make it before they're taught to read, and a home with a fox-born in it never wants for a soft, safe light. Older Kitsune, by tradition, carry themselves with more tails in the *telling* of it (the folklore of nine tails survives as reputation and honorific, not as literal biology or power).
+Because they defuse rather than escalate and can never quite be cornered, Kitsune are the world's natural **mediators, brokers, and night-couriers**: they carry delicate news between rival houses, hold the neutral ground in a negotiation, walk the dark roads by their own cold foxfire, and are trusted to be somewhere unnoticed and gone again without a scene. Foxfire is a small everyday grace, too — children are taught to make it before they're taught to read, and a home with a fox-born in it never wants for a soft, safe light. The summer before they Turn, many spend a **fox-summer** at another Fox-ground so Wilds, Snows, and Sands stay one Kind ([[Kinds of the Turning]]). Older Kitsune, by tradition, carry themselves with more tails in the *telling* of it (the folklore of nine tails survives as reputation and honorific, not as literal biology or power).
 
 ## Daggerheart (ancestry features)
 
-Every Kitsune has **Slip the Frame** and **Fox's Glamour**, **and** chooses one **Fox** at character creation. The Fox is a full feature — each grants a lasting knack (the real animal's gift, bred in by its home ground) and a **foxfire** signature move (the fox-*spirit* myth, each kind turning the same ghost-flame a different way).
+Every Kitsune has **Slip the Frame** and **Fox's Glamour**, **and** chooses one **Fox** at character creation. The Fox is a full feature — each grants a lasting knack (the real animal's gift, bred in by its home ground) and a **foxfire** signature move (the fox-*spirit* myth, each kind turning the same ghost-flame a different way). **SRD mix:** Top = Slip the Frame · Bottom = Fox's Glamour · Hearth (not mixed) = Your Fox. Full custom package takes no [[Kind Heritage|Hearth-Mark]].
 
 - **Slip the Frame** — When you would take damage from an attack, you can mark a **Stress** to slip aside: halve the damage, then immediately move up to **Very Close** range to a position out of the attacker's reach. If you end this movement out of line of sight, you are **Hidden**.
 - **Fox's Glamour** — You can wrap yourself in foxfire-glamour to seem other than you are: veil your fox features to pass unremarked, cast your voice or a small sound a short way off, or throw a minor sensory illusion (a flicker of movement, a scent, a light) into a space within **Close** range. Once per scene, you can mark a **Stress** to **wear another face** — take on the convincing seeming of another person you've seen, holding it as long as you concentrate. The glamour is *illusion, not flesh*: it doesn't change your body or fool touch, and a creature that has strong reason to doubt what it's seeing can make an appropriate roll to catch the tell (a fox-shadow, a reflection that's a beat late, an animal's unease). *(This is disguise and misdirection — never mind-control; it changes what others perceive, not what they decide.)*
 - **Your Fox** — Choose the fox you were born to. Each has a lasting knack and a foxfire move:
   - **Fox of the Wilds** *(red / forest fox — the will-o'-wisp that leads travelers off the path)* — *Knack:* you are at home in tangled, broken, or overgrown country — **advantage** on Agility Rolls to climb, leap, tumble, or move through difficult terrain, and you ignore its movement penalty. *Foxfire — Wisp-Lure:* mark a **Stress** to send dancing ghost-lights and false trails around a creature within **Close** range; until the end of its next turn it is drawn after the lights — its attacks against anyone but you are made with **disadvantage**, and you may immediately move up to **Very Close** range without drawing an attack. *(It's a lure, not a leash — the target isn't compelled to move, only baited to look the wrong way.)*
   - **Fox of the Snows** *(arctic fox — the sacred white fox that vanishes in its own pale fire)* — *Knack:* you leave no trail worth following — adversaries have **disadvantage** on rolls to track, trail, or find you, and you have **advantage** on rolls to **Hide** or move unseen in open, snowy, pale, or exposed terrain. *Foxfire — Cold Vanishing:* once per scene, mark a **Stress** to wrap yourself in cold white foxfire and let the eye slide off you — become **Hidden** even while observed and in the open, so long as you don't take an action that would obviously reveal you.
-  - **Fox of the Sands** *(fennec — the many-tailed fox that always knows what's coming)* — *Knack:* you see clearly in darkness and dim light as far as you would in daylight, and your great ears miss nothing — **advantage** on rolls to hear, notice, or locate hidden creatures, sounds, or movement. *Foxfire — Ward-Flame:* when you or an ally within **Close** range would be targeted by an attack, you can mark a **Stress** to throw up a sudden curtain of foxfire — the target gains a **+2 bonus to their Evasion** against that attack.
+  - **Fox of the Sands** *(fennec — the huge-eared fox that hears what's coming)* — *Knack:* you see clearly in darkness and dim light as far as you would in daylight, and your great ears miss nothing — **advantage** on rolls to hear, notice, or locate hidden creatures, sounds, or movement. *Foxfire — Ward-Flame:* when you or an ally within **Close** range would be targeted by an attack, you can mark a **Stress** to throw up a sudden curtain of foxfire — the target gains a **+2 bonus to their Evasion** against that attack. *(Nine tails stay reputation and honorific — not this Fox's body.)*
 
 ## Naming & tongue
 
@@ -56,7 +56,7 @@ Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 ## Open questions (optional future tweaks — not blockers)
 
 - **Folklore check passed (2026-08-16).** Measured against the kitsune myth ([Wikipedia: Kitsune](https://en.wikipedia.org/wiki/Kitsune)): now hits **6 of the 7** most-iconic traits — bewitching/leading-astray (Wilds' *Wisp-Lure*), trickery/misdirection (whole identity + Slip the Frame), foxfire/kitsunebi (the unifying thread), nine-tails-as-honorific, the sacred white fox (Snows), longevity/foresight ("knows what's coming," Sands). The last big gap — **shapeshifting/illusion** — is now filled by **Fox's Glamour**, framed as *illusion/disguise* (fox-wife, wearing another face) rather than the werewolf's beast-change, so it stays distinct from [[Two-Bodied]] and fills the cut-**Doppelganger** niche.
-- **Three features now** — Slip the Frame + Fox's Glamour + your Fox. Deliberately rich (stock ancestries have two) — a fox-spirit earns it. Flag if it feels like too much at the table; the leanest trim would be folding Glamour's minor illusions into flavor and keeping only "wear another face."
+- **Three features now** — Slip the Frame + Fox's Glamour + your Fox. Deliberately rich (stock ancestries have two). **Story R.3 (2026-08-30):** do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]] instead. Mixed Ancestry never takes Your Fox.
 - **Fox's Glamour — scope check.** Currently: veil features + throw voice/small illusions at will (utility), plus once/scene "wear another face" (a seen person, concentration). Kept firmly *illusion, not flesh* (no touch, catchable tell, never mind-control). Confirm the once/scene + concentration limits feel right, and that "another face" shouldn't be a full at-will disguise.
 - **No damage option (intentional).** With Wilds now *Wisp-Lure* (control), the trio reads **control / stealth / support**, no straight offense. Kept on purpose — authentic kitsune mislead, they don't blast. Say if you'd rather one fox get an offensive foxfire bolt after all.
 - **Slip the Frame power band (noted, kept)** — halve-damage + reposition + conditional Hidden is a notch above the SRD band (cf. Faerie *Wings*). Kept at full strength by choice.
@@ -67,5 +67,5 @@ Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[Selkie]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
-- [[Kinds of the Turning]] · [[Naming People in the Turning]]
+- [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
