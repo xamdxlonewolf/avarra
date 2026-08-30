@@ -10,7 +10,7 @@ category: truth
 foreshadowed_by: [Is the Leaf-Mother Real]
 revealed_in:
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Other Hands
@@ -100,5 +100,6 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 - [[Faiths of the Turning]] — the faiths that hold pieces · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
 - Clergy (do not confirm household through them): [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Returned]] · [[Bound]] · [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]]
+- [[Phoenix]] is hers only — [[When the Fire Is Caught]] (one Gift; remnant is not a second Phoenix)
 - [[Yumboe]] · [[The Sundering Isle]]
 - [[The Premise]] · [[Roadmap]] · [[11 - Secrets]]

@@ -14,7 +14,7 @@ path: Struck only (chains off Bound)
 population: ~1.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # The Unbound
@@ -31,11 +31,11 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 
 *You paid what you promised. Something is missing now — and the missing place is quiet, and strong.*
 
-- **The Absence** — Name what the contract took (the [[Bound]] Pledge). You permanently lose it, in the fiction and, where it matters, on the sheet, **and** you are **immune to anything that works through it**. The bigger the hole, the wider the immunity and the heavier the daily lack. Agree the details with the GM at the moment you become Hollow. Three lanes:
-  - **A capacity of the mind** (fear, grief, love, the ability to lie, memory of a person/place) → immune to effects that work through it (gave up fear → auto-pass fear/horror/intimidation; gave up deceit → you *cannot* lie, and no lie deceives you). Mostly fiction + a clean immunity.
-  - **A sense of the body** (an eye, hearing, taste) → a fictional loss with a sharp edge (gave up an eye → disadvantage on rolls needing depth/distance, **but** immune to gaze- and sight-based effects: [[The Stilled]] stilling, blinding light, illusions you must see).
-  - **A part of the body** (a leg, a hand) → fictional loss + a standing penalty the group accepts, offset by immunity to pain/effects through it (and often a prosthetic or Condition-crafted replacement in the fiction).
-- **The Quiet** *(Tithe)* — Place **3 Quiet tokens** on this card; begin play with them filled. **Spend a Quiet token** to do what the hole makes easy — to feel *nothing* where feeling would cost you: ignore a fear/despair/grief effect, push through what should stop you, stay perfectly calm and empty under pressure (mark nothing, take no Stress; the emptiness carries you). Refill all tokens on a **long rest spent in genuine human connection** — company, warmth, a shared meal, being *known*. **At 0 tokens the pull turns loud:** while empty, whenever a bargain, favor, or offer of power is on the table, the GM may present it as unusually reasonable, and **refusing to reach for it costs a Stress**. *(Suggestion, never compulsion — you can always say no; it just aches. This is the road back to [[Bound]] → the Given-Over spiral.)*
+- **The Absence** — Name what the contract took (the [[Bound]] Pledge). You permanently lose it, in the fiction and, where it matters, on the sheet. The hole is also a **narrow immunity**: you are immune to effects that would **mark Stress** (or grant the GM **Fear**) *by working through that capacity*. You are not immune to every roll in the lane. Agree the details with the GM at the moment you become Hollow. Three lanes:
+  - **A capacity of the mind** (fear, grief, love, the ability to lie, memory of a person/place) → the fiction of the lack, plus immunity only to **Stress-marking** (or Fear-granting) effects that use that capacity. Gave up fear: a terror that would mark Stress does not. You still have to treat a scared crowd as a crowd. Gave up deceit: you *cannot* lie, and a lie that would mark Stress if it landed does not mark Stress on you. You do not automatically know every lie.
+  - **A sense of the body** (an eye, hearing, taste) → a fictional loss with a sharp edge (gave up an eye → disadvantage on rolls needing depth or distance) and immunity to **Stress-marking** effects that require that sense ([[The Stilled|the Stilling Gaze]] aimed at you, a blinding light that would mark Stress). Illusions you must see still work unless they would mark Stress through that sense.
+  - **A part of the body** (a leg, a hand) → fictional loss + a standing penalty the group accepts, offset by immunity to **Stress-marking** pain or effects through that part (and often a prosthetic or Condition-crafted replacement in the fiction).
+- **The Quiet** *(Tithe)* — Place **3 Quiet tokens** on this card; begin play with them filled. **Spend a Quiet token** to act through the hole: take an action the missing thing would have stopped, or gain **advantage** on a roll where the empty place makes the hard thing easy. You still mark Stress from effects outside your Absence immunity. Quiet is not a second no-sell of the same lane, and it is not [[Returned]]'s unshaken clause (corpses, gore, deathly places). If you pledged fear, Quiet does not auto-pass a charnel house. **At a long rest, refill all tokens** if you rest with at least one other person who **knows your name** and shares the meal or the watch. Alone, or among strangers who do not know you, the tokens stay where they are. **At 0 tokens the pull turns loud:** while empty, whenever a bargain, favor, or offer of power is on the table, the GM may present it as unusually reasonable, and **refusing to reach for it costs a Stress**. *(Suggestion, never compulsion — you can always say no; it just aches. This is the road back to [[Bound]] → the Given-Over spiral.)*
 
 ## Player guardrail (IMPORTANT)
 
@@ -44,6 +44,8 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 ## GM Notes
 
 The Quiet is a **temptation engine**, not a compulsion — keep every "reach for the bargain" beat refusable at a Stress cost. The tragedy to play toward: an Unbound who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the **Given-Over** (see [[Bound]]). Warmth is the only thing that actually fills the hole; contracts only mute it.
+
+**Keep the three lanes apart.** Absence stops Stress (or Fear) through the pledged hole. Quiet spends a token to act *anyway*. [[Returned]] unshaken is corpses, gore, and deathly places, and only they get it. If a table is auto-passing every fear roll on both cards, pull it back to those lines.
 
 ## Links
 - [[Conditions]] · [[Bound]] (the cause) · [[The Premise]] · [[Build Plan]]

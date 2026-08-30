@@ -57,18 +57,18 @@ updated: 2026-08-30
 - [ ] Make [[The Premise]] the single canonical source for population figures; replace duplicated figures elsewhere with links or clearly derived summaries
 - [ ] Propagate the settled arithmetic to [[Conditions]], [[Law and Citizenship]], [[Economy and the Tithe]], and [[Build Plan]] without weakening the locked Given / Struck / Kept engine
 
-### Story R.2: Condition mechanics
-- [ ] Replace The Stilled's incorrect `Restrained` usage with a distinct effect, then add an appropriate roll or resource gate to Gaze
-- [ ] State explicitly whether [[Returned]] loses the core Avoid Death move and make Refuse to Fall's relationship to the remaining death moves unambiguous
-- [ ] Standardize all Tithe clock drains to `long rest` unless a card deliberately needs different timing
-- [ ] Add the missing damage die, trait, and other required weapon fields to the [[Two-Bodied]] natural weapon
-- [ ] Rebalance [[Phoenix]] or add firm spotlight and party-consent guidance for its immunity, flight, Evasion, attack, and extra death move package
-- [ ] Preserve the one-true-Phoenix rule while resolving the apparent second Phoenix: determine when the captive's original self ends, how harvested fire sustains what remains, and why a new white-fire Gift can fall unseen by the wider world
-- [ ] Narrow [[The Unbound]] mind-lane immunity and distinguish Quiet tokens from both that immunity and Returned's unshaken clause
-- [ ] Rebalance [[Long-Lived]] so its boon and severe low-token penalties occupy the same power band
-- [ ] Give [[The Answered]] a mechanic that expresses being spoken to rather than commanded
-- [ ] Reduce mixed-party token bookkeeping and replace fuzzy refill tests where a cleaner trigger can carry the same fiction
-- [ ] Decide whether and how Condition cards advance from levels 1–10; record a deliberate no-scaling rule if that is the answer
+### Story R.2: Condition mechanics ✅ **DONE (2026-08-30)**
+- [x] Replace The Stilled's incorrect `Restrained` usage with a distinct effect, then add an appropriate roll or resource gate to Gaze — **Stilled** is a special condition (no actions/reactions); unwilling Gaze is an attack roll (Instinct or Presence)
+- [x] State explicitly whether [[Returned]] loses the core Avoid Death move and make Refuse to Fall's relationship to the remaining death moves unambiguous — **Avoid Death is off the list**; options are Blaze of Glory, Risk It All, Refuse to Fall
+- [x] Standardize all Tithe clock drains to `long rest` unless a card deliberately needs different timing — Long-Lived / Answered / Taken-In / Stilled tick on long rest; Far-Voiced, Two-Bodied, Bound, Phoenix keep their own triggers
+- [x] Add the missing damage die, trait, and other required weapon fields to the [[Two-Bodied]] natural weapon — Primary · Instinct or Strength · Melee · d8 phy (d6 / d10 by size) · One-Handed · Natural
+- [x] Rebalance [[Phoenix]] or add firm spotlight and party-consent guidance for its immunity, flight, Evasion, attack, and extra death move package — **both:** other-four-players consent; Evasion once per rest; Rise clears HP not Stress; fire immunity kept (user lock, Condition Audit #10)
+- [x] Preserve the one-true-Phoenix rule while resolving the apparent second Phoenix: determine when the captive's original self ends, how harvested fire sustains what remains, and why a new white-fire Gift can fall unseen by the wider world — 🔒 [[When the Fire Is Caught]]: Gift ends at the death they cannot Rise from; harvested fire keeps a remnant, not a second Phoenix; new leaf may fall unseen. Harvesters stay R.7
+- [x] Narrow [[The Unbound]] mind-lane immunity and distinguish Quiet tokens from both that immunity and Returned's unshaken clause — Absence = Stress-marking (or Fear) through the hole only; Quiet spends to act through it; unshaken stays corpses/gore/deathly places
+- [x] Rebalance [[Long-Lived]] so its boon and severe low-token penalties occupy the same power band — always-on recall advantage; Hope for complete recall; fade is targeted; starve is Stress then HP, not an unclearable spiral
+- [x] Give [[The Answered]] a mechanic that expresses being spoken to rather than commanded — **Spoken, not commanded** (one ask per long rest; element refuses another master)
+- [x] Reduce mixed-party token bookkeeping and replace fuzzy refill tests where a cleaner trigger can carry the same fiction — yes/no rest checklist on [[Conditions]]
+- [x] Decide whether and how Condition cards advance from levels 1–10; record a deliberate no-scaling rule if that is the answer — 🔒 **no level scaling**; Two-Bodied Experiences / once-ever second signature stay flavor; Proficiency dice still rise
 
 ### Story R.3: Custom Kinds
 - [ ] Resolve the three-feature power gap against stock two-feature ancestries by trimming custom Kinds or granting a bounded compensating hearth benefit to stock-ancestry characters
@@ -447,7 +447,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic R: Editorial repair and table readiness:** 0 / 97 tasks (0%). **⭐ Active next.** Source: [[Editorial Audit 2026-08-29]]. Includes three distinct opposition engines and the deferred hidden-Phoenix campaign seed agreed 2026-08-30. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
+- **Epic R: Editorial repair and table readiness:** 11 / 97 tasks (11%). **⭐ Active next — Story R.3.** Source: [[Editorial Audit 2026-08-29]]. **Story R.2 ✅ (2026-08-30)** — Condition mechanics repaired; one-Gift rule preserved in [[When the Fire Is Caught]]; no level scaling. Includes three distinct opposition engines and the deferred hidden-Phoenix campaign seed agreed 2026-08-30. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology. ~12 named-stub powers ✅ Story 7.1. Rival faiths ✅ Story 1.4.

@@ -14,7 +14,7 @@ path: Both
 population: ~12%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # The Taken-In
@@ -35,7 +35,7 @@ One of the Taken-In can coax growth, read the wild, and move through it unseen a
   - **Spend a Hope** to make roots, vines, and brush erupt from any natural ground within **Close** range. Make an **attack roll** (Instinct or Strength) against a target there. On a success, deal **physical damage in d6s equal to your Proficiency** and the target is temporarily **Restrained**; **or**
   - **Spend a Hope**, while in any natural cover (brush, trees, tall grass, roots, soil), to draw it around you and become **Hidden**; **or**
   - **Spend a Hope** to force sudden, useful growth. A branch bridging a gap, a screen of thicket, a root ladder, a burst of ripe forage. The GM sets the scale.
-- **The Rooting** *(Tithe)* — Place **3 Green tokens** on this card. **Refill all of them** whenever you take a rest in true contact with living land — soil under you, open sky, a forest, a field, anything growing. Each time you take a rest **cut off** from it — sealed in stone, deep indoors, at sea, on dead ground — **remove a token**:
+- **The Rooting** *(Tithe)* — Place **3 Green tokens** on this card. **At a long rest, refill all tokens** if you can **touch a living plant** where you rest (soil, a tree, a field, a potted green). Otherwise **remove a token**. The test is yes or no. Open sky without a plant does not count. A window-box does.
   - **2 tokens:** no effect.
   - **1 token:** you **wilt** — your green browns and sheds, and you have **disadvantage** on action rolls to resist fear, despair, or exhaustion (the wild in you is starving and it drags at you).
   - **0 tokens:** you **go to seed** — mark a **Stress**; you are **Vulnerable** until you next touch living land, and the wild reaches for any it can find (weeds crack the flagstones, a beam sprouts leaves, roots buckle the floor — the room around you goes riotously overgrown). The GM may instead gain a **Fear** in a tense scene. Reach living land and refill to **2**.

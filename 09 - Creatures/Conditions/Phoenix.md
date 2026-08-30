@@ -12,9 +12,9 @@ monster: phoenix
 standing: legendary
 path: Given only
 population: <0.1% (trace)
-reveals: []
+reveals: [when-the-fire-is-caught]
 created: 2026-08-15
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Phoenix
@@ -35,7 +35,15 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 
 > **On the name.** Every other Condition wears a plain, euphemistic title — the [[Long-Lived]], the [[Returned]], the [[Far-Voiced]] — because those "monsters" pass unremarked in the crowd, and the quiet name *is* their camouflage. The Phoenix is the deliberate exception: they cannot pass, cannot hide, and the whole world already knows the story. So they are called what the stories call them — **the Phoenix** — the one Condition named outright for its legend rather than veiled. The naming itself marks them as singular.
 
-> **Table note.** A Phoenix is a **spotlight Condition** — the group and GM agree to it together, the way you'd agree to a campaign about a chosen one, and the player commits to **roleplaying the legend**: the constant recognition, the followers and hunters, the impossibility of an ordinary life. It plays as a slow-burning, finite-lives arc, not a casual pick. It also works beautifully as a recurring legendary **NPC** whose rebirths the party witnesses across an age.
+> **Table note — the whole table, not one player.** A Phoenix is a **spotlight Condition**. The group and GM agree to it together, the way you'd agree to a campaign about a chosen one. The Phoenix player commits to **roleplaying the legend**: the constant recognition, the followers and hunters, the impossibility of an ordinary life. The other players commit to a campaign that will keep arriving at their door. If anyone at the table does not want that, pick another card or run the Phoenix as an **NPC**.
+
+**What the other four get.** A living legend in the party. Towns that already have an opinion. A Hope-slot countdown everyone can see. Factions that come to *them*, not only to the Phoenix.
+
+**What they give up.** Stealth as a party default. Ordinary-job openings. A share of spotlight the Phoenix player must *pass* — they are the weather, not the only weather. If the Phoenix player will not pass the scene, do not take the card.
+
+**What the fire package is.** Full fire immunity, flaming flight, a Hope-cost attack, and a fourth death move. It is strong on purpose. The tax is social and finite. If the table wants the myth without that tax, they do not want this card.
+
+A hidden or captive Phoenix is a later campaign option. Player-agency rules for that opening are not on this card.
 
 ## Daggerheart — Transformation card
 
@@ -44,12 +52,12 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 **The living-fire boons** (a Phoenix simply *is* these — no cost unless noted):
 
 - **Deathless to Flame** — You cannot be harmed by fire or heat of any kind: you take **no damage from fire** and can walk through, stand in, and breathe within flame unharmed. Ash and cinder are home.
-- **Wings of Fire** — You have wings of living flame and **you can fly.** While flying, you may **mark a Stress** after an adversary attacks you to gain a **+2 bonus to your Evasion** against that attack. (You can furl the wings to pass for ordinary — but the moment you fly, everyone watching *knows what you are*.)
+- **Wings of Fire** — You have wings of living flame and **you can fly.** **Once per rest**, while flying, you may **mark a Stress** after an adversary attacks you to gain a **+2 bonus to your Evasion** against that attack. (You can furl the wings to pass for ordinary — but the moment you fly, everyone watching *knows what you are*.)
 - **Kindle** — **Spend a Hope** to send a burst of fire at a target within **Close** range. Make an attack roll (Instinct or Strength). On a success, deal **magic damage in d6s equal to your Proficiency** and the target is temporarily **On Fire**.
 
 **The rebirth**:
 
-- **Rise From Ash** — When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene — you return with all Hit Points and Stress cleared, standing in your own ashes. Rebirth burns part of who you were: with the GM, name a piece of the old life that did *not* come back — a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before. (The count this costs you is **The Dwindling**, below.)
+- **Rise From Ash** — When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms by the end of the next scene, standing in your own ashes. You return with **Hit Points cleared**. **Stress is not cleared.** You are **Vulnerable** until your next rest. Rebirth burns part of who you were: with the GM, name a piece of the old life that did *not* come back — a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before. (The count this costs you is **The Dwindling**, below.)
 - **The Dwindling** *(Tithe)* — Rebirth is finite, and paid in self. **Each Rise From Ash permanently crosses out a Hope slot**, as a scar does; your lives are counted in Hope. **When you would cross out your last Hope slot to Rise, you cannot** — that death is your true and final one, and this turn of the soul ends for good (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). *Then, somewhere, a leaf falls for the next Phoenix.* The dread is the **count**: everyone at the table can see how many risings are left, and so, quietly, can the Phoenix.
 
 *(Rise From Ash acts only on the Phoenix's own body and Hope; Kindle is an ordinary attack, no different from a torch or a blade in what it may target. Nothing here compels another creature's will.)*
@@ -60,8 +68,11 @@ The mechanical Tithe is light — a Phoenix pays **nothing day to day** (no hung
 
 ## GM Notes
 
-Two engines, run them together: (1) the **count** — let everyone watch the Hope slots go, and make each rising cost something the *player* feels (the face of someone they loved, the reason they started adventuring), not just a mechanical slot; (2) the **fishbowl** — the Phoenix is never anonymous, so seed every town with those who revere, worship, hunt, and hate them, often the same crowd. **Never force a Rise** — it's always the player's death-move choice alongside the standard three; a Phoenix may choose Blaze of Glory and end if the story earns it. The fire boons are strong on purpose — they're the compensation for a life with no privacy and a death you can count down to. As a legendary NPC, a Phoenix's rebirths make superb era-markers and long-campaign mysteries (the same soul, met three times, remembering the party less each time).
+Two engines, run them together: (1) the **count** — let everyone watch the Hope slots go, and make each rising cost something the *player* feels (the face of someone they loved, the reason they started adventuring), not just a mechanical slot; (2) the **fishbowl** — the Phoenix is never anonymous, so seed every town with those who revere, worship, hunt, and hate them, often the same crowd. **Never force a Rise** on a PC — it's always the player's death-move choice alongside the standard three; a Phoenix may choose Blaze of Glory and end if the story earns it. Fire immunity stays full (a Phoenix *is* fire; that call is closed). The rest of the package pays: Evasion is once per rest, and Rise is a new body, not a full reset. As a legendary NPC, a Phoenix's rebirths make superb era-markers and long-campaign mysteries (the same soul, met three times, remembering the party less each time).
+
+**One Gift.** There is never a second living Phoenix Condition while this one can still Rise. If play needs an apparent two, the leftover is not a Phoenix. See [[When the Fire Is Caught]]. Do not build that faction here.
 
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
 - Contrast: [[Long-Lived]] (deathless and ageless vs. dies-and-returns-finitely) · [[Returned]] (refuses to stay down, one Purpose, no memory cost vs. true death + rebirth + memory cost) · both are the setting's other answers to "cheating death" — the Phoenix is the one that still, eventually, loses.
+- GM: [[When the Fire Is Caught]]

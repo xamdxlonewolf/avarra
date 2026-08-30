@@ -14,7 +14,7 @@ path: Struck only
 population: ~9%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Returned
@@ -29,7 +29,7 @@ The Returned are **Struck only** — you cannot be Given this at age 10, because
 
 *You died with something unfinished. It keeps you walking.*
 
-- **Unfinished Business** *(boon)* — You have already died once, and death does not hold you the way it holds other people. When you make a **death move**, you gain a fourth option: **Refuse to Fall.** Instead of dying, you go down (taken out of the current scene) and pull yourself back together by the next **long rest** (describe how). Coming back leaves a mark, as any brush with death does: **cross out a Hope slot as a scar.** **If you would cross out your *last* Hope slot this way, you cannot Refuse to Fall** — the unfinished thing finally lets go, and that death is true and final (the SRD scar rule is the same: crossing out your last Hope slot ends the character's journey). Your other death-move options are unchanged — you may still choose **Blaze of Glory**, or gamble on **Risk It All** and simply die if it fails. Refuse to Fall is the *steady* road back, and it is **finite** — counted in scars. You are also **unshaken by the dead and dying** — automatically pass rolls to resist fear, horror, or despair from corpses, gore, and deathly places.
+- **Unfinished Business** *(boon)* — You have already died once, and death does not hold you the way it holds other people. When you make a **death move**, you **cannot choose Avoid Death**. Your options are **Blaze of Glory**, **Risk It All**, and a fourth option this card gives you: **Refuse to Fall.** Avoid Death is the SRD's safe road (unconscious, a chance of a scar, back when an ally clears a Hit Point or the party finishes a long rest). It would make Refuse to Fall a worse version of a core move, so it is off the list. **Refuse to Fall:** you go down (taken out of the current scene) and pull yourself back together by the next **long rest** (describe how). Coming back leaves a mark: **cross out a Hope slot as a scar.** **If you would cross out your *last* Hope slot this way, you cannot Refuse to Fall** — the unfinished thing finally lets go, and that death is true and final (the SRD scar rule is the same: crossing out your last Hope slot ends the character's journey). You may still choose **Blaze of Glory**, or gamble on **Risk It All** and die if it fails. Refuse to Fall is the *steady* road back, and it is **finite** — counted in scars. You are also **unshaken by the dead and dying** — automatically pass rolls to resist fear, horror, or despair from **corpses, gore, and deathly places**. That clause is this card's. It is not [[The Unbound|the Unbound]]'s mind-lane, and it is not Quiet.
 - **The Tether** *(Tithe)* — Name your **Purpose** — the unfinished thing that holds you here (write it on the card). While you can still act toward it, you are steady. If a **long rest** passes in which you did nothing in service of your Purpose, you begin to **settle**: mark a **Stress** that can't be cleared until you next act toward it, and your **touch runs cold** — living creatures you touch (or that touch you) feel a bone-deep wrongness and mark a Stress, and you have **disadvantage** on rolls to comfort, persuade, or charm the living until you act toward your Purpose again.
 
 ## Fulfilling your Purpose
@@ -46,7 +46,7 @@ The Tither is emotional as much as mechanical: a Returned is only steady while t
 
 ## GM Notes
 
-**Refuse to Fall is "hard to keep down," not immortality.** It costs a scar (a Hope slot) every time, exactly like any other character's brush with death — so it is *finite*, and the table can watch the count fall. Going down still costs the scene: they're out of the current fight and only reassemble by the next long rest. When the last Hope slot would go, they can't come back — that's the true death, and death-move tension is fully intact for a Returned nearing the end of their scars. Use a lapsed Purpose as story pressure, not a punishment — a Returned drifting toward settling is a character in quiet crisis.
+**Refuse to Fall is "hard to keep down," not immortality.** It costs a scar (a Hope slot) every time, exactly like any other character's brush with death — so it is *finite*, and the table can watch the count fall. Going down still costs the scene: they're out of the current fight and only reassemble by the next long rest. When the last Hope slot would go, they can't come back — that's the true death, and death-move tension is fully intact for a Returned nearing the end of their scars. **Do not offer Avoid Death** as a courtesy or a house-rule fourth-plus-one. The Returned already died; the safe unconsciousness is what they spent. Use a lapsed Purpose as story pressure, not a punishment — a Returned drifting toward settling is a character in quiet crisis.
 
 **Whose hand.** Per [[The Other Hands]], a Returned is Struck by **the Quiet Tally** (*Threnvaeth*) — the household clerk of leftover purpose — under the Leaf-Mother's allowance. She does not Give this at the Tree; she authorizes the catch. Do not put that in player-facing text. The unfinished business is still *theirs*; Threnvaeth does not puppet the Purpose.
 
