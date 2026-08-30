@@ -146,7 +146,9 @@ Each is a recognizable monster given a fresh, integrated take. Standing spans re
 
 We are effectively authoring **custom ancestries + a Condition layer** for Daggerheart. Baseline roster to design *against* (so ours earn their uniqueness) is recorded in [[Build Plan]]: 18 stock ancestries, 9 communities. Note the trap: Daggerheart already has **Infernis** (born demon-blooded) and **Faerie** etc. — so our "Bound/demon" Condition must be clearly *acquired-via-contract*, distinct from born-Infernis. Contrast is the point. Mechanics should stay reasonably system-portable (avoid making a Condition read as a stock D&D player race) in case the setting crosses to other TTRPGs.
 
+The four custom Kinds keep three features. Stock ancestries take a [[Kind Heritage|Hearth-Mark]] so they are not trap options. Mixed Ancestry is allowed as the SRD allows it (mainland Kinds). [[Yumboe]] PCs need GM leave and are always the full Kind, never a mix. See [[Kind Heritage]] and [[Kinds of the Turning]].
+
 ## Links
-- [[Build Plan]] — status, locked decisions, and the next task · [[Kinds of the Turning]] — how Kinds sit on the map
+- [[Build Plan]] — status, locked decisions, and the next task · [[Kinds of the Turning]] — how Kinds sit on the map · [[Kind Heritage]] — table rulings
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] — the three mainland custom born-ancestries · [[Yumboe]] — the fourth, the rare hill-folk of the far [[The Sundering Isle|storm-walled isle]] (added Epic 3)
 - [[00 - Core]] · [[03 - Cultures]]

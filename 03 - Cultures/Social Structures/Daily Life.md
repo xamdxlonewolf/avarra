@@ -8,7 +8,7 @@ tags: [society, daily-life, family, marriage, medicine, city, epic-2, social-str
 aliases: [Daily Life in the Turning, Family and Medicine, Living in the Turning, Everyday Life]
 reveals: [leaf-mother-is-real]
 created: 2026-08-21
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # Daily Life
@@ -35,6 +35,7 @@ A few threads worth pulling:
 - **The Returned come *home.*** A person who died and Returned is, contrary to every outside expectation, **not cold** — a Returned is calm, deliberate, unafraid, and *quietly respected*, and their loved ones get them back. The chill only comes if their Purpose lapses (see [[Economy and the Tithe|the Tithe]]): a Returned neglecting the unfinished thing that holds them "runs cold," and the living can feel the wrongness at a touch. So a Returned's family learns a hard and intimate literacy — **you can tell, by an embrace, whether the one you love is tending what holds them here.** A warm embrace means they are well. A cold one is a family emergency dressed as a hug.
 - **Two-Bodied bloodlines are family lines.** Because the Condition runs in blood (children of a Two-Bodied parent usually Turn the same animal), "wolf-folk," "hawk-folk," and "otter-folk" are real extended families, and — per [[Economy and the Tithe|the economy]] — the family animal, the Condition, and often the family trade descend as a single inheritance. Marrying into such a line is marrying into a shape your children will likely wear.
 - **Raising a child before they Turn.** Every parent lives the same open question until their child's tenth year: *what will they become, or will they be Kept?* In devout homes this is held as a hopeful mystery (the Mother will give what the child can carry); in anxious ones it is a decade of quiet dread or ambition. Parents who carry a heritable Condition (Two-Bodied especially) can half-guess; most cannot. The [[Turning Tree|Leaf-Fall]] is therefore not only a civic day but the emotional hinge of a family's life — the day you finally *meet* who your child has been becoming all along. In [[The Walking Years]] the question had a prior: *can we even get there?* A household that could walk only one child still lives in the present as a Given/Kept sibling pair; see the split household on that note.
+- **Mixed-Kind children are allowed.** Two mainland Kinds may sit in one body the way Daggerheart already allows Mixed Ancestry — a fox-and-seal child is as ordinary as a Returned husband. Nobody files it. The live question is **whose kitchen** the summer before they Turn (see [[Kinds of the Turning]]), not whether the marriage was allowed. [[Yumboe]] are the exception: GM leave to play one, and always the full Kind, never a mix ([[Kind Heritage]]).
 
 ## Medicine — miraculous, and strange to outside eyes
 
@@ -78,6 +79,7 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[Tithe-Infrastructure]] — the civic utilities named above, now with lived houses (Story 5.3)
 - [[The Walking Years]] — the split household as a Walking-era family fact
 - [[The Years of Hands]] — residues on the square · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
+- [[Kinds of the Turning]] — mixed-Kind children, the other kitchen · [[Kind Heritage]]
 - [[Roadmap]] (Epic 2, Story 2.3; Epic 6 complete; Story 7.2) · [[03 - Cultures]]
 
 ## GM Notes

@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # 03 - Cultures
@@ -17,12 +17,13 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
 
 ### Custom Kinds (born-ancestries unique to this world)
-- [[Kinds of the Turning]] — how Kinds sit on the map: **hearths, not nations** (Story 4.2)
+- [[Kinds of the Turning]] — how Kinds sit on the map: **hearths, not nations** (Story 4.2); the other kitchen; mixed-Kind children
+- [[Kind Heritage]] — Hearth-Mark, Mixed Ancestry, one surprise keyword (Story R.3)
 - [[Kitsune]] — fox-born; three hearths (Wilds / Snows / Sands); locked, 3 features
 - [[Selkie]] — sea-born; coastal hearth; locked, 3 features
 - [[Tengu]] — mountain-born crow-folk; ridge hearth; locked, 3 features
 - [[Yumboe]] — the good people of [[The Sundering Isle|Kumbaan]]; mythic-rare off-isle; locked, 3 features
-- *(These sit alongside Daggerheart's 18 stock ancestries — see [[Build Plan]].)*
+- *(These sit alongside Daggerheart's 18 stock ancestries — see [[Build Plan]]. Stock PCs take a Hearth-Mark.)*
 
 ### Social Structures
 - [[Law and Citizenship]] — the universal legal grammar of a world where 3 of 4 carry a Condition. Citizenship is *witnessed, not recorded* (your town saw you Turn; proof runs through vouching people, not papers); the Inviolate Will doctrine; guild safety-licences for the ~3 hazardous Conditions; polity variation on three independent axes (theology / reach / governance). *(Epic 2, Story 2.1.)*

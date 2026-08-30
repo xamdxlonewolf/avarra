@@ -9,7 +9,7 @@ aliases: [Person Names, Kind Registers, How People Are Named, The Four Registers
 world: The Turning
 reveals: []
 created: 2026-08-23
-updated: 2026-08-28
+updated: 2026-08-30
 ---
 
 # Naming People in the Turning
@@ -29,6 +29,8 @@ Most people have:
 2. **A byname** — not a modern surname. You are *of a town*, *of a Tree*, *of a house*, *called such for a deed*, or (in [[Polity Archetypes|Threnmaieth]]) *named on the [[Naming in the Turning|Threnhael]]*. Bynames follow the **place**, always.
 
 So a fox-born broker on the Ledger Coast might be **Raki of Hallowquay** — hearth-given, Strand-byname. A human neighbour at the same desk might be **Valen of Hallowquay**. Same street; different first sound; same civic name.
+
+A mixed mainland child answers to **one register** if either side is custom — usually the kitchen they spent the summer in, or the name that stuck — and still takes the **byname of the place that raised them**. A Selkie-and-Tengu child might be *Lavo of Highgate*; the perch is in the byname, not a second hearth-register worn at once. See [[Kinds of the Turning#Mixed-Kind children]]. A [[Yumboe]] keeps the one register and is never a mix.
 
 [[Yumboe|Yumboes]] are the exception: they are too rare on the mainland to have grown a local byname-layer. They keep the one register. That is why a Yumboe introduction *sounds foreign the instant it's spoken*.
 
@@ -128,7 +130,7 @@ Before locking a new PC/NPC name, check:
 ## Links
 - [[Naming in the Turning]] — institutions; "the name reveals the stance"
 - [[The Old Tongue]] — root phonology and the three drifts
-- [[Kinds of the Turning]] — hearths, not nations
+- [[Kinds of the Turning]] — hearths, not nations · [[Kind Heritage]] — table rulings
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[The Reckoning of the Year]] — month-names from the same Maiethren roots
 - [[Roadmap]] (Story 4.2) · [[03 - Cultures]]

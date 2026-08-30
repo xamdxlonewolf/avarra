@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-14
+updated: 2026-08-30
 ---
 
 # 00 - Core
@@ -20,4 +20,4 @@ The spine of the vault. **Canon** = what is actually true. **Cosmology** = how r
 - *(Themes, Cosmology, Canon: empty so far.)*
 
 ## Related
-- [[03 - Cultures]] — the Kinds (ancestries) and, later, the Conditions
+- [[03 - Cultures]] — the Kinds (ancestries) and social grammar · [[Kind Heritage]] — Kind table rulings · [[Conditions]]
