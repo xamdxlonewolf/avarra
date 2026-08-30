@@ -30,7 +30,7 @@ Most people have:
 
 So a fox-born broker on the Ledger Coast might be **Raki of Hallowquay** — hearth-given, Strand-byname. A human neighbour at the same desk might be **Valen of Hallowquay**. Same street; different first sound; same civic name.
 
-A mixed-Kind child takes the **register of the Kind they were born** and the **byname of the place that raised them**. A Selkie child of a Tengu perch is still *Lavo*; the perch may show in the byname, not in a second hearth-name. A tell of the other parent is not a second register. See [[Kinds of the Turning#Mixed-Kind children]].
+A mixed mainland child answers to **one register** if either side is custom — usually the kitchen they spent the summer in, or the name that stuck — and still takes the **byname of the place that raised them**. A Selkie-and-Tengu child might be *Lavo of Highgate*; the perch is in the byname, not a second hearth-register worn at once. See [[Kinds of the Turning#Mixed-Kind children]]. A [[Yumboe]] keeps the one register and is never a mix.
 
 [[Yumboe|Yumboes]] are the exception: they are too rare on the mainland to have grown a local byname-layer. They keep the one register. That is why a Yumboe introduction *sounds foreign the instant it's spoken*.
 

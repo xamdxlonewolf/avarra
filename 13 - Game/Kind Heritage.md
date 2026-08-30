@@ -16,7 +16,7 @@ updated: 2026-08-30
 
 > **What this is.** The table rulings for Kind (born ancestry) in **The Turning**. How the four custom Kinds sit next to Daggerheart's stock two-feature ancestries; how Mixed Ancestry works when a custom package has three features; which Kind keeps the "cannot be caught off guard" keyword. Fiction of hearths and mixed children lives on [[Kinds of the Turning]]. Condition cards, Kept compensation, and Struck-in-play timing are not this note.
 
-> **Canon status.** 🔒 **Locked 2026-08-30** (Story R.3): keep the three-feature packages; stock takes a Hearth-Mark; a child is born one Kind; "cannot be caught off guard" is issued once, on [[Tengu]]. Does **not** reopen the two-layer model or hearths-not-nations. The Mark's exact once-per-session +2 is the working number (safe to retune if play finds stock thin).
+> **Canon status.** 🔒 **Locked 2026-08-30** (Story R.3, mix rule revised same day): keep the three-feature packages; stock takes a Hearth-Mark; Mixed Ancestry is allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind, never a mix; "cannot be caught off guard" is issued once, on [[Tengu]]. Does **not** reopen the two-layer model or hearths-not-nations. The Mark's exact once-per-session +2 is the working number (safe to retune if play finds stock thin).
 
 ## The power band
 
@@ -49,25 +49,34 @@ The SRD Mixed Ancestry rule takes the **top** (first-listed) feature of one ance
 | [[Kitsune]] | Slip the Frame | Fox's Glamour | Your Fox (Wilds / Snows / Sands) |
 | [[Selkie]] | Second Skin | Slip the Hold | Seal-Kin |
 | [[Tengu]] | Wind-Winged | Wind-Caller | The Mountain's Mood |
-| [[Yumboe]] | Hollow-Hill | The Unseen Hands | Moon-Waked |
+
+[[Yumboe]] is **not on this table.** See below.
 
 A mixed Kitsune is fox-touched (Slip or Glamour). They are not a Fox of the Wilds, Snows, or Sands unless they take the full Kind.
 
 ## Mixed Ancestry
 
-**In the world, a child is born one Kind.** See [[Kinds of the Turning#Mixed-Kind children]]. Mixed households are ordinary. Mixed *mechanics* are a player option for an uncommon tell-blend, not the default of those households.
+**The table allows what Daggerheart allows.** Mixed Ancestry is a legal heritage, not a rare exception and not a toy you ask permission for. Two mainland Kinds (stock, custom, or one of each) mix by the SRD rule. Fiction of those households lives on [[Kinds of the Turning#Mixed-Kind children]].
 
-When a player wants the SRD mix:
+How to build one:
 
-1. Take **one Top** from one parent Kind and **one Bottom** from the other, using the table above for customs and the printed card order for stock.
+1. Take **one Top** from one parent Kind and **one Bottom** from the other, using the table above for the three mainland customs and the printed card order for stock.
 2. Take **no** hearth feature from either custom Kind.
 3. Take **no** Hearth-Mark if either feature is custom. Take a Hearth-Mark if both features are stock.
 4. If both chosen features grant the same verb (fly and fly, swim and swim), keep one and take the unused listed Top or Bottom from either parent instead. Do not stack the same verb.
-5. Write the other parent as a **tell** — a brush of tail under a glamoured coat, faint webbing, a feather at the temple, silver-shot hair. A tell is not a feature.
+5. Write both sides on the body — ears and webbing, wings and a fox-brush, whatever the pairing is. That is the mix, not a hidden tell waiting to be a third feature.
 
 Do not take three features from one custom Kind and then add a stock feature. Do not take two hearth features. Community is unchanged.
 
 Kind still stacks with a Condition. A mixed-heritage character Turns, or is Kept, or is Struck, like anyone else.
+
+## Yumboe (not a mix partner)
+
+A [[Yumboe]] character needs **GM leave**. They are mythic-rare off [[The Sundering Isle|Kumbaan]]; a mainland campaign that seats one has decided the storm-wall let someone through.
+
+If the table says yes, they are the **full Kind**: Hollow-Hill, Moon-Waked, and The Unseen Hands. No Hearth-Mark. No Top/Bottom split. No Yumboe feature paired with a stock or mainland-custom feature.
+
+A child of a Yumboe and anyone else is either a full Yumboe (same GM leave) or the other parent's Kind, with at most a story-tell. They are never a mechanical mix. The good people do not come in halves.
 
 ## One keyword, three lanes
 
@@ -88,7 +97,7 @@ The other three customs keep their fiction without that phrase:
 ## Links
 - [[Kinds of the Turning]] — hearths, the other kitchen, mixed-Kind children
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
-- [[Naming People in the Turning]] — register follows the Kind you were born; byname follows the place
+- [[Naming People in the Turning]] — register from a Kind you wear; byname follows the place
 - [[Daily Life]] — mixed households
 - [[The Premise]] — Kind + Condition
 - [[13 - Game]] · [[03 - Cultures]]
@@ -98,5 +107,6 @@ The other three customs keep their fiction without that phrase:
 
 - **Why not trim.** The four three-feature packages are locked ancestry design. Story R.3 offered trim *or* a stock hearth benefit. Trimming would have been a locked-package change; the Mark is the other door. It is deliberately weaker than a third feature (once per session, +2, fiction-gated). If play finds stock still feel thin, raise the Mark's uses or write a second worked example — do not start cutting Foxes.
 - **Do not let the Mark clone a Community.** If a player writes *Seaborne but free*, ask for the quay's name.
-- **Default fiction is one Kind.** Offer the mix when a player wants the SRD toy. Do not make every fox-and-seal marriage produce a mechanically mixed child; that is how the two-layer model turns into a half-elf factory.
-- **Yumboe mixes are rare because Yumboes are rare**, not because the rule forbids them. A mainland child with pearl-pale skin is a sailor's story walking; treat it as distance, not a racial law.
+- **Mixed Ancestry is the SRD rule, on purpose.** Do not walk it back to "one Kind unless someone asks." Mainland mixes are ordinary at the table. The two-layer model still holds: Kind is born (including born-mixed); Condition is becoming.
+- **Yumboe stay whole.** User lock 2026-08-30: no Yumboe PC without GM leave; if seated, the complete three-feature Kind, never a mix. A Yumboe–mainland child is full Yumboe or the other Kind — not Top/Bottom. Do not invent an in-world blood-purity doctrine to explain it; the good people are overt and unmistakable, and halves would make them a costume. Distance and the storm-wall are enough.
+- **Do not write "pure blood" into player-facing notes.** The lock is *full Kind*, not a racial law.

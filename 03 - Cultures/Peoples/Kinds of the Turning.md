@@ -16,7 +16,7 @@ updated: 2026-08-30
 
 > **What this is.** How **Kinds** (born ancestries) sit on the map of **The Turning**. This is the load-bearing [[Roadmap|Story 4.2]] note: it fixes the *distribution rule* so later settlements and casts don't accidentally turn each Kind into a country. Naming — how a person *sounds* — lives in [[Naming People in the Turning]]. Table rulings (Hearth-Mark, Mixed Ancestry, the one surprise keyword) live in [[Kind Heritage]]. The four custom ancestries themselves are already locked ([[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]); this note does not rebuild them.
 
-> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. **Story R.3 (2026-08-30):** the other kitchen; mixed-Kind children are born one Kind. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). Town-level pockets stay free for Epic 7. Table rulings → [[Kind Heritage]].
+> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. **Story R.3 (2026-08-30):** the other kitchen; Mixed Ancestry allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). Town-level pockets stay free for Epic 7. Table rulings → [[Kind Heritage]].
 
 ## The rule
 
@@ -103,20 +103,18 @@ A hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) 
 
 ## Mixed-Kind children
 
-**A child is born one Kind.** The sorting test does not get a third answer. Two parents, two hearths, one birth-shape. [[Kitsune]] already said it for Fox-lines; it is the rule for every Kind.
+**Mainland mixes are allowed.** Daggerheart's Mixed Ancestry is a legal heritage here: Top from one Kind, Bottom from the other, no hearth feature. See [[Kind Heritage]]. Two parents, two hearths, a body that can wear both. Nobody files it. There is no mixed-Kind licence and no "marrying out." The live question is still **whose kitchen**, not whether the marriage was allowed.
 
-Most households are already mixed in the Condition layer ([[Daily Life]]). Kind-mixing is the visible version of the same fact: a fox-child at a seal table, a crow-child in a roll-town, a human baby with a grandmother's webbing. Nobody files it. There is no mixed-Kind licence and no "marrying out." The live question is **whose kitchen**, not whether the marriage was allowed.
+What a mixed mainland child carries:
 
-What the child carries:
+- **Two features, one from each side** — the SRD pairing. Not two full custom packages stacked.
+- **A register they answer to**, if either side is custom — often the kitchen they spent the summer in, or the name that stuck. The byname still comes from the place ([[Naming People in the Turning]]).
+- **Both sides on the body.** Ears and webbing, a fox-brush under a wing. That is ordinary, not a secret third feature.
+- **The other kitchen of a Kind they wear**, if that Kind keeps one. They may visit both. They do not grow a second hearth feature for the visit.
 
-- **One Kind** — the features of that Kind, or stock features plus a [[Kind Heritage|Hearth-Mark]] if they were born stock.
-- **The register of that Kind**, if it is a custom. The byname still comes from the place ([[Naming People in the Turning]]).
-- **A tell of the other parent**, often. A brush of tail that Fox's Glamour will not hide; faint webbing on a Tengu; silver-shot hair on a mainland Kind whose other parent is [[Yumboe]]. A tell is not a second package.
-- **The other kitchen of the Kind they *were* born**, if that Kind keeps one. A Selkie child of a Tengu perch still does a strand-summer if the family can spare it. They may *visit* the perch as courtesy. They do not grow wings for the visit.
+[[Kitsune]] Fox-lines are still one Fox when the child is a *full* Kitsune (Wilds or Snows or Sands). A mix that only takes Slip or Glamour is fox-touched, not a Fox of the Sands.
 
-Two custom parents: the child takes after one. Rarely the tell is strong enough that strangers guess wrong for a year. That is a story, not a third Kind.
-
-A player who wants the SRD's Mixed Ancestry toy — one Top, one Bottom, no hearth feature — may take it. That is an uncommon heritage, not what the midwife expects. Rule it on [[Kind Heritage]].
+**[[Yumboe]] do not mix.** A Yumboe at the table needs GM leave (they are mythic-rare off the isle). If seated, they are the full three-feature Kind. A child of a Yumboe and a mainlander is a full Yumboe (same leave) or the mainland Kind, with at most a story-tell. Never Top-and-Bottom with a Yumboe feature. The good people do not come in halves.
 
 Condition arrives on its own clock. A mixed-Kind child Turns, or is Kept, or is Struck, like the neighbour's child. Kind does not vote.
 
@@ -140,7 +138,7 @@ Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place th
 
 - **[[Roadmap|Epic 5]] factions** recruit by Condition, guild, and faith, not by Kind. A tree-warden order that was "Kitsune-only" would be a smell.
 - **[[Roadmap|Epic 7]] settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind. [[Ornsael]] is the worked example: fox-market by the well, mixed Kinds, no gate.
-- **[[Roadmap|Epic 8]] people** get a Kind, a Condition or Kept, and a *place*. The place names them; see [[Naming People in the Turning]]. A mixed-Kind childhood is a kitchen question, not a tragic half-blood plot.
+- **[[Roadmap|Epic 8]] people** get a Kind (including a mainland mix), a Condition or Kept, and a *place*. The place names them; see [[Naming People in the Turning]]. A mixed-Kind childhood is a kitchen question, not a tragic half-blood plot. [[Yumboe]] stay GM-leave and whole.
 - **Table rules** for feature count, Mixed Ancestry, and the Hearth-Mark → [[Kind Heritage]].
 
 ## Links
@@ -158,4 +156,4 @@ Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place th
 - **Do not grow Kind-nations later.** If Epic 7 wants a "fox principality," make it a Rain-Shadow *polity* that happens to be Fox-dense, running on the same theology/reach/governance axes as everyone else. The moment a government is *for* a Kind, the two-layer model has started to rot.
 - **The lost fourth Fox is a grandmother, not a plot coupon.** If you ever spend it, spend it as folklore that stayed when a hearth died (a vanished dry-lake, a wood that was cut) — not as a secret ancestry feature waiting in a drawer.
 - **The other kitchen is not a faction.** If a later pass builds "the fox-summer office," it has become a Kind-nation in a summer hat. Keep it families, couriers, and a grandmother who does the summers.
-- **Mixed-Kind default is one Kind.** Offer the SRD mix when a player asks. Do not make every fox-and-seal marriage a mechanically mixed child.
+- **Mainland Mixed Ancestry is the SRD rule.** Do not walk it back to one-Kind-unless-asked. [[Yumboe]] stay GM-leave and the full Kind; do not invent a blood-purity sermon to justify it.
