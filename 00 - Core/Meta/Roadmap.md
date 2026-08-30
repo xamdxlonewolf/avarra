@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # Roadmap
@@ -63,6 +63,7 @@ updated: 2026-08-29
 - [ ] Standardize all Tithe clock drains to `long rest` unless a card deliberately needs different timing
 - [ ] Add the missing damage die, trait, and other required weapon fields to the [[Two-Bodied]] natural weapon
 - [ ] Rebalance [[Phoenix]] or add firm spotlight and party-consent guidance for its immunity, flight, Evasion, attack, and extra death move package
+- [ ] Preserve the one-true-Phoenix rule while resolving the apparent second Phoenix: determine when the captive's original self ends, how harvested fire sustains what remains, and why a new white-fire Gift can fall unseen by the wider world
 - [ ] Narrow [[The Unbound]] mind-lane immunity and distinguish Quiet tokens from both that immunity and Returned's unshaken clause
 - [ ] Rebalance [[Long-Lived]] so its boon and severe low-token penalties occupy the same power band
 - [ ] Give [[The Answered]] a mechanic that expresses being spoken to rather than commanded
@@ -90,6 +91,7 @@ updated: 2026-08-29
 - [ ] Populate `foreshadowed_by` on [[Is the Leaf-Mother Real]] and repair the Secrets MOC so clue-bearing notes can be found
 - [ ] Build a usable firing pin for the keystone: one confirmable artifact, a faction that wants proof found or suppressed, and concrete consequences if confirmation lands
 - [ ] Review all six clue rungs so the reveal can fire in play while preserving deniable early clues
+- [ ] Add a lesser household deity that accepts the Long-Lived sect's worship and invented mask while letting the sect believe it created the god; keep it outside the Five Hands and unable to Give or Strike
 
 ### Story R.6: Society, law, and economy
 - [ ] Correct the licence-rate claim and decide how a 28–33% licensed or supervised population still avoids becoming a general surveillance system
@@ -108,11 +110,16 @@ updated: 2026-08-29
 - [ ] Break the shared faction-note voice and structure so at least one order is sprawling, one is terse, one is bureaucratic, and one is paranoid
 - [ ] Decide whether [[The Greens-Keepers]] and [[The Hall-Keepers]] remain factions; if not, fold their jurisdictions into [[Tithe-Infrastructure]]
 - [ ] Keep each faction's injustice real while removing prohibitions that make opposition unable to act
+- [ ] Build a fringe Long-Lived religious sect around volunteered five-year sacrifice, shared blood-memory, and knowledge passed to a god the sect falsely believes it created; make withdrawal possible but socially costly
+- [ ] Build the former Kept empire and its surviving walled regime as political class rule, not another church: the Book of Tithes assigns taxes, restrictions, and labour while Kept heirs can lose status if Given
+- [ ] Build the Protectors as secret Phoenix worshippers who remove each Phoenix from public life, cause controlled deaths, harvest Phoenix Fire, erase the deaths from the Phoenix's returning memory, and turn accumulated fire into institutional power
+- [ ] Keep the three opposition engines distinct: religious self-consumption, political classification, and worship used to hide coercive extraction
 
 ### Story R.8: People and capital casts
 - [ ] Build the planned 4–6 positional pivots from existing offices, each with a non-Tree want, leverage created by their job, and a distinct character arc
 - [ ] Give each of [[Eolvaeth]], [[Orentel]], and [[Maiethlir]] three to five named wants carried by people rather than institutions
 - [ ] Connect the cast across capitals, factions, and disputes without turning them into a preassembled adventuring party or another row of document-holding clerks
+- [ ] Seed four later campaign-facing roles without fully plotting them here: a sacrifice volunteer who wants out, a disinherited Given heir of the Kept regime, a hidden second Phoenix, and a Protector who helped that Phoenix escape
 
 ### Story R.9: History
 - [ ] Add three to five dated non-Tree events within C.Y. 0–387, including inter-power conflict and a mix of political, epidemic, and natural events
@@ -120,6 +127,7 @@ updated: 2026-08-29
 - [ ] Give the fifteen powers enough shared history for current borders, treaties, dynastic claims, and grudges to have causes
 - [ ] Re-date Ledan's White Note query to C.Y. 280 and repair every dependent "200th summer" reference
 - [ ] Keep the two-clock model intact while proving that 387 years contained more than the spread of grafts
+- [ ] Make the First Cut the break in the old empire's monopoly on access to the Awakening Tree, then place the resulting war, imperial collapse, and retreat behind the surviving walls without identifying the cutter
 
 ### Story R.10: Geography and powers
 - [ ] Name the inner sea, central range, and three or four rivers used by existing settlement and history notes
@@ -127,6 +135,8 @@ updated: 2026-08-29
 - [ ] Remove map-generator tooling as an authority inside player-facing geography; extract the tooling to `14 - Assets` and link to it as a production aid
 - [ ] Align [[The World Frame]] with [[The First Cut]] on the strict ruling that no Kumbaan graft ever took
 - [ ] Sharpen or consolidate the weakest power stubs, especially Eolstrand, Lirorn, and Netstrand, without adding more powers
+- [ ] Decide whether the surviving Kept regime replaces a weak existing power such as Eolstrand or survives inside the successor of its fallen empire; do not add a sixteenth great power
+- [ ] Produce a finished canonical visual map after physical names, borders, climate regions, and travel relationships are settled
 
 ### Story R.11: Settlements and Kumbaan
 - [ ] Break the Eolvaeth / Ornsael near-clone by changing one settlement's physical problem, institutional response, cast shape, and mystery
@@ -157,6 +167,7 @@ updated: 2026-08-29
 - [ ] Move seeds, story numbers, canon emoji, "do not clone," and similar production scaffolding out of player-facing bodies
 - [ ] Create an "At the Table" note covering character-creation timing, the Kept benefit or deliberate tradeoff, Struck-in-play acquisition, Kind + Condition stacking, advancement, travel papers, city witnessing, crime procedure, and Leaf-Fall edge cases
 - [ ] Build a small Daggerheart dangers layer with wilderness adversaries and hazards for the Long Mile, Heskoren, and other named travel routes
+- [ ] Define player-agency rules for a hidden Phoenix PC: starting Hope scars, missing murder memories, fragment recovery, what the Protectors' stored fire can reveal, and which truths remain player choices
 
 ### Epic R completion gate
 - [ ] Every non-green finding in [[Editorial Audit 2026-08-29]] maps to a completed task or a recorded decision with rationale
@@ -428,13 +439,15 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ## Epic 10 — Campaign
 **Skill:** `key-moments`, `endings`, `table-tone`, `dialogue` · **Status:** ⬜ · Actual play material (`12 - Campaigns`). Depends on the world existing. *Not before the world frame + a settlement + a cast exist.*
 
+> **Deferred campaign seed from 2026-08-30.** A Phoenix escapes the Protectors after learning that their Hope scars account for lives they cannot remember. The wider world knows a Phoenix should exist but has long since stopped seeing one because the Protectors hide each Phoenix in their care. A second white-fire Gift now falls in isolation. The new Phoenix does not know what the Protectors did, what their sanctuary stores, or why its fire answers them. Develop the opening, memory fragments, inside helper, and apparent-two-Phoenix mystery here only after Epic R settles the cosmology, faction, and player-agency rules.
+
 ---
 
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic R: Editorial repair and table readiness:** 0 / 86 tasks (0%). **⭐ Active next.** Source: [[Editorial Audit 2026-08-29]]. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
+- **Epic R: Editorial repair and table readiness:** 0 / 97 tasks (0%). **⭐ Active next.** Source: [[Editorial Audit 2026-08-29]]. Includes three distinct opposition engines and the deferred hidden-Phoenix campaign seed agreed 2026-08-30. Complete before Epic 8; world book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)
 - **Epic 3 — The World Frame:** 🟢 **core done (2026-08-22)** — 4/4 marked: [[The World Frame]] + four continents ([[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]); calendar locked ([[The Reckoning of the Year]] — month-names filled Story 4.2); 4th ancestry ([[Yumboe]]) pulled forward. Map assets baked in (Kumbaan name base ✅ 4.2). Deferred: deep per-region climate/ecology. ~12 named-stub powers ✅ Story 7.1. Rival faiths ✅ Story 1.4.
