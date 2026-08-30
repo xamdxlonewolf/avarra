@@ -10,7 +10,7 @@ world:
 domain: becoming, gifts, the Turning, the tended life
 reveals: [leaf-mother-is-real]
 created: 2026-08-19
-updated: 2026-08-23
+updated: 2026-08-30
 ---
 
 # The Leaf-Mother
@@ -38,7 +38,7 @@ updated: 2026-08-23
 
 Religion is lived, not just believed. The Motherfaith is dense with practice — which is what makes skeptics able to belong through *doing*.
 
-- **The Leaf-Fall** — the central rite, a child's tenth-year solstice Turning. Full staging in [[Turning Tree]]. It is at once sacrament, coming-of-age, and the town's great festival.
+- **The Leaf-Fall** — the central rite, a child's tenth-year solstice Turning. Full staging and the questions a warden actually gets (missed week, refusal, orphans, whether anyone stands twice) in [[Turning Tree]]. It is at once sacrament, coming-of-age, and the town's great festival. The rite's cited shadow is [[The Wrong Green]].
 - **The Tending** — the ongoing, private devotion of *paying your Tithe well*. Framed religiously: to tend your Condition honestly is to honour the gift. A Two-Bodied who runs their other self, a Long-Lived who keeps their vigils — the faith calls this worship-by-living, not just upkeep.
 - **The Turning-week festival** — the solstice week around the Leaf-Falls: markets, feasts, the reunion of families, the naming of the year's new Given and new Kept. The emotional high point of the calendar (reckoning locked in [[The Reckoning of the Year]] — High Solstice / Turning-Week).
 - **Threshold rites for the Struck** — because the Struck receive a Condition *away* from the Tree (a drowning survived, an oath sworn, a death crossed — see [[The Premise]]), the faith has grown **quiet rites to receive them back**: a Struck person is brought to the Tree *after* the fact, not to be Turned (the Tree doesn't Strike) but to be **acknowledged** — folded into the community of the Given rather than left as an anomaly. How warmly this is done is itself contested (schism, below).
@@ -90,7 +90,7 @@ The faith is **not monolithic** — its central argument is a genuine, good-fait
 - **Clergy orders:** built as [[The Tree-Wardens]] (Story 5.1, names 🟡). The other four houses: [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2). The sacred calendar is locked ([[The Reckoning of the Year]]); the faith's Tithe-economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
 
 ## Links
-- [[Turning Tree]] — the object and rite this faith is built around
+- [[Turning Tree]] — the object and rite this faith is built around · [[The Wrong Green]] — the cited mis-Speaking
 - [[The Tree-Wardens]] — the working clergy (Story 5.1)
 - [[Faiths of the Turning]] — the other faiths, and how this one lives beside them
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Child at Four Doors]]

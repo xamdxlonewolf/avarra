@@ -12,7 +12,7 @@ seat: the First Seat, in the Motherwood about Thaeloren (Maiethorn Sacred Core)
 public_face: the civic-sacred keepers of every town Tree — they tend the wood, speak the colour, carry the grafts
 reveals: [leaf-mother-is-real]
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # The Tree-Wardens
@@ -50,6 +50,8 @@ A new town without a mature Tree borrows a neighbour's warden and a neighbour's 
 The Speaking is an *act*, not always a separate person. In a small town the warden Speaks. In a pilgrimage-town or at the First Seat, a **Speaker** is the elder who holds the rare-colour texts and the last word on a mixed fall.
 
 They do not invent the palette. They *keep* it. The folk already know the commons; the Speaker is the reason a copper-green is not mistaken for the hug, and the reason a Watcher's second reading ([[The Watching]]) stays a witness *alongside*, not a rival authority. Dual practice is common. Two authoritative Speakers in one square is a fight.
+
+The cited failure is [[The Wrong Green]] — Harrow's, C.Y. 248, a hug Speaked as copper-green. You may Speak a second word. You may not stand the child again. Backstory questions a hearth actually gets: [[Turning Tree#Questions a warden gets asked]].
 
 ### The Road-hands (graft and sickness)
 
@@ -100,7 +102,7 @@ Orthopraxy is the peace. The Orenhael officiates the Leaf-Fall; the other four h
 | [[The Watching]] | Same Tree, two blessings. A Watcher may offer a *second reading* of a rare fall — witness alongside, not over. | Threnmaieth wants one name on the [[Naming in the Turning\|Threnhael]]. A Speaker who lets the withheld blessing stand is a column the crown can count. |
 | [[The Fair Hand]] | Leaf-Fall as festival *and* signing-watch. Book-hands and wardens share a square on Lestrand and ignore each other's sentences. | Gift-language vs. debt-language over the same Bound soul. A Bound warden is the seam. |
 | [[The Old Ways]] | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the old doors. | A sickening Tree in an old grove: who is host — warden or door-keeper. Play as neighbours who both love the wood. |
-| [[The Open Table]] | Almost no contact. A warden who crosses the storm-wall is a guest at supper. There is no Tree to tend. | None that matters. Do not invent a mission-chapter on [[The Sundering Isle\|Kumbaan]]. |
+| [[The Open Table]] | A warden who crosses the storm-wall is a guest at supper; there is no Tree to tend. On the mainland they already share landings with attic-hosts. | A host who will not walk a child of the table to the Tree. A warden who will. The Given-door is one week. No mission-chapter on [[The Sundering Isle\|Kumbaan]]. Play it on [[The Open Table#The sentence at the mainland lintel]]. |
 
 ## How they live in the three corners
 
@@ -160,7 +162,8 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Kinds of the Turning]]
 - [[The Old Tongue]] (Orenhael, Thaelvaeth) · [[The Premise]]
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] — Cutting-leave as captured copy-right; *Brenvaeth* as the inversion of *Thaelvaeth*; origin-hearth was the only Speaking that counted; fate-pressure noted not rolled
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[Ornsael]]
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[Ornsael]] · [[The Wrong Green]]
+- [[The Open Table]] — mainland lintel, not a Kumbaan mission
 - [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete; Story 7.2) · [[05 - Factions]]
 
 ## GM Notes
@@ -177,4 +180,4 @@ On its face: competent horticulture, a little cold, the Tender's blessing reused
 - **Threnmaieth must not capture the Seat in the first sentence.** Proximity is pressure, not ownership. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll — and keep some Speakers who don't.
 - **Do not invent Kind-orders or a Kumbaan mission.** Road-hands do not "bring the Mother" across the storm-wall. [[The Open Table]] is the control case.
 - **Stories 5.2–5.3 are built; do not rebuild them here.** [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]. Tithe-infra is [[Tithe-Infrastructure]]; the underdog there is [[The Intake]], not a Road-hand clone.
-- **Hooks.** A mixed fall two houses want to name; a Cutting-leave the party is asked to carry (or lose); a skeptic warden and a Wanting Kept apprentice in the same hearth; a Road-hand circuit whose next Tree is already dying; a Speaker who will not write a colour onto the Threnhael ([[Maiethlir\|Rithim]] is the local incomplete version); Harrow's green getting the scion the three hamlets can see from the ford; Eolvaeth sending a cohort the gospel says should wait.
+- **Hooks.** A mixed fall two houses want to name; a Cutting-leave the party is asked to carry (or lose); a skeptic warden and a Wanting Kept apprentice in the same hearth; a Road-hand circuit whose next Tree is already dying; a Speaker who will not write a colour onto the Threnhael ([[Maiethlir\|Rithim]] is the local incomplete version); Harrow's green getting the scion the three hamlets can see from the ford; Eolvaeth sending a cohort the gospel says should wait; an attic tenth-year in Eolthael; a hearth that has to Speak the Wrong Green a second time.

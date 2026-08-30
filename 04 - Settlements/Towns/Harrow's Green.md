@@ -11,7 +11,7 @@ region: "[[Heskoren]]"
 population: a small town — a few hundred hearths around one canopy
 reveals: [leaf-mother-is-real]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Harrow's Green
@@ -65,7 +65,7 @@ A warden who pulls the stone down is doing theology with a hammer. They are not 
 
 No Epic-8 cast. Offices that must exist:
 
-- **Town-warden (Haelin, 🟡)** — practice-first, not Kind. Speaks the fall truly enough for a front-town. Believer-heavy the way a live Tree makes you; still has to lodge the neighbour's week. The scion-queue is not theirs to fix and is the sentence they live in.
+- **Town-warden (Haelin, 🟡)** — practice-first, not Kind. Speaks the fall truly enough for a front-town. Believer-heavy the way a live Tree makes you; still has to lodge the neighbour's week. The scion-queue is not theirs to fix and is the sentence they live in. The hearth still keeps the Seat letter from [[The Wrong Green]] (C.Y. 248): Nathdo Speaked a hug as copper-green. Haelin Speaks slowly. Hale-month does not always forgive it.
 - **The square that watches children Turn** — Harrow's witness is what a hamlet child carries home. Vouching-at-a-distance was invented for an origin-fall. Here it is a walk back to the ford.
 - **Road-hands passing through** — they sleep in the town that was chosen, on the way to the one that was not. Do not clone them as a Harrow's chapter.
 - **A Door-Keeper at a later planting** — host-rights if a cut from Harrow's is set in an old green. The first meal, or a claiming. Do not skip [[The Door-Keepers]] to make the town simpler.
@@ -98,4 +98,5 @@ Haelin cannot afford to see that "I have a Tree" is the luck the Seat already wr
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] · [[The Child Who Climbed the Stone]]
 - [[Heskoren]] · [[Saelvaeth]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — neighbour-witness
+- [[The Wrong Green]] — the cited mis-Speaking, kept in the hearth
 - [[04 - Settlements]] · [[Roadmap]] (Story 7.2)

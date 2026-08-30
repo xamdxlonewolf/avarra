@@ -55,6 +55,8 @@ Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts
 
 **Whose hand.** Per [[The Other Hands]], the Counterparty is **Orledd** — the household Hand who answers a sworn ask. The face chosen at creation (demon / cosmic-horror / unknown) is a *mask*; the terms are the same shape. Do not play Orledd as a devil, and do not let this retcon Given Conditions into bargains.
 
+**What Orledd gets.** During the term: the named ask remaining true, and the Terms being kept where other people can see them. That is the food — a readable exchange. Orledd cannot Give; a gift with no named return would be her work. At the end of a term-limited contract they collect the Pledge (already on the card). They do **not** get a soul, worship, or a second signing. The Given-Over spiral is the Bound's fear of paying, not the Counterparty's hunger. A flood of unread bargains starves them. If you need the strain/break rules (when a bargain has gone outside her allowance), they live on [[The Other Hands]].
+
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Fair Hand]] (the faith that reads every becoming as a contract)
 - Chains into: [[The Unbound]] (what an expired contract leaves behind — colloquially, the Hollow)

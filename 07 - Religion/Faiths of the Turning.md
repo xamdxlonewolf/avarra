@@ -9,7 +9,7 @@ aliases: [The Religious Landscape, Other Religions, The Wider Pantheon, Faiths]
 world: The Turning
 reveals: [leaf-mother-is-real]
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Faiths of the Turning
@@ -52,7 +52,7 @@ No faith is a villain-theology. Each is a good-faith answer to a real seam (the 
 - **[[Maiethorn]]** — the fight is *at the centre*. [[The Watching]] and the Motherfaith share the same Trees and argue over the blessing spoken there. [[Polity Archetypes|Threnmaieth]] files Watchers on the [[Naming in the Turning|Threnhael]] as a known, counted dissent (the Grown-Over). Pressure, not pogrom — the ~5% dial holds.
 - **[[Strandoren]]** — faith worn light, so the fight is *for the Bound and the books*. [[The Fair Hand]] and the Motherfaith compete for the same oath-keepers in the same port. Lestrand prices both and polices neither.
 - **[[Heskoren]]** — the fight is *over the grove*. [[The Old Ways]] were there before the grafts; the Motherfaith burns hottest where the gift is scarcest. A dying Tree has two claimants. Vaethorn's piety makes this tender and sharp, not holy-war loud.
-- **[[The Sundering Isle]]** — almost no contact. A Yumboe on the mainland is a guest at everyone else's rite; they keep table and find the noon-day faiths *loud*.
+- **[[The Sundering Isle]]** — the wall still holds. A Yumboe on the mainland is a guest at everyone else's rite; they keep table and find the noon-day faiths *loud*. The quarrel is already in the port: the sentence vs a Turning-witness, and a tenth-year week a host will not spend on a Tree. → [[The Open Table#The sentence at the mainland lintel]]
 
 **Syncretism (what actually happens, most years):**
 
@@ -61,7 +61,7 @@ No faith is a villain-theology. Each is a good-faith answer to a real seam (the 
 | Motherfaith + Watching | Same Tree, two blessings; families inherit which words they use | Threnmaieth's roll wants one name for what you are |
 | Motherfaith + Fair Hand | Leaf-Fall as festival *and* signing-watch; Tithe paid as both tending and settling | Gift-language vs. debt-language over the same Bound soul |
 | Motherfaith + Old Ways | Pilgrimage to a graft *and* threshold-walking the old doors | Who tends a sickening Tree — warden or door-keeper |
-| Any mainland + Open Table | A rare shared supper; "no one is a stranger twice" | Almost none — the storm-wall is the boundary |
+| Any mainland + Open Table | A rare shared supper; "no one is a stranger twice" | Second sitting as kin vs witnessed citizenship; a child of the table in Eolthael. The wall is the boundary for missions. The lintel is not. |
 
 A shared teaching-story — [[The Child at Four Doors]] — is told in all five houses with a different last line. That is how the world argues without a council.
 
@@ -78,7 +78,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - Shadow (not clergy): [[The Slide]]
 - The shared story: [[The Child at Four Doors]]
 - Placed on: [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Turning Tree]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM)
+- [[Turning Tree]] · [[The Wrong Green]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM)
 - [[Roadmap]] (Story 1.4) · [[07 - Religion]]
 
 ## GM Notes
