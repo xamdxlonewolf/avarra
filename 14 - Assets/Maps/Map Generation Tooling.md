@@ -387,11 +387,11 @@ Add names from [[Named Ground]] and [[The Known Map]] only. Suggested first labe
 | Art | Write on after |
 |---|---|
 | W | Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall |
-| C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Eolstrand |
+| C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Hinge Shore |
 | C2 | Orentel · Chart-run · Trenledd · Netstrand |
 | C3 | Eolvaeth · Harrow's · the ford · Rise-water |
 | C4 | nothing that implies a graft |
-| R1 | Eolstrand · Orentel · Hush-rate as a rate, not a border |
+| R1 | Hinge Shore · Orentel · Hush-rate as a rate, not a border |
 | R2 | Thaeloren · Inner Close · Third Hearth · Maiethlir |
 | R3 | Thaw-Wall · Noon Pass · Shelf-gate |
 | R4 | Ornsael · Well-wash · Dry Stair |
@@ -435,7 +435,7 @@ Add 5 20-100 0-100
 So Azgaar auto-generates burgs/states that sound like our world. **Menu → Options → Configure → (Cultures / Names) → Add name base**, name it `Maiethren`, and paste this comma-separated list into the names field. Built from the [[The Old Tongue|Old Tongue]] phonology (liquids + nasals + soft *th*, long vowels, roots *oren / thael / maieth / vael / vaeth / hael / thren / ledd / orn*):
 
 ```
-Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Eolstrand,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth,Eolvaeth,Orentel,Maiethlir
+Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Hinge Shore,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth,Eolvaeth,Orentel,Maiethlir
 ```
 *Tuning:* set the name base's **"double-word" / min-max length** to taste; the roots above recombine into plausible Old-Tongue names.
 

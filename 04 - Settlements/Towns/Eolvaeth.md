@@ -16,9 +16,9 @@ updated: 2026-08-30
 
 # Eolvaeth
 
-> **Vaethorn's seat: a pilgrim-edge town, not a live-front luck.** *(ay-ohl-VAYTH · [[The Old Tongue|eol]] "hinge" + [[The Old Tongue|vaeth]] "the waiting" = "the hinge-waiting.")* Worn drift: *th* kept. Everyday pulpit *Eolvaeth*; folk-speech **"Elvaeth"** *(el-VAYTH)*. The capital of [[Polity Archetypes|Vaethorn]] because people walk *here to wait*, not because the canopy is a certainty. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
+> **The Waiting Lands' seat: a pilgrim-edge town, not a live-front luck.** *(EOL-vaeth · [[The Old Tongue|eol]] "hinge" + [[The Old Tongue|vaeth]] "the waiting.")* Folk-speech **Elvaeth** *(EL-vaeth)*. People walk *here to wait*, not because the canopy is a certainty.
 
-> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle of the list; not *Vaethorn*, not *Thaelvaeth*, not *Brenvaeth*, not *Eoloren* / *Eolthael* / *Eolstrand*). Warden-name *Vaethod* 🟡. **Not [[Harrow's Green]]. Not [[The Three Hamlets Past the Ford]]. Not [[Saelvaeth]]'s march.** Do not clone Road-hands or [[The Slide]] as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
+> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle of the list; not *Vaethorn*, *Thaelvaeth*, *Brenvaeth*, *Eoloren*, or *Eolthael*). Warden-name *Vaethod* 🟡. **Not [[Harrow's Green]]. Not [[The Three Hamlets Past the Ford]]. Not [[Saelvaeth]]'s march.** Do not clone Road-hands or [[The Slide]] as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
 
 ## Overview
 
@@ -98,7 +98,7 @@ The unvouched Struck are the ache this seat was built to meet with faith rather 
 >
 > *The spring is not a stone. Leave the leaf if you must. Do not ask me what it buys. It buys nothing. That is why we leave it.*
 
-Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence said from the other side of the wave, or that a capital whose Tree might not speak is the setting working. The gospel will hear the notice as a slight even if it is only a week. Both are telling the truth they have.
+Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence said from the other side of the wave, or that a capital whose Tree might not speak is the setting working. A one-week notice at the hall becomes a slight by the time the gospel repeats it.
 
 ## GM Notes
 
@@ -107,7 +107,7 @@ Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence sa
 - **One leftover job.** Devotion / the wait as destination. A cohort sent toward Saelvaeth is friction, not a second theme. Prestige that lands here is lost, rich, or lying.
 - **Do not clone 7.2's stone.** The spring is the water. The wet leaf is not a ribbon. The absence of a mile-shrine is the leftover, not a missing prop.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let Vaethod assert the mind. "The soil was never quite right here" is horticulture.
-- **R2:** a pretty pilgrim-town whose leftover is only picturesque agrees with Vaethorn guilt. Keep a thin year visible. Confirming she is kind does not make the wait a virtue.
+- **Keep a thin year visible.** A pretty pilgrim-town whose leftover is only picturesque turns waiting into a virtue.
 - **Hooks.** A missed fall at the waiting-seat; a cohort Vaethod will or will not send; an unvouched Struck in the gift-hall; a wet leaf; a clerk from the Reckoning asking to name the spring; a Road-hand sleeping here with a pot for someone else; a Kept child treated as Mother-kept in the one town that made waiting holy; pairing a session with Harrow's so luck and gospel have to share a week.
 
 ## Links

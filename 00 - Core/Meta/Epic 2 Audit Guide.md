@@ -34,9 +34,9 @@ The two dials locked 2026-08-20, before any content.
 - [x] **Register:** late-medieval burgher surface (no printing press, no gunpowder); the *only* advancement beyond comes from **Condition-labor**. — *Does "advanced by Conditions, not generic magic-tech" still feel right? Is the "everything is paid for" rule the texture you want?*
 
 ### 2. Keystone edge — `11 - Secrets/GM Truth/Is the Leaf-Mother Real.md` (GM-ONLY)
-The salvaged refinement: she's real & benevolent **but bounded, and giving costs her**; the **R2 social guard** (her kindness is cosmological, not social — don't let it launder injustice).
+The salvaged refinement: she's real & benevolent **but bounded, and giving costs her**. The authoritative social guard now lives in [[Is the Leaf-Mother Real]]: her kindness is cosmological, not social, and does not launder injustice.
 - [x] *Does the "bounded/costly" edge improve the schism (two-sided) without reopening "is she kind" (locked yes)?*
-- [x] *Is the R2 guard the right instinct — society can be unjust atop true gifts?* (This guard drives the injustice in both 2.1 and 2.2.)
+- [x] *Can society remain unjust atop true gifts?* (This guard drives the injustice in both 2.1 and 2.2.)
 
 ### 3. Story 2.1 — `03 - Cultures/Social Structures/Law and Citizenship.md`
 **The big reframe.** Citizenship is **witnessed, not recorded** (user call: a universal register was too invasive). Key beats to check:

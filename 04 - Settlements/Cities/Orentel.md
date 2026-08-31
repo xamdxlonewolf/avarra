@@ -16,9 +16,9 @@ updated: 2026-08-30
 
 # Orentel
 
-> **Lestrand's seat: a salt quay, not a desk wearing a crown.** *(or-EN-tel · eroded [[The Old Tongue|oren]] + [[The Old Tongue|thael]] = "the witnessing-Tree," *th* worn to *t*.)* Everyday *Orentel*; Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. The capital of [[Polity Archetypes|Lestrand]] because notes and berths meet here, not because a house sits a throne. [[The White Note House]] is on the third quay, north side — placed, not crowned. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
+> **The Ledger Coast's seat: a salt quay, not a desk wearing a crown.** *(OREN-tel · eroded [[The Old Tongue|oren]] + [[The Old Tongue|thael]] = "the witnessing-Tree," *th* worn to *t*.)* Coast-folk say **the Salt Quay** and mean the city. Notes and berths meet here; no house sits a throne. [[The White Note House]] is on the third quay, north side — placed, not crowned.
 
-> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle of the list; not *Lestrand*, not *Eolstrand* / *Netstrand*, not *Orenbren*, not *Thaeloren*). Factor-name *Sorim* 🟡. **Do not make [[The White Note House|Ledan]] the government.** Do not clone [[Harrow's Green]]'s stone or [[Ornsael]]'s sand as the quay's only texture. Do not clone Road-hands or [[The Slide]] as a district.
+> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle of the list; not *Lestrand*, *Netstrand*, *Orenbren*, or *Thaeloren*). Factor-name *Sorim* 🟡. **Do not make [[The White Note House|Ledan]] the government.** Do not clone [[Harrow's Green]]'s stone or [[Ornsael]]'s sand as the quay's only texture. Do not clone Road-hands or [[The Slide]] as a district.
 
 ## Overview
 
@@ -100,7 +100,7 @@ The Tithe-poor fade while the city steps around them. That is the injustice. Not
 >
 > *White Note, third north: not a berth. Do not send me their conversions. I do not keep house-years.*
 
-Sorim cannot afford to see that "I did not invent the hold" is the market's injustice said as competence, or that salt on the roots is a leftover the slate will not schedule. Ledan will hear the slate as a neighbour who cannot convert. Mataero will hear occupancy. Both are telling the truth they have.
+Sorim cannot afford to see that "I did not invent the hold" is the market's injustice said as competence, or that salt on the roots is a leftover the slate will not schedule. Ledan reads a neighbour who cannot convert; Mataero reads occupancy. Their readings demand different action from the same berth.
 
 ## GM Notes
 
@@ -110,7 +110,7 @@ Sorim cannot afford to see that "I did not invent the hold" is the market's inju
 - **Do not clone 7.2's stone or sand.** Empty berths and earth-holds are this street's leftover. Salt on the roots is not a ribbon.
 - **Hallowquay stays a lesser quay.** The [[Naming People in the Turning]] example is a neighbourhood byname, not a retcon of the capital.
 - **Keystone:** dense Given stay horticulture-and-trade in player text. Do not let Sorim assert the mind.
-- **R2:** confirming she is kind does not make the hold kind. A rich city stepping around a fade is the Coast's injustice at eye level.
+- **The hold is not care.** A rich city stepping around a fade is the Coast's injustice at eye level.
 - **Hooks.** A First-Hand year and a pot booked into adjacent berths; Ledan's unanswered conversion; Mataero's north bed; a Tithe-poor family in the rise-lofts; sold vouching in an alley the council does not charter; a Bound signing-watch as prestige; salt on the roots; a colour that opened a guild and a marriage priced as a dynasty; pairing a session with [[The Third Hearth]] so the two fates of the road-house share a week.
 
 ## Links

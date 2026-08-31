@@ -9,7 +9,7 @@ aliases: [Person Names, Kind Registers, How People Are Named, The Four Registers
 world: The Turning
 reveals: []
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Naming People in the Turning
@@ -40,7 +40,7 @@ Everyday names are worn [[The Old Tongue]]: liquids, nasals, soft *th*, long vow
 
 | Drift | Place | What happens to a person-name | Examples *(seed 20260821; pick from the middle of a list, never the first thought)* |
 |---|---|---|---|
-| **Conservative** | [[Polity Archetypes|Threnmaieth]], pious [[Maiethorn]] | *th* and long vowels kept | **Maethaem** (MY-eth-aym), **Reimaethe** (ray-MY-eth-eh), **Thilim** (THIL-im), **Rithnali** (rith-NAH-lee), **Valein** (vah-LAYN) |
+| **Conservative** | [[Polity Archetypes|Threnmaieth]], pious [[Maiethorn]] | *th* and long vowels kept | **Maethaem** (MAY-thaym), **Reimaethe** (RYE-may-theh), **Thilim** (THIL-im), **Rithnali** (rith-NAH-lee), **Valein** (vah-LAYN) |
 | **Worn** | [[Polity Archetypes|Vaethorn]], [[Heskoren]] folk-speech | *th* softens; endings simplify | **Nathdo** (NATH-doh), **Saelid** (SAY-lid), **Tora**, **Seine** (SAY-neh), **Nethiro** (neth-EE-ro) |
 | **Eroded** | [[Polity Archetypes|Lestrand]], [[Strandoren]] docks | *th* → t/d or drops; clipped | **Valen**, **Tilim**, **Mataero** (mah-TAY-ro), **Ledan**, **Sorel** |
 
@@ -52,7 +52,7 @@ Do not invent a fourth "human language." This *is* the person-language of the Tr
 
 Each custom Kind's register is a **naming-language**: a mouth, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are 🔒 (user-approved 2026-08-23). The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay locked.
 
-Inventories were generated with a seeded LCG (the same family of entropy the `character-naming` skill uses). **When you need a new name, re-run from the seed and pick deep in the list.** Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*.
+The listed names are the surviving working sets from the original seeded pass. The original generator was not stored, so a seed by itself cannot reconstruct them. Future draws use the versioned LCG in `14 - Assets/Names/generate_names.py`; record the full command and candidate position, not only a seed. Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*.
 
 ### [[Kitsune]] — *Kusawe* (koo-SAH-way) 🔒
 
@@ -122,7 +122,7 @@ Before locking a new PC/NPC name, check:
 ## How to coin more
 
 1. Pick the **register** (Maiethren drift, or one of the four hearths).
-2. Re-run from the **seed** (or extend the list with the same inventory). Pick from the *middle or bottom*, not the top.
+2. Run `14 - Assets/Names/generate_names.py` with the register, seed, and count; record the full command and chosen position. Pick for fit from the field, not automatically from the top.
 3. Give **pronunciation** (CAPS = stress) on first use.
 4. Add a **byname from the place**, not from the Kind.
 5. If you need a name for a new *power* (Epic 7), do not steal a hearth-register. Either drift Maiethren further, or cut a new inventory with a recorded seed.
@@ -133,6 +133,7 @@ Before locking a new PC/NPC name, check:
 - [[Kinds of the Turning]] — hearths, not nations · [[Kind Heritage]] — table rulings
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[The Reckoning of the Year]] — month-names from the same Maiethren roots
+- [[Naming Tools]] — reproducible generator, algorithm, and collision gate
 - [[Roadmap]] (Story 4.2) · [[03 - Cultures]]
 
 ## GM Notes

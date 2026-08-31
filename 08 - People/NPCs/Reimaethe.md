@@ -13,14 +13,14 @@ location: "[[Orentel]]"
 role: Long-Lived volunteer who wants the fifth year back
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Reimaethe
 
 > A [[Long-Lived]] who poured four years into a cup and wants to stop before the fifth. Pays a rise-loft on time. Neighbours call it a rich uncle's hobby. They do not look like a hobby.
 
-*(ray-MY-eth-eh.)* Given-name from the conservative working set. Of the rise, [[Orentel]]. Seed, not a plot.
+*(RYE-may-theh.)* Given-name from the conservative working set. Of the rise, [[Orentel]]. Seed, not a plot.
 
 ## Summary
 

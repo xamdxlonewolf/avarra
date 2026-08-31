@@ -17,7 +17,7 @@ updated: 2026-08-30
 
 > **What this is.** The **Sundered Reach** — the frontier continent of [[The World Frame|the world]], sprawling west and south beyond [[Strandoren]]'s far coast. Reached late, grafted late: **thin reach**, Tree-poor margins running heavy on the [[Law and Citizenship|Kept and the Struck]], custom outrunning written law. The edge of the settled world. Home of **[[Polity Archetypes|Vaethorn]]** (the Waiting Lands). Built with `systemic-worldbuilding` for [[Roadmap|Epic 3]].
 
-> **Canon status.** 🟡 Proposed. 🔒 bones: thin reach; Vaethorn sits here ([[Polity Archetypes]]); the *worn* [[The Old Tongue|Old-Tongue drift]] — rough-warm folk-speech still *reaching* for the holy words (Vaethorn → "Wethorn").
+> **Canon status.** 🟡 Proposed. 🔒 bones: thin reach; the Waiting Lands sit here ([[Polity Archetypes]]); the *worn* [[The Old Tongue|Old-Tongue drift]] — rough-warm folk-speech that wears written *Vaethorn* to spoken **Wetorn** and restores the thorn in prayer.
 
 *(worn to **Heskorn** in daily speech · coined root **hesk-** "far/outer edge" + [[The Old Tongue|orn]] "land" = "the Outer Land." A frontier coinage; the root doesn't appear in the old liturgy because the liturgy is older than the frontier's grafting.)*
 

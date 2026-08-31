@@ -37,7 +37,7 @@ They are not [[The Slide]]. They do not rent a week. They are not [[The Holding 
 
 They look like a useful cousin at a ford. A factor's runner. A pilgrim who "happened to be in the square that Eolthael." You would miss them if you came looking for a forger's press. There is no press. There is a mouth.
 
-**Nomele of the Hinge** *(no-MEL-eh)* works the Old Crossing face — [[Eolstrand]] more often than [[Orentel]], because a hinge has two sides and a standing has to travel. Eroded mouth, conservative quay. They do not sell paper. They sell who will walk with you to the next Tree.
+**Nomele of the Hinge** *(no-MEL-eh)* works the Old Crossing face — [[The Hinge Shore]] more often than [[Orentel]], because a hinge has two sides and a standing has to travel. Eroded mouth, conservative quay. They do not sell paper. They sell who will walk with you to the next Tree.
 
 ## What they actually do
 
@@ -91,15 +91,15 @@ On its face: a ferryman. Underneath: the writer cannot afford to admit that "I w
 ## GM Notes
 
 - **They think they are in a travel-and-kin story.** Defaults: forged papers, fake IDs, a document-cult. Rotate. There is no paper worth selling. The product is a mouth. Knowledge/goal/role: Nomele wants the crossing to work, not a setting to collapse.
-- **Moral parallax.** Distances: social ("they're not from here") and informational (the square is glad to have a mouth). Engine: exchange — every standing is paid by someone the town will later trust. Comfort: the sentence *I was there.* R2: she did not build the unvouched seam.
+- **Moral parallax.** Distances: social ("they're not from here") and informational (the square is glad to have a mouth). Engine: exchange — every standing is paid by someone the town will later trust. Comfort: the sentence *I was there.*
 - **Opposition can act.** A recant, a Blood-Read, a sold standing used to hang a rival. They will ruin a person to keep the book. They prefer not to, because a ruined mouth cannot stand next week.
 - **Not the unused Bought Watch.** That name stayed unused as a *Slide pick*. This is the later face for sold vouching. Do not rename the Slide.
 - **Names.** Nomele of the Hinge — seed `20260831`, eroded list, mid-bottom. Not a median "Silas Crowe."
 - **R.8 seed, do not plot:** a mouth who wants to recant and cannot afford the people who already used them.
-- **Hooks.** The fee-slate with squares not names; a Blood-Read that shows the sale; three unvouched after one recant; a party hired to stand; Eolstrand's hinge as the ordinary door.
+- **Hooks.** The fee-slate with squares not names; a Blood-Read that shows the sale; three unvouched after one recant; a party hired to stand; the Hinge Shore as the ordinary door.
 
 ## Links
 - [[Law and Citizenship]] — witnessed belonging, the three pillars · [[Economy and the Tithe]]
 - [[The Slide]] · [[The Holding Desk]] · [[The Book-Hands]] · [[The Reckoned Offices]]
-- [[Eolstrand]] · [[Orentel]] · [[Long-Lived]] · [[Bound]] · [[Far-Voiced]]
+- [[The Hinge Shore]] · [[Orentel]] · [[Long-Lived]] · [[Bound]] · [[Far-Voiced]]
 - [[05 - Factions]]

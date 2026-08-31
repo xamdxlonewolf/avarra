@@ -91,5 +91,5 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
   - The Fair Hand is right about Bound (there *is* a Counterparty) and wrong that every becoming is a bargain. Mother's Gifts are still gifts.
   - The Old Ways are right that land-doors are real. They miss that she authorized the guests.
   - The Open Table is the cleanest experiment: no Gifts, rare Struck, a faith that was never hers ([[Yumboe]], [[The Sundering Isle]], [[The Other Hands]]). Their claim — *we were never lacking* — is still a late beat.
-- **R2 still holds across faiths.** Confirming she is kind does not dissolve Threnmaieth's counting of heretics, Lestrand's priced fading, or Vaethorn's guilt-theology. Rival faiths can be *used* as leverage; they are not automatically the moral good because they dissent.
+- **Dissent is not automatic virtue.** Rival faiths can still count heretics, price fading, or turn thin reach into guilt.
 - **Triangulation.** If a campaign ever works toward the keystone, the three old corners are the Watching, the Old Ways, and the Open Table — pre-Mother, pre-graft, and never-grafted. The Fair Hand is the *modern* misreading (commerce wearing a theology). Use all four; don't let one become the reveal-mouthpiece.

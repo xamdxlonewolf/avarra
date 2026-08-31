@@ -1,31 +1,31 @@
 ---
-title: Eolstrand
+title: The Hinge Shore
 type: faction
 visibility: player
 note_status: draft
 status: active
 tags: [faction, government, polity, maiethorn, epic-7, story-r10]
-aliases: [The Hinge-Shore, Eolstrand-folk, the Old Crossing Face, Hinge-folk]
+aliases: [The Hinge-Shore, Hinge Shore, Eolstrand, the Old Crossing Face, Hinge-folk]
 world: The Turning
 category: government
 seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
 public_face: the Motherland's Old-Crossing ports — they decide whether a hull is a pilgrim, a pot, or cargo
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
-# Eolstrand
+# The Hinge Shore
 
-> **The Hinge-Shore.** *(AY-ohl-strand · [[The Old Tongue|eol]] "hinge" + strand "shore" = "the hinge-shore.")* Conservative drift: they kept the year-word on a coast-name. Everyday *the Hinge-Shore*; liturgical *Eolstrand* if a clerk is showing off. Theology **mid** · reach high · governance low. Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10. Do not flesh districts. Do not name a capital. Do not make a Selkie nation. Do not let this flag carry the [[The Walled Book|Inner Close]].
+> **The Motherland's Old-Crossing ports.** Theology **mid** · reach high · governance low. They decide whether a hull is pilgrim, pot, person, or cargo before anyone across the water prices it.
 
-> **Canon status.** 🟡 **Named stub, sharpened.** Seed `20260827` (name) · terrain `20260831`. People **Eolstrand-folk** or **Hinge-folk**. Not *Eoloren* (the First Cut). Not *Eolthael* (a month). Not *Lestrand*. Not the Closed Seat's remnant.
+**The Hinge Shore** is both the spoken and written name; its people are **Hinge-folk**. The proposed compound *Eolstrand* is retired because *Eoloren, Eolthael,* and *Eolvaeth* already carry the hinge-root across an era, a month, and a city. Old dockets may preserve the obsolete form as a dateable scribal fashion, but no current authority uses it.
 
 ## Overview (public)
 
 [[Maiethorn]]'s western ports on **[[Named Ground|the Old Crossing]]** — the oldest trade route in the world. Ancient, rich, less frantic than the Ledger Coast. Trees still healthy because this is still the Motherland. Faith worn *thinner* than [[Maiethvael]] because a dock teaches categories.
 
-[[Lestrand]] **prices** the crossing. The Hinge-Shore **sorts** it. A child, a pot of living earth, a Given-Over, a recanter, a necessity-family on a neighbour's week — the quay-bell can ring the same note for all five. A clerk writes which docket. That writing is the job. [[The Standing Trade]] works this face more often than [[Orentel]] because a standing has to travel, and a hinge has two sides.
+[[Lestrand]] **prices** the crossing. The Hinge Shore **sorts** it. A child, a pot of living earth, a Given-Over, a recanter, a necessity-family on a neighbour's week — the quay-bell can ring the same note for all five. A clerk writes which docket. That writing is the job. [[The Standing Trade]] works this face more often than [[Orentel]] because a standing has to travel, and a hinge has two sides.
 
 [[Selkie]] families are common on these quays, as they are on any old water. That is a hearth, not a thalassocracy.
 
@@ -41,7 +41,7 @@ Guild-coast, light state, old houses. Recruits not by Kind. [[Far-Voiced]] on ev
 
 Keep the Old Crossing the world's highway. Classify the hull before anyone prices it. Broker pilgrimage-traffic and cargo without becoming either Threnmaieth's counted port or Lestrand's priced one. Charge the Hush-rate. Say the blessing if a mouth wants one.
 
-**Its injustice.** **Category as fate.** Lestrand will let you fade and feel it owed you nothing. The Hinge-Shore will *bless you as it files you*, and a Tithe-poor household fails in sight of the pilgrimage-road with a hymn still in the air. They learned the step-around from looking across the water in a grey summer. They kept the hymn so they would not have to call the step a conversion.
+**Its injustice.** **Category as fate.** Lestrand will let you fade and feel it owed you nothing. The Hinge Shore will *bless you as it files you*, and a Tithe-poor household fails in sight of the pilgrimage-road with a hymn still in the air. They learned the step-around from looking across the water in a grey summer. They kept the hymn so they would not have to call the step a conversion.
 
 ## GM Notes
 

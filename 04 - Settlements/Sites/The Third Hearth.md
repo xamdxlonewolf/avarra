@@ -18,7 +18,7 @@ updated: 2026-08-30
 
 > **A road-house that stayed a hearth.** The third lodging out from the Motherwood on the [[The Walking Years|Near Mile]], kept by **Thilim** *(THIL-im)* — [[Long-Lived]], inland, keeping this house since before [[The First Cut]], as later clerks would say. Seine's bed is still made. The notes are smaller than the [[The White Note House|White Note]]'s. The shrine is larger. Fleshed at square scale for [[Roadmap|Story 7.2]]: a mile-mark, a neighbour Hands-town, one tension. Do not flesh a capital around it.
 
-> **Canon status.** 🟡 **Playable site.** Everyday *the third hearth*; cant *brenhael* like any road-house. Neighbour-town **Brenthael** *(bren-THALE)* 🟡 — *bren* + *thael*, "the hearth-Tree" (seed `20260828`, middle of the list). Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
+> **Canon status.** 🟡 **Playable site.** Everyday *the third hearth*; cant *brenhael* like any road-house. Neighbour-town **Brenthael** *(BREN-thael)* 🟡 — *bren* + *thael*, "the hearth-Tree" (seed `20260828`, middle of the list). Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
 
 ## Overview
 
@@ -28,7 +28,7 @@ It sits in [[Orenbren]]'s lodging-country — civic beds within a week's walk of
 
 **Leftover job on this street: devotion** — the extra mile as civic season. The loft still sleeps necessity and, rarely, prestige; Thilim can tell who is which. They will not always tell you. Do not make all three the house's *theme.* The White Note sells the First-Hand year. This house makes the bed.
 
-Lestrand calls this a bed-house that failed to become a bank. Thilim asks which mouths will be here at dark. Both are telling the truth they have.
+The Ledger Coast calls this a bed-house that failed to become a bank. Thilim asks which mouths will be here at dark. One description prices the building; the other decides whether supper is enough.
 
 ## Site
 

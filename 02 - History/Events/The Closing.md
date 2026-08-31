@@ -107,7 +107,7 @@ Hildal cannot afford to see that "we have always struck heir" is the sitting, co
 - **[[Orenbren]] federates from hearths that would not starve.** The guest-compact with the Close starts here: beds outside, Book inside. They share a country. They do not share a page.
 - **The First Seat does not capture the grove as a throne.** It captures the copy-right. That was already traced. The Closing is why a college could sit *beside* a sitting that had left.
 - **Maiethorn's later six are successors, not ancient kingdoms.** Gift, reckoning, hinge, thaw, dry sowing, and lodging inherit a wreck. [[The Two Papers]] splits the hymn-country twenty-nine summers later.
-- **R2, in the past tense.** Spreading Trees did not make the origin kind. They relocated who decides the next door.
+- **The monopoly changed hands.** Spreading Trees relocated who decides the next door.
 
 ## GM Notes (what actually happened)
 

@@ -39,7 +39,7 @@ Seed `20260831`. Mid-picks: *the Old Crossing · the Rain-Wall / the Thaw-Wall �
 
 ## The Old Crossing
 
-The oldest trade route in the world. Narrow enough that a fair-weather hull does it in a handful of days; busy enough that a late storm in Hale-month is still a Kept child. [[Eolstrand]] is the Motherland face. [[Orentel]] is the Shore-lands face. The Salt Walk was this water, then the Near Mile.
+The oldest trade route in the world. Narrow enough that a fair-weather hull does it in a handful of days; busy enough that a late storm in Hale-month is still a Kept child. [[The Hinge Shore]] is the Motherland face. [[Orentel]] is the Shore-lands face. The Salt Walk was this water, then the Near Mile.
 
 It is not "inner" because a cartographer said so. It is **old** and **close**. The two continents are the Old World pair because this water made them one argument.
 
@@ -126,9 +126,9 @@ The three walks, converted:
 | Thaeloren | [[The Third Hearth]] | Near Mile | **3 days** |
 | Third Hearth | Brenthael | Near Mile | **1 day** further out |
 | Thaeloren | [[The Low Wall]] | off the present Mile | **1–2 days** (not inside the Close) |
-| Thaeloren | [[Eolstrand]] quays | Core-thaw and the west-road | **8–12 days** |
+| Thaeloren | [[The Hinge Shore]] quays | Core-thaw and the west-road | **8–12 days** |
 | Thaeloren | [[Ornsael]] | west-road over the Shelf-gate (or the Noon Pass, if you like a water-line) | **10–14 days** |
-| Eolstrand quay | [[Orentel]] | Old Crossing | **3–5 days' sail** |
+| Hinge Shore quay | [[Orentel]] | Old Crossing | **3–5 days' sail** |
 | Orentel | [[Trenledd]] interior | Chart-run | **4–8 days** |
 | Orentel | [[Netstrand]] west quays | coasting | **8–14 days** |
 | Netstrand | Heskoren frontier coast | West Water | **2–4 weeks** |
@@ -141,9 +141,9 @@ A Hale-month storm on the Old Crossing can turn a Salt Walk into a missed year. 
 
 ## The remnant stays where the sitting was
 
-The surviving Kept regime is **not** a sixteenth flag and **not** a replacement of [[Eolstrand]].
+The surviving Kept regime is **not** a sixteenth flag and **not** a replacement of [[The Hinge Shore]].
 
-The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retreat closed walls **one day's walk from the Motherwood**, inside [[Orenbren]] lodging-country. That is the [[The Walled Book|Inner Close]]. A shore-flag cannot carry a remnant that sat the *grove*. Eolstrand is the hinge of a different war ([[The Hinge Hush]]). Leave both jobs where they are.
+The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retreat closed walls **one day's walk from the Motherwood**, inside [[Orenbren]] lodging-country. That is the [[The Walled Book|Inner Close]]. A shore-flag cannot carry a remnant that sat the *grove*. The Hinge Shore is the hinge of a different war ([[The Hinge Hush]]). Leave both jobs where they are.
 
 ## Links
 - [[The Known Map]] — the labelled picture · [[The World Frame]] — the reach-gradient
@@ -151,7 +151,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[Powers of the Turning]] · [[The Walking Years]] · [[The Other Count]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
 - [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
-- [[The Walled Book]] · [[Orenbren]] · [[Eolstrand]] · [[Lirorn]] · [[Netstrand]]
+- [[The Walled Book]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
 - [[01 - World]] · [[Roadmap]] (Story R.10)
 
 ## GM Notes
@@ -159,6 +159,6 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 
 - **Names are handles, not a new cosmology.** The reach-gradient is still the load-bearing map. Distances make the walks expensive; they do not confirm a mind.
 - **Kumbaan never.** Align every later sentence with [[The First Cut]]: wrecked pots allowed; a taking is not.
-- **Inner Close stays in Orenbren.** The geography pass is closed. Do not promote. Do not move the Book to the Hinge-Shore to tidy a stub.
+- **Inner Close stays in Orenbren.** The geography pass is closed. Do not promote. Do not move the Book to the Hinge Shore to tidy a stub.
 - **The Core-thaw's loud week is already Maiethlir's inscrutable.** Do not explain it here.
 - **Hooks.** A Hush-rate on a necessity-family; a Shelf-gate closed in Liren; a Rise-water cup the Seat will not name; a Chart-run delay that makes a Grey-verso due; a Well-wash year that looks like Clock 2 at the origin.

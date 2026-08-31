@@ -17,9 +17,9 @@ updated: 2026-08-30
 
 # Lirorn
 
-> **The Thaw-Land.** *(leer-ORN · [[The Old Tongue|lir]] "thaw; water that runs again" + [[The Old Tongue|orn]] "land" = "thaw-land.")* Conservative drift. Everyday *the Thaw-Land*; they call the range **the Thaw-Wall**. Lowlanders say **[[Named Ground|the Rain-Wall]]**. Theology mid · reach high · governance **mid**. Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10. Do not flesh districts. Do not make a Tengu empire. Do not make a Fox-of-the-Snows kingdom.
+> **The Thaw-Land.** *(formal *Lirorn*, LIR-orn · [[The Old Tongue|lir]] "thaw; water that runs again" + [[The Old Tongue|orn]] "land.")* They call the range **the Thaw-Wall**; lowlanders say **[[Named Ground|the Rain-Wall]]**. Theology mid · reach high · governance **mid**.
 
-> **Canon status.** 🟡 **Named stub, sharpened.** Seed `20260827` (name) · terrain `20260831`. Everyday *Lirorn*; people **Lirorn-folk**. Not *Liren* (a month). Not *Ornthael*. The range divides Maiethorn's waters; the name is the snowmelt, not the Tree.
+People say **the Thaw-Land** and **Thaw-folk**. Charters and learned maps write *Lirorn*.
 
 ## Overview (public)
 
@@ -44,7 +44,7 @@ Keep the passes and the spring. Be paid for water the core calls a gift. Stay un
 ## GM Notes
 
 - **Not a watershed with a toll as the only sentence.** The job is *last year's snow as this year's civic year.* Maiethlir is downstream. Saelthael's west-road crosses the Shelf-gate. Close either and Clock 2 shows on the Motherland.
-- **Hearths, not nations.** Tengu densest. Snows-Fox densest. The interesting PC is a human or Selkie of Lirorn, or a Tengu of Eolstrand.
+- **Hearths, not nations.** Tengu densest. Snows-Fox densest. The interesting PC is a human or Selkie of the Thaw-Land, or a Tengu of [[The Hinge Shore]].
 - **Do not invent Kind-only orders.** A wing-post is a job.
 - **Hooks.** A thaw delayed; a Noon Pass stone children rub; Break-rate in a kind year; Threnmaieth tablets at the Shelf-gate; Vehaela wanting an uncounted loft off thin snow; a sky-courier strip that says *this is not a row.*
 

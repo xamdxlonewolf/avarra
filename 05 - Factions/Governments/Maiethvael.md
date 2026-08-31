@@ -17,9 +17,9 @@ updated: 2026-08-30
 
 # Maiethvael
 
-> **The Gift-Realm.** *(my-ETH-vayl · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift" = "the Mother's Gift.")* Conservative drift: *th* kept. The un-built **warm rich core** — theology high · reach high · governance **low**. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not name a capital. Do not make this the kind foil to [[Polity Archetypes|Threnmaieth]].
+> **The Gift-Realm.** *(formal *Maiethvael*, MAI-eth-vael · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift.")* Conservative drift. The un-built **warm rich core** — theology high · reach high · governance **low**.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Maiethvael*; people **Maiethvael-folk**. Not *Threnmaieth* (the Mother's Reckoning). Not *Vaelhael* (unused). Not *Maiethael* (too close to the Tree).
+People say **the Gift-Realm** and **Gift-folk**. Charters and learned maps write *Maiethvael*.
 
 ## Overview (public)
 
@@ -43,7 +43,7 @@ Keep the gift hale without writing the gifted down. Furnish generously. Pity the
 
 ## GM Notes
 
-- **Not the good kingdom.** The R2 guard is the point of building this corner. Confirming the Mother is kind does not make congregation-welfare fair.
+- **Not the good kingdom.** Congregation-welfare can still price belonging through piety.
 - **Name-pair with Threnmaieth.** Same *maieth*; gift vs reckoning. A scholar may notice. Do not gloss it.
 - **Hooks.** A Kept child in full-reach plenty; a Tithe-poor household that left the hymn and lost the green; Threnmaieth clerks who want this realm *named* to the roll; a Watcher family and a Motherfaith guild sharing a Tree and not a list.
 

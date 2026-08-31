@@ -33,7 +33,7 @@ This also mirrors the [[The Old Tongue|language]]: the [[The Old Tongue|Old Tong
 
 | # | Continent | Reach | Role | Named powers here | Rival-faith seed |
 |---|---|:---:|---|---|---|
-| **①** | **[[Maiethorn]]** *(the Motherland)* | ●●● full | The sacred origin; the Awakening Tree stands here | **[[Polity Archetypes|Threnmaieth]]** · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] | [[The Watching]] |
+| **①** | **[[Maiethorn]]** *(the Motherland)* | ●●● full | The sacred origin; the Awakening Tree stands here | **[[Polity Archetypes|Threnmaieth]]** · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[The Hinge Shore]] · [[Lirorn]] | [[The Watching]] |
 | **②** | **[[Strandoren]]** *(the Shore-lands)* | ●●○ high | The great trade continent, the world's crossroads | **[[Polity Archetypes|Lestrand]]** · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] | [[The Fair Hand]] |
 | **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] | [[The Old Ways]] |
 | **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(not a mainland power)* | [[The Open Table]] |

@@ -15,7 +15,7 @@ updated: 2026-08-30
 
 > **What this is.** Three worked **polity archetypes** for **The Turning**, built to *prove the universal social physics flex.* The three Epic-2 grammars — [[Law and Citizenship]], [[Economy and the Tithe]], [[Daily Life]] — are portable: they hold across all ~15 [[The Premise|great powers]] because they flow from the [[Turning Tree|Trees]] and the Conditions, which are locked and universal. But each of those notes ends with the same claim — that a polity's character is the **combination** of three *independent* axes it sets separately. This note makes that claim concrete by building **three polities at three different corners of that axis-space**, so you can watch the same laws, the same economy, and the same family life produce three genuinely different places. Built for [[Roadmap|Epic 2]] tail.
 
-> **✅ Now named in-world ([[The Old Tongue|naming pass]], 2026-08-21).** The three began as working labels (the Waiting Lands, the Ledger Coast, the Tallied Crown) and now have **in-world names** derived from the [[The Old Tongue|root tongue]] and each polity's daughter drift, so the name *sounds like* the stance: **Vaethorn** (the Waiting Lands), **Lestrand** (the Ledger Coast), **Threnmaieth** (the Tallied Crown). The English labels stay as plain-language aliases throughout this note for legibility. Institution names now live in [[Naming in the Turning]] (the working dictionary), still lightly held pending the wider Epic 4 language work.
+> **Names at the table.** Say **the Waiting Lands**, **the Ledger Coast**, and **the Tallied Crown**. Charters, rites, and learned maps write *Vaethorn, Lestrand,* and *Threnmaieth*. The written forms still encode each polity's drift; the spoken handles keep the three corners distinct in play.
 
 ## The three axes (recap)
 
@@ -33,9 +33,9 @@ Three corners, chosen so that **each pair shares exactly one axis and differs on
 
 | Name *(working label)* | **Theology** | **Reach** | **Governance** | The one-line feel |
 |---|:---:|:---:|:---:|---|
-| **Vaethorn** *(the Waiting Lands)* | ● high | ○ low | ○ low | Ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge |
-| **Lestrand** *(the Ledger Coast)* | ○ low | ● high | ○ low | Faith worn lightly, dense Trees, guilds not crowns — a rich, cool, transactional merchant power |
-| **Threnmaieth** *(the Tallied Crown)* | ● high | ● high | ● high | Sacred *and* surveilled — a wealthy, pious core where the census is a holy duty (the darkest corner) |
+| **the Waiting Lands** *(written Vaethorn)* | ● high | ○ low | ○ low | Ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge |
+| **the Ledger Coast** *(written Lestrand)* | ○ low | ● high | ○ low | Faith worn lightly, dense Trees, guilds not crowns — a rich, cool, transactional merchant power |
+| **the Tallied Crown** *(written Threnmaieth)* | ● high | ● high | ● high | Sacred *and* surveilled — a wealthy, pious core where the census is a holy duty (the darkest corner) |
 
 - **Waiting Lands ∩ Ledger Coast** share **low governance** → same light-touch state, opposite everything else: warm-poor-faithful vs. rich-cool-secular. *Governance held constant; theology and reach swing.*
 - **Waiting Lands ∩ Tallied Crown** share **high theology** → same ardent faith, wildly different circumstances: devotion at the starving edge vs. devotion in the sanctified, watched core. *Theology held constant; reach and governance swing.*
@@ -45,9 +45,9 @@ Three more corners were left un-built in this note (a secular frontier, a devout
 
 ---
 
-## Vaethorn — the Waiting Lands
+## The Waiting Lands *(Vaethorn)*
 
-*(vay-THORN · theology **high** · reach **low** · governance **low**)*
+*(formal VAETH-orn; spoken Wetorn · theology **high** · reach **low** · governance **low**)*
 
 A broad, thinly-peopled land at the world's Tree-poor margin, where the faith burns hottest precisely *because* the Trees are scarce — and where the ruling mood is *waiting*: for a graft to take, for a distant [[Turning Tree|Tree]] to be reached, for a gift that may never fall. This is the **Frontier touchstone with the theology knob turned all the way up** — and the combination is not a contradiction, it's a feedback loop: where the Trees are few and young, more children come away [[Law and Citizenship|Kept]], more people are [[The Premise|Struck]] later and alone, and the [[The Leaf-Mother|Motherfaith]] answers that scarcity not with less devotion but with *more* — pilgrimage, longing, and a theology built around waiting for a gift that may not come.
 
@@ -59,15 +59,15 @@ A broad, thinly-peopled land at the world's Tree-poor margin, where the faith bu
 
 **Its injustice** *(the soft-frontier blend).* Not a boot — a **guilt**. The scarcity of the gift becomes a theology of *unworthiness*: the Kept wonder what they lacked, the Struck wonder why the Mother came to them at the wrong door and alone, and a hard, quiet piety can shade into treating want as a spiritual failing. The Waiting Lands are the kindest place in the world to a whole neighbour and the loneliest to an unvouched one.
 
-**The seat.** [[Eolvaeth]] *(ay-ohl-VAYTH)* — a pilgrim-edge vale behind the Strandoren-facing coast. People walk *here to wait*. The Tree is not a certainty. Not [[Harrow's Green]], not the three hamlets, not [[Saelvaeth]]'s march.
+**The seat.** [[Eolvaeth]] *(EOL-vaeth)* — a pilgrim-edge vale behind the Strandoren-facing coast. People walk *here to wait*. The Tree is not a certainty. Not [[Harrow's Green]], not the three hamlets, not [[Saelvaeth]]'s march.
 
 **What they remember.** The wave arrived late ([[The First Cut]]). [[The Hinge Hush]] says they may bless a Heskoren landing and may not levy it as a gospel-due. [[Ornled]] has no hymn; [[Saelvaeth]] may take a pot without their waiting-price. The guilt-theology wants both unworthy. History does not agree. Chronicle: [[The Other Count]].
 
 ---
 
-## Lestrand — the Ledger Coast
+## The Ledger Coast *(Lestrand)*
 
-*(leh-STRAND · theology **low** · reach **high** · governance **low**)*
+*(LES-trand · theology **low** · reach **high** · governance **low**)*
 
 A dense, Tree-rich merchant power — think the Bruges/Florence surface of the [[The Premise|register]] taken to its logical end — where the [[Turning Tree|Trees]] are mature and many, the Given are dense, and the faith is worn *lightly.* This is the **secular Tree-rich merchant republic** the three grammars keep naming as a corner: deep markets, thin welfare, and a cool, transactional read on the whole business of becoming. It shares the **Waiting Lands' light-touch governance** — no crown writes anyone down — but where the Lands' light state leaves a *gap the faith fills*, the Coast's light state leaves a *space the guilds fill,* completely.
 
@@ -79,15 +79,15 @@ A dense, Tree-rich merchant power — think the Bruges/Florence surface of the [
 
 **Its injustice** *(the market blend).* The coolest of the three. Nothing is *policed* — your marriage, your gift, your faith are your own — but everything is *priced*, and a person who cannot pay slides with a whole rich city stepping around them. The Coast will never file you or conscript you. It will simply let you fade if you run out of coin, and feel that it owed you nothing.
 
-**The seat.** [[Orentel]] *(or-EN-tel)* — a salt-quay city on [[Named Ground|the Old Crossing]]. [[The White Note House]] sits on the third quay, north side, and is not the crown.
+**The seat.** [[Orentel]] *(OREN-tel)* — a salt-quay city on [[Named Ground|the Old Crossing]]. [[The White Note House]] sits on the third quay, north side, and is not the crown.
 
 **What they remember.** Salt-Walk paper that outlived the Closed Seat's gate. Notes that outlived [[The Grey Summer]]. [[The Hinge Hush]] (Sirtol among other throats) is the rate the first quay still charges. [[Brenledd]] piled a compact rather than be priced one hearth at a time. The White Note is a mouth, not this polity. Chronicle: [[The Other Count]].
 
 ---
 
-## Threnmaieth — the Tallied Crown
+## The Tallied Crown *(Threnmaieth)*
 
-*(THREN-my-eth · theology **high** · reach **high** · governance **high** — the darkest corner)*
+*(THREN-mai-eth · theology **high** · reach **high** · governance **high** — the darkest corner)*
 
 The mix the three grammars each name as the scariest: **a pious, Tree-rich core kingdom that is also [[Law and Citizenship|Watchful]].** Take the [[Law and Citizenship|Watchful touchstone]] — the one aberrant crown that breaks the world's norm and keeps *a census of persons and their Conditions* — and set it in the wealthiest, most devout, most Tree-dense land, and you get surveillance not as a nervous king's paranoia but as **sanctified duty**: the roster is kept because the Mother's gifts are precious and must be *accounted for.* This is what makes it the darkest of the three — the other two have injustices you can name and resent; this one dresses its injustice in the two things the world most trusts, faith and plenty.
 
@@ -99,7 +99,7 @@ The mix the three grammars each name as the scariest: **a pious, Tree-rich core 
 
 **Its injustice** *(the sanctified-surveillance blend).* The worst of both the high knobs, each excusing the other. The devotion sanctifies the surveillance (*it is reverence to be counted*), and the surveillance enforces the devotion (*to refuse the count is impiety*). There is no clean villain and no cackling tyrant — only a wealthy, faithful, orderly people who genuinely believe that accounting for the Mother's gifts is the highest form of tending them, and a machinery of control that this belief makes almost impossible to resist. It reads as chilling **precisely because no other polity keeps such a list** — the creepy record is this one crown's invention, and the faith is what lets it feel like grace.
 
-**The seat.** [[Maiethlir]] *(my-eth-LEER)* — a [[Named Ground|Core-thaw]] Hand in the Sacred Core. The extra mile is the leftover; the [[Naming in the Turning|Threnhael]] is the layer. Does not own [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood beside.
+**The seat.** [[Maiethlir]] *(MAI-eth-lir)* — a [[Named Ground|Core-thaw]] Hand in the Sacred Core. The extra mile is the leftover; the [[Naming in the Turning|Threnhael]] is the layer. Does not own [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood beside.
 
 **What they remember.** [[The Two Papers]] (C.Y. 67): Limrae's desk, the year the reckoning stood. Crown-count starts there; present **Crown-year 320**. [[Maiethvael]] is the cousin who would not be named. The [[The Walled Book|Inner Close]] is the other list — rank, not care — and will not share ink. Chronicle: [[The Other Count]].
 
@@ -109,7 +109,7 @@ The mix the three grammars each name as the scariest: **a pious, Tree-rich core 
 
 - **The axes really are independent.** The Waiting Lands and the Tallied Crown are both ardently devout, and could not be more different (a starving, stateless edge vs. a sanctified, surveilled core). The Waiting Lands and the Ledger Coast are both lightly governed, and could not be more different (warm faith fills the gap vs. cool markets fill the gap). The Ledger Coast and the Tallied Crown are both rich and Tree-dense, and spend that wealth in opposite directions (free markets vs. a holy panopticon). **No two of them are "the same country with the dial nudged"** — which is the proof that a short menu of country-types was the wrong model.
 - **Theology is not a moral axis.** High-theology produces both the *kindest* corner to a whole neighbour (the Waiting Lands) and the *most inescapable* control in the world (the Tallied Crown). Devotion is a multiplier on whatever else the polity is, not a virtue or a vice by itself.
-- **The keystone friction survives every corner.** Warm faith, free markets, or sanctified order — in all three, the [[Is the Leaf-Mother Real|R2 guard]] holds: the injustice is *social*, built by people on top of real gifts, and no reveal about the Mother dissolves it. (See GM Notes.)
+- **Each corner owns its injustice.** Warm faith, free markets, and sanctified order produce different harms through different institutions. (See GM Notes.)
 - **This *was* the naming pass's raw material — and the pass is now done.** These three worked corners unlocked the [[The Old Tongue|in-world naming pass]] (2026-08-21): the three are named (Vaethorn · Lestrand · Threnmaieth), and every placeholder institution (venting-hall, ranging-commons, the census, vouching) now has a common-tongue name + three stance-variants in [[Naming in the Turning]] — because *what a polity calls a thing reveals its stance* (a devout land's "gift-hall" is a surveillance-crown's "counted hall").
 
 ## Links
@@ -124,7 +124,7 @@ The mix the three grammars each name as the scariest: **a pious, Tree-rich core 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **R2 social guard — the whole point of building three corners is that the injustice is *structural*, not local.** Per [[Is the Leaf-Mother Real|the keystone]], the Leaf-Mother's benevolence is **cosmological, not social.** She authored real gifts; she authored *none* of these three societies. The Waiting Lands' guilt-theology of unworthiness, the Ledger Coast's let-the-poor-fade market, the Tallied Crown's sanctified census — three completely different injustices, all built by *people* on top of the same true gifts. If the campaign ever confirms she is real and kind, that must **not** make *any* of these three fair. The set is deliberately designed so that no single "the Mother is good" reveal could launder them, because they don't share a mechanism of injustice — they share only that people built them. Protect that gap in all three; it's where the play is, everywhere.
+- **Three mechanisms, not one reskinned harm.** The Waiting Lands use guilt, the Ledger Coast uses price, and the Tallied Crown uses sanctified surveillance. Keep those mechanisms independent.
 - **The reach-edge cause stays GM-side, in every corner.** The Waiting Lands' high Kept/Struck rates, the Ledger Coast's and Tallied Crown's dense Given, the core-vs-frontier medicine gap — all read in-world as plain distance-and-biology (the skeptics' whole case). The real reason — [[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]] — is the locked keystone edge and stays GM-side. Don't let a player-facing note assert the cause. The Waiting Lands are the sharpest test of this: they are the place where a devout population *most wants* an explanation for the thin gift, and where the wrong (true!) answer would land hardest.
 - **These are archetypes, not the whole named map.** Three of ~15 [[The Premise|great powers]], and deliberately three *corners*. The other twelve are now named-stubs in [[Powers of the Turning]] (Story 7.1). Use these as reference points to interpolate from. Seats of the three: [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] (Story 7.3).
 - **Naming unlock — done (2026-08-21).** The archetypes triggered the deferred naming pass, now complete: [[The Old Tongue]] (root liturgical tongue + three daughter drifts + the three polity names) and [[Naming in the Turning]] (the institution dictionary — common-tongue name + three stance-variants for each). The design lever landed as built: **the name a polity gives a shared institution reveals its stance** — the venting-hall is a "gift-hall" in Vaethorn, a "release-house" on Lestrand, and a "counted hall" in Threnmaieth. The other twelve powers named Story 7.1 → [[Powers of the Turning]] (same three drifts; no new grammars). Deep grammar still deferred.

@@ -21,7 +21,7 @@ updated: 2026-08-30
 
 > **Canon status.** 🟡 **Proposed** (the liturgical name, whether a ticket can be held as guild-property). 🔒 **Locked upstream:** the Stilled are the strictest licence; Given train young; Struck arrive raw (survived stone); the Gaze never seizes a will; Grey is burned off by exertion. Recruits by practice / office / Condition-lean, **not Kind**.
 
-*(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical, 🟡: **the Stelhael** — stel-HAYL — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* [[Polity Archetypes|Vaethorn]]'s second word is **blessing-surgeons**; [[Polity Archetypes|Lestrand]]'s is **ticket-surgeons**; [[Polity Archetypes|Threnmaieth]] files them as **crown-stillers**.)*
+*(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical, 🟡: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
 
 **In one sentence:** they will save you on the table, and they will make you drill until the Grey is gone — the ticket is competence, and the clock in the surgeon is the hospital's clock.
 
@@ -158,7 +158,7 @@ On its face: a college keeping its people hale, the code in a work-order. Undern
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: monster-police, medusa-cult, superhero registry. Rotate. Form stays surgeon's college (load-bearing). They want a street that does not seize and a patient who lives. They do not want a register of the feared.
-- **Moral parallax.** Distances: causal ("the yard is for their own good") and social (the raw Struck is not *our* apprentice). Engine: exchange — every theatre-hour is Grey someone must then burn — and inheritance — Given children inherit a drill the Struck never had. Comfort: the words *ticket* and *code*. R2: she did not write the roster.
+- **Moral parallax.** Distances: causal ("the yard is for their own good") and social (the raw Struck is not *our* apprentice). Engine: exchange — every theatre-hour is Grey someone must then burn — and inheritance — Given children inherit a drill the Struck never had. Comfort: the words *ticket* and *code*.
 - **The doorknob is inscrutable-enough.** It is also practical (a still knob is a tell). Do not turn it into a relic.
 - **Ticket-as-property is taste-open.** Proposed as Lestrand's live argument, not world-law. Do not let it become a census by another name.
 - **Do not clone Intake as a travelling stiller-circuit.** The underdog sits in the shed. Road-hands already walk.

@@ -82,7 +82,7 @@ Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a 
 >
 > *If you came from the ford, you are seen here. If you must be seen at home, take a mouth with you that was here. I will not walk it for you. I have a Tree.*
 
-Haelin cannot afford to see that "I have a Tree" is the luck the Seat already wrote, or that moving the stone is the Harrow-sentence said with a hammer. The hamlets will hear the notice as a slight even if it is only a crowd. Both are telling the truth they have.
+Haelin cannot afford to see that "I have a Tree" is the luck the Seat already wrote, or that moving the stone is the Harrow-sentence said with a hammer. The notice may be crowd control in the square and still arrive as a slight past the ford.
 
 ## GM Notes
 
@@ -91,7 +91,7 @@ Haelin cannot afford to see that "I have a Tree" is the luck the Seat already wr
 - **One leftover job.** Necessity. A ribbon on the stone is texture, not a second theme. A First-Hand-year household here is lost, rich, or lying.
 - **Host-rights.** A later cut from Harrow's, acting on the origin's behalf, still wants the meal if the ground is an old green.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let Haelin assert the mind. "The soil was right here" is horticulture.
-- **R2:** a pretty live-front town whose leftover is only picturesque launders the graves. Keep the hamlets visible from the square in at least one sightline.
+- **Keep the cost in sight.** A pretty live-front town whose leftover is only picturesque launders the graves. Keep the hamlets visible from the square in at least one sightline.
 - **Hooks.** The hamlets can see the canopy; a borrowed Turning whose witness has to walk home; the stone Haelin wants moved; a Road-hand sleeping here with a pot for someone else; a folk-right slip in a hamlet that took, and Harrow's warden asked to Speak it; a first meal a Road-hand ate or refused on the way through; the climbing-child from the fable, this year.
 
 ## Links

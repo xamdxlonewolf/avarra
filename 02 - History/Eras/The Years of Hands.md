@@ -17,7 +17,7 @@ updated: 2026-08-30
 
 # The Years of Hands
 
-> **Clock 1, new default — and the present. Not post-history.** A town [[Turning Tree]] is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical 🔒: **Ornthael** *(orn-THALE)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. How you used to walk: [[The Walking Years]]. How the wave moved: [[The First Cut]]. This note is what the Walking left on the ground, and what this year still is. Settlement types this leftover made: [[Settlement Seeds]].
+> **Clock 1, new default — and the present. Not post-history.** A town [[Turning Tree]] is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical 🔒: **Ornthael** *(ORN-thael)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. How you used to walk: [[The Walking Years]]. How the wave moved: [[The First Cut]]. This note is what the Walking left on the ground, and what this year still is. Settlement types this leftover made: [[Settlement Seeds]].
 
 > **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🔒 **Name and present C.Y. 387 locked 2026-08-24.** 🟡 **Lived texture (Story 6.4):** the walk's three jobs, mile-shrines and upper rooms now, road-past as credit, Heskoren as live front, fate-pressure noted not rolled. Names *the extra mile / the neighbour's week / the stone in the square / the upper room* are working coinages — polish later; do not rebuild the spine, the lived road, or the Cut.
 
@@ -125,7 +125,7 @@ Do not invent a second banking-order. Do not give novelty a new clergy. The long
 
 Necessity-families still sign the old kind of note: eat now, pay on the home-walk, or when the child is grown, or when a sibling walks next year. Same paper, two jobs. The clerk who files both as occupancy cannot afford to see the difference. Do not let all three Coast mouths claim they invented the winter.
 
-Vaethorn will preach that the houses *abandoned the waiting-road*. History's job is shorter: the walk stopped being required in the core, the memory did not, the paper outlived the season. That is a reformation, not a betrayal, and it still collects. R2: spreading Trees did not make the notes kind.
+Vaethorn will preach that the houses *abandoned the waiting-road*. History's job is shorter: the walk stopped being required in the core, the memory did not, the paper outlived the season. That is a reformation, not a betrayal, and it still collects.
 
 ## Heskoren as the live front
 
@@ -189,7 +189,7 @@ Do not design the three archetype capitals here. The Tree-at-the-centre grammar 
 >
 > *I do not ask which summer was holy. I ask which mouths will pay in Ledger-month. If the north bed is a grave, it is a grave that does not belong on a letting-slate.*
 
-Mataero cannot afford to see that "house custom" is the credit, or that letting the loft to wool is how a road-house finishes becoming a bank in front of a junior who needs the conversion to be competence. The founding-name they will not copy is the Held bed as a bank-token. Thilim, inland, still making the bed, is the other fate of the same origin. Both houses are telling the truth they have. The wool will still come due.
+Mataero cannot afford to see that "house custom" is the credit, or that letting the loft to wool is how a road-house finishes becoming a bank in front of a junior who needs the conversion to be competence. The founding-name they will not copy is the Held bed as a bank-token. Thilim, inland, still makes the bed. The wool will still come due.
 
 ## Folklore
 
@@ -206,7 +206,7 @@ Named powers wait on remaining stubs; districts of the three archetype seats wai
 ## GM Notes
 
 - **The present is not post-history.** Especially on Heskoren. Narrating Ornthael as "the modern age after the Grafting" re-creates the stacked-ages cliché the spine refused. Two clocks. The wave is live. A sick Tree in the core puts a Hands-town back on the neighbour's week; that is Clock 1 flipping, not an age ending.
-- **R2 still holds in the present tense.** Local Trees did not launder Tithe-leverage, Struck suspicion, or the pitied Kept. They changed *who is expected to have been seen at ten.* Deathless credit did not get kinder when the boots left. The queue is still people. Confirming she is kind does not make Mataero's loft fair, or the three hamlets less waiting.
+- **The boots left; the credit remained.** Local Trees changed who is expected to have been seen at ten. Mataero's loft and the three hamlets show the two different debts that survived.
 - **Keystone edge:** Hands-era density on Maiethorn and thinness on Heskoren is the map of a bounded reach. Player-facing, it is young/sick/few grafts, a queue, and leftover waiting in the Rain-Shadow. Keep the mind GM-side. Do not smuggle a cause of her limit into a stone or a bed.
 - **Fate-pressure — noted, not rolled.** `world-fates` as philosophy for play, not a collapse, not a proposal to apply:
 

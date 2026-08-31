@@ -89,7 +89,7 @@ On its face: a clerk being practical. Underneath: the product is *not paying yet
 ## GM Notes
 
 - **They think they are in a refinancing story.** Defaults: devil's advocates, soul-sellers, a night-clone of the Book-Hands. Rotate. Form stays clerk/creditor. Knowledge, goal, role do not: they want the book to continue. A Given-Over is a failed extension they will still file as competence.
-- **Moral parallax.** Distances: causal ("I kept them from the Pledge") and informational (the quay is glad not to see the stair). Engine: accumulation — each covering Term seems small. Comfort: the word *extension*. The town is complicit. R2: she did not build this desk. Orledd does not receive the spiral ([[Bound]]; [[The Other Hands]]).
+- **Moral parallax.** Distances: causal ("I kept them from the Pledge") and informational (the quay is glad not to see the stair). Engine: accumulation — each covering Term seems small. Comfort: the word *extension*. The town is complicit. Orledd does not receive the spiral ([[Bound]]; [[The Other Hands]]).
 - **Opposition can act.** They will push a person toward the Forfeit when the book requires it. They prefer a walking instrument. Preference is not a lock. A desperate hold-clerk will write the last Term.
 - **Not the Slide. Not the unused Back Table.** The Back Table stayed unused as a *Slide pick*. This is a later face for the pipeline the economy already named.
 - **Names.** Mutelo of the Lower Slip — seed `20260831`, eroded list, picked mid-bottom. Do not median-hop a "Cassian Vale."

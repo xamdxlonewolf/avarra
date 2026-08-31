@@ -20,12 +20,12 @@ foreshadowed_by:
   - "[[The Remainder]] — the desk that has the box"
 revealed_in:
 created: 2026-08-19
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Is the Leaf-Mother Real
 
-> **The keystone GM secret (LOCKED 2026-08-19; edge added 2026-08-20).** This is the canon-layer answer — *what is actually true*, regardless of what anyone in the world believes. Epic 1 (the Turning Tree & the Leaf-Mother religion) and the setting's theme all aim at this. It is decided, not fleshed: the one-line truth below is load-bearing; the texture grows around it. **Do not re-litigate.** *(2026-08-20 audit pass: the core answer — real & benevolent — is unchanged; a locked **constraint** was added, she is bounded and giving costs her, and an **R2 social guard** was added so her cosmic kindness never launders social injustice. See the design-intent notes.)*
+> **The keystone GM secret (LOCKED 2026-08-19; edge added 2026-08-20).** This is the canon-layer answer — *what is actually true*, regardless of what anyone in the world believes. Epic 1 (the Turning Tree & the Leaf-Mother religion) and the setting's theme all aim at this. It is decided, not fleshed: the one-line truth below is load-bearing; the texture grows around it. **Do not re-litigate.**
 
 ## The Secret (GM truth)
 
@@ -76,7 +76,7 @@ Use this when the square — or the people who matter to the party — *believe*
 - **Threnmaieth.** Tries to write her into the roll as a counted fact. Speakers who refuse become a problem. The college can still refuse the roll — keep that.
 - **The Watching is not promoted.** They will say *we told you there was a cost* and still will not say Mother. The warmth lands *through* them, not *as* them.
 - **The Kept.** Some will want the leaf to tell them which hug they were. It will not. The want is the wound. She still does not tell them apart.
-- **R2 holds.** No injustice dissolves. Tithe-leverage, the queue, the Grown-Over column, the rope, the week that will not end — none of these become kind because she is. The keystone answers *is anyone there, and do they mean well* (yes). It does not answer *is what people built around her fair* (often no).
+- **The social guard below still holds.** Confirmation changes belief, not the justice of the queue, the Grown-Over column, the rope, or the week that will not end.
 - **Household stays behind.** Do not let rung 6 dump [[The Other Hands]]. Pair that confirmation later, or never. Never first.
 - **Limit's nature stays open.** They know she spends. They do not know why.
 
@@ -96,7 +96,9 @@ If the Seat **buries** the leaf instead: business as usual; rungs 1–5 still wo
 - **The Tithes** are honest costs, not divine leverage — this reinforces the existing per-Condition rule that a Tithe never seizes the PC (see [[The Premise]]).
 - **The schism** stays a *good-faith* disagreement, and the constraint makes it *two-sided*: believers hold the hand, skeptics hold the edge, neither holds the whole. Better long-term fuel — no faction is secretly correct-and-evil, and no faction is simply wrong.
 - **The reach-edge feeds geography & the frontier.** The constraint predicts a real pattern for [[Roadmap|Epic 3]] (World Frame) and Epic 7 (Settlements): the giving *thins at the margins* — remote and Tree-poor places run higher on the Kept and the Struck. This is a gift to build with, not a retcon risk. Keep it consistent when placing the Awakening Tree and the frontier.
-- **Her benevolence is cosmological, not social — do NOT let it launder society (guard, R2).** The floor being sound at the *divine* layer does **not** make the *social* layer kind. People build genuinely unjust things *on top of* true gifts that she never authored and her kindness does not excuse: Struck stigma and legal suspicion, Tithe-infrastructure that becomes economic leverage over the Conditioned, guild conscription of the Given, communities that treat their Kept as spare labour or their feared Conditions (The Stilled, Bound) as things to be managed. **Keep these frictions REAL for [[Roadmap|Epic 2]] (Society) — they are not "misreadings of a kindness" to be dissolved by the reveal.** The keystone answers *is anyone there and do they mean well* (yes); it pointedly does **not** answer *is the society people built around her just* (often no). The moral tension of the setting lives in that gap — protect it.
+### Social guard: kindness does not launder injustice
+
+**Her benevolence is cosmological, not social.** The floor being sound at the *divine* layer does **not** make the *social* layer kind. People build genuinely unjust things *on top of* true gifts that she never authored and her kindness does not excuse: Struck stigma and legal suspicion, Tithe-infrastructure that becomes economic leverage over the Conditioned, guild conscription of the Given, communities that treat their Kept as spare labour or their feared Conditions as things to be managed. These are not misreadings that confirmation dissolves. The keystone answers *is anyone there and do they mean well* (yes); it does not answer *is the society people built around her just* (often no). This is the one authoritative statement of the social guard; other notes should show their particular injustice rather than repeat the formula.
 
 ## Links
 - [[The Premise]] — design hub (the Leaf-Mother section) · [[Build Plan]] · [[Roadmap]] (Epic 0 keystone task)

@@ -17,9 +17,9 @@ updated: 2026-08-30
 
 # Trenledd
 
-> **The Worn Count.** *(tren-LED · eroded [[The Old Tongue|thren]] "sacred counting" + [[The Old Tongue|ledd]] "to reckon.")* The liturgical reconstruction *Threnledd* is unused on purpose: they will not say the holy word. Theology **low** · reach **high** · governance **high**. The un-built **cold surveillance-state with no faith to sanctify it**. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not give them a Threnhael by another name without noticing the difference.
+> **The Worn Count.** *(formal *Trenledd*, TREN-ledd · eroded [[The Old Tongue|thren]] "sacred counting" + [[The Old Tongue|ledd]] "to reckon.")* Theology **low** · reach **high** · governance **high**. A cold surveillance-state with no faith to sanctify it.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Trenledd* or *the Trenled*; people **Trenled-folk**. They call the list **the roll** — Lestrand's word for a *tax* roll, here meaning persons. Not *Threnmaieth*. Not *Threnhael*. The erosion *is* the thesis.
+People say **the Worn Count** and **Count-folk**. Official records write *Trenledd*. They call the list **the roll** — the Ledger Coast's word for a tax roll, here meaning persons.
 
 ## Overview (public)
 
@@ -45,7 +45,7 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 
 ## GM Notes
 
-- **Colder, not kinder.** Removing the hymn does not launder the list. R2: she authored none of this.
+- **Colder, not kinder.** Removing the hymn does not make the list care for the people on it.
 - **Etymology tell.** *Thren* → *Tren* is GM-legible. Reserve noticing.
 - **Do not let them be "the Watchful" clone on the wrong continent without the independent-axes proof.** Same high-G as Threnmaieth, opposite theology, same high reach. The pair isolates theology: surveillance with and without sanctification.
 - **Hooks.** Steal a roll that is not called sacred; a family whose private Turning was ticketed; a Long-Lived clerk who remembers the column that was added; a Lestrand factor who will not enter because they do not wish to be written.

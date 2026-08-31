@@ -16,7 +16,7 @@ updated: 2026-08-24
 
 # Ornsael
 
-> **A Rain-Shadow walk-hold.** *(orn-SAYL · [[The Old Tongue|orn]] "land, ground" + [[The Old Tongue|sael]] "sowing" = "the sown-ground.")* Conservative drift: *th* is not in the name, and the holy sound is still in the mouths — they are the Motherland's dry east, still walking west after the core stopped. The new square for [[Roadmap|Story 7.2]] (`settlement-design` at square scale). Proves [[The Years of Hands|Ornthael]] is unfinished even at the origin-continent. Clock 2 is not "the frontier."
+> **A Rain-Shadow walk-hold.** *(ORN-sael · [[The Old Tongue|orn]] "land, ground" + [[The Old Tongue|sael]] "sowing" = "the sown-ground.")* They are the Motherland's dry east, still walking west after the core stopped. [[The Years of Hands|Ornthael]] is unfinished even on the origin-continent.
 
 > **Canon status.** 🟡 **Playable square.** Seed `20260828` (middle of the list; not *Saelthael*, not *Saelorn*, not *Saelhael*, not *Ornthael*). Everyday *Ornsael*; core travellers will try *the west-road well* and be corrected. **Not [[Saelthael]]'s capital** (the three corner seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). Not a Fox kingdom. Do not clone Road-hands or [[The Slide]] as a district.
 
@@ -44,7 +44,7 @@ No walls. The boundary is where the well's courtesy ends and the dust does not.
 
 - **The Tree at the well** — civic and sacred heart, as [[Daily Life]] requires, even when the wood is a maybe. Some years it Turns. Some years the colour is late, or thin, or the warden will not call a fall that isn't. A missed Eolthael still shuts the Given-door. Struck remains the later mercy. There is still no second-chance year.
 - **The west-road** — Clock 2 as a street. Mile-markers toward the pass; one stone still in the well-square because the town grew around a day's water, not around a finished Hand. Climbing-scuff. Ribbons pointed *west*, which core children find backwards.
-- **The well-market** — stalls in the morning shade. Fox-born densest in the crowd, not gated. A hearth-neighbourhood in the sense [[Kinds of the Turning]] allowed: a fox-market without the town *being* a Kind. Stock ancestries, a Tengu on a pass-errand, a Selkie who married in from Eolstrand and is dry and funny about it. Do not put ears on a flag.
+- **The well-market** — stalls in the morning shade. Fox-born densest in the crowd, not gated. A hearth-neighbourhood in the sense [[Kinds of the Turning]] allowed: a fox-market without the town *being* a Kind. Stock ancestries, a Tengu on a pass-errand, a Selkie who married in from [[The Hinge Shore]] and is dry and funny about it. Do not put ears on a flag.
 - **The greens** — potted, hauled, argued over. No lush lot. The greens-keepers' liturgy does not run a chapter here; a cousin of the craft might winter. They will not follow you home, and home is dust if they did.
 - **The ranging** — dry hills, night-work, Two-Bodied who know the difference between a sand-fox and a Fox. At the edge, not a quarter.
 - **The far shed** — Returned work downwind of the well, because you do not put the dead on the drink. No infirmary. A travelling stiller is a pass-story.
@@ -88,7 +88,7 @@ The lath cannot afford to see that the core's shock is the setting working, or t
 - **Pair with [[Saelvaeth]] / [[Harrow's Green]].** Same sowing-root, two continents, both present tense. A party that has only seen Heskoren waiting should meet this well and have to recalibrate. A party that has only seen the Sacred Core should meet the west-road and lose the stacked-age.
 - **One leftover job.** Necessity. A core pilgrim's hymn is friction, not a second theme.
 - **Keystone:** thin take in dry soil stays horticulture in player text. Do not let the well assert the mind. Do not import Vaethorn's sermon as GM voice.
-- **R2:** plenty next door does not make the leftover kind. Confirming she is kind does not retire the west-road.
+- **The west-road remains necessary.** Plenty next door does not shorten it.
 - **Do not make Ornsael the capital of Saelthael.** Named square. Seat unnamed.
 - **Hooks.** A west-road cohort; a well-graft that sickens; a core pilgrim shocked to find the neighbour's week *on Maiethorn*; a Sands-Fox warden asked if this is fox-country; sand in a shoe; Threnmaieth naming the well on a roll the town will not use; a Taken-In planting that is the only green for a day's walk; a missed fall and no second-chance year; pairing a session with Harrow's so both clocks are visible in one campaign week.
 

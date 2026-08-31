@@ -124,7 +124,7 @@ On its face: two utilities being practical. Underneath: "we do not know" is the 
 - **Bureaucratic voice is the point of this rewrite.** Forms, hours, *enough*. They think they are in a wells-and-yards story.
 - **Greens and halls folded.** Recovered effort goes to named instruments and lived shadow faces, not two more identical slates. Keep the buried leaf and the unswept bench as inscrutable texture.
 - **Unlock vs the Slide.** The audit's "pretend not to know" is no longer a lock. The town is still glad. The doors can now meet on-screen. A public wilt or Cry caused by a closed official door is the escalation.
-- **Moral parallax.** Distances: informational and causal. Engine: accumulation — every closed gate feeds a week-book. Comfort: *share*, *hour*, *ticket*, *enough*. R2: she gave the Tithe; she did not build the lot.
+- **Moral parallax.** Distances: informational and causal. Engine: accumulation — every closed gate feeds a week-book. Comfort: *share*, *hour*, *ticket*, *enough*.
 - **Not a fifth faith.** No colour, no blessing except Vaethorn's courtesy-words over a share. Not a census: a bed-list is plants, a hall-slate is hours, a guild-roll is practitioners of a dangerous art. The ticketable pool is not a supervised third of the world. The one kingdom that writes *persons and gifts* is still only [[Polity Archetypes|Threnmaieth]]. Not the Road-hands. Not the four houses' travelling edges.
 - **Do not clone.** Intake is the underdog. Road-hands already walk. The four houses keep their own injustices. Long-houses stay deathless patronage.
 - **No Kind-gate. No Kumbaan export. No Furnishing pope.**

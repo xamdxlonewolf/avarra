@@ -36,7 +36,7 @@ The Other Count does not replace that. It sits *beside* it. A clerk who only wri
 | **C.Y. 233** | **[[The Thaw-Break]]** | natural | [[Lirorn]] snowmelt in one week on [[Named Ground\|the Rain-Wall]]. Noon Pass lost; Shelf-gate taken. West-road cut two summers. An [[Ornled]] waited-graft died, and a gospel was refused. |
 | **C.Y. 248** | **[[The Wrong Green]]** | Tree / civic *(already written)* | A hug Speaked as copper-green. Human wound. Not one of the five non-Tree years; kept on this table so a GM does not invent a second Harrow. |
 | **C.Y. 280** | **Ledan's query** | archival dating | [[The White Note House]] in its 200th summer. Re-dated from a false present header. Ledan is [[Long-Lived]]; the conversion is still the house's habit. Present house-year **307**. |
-| **C.Y. 299–304** | **the Hinge War** → **[[The Hinge Hush]]** | inter-power / treaty | [[Eolstrand]] and [[Polity Archetypes\|Lestrand]] over hinge-tolls. The hush is the current Old Crossing peace, with a West Water clause [[Netstrand]] still quotes. |
+| **C.Y. 299–304** | **the Hinge War** → **[[The Hinge Hush]]** | inter-power / treaty | [[The Hinge Shore]] and [[Polity Archetypes\|the Ledger Coast]] over hinge-tolls. The hush is the current Old Crossing peace, with a West Water clause [[Netstrand]] still quotes. |
 
 Present remains **C.Y. 387**. Do not slide it.
 
@@ -61,7 +61,7 @@ Borders, guest-compacts, crown-counts, and hull-clauses have *causes* now. They 
 - Three dates on a debt, and a *fourth* if the note survived the Grey Summer: Cut-year, house-year, graft-year, and "the summer after the fever."
 - A kitchen that still will not send a child through the Inner Close's gate, and cannot say whether the fear is the Book or the older sitting.
 - A Lirorn pass-stone with a water-line over the old ribbon-notch.
-- An Eolstrand quay that charges the Hush-rate and will not call it a victory.
+- A Hinge Shore quay that charges the Hush-rate and will not call it a victory.
 - A Watching night on a ring of stones that is older than any Cut-year anyone will write.
 
 ## In-world text
@@ -76,7 +76,7 @@ The clerk cannot afford to see that "171 is not a Cut we honor" is how a fever b
 
 - **Who cut.** Five attributions stand ([[The First Cut]]). The Closing is about the *copy*, not the knife.
 - **The nature of her limit.** A war over access is people. It is not a wound-theory.
-- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[Eolstrand]].
+- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[The Hinge Shore]].
 - **Named terrain.** ✅ Story R.10 → [[Named Ground]] (the Old Crossing · the Rain-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash).
 - **Adventure-site procedure.** The three leftovers have doors and arguments. Entrances, pressures, and current actors at dungeon-depth wait on [[Roadmap|Story R.11]].
 
@@ -92,7 +92,7 @@ The clerk cannot afford to see that "171 is not a Cut we honor" is how a fever b
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Two clocks + a chronicle.** If play starts treating C.Y. numbers as a fourth age, pull back to Clock 1 / Clock 2. The Other Count is *what happened while the wood travelled*, not a replacement spine.
-- **The Closed Seat is not a dark lord and not a first king.** They rationed the one seeing. The Seat later rationed wood. The Close still ranks. Confirming she is kind launders none of the four papers. That is the one R2 sentence this pass needs.
+- **The Closed Seat is not a dark lord and not a first king.** They rationed the one seeing. The Seat later rationed wood. The Close still ranks. Four different papers preserve four human choices.
 - **Do not date the leftovers.** A party may dig. They may not be handed a year that starts the Tree.
 - **Hildal, Limrae, Manril, Dirrol, Nidtol, Narol, Vathne, Taerso, Sirtol, Tithsael** are working mouths (seed `20260830`, mid-list, reshaped to the person-register). Polish later. Do not promote them to a court.
 - **Fate-shifts already in the past (not proposals).** Closed Seat → remnant Close (fall). Hymn-country → two papers (schism). Quay-fever → Trenledd roll and Brenledd compact (institutional adaptation). Thaw-tolls → new pass-holder (reformation). Hinge War → Hush (absorption of a fight into a rate). Do not collapse any present power here.

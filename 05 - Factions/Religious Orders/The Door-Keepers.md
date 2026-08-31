@@ -21,7 +21,7 @@ updated: 2026-08-30
 
 > **Canon status.** 🟡 **Proposed** (the liturgical name, whether door-keeper and Kin-speaker are two jobs or one mouth). 🔒 **Locked upstream:** door-keepers exist; they know the old doors; they stand for the Struck; grafts are guests; they recruit by faith / practice / Condition-lean, never by [[Kinds of the Turning|Kind]]; they are not a Kind-nation of the Taken-In.
 
-*(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical, 🟡: **the Vaelbren** — VAYL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* [[Polity Archetypes|Vaethorn]]'s second word is **the door-folk** (or *Before-speakers* when the fight is hot); [[Polity Archetypes|Lestrand]]'s is **grove-talkers** (a frontier curiosity); [[Polity Archetypes|Threnmaieth]] files them with the house as **the Unreached**.)*
+*(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical, 🟡: **the Vaelbren** — VAEL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* The Waiting Lands say **the door-folk**; the Ledger Coast says **grove-talkers**; the Tallied Crown files them as **the Unreached**.)*
 
 **In one sentence:** they are the person three valleys walk to when someone needs to know which drowning-pool still returns, which grove still takes people in — and the mouth that names a Struck *kin* at the door that made them, instead of walking them to a Tree to be filed as late.
 
@@ -171,7 +171,7 @@ On its face: frontier courtesy, a little barbed — the drowning-stone saying re
 
 - **Half-right at the edge, now wearing a walking-stick.** Per [[The Other Hands]] the land-doors are real (*Vaelorn*, *Ornhael*, *Eloren*) and she does not walk them herself — she authorizes them. Keep their grievance real. Keep their miss intact: the guests came with her leave. Name collision: **Vaelbren** (this house) is not **Vaelorn** (the Taking). If you swap the coinage, do not land on a lesser Hand.
 - **Ancestor-meals are not the Returned.** The dead in the ground are kin who remained. The Returned are a different door (*Threnvaeth*). Do not make Kin-speakers undeath-priests. The Returned already have a Condition and a Tithe.
-- **The injustice is host-rights and the unvouched, not a scion-queue.** Spatial + inheritance: the graft is late; the grandparents' doors still open; the Road-hand's leave and the door-keeper's meal are two honest claims on one wood. R2: Vaethorn's guilt-theology is the enemy. A closed door is weather. Do not let the keystone unsay that.
+- **The injustice is host-rights and the unvouched, not a scion-queue.** Spatial + inheritance: the graft is late; the grandparents' doors still open; the Road-hand's leave and the door-keeper's meal are two honest claims on one wood. Vaethorn's guilt-theology is the enemy. A closed door is weather.
 - **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no Cutting-leave desk. They walk doors; they do not deliver wood. If you need an underdog, do not invent graft-carrying Kin-speakers. The Road-hands already occupy that shape. The exposed edge here is standing for the Struck a town will not house — courtesy without a pillar.
 - **Taste still open (do not treat as locked).**
   1. **The name *Vaelbren.*** Everyday *door-keepers* / *Kin-speakers* is already in canon. Swap or drop. Not *Vaelorn*.

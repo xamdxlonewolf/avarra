@@ -17,21 +17,21 @@ updated: 2026-08-30
 
 # Vaelhesk
 
-> **The Far Yield.** *(VAYL-hesk · [[The Old Tongue|vael]] in the **older** sense, "what the land yields" + *hesk-* "far/outer edge" = "the far yield.")* Worn frontier coinage; *vael* kept because [[The Old Ways]] claim the Motherfaith *narrowed* it to "gift." Theology **mid** on the Motherfaith knob, high as Old Ways practice. Reach low · governance low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not make a Taken-In nation. Do not clone a second Harrow.
+> **The Far Yield.** *(formal *Vaelhesk*, VAEL-hesk · [[The Old Tongue|vael]] in the older sense, "what the land yields" + *hesk-* "far/outer edge.")* Worn frontier coinage. Theology **mid** on the Motherfaith knob, high as Old Ways practice. Reach low · governance low.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Vaelhesk*; people **Vaelhesk-folk** or **the Yield**. Not *Vaeloren* (the faith's own-name). Not *Vaelbren* (door-keepers' liturgy). Not *Vaelorn* (the Taking). Not *Vaethorn* (waiting-land). The fight with Vaethorn is in the first syllable: *vael* vs *vaeth*.
+People say **the Far Yield** and **the Yield**. Charters and learned maps write *Vaelhesk*. This keeps the spoken name clear of *Vaethorn*.
 
 ## Overview (public)
 
 Pre-graft host-lands on [[Heskoren]]: old greens, ancestor-doors, first meals. The Mother's wood is a **guest**. A Cutting-leave without the meal is a claiming. [[The Door-Keepers]] walk here as Kin-speakers; the land is the seat, not a college.
 
-Struck and [[The Taken-In]] are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose — the child is already the hill's. Vaethorn reads those children as Kept-for-want. Both families are telling the truth they have.
+Struck and [[The Taken-In]] are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose — the child is already the hill's. Vaethorn reads those children as Kept-for-want. That disagreement decides whether a child travels.
 
 **Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**. Play with the Door-Keepers. Do not clone [[Harrow's Green]].
 
 **How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200–387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal. [[The Thaw-Break]] moved wet guests to high doors. [[The Hinge Hush]] does not write them: a first meal is not a landing-due. Netstrand crews who skip it learn this without a treaty.
 
-**What they remember.** Host-rights older than a Cut-year. Vaethorn reads their children as Kept-for-want. Both families are telling the truth they have. Chronicle: [[The Other Count]].
+**What they remember.** Host-rights older than a Cut-year; a waiting-gospel that called refusal deprivation. Chronicle: [[The Other Count]].
 
 ## Structure & Membership
 

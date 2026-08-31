@@ -17,9 +17,9 @@ updated: 2026-08-30
 
 # Saelvaeth
 
-> **The Sown Waiting.** *(sayl-VAYTH · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|vaeth]] "the waiting" = "sowing into the waiting.")* Worn drift: *th* kept — they still reach for the holy words because the wave is *here*. Theology mid-high · reach low · governance mid-low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. **[[Harrow's Green]] sits in its orbit, not as a capital.** Do not give this march the next scion as a reward.
+> **The Sown Waiting.** *(formal *Saelvaeth*, SAEL-vaeth · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|vaeth]] "the waiting.")* Worn drift. Theology mid-high · reach low · governance mid-low. [[Harrow's Green]] sits in its orbit, not as a capital.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Saelvaeth*; people **Saelvaeth-folk**. Not *Vaethorn* (waiting-*land*). Not *Saelthael* (the Rain-Shadow's sown *Tree*). Not *Saelorn* (a month). Shares *sael* with Saelthael on purpose: planting on two continents. Playable squares in orbit: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] (Story 7.2). Still not a capital. [[Eolvaeth]] is [[Polity Archetypes|Vaethorn]]'s seat, not this march's.
+People say **the Sown Waiting** and **March-folk**. Charters and learned maps write *Saelvaeth*. The shared *sael* with [[Saelthael|the Sown Tree]] remains visible in writing; speech keeps them apart.
 
 ## Overview (public)
 

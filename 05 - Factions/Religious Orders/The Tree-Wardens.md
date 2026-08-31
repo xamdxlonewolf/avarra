@@ -21,7 +21,7 @@ updated: 2026-08-30
 
 > **Canon status.** 🟡 **Proposed** (names, offices, the skeptic-warden call — taste still open). 🔒 **Locked upstream:** tree-wardens exist; they tend the Tree, officiate the Leaf-Fall, and hold the authoritative colour-reading; grafts are cut by them; the faith's seat sits in the shadow of [[Turning Tree#The Awakening Tree|Thaeloren]]; orthopraxy-over-orthodoxy; recruits are not Kind-nations.
 
-*(Everyday, everywhere: **tree-wardens**, or just **wardens.** Liturgical: **the Orenhael** — or-EN-hayl — [[The Old Tongue|oren]] "to witness / speak true" + [[The Old Tongue|hael]] "whole, hale": those who *say the fall truly* and *keep the Tree sound.* [[Polity Archetypes|Vaethorn]]'s second word is **Hands-folk**; [[Polity Archetypes|Lestrand]]'s is **tree-tenders**; [[Polity Archetypes|Threnmaieth]] files them as **the Reckoned Hands.**)*
+*(Everyday, everywhere: **tree-wardens**, or just **wardens.** Liturgical: **the Orenhael** — OREN-hael — [[The Old Tongue|oren]] "to witness / speak true" + [[The Old Tongue|hael]] "whole, hale": those who *say the fall truly* and *keep the Tree sound.* The Waiting Lands say **Hands-folk**; the Ledger Coast says **tree-tenders**; the Tallied Crown files them as **the Reckoned Hands.**)*
 
 ## At the table
 
@@ -65,7 +65,7 @@ The cited failure is [[The Wrong Green]] — Harrow's, C.Y. 248, a hug Speaked a
 
 ### The Road-hands (graft and sickness)
 
-**Road-hands** carry living scions in living earth, plant them with ceremony, and are the ones sent when a Tree sickens. Everyday name everywhere; liturgical **Thaelvaeth** — THALE-vayth — [[The Old Tongue|thael]] + [[The Old Tongue|vaeth]], "the Tree gone to the waiting."
+**Road-hands** carry living scions in living earth, plant them with ceremony, and are the ones sent when a Tree sickens. Everyday name everywhere; liturgical **Thaelvaeth** — THAEL-vaeth — [[The Old Tongue|thael]] + [[The Old Tongue|vaeth]], "the Tree gone to the waiting."
 
 They are the order's thin edge. A dying Tree is a civic crisis; a waiting town is a political one. The First Seat writes the **Cutting-leave** (who may take wood, and for where). The Road-hand walks it. Far from the Motherwood they have almost no authority except the scion in the cart and whatever reputation three valleys will grant. This is the underdog office — impossible mandate, analog tools, blame when the wood dies. Full play-shape under [the Road-hands as an underdog office](#The%20Road-hands%20as%20an%20underdog%20office).
 
@@ -120,7 +120,7 @@ Same order; the name and the injustice change. The lever is [[Naming in the Turn
 
 - **[[Polity Archetypes|Vaethorn]] (Hands-folk).** The warden *is* most of the state. Thin reach, hot faith, almost no guild to issue a licence. A Road-hand here is doing the Seat's real work: sick Trees, borrowed Turnings, a scion that may not take. The soft injustice of the Warm lands sits on this hearth — a Kept apprentice pitied for "missing" the gift they are about to spend a life tending.
 - **[[Polity Archetypes|Lestrand]] (tree-tenders).** A paid civic office. The Leaf-Fall is a commercial milestone; the warden Speaks so the guild-ticket can open. Faith worn light. The Seat's queue looks, from the docks, like any other scarce good. Cutting-leave can be brokered. That is Lestrand's clergy-sin, and it does not require a heresy.
-- **[[Polity Archetypes|Threnmaieth]] (the Reckoned Hands).** The darkest pressure. The First Seat stands in the same Sacred Core as the Tallied Crown. The crown wants wardens *named to the Threnhael* as officers of the Reckoned Faith — colours written down, Speakers as clerks of stewardship. Some Speakers cooperate (they believe they are keeping the realm hale). Some refuse: the Tree witnessed; a ledger is a second, lesser seeing. The Orenhael does not dissolve Threnmaieth by being kind. That is the R2 guard in vestments.
+- **[[Polity Archetypes|Threnmaieth]] (the Reckoned Hands).** The darkest pressure. The First Seat stands in the same Sacred Core as the Tallied Crown. The crown wants wardens *named to the Threnhael* as officers of the Reckoned Faith — colours written down, Speakers as clerks of stewardship. Some Speakers cooperate (they believe they are keeping the realm hale). Some refuse: the Tree witnessed; a ledger is a second, lesser seeing.
 
 ## The scion-queue (the order's injustice)
 
@@ -208,7 +208,7 @@ A later hand has written *Rithim?* in the margin and then struck the question. T
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They are right about the wood and incomplete about the hand.** Per [[Is the Leaf-Mother Real]], every scion *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present the Orenhael as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind — the same two-sided schism, now wearing a lintel.
-- **The queue is the parallax, not the Tree.** Spatial + informational distance: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Exchange engine: every Cutting-leave is a benefit paid somewhere else. Do not let the keystone dissolve this. She is bounded, yes — she cannot gift every child — but *which town gets the next graft* is still a human rationing of her reach. R2: cosmological kindness, clerical injustice. History's added sentence: the queue is [[The First Cut|the Grafting]]'s child — copy-right captured in the generation of argument. Do not rebuild the office to say it.
+- **The queue is the parallax, not the Tree.** Spatial + informational distance: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Exchange engine: every Cutting-leave is a benefit paid somewhere else. *Which town gets the next graft* is a human rationing of reach. The queue is [[The First Cut|the Grafting]]'s child — copy-right captured in the generation of argument.
 - **Present-day fate-pressure is tabled, not rolled.** Peak Seat × long tenure of the queue; Road-hands overextended at the Heskoren front; waiting towns precarious. See [[The Years of Hands]]. Do not collapse the college here. Do not convert the Seat at the end of a Road-hand story.
 - **Taste still open (do not treat as locked).**
   1. **The name *Orenhael.*** Everyday *tree-wardens* is already in canon. The liturgical name is a coinage from existing roots. Swap or drop.

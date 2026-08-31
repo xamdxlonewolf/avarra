@@ -50,7 +50,7 @@ Does not name the surviving power. Does not decide whether that regime replaces 
 - **Arc (if play picks them up).** *Lie:* if I get the name back I get myself back. *Need:* a standing that is witnessed for the person who Turned, not the line that lost them. *Want:* bread, a stall, or a wall-pass — they will not admit which.
 - **Kind is incidental.** Do not make them a Kind-champion of the old walls.
 - **Intersection:** [[Vaethod]]'s hall. A later road to [[Orentel]] if they need a warrant. Not a party with [[Reimaethe]] or [[Taeren]].
-- **R2:** a leaf that took a throne from a child does not make the leaf kind. The class rule was already the injustice.
+- **The leaf did not disinherit them; the class rule did.**
 
 ## Links
 - [[People of the Turning]] · [[Eolvaeth]] · [[Vaethod]]

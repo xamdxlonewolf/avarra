@@ -17,7 +17,7 @@ updated: 2026-08-30
 
 # The Walking Years
 
-> **Clock 1, old default — now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the far reaches ran heavy on the Kept and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical 🔒: **Brenvaeth** *(bren-VAYTH)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life. Do not write it as a golden age.
+> **Clock 1, old default — now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the far reaches ran heavy on the Kept and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical 🔒: **Brenvaeth** *(BREN-vaeth)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life. Do not write it as a golden age.
 
 > **Canon status.** 🔒 **The requirement is locked** (banked seed). 🔒 **Name locked 2026-08-24** (*the Walking Years* / *Brenvaeth*). 🟡 **Lived texture (Story 6.2):** the three walks, the one-week door, the split household, mile-shrines, road-houses in the act of being inns, witness-at-origin. Names of the walks and the road-house cant *brenhael* are working coinages — polish later; do not rebuild the spine.
 
@@ -71,7 +71,7 @@ The Long Mile sorted by **whether you could lose a year.** Food, shoes, a second
 
 **The split household** is the era's ordinary cruelty. A family with three children near ten could sometimes walk one. The one who walked might come home Given. The ones who stayed were Kept, or were Struck later at a local door, and grew up in the same kitchen as a sibling the origin had seen. No one needed a theology for this. Distance did it. [[Polity Archetypes|Vaethorn]]'s later guilt (*we wait because we are unworthy*) is a Hands-era reading of that fact. History does not agree with the guilt.
 
-[[The Old Ways]] households on Heskoren often **refused the walk** on purpose. Their children were already the land's. Motherfaith neighbours read those children as Kept-for-want, which is a misreading the walk itself cannot correct. Both families are telling the truth they have.
+[[The Old Ways]] households on Heskoren often **refused the walk** on purpose. Their children were already the land's. Motherfaith neighbours read those children as Kept-for-want, which is a misreading the walk itself cannot correct. The same child can be claimed as already belonging and pitied as passed over; the walk offers no neutral verdict.
 
 ### Who was let through
 
@@ -117,7 +117,7 @@ A ribbon is not a leaf-colour. People tie what they have. A copper-green scrap o
 
 Many [[Economy and the Tithe|deathless houses]] began here. In Brenvaeth they were **road-houses**: beds, porridge, a dry room, and **credit for a walk you could not miss twice.**
 
-Everyday name: **road-house.** Cant, 🟡: **brenhael** *(bren-HAYL)* — *bren* + *hael*, "the hearth kept whole." Vaethorn says *waiting-hearth*. Lestrand says *the bed-house* (and still means the bank). Threnmaieth would like them *on the roll*.
+Everyday name: **road-house.** Cant, 🟡: **brenhael** *(BREN-hael)* — *bren* + *hael*, "the hearth kept whole." The Waiting Lands say *waiting-hearth*. The Ledger Coast says *the bed-house* (and still means the bank). The Tallied Crown would like them *on the roll*.
 
 What a road-house actually sold:
 
@@ -200,7 +200,7 @@ Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right 
 
 - **Protect the two-sided memory.** Devout Hands-era storytellers will want Brenvaeth as holy traffic — every child a pilgrim, every summer a hymn. Skeptics will want it as biology plus bad roads. Both are using the era. The graves make the hymn expensive; the hymn makes the graves a meaning. Play both. The fable refuses to pick.
 - **Heskoren is not "living in the past."** A hamlet sending this year's ten-year-olds to a neighbour is doing Clock 2, present tense. A hamlet sending them all the way to Thaeloren is doing Clock 1, present tense. Do not narrate either as re-enactment.
-- **R2:** the Walking did not make far people spiritually deficient. Distance did. Vaethorn's guilt-theology is a Hands-era reading of a Walking-era fact. Old Ways refusal is not "missing the gift"; it is a different door. Do not let history agree with the guilt.
+- **Distance is not spiritual deficiency.** Vaethorn's guilt-theology is a Hands-era reading of a Walking-era fact. Old Ways refusal is not "missing the gift"; it is a different door.
 - **The one-week door is the engine's teeth.** If you let eleven-year-olds Turn Given "because they tried," the split household and the held-over year lose their bite. Struck remains the later door. That is enough mercy.
 - **Do not clone Epic 5 onto the road.** No travelling greens-keepers, no Slide-on-the-mile as a second house, no Road-hands-as-pilgrim-guards. Road-hands carry *wood*, later. Tithe on the road is a pot and a shed. The deathless house is an inn. What the leftovers became: [[The Years of Hands]].
 - **Keystone-adjacent, not confirming.** The walk killed children because the Given-door was in one grove. Skeptics: that is how a tree works, and how a road works. Believers: she waited in one place, and waiting is a kindness that had a cost. GM truth: her reach is bounded; carrying wood later moved the edge; *why she needed the wood carried* stays open. Do not smuggle a wound-cause into a grave.

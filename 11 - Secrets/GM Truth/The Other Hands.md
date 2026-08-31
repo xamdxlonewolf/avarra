@@ -142,7 +142,7 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 
 - **"She's just one god of many, so the gifts are politics."** Reject. She is first; Giving is still love; the Tithe is still honest weight. A household does not make the Leaf-Fall a committee.
 - **"The Other Hands are a dark pantheon / the real villains."** Reject. ~5% scary. Each has a positive want (finished work, a readable answer, a used voice, a walked-out pause, the lost taken in). Threnvaeth is why the Returned are respected, not why they are a plague. A broken allowance is a stuck door, not a coup.
-- **"Narrow-Hand wins; she never cared about the Struck."** Incomplete. She authorized the catch. The stigma stays social (R2), not cosmological abandonment.
+- **"Narrow-Hand wins; she never cared about the Struck."** Incomplete. She authorized the catch. The stigma is social, not cosmological abandonment.
 - **"Yumboes are immune / rejected."** Wrong. Unreached, not refused. A graft that cannot travel is not a judgment.
 
 ## Links

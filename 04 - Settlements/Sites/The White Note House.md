@@ -39,7 +39,7 @@ The house does **not** hold the berth and does not own the hull. A Coast origin-
 
 ## GM Notes
 
-- **Road-past as un-auditable credit.** No mortal court can check a Long-Lived's memory of a ford two hundred summers back. That is why the note holds. It is also why a grandchild can owe a walk they cannot point to. R2: spreading Trees did not make the paper kind.
+- **Road-past as un-auditable credit.** No mortal court can check a Long-Lived's memory of a ford two hundred summers back. That is why the note holds. It is also why a grandchild can owe a walk they cannot point to.
 - **Ledan is Long-Lived.** The C.Y. 280 query is the same writing-mouth Mataero is still junior to. Do not invent a second Ledan as a title unless play wants the house-name reused; the deathless reading is the load-bearing one.
 - **Mataero's blindness is the document.** Position: junior who must believe the house is a bank that happens to have rooms. Need: the conversion is competence. Lens: occupancy. Blindness: house custom *is* the credit. Do not have Ledan "explain" this unless play wants the older mouth to say it.
 - **Do not kill the Held name to tidy the ledger.** Do not move Thilim into this house. Two fates, two lintels.

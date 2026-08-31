@@ -31,7 +31,7 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Seats and leftover-squares already exist (7.2–7.3). The Inner Close stays inside [[Orenbren]] (🔒 Story R.10). Kumbaan is not a thirteenth mainland power.
 
 - [[Powers of the Turning]] — hub (count, axes, network, two-mouths document)
-- [[Maiethorn]]: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] *(plus Threnmaieth)*
+- [[Maiethorn]]: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[The Hinge Shore]] · [[Lirorn]] *(plus Threnmaieth)*
 - [[Strandoren]]: [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] *(plus Lestrand)*
 - [[Heskoren]]: [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] *(plus Vaethorn)*
 - [[The Reckoned Offices]] — Threnmaieth's named mouths (registrar, Reckoned Speaker, channel-clerk, warrant-hand)

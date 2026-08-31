@@ -17,9 +17,9 @@ updated: 2026-08-30
 
 # Leddvael
 
-> **The Reckoned Gift.** *(led-VAYL · [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|vael]] "gift" = "the gift reckoned.")* Eroded drift. Motherfaith theology **low**; [[The Fair Hand]] worn as **civic law**. Reach high · governance **mid**. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not clone the [[The Book-Hands]] as a state church. **They do not rewrite Bound Terms.**
+> **The Reckoned Gift.** *(formal *Leddvael*, LEDD-vael · [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|vael]] "gift.")* Eroded drift. Motherfaith theology **low**; [[The Fair Hand]] worn as **civic law**. Reach high · governance **mid**. **They do not rewrite Bound Terms.**
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Leddvael*; people **Leddvael-folk**. Not *Leddoren* (the faith's own-name). Not *Lestrand* (the premier coast). Not *Leddhael* (Book-hands' liturgy). The name is the doctrine: a gift is a bargain priced.
+People say **the Reckoned Gift** and **Gift-clerks**. Charters and learned maps write *Leddvael*. The formal name preserves the doctrine: a gift is a bargain priced.
 
 ## Overview (public)
 
