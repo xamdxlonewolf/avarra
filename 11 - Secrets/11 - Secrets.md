@@ -38,5 +38,8 @@ Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-e
 - [[The Remainder]] — First Seat side-yard desk that keeps the box
 - Six foreshadowing texts: [[The Leaf-Mother]] (Tender's blessing; Kept-child's saying) · [[The Child at Four Doors]] · [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child Who Climbed the Stone]]
 
+### Contradictions (pass-two log)
+- [[Contradictions]] — residuals, conflicts, and quality gaps. Opened at the [[Epic R Completion Gate 2026-08-31|Epic R gate]].
+
 ## Related
-- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Faiths of the Turning]] · [[The Unspent]] · [[Roadmap]]
+- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Faiths of the Turning]] · [[The Unspent]] · [[Roadmap]] · [[Epic R Completion Gate 2026-08-31]]

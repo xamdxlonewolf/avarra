@@ -22,7 +22,7 @@ updated: 2026-08-30
 
 A Turning Tree is a broad, slow, long-lived hardwood — canopy like a great oak or beech, but its own kind — that stands at the ceremonial heart of a town, usually in a square, a green, or a walled temple-yard kept for it. Out of season it looks like an unusually grand old tree and townsfolk treat it as one: children climb the low boughs, courts and markets convene in its shade, lovers carve nothing into it (that's taboo). **In the tenth-year solstice week it turns** — the canopy shifts through colours no ordinary tree wears, and it *chooses.*
 
-The everyday word is **Turning Tree** (for what it does at the solstice: it *turns*, and it *turns children into what they'll become*). The devout call each one **a Hand of the Mother** — see [[The Leaf-Mother]] — and the reverent species-word in liturgy is **motherwood**. In the old liturgical [[The Old Tongue|root tongue]] the Tree is **Thaeloren** *(THAEL-or-en)* — **thael** (Tree) + **oren** (to witness), *"the Tree that witnesses"* (everyday worn form: *the Thallow*). *(Names 🟡 Proposed — safe to change; the Old-Tongue form added in the 2026-08-21 naming pass.)*
+The everyday word is **Turning Tree** (for what it does at the solstice: it *turns*, and it *turns children into what they'll become*). The devout call each one **a Hand of the Mother** — see [[The Leaf-Mother]] — and the reverent species-word in liturgy is **motherwood**. In the old liturgical [[The Old Tongue|root tongue]] the Tree is **Thaeloren** *(THAEL-or-en)* — **thael** (Tree) + **oren** (to witness), *"the Tree that witnesses"* (everyday worn form: *the Thallow*).
 
 ## One Tree, many hands — the graft (🔒 topology LOCKED 2026-08-19)
 
@@ -126,6 +126,7 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 
 ## GM Notes
 
+- **Names.** *Thaeloren / the Thallow* are working liturgical/worn forms (naming pass 2026-08-21). Safe to polish. Do not add a second everyday name.
 - **Graft continuity is doctrine in the body, literal in this wall.** Because every scion is *continuous tissue* of the one Tree, "the Turning Trees are her hands" is **literally true**, not metaphor: when any town's Tree chooses, it is the one power choosing through a grafted hand. See [[Is the Leaf-Mother Real]]. Present the body as **doctrine the faithful hold**, never as demonstrated cosmology. Skeptics grant the grafting (observable horticulture) and deny the mind. `reveals: [keystone-adjacent]` — the player text does not confirm; this wall does.
 - **The hug.** Some Kept are chosen for wholeness; some are past her reach *this turning*. The body must not say which, and neither does she. Do not let a player-facing sentence call the hug a locked kindness as if the schism were already lost.
 - **The scary edge is not the wood.** Resist making the Tree eerie or the ceremony sinister — that's off-tone and off-canon for the keystone (the floor is sound; see [[Is the Leaf-Mother Real]]). Most dread still lives in Tithes. The one shadow *inside* the rite is human and cited: [[The Wrong Green]]. Do not add a third visible outcome, a cursed fall, or a retry-leaf to "fix" a hug.

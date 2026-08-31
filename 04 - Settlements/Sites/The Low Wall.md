@@ -62,7 +62,7 @@ No one living built it. [[Before the Walk]] has no start, and this stone is of t
 - **The person-gap.** Only wide enough for one. The labour-roster "assigns" a walk through it. You can be sent in, or you can send someone out.
 - **The socket-gap.** Might have held a post. Old Ways leave a first-meal here some weeks. You can step over a bowl.
 - **Under the name-stone.** The panel's bed is loose if you have an afternoon and a reason. A crawl, not a dungeon-level. It goes along the footing toward the inward step and stops. There is no under-city.
-- **The garden-end loft.** [[Thuda]] *(THOO-dah)* lets beds against the last course. You can sleep here and wake with the wall in the window.
+- **The garden-end loft.** Thuda *(THOO-dah)* lets beds against the last course. You can sleep here and wake with the wall in the window.
 
 ## Pressures (while you are there)
 
