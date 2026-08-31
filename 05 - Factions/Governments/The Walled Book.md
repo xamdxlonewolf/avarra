@@ -91,7 +91,7 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 ## GM Notes
 
 - **Political classification.** Engine two of three. Not religious self-consumption ([[The Pourers]]). Not worship used to hide extraction ([[The Protectors]]). The injustice is the Book, not a hymn.
-- **Not a sixteenth power.** Lives inside Orenbren as a walled town. Placement 🟡 pending the later geography pass (whether a weak shore-flag should carry this remnant instead). Do not promote the Close. Do not capture the First Seat. Do not make this Threnmaieth's inner court — that collapses two lists into one.
+- **Not a sixteenth power.** Lives inside Orenbren as a walled town. **Placement 🔒 (Story R.10):** the Closed Seat sat the grove; Hildal's Retreat closed walls a day's walk from the Motherwood. A shore-flag cannot carry that remnant. Do not move the Book to [[Eolstrand]]. Do not promote the Close. Do not capture the First Seat. Do not make this Threnmaieth's inner court — that collapses two lists into one.
 - **Old empire, now written.** The Closed Seat sat the grove and decided who could walk. [[The First Cut]] broke the monopoly; [[The Closing]] is the war, the collapse, Hildal's Retreat. Do not name the cutter. Do not promote the Close to a sixteenth flag. Do not make Hildal a villain-king.
 - **Distinct from Threnmaieth.** Sacred census writes everyone as care. The Book ranks the tithed and disinherits the Given heir. A campaign can steal both lists and they will not say the same thing about the same child.
 - **Names.** Delamem, Talnin of the Inner Close — seed `20260830`, conservative list, mid-bottom. Inner Close / Walled Book / Closed Heirs / Book of Tithes are common-tongue. No new liturgy.

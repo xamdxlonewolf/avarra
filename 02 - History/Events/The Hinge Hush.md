@@ -4,8 +4,8 @@ type: event
 visibility: player
 note_status: fleshed
 status: active
-tags: [event, history, epic-r, story-r9, war, treaty, inner-sea]
-aliases: [The Hinge War, The Inner-Sea Hush, The Hush-Rate]
+tags: [event, history, epic-r, story-r9, war, treaty, old-crossing]
+aliases: [The Hinge War, The Crossing Hush, The Hush-Rate]
 world: The Turning
 era: "[[The Years of Hands]]"
 date_in_world: "war C.Y. 299–304; hush C.Y. 304 (present = C.Y. 387)"
@@ -16,13 +16,13 @@ updated: 2026-08-30
 
 # The Hinge Hush
 
-> **The peace the inner sea still charges.** From C.Y. 299 to 304, [[Eolstrand]] and [[Polity Archetypes|Lestrand]] fought over who set the hinge-toll — the Old-World crossing's price, after the Grey had taught both shores what a quiet sea costs. The fight ended in a hush, not a coronation. Everyday name: **the Hinge Hush.** The five years before it: **the Hinge War**, if you must. Dock-cant: **the Hush-rate.** Chronicle: [[The Other Count]].
+> **The peace [[Named Ground|the Old Crossing]] still charges.** From C.Y. 299 to 304, [[Eolstrand]] and [[Polity Archetypes|Lestrand]] fought over who set the hinge-toll — the Old-World crossing's price, after the Grey had taught both shores what a quiet sea costs. The fight ended in a hush, not a coronation. Everyday name: **the Hinge Hush.** The five years before it: **the Hinge War**, if you must. Dock-cant: **the Hush-rate.** Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived treaty (Story R.9).** 🔒 **Current inner-sea peace.** 🔒 **Does not crown Orentel or name an Eolstrand capital.** 🔒 **Does not book [[The Sundering Isle|Kumbaan]].** Names *Taerso / Sirtol* 🟡 (seed `20260830`).
+> **Canon status.** 🟡 **Lived treaty (Story R.9).** 🔒 **Current Old Crossing peace.** 🔒 **Does not crown Orentel or name an Eolstrand capital.** 🔒 **Does not book [[The Sundering Isle|Kumbaan]].** Names *Taerso / Sirtol* 🟡 (seed `20260830`).
 
 ## What happened (as believed)
 
-The inner sea was already the oldest trade route in the world. After [[The Grey Summer]] both shores rebuilt traffic and discovered they had rebuilt *the price* differently. Eolstrand — conservative tongue, grove at its back — wanted the hinge to stay a Motherland fact: blessing in the mouth, tariff in the book, pilgrims and pots in the same wind. Lestrand — eroded, priced, free — wanted the hinge to be a market: the house that could hold a berth could set a rate.
+[[Named Ground|The Old Crossing]] was already the oldest trade route in the world. After [[The Grey Summer]] both shores rebuilt traffic and discovered they had rebuilt *the price* differently. Eolstrand — conservative tongue, grove at its back — wanted the hinge to stay a Motherland fact: blessing in the mouth, tariff in the book, pilgrims and pots in the same wind. Lestrand — eroded, priced, free — wanted the hinge to be a market: the house that could hold a berth could set a rate.
 
 For five summers they took each other's hulls, tied each other's quays, and wrote each other's delays as righteousness. It was not a slaughter-age. It was a logistics war that killed people, which is what long water does when someone has decided the toll is a theology.
 
@@ -36,7 +36,7 @@ The hush is a rate, a clause, and a refusal to write a winner. Eolstrand keeps t
 
 [[Netstrand]] was not a third belligerent. It was the shore that faces the other ocean. The hush includes a clause both signatories needed: **who may quote the far crossing, and who may land it on [[Heskoren]]'s frontier coast.**
 
-- Netstrand keeps the hulls. That is why the prestige-walk's ship is theirs to charter *in* to the inner sea, and why the far crossing is their leftover.
+- Netstrand keeps the hulls. That is why the prestige-walk's ship is theirs to charter *in* to the Old Crossing, and why the far crossing is their leftover.
 - [[Saelvaeth]] may receive a pot without a Vaethorn blessing-price attached as a landing-due. The march hated that sentence and still uses it.
 - [[Polity Archetypes|Vaethorn]] may bless a landing and may not levy it as if the hush were a gospel.
 - [[Ornled]] is written as *slate-shore*: no hymn-due, no compact-due, a fee if a hull wants a beach. They were not asked. They are on the clause anyway.
@@ -71,7 +71,7 @@ Taerso cannot afford to see that "say the blessing if a mouth wants one" is how 
 
 ## Consequences
 
-- **The current inner-sea border is a rate.** Not a mythic frontier. Not an unnamed eternal peace.
+- **The current Old Crossing border is a rate.** Not a mythic frontier. Not an unnamed eternal peace.
 - **Netstrand's leftover has a clause.** Hulls, not a mystery-badge. The *neth* on the shore stays unsolved ([[Netstrand]]).
 - **Heskoren's four inherit landings, not a conquest.** Bless / pot / slate / meal — four answers to one clause.
 - **Orentel is still not crowned.** The White Note did not sign. Sorim holds a berth the hush made cheaper to keep.
@@ -83,7 +83,7 @@ Taerso cannot afford to see that "say the blessing if a mouth wants one" is how 
 - **Hooks.** A Hush-rate on a necessity-berth; a west-water landing Vaethorn tries to bless into a levy; Ornled beach-fee vs Netstrand quote; Brenledd side-paper a town wants out of; a Close heir complimenting the hush as ranking; Mataero filing occupancy under a rate they will not convert.
 
 ## Links
-- [[The Other Count]] · [[The Grey Summer]] · [[Eolstrand]] · [[Polity Archetypes]] · [[Orentel]]
+- [[The Other Count]] · [[The Grey Summer]] · [[Eolstrand]] · [[Polity Archetypes]] · [[Orentel]] · [[Named Ground]]
 - [[Netstrand]] · [[Saelvaeth]] · [[Polity Archetypes|Vaethorn]] · [[Ornled]] · [[Vaelhesk]] · [[Brenledd]]
 - [[The White Note House]] · [[The Years of Hands]]
 - [[02 - History]] · [[Roadmap]] (Story R.9)

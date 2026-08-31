@@ -50,7 +50,7 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 - **Their homeland:** *Kumbaan* (koom-BAHN) — "the hidden home." (Mainlanders call it [[The Sundering Isle]].)
 - **Sample given names** *(working set, seed `20260826` — add from the same inventory, pick deep in the list):* Ambaa, Njeela, Kumbo, Sambanka, Ndeya, Mbaraan, Njunda, Rakhilo, Sonkaa, Mbindaa, Yumbaka, Ndoolu, **Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.**
 - Full person-naming rules (two-name pattern, collision, how they stay a *single* register on the mainland): [[Naming People in the Turning]]. Distribution: [[Kinds of the Turning]].
-- The Isle's **Azgaar name base** (places) lives in [[The World Frame#③b Azgaar Kumbaan name base]].
+- The Isle's **Azgaar name base** (places) lives in `14 - Assets/Maps/Map Generation Tooling.md` §③b — production aid, not terrain.
 
 ## Open questions (optional future tweaks — not blockers)
 

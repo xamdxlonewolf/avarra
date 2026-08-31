@@ -26,7 +26,7 @@ Beneath the fifteen the world still swarms — marches, free towns, petty Tree-s
 
 | Continent | Reach | How many | Why that many |
 |---|:---:|:---:|---|
-| **[[Maiethorn]]** | full | **6** | old heart; a clutch of kingdoms competing for the grove and the inner sea |
+| **[[Maiethorn]]** | full | **6** | old heart; a clutch of kingdoms competing for the grove and the Old Crossing |
 | **[[Strandoren]]** | high | **5** | a constellation of coasts and compacts, not one market with a crown |
 | **[[Heskoren]]** | thin | **4** | fewer, poorer, scattered; long wild between Trees |
 | **[[The Sundering Isle]]** | near-none | **0** | not on this list |
@@ -51,13 +51,13 @@ Axes: **T**heology (Motherfaith gift-devotion) · **R**each · **G**overnance. �
 | **[[Maiethvael]]** | [[Maiethorn]] | ● | ● | ○ | the Gift-Realm — plenty, no list | origin pilgrimage-country that furnishes |
 | **[[Orenbren]]** | [[Maiethorn]] | ● | ● | ◐ | the Witness-Hearths — lodging as power; does not own the Tree | origin pilgrimage-town |
 | **[[Saelthael]]** | [[Maiethorn]] | ● | ◐ | ○ | the Sown Tree — Rain-Shadow still planting | Rain-Shadow walk-hold |
-| **[[Eolstrand]]** | [[Maiethorn]] | ◐ | ● | ○ | the Hinge-Shore — inner-sea face | salt-adjacent Old-World quays |
-| **[[Lirorn]]** | [[Maiethorn]] | ◐ | ● | ◐ | the Thaw-Land — range and snowmelt | ridge-roads; not a Kind-flag |
+| **[[Eolstrand]]** | [[Maiethorn]] | ◐ | ● | ○ | the Hinge-Shore — Old Crossing face; classifies the hull | salt-adjacent Old-World quays |
+| **[[Lirorn]]** | [[Maiethorn]] | ◐ | ● | ◐ | the Thaw-Land — Rain-Wall and snowmelt | ridge-roads; Shelf-gate; not a Kind-flag |
 | **[[Polity Archetypes\|Lestrand]]** | [[Strandoren]] | ○ | ● | ○ | the Ledger Coast — priced and free | salt quay — seat [[Orentel]] |
 | **[[Brenledd]]** | [[Strandoren]] | ○ | ● | ○ | the Hearth-League — many charters, one compact | salt / river towns between houses |
 | **[[Leddvael]]** | [[Strandoren]] | ○* | ● | ◐ | the Reckoned Gift — Fair Hand as civic rite | salt quay with a signing-watch |
 | **[[Trenledd]]** | [[Strandoren]] | ○ | ● | ● | the Worn Count — a roll with the hymn worn off | road-end Tree-towns *filed* |
-| **[[Netstrand]]** | [[Strandoren]] | ◐ | ● | ○ | the Night Shore — west water, Heskoren trade | salt quay; hulls for hire (not the First-Hand year) |
+| **[[Netstrand]]** | [[Strandoren]] | ◐ | ● | ○ | the Night Shore — West Water; watches for hulls that do not arrive | salt quay; hulls for hire (not the First-Hand year) |
 | **[[Polity Archetypes\|Vaethorn]]** | [[Heskoren]] | ● | ○ | ○ | the Waiting Lands — scarce gift, hot faith | pilgrim-edge — seat [[Eolvaeth]] (not the hamlets) |
 | **[[Ornled]]** | [[Heskoren]] | ○ | ○ | ○ | the Outer Ledger — secular frontier, no congregation-net | waiting cluster without a gospel |
 | **[[Vaelhesk]]** | [[Heskoren]] | ◐** | ○ | ○ | the Far Yield — Old Ways host-rights | guest-grove |
@@ -69,7 +69,7 @@ The three corners [[Polity Archetypes]] left un-built are now on the map: **Maie
 
 ## How they sit (network, not a painted map)
 
-**[[Maiethorn]]** — [[Polity Archetypes|Threnmaieth]] coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (thaw-river Hand, *not* the grove). [[Maiethvael]] is the old gift-country that shares the Mother and refuses the list: same hymns, opposite paper. [[Orenbren]] is the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* it and is not its crown. [[Saelthael]] is the leeward east, still walking west after the core stopped. [[Eolstrand]] faces [[Strandoren]] across the inner sea. [[Lirorn]] holds the central range that divides the waters; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
+**[[Maiethorn]]** — [[Polity Archetypes|Threnmaieth]] coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (Core-thaw Hand, *not* the grove). [[Maiethvael]] is the old gift-country that shares the Mother and refuses the list: same hymns, opposite paper. [[Orenbren]] is the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* it and is not its crown. The [[The Walled Book|Inner Close]] lives *inside* this compact (🔒 Story R.10). [[Saelthael]] is the leeward east, still walking west after the core stopped. [[Eolstrand]] faces [[Strandoren]] across [[Named Ground|the Old Crossing]] and classifies the hull. [[Lirorn]] holds [[Named Ground|the Rain-Wall]]; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
 
 **[[Strandoren]]** — [[Polity Archetypes|Lestrand]] is the premier coast; its seat is [[Orentel]] (Salt Quay; White Note on the third quay, not the crown). [[Brenledd]] is the compact of towns that got tired of being priced by one set of houses. [[Leddvael]] made [[The Fair Hand]] a civic rite on a different stretch of signing-water. [[Trenledd]] is the wealthy interior that started counting tickets and did not stop. [[Netstrand]] faces the open ocean toward [[Heskoren]] and, in stories, the storm-wall.
 
@@ -91,13 +91,13 @@ The fifteen are not fifteen ancient kingdoms. [[Maiethorn]]'s six inherit a grov
 | **[[Brenledd]]** | Compact piled C.Y. 174 after the Salt-Grey (Nidtol); Hush side-paper | Lestrand still offers to simplify them. Fade happens in the gaps. |
 | **[[Leddvael]]** | Civic Settling after witnesses died in the Grey | A gift-reading family is a bad debtor. Bound as the shape of honesty. |
 | **[[Trenledd]]** | Dirrol's person-column after the Grey | Wanted the Hush written as souls; both shores refused. Colder than the Threnhael. |
-| **[[Netstrand]]** | West-water clause of the Hush; hulls, not the origin-winter | Quotes the far. *Neth* on the shore stays unsolved. |
+| **[[Netstrand]]** | West-water clause of the Hush; hulls, not the origin-winter | Quotes the far. Night is a watch for ships that do not arrive. |
 | **[[Polity Archetypes\|Vaethorn]]** | Late wave; Hush says they may bless a landing and may not levy it | Ornled has no hymn. Saelvaeth has a pot without their due. Guilt wants both unworthy. |
 | **[[Ornled]]** | Declined the waiting-gospel; Vathne's slate after a Thaw-Break pot died; Hush beach-fee | Vaethorn hears godlessness. No net. |
 | **[[Vaelhesk]]** | Host-rights older than the wave; not on the Hush clause | A first meal is not a landing-due. Vaethorn reads their children as Kept-for-want. |
 | **[[Saelvaeth]]** | Live march from the C.Y. 200s; Hush: may take a pot without a waiting-due | The queue is the border. Harrow's luck is politics. |
 
-Do not add a sixteenth flag. The [[The Walled Book|Inner Close]] sits inside Orenbren and remembers the sitting, not a continent.
+Do not add a sixteenth flag. The [[The Walled Book|Inner Close]] sits inside Orenbren and remembers the sitting, not a continent. **Placement locked Story R.10** — do not replace [[Eolstrand]].
 
 ## What this pass does not do
 
@@ -111,22 +111,22 @@ Do not add a sixteenth flag. The [[The Walled Book|Inner Close]] sits inside Ore
 
 A Seat clerk and a Lestrand factor do not issue the same map. Orthopraxy is the peace; the *list* is the tell.
 
-> **From a Cut-year minute, First Seat (C.Y. 387).** *Threnmaieth names itself the Reckoning and would name us. Maiethvael will not be named to them and still Sends the extra mile. Orenbren lodges what we do not house. Saelthael still walks, which the origin finds inconvenient. Eolstrand takes the inner sea. Lirorn takes the thaw. Across the water the factor's five: Lestrand, the Brenledd compact, Leddvael which files a Bound as a civic virtue, Trenledd which keeps a roll and will not call it a Threnhael, Netstrand which sells the west. On the far reach: Vaethorn waiting, Saelvaeth planting, Vaelhesk feeding a first meal we did not authorize, Ornled which will not say her name and will not keep a list either. Kumbaan is not a land we graft. We do not write it.*
+> **From a Cut-year minute, First Seat (C.Y. 387).** *Threnmaieth names itself the Reckoning and would name us. Maiethvael will not be named to them and still Sends the extra mile. Orenbren lodges what we do not house. Saelthael still walks, which the origin finds inconvenient. Eolstrand takes the Old Crossing. Lirorn takes the thaw. Across the water the factor's five: Lestrand, the Brenledd compact, Leddvael which files a Bound as a civic virtue, Trenledd which keeps a roll and will not call it a Threnhael, Netstrand which sells the west. On the far reach: Vaethorn waiting, Saelvaeth planting, Vaelhesk feeding a first meal we did not authorize, Ornled which will not say her name and will not keep a list either. Kumbaan is not a land we graft. We do not write it.*
 >
-> **From a house-year docket, a Lestrand factor.** *Price the inner-sea hinge (Eolstrand) and do not argue hymns with Maiethvael. Orenbren's beds are a market that calls itself a duty. Avoid Trenledd's roll unless you like being written. Leddvael will sign; that is cheaper than faith. Brenledd is many tickets. Netstrand quotes the far crossing like a pilgrimage. Heskoren: Vaethorn pays in blessing, Ornled in slate, Vaelhesk in a meal you had better eat, Saelvaeth in whatever the queue did this year. The Isle is a tale. We do not book it.*
+> **From a house-year docket, a Lestrand factor.** *Price the Old-Crossing hinge (Eolstrand) and do not argue hymns with Maiethvael. Orenbren's beds are a market that calls itself a duty. Avoid Trenledd's roll unless you like being written. Leddvael will sign; that is cheaper than faith. Brenledd is many tickets. Netstrand quotes the far crossing like a pilgrimage. Heskoren: Vaethorn pays in blessing, Ornled in slate, Vaelhesk in a meal you had better eat, Saelvaeth in whatever the queue did this year. The Isle is a tale. We do not book it.*
 
 Neither list is complete. Both are true of the speaker.
 
 ## Links
 - The twelve: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]]
 - The three corners: [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn)
-- [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[The World Frame]] · [[Named Ground]] · [[The Known Map]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[The Old Tongue]] · [[Naming in the Turning]] · [[Naming People in the Turning]] · [[Kinds of the Turning]]
 - [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
 - [[Faiths of the Turning]] · [[The Tree-Wardens]] · [[Law and Citizenship]] · [[The Premise]]
 - [[The Other Count]] · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
-- [[05 - Factions]] · [[Roadmap]] (Story 7.1; shared history R.9)
+- [[05 - Factions]] · [[Roadmap]] (Story 7.1; shared history R.9; geography R.10)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*

@@ -8,7 +8,7 @@ tags: [faction, organization, criminal, vouching, citizenship, shadow-economy]
 aliases: [Mouth-Sellers, The Bought Mouth, The Standing, Sold Vouching]
 world: The Turning
 category: criminal
-seat: none — a person who will stand in a square; the hinge of the trade sits on the inner-sea face
+seat: none — a person who will stand in a square; the hinge of the trade sits on the Old Crossing face
 public_face: people who will remember you in a town that did not watch you Turn
 reveals: [keystone-adjacent]
 created: 2026-08-30
@@ -37,7 +37,7 @@ They are not [[The Slide]]. They do not rent a week. They are not [[The Holding 
 
 They look like a useful cousin at a ford. A factor's runner. A pilgrim who "happened to be in the square that Eolthael." You would miss them if you came looking for a forger's press. There is no press. There is a mouth.
 
-**Nomele of the Hinge** *(no-MEL-eh)* works the inner-sea face — [[Eolstrand]] more often than [[Orentel]], because a hinge has two sides and a standing has to travel. Eroded mouth, conservative quay. They do not sell paper. They sell who will walk with you to the next Tree.
+**Nomele of the Hinge** *(no-MEL-eh)* works the Old Crossing face — [[Eolstrand]] more often than [[Orentel]], because a hinge has two sides and a standing has to travel. Eroded mouth, conservative quay. They do not sell paper. They sell who will walk with you to the next Tree.
 
 ## What they actually do
 
@@ -82,7 +82,7 @@ A town that already knows the child will smell the sale. Play that. Do not make 
 
 ## In-world text
 
-*A fee-slate, inner-sea hinge, no childhood written on it. The verso is a list of squares, not names.*
+*A fee-slate, Old Crossing hinge, no childhood written on it. The verso is a list of squares, not names.*
 
 > *I will stand at the next Tree that asks. I will not say which summer. I will not say which child. I will say I was there. If you have a Long-Lived who was actually there, do not hire me — I will not win that room. If you have no one, come before the watch sets the question. We do not sell a colour. We do not sell a hug. We sell a mouth. If the mouth recants, the fee does not.*
 

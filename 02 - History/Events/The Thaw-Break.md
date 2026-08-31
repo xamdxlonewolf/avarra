@@ -16,9 +16,9 @@ updated: 2026-08-30
 
 # The Thaw-Break
 
-> **Snowmelt in one week.** In C.Y. 233 the central range did not thaw as it usually thaws. The water that should have taken a month took seven days. Valleys drank it as flood. Passes lost their old stones. Everyday name: **the Thaw-Break.** Ridge-cant: **the one-week melt.** Chronicle: [[The Other Count]].
+> **Snowmelt in one week.** In C.Y. 233 [[Named Ground|the Rain-Wall]] did not thaw as it usually thaws. The water that should have taken a month took seven days. Valleys drank it as flood. Passes lost their old stones. Everyday name: **the Thaw-Break.** Ridge-cant: **the one-week melt.** Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived disaster (Story R.9).** 🔒 **Natural first.** Theology arrives as interpretation. 🔒 **Does not name the range or the rivers** — those wait on [[Roadmap|Story R.10]]. 🔒 **Does not invert Clock 2.** [[Heskoren]] was already on the wave (C.Y. 200–). The flood delayed carts. It did not start the wait.
+> **Canon status.** 🟡 **Lived disaster (Story R.9).** 🔒 **Natural first.** Theology arrives as interpretation. 🔒 **Range and rivers named Story R.10** → [[Named Ground]] (Rain-Wall · Noon Pass · Shelf-gate · Core-thaw · Well-wash). 🔒 **Does not invert Clock 2.** [[Heskoren]] was already on the wave (C.Y. 200–). The flood delayed carts. It did not start the wait.
 
 ## What happened (as believed)
 
@@ -69,7 +69,7 @@ The courier cannot afford to see that "this is not a row" is exactly why Threnma
 - **387 years contained a flood.** The wave does not get to be the only weather.
 - **Lirorn's watershed power has a year.** Tolls that feel like geography feel like 233 if you were on the shelf.
 - **Saelthael / Ornled / Saelvaeth inherit delays, not destinies.** Pair the west-road with the live front. Same sowing, two clocks, one melt.
-- **Named rivers still wait.** Write *the thaw*, *the pass*, *the well-town*. Do not baptize them here.
+- **Named ground is on [[Named Ground]].** The courier's *noon-pass* is the Noon Pass. Narol's new road is the Shelf-gate. The west-face river is the Core-thaw. The leeward seasonal is the Well-wash.
 
 ## GM Notes
 

@@ -8,7 +8,7 @@ tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Crow-Born, The Wind-Winged, The Peak-Born]
 world: The Turning
 language: Gonan (hearth-register); daily speech is the local Maiethren drift
-homeland: the ridges — [[Maiethorn]] central range and [[Heskoren]] highland spines (see [[Kinds of the Turning]])
+homeland: the ridges — [[Maiethorn]] [[Named Ground|Rain-Wall]] and [[Heskoren]] highland spines (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-16
 updated: 2026-08-30

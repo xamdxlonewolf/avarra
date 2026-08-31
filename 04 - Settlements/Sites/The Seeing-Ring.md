@@ -31,7 +31,7 @@ The upper work is cut from a kinder quarry: steps that do not match the ring's t
 ## Features
 
 - **The ring-walk.** Clockwise is local habit. A Watcher will not tell you why. A warden will tell you it is Turning-Week in stone, which is overlay so confident it sounds like folklore.
-- **The out-looks.** Four wider gaps. One faces the smear of the origin. One faces the inner-sea weather. Two face nothing a present map cares about. The last two are the inscrutable fifth.
+- **The out-looks.** Four wider gaps. One faces the smear of the origin. One faces the Old Crossing weather. Two face nothing a present map cares about. The last two are the inscrutable fifth.
 - **The emptied shrine.** Steps, lintel-socket, no roof. A ribbon sometimes appears on the socket in Eolthael and is gone by Leddorn. Tithsael takes it off if it is a colour-ribbon. A hug-ribbon they will leave, which is how a Watcher does a kindness the Seat will not understand.
 - **The pecked mark.** Tender's blessing over a withheld geometry. You can feel both if you put a thumb on them. Dual-practice in a fingertip.
 - **The night.** Tithsael keeps it. Not a service. A seeing. People come with a cough, a question, or a child who was not Held and was not Given and wants a hill that does not owe them a name.

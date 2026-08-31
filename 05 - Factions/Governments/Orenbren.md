@@ -49,7 +49,7 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 
 - **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. [[Maiethlir]] is Threnmaieth's counted river-seat, not this compact and not the grove. Hold the gap.
 - **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.
-- **The Inner Close is not a capital and not a sixteenth power.** Placement inside this compact is working canon; a later geography pass may move the remnant. Do not promote the walls. Do not capture the First Seat.
+- **The Inner Close is not a capital and not a sixteenth power.** **Placement 🔒 (Story R.10):** they retreated here because this is where the sitting was. Do not move the Book to the Hinge-Shore. Do not promote the walls. Do not capture the First Seat.
 - **Prestige-walk chain (Story R.6).** Destination beds, not a fourth seller of the berth.
 - **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty; a term that cleared on the quay and a bed that did not; the Close shut while the beds outside are full.
 
