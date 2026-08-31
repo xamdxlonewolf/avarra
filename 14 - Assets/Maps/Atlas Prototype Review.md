@@ -74,7 +74,7 @@ The most atmospheric option: stronger sea states, rain, forest mass, and the wet
 - **Kumbaan:** one small island; complete storm/current/reef wall; rolling wet hill-country; no city, no quay, no graft, no hidden Tree, and no permanent safe channel.
 - **Heskoren:** rugged highlands distinct from Maiethorn's Rain-Wall; cooler moor and forest; sparse settlement pockets around surviving grafts; no capital star.
 - **Strandoren:** coast-dominant and deeply indented; wet lowlands; the Chart-run crosses toward the large eastern estuary; the eastern sea is busier than the western water.
-- **Maiethorn:** Rain-Wall north–south; wet, old, densely settled west; one exceptional canopy in the Motherwood; Core-thaw running west; dry Rain-Shadow and seasonal water east.
+- **Maiethorn:** Rain-Wall remains a north–south watershed but reads as offset weathered massifs, saddles, spurs, and river-cut notches rather than a straight ridge; wet, old, densely settled west; one exceptional canopy in the Motherwood; Core-thaw running west; dry Rain-Shadow and seasonal water east.
 - No political borders, Kind-nations, new powers, dated Tree, or First Seat capital were added.
 
 ## Visual interpolation register
