@@ -23,7 +23,7 @@ People say **the Sown Waiting** and **March-folk**. Charters and learned maps wr
 
 ## Overview (public)
 
-The live front of Clock 2 on [[Heskoren]]: C.Y. 200–387, still incomplete. Towns form where a graft has taken; between them, waiting clusters who can see a neighbour's canopy. [[Harrow's Green]] is the luckiest kind of square in this march — a Hand that grew up (fleshed, Story 7.2; **not this power's capital**). [[The Three Hamlets Past the Ford]] can see that green and were written as remainder (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them). The queue is visible. It is not a metaphor. Pair with [[Ornsael]] on [[Saelthael]]: same sowing, origin-continent leftover.
+The live front of Clock 2 on [[Heskoren]]: C.Y. 200–387, still incomplete. Towns form where a graft has taken; between them, waiting clusters who can see a neighbour's canopy. [[Harrow's Green]] is the luckiest kind of square in this march — a Hand that grew up. [[The Three Hamlets Past the Ford]] can see that green and were written as remainder (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them). The queue is visible. It is not a metaphor. Pair with [[Ornsael]] on [[Saelthael]]: same sowing, origin-continent leftover.
 
 Governance is mid-low because *someone* must stand for the Harrow-sentence: wardens, Road-hands passing through, a march-voice that did not exist when the first pots came. Not a tall state. Enough state to be blamed.
 
@@ -43,7 +43,14 @@ Keep taken grafts alive. Host the neighbour's week. Argue the next pot. Survive 
 
 **Its injustice.** **The queue as a border.** Harrow's luck is politics. The hamlets can see the canopy and send children anyway. Folk-right temptation in a kitchen drawer. Spreading Trees did not make the march kind.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- The live front of Clock 2 on [[Heskoren]]: C.Y. 200–387, still incomplete. Towns form where a graft has taken; between them, waiting clusters who can see a neighbour's canopy. [[Harrow's Green]] is the luckiest kind of square in this march — a Hand that grew up (fleshed, Story 7.2; **not this power's capital**). [[The Three Hamlets Past the Ford]] can see that green and were written as remainder (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them). The queue is visible. It is not a metaphor. Pair with [[Ornsael]] on [[Saelthael]]: same sowing, origin-continent leftover.
 
 - **Production (R.13).** Moved off the player body:
 - Named-stub for [[Roadmap|Story 7.1]].

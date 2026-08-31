@@ -17,11 +17,10 @@ updated: 2026-08-30
 
 # The Watchers
 
-> **What this is.** The working people of [[The Watching]] (*Haelthael*) — the Watchers sketched on that faith note, now built as a faction. They are **not priests** and they have **no mother-church**. The First Seat grew over the rooms that would have been one. What they keep is a vigil and a second voice. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+> **What this is.** The working people of [[The Watching]] (*Haelthael*) — the Watchers sketched on that faith note, now built as a faction. They are **not priests** and they have **no mother-church**. The First Seat grew over the rooms that would have been one. What they keep is a vigil and a second voice.
 
-> **Canon status.** 🟡 **Proposed** (the liturgical name, whether a Second-reader is a reputation or just any Watcher, whether the old rooms coordinate at all). 🔒 **Locked upstream:** Watchers exist; they keep the Night Watch; they offer a second reading *alongside* the [[The Tree-Wardens|tree-warden]], not over; no seat in Thaeloren's shadow; they recruit by faith / practice / Condition-lean, never by [[Kinds of the Turning|Kind]].
 
-*(Everyday, everywhere they are known: **Watchers.** Liturgical, 🟡: **the Nethoren** — NETH-or-en — [[The Old Tongue|neth]] "night" + [[The Old Tongue|oren]] "to witness": those who *keep the night and speak what was seen.* The Waiting Lands say **the night-kin**; the Ledger Coast barely has one (*vigil-folk*); the Tallied Crown files the house as **the Grown-Over** and its people as **the second column**.)*
+*(Everyday, everywhere they are known: **Watchers.** Liturgical: **the Nethoren** — NETH-or-en — [[The Old Tongue|neth]] "night" + [[The Old Tongue|oren]] "to witness": those who *keep the night and speak what was seen.* The Waiting Lands say **the night-kin**; the Ledger Coast barely has one (*vigil-folk*); the Tallied Crown files the house as **the Grown-Over** and its people as **the second column**.)*
 
 **In one sentence:** they are the neighbour who will sit up with the Tree the night before Turning-Week, and the second pair of eyes a family sends for when a leaf comes down strange — they *describe*, they do not *confirm*. They have day jobs. The house is a practice, not a wage.
 
@@ -190,11 +189,19 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
 - [[The Tree-Wardens]] — the civic Speaking they sit beside · [[Turning Tree]] (Thaeloren)
 - [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Maiethorn]] · [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over)
-- [[The Old Tongue]] (Nethoren 🟡) · [[Law and Citizenship]] · [[Kinds of the Turning]]
+- [[The Old Tongue]] (Nethoren) · [[Law and Citizenship]] · [[Kinds of the Turning]]
 - [[The Child at Four Doors]] · [[Laevila]] · [[People of the Turning]]
-- [[Roadmap]] (Epic 5, Story 5.2; mouth R.8) · [[05 - Factions]]
+- [[Roadmap]] · [[05 - Factions]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The working people of [[The Watching]] (*Haelthael*) — the Watchers sketched on that faith note, now built as a faction. They are **not priests** and they have **no mother-church**. The First Seat grew over the rooms that would have been one. What they keep is a vigil and a second voice. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+- > **Canon status.** 🟡 **Proposed** (the liturgical name, whether a Second-reader is a reputation or just any Watcher, whether the old rooms coordinate at all). 🔒 **Locked upstream:** Watchers exist; they keep the Night Watch; they offer a second reading *alongside* the [[The Tree-Wardens|tree-warden]], not over; no seat in Thaeloren's shadow; they recruit by faith / practice / Condition-lean, never by [[Kinds of the Turning|Kind]].
+- - [[Roadmap]] (Epic 5, Story 5.2; mouth R.8) · [[05 - Factions]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **They are the keystone's unexpected corroborators, and they will still miss.** Per [[Is the Leaf-Mother Real]] the seeing *is* hers. Per [[The Other Hands]] they have hold of a household before it was named Mother, and of a cost. Do not confirm their metaphysics. Do not give them a seat in a late reveal — that would turn the heretics into a second Motherfaith. The warmth lands *through* them, not *as* them.
@@ -209,3 +216,10 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
 - **Paranoid voice is load-bearing for this rewrite.** The note second-guesses its own sentences because the house does. Do not make them a secret police.
 - **Unlock vs Door-Keepers.** The old "do not let them" lock is lifted. The contested grove is the escalation room. They will not agree. That is the fight.
 - **Hooks.** A mixed fall two houses want to name (warden Speaks one colour; Watcher describes the other); a recut lintel whose hidden face a party is asked to copy; a Bare Tree Second-reader and a Masked household in the same old room; a Threnhael clerk who wants the night *scheduled*; a Night Watch in Vaelun's green; [[Laevila]]'s copy and [[Senithi]]'s marriage.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday, everywhere they are known: **Watchers.** Liturgical, 🟡: **the Nethoren** — NETH-or-en — [[The Old Tongue|neth]] "night" + [[The Old Tongue|oren]] "to witness": those who *keep the night and speak what was seen.* The Waiting Lands say **the night-kin**; the Ledger Coast barely has one (*vigil-folk*); the Tallied Crown files the house as **the Grown-Over** and its people as **the second column**.)*
+- - [[The Old Tongue]] (Nethoren 🟡) · [[Law and Citizenship]] · [[Kinds of the Turning]]

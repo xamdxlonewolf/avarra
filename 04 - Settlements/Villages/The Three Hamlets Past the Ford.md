@@ -67,7 +67,7 @@ Brenod's leftover is the neighbour's week as *duty.* A visitor from the core wil
 
 The yield-hearth. Older *vael* — what the land keeps — not *vaeth*, the waiting. [[The Old Ways]] sit this kitchen. They may refuse the neighbour's week on purpose. Their children are already the land's. A first meal is not a courtesy-card; a later cut from Harrow's, acting on the origin's behalf, still wants the bowl if this ground is an old green.
 
-Vaelun's leftover is host-rights, not a second Harrow. Do not clone the live-front Tree-town onto an old plot. [[The Door-Keepers]] play here. Motherfaith neighbours in Brenod will call Vaelun's Kept children passed-over. Vaelun will not correct them in the Mother's language.
+Vaelun's leftover is host-rights, not a second Harrow. [[The Door-Keepers]] play here. Motherfaith neighbours in Brenod will call Vaelun's Kept children passed-over. Vaelun will not correct them in the Mother's language.
 
 ### Ornath *(OR-nath)*
 
@@ -116,7 +116,14 @@ The Seat's leave still says *the three hamlets past the ford.* Clerks who learn 
 
 The argument does not resolve into a proverb. At dawn somebody still decides whether to lift the cup, wake the child, and take the Harrow road.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- Vaelun's leftover is host-rights, not a second Harrow. Do not clone the live-front Tree-town onto an old plot. [[The Door-Keepers]] play here. Motherfaith neighbours in Brenod will call Vaelun's Kept children passed-over. Vaelun will not correct them in the Mother's language.
 
 - **They are not "living in the past."** A hamlet sending this year's ten-year-olds to Harrow's is doing the present. Narrating them as Brenvaeth-re-enactment is the stacked-ages error.
 - **Cause:** they wait because the wood is slow, the road is long, and the list was written in the Motherwood — not because they were unworthy.

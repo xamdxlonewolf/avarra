@@ -17,11 +17,10 @@ updated: 2026-08-30
 
 # The Book-Hands
 
-> **What this is.** The working people of [[The Fair Hand]] (*Leddoren*) — the Book-hands sketched on that faith note, now built as a faction. They have **no seat** and **many tables**. On [[Polity Archetypes|Lestrand]] they are often the same people as commercial clerks; the faith *is* the profession, worn lightly. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+> **What this is.** The working people of [[The Fair Hand]] (*Leddoren*) — the Book-hands sketched on that faith note, now built as a faction. They have **no seat** and **many tables**. On [[Polity Archetypes|Lestrand]] they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
 
-> **Canon status.** 🟡 **Proposed** (the liturgical name, whether the oldest book-room is first-among-equals or just old, whether they refuse any membership roll). 🔒 **Locked upstream:** Book-hands exist; they witness signings; personal books are not the [[Naming in the Turning|Threnhael]]; they recruit by faith / office / Condition-lean, never by [[Kinds of the Turning|Kind]]. 🔒 **Taste call 2026-08-23:** they do **not** rewrite a [[Bound]]'s Terms. That clause belongs to the Counterparty. They may *witness an ask*; they do not dictate.
 
-*(Everyday: **Book-hands**, or **Settlers.** Liturgical, 🟡: **the Leddhael** — LEDD-hael — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* The Waiting Lands say **Bargainers' clerks**; the Ledger Coast says **the Settling-hands**; the Tallied Crown files them as **the Uncounted Book**.)*
+*(Everyday: **Book-hands**, or **Settlers.** Liturgical: **the Leddhael** — LEDD-hael — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* The Waiting Lands say **Bargainers' clerks**; the Ledger Coast says **the Settling-hands**; the Tallied Crown files them as **the Uncounted Book**.)*
 
 **In one sentence:** they are notaries — hull in the morning, a child's private book at Turning-Week — and the person who will help a Struck find a *payable year* (a hall, a warrant). They will recite a Bound's Terms on oath-day. They will not change those Terms.
 
@@ -181,10 +180,18 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 - [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Slide]]
 - [[Tithe-Infrastructure]] · [[The Hall-Keepers]] · [[The Greens-Keepers]] — the hall and share a settling may assume
 - [[Strandoren]] · [[Polity Archetypes|Lestrand]] · [[Naming in the Turning]] (the Uncounted Book)
-- [[The Old Tongue]] (Leddhael 🟡) · [[Kinds of the Turning]]
-- [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
+- [[The Old Tongue]] (Leddhael) · [[Kinds of the Turning]]
+- [[The Child at Four Doors]] · [[Roadmap]] · [[05 - Factions]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The working people of [[The Fair Hand]] (*Leddoren*) — the Book-hands sketched on that faith note, now built as a faction. They have **no seat** and **many tables**. On [[Polity Archetypes|Lestrand]] they are often the same people as commercial clerks; the faith *is* the profession, worn lightly. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+- > **Canon status.** 🟡 **Proposed** (the liturgical name, whether the oldest book-room is first-among-equals or just old, whether they refuse any membership roll). 🔒 **Locked upstream:** Book-hands exist; they witness signings; personal books are not the [[Naming in the Turning|Threnhael]]; they recruit by faith / office / Condition-lean, never by [[Kinds of the Turning|Kind]]. 🔒 **Taste call 2026-08-23:** they do **not** rewrite a [[Bound]]'s Terms. That clause belongs to the Counterparty. They may *witness an ask*; they do not dictate.
+- - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Wrong about the verb, right about the ache — now wearing a stamp.** Per the keystone, Leaf-Fall is a gift, not a signing. Per [[The Other Hands]], *Orledd* answers sworn asks; the Fair Hand is right about that door and wrong that every becoming is a bargain. Do not let a Book-hand retcon a Given child into a debtor. **Do not let a Book-hand rewrite Orledd's clause.** A petition-watch is *keeping the door* (purchase); it is not acolyte-authority. Do not play them as devil-worship, devil-acolytes, or capitalism-cosplay. They are as sincere as the Orenhael.
@@ -200,3 +207,10 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
   5. **Not Orledd's acolytes.** Load-bearing unless you reopen it. A petition-watch is the closest honest tie. Dictating terms would make them a devil-church and flatten the Book Alone branch.
 - **Do not invent a Kumbaan counting-house or a Kind-notary.**
 - **Hooks.** A personal book the crown wants copied; a civic settling the party is asked to warrant; a Bound who wants the clause changed and is sent down the quay; a petition-watch that answers (or does not); a high house that will not take Tithe-poor closings; Greyhull's seventh day coming due on the road.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday: **Book-hands**, or **Settlers.** Liturgical, 🟡: **the Leddhael** — LEDD-hael — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* The Waiting Lands say **Bargainers' clerks**; the Ledger Coast says **the Settling-hands**; the Tallied Crown files them as **the Uncounted Book**.)*
+- - [[The Old Tongue]] (Leddhael 🟡) · [[Kinds of the Turning]]

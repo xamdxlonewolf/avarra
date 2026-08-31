@@ -17,7 +17,7 @@ updated: 2026-08-30
 
 # The Greens-Keepers
 
-Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael* 🟡. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].
+Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael*. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].
 
 **In one sentence:** they keep the lot — and they will not follow you home.
 
@@ -44,3 +44,9 @@ They recruit by practice, not Kind. They do not steal a scion. They do not expor
 
 - Folded as a jurisdiction, not a faction-clone. Texture (buried leaf, "we do not know a pot") stays playable on the sector note. Do not grow a Green Seat in a later polish.
 - The buried leaf is inscrutable. A PC who digs it up has committed a local rudeness, not found a cosmology.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael* 🟡. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].

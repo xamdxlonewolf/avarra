@@ -35,7 +35,7 @@ Wealthy [[Strandoren]] interior: mature Trees, dense Given, guilds thick — and
 
 ## Structure & Membership
 
-A writing-crown or writing-council (leave the exact throat for 7.3). Licence-guilds as state organs. Recruits not by Kind. The [[Law and Citizenship|Struck]] are pursued to be catalogued because an unwitnessed change is a row that appeared without a clerk.
+A writing-crown or writing-council; the exact throat remains unnamed. Licence-guilds as state organs. Recruits not by Kind. The [[Law and Citizenship|Struck]] are pursued to be catalogued because an unwitnessed change is a row that appeared without a clerk.
 
 ## Goals & Methods
 
@@ -63,3 +63,5 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 - [[Law and Citizenship]] · [[Naming in the Turning]] · [[The Old Tongue]]
 - [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
 - [[Roadmap]] (Story 7.1; history R.9)
+
+- **P2.1 tracker move.** Additional moved label: Story 7.3 on the still-unnamed governing throat.

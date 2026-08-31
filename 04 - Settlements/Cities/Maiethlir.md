@@ -53,7 +53,7 @@ A wall exists and is old. It was for floods and for a generation of argument, no
 
 Concentric around the canopy, then radial along the river and the old extra-mile. Ordered the way a counted city becomes ordered: not a grid drawn last week, an accretion that learned numbers.
 
-- **The Tree at the centre** — a mature Hand, not the First. Civic and sacred heart, as [[Daily Life]] requires. Leaf-Fall is a joyous holy day that is also a state registration. The colour is Spoken. A clerk waits to copy it. **Rithim** *(RITH-im)* 🟡 Speaks. They do not always let the copy happen in the same breath.
+- **The Tree at the centre** — a mature Hand, not the First. Civic and sacred heart, as [[Daily Life]] requires. Leaf-Fall is a joyous holy day that is also a state registration. The colour is Spoken. A clerk waits to copy it. **Rithim** *(RITH-im)* Speaks. They do not always let the copy happen in the same breath.
 - **The tablet-hall** — the Threnhael's local mouth. Not the Tree. Beside it. Names, colours, marriages of heritable Conditions *noticed*. Outsiders hear "the Counting." Clerks say they keep the realm hale.
 - **The counted hall** — [[Naming in the Turning|ael-hall]] as outlet *and* attendance. A Far-Voiced hour furnished through the crown's channel. To be cut off is framed as your lapse.
 - **The old extra-mile** — still a street. Upper rooms that used to sleep pilgrims are clerk-dorms. A Held bed would offend the roll; the roll has not found all of them. The Watching keep a room under a chapel the wardens recut ([[The Watchers|the Grown-Over]]).
@@ -62,7 +62,7 @@ Concentric around the canopy, then radial along the river and the old extra-mile
 - **The crown-stiller** — excellent medicine, downwind, through the channel. The Bound are watched past their hazard, dressed as safety.
 - **The far shed** — Returned work past the last conduit. Filed.
 
-Homes accommodate becomings, and the accommodation is on the tablet. Mixed Kinds. A Fox of the Snows down from Lirorn is a guest with a name. Do not grow Kind-quarters. Do not clone the Slide; the late week here is *unfiled*, which is the local crime.
+Homes accommodate becomings, and the accommodation is on the tablet. Mixed Kinds. A Fox of the Snows down from Lirorn is a guest with a name. Do not grow Kind-quarters.
 
 The clerks will tell you a number. It changes after every Eolthael. Do not put the number in a player-facing sentence as if it were geology.
 
@@ -116,7 +116,14 @@ The Kept are pitied *and* noted as unmarked. A household whose bloodline and upk
 
 Rithim cannot afford to see that "I have not said the line" is the only refusal the roll still has to metabolize, or that a loud river is a leftover the verso will file as weather. The clerk calls the delay weather; Rithim calls it the hymn coming first. The First Seat, asked later, will say only that the Tree witnessed.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- Homes accommodate becomings, and the accommodation is on the tablet. Mixed Kinds. A Fox of the Snows down from Lirorn is a guest with a name. Do not grow Kind-quarters. Do not clone the Slide; the late week here is *unfiled*, which is the local crime.
 
 - **Do not capture the First Seat in the first sentence, or the fifth.** Proximity is pressure. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll — and keep Rithim as the local version of that refusal, incomplete.
 - **Do not own Thaeloren.** This is a Hand beside a thaw-river. The grove is a dark on the horizon. Orenbren lodges the other road. Brenthael is a neighbour of an inn, not this capital.
@@ -135,3 +142,9 @@ Rithim cannot afford to see that "I have not said the line" is the only refusal 
 - [[Eolvaeth]] · [[Orentel]] — the other two seats
 - [[Rithim]] · [[Laevila]] · [[People of the Turning]] · [[The Reckoned Offices]]
 - [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11)
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- - **The Tree at the centre** — a mature Hand, not the First. Civic and sacred heart, as [[Daily Life]] requires. Leaf-Fall is a joyous holy day that is also a state registration. The colour is Spoken. A clerk waits to copy it. **Rithim** *(RITH-im)* 🟡 Speaks. They do not always let the copy happen in the same breath.

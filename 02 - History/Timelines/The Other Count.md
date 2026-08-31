@@ -14,9 +14,8 @@ updated: 2026-08-31
 
 # The Other Count
 
-> **What this is.** The dated years inside C.Y. 0–387 that are **not** the spread of grafts. Two clocks still organize how you Turned and where the wood has reached ([[The Ages of the Turning]]). This note is the proof that three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. Built for [[Roadmap|Story R.9]] with `systemic-worldbuilding`, `world-fates` (shifts already in the past), `oblique-worldbuilding`, and `cliche-transcendence` (the Closed Seat is a gate that grew a country, not a dark lord).
+> **What this is.** The dated years inside C.Y. 0–387 that are **not** the spread of grafts. Two clocks still organize how you Turned and where the wood has reached ([[The Ages of the Turning]]). This note is the proof that three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace.
 
-> **Canon status.** 🟡 **Lived chronicle (2026-08-30).** 🔒 **Does not move the two clocks, the present year, the spread-bands, or the undated Tree.** 🔒 **Who cut remains unpicked.** Names of the five years and the Closed Seat are working common-tongue — no new liturgy. World book untouched.
 
 ## The two clocks still stand
 
@@ -76,20 +75,30 @@ The clerk cannot afford to see that "171 is not a Cut we honor" is how a fever b
 
 - **Who cut.** Five attributions stand ([[The First Cut]]). The Closing is about the *copy*, not the knife.
 - **The nature of her limit.** A war over access is people. It is not a wound-theory.
-- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[The Hinge Shore]].
-- **Named terrain.** ✅ Story R.10 → [[Named Ground]] (the Old Crossing · the Rain-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash).
-- **Adventure-site procedure.** ✅ Story R.11: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] now have entrances, pressures, discoveries, and current actors. Still do not date them.
+- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]].
+The three sites remain undated.
 
 ## Links
 - The five: [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
 - Already on the shelf: [[The Wrong Green]] · [[The First Cut]] · [[The Ages of the Turning]]
-- Leftovers: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] (R.11 depth)
+- Leftovers: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[The Walled Book]] · [[Powers of the Turning]] · [[The White Note House]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Before the Walk]]
-- [[02 - History]] · [[Roadmap]] (Story R.9; R.11)
+- [[02 - History]] · [[Roadmap]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The dated years inside C.Y. 0–387 that are **not** the spread of grafts. Two clocks still organize how you Turned and where the wood has reached ([[The Ages of the Turning]]). This note is the proof that three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. Built for [[Roadmap|Story R.9]] with `systemic-worldbuilding`, `world-fates` (shifts already in the past), `oblique-worldbuilding`, and `cliche-transcendence` (the Closed Seat is a gate that grew a country, not a dark lord).
+- > **Canon status.** 🟡 **Lived chronicle (2026-08-30).** 🔒 **Does not move the two clocks, the present year, the spread-bands, or the undated Tree.** 🔒 **Who cut remains unpicked.** Names of the five years and the Closed Seat are working common-tongue — no new liturgy. World book untouched.
+- - **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[The Hinge Shore]].
+- - **Named terrain.** ✅ Story R.10 → [[Named Ground]] (the Old Crossing · the Rain-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash).
+- - **Adventure-site procedure.** ✅ Story R.11: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] now have entrances, pressures, discoveries, and current actors. Still do not date them.
+- - [[02 - History]] · [[Roadmap]] (Story R.9; R.11)
 
 - **Two clocks + a chronicle.** If play starts treating C.Y. numbers as a fourth age, pull back to Clock 1 / Clock 2. The Other Count is *what happened while the wood travelled*, not a replacement spine.
 - **The Closed Seat is not a dark lord and not a first king.** They rationed the one seeing. The Seat later rationed wood. The Close still ranks. Four different papers preserve four human choices.

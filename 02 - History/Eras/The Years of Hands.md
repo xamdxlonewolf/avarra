@@ -19,7 +19,6 @@ updated: 2026-08-30
 
 > **Clock 1, new default — and the present. Not post-history.** A town [[Turning Tree]] is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical 🔒: **Ornthael** *(ORN-thael)* — "Tree-land." The Grafting is **not** a previous age you exit; it is Clock 2 still moving. Spine: [[The Ages of the Turning]]. How you used to walk: [[The Walking Years]]. How the wave moved: [[The First Cut]]. This note is what the Walking left on the ground, and what this year still is. Settlement types this leftover made: [[Settlement Seeds]].
 
-> **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🔒 **Name and present C.Y. 387 locked 2026-08-24.** 🟡 **Lived texture (Story 6.4):** the walk's three jobs, mile-shrines and upper rooms now, road-past as credit, Heskoren as live front, fate-pressure noted not rolled. Names *the extra mile / the neighbour's week / the stone in the square / the upper room* are working coinages — polish later; do not rebuild the spine, the lived road, or the Cut.
 
 ## Overview
 
@@ -40,7 +39,7 @@ Do not narrate Ornthael as "the modern age after the Grafting." Two clocks. The 
 
 ## The walk's three jobs (it changed work, it did not vanish)
 
-In Brenvaeth the walk was *how you Turned.* In Ornthael it is three jobs that share roads, inns, and the one-week door, and do not share a reason. Stance-variants live in [[Naming in the Turning]]. 🟡
+In Brenvaeth the walk was *how you Turned.* In Ornthael it is three jobs that share roads, inns, and the one-week door, and do not share a reason. Stance-variants live in [[Naming in the Turning]].
 
 | Job | Who still walks | What they are buying | What they are not |
 |---|---|---|---|
@@ -105,7 +104,7 @@ A road that "ends" is a Clock 1 sentence. The necessity-family from the next val
 
 ## Deathless houses' road-past as present credit
 
-Many [[Economy and the Tithe|deathless houses]] began as **road-houses**. That fate-shift is already in the past: inns → banks, the same Long-Lived, a different fortune. Story 6.4's job is the *present tense of that memory.*
+Many [[Economy and the Tithe|deathless houses]] began as **road-houses**. That fate-shift is already in the past: inns → banks, the same Long-Lived, a different fortune.
 
 **The founding-summer is the credit.** "We kept you on the mile" is an origin-story that still collects. A century-loan written from a house-year is not only a dating-quirk ([[The Ages of the Turning|Ledan's query]]). It is a claim that the porridge was real, the note was real, and the house is still the same mouth. No mortal court can audit a [[Long-Lived]]'s memory of a walk two hundred summers back. That is why the trusted note holds. It is also why a house can call a debt whose grandchildren do not remember the ford.
 
@@ -141,7 +140,7 @@ Vaethorn will preach that the houses *abandoned the waiting-road*. History's job
 
 Seat narration: *her will is still travelling.* Folk memory: *the cart came late, the soil was called thin, we can see Harrow's green from here.* Vaethorn will preach *we wait because we are unworthy.* History does not agree. They wait because the wood is slow, the road is long, and the list was written in the Motherwood.
 
-The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. Playable square: [[Ornsael]] — R.11: the Hand Speaks most years; the well is dropping; the west-road is water. Do not dump it onto Heskoren. Do not forget it. A west-road child after the Sacred Core has stopped walking is Clock 2 on the Motherland, which is how you know Ornthael is not a finished age.
+The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. Playable square: [[Ornsael]] — the Hand Speaks most years; the well is dropping; the west-road is water. Do not dump it onto Heskoren. Do not forget it. A west-road child after the Sacred Core has stopped walking is Clock 2 on the Motherland, which is how you know Ornthael is not a finished age.
 
 ## What is strained (the present tense of pressure)
 
@@ -152,11 +151,11 @@ Not a chronicle of collapse. The wheel has not been rolled. What a traveller can
 - **Waiting towns** hang on a single scion, or on a neighbour's week. That is a civic crisis wearing a child's summer.
 - **Deathless houses** are richer in paper than in beds. The road-past is the credit. The upper room is the tell.
 
-Play may later ask what gives. Story 6.4 does not answer. It leaves the pressure on the table. See GM Notes.
+Play may later ask what gives. It leaves the pressure on the table. See GM Notes.
 
 ## Settlement seeds
 
-Epic 7 builds places. Story 7.2 fleshed four leftover types. The catalog: [[Settlement Seeds]]. Squares:
+The catalog is [[Settlement Seeds]]. Playable squares:
 
 - [[Harrow's Green]] — a live-front Tree-town; the neighbour's canopy ✅
 - [[The Three Hamlets Past the Ford]] — waiting cluster; the queue made visible ✅
@@ -201,9 +200,19 @@ The teaching-story of the leftover is [[The Child Who Climbed the Stone]] — a 
 
 A [[Phoenix]]'s rebirths remain the one era-marker even Hands-towns cannot file. Do not name historical Phoenixes until a story needs a fishbowl that old.
 
-Named powers wait on remaining stubs; districts of the three archetype seats wait on [[Roadmap|Story 7.3]]. Playable squares sit on the ground: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. The unused seed-types are still on the catalog.
+Playable squares sit on the ground: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. The unused seed-types are still on the catalog.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🔒 **Name and present C.Y. 387 locked 2026-08-24.** 🟡 **Lived texture (Story 6.4):** the walk's three jobs, mile-shrines and upper rooms now, road-past as credit, Heskoren as live front, fate-pressure noted not rolled. Names *the extra mile / the neighbour's week / the stone in the square / the upper room* are working coinages — polish later; do not rebuild the spine, the lived road, or the Cut.
+- Many [[Economy and the Tithe|deathless houses]] began as **road-houses**. That fate-shift is already in the past: inns → banks, the same Long-Lived, a different fortune. Story 6.4's job is the *present tense of that memory.*
+- Play may later ask what gives. Story 6.4 does not answer. It leaves the pressure on the table. See GM Notes.
+- Epic 7 builds places. Story 7.2 fleshed four leftover types. The catalog: [[Settlement Seeds]]. Squares:
+- Named powers wait on remaining stubs; districts of the three archetype seats wait on [[Roadmap|Story 7.3]]. Playable squares sit on the ground: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. The unused seed-types are still on the catalog.
 
 - **The present is not post-history.** Especially on Heskoren. Narrating Ornthael as "the modern age after the Grafting" re-creates the stacked-ages cliché the spine refused. Two clocks. The wave is live. A sick Tree in the core puts a Hands-town back on the neighbour's week; that is Clock 1 flipping, not an age ending.
 - **The boots left; the credit remained.** Local Trees changed who is expected to have been seen at ten. Mataero's loft and the three hamlets show the two different debts that survived.
@@ -233,3 +242,11 @@ Named powers wait on remaining stubs; districts of the three archetype seats wai
 - [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
 - [[Naming in the Turning]] · [[The Old Tongue]] · [[Long-Lived]] · [[Phoenix]]
 - [[02 - History]] · [[Roadmap]] (Story 6.4)
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- In Brenvaeth the walk was *how you Turned.* In Ornthael it is three jobs that share roads, inns, and the one-week door, and do not share a reason. Stance-variants live in [[Naming in the Turning]]. 🟡
+
+- **P2.1 tracker move.** Additional moved labels: Epic 7 placement and R.11 Ornsael depth.

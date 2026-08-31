@@ -17,11 +17,10 @@ updated: 2026-08-30
 
 # The Stillers
 
-> **What this is.** The model **safety-guild** from [[Law and Citizenship]] — guild-issued tickets, the state watching the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.3]].
+> **What this is.** The model **safety-guild** from [[Law and Citizenship]] — guild-issued tickets, the state watching the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police.
 
-> **Canon status.** 🟡 **Proposed** (the liturgical name, whether a ticket can be held as guild-property). 🔒 **Locked upstream:** the Stilled are the strictest licence; Given train young; Struck arrive raw (survived stone); the Gaze never seizes a will; Grey is burned off by exertion. Recruits by practice / office / Condition-lean, **not Kind**.
 
-*(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical, 🟡: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
+*(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
 
 **In one sentence:** they will save you on the table, and they will make you drill until the Grey is gone — the ticket is competence, and the clock in the surgeon is the hospital's clock.
 
@@ -151,10 +150,18 @@ On its face: a college keeping its people hale, the code in a work-order. Undern
 - [[The Stilled]] — the Condition · [[Law and Citizenship]] · [[Daily Life]] — the uncanny theatre
 - [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Greens-Keepers]]
 - [[The Tree-Wardens]] · [[The Book-Hands]] · [[The Watchers]] · [[The Slide]]
-- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*stel* · *Stelhael* 🟡)
-- [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
+- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*stel* · *Stelhael*)
+- [[Roadmap]] · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The model **safety-guild** from [[Law and Citizenship]] — guild-issued tickets, the state watching the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.3]].
+- > **Canon status.** 🟡 **Proposed** (the liturgical name, whether a ticket can be held as guild-property). 🔒 **Locked upstream:** the Stilled are the strictest licence; Given train young; Struck arrive raw (survived stone); the Gaze never seizes a will; Grey is burned off by exertion. Recruits by practice / office / Condition-lean, **not Kind**.
+- - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: monster-police, medusa-cult, superhero registry. Rotate. Form stays surgeon's college (load-bearing). They want a street that does not seize and a patient who lives. They do not want a register of the feared.
@@ -165,3 +172,10 @@ On its face: a college keeping its people hale, the code in a work-order. Undern
 - **Inviolate Will is load-bearing.** No mind-control charges. Forever-hold of a *person* is ordinary violent crime, the code's one named horror.
 - **No Kind-gate. No Kumbaan college. No Stillers' pope.**
 - **Hooks.** A raw Struck in a frontier square and a rope already in the hand; a Grey-roster that filed a person as lapse; a crown-clerk who wants the guild-roll copied onto the Threnhael; a ticket-chair that outlived the stiller; a PC who forgets the knob; Intake week pulling the only master off a plague theatre.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical, 🟡: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
+- - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*stel* · *Stelhael* 🟡)

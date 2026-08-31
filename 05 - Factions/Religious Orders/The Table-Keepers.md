@@ -17,11 +17,10 @@ updated: 2026-08-31
 
 # The Table-Keepers
 
-> **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — hill-hosts on [[The Sundering Isle|Kumbaan]]. They are **almost not clergy**. A Yumboe abroad keeping an attic is how the faith travels, rarely. The storm-shore is a *different* isle job → [[The Shore-Sitters]]. The faith itself is done; this note does not rebuild it.
+> **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — hill-hosts on [[The Sundering Isle|Kumbaan]]. They are **almost not clergy**. A Yumboe abroad keeping an attic is how the faith travels, rarely. The storm-shore is a *different* isle job → [[The Shore-Sitters]].
 
-> **Canon status.** 🟡 **Kept (taste call 2026-08-23).** Names still polishable. 🔒 **Locked upstream:** the rite *is* supper; no chapel; no Kumbaan mission; not a Kind-only order — on the isle they are Yumboe because that is who lives there.
 
-*(Mainland everyday: **table-keepers**, also **hill-hosts.** Own-name, 🟡: **the Njaalo** — NJAH-lo — a [[Yumboe]] coinage in the night-keeping tongue, "the hall that is kept." Not Maiethren; this house owes the liturgy nothing. Sailors say **moon-hosts**. [[Polity Archetypes|Vaethorn]] has them as a sailor's tale. [[Polity Archetypes|Lestrand]] says **the Moon-Feast people** when a quay wants a story. [[Polity Archetypes|Threnmaieth]] does not file them — they are off the map.)*
+*(Mainland everyday: **table-keepers**, also **hill-hosts.** Own-name: **the Njaalo** — NJAH-lo — a [[Yumboe]] coinage in the night-keeping tongue, "the hall that is kept." Not Maiethren; this house owes the liturgy nothing. Sailors say **moon-hosts**. [[Polity Archetypes|Vaethorn]] has them as a sailor's tale. [[Polity Archetypes|Lestrand]] says **the Moon-Feast people** when a quay wants a story. [[Polity Archetypes|Threnmaieth]] does not file them — they are off the map.)*
 
 **In one sentence:** they are the person who opens the hall (or the attic) and lays an extra place — on Kumbaan that is how a valley eats and how a stranger becomes kin; on the mainland it is one room, one supper, and a sentence that will not travel past the lintel.
 
@@ -109,7 +108,7 @@ The extra place is set slightly back from the board, not at the end. A mainlande
 
 ## Who may keep a table
 
-**Not by Kind.** This is the load-bearing courtesy of Epic 5, and it is also already the faith: a mainlander who sits once is a guest; who sits twice is kin. A human, a [[Selkie]], a [[Kitsune]] who will lay the extra place is of the Njaalo. A Yumboe who will not is not. Do not invent a good-people-only order. Do not invent a "moon-chapter" of any other Kind.
+**Not by Kind.** This is the order’s load-bearing courtesy, and it is also already the faith: a mainlander who sits once is a guest; who sits twice is kin. A human, a [[Selkie]], a [[Kitsune]] who will lay the extra place is of the Njaalo. A Yumboe who will not is not. Do not invent a good-people-only order. Do not invent a "moon-chapter" of any other Kind.
 
 **By practice first.** You are a table-keeper when the valley (or the attic-stair) comes to you, and you set the place. There is no apprenticeship confirmed by a Seat. A child who has carried dishes on the bright nights is being watched. A mainland convert who has sat twice and opened their own room is being watched by whoever they fed.
 
@@ -176,9 +175,17 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
 - [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]]
 - [[Naming People in the Turning]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon)
 - [[Law and Citizenship]] · [[Kinds of the Turning]]
-- [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
+- [[The Child at Four Doors]] · [[Roadmap]] · [[05 - Factions]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The working people of [[The Open Table]] (*Ndeyaan*) — hill-hosts on [[The Sundering Isle|Kumbaan]]. They are **almost not clergy**. A Yumboe abroad keeping an attic is how the faith travels, rarely. The storm-shore is a *different* isle job → [[The Shore-Sitters]]. The faith itself is done; this note does not rebuild it.
+- > **Canon status.** 🟡 **Kept (taste call 2026-08-23).** Names still polishable. 🔒 **Locked upstream:** the rite *is* supper; no chapel; no Kumbaan mission; not a Kind-only order — on the isle they are Yumboe because that is who lives there.
+- - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Not of her household. Not a Kind-order.** Per [[The Other Hands]] the staying-kin are not *Threnvaeth* or anyone else. Do not absorb Kumbaan. Per [[Kinds of the Turning]] and Epic 5, do not invent a Yumboe-only clergy — even though almost every hill-host on the isle *is* Yumboe, because that is who lives there. The attic convert is the proof the rule holds.
@@ -191,3 +198,11 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
   3. **One job.** Load-bearing. Do not add a "moon-speaker" office in a later polish.
   4. **No mission.** Load-bearing. Revisit only if a campaign *is* the crossing.
 - **Hooks.** Mbela's second sitting that Sorel will not file; a tenth-year child on the landing in Eolthael; a sailor's place-card sold as luck; a mainland convert who opens a room and a Yumboe who will not share it; a warden guest on Kumbaan with no Tree to tend; a rare Struck on the isle treated as family, not a class; [[Ndenjoo]] if the session is on the isle (Nolas, Soonke, Saalo).
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Mainland everyday: **table-keepers**, also **hill-hosts.** Own-name, 🟡: **the Njaalo** — NJAH-lo — a [[Yumboe]] coinage in the night-keeping tongue, "the hall that is kept." Not Maiethren; this house owes the liturgy nothing. Sailors say **moon-hosts**. [[Polity Archetypes|Vaethorn]] has them as a sailor's tale. [[Polity Archetypes|Lestrand]] says **the Moon-Feast people** when a quay wants a story. [[Polity Archetypes|Threnmaieth]] does not file them — they are off the map.)*
+
+- **P2.1 tracker move.** Additional moved label: Epic 5 on the order’s not-by-Kind courtesy.

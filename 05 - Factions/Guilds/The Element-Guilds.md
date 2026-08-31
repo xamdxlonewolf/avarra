@@ -19,7 +19,7 @@ updated: 2026-08-31
 
 > **Four ordinary craft charters sharing one safety rule.** Ember, Tide, Root, and Gale keep separate fees, masters, and work. They share a ticket standard because an idle [[The Answered|Answered]] is a workshop hazard before they are a theological question.
 
-*(Everyday: **the element-guilds**, or the **Ember-house**, **Tide-house**, **Root-house**, **Gale-house.** Umbrella, 🟡: **the Crae** — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. [[Polity Archetypes|Vaethorn]]'s second word is **gift-shops**; [[Polity Archetypes|Lestrand]]'s is **the craft-houses**; [[Polity Archetypes|Threnmaieth]] files **the Reckoned Craes**.)*
+*(Everyday: **the element-guilds**, or the **Ember-house**, **Tide-house**, **Root-house**, **Gale-house.** Umbrella: **the Crae** — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. [[Polity Archetypes|Vaethorn]]'s second word is **gift-shops**; [[Polity Archetypes|Lestrand]]'s is **the craft-houses**; [[Polity Archetypes|Threnmaieth]] files **the Reckoned Craes**.)*
 
 The common name is **the element-guilds**. *The Crae* survives mainly in formal charters.
 
@@ -125,7 +125,7 @@ So the guild's kindness (a shop, a crew, a rotation) is also the leash. Leaving 
 
 The Motherfaith says she answered. The shop-rule is people's work. A kind Tree would not make a rest-year safe.
 
-Do not clone the Grey-roster, the hour, or the gate. This injustice is *exit*. The constraint is the element itself — analog shop, local charter, no authority to make another town take your idle journeyman.
+This injustice is *exit*. The constraint is the element itself — analog shop, local charter, no authority to make another town take your idle journeyman.
 
 The last coal, the cup of yesterday, the unwashed clay, the window that will not shut — those are how each door remembers. Do not explain them as theology.
 
@@ -148,10 +148,18 @@ On its face: a craft keeping its people steady, a little fierce, a monopoly wear
 - [[The Answered]] — the Condition · [[Economy and the Tithe]] · [[Law and Citizenship]]
 - [[The Stillers]] · [[The Hall-Keepers]] · [[The Greens-Keepers]]
 - [[The Tree-Wardens]] — carrying-earth · [[The Book-Hands]] — hulls · [[The Door-Keepers]] · [[The Slide]]
-- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*crae* · *the Crae* 🟡)
-- [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
+- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*crae* · *the Crae*)
+- [[Roadmap]] · [[05 - Factions]] · [[Build Plan]]
+
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- Do not clone the Grey-roster, the hour, or the gate. This injustice is *exit*. The constraint is the element itself — analog shop, local charter, no authority to make another town take your idle journeyman.
+- - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** Defaults: four elemental paladin-chapters, fire-police, Avatar-nations. Rotate. Form stays craft guild (load-bearing). Four doors, one grammar. They want work that slakes and a room that does not let go. They do not want a client.
@@ -161,3 +169,10 @@ On its face: a craft keeping its people steady, a little fierce, a monopoly wear
 - **No Kind-nations.** Gale-Tengu is a lean. Ember-Drakona is a lean. Leans are not chapters.
 - **No Kind-gate. No Kumbaan Crae. No element-pope.**
 - **Hooks.** A benched Ember in a dry month; a Road-hand buying carrying-earth from a Root who wants to walk the scion; a hull that needs Tide and a Book-hand's stamp and only has one; a crown column that wants element *and* person; Intake pulling the only Tide-master off a mid-bend; a PC who wants to leave the shop.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday: **the element-guilds**, or the **Ember-house**, **Tide-house**, **Root-house**, **Gale-house.** Umbrella, 🟡: **the Crae** — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. [[Polity Archetypes|Vaethorn]]'s second word is **gift-shops**; [[Polity Archetypes|Lestrand]]'s is **the craft-houses**; [[Polity Archetypes|Threnmaieth]] files **the Reckoned Craes**.)*
+- - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*crae* · *the Crae* 🟡)

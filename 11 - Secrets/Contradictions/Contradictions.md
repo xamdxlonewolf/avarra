@@ -23,10 +23,15 @@ updated: 2026-08-31
 
 | ID | Kind | What | Home | Route |
 |---|---|---|---|---|
-| **C-01** | Residual (export) | Story numbers, 🟡, "Canon status" blockquotes, and some "Do not clone" lines still sit in player bodies of history, faction, settlement, and MOC notes | Many working notes | **P2.1** — move under `## GM Notes`. Gate: [[Epic R Completion Gate 2026-08-31]] |
 | **C-02** | Stale compile | World book still has *Eolstrand*, *Aeloren*, and "Confirming she is real" guild lines | `14 - Assets/Documents/Setting Book/` | Do **not** rebuild unless asked. Not a vault leak. |
-| **C-03** | Link hygiene | `[[positional-revelation]]` used as a skill wikilink; atlas PNG embeds are path-links, not notes | [[The Watching]] · [[A Hidden Phoenix]] · [[The Atlas Sheets]] | P2.1 or leave as production aids |
-| **C-04** | Taste-open | Liturgical house-names still 🟡 (Orenhael, Nethoren, Leddhael, …) | Faction / faith notes | Not a contradiction. Polish only if a later pass asks. Coinage freeze still holds. |
+
+## Resolved in P2.1
+
+| ID | What | Resolution |
+|---|---|---|
+| **C-01** | Production scaffolding remained in player bodies | Story/pass numbers, "Canon status" blocks, and clone/rebuild directives moved under `## GM Notes` across history, faction, settlement, and player MOC notes. |
+| **C-03** | Skill wikilinks and atlas embeds looked like broken note links | Skill references on [[The Watching]] and [[A Hidden Phoenix]] are now code text. Atlas PNG embeds remain unchanged as GM production aids; the image files are not tracked in the vault, so inventing replacement paths would not repair them. |
+| **C-04** | Liturgical house-name markers remained visible | User chose option 2: names remain in player text, while 🟡 and their taste-open status moved under `## GM Notes`. No name was locked, changed, or newly coined. |
 
 ## Resolved this gate (do not reopen as Epic R)
 

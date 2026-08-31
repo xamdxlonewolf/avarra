@@ -13,7 +13,7 @@ updated: 2026-08-30
 
 Governments, organizations, guilds, religious orders, militaries, and criminal powers.
 
-Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]]. See [[Roadmap#Epic 5 — Factions & Orders]].
+Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]]. The orders and offices below share that rule.
 
 ## Live fights (can leave the table)
 
@@ -28,7 +28,7 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 
 ### Governments
 
-The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Seats and leftover-squares already exist (7.2–7.3). The Inner Close stays inside [[Orenbren]] (🔒 Story R.10). Kumbaan is not a thirteenth mainland power.
+The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Seats and leftover-squares already exist. The Inner Close stays inside [[Orenbren]]. Kumbaan is not a thirteenth mainland power.
 
 - [[Powers of the Turning]] — hub (count, axes, network, two-mouths document)
 - [[Maiethorn]]: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[The Hinge Shore]] · [[Lirorn]] *(plus Threnmaieth)*
@@ -37,7 +37,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 - [[The Reckoned Offices]] — Threnmaieth's named mouths (registrar, Reckoned Speaker, channel-clerk, warrant-hand)
 - [[The Walled Book]] — Kept-class remnant; the Inner Close inside Orenbren; not a sixteenth flag
 
-### Religious orders (Epic 5)
+### Religious orders
 
 | House | The job, in one line | Who sends for them |
 |---|---|---|
@@ -50,13 +50,13 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 | [[The Shore-Sitters]] | Sit the storm-beach; wait; walk the living uphill | A wreck; a year of empty sand |
 | [[The Pourers]] | Five-year pours into a cup they say they made | A Long-Lived whose funerals have stacked; a withdrawer the long-house will not seat |
 
-- [[The Tree-Wardens]] — everyday *tree-wardens*; liturgical *Orenhael* 🟡.
+- [[The Tree-Wardens]] — everyday *tree-wardens*; liturgical *Orenhael*.
 - [[The Remainder]] — everyday *the Remainder* / remainder-clerks. A desk of the First Seat. They keep [[The Spent Leaf]].
-- [[The Watchers]] — everyday *Watchers*; liturgical *Nethoren* 🟡. Mouth: [[Laevila]].
-- [[The Book-Hands]] — everyday *Book-hands*; liturgical *Leddhael* 🟡. Do **not** rewrite Bound Terms.
-- [[The Door-Keepers]] — everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡.
-- [[The Table-Keepers]] — everyday *table-keepers*; own-name *Njaalo* 🟡.
-- [[The Shore-Sitters]] — isle flavor; own-name *Njawaal* 🟡.
+- [[The Watchers]] — everyday *Watchers*; liturgical *Nethoren*. Mouth: [[Laevila]].
+- [[The Book-Hands]] — everyday *Book-hands*; liturgical *Leddhael*. Do **not** rewrite Bound Terms.
+- [[The Door-Keepers]] — everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren*.
+- [[The Table-Keepers]] — everyday *table-keepers*; own-name *Njaalo*.
+- [[The Shore-Sitters]] — isle flavor; own-name *Njawaal*.
 - [[The Pourers]] — everyday *the Pourers* / *the Cup Circle*. Wear [[The Unspent]]. Not a sixth faith. Seed: [[Reimaethe]].
 
 ### Shadow houses
@@ -68,7 +68,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 | [[The Standing Trade]] | Sell a mouth that will say *I was there* | An unvouched traveller; a name that must cross a warrant-line |
 | [[The Protectors]] | Keep the one Phoenix in care (public); harvest the fire (GM) | A square that wants the one; a white-fire letter; a hush |
 
-- [[The Slide]] — everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡. Official guilds no longer pretend not to know them when the doors meet.
+- [[The Slide]] — everyday *the Slide* / *week-keepers*; cant *Vaethledd*. Official guilds no longer pretend not to know them when the doors meet.
 - [[The Holding Desk]] — everyday *hold-clerks*. Not the Slide. Not the unused Back Table.
 - [[The Standing Trade]] — everyday *the Standing Trade*. Not the Slide. Not a reopening of the unused Bought Watch pick.
 - [[The Protectors]] — everyday *the Protectors* / *the Care*. Public hospice. Harvest stays behind the wall.
@@ -100,3 +100,25 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 ## Related
 - [[Roadmap]] · [[Powers of the Turning]] · [[People of the Turning]]
 - [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]]
+
+## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Seats and leftover-squares already exist (7.2–7.3). The Inner Close stays inside [[Orenbren]] (🔒 Story R.10). Kumbaan is not a thirteenth mainland power.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- - [[The Tree-Wardens]] — everyday *tree-wardens*; liturgical *Orenhael* 🟡.
+- - [[The Watchers]] — everyday *Watchers*; liturgical *Nethoren* 🟡. Mouth: [[Laevila]].
+- - [[The Book-Hands]] — everyday *Book-hands*; liturgical *Leddhael* 🟡. Do **not** rewrite Bound Terms.
+- - [[The Door-Keepers]] — everyday *door-keepers* / *Kin-speakers*; liturgical *Vaelbren* 🟡.
+- - [[The Table-Keepers]] — everyday *table-keepers*; own-name *Njaalo* 🟡.
+- - [[The Shore-Sitters]] — isle flavor; own-name *Njawaal* 🟡.
+- - [[The Slide]] — everyday *the Slide* / *week-keepers*; cant *Vaethledd* 🟡. Official guilds no longer pretend not to know them when the doors meet.
+
+- **P2.1 tracker move.** Additional moved labels: Epic 5 section and tracker references.

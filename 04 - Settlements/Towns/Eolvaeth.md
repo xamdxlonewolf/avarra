@@ -39,7 +39,7 @@ It is not a throne. Governance here is almost absent. What sits in the vale is a
 
 [[Saelvaeth]]'s luck is a different weather, further along the wave. [[Harrow's Green]] is a Hand that grew up. The three hamlets can see that canopy from a ford. Eolvaeth cannot see it, and does not want to: wanting it would be admitting the wait is a queue. The gospel says stay. Horticulture, some years, says send.
 
-**Leftover job on this street: devotion** — the wait as a pilgrimage destination. Necessity is what visitors from thinner districts are actually doing; the town will not call it that. Prestige does not book a thin vale. Do not make all three the seat's theme. Do not clone the hamlets' leftover.
+**Leftover job on this street: devotion** — the wait as a pilgrimage destination. Necessity is what visitors from thinner districts are actually doing; the town will not call it that. Prestige does not book a thin vale. Do not make all three the seat's theme.
 
 ## Site
 
@@ -94,7 +94,7 @@ Offices that must exist:
 
 - **Town-warden ([[Vaethod]])** — Hands-folk, practice-first, not Kind. Speaks the fall truly enough for a waiting-seat. Will not write a colour that didn't happen, even if a visiting clerk wants the hinge tidy. The year they send a cohort toward Saelvaeth is the year the gospel and the wood disagree. They have not resigned.
 - **The square that watches, and the camp-streets that watch instead** — some years the witness is local. Some years it has to walk home from a luckier Hand. Vouching-at-a-distance on a gospel-capital is the tell that waiting is still a road.
-- **Road-hands passing through** — they sleep in the town that was chosen early and stayed thin, on the way to a town that was not chosen this year. Do not clone them as an Eolvaeth chapter.
+- **Road-hands passing through** — they sleep in the town that was chosen early and stayed thin, on the way to a town that was not chosen this year.
 - **Vaethorn-folk custom** — light state, hot faith, alms. No list. [[Polity Archetypes|Threnmaieth]] would like one. [[Ornled]] would not understand why anyone stays.
 
 The unvouched Struck are the ache this seat was built to meet with faith rather than machinery. A congregation deciding whether faith or fear wins is a session, not a district.
@@ -120,7 +120,15 @@ The leftover is devotion. The danger is not a sermon.
 
 Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence said from the other side of the wave, or that a capital whose Tree might not speak is the setting working. A one-week notice at the hall becomes a slight by the time the gospel repeats it.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- **Leftover job on this street: devotion** — the wait as a pilgrimage destination. Necessity is what visitors from thinner districts are actually doing; the town will not call it that. Prestige does not book a thin vale. Do not make all three the seat's theme. Do not clone the hamlets' leftover.
+- - **Road-hands passing through** — they sleep in the town that was chosen early and stayed thin, on the way to a town that was not chosen this year. Do not clone them as an Eolvaeth chapter.
 
 - **Production (R.13).** Seat scale was Story 7.3. Do not clone Road-hands or the Slide as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
 - **Do not make Eolvaeth the "good town" that waited faithfully.** They were an early pot that stayed thin. Congregation did the rest. Luck is horticulture plus the queue. Vaethorn will preach otherwise. History does not agree.

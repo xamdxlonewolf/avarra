@@ -72,7 +72,7 @@ Not a party. Paper, beds, pots, and one week in Eolthael.
 
 [[Ledan]] still writes the quay-desk. They are a mouth, not a seventh pivot. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the mouth that walks the witness home.
 
-## Other mouths this pass put on the ground (Story R.11)
+## Other mouths on the ground
 
 Not a second court. Squares that needed a second shape.
 
@@ -98,6 +98,12 @@ Later openings. Not plotted here. The houses exist. Do not grow the four into a 
 | The one who opened a door | [[Rosire]] | the child gone, themselves forgotten | Orentel ticket-infirmary |
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- ## Other mouths this pass put on the ground (Story R.11)
 
 - **Names.** Seed `20260830`, middle of the list, plus unused names already on that working set. Do not re-roll the six.
 - **Positional, not destined.** Involvement is the job. Do not give any of the six a prophecy, a Kind-champion speech, or a First Seat that answers mail.

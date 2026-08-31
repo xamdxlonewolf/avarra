@@ -17,9 +17,8 @@ updated: 2026-08-30
 
 # The Tree-Wardens
 
-> **What this is.** The working clergy of the [[The Leaf-Mother|Motherfaith]] — the **tree-wardens** sketched in [[Turning Tree]] and [[The Leaf-Mother]], now built as a faction. They are one order with offices, not a god-list of paladin-chapters. They recruit by **office, practice, and sometimes Condition**, never by [[Kinds of the Turning|Kind]]. Built with `governance-systems`, `belief-systems`, and `moral-parallax` for [[Roadmap|Epic 5, Story 5.1]].
+> **What this is.** The working clergy of the [[The Leaf-Mother|Motherfaith]] — the **tree-wardens** sketched in [[Turning Tree]] and [[The Leaf-Mother]], now built as a faction. They are one order with offices, not a god-list of paladin-chapters. They recruit by **office, practice, and sometimes Condition**, never by [[Kinds of the Turning|Kind]].
 
-> **Canon status.** 🟡 **Proposed** (names, offices, the skeptic-warden call — taste still open). 🔒 **Locked upstream:** tree-wardens exist; they tend the Tree, officiate the Leaf-Fall, and hold the authoritative colour-reading; grafts are cut by them; the faith's seat sits in the shadow of [[Turning Tree#The Awakening Tree|Thaeloren]]; orthopraxy-over-orthodoxy; recruits are not Kind-nations.
 
 *(Everyday, everywhere: **tree-wardens**, or just **wardens.** Liturgical: **the Orenhael** — OREN-hael — [[The Old Tongue|oren]] "to witness / speak true" + [[The Old Tongue|hael]] "whole, hale": those who *say the fall truly* and *keep the Tree sound.* The Waiting Lands say **Hands-folk**; the Ledger Coast says **tree-tenders**; the Tallied Crown files them as **the Reckoned Hands.**)*
 
@@ -83,11 +82,11 @@ It does **not** appoint every town-warden. A hearth is taken by apprenticeship a
 
 ## Who may be a warden
 
-**Not by Kind.** A [[Kitsune]] hearth-child and a human neighbour hold the same office if they can tend wood and speak a colour. The Orenhael has no Fox-chapter, no ridge-chapter, no Kind-nation inside it. That rule is load-bearing ([[Kinds of the Turning]], [[Roadmap|Epic 5]]).
+**Not by Kind.** A [[Kitsune]] hearth-child and a human neighbour hold the same office if they can tend wood and speak a colour. The Orenhael has no Fox-chapter, no ridge-chapter, no Kind-nation inside it. That rule is load-bearing ([[Kinds of the Turning]]).
 
 **By practice first.** You are taken as a hand — apprenticed to a warden-hearth, confirmed when the town has watched you through a Turning-Week. Orthopraxy: what you *do* at the Tree makes you of the order. What you privately believe about *who* chooses is the schism, not the hiring test.
 
-**Skeptics at the hearth; believers at the Seat (🟡).** A town-warden may be a sincere skeptic — "it is what the Trees do" — and still be a good warden, because the wood is mortal and the colours are folk-known. The First Seat runs believer-heavy. Pilgrimage wants a Someone; the rare-colour texts are kept as *hers*. A skeptic Speaker at Thaeloren is possible and uncomfortable, which is the point. *(Taste call — see GM Notes.)*
+**Skeptics at the hearth; believers at the Seat.** A town-warden may be a sincere skeptic — "it is what the Trees do" — and still be a good warden, because the wood is mortal and the colours are folk-known. The First Seat runs believer-heavy. Pilgrimage wants a Someone; the rare-colour texts are kept as *hers*. A skeptic Speaker at Thaeloren is possible and uncomfortable, which is the point. *(Taste call — see GM Notes.)*
 
 **Condition leans, not Condition-gates.** Offices attract the Tithes that fit them. This is vocation-shape, the same grammar as [[Economy and the Tithe]], not a rule that locks anyone out.
 
@@ -149,7 +148,7 @@ Sketched on [[The Leaf-Mother]]; settled enough to play:
 
 - **Towns house and feed the warden-hearth.** A civic stipend in kind — bread, wood, a place on the square. Not a tax on Conditions.
 - **Turning-Week is the festival share.** Markets, reunion, the year's namings. The warden eats from the fair like any other needed office.
-- **Cutting-leave has a fee.** Framed as the cost of carrying-earth and a Road-hand's year. Experienced, at the edge, as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll. *(Historically: this is how the Seat captured a practice that began without it — [[The First Cut]]. The generation of argument, the paper that would not write who, the queue as a copy-right. Do not rebuild the office.)*
+- **Cutting-leave has a fee.** Framed as the cost of carrying-earth and a Road-hand's year. Experienced, at the edge, as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll. *(Historically: this is how the Seat captured a practice that began without it — [[The First Cut]]. The generation of argument, the paper that would not write who, the queue as a copy-right.)*
 - **Pilgrimage keeps the Seat.** Offerings, lodging, the devout who settle in the Motherwood. The college is rich in *proximity*, not in a Condition-tithe.
 
 The Orenhael is **not** the Tithe-infrastructure sector. Venting-halls, greens, ranging-commons, and the safety-guilds live in [[Tithe-Infrastructure]]. Wardens *point* a new Given at a guild. They do not licence the Stilled.
@@ -193,7 +192,7 @@ A later hand has written *Rithim?* in the margin and then struck the question. T
 - [[The Remainder]] — the side-yard desk · [[The Spent Leaf]] — the colourless scrap they keep
 - [[Faiths of the Turning]] — how they share a square with the other four houses
 - [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]
-- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2)
+- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Tithe-Infrastructure]] · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] — wardens *point*; they do not licence
 - [[The Reckoned Offices]] · [[The Walled Book]] · [[The Protectors]]
 - [[Maiethorn]] (First Seat / Motherwood) · [[Polity Archetypes]] · [[Naming in the Turning]]
@@ -202,9 +201,19 @@ A later hand has written *Rithim?* in the margin and then struck the question. T
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] — Cutting-leave as captured copy-right; *Brenvaeth* as the inversion of *Thaelvaeth*; origin-hearth was the only Speaking that counted; fate-pressure noted not rolled
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[Ornsael]] · [[The Wrong Green]]
 - [[The Open Table]] — mainland lintel, not a Kumbaan mission
-- [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete; Story 7.2) · [[05 - Factions]]
+- [[Roadmap]] · [[05 - Factions]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The working clergy of the [[The Leaf-Mother|Motherfaith]] — the **tree-wardens** sketched in [[Turning Tree]] and [[The Leaf-Mother]], now built as a faction. They are one order with offices, not a god-list of paladin-chapters. They recruit by **office, practice, and sometimes Condition**, never by [[Kinds of the Turning|Kind]]. Built with `governance-systems`, `belief-systems`, and `moral-parallax` for [[Roadmap|Epic 5, Story 5.1]].
+- > **Canon status.** 🟡 **Proposed** (names, offices, the skeptic-warden call — taste still open). 🔒 **Locked upstream:** tree-wardens exist; they tend the Tree, officiate the Leaf-Fall, and hold the authoritative colour-reading; grafts are cut by them; the faith's seat sits in the shadow of [[Turning Tree#The Awakening Tree|Thaeloren]]; orthopraxy-over-orthodoxy; recruits are not Kind-nations.
+- - **Cutting-leave has a fee.** Framed as the cost of carrying-earth and a Road-hand's year. Experienced, at the edge, as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll. *(Historically: this is how the Seat captured a practice that began without it — [[The First Cut]]. The generation of argument, the paper that would not write who, the queue as a copy-right. Do not rebuild the office.)*
+- - [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2)
+- - [[Roadmap]] (Epic 5, Story 5.1; Epic 6 complete; Story 7.2) · [[05 - Factions]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They are right about the wood and incomplete about the hand.** Per [[Is the Leaf-Mother Real]], every scion *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present the Orenhael as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind — the same two-sided schism, now wearing a lintel.
@@ -219,3 +228,11 @@ A later hand has written *Rithim?* in the margin and then struck the question. T
 - **Do not invent Kind-orders or a Kumbaan mission.** Road-hands do not "bring the Mother" across the storm-wall. [[The Open Table]] is the control case.
 - **Stories 5.2–5.3 are built; do not rebuild them here.** [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]. Tithe-infra is [[Tithe-Infrastructure]]; the underdog there is [[The Intake]], not a Road-hand clone.
 - **Hooks.** A mixed fall two houses want to name; a Cutting-leave the party is asked to carry (or lose); a skeptic warden and a Wanting Kept apprentice in the same hearth; a Road-hand circuit whose next Tree is already dying; a Speaker who will not write a colour onto the Threnhael ([[Maiethlir\|Rithim]] is the local incomplete version); Harrow's green getting the scion the three hamlets can see from the ford; Eolvaeth sending a cohort the gospel says should wait; an attic tenth-year in Eolthael; a hearth that has to Speak the Wrong Green a second time.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- **Skeptics at the hearth; believers at the Seat (🟡).** A town-warden may be a sincere skeptic — "it is what the Trees do" — and still be a good warden, because the wood is mortal and the colours are folk-known. The First Seat runs believer-heavy. Pilgrimage wants a Someone; the rare-colour texts are kept as *hers*. A skeptic Speaker at Thaeloren is possible and uncomfortable, which is the point. *(Taste call — see GM Notes.)*
+
+- **P2.1 tracker move.** Additional moved label: Epic 5 on the order’s not-by-Kind rule.

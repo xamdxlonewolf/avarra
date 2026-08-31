@@ -49,7 +49,7 @@ The Near Mile is a week's door to the origin. Counted from the grove outward: fi
 
 The Third Hearth kept the older job: beds for people still going in. Water is a well in the yard and the **stone** at the lintel-road — a day's-walk shrine that never got pulled into Brenthael's square because the inn refused to let the town have it. Thilim uses it for water and will not join the argument about pulling it down. Brenthael's warden wants it moved. The stone is in the way of a crowd that is not this house's crowd.
 
-Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The shed is still a shed. Do not clone [[The Greens-Keepers]] onto the yard.
+Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The shed is still a shed.
 
 ## Features
 
@@ -96,7 +96,14 @@ The two fates of the same origin still stand. The White Note collected, on a [[S
 
 Thilim cannot afford to see that Brenthael is telling a Hands truth, or that "a ribbon in the square" is how a town files a name it no longer has to drink from. The Held bed is made. If Seine comes, the stone will still be in the way of a crowd that is not hers.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The shed is still a shed. Do not clone [[The Greens-Keepers]] onto the yard.
 
 - **Production (R.13).** Canon status 🟡 playable site. Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
 - **Two fates of the same origin.** The White Note collected. The Third Hearth kept making the bed. Do not have Thilim "lose" because the paper went to the coast.

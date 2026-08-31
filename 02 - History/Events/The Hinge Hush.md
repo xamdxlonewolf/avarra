@@ -18,7 +18,6 @@ updated: 2026-08-30
 
 > **The peace [[Named Ground|the Old Crossing]] still charges.** From C.Y. 299 to 304, [[The Hinge Shore]] and [[Polity Archetypes|the Ledger Coast]] fought over who set the hinge-toll — the Old-World crossing's price, after the Grey had taught both shores what a quiet sea costs. The fight ended in a hush, not a coronation. Everyday name: **the Hinge Hush.** The five years before it: **the Hinge War**, if you must. Dock-cant: **the Hush-rate.** Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived treaty (Story R.9).** 🔒 **Current Old Crossing peace.** 🔒 **Does not crown Orentel or name a Hinge Shore capital.** 🔒 **Does not book [[The Sundering Isle|Kumbaan]].** Names *Taerso / Sirtol* 🟡 (seed `20260830`).
 
 ## What happened (as believed)
 
@@ -77,6 +76,12 @@ Taerso cannot afford to see that "say the blessing if a mouth wants one" is how 
 - **Orentel is still not crowned.** The White Note did not sign. Sorim holds a berth the hush made cheaper to keep.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Lived treaty (Story R.9).** 🔒 **Current Old Crossing peace.** 🔒 **Does not crown Orentel or name a Hinge Shore capital.** 🔒 **Does not book [[The Sundering Isle|Kumbaan]].** Names *Taerso / Sirtol* 🟡 (seed `20260830`).
 
 - **Short, ugly, unfinished.** Five summers of tied quays. The hush is still charged. If play wants the war to restart, the west-water clause is the live wire (a Saelvaeth pot, a Vaethorn due, a Netstrand number).
 - **Taerso and Sirtol are desks.** Seed `20260830`. Do not seat them. Do not make either a first admiral.

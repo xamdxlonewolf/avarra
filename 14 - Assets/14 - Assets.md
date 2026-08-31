@@ -14,7 +14,7 @@ updated: 2026-08-30
 Maps, images, handouts, documents, and references.
 
 ## Contents
-- **Maps (Story R.10):**
+- **Maps:**
   - [[The Known Map]] — labelled schematic (SVG)
   - `Maps/The Atlas Sheets.md` — label-free paintings (GM)
   - `Maps/Map Generation Tooling.md` — prompts to regenerate; Azgaar (GM)
@@ -29,3 +29,11 @@ The vault notes remain the working source of truth.
 
 ## Related
 - [[Named Ground]] · [[The World Frame]] · [[01 - World]]
+
+## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- - **Maps (Story R.10):**

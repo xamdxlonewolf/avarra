@@ -16,9 +16,8 @@ updated: 2026-08-30
 
 # The First Cut
 
-> **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(EOL-or-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]] (Story 6.4 ✅).
+> **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(EOL-or-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]].
 
-> **Canon status.** 🔒 **That it happened, and that every later town Tree descends from a cut, is locked** (graft topology, [[Turning Tree]]). 🔒 **Name and C.Y. 0 as the clerical epoch locked 2026-08-24.** 🔒 **Spread-bands locked** (Maiethorn C.Y. 0–80 · Strandoren by sea 40–160 · Heskoren 200–387 · Kumbaan never). 🟡 **Lived texture (Story 6.3):** the five attributions as practices, the generation of argument, Cutting-leave as captured copy-right, continent-by-continent carrying. **Who cut is not locked.** Names *the nameless knife / the nameless green / the generation of argument* are working coinages — polish later; do not rebuild the spine.
 
 ## What Happened (as believed)
 
@@ -127,7 +126,7 @@ Road-hands are not a second order. They are the people you send when you have cl
 
 ## How the wave moved (inside the locked bands)
 
-Story 6.1 locked *when*. This is *how.* Do not slide the present. Do not invert the order. Do not send a graft across the storm-wall.
+This is *how.* Do not slide the present. Do not invert the order. Do not send a graft across the storm-wall.
 
 A scion still takes a generation to Turn. A healthy town Tree may supply the next cut, acting on the origin's behalf ([[The Tree-Wardens]]). So the wave is a **chain of maturing Hands**, not a miracle crate. Sea can jump a chain. A Long-Mile cart cannot, until carrying-earth lasts and there are rest-hearths that are not just pilgrim-inns.
 
@@ -250,4 +249,15 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Old Tongue]] · [[Naming in the Turning]]
 - [[The Closing]] · [[The Walled Book]] · [[The Other Count]] — the monopoly-break and the war, cutter still unpicked
-- [[Long-Lived]] · [[The Taken-In]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[02 - History]] · [[Roadmap]] (Story 6.3; war → R.9)
+- [[Long-Lived]] · [[The Taken-In]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[02 - History]] · [[Roadmap]]
+
+## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(EOL-or-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]] (Story 6.4 ✅).
+- > **Canon status.** 🔒 **That it happened, and that every later town Tree descends from a cut, is locked** (graft topology, [[Turning Tree]]). 🔒 **Name and C.Y. 0 as the clerical epoch locked 2026-08-24.** 🔒 **Spread-bands locked** (Maiethorn C.Y. 0–80 · Strandoren by sea 40–160 · Heskoren 200–387 · Kumbaan never). 🟡 **Lived texture (Story 6.3):** the five attributions as practices, the generation of argument, Cutting-leave as captured copy-right, continent-by-continent carrying. **Who cut is not locked.** Names *the nameless knife / the nameless green / the generation of argument* are working coinages — polish later; do not rebuild the spine.
+- Story 6.1 locked *when*. This is *how.* Do not slide the present. Do not invert the order. Do not send a graft across the storm-wall.
+- - [[Long-Lived]] · [[The Taken-In]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[02 - History]] · [[Roadmap]] (Story 6.3; war → R.9)

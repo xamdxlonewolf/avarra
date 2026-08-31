@@ -17,11 +17,10 @@ updated: 2026-08-30
 
 # The Slide
 
-> **What this is.** The lived face of **illicit Tithe-supply** from [[Economy and the Tithe]] — not a fifth faith, not clergy, not a night-clone of [[The Book-Hands]]. They do not help you *pay* a Tithe. They **own the moment you start to fail**, and they make failure useful. Built with `economic-systems`, `moral-parallax`, and `cliche-transcendence` for [[Roadmap|Epic 5, Story 5.2]]. Official Tithe-infrastructure is [[Tithe-Infrastructure]]; **do not clone this house as those guilds.**
+> **What this is.** The lived face of **illicit Tithe-supply** from [[Economy and the Tithe]] — not a fifth faith, not clergy, not a night-clone of [[The Book-Hands]]. They do not help you *pay* a Tithe. They **own the moment you start to fail**, and they make failure useful.
 
-> **Canon status.** 🟡 **Picked (taste call 2026-08-23).** Names still polishable. 🔒 **Locked by pick:** this is the mainland shadow house; the Bought Watch and the Quiet Cut stay unused. 🔒 **Locked upstream:** Tithe-need as leverage; recruits by practice / desperation / Condition-lean, **not Kind**; ~5% scary (ordinary neighbour, a real obstacle). They do **not** rewrite Bound Terms, steal scions, or sell a false Turning-witness. Those trades have other faces: [[The Holding Desk]], unused wood-theft, [[The Standing Trade]].
 
-*(Everyday: **the Slide**, also **week-keepers.** Cant, 🟡: **the Vaethledd** — VAETH-ledd — [[The Old Tongue|vaeth]] "the waiting" + [[The Old Tongue|ledd]] "to reckon": the waiting, reckoned. The Waiting Lands say **the last pot**; the Ledger Coast says **week-rent**. The Tallied Crown files nothing; the roll already has a counted hall.)*
+*(Everyday: **the Slide**, also **week-keepers.** Cant: **the Vaethledd** — VAETH-ledd — [[The Old Tongue|vaeth]] "the waiting" + [[The Old Tongue|ledd]] "to reckon": the waiting, reckoned. The Waiting Lands say **the last pot**; the Ledger Coast says **week-rent**. The Tallied Crown files nothing; the roll already has a counted hall.)*
 
 **In one sentence:** they rent you *not falling* — one week of green, one outlet, one new page — and they are never in a hurry to let you get free.
 
@@ -113,7 +112,7 @@ The feared-licensed are not barred. A [[The Stilled\|Stilled]] who rents stillne
 | [[The Book-Hands]] | A Settler who marked *owing* has just made a customer. The clerk will watch them walk down the quay. | The Slide does not stamp. The clerk does not furnish. The Bound they cannot help is still not this house's Terms to rewrite. |
 | [[The Door-Keepers]] | A Struck named *kin* at a door still has a Tithe. Kinship is not green. | Do not fold a drowning-stone into a rented lot. |
 | [[The Table-Keepers]] | No contact that matters. The second sitting is not a week. | Do not charge for the extra place. That is a different faith's one impiety. |
-| [[Tithe-Infrastructure\|Official halls and greens]] | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Unlock.** Pretending not to know is over when the official door closes on purpose. A public wilt or Cry the gate caused is the escalation. Do not clone this house as those guilds. |
+| [[Tithe-Infrastructure\|Official halls and greens]] | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Unlock.** Pretending not to know is over when the official door closes on purpose. A public wilt or Cry the gate caused is the escalation. |
 | [[The Holding Desk]] | Different product. A Bound may be on both books. | Money is not a clause. |
 | [[The Standing Trade]] | A customer who also needs to move may be sent on. | Do not sell a false Turning. That is the other house. |
 
@@ -132,7 +131,7 @@ The town is glad. A person who is *quietly* almost-falling is not a Cry in the m
 
 The Motherfaith says she gave the need. The book of weeks is people's work. A kind Tree would not make the week fair.
 
-They have no scion-queue. They have no novation. They have no sentence that will not travel. Do not clone those injustices here. The Road-hands already walk. An attic-host already seats. This house's constraint is the measured week — analog, one key, no authority except the one the Tithe gives them.
+They have no scion-queue. They have no novation. They have no sentence that will not travel. The Road-hands already walk. An attic-host already seats. This house's constraint is the measured week — analog, one key, no authority except the one the Tithe gives them.
 
 The Bought Watch (false belonging) and the Quiet Cut (stolen wood) stay **unused**. Do not let this house absorb them because it is convenient.
 
@@ -159,10 +158,20 @@ On its face: a landlord being practical, almost kind. Underneath: the product is
 - [[The Book-Hands]] — the clerk who marked *owing* · [[The Tree-Wardens]] · [[The Watchers]] · [[The Door-Keepers]] · [[The Table-Keepers]]
 - [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] — the official doors this house sits next to
 - [[Rogue House Options]] — this was pick C; A and B unused
-- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*Vaethledd* 🟡)
-- [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]] · [[Build Plan]]
+- [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*Vaethledd*)
+- [[Roadmap]] · [[05 - Factions]] · [[Build Plan]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The lived face of **illicit Tithe-supply** from [[Economy and the Tithe]] — not a fifth faith, not clergy, not a night-clone of [[The Book-Hands]]. They do not help you *pay* a Tithe. They **own the moment you start to fail**, and they make failure useful. Built with `economic-systems`, `moral-parallax`, and `cliche-transcendence` for [[Roadmap|Epic 5, Story 5.2]]. Official Tithe-infrastructure is [[Tithe-Infrastructure]]; **do not clone this house as those guilds.**
+- > **Canon status.** 🟡 **Picked (taste call 2026-08-23).** Names still polishable. 🔒 **Locked by pick:** this is the mainland shadow house; the Bought Watch and the Quiet Cut stay unused. 🔒 **Locked upstream:** Tithe-need as leverage; recruits by practice / desperation / Condition-lean, **not Kind**; ~5% scary (ordinary neighbour, a real obstacle). They do **not** rewrite Bound Terms, steal scions, or sell a false Turning-witness. Those trades have other faces: [[The Holding Desk]], unused wood-theft, [[The Standing Trade]].
+- | [[Tithe-Infrastructure\|Official halls and greens]] | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | **Unlock.** Pretending not to know is over when the official door closes on purpose. A public wilt or Cry the gate caused is the escalation. Do not clone this house as those guilds. |
+- They have no scion-queue. They have no novation. They have no sentence that will not travel. Do not clone those injustices here. The Road-hands already walk. An attic-host already seats. This house's constraint is the measured week — analog, one key, no authority except the one the Tithe gives them.
+- - [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]] · [[Build Plan]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **They do not know what story they are in.** `cliche-transcendence`: the default is the mustache-twirling slumlord, the Tithe-cult, the devil-church. Rotate. Form stays landlord/creditor (load-bearing). Knowledge, goal, role do not: they are in a rent-and-credit story. They want *continuity of the week*, not a victim they relish. A corpse is a ruined asset. Play them as patient, useful, and sure they helped.
@@ -177,3 +186,10 @@ On its face: a landlord being practical, almost kind. Underneath: the product is
   3. **Preference against a public hazard.** Not a lock that they never push. The week's cruelty is still the ordinary engine; a miss is playable.
   4. **A person who recovered was let go.** They are not of the house anymore. Playable, not a rule-lawyer point.
 - **Hooks.** A week-slip the same date twice; a child who carries water and is learning; a Book-hand's *owing* that walks downstairs; a counted hall that is late on purpose; a Taken-In whose only dirt is a private lot; a junior at a long-house rationing pages; a Vaethorn cousin who still says *gift*; a Cry that almost happened and was *handled*; a PC who is already on the book.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday: **the Slide**, also **week-keepers.** Cant, 🟡: **the Vaethledd** — VAETH-ledd — [[The Old Tongue|vaeth]] "the waiting" + [[The Old Tongue|ledd]] "to reckon": the waiting, reckoned. The Waiting Lands say **the last pot**; the Ledger Coast says **week-rent**. The Tallied Crown files nothing; the roll already has a counted hall.)*
+- - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*Vaethledd* 🟡)

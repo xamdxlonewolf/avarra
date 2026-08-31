@@ -62,7 +62,7 @@ Composite: nucleated Tree-town on the rise, linear quays along the tide, leap-fr
 - **The ticket-infirmaries** — [[The Stillers]] on the downwind edge. Excellent. For those who can reach them. The queue is longest here too.
 - **The far shed** — Returned work past the last crane. Same logic as a tannery.
 
-Homes accommodate becomings. Mixed Kinds. A Sands-Fox at a desk is unremarkable if they have warranting. Do not grow Kind-quarters. Do not clone the Slide as a district; the shadow economy (smuggled green, sold vouching, off-book Terms) is alleys the guilds pretend not to charter.
+Homes accommodate becomings. Mixed Kinds. A Sands-Fox at a desk is unremarkable if they have warranting. Do not grow Kind-quarters.
 
 ## The leftover, visible
 
@@ -94,8 +94,8 @@ Offices that must exist:
 - **Tree-tenders** — Lestrand's word for wardens. Practice-first, not Kind. Speak the fall as a civic fact. A colour that opens a guild is still a colour.
 - **[[The White Note House]]** — Ledan writes; [[Mataero]] lets. The north bed is house custom. Do not move [[Thilim]] here. Two fates, two lintels.
 - **[[The Book-Hands]]** — ordinary on this quay. Signing-watch as prestige if you book it. They do not rewrite Bound Terms. They do not sit a seat.
-- **[[The Intake]]** — [[Tesara]] sits the stillers' shed. Success is silence. Do not clone [[The Slide]].
-- **Road-hands / graft-carts** — rare; a pot on an Eolthael berth is cargo in the clerk's mouth. Do not clone them as a chapter-house.
+- **[[The Intake]]** — [[Tesara]] sits the stillers' shed. Success is silence.
+- **Road-hands / graft-carts** — rare; a pot on an Eolthael berth is cargo in the clerk's mouth.
 
 The Tithe-poor fade while the city steps around them. That is the injustice. Nothing is policed. Everything is priced.
 
@@ -121,7 +121,16 @@ The Tithe-poor fade while the city steps around them. That is the injustice. Not
 
 Sorim cannot afford to see that "I did not invent the hold" is the market's injustice said as competence, or that salt on the roots is a leftover the slate will not schedule. Ledan reads a neighbour who cannot convert; Mataero reads occupancy. Their readings demand different action from the same berth.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- Homes accommodate becomings. Mixed Kinds. A Sands-Fox at a desk is unremarkable if they have warranting. Do not grow Kind-quarters. Do not clone the Slide as a district; the shadow economy (smuggled green, sold vouching, off-book Terms) is alleys the guilds pretend not to charter.
+- - **[[The Intake]]** — [[Tesara]] sits the stillers' shed. Success is silence. Do not clone [[The Slide]].
+- - **Road-hands / graft-carts** — rare; a pot on an Eolthael berth is cargo in the clerk's mouth. Do not clone them as a chapter-house.
 
 - **Do not make the White Note the crown.** The desk is one house on the third quay. The council is many tickets. A party that only meets Ledan has not met Orentel.
 - **One leftover job.** Prestige / First-Hand year as product **the city holds**. Necessity in the loft is texture, not a second theme. Devotion that books a release-house is friction.
