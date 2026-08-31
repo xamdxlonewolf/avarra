@@ -56,7 +56,7 @@ Do not expect a pilgrimage. The devout already have the Awakening Tree. This is 
   - Explain *why* she is bounded.
   - Speak, glow for a crowd, or convert a square.
 - **Who wants it shown or buried.** [[The Remainder]] is the desk that has it. The First Seat majority wants the box locked: orthopraxy dies if a mind can be proved, and Threnmaieth would census the proof. A minority of remainder-clerks and some [[The Tree-Wardens|Road-hands]] want it walked to a waiting town — not to found a church, but to make the scion-queue a moral fact. Methods stay ~5%: reassignment, a lost box, a refused Cutting-leave. Not a knife.
-- **Consequences if it lands** live on [[Is the Leaf-Mother Real#If confirmation lands]]. R2 still holds. Do not let the warmth launder the queue.
+- **Consequences if it lands** live on [[Is the Leaf-Mother Real#If confirmation lands]].
 
 ## Links
 - [[The Remainder]] — the desk that keeps the box

@@ -17,9 +17,9 @@ updated: 2026-08-31
 
 # Brenledd
 
-> **The Hearth-League.** *(bren-LED · [[The Old Tongue|bren]] "hearth" + [[The Old Tongue|ledd]] "to reckon" = "hearths of the ledger.")* Eroded drift: no *th* to keep. Theology low · reach high · governance low.
+> **The Hearth-League.** *(formal *Brenledd*, BREN-ledd · [[The Old Tongue|bren]] "hearth" + [[The Old Tongue|ledd]] "to reckon.")* Eroded drift. Theology low · reach high · governance low.
 
-> Everyday *the Brenledd* or *the compact*; people **Brenled-folk**. Not *brenhael* (an inn). Not *Brenvaeth* (an era). Not *Leddoren* (the Fair Hand's own-name).
+People say **the Hearth-League**, **the compact**, and **League-folk**. Charters and learned maps write *Brenledd*.
 
 ## Overview (public)
 

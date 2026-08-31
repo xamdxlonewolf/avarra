@@ -18,11 +18,13 @@ updated: 2026-08-31
 
 ## Active next
 
-**[[Roadmap#Epic R: Editorial repair and table readiness|Epic R]] — Story R.12** (language, naming, and voice).
+**[[Roadmap#Epic R: Editorial repair and table readiness|Epic R]] — completion gate.** Stories **R.1–R.13** are done. Do not start the gate or Epic 10 until asked.
 
-Stories **R.1–R.11** and **R.13** are done. R.13 (2026-08-31) rewrote this brief, settled `note_status` / export / Condition visibility, filled [[09 - Creatures]], wrote [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]], and moved production scaffolding off player bodies.
+**R.12 (2026-08-31)** repaired [[The Old Tongue]], promoted common spoken handles (*speak the common name; write the liturgical name*), retired *Aeloren* and *Eolstrand*, renamed that power [[The Hinge Shore]], differentiated two fables and three note voices, capped repeated editorial mantras, and stored naming tooling under `14 - Assets/Names/` ([[Naming Tools]]).
 
-**Do not:** touch R.12's phonology and voice work from here; rebuild locked engines; update the world book unless the user asks; start Epic 10's campaign opening; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan.
+**R.13 (2026-08-31)** rewrote this brief, settled `note_status` / export / Condition visibility, filled [[09 - Creatures]], wrote [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]], and moved production scaffolding off player bodies.
+
+**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; start Epic 10's campaign opening; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan.
 
 Two clocks stand. Cutter unpicked. World book stays untouched.
 
@@ -46,10 +48,10 @@ Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fres
 - **One Phoenix Gift.** Never two living Phoenix Conditions. Apparent two = leftover fire + a new Gift. Remnant is not a Phoenix. → [[When the Fire Is Caught]]. Fire immunity stays full. Hidden PC agency → [[A Hidden Phoenix]]. Opening → Epic 10.
 - **Vampire sink:** Long-Lived can have children; none are guaranteed to inherit. Deathless, not unkillable.
 - **Kind-hearths, not Kind-nations.** Stock ancestries lean; they do not own continents. Four customs keep three features. Stock (and stock-and-stock mixes) take a [[Kind Heritage|Hearth-Mark]]. Mixed Ancestry as the SRD (Top + Bottom; no hearth feature). [[Yumboe]] PCs need GM leave and are always the full Kind. "Cannot be caught off guard" once, on [[Tengu|The Mountain's Mood]].
-- **Person-naming:** named by *place*; hearth-registers *Kusawe · Sakoa · Gonan* + Yumboe. → [[Naming People in the Turning]]
+- **Person-naming:** named by *place*; hearth-registers *Kusawe · Sakoa · Gonan* + Yumboe. Speak the common name; write the liturgical name. New liturgical coinage is frozen. → [[Naming People in the Turning]] · [[The Old Tongue]] · [[Naming Tools]]
 - **Calendar:** twelve Maiethren months; year-start splits by stance; Kumbaan keeps twelve moons. Leaf-colours on [[Turning Tree]].
 - **Era spine:** two clocks — how you Turned (Walking vs Hands) and where the wood has reached (Grafting still moving). No universal year-zero. *Brenvaeth / Eoloren / Ornthael* 🔒. Present **C.Y. 387** 🔒. Tree undated. Cutter unpicked. Limit's nature open. → [[The Ages of the Turning]]
-- **~15 powers.** Inner Close stays inside [[Orenbren]]. Kumbaan is not a thirteenth mainland power and never took a graft. Named ground: [[Named Ground]].
+- **~15 powers.** Inner Close stays inside [[Orenbren]]. Kumbaan is not a thirteenth mainland power and never took a graft. *Eolstrand* is retired; the slot is [[The Hinge Shore]]. Named ground: [[Named Ground]].
 - **Kumbaan committed for play:** [[Ndenjoo]] · [[Njunda]] · crossing rules on [[The Sundering Isle]].
 - **Table procedures:** [[At the Table]]. Wilderness rolls: [[Dangers of the Turning]]. Export strip and `note_status` vocabulary: [[Conventions]].
 
@@ -78,5 +80,5 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - [[Roadmap]] — tracker · [[The Premise]] — design hub · [[Conventions]] — schema and export
 - [[At the Table]] · [[Kind Heritage]] · [[Conditions]] · [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]] · [[When the Fire Is Caught]]
-- [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[Named Ground]] · [[People of the Turning]]
-- [[00 - Core]]
+- [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]
+- [[The Old Tongue]] · [[Naming Tools]] · [[00 - Core]]

@@ -17,9 +17,9 @@ updated: 2026-08-31
 
 # Ornled
 
-> **The Outer Ledger.** *(orn-LED · [[The Old Tongue|orn]] "land" + [[The Old Tongue|ledd]] "to reckon"; clipped from *Ornledd*.)* Worn-to-eroded on purpose: on [[Heskoren]], dropping the sacred sound is a neglect, not just distance. Theology **low** · reach **low** · governance **low**. The **secular frontier** — a Vaethorn without the faith, harder and colder.
+> **The Outer Ledger.** *(formal *Ornled*, ORN-led · [[The Old Tongue|orn]] "land" + [[The Old Tongue|ledd]] "to reckon.")* Worn-to-eroded on purpose. Theology **low** · reach **low** · governance **low**: the secular frontier without a congregation-net.
 
-> Everyday *Ornled*; people **Ornled-folk**. Not *Leddoren* (the Fair Hand). Not *Ornthael* (the era). Not *Lestrand* (they are not rich). Reconstruction *Ornledd* unused — they do not tend old endings.
+People say **the Outer Ledger** and **Outer folk**. Slates and learned maps write *Ornled*.
 
 ## Overview (public)
 
@@ -56,7 +56,7 @@ Stay whole with what is in the pot. Do not owe a hymn for green. Trade with Nets
 - Seat stays unnamed (three corner seats already named).
 
 - **Required corner.** Low/low/low. Isolates theology against Vaethorn (same reach, same governance, faith burned out not up).
-- **Not freedom.** Light state plus thin Trees plus no faith-net is exposure. R2 holds.
+- **Not freedom.** Light state plus thin Trees plus no faith-net is exposure.
 - **Do not agree with Vaethorn** that Ornled is unworthy. Distance and a choice of gospel. Horticulture plus culture.
 - **Hooks.** An unvouched Struck and a slate; a Vaethorn congregation trying to convert a well; a Netstrand bill; a graft that takes and nobody holds a feast or a count.
 

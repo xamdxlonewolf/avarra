@@ -5,19 +5,21 @@ visibility: player
 note_status: draft
 status: active
 tags: [faction, organization, guild, tithe, ael-hall, far-voiced]
-aliases: [Hall-Keepers, Hall Keepers, The Aeloren, Aeloren, Ael-Hands, Release-Hands]
+aliases: [Hall-Keepers, Hall Keepers, Ael-Hands, Release-Hands]
 world: The Turning
 category: organization
 seat: none — the town ael-hall; filed under [[Tithe-Infrastructure]]
 public_face: the playhouse that is also a safety-valve — they keep the hour and stamp the Voice-ticket
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Hall-Keepers
 
-Everyday: **hall-keepers**, or **ael-hands.** Liturgical *Aeloren* 🟡. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. One lintel: outlet and Voice-ticket. The hour, the unswept bench, and the room they will not name live on the sector note.
+**Hall-keepers**, or **ael-hands**, in every register. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. One lintel: outlet and Voice-ticket. The hour, the unswept bench, and the room they will not name live on the sector note.
+
+The old proposed liturgical form *Aeloren* is retired. It sat too close to *Vaeloren, Leddoren,* and *Eoloren* and added no useful distinction. A crossed-out roster may still show it; no current hall uses it as a title.
 
 **In one sentence:** they sell you an hour in which you may feel in earnest — and they will not open after the lamps.
 
@@ -42,4 +44,4 @@ A raw throat goes to [[The Intake]]. A shut room after the lamps is [[The Slide]
 
 - Folded as a jurisdiction. One lintel stays: Far-Voiced are the seam Condition. Do not grow four offices on a playhouse.
 - The unswept bench is inscrutable. Do not explain which Cry.
-- Name collision: *Aeloren* sits near Vaeloren / Leddoren. Everyday *hall-keepers* is the handle.
+- *Aeloren* is retired, not waiting for a replacement. Do not refill the empty slot with another compound.

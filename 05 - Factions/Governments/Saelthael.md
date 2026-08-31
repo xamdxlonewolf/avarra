@@ -17,9 +17,9 @@ updated: 2026-08-31
 
 # Saelthael
 
-> **The Sown Tree.** *(SAYL-thale · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree" = "the sown Tree.")* Conservative drift: *th* kept even in thin soil — they are still the Motherland. Theology high · reach **mid-low** (wells, not woods) · governance low.
+> **The Sown Tree.** *(formal *Saelthael*, SAEL-thael · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree.")* Conservative drift. Theology high · reach **mid-low** (wells, not woods) · governance low.
 
-> Everyday *Saelthael*; people **Saelthael-folk**. Not *Saelorn* (a month). Not *Saelhael* (greens-keepers' liturgy). Shares *sael* with [[Saelvaeth]] on purpose — sowing on two continents, Clock 2 unfinished at the origin. **Not Ornsael's kingdom**; Ornsael is not this power's capital.
+People say **the Sown Tree** and **Sown-folk**. Charters and learned maps write *Saelthael*. The shared *sael* with [[Saelvaeth|the Sown Waiting]] remains visible in writing; speech keeps the two powers apart.
 
 ## Overview (public)
 

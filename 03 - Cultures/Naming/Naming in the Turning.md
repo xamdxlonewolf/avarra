@@ -8,12 +8,12 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Naming in the Turning
 
-> **How to use this.** Same building, three names. Find the thing in the dictionary, then the column for the land you are in. Common-tongue is what a traveller says. The local word is how that land sits toward the Tree. To coin a new official name, pick an Old-Tongue root, wear it for the place, mark the stress.
+> **How to use this.** Same building, three names. Find the thing in the dictionary, then the column for the land you are in. **Speak the common name; write the liturgical name.** A traveller asks for the *hall-keepers* or sails to *the Night Shore*. A rite, charter, learned map, or scholar may write *Orenhael* or *Netstrand*. The common handle comes first at the table.
 
 > **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions the [[Roadmap|Epic 2]] social-structure notes first wrote as plain descriptive placeholders. The governing principle — the reason this pass waited until the [[Polity Archetypes|polity archetypes]] existed — is one lever:
 
@@ -22,19 +22,21 @@ updated: 2026-08-30
 
 ## How names are built
 
-- **The root is [[The Old Tongue]]** (Maiethren, the liturgical Mothertongue). Sacred and old things keep their Old-Tongue shape; everyday things wear it down. See that note for the full sound-palette and pronunciation key (**CAPS** = stress; `ae`="ay"; `th`= soft _th_ as in _thin_).
+- **The root is [[The Old Tongue]]** (Maiethren, the liturgical Mothertongue). Sacred and old things keep their Old-Tongue shape; everyday things wear it down. See that note for the full sound-palette, compound-initial stress, pronunciation key, and closed collision families.
 - **Three daughter drifts carry the stance in the *sound* itself:** the pious core (**[[Polity Archetypes|Threnmaieth]]**) conserves the sacred sound; the devout frontier (**[[Polity Archetypes|Vaethorn]]**) wears it rougher; the secular coast (**[[Polity Archetypes|Lestrand]]**) erodes it smooth (the *th* drops, ends clip). *The most-drifted name belongs to the least-devout place.*
 - **The common tongue** — the plainspoken trade-vernacular most people actually speak — is the worn-down middle everyone shares. Its words are the plain compounds already used across the notes (*the Kept*, *venting-hall*), understood as **worn Old-Tongue** rather than a separate language.
+- **The common handle is primary in play.** It is not a translation in parentheses after the "real" name. It is the name spoken at a dock, road, market, and table. Liturgical forms remain real, but belong to writing, ritual, formal self-styling, and deliberate register shifts.
+- **New liturgical coinage is frozen.** A real need must first add a root to [[The Old Tongue]], clear its collision register and the [[Naming Tools|generator's collision gate]], and receive a distinct common handle.
 
 ## The three polities
 
 Full derivations in [[The Old Tongue#The fifteen polities, named]]. In short:
 
-| Working label | In-world name | Says | Literally | Its stance, in its own name |
+| Common spoken handle | Liturgical / formal writing | Says | Literally | Its stance, in its written name |
 |---|---|---|---|---|
-| the Waiting Lands | **Vaethorn** | vay-THORN | "the Waiting Land" | keeps the sacred *th*; names its own longing |
-| the Ledger Coast | **Lestrand** | leh-STRAND | "the Reckoning Coast" | most-eroded name = most secular of the original three |
-| the Tallied Crown | **Threnmaieth** | THREN-my-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
+| **the Waiting Lands** | *Vaethorn* | VAETH-orn; spoken *Wetorn* | "the Waiting Land" | careful prayer keeps the sacred *th*; daily speech wears it |
+| **the Ledger Coast** | *Lestrand* | LES-trand | "the Reckoning Coast" | most-eroded name = most secular of the original three |
+| **the Tallied Crown** | *Threnmaieth* | THREN-mai-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
 
 The other twelve (Story 7.1, 🔒) live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
 
@@ -105,7 +107,7 @@ Names 🟡 — everyday words are already in the economy/law notes; the liturgic
 |---|---|---|---|---|
 | the official furnishing sector | **the furnishing** / **the greens and the halls** | *the gift-works* | *the provision* | *the counted channel* |
 | [[The Greens-Keepers\|greens-keepers]] | **greens-keepers** / **lot-keepers** (liturg. *Saelhael*) | *Mother's-green hands* | *lot-keepers* | *the Tended* |
-| [[The Hall-Keepers\|hall-keepers]] | **hall-keepers** / **ael-hands** (liturg. *Aeloren*) | *gift-hall folk* | *release-hands* | *counted-hall clerks* |
+| [[The Hall-Keepers\|hall-keepers]] | **hall-keepers** / **ael-hands** | *gift-hall folk* | *release-hands* | *counted-hall clerks* |
 | [[The Stillers]] | **stillers** (liturg. *Stelhael*) | *blessing-surgeons* | *ticket-surgeons* | *crown-stillers* |
 | [[The Element-Guilds]] | **the element-guilds** (umbrella *the Crae*) | *gift-shops* | *the craft-houses* | *the Reckoned Craes* |
 | [[The Intake]] | **the Intake** / **the shed** (cant *catching-year*) | *the late-catching* | *the emergency ticket* | *the unwitnessed warrant* |
@@ -175,17 +177,20 @@ Lived names of Ornthael. Everyday first; jobs 🟡. Do not narrate this as post-
 
 ## How to coin more (for later notes)
 
-When later notes name leftover squares, keep the system honest:
-1. **Find the Old-Tongue root** ([[The Old Tongue#Notable words & roots]]) — build from *oren, thael, maieth, vael, vaeth, hael, thren, ledd, orn, ael, stel, crae, sael, bren*, or coin a new root in the same sound-palette. Do not collide *Brenvaeth* (the era) / *Brenorn* (a month) / *brenhael* (a road-house) / *Eoloren* (the Cut) / *Ornthael* (the Hands), or the fifteen power-names in [[Powers of the Turning]]. *The nameless knife*, *the generation of argument*, and the walk's three jobs stay common-tongue on purpose.
-2. **Push it through the right drift** for the place (conserved / worn / eroded). A power's own name already encodes its stance; a town inside it should *sound like* that power, not like a fourth language.
-3. **Give the pronunciation** (CAPS = stress) on first use — always.
-4. **Let the *name* carry the stance** — if a devout and a secular polity would name the same thing, they should name it *differently*, and the difference should be legible. For a fourth (or fifteenth) polity's *institution* variant, coin it by the three-column pattern rather than retrofitting the dictionary.
+New liturgical names are frozen. If play creates a need that common speech cannot meet:
+
+1. **Name the need first.** Explain why a common handle or existing root cannot do the job.
+2. **Add the root before the name.** Give it a sound, old meaning, historical layer, and place in [[The Old Tongue#Root reserve and closed families]]. Never backfill an etymology after liking a compound.
+3. **Run the collision gate.** Use [[Naming Tools]] and reject closed families, near-homophones, and cross-category confusion.
+4. **Push through one established drift.** Do not invent a fourth mainland language.
+5. **Give the common spoken handle at the same time.** Mark pronunciation on first formal use. The handle must work without an etymology lesson.
 
 ## Links
 - [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
 - [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
+- [[Naming Tools]] — reproducible candidate streams and collision checks
 - [[Kinds of the Turning]] — hearths, not nations
 - [[The Ages of the Turning]] — era-names and Cut-years (Story 6.1)
 - [[The Walking Years]] — the three walks · *brenhael* (Story 6.2)
@@ -198,6 +203,6 @@ When later notes name leftover squares, keep the system honest:
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **The names encode the R2 guard, per polity.** Each polity's vocabulary is its *self-justification*, not the truth of what it does. Threnmaieth's "keeping-whole" (Threnhael) is surveillance that calls itself care; Lestrand's "the free" for the Kept is a market reframing a social slight as a virtue; Vaethorn's "the Waited" wraps real pity in reverence. Per [[Is the Leaf-Mother Real|the keystone]], none of these framings is *dissolved* by the reveal — they are how each society launders its own injustice, and confirming the Mother is kind doesn't make any of the three names honest.
+- **A polity's vocabulary is self-justification, not a verdict.** Threnmaieth's "keeping-whole" calls surveillance care; the Ledger Coast's "free" turns a social slight into market praise; the Waiting Lands' "Waited" wraps pity in reverence. The words tell you what each polity needs its practice to mean.
 - **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
 - **Names are working canon, not frozen.** Good enough to build on now; the twelve new power-names are 🟡 with the rest of Story 7.1. If a later note needs a fifteenth polity's *institution* variant, coin it by the rules above rather than retrofitting these.

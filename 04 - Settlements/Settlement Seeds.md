@@ -91,6 +91,6 @@ Three corners as *places*, not only axes. Do not clone 7.2's squares as the capi
 ## GM Notes
 
 - **Seeds are a blast-radius brake.** Story 7.2 fleshed four squares at *square* scale; 7.3 seated three capitals at *seat* scale, still not ward-grids. Unused types stay types. If a session needs another square tomorrow, pick from the unused row and leave streets unnamed until a pass.
-- **R2 at the map-scale.** A pretty road-end town whose leftover is only picturesque launders the graves. A waiting cluster whose only note is "poor and faithful" agrees with Vaethorn guilt. Write the job, not the postcard.
+- **Write the job, not the postcard.** A pretty road-end town whose leftover is only picturesque launders the graves. A waiting cluster whose only note is "poor and faithful" agrees with Vaethorn guilt.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let a seed-note assert the mind.
 - **Kumbaan stayed off this list on purpose.** R.11 opened [[Ndenjoo]] as a table-at-the-centre hall, not a mile-shrine type and not a thirteenth power. Do not add a Tree to complete the catalog.

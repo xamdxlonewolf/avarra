@@ -17,9 +17,9 @@ updated: 2026-08-31
 
 # Saelvaeth
 
-> **The Sown Waiting.** *(sayl-VAYTH · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|vaeth]] "the waiting" = "sowing into the waiting.")* Worn drift: *th* kept — they still reach for the holy words because the wave is *here*. Theology mid-high · reach low · governance mid-low. **[[Harrow's Green]] sits in its orbit, not as a capital.**
+> **The Sown Waiting.** *(formal *Saelvaeth*, SAEL-vaeth · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|vaeth]] "the waiting.")* Worn drift. Theology mid-high · reach low · governance mid-low. [[Harrow's Green]] sits in its orbit, not as a capital.
 
-> Everyday *Saelvaeth*; people **Saelvaeth-folk**. Not *Vaethorn* (waiting-*land*). Not *Saelthael* (the Rain-Shadow's sown *Tree*). Not *Saelorn* (a month). Shares *sael* with Saelthael on purpose: planting on two continents. [[Eolvaeth]] is [[Polity Archetypes|Vaethorn]]'s seat, not this march's.
+People say **the Sown Waiting** and **March-folk**. Charters and learned maps write *Saelvaeth*. The shared *sael* with [[Saelthael|the Sown Tree]] remains visible in writing; speech keeps them apart.
 
 ## Overview (public)
 

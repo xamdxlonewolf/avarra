@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Ornsael
 
-> **A Rain-Shadow walk-hold whose drink is leaving.** *(orn-SAYL · [[The Old Tongue|orn]] "land, ground" + [[The Old Tongue|sael]] "sowing" = "the sown-ground.")* Conservative drift. Everyday *Ornsael*; core travellers still say *the west-road well* and are corrected — the well is why anyone stopped, and it is not why they stay this year. Not [[Saelthael]]'s capital. The three corner seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]].
+> **A Rain-Shadow walk-hold whose drink is leaving.** *(ORN-sael · [[The Old Tongue|orn]] "land, ground" + [[The Old Tongue|sael]] "sowing" = "the sown-ground.")* Conservative drift. Everyday *Ornsael*; core travellers still say *the west-road well* and are corrected — the well is why anyone stopped, and it is not why they stay this year. Not [[Saelthael]]'s capital. The three corner seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]].
 
 ## At the table
 
@@ -54,7 +54,7 @@ No walls. The boundary is where the well's courtesy ends and the dust does not.
 - **The Tree at the well** — civic and sacred heart, as [[Daily Life]] requires. A reasonable Hand. Most Eolthaels it Turns. The town-warden Speaks when there is a colour and does not invent one when there is not; that is ordinary work, not the town's plot. A missed week still shuts the Given-door. Struck remains the later mercy. There is still no second-chance year. The leftover is not this sentence.
 - **The well** — the day's drink and the year's fear. A rope with knots at old water-lines. The share is chalked on the well-lip, not on a warden-lath. Climbing-scuff on the lip from children who have heard a stone-story and will not be told this town has a different leftover.
 - **The west-road** — Clock 2 as a street. Mile-markers toward the pass; one stone still in the well-square because the town grew around a day's water. Ribbons pointed *west*, which core children find backwards. The column that leaves at dusk is mouths the share refused.
-- **The well-market** — stalls in the morning shade. Fox-born densest in the crowd, not gated. A hearth-neighbourhood in the sense [[Kinds of the Turning]] allowed: a fox-market without the town *being* a Kind. Stock ancestries, a Tengu on a pass-errand, a Selkie who married in from the coast and is dry and funny about it.
+- **The well-market** — stalls in the morning shade. Fox-born densest in the crowd, not gated. A hearth-neighbourhood in the sense [[Kinds of the Turning]] allowed: a fox-market without the town *being* a Kind. Stock ancestries, a Tengu on a pass-errand, a Selkie who married in from [[The Hinge Shore]] and is dry and funny about it.
 - **The greens** — potted, hauled, argued over. No lush lot. Lesna's planting is the only green for a day's walk some weeks, and it drinks. The greens-keepers' liturgy does not run a chapter here.
 - **The ranging** — dry hills, night-work, Two-Bodied who know the difference between a sand-fox and a Fox. At the edge, not a quarter.
 - **The far shed** — Returned work downwind of the well, because you do not put the dead on the drink. No infirmary. A travelling stiller is a pass-story.
@@ -116,7 +116,7 @@ Theisva is doing a drink. They will not file a year. Lesna will read the verso a
 - **Not the Thaw-Break's silted well-town.** That cistern is another leeward mouth ([[The Thaw-Break]]). Some locals date the first low mark after 233. The rope does not. Do not confirm.
 - **Not a capital of Saelthael.** Named square. Seat unnamed.
 - **Keystone:** thin take in dry soil stays horticulture in player text. Do not let the well assert the mind. Do not import Vaethorn's sermon as GM voice.
-- **R2:** plenty next door does not make the leftover kind. Confirming she is kind does not fill the well.
+- **The west-road remains necessary.** Plenty next door does not shorten it.
 - **Hooks.** A west-road column the Tree did not require; a night-bucket; a wet knot; Threnmaieth naming the well on a roll the town will not use; a Taken-In planting that is the only green and the other drink; pairing a session with [[Harrow's Green]] so both clocks are visible and the leftovers are not the same scarcity.
 
 ## Links

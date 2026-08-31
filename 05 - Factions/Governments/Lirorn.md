@@ -17,9 +17,9 @@ updated: 2026-08-31
 
 # Lirorn
 
-> **The Thaw-Land.** *(leer-ORN · [[The Old Tongue|lir]] "thaw; water that runs again" + [[The Old Tongue|orn]] "land" = "thaw-land.")* Conservative drift. Everyday *the Thaw-Land*; they call the range **the Thaw-Wall**. Lowlanders say **[[Named Ground|the Rain-Wall]]**. Theology mid · reach high · governance **mid**.
+> **The Thaw-Land.** *(formal *Lirorn*, LIR-orn · [[The Old Tongue|lir]] "thaw; water that runs again" + [[The Old Tongue|orn]] "land.")* They call the range **the Thaw-Wall**; lowlanders say **[[Named Ground|the Rain-Wall]]**. Theology mid · reach high · governance **mid**.
 
-> Everyday *Lirorn*; people **Lirorn-folk**. Not *Liren* (a month). Not *Ornthael*. The range divides Maiethorn's waters; the name is the snowmelt, not the Tree.
+People say **the Thaw-Land** and **Thaw-folk**. Charters and learned maps write *Lirorn*.
 
 ## Overview (public)
 
@@ -53,7 +53,7 @@ Keep the passes and the spring. Be paid for water the core calls a gift. Stay un
 - Seat stays unnamed (three corner seats already named).
 
 - **Not a watershed with a toll as the only sentence.** The job is *last year's snow as this year's civic year.* Maiethlir is downstream. Saelthael's west-road crosses the Shelf-gate. Close either and Clock 2 shows on the Motherland.
-- **Hearths, not nations.** Tengu densest. Snows-Fox densest. The interesting PC is a human or Selkie of Lirorn, or a Tengu of Eolstrand.
+- **Hearths, not nations.** Tengu densest. Snows-Fox densest. The interesting PC is a human or Selkie of the Thaw-Land, or a Tengu of [[The Hinge Shore]].
 - **Do not invent Kind-only orders.** A wing-post is a job.
 - **Hooks.** A thaw delayed; a Noon Pass stone children rub; Break-rate in a kind year; Threnmaieth tablets at the Shelf-gate; Vehaela wanting an uncounted loft off thin snow; a sky-courier strip that says *this is not a row.*
 

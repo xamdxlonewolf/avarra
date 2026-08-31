@@ -136,8 +136,8 @@
   <text x="828" y="312" font-family="Georgia, serif" font-size="8" fill="#4a4438">Threnmaieth</text>
 
   <circle cx="848" cy="270" r="4" fill="#2a2418"/>
-  <text x="808" y="266" font-family="Georgia, serif" font-size="10" fill="#2a2418">Eolstrand</text>
-  <text x="812" y="278" font-family="Georgia, serif" font-size="8" fill="#4a4438">Hinge-Shore</text>
+  <text x="800" y="266" font-family="Georgia, serif" font-size="10" fill="#2a2418">Hinge Shore</text>
+  <text x="812" y="278" font-family="Georgia, serif" font-size="8" fill="#4a4438">Old Crossing face</text>
 
   <text x="940" y="220" font-family="Georgia, serif" font-size="9" fill="#2a2418">Maiethvael</text>
   <text x="990" y="250" font-family="Georgia, serif" font-size="8" fill="#4a4438">Noon Pass</text>

@@ -16,7 +16,7 @@ updated: 2026-08-30
 
 # The Grey Summer
 
-> **A fever that was not a Tithe.** In C.Y. 171 the Old Crossing quays — [[Eolstrand]]'s hinge-shore and the Ledger Coast that faces it — went grey for a summer. People died who had local Trees, guild-tickets, and hymns. The wood did not fail first. The watering-hands did. Everyday name: **the Grey Summer.** Dock-cant: **the Salt-Grey.** Deathless clerks still write **Grey + 1** on a verso. Chronicle: [[The Other Count]].
+> **A fever that was not a Tithe.** In C.Y. 171 the Old Crossing quays — [[The Hinge Shore]] and the Ledger Coast that faces it — went grey for a summer. People died who had local Trees, guild-tickets, and hymns. The wood did not fail first. The watering-hands did. Everyday name: **the Grey Summer.** Dock-cant: **the Salt-Grey.** Deathless clerks still write **Grey + 1** on a verso. Chronicle: [[The Other Count]].
 
 > **Canon status.** 🟡 **Lived epidemic (Story R.9).** 🔒 **Not a Condition, not a punishment, not a colour.** 🔒 **Does not slide the spread-bands.** Strandoren was already mature Hands on the water (band C.Y. 40–160). The fever is what happened *after* the wood had arrived.
 
@@ -24,7 +24,7 @@ updated: 2026-08-30
 
 It began in the holds — a cough in a packed berth, then a street, then a quay-gang that could not stand a hearth. Stillers did what stillers do. Some lived. The Grey did not care whether you were Given, Struck, or Kept. That is the year the devout learned, again, that a Hand in the square is not an infirmary.
 
-Ships stayed tied. [[Named Ground|The Old Crossing]], which had been the world's highway since before anyone numbered Cut-years, went quiet enough that a Far-Voiced on [[Eolstrand]] could hear the next quay's bells and no cargo between.
+Ships stayed tied. [[Named Ground|The Old Crossing]], which had been the world's highway since before anyone numbered Cut-years, went quiet enough that a Far-Voiced on [[The Hinge Shore]] could hear the next quay's bells and no cargo between.
 
 Deathless houses did not die. Their debtors did. Notes outlived mouths. That is why the trusted note holds, and why a grandchild in C.Y. 387 can still owe a Grey-summer board. [[The White Note House]] was in its ninety-first house-year. Ledan would later learn to convert. In 171 the conversion was: *the person is gone; the paper is not.*
 
@@ -40,7 +40,7 @@ Grafts went unwatered where the Taken-In who knew the soil were in the ground. H
 
 **[[Netstrand]]'s west trade thinned for a decade.** Hulls that should have gone toward [[Heskoren]] stayed home or stayed buried. The wave's supply-line already preferred a paying next. The Grey is one more reason the far waited. It is not a punishment and not the whole gap.
 
-**[[Eolstrand]] learned to step around a fade.** The pious hinge-shore watched Lestrand price survival and kept the blessing in the mouth. The cool cousin starts here as weather, not as a conversion.
+**[[The Hinge Shore]] learned to step around a fade.** The pious shore watched the Ledger Coast price survival and kept the blessing in the mouth. The cool cousin starts here as weather, not as a conversion.
 
 ## What it was not
 
@@ -58,7 +58,7 @@ Grafts went unwatered where the Taken-In who knew the soil were in the ground. H
 
 ## In-world text
 
-*A stiller's hour-slate, Eolstrand hinge-quay, Grey Summer, second month of the cough. The guild later copied it as a training-page and struck the last line. `oblique-worldbuilding`.*
+*A stiller's hour-slate, Hinge Shore quay, Grey Summer, second month of the cough. The guild later copied it as a training-page and struck the last line. `oblique-worldbuilding`.*
 
 > *Morning: four. Midday: the quay-gang from the third hold — I will not write how many; the Voice-ticket does not have a box for a street. Evening: a Taken-In from the lot, no Tithe in it, just fever. The Tree in the square Held a child last Eolthael. The child is not here. I am not a warden. I am an hour. If you are reading this in a kind year, water the green. The wood did not fail us. We failed the watering.*
 
@@ -78,7 +78,7 @@ The stiller cannot afford to see that "the Voice-ticket does not have a box" is 
 - **Hooks.** A Grey-summer debt whose family does not remember the cough; steal Dirrol's first person-column; a Brenledd town that wants out of a pile begun in panic; a Leddvael child opened as a term because the square's witnesses are in the ground; a pot that died for want of a watering-hand, filed as thin soil.
 
 ## Links
-- [[The Other Count]] · [[Eolstrand]] · [[Polity Archetypes|Lestrand]] · [[Trenledd]] · [[Brenledd]] · [[Leddvael]] · [[Netstrand]]
+- [[The Other Count]] · [[The Hinge Shore]] · [[Polity Archetypes|Lestrand]] · [[Trenledd]] · [[Brenledd]] · [[Leddvael]] · [[Netstrand]]
 - [[The White Note House]] · [[The Stillers]] · [[The Fair Hand]]
 - [[The First Cut]] — the gap is still horticulture and the list; the Grey is an extra friction
 - [[02 - History]] · [[Roadmap]] (Story R.9)

@@ -102,6 +102,6 @@ The empty face is the point. "Burn this" is how success becomes the guild's ordi
 
 - **Terse on purpose.** Underdog formula kept: mandate + four constraints + no institutional conversion. Do not add a sunset clause *and* a cursed shed.
 - They want a quiet week. They do not want a client, a relic, or a route.
-- Moral parallax: success is burned; Given children got a childhood the Struck will not. R2: she did not build the rope.
+- Moral parallax: success is burned; Given children got a childhood the Struck will not.
 - Travel is accidental. If you find them on the road every session, you have cloned the Road-hands.
 - No Kind-gate. No Kumbaan shed. No Intake-pope.

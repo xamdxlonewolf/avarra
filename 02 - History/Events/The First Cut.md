@@ -16,7 +16,7 @@ updated: 2026-08-30
 
 # The First Cut
 
-> **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(ay-ohl-OR-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]] (Story 6.4 ✅).
+> **The hinge, lived.** Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the [[The Walking Years|Near Mile]] Turned, a generation later, under a canopy that was not the origin. Everyday name: **the First Cut.** Liturgical 🔒: **Eoloren** *(EOL-or-en)* — "the witnessed hinge." The clerical count of years starts here ([[The Ages of the Turning]]). This note is the event and the wave. Residues of the present → [[The Years of Hands]] (Story 6.4 ✅).
 
 > **Canon status.** 🔒 **That it happened, and that every later town Tree descends from a cut, is locked** (graft topology, [[Turning Tree]]). 🔒 **Name and C.Y. 0 as the clerical epoch locked 2026-08-24.** 🔒 **Spread-bands locked** (Maiethorn C.Y. 0–80 · Strandoren by sea 40–160 · Heskoren 200–387 · Kumbaan never). 🟡 **Lived texture (Story 6.3):** the five attributions as practices, the generation of argument, Cutting-leave as captured copy-right, continent-by-continent carrying. **Who cut is not locked.** Names *the nameless knife / the nameless green / the generation of argument* are working coinages — polish later; do not rebuild the spine.
 
@@ -123,7 +123,7 @@ The fee is framed as carrying-earth and a Road-hand's year. Folk hear a fine. Le
 
 Road-hands are not a second order. They are the people you send when you have claimed the knife and still need the wood to walk.
 
-**R2, at the birth.** Spreading Trees did not make society kind. They made a queue. Struck stigma, Tithe-leverage, the pitied Kept — none of that dissolved when a second canopy opened. The new injustice is *which town next*, paid in twenty more years of borrowed Turnings. She did not write the list. People did.
+**The second canopy made a queue.** The new injustice is *which town next*, paid in twenty more years of borrowed Turnings.
 
 ## How the wave moved (inside the locked bands)
 
@@ -145,7 +145,7 @@ By C.Y. 80 the Motherland is **old Hands** in the core and **still waiting** in 
 
 [[Named Ground|The Old Crossing]] already knew how to move a child. Moving a Hand is the same berth with worse instructions: living earth, do not stow below, water at dawn, a Taken-In or a Road-hand who sleeps beside the pot.
 
-**Why the sea starts while Maiethorn is still filling (C.Y. 40).** A ship is faster than filling every inland hamlet. A wealthy coast can pay a Cutting-leave and a Salt-Walk crew in the same summer a Near-Mile village is still on the Seat's list. The wave went where ships and fees went. That is the R2 of the spread itself, not a footnote.
+**Why the sea starts while Maiethorn is still filling (C.Y. 40).** A ship is faster than filling every inland hamlet. A wealthy coast can pay a Cutting-leave and a Salt-Walk crew in the same summer a Near-Mile village is still on the Seat's list. The wave went where ships and fees went.
 
 **Coasts first.** Port-cities take. Deep interior waits on river-days and a cart, which is a small Long Mile. Strandoren's later high reach and worn faith are not a paradox: the wood arrived as cargo, and cargo does not require a mother. [[The Fair Hand]] dates the carrying as a supply-chain fact. They will attend a planting as witnesses to a signing. They will not start history at a wound in wood. *The first carrying* is their name for Eoloren, and they mean a bill of lading.
 
@@ -191,7 +191,7 @@ Keep these in the same chronicle, the way the Walking Years kept romance and gra
 
 A [[Long-Lived]] who says *I walked* and a Speaker who keeps the Eoloren-count will fight about the same summer. A Long-Lived who *planted* — a Road-hand's long tenure, an innkeeper who watched pots replace children — will not always tell you which taking they think was holy. Memory is perfect. Meaning is not. Do not give the table "the" deathless account of the Cut.
 
-Spreading Trees did not abolish the unvouched Struck, the pitied Kept, guild conscription, or Tithe-leverage. They *relocated* who is expected to have been seen at ten. A Hands-town can still meet a feared Struck with a rope. A local canopy is not a solvent. R2 holds in the past tense the same way it holds now.
+Spreading Trees *relocated* who is expected to have been seen at ten. A Hands-town can still meet a feared Struck with a rope. A local canopy is not a solvent.
 
 ## Visibility markers (what a character notices)
 
@@ -224,7 +224,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 
 - **Clock 2 starts.** The Grafting as a *wave* — wood carried outward, a generation to mature, Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never.
 - **Clock 1 flips where the wood has taken.** Turning under a town canopy becomes the default. The pilgrimage remains, with a new job (devotion, prestige, or necessity when a graft fails).
-- **The Seat gains a bottleneck.** Cutting-leave and the scion-queue are how an institution absorbed a heresy and called it horticulture. R2: she did not write the queue.
+- **The Seat gains a bottleneck.** Cutting-leave and the scion-queue are how an institution absorbed a heresy and called it horticulture.
 - **The clerical epoch.** Cut-years begin. Other people do not have to care ([[The Ages of the Turning#How years are numbered (the name-reveals-stance lever, on history itself)|dating reveals stance]]).
 - **Language and money, already traced.** Local Trees let daughters grow in place; the road's conserving pull eases ([[The Old Tongue]]). Road-houses in the core lose pilgrim-seasons and keep the notes ([[Economy and the Tithe]]). Lived leftovers of both → [[The Years of Hands]] (two fates of the road-house; the walk's three jobs).
 
@@ -235,7 +235,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - **Keystone:** every scion *is* continuous tissue of the one Tree, so the First Cut really did move a Hand. Player-facing, that is doctrine. The growth of reach with grafts is the quiet argument for a mind; it is not a licence to narrate her standing over the first knife. Skeptics still win the mundane reading (horticulture, ships, soil). Both readings share the same wave.
 - **Nature of the limit stays open.** That she *could* reach further once a Hand stood nearer is already locked as pattern. *Why she could not simply reach without the wood* is still unwritten. Do not smuggle finite-by-nature, wound, or rationing in as the reason the first cut worked. Lock the ache. Do not lock the cause.
 - **Colonial trap.** The devout version ("she meant the wood to travel") is one belief among five. Do not let GM voice agree that the far needed saving. The thing saved, when anything was, was a walk. Heskoren still experiences the wave as *waiting*. The Old Ways experience it as guests arriving late. Lestrand experiences it as cargo. Keep all three.
-- **The gap is load-bearing R2.** C.Y. 160–200 is not empty time and not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. [[The Grey Summer]] stacked a fourth friction; it did not become the gap. If you fill the years with a crusade or a miracle-crossing, you launder the list.
+- **The gap is load-bearing.** C.Y. 160–200 is not empty time and not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. [[The Grey Summer]] stacked a fourth friction; it did not become the gap.
 - **The Closed Seat is not a sixth attribution.** The Cut broke a monopoly. The Closing is the war. Do not name the cutter to explain either.
 - **Do not date the Tree.** [[Before the Walk]] has no start. Watchers will fight any date that starts the wood at a knife.
 - **Kumbaan is the control.** A wrecked pot in a sailor's story is allowed. A taking is not.

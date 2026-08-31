@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Maiethlir
 
-> **Threnmaieth's seat: an origin pilgrimage-town under a roll, not the grove.** *(my-eth-LEER · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|lir]] "thaw" = "the Mother's thaw.")* Conservative drift: *th* kept. Everyday *Maiethlir*. The capital of [[Polity Archetypes|Threnmaieth]] because this is where they started counting a hearth that was already holy — not because they own [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* this country and is not its crown.
+> **The Tallied Crown's seat: an origin pilgrimage-town under a roll, not the grove.** *(MAI-eth-lir · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|lir]] "thaw.")* This is where the crown started counting a hearth that was already holy — not where it acquired [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* this country and is not its crown.
 
 > Speaker: *Rithim*. The First Seat is not this city's. This is not [[The Third Hearth]] and not Brenthael. The leftover is not "the census" as a postcard.
 
@@ -114,7 +114,7 @@ The Kept are pitied *and* noted as unmarked. A household whose bloodline and upk
 >
 > *The wood was asked whether the Speaker is a Reckoned Hand. The wood did not answer in this hall.*
 
-Rithim cannot afford to see that "I have not said the line" is the only refusal the roll still has to metabolize, or that a loud river is a leftover the verso will file as weather. The clerk cannot afford to see that the delay *is* the leftover: a pilgrimage-town that still thinks the hymn comes first. Both are telling the truth they have. The First Seat, asked later, will say the Tree witnessed. That is also true.
+Rithim cannot afford to see that "I have not said the line" is the only refusal the roll still has to metabolize, or that a loud river is a leftover the verso will file as weather. The clerk calls the delay weather; Rithim calls it the hymn coming first. The First Seat, asked later, will say only that the Tree witnessed.
 
 ## GM Notes
 
@@ -123,8 +123,8 @@ Rithim cannot afford to see that "I have not said the line" is the only refusal 
 - **One leftover job.** Devotion / extra mile, layered. The census is the layer, not the postcard. Necessity from up-range is friction. Prestige that books a counted winter is the First-Hand year wearing a halo.
 - **Do not clone 7.2's stone, cups, or sand.** Tablets, a loud thaw, clerk-dorms in old lofts. The unfiled Held bed is a rumour the roll has not found — use it, do not rebuild Seine's lintel here.
 - **Maiethvael is the argument next door.** Same *maieth*, opposite paper. Do not make them the kind foil (piety as a social tax in plenty).
-- **Keystone:** dense Given stay horticulture in player text. Do not let the tablet assert the mind. The loud river is not her voice unless a later reveal earns it — and even then the R2 guard holds.
-- **R2:** confirming she is kind does not make the counted channel kind. Devotion sanctifies the surveillance; the surveillance enforces the devotion. No clean villain.
+- **Keystone:** dense Given stay horticulture in player text. Do not let the tablet assert the mind. The loud river is not her voice unless a later reveal earns it.
+- **The counted channel remains coercive.** Devotion sanctifies the surveillance; the surveillance enforces the devotion. No clean villain.
 - **Hooks.** A colour Spoken and not copied in the same breath; steal, forge, or refuse a Threnhael line; a Grown-Over room under a recut chapel; a Kept child pitied and filed; the crown withholding green; a Long-Lived archivist who remembers an overwrite; a pilgrim who thought Maiethlir *was* the Seat; a necessity-family from Lirorn's thin snow; pairing a session with [[The Third Hearth]] so lodging and counting have to share a week.
 
 ## Links

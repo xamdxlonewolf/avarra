@@ -115,9 +115,9 @@ Ledan is doing a conversion. Mataero, if they see the blank verso, will hear a j
 ## GM Notes
 
 - **Usable place, not a cross-reference ledger.** Play the rooms. Play an afternoon. The prestige-walk chain stays: Netstrand hulls → White Note terms → Orentel holds. Orenbren houses the origin-winter. Do not let "we sell the First-Hand year" mean all three desks at once.
-- **Road-past as un-auditable credit.** No mortal court can check a Long-Lived's memory of a ford two hundred summers back. That is why the note holds. It is also why a grandchild can owe a walk they cannot point to. R2: spreading Trees did not make the paper kind.
-- **Ledan is Long-Lived.** One writing-mouth. Do not invent a second Ledan as a title unless play wants the house-name reused.
-- **Mataero's blindness stands.** Do not have Ledan explain the north bed in the first scene.
+- **Road-past as un-auditable credit.** No mortal court can check a Long-Lived's memory of a ford two hundred summers back. That is why the note holds. It is also why a grandchild can owe a walk they cannot point to.
+- **Ledan is Long-Lived.** The C.Y. 280 query is the same writing-mouth Mataero is still junior to. Do not invent a second Ledan as a title unless play wants the house-name reused; the deathless reading is the load-bearing one.
+- **Mataero's blindness is the document.** Position: junior who must believe the house is a bank that happens to have rooms. Need: the conversion is competence. Lens: occupancy. Blindness: house custom *is* the credit. Do not have Ledan "explain" this unless play wants the older mouth to say it.
 - **Do not kill the Held name to tidy the ledger.** Do not move Thilim into this house. Two fates, two lintels.
 - **Do not make this house Orentel's government.** The Salt Quay is a charter-council. The White Note is a mouth.
 - **Hooks.** A due note this afternoon; the north bed occupied; Sorel's paper; a First-Hand year and a neighbour's week in the same loft; a Bound signing-watch as prestige; a pot-term that smells of earth; a court that wants a Cut-year; pairing a session with [[The Third Hearth]] so the two fates share a week.

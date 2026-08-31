@@ -21,7 +21,7 @@ updated: 2026-08-30
 
 > **Canon status.** 🟡 **Proposed** (the liturgical name, whether a Second-reader is a reputation or just any Watcher, whether the old rooms coordinate at all). 🔒 **Locked upstream:** Watchers exist; they keep the Night Watch; they offer a second reading *alongside* the [[The Tree-Wardens|tree-warden]], not over; no seat in Thaeloren's shadow; they recruit by faith / practice / Condition-lean, never by [[Kinds of the Turning|Kind]].
 
-*(Everyday, everywhere they are known: **Watchers.** Liturgical, 🟡: **the Nethoren** — neth-OR-en — [[The Old Tongue|neth]] "night" + [[The Old Tongue|oren]] "to witness": those who *keep the night and speak what was seen.* [[Polity Archetypes|Vaethorn]]'s second word is **the night-kin**; [[Polity Archetypes|Lestrand]] barely has one (*vigil-folk*, when a clerk needs a label); [[Polity Archetypes|Threnmaieth]] files the house as **the Grown-Over** and the people who keep the vigil as **the second column**.)*
+*(Everyday, everywhere they are known: **Watchers.** Liturgical, 🟡: **the Nethoren** — NETH-or-en — [[The Old Tongue|neth]] "night" + [[The Old Tongue|oren]] "to witness": those who *keep the night and speak what was seen.* The Waiting Lands say **the night-kin**; the Ledger Coast barely has one (*vigil-folk*); the Tallied Crown files the house as **the Grown-Over** and its people as **the second column**.)*
 
 **In one sentence:** they are the neighbour who will sit up with the Tree the night before Turning-Week, and the second pair of eyes a family sends for when a leaf comes down strange — they *describe*, they do not *confirm*. They have day jobs. The house is a practice, not a wage.
 
@@ -198,7 +198,7 @@ On its face: a careful witness, a little stubborn, useful to a clerk who needs a
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **They are the keystone's unexpected corroborators, and they will still miss.** Per [[Is the Leaf-Mother Real]] the seeing *is* hers. Per [[The Other Hands]] they have hold of a household before it was named Mother, and of a cost. Do not confirm their metaphysics. Do not give them a seat in a late reveal — that would turn the heretics into a second Motherfaith. The warmth lands *through* them, not *as* them.
-- **The injustice is the recut lintel, not a hunt.** Spatial + informational distance: the oldest rooms sit under the chapel that grew over them; the Seat sees horticulture and a festival-eve custom; the Bare Tree sees a theft of speech. Inheritance engine: each recut beam is a past choice the present household lives inside. R2: cosmological kindness does not unsay the Grown-Over column.
+- **The injustice is the recut lintel, not a hunt.** Spatial + informational distance: the oldest rooms sit under the chapel that grew over them; the Seat sees horticulture and a festival-eve custom; the Bare Tree sees a theft of speech. Inheritance engine: each recut beam is a past choice the present household lives inside.
 - **Do not clone the Orenhael.** No First Seat, no Road-hand circuit, no Cutting-leave, no four offices. If you need an underdog, do not invent a travelling Watch. The Road-hands already occupy that clergy-shape. A Watcher's constraint is *no mandate anyone will fund.*
 - **Taste still open (do not treat as locked).**
   1. **The name *Nethoren.*** Everyday *Watchers* is already in canon. The liturgical coinage is *neth* + *oren*. Swap or drop. Do not reuse *Orenhael*'s roots in reverse (*Haeloren*) — too cute, too colliding.

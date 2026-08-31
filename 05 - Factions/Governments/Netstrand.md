@@ -17,9 +17,9 @@ updated: 2026-08-31
 
 # Netstrand
 
-> **The Night Shore.** *(NET-strand · eroded [[The Old Tongue|neth]] "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Everyday *the Night Shore*. Theology mid-low · reach high · governance low.
+> **The Night Shore.** *(formal *Netstrand*, NET-strand · eroded [[The Old Tongue|neth]] "night; the long dark" + *strand* "shore.")* Theology mid-low · reach high · governance low.
 
-> Everyday *Netstrand*; people **Netstrand-folk**. Why *night* sits on this shore is no longer a badge: they keep a watch for ships that do not arrive. One unlit berth still has no house attached. Leave that.
+People say **the Night Shore** and **Night-folk**. Charters and learned maps write *Netstrand*. They keep watch for ships that do not arrive. One unlit berth still has no house attached.
 
 ## Overview (public)
 
