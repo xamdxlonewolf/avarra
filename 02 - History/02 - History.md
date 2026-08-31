@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, history, epic-6]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # 02 - History
@@ -34,7 +34,7 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 - [[The Grey Summer]] — C.Y. 171; quay-fever; Trenledd / Brenledd / Leddvael causes
 - [[The Thaw-Break]] — C.Y. 233; one-week melt
 - [[The Hinge Hush]] — C.Y. 304; current inner-sea peace
-- Leftovers (uncounted): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] *(sites live in `04 - Settlements`)*
+- Leftovers (uncounted; R.11 adventure-depth): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] *(sites live in `04 - Settlements`)*
 
 ## Related
 - [[The Reckoning of the Year]] — how a year is kept; Cut-years live there too

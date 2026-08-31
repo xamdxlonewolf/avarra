@@ -12,7 +12,7 @@ seat: none — a stretch of storm-beach; one person, a lamp that does not face t
 public_face: the ones who sit the storm-wall and wait — they do not swim out; they take in what the wall does not keep
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Shore-Sitters
@@ -33,7 +33,7 @@ updated: 2026-08-30
 | **Have** | A stretch of beach, a hooded lamp, one person. |
 | **Fear** | A ship that takes the lamp as a harbour. A mainlander who wants a Tree. |
 | **Live conflict** | Staying-name the drowned, or carry them unnamed. Same beach. |
-| **Hooks** | A wreck still breathing; a body above the tide; a guest who asks for a colour. |
+| **Hooks** | A wreck still breathing; a body above the tide; a guest who asks for a colour; Soonke walking someone up to [[Ndenjoo]]. |
 
 ## If you meet one
 
@@ -67,7 +67,7 @@ Same faith, two jobs. The shore decides *alive*. The hall decides *kin*. A shore
 On its face: cold courtesy. Underneath: the isolate's whole claim — wanted was never a gift, and the crossing is not a pilgrimage the Mother arranged. The sailor heard a rescue. It was a wait.
 
 ## Links
-- [[The Open Table]] · [[The Table-Keepers]] · [[Yumboe]] · [[The Sundering Isle]]
+- [[The Open Table]] · [[The Table-Keepers]] · [[Yumboe]] · [[The Sundering Isle]] · [[Ndenjoo]]
 - [[Faiths of the Turning]] · [[The Reckoning of the Year]]
 - [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 

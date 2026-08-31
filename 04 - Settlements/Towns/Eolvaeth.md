@@ -11,14 +11,25 @@ region: "[[Heskoren]]"
 population: a pilgrim-town — a couple thousand souls in Ledger-month, more in Hale-month
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Eolvaeth
 
 > **Vaethorn's seat: a pilgrim-edge town, not a live-front luck.** *(ay-ohl-VAYTH · [[The Old Tongue|eol]] "hinge" + [[The Old Tongue|vaeth]] "the waiting" = "the hinge-waiting.")* Worn drift: *th* kept. Everyday pulpit *Eolvaeth*; folk-speech **"Elvaeth"** *(el-VAYTH)*. The capital of [[Polity Archetypes|Vaethorn]] because people walk *here to wait*, not because the canopy is a certainty. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
 
-> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle of the list; not *Vaethorn*, not *Thaelvaeth*, not *Brenvaeth*, not *Eoloren* / *Eolthael* / *Eolstrand*). Warden-name *Vaethod* 🟡. **Not [[Harrow's Green]]. Not [[The Three Hamlets Past the Ford]]. Not [[Saelvaeth]]'s march.** Do not clone Road-hands or [[The Slide]] as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
+> **Canon status.** 🟡 **Playable seat.** Warden-name *Vaethod* 🟡. **Not [[Harrow's Green]]. Not [[The Three Hamlets Past the Ford]]. Not [[Saelvaeth]]'s march.** Do not clone Road-hands or [[The Slide]] as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | A week that Speaks, or a send that Saelid can survive. A mouth fed through Ledger-month. |
+| **Have** | A maybe-Tree, a spring, a gift-hall, camp-streets, four named wants. |
+| **Fear** | A colour invented for a clerk. A cohort that does not come back. A wet-leaf year that looks like piety. |
+| **Live conflict** | The gospel says wait. Horticulture, some years, says send. |
+| **Enters a scene** | A sent cohort walking back in; a camp-street fire; an unvouched Struck in the gift-hall. |
+| **How this square talks** | The conflict walks in. Vaethod's notice is texture. The argument arrives as mouths. |
 
 ## Overview
 
@@ -88,6 +99,15 @@ Offices that must exist:
 
 The unvouched Struck are the ache this seat was built to meet with faith rather than machinery. A congregation deciding whether faith or fear wins is a session, not a district.
 
+## What can enter a scene
+
+The leftover is devotion. The danger is not a sermon.
+
+- **A sent cohort walking back in.** Some Given at a luckier Hand. Some not. One unvouched. They arrive in the gift-hall while Vaethod is still chalking this year's notice. Saelid's stall feels it by evening.
+- **A camp-street fire.** Hale-month crush, tents that learned to winter, one lamp. The spring is the drink, not the bucket-line you wanted.
+- **An unvouched Struck in the gift-hall.** Faith or fear. A session, not a district. Daron may already be downwind with a different body.
+- **A clerk from the Reckoning** asking to name the spring. The wet leaf is already there.
+
 ## In-world text
 
 *A notice chalked on the gift-hall lintel, Eolthael, C.Y. 387. Vaethod's hand. The Tree is not named as sick. `oblique-worldbuilding`.*
@@ -117,4 +137,4 @@ Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence sa
 - [[Law and Citizenship]] — the unvouched Struck · [[Naming in the Turning]]
 - [[Orentel]] · [[Maiethlir]] — the other two seats
 - [[Vaethod]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11)

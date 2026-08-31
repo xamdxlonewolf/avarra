@@ -9,7 +9,7 @@ aliases: [The Cast, Capital Casts, Positional Pivots]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # People of the Turning
@@ -70,7 +70,21 @@ Not a party. Paper, beds, pots, and one week in Eolthael.
 - [[Hithaen]] arrived in the gift-hall with no list behind them. [[Vaethod]] can tell a mouth that came to wait from a clerk. They have not yet decided which this is.
 - [[Rosire]] works the ticket-infirmary downwind of [[Tesara]]'s shed. They want to be forgotten. The shed does not know why.
 
-[[Ledan]] still writes the quay-desk. They are a mouth, not a seventh pivot. If play needs them: they want the founding-name on the north bed spoken once, aloud, so they can stop being the only memory. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital.
+[[Ledan]] still writes the quay-desk. They are a mouth, not a seventh pivot. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the mouth that walks the witness home.
+
+## Other mouths this pass put on the ground (Story R.11)
+
+Not a second court. Squares that needed a second shape.
+
+| Person | Square | The job | The want that is not a Tree |
+|---|---|---|---|
+| [[Njunda]] | [[Ndenjoo]] | table-keeper | Nolas gone as kin, extra place still laid |
+| [[Ledan]] | [[The White Note House]] | quay-desk | founding-name spoken once |
+| Theisva · Lesna · Bovaer | [[Ornsael]] | well-gang | a share that lasts Hale-month |
+| Tora · Nethiro · Baelon | [[The Three Hamlets Past the Ford]] | three kitchens | send / refuse / not take the other road |
+| Meirim | Brenthael | neighbour-warden | the Third Hearth's stone down |
+| Soonke · Saalo | [[Ndenjoo]] sand / valley | sit / leave | wreck off the hill; Waandi found |
+| Thuda | [[The Low Wall]] garden-end | innkeep | labour off the garden |
 
 ## Four campaign seeds
 
@@ -98,7 +112,8 @@ Later openings. Not plotted here. The houses exist. Do not grow the four into a 
 - [[Reimaethe]] · [[Hithaen]] · [[Taeren]] · [[Rosire]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
+- [[Ndenjoo]] · [[Njunda]] · [[Ledan]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[The Pourers]] · [[The Walled Book]] · [[The Protectors]] · [[The Reckoned Offices]]
 - [[When the Fire Is Caught]] — engine under [[Taeren]] / [[Rosire]], GM
-- [[Naming People in the Turning]] · [[08 - People]] · [[Roadmap]] (Story R.8)
+- [[Naming People in the Turning]] · [[08 - People]] · [[Roadmap]] (Story R.8; R.11)
