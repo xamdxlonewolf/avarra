@@ -197,6 +197,8 @@ def storm_isle() -> Image.Image:
     # Square crop excludes the sheet border and compass while retaining the
     # complete concentric storm/current/reef system.
     crop = source.crop((250, 18, 1274, 1024))
+    crop = ImageEnhance.Contrast(crop).enhance(1.16)
+    crop = ImageEnhance.Brightness(crop).enhance(0.90)
     width, height = crop.size
     yy, xx = np.mgrid[0:height, 0:width]
     dx = (xx - width / 2) / (width / 2)
@@ -224,23 +226,24 @@ def unify_atlas_hand(canvas: Image.Image) -> Image.Image:
 def main() -> None:
     canvas = ocean_background()
 
-    # Placement preserves the chosen reference relationship while allowing
-    # each exact continent-master silhouette to determine its own proportions.
-    paste_centered(canvas, storm_isle(), (28, 30, 344, 346))
+    # The unequal scale is deliberate: Maiethorn is the largest old land,
+    # Strandoren is the next great landmass, Heskoren is a smaller rugged
+    # frontier, and Kumbaan is a difficult speck inside a disproportionate wall.
+    paste_centered(canvas, storm_isle(), (44, 44, 256, 256))
     paste_centered(
         canvas,
         extract_land(PROTOTYPE / "Heskoren-Atlas.png"),
-        (34, 382, 615, 994),
+        (34, 456, 534, 966),
     )
     paste_centered(
         canvas,
         extract_land(PROTOTYPE / "Strandoren-Atlas.png"),
-        (594, 40, 1118, 754),
+        (486, 74, 1092, 808),
     )
     paste_centered(
         canvas,
         extract_land(PROTOTYPE / "Maiethorn-Atlas.png"),
-        (1095, 22, 1514, 995),
+        (1032, 26, 1516, 986),
     )
 
     canvas = unify_atlas_hand(canvas)
