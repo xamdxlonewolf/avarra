@@ -11,14 +11,25 @@ region: "[[Maiethorn]]"
 stratum:
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Third Hearth
 
 > **A road-house that stayed a hearth.** The third lodging out from the Motherwood on the [[The Walking Years|Near Mile]], kept by **Thilim** *(THIL-im)* — [[Long-Lived]], inland, keeping this house since before [[The First Cut]], as later clerks would say. Seine's bed is still made. The notes are smaller than the [[The White Note House|White Note]]'s. The shrine is larger. Fleshed at square scale for [[Roadmap|Story 7.2]]: a mile-mark, a neighbour Hands-town, one tension. Do not flesh a capital around it.
 
-> **Canon status.** 🟡 **Playable site.** Everyday *the third hearth*; cant *brenhael* like any road-house. Neighbour-town **Brenthael** *(bren-THALE)* 🟡 — *bren* + *thael*, "the hearth-Tree" (seed `20260828`, middle of the list). Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
+> **Canon status.** 🟡 **Playable site.** Everyday *the third hearth*; cant *brenhael* like any road-house. Neighbour-town **Brenthael** *(bren-THALE)* 🟡. Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | The stone's water for the pot at dark. Seine's bed left made. |
+| **Have** | An upper room, a slate, a Held bed, a neighbour Hands-town. |
+| **Fear** | Brenthael pulling the stone. A court that wants a Cut-year. Wool-merchants calling empty beds a failure. |
+| **Live conflict** | The extra mile is optional. The bed is still made. |
+| **Enters a scene** | A living guest this week; Meirim's complaint under the lip; a note-collector; the Held name at the door. |
+| **How this house talks** | A made bed, not a paper. Thilim and a named neighbour-warden. |
 
 ## Overview
 
@@ -61,14 +72,21 @@ The two fates of the same origin still stand. The White Note collected, on a [[S
 
 [[Thilim]] is a person now ([[People of the Turning]]). Do not add a court around the inn.
 
-- **[[Thilim]]** — the four [[The Walking Years|Long-Lived *I walked*]] jobs, inland and tired. Blood-Read will give a true fragment. It will not tell you which job they are doing when they make the bed. They want the stone's water for the pot at dark.
-- **Brenthael's town-warden** — unnamed; wants the stone. Practice-first. Speaks a fall in a square that used to be a road.
+- **[[Thilim]]** — the four [[The Walking Years|Long-Lived *I walked*]] jobs, inland and tired. Blood-Read will give a true fragment. It will not tell you which job they are doing when they make the bed. They want the stone's water for the pot at dark. The document of this house is **Seine's bed**, made. Not a notice.
+- **Meirim** *(may-REEM)* — Brenthael's town-warden. Wants the stone. Practice-first. Speaks a fall in a square that used to be a road. The chalked complaint under the lip is theirs.
 - **Orenbren lodging-custom** — hospitality as rent in Eolthael; Thilim charges less and is called a failure for it. The compact does not own this mouth.
 - **The First Seat** sits in the Motherwood *beside* this country and is not its crown. A pilgrim who asks Thilim where the college is will be pointed at the wood, not the inn.
 
+## What can enter a scene
+
+- **A living guest this week.** Devotion-column, necessity-family, or a prestige household that missed the White Note. Thilim can tell which. They will not always tell you. The loft is one afternoon of two clocks.
+- **Meirim at the lintel**, wanting the stone down before the extra mile looks like a requirement on Brenthael's approach.
+- **A note-collector** from the White Note's kind of paper, looking at empty beds and calling them failure.
+- **A name at the door** that is not Seine and thinks it is, or is, and Thilim has to decide if the bed is still Held.
+
 ## In-world text
 
-*A chalked complaint from Brenthael's warden-hearth, carried to the third lintel and left under the stone's lip. C.Y. 387, after Hale-month. Thilim has not answered on paper. `oblique-worldbuilding`.*
+*A chalked complaint from Meirim's warden-hearth, carried to the third lintel and left under the stone's lip. C.Y. 387, after Hale-month. Thilim has not answered on paper. `oblique-worldbuilding`.*
 
 > *The crowd will need the approach. Your stone is a mile that is no longer owed. Water we have. Names we can keep on a ribbon in the square, which is where a leftover belongs.*
 >
@@ -93,4 +111,4 @@ Thilim cannot afford to see that Brenthael is telling a Hands truth, or that "a 
 - [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
 - [[Economy and the Tithe]] · [[Long-Lived]] · [[Maiethorn]] · [[Turning Tree]]
 - [[Thilim]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8)
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8; R.11)

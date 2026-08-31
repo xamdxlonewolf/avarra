@@ -141,7 +141,7 @@ Vaethorn will preach that the houses *abandoned the waiting-road*. History's job
 
 Seat narration: *her will is still travelling.* Folk memory: *the cart came late, the soil was called thin, we can see Harrow's green from here.* Vaethorn will preach *we wait because we are unworthy.* History does not agree. They wait because the wood is slow, the road is long, and the list was written in the Motherwood.
 
-The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. Playable square: [[Ornsael]]. Do not dump it onto Heskoren. Do not forget it. A west-road child after the Sacred Core has stopped walking is Clock 2 on the Motherland, which is how you know Ornthael is not a finished age.
+The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. Playable square: [[Ornsael]] — R.11: the Hand Speaks most years; the well is dropping; the west-road is water. Do not dump it onto Heskoren. Do not forget it. A west-road child after the Sacred Core has stopped walking is Clock 2 on the Motherland, which is how you know Ornthael is not a finished age.
 
 ## What is strained (the present tense of pressure)
 

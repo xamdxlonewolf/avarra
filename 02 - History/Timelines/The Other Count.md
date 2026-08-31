@@ -9,7 +9,7 @@ aliases: [Years Besides Wood, The Counted Years That Were Not Grafts, Non-Tree H
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Other Count
@@ -78,15 +78,15 @@ The clerk cannot afford to see that "171 is not a Cut we honor" is how a fever b
 - **The nature of her limit.** A war over access is people. It is not a wound-theory.
 - **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[Eolstrand]].
 - **Named terrain.** ✅ Story R.10 → [[Named Ground]] (the Old Crossing · the Rain-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash).
-- **Adventure-site procedure.** The three leftovers have doors and arguments. Entrances, pressures, and current actors at dungeon-depth wait on [[Roadmap|Story R.11]].
+- **Adventure-site procedure.** ✅ Story R.11: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] now have entrances, pressures, discoveries, and current actors. Still do not date them.
 
 ## Links
 - The five: [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
 - Already on the shelf: [[The Wrong Green]] · [[The First Cut]] · [[The Ages of the Turning]]
-- Leftovers: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
+- Leftovers: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] (R.11 depth)
 - [[The Walled Book]] · [[Powers of the Turning]] · [[The White Note House]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Before the Walk]]
-- [[02 - History]] · [[Roadmap]] (Story R.9)
+- [[02 - History]] · [[Roadmap]] (Story R.9; R.11)
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*

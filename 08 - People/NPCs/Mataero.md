@@ -53,7 +53,7 @@ They cannot rewrite Ledan's count. They cannot let the north bed. They can lose 
 ## Role & Relationships
 
 - **[[Sorel]]** — mother, still alive, still on a White Note century-instrument from a walk Sorel cannot point to. Mataero's cut of occupancy is supposed to be how that paper moves. It has not moved.
-- **Ledan** — [[Long-Lived]]; writes the quay-desk. Same house, older mouth; the C.Y. 280 conversion-query is theirs. Will not explain house custom unless play makes them. Wants, if asked, the founding-name spoken once.
+- **[[Ledan]]** — [[Long-Lived]]; writes the quay-desk. Same house, older mouth; the C.Y. 280 conversion-query is theirs. Will not explain house custom unless play makes them. Wants, if asked, the founding-name spoken once.
 - **[[Sorim]]** — factor on the first quay. Will not convert house-years. Treats a pot as cargo and a First-Hand year as not-cargo. Mataero hears a neighbour who cannot file beds.
 - **[[Thilim]]** — inland, still making the bed. Mataero cannot see that house except as a warning: a loft that failed to become a slate.
 - **[[Reimaethe]]** — lets a rise-room by the season. Pays. Pours. Mataero has written *let*.
@@ -70,6 +70,6 @@ They cannot rewrite Ledan's count. They cannot let the north bed. They can lose 
 
 ## Links
 - [[The White Note House]] · [[Orentel]] · [[People of the Turning]]
-- [[Sorim]] · [[Thilim]] · [[Tesara]] · [[Reimaethe]]
+- [[Ledan]] · [[Sorim]] · [[Thilim]] · [[Tesara]] · [[Reimaethe]]
 - [[Economy and the Tithe]] · [[Long-Lived]]
 - [[08 - People]]

@@ -17,7 +17,7 @@ updated: 2026-08-30
 
 > **What this is.** The physical names the settlements and the Other Count were already using as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks that already existed. Everyday first. No new liturgy. Seed `20260831` (LCG; lists shuffled; names picked from the **middle**, never the first thought). The labelled picture is [[The Known Map]]. How to *draw* a map lives in `14 - Assets/Maps/` — not here. Paintings are not a second gazetteer.
 
-> **Canon status.** 🟡 **Named ground (Story R.10).** 🔒 **Does not add a sixteenth power.** 🔒 **Does not date the Tree.** 🔒 **[[The Sundering Isle|Kumbaan]] never took a graft** — dead wood is not a Tree. Deep climate/ecology still deferred. Adventure-site depth stays [[Roadmap|Story R.11]].
+> **Canon status.** 🟡 **Named ground (Story R.10).** 🔒 **Does not add a sixteenth power.** 🔒 **Does not date the Tree.** 🔒 **[[The Sundering Isle|Kumbaan]] never took a graft** — dead wood is not a Tree. Deep climate/ecology still deferred. Adventure-site depth ✅ [[Roadmap|Story R.11]].
 
 ## How to say it at the table
 

@@ -10,7 +10,7 @@ aliases: [Kumbaan, The Sunder, The Storm-Walled Isle, The Hidden Home, The Yumbo
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-22
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Sundering Isle
@@ -50,12 +50,37 @@ The Isle is the homeland of the **Yumboes** ("Bakhna Rakhna," *the good people*)
 
 **[[The Open Table]]** (*Ndeyaan*) — the Yumboes' own cosmology, **grown in isolation** and owing nothing to the [[The Leaf-Mother|Motherfaith]]. Their old accounts frame the good people as bound up with **the ancestors and the dead** (folklore-true: the Yumboes are called "the spirits of the dead"), reinvented here as a living faith of hill, moon, hospitality, and the staying-kin — not literal ghosts. Full build: [[The Open Table]] · the people: [[Yumboe]] · the hall: [[The Table-Keepers]] · the sand: [[The Shore-Sitters]] · map: [[Faiths of the Turning]].
 
+## How a crossing works
+
+The wall stays a dial, not a lock and not a ferry. Playable custom. The [[Named Ground|West Water]] is named; a thinning is still a moon, not a timetable.
+
+**You do not book Kumbaan.** A [[Netstrand]] hull may *try* — the far crossing is that coast's leftover, not a timetable. Shore-sitters do not swim out. They do not keep a rescue-boat. Most attempts wreck, turn back, or never return.
+
+**If you live:**
+
+1. You are on the sand or you are not.
+2. A [[The Shore-Sitters|shore-sitter]] decides *alive*. Water, a blanket, no questions about Kind or colour. Dead go above the tide.
+3. The living are walked **uphill**. First night as *guest* starts at a hall, not on the sand.
+4. A [[The Table-Keepers|table-keeper]] decides *kin*. Second sitting: *no one is a stranger twice.* That belonging is **on the isle**.
+5. The sentence does not travel back to a mainland watch. [[Law and Citizenship|Road-word]] still works on a [[Strandoren]] quay *before* you sail. Here the three questions are not asked.
+
+**A thinning** is a moon the sitters know — wreck-moons, the weeks after a crossing rumour. It is not a scheduled door. The GM picks when a hull can try. A permanent absolute wall kills the expedition; a weekly packet kills the isolate.
+
+**Return** is the same wall. Sitters do not send anyone back. You wait for a thinning, or you take a hull that will try. A Yumboe who wants off sits the same sand from the other want.
+
+**What a mainlander owes, if they eat:**
+
+- Eat. Sleep the day if you can. Do not plant a Tree. Do not file the hill. Do not swim the wall. Do not sell the sentence as a proverb.
+- Guest-right on the isle is the table, not a week-token you carry home.
+
+Playable square: [[Ndenjoo]] (the Feeding Hill). Shore on that stretch: Soonke. Hall: [[Njunda]].
+
 ## Story hooks
 
-- **The crossing itself** — an expedition to breach the storm-wall as a campaign spine; who has done it, what they brought back, whether there's a season or a way.
+- **The crossing itself** — an expedition to try the wall; who has done it, what they brought back, whether this moon is a thinning.
 - A **lone Yumboe on the mainland** — a walking legend, treated as myth-made-flesh; the ~5%-scary dial at its gentlest (a wondrous stranger) or its loneliest (a person no one believes is real).
-- The Isle as the **keystone's natural experiment** — a people who became themselves with no Tree (see GM Notes).
-- A mainland scholar (or heretic — cf. [[The Watching]], [[The Old Ways]]) who believes Kumbaan holds the answer to what the Trees really are.
+- **[[Ndenjoo]]** — a hall that has to seat a wreck, a kin who will not leave, a sibling who wants out. Session wants, not a reveal.
+- A mainland scholar (or heretic — cf. [[The Watching]], [[The Old Ways]]) who believes Kumbaan holds the answer to what the Trees really are — late, if at all. Do not make that the first night.
 
 The labelled picture: [[The Known Map]]. Days: there are none that count. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on the wall.
 
@@ -64,7 +89,9 @@ The labelled picture: [[The Known Map]]. Days: there are none that count. To dra
 - [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (twelve moons, not solstices)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)
-- [[Faiths of the Turning]] · [[The First Cut]] (Kumbaan never) · [[Roadmap]] (Epic 3) · [[01 - World]]
+- [[Ndenjoo]] — playable hill-hall · [[Njunda]]
+- [[Netstrand]] — hulls that try · [[Law and Citizenship]] — road-word before you sail
+- [[Faiths of the Turning]] · [[The First Cut]] (Kumbaan never) · [[Roadmap]] (Epic 3; R.11) · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
@@ -72,4 +99,5 @@ The labelled picture: [[The Known Map]]. Days: there are none that count. To dra
 - **The Isle is the strongest keystone experiment — guard the reveal.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the cleanest natural test of whether the Mother is behind *any* of it. Per [[The Other Hands]]: **no Gifts** (no graft has crossed; her reach does not get there); **Struck are rare** (the household has little purchase where it is unknown and the doors are not kept); their Kind and their table are *their own*, not a subtler Tree. Don't resolve a lone Yumboe's Struck-or-not in session one — it's still a late beat, just no longer an empty question.
 - **Three old faiths, three edges, one buried truth.** [[The Open Table]] joins [[The Watching]] and [[The Old Ways]] as the world's three keystone-adjacent religions — each grown far from (or before) the Motherfaith's account, each possibly preserving a fragment of what the Trees really are. The Isle's is the *purest* control: a cosmology with zero Motherfaith contamination. If a campaign triangulates the keystone, these three are the corners. See [[Faiths of the Turning]].
 - **"Spirits of the dead" is folklore, not literal here.** The source myth calls Yumboes ghosts/ancestral spirits. We reinvent them as a *living* people (they're a playable Kind), but the ancestral flavour is deliberately kept as their *faith's* self-image — a people who venerate hill, moon, and lineage and speak of themselves in the old ancestral idiom. Don't make them literally undead (that's the [[Returned]]'s lane).
-- **The storm-wall is a dial, not a lock.** Keep whether it can be crossed — and how — a GM lever. A permanent absolute wall kills the expedition hook; a seasonal thinning, a known-but-deadly passage, or a Condition/Kind that can survive it (a [[Selkie]]? a [[Far-Voiced]]?) keeps the door usable when the story wants it.
+- **The storm-wall is a dial, not a lock.** A permanent absolute wall kills the expedition hook; a weekly packet kills the isolate. Thinning, wreck, or a Kind/Condition that can survive a night on the reef (a [[Selkie]]? a [[Far-Voiced]]?) stays a lever. Procedure is above; do not invent a moon-warden or a Kumbaan mission.
+- **Play [[Ndenjoo]] as a home.** Confirmation that the isle is the control stays late. First nights are dishes, wrecks, and guests.

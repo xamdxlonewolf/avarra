@@ -10,7 +10,7 @@ world: The Turning
 domain: hospitality, the moon, the staying-kin, the unseen hands
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Open Table
@@ -96,7 +96,7 @@ On its face: hospitality, almost twee. Underneath: a whole cosmology that has ne
 
 ## Links
 - [[Faiths of the Turning]] — the map · [[Yumboe]] — the people who keep this
-- [[The Sundering Isle]] (Kumbaan) · [[The Child at Four Doors]]
+- [[The Sundering Isle]] (Kumbaan) · [[Ndenjoo]] — playable hall · [[The Child at Four Doors]]
 - [[The Leaf-Mother]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon, not the solstice)
 - [[The Table-Keepers]] — the working house
 - [[The Shore-Sitters]] — sister house on the storm-beach. They wait; they do not seat.

@@ -11,14 +11,25 @@ region: "[[Heskoren]]"
 population: a small town — a few hundred hearths around one canopy
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Harrow's Green
 
 > **A live-front Tree-town.** The luckiest kind of [[Heskoren]] square: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The neighbour's canopy. The Harrow-sentence — *we Turned at Harrow's Tree before we had our own* — is how new towns talk everywhere ([[Turning Tree]]); here it is the decade. Fleshed at square scale for [[Roadmap|Story 7.2]] (`settlement-design`: site, leftover, one tension — not a district grid).
 
-> **Canon status.** 🟡 **Playable square.** Everyday *Harrow's green* was already a Seat sentence ([[The Tree-Wardens|Cutting-leave]]); liturgical unknown on purpose. Warden-name *Haelin* 🟡 (seed `20260828`; pick from the middle). Do not rename to pick a hearth. **Do not make it a capital** of [[Saelvaeth]]. Do not give it the next scion as a reward. Do not clone [[The Slide]] or Road-hands as a district.
+> **Canon status.** 🟡 **Playable square.** Everyday *Harrow's green* was already a Seat sentence ([[The Tree-Wardens|Cutting-leave]]); liturgical unknown on purpose. Warden-name *Haelin* 🟡. **Do not make it a capital** of [[Saelvaeth]]. Do not give it the next scion as a reward. Do not clone [[The Slide]] or Road-hands as a district.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | Room in the square for Leaf-Fall. Water still on the stone. A neighbour's week that can walk home. |
+| **Have** | A live Hand, a stone Haelin wants moved, an upper room, the Wrong Green letter. |
+| **Fear** | The Harrow-sentence said with a hammer. A pot treated as a pilgrim. A witness who will not walk back. |
+| **Live conflict** | The stone is in the way of the crowd and is still the day's drink. |
+| **Enters a scene** | Stone-moving day; a child on the climb; a pot arriving upstairs; Tora of Brenod needing a mouth. |
+| **How this square talks** | A day, two mouths. Haelin and a hamlet witness. Not one notice alone. |
 
 ## Overview
 
@@ -63,7 +74,11 @@ A warden who pulls the stone down is doing theology with a hammer. They are not 
 
 ## People & Powers
 
-Haelin stays the live-front office this cast points at; the six pivots are not here ([[People of the Turning]]). Offices that must exist:
+Haelin stays the live-front office this cast points at; the six pivots are not here ([[People of the Turning]]).
+
+**Second mouth: Tora** *(TOR-ah)* of [[The Three Hamlets Past the Ford|Brenod]]. They walk a neighbour-fall home when they can. They are here when the stone is to be moved, because the next column still drinks there. Haelin has a Tree. Tora has a ford. Same week.
+
+Offices that must exist:
 
 - **Town-warden (Haelin)** — practice-first, not Kind. Speaks the fall truly enough for a front-town. Believer-heavy the way a live Tree makes you; still has to lodge the neighbour's week. The scion-queue is not theirs to fix and is the sentence they live in. The hearth still keeps the Seat letter from [[The Wrong Green]] (C.Y. 248): Nathdo Speaked a hug as copper-green. Haelin Speaks slowly. Hale-month does not always forgive it. A pot from [[Orentel|Sorim]]'s earth-berth may sleep upstairs.
 - **The square that watches children Turn** — Harrow's witness is what a hamlet child carries home. Vouching-at-a-distance was invented for an origin-fall. Here it is a walk back to the ford.
@@ -71,6 +86,13 @@ Haelin stays the live-front office this cast points at; the six pivots are not h
 - **A Door-Keeper at a later planting** — host-rights if a cut from Harrow's is set in an old green. The first meal, or a claiming. Do not skip [[The Door-Keepers]] to make the town simpler.
 
 Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a throne here.
+
+## What can enter a scene
+
+- **Stone-moving day.** Ropes, a crowd, Hale-month dust. The stone can tip. The stream can take a foot. Haelin is not a villain for wanting the square. Tora is not a villain for needing the water.
+- **A child on the climb** — hamlet or local — asking how far it is to the Tree while standing on the leftover.
+- **A pot arriving upstairs.** A Road-hand, earth-smell, Sorim's berth 5 if you want the chain. Haelin can tell a pot from a pilgrim. They will not always say.
+- **A Door-Keeper at a later planting** asking about the bowl before they ask about a leave.
 
 ## In-world text
 
@@ -95,9 +117,9 @@ Haelin cannot afford to see that "I have a Tree" is the luck the Seat already wr
 - **Hooks.** The hamlets can see the canopy; a borrowed Turning whose witness has to walk home; the stone Haelin wants moved; a Road-hand sleeping here with a pot for someone else; a folk-right slip in a hamlet that took, and Harrow's warden asked to Speak it; a first meal a Road-hand ate or refused on the way through; the climbing-child from the fable, this year.
 
 ## Links
-- [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] · [[The Child Who Climbed the Stone]]
+- [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] (Tora of Brenod) · [[The Child Who Climbed the Stone]]
 - [[Heskoren]] · [[Saelvaeth]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — neighbour-witness
 - [[The Wrong Green]] — the cited mis-Speaking, kept in the hearth
 - [[People of the Turning]] — live front this cast points at
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8)
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8; R.11)

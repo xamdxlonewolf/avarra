@@ -11,14 +11,25 @@ region: "[[Strandoren]]"
 population: a salt-city — tens of thousands; the Tree-town is the smaller half
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Orentel
 
 > **Lestrand's seat: a salt quay, not a desk wearing a crown.** *(or-EN-tel · eroded [[The Old Tongue|oren]] + [[The Old Tongue|thael]] = "the witnessing-Tree," *th* worn to *t*.)* Everyday *Orentel*; Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. The capital of [[Polity Archetypes|Lestrand]] because notes and berths meet here, not because a house sits a throne. [[The White Note House]] is on the third quay, north side — placed, not crowned. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
 
-> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle of the list; not *Lestrand*, not *Eolstrand* / *Netstrand*, not *Orenbren*, not *Thaeloren*). Factor-name *Sorim* 🟡. **Do not make [[The White Note House|Ledan]] the government.** Do not clone [[Harrow's Green]]'s stone or [[Ornsael]]'s sand as the quay's only texture. Do not clone Road-hands or [[The Slide]] as a district.
+> **Canon status.** 🟡 **Playable seat.** Factor-name *Sorim* 🟡. **Do not make [[The White Note House|Ledan]] the government.** Do not clone [[Harrow's Green]]'s stone or [[Ornsael]]'s well as the quay's only texture. Do not clone Road-hands or [[The Slide]] as a district.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | Berths 1–4 held. A term that matches a hold. A kin-berth that is not a First-Hand year. |
+| **Have** | A charter-council, a Tree that Turns for free, three desks on one winter, five named wants. |
+| **Fear** | A fade the city steps around. A crane that treats a year as cargo. |
+| **Live conflict** | Prestige as product. Necessity in the loft. The quay will only file occupancy. |
+| **Enters a scene** | A crane failing on berth 5; tide in the downwind shed; a hold-fight on 1–4; salt on the roots. |
+| **How this city talks** | A slate and a crane. Institutional, not one clerk's blindness. |
 
 ## Overview
 
@@ -88,6 +99,14 @@ Offices that must exist:
 
 The Tithe-poor fade while the city steps around them. That is the injustice. Nothing is policed. Everything is priced.
 
+## What can enter a scene
+
+- **A crane failing on berth 5.** Earth, a pot, a family who wanted 1–4. The hold was not invented. The wood can still drop.
+- **Tide in the downwind shed.** Tesara's catching-year does not pause for weather. The ticket-infirmary queue gets wet and loud.
+- **A hold-fight on berths 1–4.** Didel's kin-wedding vs Sorim's house-share. Same morning as a First-Hand year boarding.
+- **Salt on the Tree's roots in Eolthael.** The tide does not reach the rise. A Hall-keeper will schedule around it. Do not explain it.
+- **An alley the council does not charter.** Sold vouching, smuggled green. [[The Standing Trade]] if you need a face.
+
 ## In-world text
 
 *A berth-slate, first quay, Eolthael through Hale-month, C.Y. 387. Sorim's hand. The Tree is not mentioned. `oblique-worldbuilding`.*
@@ -121,4 +140,4 @@ Sorim cannot afford to see that "I did not invent the hold" is the market's inju
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — warranting
 - [[Eolvaeth]] · [[Maiethlir]] — the other two seats
 - [[Sorim]] · [[Mataero]] · [[Tesara]] · [[People of the Turning]]
-- [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)
+- [[Ledan]] · [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11)

@@ -9,7 +9,7 @@ aliases: [Place Seeds, Leftover Towns, What Epic 7 Inherits]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-31
 ---
 
 # Settlement Seeds
@@ -24,7 +24,7 @@ From [[Daily Life]], unchanged: **the Tree at the centre** (or the neighbour's T
 
 From [[The Years of Hands]], layered on top: a road that used to go further; a stone that used to be a day's walk; an upper room that used to be a pilgrim-dorm; a house that used to be an inn. Adaptive reuse is how Ornthael looks like a present.
 
-Kumbaan is not in this catalog. The Isle's places wait on a later pass with [[The Open Table]], not with mile-shrines.
+Kumbaan was not in this catalog on purpose — isle places are a different leftover (storm-wall, moons, Open Table), not a mile-shrine type. **Story R.11 opened one hall:** [[Ndenjoo]]. Still no Tree. Still not a thirteenth mainland power.
 
 ## Types (pick from these; do not invent a seventh job for the walk)
 
@@ -38,7 +38,7 @@ Kumbaan is not in this catalog. The Isle's places wait on a later pass with [[Th
 | **Waiting cluster** | queue made visible; Clock 2 this year | can see a neighbour's canopy; folk-right temptation; Kept/Struck-heavy | Heskoren; also Rain-Shadow pockets | [[The Three Hamlets Past the Ford]] ✅ fleshed (folk names *Brenod · Vaelun · Ornath*) |
 | **Sick-Tree square** | Hands that un-Hands | necessity-walk *returns*; civic crisis wearing a child's summer | any continent the wood has reached | *(type — unused in 7.2; well-graft weather lives on [[Ornsael]] without locking a sick fall)* |
 | **Guest-grove** | Old Ways planting | first meal vs Cutting-leave; host-rights | Heskoren old greens | *(type — play with [[The Door-Keepers]] at Vaelun; do not clone a second Harrow)* |
-| **Rain-Shadow walk-hold** | leftover waiting on the Motherland | west-road after the core stopped | [[Maiethorn]] dry hills | [[Ornsael]] ✅ fleshed (proves Ornthael is unfinished even at the origin-continent) |
+| **Rain-Shadow walk-hold** | leftover waiting on the Motherland | west-road after the core stopped | [[Maiethorn]] dry hills | [[Ornsael]] ✅ fleshed (R.11: well dropping; Hand Speaks most years; Clock 2 as water) |
 
 Do not clone Road-hands as a town. Do not clone the Slide as a district. Do not invent Kind-quarters ([[Kinds of the Turning|hearths, not nations]]).
 
@@ -58,7 +58,7 @@ Four types, not nine. At least one already-named stub, at least one new square. 
 | [[Harrow's Green]] | live-front Tree-town | [[Saelvaeth]] orbit, **not a capital** | necessity (neighbour's week) | Clock 2 as this decade; luck is a Seat sentence |
 | [[The Three Hamlets Past the Ford]] | waiting cluster | seam: Saelvaeth / [[Vaelhesk]] / Vaethorn / [[Ornled]] | necessity | the queue made visible; folk names the leave did not write |
 | [[The Third Hearth]] | deathless inn-bank (hearth fate) | [[Orenbren]] lodging-country; neighbour **Brenthael** | devotion (extra mile); loft still sleeps the rest | two fates of the road-house; stone vs Hands-town |
-| [[Ornsael]] | Rain-Shadow walk-hold **(new)** | [[Saelthael]], **not a capital** | necessity (west-road) | Clock 2 is not "the frontier"; Ornthael unfinished at the origin |
+| [[Ornsael]] | Rain-Shadow walk-hold **(new)** | [[Saelthael]], **not a capital** | necessity (west-road as *water*) | Clock 2 is not "the frontier"; R.11 broke the Eolvaeth clone |
 
 [[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated (7.3). Sick-Tree square, guest-grove, and a lead road-end type wait. Do not clone Road-hands or [[The Slide]] as a district. Do not invent Kind-quarters.
 
@@ -87,11 +87,12 @@ Three corners as *places*, not only axes. Do not clone 7.2's squares as the capi
 - [[Heskoren]] · [[Maiethorn]] · [[Strandoren]] · [[The Tree-Wardens]] · [[The Door-Keepers]]
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
-- [[04 - Settlements]] · [[Powers of the Turning]] · [[Roadmap]] (Story 7.3)
+- [[Ndenjoo]] — Kumbaan hall (R.11; not a mile-shrine type)
+- [[04 - Settlements]] · [[Powers of the Turning]] · [[Roadmap]] (Story 7.3; R.11)
 
 ## GM Notes
 
 - **Seeds are a blast-radius brake.** Story 7.2 fleshed four squares at *square* scale; 7.3 seated three capitals at *seat* scale, still not ward-grids. Unused types stay types. If a session needs another square tomorrow, pick from the unused row and leave streets unnamed until a pass.
 - **R2 at the map-scale.** A pretty road-end town whose leftover is only picturesque launders the graves. A waiting cluster whose only note is "poor and faithful" agrees with Vaethorn guilt. Write the job, not the postcard.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let a seed-note assert the mind.
-- **Kumbaan stays off this list on purpose.** Isle settlements are a different leftover (storm-wall, moons, Open Table). Do not give them a mile-shrine to make the catalog feel complete.
+- **Kumbaan stayed off this list on purpose.** R.11 opened [[Ndenjoo]] as a table-at-the-centre hall, not a mile-shrine type and not a thirteenth power. Do not add a Tree to complete the catalog.

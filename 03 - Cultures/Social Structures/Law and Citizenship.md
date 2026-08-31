@@ -8,7 +8,7 @@ tags: [society, law, citizenship, governance, epic-2, social-structure]
 aliases: [Law of the Turning, Citizenship, Condition Law, Witnessed Citizenship]
 reveals: [keystone-adjacent]
 created: 2026-08-20
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Law and Citizenship
@@ -74,6 +74,12 @@ A watch that stops a stranger asks three things: **name, last hearth, who stands
 **Struck on the road** are vouched-anew at the next desk that will take them ([[The Intake]] if the door is hazardous). Changing unwitnessed is still a seam. It is not a crime to have changed.
 
 Sold vouching still exists as a nameless underside ([[Economy and the Tithe]]). It is not this custom. A sold mouth that will not answer a Far-Voiced call is how the market fails in public.
+
+### The storm-wall is not a road
+
+[[The Sundering Isle|Kumbaan]] is not a jurisdiction on this grammar. You do not arrive vouched. A road-word, company-vouch, or guild-mark still helps you *leave a Strandoren quay*. It does not file a hill.
+
+On the isle, guest-right is the table. A second sitting makes you kin **there**. It does not become a last-hearth you can spend on a mainland watch. Procedure: [[The Sundering Isle#How a crossing works]]. Playable hall: [[Ndenjoo]]. The mainland collision (sentence vs witness) stays on [[The Open Table#The sentence at the mainland lintel]].
 
 ## The Struck — those who changed *unwitnessed*
 
