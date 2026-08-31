@@ -82,7 +82,7 @@ Offices that must exist:
 
 - **Town-warden (Haelin)** — practice-first, not Kind. Speaks the fall truly enough for a front-town. Believer-heavy the way a live Tree makes you; still has to lodge the neighbour's week. The scion-queue is not theirs to fix and is the sentence they live in. The hearth still keeps the Seat letter from [[The Wrong Green]] (C.Y. 248): Nathdo Speaked a hug as copper-green. Haelin Speaks slowly. Hale-month does not always forgive it. A pot from [[Orentel|Sorim]]'s earth-berth may sleep upstairs.
 - **The square that watches children Turn** — Harrow's witness is what a hamlet child carries home. Vouching-at-a-distance was invented for an origin-fall. Here it is a walk back to the ford.
-- **Road-hands passing through** — they sleep in the town that was chosen, on the way to the one that was not. Do not clone them as a Harrow's chapter.
+- **Road-hands passing through** — they sleep in the town that was chosen, on the way to the one that was not.
 - **A Door-Keeper at a later planting** — host-rights if a cut from Harrow's is set in an old green. The first meal, or a claiming. Do not skip [[The Door-Keepers]] to make the town simpler.
 
 Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a throne here.
@@ -106,7 +106,14 @@ Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a 
 
 Haelin cannot afford to see that "I have a Tree" is the luck the Seat already wrote, or that moving the stone is the Harrow-sentence said with a hammer. The notice may be crowd control in the square and still arrive as a slight past the ford.
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- - **Road-hands passing through** — they sleep in the town that was chosen, on the way to the one that was not. Do not clone them as a Harrow's chapter.
 
 - **Do not make Harrow's the "good town" that waited faithfully.** They were a paying-enough, soil-enough, chain-enough next on a list written in the Motherwood. Luck is horticulture plus the queue. Vaethorn will preach otherwise.
 - **The Harrow-sentence is a tell.** When an NPC says it as nostalgia, they are Maiethorn. When they say it as this year, they are the front. When they say it as a slight (*they Turned at Harrow's because they had no Hand*), they are a hamlet.

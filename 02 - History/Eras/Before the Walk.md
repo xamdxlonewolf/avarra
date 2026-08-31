@@ -19,7 +19,6 @@ updated: 2026-08-30
 
 > **The unnamed preface.** The [[Turning Tree|Awakening Tree]] already stood. People already had [[Kinds of the Turning|Kinds]]. Some already *became* things at doors the later faith would struggle to place. This era is kept **thin on purpose** — the inscrutable fifth of the past. The spine lives in [[The Ages of the Turning]].
 
-> **Canon status.** 🔒 **There is no date.** 🔒 The Tree is old beyond reliable dating ([[Turning Tree]]). 🔒 **Kept thin** — no creation myth, no first king. [[The Watching]] keep **the Before**.
 
 ## Overview
 
@@ -43,9 +42,15 @@ None dated. That is the point.
 
 A later chronicle that "discovers" a first king, a first war, or a first sermon in this era is doing the overlay [[The Watching]] warned about. Put named figures in the Hands and the Other Count, and only if they can survive a Watcher asking *seen by whom?*
 
-**Physical leftovers (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play (R.11: entrances, pressures, current actors). They do not start a year. Do not date the Tree from them.
+**Physical leftovers (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play through entrances, pressures, and current actors. They do not start a year. Do not date the Tree from them.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🔒 **There is no date.** 🔒 The Tree is old beyond reliable dating ([[Turning Tree]]). 🔒 **Kept thin** — no creation myth, no first king. [[The Watching]] keep **the Before**.
 
 - **This is the 20% inscrutable.** Resist the urge to fill it. [[The Watching]] and [[The Old Ways]] already hold the two usable memories (seeing without a mother; doors without a graft). A third "true prehistory" would flatten both.
 - **Keystone-adjacent, not keystone-confirming.** The Tree standing before it was called Hers is compatible with [[Is the Leaf-Mother Real|she is real]] *and* with "the Mother-name is later." Do not use this note to decide what she is. The *maternal intent* is locked; her metaphysical species is not.
@@ -55,3 +60,5 @@ A later chronicle that "discovers" a first king, a first war, or a first sermon 
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The Watching]] · [[The Old Ways]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]]
 - Leftovers (uncounted): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] · [[The Other Count]]
 - [[02 - History]]
+
+- **P2.1 tracker move.** Additional moved label: R.11 adventure-site depth.

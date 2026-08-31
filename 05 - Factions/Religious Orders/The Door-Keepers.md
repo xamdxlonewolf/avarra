@@ -17,11 +17,10 @@ updated: 2026-08-30
 
 # The Door-Keepers
 
-> **What this is.** The working people of [[The Old Ways]] (*Vaeloren*) — the door-keepers / Kin-speakers sketched on that faith note, now built as a faction. They have **no seat** because **the land is the seat**. Not a hierarchy; a reputation. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+> **What this is.** The working people of [[The Old Ways]] (*Vaeloren*) — the door-keepers / Kin-speakers sketched on that faith note, now built as a faction. They have **no seat** because **the land is the seat**. Not a hierarchy; a reputation.
 
-> **Canon status.** 🟡 **Proposed** (the liturgical name, whether door-keeper and Kin-speaker are two jobs or one mouth). 🔒 **Locked upstream:** door-keepers exist; they know the old doors; they stand for the Struck; grafts are guests; they recruit by faith / practice / Condition-lean, never by [[Kinds of the Turning|Kind]]; they are not a Kind-nation of the Taken-In.
 
-*(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical, 🟡: **the Vaelbren** — VAEL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* The Waiting Lands say **the door-folk**; the Ledger Coast says **grove-talkers**; the Tallied Crown files them as **the Unreached**.)*
+*(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical: **the Vaelbren** — VAEL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* The Waiting Lands say **the door-folk**; the Ledger Coast says **grove-talkers**; the Tallied Crown files them as **the Unreached**.)*
 
 **In one sentence:** they are the person three valleys walk to when someone needs to know which drowning-pool still returns, which grove still takes people in — and the mouth that names a Struck *kin* at the door that made them, instead of walking them to a Tree to be filed as late.
 
@@ -140,7 +139,7 @@ Someone decides whether a sickening graft is a *guest in the grove* or a *Tree t
 
 The Road-hand arrives with leave and soil-science. The door-keeper arrives with grandparents and food. Both can be right about the wood. The years the grove spends arguing are years children walk to a neighbour's canopy — Kept-heavy, Struck-heavy — which the frontier already knows as weather, and which Vaethorn will sanctify as unworthiness if no one says otherwise.
 
-This is a spatial + inheritance parallax, not a queue. The Seat's scion-queue is the Orenhael's injustice; do not clone it onto the Vaelbren. Theirs is *who is host*, and *who will stand for the Struck the town will not*. A real Tree in the grove would not make the grafts first, and would not make a closed door a slight. The grievance stays: the grafts *are* late; the Motherfaith *did* talk as if becoming were new.
+This is a spatial + inheritance parallax, not a queue. Theirs is *who is host*, and *who will stand for the Struck the town will not*. A real Tree in the grove would not make the grafts first, and would not make a closed door a slight. The grievance stays: the grafts *are* late; the Motherfaith *did* talk as if becoming were new.
 
 ## Economy of the house
 
@@ -162,11 +161,20 @@ On its face: frontier courtesy, a little barbed — the drowning-stone saying re
 - [[The Old Ways]] — the faith this house keeps · [[Faiths of the Turning]]
 - [[Heskoren]] · [[The Taken-In]] · [[The Premise]] (the Struck)
 - [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Table-Keepers]]
-- [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (Vaelbren 🟡; older sense of *vael*)
+- [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (Vaelbren; older sense of *vael*)
 - [[Law and Citizenship]] · [[Kinds of the Turning]] · [[The Reckoning of the Year]]
-- [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
+- [[The Child at Four Doors]] · [[Roadmap]] · [[05 - Factions]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** The working people of [[The Old Ways]] (*Vaeloren*) — the door-keepers / Kin-speakers sketched on that faith note, now built as a faction. They have **no seat** because **the land is the seat**. Not a hierarchy; a reputation. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
+- > **Canon status.** 🟡 **Proposed** (the liturgical name, whether door-keeper and Kin-speaker are two jobs or one mouth). 🔒 **Locked upstream:** door-keepers exist; they know the old doors; they stand for the Struck; grafts are guests; they recruit by faith / practice / Condition-lean, never by [[Kinds of the Turning|Kind]]; they are not a Kind-nation of the Taken-In.
+- This is a spatial + inheritance parallax, not a queue. The Seat's scion-queue is the Orenhael's injustice; do not clone it onto the Vaelbren. Theirs is *who is host*, and *who will stand for the Struck the town will not*. A real Tree in the grove would not make the grafts first, and would not make a closed door a slight. The grievance stays: the grafts *are* late; the Motherfaith *did* talk as if becoming were new.
+- - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Half-right at the edge, now wearing a walking-stick.** Per [[The Other Hands]] the land-doors are real (*Vaelorn*, *Ornhael*, *Eloren*) and she does not walk them herself — she authorizes them. Keep their grievance real. Keep their miss intact: the guests came with her leave. Name collision: **Vaelbren** (this house) is not **Vaelorn** (the Taking). If you swap the coinage, do not land on a lesser Hand.
@@ -181,3 +189,10 @@ On its face: frontier courtesy, a little barbed — the drowning-stone saying re
 - **Do not invent a Kind-grove or a Kumbaan door-walk.**
 - **Unlock vs Watchers.** The old "do not let them" lock is lifted. They will not triangulate neatly. That is the fight, not a reason to keep them apart.
 - **Hooks.** A dying graft two houses love; a Struck the town will not vouch and a Kin-speaker who will; a Road-hand told to eat first; a First-reading district that paid Cutting-leave and still withholds the Tender's line; a Night Watch in the green; a scholar who notices *vael* still means harvest here.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday: **door-keepers**, also **Kin-speakers.** Liturgical, 🟡: **the Vaelbren** — VAEL-bren — [[The Old Tongue|vael]] in the *older* sense ("what the land yields") + [[The Old Tongue|bren]] "hearth": those who *keep the yield at the hearth.* The Waiting Lands say **the door-folk**; the Ledger Coast says **grove-talkers**; the Tallied Crown files them as **the Unreached**.)*
+- - [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (Vaelbren 🟡; older sense of *vael*)

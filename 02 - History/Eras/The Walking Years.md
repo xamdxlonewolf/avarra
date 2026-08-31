@@ -19,7 +19,6 @@ updated: 2026-08-30
 
 > **Clock 1, old default — now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the far reaches ran heavy on the Kept and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical 🔒: **Brenvaeth** *(BREN-vaeth)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life. Do not write it as a golden age.
 
-> **Canon status.** 🔒 **The requirement is locked** (banked seed). 🔒 **Name locked 2026-08-24** (*the Walking Years* / *Brenvaeth*). 🟡 **Lived texture (Story 6.2):** the three walks, the one-week door, the split household, mile-shrines, road-houses in the act of being inns, witness-at-origin. Names of the walks and the road-house cant *brenhael* are working coinages — polish later; do not rebuild the spine.
 
 ## Overview
 
@@ -43,11 +42,11 @@ Miss the week and the door has shut. An eleven-year-old at the origin the follow
 
 This is why families from any distance **left early**, and why the richest or most frightened far households spent a *year* at the origin: a nine-year-old wintered in a road-house so they could not miss. The held-over child is the expensive mercy. Everyone else gambled one summer.
 
-*(🟡 Proposed — follows the locked tenth-year engine. Flip only if a later story needs a second-chance year; do not quietly invent one.)* Hands-era towns with a local Tree did not grow a second door. A fever in your own square in Eolthael is the same shut week as a late Long-Mile arrival. Procedure for misses, refusals, and the folk habit of calling every unGifted child Kept: [[Turning Tree#Questions a warden gets asked]].
+Hands-era towns with a local Tree did not grow a second door. A fever in your own square in Eolthael is the same shut week as a late Long-Mile arrival. Procedure for misses, refusals, and the folk habit of calling every unGifted child Kept: [[Turning Tree#Questions a warden gets asked]].
 
 ### Three walks, not one road
 
-Named in the common tongue, because the walk was logistics before it was liturgy. Stance-variants live in [[Naming in the Turning]]. 🟡
+Named in the common tongue, because the walk was logistics before it was liturgy. Stance-variants live in [[Naming in the Turning]].
 
 | Walk | Who used it | How long | What it cost |
 |---|---|---|---|
@@ -79,7 +78,7 @@ Distance and coin were not the only sorters. A class of the untithed — **the C
 
 Far lands ran heavy on the Kept because some children did not walk, and because some children walked and were turned. Both fill a kitchen. The later romance of the old mile prefers the first cause. Folk songs remember the second.
 
-The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the lintel was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. Do not rebuild the road around a throne. The road was already a life. The gate was a third cruelty on it.
+The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the lintel was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. The road was already a life. The gate was a third cruelty on it.
 
 ### Who died
 
@@ -117,13 +116,13 @@ A ribbon is not a leaf-colour. People tie what they have. A copper-green scrap o
 
 Many [[Economy and the Tithe|deathless houses]] began here. In Brenvaeth they were **road-houses**: beds, porridge, a dry room, and **credit for a walk you could not miss twice.**
 
-Everyday name: **road-house.** Cant, 🟡: **brenhael** *(BREN-hael)* — *bren* + *hael*, "the hearth kept whole." The Waiting Lands say *waiting-hearth*. The Ledger Coast says *the bed-house* (and still means the bank). The Tallied Crown would like them *on the roll*.
+Everyday name: **road-house.** Cant: **brenhael** *(BREN-hael)* — *bren* + *hael*, "the hearth kept whole." The Waiting Lands say *waiting-hearth*. The Ledger Coast says *the bed-house* (and still means the bank). The Tallied Crown would like them *on the roll*.
 
 What a road-house actually sold:
 
 - **A bed in the two crowded months**, and a quieter one in the other ten. Held-over nine-year-olds were the winter trade. Empty pilgrim-beds in a Hands-era upper room used to be this.
 - **A note.** You eat now; you pay at the origin, or on the way home, or when the child is grown, or when a sibling walks next year. The Long-Lived innkeeper **forgets none of it.** That memory is why the paper will outlive the pilgrimage-season and become the trusted note. In the act, it is an innkeeper who will still know your name in fifty years, which is a kindness and a leash.
-- **A little Tithe-furnishing**, improvised, not a guild. A green-lot behind the house for a Taken-In parent. A shed where a Far-Voiced can cry without taking the dormitory with them. The road itself is novelty enough that a Long-Lived innkeeper's own Tithe stays fed — which is why the deathless *stayed* in the trade, and why the same people later endow libraries: the hunger that kept them on the mile is the hunger that built the archive. Do not clone [[Tithe-Infrastructure]] onto the road. The greens-keepers and hall-keepers are Hands-era gates. Brenvaeth had a pot and a shed.
+- **A little Tithe-furnishing**, improvised, not a guild. A green-lot behind the house for a Taken-In parent. A shed where a Far-Voiced can cry without taking the dormitory with them. The road itself is novelty enough that a Long-Lived innkeeper's own Tithe stays fed — which is why the deathless *stayed* in the trade, and why the same people later endow libraries: the hunger that kept them on the mile is the hunger that built the archive. The greens-keepers and hall-keepers are Hands-era gates. Brenvaeth had a pot and a shed.
 - **A held bed.** A family said they would come. They did not. The innkeeper keeps the bed a year, then two, then as a habit that looks like hospitality and functions as a shrine. See the slate below.
 
 The White Note's founding-summer is a house-year, not a Cut-year. In the Walking Years that house was a hearth with too many boots by the door. Do not invent a second banking-order. This is the same fortune, earlier.
@@ -194,9 +193,18 @@ The teaching-story of the road is [[The Child Who Counted Stones]] — romance a
 
 The era has no dated start (it grows out of [[Before the Walk]] when the trip becomes *the* way to Turn). It has a dated hinge: [[The First Cut]] (C.Y. 0). After that the Walking Years cease to be the *default* in lands the wood has reached, and remain the default in lands it has not. [[Heskoren]] is still, in places, *in* this era. That is not a metaphor.
 
-Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right → [[The First Cut]]. Do not pick a cutter here. Do not date the Tree.
+Do not pick a cutter here. Do not date the Tree.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🔒 **The requirement is locked** (banked seed). 🔒 **Name locked 2026-08-24** (*the Walking Years* / *Brenvaeth*). 🟡 **Lived texture (Story 6.2):** the three walks, the one-week door, the split household, mile-shrines, road-houses in the act of being inns, witness-at-origin. Names of the walks and the road-house cant *brenhael* are working coinages — polish later; do not rebuild the spine.
+- The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the lintel was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. Do not rebuild the road around a throne. The road was already a life. The gate was a third cruelty on it.
+- - **A little Tithe-furnishing**, improvised, not a guild. A green-lot behind the house for a Taken-In parent. A shed where a Far-Voiced can cry without taking the dormitory with them. The road itself is novelty enough that a Long-Lived innkeeper's own Tithe stays fed — which is why the deathless *stayed* in the trade, and why the same people later endow libraries: the hunger that kept them on the mile is the hunger that built the archive. Do not clone [[Tithe-Infrastructure]] onto the road. The greens-keepers and hall-keepers are Hands-era gates. Brenvaeth had a pot and a shed.
+- Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right → [[The First Cut]]. Do not pick a cutter here. Do not date the Tree.
 
 - **Protect the two-sided memory.** Devout Hands-era storytellers will want Brenvaeth as holy traffic — every child a pilgrim, every summer a hymn. Skeptics will want it as biology plus bad roads. Both are using the era. The graves make the hymn expensive; the hymn makes the graves a meaning. Play both. The fable refuses to pick.
 - **Heskoren is not "living in the past."** A hamlet sending this year's ten-year-olds to a neighbour is doing Clock 2, present tense. A hamlet sending them all the way to Thaeloren is doing Clock 1, present tense. Do not narrate either as re-enactment.
@@ -216,3 +224,11 @@ Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right 
 - [[The Tree-Wardens]] · [[The Old Ways]] · [[Long-Lived]] · [[Returned]] · [[Far-Voiced]] · [[The Taken-In]]
 - [[The Old Tongue]] · [[Naming in the Turning]]
 - [[02 - History]] · [[Roadmap]] (Story 6.2; residues → 6.4)
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(🟡 Proposed — follows the locked tenth-year engine. Flip only if a later story needs a second-chance year; do not quietly invent one.)* Hands-era towns with a local Tree did not grow a second door. A fever in your own square in Eolthael is the same shut week as a late Long-Mile arrival. Procedure for misses, refusals, and the folk habit of calling every unGifted child Kept: [[Turning Tree#Questions a warden gets asked]].
+- Named in the common tongue, because the walk was logistics before it was liturgy. Stance-variants live in [[Naming in the Turning]]. 🟡
+- Everyday name: **road-house.** Cant, 🟡: **brenhael** *(BREN-hael)* — *bren* + *hael*, "the hearth kept whole." The Waiting Lands say *waiting-hearth*. The Ledger Coast says *the bed-house* (and still means the bank). The Tallied Crown would like them *on the roll*.

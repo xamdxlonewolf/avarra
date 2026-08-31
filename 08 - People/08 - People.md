@@ -38,7 +38,7 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 - [[Taeren]] — a hush at a thin Tree
 - [[Rosire]] — the one who opened a door
 
-### House-mouths and isle (Story R.11)
+### House-mouths and isle
 - [[Ledan]] — White Note quay-desk
 - [[Njunda]] — Ndenjoo table-keeper
 - On-page, no note: Theisva · Lesna · Bovaer · Tora · Nethiro · Baelon · Meirim · Soonke · Saalo · Thuda · Nolas
@@ -48,4 +48,13 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[When the Fire Is Caught]]
-- [[Naming People in the Turning]] · [[Roadmap]] (Story R.8; R.11)
+- [[Naming People in the Turning]] · [[Roadmap]]
+
+## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- ### House-mouths and isle (Story R.11)
+- - [[Naming People in the Turning]] · [[Roadmap]] (Story R.8; R.11)

@@ -18,7 +18,6 @@ updated: 2026-08-30
 
 > **A hymn-country that would not share a page.** Twenty-nine summers after the Retreat, the old gift-country of the Sacred Core tried to write its people down and half of it refused. Everyday name: **the Two Papers.** [[Polity Archetypes|Threnmaieth]] calls it **the year the reckoning stood.** [[Maiethvael]] calls it **the year they would not be named.** It is a succession of *desks*, not of blood. Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived split (Story R.9).** 🔒 **Does not capture the First Seat.** 🔒 **Does not make Maiethvael the kind foil.** Names *Limrae / Manril* 🟡 (seed `20260830`). Crown-count start **C.Y. 67** — present **Crown-year 320**.
 
 ## What happened (as believed)
 
@@ -73,6 +72,12 @@ Manril cannot afford to see that "we will furnish" is already a bill. Limrae can
 - **Dynastic flavour without a dynasty.** Play can meet a house that claims Limrae or Manril. The claim is paper-kin, not blood-right, unless a later story wants a tomb.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Lived split (Story R.9).** 🔒 **Does not capture the First Seat.** 🔒 **Does not make Maiethvael the kind foil.** Names *Limrae / Manril* 🟡 (seed `20260830`). Crown-count start **C.Y. 67** — present **Crown-year 320**.
 
 - **Not a civil war and not a kind foil.** The split is desks. Maiethvael's refusal is real warmth and a real bill. Threnmaieth's care-count is real care and a real cage. Confirming she is kind launders neither.
 - **Do not fold the Book into the Threnhael.** Three lists: Close ranks, Threnmaieth keeps, Maiethvael will not write. A campaign that steals all three will not get the same child three times.

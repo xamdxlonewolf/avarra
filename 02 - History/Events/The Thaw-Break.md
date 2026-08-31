@@ -18,7 +18,6 @@ updated: 2026-08-30
 
 > **Snowmelt in one week.** In C.Y. 233 [[Named Ground|the Rain-Wall]] did not thaw as it usually thaws. The water that should have taken a month took seven days. Valleys drank it as flood. Passes lost their old stones. Everyday name: **the Thaw-Break.** Ridge-cant: **the one-week melt.** Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived disaster (Story R.9).** 🔒 **Natural first.** Theology arrives as interpretation. 🔒 **Range and rivers named Story R.10** → [[Named Ground]] (Rain-Wall · Noon Pass · Shelf-gate · Core-thaw · Well-wash). 🔒 **Does not invert Clock 2.** [[Heskoren]] was already on the wave (C.Y. 200–). The flood delayed carts. It did not start the wait.
 
 ## What happened (as believed)
 
@@ -72,6 +71,12 @@ The courier cannot afford to see that "this is not a row" is exactly why Threnma
 - **Named ground is on [[Named Ground]].** The courier's *noon-pass* is the Noon Pass. Narol's new road is the Shelf-gate. The west-face river is the Core-thaw. The leeward seasonal is the Well-wash.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Lived disaster (Story R.9).** 🔒 **Natural first.** Theology arrives as interpretation. 🔒 **Range and rivers named Story R.10** → [[Named Ground]] (Rain-Wall · Noon Pass · Shelf-gate · Core-thaw · Well-wash). 🔒 **Does not invert Clock 2.** [[Heskoren]] was already on the wave (C.Y. 200–). The flood delayed carts. It did not start the wait.
 
 - **Geography is the actor.** If play needs a hazard, it is snowmelt, mud, a stone that was a road. Dangers-layer adversaries stay [[Roadmap|Story R.13]].
 - **Narol and Vathne are working mouths** (seed `20260830`). Do not make Narol a mountain-king or Vathne the prophet of secularism.

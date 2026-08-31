@@ -73,7 +73,7 @@ The three corners [[Polity Archetypes]] left un-built are now on the map: **Maie
 
 **[[Strandoren]]** — [[Polity Archetypes|Lestrand]] is the premier coast; its seat is [[Orentel]] (Salt Quay; White Note on the third quay, not the crown). [[Brenledd]] is the compact of towns that got tired of being priced by one set of houses. [[Leddvael]] made [[The Fair Hand]] a civic rite on a different stretch of signing-water. [[Trenledd]] is the wealthy interior that started counting tickets and did not stop. [[Netstrand]] faces the open ocean toward [[Heskoren]] and, in stories, the storm-wall.
 
-**[[Heskoren]]** — [[Polity Archetypes|Vaethorn]] is the waiting-gospel; its seat is [[Eolvaeth]] (pilgrim-edge, not Saelvaeth's march). [[Saelvaeth]] is the live edge of the wave ([[Harrow's Green]] sits in its orbit, not as a capital; fleshed Story 7.2). [[Vaelhesk]] keeps host-rights on old greens. [[Ornled]] is Vaethorn with the faith burned out instead of up — same thin Trees, no congregation to catch you. [[The Three Hamlets Past the Ford]] sit on the seam: they can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them).
+**[[Heskoren]]** — [[Polity Archetypes|Vaethorn]] is the waiting-gospel; its seat is [[Eolvaeth]] (pilgrim-edge, not Saelvaeth's march). [[Saelvaeth]] is the live edge of the wave; [[Harrow's Green]] sits in its orbit, not as a capital. [[Vaelhesk]] keeps host-rights on old greens. [[Ornled]] is Vaethorn with the faith burned out instead of up — same thin Trees, no congregation to catch you. [[The Three Hamlets Past the Ford]] sit on the seam: they can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them).
 
 ## What they remember (the Other Count)
 
@@ -127,7 +127,14 @@ Neither list is complete. Both are true of the speaker.
 - [[The Other Count]] · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
 - [[05 - Factions]]
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- **[[Heskoren]]** — [[Polity Archetypes|Vaethorn]] is the waiting-gospel; its seat is [[Eolvaeth]] (pilgrim-edge, not Saelvaeth's march). [[Saelvaeth]] is the live edge of the wave ([[Harrow's Green]] sits in its orbit, not as a capital; fleshed Story 7.2). [[Vaelhesk]] keeps host-rights on old greens. [[Ornled]] is Vaethorn with the faith burned out instead of up — same thin Trees, no congregation to catch you. [[The Three Hamlets Past the Ford]] sit on the seam: they can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal (folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them).
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Production (R.13).** Named-stub pass was Story 7.1; seats 7.3; leftover squares 7.2; Inner Close placement R.10; *Eolstrand* retired and the slot kept as [[The Hinge Shore]] in R.12. Seed `20260827`. Do not rebuild this pass, the era spine, or 7.3. Do not treat Ornthael as post-history. Do not add a sixteenth flag. Do not put a mile-shrine on Kumbaan. Tracker: [[Roadmap]].

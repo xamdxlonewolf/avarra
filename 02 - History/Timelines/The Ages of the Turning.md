@@ -14,9 +14,8 @@ updated: 2026-08-30
 
 # The Ages of the Turning
 
-> **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2 ✅). The hinge event and the spread → [[The First Cut]] (Story 6.3 ✅). The present as leftover → [[The Years of Hands]] (Story 6.4 ✅) · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]] (Story R.9).
+> **What this is.** How **The Turning** divides the past — the setting’s era spine. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]]. The hinge event and the spread → [[The First Cut]]. The present as leftover → [[The Years of Hands]] · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]].
 
-> **Canon status.** 🔒 **Locked 2026-08-24 (user-approved):** two clocks, unnamed preface, Grafting as a still-moving wave, no universal year-zero, dating reveals stance, names (*Brenvaeth · Eoloren · Ornthael*), present **C.Y. 387**, spread-shape (Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never). Still open: who made the First Cut; [[Is the Leaf-Mother Real|the nature of her limit]]. Built with `systemic-worldbuilding` and `world-fates`.
 
 ## The organizing idea: two clocks, not four stacked ages
 
@@ -56,13 +55,13 @@ There is **no universal year-zero.** Same twelve months; three new-year's days (
 | [[The Old Ways]] | a closed door, a drowning-year, a guest that took | the Hands are when *guests* arrived, not when history began |
 | [[The Sundering Isle\|Kumbaan]] | **moons** | the mainland ages are a sailor's chart they do not owe |
 
-**Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose. Story 6.3 dated the *carrying* inside the spread-bands; Story R.9 dated the *other weather* ([[The Other Count]]) without sliding the present.
+**Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose.
 
 **What you may not date.** The [[Turning Tree|Awakening Tree]] is **old beyond reliable dating.** [[Before the Walk]] has no start. The *nature* of the [[Is the Leaf-Mother Real|Mother's limit]] stays open. Who made the First Cut stays contested ([[The First Cut]]).
 
 ### Spread of the wave (🔒 shape and bands)
 
-Enough to keep geography honest. Not a campaign almanac. Story 6.3 fleshed *how* inside these bands; it did not rewrite *when*.
+Enough to keep geography honest. Not a campaign almanac.
 
 | Cut-years | Where the wood went |
 |---|---|
@@ -120,15 +119,26 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 
 ## Links
 - **Eras & the hinge:** [[Before the Walk]] · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
-- **The Other Count (Story R.9):** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · leftovers [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
+- **The Other Count:** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · leftovers [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[The Reckoning of the Year]] — months, solstice, three new-year's days; Cut-years live there too
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]]
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Old Tongue]] · [[Naming in the Turning]]
 - [[The Watching]] · [[The Old Ways]] · [[The Fair Hand]] · [[The Open Table]]
-- [[Long-Lived]] · [[Phoenix]] · [[The Branch That Came Away]] · [[The White Note House]] · [[The Third Hearth]] · [[The Walled Book]] · [[02 - History]] · [[Roadmap]] (Epic 6 complete; Story R.9)
+- [[Long-Lived]] · [[Phoenix]] · [[The Branch That Came Away]] · [[The White Note House]] · [[The Third Hearth]] · [[The Walled Book]] · [[02 - History]] · [[Roadmap]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **What this is.** How **The Turning** divides the past — the era spine for [[Roadmap|Epic 6]]. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]] (Story 6.2 ✅). The hinge event and the spread → [[The First Cut]] (Story 6.3 ✅). The present as leftover → [[The Years of Hands]] (Story 6.4 ✅) · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]] (Story R.9).
+- > **Canon status.** 🔒 **Locked 2026-08-24 (user-approved):** two clocks, unnamed preface, Grafting as a still-moving wave, no universal year-zero, dating reveals stance, names (*Brenvaeth · Eoloren · Ornthael*), present **C.Y. 387**, spread-shape (Maiethorn first, Strandoren by sea, Heskoren last and live, Kumbaan never). Still open: who made the First Cut; [[Is the Leaf-Mother Real|the nature of her limit]]. Built with `systemic-worldbuilding` and `world-fates`.
+- **Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose. Story 6.3 dated the *carrying* inside the spread-bands; Story R.9 dated the *other weather* ([[The Other Count]]) without sliding the present.
+- Enough to keep geography honest. Not a campaign almanac. Story 6.3 fleshed *how* inside these bands; it did not rewrite *when*.
+- - **The Other Count (Story R.9):** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · leftovers [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
+- - [[Long-Lived]] · [[Phoenix]] · [[The Branch That Came Away]] · [[The White Note House]] · [[The Third Hearth]] · [[The Walled Book]] · [[02 - History]] · [[Roadmap]] (Epic 6 complete; Story R.9)
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **The two clocks protect the keystone without confirming it.** Clock 2 (the wave) is the player-facing face of "reach grew with the grafts" — the quiet argument that a *hand*, not a climate, is behind the thinning. Skeptics still win the mundane reading (young/sick/few grafts, distance, history). Both readings share the same map. Do not let a player-facing era note assert the mind.

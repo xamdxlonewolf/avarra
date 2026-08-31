@@ -17,7 +17,6 @@ updated: 2026-08-30
 
 > **The shadow the rite still carries.** In C.Y. 248, at [[Harrow's Green]], a warden named a hug as copper-green. The child was sent to the garden-common. The green did not take, because there was no Tithe to pay. Speakers still cite the year when they teach a town-hearth not to Speak what the town wishes it had. Full Leaf-Fall procedure: [[Turning Tree#Questions a warden gets asked]].
 
-> **Canon status.** 🟡 **Lived case-law** (the year, the square, the warden's name). 🔒 **Does not change the engine:** the Tree still only Gives or Keeps; a completed standing is once; the colour is the Gift, the Speaking is civic. This is a human wound on a warm rite, not a sinister Tree.
 
 ## What happened (as the square tells it)
 
@@ -55,6 +54,12 @@ The clerk who wrote it can see horticulture and a queue. They cannot see the two
 - [[02 - History]] · [[07 - Religion]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Lived case-law** (the year, the square, the warden's name). 🔒 **Does not change the engine:** the Tree still only Gives or Keeps; a completed standing is once; the colour is the Gift, the Speaking is civic. This is a human wound on a warm rite, not a sinister Tree.
 
 - **The floor stays sound.** The Tree hugged. The wound is the name. Do not make the wood eerie, and do not make Nathdo a villain-priest. They wanted a Taken-In for a young square that was already feeding three hamlets' week. The orthogonality: they were in a horticulture story. The child was in a life.
 - **Once-only is the ache, not a retry hook.** Correct the Speaking. Do not invent a second Given-door. Per [[Is the Leaf-Mother Real]], some hugs are chosen wholeness and some are reach-failure; this child was hugged. Whether that hug was choice or edge is not for the square to know, and not for you to solve with a later leaf.

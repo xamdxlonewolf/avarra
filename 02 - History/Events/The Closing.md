@@ -18,7 +18,6 @@ updated: 2026-08-30
 
 > **The war that followed the copy.** Someone had already cut living wood. A Near-Mile town had already Turned under a canopy that was not Thaeloren. The class that sat on the grove tried to make that untrue. They could not. Everyday name: **the Closing** — they closed the walls. Folk: **the Uprooting.** The remnant still says **the Retreat.** The people who sat the grove: **the Closed Seat** (folk **Grove-Sitters**). The hinge in the wood remains [[The First Cut]]. Who held the knife is still unwritten. Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived war (Story R.9).** 🔒 **Does not name the cutter.** 🔒 **Does not add a sixteenth power.** The Inner Close stays a town inside [[Orenbren]] (**placement 🔒 Story R.10** — not a shore-flag). 🔒 **The Closed Seat was an origin-gate, not a world-empire.**
 
 ## What happened (as believed)
 
@@ -123,4 +122,13 @@ Hildal cannot afford to see that "we have always struck heir" is the sitting, co
 - [[The Walking Years]] · [[The Years of Hands]] · [[The Tree-Wardens]]
 - [[The Low Wall]] · [[The Two Papers]]
 - [[Powers of the Turning]] · [[The Branch That Came Away]]
-- [[02 - History]] · [[Roadmap]] (Story R.9)
+- [[02 - History]] · [[Roadmap]]
+
+## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Lived war (Story R.9).** 🔒 **Does not name the cutter.** 🔒 **Does not add a sixteenth power.** The Inner Close stays a town inside [[Orenbren]] (**placement 🔒 Story R.10** — not a shore-flag). 🔒 **The Closed Seat was an origin-gate, not a world-empire.**
+- - [[02 - History]] · [[Roadmap]] (Story R.9)

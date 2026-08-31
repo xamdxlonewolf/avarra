@@ -19,7 +19,7 @@ updated: 2026-08-30
 
 Shed notice. Not a liturgy.
 
-Everyday: **the Intake**, **the shed.** Cant: **the catching-year** 🟡. Vaethorn: **the late-catching.** Lestrand: **the emergency ticket.** Threnmaieth: **the unwitnessed warrant.**
+Everyday: **the Intake**, **the shed.** Cant: **the catching-year**. Vaethorn: **the late-catching.** Lestrand: **the emergency ticket.** Threnmaieth: **the unwitnessed warrant.**
 
 A week. A live hazard. A town that wants them gone. If it works, burn the slip.
 
@@ -70,7 +70,7 @@ Ticket-holder of *that* hazard for the live Tithe. A Kept for the sitting. A Str
 
 Parent yards: [[The Stillers]] · the hall door · [[The Element-Guilds]]. They pretend the shed is not on the wall.
 
-[[The Slide]] takes overflow if the week fails. Intake wants them *safe enough to leave.* The Slide wants them *not-fallen enough to stay.* Do not clone.
+[[The Slide]] takes overflow if the week fails. Intake wants them *safe enough to leave.* The Slide wants them *not-fallen enough to stay.*
 
 [[The Book-Hands]] may send them. A hall that is not here is still an *owing*.
 
@@ -98,10 +98,23 @@ The empty face is the point. "Burn this" is how success becomes the guild's ordi
 - [[Tesara]] — Orentel catching-year · [[Valen]] — this week's Gaze · [[People of the Turning]]
 - [[05 - Factions]]
 
+
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- [[The Slide]] takes overflow if the week fails. Intake wants them *safe enough to leave.* The Slide wants them *not-fallen enough to stay.* Do not clone.
 
 - **Terse on purpose.** Underdog formula kept: mandate + four constraints + no institutional conversion. Do not add a sunset clause *and* a cursed shed.
 - They want a quiet week. They do not want a client, a relic, or a route.
 - Moral parallax: success is burned; Given children got a childhood the Struck will not.
 - Travel is accidental. If you find them on the road every session, you have cloned the Road-hands.
 - No Kind-gate. No Kumbaan shed. No Intake-pope.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- Everyday: **the Intake**, **the shed.** Cant: **the catching-year** 🟡. Vaethorn: **the late-catching.** Lestrand: **the emergency ticket.** Threnmaieth: **the unwitnessed warrant.**

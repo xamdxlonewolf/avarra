@@ -18,9 +18,11 @@ updated: 2026-08-31
 
 ## Active next
 
-**[[Roadmap#Pass two — verification|Pass two]] — Story P2.1** (residual export polish). Epic R is **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]].
+**[[Roadmap#Pass two — verification|Pass two]] — Story P2.1 complete (2026-08-31); awaiting direction.** Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]]. Do not decompose the later verification stories or start Epic 10 without instruction.
 
-**Gate (2026-08-31).** Every non-green finding in [[Editorial Audit 2026-08-29]] maps to R.1–R.13 or a recorded decision. Keystone confirmation is off the player body. Remaining Story numbers / 🟡 / "Do not clone" in working-note bodies are **C-01**, not a reopened R.13. Infernis + Bound stack ([[At the Table]]). Haelin is an alias of [[Harrow's Green]]. Thuda stays an on-page mouth.
+**Gate (2026-08-31).** Every non-green finding in [[Editorial Audit 2026-08-29]] maps to R.1–R.13 or a recorded decision. Keystone confirmation is off the player body. The gate recorded residual scaffolding as C-01 rather than reopening R.13; P2.1 has now resolved it. Infernis + Bound stack ([[At the Table]]). Haelin is an alias of [[Harrow's Green]]. Thuda stays an on-page mouth.
+
+**P2.1 (2026-08-31).** C-01 is resolved: residual Story/pass numbers, canon-status blocks, and clone/rebuild directives moved under GM walls in history, faction, settlement, and player MOC notes. User chose to keep liturgical names visible while moving 🟡 and taste-open status to GM Notes; no names were locked or changed. Skill-name wikilinks were repaired; atlas embeds remain GM production aids. The world book was untouched.
 
 **Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; start Epic 10's campaign opening; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan.
 

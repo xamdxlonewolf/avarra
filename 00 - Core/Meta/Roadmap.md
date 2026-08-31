@@ -41,7 +41,7 @@ updated: 2026-08-31
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ✅ done |
 | **8** | [[#Epic 8 — People]] | The cast | Low | 🟢 8.1 landed in R.8 |
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟡 ongoing |
-| **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | ⭐ active next |
+| **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; awaiting direction |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | ⬜ |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
@@ -203,14 +203,16 @@ updated: 2026-08-31
 ---
 
 ## Pass two — verification
-**Skill:** `story-sense` (router) · `worldbuilding` · **Status:** ⭐ **opened 2026-08-31** · **Blast radius:** High. Pass one is complete. Do not resume the old Epic 8 plan. Do not start Epic 10.
+**Skill:** `story-sense` (router) · `worldbuilding` · **Status:** **P2.1 complete 2026-08-31; awaiting direction** · **Blast radius:** High. Pass one is complete. Do not resume the old Epic 8 plan. Do not start Epic 10.
 
 > A review sweep of the whole world for consistency, contradictions, gaps, and quality. Log and resolve under [[Contradictions]]. The bible stays this vault. Do not invent a parallel `world-bible/` tree. Do not update the world book unless asked.
 
-### Story P2.1: Residual export polish ⬜ **NEXT**
-- [ ] Move remaining Story numbers, "Canon status" blockquotes, and "Do not clone / Do not rebuild" out of player bodies of history, faction, settlement, and MOC notes (under `## GM Notes`)
-- [ ] Decide whether 🟡 on liturgical names stays in player text (taste-open) or moves with the rest
-- [ ] Leave the compiled world book untouched unless the user asks for a rebuild
+### Story P2.1: Residual export polish ✅ **DONE (2026-08-31)**
+- [x] Move remaining Story numbers, "Canon status" blockquotes, and "Do not clone / Do not rebuild" out of player bodies of history, faction, settlement, and MOC notes (under `## GM Notes`)
+- [x] Decide whether 🟡 on liturgical names stays in player text (taste-open) or moves with the rest — **option 2:** names stay visible; markers and taste-open status move under `## GM Notes`; no name locked or changed
+- [x] Leave the compiled world book untouched unless the user asks for a rebuild
+
+> **P2.1 recorded decisions.** C-01 is resolved. C-04 stays taste-open without player-facing status marks. C-03's skill links are plain code text; atlas embeds remain GM production aids because their PNG files are not tracked. C-02 remains decided: no world-book rebuild without an explicit request. Stop here; later pass-two stories remain undecomposed.
 
 ### Later (do not decompose until P2.1 is in hand)
 - Contradiction sweep from the log (C-02 compile-stale is already decided: do not rebuild unless asked)
@@ -487,7 +489,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Pass two — verification:** 0 / 3 tasks of P2.1 (0%). **⭐ Active next — Story P2.1** (residual export polish). Log: [[Contradictions]]. Gate residual C-01. Do not start Epic 10. Do not rebuild the world book unless asked.
+- **Pass two — verification:** 3 / 3 tasks of P2.1 (100%) ✅ **Story P2.1 complete 2026-08-31; awaiting direction.** C-01 resolved; C-04 markers moved while names remain taste-open; C-03 skill links repaired and atlas embeds retained as GM production aids. C-02 remains decided: do not rebuild the world book unless asked. Stop here; do not decompose later pass-two stories or start Epic 10.
 - **Epic R: Editorial repair and table readiness:** 97 / 97 tasks (100%) ✅ **closed 2026-08-31.** Gate: [[Epic R Completion Gate 2026-08-31]]. Stories **R.1–R.13** ✅. Residual export polish is **P2.1**, not a reopened R.13. Source: [[Editorial Audit 2026-08-29]]. **Story R.1 ✅** (population arithmetic; Unbound inside Bound; Premise is the sole census). **Story R.2 ✅** (Condition mechanics; one-Gift rule in [[When the Fire Is Caught]]; no level scaling). **Story R.3 ✅** (Hearth-Mark, not a trim; Mixed Ancestry as SRD; Yumboe GM-leave and full Kind; one surprise keyword; other kitchen). **Story R.4 ✅** — warden questions and Leaf-Fall failure on [[Turning Tree]]; dread → [[The Wrong Green]]; Other Hands wants / Orledd receive / allowance strain → [[The Other Hands]]; Open Table lintel → [[The Open Table]]. **Story R.5 ✅** — leaks walled; tag split (`keystone-adjacent` / `the-other-hands`); firing pin [[The Spent Leaf]] + [[The Remainder]]; rungs 1–5 deniable, rung 6 can fire; [[The Unspent]] outside the Five Hands. **Story R.6 ✅** — licence pool ≠ census; Tithe-provision as wells not grain; hearth-stand; road-word; crime ladder; urban Taken-In; prestige-walk chained (Netstrand berths → White Note terms → Orentel holds). **Story R.7 ✅** — lived faces [[The Holding Desk]] · [[The Standing Trade]]; Threnmaieth instruments [[The Reckoned Offices]]; three unlocked fights; header blocks; voice break; greens/halls folded; opposition can act; three engines [[The Pourers]] · [[The Walled Book]] · [[The Protectors]], kept distinct. **Story R.8 ✅** — six pivots + named wants in the three seats + four campaign seeds; hub [[People of the Turning]]. **Story R.9 ✅** — [[The Other Count]]; Closed Seat / [[The Closing]]; five dated years; three leftovers; Ledan query C.Y. 280; fifteen inherited claims. **Story R.10 ✅** — [[Named Ground]] (Old Crossing · Rain-Wall · four rivers · travel table) · [[The Known Map]] · tooling extracted to `14 - Assets/Maps/` · Kumbaan never aligned · Inner Close 🔒 in [[Orenbren]] · the Hinge Shore / Lirorn / Netstrand sharpened. **Story R.11 ✅** — Ornsael de-cloned (well-share); formula varied across seven; White Note walkable; Kumbaan committed ([[Ndenjoo]] · [[Njunda]] · crossing); leftovers given entrances/pressures; retrieval headers; scene-entering dangers. **Story R.12 ✅** — phonology and drift repaired; common handles promoted; *Aeloren* / *Eolstrand* retired; root families closed; fables and note voices differentiated; editorial mantras capped; deterministic naming tool stored. **Story R.13 ✅** — [[Build Plan]] rewritten; `locked` → `canon`; Conditions `player`; [[09 - Creatures]] filled; [[Rogue House Options]] archived; strip rule on [[Conventions]]; scaffolding moved; [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]]. Engine untouched. World book remains untouched until an explicit rebuild request.
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 15 / 15 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). Remaining leftover: Conditions cross-link (pending, not a checkbox)

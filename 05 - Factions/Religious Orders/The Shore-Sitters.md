@@ -19,9 +19,8 @@ updated: 2026-08-31
 
 > **What this is.** A **second Kumbaan house**, flavor, not a mainland order. [[The Table-Keepers]] open the hall. These sit the storm-beaches. Almost no one reaches the isle; *someone* has to be there when the almost happens. Built thin on purpose. The [[The Open Table|Open Table]] is not rebuilt.
 
-> **Canon status.** 🟡 **Proposed** (name, how many stretches of coast keep one). 🔒 **Locked upstream:** the storm-wall is the boundary; no Kumbaan mission; no Tree; hospitality is the faith; recruits by practice, not Kind — on the isle they are Yumboe because that is who lives there.
 
-*(Everyday: **shore-sitters**, also **wall-waiters.** Own-name, 🟡: **Njawaal** — njah-WAHL — a [[Yumboe]] coinage, "the sitting at the wall." Not Maiethren. Table-keepers call them **the first night**, half a joke: a wreck is not yet kin.)*
+*(Everyday: **shore-sitters**, also **wall-waiters.** Own-name: **Njawaal** — njah-WAHL — a [[Yumboe]] coinage, "the sitting at the wall." Not Maiethren. Table-keepers call them **the first night**, half a joke: a wreck is not yet kin.)*
 
 **In one sentence:** they sit the storm-shore with their back to the hill-hall and wait — they do not swim the wall, they do not test anyone with a colour, and if someone is still breathing they walk them uphill to a table.
 
@@ -69,9 +68,16 @@ On its face: cold courtesy. Underneath: the isolate's whole claim — wanted was
 ## Links
 - [[The Open Table]] · [[The Table-Keepers]] · [[Yumboe]] · [[The Sundering Isle]] · [[Ndenjoo]]
 - [[Faiths of the Turning]] · [[The Reckoning of the Year]]
-- [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
+- [[Roadmap]] · [[05 - Factions]]
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Proposed** (name, how many stretches of coast keep one). 🔒 **Locked upstream:** the storm-wall is the boundary; no Kumbaan mission; no Tree; hospitality is the faith; recruits by practice, not Kind — on the isle they are Yumboe because that is who lives there.
+- - [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
 *(Stripped on player-safe export.)*
 
 - **Flavor, not a fourth mainland house.** Do not grow a Shore-Sitter circuit on Strandoren. A Yumboe abroad is still a table-keeper by necessity, not a beach-warden of Lestrand.
@@ -79,3 +85,9 @@ On its face: cold courtesy. Underneath: the isolate's whole claim — wanted was
 - **The keystone stays off this sand.** They are not of her household ([[The Other Hands]]). A wreck is not a Struck-door she authorized. Rare Struck on the isle stay family news ([[Yumboe]]).
 - **Taste still open.** The name *Njawaal*. How many coasts keep a sitter (lean: few). Whether a Serving host and a Staying sitter argue over naming the drowned — playable, not load-bearing.
 - **Hooks.** A living mainlander the sitter will not walk up until dawn; a body the hall does not want named; a lamp that faced the sea once and was never lit again; the year no one sat and a wreck waited in the tide.
+
+#### Taste-open markers (P2.1)
+
+The names and other taste calls remain open; only their editorial markers moved out of player text:
+
+- *(Everyday: **shore-sitters**, also **wall-waiters.** Own-name, 🟡: **Njawaal** — njah-WAHL — a [[Yumboe]] coinage, "the sitting at the wall." Not Maiethren. Table-keepers call them **the first night**, half a joke: a wreck is not yet kin.)*

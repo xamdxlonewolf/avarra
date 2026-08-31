@@ -18,7 +18,6 @@ updated: 2026-08-30
 
 > **A fever that was not a Tithe.** In C.Y. 171 the Old Crossing quays — [[The Hinge Shore]] and the Ledger Coast that faces it — went grey for a summer. People died who had local Trees, guild-tickets, and hymns. The wood did not fail first. The watering-hands did. Everyday name: **the Grey Summer.** Dock-cant: **the Salt-Grey.** Deathless clerks still write **Grey + 1** on a verso. Chronicle: [[The Other Count]].
 
-> **Canon status.** 🟡 **Lived epidemic (Story R.9).** 🔒 **Not a Condition, not a punishment, not a colour.** 🔒 **Does not slide the spread-bands.** Strandoren was already mature Hands on the water (band C.Y. 40–160). The fever is what happened *after* the wood had arrived.
 
 ## What happened (as believed)
 
@@ -72,6 +71,12 @@ The stiller cannot afford to see that "the Voice-ticket does not have a box" is 
 - **Heskoren's wait gets a stacked reason, not a new theology.** Do not let Vaethorn preach the Grey as unworthiness of the far.
 
 ## GM Notes
+
+### Production notes (P2.1)
+
+Moved from the player-facing body during residual export polish:
+
+- > **Canon status.** 🟡 **Lived epidemic (Story R.9).** 🔒 **Not a Condition, not a punishment, not a colour.** 🔒 **Does not slide the spread-bands.** Strandoren was already mature Hands on the water (band C.Y. 40–160). The fever is what happened *after* the wood had arrived.
 
 - **Mundane epidemic.** Tone ~5% scary: packed holds, an hour-slate, a note that collects. Not a curse-plague and not a Condition outbreak. If play needs a disease adversary later, it is a fever, not a monster.
 - **Dirrol and Nidtol are desks, not founders.** Seed `20260830`. Trenledd will try to make Dirrol a first clerk-king. Brenledd will try to make Nidtol a first throat. Both are later overlay.
