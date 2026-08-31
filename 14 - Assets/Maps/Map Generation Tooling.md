@@ -131,8 +131,10 @@ latitudes and almost touch. Between them a NARROW crowded channel — a handful
 of sailing-days, packed with tiny hull-ticks. They should read as one old
 settled world that happens to have a busy strait through it.
 
-MAIETHORN: bulky old continent. Western ports on the narrow sea. A LINEAR
-north-south rain-wall through its middle (not a ring). West of the spine:
+MAIETHORN: bulky old continent. Western ports on the narrow sea. An IRREGULAR
+north-south rain-divide through its middle (not a ring and not ruler-straight):
+three offset weathered massifs joined by saddles, branching foothills, and
+river-cut notches. West of the divide:
 green cathedral-country, river valleys, one irregular old-growth heart with a
 single enormous ancient tree-canopy. East of the spine: dry hills, sand-stipple,
 a dashed seasonal wash.
@@ -177,9 +179,13 @@ tree, darker and broader than any other canopy. A day's-walk ring of lodging
 country and one small walled town-mark just outside the wood (not a capital
 star). A thaw-river is born on the WEST FACE of the central highland and runs
 west, slowing at a counted river-town where the water can hold a mill and a
-grove. HIGHLAND SPINE north–south through the middle: weathered rain-wall,
-snow on the high shelves, two visible pass-notches (an older high notch with a
-pale water-stain line; a lower shelf-road still in use). EAST of the spine:
+grove. HIGHLAND CHAIN runs generally north–south through the middle as three
+offset weathered massifs. It bends, widens, narrows, branches into foothills,
+and briefly splits around upland basins before rejoining as one watershed.
+Broad saddles connect the massifs; snow lies on broken high shelves. Show two
+visible usable pass-notches (an older high notch with a pale water-stain line;
+a lower shelf-road still in use). Do not paint a uniform white knife-edge or a
+row of identical peaks. EAST of the divide:
 abrupt climate change — dry hills, sand-stipple, well-towns, a dashed seasonal
 watercourse, one west-road climbing back toward the passes. Ridge-perches and
 pale high snow on the spine. Mix of nucleated Tree-towns everywhere west of the
