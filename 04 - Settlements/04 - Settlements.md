@@ -43,7 +43,7 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The Dry Stair]] — crawl behind the basin; not Ornsael's hill
 
 ## Related
-- [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]]
+- [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]] · [[Named Ground]]
 - [[Powers of the Turning]] · [[People of the Turning]] — seats have named wants now
-- [[The Sundering Isle]] — crossing · [[The Other Count]] — dated years
-- [[Roadmap]] (Epic 7 done; R.11 settlements) 
+- [[The Sundering Isle]] — crossing · [[The Other Count]] — dated years · [[The Known Map]]
+- [[Roadmap]] (Epic 7 done; R.10 named ground; R.11 settlements)

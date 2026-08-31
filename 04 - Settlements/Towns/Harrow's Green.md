@@ -43,7 +43,7 @@ It is not the end of the wave. It is a Hand that grew up. The three hamlets can 
 
 ## Site
 
-A low rise above a stream that becomes the ford downstream. The graft took on the rise; the old pilgrim-road climbed it because that was the day's water. Towns on [[Heskoren]] do not pick a pretty hill and then invent a Tree. The wood picked, and the hearths followed.
+A low rise above **[[Named Ground|the Rise-water]]**, which becomes the ford downstream. The graft took on the rise; the old pilgrim-road climbed it because that was the day's water. Towns on [[Heskoren]] do not pick a pretty hill and then invent a Tree. The wood picked, and the hearths followed.
 
 Water is the stream, a cistern by the warden-hearth, and the **stone in the square** — still the day's drink for anyone using the road as a mile. Food is the pocket's gardens, ranging beyond the last house, and whatever the neighbour's week brings in Hale-month (mouths, dust, a complaint). Fuel is the same woods the [[Two-Bodied]] use as ranging; the Taken-In keep the greens around the Tree from going to seed indoors. There is no resident [[The Stilled|stiller]]. A travelling one is a summer's luck.
 

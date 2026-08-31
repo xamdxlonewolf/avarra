@@ -10,7 +10,7 @@ aliases: [The Sundered Reach, The Frontier, The Far Lands, Heskorn, The Waiting 
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Heskoren
@@ -29,9 +29,9 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 
 ## Geography & Climate
 
-- **Rugged and various.** The Azgaar template builds Heskoren as the large, mountainous far-continent: highland spines, upland moors, deep forests, and long river-runs down to a wild coast. Bigger weather, harder winters, more untamed ground than the Old World pair. [[Tengu]] ridge-towns and Fox-of-the-Snows hearths sit on the spines; Fox-of-the-Wilds and the deeper woods share the same forests; [[Selkie]] families hold the wild coast ([[Kinds of the Turning]]).
-- **The grafted pockets.** Settlement clusters wherever a graft has *taken* — a healthy Tree is the seed of a town, and the map of Heskoren's civilization is really a map of its surviving Trees. Between them: un-polity'd wild, thinly-held marches, and long roads between Tree and Tree.
-- **The frontier coast** faces the open ocean back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it.
+- **Rugged and various.** Highland spines, upland moors, deep forests, and long river-runs down to a wild coast. Bigger weather, harder winters, more untamed ground than the Old World pair. These spines are **not** the Rain-Wall — that range is Maiethorn's. [[Tengu]] ridge-towns and Fox-of-the-Snows hearths sit on the heights; Fox-of-the-Wilds and the deeper woods share the same forests; [[Selkie]] families hold the wild coast ([[Kinds of the Turning]]).
+- **The grafted pockets.** Settlement clusters wherever a graft has *taken* — a healthy Tree is the seed of a town, and the map of Heskoren's civilization is really a map of its surviving Trees. Between them: un-polity'd wild, thinly-held marches, and long roads between Tree and Tree. [[Harrow's Green]] sits above **[[Named Ground|the Rise-water]]**; downstream is the ford the Seat will not learn the hamlets' names for.
+- **The frontier coast** faces **[[Named Ground|the West Water]]** back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it. [[Eolvaeth]] is a vale *behind* this coast, not a live-front luck.
 - **Climate**: cooler, wetter, wilder than Maiethorn/Strandoren; a land where the solstice-timed [[Turning Tree|Leaf-Fall]] is a hard-won event of a decade, not a yearly certainty.
 
 ## Reach
@@ -60,24 +60,10 @@ Two faiths in tension, and the friction is the frontier's own:
 - A graft that finally takes after a generation of waiting — a town being born in real time.
 - Heskoren's western capes as the launch point for anyone mad enough to try [[The Sundering Isle]].
 
-## Map-generation prompt (GPT Image — base art, label-free)
-
-```
-A hand-drawn fantasy map of a single large, rugged continent on aged parchment,
-muted sepia ink with soft watercolour washes, top-down cartographic view. A wild
-frontier land: highland mountain spines, upland moors, deep dark forests, and long
-rivers running to an untamed coast. Settlement is sparse — only scattered small
-town-marks, far apart, with wide blank wilderness between them. The eastern coast
-faces open ocean (toward another continent); the far western capes trail off toward
-a band of storm-clouds at the map's edge. The land reads as young, half-tamed,
-lonely, and vast. Decorative compass rose, faint graticule. Cartography style,
-atmospheric. NO TEXT, NO LABELS, no writing anywhere.
-```
-*Optional Midjourney line:* `--ar 3:2 --style raw --v 6`
-*(For a labelled map, use the Azgaar assets in [[The World Frame#Map-generation assets]] and read this continent as the far west-south landmass.)*
+The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on this land.
 
 ## Links
-- [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
+- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Vaethorn; seat [[Eolvaeth]]) · [[Powers of the Turning]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]

@@ -108,7 +108,7 @@ Full register in the ancestry note: open vowels, pre-nasal *mb nd nk nj*, Wolof/
 
 **Added given names** (same inventory, deeper in the list): Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.
 
-The Isle's Azgaar name base — places, not people — lives in [[The World Frame#③b Azgaar Kumbaan name base|The World Frame]] and is repeated under [[Yumboe#Naming & tongue]].
+The Isle's Azgaar name base — places, not people — lives in `14 - Assets/Maps/Map Generation Tooling.md` §③b and is repeated under [[Yumboe#Naming & tongue]].
 
 ## Collision rules (keep the cast distinct)
 

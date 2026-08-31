@@ -118,7 +118,7 @@ Do not invent a second banking-order. Do not give novelty a new clergy. The long
 
 **The prestige-walk is now a product some houses sell.** A held-over winter at the origin — once the frightened far mercy — is a First-Hand year you can book. One commodity, three Coast desks, plus the origin beds:
 
-- **[[Netstrand]]** supplies **berths** — hulls, crews, west-water capacity chartered *in* to the inner sea. Their own leftover is the far crossing, not this winter.
+- **[[Netstrand]]** supplies **berths** — hulls, crews, West Water capacity chartered *in* to the Old Crossing. Their own leftover is the far crossing, not this winter.
 - **[[The White Note House]]** writes the **terms** — credit for a year you do not need. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. They did not invent the hold.
 - **[[Orentel]]** **holds** — Sorim's first-quay occupancy. Empty Eolthael berths. The city that stages departure toward Maiethorn.
 - **[[Orenbren]]** **houses** the year at the origin. Beds within a week's walk of the grove. Not a fourth seller of the berth.

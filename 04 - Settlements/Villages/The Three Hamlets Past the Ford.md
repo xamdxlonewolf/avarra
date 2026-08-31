@@ -47,7 +47,7 @@ Geographically they sit on a seam: [[Saelvaeth]] luck they can see, [[Vaelhesk]]
 
 The ford is the Seat's geography — the thing you can see Harrow's green from, water a mile-shrine would have marked if anyone had set a stone on the waiting side. No stone. That absence is a leftover. Necessity still drinks there. Children still ask how far it is.
 
-The stream comes down from Harrow's rise. In clear weather the canopy is a dark against the far slope. In rain it is a rumour you have to take on trust. The three greens sit on slightly different ground: a wetter shelf, an old taken plot, a thinner rise past the last hedge. A scion planted "for the hamlets" would still be a fight about which of those is soil.
+**[[Named Ground|The Rise-water]]** comes down from Harrow's rise. In clear weather the canopy is a dark against the far slope. In rain it is a rumour you have to take on trust. The three greens sit on slightly different ground: a wetter shelf, an old taken plot, a thinner rise past the last hedge. A scion planted "for the hamlets" would still be a fight about which of those is soil.
 
 Food is gardens, a shared mill-path, ranging that is just the woods. No venting-hall. No lot. Tithe-provision is the yard and the neighbour. A lapsing Condition here is a family problem before it is a guild's.
 

@@ -143,7 +143,7 @@ By C.Y. 80 the Motherland is **old Hands** in the core and **still waiting** in 
 
 ### [[Strandoren]] — C.Y. 40–160, by sea (wealthy coasts first, interior later)
 
-The inner sea already knew how to move a child. Moving a Hand is the same berth with worse instructions: living earth, do not stow below, water at dawn, a Taken-In or a Road-hand who sleeps beside the pot.
+[[Named Ground|The Old Crossing]] already knew how to move a child. Moving a Hand is the same berth with worse instructions: living earth, do not stow below, water at dawn, a Taken-In or a Road-hand who sleeps beside the pot.
 
 **Why the sea starts while Maiethorn is still filling (C.Y. 40).** A ship is faster than filling every inland hamlet. A wealthy coast can pay a Cutting-leave and a Salt-Walk crew in the same summer a Near-Mile village is still on the Seat's list. The wave went where ships and fees went. That is the R2 of the spread itself, not a footnote.
 

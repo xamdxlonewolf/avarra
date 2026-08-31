@@ -47,8 +47,8 @@ The fox-born already come in three Foxes ([[Kitsune#Daggerheart (ancestry featur
 | Fox | Hearth | Where on the map |
 |---|---|---|
 | **Wilds** (red / forest) | tangled wood, hedgerow, Motherwood | densest in [[Maiethorn]]'s Motherwood and [[Heskoren]]'s deep forests |
-| **Snows** (white / high cold) | high snow, pale open country | densest on [[Maiethorn]]'s central range and [[Heskoren]]'s highland spines |
-| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in **[[Maiethorn#The Rain-Shadow|Maiethorn's Rain-Shadow]]** — the leeward east of the central range, the one true dry country in the known world |
+| **Snows** (white / high cold) | high snow, pale open country | densest on [[Maiethorn]]'s [[Named Ground|Rain-Wall]] and [[Heskoren]]'s highland spines |
+| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in **[[Maiethorn#The Rain-Shadow|Maiethorn's Rain-Shadow]]** — the leeward east of the Rain-Wall, the one true dry country in the known world |
 
 A Fox of the Sands in a wet [[Strandoren]] harbour is unremarkable (people move). A town in the Rain-Shadow with *no* fox-born at all would be the thing worth asking about.
 
@@ -56,13 +56,13 @@ A Fox of the Sands in a wet [[Strandoren]] harbour is unremarkable (people move)
 
 ### [[Selkie]] — the coasts
 
-Selkies belong to **two homes at once**, so their hearth is the *line between* — strand, estuary, cold harbour, the towns that face water. Densest on [[Strandoren]]'s indented coasts (the continent is almost all shoreline). Common in [[Maiethorn]]'s western ports on the inner sea. Present on [[Heskoren]]'s wild coast, thinner inland. **Not native to [[The Sundering Isle|Kumbaan]]** — a Selkie who makes that crossing is a story, not a population.
+Selkies belong to **two homes at once**, so their hearth is the *line between* — strand, estuary, cold harbour, the towns that face water. Densest on [[Strandoren]]'s indented coasts (the continent is almost all shoreline). Common in [[Maiethorn]]'s western ports on the Old Crossing. Present on [[Heskoren]]'s wild coast, thinner inland. **Not native to [[The Sundering Isle|Kumbaan]]** — a Selkie who makes that crossing is a story, not a population.
 
 Inland Selkies exist (the skin *Anchors*; they can always find their way back to water). They are simply fewer, and they miss the place they aren't, which they consider normal.
 
 ### [[Tengu]] — the ridges
 
-Tengu hearths are **peaks, cliff-shelves, and the wind that lives there.** Densest on [[Maiethorn]]'s central range and [[Heskoren]]'s highland spines — the two continents that actually *have* killing height. Rare as a settled people on low [[Strandoren]]; the ones you meet there are usually **sky-couriers** (a family, a perch on a clock-tower, a run over the inner sea), not a ridge-town transplanted to a quay.
+Tengu hearths are **peaks, cliff-shelves, and the wind that lives there.** Densest on [[Maiethorn]]'s [[Named Ground|Rain-Wall]] and [[Heskoren]]'s highland spines — the two continents that actually *have* killing height. Rare as a settled people on low [[Strandoren]]; the ones you meet there are usually **sky-couriers** (a family, a perch on a clock-tower, a run over the Old Crossing), not a ridge-town transplanted to a quay.
 
 Tengu settlements cling to crags and are reached by wing or by rope. A lowlander arriving on foot is a guest who climbed; that is the courtesy.
 
@@ -86,7 +86,7 @@ The civic year happens at home: the drift, the byname, the town that will watch 
 |---|---|---|
 | [[Kitsune]] | a **fox-summer** | a child of one Fox-ground sleeps in another, so Wilds / Snows / Sands stay one Kind. The register is taught in person; foxfire is shown, not described |
 | [[Selkie]] | a summer on **another strand** | kin from a second coast attend the skin-days, or the child is sent. The stitch-pattern of a skin is a family thing; it does not travel well as a letter |
-| [[Tengu]] | a season at the **other perch** | a visiting ridge, or a sky-courier family carrying a child over the inner sea. First solo flight may be off a crag that is not the home one |
+| [[Tengu]] | a season at the **other perch** | a visiting ridge, or a sky-courier family carrying a child over the Old Crossing. First solo flight may be off a crag that is not the home one |
 | [[Yumboe]] | the **hill-feast** | they do not run a diaspora season. The isle *is* the hearth. A Yumboe on the mainland keeps the one register by being the only one in the room |
 
 Families who cannot send still teach at home. Poverty, a sick Tree-year, a war, a child needed on the boat — the register survives those. What the other kitchen does is keep a *dispersed* Kind from thinning into twenty private dialects. A fox-born child who has never left Hallowquay still answers to a Kusawe name because someone who *had* left came through with a market and a mouth.
@@ -144,7 +144,7 @@ Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place th
 ## Links
 - [[The Premise]] — Kind + Condition · [[Build Plan]] — stock roster
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
-- [[Maiethorn]] (Rain-Shadow, Motherwood, central range) · [[Strandoren]] (Selkie coasts) · [[Heskoren]] (ridges, wild woods) · [[The Sundering Isle]]
+- [[Maiethorn]] (Rain-Shadow, Motherwood, Rain-Wall) · [[Strandoren]] (Selkie coasts) · [[Heskoren]] (ridges, wild woods) · [[The Sundering Isle]] · [[Named Ground]]
 - [[Naming People in the Turning]] · [[Naming in the Turning]] · [[Daily Life]]
 - [[Kind Heritage]] — Hearth-Mark, Mixed Ancestry, one surprise keyword
 - [[Roadmap]] (Story 4.2; Story R.3) · [[03 - Cultures]]

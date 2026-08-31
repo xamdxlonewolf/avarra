@@ -23,13 +23,13 @@ updated: 2026-08-31
 
 ## Overview
 
-The Sundering Isle is **off the edge of the reach-gradient entirely** — the one land the grafts never reached, or never held. Where [[Heskoren]] is thin, the Isle is *empty* of the [[Turning Tree|Trees]] the rest of the world is built around, and its people become what they are by **their own path**, outside the [[Turning Tree|Leaf-Fall]] altogether (the how belongs to the Yumboe ancestry note — kept deliberately open). It is walled off by a permanent band of storm, current, and reef — **the storm-wall** — that has wrecked most who tried the crossing, so that in [[Maiethorn]], [[Strandoren]], and [[Heskoren]] alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired, *"the good people from across the drowning sea."* Some of the stories are even true.
+The Sundering Isle is **off the edge of the reach-gradient entirely** — the one land the grafts never reached. Dead wood is not a Tree. Where [[Heskoren]] is thin, the Isle is *empty* of the [[Turning Tree|Trees]] the rest of the world is built around, and its people become what they are by **their own path**, outside the [[Turning Tree|Leaf-Fall]] altogether (the how belongs to the Yumboe ancestry note — kept deliberately open). It is walled off by a permanent band of storm, current, and reef — **the storm-wall** — that has wrecked most who tried the crossing, so that in [[Maiethorn]], [[Strandoren]], and [[Heskoren]] alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired, *"the good people from across the drowning sea."* Some of the stories are even true.
 
 **The fresh angle:** the "lost island of strange folk" is usually either a paradise or a monster-haunt. Kumbaan is neither — it is an ordinary *home*, warm and hospitable and deeply itself, that happens to be nearly impossible to reach. The uncanniness is entirely in the *distance*: the Yumboes are not strange to themselves, only to a world that has never met them. Familiar surface (a hospitable hill-people who love a feast), uncanny underneath (served by hands you cannot see; a whole people the world thinks is a legend).
 
 ## Geography & Climate
 
-- **The storm-wall.** A near-permanent girdle of violent weather, treacherous currents, and reef rings the Isle — the reason it stays sundered. Ships that try the crossing are wrecked, turned back, or simply never return. The Azgaar template rings it with a deep-water `Pit`/`Trough` moat to force this isolation. There may be a *season*, or a *way*, the wall thins — a live campaign question, not a settled fact.
+- **The storm-wall.** A near-permanent girdle of violent weather, treacherous currents, and reef rings the Isle — the reason it stays sundered. Ships that try the crossing are wrecked, turned back, or simply never return. There may be a *season*, or a *way*, the wall thins — a live campaign question, not a settled fact.
 - **The Paps — the hill country.** The Isle's defining landform: rolling green **hills honeycombed beneath** with the Yumboes' true dwellings. They live *within* the hills (folklore-true), coming out by moonlight; the surface is pasture, terrace, and standing-stone, the life is below. (After the "Paps hills" the Yumboes are said to dwell beneath in the old accounts.)
 - **Mild, wet, moonlit.** A temperate maritime island climate under the storm-wall's cloud — but the Isle is famous (in its own tellings) for its **bright nights**: the people are nocturnal, and moonlight is their daylight.
 - **Small.** The one small continent of the four — an island-continent, not a sprawl; walkable, known-in-full by its people, the opposite of Heskoren's trackless vastness.
@@ -82,24 +82,10 @@ Playable square: [[Ndenjoo]] (the Feeding Hill). Shore on that stretch: Soonke. 
 - **[[Ndenjoo]]** — a hall that has to seat a wreck, a kin who will not leave, a sibling who wants out. Session wants, not a reveal.
 - A mainland scholar (or heretic — cf. [[The Watching]], [[The Old Ways]]) who believes Kumbaan holds the answer to what the Trees really are — late, if at all. Do not make that the first night.
 
-## Map-generation prompt (GPT Image — base art, label-free)
-
-```
-A hand-drawn fantasy map of a single small, remote island-continent on aged
-parchment, muted sepia ink with soft watercolour washes, top-down cartographic
-view. The island is ringed by a dramatic band of storm-clouds, swirling ocean
-currents, and jagged reef marks — a visible wall of turbulent water sealing it off
-from the open sea on every side. The land within is green rolling hill country,
-dotted with rounded hills and standing stones, no cities — an untamed, secret
-place. A crescent moon motif in the corner. The island sits utterly alone, far from
-any other shore. Decorative compass rose, faint graticule, heavy current lines.
-Cartography style, atmospheric, mysterious. NO TEXT, NO LABELS, no writing anywhere.
-```
-*Optional Midjourney line:* `--ar 3:2 --style raw --v 6`
-*(For a labelled map, use the Azgaar assets in [[The World Frame#Map-generation assets]] and read this as the small storm-ringed isle far west. The Isle's own name base is [[The World Frame#③b Azgaar Kumbaan name base]].)*
+The labelled picture: [[The Known Map]]. Days: there are none that count. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on the wall.
 
 ## Links
-- [[The World Frame]] — the four-continent frame · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
+- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
 - [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (twelve moons, not solstices)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)

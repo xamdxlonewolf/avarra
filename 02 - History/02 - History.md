@@ -33,7 +33,7 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 - [[The Two Papers]] — C.Y. 67; Maiethvael / Threnmaieth; crown-count starts
 - [[The Grey Summer]] — C.Y. 171; quay-fever; Trenledd / Brenledd / Leddvael causes
 - [[The Thaw-Break]] — C.Y. 233; one-week melt
-- [[The Hinge Hush]] — C.Y. 304; current inner-sea peace
+- [[The Hinge Hush]] — C.Y. 304; current Old Crossing peace
 - Leftovers (uncounted; R.11 adventure-depth): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] *(sites live in `04 - Settlements`)*
 
 ## Related

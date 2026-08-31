@@ -14,7 +14,7 @@ updated: 2026-08-31
 
 # The Other Count
 
-> **What this is.** The dated years inside C.Y. 0–387 that are **not** the spread of grafts. Two clocks still organize how you Turned and where the wood has reached ([[The Ages of the Turning]]). This note is the proof that three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the inner sea's peace. Built for [[Roadmap|Story R.9]] with `systemic-worldbuilding`, `world-fates` (shifts already in the past), `oblique-worldbuilding`, and `cliche-transcendence` (the Closed Seat is a gate that grew a country, not a dark lord).
+> **What this is.** The dated years inside C.Y. 0–387 that are **not** the spread of grafts. Two clocks still organize how you Turned and where the wood has reached ([[The Ages of the Turning]]). This note is the proof that three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. Built for [[Roadmap|Story R.9]] with `systemic-worldbuilding`, `world-fates` (shifts already in the past), `oblique-worldbuilding`, and `cliche-transcendence` (the Closed Seat is a gate that grew a country, not a dark lord).
 
 > **Canon status.** 🟡 **Lived chronicle (2026-08-30).** 🔒 **Does not move the two clocks, the present year, the spread-bands, or the undated Tree.** 🔒 **Who cut remains unpicked.** Names of the five years and the Closed Seat are working common-tongue — no new liturgy. World book untouched.
 
@@ -32,11 +32,11 @@ The Other Count does not replace that. It sits *beside* it. A clerk who only wri
 |---|---|---|---|
 | **C.Y. 19–38** | **[[The Closing]]** | war / political | The [[The First Cut\|First Cut]] made a local Tree; the old **Closed Seat** tried to uproot the copies and could not. Collapse. Retreat behind the [[The Walled Book\|Inner Close]]. |
 | **C.Y. 67** | **[[The Two Papers]]** | political / dynastic (paper, not blood) | One hymn-country became [[Maiethvael]] and [[Polity Archetypes\|Threnmaieth]]. Crown-count starts here. Present **Crown-year 320**. |
-| **C.Y. 171** | **[[The Grey Summer]]** | epidemic | Quay-fever on the inner sea. Not a Tithe. [[Trenledd]] began writing persons. [[Brenledd]] piled a compact (C.Y. 174). [[Leddvael]] made a signing a civic rite. |
-| **C.Y. 233** | **[[The Thaw-Break]]** | natural | [[Lirorn]] snowmelt in one week. Pass-tolls moved. West-road cut two summers. An [[Ornled]] waited-graft died, and a gospel was refused. |
+| **C.Y. 171** | **[[The Grey Summer]]** | epidemic | Quay-fever on [[Named Ground\|the Old Crossing]]. Not a Tithe. [[Trenledd]] began writing persons. [[Brenledd]] piled a compact (C.Y. 174). [[Leddvael]] made a signing a civic rite. |
+| **C.Y. 233** | **[[The Thaw-Break]]** | natural | [[Lirorn]] snowmelt in one week on [[Named Ground\|the Rain-Wall]]. Noon Pass lost; Shelf-gate taken. West-road cut two summers. An [[Ornled]] waited-graft died, and a gospel was refused. |
 | **C.Y. 248** | **[[The Wrong Green]]** | Tree / civic *(already written)* | A hug Speaked as copper-green. Human wound. Not one of the five non-Tree years; kept on this table so a GM does not invent a second Harrow. |
 | **C.Y. 280** | **Ledan's query** | archival dating | [[The White Note House]] in its 200th summer. Re-dated from a false present header. Ledan is [[Long-Lived]]; the conversion is still the house's habit. Present house-year **307**. |
-| **C.Y. 299–304** | **the Hinge War** → **[[The Hinge Hush]]** | inter-power / treaty | [[Eolstrand]] and [[Polity Archetypes\|Lestrand]] over hinge-tolls. The hush is the current inner-sea peace, with a west-water clause [[Netstrand]] still quotes. |
+| **C.Y. 299–304** | **the Hinge War** → **[[The Hinge Hush]]** | inter-power / treaty | [[Eolstrand]] and [[Polity Archetypes\|Lestrand]] over hinge-tolls. The hush is the current Old Crossing peace, with a West Water clause [[Netstrand]] still quotes. |
 
 Present remains **C.Y. 387**. Do not slide it.
 
@@ -76,8 +76,8 @@ The clerk cannot afford to see that "171 is not a Cut we honor" is how a fever b
 
 - **Who cut.** Five attributions stand ([[The First Cut]]). The Closing is about the *copy*, not the knife.
 - **The nature of her limit.** A war over access is people. It is not a wound-theory.
-- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. Placement still 🟡 for the later geography pass.
-- **Named terrain.** The inner sea, the range, the thaw-rivers stay common-noun until [[Roadmap|Story R.10]].
+- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[Eolstrand]].
+- **Named terrain.** ✅ Story R.10 → [[Named Ground]] (the Old Crossing · the Rain-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash).
 - **Adventure-site procedure.** ✅ Story R.11: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] now have entrances, pressures, discoveries, and current actors. Still do not date them.
 
 ## Links

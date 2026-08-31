@@ -31,7 +31,7 @@ updated: 2026-08-31
 
 ## Overview
 
-East of [[Maiethorn]]'s central range, on the leeward side away from the inner sea: dry hills, sand-country, towns at wells. Ornsael is one of those wells. A [[Turning Tree|Tree]] stands beside it — young for the Motherland, old enough to have Turned local children for a generation. **It Speaks most years.** A missed Eolthael is weather, not the town's crisis. The crisis is the drink.
+East of [[Maiethorn]]'s [[Named Ground|Rain-Wall]], on the leeward side away from the Old Crossing: dry hills, sand-country, towns at wells. Ornsael is one of those wells. A [[Turning Tree|Tree]] stands beside it — young for the Motherland, old enough to have Turned local children for a generation. **It Speaks most years.** A missed Eolthael is weather, not the town's crisis. The crisis is the drink.
 
 [[Saelthael]] is the polity of people who still sow. Ornsael is a square of that habit, not a throne. Plenty sits on the other side of the range. Pilgrimage here used to be a leftover they could not retire because the wood was thin. The wood grew up. The well did not. Children still go west in the neighbour's week — not to hunt a colour, but because Hale-month mouths need water this well cannot host. Core pilgrims who arrive in Eolthael expecting a holiday extra mile find a necessity-column already on the west-road, and are shocked. They thought waiting was a Heskoren feeling. They were not wrong about waiting. They were wrong about *what* is waited for.
 
