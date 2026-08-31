@@ -35,6 +35,8 @@ Maiethorn is the world's **old heart** — the continent people mean when they s
 - **The Rain-Shadow.** East of the Rain-Wall, on the leeward side away from the Old Crossing, the land falls into **dry hills and sand-country** — the one true dry reach in the known world. **[[Named Ground|the Well-wash]]** is a river in a kind Liren and a silt-line in a cruel one. This is the hearth of the [[Kitsune|Fox of the Sands]]. It is still Maiethorn (same Trees, same conservative tongue, same pilgrimage-pull westward toward Thaeloren); it is simply the Motherland's *other weather*. Towns here cluster at wells. Playable square: [[Ornsael]] (the sown-ground; west-road after the core stopped). 🔒
 - **The western coast** faces **[[Named Ground|the Old Crossing]]** toward [[Strandoren]] — the oldest trade route in the world. Ports here are ancient and rich, if less frantic than Strandoren's. [[The Hinge Shore]] classifies the crossing. [[Selkie]] families are common on these quays, as they are on any old water.
 
+Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Maiethorn]].
+
 ## Reach
 
 **Full — the densest, healthiest grafting anywhere.** Nearly every child Given; the [[Law and Citizenship|three pillars]] (Long-Lived memory, Bound word, Far-Voiced feeling) thick on the ground; the [[Law and Citizenship|Kept]] genuinely uncommon and, in the more fervent districts, quietly pitied as passed-over. This is the world's Condition-density ceiling — everything the [[Polity Archetypes|archetype grammars]] assume "normally" is *most* true here.
@@ -64,7 +66,7 @@ An **older Tree-faith the Motherfaith grew over** persists in Maiethorn's oldest
 The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on this land.
 
 ## Links
-- [[The World Frame]] — the four-continent frame this belongs to · [[Named Ground]] · [[The Known Map]] · neighbours: [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[The World Frame]] — the four-continent frame this belongs to · [[Named Ground]] · [[The Known Map]] · [[Climate of Maiethorn]] · neighbours: [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] (Thaeloren, the Awakening Tree) · [[The Leaf-Mother]] · [[The Tree-Wardens]] (First Seat) · [[The Watching]] · [[The Old Tongue]] (conservative drift)
 - [[Polity Archetypes]] (Threnmaieth; seat [[Maiethlir]]) · [[Powers of the Turning]] · [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[The Hinge Shore]] · [[Lirorn]] · [[Naming in the Turning]] (the Threnhael) · [[The Premise]]
 - [[Kinds of the Turning]] — Motherwood / range / Rain-Shadow as Kitsune and Tengu hearths · [[Kitsune]] · [[Tengu]] · [[Selkie]]

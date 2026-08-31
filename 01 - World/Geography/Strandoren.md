@@ -34,6 +34,8 @@ Strandoren is the **crossroads of the known world** — a continent of harbours,
 - **[[Named Ground|the West Water]]** (west/south) — the wider sea toward [[Heskoren]] and, far beyond, [[The Sundering Isle]]. [[Netstrand]] faces it. Strandoren's boldest houses run the frontier trade; almost none have crossed the storm-wall (those who claim to are the tellers of the Yumboe stories).
 - **Interior**: fertile lowlands along **[[Named Ground|the Chart-run]]**, feeding the port-cities; mild maritime climate, wet and temperate. Mature grafted Trees stand thick along the wealthy coasts. [[Trenledd]] sits on the stretch that got filed. The First Cut's inland "river-days" are this run.
 
+Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Strandoren]].
+
 ## Reach
 
 **High.** Grafts mature and abundant, especially coastal; the Given are dense and the [[Law and Citizenship|three pillars]] are pure **infrastructure** here — not reverence but the machinery a huge commercial society runs on ([[Long-Lived]] notaries, [[Bound]] whose word closes contracts, [[Far-Voiced]] on every dock and in every court). The [[Law and Citizenship|Struck]] are vouched-in *briskly and efficiently* — an unvouched person is a transaction that can't clear.
@@ -63,7 +65,7 @@ A mercantile theology that reads Conditions not as *gifts given* (the [[The Leaf
 The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on this land.
 
 ## Links
-- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · [[Climate of Strandoren]] · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Lestrand; seat [[Orentel]]) · [[Powers of the Turning]] · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]

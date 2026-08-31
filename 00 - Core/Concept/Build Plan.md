@@ -18,7 +18,7 @@ updated: 2026-08-31
 
 ## Active next
 
-**[[Roadmap#Epic 10 — Campaign|Epic 10]] — Story 10.1 done (2026-08-31).** Opening kit: [[The Opening]]. Campaign hub: [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing; **C-02 resolved** by user-requested world-book rebuild, 2026-08-31).
+**Leftovers 1 / 3 / 9 done (2026-08-31).** Conditions cross-link · climate/ecology · revelation architecture. [[Roadmap#Epic 10 — Campaign|Epic 10]] Story 10.1 remains done — kit [[The Opening]], hub [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing; **C-02** world-book rebuild; **C-06** Kumbaan Tree-hedge, 2026-08-31).
 
 **Gate (2026-08-31).** Every non-green finding in [[Editorial Audit 2026-08-29]] maps to R.1–R.13 or a recorded decision. Keystone confirmation is off the player body. The gate recorded residual scaffolding as C-01 rather than reopening R.13; P2.1 has now resolved it. Infernis + Bound stack ([[At the Table]]). Haelin is an alias of [[Harrow's Green]]. Thuda stays an on-page mouth.
 
@@ -28,7 +28,9 @@ updated: 2026-08-31
 
 **10.1 (2026-08-31).** Session one sits at [[Harrow's Green]]. On-screen: remnant-walker + [[Rosire]] + new Gift ([[Taeren]] XOR a PC in that seat). Pourer and Walled-Book heir offstage. Five key moments, mystery first. No Leaf-Mother reveal. No Care-fortress.
 
-**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked.
+**Leftovers (2026-08-31).** [[Conditions]] carry Tree colour, path, and civic next-step. Living ground: [[Climate of the Turning]] · [[Ecology of the Turning]]. Secrets: [[Revelation Architecture]] · [[Reveal Index]]. Fire plot does not need the Spent Leaf. Household confirmation stays late.
+
+**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked; lock the nature of her limit.
 
 Two clocks stand. Cutter unpicked.
 
@@ -85,6 +87,7 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - [[Epic R Completion Gate 2026-08-31]] · [[Contradictions]]
 - [[At the Table]] · [[Kind Heritage]] · [[Conditions]] · [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[The Opening]] · [[The Isolated Fall]]
+- [[Climate of the Turning]] · [[Ecology of the Turning]] · [[Revelation Architecture]] · [[Reveal Index]]
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]] · [[When the Fire Is Caught]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]
 - [[The Old Tongue]] · [[Naming Tools]] · [[00 - Core]]

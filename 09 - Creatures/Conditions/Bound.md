@@ -12,7 +12,7 @@ monster: demon (by contract)
 standing: feared
 path: Struck only
 population: ~5%
-reveals: []
+reveals: [the-other-hands]
 created: 2026-08-14
 updated: 2026-08-31
 ---
@@ -24,6 +24,13 @@ updated: 2026-08-31
 ## The take
 
 **Struck only** — you cannot be Given this at age 10, because a child cannot consent to a contract. Someone in dire need bargained, and something answered. Society **fears** them (~5% contract-lane, share from [[The Premise]]) — the power is real, the terms are binding, and a Bound who falls behind is *collateral* — but also *needs* them: a Bound's sworn word is literally binding and they know a lie when they hear one, so they are the world's **enforcers, oath-keepers, witnesses, and debt-arbiters**. When a treaty absolutely must hold, a Bound swears to it. That ~5% is the whole contract-lane: people currently Bound (~3.5%) plus the [[The Unbound|Unbound]] already released (~1.5%). Do not add the Hollow as a second percentage on top.
+
+## Away from the Tree
+
+**Colour.** None. The Tree never Strikes. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Struck only — a sworn contract in extremity. The engine lives on [[The Premise]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] fears them and still needs them; they are received back at the Tree for acknowledgment, not a Gift. [[The Fair Hand]] says this is not a special horror — it is the same grammar as every becoming, written large enough to read. [[The Watching]] names a seeing at a harder door. [[The Old Ways]] take them to the oath-stone that heard the vow and name them kin.
+**Where next.** [[The Book-Hands]] witness the signing and recite Terms on oath-day; they do **not** rewrite those Terms. A raw Struck Bound goes to [[The Intake]] before the town uses a rope.
 
 ## Daggerheart — Transformation card
 
@@ -57,7 +64,11 @@ Keep the Whisper strictly *suggestive* — plausible lies and intrusive thoughts
 
 **What Orledd gets.** During the term: the named ask remaining true, and the Terms being kept where other people can see them. That is the food — a readable exchange. Orledd cannot Give; a gift with no named return would be her work. At the end of a term-limited contract they collect the Pledge (already on the card). They do **not** get a soul, worship, or a second signing. The Given-Over spiral is the Bound's fear of paying, not the Counterparty's hunger. A flood of unread bargains starves them. If you need the strain/break rules (when a bargain has gone outside her allowance), they live on [[The Other Hands]].
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Fair Hand]] (the faith that reads every becoming as a contract) · [[The Holding Desk]]
+- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- [[The Fair Hand]] — every becoming as a contract · [[The Book-Hands]] — they do not rewrite Terms · [[The Holding Desk]] · [[The Intake]]
 - Chains into: [[The Unbound]] (what an expired contract leaves behind — colloquially, the Hollow)
 - Contrast: [[Returned]] (the other Struck-only Condition — accident of death vs. sworn choice) · [[Far-Voiced]] (detects others' lies vs. betrays the Far-Voiced's own feeling)
+- [[The Watching]] · [[The Old Ways]]

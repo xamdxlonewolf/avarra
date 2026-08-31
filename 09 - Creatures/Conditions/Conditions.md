@@ -73,9 +73,28 @@ There are **9 Conditions a person can be Given or Struck with.** The **10th — 
 **The Kept** — the normal ~25% who receive no Condition (the Tree hugs them; wanted in their own right).
 **The Given-Over** *(title, not a Condition)* — the world's name for a Bound who signs contract after contract until the being effectively owns them; an NPC-tier fate. See [[Bound]].
 
+## Colours at the Tree
+
+The Tree's palette is canonical on [[Turning Tree#Reading the colours (colour → Condition)]]; the table below is a derived scan. **Population shares live only on [[The Premise]].** The Tree never Strikes: Returned, Bound, and Unbound have no colour. The Kept hug is ordinary summer-green — no naming colour.
+
+| Condition | Colour or none | Path |
+|---|---|---|
+| [[Long-Lived]] | deep red / wine | Given only |
+| [[Two-Bodied]] | storm-grey | Given only |
+| [[The Answered]] | lamp-amber / brass | Given only |
+| [[Far-Voiced]] | sea-blue (Struck: none) | Both |
+| [[The Stilled]] | pale stone / marble-white (Struck: none) | Both |
+| [[The Taken-In]] | copper-green / verdigris (Struck: none) | Both |
+| [[Phoenix]] | white-fire / opal | Given only |
+| [[Returned]] | none | Struck only |
+| [[Bound]] | none | Struck only |
+| [[The Unbound]] | none — chains off Bound | Struck only (via Bound) |
+
 ## Links
 - [[The Premise]] — shares and the engine
 - [[At the Table]] — creation, Kept deal, Struck-in-play
+- [[Turning Tree]] — canonical colour palette · [[The Leaf-Mother]] — the faith around the Tree
+- [[Faiths of the Turning]] · [[07 - Religion]]
 - [[Kind Heritage]] — Kind features and mixes
 - [[A Hidden Phoenix]] — the other Phoenix seat
 - [[09 - Creatures]] · [[Dangers of the Turning]]

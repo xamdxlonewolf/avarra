@@ -34,6 +34,8 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 - **The frontier coast** faces **[[Named Ground|the West Water]]** back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it. [[Eolvaeth]] is a vale *behind* this coast, not a live-front luck.
 - **Climate**: cooler, wetter, wilder than Maiethorn/Strandoren; a land where the solstice-timed [[Turning Tree|Leaf-Fall]] is a hard-won event of a decade, not a yearly certainty.
 
+Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Heskoren]].
+
 ## Reach
 
 **Thin — the ground-level face of the [[Is the Leaf-Mother Real|keystone edge]].** Grafts young, scattered, and prone to sickening; the [[Law and Citizenship|three pillars]] stretched thin (few [[Long-Lived]] to remember, few [[Bound]] to vouch), so citizenship-by-witness is *fragile* and the **unvouched Struck** are a constant, aching problem met with faith rather than machinery. High Kept, high Struck, low specialist infrastructure. In-world this reads as plain distance-and-history ([[The Ages of the Turning]] — Heskoren is the Grafting *this decade*, not a closed age); the deeper cause stays GM-side.
@@ -63,7 +65,7 @@ Two faiths in tension, and the friction is the frontier's own:
 The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on this land.
 
 ## Links
-- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
+- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · [[Climate of Heskoren]] · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Vaethorn; seat [[Eolvaeth]]) · [[Powers of the Turning]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
 - [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]

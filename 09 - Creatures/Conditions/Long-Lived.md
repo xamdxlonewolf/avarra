@@ -23,9 +23,16 @@ updated: 2026-08-31
 
 ## The take
 
-Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a walking, incorruptible record — which is exactly why courts, guilds, and archives are built around them. Their scarcity (~2.5%, **Given only** at the Awakening — a rare leaf-colour; share from [[The Premise]]) is deliberate: a world with too many deathless people would ossify. They are revered, consulted, and a little apart.
+Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a walking, incorruptible record — which is exactly why courts, guilds, and archives are built around them. Their scarcity (~2.5%, **Given only** at the Awakening — a rare deep-red / wine leaf; share from [[The Premise]]) is deliberate: a world with too many deathless people would ossify. They are revered, consulted, and a little apart.
 
 **The old courtesy.** A Long-Lived will not cross the threshold of another's home uninvited — they wait to be asked in, always. It is held as the deepest good manners, a mark of their trustworthiness (a keeper of records does not intrude), and no one quite remembers it as anything else — but it is old, and it is universal among them, and a Long-Lived who is *refused* the door feels the refusal more than they will say. It reads, faintly, as the last shadow of the thing the folklore vampire was: the one who could not enter unbidden. Nobody calls it that. It's simply how the Long-Lived have always been.
+
+## At the Tree
+
+**Colour.** Deep red / wine — folk-known; a neighbour can already read it. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Given only. No later door. The engine lives on [[The Premise]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a chosen keeper: memory fitted to a town that needs a record. [[The Watching]] says the Tree *saw* a mind that would not fade — a witness, not a mother's pick. The square does not get to close the argument.
+**Where next.** Courts, guilds, and archives. Some later pour years into [[The Unspent]]; the circle that wears that cup is [[The Pourers]].
 
 ## Daggerheart — Transformation card
 
@@ -52,8 +59,11 @@ The "go still" death is intentionally not a death move — it's a slow, tragic o
 
 **On Blood-Read and the threshold:** these are the two quiet vampiric callbacks — recognizable, never the cliché. Keep **Blood-Read** non-predatory: one drop, freely given or from an existing wound, a *glimpse* of memory the GM narrates — never a feeding, never damage, never a way to drain someone. It's an investigative and emotional tool (read the dead man's last sight, feel why a witness lies), not a combat power. The **threshold custom** is pure roleplay and social texture — it is *not* a compulsion or a weakness a foe can exploit mechanically; a Long-Lived can cross uninvited if they truly must, they simply never do, and the manners run bone-deep. Don't let a table weaponize either into "the vampire rules."
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]]
+- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
 - Contrast: [[Two-Bodied]] (the other Given-only core Condition)
 - [[The Walking Years]] — Long-Lived who still say *I walked* (perfect memory; disagreed meaning)
 - [[The Unspent]] — the cupboard some of them pour years into · [[The Pourers]] — the circle that wears it
+- [[The Watching]] — witness, not Mother

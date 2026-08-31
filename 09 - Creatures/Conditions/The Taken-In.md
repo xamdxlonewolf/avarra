@@ -25,7 +25,14 @@ updated: 2026-08-31
 
 One of the Taken-In can coax growth, read the wild, and move through it unseen and unlost. That's why the frontier runs on them: a Taken-In steward makes thin soil yield, keeps a herd through a bad winter, walks a forest without ever losing north, and knows a day out which way the weather turns. **Respected but looked-down** (~13% of all people; share from [[The Premise]]) — the cities and their guilds *need* the grain, timber, and wardens the Taken-In provide, and eat well because of them, but one of the Taken-In is dirt-handed, backcountry, and no longer quite human to look at (the bark and antler unsettle people who've never left the paved districts). Prosperous farm-country reveres them; polite city society finds them a little coarse, a little uncanny, and keeps them at arm's length.
 
-**Both paths, and they read differently.** About twelve parts in thirteen are **Given**: they drew the green at the Awakening and grew up in it — a farm or forest child comfortable in their half-wild skin, the change coming on gentle and known. About one part in thirteen is **Struck**: they got **lost and dying in the deep wild** — days without a path, ready to lie down — and the wild *took them in* rather than let them die, remaking them partway to keep them. They come back more uncanny, more overgrown, and quietly unsure whether they walked out a person or something the forest sent.
+**Both paths, and they read differently.** About twelve parts in thirteen are **Given**: they drew the copper-green / verdigris at the Awakening and grew up in it — a farm or forest child comfortable in their half-wild skin, the change coming on gentle and known. About one part in thirteen is **Struck**: they got **lost and dying in the deep wild** — days without a path, ready to lie down — and the wild *took them in* rather than let them die, remaking them partway to keep them. They come back more uncanny, more overgrown, and quietly unsure whether they walked out a person or something the forest sent.
+
+## At the Tree
+
+**Colour.** Copper-green / verdigris — folk-known *if you know not to confuse it with the hug*. This green is metallic, not the Tree's own summer-green. A Struck Taken-In has no leaf. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Both — most Given, a few Struck by being lost and dying in the deep wild. The engine lives on [[The Premise]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a gift of green, a little coarse in city mouths. [[The Old Ways]] say the grove's own children — the land making its own, Tree or no — and a Struck Taken-In is, to them, the oldest door, not a late embarrassment. [[The Watching]] names a seeing, not a taking-in by a mother.
+**Where next.** [[Tithe-Infrastructure]] — greens as civic utility, not a college. [[The Greens-Keepers]] hire the skill for the lot; they will not sit them at the high table.
 
 ## Daggerheart — Transformation card
 
@@ -52,7 +59,10 @@ The pleasant version is why the Taken-In live where they do: their work *is* the
 
 Keep the go-to-seed strictly environmental — growth bursting from ground and structures, never roots seizing another creature or forcing an action. A Struck Taken-In's uncertainty ("did I walk out, or was I sent?") is rich long-game material — play it as quiet identity dread, not a hidden puppet-string; the wild in them is *part of them*, not a master. One of the Taken-In dragged deep into a dungeon, a ship's hold, or a stone keep and left to wilt is a slow-building set-piece, not a gotcha.
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]]
-- [[Economy and the Tithe]] — urban green · [[The Greens-Keepers]] · [[The Slide]]
+- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- [[Economy and the Tithe]] — urban green · [[The Greens-Keepers]] · [[The Slide]] · [[Tithe-Infrastructure]]
 - Contrast: [[Far-Voiced]] · [[The Stilled]] (the other Both-path Conditions) · [[Returned]] (the other Condition remade by a near-death threshold — died-and-walked vs. lost-and-taken-in)
+- [[The Old Ways]] — grove's own children · [[The Watching]] — witness, not Mother

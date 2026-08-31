@@ -27,6 +27,13 @@ updated: 2026-08-31
 
 The Pledge was **chosen up front**, at the signing — you knew what you would owe (an eye, a leg, your capacity for fear, your memory of home). So the loss is **both grief and gift**: the hole is also an immunity. Standing: **pitied / uneasy** — people aren't *afraid* of the Unbound, they're unsettled by the *absence* in them. Where the [[Long-Lived]] must keep **learning** to stay whole, the Unbound must keep **connecting** to stay quiet — the opposite fuel.
 
+## Away from the Tree
+
+**Colour.** None — it chains off Bound; the Tree never named them. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Struck only, and only through Bound. You cannot start here. The engine lives on [[The Premise]]; the cause is [[Bound]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] pities a person who paid; the hug they never got. [[The Fair Hand]] hears a closed book — paid, even, walk. [[The Watching]] names a seeing of an absence. [[The Old Ways]] still count them as kin of the oath-door, not a leftover the Tree refused.
+**Where next.** Chains off [[Bound]] only. No colour, no college, no warmth-guild. Family, an attic, a paid sitting. The [[The Book-Hands|Book-Hands]] settled the year they were Bound; they do not furnish the hole.
+
 ## Daggerheart — Transformation card
 
 *You paid what you promised. Something is missing now — and the missing place is quiet, and strong.*
@@ -47,6 +54,9 @@ The Quiet is a **temptation engine**, not a compulsion — keep every "reach for
 
 **Keep the three lanes apart.** Absence stops Stress (or Fear) through the pledged hole. Quiet spends a token to act *anyway*. [[Returned]] unshaken is corpses, gore, and deathly places, and only they get it. If a table is auto-passing every fear roll on both cards, pull it back to those lines.
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[Bound]] (the cause) · [[The Premise]] · [[Build Plan]]
+- [[Conditions]] · [[Bound]] (the cause) · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
 - Contrast: [[Long-Lived]] (kept whole by *learning*; the Unbound by *connection*)
+- [[The Fair Hand]] · [[The Book-Hands]] · [[The Watching]] · [[The Old Ways]]

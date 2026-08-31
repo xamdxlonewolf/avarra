@@ -8,9 +8,9 @@ aliases: [The Harrow Mis-Speaking, The Hug That Was Named, Nathdo's Green]
 world: The Turning
 era: "[[The Years of Hands]]"
 date_in_world: C.Y. 248
-reveals: []
+reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Wrong Green

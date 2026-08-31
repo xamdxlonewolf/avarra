@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # 07 - Religion
@@ -24,6 +24,7 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[The Remainder]] — First Seat side-yard desk; keeps [[The Spent Leaf]]
 - [[Turning Tree]] — the sacred object & the Leaf-Fall rite; one Awakening Tree, town Trees are living grafts of it; colour→Condition palette; warden questions (miss, refuse, orphan, once-only)
 - [[The Wrong Green]] — cited mis-Speaking (Harrow's, C.Y. 248); the rite's restrained shadow
+- [[The Uncoloured Intake]] — gift-hall slips; uncoloured mouths that will not sit under one line
 - [[The Unspent]] — the Poured God / Cup We Made; a Long-Lived fringe presence, not a Tree-faith
 - [[The Pourers]] — the circle that wears the cup (lives in `05 - Factions`)
 
@@ -45,7 +46,7 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[The Years of Hands]] — the present as leftover *(lives in `02 - History`)*
 
 ## Related
-- [[The Premise]] · [[Conditions]] · [[Is the Leaf-Mother Real]] (GM) · [[The Spent Leaf]] · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Roadmap]]
+- [[The Premise]] · [[Conditions]] — roster and derived colour table · [[Is the Leaf-Mother Real]] (GM) · [[The Spent Leaf]] · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Roadmap]]
 
 ## GM Notes
 

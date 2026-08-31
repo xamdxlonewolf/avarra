@@ -38,6 +38,8 @@ This also mirrors the [[The Old Tongue|language]]: the [[The Old Tongue|Old Tong
 | **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] | [[The Old Ways]] |
 | **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(not a mainland power)* | [[The Open Table]] |
 
+Playable seasons and week-weather across the four: [[Climate of the Turning]].
+
 The three [[Polity Archetypes|archetype polities]] deliberately land on **three different continents** — proof that they're *corners of an axis-space*, not neighbours. Each of the three large continents also carries **several of the ~15 [[The Premise|great powers]]** (named in [[Powers of the Turning]]); the archetype is only the most-worked example on each.
 
 ## How they sit (relative geography)
@@ -56,7 +58,7 @@ Reading the world roughly **east → west**, along the reach-gradient:
 - **[[Maiethorn]] — full reach.** The oldest, densest grafting in the world. Trees are mature, numerous, and healthy; nearly every child is Given; the [[Law and Citizenship|three pillars]] (Long-Lived memory, Bound word, Far-Voiced feeling) are thick on the ground. This is the baseline the [[Polity Archetypes|universal social physics]] was written for.
 - **[[Strandoren]] — high reach.** Grafts mature and many, especially along the wealthy coasts; the Given are dense and the Condition-economy runs at full commercial flower. Faith worn thin by trade, but the *Trees* are not thin. (This is why the [[Economy and the Tithe|deathless banking]] and Condition-labor advances peak here.)
 - **[[Heskoren]] — thin reach.** Grafts young, scattered, and prone to sickening; whole districts wait on a Tree that hasn't taken. Runs heavy on the [[Law and Citizenship|Kept and the Struck]]; the frontier's whole social character (custom over law, vouching stretched thin, the unvouched Struck as a constant problem) flows from this.
-- **[[The Sundering Isle]] — near-none.** Few or no healthy [[Turning Tree|Trees]] at all — the grafts **never** reached across the storm-wall. [[The First Cut]] is strict: dead wood is not a Tree. Sailors tell of pots that went into the water. Do not find an old scion here. The Isle's people acquire their nature by **their own path**, outside the Leaf-Fall entirely (detail deferred to the Isle note + the Yumboe ancestry). This makes it the sharpest edge of the [[Is the Leaf-Mother Real|keystone question]] in the whole world.
+- **[[The Sundering Isle]] — near-none.** No healthy [[Turning Tree|Trees]] — the grafts **never** reached across the storm-wall. [[The First Cut]] is strict: dead wood is not a Tree. Sailors tell of pots that went into the water. Do not find an old scion here. The Isle's people acquire their nature by **their own path**, outside the Leaf-Fall entirely (the Isle note + the [[Yumboe]] ancestry). This makes it the sharpest edge of the [[Is the Leaf-Mother Real|keystone question]] in the whole world.
 
 ## Rival faiths on the map
 
@@ -71,7 +73,7 @@ Named waters, the range, travel times: [[Named Ground]]. The labelled picture: [
 
 ## Links
 - **Continents:** [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- **Ground:** [[Named Ground]] · [[The Known Map]]
+- **Ground:** [[Named Ground]] · [[The Known Map]] · [[Climate of the Turning]]
 - **Polities placed here:** [[Powers of the Turning]] (fifteen) · [[Polity Archetypes]] (Threnmaieth · Lestrand · Vaethorn) · seats [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]]
 - **Upstream frame:** [[The Premise]] (scale & register) · [[Turning Tree]] (one Awakening Tree + grafts) · [[The Old Tongue]] (the drift-gradient) · [[Is the Leaf-Mother Real]] (the reach-edge)
 - **Faiths:** [[Faiths of the Turning]] · [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]

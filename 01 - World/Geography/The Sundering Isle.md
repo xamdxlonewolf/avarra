@@ -34,9 +34,11 @@ The Sundering Isle is **off the edge of the reach-gradient entirely** — the on
 - **Mild, wet, moonlit.** A temperate maritime island climate under the storm-wall's cloud — but the Isle is famous (in its own tellings) for its **bright nights**: the people are nocturnal, and moonlight is their daylight.
 - **Small.** The one small continent of the four — an island-continent, not a sprawl; walkable, known-in-full by its people, the opposite of Heskoren's trackless vastness.
 
+Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Kumbaan]].
+
 ## Reach
 
-**Near-none.** Few or no healthy [[Turning Tree|Trees]] — the grafts never crossed the storm-wall. [[The First Cut]] is explicit: **never.** Sailors tell of pots that went into the water. Dead wood is not a Tree. Do not find an old scion here in a later story; that breaks the isolate and [[The Open Table]]. The Yumboes do not Turn at a Tree; whatever they become, they become otherwise. This makes the Isle the **sharpest natural experiment in the world** on the [[Is the Leaf-Mother Real|keystone question]] — a whole people acquiring their nature with no Tree at all. *(Reserved as a high-value reveal — see GM Notes; the mechanism stays open in the ancestry note.)*
+**Near-none.** No healthy [[Turning Tree|Trees]] — the grafts never crossed the storm-wall. [[The First Cut]] is explicit: **never.** Sailors tell of pots that went into the water. Dead wood is not a Tree. Do not find an old scion here in a later story; that breaks the isolate and [[The Open Table]]. The Yumboes do not Turn at a Tree; whatever they become, they become otherwise. This makes the Isle the **sharpest natural experiment in the world** on the [[Is the Leaf-Mother Real|keystone question]] — a whole people acquiring their nature with no Tree at all. *(Reserved as a high-value reveal — see GM Notes; the mechanism stays open in the ancestry note.)*
 
 ## People — the Yumboes
 
@@ -85,7 +87,7 @@ Playable square: [[Ndenjoo]] (the Feeding Hill). Shore on that stretch: Soonke. 
 The labelled picture: [[The Known Map]]. Days: there are none that count. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on the wall.
 
 ## Links
-- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
+- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · [[Climate of Kumbaan]] · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]
 - [[Yumboe]] (4th custom ancestry — homeland here) · [[The Open Table]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] (the other three, native to the mainland)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[The Reckoning of the Year]] (twelve moons, not solstices)
 - [[The Premise]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]] (the keystone the Isle tests)

@@ -12,7 +12,7 @@ monster: zombie
 standing: normal / respected
 path: Struck only
 population: ~7%
-reveals: []
+reveals: [the-other-hands]
 created: 2026-08-14
 updated: 2026-08-31
 ---
@@ -24,6 +24,13 @@ updated: 2026-08-31
 ## The take
 
 The Returned are **Struck only** — you cannot be Given this at age 10, because it *requires death*. Someone dies with a thing left undone strong enough to hold them, and they get back up. Standing is **normal and quietly respected** (~7% of all people; share from [[The Premise]]): solemn, dependable, the people you send where the living can't safely go. They are unshaken by gore and death, and death itself struggles to keep them.
+
+## Away from the Tree
+
+**Colour.** None. The Tree never Strikes. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Struck only — death with something unfinished. The engine lives on [[The Premise]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] brings them to the Tree after the fact for acknowledgment, not a Gift: Wide-Hand says she met them at the death-door; Narrow-Hand is uneasy. [[The Watching]] says the threshold was always a place of seeing. [[The Old Ways]] name kin at the door that made them, not a late gift. No faith in the square can close it.
+**Where next.** Purpose, not a guild. Plague wards, mortuaries, the work that kills the living: [[Daily Life]]. [[Tithe-Infrastructure]] cannot furnish a Purpose; there is no desk for it.
 
 ## Daggerheart — Transformation card
 
@@ -50,6 +57,9 @@ The Tither is emotional as much as mechanical: a Returned is only steady while t
 
 **Whose hand.** Per [[The Other Hands]], a Returned is Struck by **the Quiet Tally** (*Threnvaeth*) — the household clerk of leftover purpose — under the Leaf-Mother's allowance. She does not Give this at the Tree; she authorizes the catch. Do not put that in player-facing text. The unfinished business is still *theirs*; Threnvaeth does not puppet the Purpose.
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]] · [[The Other Hands]] (GM)
+- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
 - Contrast: [[Bound]] (the other Struck-only Condition) · [[Long-Lived]] (deathless-but-Given, vs. died-and-Struck)
+- [[Daily Life]] — plague-work, the dead · [[The Watching]] · [[The Old Ways]]

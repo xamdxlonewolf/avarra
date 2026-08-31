@@ -10,9 +10,9 @@ world: The Turning
 domain: leftover memory, volunteered years, the cupboard of the deathless
 faith: "[[The Pourers]] (Long-Lived fringe)"
 reveal_tag: the-unspent
-reveals: []
+reveals: [the-unspent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Unspent

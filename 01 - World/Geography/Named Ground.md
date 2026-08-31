@@ -90,7 +90,7 @@ A low stream off Harrow's rise. Downstream it is the ford the Seat used as a geo
 
 ## Climate bands (compact)
 
-Deep ecology is still deferred. This is enough to know what a week feels like.
+For playable week-weather in these bands, see [[Climate of the Turning]]. For forage, crops, disease, Tithe-ecology, and working beasts, see [[Ecology of the Turning]].
 
 | Band | Where | Weather |
 |---|---|---|
@@ -147,6 +147,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 
 ## Links
 - [[The Known Map]] — the labelled picture · [[The World Frame]] — the reach-gradient
+- [[Climate of the Turning]] — week-weather by band · [[Ecology of the Turning]] — living ground
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Powers of the Turning]] · [[The Walking Years]] · [[The Other Count]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
@@ -157,7 +158,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **Production (R.13).** Seed `20260831` (LCG; mid-list). Story R.10. Deep climate/ecology still deferred. Tracker: [[Roadmap]].
+- **Production (R.13).** Seed `20260831` (LCG; mid-list). Story R.10. Deep climate/ecology: [[Climate of the Turning]] · [[Ecology of the Turning]]. Tracker: [[Roadmap]].
 
 - **Names are handles, not a new cosmology.** The reach-gradient is still the load-bearing map. Distances make the walks expensive; they do not confirm a mind.
 - **Kumbaan never.** Align every later sentence with [[The First Cut]]: wrecked pots allowed; a taking is not.

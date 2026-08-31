@@ -23,7 +23,7 @@ updated: 2026-08-31
 
 ## The take — the only one alive
 
-There is exactly **one Phoenix in the world at any moment** — never two. When the current one finally ends (spends their last life), the Tree gives the leaf to a single child, somewhere, and the next one begins. So a Phoenix isn't rare the way a good harvest is rare — they are **singular**, the one living person the whole world's phoenix-stories are currently *about*. Given only; no threshold can Strike one into being; the Tree names them once a generation or once an age, and then not again until they're gone.
+There is exactly **one Phoenix in the world at any moment** — never two. When the current one finally ends (spends their last life), the Tree gives the white-fire / opal leaf to a single child, somewhere, and the next one begins. So a Phoenix isn't rare the way a good harvest is rare — they are **singular**, the one living person the whole world's phoenix-stories are currently *about*. Given only; no threshold can Strike one into being; the Tree names them once a generation or once an age, and then not again until they're gone.
 
 This makes a Phoenix a **fault-line a whole city forms around.** In a single town they may be, all at once:
 - **Revered** — proof the Leaf-Mother is real, a living miracle paraded on holy days;
@@ -44,6 +44,13 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 **What the fire package is.** Full fire immunity, flaming flight, a Hope-cost attack, and a fourth death move. It is strong on purpose. The tax is social and finite. If the table wants the myth without that tax, they do not want this card.
 
 A hidden or captive Phoenix is a different seat. Player-agency rules: [[A Hidden Phoenix]].
+
+## At the Tree
+
+**Colour.** White-fire / opal — clergy-known from texts. Almost no living town has seen it fall. A warden who names it at a ceremony has just made history, and a problem. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Given only. No threshold can Strike one into being. The engine lives on [[The Premise]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a living miracle — proof, heresy, hunt, or hate, depending on the mouth. [[The Watching]] will describe the same fall as a seeing, not a mother's pick, and still send the runner. The square cannot confirm a cosmology; it can only watch.
+**Where next.** A town-warden does not guess. They send to the First Seat by runner ([[The Tree-Wardens]]). The child, if the Seat agrees, cannot hide.
 
 ## Daggerheart — Transformation card
 
@@ -72,8 +79,10 @@ Two engines, run them together: (1) the **count** — let everyone watch the Hop
 
 **One Gift.** There is never a second living Phoenix Condition while this one can still Rise. If play needs an apparent two, the leftover is not a Phoenix. See [[When the Fire Is Caught]]. The house that catches the fire is [[The Protectors]].
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]]
+- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
 - Contrast: [[Long-Lived]] (deathless and ageless vs. dies-and-returns-finitely) · [[Returned]] (refuses to stay down, one Purpose, no memory cost vs. true death + rebirth + memory cost) · both are the setting's other answers to "cheating death" — the Phoenix is the one that still, eventually, loses.
-- [[A Hidden Phoenix]] — the other seat
-- GM: [[When the Fire Is Caught]] · [[The Protectors]]
+- [[A Hidden Phoenix]] — the other seat · [[The Tree-Wardens]] — First Seat, the runner
+- [[The Watching]] — witness, not Mother

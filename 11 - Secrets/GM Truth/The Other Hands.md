@@ -7,10 +7,19 @@ tags: [secret, gm-truth, pantheon, struck, household, cosmology]
 aliases: [The Household, The Pantheon, The Lesser Hands, She Is Not Alone]
 reveal_tag: the-other-hands
 category: truth
-foreshadowed_by: [Is the Leaf-Mother Real]
+foreshadowed_by:
+  - "[[Is the Leaf-Mother Real]] — sits under; never fire first"
+  - "[[The Uncoloured Intake]] — Struck mouths that will not sit under one stamp (handout)"
+  - "[[The Child at Four Doors]] — four keepers; last lines disagree; not a roster"
+  - "[[The Leaf-Mother]] — Wide-Hand / Narrow-Hand split (both half-right)"
+  - "[[Faiths of the Turning]] — each rival holds a piece"
+  - "[[The Watching]] · [[The Watchers]] · [[Laevila]] — lintel / Before / a household not yet named Mother"
+  - "[[The Fair Hand]] · [[The Book-Hands]] — Counterparty real for Bound; faces disagree, clauses do not"
+  - "[[The Old Ways]] · [[The Door-Keepers]] — land-doors as guests she authorized"
+  - "[[The Open Table]] · [[Yumboe]] · [[The Sundering Isle]] — control: almost no Struck, no Given"
 revealed_in:
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Other Hands
@@ -131,7 +140,7 @@ The Isle remains the sharpest experiment: a people outside her Giving, barely in
 
 Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 
-1. **Struck testimony splits.** Some felt a mother. Some felt a clerk, a term, a deep, a holding, a green. The Motherfaith files all of it as "she caught them." The Old Ways and the Fair Hand file it as their own doors. Both filings are half-true.
+1. **Struck testimony splits.** Some felt a mother. Some felt a clerk, a term, a deep, a holding, a green. The Motherfaith files all of it as "she caught them." The Old Ways and the Fair Hand file it as their own doors. Both filings are half-true. Handout: [[The Uncoloured Intake]] — one stamp, mouths that will not sit under it. Do not complete the roster from the page.
 2. **A Returned who settles** sometimes speaks of a book closing — not a lap. Threnvaeth, if you are listening.
 3. **Bound faces disagree and the terms do not.** Demon, vast, unknown — the *clause* is the same shape. Orledd wearing masks.
 4. **The Watching's lintel** ("we kept the watch before the name") is about a *household*, not only a nameless Tree.
@@ -153,4 +162,6 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 - [[Phoenix]] is hers only — [[When the Fire Is Caught]] (one Gift; remnant is not a second Phoenix)
 - [[The Unspent]] — outside this roster; cannot Give or Strike
 - [[Yumboe]] · [[The Sundering Isle]]
-- [[The Premise]] · [[Roadmap]] · [[11 - Secrets]]
+- [[The Uncoloured Intake]] — deniable handout (not a pin)
+- [[Revelation Architecture]] · [[Reveal Index]]
+- [[The Premise]] · [[11 - Secrets]]

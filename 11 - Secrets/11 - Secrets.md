@@ -13,7 +13,9 @@ updated: 2026-08-31
 
 **GM ONLY.** The revelation architecture: mysteries, revelations, clues, contradictions, and GM truth. Each secret carries a `reveal_tag`; player-facing notes list what they expose via `reveals: []`.
 
-## Tag vocabulary (Story R.5)
+**Run it:** [[Revelation Architecture]] — firing order, what stays deniable, what confirmation does not include, fire plot without the keystone. **Find it:** [[Reveal Index]] — tag → secret → keyed notes.
+
+## Tag vocabulary
 
 | Tag | Use it when | Do not use it when |
 |---|---|---|
@@ -27,23 +29,29 @@ Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-e
 
 ## Contents
 
+### Procedure
+- [[Revelation Architecture]] — GM hub: two tracks (fire plot / cosmology), firing order, retrieval table (secret → pin → do-not-pair)
+- [[Reveal Index]] — every `reveal_tag` keyed; Bound / Returned carry `the-other-hands`; Phoenix hub stays untagged
+
 ### GM Truth
-- [[Is the Leaf-Mother Real]] — 🔒 **keystone secret** (`reveal_tag: leaf-mother-is-real`): she **is** real and benevolent; the Trees genuinely are her hands; the gifts are real; she is bounded and giving costs her. Skeptics are sincere and wrong about the mind. **Firing pin:** [[The Spent Leaf]] (held during a Giving) · desk: [[The Remainder]]. Rungs 1–5 stay deniable; rung 6 can fire. Consequences if it lands are on the secret. Exposed-by (clue, not confirmation): notes tagged `keystone-adjacent`.
-- [[The Other Hands]] — 🟡 **household elaboration** (`reveal_tag: the-other-hands`): she is first of a real pantheon; she **Gives** only; lesser gods Strike at restricted doors under her allowance. Each Hand has a positive want; Orledd's receive and allowance strain/break are stated. Kumbaan: no Gifts, rare Struck. Do not confirm in player-facing notes. Keyed on the player notes whose GM walls name the household.
-- [[The Unspent]] — 🟡 **lesser household presence** (`reveal_tag: the-unspent`): outside the Five Hands; cannot Give or Strike; accepts the Long-Lived fringe's invented mask (*the Poured God* / *the Cup We Made*). Congregation: [[The Pourers]].
-- [[When the Fire Is Caught]] — 🔒 **Phoenix slot** (`reveal_tag: when-the-fire-is-caught`): one Gift; the original self ends at the death they cannot Rise from; harvested fire can keep a remnant walking; a new white-fire leaf may fall unseen. Remnant is not a Phoenix. Harvesters: [[The Protectors]]. Hidden PC: [[A Hidden Phoenix]]. Opening: [[The Opening]].
+- [[Is the Leaf-Mother Real]] — **keystone secret** (`reveal_tag: leaf-mother-is-real`): she **is** real and benevolent; the Trees genuinely are her hands; the gifts are real; she is bounded and giving costs her. Skeptics are sincere and wrong about the mind. **Firing pin:** [[The Spent Leaf]] (held during a Giving) · desk: [[The Remainder]]. Rungs 1–5 stay deniable; rung 6 can fire. Household stays behind. Exposed-by (clue, not confirmation): notes tagged `keystone-adjacent`.
+- [[The Other Hands]] — **household elaboration** (`reveal_tag: the-other-hands`): she is first of a real pantheon; she **Gives** only; lesser gods Strike at restricted doors under her allowance. Each Hand has a positive want; Orledd's receive and allowance strain/break are stated. Kumbaan: no Gifts, rare Struck. Do not confirm in player-facing notes. **Never first; never with the Spent Leaf pin.** Handout: [[The Uncoloured Intake]].
+- [[The Unspent]] — **lesser household presence** (`reveal_tag: the-unspent`): outside the Five Hands; cannot Give or Strike; accepts the Long-Lived fringe's invented mask (*the Poured God* / *the Cup We Made*). Congregation: [[The Pourers]].
+- [[When the Fire Is Caught]] — **Phoenix slot** (`reveal_tag: when-the-fire-is-caught`): one Gift; the original self ends at the death they cannot Rise from; harvested fire can keep a remnant walking; a new white-fire leaf may fall unseen. Remnant is not a Phoenix. Harvesters: [[The Protectors]]. Hidden PC: [[A Hidden Phoenix]]. **Plot pin:** [[The Opening]] + [[The Closed Lamp]]. Fire plot runs without the keystone. Cosmology (she Gave the leaf) stays behind it.
 
 ### Clue objects (player notes; confirmation stays in GM walls)
-- [[The Spent Leaf]] — colourless remainder of a Giving
+- [[The Spent Leaf]] — colourless remainder of a Giving (keystone pin)
 - [[The Remainder]] — First Seat side-yard desk that keeps the box
+- [[The Closed Lamp]] — travelling-coal that answers two mouths (fire-plot object; not a leaf)
+- [[The Uncoloured Intake]] — gift-hall slips; one stamp, mouths that will not agree (household clue)
 - Six foreshadowing texts: [[The Leaf-Mother]] (Tender's blessing; Kept-child's saying) · [[The Child at Four Doors]] · [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child Who Climbed the Stone]]
 
 ### Contradictions (pass-two log)
-- [[Contradictions]] — residuals, conflicts, and quality gaps. Opened at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. C-05 resolved in passing with the campaign opening.
+- [[Contradictions]] — residuals, conflicts, and quality gaps. Opened at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. C-05 resolved in passing with the campaign opening. **Open: none.** Do not reopen C-01–C-05.
 
 ### Campaign (fires clues; does not rewrite the engine)
-- [[The Isolated Fall]] · [[The Opening]] — session one at [[Harrow's Green]]; remnant + unseen leaf; `when-the-fire-is-caught`
+- [[The Isolated Fall]] · [[The Opening]] — session one at [[Harrow's Green]]; remnant + unseen leaf; `when-the-fire-is-caught`. No Leaf-Mother proof. No Spent Leaf required.
 
 ## Related
-- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Faiths of the Turning]] · [[The Unspent]] · [[Roadmap]] · [[Epic R Completion Gate 2026-08-31]]
-- [[The Opening]] · [[A Hidden Phoenix]]
+- [[The Premise]] · [[Turning Tree]] · [[The Leaf-Mother]] · [[Faiths of the Turning]] · [[The Unspent]]
+- [[The Opening]] · [[A Hidden Phoenix]] · [[Conventions]]

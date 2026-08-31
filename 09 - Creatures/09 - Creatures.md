@@ -41,4 +41,5 @@ Settlement scene-dangers (cohort, crane, well-mouth) stay on the settlement note
 - [[The Premise]] — two-layer model
 - [[13 - Game]] — table rulings
 - [[Named Ground]] — travel times
-- [[Turning Tree]] — unsound wood is a miss, not a third outcome
+- [[Turning Tree]] — colours (canonical palette); unsound wood is a miss, not a third outcome
+- [[The Leaf-Mother]] — the faith around the Tree

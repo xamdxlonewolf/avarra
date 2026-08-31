@@ -7,7 +7,7 @@ status: active
 tags: [rule, phoenix, player-agency, character-creation]
 aliases: [Hidden Phoenix, Captive Phoenix, Phoenix PC Agency]
 world: The Turning
-reveals: []
+reveals: [when-the-fire-is-caught]
 created: 2026-08-31
 updated: 2026-08-31
 ---

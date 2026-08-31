@@ -15,13 +15,19 @@ updated: 2026-08-31
 
 > **What this is.** The pass-two log. Canon conflicts, residuals the completion gate would not silently close, and quality gaps `story-sense` routes. Resolve here or in the home note; do not start a parallel bible. Philosophy from `shared-world`; folders stay this vault's.
 
-**Opened:** 2026-08-31, at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. Pass one is complete. P2.1 is done. World book rebuilt on user request (C-02). Do not resume the old Epic 8 plan.
+**Opened:** 2026-08-31, at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. Pass one is complete. P2.1 is done. World book rebuilt on user request (C-02). Leftovers 1 / 3 / 9 closed 2026-08-31. Do not resume the old Epic 8 plan.
 
 **Diagnosis (`story-sense` / `worldbuilding`).** The setting is built. Remaining problems are hygiene and consistency, not a missing engine. Do not generate new powers, faiths, or liturgical names. Hub collisions found while writing [[The Opening]] are logged and fixed here — that is the sweep, done in passing.
 
 ## Open
 
 *None.*
+
+## Resolved with leftovers 1 / 3 / 9 (2026-08-31)
+
+| ID | What | Resolution |
+|---|---|---|
+| **C-06** | Reach-label "near-none" read as if Kumbaan might have a Tree ("few or no healthy Trees") | Gradient column stays **near-none** (no Giving system). Player geography now says **no Tree**; grafts never. [[The World Frame]] · [[The Sundering Isle]] · [[Climate of Kumbaan]] |
 
 ## Resolved by world-book rebuild (2026-08-31)
 

@@ -2,11 +2,11 @@
 title: 01 - World
 type: moc
 visibility: player
-note_status: stub
+note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # 01 - World
@@ -19,6 +19,8 @@ The physical setting as its inhabitants understand it — geography, climate, ec
 - **[[Named Ground]]** — waters, the Rain-Wall, four rivers, travel times
 - **[[The Known Map]]** — the labelled picture
 - **Continents:** [[Maiethorn]] (Motherland) · [[Strandoren]] (Shore-lands) · [[Heskoren]] (Sundered Reach) · [[The Sundering Isle]] (Yumboe homeland)
+- **Climate:** [[Climate of the Turning]] — seasons and the eight weather bands · [[Climate of Maiethorn]] · [[Climate of Strandoren]] · [[Climate of Heskoren]] · [[Climate of Kumbaan]]
+- **Ecology:** [[Ecology of the Turning]] — forage, crops, disease, Tithe-ecology, and working beasts
 - **Powers:** [[Powers of the Turning]] — the fifteen
 - **Sky & time:** [[The Reckoning of the Year]] — the calendar, the solstice, Turning-Week, the twelve months + Kumbaan's moons; Cut-years in [[The Ages of the Turning]]
 

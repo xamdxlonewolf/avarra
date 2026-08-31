@@ -25,7 +25,14 @@ updated: 2026-08-31
 
 One of the Stilled has a gaze that can hold a moment still — a bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. This is why **peacekeepers** want them on a riot line (a stilled brawl is a brawl that didn't turn into a massacre) and why **surgeons and medics** want them in the theatre (a patient held perfectly still is a patient who survives the knife). Feared and **guild-regulated** (~7% of all people; share from [[The Premise]]) rather than simply revered: the same gaze that stops a wound bleeding can, misused or lost to anger, hold a person still forever — so licenses, oversight, and a strict code govern who may still and why. Old folklore's snake-hair survives as flavor, not mechanics: hair stirs faintly when something nearby has gone dangerously still — a held breath, a nocked arrow, a predator about to spring — a tell their trade has learned to read.
 
-**Both paths, and they read differently.** About six parts in seven are **Given**: they drew the colour at the Awakening and trained young under guild discipline — knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. About one part in seven is **Struck**: they actually **survived being turned to stone** — held rigid, unbreathing, for however long it took someone to reverse it — and came back with the stillness now living inside them, unpracticed and closer to the surface. Same Condition, very different person at the table.
+**Both paths, and they read differently.** About six parts in seven are **Given**: they drew the pale-stone / marble-white at the Awakening and trained young under guild discipline — knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. About one part in seven is **Struck**: they actually **survived being turned to stone** — held rigid, unbreathing, for however long it took someone to reverse it — and came back with the stillness now living inside them, unpracticed and closer to the surface. Same Condition, very different person at the table.
+
+## At the Tree
+
+**Colour.** Pale stone / marble-white — folk-known, and feared; the warden says it carefully. A Struck Stilled has no leaf. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
+**Path.** Both — most Given, a few Struck by surviving being turned to stone. The engine lives on [[The Premise]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a hard gift, licensed because the same gaze that saves can hold a person forever. [[The Watching]] names a seeing of stillness, made civic — a witness, not a mother's pick. A Struck Stilled is a threshold the Motherfaith argues over; [[The Old Ways]] take them back to the door that made them and name them kin.
+**Where next.** [[The Stillers]] — the strictest ticket, the infirmary, the drill-yard. A raw Gaze goes to [[The Intake]].
 
 ## Daggerheart — Transformation card
 
@@ -55,6 +62,10 @@ The door is **surviving being turned to stone** — petrified by another of the 
 
 Keep the seizing strictly self-directed — the Stilled's own limb, or harmless scenery, never another PC's autonomy or a forced action. **Stilled is not Restrained.** Restrained only stops movement; Stilled stops acting. Do not apply both unless some other effect earned Restrained. The unwilling Gaze needs a hit: a miss still costs the Grey token (the stillness left you). A Struck Stilled's first, unpracticed use of the gaze (probably on someone they love, probably by accident) is formative-story material, not a punishment. A Given Stilled deep in Grey-debt on a riot line or in an operating theatre is a slow-building set-piece, not a gotcha.
 
+Tracker: [[Build Plan]].
+
 ## Links
-- [[Conditions]] · [[The Premise]] · [[Build Plan]]
+- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
 - Contrast: [[Far-Voiced]] (the other Both-path, guild-managed Condition — voice that betrays feeling vs. gaze that arrests motion) · [[Returned]] (unshaken by death/the dying vs. clinical calm under the knife)
+- [[The Stillers]] — ticket and yard · [[The Intake]] — a raw Struck Gaze
+- [[The Watching]] · [[The Old Ways]]

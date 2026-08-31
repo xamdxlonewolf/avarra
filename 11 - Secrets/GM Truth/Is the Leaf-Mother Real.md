@@ -18,6 +18,8 @@ foreshadowed_by:
   - "[[The World Frame]] · [[Heskoren]] · [[The Sundering Isle]] — the edge on a map"
   - "[[The Spent Leaf]] — firing pin"
   - "[[The Remainder]] — the desk that has the box"
+  - "[[The Wrong Green]] — the rite does not take instruction from a want"
+  - "[[The Uncoloured Intake]] — Struck mouths filed as one catch (deniable; household stays behind)"
 revealed_in:
 created: 2026-08-19
 updated: 2026-08-31
@@ -89,6 +91,7 @@ If the Seat **buries** the leaf instead: business as usual; rungs 1–5 still wo
 - **"A kind god would save everyone."** The new misreading the constraint invites — that a *bounded* mother isn't really benevolent. In-world this is a real theological wound (see the schism); at the design layer it is the point, not a bug: she is kind *and* finite, and the gap between them is where the grief lives. Don't let players "solve" it into either omnipotence or indifference.
 - **The dark reading** — that a benevolent front hides a harvest/betrayal. This setting **rejects** that (see design intent). A GM who wants horror can house-rule it, but it is off-canon here; the whole point of the locked answer is that the floor is *sound* — bounded, costly, and grieving, but sound.
 - **"The Spent Leaf is harvested fire / a second Phoenix / proof she is dying."** Reject. It is a remainder of a Giving, not [[When the Fire Is Caught]]. She spends; she is not being farmed. Do not braid the pin to the harvesters.
+- **"The Closed Lamp is a leaf / uncounted fall / the same remainder."** Reject. Metal and a banked coal. Different pin, different track.
 
 ## Consequences for build (what this constrains downstream)
 
@@ -105,5 +108,6 @@ If the Seat **buries** the leaf instead: business as usual; rungs 1–5 still wo
 - [[The Other Hands]] — the household elaboration (she Gives; they Strike)
 - [[The Spent Leaf]] — the firing pin · [[The Remainder]] — the desk
 - [[The Unspent]] — lesser household presence; not a Hand; cannot fire this secret
+- [[Revelation Architecture]] — how this fires in play · [[Reveal Index]]
 - [[11 - Secrets]] · [[07 - Religion]]
 - Downstream: [[Turning Tree]] · [[The Leaf-Mother]] · [[The Tree-Wardens]] · [[Faiths of the Turning]] · [[The Ages of the Turning]]

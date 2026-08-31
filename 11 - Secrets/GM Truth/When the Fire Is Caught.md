@@ -7,7 +7,16 @@ tags: [secret, gm-truth, phoenix, cosmology]
 aliases: [The Phoenix Remnant, The Empty Slot, Caught Fire]
 reveal_tag: when-the-fire-is-caught
 category: truth
-foreshadowed_by: []
+foreshadowed_by:
+  - "[[The Opening]] — remnant + unseen leaf already on-screen; fire plot without the keystone"
+  - "[[The Isolated Fall]] — campaign hub"
+  - "[[The Closed Lamp]] — fire that answers two mouths (object; not a leaf)"
+  - "[[The Protectors]] — sanctuary that will not produce the one"
+  - "[[A Hidden Phoenix]] — Hope scars without memories; leftover is not this card"
+  - "[[Taeren]] — hush; unseen-leaf seat if no PC holds it"
+  - "[[Rosire]] — door that opened; carries the lamp"
+  - "[[Harrow's Green]] — square that will not Speak white"
+  - "[[The Wrong Green]] — white-fire's quiet cousin (Speaking vs Gift)"
 revealed_in:
 created: 2026-08-30
 updated: 2026-08-31
@@ -53,13 +62,13 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 
 ## How It Surfaces (clues, in order)
 
-Keep this behind the keystone. Do not lead with a second bird.
+**Plot (1–4) may run without the keystone.** [[The Opening]] already puts 1–4 on-screen. Do not lead with a second bird. Do not require [[The Spent Leaf]]. Cosmology (that she Gave the leaf) stays behind the keystone. Clue 5 stays late.
 
 1. **Hope scars without memories.** A Phoenix (or something that burns like one) has more crossed slots than lives they can name.
 2. **A sanctuary that will not produce the Phoenix.** The world is told the one is being kept safe. No town has seen them in a generation.
 3. **A white-fire fall that was never Spoken.** A far warden's letter, a hush, a runner who did not arrive.
-4. **Fire that answers a child and an old name at once.** The stored fire knows both. That is the tell, not a second Gift.
-5. **The confirming beat (late, GM's to place).** The remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. Warmth with a theft under it. Not a harvest-god reveal.
+4. **Fire that answers a child and an old name at once.** The stored fire knows both. That is the tell, not a second Gift. Object: [[The Closed Lamp]] — lean, two mouths, then tea. Not a leaf. Not [[The Spent Leaf]].
+5. **The confirming beat (late, GM's to place).** The remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. Warmth with a theft under it. Not a harvest-god reveal. Do not fire this in session one. The plot does not need it. The plot does not need the keystone.
 
 ## Player Misreadings
 
@@ -67,6 +76,7 @@ Keep this behind the keystone. Do not lead with a second bird.
 - **"The Tree made a mistake."** Wrong. The slot was empty. The leaf was on time.
 - **"The remnant is the real Phoenix and the child is a fraud."** The useful lie. The harvesters need it. It is backwards.
 - **"She stopped Giving white-fire."** Incomplete. She (or the Tree, if you are still unconfirmed) Gave. The record was kept from seeing it.
+- **"The Closed Lamp is a Spent Leaf / harvested-fire-as-leaf."** Reject. Brass and a banked coal. The colourless remainder is a different pin. Do not braid them.
 
 ## Links
 - [[Phoenix]] — the card this sits under
@@ -75,4 +85,6 @@ Keep this behind the keystone. Do not lead with a second bird.
 - [[The Other Hands]] — Phoenix is hers only; no Other Hand Gives it
 - [[The Protectors]] — the harvesters · [[A Hidden Phoenix]] — PC agency · [[The Opening]] — the opening
 - [[Taeren]] · [[Rosire]] — mouths, not the house
+- [[The Closed Lamp]] — plot object · [[The Spent Leaf]] — do not braid
+- [[Revelation Architecture]] — fire plot may run without the keystone · [[Reveal Index]]
 - [[11 - Secrets]]

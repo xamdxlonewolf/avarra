@@ -142,7 +142,8 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 - [[Faiths of the Turning]] — the other faiths that share or refuse this Tree
 - [[The Premise]] — the locked engine (Given / Struck / Kept, population math, the Tithe)
 - [[Is the Leaf-Mother Real]] — GM keystone truth this note points at
-- [[Conditions]] — what can be Given · [[Build Plan]] · [[Roadmap]]
+- [[Conditions]] — what can be Given · roster: [[Long-Lived]] · [[Two-Bodied]] · [[The Answered]] · [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]] · [[Phoenix]] · no colour: [[Returned]] · [[Bound]] · [[The Unbound]]
+- [[Build Plan]] · [[Roadmap]]
 - [[The Ages of the Turning]] — when there was only the one Tree; [[The First Cut]] — how the wood travelled; [[The Walking Years]]
 - [[The Wrong Green]] — the cited mis-Speaking (Harrow's, C.Y. 248)
 - [[The Open Table]] — the mainland lintel that can spend a tenth-year week
