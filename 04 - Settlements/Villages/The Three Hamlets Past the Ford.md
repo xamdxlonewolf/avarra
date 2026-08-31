@@ -131,6 +131,7 @@ Moved from the player-facing body during residual export polish:
 - **Seam, not a planet-of-hats.** All four voices (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate) can sit in one week. Do not assign one polity per hamlet as a costume. Brenod leans sending, Vaelun leans refusal, Ornath leans the other road — leans, not flags.
 - **Hearths, not Kind-quarters.** Taken-In ground in Vaelun is old plot, not a leshy village. Mixed Kinds in all three.
 - **Hooks.** A borrowed Turning whose Harrow-witness will not walk back; a folk-right slip that took; a first meal a Road-hand ate or refused; a Kept child asked what they lacked; an unvouched Struck and a congregation deciding; the stone in Harrow's square climbed by a hamlet child; the cup; a clerk who writes Brenod on a leave and starts a fight about which green; Ornath walking toward slate.
+- **Opening:** [[Taeren]] is a Brenod mouth this Hale-month, not a fourth kitchen-speaker. Tora still wants the walk. Do not make Tora a Phoenix plotter. Kit: [[The Opening]].
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[Harrow's Green]] (Tora at the stone) · [[The Child Who Climbed the Stone]]

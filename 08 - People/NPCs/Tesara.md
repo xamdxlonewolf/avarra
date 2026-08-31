@@ -13,7 +13,7 @@ location: "[[Orentel]]"
 role: Intake clerk; catching-year
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Tesara
@@ -56,7 +56,7 @@ Lestrand prices the emergency. A raw Struck who cannot stamp a fee is still take
 
 - **[[Valen]]** — raw [[The Stilled|Stilled]]. Sister stood. First drill held. No forever. No ticket. Tesara wants the year, not the silence. The job wants the silence.
 - **The paying floor** — wants the master back. A quiet catching-year is a week the theatre lost.
-- **[[Rosire]]** — works the ticket-infirmary downwind. Has brought water. Has not said why they flinch at a prepared room.
+- **[[Rosire]]** — used to bring water downwind. Not on the floor this Hale-month. Tesara has not been told why.
 - **[[Mataero]]** — if Valen lives and has no ticket, they will need a loft. Occupancy will not say *Struck*.
 - **[[The Slide]]** — overflow if the week fails. Tesara wants Valen *safe enough to leave.* A week-keeper wants them *not-fallen enough to stay.* Do not clone.
 - **[[Didel]]** — has hauled a person to this door once. Will not haul a rope.
@@ -69,6 +69,7 @@ Lestrand prices the emergency. A raw Struck who cannot stamp a fee is still take
 - **Competing interests:** the floor (silence); the watch (gone); Valen's sister (a person she can stand next to); the house (a debt); the Slide (a week); Mataero (a bed that does not say why).
 - **Clock:** Struck later. Did not walk. Does not think the wave is over; thinks the next raw is three days out.
 - **Do not** make Intake a circuit or a nicer Slide. Do not stamp the ticket this week unless the story has earned a house breaking its own rule — and then make it cost the charter.
+- **Rosire is not here this Hale-month.** Opening sits at [[Harrow's Green]] ([[The Opening]]). Valen's week is still Tesara's want. Do not pull Tesara to the live front to tidy the infirmary-hand.
 - **Wrong office:** Bound, Taken-In, Returned, Two-Bodied, Long-Lived. Valen is a Gaze. Keep it.
 
 ## Links

@@ -15,15 +15,21 @@ updated: 2026-08-31
 
 > **What this is.** The pass-two log. Canon conflicts, residuals the completion gate would not silently close, and quality gaps `story-sense` routes. Resolve here or in the home note; do not start a parallel bible. Philosophy from `shared-world`; folders stay this vault's.
 
-**Opened:** 2026-08-31, at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. Pass one is complete. Do not resume the old Epic 8 plan until this sweep has a next story.
+**Opened:** 2026-08-31, at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. Pass one is complete. P2.1 is done. Do not resume the old Epic 8 plan.
 
-**Diagnosis (`story-sense` / `worldbuilding`).** The setting is built. This is evaluation, not invention. Remaining problems are hygiene and consistency, not a missing engine. Route scaffolding-as-second-narrator to a polish pass (P2.1), not to `systemic-worldbuilding`. Do not generate new powers, faiths, or liturgical names.
+**Diagnosis (`story-sense` / `worldbuilding`).** The setting is built. Remaining problems are hygiene and consistency, not a missing engine. Do not generate new powers, faiths, or liturgical names. Hub collisions found while writing [[The Opening]] are logged and fixed here — that is the sweep, done in passing.
 
 ## Open
 
 | ID | Kind | What | Home | Route |
 |---|---|---|---|---|
 | **C-02** | Stale compile | World book still has *Eolstrand*, *Aeloren*, and "Confirming she is real" guild lines | `14 - Assets/Documents/Setting Book/` | Do **not** rebuild unless asked. Not a vault leak. |
+
+## Resolved in the opening (2026-08-31)
+
+| ID | What | Resolution |
+|---|---|---|
+| **C-05** | Seed geography vs one-square opening | [[Taeren]] said "thin Tree off the live front, not of Harrow's"; [[Rosire]] sat Tesara's shed in [[Orentel]]. Session one needed one existing square, both seeds on-screen, no new town, no Care-fortress. **Sat:** [[Harrow's Green]], Hale-month C.Y. 387. Taeren is of Brenod; the fall was last Eolthael's neighbour's week; they are still in the square because Haelin will not Speak white and the witness never walked home. Rosire left Tesara's floor and lodges the upper room with the walker. Tesara notices the absence and stays in Orentel. [[Reimaethe]] and [[Hithaen]] stay offstage. Kit: [[The Opening]]. |
 
 ## Resolved in P2.1
 
@@ -45,10 +51,10 @@ updated: 2026-08-31
 ## What this log is not
 
 - A place to re-litigate locked engines.
-- A queue for Epic 10's campaign opening.
 - A reason to name the cutter, date the Tree, or add a sixteenth power.
 
 ## Links
 - [[Epic R Completion Gate 2026-08-31]]
+- [[The Opening]] · [[The Isolated Fall]]
 - [[Is the Leaf-Mother Real]] · [[11 - Secrets]]
 - [[Roadmap]] · [[Build Plan]] · [[Conventions]]

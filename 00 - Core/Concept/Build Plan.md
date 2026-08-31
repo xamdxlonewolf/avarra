@@ -18,13 +18,15 @@ updated: 2026-08-31
 
 ## Active next
 
-**[[Roadmap#Pass two — verification|Pass two]] — Story P2.1 complete (2026-08-31); awaiting direction.** Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]]. Do not decompose the later verification stories or start Epic 10 without instruction.
+**[[Roadmap#Epic 10 — Campaign|Epic 10]] — Story 10.1 done (2026-08-31).** Opening kit: [[The Opening]]. Campaign hub: [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing).
 
 **Gate (2026-08-31).** Every non-green finding in [[Editorial Audit 2026-08-29]] maps to R.1–R.13 or a recorded decision. Keystone confirmation is off the player body. The gate recorded residual scaffolding as C-01 rather than reopening R.13; P2.1 has now resolved it. Infernis + Bound stack ([[At the Table]]). Haelin is an alias of [[Harrow's Green]]. Thuda stays an on-page mouth.
 
 **P2.1 (2026-08-31).** C-01 is resolved: residual Story/pass numbers, canon-status blocks, and clone/rebuild directives moved under GM walls in history, faction, settlement, and player MOC notes. User chose to keep liturgical names visible while moving 🟡 and taste-open status to GM Notes; no names were locked or changed. Skill-name wikilinks were repaired; atlas embeds remain GM production aids. The world book was untouched.
 
-**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; start Epic 10's campaign opening; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan.
+**10.1 (2026-08-31).** Session one sits at [[Harrow's Green]]. On-screen: remnant-walker + [[Rosire]] + new Gift ([[Taeren]] XOR a PC in that seat). Pourer and Walled-Book heir offstage. Five key moments, mystery first. No Leaf-Mother reveal. No Care-fortress.
+
+**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked.
 
 Two clocks stand. Cutter unpicked. World book stays untouched.
 
@@ -45,7 +47,7 @@ Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fres
 - **Name:** _The Turning_. Everyday register; "The Turning Lands" is regional phrasing.
 - **Engine and math:** Given / Struck / Kept as above. Shares live only on [[The Premise]]. Unbound is inside Bound's ~5%. Returned ~7%. Both-path Struck ~1% of all people each.
 - **Condition cards do not level.** Tithe clocks tick on a **long rest** unless a card names another trigger. → [[Conditions]]
-- **One Phoenix Gift.** Never two living Phoenix Conditions. Apparent two = leftover fire + a new Gift. Remnant is not a Phoenix. → [[When the Fire Is Caught]]. Fire immunity stays full. Hidden PC agency → [[A Hidden Phoenix]]. Opening → Epic 10.
+- **One Phoenix Gift.** Never two living Phoenix Conditions. Apparent two = leftover fire + a new Gift. Remnant is not a Phoenix. → [[When the Fire Is Caught]]. Fire immunity stays full. Hidden PC agency → [[A Hidden Phoenix]]. Opening → [[The Opening]].
 - **Vampire sink:** Long-Lived can have children; none are guaranteed to inherit. Deathless, not unkillable.
 - **Kind-hearths, not Kind-nations.** Stock ancestries lean; they do not own continents. Four customs keep three features. Stock (and stock-and-stock mixes) take a [[Kind Heritage|Hearth-Mark]]. Mixed Ancestry as the SRD (Top + Bottom; no hearth feature). [[Yumboe]] PCs need GM leave and are always the full Kind. "Cannot be caught off guard" once, on [[Tengu|The Mountain's Mood]].
 - **Person-naming:** named by *place*; hearth-registers *Kusawe · Sakoa · Gonan* + Yumboe. Speak the common name; write the liturgical name. New liturgical coinage is frozen. → [[Naming People in the Turning]] · [[The Old Tongue]] · [[Naming Tools]]
@@ -80,6 +82,7 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - [[Roadmap]] — tracker · [[The Premise]] — design hub · [[Conventions]] — schema and export
 - [[Epic R Completion Gate 2026-08-31]] · [[Contradictions]]
 - [[At the Table]] · [[Kind Heritage]] · [[Conditions]] · [[A Hidden Phoenix]] · [[Dangers of the Turning]]
+- [[The Opening]] · [[The Isolated Fall]]
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]] · [[When the Fire Is Caught]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]
 - [[The Old Tongue]] · [[Naming Tools]] · [[00 - Core]]

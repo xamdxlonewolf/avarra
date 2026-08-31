@@ -135,5 +135,5 @@ The load-bearing sentences, for when you cannot open the table:
 - **This note compiles; it does not reopen.** One-week door, once-only standing, unTurned ≠ Kept, no level scaling, tickets ≠ census, no Kumbaan graft. If a procedure here and a home note disagree, the home note wins and this page is wrong.
 - **Kept tradeoff is the lock.** Do not add a Kept Experience or a "wanted" feature in play to make someone feel they skipped a card. The empty clock is the design. Optional house rules stay optional and stay off this page.
 - **Struck-in-play is opt-in.** A failed death move can *offer* Returned. It does not assign it. Same for a drowning and Far-Voiced, a contract and Bound. The player takes the card or they don't.
-- **Phoenix consent stays on the public card.** Hidden-Phoenix agency is [[A Hidden Phoenix]]. Campaign opening is still Epic 10.
+- **Phoenix consent stays on the public card.** Hidden-Phoenix agency is [[A Hidden Phoenix]]. Opening kit: [[The Opening]].
 - **Scaffolding stays here.** Story numbers, "do not rebuild," and the audit trail do not belong on player procedure.

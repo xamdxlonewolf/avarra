@@ -27,7 +27,7 @@ There is still **one Gift**. These are two ways to sit in that slot. They are no
 | **The walker** | The Gift that left a prepared room. You can still Rise. You are the one. | Hope scars you cannot account for. Missing deaths. A world that says the one is safe indoors. |
 | **The unseen leaf** | A new Gift that fell where no Speaker wrote it. You can still Rise. You are the one. | Few or no scars yet. The stories are still about an older name. Something in a far house still burns like you. |
 
-Session zero picks the shape. The campaign's opening — who walks, who stays, which town notices — is a later conversation. Do not pair this sheet to a named NPC as if the road were already walked.
+Session zero picks the shape. Do not pair this sheet to a named NPC as if the road were already walked.
 
 If you cannot Rise (last Hope slot already gone), you are not a Phoenix PC. That leftover is not this card.
 
@@ -106,7 +106,7 @@ The other players committed to a campaign that will arrive at fire. They did not
 
 - A second Transformation card. Use [[Phoenix]].
 - Permission for two living Gifts. Apparent two is leftover fire next to a Gift. The leftover is not a PC on this card.
-- The campaign opening. Who notices, which town, which helper — later.
+- The campaign opening. This page still does not staple you to a named NPC.
 - A licence to confirm the Leaf-Mother in play to explain a scar.
 
 ## Links
@@ -119,8 +119,8 @@ The other players committed to a campaign that will arrive at fire. They did not
 
 - **Engine is [[When the Fire Is Caught]].** One Gift. Original self ends at the death they cannot Rise from. Harvested fire can force a Rise on a *captive* and take that death's memory; it can keep a remnant walking after the Gift ends. **A PC is never forced to Rise.** If this PC can still Rise, they *are* the one Gift. A remnant in the same campaign is leftover fire, not a second card. Two Gifts at once is not legal.
 - **Stored fire = facts, not meaning.** Use the list in the body. Do not let banked fire lecture. Do not let it confirm her. Do not let it name [[The Protectors]]' harvest in player-facing narration until the table is ready for that fight; the public sentence is still "the one is in care."
-- **Walker vs unseen leaf.** Both legal. Epic 10 picks the opening. [[Taeren]] and [[Rosire]] are mouths, not this sheet. Do not staple the PC to those notes. Do not decide off-page whether the walker from the sanctuary was remnant or Gift so you can tidy a reunion.
-- **Starting scars.** 1–3 for a walker keeps the Dwindling visible without spending the last slot. Zero for an unseen leaf is correct. If you want a remnant *and* a PC, the remnant is the NPC and the PC is the new leaf — or the PC is the Gift that walked and the remnant is what the house still shows guests. Never the other way around on a PC sheet.
+- **Walker vs unseen leaf.** Both legal. **This opening uses unseen leaf + remnant walker.** Kit: [[The Opening]], at [[Harrow's Green]]. [[Taeren]] holds the new-Gift seat *or* a PC does, not both. The walker on-screen is leftover fire, not a PC on this card. Do not staple the PC to Taeren's name. Do not run a walker-PC who can still Rise on top of Taeren as a second Gift. That shape remains a different opening.
+- **Starting scars.** 1–3 for a walker keeps the Dwindling visible without spending the last slot. Zero for an unseen leaf is correct. If you want a remnant *and* a PC, the remnant is the NPC and the PC is the new leaf — or the PC is the Gift that walked and the remnant is what the house still shows guests. Never the other way around on a PC sheet. This opening is remnant-NPC + new-leaf.
 - **Fragments are positional, not destined.** Offer them through rooms, scars, and other people's needs (`positional-revelation`): a guest's missing hour, a hush-letter, fire that answers two names. Do not write the PC's Lie for them. `character-arc` stays theirs.
 - **Tone.** ~5% scary. The wrongness is a prepared death and a house that calls it care. It is not a harvest-god, not a second cosmology, and not a Tithe that seizes the PC.
 - **Public Phoenix vs this page.** If the table wanted the fishbowl, use the card's table note and skip this sheet. If they want hidden, the recognition tax is *partial*: furled wings pass; flight and Kindle do not. Do not run both taxes at full and call it fair.

@@ -10,12 +10,12 @@ category: truth
 foreshadowed_by: []
 revealed_in:
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # When the Fire Is Caught
 
-> **Story R.2 lock.** This settles the apparent-second-Phoenix problem without touching the one-Gift rule. The harvesters are [[The Protectors]]. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. It does **not** plot the campaign opening (that is Epic 10).
+> **Story R.2 lock.** This settles the apparent-second-Phoenix problem without touching the one-Gift rule. The harvesters are [[The Protectors]]. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. Opening kit: [[The Opening]].
 
 > **Do not put this in a player-facing note.** Player-facing [[Phoenix]] still reads: there is one, they Rise until they cannot, then a leaf falls.
 
@@ -48,8 +48,8 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 - Do not let the remnant count as a Phoenix for Leaf-Fall, law, or the roster.
 - [[The Protectors]] catch the fire. They use this engine; they do not rewrite it.
 - A hidden Phoenix PC: [[A Hidden Phoenix]]. If that PC still has a Rise left, they *are* the one Gift. A second leaf waits. If the opening needs an apparent two, the walker from the sanctuary is the remnant.
-- Epic 10 may pick which opening to run. Both are legal. Two Gifts at once is not.
-- Story R.8 seeded mouths only: [[Taeren]] (a hush at a thin Tree) and [[Rosire]] (a door that opened). Do not plot the opening on those notes.
+- **Opening picked:** [[The Opening]] sits remnant-walker + unseen leaf at [[Harrow's Green]]. Taeren *or* a PC occupies the new-Gift seat, not both. Two Gifts at once is not. The walker-PC-who-can-still-Rise shape remains legal as a *different* opening; do not run it on top of this kit.
+- [[Taeren]] (Brenod hush at the neighbour's canopy) and [[Rosire]] (door that opened; Harrow's upper room this Hale-month) are mouths. Plot lives on the opening kit, not on those notes.
 
 ## How It Surfaces (clues, in order)
 
@@ -73,6 +73,6 @@ Keep this behind the keystone. Do not lead with a second bird.
 - [[Turning Tree]] — white-fire row; a Spoken fall is history and a problem
 - [[Is the Leaf-Mother Real]] — do not confirm her in player text to explain the slot
 - [[The Other Hands]] — Phoenix is hers only; no Other Hand Gives it
-- [[The Protectors]] — the harvesters · [[A Hidden Phoenix]] — PC agency · Epic 10 the opening
-- [[Taeren]] · [[Rosire]] — R.8 seeds, not the house
+- [[The Protectors]] — the harvesters · [[A Hidden Phoenix]] — PC agency · [[The Opening]] — the opening
+- [[Taeren]] · [[Rosire]] — mouths, not the house
 - [[11 - Secrets]]

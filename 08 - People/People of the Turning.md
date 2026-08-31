@@ -68,7 +68,7 @@ Not a party. Paper, beds, pots, and one week in Eolthael.
 - [[Thilim]] still holds a far-cape name the White Note does not. A court that wants a Cut-year on a house-year writes inland and to the quay. The two answers will not match. They do not travel to deliver them.
 - [[Reimaethe]] pours years in a rise-room [[Mataero]] lets. That is occupancy. It is also a later house.
 - [[Hithaen]] arrived in the gift-hall with no list behind them. [[Vaethod]] can tell a mouth that came to wait from a clerk. They have not yet decided which this is.
-- [[Rosire]] works the ticket-infirmary downwind of [[Tesara]]'s shed. They want to be forgotten. The shed does not know why.
+- [[Rosire]] works a ticket-infirmary downwind of [[Tesara]]'s shed when they are in [[Orentel]]. This Hale-month they are not. Tesara has not been told why.
 
 [[Ledan]] still writes the quay-desk. They are a mouth, not a seventh pivot. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the mouth that walks the witness home.
 
@@ -88,14 +88,14 @@ Not a second court. Squares that needed a second shape.
 
 ## Four campaign seeds
 
-Later openings. Not plotted here. The houses exist. Do not grow the four into a crew.
+The houses exist. Do not grow the four into a crew.
 
 | Seed | Person | What they want now | Where they stand |
 |---|---|---|---|
 | Volunteer who wants out | [[Reimaethe]] | stop before the fifth year | a rise-loft, Orentel |
 | Disinherited Given heir | [[Hithaen]] | a life that is not a wall-pass | Eolvaeth gift-hall |
-| Hidden second fire | [[Taeren]] | not to be seen as a story | a thin Tree, not a seat |
-| The one who opened a door | [[Rosire]] | the child gone, themselves forgotten | Orentel ticket-infirmary |
+| Hidden second fire | [[Taeren]] | not to be seen as a story | of Brenod; still at [[Harrow's Green]] after last Turning-Week |
+| The one who opened a door | [[Rosire]] | the child gone, themselves forgotten | of Orentel; Harrow's upper room this Hale-month |
 
 ## GM Notes
 
@@ -110,7 +110,7 @@ Moved from the player-facing body during residual export polish:
 - **Constellation, not a party.** Intersections are structural (same week, same paper, same square). If the table has them all sit down together you have built a crew. Don't.
 - **Non-Tree wants are load-bearing.** The audit's hole was a world where nobody wanted money, love, revenge, or a stall. If a session only asks them about the wood, you are running the old furniture.
 - **Two clocks.** Someone who walked ([[Thilim]] as the inn; [[Laevila]] as a child under Thaeloren). Someone who did not. Someone who thinks the wave is over ([[Mataero]]). Someone still sending ([[Vaethod]]). The live front is Haelin's, pointed at, not cloned into a seventh pivot.
-- **Seeds stay seeds.** [[Reimaethe]] is a mouth of [[The Pourers]], not the house. [[Hithaen]] is a mouth of [[The Walled Book]], not the Book. [[Taeren]] and [[Rosire]] sit under [[The Protectors]] and [[When the Fire Is Caught]]; they are not Epic 10. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. This page only puts four mouths on the ground.
+- **Seeds stay seeds.** [[Reimaethe]] is a mouth of [[The Pourers]], not the house. [[Hithaen]] is a mouth of [[The Walled Book]], not the Book. [[Taeren]] and [[Rosire]] sit under [[The Protectors]] and [[When the Fire Is Caught]]. Opening kit: [[The Opening]] — those two on-screen at Harrow's; Reimaethe and Hithaen stay in their squares. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. This page still does not grow four mouths into a crew.
 - **Do not add a Given-Over broker here.** That face is [[The Holding Desk]]. Sold vouching is [[The Standing Trade]] — an alley [[Didel]] has heard of, not a seventh pivot.
 - **Threnmaieth instruments** live on [[The Reckoned Offices]] (Menirein · Tarvae · Videm · Sirtal). [[Rithim]] is already the local Speaker. Do not invent a second registrar to tidy them.
 
@@ -123,4 +123,5 @@ Moved from the player-facing body during residual export polish:
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[The Pourers]] · [[The Walled Book]] · [[The Protectors]] · [[The Reckoned Offices]]
 - [[When the Fire Is Caught]] — engine under [[Taeren]] / [[Rosire]], GM
-- [[Naming People in the Turning]] · [[08 - People]] · [[Roadmap]] (Story R.8; R.11)
+- [[The Opening]] · [[The Isolated Fall]]
+- [[Naming People in the Turning]] · [[08 - People]] · [[Roadmap]]

@@ -25,10 +25,10 @@ updated: 2026-08-31
 | | |
 |---|---|
 | **Want** | Room in the square for Leaf-Fall. Water still on the stone. A neighbour's week that can walk home. |
-| **Have** | A live Hand, a stone Haelin wants moved, an upper room, the Wrong Green letter. |
+| **Have** | A live Hand, a stone Haelin wants moved, an upper room, the Wrong Green letter, a Brenod child whose colour was not Spoken. |
 | **Fear** | The Harrow-sentence said with a hammer. A pot treated as a pilgrim. A witness who will not walk back. |
 | **Live conflict** | The stone is in the way of the crowd and is still the day's drink. |
-| **Enters a scene** | Stone-moving day; a child on the climb; a pot arriving upstairs; Tora of Brenod needing a mouth. |
+| **Enters a scene** | Stone-moving day; a child on the climb; a pot arriving upstairs; Tora of Brenod needing a mouth; extra mouths Haelin will not always name. |
 | **How this square talks** | A day, two mouths. Haelin and a hamlet witness. Not one notice alone. |
 
 ## Overview
@@ -122,6 +122,7 @@ Moved from the player-facing body during residual export polish:
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let Haelin assert the mind. "The soil was right here" is horticulture.
 - **Keep the cost in sight.** A pretty live-front town whose leftover is only picturesque launders the graves. Keep the hamlets visible from the square in at least one sightline.
 - **Hooks.** The hamlets can see the canopy; a borrowed Turning whose witness has to walk home; the stone Haelin wants moved; a Road-hand sleeping here with a pot for someone else; a folk-right slip in a hamlet that took, and Harrow's warden asked to Speak it; a first meal a Road-hand ate or refused on the way through; the climbing-child from the fable, this year.
+- **Opening sits here.** [[The Opening]] / [[The Isolated Fall]]. Hale-month, C.Y. 387. Do not rebuild this square into a Phoenix festival. The leftover job stays necessity. Extra mouths in the upper room are the thing Haelin will not always say. Do not invent a Care-fortress on the rise.
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] (Tora of Brenod) · [[The Child Who Climbed the Stone]]
@@ -129,4 +130,5 @@ Moved from the player-facing body during residual export polish:
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — neighbour-witness
 - [[The Wrong Green]] — the cited mis-Speaking, kept in the hearth
 - [[People of the Turning]] — live front this cast points at
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8; R.11)
+- [[The Opening]] — session one sits here
+- [[04 - Settlements]] · [[Roadmap]]

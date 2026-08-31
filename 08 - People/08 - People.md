@@ -32,11 +32,11 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 - [[Orentel]]: [[Sorel]] · [[Valen]] · [[Lasole]] · [[Didel]]
 - [[Maiethlir]]: [[Valein]] · [[Senithi]] · [[Vehaela]] · [[Baerith]]
 
-### Campaign seeds (not plotted)
+### Campaign seeds
 - [[Reimaethe]] — volunteer who wants out
 - [[Hithaen]] — disinherited Given heir
-- [[Taeren]] — a hush at a thin Tree
-- [[Rosire]] — the one who opened a door
+- [[Taeren]] — a hush; of Brenod, still at Harrow's
+- [[Rosire]] — the one who opened a door; Harrow's this Hale-month
 
 ### House-mouths and isle
 - [[Ledan]] — White Note quay-desk
@@ -58,3 +58,5 @@ Moved from the player-facing body during residual export polish:
 
 - ### House-mouths and isle (Story R.11)
 - - [[Naming People in the Turning]] · [[Roadmap]] (Story R.8; R.11)
+
+- **Opening:** [[Taeren]] and [[Rosire]] are on-screen in [[The Opening]]. [[Reimaethe]] and [[Hithaen]] stay offstage. Do not grow a crew. The walker is campaign-kit, not a seventh pivot.
