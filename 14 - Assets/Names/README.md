@@ -18,7 +18,7 @@ Production tooling for [[The Old Tongue]] and [[Naming People in the Turning]]. 
 `generate_names.py` uses **algorithm version 1**:
 
 1. Begin with the decimal seed reduced to an unsigned 32-bit integer.
-2. Advance an LCG with  
+2. Advance an LCG with
    `state = (1664525 × state + 1013904223) mod 2^32`.
 3. Select each inventory item with `(state × len(inventory)) >> 32`. Using
    the high half of the product avoids the weak low-bit cycle of an LCG when
