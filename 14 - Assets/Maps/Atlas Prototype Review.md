@@ -57,6 +57,8 @@ The cleanest option for later annotation: pale vellum, fine hachures, restrained
 
 The most atmospheric option: stronger sea states, rain, forest mass, and the wet/dry divide across Maiethorn.
 
+**Consistency rule:** the four continent sheets are the masters. The world sheet is a deterministic composite of those exact painted landforms, not a separate generation. Coastlines, mountain chains, forests, rivers, and other visible features therefore match at both scales. Rebuild it with `build_prototype3_world.py` after replacing any continent master.
+
 ![[prototype3/The-Turning-World-Atlas.png]]
 
 | Kumbaan | Heskoren |
@@ -90,7 +92,7 @@ These are **non-canon visual texture**, not proposals and not a queue of places 
 
 - Choose **Prototype 1** if continuity with the supplied world painting matters most.
 - Choose **Prototype 2** if the next step is hand-labeling or overpainting.
-- Choose **Prototype 3** if table mood and climate readability matter most.
+- Choose **Prototype 3** if exact world-to-continent continuity, table mood, and climate readability matter most.
 - Mixing a world sheet from one prototype with continent sheets from another weakens the visual set, but does not change canon.
 
 ## Links
