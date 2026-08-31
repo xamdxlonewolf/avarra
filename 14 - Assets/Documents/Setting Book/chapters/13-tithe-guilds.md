@@ -135,7 +135,7 @@ Whoever furnishes a provided-for Tithe holds power over its bearer. The greens-k
 
 That refusal is their kindness (they will not own you) and their cruelty (they will not walk three streets). The town is glad. A person who wilts *quietly* off the lot is not a public hazard. The Warm can say the gift was offered. The quay can say the season was posted. The crown can say the channel held.
 
-Confirming the Leaf-Mother is real and kind does **not** open a free parlour-grove. She gave the need for living land. She did not build the gate.
+A kind Mother, if she is there, does **not** open a free parlour-grove. The need for living land is the Tithe. People built the gate.
 
 Tired beds are real. A lot can be botanically full and still have a queue. That is not a lie they tell. It is also a choice about who sleeps on stone.
 
@@ -153,7 +153,7 @@ On its face: competent gardening, a little cold, a commons keeping itself honest
 
 The lived face of official outlets and the Far-Voiced ticket. One lintel, because the seam Condition *is* the building. The ael-hall is a concert house until it is a release-valve. They furnish *enough* voice that a person can walk until tomorrow. They are not the Slide.
 
-Everyday: **hall-keepers**, or **ael-hands.** Liturgical: **the Aeloren** (ayl-OR-en). *ael* "to air; to let feeling out" + *oren* "to witness": those who *hear you vent and will say you did.* Vaethorn's second word is **gift-hall folk**; Lestrand's is **release-hands** (ordinary, like saying *box-office*); Threnmaieth files them as **counted-hall clerks**.
+Everyday: **hall-keepers**, or **ael-hands,** in every register. The old proposed liturgical form *Aeloren* is retired: it sat too close to *Vaeloren, Leddoren,* and *Eoloren* and added no useful distinction. A crossed-out roster may still show it; no current hall uses it as a title. Vaethorn's second word is **gift-hall folk**; Lestrand's is **release-hands** (ordinary, like saying *box-office*); Threnmaieth files them as **counted-hall clerks**.
 
 **In one sentence:** they sell you an hour in which you may feel in earnest, and they will not open after the lamps.
 
@@ -214,7 +214,7 @@ The hall sells (or grants) the right to feel in public *on time*. Off-time is a 
 
 The town is glad. An emptied voice is not a Cry in the market. The Warm can say the gift was aired. The quay can say the bill was posted. The crown can say the channel held.
 
-Confirming she is real does **not** make the eighth week kind. She gave a voice that must vent. She did not build the slate.
+The gift does not make the eighth week kind. A voice must vent. People built the slate.
 
 Self-paying voices subsidize provided-for ones when the polity lets them. The show *is* some people's Tithe and other people's night out. Lestrand calls this the market. Vaethorn calls this tending. Both can be true in one barn.
 
@@ -301,7 +301,7 @@ This is not a scion-queue. It is not a week. It is a hospital that runs on its s
 
 The ticket-as-property argument (Lestrand, leaking elsewhere) is the second face: competence lives in a person; the chair can start to live in the guild.
 
-Confirming she is real does **not** make the drill optional. She gave a gaze that costs. She did not write the roster.
+The gift does not make the drill optional. A gaze costs. People wrote the roster.
 
 Intake is badly paid. The raw Struck who most need a week in the shed are the week the floor can least spare. That is why Intake is the underdog, not a prestige rotation.
 
@@ -387,7 +387,7 @@ Self-paying is an economist's miracle until you want to stop. The Tithe does not
 
 So the guild's kindness (a shop, a crew, a rotation) is also the leash. Leaving is a Tithe-crisis. The Warm calls that vocation. The quay calls that a contract. The crown calls that a channel.
 
-Confirming she is real does **not** make a rest-year safe. She answered. She did not build the shop-rule.
+The gift does not make a rest-year safe. An element answered. People built the shop-rule.
 
 The last coal, the cup of yesterday, the unwashed clay, the window that will not shut: those are how each door remembers.
 
@@ -475,7 +475,7 @@ The parent houses pretend the shed is not on the wall. Success is silence. A raw
 
 The paying floor needs the master. The town needs the hazard gone. The Struck needs a year. Intake is given a week and a shed, and is blamed for all three.
 
-If they succeed, the story becomes: *the guild trains its own.* If they fail, the story becomes: *the shed.* Confirming she is real does **not** make the rope kind, and does not give them a better door. She did not unwitness the becoming. People built the square that prefers a rope.
+If they succeed, the story becomes: *the guild trains its own.* If they fail, the story becomes: *the shed.* The gift does not make the rope kind, and does not give them a better door. The becoming was unwitnessed. People built the square that prefers a rope.
 
 Badly paid. The parent house's leftover stipend. In kind: the shed, the food, the master's lost week. They do not furnish a commons. They do not sell an hour. They catch.
 

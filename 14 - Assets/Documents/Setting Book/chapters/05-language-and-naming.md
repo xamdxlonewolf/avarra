@@ -2,6 +2,8 @@
 
 You need a person who sounds like they grew up somewhere, and a hall that sounds like the land that built it. You do not need a grammar.
 
+**Speak the common name; write the liturgical name.** A traveller asks for the *hall-keepers* or sails to *the Night Shore*. A rite, charter, learned map, or scholar may write *Orenhael* or *Netstrand*. The common handle comes first at the table. It is not a translation in parentheses after the "real" name. The Hinge Shore has no current liturgical form; *Eolstrand* is retired.
+
 **A person is named by the place that raised them.** If they are Kitsune, Selkie, Tengu, or Yumboe, they also keep a hearth-name from their Kind. Everyone else uses the local mouth of the Old Tongue. Two names is ordinary. **Raki of Hallowquay** is an introduction, not a secret identity.
 
 This chapter is the how-to: how names work, how to pick one, and how to make one that is not on a list. The lists come first. Under each Kind, **To make another** is the generator. **How to Name a Place or a Hall** is the same job for towns and offices, using the old-word table. The lookup tables are what each land calls the same building.
@@ -172,7 +174,7 @@ Faiths are named from the same blocks, so a faith sounds like the land that keep
 
 If you need a new church or guild name, glue two old words and wear them for the land. Do not collide with a name already on the map. The church-names already in use:
 
-**Orenhael** (or-EN-hayl), tree-wardens: witness + whole. **Thaelvaeth** (THALE-vayth), Road-hands: the Tree gone to the waiting. **Nethoren** (neth-OR-en), Watchers: night-witnesses. **Leddhael** (LED-hayl), Book-hands: the accounted-whole. **Vaelbren** (VAYL-bren), door-keepers: the yield-hearth. **Njaalo** (NJAH-lo) and **Njawaal** (njah-WAHL): Yumboe, not Maiethren. **Vaethledd** (VAYTH-led), the Slide: the waiting reckoned. **Saelhael** (SAYL-hayl), greens-keepers: the sown-whole. **Aeloren** (ayl-OR-en), hall-keepers: the witnessed airing. **Stelhael** (stel-HAYL), stillers: the held-whole. **the Crae** (kray): craft. The Intake has no church-name.
+**Orenhael** (or-EN-hayl), tree-wardens: witness + whole. **Thaelvaeth** (THALE-vayth), Road-hands: the Tree gone to the waiting. **Nethoren** (neth-OR-en), Watchers: night-witnesses. **Leddhael** (LED-hayl), Book-hands: the accounted-whole. **Vaelbren** (VAYL-bren), door-keepers: the yield-hearth. **Njaalo** (NJAH-lo) and **Njawaal** (njah-WAHL): Yumboe, not Maiethren. **Vaethledd** (VAYTH-led), the Slide: the waiting reckoned. **Saelhael** (SAYL-hayl), greens-keepers: the sown-whole. Hall-keepers have no current liturgical form; *Aeloren* is retired. **Stelhael** (stel-HAYL), stillers: the held-whole. **the Crae** (kray): craft. The Intake has no church-name.
 
 Era-names from the same box: **Brenvaeth** (bren-VAYTH), the Walking Years. **Eoloren** (ay-ohl-OR-en), the First Cut. **Ornthael** (orn-THALE), the Years of Hands. A road-house's cant is **brenhael** (bren-HAYL), the hearth kept whole.
 
@@ -237,7 +239,7 @@ The Kept are pitied in devout Vaethorn (they missed the gift), envied-as-free on
 |---|---|---|---|---|
 | the official furnishing sector | **the furnishing** / **the greens and the halls** | *the gift-works* | *the provision* | *the counted channel* |
 | greens-keepers | **greens-keepers** / **lot-keepers** (church-name *Saelhael*) | *Mother's-green hands* | *lot-keepers* | *the Tended* |
-| hall-keepers | **hall-keepers** / **ael-hands** (church-name *Aeloren*) | *gift-hall folk* | *release-hands* | *counted-hall clerks* |
+| hall-keepers | **hall-keepers** / **ael-hands** (*Aeloren* retired) | *gift-hall folk* | *release-hands* | *counted-hall clerks* |
 | the Stillers | **stillers** (church-name *Stelhael*) | *blessing-surgeons* | *ticket-surgeons* | *crown-stillers* |
 | the element-guilds | **the element-guilds** (umbrella *the Crae*) | *gift-shops* | *the craft-houses* | *the Reckoned Craes* |
 | the Intake | **the Intake** / **the shed** (cant *catching-year*) | *the late-catching* | *the emergency ticket* | *the unwitnessed warrant* |

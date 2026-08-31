@@ -35,13 +35,13 @@ Axes: **T**heology (Motherfaith gift-devotion) · **R**each · **G**overnance. �
 | **Maiethvael** | Maiethorn | ● | ● | ○ | the Gift-Realm: plenty, no list | origin pilgrimage-country that furnishes |
 | **Orenbren** | Maiethorn | ● | ● | ◐ | the Witness-Hearths: lodging as power; does not own the Tree | origin pilgrimage-town |
 | **Saelthael** | Maiethorn | ● | ◐ | ○ | the Sown Tree: Rain-Shadow still planting | Rain-Shadow walk-hold |
-| **Eolstrand** | Maiethorn | ◐ | ● | ○ | the Hinge-Shore: inner-sea face | salt-adjacent Old-World quays |
+| **the Hinge Shore** | Maiethorn | ◐ | ● | ○ | Old Crossing face; classifies the hull | salt-adjacent Old-World quays |
 | **Lirorn** | Maiethorn | ◐ | ● | ◐ | the Thaw-Land: range and snowmelt | ridge-roads; not a Kind-flag |
 | **Lestrand** | Strandoren | ○ | ● | ○ | the Ledger Coast: priced and free | salt quay; seat Orentel |
 | **Brenledd** | Strandoren | ○ | ● | ○ | the Hearth-League: many charters, one compact | salt / river towns between houses |
 | **Leddvael** | Strandoren | ○* | ● | ◐ | the Reckoned Gift: Fair Hand as civic rite | salt quay with a signing-watch |
 | **Trenledd** | Strandoren | ○ | ● | ● | the Worn Count: a roll with the hymn worn off | road-end Tree-towns *filed* |
-| **Netstrand** | Strandoren | ◐ | ● | ○ | the Night Shore: west water, Heskoren trade | salt quay; prestige-walk as a product |
+| **Netstrand** | Strandoren | ◐ | ● | ○ | the Night Shore: west water, Heskoren trade | salt quay; hulls and west-water berths |
 | **Vaethorn** | Heskoren | ● | ○ | ○ | the Waiting Lands: scarce gift, hot faith | pilgrim-edge; seat Eolvaeth (not the hamlets) |
 | **Ornled** | Heskoren | ○ | ○ | ○ | the Outer Ledger: secular frontier, no congregation-net | waiting cluster without a gospel |
 | **Vaelhesk** | Heskoren | ◐** | ○ | ○ | the Far Yield: Old Ways host-rights | guest-grove |
@@ -51,13 +51,13 @@ Axes: **T**heology (Motherfaith gift-devotion) · **R**each · **G**overnance. �
 
 Three other corners sit on the map: **Maiethvael** (devout, rich, lightly governed), **Trenledd** (surveillance with no faith to sanctify it), **Ornled** (secular frontier, required on Heskoren).
 
-None of the fifteen is a Kind-nation. Hearths, not flags. Saelthael is sand-country, not a Fox kingdom. Lirorn is a watershed, not a Tengu empire. Eolstrand and Netstrand are shores, not Selkie sea-empires. Vaelhesk is host-rights, not a Taken-In nation.
+None of the fifteen is a Kind-nation. Hearths, not flags. Saelthael is sand-country, not a Fox kingdom. Lirorn is a watershed, not a Tengu empire. The Hinge Shore and Netstrand are shores, not Selkie sea-empires. Vaelhesk is host-rights, not a Taken-In nation.
 
 None is a faith-nation. The Watching stays a heartland heresy *inside* Maiethorn districts, not a sixth Motherland flag. Leddvael is the one power that made a rival faith *civic*, and even there the Book-hands have no seat.
 
 ### How they sit
 
-**Maiethorn.** Threnmaieth coils near the sacred centre and wants everyone on the **Threnhael**, its census of persons. Its seat is Maiethlir (thaw-river Hand, *not* the grove). Maiethvael is the old gift-country that shares the Mother and refuses the list: same hymns, opposite paper. Orenbren is the lodging-cluster of the Near Mile (the week's door to the origin), civic rather than clerical. The First Seat sits in the Motherwood *beside* it and is not its crown. Saelthael is the leeward east, still walking west after the core stopped. Eolstrand faces Strandoren across the inner sea. Lirorn holds the central range that divides the waters. Fox-of-the-Snows and Tengu hearths are *densest* here, and it is not their country.
+**Maiethorn.** Threnmaieth coils near the sacred centre and wants everyone on the **Threnhael**, its census of persons. Its seat is Maiethlir (thaw-river Hand, *not* the grove). Maiethvael is the old gift-country that shares the Mother and refuses the list: same hymns, opposite paper. Orenbren is the lodging-cluster of the Near Mile (the week's door to the origin), civic rather than clerical. The First Seat sits in the Motherwood *beside* it and is not its crown. Saelthael is the leeward east, still walking west after the core stopped. The Hinge Shore faces Strandoren across the Old Crossing. Lirorn holds the central range that divides the waters. Fox-of-the-Snows and Tengu hearths are *densest* here, and it is not their country.
 
 **Strandoren.** Lestrand is the premier coast. Its seat is Orentel (Salt Quay; White Note on the third quay, not the crown). Brenledd is the compact of towns that got tired of being priced by one set of houses. Leddvael made the Fair Hand a civic rite on a different stretch of signing-water. Trenledd is the wealthy interior that started counting tickets and did not stop. Netstrand faces the open ocean toward Heskoren and, in stories, the storm-wall.
 
@@ -67,9 +67,9 @@ None is a faith-nation. The Watching stays a heartland heresy *inside* Maiethorn
 
 A Seat clerk and a Lestrand **factor** (a house's commercial agent, who prices routes and berths) do not issue the same map. **Orthopraxy**, belonging by the rite you keep, is the peace. The *list* is the tell.
 
-> **From a Cut-year minute, First Seat (C.Y. 387).** *Threnmaieth names itself the Reckoning and would name us. Maiethvael will not be named to them and still Sends the extra mile. Orenbren lodges what we do not house. Saelthael still walks, which the origin finds inconvenient. Eolstrand takes the inner sea. Lirorn takes the thaw. Across the water the factor's five: Lestrand, the Brenledd compact, Leddvael which files a Bound as a civic virtue, Trenledd which keeps a roll and will not call it a Threnhael, Netstrand which sells the west. On the far reach: Vaethorn waiting, Saelvaeth planting, Vaelhesk feeding a first meal we did not authorize, Ornled which will not say her name and will not keep a list either. Kumbaan is not a land we graft. We do not write it.*
+> **From a Cut-year minute, First Seat (C.Y. 387).** *Threnmaieth names itself the Reckoning and would name us. Maiethvael will not be named to them and still Sends the extra mile. Orenbren lodges what we do not house. Saelthael still walks, which the origin finds inconvenient. The Hinge Shore takes the Old Crossing. Lirorn takes the thaw. Across the water the factor's five: Lestrand, the Brenledd compact, Leddvael which files a Bound as a civic virtue, Trenledd which keeps a roll and will not call it a Threnhael, Netstrand which sells the west. On the far reach: Vaethorn waiting, Saelvaeth planting, Vaelhesk feeding a first meal we did not authorize, Ornled which will not say her name and will not keep a list either. Kumbaan is not a land we graft. We do not write it.*
 >
-> **From a house-year docket, a Lestrand factor.** *Price the inner-sea hinge (Eolstrand) and do not argue hymns with Maiethvael. Orenbren's beds are a market that calls itself a duty. Avoid Trenledd's roll unless you like being written. Leddvael will sign; that is cheaper than faith. Brenledd is many tickets. Netstrand quotes the far crossing like a pilgrimage. Heskoren: Vaethorn pays in blessing, Ornled in slate, Vaelhesk in a meal you had better eat, Saelvaeth in whatever the queue did this year. The Isle is a tale. We do not book it.*
+> **From a house-year docket, a Lestrand factor.** *Price the Hinge Shore and do not argue hymns with Maiethvael. Orenbren's beds are a market that calls itself a duty. Avoid Trenledd's roll unless you like being written. Leddvael will sign; that is cheaper than faith. Brenledd is many tickets. Netstrand quotes the far crossing like a pilgrimage. Heskoren: Vaethorn pays in blessing, Ornled in slate, Vaelhesk in a meal you had better eat, Saelvaeth in whatever the queue did this year. The Isle is a tale. We do not book it.*
 
 Neither list is complete. Both are true of the speaker.
 
@@ -155,6 +155,8 @@ The civic cluster of the **Near Mile**: lodging-squares, upper rooms, and old ro
 
 The First Seat sits in the Motherwood beside this power and remains a college, not a throne. Threnmaieth would like the lodging-rolls. Orenbren witnesses who slept, not what colour they are.
 
+Inside the lodging-country, not as a sixteenth flag, sits the **Inner Close** — a walled town of Closed Heirs who still rank the Conditioned by a Book of Tithes. First day's walk from the Motherwood. Orenbren treats the walls as a guest-compact that never opened. The Close ranks who *owes*. They share a country. They do not share a page. The Low Wall, in Other Places, is a different quarry in a fold nearby: found, not founded, and not the Close's proof.
+
 **Site.** Maiethorn Sacred Core's approach-country. Leftover: **origin pilgrimage-town**. Tree at the centre of each square; the road used to go further and now ends in a festival season.
 
 **How it formed.** Walking-era hearths that federated around the one-week door. When the Years of Hands made the origin-walk optional, the beds did not empty. They changed jobs. A lodging-network learned it could levy, charter, and speak as one without becoming clergy.
@@ -183,23 +185,23 @@ Fox of the Sands hearths are densest here. That is terrain, not a flag. A town w
 
 **Its injustice.** The motherland treats their waiting as a **local soil-problem** (true as far as it goes) and as a slight against the origin. Plenty next door; pilgrimage as a leftover they cannot retire. Vaethorn-guilt imported to sand that never asked for it.
 
-### Eolstrand: the Hinge-Shore
+### The Hinge Shore
 
-*(AY-ohl-strand · eol "hinge" + strand "shore" = "the hinge-shore.")* Theology **mid** · reach high · governance low. Everyday *Eolstrand*; people **Eolstrand-folk** or **Hinge-folk**. The inner sea is the hinge; the name says so. Not a Selkie nation.
+Theology **mid** · reach high · governance low. **The Hinge Shore** is both the spoken and written name; its people are **Hinge-folk**. An older dockets-form *Eolstrand* is retired: *Eoloren, Eolthael,* and *Eolvaeth* already carry the hinge-root across an era, a month, and a city. Not a Selkie nation.
 
-Maiethorn's western ports on the busy inner sea toward Strandoren: the oldest trade route in the world, the "Old World" crossing. Ancient, rich, less frantic than the Ledger Coast. Faith worn *thinner* here than in Maiethvael because the docks teach pricing. Trees still healthy because this is still the Motherland.
+Maiethorn's western ports on **the Old Crossing** toward Strandoren: the oldest trade route in the world. Ancient, rich, less frantic than the Ledger Coast. They decide whether a hull is pilgrim, pot, person, or cargo before anyone across the water prices it. Lestrand **prices** the crossing. The Hinge Shore **sorts** it. Faith worn *thinner* here than in Maiethvael because a dock teaches categories. Trees still healthy because this is still the Motherland.
 
-Selkie families are common on these quays, as they are on any old water. That is a hearth, not a sea-empire.
+Selkie families are common on these quays, as they are on any old water. That is a hearth, not a sea-empire. The **Hush-rate** is charged as old custom. They will not call it a victory.
 
-**Site.** Inner-sea face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore: prestige sea-pilgrimage; people embarked *from* Strandoren; they landed here).
+**Site.** Old Crossing face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore: people embarked *from* Strandoren; they landed here).
 
-**How it formed.** Port-kings and charter-harbours grown from the crossing. They still say *th* because the grove is at their backs; mid theology because Lestrand is in front of them.
+**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides. The Grey Summer taught the pious shore how to step around a fade *without putting the blessing down.*
 
 **Structure.** Guild-coast, light state, old houses. Recruits not by Kind. Far-Voiced on every quay as infrastructure, same as Strandoren, with more hymn left in the voice.
 
-**Goals.** Keep the inner sea the world's highway. Broker pilgrimage-traffic and cargo without becoming either Threnmaieth's counted port or Lestrand's priced one.
+**Goals.** Keep the Old Crossing the world's highway. Classify the hull before anyone prices it. Broker pilgrimage-traffic and cargo without becoming either Threnmaieth's counted port or Lestrand's priced one. Charge the Hush-rate. Say the blessing if a mouth wants one.
 
-**Its injustice.** The pious shore that **learned to let people fade** from looking across the water. A Tithe-poor household fails in sight of the pilgrimage-road. Cool cousin, not a copy: they still say the blessing. They still step around you.
+**Its injustice.** **Category as fate.** Lestrand will let you fade and feel it owed you nothing. The Hinge Shore will *bless you as it files you*, and a Tithe-poor household fails in sight of the pilgrimage-road with a hymn still in the air.
 
 ### Lirorn: the Thaw-Land
 
@@ -275,7 +277,7 @@ Threnmaieth at least claims to keep you hale. Trenledd claims to keep you *finda
 
 *(NET-strand · neth "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Theology mid-low · reach high · governance low. Everyday *Netstrand*; people **Netstrand-folk**. Why *night* sits on this shore is **not fully explained**: west water, storm stories, watches they keep after dark.
 
-Strandoren's west and south face: open ocean toward Heskoren and, far beyond, the storm-wall. Bold houses run the frontier trade. The Salt Walk's prestige-berths live here as a *product*, the First-Hand year sold to inland coin. Almost none have crossed to the Sundering Isle. Those who claim to are the tellers of Yumboe stories.
+Strandoren's west and south face: open ocean toward Heskoren and, far beyond, the storm-wall. Bold houses run the frontier trade. They sell **hulls and west-water berths** — crews, capacity, a crossing quoted like a pilgrimage. They do **not** sell the First-Hand year as a finished product. That year is assembled on the Old Crossing: Netstrand charters the ship, the White Note writes the terms, Orentel holds the berth. Orenbren houses the sleep at the origin. Almost none have crossed to the Sundering Isle. Those who claim to are the tellers of Yumboe stories.
 
 Faith mixed: Motherfaith worn light, Fair Hand ordinary on a signing-quay, quay-charms nobody writes down. Trees still mature along this wealthy edge.
 

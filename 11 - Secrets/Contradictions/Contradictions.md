@@ -15,15 +15,19 @@ updated: 2026-08-31
 
 > **What this is.** The pass-two log. Canon conflicts, residuals the completion gate would not silently close, and quality gaps `story-sense` routes. Resolve here or in the home note; do not start a parallel bible. Philosophy from `shared-world`; folders stay this vault's.
 
-**Opened:** 2026-08-31, at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. Pass one is complete. P2.1 is done. Do not resume the old Epic 8 plan.
+**Opened:** 2026-08-31, at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. Pass one is complete. P2.1 is done. World book rebuilt on user request (C-02). Do not resume the old Epic 8 plan.
 
 **Diagnosis (`story-sense` / `worldbuilding`).** The setting is built. Remaining problems are hygiene and consistency, not a missing engine. Do not generate new powers, faiths, or liturgical names. Hub collisions found while writing [[The Opening]] are logged and fixed here — that is the sweep, done in passing.
 
 ## Open
 
-| ID | Kind | What | Home | Route |
-|---|---|---|---|---|
-| **C-02** | Stale compile | World book still has *Eolstrand*, *Aeloren*, and "Confirming she is real" guild lines | `14 - Assets/Documents/Setting Book/` | Do **not** rebuild unless asked. Not a vault leak. |
+*None.*
+
+## Resolved by world-book rebuild (2026-08-31)
+
+| ID | What | Resolution |
+|---|---|---|
+| **C-02** | World book still had *Eolstrand*, *Aeloren*, and "Confirming she is real" guild lines; reserved chapters and vault deltas (Kind heritage, law tickets, Tithe volume, Other Count, Ornsael well-share, houses, GM opening) were not in the reading copy | User asked. Folded into existing spine; *Eolstrand* / *Aeloren* remain only as retired forms; player guild/order prose no longer confirms the keystone; HTML + PDF rebuilt. Vault stays canonical. |
 
 ## Resolved in the opening (2026-08-31)
 

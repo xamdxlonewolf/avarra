@@ -14,7 +14,7 @@ A **Tithe** is a Condition's upkeep. Its dangerous edge is story pressure, never
 - **Bound.** The Whisper is strictly suggestive: plausible lies and intrusive thoughts the player can reject at a Stress cost. Never puppet the PC. The Pledge is a known, dreaded horizon toward the Unbound, not a surprise. **Whose hand:** the Counterparty is **Orledd**, the household Hand who answers a sworn ask. The face chosen at creation (demon / cosmic-horror / unknown) is a mask; the terms are the same shape. Do not play Orledd as a devil, and do not retcon Given Conditions into bargains.
 - **The Unbound.** The Quiet is a temptation engine, not a compulsion: every "reach for the bargain" beat is refusable at a Stress cost. The tragedy to play toward: an Unbound who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the Given-Over (the Unbound end-state). Warmth is the only thing that actually fills the hole; contracts only mute it.
 - **Far-Voiced.** The Cry is a feeling landing on listeners. Stress, never a forced action or belief. A Struck Far-Voiced's first Cry, pre-guild, is a formative beat, not a punishment. A Given Far-Voiced in deep Tithe-debt (0 tokens, on duty, in a courtroom or relay tower) is a slow-building set-piece.
-- **The Stilled.** The seizing is strictly self-directed: the Stilled's own limb, or harmless scenery, never another PC's autonomy. A Struck Stilled's first, unpracticed use of the gaze (probably on someone they love, probably by accident) is formative. A Given Stilled deep in Grey-debt (Stilled Tithe-debt) on a riot line or in an operating theatre is a slow-building set-piece.
+- **The Stilled.** The Gaze is an attack against an unwilling target (Instinct or Presence). Willing and downed targets take no roll. **Stilled** is a special condition, not Restrained: no actions or reactions; they can speak, be moved, and be targeted; they may mark a Stress to clear it when they would act. The seizing (Grey at 3 tokens) is strictly self-directed: the Stilled's own limb, or harmless scenery, never another PC's autonomy. A Struck Stilled's first, unpracticed Gaze (probably on someone they love, probably by accident) is formative. A Given Stilled deep in Grey-debt on a riot line or in an operating theatre is a slow-building set-piece.
 - **The Answered.** Every 0-token consequence stays on the Answered and their immediate surroundings. Let the chosen element define the character's whole voice (an Ember-Answered feels nothing like a Root-Answered). One of the Answered deep in Tithe-debt walking into a crowded hall, a ship's hold, or a dry archive is a slow-building set-piece.
 - **The Taken-In.** Go-to-seed is strictly environmental: growth from ground and structures, never roots seizing another creature. A Struck Taken-In's uncertainty ("did I walk out, or was I sent?") is quiet identity dread, not a hidden puppet-string. The wild in them is *part of them*, not a master. One dragged deep into a dungeon, a ship's hold, or a stone keep and left to wilt is a slow-building set-piece.
 - **Phoenix.** Run two engines together. The **count**: let everyone watch the Hope slots go; each rising costs something the player feels (a face, a reason they started). The **fishbowl**: never anonymous; every town has those who revere, worship, hunt, and hate them, often the same crowd. Never force a Rise; it is always the player's death-move choice alongside the standard three. A Phoenix may choose Blaze of Glory and end if the story earns it. The fire boons are strong on purpose: compensation for a life with no privacy and a death you can count down to. As a legendary NPC, rebirths make era-markers (the same soul, met three times, remembering the party less each time).
@@ -436,7 +436,7 @@ A **leftover job** is the one present-tense work a square still does from the ro
 
 **The Third Hearth is not a failure.** The White Note collected. The Third Hearth kept making the bed. Do not have Thilim "lose" because the paper went to the coast. One leftover job on the street: devotion / extra mile. Necessity in the loft is Thilim's eye, not a second town-theme. Prestige that lands here is the household that missed the White Note. Orenbren is many hearths. Brenthael is a neighbour square, not a capital. Thilim's four jobs stay disagreed. Do not pick which sermon they are. Do not kill Thilim to close the Held bed (the leftover pilgrim bed). The stone is a day's water and a name; it does not assert the mind.
 
-**Ornsael is not a Kitsune nation.** Sands-Fox densest. Mixed Kinds. A fox-market is a neighbourhood, not a quarter-with-a-gate. Pair with Saelvaeth / Harrow's Green: same sowing-root, two continents, both present tense. A party that has only seen Heskoren waiting should meet this well and have to recalibrate. A party that has only seen the Sacred Core should meet the west-road and lose the stacked-age. One leftover job: necessity. Thin take in dry soil stays horticulture in player text. Plenty next door does not make the leftover kind. Confirming she is kind does not retire the west-road. Ornsael is not Saelthael's capital.
+**Ornsael is not a Kitsune nation.** Sands-Fox densest. Mixed Kinds. A fox-market is a neighbourhood, not a quarter-with-a-gate. Pair with Saelvaeth / Harrow's Green: same sowing-root, two continents, both present tense. A party that has only seen Heskoren waiting should meet this well and have to recalibrate. A party that has only seen the Sacred Core should meet the west-road and lose the stacked-age. One leftover job: necessity. **The crisis is the drink, not a maybe-Tree.** Eolvaeth keeps the maybe-Tree, the spring, the warden who will not invent a colour, the wet leaf. Ornsael does not. Physical problem = the well. Institutional response = a share (Theisva, Lesna, Bovaer). Mystery = a wet knot below the water. Do not slide back into "warden won't call a false fall." Thin take in dry soil stays horticulture in player text. Plenty next door does not make the leftover kind. Confirming she is kind does not retire the west-road. Ornsael is not Saelthael's capital.
 
 **Eolvaeth is not the "good town" that waited faithfully.** They were an early pot that stayed thin. Congregation did the rest. Luck is horticulture plus the queue. Not Saelvaeth's march. Harrow's is luck you can see from a ford. Eolvaeth is a gospel you walk to. Pair them in a campaign week if you want both leftover jobs of Heskoren visible; do not collapse them into one frontier flavour. One leftover job: devotion / the wait as destination. A cohort sent toward Saelvaeth is friction, not a second theme. The spring is the water. The wet leaf is not a ribbon. The absence of a mile-shrine is the leftover. A pretty pilgrim-town whose leftover is only picturesque agrees with Vaethorn guilt. Keep a thin year visible. Confirming she is kind does not make the wait a virtue. "The soil was never quite right here" is horticulture.
 
@@ -446,13 +446,13 @@ A **leftover job** is the one present-tense work a square still does from the ro
 
 **Name-pairs as tells.** Maiethvael / Threnmaieth is the Motherland's argument in two names: Mother's *gift* vs Mother's *reckoning*. Same *maieth*, opposite paper. Saelthael / Saelvaeth share *sael* (sowing) on two continents. Clock 2 still moving at the origin *and* the front. Do not narrate one as history and the other as frontier flavour. Trenledd's etymology: *Thren* worn to *Tren* is the sacred count with the sacred worn off, the same machinery Threnmaieth sanctifies, named as what it does. A scholar-PC may notice; do not gloss it in player text as a clever pun. The *vael/vaeth* pair: Yield vs waiting. Same continent, opposite first syllable. Vaethorn and Vaelhesk already *feel* it.
 
-**Theology and reach stay independent.** High reach, cooled faith on Eolstrand is the same pairing Strandoren proves, on the *conservative* shore. Do not let mid-hymns read as thin Trees.
+**Theology and reach stay independent.** High reach, cooled faith on the Hinge Shore is the same pairing Strandoren proves, on the *conservative* shore. Do not let mid-hymns read as thin Trees.
 
 **Netstrand's *neth*.** Why *night* sits on this west shore is not fully explained: night-watches, storm-wall dark, a Watching-flavoured eve-custom that does not belong this far west. Pick in play, or never.
 
 **Ornled is not freedom.** Light state plus thin Trees plus no faith-net is exposure. Do not agree with Vaethorn that Ornled is unworthy. Distance and a choice of gospel. Horticulture plus culture.
 
-**Hearths, not nations, everywhere.** Tengu densest in Lirorn; Snows-Fox densest there; Sands-Fox densest in Saelthael; Selkie common on Eolstrand and Netstrand; Taken-In honoured in Vaelhesk. Mixed Kinds. The interesting PC is a human or Selkie of Lirorn, or a Tengu of Eolstrand. A wing-post is a job. The moment the government is *for* a Kind, the two-layer model has started to rot.
+**Hearths, not nations, everywhere.** Tengu densest in Lirorn; Snows-Fox densest there; Sands-Fox densest in Saelthael; Selkie common on the Hinge Shore and Netstrand; Taken-In honoured in Vaelhesk. Mixed Kinds. The interesting PC is a human or Selkie of Lirorn, or a Tengu of the Hinge Shore. A wing-post is a job. The moment the government is *for* a Kind, the two-layer model has started to rot.
 
 **Threnmaieth's tell lives on Maiethorn.** The Tallied Crown distrusts the three pillars and keeps a ledger instead, and its Long-Lived crown-archivists may quietly remember what the Threnhael was made to overwrite. On Maiethorn, that archivist is near the sacred center *and* near the old heresy.
 
@@ -473,9 +473,11 @@ A pretty road-end town whose leftover is only picturesque launders the graves. A
 - Present: Cut-year 387. Two clocks. No universal year-zero. Dating reveals stance.
 - The Tree is undated. Before the Walk has no start.
 - High-Solstice Turning-Week. Twelve Maiethren months. Three new-year days by stance. Kumbaan keeps twelve moons.
-- Fifteen powers (three corners + twelve). Kumbaan is not on the list.
+- Fifteen powers (three corners + twelve). Kumbaan is not on the list. The Inner Close sits inside Orenbren. It is not a sixteenth flag. *Eolstrand* is retired; the slot is the Hinge Shore.
 - The First Seat is a college beside Maiethlir, not a throne and not captured. The White Note is placed on Orentel, not crowned. Harrow's Green and Ornsael are not capitals.
+- The Other Count sits beside the two clocks: Closing 19–38, Two Papers 67, Grey Summer 171, Thaw-Break 233, Hinge Hush 299–304. Cutter unpicked. Present C.Y. 387.
 - Fate-pressure on the First Seat, Road-hands, waiting towns, and deathless houses is visible. It has not been rolled.
+- Opening kit: Isolated Fall sits at Harrow's Green, Hale-month C.Y. 387. One Gift. Apparent two is leftover fire next to a new leaf. Harvest engine stays behind this chapter.
 
 **Open.**
 
@@ -492,4 +494,77 @@ A pretty road-end town whose leftover is only picturesque launders the graves. A
 
 ## Secrets and reveals
 
-> **Not yet written.** The architecture of what the table learns, and in what order. The keystone and the household are already in this chapter. This heading is reserved for later reveals as they are authored. It is not a second cosmology.
+What the table learns, and in what order. The keystone and the household are already in this chapter. This is not a second cosmology.
+
+Keep the Phoenix engine behind the keystone. Do not lead with a second bird. Do not confirm her in session one.
+
+### When the fire is caught
+
+There is never a second Gift. The Tree Gives white-fire to one living person. While that person can still Rise From Ash, no second leaf falls. What can *look* like two Phoenixes is leftover fire standing next to a new Gift.
+
+The original self ends at the death they **cannot Rise from** — the death that would cross out their last Hope slot. That death ends the Gift. A new white-fire leaf may fall at the next High Solstice any living Tree can reach. Two Gifts never overlap.
+
+Each Rise burns a body to nothing and remakes it. The fire of that burn can be **caught** if the death is prepared. Banked fire has two jobs, and only two:
+
+1. **While the Gift lasts.** Spend a measure to force a Rise the Phoenix did not choose, and take the memory of that death with it. The Hope slot still scars. The named piece of the old life still does not come back. The player of a PC Phoenix is never forced to Rise; this is what is done to a captive.
+2. **After the Gift ends.** Spend the bank to keep the *last risen body* assembled. That is not a Rise. No Hope is crossed, because none remain. The body walks, burns, and can still take the air. It is fire's memory of a person, not a Phoenix. If the store runs out, the remnant goes to cold ash and stays there.
+
+The remnant cannot Rise, cannot be Given, and cannot Give. Immunity and wings can linger because those are properties of the *fire*, not of the Gift. Kindle and the Dwindling do not. A remnant that still thinks it is the Phoenix is a tragedy, not a second Condition.
+
+The slot is empty from the true death. The leaf may fall. The wider world does not see it because the remnant is still *called* the Phoenix and kept out of sight. Doctrine says there cannot be two, so a Spoken white-fire while a sanctuary still "holds the Phoenix" is filed as a mis-Speaking or a hush. The new child is real. The stories are still about the old name.
+
+**The Protectors** catch the fire. They use this engine; they do not rewrite it. Player text knows the Care as a hospice that will not produce the one. The harvest stays here.
+
+Clues, in order: Hope scars without memories; a sanctuary that will not produce the Phoenix; a white-fire fall that was never Spoken; fire that answers a child and an old name at once; late, the remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. Warmth with a theft under it. Not a harvest-god reveal.
+
+Misreadings to refuse: there were always two; the Tree made a mistake; the remnant is the real Phoenix and the child is a fraud (the useful lie; it is backwards); she stopped Giving white-fire (incomplete — she Gave; the record was kept from seeing it).
+
+### A hidden Phoenix (player agency)
+
+The open-card Phoenix is a fishbowl. This is the other seat. Whole-table consent, same as the public card. The Transformation card does not change.
+
+Two legal shapes. Pick one. They are not two Phoenixes.
+
+| Shape | What you are | Typical start |
+|---|---|---|
+| **The walker** | The Gift that left a prepared room. You can still Rise. You are the one. | Hope scars you cannot account for. Missing deaths. A world that says the one is safe indoors. |
+| **The unseen leaf** | A new Gift that fell where no Speaker wrote it. You can still Rise. You are the one. | Few or no scars yet. The stories are still about an older name. Something in a far house still burns like you. |
+
+If you cannot Rise (last Hope slot already gone), you are not a Phoenix PC. That leftover is not this card.
+
+Agree a **count** of Hope scars before play, not a biography. Walker: 1–3 scars is the working band. Unseen leaf: 0, or 1. You and the GM name **that they are missing**, not what they were.
+
+When play offers a fragment, **the player chooses**: take it; leave it; or rewrite the meaning, not the fact. A prepared room existed. What it *means* that they walked out is theirs. The GM offers fragments. The GM does not assign their moral. One fragment a session is plenty. Zero is legal.
+
+Stored fire can show facts (a count, a layout, a name the fire still answers, that a death was arranged). It cannot assign a self, a forgiveness, a Gift's purpose, a second Gift, or her.
+
+### Isolated Fall — the opening
+
+The first campaign. Play starts at an existing square. Session one is a kit, not a novel. Mystery first. One 5% beat. Wonder at an isolated fall. The Leaf-Mother is not this session's reveal.
+
+| | |
+|---|---|
+| **Sits** | Harrow's Green, Hale-month, C.Y. 387. Next week is Eolthael. |
+| **On-screen** | The walker · Rosire · the new Gift (Taeren *or* a PC in that seat) · Haelin · Tora of Brenod |
+| **Offstage** | Reimaethe · Hithaen · Vimein · Tesara's week · the Care as a place you can walk into |
+| **Do not** | Invent a Protector fortress. Lead with a second bird. Confirm her. Name the cutter. Date the Tree. Add a sixteenth power. |
+
+There is **one Gift**. This opening needs an apparent two, so: the new Gift is an unseen leaf (can still Rise); the walker is leftover fire (Gift already ended, cannot Rise, not a Phoenix for Leaf-Fall, law, or the roster); Rosire opened a door that was not on the slate.
+
+If the table wants a **walker-PC who can still Rise**, that PC *is* the Gift and there is no new leaf. That is a legal other opening. It is **not this kit**. Do not put Taeren on-screen as a second Gift to keep both shapes.
+
+The isolated fall is last Eolthael's neighbour's week, not a new Tree. Taeren is of Brenod, not of Harrow's. Haelin did not Speak white-fire. The witness never walked home. That is why the child is still in the square when Hale-month extra mouths arrive.
+
+What the table can see: a live-front square doing a necessity-day; civic talk that the Phoenix *should* exist and is in care; a Brenod child (or the PC in that seat) whose hands hold heat; Haelin will not name last Eolthael's colour; an upper-room guest who burns like a story and cannot account for their scars; Rosire's flinch at a room that has been cleared and laid with sand; a closed lamp that leans toward the new Gift and still knows an old name; the public sentence *the one is in care*. Not the harvest. Not the house's name as harvesters.
+
+**Five key moments** (play in any order the table reaches; recommended order below). Do not skip. Do not open on the lamp or on two burning people in one shot.
+
+1. **Two tenses in the square.** Mystery. Someone asks whether the one is coming for Leaf-Fall. A neighbour says the Phoenix is in care. Another says they have never seen one. Haelin: they have a Tree. They do not have a legend. Curiosity, not dread.
+2. **White that nobody Spoke.** Wonder. Last Eolthael, a Brenod child stood at Harrow's Tree. Something white. Haelin did not Speak it. Heat in the hands they do not show. If a PC occupies this seat, this moment is theirs. Do not run Taeren as an NPC beside them. Do not confirm the Leaf-Mother. Linger. Then stop.
+3. **Scars that do not match the lives.** Mystery. The walker is in the upper room. More crossed lives than they can put in a row. They cannot Rise. Do not stage that death this session to prove the engine. Rosire brings water and does not explain.
+4. **The lamp that knows two mouths.** Wrongness glimpse (~5%). Rosire kept a closed travelling-lamp. The coal should be cold. It is not. When the new Gift is on the stair, the lamp leans. When the walker speaks an old name, the lamp answers that name too. Narrate the lamp, the lean, the two names. Do **not** narrate harvest, bank, remnant, Protectors, or "this is not a real Phoenix." One linger, then let someone pour tea.
+5. **The door that was not on the slate.** Mystery. Rosire on-screen as a person, not a confession. A cleared room. Sand. They flinch. They will say: someone walked; I walked the other way. What the party does with the person who opened the door is theirs. Session one can end with the lamp still lit, the stone still unmoved, the witness still unwalked, and no one named as the one. Do not fire the remnant-to-ash beat. Do not have Vimein arrive.
+
+**Stop lines.** No Leaf-Mother reveal. No Care-fortress. No hunt in hour one. No second Gift. After the lamp, decompress — water, bread, the stone still there.
+
+Later sessions, memory-fragment continuation, and any ending wait. Do not write them here to tidy session one.

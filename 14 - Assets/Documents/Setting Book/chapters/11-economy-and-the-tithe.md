@@ -1,9 +1,24 @@
 # Economy and the Tithe
 
 
-In other worlds an economy is organized around producing what people *want*. In the Turning it is also organized around a thing no other world has: **keeping three of every four people able to carry what they have become.** Every Condition has a Tithe, an ongoing need that must be met or the scary edge shows. Multiply that by about three-quarters of the population and it stops being a private matter. **Tithe-provision is a permanent sector of the economy**, as large and as load-bearing as food or fuel: greenhouses, venting-halls, and ranging-commons the way other worlds build power plants and hospitals.
+In other worlds an economy is organized around producing what people *want*. In the Turning it is also organized around a thing no other world has: **keeping three of every four people able to carry what they have become.** Every Condition has a Tithe, an ongoing need that must be met or the scary edge shows. Multiply that by about three-quarters of the population and it stops being a private matter.
 
-Society organizes around the Conditioned because Tithe-provision is **infrastructure.** A civilization where most people need something regular to stay whole *builds around providing it*. The ones who provide it, and the ones who need it, are usually the same people.
+**Tithe-provision is a permanent civic utility**, like wells and roads: visible in every town, fought over, load-bearing for the people who need it. It is **not** the size of grain. Grain feeds everyone, every day. The greens and halls keep an exposed minority from sliding, and keep their neighbours from living next to a slide. That is enough to organize a sector. It is not food.
+
+Society organizes around the Conditioned because most Conditioned *pay by working* (the Tithe and the job are the same act). A smaller share must be furnished. The ones who furnish, and the ones who need furnishing, are often the same people — and whoever holds the gate holds power.
+
+### Who actually buys provision
+
+This is volume, not a second census.
+
+| Who | About | What "provision" is |
+|---|---|---|
+| **Self-paying by vocation** | the Answered ~10 · Two-Bodied ~18 · the Stilled ~7 → **~35%** | Work *is* the Tithe. They do not buy a sector. They *are* a labor market. |
+| **On the seam** | Far-Voiced ~12 · Returned ~7 → **~19%** | Self-pay if the job fits. Buy a hall-hour, or walk unpaid, when it does not. |
+| **Provided-for** | the Taken-In ~13 · Long-Lived ~2.5 · the Unbound ~1.5 · Bound Terms ~3.5 → **~20%** | Green, novelty, warmth, whatever the clause set. |
+| **The Kept** | **~25%** | No Tithe. They buy bread, not a lot-hour. |
+
+Green is free on a farm. Most Taken-In live where it is free. The **purchased or civic customer base** — urban Taken-In, hall-users without a stage, novelty-seekers, warmth that money can only approximate — is on the order of **a seventh of the people**, concentrated in stone towns. Real traffic. Real queues. Not granaries. A city fights over lot-hours and hall-bells the way it fights over wells: because a wilt or a Cry in the square is a public problem, not because Tithe-goods rival bread by the cartload.
 
 ### Self-paying vs provided-for Tithes
 
@@ -50,16 +65,30 @@ So the question *who pays for Tithe-provision* is this world's version of the we
 The Tithe and the vocation are usually the same shape. The world didn't assign these jobs. The Conditions *are* these jobs:
 
 - **Two-Bodied (~18%, the plurality).** The versatile backbone of physical labor: herding, haulage, rescue, courier, scouting, war. Runs in bloodlines (whole "wolf-folk" / "hawk-folk" families), so the family trade and the family Condition are one inheritance.
-- **the Taken-In (~12%).** The food-and-timber base: farmers, foresters, herders, wardens. The frontier economy *runs* on them (they thrive on living land). Cities need their grain but keep them at arm's length.
-- **Far-Voiced (~11%).** Coordination and trust-at-a-distance: the signal/relay network (criers posted on coasts, roads, borders), performers, negotiators, and sworn court witnesses. Real-time long-distance signal a medieval world shouldn't have.
+- **the Taken-In (~13%).** The food-and-timber base: farmers, foresters, herders, wardens. The frontier economy *runs* on them (they thrive on living land). Cities need their grain **and keep a working minority of them**. Arm's length is manners, not absence.
+- **Far-Voiced (~12%).** Coordination and trust-at-a-distance: the signal/relay network (criers posted on coasts, roads, borders), performers, negotiators, and sworn court witnesses. Real-time long-distance signal a medieval world shouldn't have.
 - **the Answered (~10%).** The elemental crafts, guilded by element: Ember (smiths, glasswrights), Tide (shipwrights, dyers), Root (masons, potters), Gale (sailmakers, millers); plus firefighting and rescue rotations.
-- **Returned (~9%).** The work that kills the living, done by those death can't take twice: plague wards, mine and cave-in recovery, deep and dangerous salvage, and tending the dead.
+- **Returned (~7%).** The work that kills the living, done by those death can't take twice: plague wards, mine and cave-in recovery, deep and dangerous salvage, and tending the dead.
 - **the Stilled (~7%).** Precision stillness: surgeons and medics, peacekeepers on riot-lines, controlled demolition and stonework. Licensed and guild-disciplined.
 - **Long-Lived (~2.5%).** The memory professions: archivists, notaries, judges, scholars, and **bankers**. Few by design. A world with too many deathless would ossify.
-- **Bound (~5%).** The enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding.
-- **the Unbound (~1.5%)** and **Phoenix (trace).** No characteristic sector. The Unbound return to whatever they did before (needing connection to keep at it). The Phoenix is a political symbol, not a worker.
+- **Bound (~5%).** The enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding. The Unbound sit inside this same contract-lane (a released Bound, not a second workforce); they return to whatever they did before, needing connection to keep at it.
+- **Phoenix (trace).** No characteristic sector. A political symbol, not a worker.
 
 **And the Kept (~25%).** The Kept carry *no Tithe* (no upkeep cost) and *no Condition* (no built-in trade). Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where the faithful *pity* the Kept for missing a gift, they are still the least *encumbered* people in the world.
+
+### Why Taken-In live in stone cities
+
+Green is an expense in a stone city, and cities keep the Taken-In at arm's length because they thrive on the frontier. Both can be true. **Arm's length is how polite districts stand toward bark and antler. It is not an empty lot.**
+
+They are in the city because:
+
+1. **They were Given here.** A copper-green leaf at a city Tree. Family, work, and a hearth-witness keep them. Leaving the city is leaving the circle that saw you Turn.
+2. **Grain and timber come in; people come with them.** Seasonal Taken-In on the quays, wintering, some staying. The harvest-hands who do not go home in Hale-month.
+3. **The lot is a job.** Greens-keepers need Taken-In labor. The city *imports* green-skill for the commons, then will not sit them at the high table.
+4. **The door can open in a city's old green.** Lost and dying in a deep wild is the Struck path. A walled grove, a lot at night, a river-garden after a flood — rare, and enough.
+5. **They cannot afford to leave.** Green-poverty is a trap: you need the lot to stay whole, the lot is gated, you work for lot-hours, you never save the cart-fare home. That trap *is* the Slide's urban book.
+
+World share is still ~13%. A stone city runs **lower** — a twentieth to a twelfth of its adults, concentrated on lots, orchards, river-gardens, and the week-keeper's pot. Enough for a queue. Enough for a wilt two streets off. Enough for the Slide's customer. The frontier still has the density and the honour. The city has the gate.
 
 ### Banking and the deathless houses
 
@@ -84,15 +113,15 @@ For everyone else inheritance is ordinary, *except* the **Two-Bodied bloodlines*
 The economy is not evenly spread. Near the mature Trees (the core), Conditions are dense, guilds are strong, and specialized Condition-labor and its goods are the great export. Out at the margins (the frontier), **the giving thins**: more of the population are generalist Kept or untrained Struck, fewer are Given specialists. So:
 
 - **The core** exports specialized work and finished goods (Answered crafts, Stilled medicine, deathless-house credit) and imports raw staples.
-- **The frontier** leans hardest on the Taken-In (who thrive there where cities keep them at arm's length) and on generalist Kept labor. It exports food, timber, and raw materials, and imports the specialists it can't grow. Trade friction is real. Distance, spoilage, and the thin reach all mean the frontier is *specialist-poor and self-reliant.*
+- **The frontier** leans hardest on the Taken-In (who thrive there, and are *neighbours*) and on generalist Kept labor. It exports food, timber, and raw materials, and imports the specialists it can't grow. Trade friction is real. Distance, spoilage, and the thin reach all mean the frontier is *specialist-poor and self-reliant.* Cities still keep a working Taken-In minority behind a gate; they do not ship the Condition out of town.
 
 ### The shadow economy
 
 Every gate breeds a black market, and this economy's gates are **Tithe-provision** and **vouching**:
 
 - **Illicit Tithe-supply.** Where legitimate provision is rationed, gated, or unaffordable, a shadow market fills it: smuggled green for a Taken-In cut off from land, unlicensed venting-rooms, black-market novelty (rare texts, forbidden knowledge) for a starving Long-Lived. The desperate customer is someone sliding toward their scary edge, which makes this trade both lucrative and cruel. Lived face: **the Slide**.
-- **Off-book contracts.** The Bound's whole domain has an underside: contracts sworn outside the honest tables, unregistered terms, and the predatory brokers who arrange them, the pipeline that feeds the Given-Over. No lived house. This trade is not the Slide's.
-- **Sold vouching.** Since citizenship runs on standing-for, the unvouched will *buy* a voucher, and a market exists in dubious character-witnesses. The one thing that *can't* be faked is a Long-Lived's memory, which is why their honest vouch is priceless and their corrupt one catastrophic. No lived house. This trade is not the Slide's.
+- **Off-book contracts.** The Bound's whole domain has an underside: contracts sworn outside the honest tables, unregistered terms, and the predatory brokers who arrange them, the pipeline that feeds the Given-Over. Lived face: **the Holding Desk**. Not the Slide's.
+- **Sold vouching.** Since citizenship runs on standing-for, the unvouched will *buy* a voucher, and a market exists in dubious character-witnesses. The one thing that *can't* be faked is a Long-Lived's memory, which is why their honest vouch is priceless and their corrupt one catastrophic. Lived face: **the Standing Trade**. Not the Slide's.
 
 ### How polities vary (economic faces)
 

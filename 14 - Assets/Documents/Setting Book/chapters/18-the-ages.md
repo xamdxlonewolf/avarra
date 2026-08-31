@@ -29,7 +29,7 @@ There is **no universal year-zero.** Same twelve months; three new-year's days. 
 | Who | What they count from | What it sounds like |
 |---|---|---|
 | First Seat / devout clerks | **the First Cut**, in **Cut-years** (liturgical: the *Eoloren-count*). A Cut-year is a year numbered from that hinge, not from a creation or a coronation. | "the 387th Cut-year" |
-| Threnmaieth | Cut-years *and* a crown-count | a number that wants to be a roll |
+| Threnmaieth | Cut-years *and* a crown-count from the Two Papers (C.Y. 67; present **Crown-year 320**) | a number that wants to be a roll |
 | Lestrand / deathless houses | a **house-founding**, a note-issue, a contract-term | "the 200th summer of the White Note" |
 | Vaethorn | **the year our graft took**, or the last *actual* Turning-Week | a child "turns the year" when the local Tree last managed a fall |
 | the Watching | they **refuse the Cut-count** | the overlay is not an epoch; the Tree was already seeing |
@@ -38,7 +38,31 @@ There is **no universal year-zero.** Same twelve months; three new-year's days. 
 
 **Present:** **Cut-year 387**, the 387th summer since the First Cut. Shorthand **C.Y. 387**. It is not a round number.
 
-**What you may not date.** The Awakening Tree is **old beyond reliable dating.** Before the Walk has no start. Who made the First Cut stays contested.
+**What you may not date.** The Awakening Tree is **old beyond reliable dating.** Before the Walk has no start. Who made the First Cut stays contested. The three pre-Walk leftovers (the Low Wall, the Seeing-Ring, the Dry Stair) are *found*, not founded.
+
+### The Other Count
+
+Two clocks still organize how you Turned and where the wood has reached. Three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. This count sits *beside* the clocks. It does not replace them.
+
+In the Walking Years the origin was not an open grove. A class of the untithed **sat on Thaeloren** and decided who might walk to it. Everyday historical name: **the Closed Seat.** Folk: **the Grove-Sitters.** They were an *origin-gate* that grew a country around the one seeing — not a flag on all three continents. Strandoren paid the Salt Walk; it was never a province. Heskoren was beyond a gate's ride. Kumbaan was not in the story.
+
+They thought they were doing horticulture and mercy: the one Tree cannot stand a world at once, so someone must choose the road. That is the same hunger the First Seat later named Cutting-leave, and the same hunger the Inner Close still files as rank. The Inner Close is a walled town *inside* Orenbren. It is not a sixteenth power.
+
+| Cut-years | Everyday name | Kind | What it left |
+|---|---|---|---|
+| **C.Y. 19–38** | **the Closing** | war / political | The First Cut made a local Tree; the Closed Seat tried to uproot the copies and could not. Collapse. Retreat behind the Inner Close. |
+| **C.Y. 67** | **the Two Papers** | political / dynastic (paper, not blood) | One hymn-country became Maiethvael and Threnmaieth. Crown-count starts here. Present **Crown-year 320**. |
+| **C.Y. 171** | **the Grey Summer** | epidemic | Quay-fever on the Old Crossing. Not a Tithe. Trenledd began writing persons. Brenledd piled a compact (C.Y. 174). Leddvael made a signing a civic rite. |
+| **C.Y. 233** | **the Thaw-Break** | natural | Lirorn snowmelt in one week on the Rain-Wall. Noon Pass lost; Shelf-gate taken. West-road cut two summers. |
+| **C.Y. 248** | **the Wrong Green** | Tree / civic | A hug Speaked as copper-green. Human wound. Already a cited year at Harrow's. Not one of the five non-Tree years; kept here so a table does not invent a second Harrow. |
+| **C.Y. 280** | **Ledan's query** | archival dating | The White Note House in its 200th summer. Ledan is Long-Lived; the conversion is still the house's habit. Present house-year **307**. |
+| **C.Y. 299–304** | **the Hinge War** → **the Hinge Hush** | inter-power / treaty | The Hinge Shore and the Ledger Coast over hinge-tolls. The hush is the current Old Crossing peace, with a West Water clause Netstrand still quotes. |
+
+Present remains **C.Y. 387**. Do not slide it. Who cut remains unpicked. A chronicle that writes a first king onto the Before is doing the overlay the Watching warned about.
+
+**What a traveller notices, besides wood.** Three dates on a debt, and a *fourth* if the note survived the Grey Summer. A kitchen that still will not send a child through the Inner Close's gate. A Lirorn pass-stone with a water-line over the old ribbon-notch. A Hinge Shore quay that charges the Hush-rate and will not call it a victory. A Watching night on a ring of stones that is older than any Cut-year anyone will write.
+
+Maiethorn is post-imperial lodging, gift, reckoning, hinge, thaw, and dry sowing — six successors of a grove-gate, not six ancient kingdoms. Strandoren is what the Salt Walk became when the gate died and the fever wrote new paper. Heskoren entered the clocks late. Host-rights were already there.
 
 ### Spread of the wave
 
@@ -547,7 +571,7 @@ Many deathless houses began as road-houses. That fate-shift is already in the pa
 
 The long-house of books is still the deathless paying their own Tithe. The road-past is why anyone trusted them to endow in the first place: a mouth that remembered every debtor on the mile is a mouth you let steer a library.
 
-**The prestige-walk is now a product some houses sell.** A held-over winter at the origin, once the frightened far mercy, is a First-Hand year you can book. The White Note did not invent that. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. Necessity-families still sign the old kind of note: eat now, pay on the home-walk, or when the child is grown, or when a sibling walks next year. Same paper, two jobs. The clerk who files both as occupancy is counting beds, not jobs.
+**The prestige-walk is now a product some houses sell.** A held-over winter at the origin, once the frightened far mercy, is a First-Hand year you can book. The White Note did not invent that. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. The year is assembled on three desks: **Netstrand charters the hull, the White Note writes the term, Orentel holds the berth.** Orenbren houses the sleep at the origin. Necessity-families still sign the old kind of note: eat now, pay on the home-walk, or when the child is grown, or when a sibling walks next year. Same paper, two jobs. The clerk who files both as occupancy is counting beds, not jobs.
 
 Vaethorn will preach that the houses *abandoned the waiting-road*. The walk stopped being required in the core. The memory did not. The paper outlived the season. That is a reformation, and it still collects. Spreading Trees did not make the notes kind.
 

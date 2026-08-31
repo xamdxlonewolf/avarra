@@ -64,6 +64,54 @@ Humans are common. They are not a default the others deviate from. There is no h
 
 Factions recruit by Condition, guild, and faith, not by Kind. A settlement may have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town being that Kind. Ornsael is the worked example: fox-market by the well, mixed Kinds, no gate. A person gets a Kind, a Condition or Kept, and a place. The place names them.
 
+### Hearth-Mark
+
+Stock Daggerheart ancestries grant two features. Each custom Kind grants three. The customs were balanced against each other. Stock is not a trap.
+
+A character whose two ancestry features are **both from stock ancestries** — a single stock Kind, or a stock-and-stock mix — takes a **Hearth-Mark** at character creation. A character who takes **any custom-Kind feature** does not. The third feature *is* the hearth written into the body.
+
+Name the **place that raised you**: a town, a quay, a ridge-road, a walk-hold, a roll-street. Write it as a place-phrase, not a Kind-phrase. *Hallowquay salvage-child* is a Hearth-Mark. *Seal-blood* is not.
+
+**Once per session,** when you make an action or reaction roll that leans on how that place taught you to live, add **+2**. You do not spend Hope for this. You may still spend Hope to add a relevant Experience on the same roll.
+
+This is not an immunity, not a Stress power, and not a shopping list. If a phrase starts granting swim-breath, flight, or "cannot be caught off guard," it has become a feature; throw it back and write the place again.
+
+Everyone still takes a **Community** as the SRD requires. A Hearth-Mark is not a second Community and not a third ancestry feature. You still take the two Experiences the SRD gives every character.
+
+### Mixed Ancestry
+
+The table allows what Daggerheart allows. Mixed Ancestry is a legal heritage, not a rare exception and not a toy you ask permission for. Two mainland Kinds — stock, custom, or one of each — mix by the SRD rule: the **top** (first-listed) feature of one ancestry and the **bottom** (second-listed) feature of another.
+
+Custom Kinds have a third feature. That third feature is the **hearth feature**. It is not available in a mix.
+
+| Kind | Top | Bottom | Hearth (not mixed) |
+|---|---|---|---|
+| Kitsune | Slip the Frame | Fox's Glamour | Your Fox (Wilds / Snows / Sands) |
+| Selkie | Second Skin | Slip the Hold | Seal-Kin |
+| Tengu | Wind-Winged | Wind-Caller | The Mountain's Mood |
+
+Yumboe is **not on this table.**
+
+How to build one:
+
+1. Take **one Top** from one parent Kind and **one Bottom** from the other.
+2. Take **no** hearth feature from either custom Kind.
+3. Take **no** Hearth-Mark if either feature is custom. Take a Hearth-Mark if both features are stock.
+4. If both chosen features grant the same verb (fly and fly, swim and swim), keep one and take the unused listed Top or Bottom from either parent instead. Do not stack the same verb.
+5. Write both sides on the body — ears and webbing, wings and a fox-brush, whatever the pairing is. That is the mix, not a hidden tell waiting to be a third feature.
+
+Do not take three features from one custom Kind and then add a stock feature. Do not take two hearth features. Community is unchanged. Kind still stacks with a Condition. A mixed-heritage character Turns, or is Kept, or is Struck, like anyone else.
+
+A mixed Kitsune is fox-touched (Slip or Glamour). They are not a Fox of the Wilds, Snows, or Sands unless they take the full Kind.
+
+### Yumboe at the table
+
+A Yumboe character needs **GM leave**. They are mythic-rare off Kumbaan; a mainland campaign that seats one has decided the storm-wall let someone through.
+
+If the table says yes, they are the **full Kind**: Hollow-Hill, Moon-Waked, and The Unseen Hands. No Hearth-Mark. No Top/Bottom split. No Yumboe feature paired with a stock or mainland-custom feature.
+
+A child of a Yumboe and anyone else is either a full Yumboe (same GM leave) or the other parent's Kind, with at most a story-tell. They are never a mechanical mix. The good people do not come in halves. That is not a blood-purity doctrine. Distance and the storm-wall are enough.
+
 ---
 
 ## Kitsune
@@ -126,7 +174,7 @@ Death by drowning is the threshold that Strikes the Far-Voiced. Selkies, being s
 - **Second Skin:** You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than anyone should, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
   - *Anchored.* Your skin is your fixed point in the world. Wherever you leave it stashed, you always know the direction and distance to it and can find your way back to it unerringly, however far you've travelled or however turned-around you are. (Loaning your skin, or having it taken, is a matter of story and trust, never a mechanical penalty.)
 - **Slip the Hold:** When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
-- **Seal-Kin:** Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: until the end of your next turn you **cannot be caught off guard** by anything approaching through the water, and the nearest seal-kin surface to aid you: a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety.
+- **Seal-Kin:** Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. A warning and a help. Not an immunity. *Cannot be caught off guard* sits on The Mountain's Mood only.
 
 Selkies are at home in water (long breath-hold, ignore cold and deep, swim advantage) but are not true underwater breathers. That stays the Ribbet's lane. Seal-Kin calls seal-kin to aid. It does not charm people.
 
@@ -157,7 +205,7 @@ Because they can go where footpaths can't and read the mountain's mood before it
 ### Daggerheart ancestry features
 
 - **Wind-Winged:** You can fly. While flying, you can mark a **Stress** to fold your wings and **dive** on a target within Close range: treat it as a **Finesse** attack dealing **d8** physical damage using your Proficiency, and end the dive anywhere within **Very Close** range of that target.
-- **The Mountain's Mood:** You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush**. You always feel it coming in time to act or call a warning before it lands.
+- **The Mountain's Mood:** You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush**. You always feel it coming in time to act or call a warning before it lands. That wording is issued **once**, here, and only against weather and ground. Seal-Kin names an approach. Hollow-Hill feels gait through earth. Neither is this immunity.
 - **Wind-Caller:** You command the mountain wind the way the old fan-bearers did (the fan is a **ha-uchiwa**, a Tengu feather-fan). Mark a **Stress** to call a sudden gust and choose one: **shove** a target within **Far** range a step closer or farther and knock it **Vulnerable**; **carry** yourself or a willing ally an extra move on the wind (a great leap, a saving glide down from a height, a boost across a gap); or **sweep** an area within Close range clear of smoke, gas, fog, or loose airborne projectiles until the start of your next turn.
 
 ### Naming
@@ -194,7 +242,7 @@ Kumbaan has no Turning Tree. There is no Leaf-Fall and no Given Conditions on th
 
 Every Yumboe has all three: **Hollow-Hill**, **Moon-Waked**, and **The Unseen Hands**.
 
-- **Hollow-Hill:** You are one of the good people: **small** (hill-folk stature), and born to the deep earth. You can move through gaps and spaces too tight for a larger creature, and you have **advantage** on Agility Rolls to squeeze, climb, or move through cramped, broken, or underground terrain and to **Hide** where there is cover to slip behind. Underground, or within stone and hill, you always know your depth and heading and **cannot become lost**, and you feel movement through the ground. You **cannot be caught off guard by a creature moving toward you across or beneath the earth.**
+- **Hollow-Hill:** You are one of the good people: **small** (hill-folk stature), and born to the deep earth. You can move through gaps and spaces too tight for a larger creature, and you have **advantage** on Agility Rolls to squeeze, climb, or move through cramped, broken, or underground terrain and to **Hide** where there is cover to slip behind. Underground, or within stone and hill, you always know your depth and heading and **cannot become lost**. You feel movement through the ground: the **direction, number, and gait** (walk, crawl, or slide) of creatures within **Close** range who are on or under the earth. Tremor-sense, not immunity. *Cannot be caught off guard* sits on The Mountain's Mood only.
 - **Moon-Waked:** You keep the night. You see in darkness and dim light as clearly as others see by day, and you have **advantage** on rolls to notice, search, or act **at night or underground**, anywhere the sun doesn't reach. When you take rest **under the open night sky or moonlight**, you clear **1 additional Stress** (or your party gains a little of the good people's ease: the GM's call on the fiction). The daylight doesn't harm you, but you are never quite at your best in its glare.
 - **The Unseen Hands:** You can call the good people's unseen servants (**hands and feet plainly visible, but no body between them**) to attend you. At will, they perform small tasks within **Close** range: fetch and carry a light object, pour and serve, hold a door or a rope, steady a load, lay a table. Once per scene, you can mark a **Stress** to set them to **harry** instead: a flurry of unseen hands swarms a target within **Close** range, and until the end of its next turn choose one: the target has **disadvantage** on its next attack, **or** the next ally to act against it has **advantage**. The hands are a conjured seeming of many small helpers. They are not a force. They can distract, fumble, and fetch, but they can't deal damage, wield a weapon, or restrain a determined creature.
 

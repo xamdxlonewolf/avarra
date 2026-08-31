@@ -261,6 +261,22 @@ A Yumboe abroad is a table-keeper by necessity. One person can keep Ndeyaan in a
 
 Both branches set the extra place. A Serving host who will not say the dead's names and a Staying host who will not stop saying them will still pass the same cup. The argument is for after the dishes.
 
+### The sentence at the mainland lintel
+
+On Kumbaan, *no one is a stranger twice* is how you belong. On the mainland, you belong because a town watched you Turn.
+
+This is the faith's edge on the mainland. It does not need a mission and it does not need a chapel on Strandoren. It needs a room, a tenth year, and a clerk who has a different grammar.
+
+**The everyday collision (citizenship).** A guest sits a second night in a Lestrand attic. The host says the sentence and means it. A quay clerk, a Book-hand, a warden passing through, wants a Turning-witness before they will treat that person as *of a place*. Inside the room: kin. Outside the door: guest. Neither office is cruel. The sentence does not cross the lintel intact.
+
+**The week that can close (the Given-door).** A child of the table — isle-raised, convert-raised, a sailor's tenth summer in a port — reaches Turning-Week. The host will not walk them to a Turning Tree. They were never lacking. A neighbour or a town-warden will. The Given-door is **one week**. If the argument outlasts Eolthael, the child is unTurned. Struck doors still open later. That is not a comfort the host asked for, and not a victory the warden can file as kindness.
+
+This is not a Kumbaan crusade. The child is already on the mainland. The storm-wall stayed where it was.
+
+**Mbela** *(MBEH-lah)* keeps an attic off a Lestrand salt-stair and will not spend a child's week on a colour. **Sorel** of the quay will not file a second supper as belonging, and will walk a tenth-year neighbour to the Tree if the host will not. They are not a party. They are two grammars that share a landing.
+
+Romanticizing the Moon-Feast is itself a slight. Printing the sentence on a luck-card is how Lestrand files the whole faith. The woman in the attic still sets the place.
+
 ### A place-setting blessing
 
 Said to the empty plate before the hands arrive. Taught to children. Heard once, badly copied, by a Strandor sailor who did come back.

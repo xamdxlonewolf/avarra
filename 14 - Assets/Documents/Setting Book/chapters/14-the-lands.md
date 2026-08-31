@@ -35,7 +35,7 @@ The other named powers on each continent are built from the same old words. You 
 Reading the world roughly **east to west**, along the reach-gradient:
 
 - **Maiethorn** anchors the **east**: the old heart, where the land is oldest and most settled and the Awakening Tree still stands. Everything the world calls "the center" is here.
-- **Strandoren** lies **west across a navigable inner sea**, close enough to Maiethorn for constant, ancient trade (the two are the "Old World" pair), its long indented coasts facing the crossing. The inner sea between them is the busiest water in the world.
+- **Strandoren** lies **west across the Old Crossing**, close enough to Maiethorn for constant, ancient trade (the two are the "Old World" pair), its long indented coasts facing the crossing. The Old Crossing — the inner sea, in older talk — is the busiest water in the world.
 - **Heskoren** sprawls **further west and south**, beyond Strandoren's far coast, reached late, grafted late, the edge of the settled world. Between Strandoren and Heskoren the sea widens and the reach thins. This is where the frontier begins.
 - **The Sundering Isle** sits **alone in the far west (or deep south) ocean**, past Heskoren's last capes, walled off by the **storm-wall**: a band of killing weather, currents, and reef that has wrecked most who tried the crossing. It is off the reach-gradient entirely: near-Treeless, seldom reached, its people mythic-rare in all three other continents.
 
@@ -45,7 +45,7 @@ Maiethorn and Strandoren are close and old. Heskoren is far and thin. The Isle i
 
 | Continent | Reach | Role | Named powers here | Rival faith |
 |---|---|---|---|---|
-| **Maiethorn** (the Motherland) | full | The sacred origin; the Awakening Tree stands here | Threnmaieth · Maiethvael · Orenbren · Saelthael · Eolstrand · Lirorn | the Watching |
+| **Maiethorn** (the Motherland) | full | The sacred origin; the Awakening Tree stands here | Threnmaieth · Maiethvael · Orenbren · Saelthael · the Hinge Shore · Lirorn | the Watching |
 | **Strandoren** (the Shore-lands) | high | The great trade continent, the world's crossroads | Lestrand · Brenledd · Leddvael · Trenledd · Netstrand | the Fair Hand |
 | **Heskoren** (the Sundered Reach) | thin | The frontier; newest-grafted, half-wild | Vaethorn · Ornled · Vaelhesk · Saelvaeth | the Old Ways |
 | **The Sundering Isle** (Kumbaan, the Yumboe homeland) | near-none | The storm-walled remote isle; mythic-rare people | *(not a mainland power)* | the Open Table |
@@ -74,7 +74,7 @@ Proximity to the holy is pressure. Devotion here is the heaviest in the world. I
 
 **The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn (same Trees, same old *th*, same pilgrimage-pull westward toward Thaeloren). It is simply the Motherland's other weather. Towns here cluster at wells and at whatever graft will take in thin soil. **Ornsael**, the sown-ground, sits on the west-road: the core had already stopped walking when sand-country still went west.
 
-**The western coast** faces the busy **inner sea** toward Strandoren, the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
+**The western coast** faces the busy **Old Crossing** toward Strandoren, the oldest trade route in the world, the "Old World" crossing (the inner sea, in older talk). Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
 
 ### Reach
 
@@ -86,9 +86,9 @@ How the wood got here is the First Cut: Cut-years 0–80, origin-towns first, a 
 
 - **Threnmaieth, the Tallied Crown** (theology high · reach high · governance high). The wealthy, pious, surveilled core kingdom, near the sacred center. Its census, the **Threnhael**, sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is why Threnmaieth has so much to count. Seat: **Maiethlir** (thaw-river Hand; does not own the grove).
 - **Maiethvael**, the Gift-Realm: devout, rich, no list.
-- **Orenbren**, the Witness-Hearths: lodging as power; does not own the Tree. Square: the Third Hearth.
+- **Orenbren**, the Witness-Hearths: lodging as power; does not own the Tree. Square: the Third Hearth. The **Inner Close** sits inside this compact — a walled town of Closed Heirs, not a sixteenth flag.
 - **Saelthael**, the Sown Tree: Rain-Shadow still walking. Square: Ornsael.
-- **Eolstrand**, the Hinge-Shore: inner-sea face.
+- **the Hinge Shore**: Old Crossing face; classifies the hull.
 - **Lirorn**, the Thaw-Land: range and snowmelt.
 
 Hearths, not Kind-nations. The other twelve of the fifteen keep their seats unnamed.
@@ -115,7 +115,7 @@ It is free, prosperous, and cool. Nothing here is policed (your faith, your gift
 
 **The indented coast.** Strandoren's defining feature: a shoreline of countless natural harbours, tidal estuaries, and sheltered sounds. Every notable town is a port. The sea is the continent's highway. This is the densest Selkie hearth in the world: not a Selkie nation, a lot of shoreline.
 
-**The inner sea** (east): the narrow, crowded, ancient water between Strandoren and Maiethorn. The busiest crossing in the world, the "Old World" trade artery.
+**The Old Crossing** (east): the narrow, crowded, ancient water between Strandoren and Maiethorn. Everyday name everywhere. Older talk still says *the inner sea*. The busiest crossing in the world, the "Old World" trade artery. The Hush-rate is still charged on this water.
 
 **The open ocean** (west and south): where the coast faces the widening sea toward Heskoren and, far beyond, the Sundering Isle. Strandoren's boldest merchant-houses run the frontier trade to Heskoren. Almost none have crossed the storm-wall to the Isle (those who claim to are the tellers of the Yumboe stories).
 

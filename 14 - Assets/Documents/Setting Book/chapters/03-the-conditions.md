@@ -1,5 +1,26 @@
 # The Conditions
 
+Condition cards do not advance with character level. A becoming is not a class. The card you hold at level 1 is the card you hold at level 10. Class features, domain cards, Experiences, weapon tier, and Hope scars are what change around it.
+
+What can still deepen: a Two-Bodied may attach an animal-form Experience when they would gain an Experience, and a second signature capability only as a once-ever story milestone. Returned and Phoenix spend Hope slots — a countdown, not a power-up. Bound Terms and Pledge move by story. Attacks that use Proficiency (Kindle, Reach, the Green Word, the Two-Bodied natural weapon) rise because Proficiency rises, not because the Condition card levels.
+
+Tithe clocks drain or fill on a **long rest** unless the card names another trigger. A day with two short rests does not tick these clocks twice. At each long rest, run this list once. Each line is yes-or-no.
+
+| Condition | At this long rest | Not a rest clock |
+|---|---|---|
+| Long-Lived | Spent Hope on Unfading Mind, used Blood-Read, or spent a downtime move in study or witness? **Refill.** Else **remove a Memory token.** | — |
+| The Answered | Spent Hope on Reach since last long rest? **Refill.** Else **remove a token.** | Asking the element a question |
+| The Taken-In | Can you touch a living plant where you rest? **Refill.** Else **remove a Green token.** | — |
+| The Stilled | This long rest included a physical downtime move, a spar, a drill, or a fight? If not, **add a Grey token.** | Gaze still adds Grey when used |
+| The Unbound | Rested with someone who knows your name and shares the meal or the watch? **Refill Quiet.** Else tokens stay. | Spending Quiet in play |
+| Returned | Did anything toward your Purpose since last long rest? If not, settle (Stress, cold touch). | — |
+| Far-Voiced | — | Scene: mark Stress from feeling, or the GM names grief, terror, rage, or joy |
+| Two-Bodied | — | A day without the other self; next Fear roll shifts you |
+| Bound | — | Terms and the Whisper |
+| Phoenix | — | Death and the Dwindling |
+
+---
+
 ## Long-Lived
 
 **Folk recognition.** The old tales called them vampires. **Path.** Given only: a rare leaf-colour at Leaf-Fall. **Share.** About 2.5 percent. **Standing.** Rare and revered.
@@ -18,12 +39,12 @@ They can have children and families, but none are guaranteed to inherit the Cond
 
 > *Ageless keepers of memory, law, and record: they live on what they learn.*
 
-- **Unfading Mind:** Your aging has stopped and you forget nothing you take in. Spend a **Hope** to recall any detail you have personally witnessed (exact and complete), or to gain **advantage** on a roll to recognize, appraise, or recall.
+- **Unfading Mind:** Your aging has stopped and you forget nothing you take in. You have **advantage** on rolls to recognize, appraise, or recall what you have personally witnessed. **Spend a Hope** to recall a witnessed detail *complete* — the vow as spoken, the face, the exact count. The Hope is for the perfect record, not for the ordinary librarian's job.
 - **Blood-Read:** Memory rides in blood. Taste a **single drop** of a creature's blood (freely given, or from a wound) and you read a **true memory** carried in it, a fragment of what that person has lived, chosen by the GM to fit what the blood remembers. It is never predation and never harms the donor: one drop, one glimpse. The older or more guarded the memory you reach for, the less you may get.
-- **The Hunger to Know** *(Tithe):* Place **3 Memory tokens** on this card. Refill all of them whenever you **learn something genuinely new** (read a book you haven't, hear a true account, witness a place or event first-hand; a downtime move, or the GM's call in play). Each time you take a rest **without** having learned anything new since your last rest, **remove a token**:
+- **The Hunger to Know** *(Tithe):* Place **3 Memory tokens** on this card. **At a long rest, refill all tokens** if since your last long rest you **spent Hope on Unfading Mind**, **used Blood-Read**, or **spent a downtime move** in study or first-hand witness. Otherwise **remove a token**. Always-on advantage does not refill the clock; using the keeper-tools does. Each time you lose a token:
   - **2 tokens:** no effect.
-  - **1 token:** the **fade** begins: your action and reaction rolls are at **disadvantage**, and you start losing older memories (describe what slips).
-  - **0 tokens:** you are **starving**. Mark a **Hit Point** at the start of each rest, and you cannot clear it while at 0 tokens. If you would mark your last Hit Point this way, you do **not** make a death move: you simply **go still**, mind emptied, the true death of the Long-Lived.
+  - **1 token:** the **fade** begins: **disadvantage** on rolls to recall, recognize, appraise, or use Presence, and you start losing older memories (describe what slips). Other action and reaction rolls are untouched.
+  - **0 tokens:** you are **starving** — you are **Vulnerable**, and at the start of each **long rest** still at 0 tokens you **mark a Stress**. If you would mark your last Stress this way, mark a **Hit Point** instead. If you would mark your last Hit Point this way, you do **not** make a death move: you simply **go still**, mind emptied, the true death of the Long-Lived. You may clear Hit Points and Stress as usual. Getting a token back (a Hope spent on recall, a Blood-Read, a downtime study) stops the starve before the next long rest.
 
 ---
 
@@ -46,19 +67,19 @@ Because the upkeep is simply being the animal sometimes, most Two-Bodied satisfy
 > *A person who carries a second, animal self, not a beast that overtakes them.*
 
 - **The Other Self** *(boon):* You have a second body: a specific real animal, chosen when you become Two-Bodied. You may **shift between your two selves at will**, as an action. The change is **always yours to command**, no Stress and no roll (your gear melds with you and returns when you change back). In animal form you gain:
-  - **Natural build.** Your animal's real gifts are yours: a **natural weapon** (teeth, claws, antler, hoof) you can attack with, plus the beast's movement: a wolf's run, an otter's swim, a hawk's flight. The natural weapon uses your normal attack; it does not stack extra damage dice on top of a wielded weapon. You are one or the other.
+  - **Natural build.** Your animal's real gifts are yours: a **natural weapon** (teeth, claws, antler, hoof): **Primary** · **Instinct**, or **Strength** if the animal's signature is brute force (bear, boar) · **Melee** · **d8 phy** (housecat-sized: **d6 phy**; bear or boar: **d10 phy**) · **One-Handed** · **Natural** — cannot be disarmed; usable only in animal form; you cannot equip another Primary while in this form. Roll damage dice equal to your **Proficiency**, as with any other weapon. You do not add a second weapon's dice on top. Plus the beast's movement: a wolf's run, an otter's swim, a hawk's flight. You are one or the other.
   - **A signature capability,** chosen with the GM to fit the animal: e.g. a hawk's *see a mouse from the sky*, a wolf's *run a scent for miles*, a bear's *shrug off a blow* (**advantage** on the fitting rolls, or a small once-per-scene effect the GM sets). One signature to start.
   - **An animal Experience.** Choose one **Experience** reflecting your animal's nature (e.g. "Wolf's Nose," "Cat's Balance," "Bear's Strength"), usable only in animal form.
   - **A voice, not a driver.** Your other self has its own name, temperament, and inner voice you can converse with. It is pure roleplay: it flavors and nags, grants no mechanical bonus on its own, and **can never take an action you don't choose**.
 - **Both Must Be Lived** *(Tithe):* If a full day passes without time spent as your other self, it grows restless. The next time you roll with **Fear**, you **shift into it whether you meant to or not, and mark a Stress**. You stay fully in control. Only the *timing* isn't yours. Shift back normally.
 
-**Growth.** You start with **one** animal-form Experience and **one** signature capability. Whenever you would gain an Experience, you may attach a new **animal-form Experience** to your other self (usable only in animal form). Your **signature capability stays one**, with a single exception: **a second signature is a once-ever milestone**, never a routine pick. It is granted by the GM as the payoff of a genuine story arc (a season lived almost entirely in your other self, a defining trial passed in that shape), and it is the only way the capability count ever grows.
+**Growth.** You start with **one** animal-form Experience and **one** signature capability. Whenever you would gain an Experience, you may attach a new **animal-form Experience** to your other self (usable only in animal form). Your **signature capability stays one**, with a single exception: **a second signature is a once-ever milestone**, never a routine pick. It is granted by the GM as the payoff of a genuine story arc (a season lived almost entirely in your other self, a defining trial passed in that shape), and it is the only way the capability count ever grows. The natural weapon's die does not rise with character level; only Proficiency does. The Tithe is not a rest clock. It rides the duality dice on purpose.
 
 ---
 
 ## Returned
 
-**Folk recognition.** The old tales called them zombies. **Path.** Struck only: it requires death. **Share.** About 9 percent. **Standing.** Normal and quietly respected.
+**Folk recognition.** The old tales called them zombies. **Path.** Struck only: it requires death. **Share.** About 7 percent. **Standing.** Normal and quietly respected.
 
 The Returned are not rotting, mindless corpses. A Returned is a person who died with something unfinished, and whose purpose keeps them walking: calm, deliberate, unafraid of death because they have already met it. Where the folklore zombie decays, the Returned persist.
 
@@ -72,7 +93,7 @@ When the unfinished thing is finally done, they have a choice death denied them.
 
 > *You died with something unfinished. It keeps you walking.*
 
-- **Unfinished Business** *(boon):* You have already died once, and death does not hold you the way it holds other people. When you make a **death move**, you gain a fourth option: **Refuse to Fall.** Instead of dying, you go down (taken out of the current scene) and pull yourself back together by the next **long rest** (describe how). Coming back leaves a mark, as any brush with death does: **cross out a Hope slot as a scar.** **If you would cross out your last Hope slot this way, you cannot Refuse to Fall.** The unfinished thing finally lets go, and that death is true and final. (The SRD scar rule is the same: crossing out your last Hope slot ends the character's journey.) Your other death-move options are unchanged. You may still choose **Blaze of Glory**, or gamble on **Risk It All** and simply die if it fails. Refuse to Fall is the *steady* road back, and it is **finite**, counted in scars. You are also **unshaken by the dead and dying**: automatically pass rolls to resist fear, horror, or despair from corpses, gore, and deathly places.
+- **Unfinished Business** *(boon):* You have already died once, and death does not hold you the way it holds other people. When you make a **death move**, you **cannot choose Avoid Death**. Your options are **Blaze of Glory**, **Risk It All**, and a fourth option this card gives you: **Refuse to Fall.** Avoid Death is the safe road — unconscious, a chance of a scar, back when an ally clears a Hit Point or the party finishes a long rest. A Returned already died; that road is spent. **Refuse to Fall:** you go down (taken out of the current scene) and pull yourself back together by the next **long rest** (describe how). Coming back leaves a mark: **cross out a Hope slot as a scar.** **If you would cross out your last Hope slot this way, you cannot Refuse to Fall** — the unfinished thing finally lets go, and that death is true and final. You may still choose **Blaze of Glory**, or gamble on **Risk It All** and die if it fails. Refuse to Fall is the *steady* road back, and it is **finite**, counted in scars. You are also **unshaken by the dead and dying**: automatically pass rolls to resist fear, horror, or despair from corpses, gore, and deathly places.
 - **The Tether** *(Tithe):* Name your **Purpose**, the unfinished thing that holds you here (write it on the card). While you can still act toward it, you are steady. If a **long rest** passes in which you did nothing in service of your Purpose, you begin to **settle**: mark a **Stress** that can't be cleared until you next act toward it, and your **touch runs cold**. Living creatures you touch (or that touch you) feel a bone-deep wrongness and mark a Stress, and you have **disadvantage** on rolls to comfort, persuade, or charm the living until you act toward your Purpose again.
 
 **When the Purpose is fulfilled.** Settle, become Kept, or name a new Purpose and keep walking.
@@ -119,17 +140,17 @@ A player cannot simply choose the Unbound at character creation. It is a downstr
 
 > *You paid what you promised. Something is missing now, and the missing place is quiet, and strong.*
 
-- **The Absence:** Name what the contract took (the Bound Pledge). You permanently lose it, in the fiction and, where it matters, on the sheet, **and** you are **immune to anything that works through it**. The bigger the hole, the wider the immunity and the heavier the daily lack. Agree the details with the GM at the moment you become Hollow. Three lanes:
-  - **A capacity of the mind** (fear, grief, love, the ability to lie, memory of a person or place) → immune to effects that work through it (gave up fear → auto-pass fear/horror/intimidation; gave up deceit → you *cannot* lie, and no lie deceives you). Mostly fiction plus a clean immunity.
-  - **A sense of the body** (an eye, hearing, taste) → a fictional loss with a sharp edge (gave up an eye → disadvantage on rolls needing depth/distance, **but** immune to gaze- and sight-based effects: the Stilled stilling, blinding light, illusions you must see).
-  - **A part of the body** (a leg, a hand) → fictional loss plus a standing penalty the group accepts, offset by immunity to pain and effects through it (and often a prosthetic or Condition-crafted replacement in the fiction).
-- **The Quiet** *(Tithe):* Place **3 Quiet tokens** on this card; begin play with them filled. **Spend a Quiet token** to do what the hole makes easy, to feel *nothing* where feeling would cost you: ignore a fear/despair/grief effect, push through what should stop you, stay perfectly calm and empty under pressure (mark nothing, take no Stress; the emptiness carries you). Refill all tokens on a **long rest spent in genuine human connection** (company, warmth, a shared meal, being *known*). **At 0 tokens the pull turns loud:** while empty, whenever a bargain, favor, or offer of power is on the table, the GM may present it as unusually reasonable, and **refusing to reach for it costs a Stress**. Suggestion, never compulsion. You can always say no; it just aches. This is the road back to Bound, and from there toward the Given-Over spiral.
+- **The Absence:** Name what the contract took (the Bound Pledge). You permanently lose it, in the fiction and, where it matters, on the sheet. The hole is also a **narrow immunity**: you are immune to effects that would **mark Stress** (or grant the GM **Fear**) *by working through that capacity*. You are not immune to every roll in the lane. Agree the details with the GM at the moment you become Hollow. Three lanes:
+  - **A capacity of the mind** (fear, grief, love, the ability to lie, memory of a person or place) → immunity only to **Stress-marking** (or Fear-granting) effects that use that capacity. Gave up fear: a terror that would mark Stress does not; you still have to treat a scared crowd as a crowd. Gave up deceit: you *cannot* lie, and a lie that would mark Stress if it landed does not mark Stress on you. You do not automatically know every lie.
+  - **A sense of the body** (an eye, hearing, taste) → immunity to **Stress-marking** effects that require that sense (the Stilling Gaze aimed at you, a blinding light that would mark Stress). Illusions you must see still work unless they would mark Stress through that sense.
+  - **A part of the body** (a leg, a hand) → immunity to **Stress-marking** pain or effects through that part (and often a prosthetic or Condition-crafted replacement in the fiction).
+- **The Quiet** *(Tithe):* Place **3 Quiet tokens** on this card; begin play with them filled. **Spend a Quiet token** to act through the hole: take an action the missing thing would have stopped, or gain **advantage** on a roll where the empty place makes the hard thing easy. You still mark Stress from effects outside your Absence immunity. Quiet is not a second no-sell of the same lane. **At a long rest, refill all tokens** if you rest with at least one other person who **knows your name** and shares the meal or the watch. Alone, or among strangers who do not know you, the tokens stay where they are. **At 0 tokens the pull turns loud:** while empty, whenever a bargain, favor, or offer of power is on the table, the GM may present it as unusually reasonable, and **refusing to reach for it costs a Stress**. Suggestion, never compulsion. You can always say no; it just aches. This is the road back to Bound, and from there toward the Given-Over spiral.
 
 ---
 
 ## Far-Voiced
 
-**Folk recognition.** The old tales called them sirens. **Path.** Both. **Share.** About 11 percent. **Standing.** Revered.
+**Folk recognition.** The old tales called them sirens. **Path.** Both. **Share.** About 12 percent (~11% Given, ~1% Struck). **Standing.** Revered.
 
 A Far-Voiced is not an irresistible song that lures the unwilling to their death. Their voice has total emotional fidelity: it carries exactly as far, and exactly as true, as the Far-Voiced means it to. The old trope's horror (a song that overrides your will) is not how this works. The danger runs the other direction, into the Far-Voiced themself.
 
@@ -146,7 +167,7 @@ A Bound detects others' lies. A Far-Voiced betrays their own feeling.
 > *Your voice carries exactly as far, and exactly as true, as you mean it to.*
 
 - **The Carrying Voice:** Your voice is never lost to distance, weather, noise, or water, and it lands with the emotional weight you intend. Spend a **Hope** to be heard clearly and understood by everyone you intend, across any distance or chaos in the scene, **or** to land a rally, warning, plea, or calming word with exact emotional force: gain **advantage** on that roll.
-- **The Undertow** *(Tithe):* Place **3 Breath tokens** on this card. Whenever you feel a strong emotion in a scene (grief, terror, rage, joy), you must **vent it**: sing, cry out, laugh, weep, something audible, before the scene ends. If you don't, **remove a token**:
+- **The Undertow** *(Tithe):* Place **3 Breath tokens** on this card. This clock is **scene-triggered**, not a rest drain. When you **mark Stress from feeling**, or the GM names grief, terror, rage, or joy as what's in you this scene, you must **vent it**: sing, cry out, laugh, weep, something audible, before the scene ends. If you don't, **remove a token**:
   - **2 tokens:** no effect.
   - **1 token:** the **undertow pulls**. Your voice starts leaking whatever you're actually feeling underneath your words. You have **disadvantage** on rolls to persuade, deceive, or perform a feeling you don't hold.
   - **0 tokens:** the next strong emotion you feel escapes as an involuntary **Cry**. Everyone within earshot marks a **Stress** as your raw feeling crashes into them (the GM may instead gain a **Fear** for a crowd or hostile scene). The Cry empties you: mark a **Stress** yourself, then refill to **2 tokens**. It's out now, one way or another.
@@ -173,8 +194,9 @@ The Stilled drill hard, spar often, and stay physically busy almost as a matter 
 
 > *You can hold a moment still. The stillness has to come from somewhere, and if you don't move it along, it settles into you.*
 
-- **The Stilling Gaze:** You may still a wound, a spreading harm, or a struggle you can see. Stop a creature's bleeding or the spread of a poison or disease, or hold a target **Restrained** for a beat: they cannot act until they mark a Stress to break free, or until the scene moves on. It is brief and precise. Nothing you still this way is harmed by the stilling itself. The stillness has to come from somewhere: **each time you use the Gaze, add a Grey token**.
-- **The Grey** *(Tithe):* The stillness you spend collects in you, and if you don't work it back out, it settles. Place **Grey tokens** on this card, starting at **0**. This is a *filling* clock, not a draining one. **Add a Grey token** each time you use the Stilling Gaze, and **add one** whenever a rest passes without real, vigorous exertion (a hard spar, a dance, heavy labor, a fight: anything that works the body). **Clear one token** for each scene you spend in that kind of exertion. The stillness rises:
+- **The Stilling Gaze:** You may still a wound, a spreading harm, or a struggle you can see. **A harm** (bleeding, poison, disease) you can see: no roll. The harm pauses until you look away, use the Gaze again, or the scene ends. **A willing or downed creature:** no roll. They gain **Stilled** (below). **An unwilling creature:** make an **attack roll** (Instinct or Presence). On a success, they gain **Stilled**. A miss still adds Grey. You can keep **one** stilling at a time; a new use releases the last. Nothing you still this way is harmed by the stilling itself. The stillness has to come from somewhere: **each time you use the Gaze, add a Grey token**.
+- **Stilled** *(special condition, not Restrained)* — A Stilled creature cannot take **actions or reactions**. They can speak, perceive, and be targeted. They are not Restrained: they can be moved by others. They may **mark a Stress** to clear Stilled when they would act. It also clears if you look away, use the Gaze on another target, or the scene ends.
+- **The Grey** *(Tithe):* The stillness you spend collects in you, and if you don't work it back out, it settles. Place **Grey tokens** on this card, starting at **0**. This is a *filling* clock, not a draining one. **Add a Grey token** each time you use the Stilling Gaze, and **add one** when you take a **long rest** that did not include vigorous exertion (a downtime move spent on labor, a spar, a drill, or a fight). **Clear one token** at the end of a scene in which you marked Stress from physical effort, or dealt or took damage. The stillness rises:
   - **1 token:** no effect.
   - **2 tokens:** the **grey creeps in**. Your joints stiffen; you have **disadvantage** on Agility rolls and on rolls to evade.
   - **3 tokens (full):** the stillness **seizes**. The next time you use the Stilling Gaze, or the next time you take damage, one of your own limbs **locks stone-still**, useless until it's tended and rested off (describe it: an arm, a leg, your jaw). The GM may instead gain a **Fear**: something small and nearby (a doorknob, a cup, a patch of ground) turns permanently to stone, collateral of the seizing. Afterward, clear back to **1 token**.
@@ -206,7 +228,8 @@ There is no Struck door. An element answers at the Awakening, or it does not. Th
 Choose your **element** at creation: **Ember**, **Tide**, **Root**, or **Gale**. It sets both features below.
 
 - **The Answering Hand** *(boon):* Your element obeys your hands without tool, forge, or force (glass blown with no furnace, a hull bent with no steam, stone coaxed with no chisel), granting **advantage** on any action roll to shape, repair, wield, or read something made of your element. In the moment, it answers too: **spend a Hope** to use your element's **Reach** (see the table). The Reach is always available. The Tithe below is what wears down if you don't use it.
-- **The Untended Element** *(Tithe):* Place **3 tokens** on this card. **Refill all of them** whenever you use your Reach in earnest: a rescue, a fight that mattered, real work of your trade. Not idle showing-off. Each time you take a rest having done **none** of that since your last, **remove a token**. At **2 tokens:** no effect. At **1** and **0**, the element starts speaking for itself. See the table.
+- **Spoken, not commanded** — Once per **long rest**, you may **ask** your element one question it can feel through its medium. Ember: heat, fuel, and what would burn. Tide: flow, depth, and what the water has touched. Root: weight, fault, and what the stone holds. Gale: pressure, scent, and what the air carries. The GM gives a clear impression, not a map. Your element does not obey another creature's order or bargain. If someone tries to treat it as theirs, it does not answer them. You may **spend a Hope** to turn that refusal into a Reach effect aimed at the interruption.
+- **The Untended Element** *(Tithe):* Place **3 tokens** on this card. **At a long rest, refill all tokens** if since your last long rest you **spent Hope on Reach**. Otherwise **remove a token**. Asking the element a question does not refill the clock; spending Hope on Reach does. At **2 tokens:** no effect. At **1** and **0**, the element starts speaking for itself. See the table.
 
 | Element | **Reach** (*spend a Hope*) | **1 token** (restless) | **0 tokens** (it lets go) |
 |---|---|---|---|
@@ -221,7 +244,7 @@ Every 0-token consequence lands on the Answered's own body or the air, water, an
 
 ## The Taken-In
 
-**Folk recognition.** The old tales called them leshy: trickster forest-spirits that led travelers in circles until they died. **Path.** Both. **Share.** About 12 percent. **Standing.** Respected but looked-down; frontier.
+**Folk recognition.** The old tales called them leshy: trickster forest-spirits that led travelers in circles until they died. **Path.** Both. **Share.** About 13 percent (~12% Given, ~1% Struck). **Standing.** Respected but looked-down; frontier.
 
 One of the Taken-In is not a haunting and not a lure. They are a person the wild took partway into itself and gave back changed: bark at the knuckles, moss in the hair, a spread of antler or a knot of root somewhere on the body, and green things that lean toward them. The wild lives in them now, and answers them, which is exactly why the hard land gets worked at all.
 
@@ -241,7 +264,7 @@ Their work *is* their upkeep. A life spent on soil, among growing things, under 
   - **Spend a Hope** to make roots, vines, and brush erupt from any natural ground within **Close** range. Make an **attack roll** (Instinct or Strength) against a target there. On a success, deal **physical damage in d6s equal to your Proficiency** and the target is temporarily **Restrained**; **or**
   - **Spend a Hope**, while in any natural cover (brush, trees, tall grass, roots, soil), to draw it around you and become **Hidden**; **or**
   - **Spend a Hope** to force sudden, useful growth. A branch bridging a gap, a screen of thicket, a root ladder, a burst of ripe forage. The GM sets the scale.
-- **The Rooting** *(Tithe):* Place **3 Green tokens** on this card. **Refill all of them** whenever you take a rest in true contact with living land (soil under you, open sky, a forest, a field, anything growing). Each time you take a rest **cut off** from it (sealed in stone, deep indoors, at sea, on dead ground), **remove a token**:
+- **The Rooting** *(Tithe):* Place **3 Green tokens** on this card. **At a long rest, refill all tokens** if you can **touch a living plant** where you rest (soil, a tree, a field, a potted green). Otherwise **remove a token**. The test is yes or no. Open sky without a plant does not count. A window-box does.
   - **2 tokens:** no effect.
   - **1 token:** you **wilt**. Your green browns and sheds, and you have **disadvantage** on action rolls to resist fear, despair, or exhaustion (the wild in you is starving and it drags at you).
   - **0 tokens:** you **go to seed**. Mark a **Stress**; you are **Vulnerable** until you next touch living land, and the wild reaches for any it can find (weeds crack the flagstones, a beam sprouts leaves, roots buckle the floor: the room around you goes riotously overgrown). The GM may instead gain a **Fear** in a tense scene. Reach living land and refill to **2**.
@@ -267,7 +290,7 @@ This makes a Phoenix a fault-line a whole city forms around. In a single town th
 
 They cannot hide in a crowd. A Phoenix is *the* Phoenix, and everyone has heard the stories. This is the true weight of the Condition, heavier than any Tithe: you are the most known person alive, and the world has already decided what you mean.
 
-A Phoenix is a spotlight Condition. The group and GM agree to it together, the way a table agrees to a campaign about a chosen one, and the player commits to roleplaying the legend: the constant recognition, the followers and hunters, the impossibility of an ordinary life. It plays as a slow-burning, finite-lives arc, not a casual pick. It also works as a recurring legendary NPC whose rebirths a party witnesses across an age.
+A Phoenix is a spotlight Condition. The **whole table** agrees — the Phoenix player and the **other players** commit together, the way you'd agree to a campaign about a chosen one. If anyone at the table does not want that weight, pick another Condition or run the Phoenix as an NPC legend. The player commits to roleplaying the legend: the constant recognition, the followers and hunters, the impossibility of an ordinary life. It plays as a slow-burning, finite-lives arc, not a casual pick. It also works as a recurring legendary NPC whose rebirths a party witnesses across an age.
 
 Day to day, a Phoenix pays nothing: no hunger, no rooting, no venting. The whole cost is spent at death, in *self*: a little less memory, one fewer life. The real upkeep is social and unrelenting: being the only one. A Phoenix cannot walk a market unrecognized, cannot refuse the meaning others pour into them, cannot stop the worshippers or the hunters from finding them, and cannot grieve a rebirth in private. The stories are heavy with loss for a reason: Phoenixes who rose so many times they forgot their own children, and Phoenixes who ended not by a hunter's hand but by simply choosing to stay dead rather than come back as still less of themselves. A Phoenix late in their cycle is a person made mostly of legend, with almost none of their first life left inside.
 
@@ -280,13 +303,13 @@ They can furl the wings of fire and pass, for a moment, as ordinary. The moment 
 **The living-fire boons** (a Phoenix simply *is* these, no cost unless noted):
 
 - **Deathless to Flame:** You cannot be harmed by fire or heat of any kind: you take **no damage from fire** and can walk through, stand in, and breathe within flame unharmed. Ash and cinder are home.
-- **Wings of Fire:** You have wings of living flame and **you can fly.** While flying, you may **mark a Stress** after an adversary attacks you to gain a **+2 bonus to your Evasion** against that attack. (You can furl the wings to pass for ordinary, but the moment you fly, everyone watching *knows what you are*.)
+- **Wings of Fire:** You have wings of living flame and **you can fly.** **Once per rest**, while flying, you may **mark a Stress** after an adversary attacks you to gain a **+2 bonus to your Evasion** against that attack. (You can furl the wings to pass for ordinary, but the moment you fly, everyone watching *knows what you are*.)
 - **Kindle:** **Spend a Hope** to send a burst of fire at a target within **Close** range. Make an attack roll (Instinct or Strength). On a success, deal **magic damage in d6s equal to your Proficiency** and the target is temporarily **On Fire**.
 
 **The rebirth:**
 
-- **Rise From Ash:** When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene. You return with all Hit Points and Stress cleared, standing in your own ashes. Rebirth burns part of who you were. With the GM, name a piece of the old life that did *not* come back: a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before.
-- **The Dwindling** *(Tithe):* Rebirth is finite, and paid in self. **Each Rise From Ash permanently crosses out a Hope slot**, as a scar does; your lives are counted in Hope. **When you would cross out your last Hope slot to Rise, you cannot.** That death is your true and final one, and this turn of the soul ends for good (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). *Then, somewhere, a leaf falls for the next Phoenix.* The dread is the **count**: everyone at the table can see how many risings are left, and so, quietly, can the Phoenix.
+- **Rise From Ash:** When you make a **death move**, you gain a fourth option: **Rise From Ash.** Your body burns to nothing and reforms whole by the end of the next scene. You return with **Hit Points cleared**. **Stress is not cleared.** You are **Vulnerable** until your next rest, standing in your own ashes. Rebirth burns part of who you were. With the GM, name a piece of the old life that did *not* come back: a memory, a face, a skill, a fear, a name you used to answer to. You come back *you*, but lighter, and a little more like something that has done this before.
+- **The Dwindling** *(Tithe):* Rebirth is finite, and paid in self. **Each Rise From Ash permanently crosses out a Hope slot**, as a scar does; your lives are counted in Hope. **When you would cross out your last Hope slot to Rise, you cannot.** That death is your true and final one, and this turn of the soul ends for good (per the SRD scar rule: crossing out your last Hope slot ends the character's journey). *Then, somewhere, a leaf falls for the next Phoenix.* There is never a second living Phoenix while this one can still Rise. What looks like two is something else. The dread is the **count**: everyone at the table can see how many risings are left, and so, quietly, can the Phoenix.
 
 Rise From Ash acts only on the Phoenix's own body and Hope. Kindle is an ordinary attack, no different from a torch or a blade in what it may target. Nothing here compels another creature's will.
 

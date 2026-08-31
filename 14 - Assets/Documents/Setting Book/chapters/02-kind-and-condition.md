@@ -44,13 +44,13 @@ Conditions are Daggerheart **Transformation cards**: a flavor line and features,
 |---|---|---|---|---|
 | Long-Lived | vampire | Given | ~2.5% | rare / revered |
 | Two-Bodied | werewolf | Given | ~18% | common |
-| Returned | zombie | Struck | ~9% | normal / quietly respected |
-| Bound | demon (by contract) | Struck | ~5% | feared |
-| The Unbound *(the Hollow)* | the price of a contract | Struck, chains off Bound only | ~1.5% | pitied / uneasy |
-| Far-Voiced | siren | Both | ~11% | revered |
+| Returned | zombie | Struck | ~7% | normal / quietly respected |
+| Bound | demon (by contract) | Struck | ~5% (includes the Unbound) | feared |
+| The Unbound *(the Hollow)* | the price of a contract | Struck, chains off Bound only | ~1.5%, *inside* Bound's ~5% | pitied / uneasy |
+| Far-Voiced | siren | Both | ~12% | revered |
 | The Stilled | gorgon | Both | ~7% | feared / guild-regulated |
 | The Answered | djinn | Given | ~10% | wildcard |
-| The Taken-In | leshy | Both | ~12% | respected-but-looked-down / frontier |
+| The Taken-In | leshy | Both | ~13% | respected-but-looked-down / frontier |
 | Phoenix | phoenix | Given | <0.1% (one at a time) | legendary |
 
 The Kept, the ordinary ~25 percent who receive no Condition, are not on this table. The Tree hugged them. They are wanted in their own right.

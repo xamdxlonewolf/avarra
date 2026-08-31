@@ -41,6 +41,16 @@ Two outcomes:
 
 The feel of the hour is a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again, or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. Dread lives in the Tithes, not in the rite.
 
+### Turning-Week in a city
+
+The Given-door is still **one week**. The Tree is still at the centre. A city of tens of thousands does not grow a second engine. It **nests** the witness.
+
+- **Stands are by hearth**, in named slots of the week. A festival schedule, like who has the square for the fair.
+- **The warden Speaks.** Colour or hug. They do not write a roll of gifts.
+- **The city as a crowd saw a crowd. The hearth saw a child.** That is the legal fact. One pillar of the hearth (Long-Lived, Bound, or Far-Voiced who stood) carries the stand when a far desk asks.
+
+A village still watches as one circle. Do not narrate every settlement as a city. Do not invent a city register to "fix" how many faces a square can know.
+
 ### Reading the colours
 
 The colour that falls tells the town which Condition has been Given.
@@ -64,5 +74,25 @@ The Tree never Strikes, so Returned and Bound have **no colour** (and the Unboun
 Rare, mixed, or argumentative falls (two colours; a colour no one present has seen; a Phoenix-reading someone wants to be wrong) are why the tree-wardens exist as a civic office, not only a devout one.
 
 A Tree never Strikes. The Tree only **Gives** or **Keeps**. The Struck, Conditions that arrive through a later threshold, a drowning, an oath, a death survived, happen *away* from the Tree, with no leaf and no ceremony. The faith's reading of the Struck, whether they're still the Mother's doing, is exactly the live schism.
+
+### Questions a warden gets asked
+
+The load-bearing sentences, for when the week is already closing:
+
+| What they ask | What you say | What you do not |
+|---|---|---|
+| **We missed the week.** Fever, a shut pass, a boat that did not come. | They are **unTurned**. The door has shut. Next summer they may visit the square; they do not stand for a Gift. Struck doors still open later. The expensive mercy is still the old one: winter a *nine*-year-old near a sound Tree. | Call them Kept. Kept is a hug the town watched. |
+| **We will not stand.** Old Ways, Open Table, fear, a quarrel. | The Tree does not chase them. Same legal result as a miss: **unTurned**, door shut. A warden may ask once. They do not put a rope on a child to make a Gift. | Treat refusal as a failure of the wood. |
+| **Who brings an orphan?** | The town is the family. Kin first; then the household that feeds them; then the **warden-hearth**. An orphan who stands is witnessed like anyone. An orphan no one brings is a miss. | A second leaf as consolation. |
+| **An adult who never Turned.** | They stay **unTurned**. They do not stand for a Gift at thirty. They can be vouched as the person the town raised. They can still be Struck. | A late appointment. |
+| **Can they stand again?** Wrong colour wanted. Hug regretted. | **No.** A completed standing — colour *or* hug, under a Tree the warden called sound — is once. You may correct a **Speaking**. You may not rerun a fall. | Offer a second Leaf-Fall. The wood has never answered one. |
+| **Our Tree is sick this week.** | Do not stand them under unsound wood. Borrow a neighbour's canopy *this same week*. A warden who lets a cohort stand under a Tree they know cannot Turn has spent the week. Those children are unTurned. | Next year as a repair. |
+| **White-fire fell. Or someone wants to say it did.** | A town-warden does not guess Phoenix. They send to the First Seat by runner. Naming white-fire is history, and a problem. | Guess from a book in the square. |
+| **A child of the Open Table. A Yumboe under our boughs.** | If they stand in their tenth-year week, the Tree does what it does. If the host will not bring them, the week can end. There is no Kumbaan mission. | Wait for the argument to finish. The door does not. |
+| **The city cannot know every child.** | They stand **by hearth**, in named slots. The square is full. The memory is the street that brought them, plus one pillar who can carry it. Do not write the colours. | A city register. |
+
+**UnTurned is not Kept.** Kept means the leaves hugged and the town watched. UnTurned means the child never stood. Both lives can look the same (no Tithe, no guild). Only one was witnessed at the Tree. Citizenship still runs on who saw you; an unTurned neighbour is vouched as *this child we raised*, not as a colour or a hug.
+
+A miss, refusal, or week spent under unsound wood makes a child unTurned, not Kept. Struck remains the later mercy.
 
 ---

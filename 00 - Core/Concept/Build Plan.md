@@ -18,17 +18,19 @@ updated: 2026-08-31
 
 ## Active next
 
-**[[Roadmap#Epic 10 — Campaign|Epic 10]] — Story 10.1 done (2026-08-31).** Opening kit: [[The Opening]]. Campaign hub: [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing).
+**[[Roadmap#Epic 10 — Campaign|Epic 10]] — Story 10.1 done (2026-08-31).** Opening kit: [[The Opening]]. Campaign hub: [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing; **C-02 resolved** by user-requested world-book rebuild, 2026-08-31).
 
 **Gate (2026-08-31).** Every non-green finding in [[Editorial Audit 2026-08-29]] maps to R.1–R.13 or a recorded decision. Keystone confirmation is off the player body. The gate recorded residual scaffolding as C-01 rather than reopening R.13; P2.1 has now resolved it. Infernis + Bound stack ([[At the Table]]). Haelin is an alias of [[Harrow's Green]]. Thuda stays an on-page mouth.
 
-**P2.1 (2026-08-31).** C-01 is resolved: residual Story/pass numbers, canon-status blocks, and clone/rebuild directives moved under GM walls in history, faction, settlement, and player MOC notes. User chose to keep liturgical names visible while moving 🟡 and taste-open status to GM Notes; no names were locked or changed. Skill-name wikilinks were repaired; atlas embeds remain GM production aids. The world book was untouched.
+**P2.1 (2026-08-31).** C-01 is resolved: residual Story/pass numbers, canon-status blocks, and clone/rebuild directives moved under GM walls in history, faction, settlement, and player MOC notes. User chose to keep liturgical names visible while moving 🟡 and taste-open status to GM Notes; no names were locked or changed. Skill-name wikilinks were repaired; atlas embeds remain GM production aids.
+
+**World book (2026-08-31).** User asked. Compiled reading copy rebuilt from vault: C-02 names (*Eolstrand*, *Aeloren*, guild confirmation lines), reserved chapters 16–17 and 21–23, Kind heritage, law/economy/Tree/Other Count, Ornsael well-share, houses after the Slide, GM secrets and the Harrow's Green opening. Vault remains canonical. Do not fold later vault work into the book unless asked again.
 
 **10.1 (2026-08-31).** Session one sits at [[Harrow's Green]]. On-screen: remnant-walker + [[Rosire]] + new Gift ([[Taeren]] XOR a PC in that seat). Pourer and Walled-Book heir offstage. Five key moments, mystery first. No Leaf-Mother reveal. No Care-fortress.
 
 **Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked.
 
-Two clocks stand. Cutter unpicked. World book stays untouched.
+Two clocks stand. Cutter unpicked.
 
 ## What this world is
 

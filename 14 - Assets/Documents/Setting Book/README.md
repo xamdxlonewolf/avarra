@@ -6,6 +6,8 @@ HTML is the reading copy. PDF is the notes copy.
 
 ## Files
 
+## Files
+
 | File | What it is |
 |---|---|
 | **STRUCTURE.md** | Locked table of contents. Status: filled / partial / reserved. |
@@ -38,9 +40,9 @@ python3 "14 - Assets/Documents/Setting Book/build_world_book.py"
 | II · Peoples | Conditions, Kinds, language and naming |
 | III · The Tree and the Faiths | Tree, Motherfaith, five faiths, orders and houses |
 | IV · How People Live | Law, economy, daily life, Tithe-guilds |
-| V · The Lands | Continents, calendar, **climate (to write)**, **maps (to write)** |
-| VI · The Ages | Two clocks, Walking Years, First Cut, Years of Hands |
-| VII · Powers and Places | Fifteen powers, gazetteer, **other places (to write)** |
-| VIII · Faces | **People (to write)** |
-| IX · At the Table | **Play material (to write)** |
-| X · For the GM | Keystone canon |
+| V · The Lands | Continents, calendar, climate and travel, maps |
+| VI · The Ages | Two clocks, Other Count, Walking Years, First Cut, Years of Hands |
+| VII · Powers and Places | Fifteen powers, gazetteer, other places (some types still reserved) |
+| VIII · Faces | People of the Turning |
+| IX · At the Table | Character creation, Kept deal, dangers, starting doors |
+| X · For the GM | Keystone canon, language machinery, secrets and the opening |
