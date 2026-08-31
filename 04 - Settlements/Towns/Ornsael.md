@@ -22,7 +22,7 @@ updated: 2026-08-24
 
 ## Overview
 
-East of [[Maiethorn]]'s central range, on the leeward side away from the inner sea: dry hills, sand-country, towns at wells and at whatever graft will take. Ornsael is one of those wells. A Tree stands beside it — young for the Motherland, old enough to have Turned local children some years and not a certainty this one. The core stopped walking. Ornsael did not. Children still go west in the neighbour's week, or further, because a well-Tree is not a certainty.
+East of [[Maiethorn]]'s [[Named Ground|Rain-Wall]], on the leeward side away from the Old Crossing: dry hills, sand-country, towns at wells and at whatever graft will take. Ornsael is one of those wells. A Tree stands beside it — young for the Motherland, old enough to have Turned local children some years and not a certainty this one. The core stopped walking. Ornsael did not. Children still go west in the neighbour's week, or further, because a well-Tree is not a certainty.
 
 [[Saelthael]] is the polity of people who still sow. Ornsael is a square of that habit, not a throne. Plenty sits on the other side of the range. Pilgrimage here is a leftover they cannot retire. Core pilgrims who arrive in Eolthael expecting a holiday extra mile find a necessity-column already on the west-road, and are shocked. That shock is the design. They thought waiting was a Heskoren feeling.
 

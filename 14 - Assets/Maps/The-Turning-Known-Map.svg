@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">The Turning — the Known Map</title>
+  <desc id="desc">Schematic labelled map. West to east: Kumbaan behind the storm-wall, Heskoren across the West Water, Strandoren across the Old Crossing, Maiethorn with the Rain-Wall. Not a survey.</desc>
+  <defs>
+    <pattern id="parchment" patternUnits="userSpaceOnUse" width="8" height="8">
+      <rect width="8" height="8" fill="#f3e6c4"/>
+      <circle cx="1" cy="2" r="0.4" fill="#e8d6a8" opacity="0.5"/>
+      <circle cx="6" cy="5" r="0.3" fill="#e0cc96" opacity="0.4"/>
+    </pattern>
+    <radialGradient id="storm" cx="50%" cy="50%" r="50%">
+      <stop offset="40%" stop-color="#9aa7a0" stop-opacity="0"/>
+      <stop offset="75%" stop-color="#6d7a74" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4a5550" stop-opacity="0.55"/>
+    </radialGradient>
+    <filter id="soft">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.2" flood-color="#5a4a2a" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#parchment)"/>
+  <rect x="16" y="16" width="1168" height="688" fill="none" stroke="#6b5428" stroke-width="2"/>
+  <rect x="22" y="22" width="1156" height="676" fill="none" stroke="#8a7040" stroke-width="0.6"/>
+
+  <!-- ocean wash -->
+  <rect x="28" y="28" width="1144" height="668" fill="#c9d4c8" opacity="0.55"/>
+
+  <!-- WEST WATER -->
+  <text x="430" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#3d4a44">the West Water</text>
+  <text x="430" y="216" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5a6660">Long Mile sea-leg</text>
+
+  <!-- OLD CROSSING -->
+  <text x="790" y="188" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#3d4a44">the Old Crossing</text>
+  <text x="790" y="204" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5a6660">Salt Walk · Hush-rate</text>
+
+  <!-- KUMBAAN + storm -->
+  <circle cx="118" cy="430" r="78" fill="url(#storm)"/>
+  <ellipse cx="118" cy="430" rx="28" ry="22" fill="#8faf7a" stroke="#4a5c3a" stroke-width="1.2" filter="url(#soft)"/>
+  <text x="118" y="434" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#243018">Kumbaan</text>
+  <text x="118" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#3a4038">storm-wall · no graft</text>
+
+  <!-- HESKOREN -->
+  <path d="M210,250 C250,180 340,160 410,200 C460,230 470,300 455,380
+           C440,470 400,540 340,560 C270,580 220,540 200,470
+           C180,390 175,310 210,250 Z"
+        fill="#9bb07a" stroke="#4a5c3a" stroke-width="1.4" filter="url(#soft)"/>
+  <!-- spines -->
+  <path d="M280,280 L300,250 L320,290 L340,240 L360,300 L380,260"
+        fill="none" stroke="#6a5a40" stroke-width="2.2"/>
+  <text x="330" y="155" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2a2418">HESKOREN</text>
+  <text x="330" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a4438">thin reach · live front</text>
+
+  <circle cx="400" cy="320" r="4" fill="#2a2418"/>
+  <text x="408" y="316" font-family="Georgia, serif" font-size="10" fill="#2a2418">Eolvaeth</text>
+  <text x="408" y="328" font-family="Georgia, serif" font-size="8" fill="#4a4438">Vaethorn</text>
+
+  <circle cx="300" cy="400" r="4" fill="#2a2418"/>
+  <text x="248" y="396" font-family="Georgia, serif" font-size="10" fill="#2a2418">Harrow's</text>
+  <text x="248" y="408" font-family="Georgia, serif" font-size="8" fill="#4a4438">Saelvaeth</text>
+
+  <path d="M300,404 C310,420 318,430 328,438" fill="none" stroke="#5a7a8a" stroke-width="1.6"/>
+  <text x="332" y="450" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#2a4050">Rise-water</text>
+  <circle cx="332" cy="440" r="3" fill="#2a2418"/>
+  <text x="340" y="444" font-family="Georgia, serif" font-size="9" fill="#2a2418">the ford</text>
+
+  <text x="250" y="500" font-family="Georgia, serif" font-size="9" fill="#2a2418">Ornled</text>
+  <text x="360" y="520" font-family="Georgia, serif" font-size="9" fill="#2a2418">Vaelhesk</text>
+
+  <!-- STRANDOREN -->
+  <path d="M510,220 C540,170 620,155 690,190 C740,215 760,250 750,310
+           C770,340 740,380 720,420 C700,480 640,520 580,510
+           C530,500 500,450 495,390 C480,330 485,270 510,220 Z"
+        fill="#8fbc7e" stroke="#4a5c3a" stroke-width="1.4" filter="url(#soft)"/>
+  <!-- indented east coast nicks -->
+  <path d="M748,250 C760,260 755,275 748,285 C762,295 750,310 742,318"
+        fill="#c9d4c8" stroke="#4a5c3a" stroke-width="0.8"/>
+  <text x="620" y="140" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2a2418">STRANDOREN</text>
+  <text x="620" y="157" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a4438">high reach · Shore-lands</text>
+
+  <path d="M600,360 C640,350 680,340 720,330" fill="none" stroke="#5a7a8a" stroke-width="2"/>
+  <text x="600" y="378" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#2a4050">Chart-run</text>
+
+  <circle cx="732" cy="300" r="4.5" fill="#2a2418"/>
+  <text x="700" y="288" font-family="Georgia, serif" font-size="10" fill="#2a2418">Orentel</text>
+  <text x="698" y="318" font-family="Georgia, serif" font-size="8" fill="#4a4438">Lestrand</text>
+
+  <text x="600" y="300" font-family="Georgia, serif" font-size="9" fill="#2a2418">Trenledd</text>
+  <text x="560" y="430" font-family="Georgia, serif" font-size="9" fill="#2a2418">Brenledd</text>
+  <text x="680" y="450" font-family="Georgia, serif" font-size="9" fill="#2a2418">Leddvael</text>
+
+  <circle cx="540" cy="400" r="3.5" fill="#2a2418"/>
+  <text x="500" y="396" font-family="Georgia, serif" font-size="10" fill="#2a2418">Netstrand</text>
+  <text x="508" y="408" font-family="Georgia, serif" font-size="8" fill="#4a4438">Night Shore</text>
+
+  <!-- MAIETHORN -->
+  <path d="M830,190 C880,140 980,130 1060,180 C1120,220 1145,300 1130,390
+           C1115,490 1060,560 980,575 C900,590 850,540 835,460
+           C820,380 805,270 830,190 Z"
+        fill="#a3b87c" stroke="#4a5c3a" stroke-width="1.4" filter="url(#soft)"/>
+  <!-- Rain-Wall -->
+  <path d="M980,200 C990,250 985,310 995,370 C1000,430 990,490 1005,540"
+        fill="none" stroke="#5a4a32" stroke-width="4" stroke-linecap="round"/>
+  <path d="M970,220 C978,270 972,330 982,390 C988,450 978,510 990,550"
+        fill="none" stroke="#7a6a48" stroke-width="2" opacity="0.7"/>
+  <text x="1012" y="360" font-family="Georgia, serif" font-size="11" fill="#2a2418" transform="rotate(-8 1012 360)">the Rain-Wall</text>
+  <text x="1014" y="374" font-family="Georgia, serif" font-size="8" fill="#4a4438" transform="rotate(-8 1014 374)">Thaw-Wall · Lirorn</text>
+
+  <!-- Core-thaw -->
+  <path d="M990,300 C940,310 900,330 860,300 C850,290 845,280 842,268"
+        fill="none" stroke="#5a7a8a" stroke-width="2.2"/>
+  <text x="900" y="348" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#2a4050">Core-thaw</text>
+
+  <!-- Well-wash east -->
+  <path d="M1005,390 C1040,400 1070,420 1095,455" fill="none" stroke="#8a9a7a" stroke-width="1.4" stroke-dasharray="3 3"/>
+  <text x="1070" y="478" font-family="Georgia, serif" font-size="9" font-style="italic" fill="#5a6048">Well-wash</text>
+
+  <text x="980" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#2a2418">MAIETHORN</text>
+  <text x="980" y="135" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a4438">full reach · Motherland</text>
+
+  <!-- Motherwood / Thaeloren -->
+  <circle cx="920" cy="280" r="16" fill="#4a6a38" opacity="0.85"/>
+  <circle cx="920" cy="280" r="7" fill="#2a4018"/>
+  <text x="900" y="258" font-family="Georgia, serif" font-size="10" fill="#2a2418">Thaeloren</text>
+
+  <circle cx="938" cy="268" r="3" fill="#6a3020"/>
+  <text x="944" y="264" font-family="Georgia, serif" font-size="8" fill="#4a2010">Inner Close</text>
+
+  <circle cx="900" cy="310" r="3" fill="#2a2418"/>
+  <text x="862" y="322" font-family="Georgia, serif" font-size="9" fill="#2a2418">Orenbren</text>
+
+  <circle cx="888" cy="332" r="2.5" fill="#2a2418"/>
+  <text x="848" y="344" font-family="Georgia, serif" font-size="8" fill="#4a4438">3rd Hearth</text>
+
+  <circle cx="870" cy="305" r="4" fill="#2a2418"/>
+  <text x="828" y="300" font-family="Georgia, serif" font-size="10" fill="#2a2418">Maiethlir</text>
+  <text x="828" y="312" font-family="Georgia, serif" font-size="8" fill="#4a4438">Threnmaieth</text>
+
+  <circle cx="848" cy="270" r="4" fill="#2a2418"/>
+  <text x="808" y="266" font-family="Georgia, serif" font-size="10" fill="#2a2418">Eolstrand</text>
+  <text x="812" y="278" font-family="Georgia, serif" font-size="8" fill="#4a4438">Hinge-Shore</text>
+
+  <text x="940" y="220" font-family="Georgia, serif" font-size="9" fill="#2a2418">Maiethvael</text>
+  <text x="990" y="250" font-family="Georgia, serif" font-size="8" fill="#4a4438">Noon Pass</text>
+  <text x="992" y="318" font-family="Georgia, serif" font-size="8" fill="#4a4438">Shelf-gate</text>
+
+  <circle cx="1088" cy="430" r="3.5" fill="#2a2418"/>
+  <text x="1098" y="428" font-family="Georgia, serif" font-size="10" fill="#2a2418">Ornsael</text>
+  <text x="1098" y="440" font-family="Georgia, serif" font-size="8" fill="#4a4438">Saelthael</text>
+
+  <text x="1040" y="200" font-family="Georgia, serif" font-size="8" fill="#5a4030">Seeing-Ring</text>
+  <text x="860" y="360" font-family="Georgia, serif" font-size="8" fill="#5a4030">Low Wall</text>
+  <text x="1110" y="400" font-family="Georgia, serif" font-size="8" fill="#5a4030">Dry Stair</text>
+
+  <text x="1105" y="500" font-family="Georgia, serif" font-size="9" fill="#6a5a30">Rain-Shadow</text>
+
+  <!-- compass -->
+  <g transform="translate(1100,80)">
+    <circle r="22" fill="#f3e6c4" stroke="#6b5428" stroke-width="1"/>
+    <path d="M0,-16 L4,0 L0,16 L-4,0 Z" fill="#6b5428"/>
+    <text y="-26" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#2a2418">N</text>
+  </g>
+
+  <!-- caption -->
+  <text x="600" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2a2418">The Turning — the Known Lands</text>
+  <text x="600" y="658" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a4438">Reach-gradient west to east is the wave run backward. Kumbaan never took. The Inner Close is a town inside Orenbren, not a sixteenth flag.</text>
+  <text x="600" y="674" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5a5448">Travel: Named Ground. Schema, not a survey. C.Y. 387.</text>
+</svg>

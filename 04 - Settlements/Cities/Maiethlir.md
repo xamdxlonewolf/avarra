@@ -22,7 +22,7 @@ updated: 2026-08-30
 
 ## Overview
 
-A thaw-river town on [[Maiethorn]], in the Sacred Core and not in the grove. Snowmelt comes down from [[Lirorn]]'s range; the river runs toward the inner sea. Maiethlir sat down where the water slowed enough to hold a Hand — an origin-town of the C.Y. 0–40s, a day's living-earth from the wood, on a *different road* than [[Orenbren]]'s Near Mile. Orenbren lodges the approach. This river counted the people who stayed.
+A thaw-river town on [[Maiethorn]], in the Sacred Core and not in the grove. Snowmelt comes down from [[Lirorn]]'s [[Named Ground|Rain-Wall]]; **[[Named Ground|the Core-thaw]]** runs toward the Old Crossing. Maiethlir sat down where the water slowed enough to hold a Hand — an origin-town of the C.Y. 0–40s, a day's living-earth from the wood, on a *different road* than [[Orenbren]]'s Near Mile. Orenbren lodges the approach. This river counted the people who stayed.
 
 The extra mile used to come through with the thaw. When Hands made the origin-walk optional, the lodging emptied toward Orenbren's beds. The rooms did not stay empty. Clerks filled them. Adaptive reuse at city scale: a pilgrimage-street that learned house-names on a tablet.
 
@@ -32,7 +32,7 @@ The extra mile used to come through with the thaw. When Hands made the origin-wa
 
 ## Site
 
-The thaw-river is why anyone stopped. Ford, mill, a Hand planted beside the water because the first carrying followed living earth and a day's drink. The Motherwood is a dark on one horizon. You can walk to the grove. Most Hands-children do not. The college is in those clearings. It is not this square.
+The Core-thaw is why anyone stopped. Ford, mill, a Hand planted beside the water because the first carrying followed living earth and a day's drink. The Motherwood is a dark on one horizon. You can walk to the grove. Most Hands-children do not. The college is in those clearings. It is not this square.
 
 Water is the river, conduits the crown maintains, cisterns in the old pilgrim-streets. Food is the Core's plenty. Fuel is the wood's edge, which the Seat will not let a crown cut without a leave — proximity is pressure, not ownership. The [[The Taken-In|Taken-In]] work the **tended green** the crown furnishes; they are not a nation.
 
@@ -63,7 +63,7 @@ The clerks will tell you a number. It changes after every Eolthael. Do not put t
 
 Devotion is the job on the street: people still come because the hinge is holy. The Threnhael is the layer — a tablet beside the Tree, not instead of it. That is how a pious core gets a capital without capturing the grove. The injustice is that the layer learned to withhold the green.
 
-**Inscrutable, on purpose:** the thaw-river runs louder the week before Leaf-Fall. Clerks file it as snowmelt. Watchers do not. Maiethlir will not explain. Rithim will Speak over it. A clerk will wait for the water to quiet before copying.
+**Inscrutable, on purpose:** the Core-thaw runs louder the week before Leaf-Fall. Clerks file it as snowmelt. Watchers do not. Maiethlir will not explain. Rithim will Speak over it. A clerk will wait for the water to quiet before copying.
 
 ## People & Powers
 

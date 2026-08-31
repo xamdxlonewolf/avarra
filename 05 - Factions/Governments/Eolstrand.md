@@ -2,14 +2,14 @@
 title: Eolstrand
 type: faction
 visibility: player
-note_status: stub
+note_status: draft
 status: active
-tags: [faction, government, polity, maiethorn, epic-7]
-aliases: [The Hinge-Shore, Eolstrand-folk, the Inner-Sea Face]
+tags: [faction, government, polity, maiethorn, epic-7, story-r10]
+aliases: [The Hinge-Shore, Eolstrand-folk, the Old Crossing Face, Hinge-folk]
 world: The Turning
 category: government
 seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
-public_face: the Motherland's inner-sea ports — old, rich, and cooler than the grove
+public_face: the Motherland's Old-Crossing ports — they decide whether a hull is a pilgrim, a pot, or cargo
 reveals: [keystone-adjacent]
 created: 2026-08-24
 updated: 2026-08-30
@@ -17,40 +17,41 @@ updated: 2026-08-30
 
 # Eolstrand
 
-> **The Hinge-Shore.** *(AY-ohl-strand · [[The Old Tongue|eol]] "hinge" + strand "shore" = "the hinge-shore.")* Conservative drift: they kept the year-word on a coast-name. Theology **mid** · reach high · governance low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not name Lestrand's opposite-number capital. Do not make a Selkie nation.
+> **The Hinge-Shore.** *(AY-ohl-strand · [[The Old Tongue|eol]] "hinge" + strand "shore" = "the hinge-shore.")* Conservative drift: they kept the year-word on a coast-name. Everyday *the Hinge-Shore*; liturgical *Eolstrand* if a clerk is showing off. Theology **mid** · reach high · governance low. Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10. Do not flesh districts. Do not name a capital. Do not make a Selkie nation. Do not let this flag carry the [[The Walled Book|Inner Close]].
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Eolstrand*; people **Eolstrand-folk** or **Hinge-folk**. Not *Eoloren* (the First Cut). Not *Eolthael* (a month). Not *Lestrand* / *Strandoren* (the eroded shore). The inner sea is the hinge; the name says so.
+> **Canon status.** 🟡 **Named stub, sharpened.** Seed `20260827` (name) · terrain `20260831`. People **Eolstrand-folk** or **Hinge-folk**. Not *Eoloren* (the First Cut). Not *Eolthael* (a month). Not *Lestrand*. Not the Closed Seat's remnant.
 
 ## Overview (public)
 
-[[Maiethorn]]'s western ports on the busy inner sea toward [[Strandoren]] — the oldest trade route in the world, the "Old World" crossing. Ancient, rich, less frantic than the Ledger Coast. Faith worn *thinner* here than in [[Maiethvael]] because the docks teach pricing; Trees still healthy because this is still the Motherland.
+[[Maiethorn]]'s western ports on **[[Named Ground|the Old Crossing]]** — the oldest trade route in the world. Ancient, rich, less frantic than the Ledger Coast. Trees still healthy because this is still the Motherland. Faith worn *thinner* than [[Maiethvael]] because a dock teaches categories.
+
+[[Lestrand]] **prices** the crossing. The Hinge-Shore **sorts** it. A child, a pot of living earth, a Given-Over, a recanter, a necessity-family on a neighbour's week — the quay-bell can ring the same note for all five. A clerk writes which docket. That writing is the job. [[The Standing Trade]] works this face more often than [[Orentel]] because a standing has to travel, and a hinge has two sides.
 
 [[Selkie]] families are common on these quays, as they are on any old water. That is a hearth, not a thalassocracy.
 
-**Site.** Inner-sea face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore — people embarked *from* Strandoren; they landed here).
+**Site.** Old Crossing face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore — people embarked *from* Strandoren; they landed here). The **Hush-rate** is charged as old custom ([[The Hinge Hush]]). They will not call it a victory.
 
-**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides. [[The Grey Summer]] taught the hinge what a quiet sea costs. [[The Hinge Hush]] (Taerso, C.Y. 304) is the rate they still charge: blessing in the mouth, paper on the other shore.
-
-**What they remember.** They did not write a winner. They learned, looking across the water, to step around a fade. Chronicle: [[The Other Count]].
+**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides. [[The Grey Summer]] taught the pious shore how to step around a fade *without putting the blessing down.* The cool cousin starts there as weather, not as a conversion.
 
 ## Structure & Membership
 
-Guild-coast, light state, old houses. Recruits not by Kind. [[Far-Voiced]] on every quay as infrastructure, same as Strandoren, with more hymn left in the voice.
+Guild-coast, light state, old houses. Recruits not by Kind. [[Far-Voiced]] on every quay as infrastructure, same as Strandoren, with more hymn left in the voice. Taerso spoke the Hush for the hinge-houses; the name is a desk, not a throne.
 
 ## Goals & Methods
 
-Keep the inner sea the world's highway. Broker pilgrimage-traffic and cargo without becoming either Threnmaieth's counted port or Lestrand's priced one.
+Keep the Old Crossing the world's highway. Classify the hull before anyone prices it. Broker pilgrimage-traffic and cargo without becoming either Threnmaieth's counted port or Lestrand's priced one. Charge the Hush-rate. Say the blessing if a mouth wants one.
 
-**Its injustice.** The pious shore that **learned to let people fade** from looking across the water. A Tithe-poor household fails in sight of the pilgrimage-road. Cool cousin, not a copy: they still say the blessing. They still step around you.
+**Its injustice.** **Category as fate.** Lestrand will let you fade and feel it owed you nothing. The Hinge-Shore will *bless you as it files you*, and a Tithe-poor household fails in sight of the pilgrimage-road with a hymn still in the air. They learned the step-around from looking across the water in a grey summer. They kept the hymn so they would not have to call the step a conversion.
 
 ## GM Notes
 
-- **Theology and reach stay independent.** High reach, cooled faith — same pairing [[Strandoren]] proves, on the *conservative* shore. Do not let mid-hymns read as thin Trees.
+- **Not Lestrand-lite.** Same high reach, cooler faith — on the *conservative* shore. The independent-axes proof is the *job*: classify, do not price. Do not let mid-hymns read as thin Trees.
 - **Not a Selkie flag.** Coasts are hearths.
-- **Hooks.** A cargo that is also a pilgrim; a Lestrand note protested in a Motherland court; a Far-Voiced dock-witness who will not sell their feeling; someone fading one street off the extra mile.
+- **Not the remnant.** The Closed Seat sat the grove. The Retreat closed walls a day from the Motherwood. Do not move the Book here to tidy a stub.
+- **Hooks.** A cargo that is also a pilgrim; a Hush-rate on a neighbour's week; a Lestrand note protested in a Motherland court; a Far-Voiced dock-witness who will not sell their feeling; Nomele of the Hinge selling a standing; dock-bells that still pause in Hale-month, then go back to cargo.
 
 ## Links
-- [[Powers of the Turning]] · [[Maiethorn]] · [[Strandoren]] · [[Polity Archetypes]]
+- [[Powers of the Turning]] · [[Maiethorn]] · [[Strandoren]] · [[Named Ground]]
+- [[The Hinge Hush]] · [[The Grey Summer]] · [[The Standing Trade]]
 - [[Kinds of the Turning]] · [[Selkie]] · [[The Walking Years]]
-- [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
-- [[Roadmap]] (Story 7.1; history R.9)
+- [[The Walled Book]] — not this shore · [[Roadmap]] (Story 7.1; Story R.10)

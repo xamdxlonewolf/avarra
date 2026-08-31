@@ -10,12 +10,12 @@ aliases: [The Shore-lands, The Trade Continent, The Crossroads, Strandor]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Strandoren
 
-> **What this is.** The **Shore-lands** — the great trade continent of [[The World Frame|the world]], lying west of [[Maiethorn]] across the busy inner sea. Long indented coasts, mature and abundant [[Turning Tree|Trees]] (**high reach**), and faith worn thin by commerce. The crossroads where the [[Economy and the Tithe|Condition-economy]] runs at full commercial flower. Home of **[[Polity Archetypes|Lestrand]]** (the Ledger Coast). Built with `systemic-worldbuilding` for [[Roadmap|Epic 3]].
+> **What this is.** The **Shore-lands** — the great trade continent of [[The World Frame|the world]], lying west of [[Maiethorn]] across **[[Named Ground|the Old Crossing]]**. Long indented coasts, mature and abundant [[Turning Tree|Trees]] (**high reach**), and faith worn thin by commerce. The crossroads where the [[Economy and the Tithe|Condition-economy]] runs at full commercial flower. Home of **[[Polity Archetypes|Lestrand]]** (the Ledger Coast). Built with `systemic-worldbuilding` for [[Roadmap|Epic 3]].
 
 > **Canon status.** 🟡 Proposed. 🔒 bones: high reach; Lestrand sits here ([[Polity Archetypes]]); the *eroded* [[The Old Tongue|Old-Tongue drift]] dominates (the *th* dropped, ends clipped — the most-drifted sound = the least-devout land).
 
@@ -29,10 +29,10 @@ Strandoren is the **crossroads of the known world** — a continent of harbours,
 
 ## Geography & Climate
 
-- **The indented coast.** Strandoren's defining feature — a shoreline of countless natural harbours, tidal estuaries, and sheltered sounds (the Azgaar template cuts a rough, trough-riddled coast here on purpose). Every notable town is a port; the sea is the continent's highway. This is the densest [[Selkie]] hearth in the world — not a Selkie nation, a *lot of shoreline* ([[Kinds of the Turning]]).
-- **The inner sea** (east) — the narrow, crowded, ancient water between Strandoren and [[Maiethorn]]: the busiest crossing in the world, the "Old World" trade artery.
-- **The open ocean** (west/south) — where the coast faces the widening sea toward [[Heskoren]] and, far beyond, [[The Sundering Isle]]. Strandoren's boldest merchant-houses run the frontier trade to Heskoren; almost none have crossed the storm-wall to the Isle (those who claim to are the tellers of the Yumboe stories).
-- **Interior**: fertile lowlands and river-plains feeding the port-cities; mild maritime climate, wet and temperate. Mature grafted Trees stand thick along the wealthy coasts and thin only in the deep interior.
+- **The indented coast.** Strandoren's defining feature — a shoreline of countless natural harbours, tidal estuaries, and sheltered sounds. Every notable town is a port; the sea is the continent's highway. This is the densest [[Selkie]] hearth in the world — not a Selkie nation, a *lot of shoreline* ([[Kinds of the Turning]]).
+- **[[Named Ground|the Old Crossing]]** (east) — the narrow, crowded, ancient water between Strandoren and [[Maiethorn]]: the busiest crossing in the world. [[Orentel]] faces it. The Hush-rate is still charged here ([[The Hinge Hush]]).
+- **[[Named Ground|the West Water]]** (west/south) — the wider sea toward [[Heskoren]] and, far beyond, [[The Sundering Isle]]. [[Netstrand]] faces it. Strandoren's boldest houses run the frontier trade; almost none have crossed the storm-wall (those who claim to are the tellers of the Yumboe stories).
+- **Interior**: fertile lowlands along **[[Named Ground|the Chart-run]]**, feeding the port-cities; mild maritime climate, wet and temperate. Mature grafted Trees stand thick along the wealthy coasts. [[Trenledd]] sits on the stretch that got filed. The First Cut's inland "river-days" are this run.
 
 ## Reach
 
@@ -43,7 +43,7 @@ How the wood got here is [[The First Cut]]: C.Y. 40–160, **by sea**, wealthy c
 ## Powers & Polities
 
 - **[[Polity Archetypes|Lestrand]] — the Ledger Coast** *(theology low · reach high · governance low)*. The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale, Tithe-provision as a *private market* (buy your green, your novelty, your outlet — and fade if you can't). The richest and coolest corner of the world. Seat: [[Orentel]] (Salt Quay; [[The White Note House]] placed, not crowned).
-- **The other four (named-stubs → [[Powers of the Turning]]).** [[Brenledd]] (the Hearth-League — many charters, one compact) · [[Leddvael]] (the Reckoned Gift — Fair Hand as civic rite; Book-hands still have no seat) · [[Trenledd]] (the Worn Count — a roll with the hymn worn off) · [[Netstrand]] (the Night Shore — west water, Heskoren trade). Lestrand's capital is [[Orentel]] (Story 7.3).
+- **The other four (named-stubs → [[Powers of the Turning]]).** [[Brenledd]] (the Hearth-League — many charters, one compact) · [[Leddvael]] (the Reckoned Gift — Fair Hand as civic rite; Book-hands still have no seat) · [[Trenledd]] (the Worn Count — a roll with the hymn worn off) · [[Netstrand]] (the Night Shore — West Water, Heskoren trade). Lestrand's capital is [[Orentel]] (Story 7.3).
 
 ## Faith
 
@@ -60,25 +60,10 @@ A mercantile theology that reads Conditions not as *gifts given* (the [[The Leaf
 - The fortune-and-contract cult vs. the Motherfaith as a live theological feud in a port city — two doctrines competing for the same [[Bound]] souls.
 - The rare merchant-adventurer who claims to have crossed to [[The Sundering Isle]] and back — true, embellished, or fraud?
 
-## Map-generation prompt (GPT Image — base art, label-free)
-
-```
-A hand-drawn fantasy map of a single large continent on aged parchment, muted
-sepia ink with soft watercolour washes, top-down cartographic view. A coastal
-trading land with an extraordinarily indented coastline — countless bays, sounds,
-estuaries, and peninsulas — so that the sea reaches deep inland everywhere. Many
-small harbour symbols dot the coasts. A narrow busy sea on the eastern edge (toward
-another continent), open ocean to the west. Fertile river-plains in the interior,
-scattered woodlands. The land reads as mercantile, connected, prosperous — a
-crossroads of shipping lanes drawn as faint dotted routes over the water.
-Decorative compass rose, faint graticule. Cartography style, atmospheric.
-NO TEXT, NO LABELS, no writing anywhere.
-```
-*Optional Midjourney line:* `--ar 3:2 --style raw --v 6`
-*(For a labelled map, use the Azgaar assets in [[The World Frame#Map-generation assets]] and read this continent as the west-central landmass.)*
+The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on this land.
 
 ## Links
-- [[The World Frame]] — the four-continent frame · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · neighbours: [[Maiethorn]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Lestrand; seat [[Orentel]]) · [[Powers of the Turning]] · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]

@@ -173,6 +173,8 @@ Full one-line derivations of the original three remain:
 
 **Kumbaan** is not a sixteenth name on this list.
 
+**Named ground (Story R.10 — common-tongue, seed `20260831`, mid-list):** no new roots. Everyday first: **the Old Crossing** · **the West Water** · **the Rain-Wall** (Lirorn: *the Thaw-Wall*) · **the Noon Pass** · **the Shelf-gate** · **the Core-thaw** · **the Well-wash** · **the Rise-water** · **the Chart-run**. Gazetteer: [[Named Ground]]. Do not baptize these in liturgy. R.12 still owns phonology repair.
+
 ## Links
 - [[Polity Archetypes]] — the three corners · [[Powers of the Turning]] — all fifteen · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
@@ -189,7 +191,8 @@ Full one-line derivations of the original three remain:
 - [[The Years of Hands]] — *the extra mile* · *the neighbour's week* · *the First-Hand year* 🟡
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]] — Story 7.2 squares (*Ornsael* · *Brenthael* · *Brenod / Vaelun / Ornath* 🟡)
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats (*Eolvaeth* · *Orentel* · *Maiethlir* 🟡)
-- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete / Epic 7 complete) · [[03 - Cultures]]
+- [[Named Ground]] — Story R.10 common-tongue waters and the Rain-Wall
+- [[Roadmap]] (Epic 2 tail / Epic 4 languages / Epic 6 complete / Epic 7 complete / Story R.10) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*

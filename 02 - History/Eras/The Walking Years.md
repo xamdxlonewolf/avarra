@@ -51,13 +51,13 @@ Named in the common tongue, because the walk was logistics before it was liturgy
 
 | Walk | Who used it | How long | What it cost |
 |---|---|---|---|
-| **the Near Mile** | [[Maiethorn]] inland, anyone already on the Motherland | days to a couple of weeks | a harvest-timing; almost everyone who meant to come, came |
-| **the Salt Walk** | [[Strandoren]] — ship the inner sea, then the Near Mile | a sailing plus the inland days | a berth in fair weather; miss the last crossing and you miss the year |
-| **the Long Mile** | [[Heskoren]], and the Strandoren interior before the coasts were rich | weeks to months | a year's surplus, or a road-house note, or you did not go |
+| **the Near Mile** | [[Maiethorn]] inland, anyone already on the Motherland | days to a couple of weeks (**3–12 days**) | a harvest-timing; almost everyone who meant to come, came |
+| **the Salt Walk** | [[Strandoren]] — ship [[Named Ground\|the Old Crossing]], then the Near Mile | a sailing plus the inland days (**3–5 days' sail** + inland; typically 1–3 weeks) | a berth in fair weather; miss the last crossing and you miss the year |
+| **the Long Mile** | [[Heskoren]], and the Strandoren interior before the coasts were rich | weeks to months (**6–12 weeks** for a coast-to-grove attempt) | a year's surplus, or a road-house note, or you did not go |
 
 People did not say *Brenvaeth* on the road. They said *we are on the Long Mile*, or *we took the salt*. [[Polity Archetypes|Vaethorn]] still calls the whole past *the waiting-road*. [[Polity Archetypes|Lestrand]] files it as *the road-years*. [[Polity Archetypes|Threnmaieth]] wants the miles *on a roll*.
 
-**Timing against the year.** Near-Mile families left in **Haelren** or early **Eolthael** and were home by **Vaelorn**. Salt-Walk households watched the inner sea from **Saelorn**; a late storm in Hale-month was a Kept child. Long-Mile columns left in **Liren** or **Saelorn** — the thaw, the first green — and hoped the High Solstice had not happened without them. Some arrived in **Leddorn** with a ten-year-old who had already missed. The road-houses knew that silence. They did not charge extra for it. They also did not refund the note.
+**Timing against the year.** Near-Mile families left in **Haelren** or early **Eolthael** and were home by **Vaelorn**. Salt-Walk households watched the Old Crossing from **Saelorn**; a late storm in Hale-month was a Kept child. Long-Mile columns left in **Liren** or **Saelorn** — the thaw, the first green — and hoped the High Solstice had not happened without them. Some arrived in **Leddorn** with a ten-year-old who had already missed. The road-houses knew that silence. They did not charge extra for it. They also did not refund the note.
 
 [[The Sundering Isle|Kumbaan]] is not on this table. No walk crossed the storm-wall. Do not smuggle one.
 
@@ -83,7 +83,7 @@ The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the cr
 
 ### Who died
 
-Children died on the road. So did the adults who carried them. River-crossings in the thaw, a fever in a packed Near-Mile inn, a late squall on the inner sea, hunger on a Long-Mile stretch between hearths, a birth that would not wait for the grove. This is not a slaughter-age and not a hymn. It is a logistics problem that killed people, which is what long roads do.
+Children died on the road. So did the adults who carried them. River-crossings in the thaw, a fever in a packed Near-Mile inn, a late squall on the Old Crossing, hunger on a Long-Mile stretch between hearths, a birth that would not wait for the grove. This is not a slaughter-age and not a hymn. It is a logistics problem that killed people, which is what long roads do.
 
 The graves are mostly unmarked at first. Then someone sets a stone at a day's walk, because the next column needs to know the water, and because a name should sit somewhere. A ribbon goes on the stone the year after. A later column uses the stone as a mile-mark. The romance and the graves are the same object seen at two hours of the day.
 

@@ -28,7 +28,7 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 
 ### Governments (Story 7.1 — named stubs; do not rebuild)
 
-The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Capitals and districts wait on 7.2–7.3. Kumbaan is not a thirteenth mainland power.
+The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Seats and leftover-squares already exist (7.2–7.3). The Inner Close stays inside [[Orenbren]] (🔒 Story R.10). Kumbaan is not a thirteenth mainland power.
 
 - [[Powers of the Turning]] — hub (count, axes, network, two-mouths document)
 - [[Maiethorn]]: [[Maiethvael]] · [[Orenbren]] · [[Saelthael]] · [[Eolstrand]] · [[Lirorn]] *(plus Threnmaieth)*

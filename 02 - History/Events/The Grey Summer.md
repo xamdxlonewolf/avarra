@@ -4,7 +4,7 @@ type: event
 visibility: player
 note_status: fleshed
 status: residual
-tags: [event, history, epic-r, story-r9, epidemic, inner-sea]
+tags: [event, history, epic-r, story-r9, epidemic, old-crossing]
 aliases: [The Salt-Grey, The Quay-Fever, Grey + 1]
 world: The Turning
 era: "[[The Years of Hands]]"
@@ -16,7 +16,7 @@ updated: 2026-08-30
 
 # The Grey Summer
 
-> **A fever that was not a Tithe.** In C.Y. 171 the inner-sea quays — [[Eolstrand]]'s hinge-shore and the Ledger Coast that faces it — went grey for a summer. People died who had local Trees, guild-tickets, and hymns. The wood did not fail first. The watering-hands did. Everyday name: **the Grey Summer.** Dock-cant: **the Salt-Grey.** Deathless clerks still write **Grey + 1** on a verso. Chronicle: [[The Other Count]].
+> **A fever that was not a Tithe.** In C.Y. 171 the Old Crossing quays — [[Eolstrand]]'s hinge-shore and the Ledger Coast that faces it — went grey for a summer. People died who had local Trees, guild-tickets, and hymns. The wood did not fail first. The watering-hands did. Everyday name: **the Grey Summer.** Dock-cant: **the Salt-Grey.** Deathless clerks still write **Grey + 1** on a verso. Chronicle: [[The Other Count]].
 
 > **Canon status.** 🟡 **Lived epidemic (Story R.9).** 🔒 **Not a Condition, not a punishment, not a colour.** 🔒 **Does not slide the spread-bands.** Strandoren was already mature Hands on the water (band C.Y. 40–160). The fever is what happened *after* the wood had arrived.
 
@@ -24,7 +24,7 @@ updated: 2026-08-30
 
 It began in the holds — a cough in a packed berth, then a street, then a quay-gang that could not stand a hearth. Stillers did what stillers do. Some lived. The Grey did not care whether you were Given, Struck, or Kept. That is the year the devout learned, again, that a Hand in the square is not an infirmary.
 
-Ships stayed tied. The inner sea, which had been the world's highway since before anyone numbered Cut-years, went quiet enough that a Far-Voiced on [[Eolstrand]] could hear the next quay's bells and no cargo between.
+Ships stayed tied. [[Named Ground|The Old Crossing]], which had been the world's highway since before anyone numbered Cut-years, went quiet enough that a Far-Voiced on [[Eolstrand]] could hear the next quay's bells and no cargo between.
 
 Deathless houses did not die. Their debtors did. Notes outlived mouths. That is why the trusted note holds, and why a grandchild in C.Y. 387 can still owe a Grey-summer board. [[The White Note House]] was in its ninety-first house-year. Ledan would later learn to convert. In 171 the conversion was: *the person is gone; the paper is not.*
 

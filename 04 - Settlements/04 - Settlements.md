@@ -40,6 +40,6 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The Dry Stair]] — Saelthael rise that does not climb to a Tree
 
 ## Related
-- [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]]
+- [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]] · [[Named Ground]]
 - [[Powers of the Turning]] · [[People of the Turning]] — seats have named wants now
-- [[The Other Count]] — dated years · [[Roadmap]] (Epic 7 done; R.9 leftovers; next R.10) 
+- [[The Other Count]] — dated years · [[The Known Map]] · [[Roadmap]] (Epic 7 done; R.9 leftovers; R.10 named ground) 
