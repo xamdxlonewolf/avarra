@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Tengu
 
-> **A custom born-ancestry (Kind), not a Condition.** One of four homebrew ancestries kept for this world (with [[Kitsune]], [[Selkie]], and [[Yumboe]]) — the **mountain-born**. You are *born* Tengu — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Wind-Winged + The Mountain's Mood + Wind-Caller.** Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** One of four born-ancestries unique to this world (with [[Kitsune]], [[Selkie]], and [[Yumboe]]) — the **mountain-born**. You are *born* Tengu. Three features: **Wind-Winged**, **The Mountain's Mood**, **Wind-Caller**.
 
 ## Overview
 
@@ -42,19 +42,20 @@ Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Calle
 
 ## Naming & tongue
 
-Hearth-register **Gonan** (GO-nan) 🔒 — clipped, windy, high-country; seed `20260825`. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
+Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
 
 Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
-
-## Open questions (optional future tweaks — not blockers)
-
-- **Flight lever (resolved 2026-08-16)** — kept the *offensive* dive (fold wings, d8 Finesse on a Close target, end at Very Close) over Faerie-style evasion. At-will flight is kept, with the dive as the Stress-gated part so it stays in-band (Faerie sets the precedent for at-will flight on a Kind). **Gate simplified 2026-08-16:** the dive was double-gated (once per scene *and* mark a Stress) — dropped the per-scene cap, keeping just the Stress cost, to match the house pattern (Kitsune's Slip the Frame, Selkie's Slip the Hold, Tengu's own Wind-Caller are all Stress-only). Double-gating is reserved for Seal-Kin's stronger no-surprise+aid effect.
-- **The Mountain's Mood (resolved 2026-08-16; keyword sole-issue 2026-08-30)** — tightened the soft "feel it an instant early" perk into a hard rule: **cannot be caught off guard by environmental hazards or terrain ambushes.** Story R.3 keeps that phrase **here only**. [[Selkie|Seal-Kin]] and [[Yumboe|Hollow-Hill]] were rewritten off it.
-- **Feature count (resolved 2026-08-16; band settled 2026-08-30)** — Tengu matches all four customs at **three features**. Earlier lean was "stay at two"; reversed on refinement. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. *Wind-Caller* is folklore-true (the iconic *ha-uchiwa* feather fan / wind-magic) and stays clear of [[Kitsune]]'s disguise lane and [[Selkie]]'s escape lane — it commands the wind to shove/carry/sweep, an in-scene control beat distinct from flight and hazard-sense.
-- **Physical read (resolved 2026-08-16)** — **overt**: broad dark wings always present, feathers through hair and down the arms, black bright eyes, sharp features; read as Tengu at a glance, as ordinary in-world as any other Kind. (Wings are functional, so "fully human dry" was never on the table; matches the Overview.)
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Selkie]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
+
+## GM Notes
+
+- **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
+- **Register.** *Gonan* seed `20260825`. Do not collapse it into [[Kitsune|Kusawe]].
+- **Flight.** At-will flight; dive is Stress-gated only (no per-scene cap). Offensive dive, not Faerie evasion.
+- **"Cannot be caught off guard"** lives **here only**, on The Mountain's Mood, and only against environmental hazards and terrain ambushes. Do not put the phrase back on Seal-Kin or Hollow-Hill.
+- **Wind-Caller** is the fan/wind lane: shove, carry, sweep. Not disguise, not escape.

@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 Offices that already had to exist, made into people. The job is why they matter. None of them were chosen. A party can meet two in a week and never meet the rest.
 
-Names drawn from [[Naming People in the Turning]] (seed `20260830`, middle of the list, plus unused names already on that working set). Recruits not by Kind.
+Recruits not by Kind. Names from [[Naming People in the Turning]].
 
 ## The six pivots
 
@@ -99,6 +99,7 @@ Later openings. Not plotted here. The houses exist. Do not grow the four into a 
 
 ## GM Notes
 
+- **Names.** Seed `20260830`, middle of the list, plus unused names already on that working set. Do not re-roll the six.
 - **Positional, not destined.** Involvement is the job. Do not give any of the six a prophecy, a Kind-champion speech, or a First Seat that answers mail.
 - **Constellation, not a party.** Intersections are structural (same week, same paper, same square). If the table has them all sit down together you have built a crew. Don't.
 - **Non-Tree wants are load-bearing.** The audit's hole was a world where nobody wanted money, love, revenge, or a stall. If a session only asks them about the wood, you are running the old furniture.

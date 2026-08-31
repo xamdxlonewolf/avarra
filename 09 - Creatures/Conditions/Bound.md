@@ -19,7 +19,7 @@ updated: 2026-08-31
 
 # Bound
 
-> **Reinvents the demon — as a *contract*, not a bloodline.** The Bound are the only Conditioned who **chose** it: in some extremity they **swore a contract** with something on the other side, and got power in exchange for terms. The horror is contractual, not infernal — a **debt** and a **counterparty** that always watches the ledger. Distinct from Daggerheart's born **Infernis** (a demon-blooded *ancestry*); Bound is **acquired**, never born.
+> **Reinvents the demon — as a *contract*, not a bloodline.** The Bound are the only Conditioned who **chose** it: in some extremity they **swore a contract** with something on the other side, and got power in exchange for terms. The horror is contractual, not infernal — a **debt** and a **counterparty** that always watches the ledger. Distinct from Daggerheart's born **Infernis** (a demon-blooded *ancestry*); Bound is **acquired**, never born. An Infernis may still be Bound: Kind and Condition stack. The blood is not a contract, and the contract is not a bloodline.
 
 ## The take
 

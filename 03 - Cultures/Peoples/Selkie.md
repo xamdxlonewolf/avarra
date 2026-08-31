@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Selkie
 
-> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Kitsune]], [[Tengu]], and [[Yumboe]]), sitting alongside Daggerheart's stock roster. You are *born* Selkie — hereditary, mundane in this world. **✅ LOCKED (2026-08-16): three features — Second Skin + Slip the Hold + Seal-Kin.** Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** One of four born-ancestries unique to this world (with [[Kitsune]], [[Tengu]], and [[Yumboe]]). You are *born* Selkie — hereditary, mundane here. Three features: **Second Skin**, **Slip the Hold**, **Seal-Kin**.
 
 ## Overview
 
@@ -49,17 +49,16 @@ Hearth-register **Sakoa** (sah-KOH-ah) 🔒 — liquid, rounded, coastal; seed `
 
 Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 
-## Open questions (optional future tweaks — not blockers)
-
-- **Removable skin (resolved 2026-08-16)** — the skin gets an *upside* hook (*Anchored*: always find your way back to your stashed skin), never a downside. Confirmed no "skin stolen" penalty (Kinds have no Tithe; a debuff there would be an anti-fun gotcha). Loaning/losing it stays a story beat.
-- **Second Skin vs. Ribbet (resolved 2026-08-16)** — kept distinct: Selkies are *at home in water* (long breath-hold, ignore cold/deep, swim advantage) but **NOT** true underwater breathers — that stays Ribbet's lane.
-- **Slip the Hold power band (noted, kept)** — end grab/Restrained + ignore forced movement + reposition, one Stress, is deliberately a notch above the stock band, matched to Kitsune's full-strength Slip the Frame so the two custom ancestries stay balanced against each other. Flag here if a play-test wants it trimmed.
-- **Feature count (resolved 2026-08-16; band settled 2026-08-30)** — Selkie matches the other three customs at **three features**. Earlier lean was "stay at two"; reversed on refinement. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. *Seal-Kin* is folklore-true (kinship with real seals) and stays clear of [[Far-Voiced]]'s charm/luring lane — it calls seal-kin to *aid*, it doesn't charm people. All four customs run three.
-- **Seal-Kin surprise clause (2026-08-30)** — dropped "cannot be caught off guard." The sea names the approach; kin aid; you may move. Information and help, not the Tengu keyword.
-- **Physical read (resolved 2026-08-16)** — **subtle marks** out of the skin: cool sleek skin, large dark eyes, sometimes faint finger-webbing; passes as ordinary, keeps the "mundane, nobody blinks" tone. The seal-self lives in the skin, not the face. (Added to Overview.)
-
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
+
+## GM Notes
+
+- **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
+- **Skin.** *Anchored* is an upside (find the stashed skin). No "skin stolen" penalty. Loaning/losing it is a story beat, not a Tithe.
+- **Not Ribbet.** At home in water, not a true underwater breather.
+- **Slip the Hold** is a notch above the stock band, matched to Kitsune's Slip the Frame. Do not add "cannot be caught off guard" back onto Seal-Kin.
+- **Seal-Kin** calls seal-kin to aid. It does not charm people and is not [[Far-Voiced]].

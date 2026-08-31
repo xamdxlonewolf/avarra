@@ -5,7 +5,7 @@ visibility: player
 note_status: fleshed
 status: active
 tags: [settlement, town, heskoren, epic-7, story-7-2, live-front, saelvaeth]
-aliases: [Harrow's Tree, Harrow's, the Neighbour's Canopy]
+aliases: [Harrow's Tree, Harrow's, the Neighbour's Canopy, Haelin]
 world: The Turning
 region: "[[Heskoren]]"
 population: a small town — a few hundred hearths around one canopy

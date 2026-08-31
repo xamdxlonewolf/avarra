@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Yumboe
 
-> **A custom born-ancestry (Kind), not a Condition.** The **fourth** homebrew ancestry of this world (with [[Kitsune]], [[Selkie]], and [[Tengu]]), and the first from beyond the known world — the **hill-folk of [[The Sundering Isle|Kumbaan]]**, the storm-walled isle. You are *born* Yumboe; it is your birth-shape. But unlike the other three — native to the mainland and unremarkable there — a Yumboe is **mythic-rare** off their far isle: most people of [[Maiethorn]], [[Strandoren]], and [[Heskoren]] have only *heard stories* of the pearly, silver-haired good people from across the drowning sea. **A Yumboe PC needs GM leave. If seated, take the full three features — never Mixed Ancestry.** **✅ LOCKED (2026-08-22): three features — Hollow-Hill + Moon-Waked + The Unseen Hands.** Passed a folklore check (Wolof/Senegambian *Yumboe* myth). Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** The fourth born-ancestry of this world (with [[Kitsune]], [[Selkie]], and [[Tengu]]), and the first from beyond the mainland — the **hill-folk of [[The Sundering Isle|Kumbaan]]**. You are *born* Yumboe. Unlike the other three, a Yumboe is **mythic-rare** off their far isle: most people of [[Maiethorn]], [[Strandoren]], and [[Heskoren]] have only *heard stories* of the pearly, silver-haired good people from across the drowning sea. **A Yumboe PC needs GM leave. If seated, take the full three features — never Mixed Ancestry.** Three features: **Hollow-Hill**, **Moon-Waked**, **The Unseen Hands**.
 
 ## Overview
 
@@ -52,25 +52,19 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 - Full person-naming rules (two-name pattern, collision, how they stay a *single* register on the mainland): [[Naming People in the Turning]]. Distribution: [[Kinds of the Turning]].
 - The Isle's **Azgaar name base** (places) lives in `14 - Assets/Maps/Map Generation Tooling.md` §③b — production aid, not terrain.
 
-## Open questions (optional future tweaks — not blockers)
-
-- **Folklore check passed (2026-08-22).** Measured against the Wolof/Senegambian *Yumboe* myth (Keightley, *The Fairy Mythology*): hits the iconic traits — **pearly-white skin & silver hair** (Overview/physical read), **dwelling beneath the hills** (*Hollow-Hill*), **nocturnal, dancing in the moonlight** (*Moon-Waked*), **feasts served by invisible servants seen only as hands and feet** (*The Unseen Hands* — the signature), **hospitality to natives and foreigners alike** (Values/Customs), **the name "the good people / Bakhna Rakhna"** (Naming), and the "spirits of the dead / ancestral" flavour reinvented as their moon-and-lineage faith rather than literal ghosts (see [[The Open Table]]). The corn-stealing and shore-fishing survive as customs colour.
-- **Lane separation (checked, clean).** *Hollow-Hill* is **earth/underground + small**, dodging [[Selkie]] (water), [[Tengu]] (sky/heights), and [[Kitsune]] (society/illusion). *Moon-Waked* is **night-sight + rest-recovery**, distinct from Kitsune's *Fox of the Sands* darkvision (which pairs with hearing) and Fox of the Snows' vanishing. *The Unseen Hands* is a **conjured-helpers control/support** beat found nowhere else — it deliberately **cannot restrain** (that would brush [[Tengu]]'s *Wind-Caller* shove/Vulnerable and generic grapples) and **cannot damage** (the good people don't fight), keeping it in the disadvantage/advantage control lane. No overlap with any [[Conditions|Condition]] (esp. not [[Two-Bodied]] transformation or [[The Stilled]] stone).
-- **Small-size band vs. stock Halfling/Faerie (noted, kept distinct by flavour).** Being small grants squeeze + hide-advantage + can't-be-lost-underground + tremor-sense — bundled into the *earth* identity rather than generic luck (Halfling) or flight (Faerie). If play-test finds the size perk thin or too strong, the tremor-sense clause is the easiest dial. **Story R.3 (2026-08-30):** tremor-sense no longer issues "cannot be caught off guard." Three features stay; stock characters take a [[Kind Heritage|Hearth-Mark]].
-- **Moon-Waked recovery (flag).** The "+1 Stress cleared resting under moonlight" is a gentle, non-combat perk in the spirit of the good people's ease — confirm it feels right, or swap for a flat night-time advantage if a recovery bonus is fiddly at your table.
-- **The Unseen Hands scope (flag).** Currently at-will utility + once/scene Stress-gated harry (disadvantage OR grant-advantage, no damage, no restrain). Confirm the once/scene cap and the "can't restrain/can't damage" guards feel right; the leanest trim is dropping the at-will utility to pure flavour and keeping only the harry.
-- **Physical read (resolved 2026-08-22).** **Overt and unmistakable:** small stature, pearl-pale luminous skin, silver hair, wide dark night-eyes — a Yumboe reads as a Yumboe at a glance, which is exactly why they can't move unremarked off their isle (the opposite of Selkie's subtle tells). The "two-foot good people" of the oldest tellings are the deep-hill kin of legend; PC Yumboes are small but not doll-sized. *(Decision: full folklore-true small stature, kept human-enough to play.)*
-- **Do Yumboes get [[Conditions|Conditions]]?** On Kumbaan there is no Turning Tree — a graft has not crossed the storm-wall — so there is **no Leaf-Fall and no Given Conditions** on the isle. **Struck still happen, rarely** — enough for a story, not a social class. A Yumboe abroad under a mainland Tree in a tenth-year week is a live campaign beat, not a racial rule. Kind still *stacks* with a Condition in principle.
-- **Mixed Ancestry (locked 2026-08-30).** Mainland Kinds mix as the SRD allows. Yumboe do not. GM leave to play one; if yes, the complete three-feature Kind. A Yumboe–mainland child is full Yumboe or the other Kind, never a mechanical mix.
-
-## GM Notes
-
-- **The isle is a reach-edge, not a racial immunity.** Per [[The Other Hands]]: her Giving does not cross the storm-wall; they do not keep her household's doors, so purchase is thin; Struck are rare because the doors are barely a concept, not because Yumboes are refused. A Yumboe under a mainland Tree *could* be Given. Do not write a Kind-ban. Do not confirm the household in the body.
-- **Keyed tags.** `keystone-adjacent` · `the-other-hands`.
-
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[The Sundering Isle]] (Kumbaan) — their storm-walled homeland · [[Ndenjoo]] — playable hall · [[The Open Table]] — their isolate faith (*Ndeyaan*) · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The World Frame]] — the world they're rare across
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] — the other three custom ancestries (all mainland-native)
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]] · [[The Reckoning of the Year]] (Kumbaan's twelve moons)
 - [[03 - Cultures]]
+
+## GM Notes
+
+- **The isle is a reach-edge, not a racial immunity.** Per [[The Other Hands]]: her Giving does not cross the storm-wall; they do not keep her household's doors, so purchase is thin; Struck are rare because the doors are barely a concept, not because Yumboes are refused. A Yumboe under a mainland Tree *could* be Given. Do not write a Kind-ban. Do not confirm the household in the body.
+- **Keyed tags.** `keystone-adjacent` · `the-other-hands`.
+- **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. Tremor-sense is not "cannot be caught off guard."
+- **Folklore check (2026-08-22).** Wolof/Senegambian *Yumboe* (Keightley): pearly/silver, hill-dwellers, moon-waked, unseen hands, hospitality, *Bakhna Rakhna*. Ancestral flavour lives on [[The Open Table]], not as literal ghosts.
+- **Lanes.** Hollow-Hill = earth/small. Moon-Waked = night-sight + rest. Unseen Hands = helpers; cannot restrain, cannot damage.
+- **Conditions on the isle.** No Tree, no Given. Struck rare. A Yumboe under a mainland Tree in a tenth-year week is a campaign beat. Kind still stacks.
+- **Mixed Ancestry.** Yumboe do not mix. GM leave; if yes, the complete Kind. A Yumboe–mainland child is full Yumboe or the other Kind.

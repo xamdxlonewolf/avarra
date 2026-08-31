@@ -18,13 +18,11 @@ updated: 2026-08-31
 
 ## Active next
 
-**[[Roadmap#Epic R: Editorial repair and table readiness|Epic R]] — completion gate.** Stories **R.1–R.13** are done. Do not start the gate or Epic 10 until asked.
+**[[Roadmap#Pass two — verification|Pass two]] — Story P2.1** (residual export polish). Epic R is **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]].
 
-**R.12 (2026-08-31)** repaired [[The Old Tongue]], promoted common spoken handles (*speak the common name; write the liturgical name*), retired *Aeloren* and *Eolstrand*, renamed that power [[The Hinge Shore]], differentiated two fables and three note voices, capped repeated editorial mantras, and stored naming tooling under `14 - Assets/Names/` ([[Naming Tools]]).
+**Gate (2026-08-31).** Every non-green finding in [[Editorial Audit 2026-08-29]] maps to R.1–R.13 or a recorded decision. Keystone confirmation is off the player body. Remaining Story numbers / 🟡 / "Do not clone" in working-note bodies are **C-01**, not a reopened R.13. Infernis + Bound stack ([[At the Table]]). Haelin is an alias of [[Harrow's Green]]. Thuda stays an on-page mouth.
 
-**R.13 (2026-08-31)** rewrote this brief, settled `note_status` / export / Condition visibility, filled [[09 - Creatures]], wrote [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]], and moved production scaffolding off player bodies.
-
-**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; start Epic 10's campaign opening; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan.
+**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; start Epic 10's campaign opening; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan.
 
 Two clocks stand. Cutter unpicked. World book stays untouched.
 
@@ -53,7 +51,7 @@ Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fres
 - **Era spine:** two clocks — how you Turned (Walking vs Hands) and where the wood has reached (Grafting still moving). No universal year-zero. *Brenvaeth / Eoloren / Ornthael* 🔒. Present **C.Y. 387** 🔒. Tree undated. Cutter unpicked. Limit's nature open. → [[The Ages of the Turning]]
 - **~15 powers.** Inner Close stays inside [[Orenbren]]. Kumbaan is not a thirteenth mainland power and never took a graft. *Eolstrand* is retired; the slot is [[The Hinge Shore]]. Named ground: [[Named Ground]].
 - **Kumbaan committed for play:** [[Ndenjoo]] · [[Njunda]] · crossing rules on [[The Sundering Isle]].
-- **Table procedures:** [[At the Table]]. Wilderness rolls: [[Dangers of the Turning]]. Export strip and `note_status` vocabulary: [[Conventions]].
+- **Table procedures:** [[At the Table]]. Infernis + Bound stack. Wilderness rolls: [[Dangers of the Turning]]. Export strip and `note_status` vocabulary: [[Conventions]]. Pass-two log: [[Contradictions]].
 
 ## Rejected (don't re-propose)
 
@@ -78,6 +76,7 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 
 ## Links
 - [[Roadmap]] — tracker · [[The Premise]] — design hub · [[Conventions]] — schema and export
+- [[Epic R Completion Gate 2026-08-31]] · [[Contradictions]]
 - [[At the Table]] · [[Kind Heritage]] · [[Conditions]] · [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]] · [[When the Fire Is Caught]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]

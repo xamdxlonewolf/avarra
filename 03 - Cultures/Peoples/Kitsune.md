@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Kitsune
 
-> **A custom born-ancestry (Kind), not a Condition.** One of the homebrew ancestries kept for this world (with [[Selkie]], [[Tengu]], and [[Yumboe]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane in this world. **✅ LOCKED (2026-08-16): three features — Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands).** Foxfire (kitsunebi) unifies the Fox actives; *Fox's Glamour* carries the iconic illusion / wearing-another-face trait (distinct from the werewolf's beast-change; fills the cut-Doppelganger niche). Passed a folklore check (6/7 iconic traits). Open questions below are optional future tweaks, not blockers.
+> **A custom born-ancestry (Kind), not a Condition.** One of four born-ancestries unique to this world (with [[Selkie]], [[Tengu]], and [[Yumboe]]), sitting alongside Daggerheart's stock roster. You are *born* Kitsune — it is your birth-shape, mundane here. Three features: **Slip the Frame**, **Fox's Glamour**, and **your Fox** (Wilds / Snows / Sands). Foxfire (*kitsunebi*) unifies the Fox actives; *Fox's Glamour* is seeming — another face, not another body.
 
 ## Overview
 
@@ -53,19 +53,17 @@ Hearth-register **Kusawe** (koo-SAH-way) 🔒 — light, slipping, sibilant; see
 
 Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 
-## Open questions (optional future tweaks — not blockers)
-
-- **Folklore check passed (2026-08-16).** Measured against the kitsune myth ([Wikipedia: Kitsune](https://en.wikipedia.org/wiki/Kitsune)): now hits **6 of the 7** most-iconic traits — bewitching/leading-astray (Wilds' *Wisp-Lure*), trickery/misdirection (whole identity + Slip the Frame), foxfire/kitsunebi (the unifying thread), nine-tails-as-honorific, the sacred white fox (Snows), longevity/foresight ("knows what's coming," Sands). The last big gap — **shapeshifting/illusion** — is now filled by **Fox's Glamour**, framed as *illusion/disguise* (fox-wife, wearing another face) rather than the werewolf's beast-change, so it stays distinct from [[Two-Bodied]] and fills the cut-**Doppelganger** niche.
-- **Three features now** — Slip the Frame + Fox's Glamour + your Fox. Deliberately rich (stock ancestries have two). **Story R.3 (2026-08-30):** do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]] instead. Mixed Ancestry never takes Your Fox.
-- **Fox's Glamour — scope check.** Currently: veil features + throw voice/small illusions at will (utility), plus once/scene "wear another face" (a seen person, concentration). Kept firmly *illusion, not flesh* (no touch, catchable tell, never mind-control). Confirm the once/scene + concentration limits feel right, and that "another face" shouldn't be a full at-will disguise.
-- **No damage option (intentional).** With Wilds now *Wisp-Lure* (control), the trio reads **control / stealth / support**, no straight offense. Kept on purpose — authentic kitsune mislead, they don't blast. Say if you'd rather one fox get an offensive foxfire bolt after all.
-- **Slip the Frame power band (noted, kept)** — halve-damage + reposition + conditional Hidden is a notch above the SRD band (cf. Faerie *Wings*). Kept at full strength by choice.
-- **Fox parity check** — Wilds (wild-terrain + Wisp-Lure), Snows (untrackable + Cold Vanishing), Sands (darkvision + Ward-Flame). Confirm none feels clearly weakest.
-- Physical read: how fox is a Kitsune — full ears+tail (and the tail is the glamour's giveaway), or subtler? Fox *variety* colours it too (Snows white-furred, Sands huge-eared/pale, Wilds red-russet).
-- Room for more foxes later (grey/tree fox, swift/plains fox) — the pattern scales.
-
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
 - [[Selkie]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
+
+## GM Notes
+
+- **Package locked.** Three features: Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands). Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. Mixed Ancestry never takes Your Fox.
+- **Folklore check (2026-08-16).** Hits 6 of 7 iconic kitsune traits. Fox's Glamour is illusion/disguise, not [[Two-Bodied]] flesh-change. Fills the cut-Doppelganger niche.
+- **Fox's Glamour scope.** Veil + small illusions at will; once/scene "wear another face" (seen person, concentration). Illusion, not flesh. Never mind-control.
+- **No damage option (intentional).** Control / stealth / support. Do not add an offensive foxfire bolt unless a later pass asks.
+- **Slip the Frame** is a notch above the SRD band (cf. Faerie *Wings*). Kept at full strength by choice.
+- **Fox parity.** Wilds (terrain + Wisp-Lure), Snows (untrackable + Cold Vanishing), Sands (darkvision + Ward-Flame). Ears and tail are the glamour's giveaway.
