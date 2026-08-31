@@ -68,6 +68,25 @@ Tree or town-graft canopy on the far storm-walled isle.
 
 **World-sheet failure mode.** Full-world gens reliably invent extra islands, sneak in fake script, and line the four lands up as a **necklace** (equal size, equal latitude, equal gaps — or the same trick on a diagonal). That is a diagram, not a world. Force an **Old World cluster** (Maiethorn + Strandoren almost touching across a thin strait) plus a **wide empty ocean** plus a **west-and-south frontier** plus a **tiny storm-isle** that is not the next bead. Prefer **C1–C4 + the two seas** as the working atlas, and treat **W** as a mood piece. If you need one sheet, composite the four continent paintings on parchment yourself. Do not let a pretty archipelago or a four-in-a-row become canon.
 
+### Reference-locked workflow
+
+When a world painting has been chosen, pass that same image into **every** world and continent generation. Start each continent prompt with:
+
+```
+Extract and enlarge the corresponding landmass from the supplied world
+reference. Preserve its recognizable silhouette, capes, bays, orientation,
+and north-up relationship. Do not rotate, mirror, or replace it with a generic
+continent. Apply the canon terrain below inside that coastline.
+```
+
+The current reference is `references/World-Map-Reference.png`. Its upper-left storm-ringed isle is Kumbaan; lower-left is Heskoren; centre-right is Strandoren; far-right is Maiethorn. A detached storm-ringed speck southwest of Heskoren is source-art interpolation, **not** a fifth land, and must be omitted.
+
+Three matched applications of this workflow are collected in [[Atlas Prototype Review]]:
+
+1. **Reference-faithful dark portolan** — closest to the source palette.
+2. **Pale engraved survey** — easiest to annotate.
+3. **Weather-forward campaign atlas** — strongest climate and table mood.
+
 **Sample renders** (this pass, label-free, not surveys) live beside this note and are browsable on [[The Atlas Sheets]]:
 
 | File | Prompt |

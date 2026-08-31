@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Atlas Sheets
@@ -16,6 +16,8 @@ updated: 2026-08-30
 > **Label-free paintings, not surveys.** Generated from the pack in [[Map Generation Tooling]]. Names and travel: [[Named Ground]]. Placement: [[The Known Map]] (SVG). If a painting and a note disagree, the note wins.
 
 > **Handouts.** Continent and region sheets can go to the table *unlabelled*. Do **not** hand the world sheet as canon — it invents extra islands. Composite C1–C4 if you need one page.
+
+> **Three new matched options:** [[Atlas Prototype Review]]. Each set contains a world sheet plus reference-matched Kumbaan, Heskoren, Strandoren, and Maiethorn zooms. The existing images below remain unchanged.
 
 ## Continents
 
@@ -77,5 +79,6 @@ No graft. No city. The wall is the climate.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
+- [[Atlas Prototype Review]] — three reference-matched world and continent sets
 - [[Named Ground]] · [[The World Frame]]
 - [[14 - Assets]] · [[Roadmap]] (Story R.10)
