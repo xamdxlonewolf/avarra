@@ -11,14 +11,25 @@ region: "[[Maiethorn]]"
 population: a counted city — smaller than Orentel, older; the clerks will tell you a number after every Eolthael
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Maiethlir
 
 > **The Tallied Crown's seat: an origin pilgrimage-town under a roll, not the grove.** *(MAI-eth-lir · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|lir]] "thaw.")* This is where the crown started counting a hearth that was already holy — not where it acquired [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* this country and is not its crown.
 
-> **Canon status.** 🟡 **Playable seat.** Seed `20260829` (middle-toward-bottom of the list; not *Threnmaieth*, not *Threnhael*, not *Thaeloren*, not *Brenthael*, not *Maiethvael* / *Maiethorn*, not *Lirorn*). Speaker-name *Rithim* 🟡. **Do not capture the First Seat.** Do not clone [[The Third Hearth]] or Brenthael as this capital. Do not let the census be the leftover-postcard. Do not clone Road-hands or [[The Slide]] as a district.
+> **Canon status.** 🟡 **Playable seat.** Speaker-name *Rithim* 🟡. **Do not capture the First Seat.** Do not clone [[The Third Hearth]] or Brenthael as this capital. Do not let the census be the leftover-postcard. Do not clone Road-hands or [[The Slide]] as a district.
+
+## At the table
+
+| | |
+|---|---|
+| **Want** | A colour Spoken. A line not copied in the same breath. An uncounted loft for one winter. |
+| **Have** | A mature Hand, a tablet-hall, a loud thaw, four named wants, Reckoned offices next door. |
+| **Fear** | The copy in the same hymn. Green cut on a sister's street. The roll finding a Held bed. |
+| **Live conflict** | Devotion layered under a roll. The Speaker is not a clerk. |
+| **Enters a scene** | Thaw-flood in the tablet-hall; a street shove over cut green; an unfiled loft giving way. |
+| **How this city talks** | Two hands on one slip. Already varied. The river can arrive. |
 
 ## Overview
 
@@ -86,6 +97,13 @@ Offices that must exist:
 
 The Kept are pitied *and* noted as unmarked. A household whose bloodline and upkeep are both on file cannot easily refuse the crown anything.
 
+## What can enter a scene
+
+- **Thaw-flood in the tablet-hall.** The river runs louder the week before Leaf-Fall. Clerks file snowmelt. This year it comes over the step. Rithim will Speak over it. A clerk will wait for the water to quiet before copying — or will not.
+- **A street shove over cut green.** Baerith's sister's pot. Crown channel framed as a lapse. Neighbours, not a riot-district.
+- **An unfiled loft giving way.** Vehaela's winter, or another. Old extra-mile timber. The roll has not found all of them. Gravity has.
+- **A colour Spoken and not copied in the same breath.** Already the city's document. Let it happen in the square while the river is loud.
+
 ## In-world text
 
 *A Threnhael copy-slip, tablet-hall, Eolthael, C.Y. 387. The Speaker's name is on the recto. The clerk's hand is on the verso. The Tree is named as hale. `oblique-worldbuilding`.*
@@ -116,4 +134,4 @@ Rithim cannot afford to see that "I have not said the line" is the only refusal 
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — the naming
 - [[Eolvaeth]] · [[Orentel]] — the other two seats
 - [[Rithim]] · [[Laevila]] · [[People of the Turning]] · [[The Reckoned Offices]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8)
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11)

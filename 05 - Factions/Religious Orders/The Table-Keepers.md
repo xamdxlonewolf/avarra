@@ -12,7 +12,7 @@ seat: none — a hill-hall on Kumbaan; an attic on the mainland; there is no sea
 public_face: almost not clergy — the person whose hall the valley comes to on the bright nights, or the one who will still lay the extra place in a foreign room
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Table-Keepers
@@ -35,7 +35,7 @@ The faith's playable quarrel is now on [[The Open Table#The sentence at the main
 | **Have** | A hill-hall, or one mainland attic. Bread. A lamp that faces the table, not the sea. |
 | **Fear** | A witness who wants the supper to travel. A tenth-year week spent on a Tree. |
 | **Live conflict** | Two sittings vs a Turning-witness at a mainland lintel. The Open Table note is the fight. |
-| **Hooks** | A guest who will not leave; a sentence that will not travel; a child whose host will not walk them to a Tree. |
+| **Hooks** | A guest who will not leave; a sentence that will not travel; a child whose host will not walk them to a Tree; [[Ndenjoo]]'s second sitting. |
 
 ## Shape of the order (at a glance)
 
@@ -50,7 +50,7 @@ The faith already named the rites ([[The Open Table#Practice]]). This is the *ta
 
 ### If you meet one
 
-On [[The Sundering Isle|Kumbaan]] a table-keeper looks like the person whose hill-hall the valley already knows. Small, pearl-pale, silver-haired if they are Yumboe (most are, because that is who lives there). They open the door on the bright nights. By mainland noon they are often asleep. You would not call them a priest. You would go to their hall when the moon is up because that is where the food is and where a stranger is allowed to sit.
+On [[The Sundering Isle|Kumbaan]] a table-keeper looks like the person whose hill-hall the valley already knows. Playable hall: [[Ndenjoo]]. Host: [[Njunda]]. Small, pearl-pale, silver-haired if they are Yumboe (most are, because that is who lives there). They open the door on the bright nights. By mainland noon they are often asleep. You would not call them a priest. You would go to their hall when the moon is up because that is where the food is and where a stranger is allowed to sit.
 
 On the mainland they look like one person in a rented room who still sets a place no body will use. A sailor finds them by asking for the Moon-Feast. A clerk finds them by following a rumour and then files them as a guest. They cook. They pour. They say the sentence on the second night.
 
@@ -171,7 +171,7 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
 ## Links
 - [[The Open Table]] — the faith this house keeps (lintel quarrel lives there) · [[Yumboe]] — the people who most often keep it
 - [[Turning Tree]] — the one-week door a host can spend
-- [[The Sundering Isle]] (Kumbaan) · [[Faiths of the Turning]]
+- [[The Sundering Isle]] (Kumbaan) · [[Ndenjoo]] · [[Njunda]] · [[Faiths of the Turning]]
 - [[The Shore-Sitters]] — the other Kumbaan house (the sand, not the hall)
 - [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]]
 - [[Naming People in the Turning]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon)
@@ -190,4 +190,4 @@ On its face: hospitality, almost twee, already half-ruined by the quay-copy. Und
   2. **Mainlanders who sat twice may keep a table.** Proposed — faith, not Kind. The other clean option: only isle-born host, mainlanders remain kin-but-not-hosts. That option leans Kind-gate; take it only if you want the order narrower than the faith.
   3. **One job.** Load-bearing. Do not add a "moon-speaker" office in a later polish.
   4. **No mission.** Load-bearing. Revisit only if a campaign *is* the crossing.
-- **Hooks.** Mbela's second sitting that Sorel will not file; a tenth-year child on the landing in Eolthael; a sailor's place-card sold as luck; a mainland convert who opens a room and a Yumboe who will not share it; a warden guest on Kumbaan with no Tree to tend; a rare Struck on the isle treated as family, not a class.
+- **Hooks.** Mbela's second sitting that Sorel will not file; a tenth-year child on the landing in Eolthael; a sailor's place-card sold as luck; a mainland convert who opens a room and a Yumboe who will not share it; a warden guest on Kumbaan with no Tree to tend; a rare Struck on the isle treated as family, not a class; [[Ndenjoo]] if the session is on the isle (Nolas, Soonke, Saalo).

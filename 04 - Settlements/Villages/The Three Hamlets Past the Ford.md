@@ -20,6 +20,17 @@ updated: 2026-08-31
 
 > **Canon status.** 🟡 **Playable cluster, not one village.** Do not collapse them to tidy the queue. Do not destroy them as a morality tale. Do not lock which green has the sick stick — that waits on a session. Do not make any hamlet a capital.
 
+## At the table
+
+| | |
+|---|---|
+| **Want** | A neighbour's week that can be walked home. A scion-fight that stays a kitchen-fight. |
+| **Have** | Three hearths, a cup on the ford-rock, a canopy they can see, a knife in a drawer. |
+| **Fear** | Harrow's year too full. A witness who will not walk back. Ornath taking the other road. |
+| **Live conflict** | Send / refuse / leave — three kitchens, one water. |
+| **Enters a scene** | The cup; a ford in flood; a slip that took; Tora needing Haelin's mouth. |
+| **How this square talks** | Three named kitchens, spoken, no single document. The best formula already; keep it. |
+
 ## Before you cross
 
 Three hearths past a ford on [[Heskoren]], close enough to share a complaint and far enough that a scion for "the hamlets" would still be a fight about *which* green. Thin reach as weather: Kept-heavy and Struck-heavy *this year, for this cohort.* Not a re-enactment of [[The Walking Years]]. Clock 2, present tense.
@@ -76,15 +87,22 @@ There is no stone on the waiting side. There is a **cup**. The night before the 
 
 ## People a visitor must find
 
-No Epic-8 cast. What must exist:
+No Epic-8 cast. Three kitchens, three mouths:
 
-- Families who walk one child and not another (the split household, shorter).
-- A person who will vouch a neighbour-fall all the way home — Harrow's witness walking back to the ford. If they will not, the child is seen at Harrow's and unvouched at breakfast.
-- A Kin-speaker who will stand for a Struck the square will not.
-- Someone who owns a knife they will not call nameless.
-- A Door-Keeper's cousin in Vaelun who will ask about the bowl before they ask about a leave.
+- **Tora** *(TOR-ah)* of Brenod — sends. Walks a neighbour-fall home when they can. At [[Harrow's Green]] when the stone is to be moved, because the next column still drinks there.
+- **Nethiro** *(neth-EE-ro)* of Vaelun — Door-Keeper's cousin. Asks about the bowl before they ask about a leave. May refuse the neighbour's week on purpose.
+- **Baelon** *(BAY-lon)* of Ornath — has not taken the slate-road. Has looked at it. The cup they leave empty on purpose, or do not, is this kitchen's.
+
+Also: families who walk one child and not another; a Kin-speaker who will stand for a Struck the square will not; someone who owns a knife they will not call nameless.
 
 The Seat's leave still says *the three hamlets past the ford.* Clerks who learn Brenod, Vaelun, Ornath have learned more than the minute wanted them to. Use that.
+
+## What can enter a scene
+
+- **The cup on the ford-rock.** Night before the week. If it fills, they send. If it does not — the child still goes, or does not, according to the kitchen. Do not explain the cup.
+- **A ford in flood.** The canopy is a rumour. The week is still a date. Someone has to decide without seeing Harrow's.
+- **A folk-right slip that took.** Still do not lock which green. The fight about *which* is the civic life.
+- **Tora at Harrow's, needing a mouth** that will walk back. If Haelin will not, the child is seen at the canopy and unvouched at breakfast.
 
 ## Three answers at the water
 
@@ -108,7 +126,7 @@ The argument does not resolve into a proverb. At dawn somebody still decides whe
 - **Hooks.** A borrowed Turning whose Harrow-witness will not walk back; a folk-right slip that took; a first meal a Road-hand ate or refused; a Kept child asked what they lacked; an unvouched Struck and a congregation deciding; the stone in Harrow's square climbed by a hamlet child; the cup; a clerk who writes Brenod on a leave and starts a fight about which green; Ornath walking toward slate.
 
 ## Links
-- [[Settlement Seeds]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Child Who Climbed the Stone]]
+- [[Settlement Seeds]] · [[The Years of Hands]] · [[Harrow's Green]] (Tora at the stone) · [[The Child Who Climbed the Stone]]
 - [[Heskoren]] · [[Saelvaeth]] · [[Vaelhesk]] · [[Ornled]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
 - [[The First Cut]] — the leave that named them without naming them
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.2)
+- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; R.11)

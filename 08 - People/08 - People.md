@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # 08 - People
@@ -38,9 +38,14 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 - [[Taeren]] — a hush at a thin Tree
 - [[Rosire]] — the one who opened a door
 
+### House-mouths and isle (Story R.11)
+- [[Ledan]] — White Note quay-desk
+- [[Njunda]] — Ndenjoo table-keeper
+- On-page, no note: Theisva · Lesna · Bovaer · Tora · Nethiro · Baelon · Meirim · Soonke · Saalo · Thuda · Nolas
+
 ## Related
-- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] · [[Ndenjoo]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[When the Fire Is Caught]]
-- [[Naming People in the Turning]] · [[Roadmap]] (Story R.8)
+- [[Naming People in the Turning]] · [[Roadmap]] (Story R.8; R.11)

@@ -116,7 +116,7 @@ Before locking a new PC/NPC name, check:
 
 - **Initial + cadence.** Do not seat *Raki* and *Ranyu* in the same party; do not seat *Teku* and *Kukra* as twins unless they *are*.
 - **Register bleed.** A Selkie named *Wishi* or a Tengu named *Maethaem* is a tell (raised away; adopted; passing). Use it on purpose or not at all.
-- **Locked place-names are reserved.** No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. Clergy and house coinages (*Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd*) stay off the person-list too. Story 7.2 squares (*Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's*) and Story 7.3 seats (*Eolvaeth, Orentel, Maiethlir*) likewise.
+- **Locked place-names are reserved.** No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. Clergy and house coinages (*Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd*) stay off the person-list too. Story 7.2 squares (*Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's*), Story 7.3 seats (*Eolvaeth, Orentel, Maiethlir*), and the R.11 hall (*Ndenjoo*) likewise.
 - **Median-hop test.** If the name would be the first one an un-seeded list produced for "fox / seal / crow," throw it back.
 
 ## How to coin more

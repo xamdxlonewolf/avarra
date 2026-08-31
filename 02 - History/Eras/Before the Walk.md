@@ -43,7 +43,7 @@ None dated. That is the point.
 
 A later chronicle that "discovers" a first king, a first war, or a first sermon in this era is doing the overlay [[The Watching]] warned about. Put named figures in the Hands and the Other Count, and only if they can survive a Watcher asking *seen by whom?*
 
-**Physical leftovers (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play. They do not start a year. Do not date the Tree from them.
+**Physical leftovers (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play (R.11: entrances, pressures, current actors). They do not start a year. Do not date the Tree from them.
 
 ## GM Notes
 
