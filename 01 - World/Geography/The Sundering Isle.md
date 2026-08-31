@@ -52,7 +52,7 @@ The Isle is the homeland of the **Yumboes** ("Bakhna Rakhna," *the good people*)
 
 ## How a crossing works
 
-The wall stays a dial, not a lock and not a ferry. Playable custom, not a map-distance (named seas and travel-tables wait on a later pass).
+The wall stays a dial, not a lock and not a ferry. Playable custom. The [[Named Ground|West Water]] is named; a thinning is still a moon, not a timetable.
 
 **You do not book Kumbaan.** A [[Netstrand]] hull may *try* — the far crossing is that coast's leftover, not a timetable. Shore-sitters do not swim out. They do not keep a rescue-boat. Most attempts wreck, turn back, or never return.
 
