@@ -37,7 +37,7 @@ Inside the lodging-country, not as a sixteenth flag, sits the **[[The Walled Boo
 
 ## Structure & Membership
 
-A compact of hearth-towns, not a single inn. Town-wardens and lodging-guilds. Recruits not by Kind. Deathless houses exist here as *patrons of beds* ([[The Third Hearth]] is the fleshed square of the type, not this power's capital; neighbour Hands-town **Brenthael**).
+A compact of hearth-towns, not a single inn. Town-wardens and lodging-guilds. Recruits not by Kind. Deathless houses exist here as *patrons of beds* ([[The Third Hearth]] is the fleshed square of the type, not this power's capital; neighbour Hands-town **Brenthael**). Further out the Mile, [[The Mill-hold]] is a Hands-town whose Hand is unsound this year — not a capital, not Brenthael.
 
 ## Goals & Methods
 
@@ -59,11 +59,12 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 - **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.
 - **The Inner Close is not a capital and not a sixteenth power.** **Placement 🔒 (Story R.10):** they retreated here because this is where the sitting was. Do not move the Book to the Hinge Shore. Do not promote the walls. Do not capture the First Seat.
 - **Prestige-walk chain (Story R.6).** Destination beds, not a fourth seller of the berth.
-- **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty; a term that cleared on the quay and a bed that did not; the Close shut while the beds outside are full.
+- **Hooks.** Turning-Week full; a Held bed the house will not let; Threnmaieth asking who slept; a Road-hand using an upper room as if the walk had not ended; a First-Hand-year student who came for prestige and found a duty; a term that cleared on the quay and a bed that did not; the Close shut while the beds outside are full; [[The Mill-hold]] sending a cohort *in* to Brenthael while Meirim still wants the inn's stone down.
+- **Do not make the Mill-hold a capital.** Sick-Tree square. Brenthael's Hand stays sound.
 
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[The Tree-Wardens]] · [[Turning Tree]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Settlement Seeds]]
-- [[The Third Hearth]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
+- [[The Third Hearth]] · [[The Mill-hold]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
 - [[The Walled Book]] — the Inner Close · [[The Closing]] · [[The Low Wall]]
 - [[Polity Archetypes]] · [[The Other Count]] · [[Roadmap]] (Story 7.1; Story R.6; history R.9)

@@ -25,7 +25,7 @@ The deep difference is water. In the core, towns drain it. On the Wall, Lirorn w
 |---|---|
 | **Weather this week** | Core: two wet days, one bright break, then a river rise. Wall: freeze at night and melt by noon. Shadow: dry wind until one hard shower fails to fill the well. Crossing: mild rain with a Hale-month squall. |
 | **What you can eat** | Core bread, peas, cabbage, orchard fruit, pork or river fish; Wall barley, roots, hard cheese; Shadow millet or barley, lentils, onions, goat cheese; coast herring, mussels, and rye bread. |
-| **What can enter a scene** | A cistern turn for the Tree; a Shelf-gate bench filling with stranded carts; a night-bucket taken from a well-share; a Salt Walk family watching the harbour mouth; a Returned recovery crew after flood. |
+| **What can enter a scene** | A cistern turn for the Tree; a Shelf-gate bench filling with stranded carts; a night-bucket taken from a well-share; a Salt Walk family watching the harbour mouth; a Returned recovery crew after flood; a neighbour-slate at [[The Mill-hold]]. |
 
 ## Reading the year
 
@@ -82,7 +82,7 @@ Mature Trees survive because generations have built around their needs.
 - Grazing animals are kept off exposed roots.
 - After gale or snow, Root-Answered brace soil and limbs; they do not make dead wood live.
 
-Age hides risk. An old culvert can choke. A rich square can assume someone else watered. During the Grey Summer, some coastal Hands sickened after their human watering-hands died. Stored grain did not solve that.
+Age hides risk. An old culvert can choke. A rich square can assume someone else watered. [[The Mill-hold]] is that sentence this year: the mill-race stayed full and the Hand stood in the overflow. During the Grey Summer, some coastal Hands sickened after their human watering-hands died. Stored grain did not solve that. A choked drain is not another Grey Summer.
 
 ### Sickness
 

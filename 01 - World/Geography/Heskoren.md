@@ -10,7 +10,7 @@ aliases: [The Sundered Reach, The Frontier, The Far Lands, Heskorn, The Waiting 
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Heskoren
@@ -30,7 +30,7 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 ## Geography & Climate
 
 - **Rugged and various.** Highland spines, upland moors, deep forests, and long river-runs down to a wild coast. Bigger weather, harder winters, more untamed ground than the Old World pair. These spines are **not** the Rain-Wall — that range is Maiethorn's. [[Tengu]] ridge-towns and Fox-of-the-Snows hearths sit on the heights; Fox-of-the-Wilds and the deeper woods share the same forests; [[Selkie]] families hold the wild coast ([[Kinds of the Turning]]).
-- **The grafted pockets.** Settlement clusters wherever a graft has *taken* — a healthy Tree is the seed of a town, and the map of Heskoren's civilization is really a map of its surviving Trees. Between them: un-polity'd wild, thinly-held marches, and long roads between Tree and Tree. [[Harrow's Green]] sits above **[[Named Ground|the Rise-water]]**; downstream is the ford the Seat will not learn the hamlets' names for.
+- **The grafted pockets.** Settlement clusters wherever a graft has *taken* — a healthy Tree is the seed of a town, and the map of Heskoren's civilization is really a map of its surviving Trees. Between them: un-polity'd wild, thinly-held marches, and long roads between Tree and Tree. [[Harrow's Green]] sits above **[[Named Ground|the Rise-water]]**; downstream is the ford the Seat will not learn the hamlets' names for. A day's walk (sometimes two) from Vaelun *into* the Yield, not back along that water, sits [[The First Bowl]] — a guest in an old green, not a second Harrow.
 - **The frontier coast** faces **[[Named Ground|the West Water]]** back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it. [[Eolvaeth]] is a vale *behind* this coast, not a live-front luck.
 - **Climate**: cooler, wetter, wilder than Maiethorn/Strandoren; a land where the solstice-timed [[Turning Tree|Leaf-Fall]] is a hard-won event of a decade, not a yearly certainty.
 

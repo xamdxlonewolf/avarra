@@ -25,6 +25,8 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The Three Hamlets Past the Ford]] — waiting cluster (Brenod · Vaelun · Ornath); three named kitchens
 - [[The Third Hearth]] — Near-Mile hearth; Seine's bed; Meirim wants the stone
 - [[Ornsael]] — Rain-Shadow walk-hold; **well dropping**, not a maybe-Tree clone
+- [[The Mill-hold]] — sick-Tree Hands-town; neighbour-slate and a shovel
+- [[The First Bowl]] — guest-grove (*Lonasir*); two settings of one bowl
 
 ### Archetype seats
 - [[Eolvaeth]] — Vaethorn's pilgrim-edge; the conflict walks in

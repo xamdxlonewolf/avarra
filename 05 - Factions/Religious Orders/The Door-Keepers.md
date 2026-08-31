@@ -31,8 +31,8 @@ updated: 2026-08-30
 | **Want** | Doors walked, kin named, a dying graft fed as guest or as house — they will argue which. |
 | **Have** | A token from their door, names in the head, three valleys that will walk to them. |
 | **Fear** | A town that will not house the Struck they just named. A Watcher who will sit the Before *at* the Tree in their grove. |
-| **Live conflict** | Same Before, opposite edge. They will sit with [[The Watchers]]. At Vaelun the grove is already a guest. A meal can be refused. A Night Watch can be held in the green. |
-| **Hooks** | A dying graft two houses love; a Struck the town will not vouch; a Road-hand told to eat first; a Watcher describing a fall the land already claimed. |
+| **Live conflict** | Same Before, opposite edge. They will sit with [[The Watchers]]. At [[The First Bowl]] the grove is already a guest; Vaelun walks there for the meal. A meal can be refused. A Night Watch can be held in the green. |
+| **Hooks** | A dying graft two houses love; a Struck the town will not vouch; a Road-hand told to eat first at the First Bowl; a Watcher describing a fall the land already claimed. |
 
 ## Shape of the order (at a glance)
 
@@ -160,6 +160,7 @@ On its face: frontier courtesy, a little barbed — the drowning-stone saying re
 ## Links
 - [[The Old Ways]] — the faith this house keeps · [[Faiths of the Turning]]
 - [[Heskoren]] · [[The Taken-In]] · [[The Premise]] (the Struck)
+- [[The First Bowl]] · [[The Three Hamlets Past the Ford]]
 - [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Table-Keepers]]
 - [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (Vaelbren; older sense of *vael*)
 - [[Law and Citizenship]] · [[Kinds of the Turning]] · [[The Reckoning of the Year]]
@@ -188,7 +189,7 @@ Moved from the player-facing body during residual export polish:
   4. **Guest-reading / First-reading both tend the dying graft.** Load-bearing. The fight is the blessing, not whether the wood is fed.
 - **Do not invent a Kind-grove or a Kumbaan door-walk.**
 - **Unlock vs Watchers.** The old "do not let them" lock is lifted. They will not triangulate neatly. That is the fight, not a reason to keep them apart.
-- **Hooks.** A dying graft two houses love; a Struck the town will not vouch and a Kin-speaker who will; a Road-hand told to eat first; a First-reading district that paid Cutting-leave and still withholds the Tender's line; a Night Watch in the green; a scholar who notices *vael* still means harvest here.
+- **Hooks.** A dying graft two houses love; a Struck the town will not vouch and a Kin-speaker who will; a Road-hand told to eat first at [[The First Bowl]]; a First-reading district that paid Cutting-leave and still withholds the Tender's line; a Night Watch in the green; a scholar who notices *vael* still means harvest here. Do not sicken the First Bowl's guest to merge types; the sick-Tree is [[The Mill-hold]].
 
 #### Taste-open markers (P2.1)
 

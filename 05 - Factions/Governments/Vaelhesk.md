@@ -27,7 +27,7 @@ Pre-graft host-lands on [[Heskoren]]: old greens, ancestor-doors, first meals. T
 
 Struck and [[The Taken-In]] are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose — the child is already the hill's. Vaethorn reads those children as Kept-for-want. That disagreement decides whether a child travels.
 
-**Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**. Play with the Door-Keepers.
+**Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**, seated as [[The First Bowl]] (folk *Lonasir*). Play with the Door-Keepers and with Nethiro at Vaelun. Not a capital. The land is the seat.
 
 **How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200–387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal. [[The Thaw-Break]] moved wet guests to high doors. [[The Hinge Hush]] does not write them: a first meal is not a landing-due. Netstrand crews who skip it learn this without a treaty.
 
@@ -57,10 +57,10 @@ Feed the first meal. Name a Struck at the door that made them. Treat a warden wi
 - **Old Ways may be half-right for the wrong reasons** ([[Heskoren]] GM Notes). Do not confirm. Do not dissolve host-rights when the keystone lands.
 - **Hearths, not nations.** Taken-In honoured. Mixed Kinds.
 - **The vael/vaeth pair.** Yield vs waiting. Same continent, opposite first syllable. A scholar may notice; Vaethorn and Vaelhesk already *feel* it.
-- **Hooks.** A first meal before a Cutting-leave; a refused neighbour's week; a sickening guest-Tree with two claimants; three hamlets past the ford with an Old Ways hearth among Motherfaith ones.
+- **Hooks.** A first meal before a Cutting-leave at [[The First Bowl]]; a refused neighbour's week; do not sicken that guest to merge types — the sick-Tree is [[The Mill-hold]]. Three hamlets past the ford with an Old Ways hearth among Motherfaith ones.
 
 ## Links
 - [[Powers of the Turning]] · [[Heskoren]] · [[The Old Ways]] · [[The Door-Keepers]]
 - [[Polity Archetypes]] · [[The First Cut]] · [[Settlement Seeds]]
-- [[The Three Hamlets Past the Ford]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
+- [[The Three Hamlets Past the Ford]] · [[The First Bowl]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
 - [[Roadmap]] (Story 7.1; history R.9)

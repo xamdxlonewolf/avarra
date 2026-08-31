@@ -67,7 +67,7 @@ Brenod's leftover is the neighbour's week as *duty.* A visitor from the core wil
 
 The yield-hearth. Older *vael* — what the land keeps — not *vaeth*, the waiting. [[The Old Ways]] sit this kitchen. They may refuse the neighbour's week on purpose. Their children are already the land's. A first meal is not a courtesy-card; a later cut from Harrow's, acting on the origin's behalf, still wants the bowl if this ground is an old green.
 
-Vaelun's leftover is host-rights, not a second Harrow. [[The Door-Keepers]] play here. Motherfaith neighbours in Brenod will call Vaelun's Kept children passed-over. Vaelun will not correct them in the Mother's language.
+Vaelun's leftover is host-rights, not a second Harrow. [[The Door-Keepers]] play here. The later planting they point at is [[The First Bowl]] (a day's walk, sometimes two, into the Yield — not this kitchen). Motherfaith neighbours in Brenod will call Vaelun's Kept children passed-over. Vaelun will not correct them in the Mother's language.
 
 ### Ornath *(OR-nath)*
 
@@ -90,7 +90,7 @@ There is no stone on the waiting side. There is a **cup**. The night before the 
 No Epic-8 cast. Three kitchens, three mouths:
 
 - **Tora** *(TOR-ah)* of Brenod — sends. Walks a neighbour-fall home when they can. At [[Harrow's Green]] when the stone is to be moved, because the next column still drinks there.
-- **Nethiro** *(neth-EE-ro)* of Vaelun — Door-Keeper's cousin. Asks about the bowl before they ask about a leave. May refuse the neighbour's week on purpose.
+- **Nethiro** *(neth-EE-ro)* of Vaelun — Door-Keeper's cousin. Asks about the bowl before they ask about a leave. May refuse the neighbour's week on purpose. Walks to [[The First Bowl]] when the bowl is set.
 - **Baelon** *(BAY-lon)* of Ornath — has not taken the slate-road. Has looked at it. The cup they leave empty on purpose, or do not, is this kitchen's.
 
 Also: families who walk one child and not another; a Kin-speaker who will stand for a Struck the square will not; someone who owns a knife they will not call nameless.
@@ -128,13 +128,13 @@ Moved from the player-facing body during residual export polish:
 - **They are not "living in the past."** A hamlet sending this year's ten-year-olds to Harrow's is doing the present. Narrating them as Brenvaeth-re-enactment is the stacked-ages error.
 - **Cause:** they wait because the wood is slow, the road is long, and the list was written in the Motherwood — not because they were unworthy.
 - **Fate-pressure (noted, not rolled):** precarious — single dependency on Harrow's week or a pot. Do not wipe the cluster to make the queue feel real. The pressure *is* the play.
-- **Seam, not a planet-of-hats.** All four voices (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate) can sit in one week. Do not assign one polity per hamlet as a costume. Brenod leans sending, Vaelun leans refusal, Ornath leans the other road — leans, not flags.
+- **Seam, not a planet-of-hats.** All four voices (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate) can sit in one week. Do not assign one polity per hamlet as a costume. Brenod leans sending, Vaelun leans refusal, Ornath leans the other road — leans, not flags. Wood that went past them to [[The First Bowl]] is a slight, not a fourth kitchen.
 - **Hearths, not Kind-quarters.** Taken-In ground in Vaelun is old plot, not a leshy village. Mixed Kinds in all three.
 - **Hooks.** A borrowed Turning whose Harrow-witness will not walk back; a folk-right slip that took; a first meal a Road-hand ate or refused; a Kept child asked what they lacked; an unvouched Struck and a congregation deciding; the stone in Harrow's square climbed by a hamlet child; the cup; a clerk who writes Brenod on a leave and starts a fight about which green; Ornath walking toward slate.
 - **Opening:** [[Taeren]] is a Brenod mouth this Hale-month, not a fourth kitchen-speaker. Tora still wants the walk. Do not make Tora a Phoenix plotter. Kit: [[The Opening]].
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[Harrow's Green]] (Tora at the stone) · [[The Child Who Climbed the Stone]]
-- [[Heskoren]] · [[Saelvaeth]] · [[Vaelhesk]] · [[Ornled]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
+- [[Heskoren]] · [[Saelvaeth]] · [[Vaelhesk]] · [[The First Bowl]] · [[Ornled]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
 - [[The First Cut]] — the leave that named them without naming them
 - [[04 - Settlements]] · [[Roadmap]] (Story 7.2; R.11)

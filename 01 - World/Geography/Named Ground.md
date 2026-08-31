@@ -125,6 +125,7 @@ The three walks, converted:
 | Thaeloren | [[Maiethlir]] | river road along the Core-thaw | **1–2 days** |
 | Thaeloren | [[The Third Hearth]] | Near Mile | **3 days** |
 | Third Hearth | Brenthael | Near Mile | **1 day** further out |
+| Brenthael | [[The Mill-hold]] | Near Mile | **2 days** further out |
 | Thaeloren | [[The Low Wall]] | off the present Mile | **1–2 days** (not inside the Close) |
 | Thaeloren | [[The Hinge Shore]] quays | Core-thaw and the west-road | **8–12 days** |
 | Thaeloren | [[Ornsael]] | west-road over the Shelf-gate (or the Noon Pass, if you like a water-line) | **10–14 days** |
@@ -135,6 +136,7 @@ The three walks, converted:
 | Heskoren coast | [[Eolvaeth]] | inland vale | **1–2 weeks** |
 | Eolvaeth | [[Harrow's Green]] | live-front roads | **2–3 weeks** (Eolvaeth cannot see Harrow's, and does not want to) |
 | Harrow's Green | [[The Three Hamlets Past the Ford]] | the Rise-water | **hours to 1 day** (the canopy is a dark on the far slope) |
+| Vaelun | [[The First Bowl]] | vale track into the Yield, *away* from Harrow's | **1–2 days** |
 | Any mainland quay | Kumbaan | storm-wall | **not a timetable** |
 
 A Hale-month storm on the Old Crossing can turn a Salt Walk into a missed year. A thaw-week on the Rain-Wall can turn the Shelf-gate into a lake ([[The Thaw-Break]] closed roads **two summers**). The table is weather, not a promise.
@@ -151,7 +153,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Powers of the Turning]] · [[The Walking Years]] · [[The Other Count]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
-- [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
+- [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The Mill-hold]] · [[The First Bowl]] · [[Ornsael]]
 - [[The Walled Book]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
 - [[01 - World]]
 

@@ -64,7 +64,7 @@ Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The 
 
 **Clock 1:** Brenthael Turns at home. The Near Mile is optional. Orenbren houses the people who still want the origin.
 
-**Clock 2:** the stone still waters a mile; Seine's name is still on a lintel; a necessity-family from thinner soil still pays on the home-walk. Hands can un-Hands — if Brenthael's Tree sickened, this house would be the neighbour's week. It has not. Thilim does not narrate the age as over.
+**Clock 2:** the stone still waters a mile; Seine's name is still on a lintel; a necessity-family from thinner soil still pays on the home-walk. Hands can un-Hands — [[The Mill-hold]], two days past Brenthael, put a Hands-town back on the neighbour's week this year. Brenthael's Tree has not sickened. Thilim does not narrate the age as over.
 
 The two fates of the same origin still stand. The White Note collected, on a [[Strandoren]] quay. The Third Hearth kept making the bed. Play both. Mataero cannot see this house except as a warning.
 
@@ -73,7 +73,7 @@ The two fates of the same origin still stand. The White Note collected, on a [[S
 [[Thilim]] is a person now ([[People of the Turning]]). Do not add a court around the inn.
 
 - **[[Thilim]]** — the four [[The Walking Years|Long-Lived *I walked*]] jobs, inland and tired. Blood-Read will give a true fragment. It will not tell you which job they are doing when they make the bed. They want the stone's water for the pot at dark. The document of this house is **Seine's bed**, made. Not a notice.
-- **Meirim** *(may-REEM)* — Brenthael's town-warden. Wants the stone. Practice-first. Speaks a fall in a square that used to be a road. The chalked complaint under the lip is theirs.
+- **Meirim** *(may-REEM)* — Brenthael's town-warden. Wants the stone. Practice-first. Speaks a fall in a square that used to be a road. This Hale-month they also have a necessity-column walking *in* from [[The Mill-hold]]. The chalked complaint under the lip is theirs.
 - **Orenbren lodging-custom** — hospitality as rent in Eolthael; Thilim charges less and is called a failure for it. The compact does not own this mouth.
 - **The First Seat** sits in the Motherwood *beside* this country and is not its crown. A pilgrim who asks Thilim where the college is will be pointed at the wood, not the inn.
 
@@ -112,10 +112,11 @@ Moved from the player-facing body during residual export polish:
 - **Thilim's four jobs** stay disagreed. Do not pick which sermon they are.
 - **Mataero's blindness stands.** Do not correct the junior in Thilim's voice unless play wants the collision.
 - **Keystone:** do not let the stone assert the mind. It is a day's water and a name.
-- **Hooks.** Seine's name on a lintel; Brenthael wanting the stone down; a First-Hand year and a neighbour's week in the same loft; a note that outlived a family; Thilim asked to convert a house-year to a Cut-year for a court; a cutting in the pot that is still not a Tree; a pilgrim who thought Orenbren *was* the Seat; wool-merchants from the White Note's loft looking at empty beds and calling them failure.
+- **Hooks.** Seine's name on a lintel; Brenthael wanting the stone down; a First-Hand year and a neighbour's week in the same loft; a note that outlived a family; Thilim asked to convert a house-year to a Cut-year for a court; a cutting in the pot that is still not a Tree; a pilgrim who thought Orenbren *was* the Seat; wool-merchants from the White Note's loft looking at empty beds and calling them failure; Meirim hosting [[The Mill-hold]]'s cohort while still wanting this stone down.
+- **Do not sicken Brenthael** to tidy the sick-Tree type. That square is [[The Mill-hold]].
 
 ## Links
-- [[Settlement Seeds]] · [[The Years of Hands]] · [[The Walking Years]] · [[The White Note House]] · [[Orenbren]]
+- [[Settlement Seeds]] · [[The Years of Hands]] · [[The Walking Years]] · [[The White Note House]] · [[Orenbren]] · [[The Mill-hold]]
 - [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
 - [[Economy and the Tithe]] · [[Long-Lived]] · [[Maiethorn]] · [[Turning Tree]]
 - [[Thilim]] · [[People of the Turning]]

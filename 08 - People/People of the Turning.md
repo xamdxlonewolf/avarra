@@ -82,7 +82,9 @@ Not a second court. Squares that needed a second shape.
 | [[Ledan]] | [[The White Note House]] | quay-desk | founding-name spoken once |
 | Theisva · Lesna · Bovaer | [[Ornsael]] | well-gang | a share that lasts Hale-month |
 | Tora · Nethiro · Baelon | [[The Three Hamlets Past the Ford]] | three kitchens | send / refuse / not take the other road |
-| Meirim | Brenthael | neighbour-warden | the Third Hearth's stone down |
+| Talen · Milsun · Thurrei | [[The Mill-hold]] | drain-and-slate | a mill that still turns; a week that still has room |
+| Delvor · Vilraet · Brudu | [[The First Bowl]] | bowl / Speaking / old planting | sit before colour; a Struck housed; morning water |
+| Meirim | Brenthael | neighbour-warden | the Third Hearth's stone down; room for the Mill-hold's week |
 | Soonke · Saalo | [[Ndenjoo]] sand / valley | sit / leave | wreck off the hill; Waandi found |
 | Thuda | [[The Low Wall]] garden-end | innkeep | labour off the garden |
 
@@ -119,6 +121,7 @@ Moved from the player-facing body during residual export polish:
 - [[Reimaethe]] · [[Hithaen]] · [[Taeren]] · [[Rosire]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
+- [[The Mill-hold]] · [[The First Bowl]]
 - [[Ndenjoo]] · [[Njunda]] · [[Ledan]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[The Pourers]] · [[The Walled Book]] · [[The Protectors]] · [[The Reckoned Offices]]

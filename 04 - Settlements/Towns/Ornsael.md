@@ -112,7 +112,7 @@ Theisva is doing a drink. They will not file a year. Lesna will read the verso a
 
 - **This is the clone-break (Story R.11).** [[Eolvaeth]] keeps the maybe-Tree, the spring, the warden who will not invent a colour, the wet leaf. Ornsael does not. Physical problem = the well. Institutional response = a share. Cast = a gang. Mystery = a wet knot below the water. Do not slide back into "warden won't call a false fall."
 - **Not a Kitsune nation.** Sands-Fox densest. Mixed Kinds. A fox-market is a neighbourhood, not a quarter-with-a-gate.
-- **Clock 2 without a maybe-Tree.** The leftover is necessity as water. The Hand Speaks most years. If you need a thin fall, it is weather, not the plot.
+- **Clock 2 without a maybe-Tree.** The leftover is necessity as water. The Hand Speaks most years. If you need a thin fall, it is weather, not the plot. If you need Hands un-Hands, that square is [[The Mill-hold]].
 - **Not the Thaw-Break's silted well-town.** That cistern is another leeward mouth ([[The Thaw-Break]]). Some locals date the first low mark after 233. The rope does not. Do not confirm.
 - **Not a capital of Saelthael.** Named square. Seat unnamed.
 - **Keystone:** thin take in dry soil stays horticulture in player text. Do not let the well assert the mind. Do not import Vaethorn's sermon as GM voice.

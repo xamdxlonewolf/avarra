@@ -83,7 +83,7 @@ Offices that must exist:
 - **Town-warden (Haelin)** — practice-first, not Kind. Speaks the fall truly enough for a front-town. Believer-heavy the way a live Tree makes you; still has to lodge the neighbour's week. The scion-queue is not theirs to fix and is the sentence they live in. The hearth still keeps the Seat letter from [[The Wrong Green]] (C.Y. 248): Nathdo Speaked a hug as copper-green. Haelin Speaks slowly. Hale-month does not always forgive it. A pot from [[Orentel|Sorim]]'s earth-berth may sleep upstairs.
 - **The square that watches children Turn** — Harrow's witness is what a hamlet child carries home. Vouching-at-a-distance was invented for an origin-fall. Here it is a walk back to the ford.
 - **Road-hands passing through** — they sleep in the town that was chosen, on the way to the one that was not.
-- **A Door-Keeper at a later planting** — host-rights if a cut from Harrow's is set in an old green. The first meal, or a claiming. Do not skip [[The Door-Keepers]] to make the town simpler.
+- **A Door-Keeper at a later planting** — host-rights if a cut from Harrow's is set in an old green. The later planting is [[The First Bowl]] (Lonasir, in the Far Yield). The first meal, or a claiming. Do not skip [[The Door-Keepers]] to make the town simpler.
 
 Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a throne here.
 
@@ -92,7 +92,7 @@ Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a 
 - **Stone-moving day.** Ropes, a crowd, Hale-month dust. The stone can tip. The stream can take a foot. Haelin is not a villain for wanting the square. Tora is not a villain for needing the water.
 - **A child on the climb** — hamlet or local — asking how far it is to the Tree while standing on the leftover.
 - **A pot arriving upstairs.** A Road-hand, earth-smell, Sorim's berth 5 if you want the chain. Haelin can tell a pot from a pilgrim. They will not always say.
-- **A Door-Keeper at a later planting** asking about the bowl before they ask about a leave.
+- **A Door-Keeper at a later planting** asking about the bowl before they ask about a leave. The bowl sits at [[The First Bowl]].
 
 ## In-world text
 
@@ -118,14 +118,14 @@ Moved from the player-facing body during residual export polish:
 - **Do not make Harrow's the "good town" that waited faithfully.** They were a paying-enough, soil-enough, chain-enough next on a list written in the Motherwood. Luck is horticulture plus the queue. Vaethorn will preach otherwise.
 - **The Harrow-sentence is a tell.** When an NPC says it as nostalgia, they are Maiethorn. When they say it as this year, they are the front. When they say it as a slight (*they Turned at Harrow's because they had no Hand*), they are a hamlet.
 - **One leftover job.** Necessity. A ribbon on the stone is texture, not a second theme. A First-Hand-year household here is lost, rich, or lying.
-- **Host-rights.** A later cut from Harrow's, acting on the origin's behalf, still wants the meal if the ground is an old green.
+- **Host-rights.** A later cut from Harrow's, acting on the origin's behalf, still wants the meal if the ground is an old green. Seated: [[The First Bowl]]. Do not clone this square onto that vale.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let Haelin assert the mind. "The soil was right here" is horticulture.
 - **Keep the cost in sight.** A pretty live-front town whose leftover is only picturesque launders the graves. Keep the hamlets visible from the square in at least one sightline.
 - **Hooks.** The hamlets can see the canopy; a borrowed Turning whose witness has to walk home; the stone Haelin wants moved; a Road-hand sleeping here with a pot for someone else; a folk-right slip in a hamlet that took, and Harrow's warden asked to Speak it; a first meal a Road-hand ate or refused on the way through; the climbing-child from the fable, this year.
 - **Opening sits here.** [[The Opening]] / [[The Isolated Fall]]. Hale-month, C.Y. 387. Do not rebuild this square into a Phoenix festival. The leftover job stays necessity. Extra mouths in the upper room are the thing Haelin will not always say. Do not invent a Care-fortress on the rise.
 
 ## Links
-- [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] (Tora of Brenod) · [[The Child Who Climbed the Stone]]
+- [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] (Tora of Brenod) · [[The First Bowl]] · [[The Child Who Climbed the Stone]]
 - [[Heskoren]] · [[Saelvaeth]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — neighbour-witness
 - [[The Wrong Green]] — the cited mis-Speaking, kept in the hearth

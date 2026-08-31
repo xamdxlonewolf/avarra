@@ -24,8 +24,8 @@ The continent is not empty wilderness. It is a patchwork of worked pockets aroun
 | Ask | Use this |
 |---|---|
 | **Weather this week** | Cold rain in the vale, sleet on the ridge, one brilliant dry day, then a hard frost. On the west coast, add a long swell and wind that keeps the next hull outside. |
-| **What you can eat** | Oat mash, rye bread, peas, cabbage, turnips, hard cheese, smoked fish; berries, hazel nuts, nettles, sorrel, and mushrooms in season. |
-| **What can enter a scene** | A Long Mile cart taking shelter; hay cut before the next rain; a wind-burned young graft; a camp fever at Eolvaeth; a pony mired between mile-shrines; a neighbour cohort with one dry day left. |
+| **What you can eat** | Oat mash, rye bread, peas, cabbage, turnips, hard cheese, smoked fish; berries, hazel nuts, nettles, sorrel, and mushrooms in season. A first-meal bread at [[The First Bowl]] is a little sour; do not explain it. |
+| **What can enter a scene** | A Long Mile cart taking shelter; hay cut before the next rain; a wind-burned young graft; a camp fever at Eolvaeth; a pony mired between mile-shrines; a neighbour cohort with one dry day left; the bowl set out at [[The First Bowl]]. |
 
 ## Reading the short kind season
 

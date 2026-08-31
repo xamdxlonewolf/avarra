@@ -141,6 +141,7 @@ Coined from the same roots, so a faith *sounds* like the land that keeps it. Ful
 - **Ornsael** *(ORN-sael)* — *orn* + *sael* = "the sown-ground." Rain-Shadow walk-hold on [[Saelthael]]. Not *Saelthael* (the polity). Not *Saelorn* (a month). Not *Saelhael* (greens-keepers). Not *Ornthael* (the era).
 - **Brenthael** *(BREN-thael)* — *bren* + *thael* = "the hearth-Tree." Neighbour Hands-town of [[The Third Hearth]]. Not *brenhael* (an inn's cant). Not *Brenvaeth* (the era). Not *Brenorn* (a month). Not *Orenbren* (the lodging-power).
 - **Brenod** *(BREN-od)* · **Vaelun** *(VAY-lun)* · **Ornath** *(OR-nath)* — worn folk hearth-names of [[The Three Hamlets Past the Ford]]. No liturgy on purpose (the Seat's leave did not write them). Not *Vaeloren* / *Brenvaeth* / *Ornled*.
+- **the Mill-hold** · **the First Bowl** *(folk hearth-name Lonasir)* — leftover squares seated 2026-08-31. Common-tongue first; no new liturgy. Not *Brenthael*. Not *Vaelun*.
 
 **Seat coinages (Story 7.3 — 🟡 Proposed):**
 

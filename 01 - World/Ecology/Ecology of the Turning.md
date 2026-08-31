@@ -64,7 +64,7 @@ A graft wants living earth and a drink. That simple need cascades through settle
 | First | Roots need water, air, soil, and protection from salt, grazing, and hard wind. | A cistern turn for the Tree; wicker around a young trunk; a ditch cut before rain. |
 | Second | The Tree competes with gardens, animals, washing, and people during scarcity. | A well-share that names the planting and the Hand separately; someone taking a night-bucket. |
 | Second | Flood and sickness can remove the people who know how to tend it. | A sound canopy going thirsty while the town lies fevered, as happened in the Grey Summer. |
-| Third | A sick Tree changes law, travel, beds, and witness. | A cohort sent to a neighbour in the same Turning-Week; an upper room opened; a Far-Voiced asked to carry the stand home. |
+| Third | A sick Tree changes law, travel, beds, and witness. | A cohort sent to a neighbour in the same Turning-Week; an upper room opened; a Far-Voiced asked to carry the stand home. Seated example: [[The Mill-hold]] walking *in* to Brenthael. |
 | Third | A dead Tree changes a generation. | Fresh living wood must be carried and established; children walk while it matures. Dead wood does not Turn. |
 
 The most Tree-dense country therefore has the deepest watering custom, not the least. Old success produces old drains, old arguments, and offices that can conceal neglect behind competence.
@@ -106,7 +106,7 @@ The Turning has no single supernatural disease ecology. Most sickness is familia
 | **Winter lung** | Peat smoke, wet bedding, cold halls, long indoor seasons | Dry bedding, clear smoke, open rooms when weather permits | Hearth-keepers, roofers, Stilled when breathing fails |
 | **Wound-rot** | Field cuts, animal bites, surgery without clean water, long wet journeys | Wash, cut away dead tissue, honey or clean dressings, rest | Stilled surgeons; Returned where the wound or place kills the living |
 | **Marsh ague** | Warm standing water, wet lowlands, bog-edge camps | Move beds, drain near dwellings, cover water jars, burn smoke against biting insects | Taken-In ground-readers and ordinary ditch crews |
-| **Root blight** | Waterlogged soil, salt, damaged bark, crowded roots, dirty tools | Drain, prune, isolate cuttings, clean knives, stop carrying sick wood | Tree-wardens and Taken-In tenders; Root-Answered for drains, not a miraculous cure |
+| **Root blight** | Waterlogged soil, salt, damaged bark, crowded roots, dirty tools | Drain, prune, isolate cuttings, clean knives, stop carrying sick wood | Tree-wardens and Taken-In tenders; Root-Answered for drains, not a miraculous cure. Playable Hands-un-Hands: [[The Mill-hold]] |
 
 [[The Grey Summer]] in C.Y. 171 remains the epidemic everyone cites on the Old Crossing. It began as a cough in packed holds, tied ships, killed across Given, Struck, and Kept, and left grafts unwatered when their tenders fell. Later fevers may resemble it. They are not "another Grey Summer" unless people are making a fearful comparison.
 
