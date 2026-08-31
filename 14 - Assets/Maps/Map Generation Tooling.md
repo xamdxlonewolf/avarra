@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Map Generation Tooling
@@ -66,7 +66,7 @@ Tree or town-graft canopy on the far storm-walled isle.
 
 *GPT Image / ChatGPT:* one subject per generate; add "square crop forbidden" on the world prompt if it wants to pad. *Midjourney:* `--ar 16:9` (world) or `--ar 4:3` (continent/region) `--style raw --v 6 --stylize 80`. *Flux / SD:* keep CFG moderate so the coast stays a coast.
 
-**World-sheet failure mode.** Full-world gens reliably invent extra islands and sneak in fake script. Prefer **C1–C4 + the two seas** as the working atlas, and treat **W** as a mood piece. If you need one sheet, composite the four continent paintings on parchment yourself. Do not let a pretty archipelago become canon.
+**World-sheet failure mode.** Full-world gens reliably invent extra islands, sneak in fake script, and line the four lands up as a **necklace** (equal size, equal latitude, equal gaps — or the same trick on a diagonal). That is a diagram, not a world. Force an **Old World cluster** (Maiethorn + Strandoren almost touching across a thin strait) plus a **wide empty ocean** plus a **west-and-south frontier** plus a **tiny storm-isle** that is not the next bead. Prefer **C1–C4 + the two seas** as the working atlas, and treat **W** as a mood piece. If you need one sheet, composite the four continent paintings on parchment yourself. Do not let a pretty archipelago or a four-in-a-row become canon.
 
 **Sample renders** (this pass, label-free, not surveys) live beside this note and are browsable on [[The Atlas Sheets]]:
 
@@ -91,36 +91,48 @@ Tree or town-graft canopy on the far storm-walled isle.
 ### W. Known world
 
 ```
-WORLD MAP of four landmasses on one ocean, west on the left, east on the right.
+WORLD MAP of one ocean basin, west on the left, east on the right, north up.
+Looks like a real hemisphere — two shores of a wide sea — NOT a diagram.
 
-FAR LEFT, small and alone in the far western ocean: a compact green hill-island
-ringed by a visible storm-girdle — dark swirling cloud, wrecking currents, pale
-reef. No city, no great tree. Pasture and standing-stones only.
+FORBIDDEN LAYOUTS: four continents in a straight horizontal row; the same four
+on a diagonal necklace; equal size; equal latitude; equal gaps; beads on a
+string; infographic lineup. Do not place the lands one-after-another along
+any single line.
 
-LEFT-CENTRE, large and rugged, sitting a little south of the midline: a frontier
-continent of highland spines, dark forest pockets, moor, and a wild coast that
-faces RIGHT toward open water. Settlement is sparse pockets. Far western capes
-trail toward the storm-girdle but do not touch the isle.
+THE OLD WORLD CLUSTER fills the EASTERN HALF as neighbours:
+Maiethorn (far east, largest) and Strandoren (immediately west of it) SHARE
+latitudes and almost touch. Between them a NARROW crowded channel — a handful
+of sailing-days, packed with tiny hull-ticks. They should read as one old
+settled world that happens to have a busy strait through it.
 
-CENTRE-RIGHT: a trade continent whose WHOLE identity is coastline — deeply
-indented bays, sounds, estuaries, peninsulas, so no inland point feels far from
-salt. Many tiny harbour-hatches on every shore. A fertile river-plain in the
-middle running EAST to a large estuary. Its EASTERN shore faces a NARROW, busy,
-crowded sea (wake-lines, many tiny hull-ticks). Its WESTERN shore faces a WIDER,
-emptier, darker ocean toward the frontier continent.
+MAIETHORN: bulky old continent. Western ports on the narrow sea. A LINEAR
+north-south rain-wall through its middle (not a ring). West of the spine:
+green cathedral-country, river valleys, one irregular old-growth heart with a
+single enormous ancient tree-canopy. East of the spine: dry hills, sand-stipple,
+a dashed seasonal wash.
 
-FAR RIGHT: a large old rounded continent, densely wooded and long-settled.
-Western ports face the narrow sea. A north–south highland spine (not alpine
-needles — a weathered rain-divide) down its middle. WEST of that spine: green
-cathedral-country, river valleys, one vast old-growth heart with a single
-enormous ancient tree-canopy. EAST of that spine: the land goes dry — pale
-hills, sand-stipple, wells, a dashed seasonal wash. The west-running thaw-river
-leaves the spine and slows before the western ports.
+STRANDOREN: a maritime land whose WHOLE identity is coastline — bays, sounds,
+estuaries, peninsulas. Many tiny harbour-hatches. A fertile river-plain running
+EAST to a large estuary on the narrow sea. Its WESTERN and SOUTHERN shores
+face the WIDE darker ocean.
 
-The narrow sea between the old continent and the trade continent is CLOSE —
-a handful of sailing-days, crowded. The wide ocean between trade continent and
-frontier is OPEN. The storm-girdle around the far isle is a third, killing water.
-Three waters, four lands, one parchment.
+THE WEST WATER is the main emptiness: a dark open ocean TWO TO FOUR TIMES
+wider than the eastern channel (weeks of sailing, not days). Few ships.
+Lonely water also in the northwest.
+
+HESKOREN sits on the WESTERN side of that wide ocean, distinctly SOUTH of the
+Old World's midline — a frontier continent facing EAST toward home, not the
+next tile in a path. Highland spines, dark forest pockets, moor, sparse
+grove-settlements. Far western capes trail toward storm-cloud but do not
+touch the isle.
+
+KUMBAAN is SMALL and ALONE, west of Heskoren's last capes, not on anyone's
+centerline. Compact green hills, pasture, standing-stones. Ringed by a killing
+storm-girdle — dark swirling cloud, wrecking currents, pale reef. No city, no
+great tree, no town-graft. Do not open a safe channel through the wall.
+
+Exactly four landmasses. No extra islands. Three waters of different widths.
+One parchment.
 ```
 
 ---
