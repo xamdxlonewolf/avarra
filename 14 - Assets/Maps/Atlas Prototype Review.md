@@ -57,7 +57,7 @@ The cleanest option for later annotation: pale vellum, fine hachures, restrained
 
 The most atmospheric option: stronger sea states, rain, forest mass, and the wet/dry divide across Maiethorn.
 
-**Consistency rule:** the four continent sheets are the masters. The world sheet is a deterministic composite of those exact painted landforms, not a separate generation. Coastlines, mountain chains, forests, rivers, and other visible features therefore match at both scales. Rebuild it with `build_prototype3_world.py` after replacing any continent master.
+**Consistency rule:** the four continent sheets are the masters. The world sheet is a deterministic composite of those exact painted landforms, not a separate generation. Coastlines, mountain chains, forests, rivers, and other visible features therefore match at both scales. `Painted-Ocean-Background.png` supplies one continuous portolan sea, current texture, frame, and compass beneath the masters; it is a build plate, not a separate handout. Rebuild with `build_prototype3_world.py` after replacing any continent master.
 
 ![[prototype3/The-Turning-World-Atlas.png]]
 

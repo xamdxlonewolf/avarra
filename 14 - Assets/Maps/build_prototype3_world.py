@@ -10,15 +10,15 @@ from __future__ import annotations
 
 from collections import deque
 from pathlib import Path
-import random
 
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageChops, ImageEnhance, ImageFilter
 
 
 ROOT = Path(__file__).resolve().parent
 PROTOTYPE = ROOT / "prototype3"
 OUTPUT = PROTOTYPE / "The-Turning-World-Atlas.png"
+OCEAN = PROTOTYPE / "Painted-Ocean-Background.png"
 WIDTH, HEIGHT = 1536, 1024
 
 
@@ -119,15 +119,15 @@ def extract_land(path: Path) -> Image.Image:
     seed[:, :12] = False
     seed[:, -12:] = False
     rough = Image.fromarray(np.uint8(seed) * 255, "L")
-    rough = rough.filter(ImageFilter.MaxFilter(11))
-    rough = rough.filter(ImageFilter.MinFilter(7))
+    rough = rough.filter(ImageFilter.MaxFilter(7))
+    rough = rough.filter(ImageFilter.MinFilter(5))
     component = largest_component(np.asarray(rough) > 127)
     component = fill_holes(component)
 
     mask = Image.fromarray(np.uint8(component) * 255, "L")
     mask = mask.resize(source.size, Image.Resampling.NEAREST)
-    mask = mask.filter(ImageFilter.MaxFilter(9))
-    mask = mask.filter(ImageFilter.GaussianBlur(5))
+    mask = mask.filter(ImageFilter.MaxFilter(3))
+    mask = mask.filter(ImageFilter.GaussianBlur(1.5))
 
     alpha = np.asarray(mask)
     ys, xs = np.where(alpha > 8)
@@ -143,38 +143,11 @@ def extract_land(path: Path) -> Image.Image:
 
 
 def ocean_background() -> Image.Image:
-    """Create a dark portolan ocean while retaining the established frame."""
-    rng = np.random.default_rng(20260831)
-    base = np.zeros((HEIGHT, WIDTH, 3), dtype=np.float32)
-    vertical = np.linspace(0, 1, HEIGHT, dtype=np.float32)[:, None]
-    base[..., 0] = 25 + 6 * vertical
-    base[..., 1] = 48 + 8 * vertical
-    base[..., 2] = 52 + 10 * vertical
-
-    noise = rng.normal(0, 1, (HEIGHT // 8, WIDTH // 8)).astype(np.float32)
-    texture = Image.fromarray(np.uint8(np.clip(128 + noise * 26, 0, 255)), "L")
-    texture = texture.resize((WIDTH, HEIGHT), Image.Resampling.BICUBIC)
-    texture = texture.filter(ImageFilter.GaussianBlur(5))
-    grain = (np.asarray(texture, dtype=np.float32) - 128) / 11
-    base += grain[..., None]
-
-    image = Image.fromarray(np.uint8(np.clip(base, 0, 255)), "RGB").convert("RGBA")
-    overlay = Image.new("RGBA", image.size, (0, 0, 0, 0))
-    draw = ImageDraw.Draw(overlay, "RGBA")
-
-    # Faint graticule and current-lines.
-    for x in range(80, WIDTH, 112):
-        draw.line((x, 24, x, HEIGHT - 24), fill=(177, 151, 100, 10), width=1)
-    for y in range(72, HEIGHT, 112):
-        draw.line((24, y, WIDTH - 24, y), fill=(177, 151, 100, 9), width=1)
-    for offset in range(-HEIGHT, WIDTH, 210):
-        draw.line(
-            (offset, HEIGHT - 24, offset + HEIGHT, 24),
-            fill=(177, 151, 100, 6),
-            width=1,
-        )
-
-    return Image.alpha_composite(image, overlay)
+    """Load the painted ocean plate shared by every composited landmass."""
+    image = Image.open(OCEAN).convert("RGBA")
+    if image.size != (WIDTH, HEIGHT):
+        image = image.resize((WIDTH, HEIGHT), Image.Resampling.LANCZOS)
+    return image
 
 
 def resize_to_fit(image: Image.Image, width: int, height: int) -> Image.Image:
@@ -191,8 +164,30 @@ def paste_centered(
 ) -> None:
     left, top, right, bottom = box
     fitted = resize_to_fit(image, right - left, bottom - top)
+    fitted = ImageEnhance.Color(fitted).enhance(0.92)
+    fitted = ImageEnhance.Contrast(fitted).enhance(0.96)
     x = left + ((right - left) - fitted.width) // 2
     y = top + ((bottom - top) - fitted.height) // 2
+
+    # A dark wet edge and a narrow broken-surf edge seat the cutout into the
+    # shared ocean. Both derive from the exact master alpha, so neither changes
+    # the coastline.
+    alpha = fitted.getchannel("A")
+    wet_edge = alpha.filter(ImageFilter.MaxFilter(9)).filter(
+        ImageFilter.GaussianBlur(5)
+    )
+    wet_edge = wet_edge.point(lambda value: round(value * 0.12))
+    wet_layer = Image.new("RGBA", fitted.size, (8, 25, 28, 0))
+    wet_layer.putalpha(wet_edge)
+    canvas.alpha_composite(wet_layer, (x, y + 2))
+
+    outer = alpha.filter(ImageFilter.MaxFilter(5))
+    surf = ImageChops.subtract(outer, alpha)
+    surf = surf.filter(ImageFilter.GaussianBlur(1))
+    surf = surf.point(lambda value: round(value * 0.16))
+    surf_layer = Image.new("RGBA", fitted.size, (155, 176, 163, 0))
+    surf_layer.putalpha(surf)
+    canvas.alpha_composite(surf_layer, (x, y))
     canvas.alpha_composite(fitted, (x, y))
 
 
@@ -213,39 +208,17 @@ def storm_isle() -> Image.Image:
     return crop
 
 
-def draw_compass(canvas: Image.Image) -> None:
-    draw = ImageDraw.Draw(canvas, "RGBA")
-    cx, cy, radius = 755, 875, 61
-    ink = (155, 111, 54, 205)
-    faint = (205, 170, 104, 95)
-    draw.ellipse(
-        (cx - radius, cy - radius, cx + radius, cy + radius),
-        outline=faint,
-        width=2,
-    )
-    for step in range(16):
-        angle = np.pi * step / 8
-        inner = 11 if step % 2 == 0 else 19
-        outer = radius if step % 2 == 0 else 43
-        x1 = cx + int(np.sin(angle) * inner)
-        y1 = cy - int(np.cos(angle) * inner)
-        x2 = cx + int(np.sin(angle) * outer)
-        y2 = cy - int(np.cos(angle) * outer)
-        draw.line((x1, y1, x2, y2), fill=ink if step % 2 == 0 else faint, width=2)
-    draw.ellipse((cx - 8, cy - 8, cx + 8, cy + 8), outline=ink, width=2)
+def unify_atlas_hand(canvas: Image.Image) -> Image.Image:
+    """Apply one final wash and grain over sea and land together."""
+    wash = Image.new("RGBA", canvas.size, (34, 53, 46, 12))
+    canvas = Image.alpha_composite(canvas, wash)
 
-
-def restore_frame(canvas: Image.Image) -> None:
-    """Copy the established Prototype 3 parchment frame over the composite."""
-    frame = Image.open(OUTPUT).convert("RGBA")
-    strips = (
-        (0, 0, WIDTH, 28),
-        (0, HEIGHT - 28, WIDTH, HEIGHT),
-        (0, 0, 28, HEIGHT),
-        (WIDTH - 28, 0, WIDTH, HEIGHT),
-    )
-    for box in strips:
-        canvas.alpha_composite(frame.crop(box), (box[0], box[1]))
+    rng = np.random.default_rng(20260831)
+    noise = rng.normal(128, 18, (HEIGHT, WIDTH)).clip(0, 255).astype(np.uint8)
+    grain = Image.fromarray(noise, "L").filter(ImageFilter.GaussianBlur(0.35))
+    grain_layer = Image.new("RGBA", canvas.size, (174, 146, 94, 0))
+    grain_layer.putalpha(grain.point(lambda value: abs(value - 128) // 5))
+    return Image.alpha_composite(canvas, grain_layer)
 
 
 def main() -> None:
@@ -270,12 +243,10 @@ def main() -> None:
         (1095, 22, 1514, 995),
     )
 
-    draw_compass(canvas)
-    restore_frame(canvas)
+    canvas = unify_atlas_hand(canvas)
     canvas.convert("RGB").save(OUTPUT, quality=96)
     print(f"Wrote {OUTPUT}")
 
 
 if __name__ == "__main__":
-    random.seed(20260831)
     main()
