@@ -85,7 +85,14 @@ Three matched applications of this workflow are collected in [[Atlas Prototype R
 
 1. **Reference-faithful dark portolan** — closest to the source palette.
 2. **Pale engraved survey** — easiest to annotate.
-3. **Weather-forward campaign atlas** — strongest climate and table mood.
+3. **Weather-forward campaign atlas** — exact world-to-continent continuity plus strong climate and table mood.
+
+Reference prompting keeps a family resemblance, but it does **not** guarantee identical geography. When exact continuity matters, make the continent sheets first and composite the world from scaled copies of those masters. Prototype 3 now follows that method; `build_prototype3_world.py` performs the reproducible composite. Do not independently regenerate its world sheet.
+
+```bash
+python3 -m pip install --upgrade pillow numpy
+python3 "14 - Assets/Maps/build_prototype3_world.py"
+```
 
 **Sample renders** (this pass, label-free, not surveys) live beside this note and are browsable on [[The Atlas Sheets]]:
 
