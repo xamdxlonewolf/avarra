@@ -8,18 +8,18 @@ tags: [faction, government, polity, maiethorn, epic-7]
 aliases: [The Gift-Realm, the Mother's Gift, Maiethvael-folk]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: the old gift-country that shares the Mother and will not keep a list
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Maiethvael
 
-> **The Gift-Realm.** *(my-ETH-vayl · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift" = "the Mother's Gift.")* Conservative drift: *th* kept. The un-built **warm rich core** — theology high · reach high · governance **low**. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not name a capital. Do not make this the kind foil to [[Polity Archetypes|Threnmaieth]].
+> **The Gift-Realm.** *(my-ETH-vayl · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift" = "the Mother's Gift.")* Conservative drift: *th* kept. The **warm rich core** — theology high · reach high · governance **low**.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Maiethvael*; people **Maiethvael-folk**. Not *Threnmaieth* (the Mother's Reckoning). Not *Vaelhael* (unused). Not *Maiethael* (too close to the Tree).
+> Everyday *Maiethvael*; people **Maiethvael-folk**. Not *Threnmaieth* (the Mother's Reckoning). Not *Vaelhael* (unused). Not *Maiethael* (too close to the Tree).
 
 ## Overview (public)
 
@@ -42,6 +42,15 @@ Keep the gift hale without writing the gifted down. Furnish generously. Pity the
 **Its injustice.** Not a boot. A **social tax of piety**. Warmth is real and so is the bill: fall out of congregation and the net goes with it, and there is no crown to appeal to. The Kept here are pitied in *plenty*. Threnmaieth at least files them; Maiethvael loves them and cannot stop measuring what they missed.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not name a capital.
+- Do not make this the kind foil to [[Polity Archetypes|Threnmaieth]].
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Not the good kingdom.** The R2 guard is the point of building this corner. Confirming the Mother is kind does not make congregation-welfare fair.
 - **Name-pair with Threnmaieth.** Same *maieth*; gift vs reckoning. A scholar may notice. Do not gloss it.

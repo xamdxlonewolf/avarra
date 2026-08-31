@@ -18,7 +18,7 @@ updated: 2026-08-31
 
 > **A high place that was over-built, then politely emptied.** On a hill in [[Maiethorn]]'s old Watching country stands a ring of stones older than any name a clerk will be allowed to write. Someone later put a shrine on it. Someone after that took the shrine's roof off and left the ring. Everyday name: **the Seeing-Ring.** Folk: **the High Stones.** Watchers keep a night there and will not call it a temple. Chronicle leftovers: [[The Other Count]].
 
-> **Canon status.** 🟡 **Pre-Walk physical survival (Story R.9).** 🔒 **Do not date the lower ring.** 🔒 **Do not date the Tree from it.** 🔒 **The upper work is overlay — Hands-era or late Walking, argued.** 🟡 **Tithsael** *(tith-SAYL)* keeps the present night. Adventure-depth added Story R.11.
+> The lower ring is undated and is not a date for the Tree. The upper work is overlay — Hands-era or late Walking, argued. **Tithsael** *(tith-SAYL)* keeps the present night.
 
 ## At the table
 

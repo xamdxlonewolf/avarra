@@ -10,14 +10,14 @@ aliases: [Named Terrain, Rivers and the Rain-Wall, Travel Times]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Named Ground
 
-> **What this is.** The physical names the settlements and the Other Count were already using as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks that already existed. Everyday first. No new liturgy. Seed `20260831` (LCG; lists shuffled; names picked from the **middle**, never the first thought). The labelled picture is [[The Known Map]]. How to *draw* a map lives in `14 - Assets/Maps/` — not here. Paintings are not a second gazetteer.
+> **What this is.** The physical names the settlements and the Other Count were already using as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks that already existed. Everyday first. No new liturgy. The labelled picture is [[The Known Map]]. How to *draw* a map lives in `14 - Assets/Maps/` — not here. Paintings are not a second gazetteer.
 
-> **Canon status.** 🟡 **Named ground (Story R.10).** 🔒 **Does not add a sixteenth power.** 🔒 **Does not date the Tree.** 🔒 **[[The Sundering Isle|Kumbaan]] never took a graft** — dead wood is not a Tree. Deep climate/ecology still deferred. Adventure-site depth ✅ [[Roadmap|Story R.11]].
+> This list does not add a sixteenth power, date the Tree, or put a graft on [[The Sundering Isle|Kumbaan]] — dead wood is not a Tree.
 
 ## How to say it at the table
 
@@ -35,7 +35,7 @@ Speak the common-tongue name. The liturgical reconstruction, if anyone bothers, 
 | **the Rise-water** | the stream from [[Harrow's Green]] to the hamlets' ford | the Seat still says *the ford* |
 | **the Chart-run** | Strandoren's interior river to [[Orentel]]'s estuary | Lestrand files it as inland tickets reaching salt |
 
-Seed `20260831`. Mid-picks: *the Old Crossing · the Rain-Wall / the Thaw-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash · the Shelf-gate.* **the Noon Pass** and **the West Water** were already in the mouth; this pass locked them.
+**the Noon Pass** and **the West Water** were already in the mouth; this list locks them beside the rest.
 
 ## The Old Crossing
 
@@ -152,10 +152,12 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
 - [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
 - [[The Walled Book]] · [[Orenbren]] · [[Eolstrand]] · [[Lirorn]] · [[Netstrand]]
-- [[01 - World]] · [[Roadmap]] (Story R.10)
+- [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
+
+- **Production (R.13).** Seed `20260831` (LCG; mid-list). Story R.10. Deep climate/ecology still deferred. Tracker: [[Roadmap]].
 
 - **Names are handles, not a new cosmology.** The reach-gradient is still the load-bearing map. Distances make the walks expensive; they do not confirm a mind.
 - **Kumbaan never.** Align every later sentence with [[The First Cut]]: wrecked pots allowed; a taking is not.

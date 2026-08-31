@@ -1,8 +1,8 @@
 ---
 title: The Unbound
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, struck, unbound, hollow, contract]
 aliases: [The Unbound, Unbound, The Hollow, Hollow, The Hollowed, The Pledged]
@@ -14,7 +14,7 @@ path: Struck only (chains off Bound)
 population: ~1.5% (inside Bound ~5%)
 reveals: []
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Unbound

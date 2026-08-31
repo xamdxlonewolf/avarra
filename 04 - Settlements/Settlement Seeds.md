@@ -14,9 +14,7 @@ updated: 2026-08-31
 
 # Settlement Seeds
 
-> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground for [[Roadmap|Epic 7]]. Not cities. A catalog of settlement-types that already have a past, so later stories did not invent towns that feel designed last week. The ~15 powers are named in [[Powers of the Turning]]. Built from Story 6.4 residues with `settlement-design` as *principles only* (layered development, adaptive reuse, the Tree at the centre from [[Daily Life]]). **Story 7.2 fleshed four squares. Story 7.3 seated the three archetype capitals.** Unused types stay types until a later session picks another map-square.
-
-> **Canon status.** 🟡 **Catalog + 7.2 squares + 7.3 seats.** Do not flesh the unused types here. Powers remain named-stubs except where a square or seat now sits on them. Do not rebuild the era spine. Do not rebuild 7.1. Do not rebuild 7.2. Do not rebuild 7.3.
+> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground. Not cities. A catalog of settlement-types that already have a past, so towns do not feel designed last week. The ~15 powers are named in [[Powers of the Turning]]. Unused types stay types until a later session picks another map-square.
 
 ## What every Turning-place already inherits
 

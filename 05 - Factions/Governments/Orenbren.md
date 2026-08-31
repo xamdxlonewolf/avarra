@@ -8,18 +8,18 @@ tags: [faction, government, polity, maiethorn, epic-7, pilgrimage]
 aliases: [The Witness-Hearths, the Lodging-Power, Orenbren-folk]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: the Near Mile's lodging-towns, grown into a civic power that does not own the Tree
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Orenbren
 
-> **The Witness-Hearths.** *(or-EN-bren · [[The Old Tongue|oren]] "to witness" + [[The Old Tongue|bren]] "hearth" = "the witnessing-hearth.")* Conservative drift. Theology high · reach high · governance mid-low. Named-stub for [[Roadmap|Story 7.1]]. **Does not own [[Turning Tree|Thaeloren]]. Does not own the [[The Tree-Wardens|First Seat]].** Do not flesh districts. Do not name a capital.
+> **The Witness-Hearths.** *(or-EN-bren · [[The Old Tongue|oren]] "to witness" + [[The Old Tongue|bren]] "hearth" = "the witnessing-hearth.")* Conservative drift. Theology high · reach high · governance mid-low. **Does not own [[Turning Tree|Thaeloren]]. Does not own the [[The Tree-Wardens|First Seat]].**
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Orenbren*; people **Orenbren-folk**. Not *brenhael* (a road-house cant). Not *Brenvaeth* (the Walking Years). Not *Brenorn* (a month). The inns grew a country; they did not become one house.
+> Everyday *Orenbren*; people **Orenbren-folk**. Not *brenhael* (a road-house cant). Not *Brenvaeth* (the Walking Years). Not *Brenorn* (a month). The inns grew a country; they did not become one house.
 
 ## Overview (public)
 
@@ -46,6 +46,14 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 **Its injustice.** **Hospitality as rent.** Devotion priced as board. A pilgrim who cannot pay the First-Hand year still needs the hug; the upper room has learned what a bed is worth in Eolthael. Kindness with a slate.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not name a capital.
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Do not capture the First Seat.** Clergy college in the wood; civic lodging in the towns. [[Maiethlir]] is Threnmaieth's counted river-seat, not this compact and not the grove. Hold the gap.
 - **Do not clone a deathless house as the state.** [[The Third Hearth]] is fleshed (Story 7.2); [[The White Note House]] stays a seed. Orenbren is many hearths. Brenthael is a neighbour square, not a capital.

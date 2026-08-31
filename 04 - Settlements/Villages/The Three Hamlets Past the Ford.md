@@ -16,9 +16,9 @@ updated: 2026-08-31
 
 # The Three Hamlets Past the Ford
 
-> **A waiting cluster.** The Seat's [[The Tree-Wardens|Cutting-leave]] already filed them as a remainder: *the wood will take at Harrow's green. It will not take this year at the three hamlets past the ford — the soil is thin there.* They can see [[Harrow's Green]] from the water. They send this year's ten-year-olds to the neighbour's week, or further if Harrow's year is too full, or still the Long Mile if the neighbour is a stick in a pot. Fleshed at square scale for [[Roadmap|Story 7.2]]. Folk hearth-names 🟡 (worn [[The Old Tongue|Maiethren]], seed `20260828`, picked from the middle). **The Seat still does not use them.** That blindness is load-bearing.
+> **A waiting cluster.** The Seat's [[The Tree-Wardens|Cutting-leave]] already filed them as a remainder: *the wood will take at Harrow's green. It will not take this year at the three hamlets past the ford — the soil is thin there.* They can see [[Harrow's Green]] from the water. They send this year's ten-year-olds to the neighbour's week, or further if Harrow's year is too full, or still the Long Mile if the neighbour is a stick in a pot. Folk hearth-names sit in worn [[The Old Tongue|Maiethren]]. **The Seat still does not use them.** That blindness is load-bearing.
 
-> **Canon status.** 🟡 **Playable cluster, not one village.** Do not collapse them to tidy the queue. Do not destroy them as a morality tale. Do not lock which green has the sick stick — that waits on a session. Do not make any hamlet a capital.
+> Three hearths, not one village. Which green has the sick stick waits on a session. None of them is a capital.
 
 ## At the table
 

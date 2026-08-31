@@ -18,7 +18,7 @@ updated: 2026-08-31
 
 > **A stair that does not climb to a Tree.** In [[Saelthael]]'s dry east, a rise above a well-town holds a flight of steps cut into the rock. They climb to a door-stone and a basin that has not held water in any summer a living mouth will swear to. Everyday name: **the Dry Stair.** Folk: **the stair that does not climb to a Tree** — said as a joke and as a warning. Chronicle leftovers: [[The Other Count]].
 
-> **Canon status.** 🟡 **Pre-Walk physical survival (Story R.9).** 🔒 **Do not date it.** 🔒 **Do not make it the Tree's original temple, a first Fox-shrine, or a Kind-nation ruin.** 🔒 **Not Ornsael's hill.** Adventure-depth added Story R.11.
+> Undated. Not the Tree's original temple, not a first Fox-shrine, not a Kind-nation ruin. Not Ornsael's hill.
 
 ## At the table
 

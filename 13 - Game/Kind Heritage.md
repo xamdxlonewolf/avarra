@@ -9,14 +9,14 @@ aliases: [Hearth-Mark, Mixed Ancestry, Custom Kind Features]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Kind Heritage
 
-> **What this is.** The table rulings for Kind (born ancestry) in **The Turning**. How the four custom Kinds sit next to Daggerheart's stock two-feature ancestries; how Mixed Ancestry works when a custom package has three features; which Kind keeps the "cannot be caught off guard" keyword. Fiction of hearths and mixed children lives on [[Kinds of the Turning]]. Condition cards, Kept compensation, and Struck-in-play timing are not this note.
+> **What this is.** The table rulings for Kind (born ancestry) in **The Turning**. How the four custom Kinds sit next to Daggerheart's stock two-feature ancestries; how Mixed Ancestry works when a custom package has three features; which Kind keeps the "cannot be caught off guard" keyword. Fiction of hearths and mixed children lives on [[Kinds of the Turning]]. Condition cards, the Kept deal, and Struck-in-play timing live on [[At the Table]].
 
-> **Canon status.** 🔒 **Locked 2026-08-30** (Story R.3, mix rule revised same day): keep the three-feature packages; stock takes a Hearth-Mark; Mixed Ancestry is allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind, never a mix; "cannot be caught off guard" is issued once, on [[Tengu]]. Does **not** reopen the two-layer model or hearths-not-nations. The Mark's exact once-per-session +2 is the working number (safe to retune if play finds stock thin).
+> Keep the three-feature packages; stock takes a Hearth-Mark; Mixed Ancestry is allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind, never a mix; "cannot be caught off guard" is issued once, on [[Tengu]]. This does not reopen the two-layer model or hearths-not-nations. The Mark's exact once-per-session +2 is the working number (safe to retune if play finds stock thin).
 
 ## The power band
 
@@ -92,7 +92,7 @@ The other three customs keep their fiction without that phrase:
 
 - A Community rewrite. Ridgeborne, Seaborne, Wildborne, and the rest stay the environment-of-origin card.
 - A Kind-nation. The Mark is a *place*. Transmission of Kind-culture is the other kitchen, on [[Kinds of the Turning]].
-- The Kept deal, Struck-in-play timing, or Condition advancement. Those belong to later table-readiness work.
+- The Kept deal, Struck-in-play timing, or Condition advancement. Those live on [[At the Table]].
 
 ## Links
 - [[Kinds of the Turning]] — hearths, the other kitchen, mixed-Kind children
@@ -100,6 +100,7 @@ The other three customs keep their fiction without that phrase:
 - [[Naming People in the Turning]] — register from a Kind you wear; byname follows the place
 - [[Daily Life]] — mixed households
 - [[The Premise]] — Kind + Condition
+- [[At the Table]] — creation, Kept, Struck-in-play
 - [[13 - Game]] · [[03 - Cultures]]
 
 ## GM Notes

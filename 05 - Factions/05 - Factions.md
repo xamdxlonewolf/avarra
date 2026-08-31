@@ -26,7 +26,7 @@ Recruits by **Condition / faith / office, not Kind** — [[Kinds of the Turning]
 
 ## Contents
 
-### Governments (Story 7.1 — named stubs; do not rebuild)
+### Governments
 
 The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve stubs plus the hub live here. Seats and leftover-squares already exist (7.2–7.3). The Inner Close stays inside [[Orenbren]] (🔒 Story R.10). Kumbaan is not a thirteenth mainland power.
 
@@ -72,7 +72,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 - [[The Holding Desk]] — everyday *hold-clerks*. Not the Slide. Not the unused Back Table.
 - [[The Standing Trade]] — everyday *the Standing Trade*. Not the Slide. Not a reopening of the unused Bought Watch pick.
 - [[The Protectors]] — everyday *the Protectors* / *the Care*. Public hospice. Harvest stays behind the wall.
-- [[Rogue House Options]] — menu closed. Bought Watch / Quiet Cut unused *as Slide jobs*.
+- [[Rogue House Options]] — archived menu. Bought Watch / Quiet Cut unused *as Slide jobs*.
 
 ### Tithe-infrastructure & safety-guilds
 

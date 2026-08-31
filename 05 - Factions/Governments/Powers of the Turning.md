@@ -9,14 +9,14 @@ aliases: [The Great Powers, The Fifteen, Named Powers, The Other Powers]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Powers of the Turning
 
-> **What this is.** The named-stub pass for the other great powers ([[Roadmap|Story 7.1]]). [[The Premise]] locked **~15 great powers** across three large continents; Epic 2 built three of them as worked corners ([[Polity Archetypes|Vaethorn · Lestrand · Threnmaieth]]). This note names the remaining twelve, places them, and gives each a *stance* — not a capital, not a street-grid. Built with `settlement-design` (site and network, not districts), `governance-systems` (how a power *forms*), `character-naming` + `conlang` (Old-Tongue compounds, seed `20260827`, pick from the middle), and `language-evolution` (the same three drifts, pushed until the name *sounds like* the stance). `cliche-transcendence` and `memetic-depth` kept Kind-nations, pope-kingdoms, and a fourteen-cell axis-catalogue out.
+> **What this is.** The other great powers. [[The Premise]] locked **~15** across three large continents; three of them are worked corners ([[Polity Archetypes|Vaethorn · Lestrand · Threnmaieth]]). This note names the remaining twelve, places them, and gives each a *stance* — not a capital, not a street-grid. Kind-nations and pope-kingdoms stay out. The twelve stubs interpolate the axis-space; they do not fill every corner.
 
-> **Canon status.** 🔒 **Names and placement locked (2026-08-24, user-approved).** Stub texture stays polishable. The three corner seats named Story 7.3 ([[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). The twelve stubs' capitals stay unnamed. Do not rebuild the era spine. Do not treat [[The Years of Hands|Ornthael]] as post-history. Do not let [[Polity Archetypes|Threnmaieth]] capture the [[The Tree-Wardens|First Seat]]. Do not rebuild this pass. Do not rebuild 7.3.
+> Names and placement are settled. Stub texture stays polishable. The three corner seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. The twelve stubs' capitals stay unnamed. [[Polity Archetypes|Threnmaieth]] does not capture the [[The Tree-Wardens|First Seat]].
 
 ## The count
 
@@ -39,7 +39,7 @@ Same lever as [[Naming in the Turning]]: **the name a polity gives itself reveal
 - **Worn** ([[Heskoren]]) — *th* revered but softening; frontier coinage *hesk-* (not in the liturgy, because the liturgy is older than this grafting). [[Polity Archetypes|Vaethorn]] keeps the holy sound on purpose. [[Ornled]] lets it go.
 - **Eroded** ([[Strandoren]]) — *th* → *t* or dropped; ends clipped. [[Polity Archetypes|Lestrand]] is still the most-drifted of the old three. [[Trenledd]] is what happens when *thren* itself wears down to a roll.
 
-Seed `20260827` (LCG; compounds shuffled; names picked from the middle of the list, never the first thought). Collision-checked against locked coinages (*Brenvaeth / Eoloren / Ornthael / Orenhael / Vaeloren / Leddoren / Saelhael / brenhael / months*). Pronunciation: **CAPS** = stress; `ae` = "ay"; `th` = *thin*.
+Pronunciation: **CAPS** = stress; `ae` = "ay"; `th` = *thin*.
 
 ## The fifteen at a glance
 
@@ -97,15 +97,14 @@ The fifteen are not fifteen ancient kingdoms. [[Maiethorn]]'s six inherit a grov
 | **[[Vaelhesk]]** | Host-rights older than the wave; not on the Hush clause | A first meal is not a landing-due. Vaethorn reads their children as Kept-for-want. |
 | **[[Saelvaeth]]** | Live march from the C.Y. 200s; Hush: may take a pot without a waiting-due | The queue is the border. Harrow's luck is politics. |
 
-Do not add a sixteenth flag. The [[The Walled Book|Inner Close]] sits inside Orenbren and remembers the sitting, not a continent. **Placement locked Story R.10** — do not replace [[Eolstrand]].
+The [[The Walled Book|Inner Close]] sits inside Orenbren and remembers the sitting, not a continent. It is not a sixteenth flag. It does not replace [[Eolstrand]].
 
-## What this pass does not do
+## What these names are not
 
-- **Capitals of the three corners** are Story 7.3 ([[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]). Story 7.2 fleshed leftover squares, not throne-cities. The twelve stubs' seats stay unnamed. A stub that names a throne-city is still early.
-- **No Kind-nations.** [[Kinds of the Turning]]: hearths, not flags. Saelthael is sand-country, not a Fox kingdom. Lirorn is a watershed, not a Tengu empire. Eolstrand and Netstrand are shores, not Selkie thalassocracies. Vaelhesk is host-rights, not a Taken-In nation.
-- **No faith-nations.** [[The Watching]] stays a heartland heresy *inside* Maiethorn districts, not a sixth Motherland flag. Leddvael is the one power that made a rival faith *civic* — and even there the Book-hands have no seat.
-- **No Kumbaan export.** Do not put a mile-shrine on the Isle to make the list feel complete.
-- **No twelfth job for the walk.** Leftovers come from [[Settlement Seeds]].
+- **The twelve stubs' seats stay unnamed.** The three corner capitals are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. Leftover squares are not throne-cities.
+- **Hearths, not flags.** [[Kinds of the Turning]]. Saelthael is sand-country, not a Fox kingdom. Lirorn is a watershed, not a Tengu empire. Eolstrand and Netstrand are shores, not Selkie thalassocracies. Vaelhesk is host-rights, not a Taken-In nation.
+- **Faiths are not extra flags.** [[The Watching]] stays a heartland heresy *inside* Maiethorn districts. Leddvael is the one power that made a rival faith *civic* — and even there the Book-hands have no seat.
+- **Kumbaan is not on this list.** There is no mile-shrine on the Isle.
 
 ## Two mouths, same fifteen
 
@@ -123,13 +122,15 @@ Neither list is complete. Both are true of the speaker.
 - [[The World Frame]] · [[Named Ground]] · [[The Known Map]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[The Old Tongue]] · [[Naming in the Turning]] · [[Naming People in the Turning]] · [[Kinds of the Turning]]
 - [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
-- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
 - [[Faiths of the Turning]] · [[The Tree-Wardens]] · [[Law and Citizenship]] · [[The Premise]]
 - [[The Other Count]] · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
-- [[05 - Factions]] · [[Roadmap]] (Story 7.1; shared history R.9; geography R.10)
+- [[05 - Factions]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
+
+- **Production (R.13).** Named-stub pass was Story 7.1; seats 7.3; leftover squares 7.2; Inner Close placement R.10. Seed `20260827`. Do not rebuild this pass, the era spine, or 7.3. Do not treat Ornthael as post-history. Do not add a sixteenth flag. Do not put a mile-shrine on Kumbaan. Tracker: [[Roadmap]].
 
 - **R2 at map-scale.** Fifteen injustices, not one with hats. Maiethvael is not the "good" foil to Threnmaieth (piety as a social tax; the Kept pitied in *plenty*). Trenledd is not Threnmaieth without hymns made kinder (it is colder: no duty to keep you hale). Ornled is not freedom (no congregation-net). Confirming the Mother is kind launders none of them.
 - **Reach-edge stays GM-side.** Saelthael's thin soil and Saelvaeth's young grafts read as horticulture and queue. The bounded-reach cause does not migrate into a stub.

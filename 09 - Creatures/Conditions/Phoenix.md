@@ -1,8 +1,8 @@
 ---
 title: Phoenix
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, phoenix, legendary]
 aliases: [The Phoenix, Ash-Born, The Cyclical, Ember-Souled]
@@ -12,9 +12,9 @@ monster: phoenix
 standing: legendary
 path: Given only
 population: <0.1% (trace)
-reveals: [when-the-fire-is-caught]
+reveals: []
 created: 2026-08-15
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Phoenix
@@ -43,7 +43,7 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 
 **What the fire package is.** Full fire immunity, flaming flight, a Hope-cost attack, and a fourth death move. It is strong on purpose. The tax is social and finite. If the table wants the myth without that tax, they do not want this card.
 
-A hidden or captive Phoenix is a later campaign option. Player-agency rules for that opening are not on this card.
+A hidden or captive Phoenix is a different seat. Player-agency rules: [[A Hidden Phoenix]].
 
 ## Daggerheart — Transformation card
 
@@ -75,4 +75,5 @@ Two engines, run them together: (1) the **count** — let everyone watch the Hop
 ## Links
 - [[Conditions]] · [[The Premise]] · [[Build Plan]]
 - Contrast: [[Long-Lived]] (deathless and ageless vs. dies-and-returns-finitely) · [[Returned]] (refuses to stay down, one Purpose, no memory cost vs. true death + rebirth + memory cost) · both are the setting's other answers to "cheating death" — the Phoenix is the one that still, eventually, loses.
+- [[A Hidden Phoenix]] — the other seat
 - GM: [[When the Fire Is Caught]] · [[The Protectors]]

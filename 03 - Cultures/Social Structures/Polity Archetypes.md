@@ -41,7 +41,7 @@ Three corners, chosen so that **each pair shares exactly one axis and differs on
 - **Waiting Lands ∩ Tallied Crown** share **high theology** → same ardent faith, wildly different circumstances: devotion at the starving edge vs. devotion in the sanctified, watched core. *Theology held constant; reach and governance swing.*
 - **Ledger Coast ∩ Tallied Crown** share **high reach** → same Tree-wealth spent two opposite ways: free markets vs. a sanctified panopticon. *Reach held constant; theology and governance swing.*
 
-Three more corners were left un-built in this note (a secular frontier, a devout-but-lightly-governed rich core, a cold surveillance-state with no faith to sanctify it). Story 7.1 stubbed them as **[[Ornled]]** · **[[Maiethvael]]** · **[[Trenledd]]**. Three worked examples still prove the space; the twelve stubs interpolate rather than completing a fourteen-cell catalogue.
+Three more corners were left un-built in this note (a secular frontier, a devout-but-lightly-governed rich core, a cold surveillance-state with no faith to sanctify it). They now exist as stubs: **[[Ornled]]** · **[[Maiethvael]]** · **[[Trenledd]]**. Three worked examples still prove the axes independent. The other twelve powers are interpolations of the same space — not a completed grid of every corner.
 
 ---
 

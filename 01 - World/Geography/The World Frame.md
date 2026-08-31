@@ -15,9 +15,9 @@ updated: 2026-08-30
 
 # The World Frame
 
-> **What this is.** The top-level geography of **The Turning** — the four continents, how they sit relative to one another, and the single idea that organizes the whole map: a **reach-gradient**, from the sacred, Tree-dense origin outward to the thin frontier and the storm-walled isle beyond. This is the load-bearing [[Roadmap|Epic 3]] note; every region, polity, and settlement hangs off it. It fixes the frame the locked [[The Premise|scale & register]] demanded (~15 great powers across 3 large + 1 small continent) and gives the three [[Polity Archetypes|worked polities]] a *place*. Built with `systemic-worldbuilding`.
+> **What this is.** The top-level geography of **The Turning** — the four continents, how they sit relative to one another, and the single idea that organizes the whole map: a **reach-gradient**, from the sacred, Tree-dense origin outward to the thin frontier and the storm-walled isle beyond. Every region, polity, and settlement hangs off it. It fixes the frame [[The Premise|scale & register]] demanded (~15 great powers across 3 large + 1 small continent) and gives the three [[Polity Archetypes|worked polities]] a *place*.
 
-> **Canon status.** 🟡 **Proposed** frame (names + relative positions + placement), safe to refine as regions get built. The *structure* it serves — reach-gradient, one Awakening Tree + grafts, three polities on three different continents — is 🔒 locked upstream in [[The Premise]] and [[Polity Archetypes]].
+> Names and relative positions can still be refined as regions get built. The structure it serves — reach-gradient, one Awakening Tree + grafts, three polities on three different continents — is settled in [[The Premise]] and [[Polity Archetypes]].
 
 ## The organizing idea: a reach-gradient
 

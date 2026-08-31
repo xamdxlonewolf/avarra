@@ -8,18 +8,18 @@ tags: [faction, government, polity, maiethorn, epic-7, story-r10]
 aliases: [The Thaw-Land, Lirorn-folk, the Range-Holding, the Thaw-Wall]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: the Rain-Wall — last year's snow as this year's civic year
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Lirorn
 
-> **The Thaw-Land.** *(leer-ORN · [[The Old Tongue|lir]] "thaw; water that runs again" + [[The Old Tongue|orn]] "land" = "thaw-land.")* Conservative drift. Everyday *the Thaw-Land*; they call the range **the Thaw-Wall**. Lowlanders say **[[Named Ground|the Rain-Wall]]**. Theology mid · reach high · governance **mid**. Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10. Do not flesh districts. Do not make a Tengu empire. Do not make a Fox-of-the-Snows kingdom.
+> **The Thaw-Land.** *(leer-ORN · [[The Old Tongue|lir]] "thaw; water that runs again" + [[The Old Tongue|orn]] "land" = "thaw-land.")* Conservative drift. Everyday *the Thaw-Land*; they call the range **the Thaw-Wall**. Lowlanders say **[[Named Ground|the Rain-Wall]]**. Theology mid · reach high · governance **mid**.
 
-> **Canon status.** 🟡 **Named stub, sharpened.** Seed `20260827` (name) · terrain `20260831`. Everyday *Lirorn*; people **Lirorn-folk**. Not *Liren* (a month). Not *Ornthael*. The range divides Maiethorn's waters; the name is the snowmelt, not the Tree.
+> Everyday *Lirorn*; people **Lirorn-folk**. Not *Liren* (a month). Not *Ornthael*. The range divides Maiethorn's waters; the name is the snowmelt, not the Tree.
 
 ## Overview (public)
 
@@ -42,6 +42,15 @@ Keep the passes and the spring. Be paid for water the core calls a gift. Stay un
 **Its injustice.** **The ridge pays in isolation for water the valley files as a gift.** A shelf-town whose graft sickens is a long way from a stiller. Mid-state enough to levy; not enough to furnish every Tithe on a cliff. Tolls that feel like geography feel like 233 if you were on the shelf. The Core-thaw's loud week before Leaf-Fall is Maiethlir's inscrutable, not this holding's sermon.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10.
+- Do not flesh districts.
+- Do not make a Tengu empire.
+- Do not make a Fox-of-the-Snows kingdom.
+- **Canon status.** 🟡 **Named stub, sharpened.**
+- Seed `20260827` (name) · terrain `20260831`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Not a watershed with a toll as the only sentence.** The job is *last year's snow as this year's civic year.* Maiethlir is downstream. Saelthael's west-road crosses the Shelf-gate. Close either and Clock 2 shows on the Motherland.
 - **Hearths, not nations.** Tengu densest. Snows-Fox densest. The interesting PC is a human or Selkie of Lirorn, or a Tengu of Eolstrand.

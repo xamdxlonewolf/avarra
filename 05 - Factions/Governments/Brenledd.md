@@ -12,14 +12,14 @@ seat: none — a league, not a capital (capitals wait anyway)
 public_face: many charter-towns, one commercial compact — Lestrand's rival by arithmetic
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Brenledd
 
-> **The Hearth-League.** *(bren-LED · [[The Old Tongue|bren]] "hearth" + [[The Old Tongue|ledd]] "to reckon" = "hearths of the ledger.")* Eroded drift: no *th* to keep. Theology low · reach high · governance low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not give the league a throne-city. Do not clone [[Polity Archetypes|Lestrand]] with a second name.
+> **The Hearth-League.** *(bren-LED · [[The Old Tongue|bren]] "hearth" + [[The Old Tongue|ledd]] "to reckon" = "hearths of the ledger.")* Eroded drift: no *th* to keep. Theology low · reach high · governance low.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *the Brenledd* or *the compact*; people **Brenled-folk**. Not *brenhael* (an inn). Not *Brenvaeth* (an era). Not *Leddoren* (the Fair Hand's own-name).
+> Everyday *the Brenledd* or *the compact*; people **Brenled-folk**. Not *brenhael* (an inn). Not *Brenvaeth* (an era). Not *Leddoren* (the Fair Hand's own-name).
 
 ## Overview (public)
 
@@ -44,6 +44,14 @@ Keep many tickets cheaper than one house. Underwrite each other. Stay a league w
 **Its injustice.** **Falling between charters.** Vouched here, unknown there; Tithe-provision a town matter the compact will not touch. Thin welfare in a rich network. The fade happens in the gaps the league calls local.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not give the league a throne-city.
+- Do not clone [[Polity Archetypes|Lestrand]] with a second name.
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
 
 - **Network, not a capital.** Story 7.2 may pick one square as playable; it must not become "the Brenledd city."
 - **Same low-G corner as Lestrand, different structure.** That is the proof the knobs are not hats: two secular Tree-rich light-states, one premier coast, one arithmetic of towns.

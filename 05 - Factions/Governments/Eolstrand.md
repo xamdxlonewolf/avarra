@@ -8,18 +8,18 @@ tags: [faction, government, polity, maiethorn, epic-7, story-r10]
 aliases: [The Hinge-Shore, Eolstrand-folk, the Old Crossing Face, Hinge-folk]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: the Motherland's Old-Crossing ports — they decide whether a hull is a pilgrim, a pot, or cargo
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Eolstrand
 
-> **The Hinge-Shore.** *(AY-ohl-strand · [[The Old Tongue|eol]] "hinge" + strand "shore" = "the hinge-shore.")* Conservative drift: they kept the year-word on a coast-name. Everyday *the Hinge-Shore*; liturgical *Eolstrand* if a clerk is showing off. Theology **mid** · reach high · governance low. Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10. Do not flesh districts. Do not name a capital. Do not make a Selkie nation. Do not let this flag carry the [[The Walled Book|Inner Close]].
+> **The Hinge-Shore.** *(AY-ohl-strand · [[The Old Tongue|eol]] "hinge" + strand "shore" = "the hinge-shore.")* Conservative drift: they kept the year-word on a coast-name. Everyday *the Hinge-Shore*; liturgical *Eolstrand* if a clerk is showing off. Theology **mid** · reach high · governance low.
 
-> **Canon status.** 🟡 **Named stub, sharpened.** Seed `20260827` (name) · terrain `20260831`. People **Eolstrand-folk** or **Hinge-folk**. Not *Eoloren* (the First Cut). Not *Eolthael* (a month). Not *Lestrand*. Not the Closed Seat's remnant.
+> People **Eolstrand-folk** or **Hinge-folk**. Not *Eoloren* (the First Cut). Not *Eolthael* (a month). Not *Lestrand*. Not the Closed Seat's remnant.
 
 ## Overview (public)
 
@@ -44,6 +44,16 @@ Keep the Old Crossing the world's highway. Classify the hull before anyone price
 **Its injustice.** **Category as fate.** Lestrand will let you fade and feel it owed you nothing. The Hinge-Shore will *bless you as it files you*, and a Tithe-poor household fails in sight of the pilgrimage-road with a hymn still in the air. They learned the step-around from looking across the water in a grey summer. They kept the hymn so they would not have to call the step a conversion.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10.
+- Do not flesh districts.
+- Do not name a capital.
+- Do not make a Selkie nation.
+- Do not let this flag carry the [[The Walled Book|Inner Close]].
+- **Canon status.** 🟡 **Named stub, sharpened.**
+- Seed `20260827` (name) · terrain `20260831`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Not Lestrand-lite.** Same high reach, cooler faith — on the *conservative* shore. The independent-axes proof is the *job*: classify, do not price. Do not let mid-hymns read as thin Trees.
 - **Not a Selkie flag.** Coasts are hearths.

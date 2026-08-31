@@ -2,7 +2,7 @@
 title: Is the Leaf-Mother Real
 type: secret
 visibility: gm
-note_status: locked
+note_status: canon
 tags: [secret, gm-truth, keystone, leaf-mother, cosmology]
 aliases: [The Keystone Secret, The Leaf-Mother Truth, Is She Real]
 reveal_tag: leaf-mother-is-real
@@ -20,7 +20,7 @@ foreshadowed_by:
   - "[[The Remainder]] — the desk that has the box"
 revealed_in:
 created: 2026-08-19
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Is the Leaf-Mother Real

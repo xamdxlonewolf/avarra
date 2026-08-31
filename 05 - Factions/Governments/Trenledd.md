@@ -8,18 +8,18 @@ tags: [faction, government, polity, strandoren, epic-7]
 aliases: [The Worn Count, Trenled, Trenledd-folk, the Roll-Interior]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: a Tree-rich interior that keeps a roll of persons and will not call it holy
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Trenledd
 
-> **The Worn Count.** *(tren-LED · eroded [[The Old Tongue|thren]] "sacred counting" + [[The Old Tongue|ledd]] "to reckon.")* The liturgical reconstruction *Threnledd* is unused on purpose: they will not say the holy word. Theology **low** · reach **high** · governance **high**. The un-built **cold surveillance-state with no faith to sanctify it**. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not give them a Threnhael by another name without noticing the difference.
+> **The Worn Count.** *(tren-LED · eroded [[The Old Tongue|thren]] "sacred counting" + [[The Old Tongue|ledd]] "to reckon.")* The liturgical reconstruction *Threnledd* is unused on purpose: they will not say the holy word. Theology **low** · reach **high** · governance **high**. The **cold surveillance-state with no faith to sanctify it**.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Trenledd* or *the Trenled*; people **Trenled-folk**. They call the list **the roll** — Lestrand's word for a *tax* roll, here meaning persons. Not *Threnmaieth*. Not *Threnhael*. The erosion *is* the thesis.
+> Everyday *Trenledd* or *the Trenled*; people **Trenled-folk**. They call the list **the roll** — Lestrand's word for a *tax* roll, here meaning persons. Not *Threnmaieth*. Not *Threnhael*. The erosion *is* the thesis.
 
 ## Overview (public)
 
@@ -44,6 +44,14 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 **Its injustice.** **A census with the halo worn off.** You cannot appeal to piety. You cannot shame them with "the Mother's gifts should not be listed" — they agree, and list you anyway, as cargo and hazard. Colder than the Tallied Crown. The ~5%-scary dial's bureaucratic edge.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not give them a Threnhael by another name without noticing the difference.
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Colder, not kinder.** Removing the hymn does not launder the list. R2: she authored none of this.
 - **Etymology tell.** *Thren* → *Tren* is GM-legible. Reserve noticing.

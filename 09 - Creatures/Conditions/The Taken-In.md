@@ -1,8 +1,8 @@
 ---
 title: The Taken-In
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, struck, leshy]
 aliases: [The Taken-In, Leshy, Wood-Wardens, The Green-Given]
@@ -14,7 +14,7 @@ path: Both
 population: ~13%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Taken-In

@@ -1,8 +1,8 @@
 ---
 title: Far-Voiced
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, struck, siren]
 aliases: [The Far-Voiced, Siren, Carriers, Chorus-Trained]
@@ -14,7 +14,7 @@ path: Both
 population: ~12%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Far-Voiced

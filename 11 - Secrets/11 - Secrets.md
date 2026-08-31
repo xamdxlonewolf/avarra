@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # 11 - Secrets
@@ -23,7 +23,7 @@ updated: 2026-08-30
 | `the-unspent` | The lesser household presence / Poured God | The Five Hands table |
 | `when-the-fire-is-caught` | Phoenix slot (one Gift; remnant is not a Phoenix) | The keystone |
 
-Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-export strip rule for `## GM Notes` is Story R.13.
+Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-export strip rule: [[Conventions#Player-safe export]].
 
 ## Contents
 
@@ -31,7 +31,7 @@ Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-e
 - [[Is the Leaf-Mother Real]] — 🔒 **keystone secret** (`reveal_tag: leaf-mother-is-real`): she **is** real and benevolent; the Trees genuinely are her hands; the gifts are real; she is bounded and giving costs her. Skeptics are sincere and wrong about the mind. **Firing pin:** [[The Spent Leaf]] (held during a Giving) · desk: [[The Remainder]]. Rungs 1–5 stay deniable; rung 6 can fire. Consequences if it lands are on the secret. Exposed-by (clue, not confirmation): notes tagged `keystone-adjacent`.
 - [[The Other Hands]] — 🟡 **household elaboration** (`reveal_tag: the-other-hands`): she is first of a real pantheon; she **Gives** only; lesser gods Strike at restricted doors under her allowance. Each Hand has a positive want; Orledd's receive and allowance strain/break are stated. Kumbaan: no Gifts, rare Struck. Do not confirm in player-facing notes. Keyed on the player notes whose GM walls name the household.
 - [[The Unspent]] — 🟡 **lesser household presence** (`reveal_tag: the-unspent`): outside the Five Hands; cannot Give or Strike; accepts the Long-Lived fringe's invented mask (*the Poured God* / *the Cup We Made*). Congregation: [[The Pourers]].
-- [[When the Fire Is Caught]] — 🔒 **Phoenix slot** (`reveal_tag: when-the-fire-is-caught`): one Gift; the original self ends at the death they cannot Rise from; harvested fire can keep a remnant walking; a new white-fire leaf may fall unseen. Remnant is not a Phoenix. Harvesters: [[The Protectors]]. Hidden PC → Story R.13.
+- [[When the Fire Is Caught]] — 🔒 **Phoenix slot** (`reveal_tag: when-the-fire-is-caught`): one Gift; the original self ends at the death they cannot Rise from; harvested fire can keep a remnant walking; a new white-fire leaf may fall unseen. Remnant is not a Phoenix. Harvesters: [[The Protectors]]. Hidden PC: [[A Hidden Phoenix]].
 
 ### Clue objects (player notes; confirmation stays in GM walls)
 - [[The Spent Leaf]] — colourless remainder of a Giving

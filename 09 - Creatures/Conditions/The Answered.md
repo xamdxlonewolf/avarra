@@ -1,8 +1,8 @@
 ---
 title: The Answered
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, djinn]
 aliases: [The Answered, Djinn, Jinni, Answerers]
@@ -14,7 +14,7 @@ path: Given only
 population: ~10%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Answered

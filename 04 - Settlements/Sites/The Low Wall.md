@@ -18,7 +18,7 @@ updated: 2026-08-31
 
 > **A wall that does not know its enemy.** In [[Orenbren]] lodging-country, off the present Near Mile and not inside the [[The Walled Book|Inner Close]], a low run of stone walks a fold of ground and stops. Everyday name: **the Low Wall.** Folk: **the Wall Against No One.** The Close will tell you it is theirs. It is a different colour. Chronicle leftovers: [[The Other Count]].
 
-> **Canon status.** 🟡 **Pre-Walk physical survival (Story R.9).** 🔒 **Do not date it.** 🔒 **Do not date the Tree from it.** 🔒 **Not the Inner Close.** Adventure-depth added Story R.11.
+> Pre-Walk stone. Undated. Not a date for the Tree. Not the Inner Close.
 
 ## At the table
 

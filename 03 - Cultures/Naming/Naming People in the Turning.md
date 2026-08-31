@@ -50,9 +50,9 @@ Do not invent a fourth "human language." This *is* the person-language of the Tr
 
 ## The four hearth-registers
 
-Each custom Kind's register is a **naming-language**: a mouth, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are 🔒 (user-approved 2026-08-23). The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay locked.
+Each custom Kind's register is a **naming-language**: a mouth, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are settled. The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay.
 
-Inventories were generated with a seeded LCG (the same family of entropy the `character-naming` skill uses). **When you need a new name, re-run from the seed and pick deep in the list.** Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*.
+**When you need a new name, pick deep in the list, or build from the recipe.** Do not invent a fox-name from first thought; that is how every Kitsune becomes *Yuki*.
 
 ### [[Kitsune]] — *Kusawe* (koo-SAH-way) 🔒
 

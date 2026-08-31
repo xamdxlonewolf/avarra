@@ -9,14 +9,14 @@ aliases: [World Map, The Turning Map, Canonical Map]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Known Map
 
-> **The labelled picture.** East is the old heart. West is the wave's front, then the wall. Names: [[Named Ground]]. The idea the picture is *of*: [[The World Frame]]. Production prompts and Azgaar paste-ins live in `14 - Assets/Maps/` and are not this note.
+> **The labelled picture.** East is the old heart. West is the wave's front, then the wall. Names: [[Named Ground]]. The idea the picture is *of*: [[The World Frame]]. How to *draw* it lives in `14 - Assets/Maps/` and is not this note.
 
-> **Canon status.** 🟡 **Finished visual (Story R.10)** — physical names, power seats, climate bands, and travel relationships are on the drawing. Coastlines are schematic, not a survey. Flip the compass if a later campaign wants the gradient on another axis; the **relative** positions stay.
+> Physical names, power seats, climate bands, and travel relationships are on the drawing. Coastlines are schematic, not a survey. Flip the compass if a later campaign wants the gradient on another axis; the **relative** positions stay.
 
 Reading **west → east** (left to right on the drawing) is the reach-gradient run *backward*: storm-wall → thin → high → full.
 

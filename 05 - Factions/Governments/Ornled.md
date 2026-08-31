@@ -8,18 +8,18 @@ tags: [faction, government, polity, heskoren, epic-7]
 aliases: [The Outer Ledger, Ornled-folk, the Secular Frontier]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: a Tree-poor frontier that improvises Tithe as slate and favor — no congregation-net
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Ornled
 
-> **The Outer Ledger.** *(orn-LED · [[The Old Tongue|orn]] "land" + [[The Old Tongue|ledd]] "to reckon"; clipped from *Ornledd*.)* Worn-to-eroded on purpose: on [[Heskoren]], dropping the sacred sound is a neglect, not just distance. Theology **low** · reach **low** · governance **low**. The un-built **secular frontier** — a Vaethorn without the faith, harder and colder. Required here by [[Polity Archetypes]] and [[Heskoren]]. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not write a Wild West. Do not write a noble-savage.
+> **The Outer Ledger.** *(orn-LED · [[The Old Tongue|orn]] "land" + [[The Old Tongue|ledd]] "to reckon"; clipped from *Ornledd*.)* Worn-to-eroded on purpose: on [[Heskoren]], dropping the sacred sound is a neglect, not just distance. Theology **low** · reach **low** · governance **low**. The **secular frontier** — a Vaethorn without the faith, harder and colder.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Ornled*; people **Ornled-folk**. Not *Leddoren* (the Fair Hand). Not *Ornthael* (the era). Not *Lestrand* (they are not rich). Reconstruction *Ornledd* unused — they do not tend old endings.
+> Everyday *Ornled*; people **Ornled-folk**. Not *Leddoren* (the Fair Hand). Not *Ornthael* (the era). Not *Lestrand* (they are not rich). Reconstruction *Ornledd* unused — they do not tend old endings.
 
 ## Overview (public)
 
@@ -44,6 +44,16 @@ Stay whole with what is in the pot. Do not owe a hymn for green. Trade with Nets
 **Its injustice.** **No net.** Vaethorn's cruelty is guilt; Ornled's is absence. A person who cannot barter their Tithe slides with no prayer and no guild. The loneliest unvouched in the world are not in the waiting-lands. They are next door, where no one is waiting with them.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Required here by [[Polity Archetypes]] and [[Heskoren]].
+- Do not flesh districts.
+- Do not write a Wild West.
+- Do not write a noble-savage.
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Required corner.** Low/low/low. Isolates theology against Vaethorn (same reach, same governance, faith burned out not up).
 - **Not freedom.** Light state plus thin Trees plus no faith-net is exposure. R2 holds.

@@ -8,18 +8,18 @@ tags: [faction, government, polity, strandoren, epic-7, story-r10]
 aliases: [The Night Shore, Netstrand-folk, the West Water]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: the open-ocean houses — Heskoren trade, hulls for hire, and a book of crossings that did not come back
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Netstrand
 
-> **The Night Shore.** *(NET-strand · eroded [[The Old Tongue|neth]] "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Everyday *the Night Shore*. Theology mid-low · reach high · governance low. Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10. Do not flesh districts. Do not make this the explorer-nation. Do not book Kumbaan. Do not re-book the First-Hand year.
+> **The Night Shore.** *(NET-strand · eroded [[The Old Tongue|neth]] "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Everyday *the Night Shore*. Theology mid-low · reach high · governance low.
 
-> **Canon status.** 🟡 **Named stub, sharpened.** Seed `20260827` (name) · terrain `20260831`. Everyday *Netstrand*; people **Netstrand-folk**. Why *night* sits on this shore is no longer a badge: they keep a watch for ships that do not arrive. One unlit berth still has no house attached. Leave that.
+> Everyday *Netstrand*; people **Netstrand-folk**. Why *night* sits on this shore is no longer a badge: they keep a watch for ships that do not arrive. One unlit berth still has no house attached. Leave that.
 
 ## Overview (public)
 
@@ -46,6 +46,16 @@ Quote the far crossing. Keep the Heskoren run profitable. Charter hulls to the O
 **Its injustice.** **The crossing as inventory.** Prestige priced; necessity billed; a neighbour's week to a waiting cluster is a line on a docket. Kindness for those who can book. The origin-year they do not own still uses their wood. A lamp kept on a name that will not come back is charged as *watch*, not as grief.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10.
+- Do not flesh districts.
+- Do not make this the explorer-nation.
+- Do not book Kumbaan.
+- Do not re-book the First-Hand year.
+- **Canon status.** 🟡 **Named stub, sharpened.**
+- Seed `20260827` (name) · terrain `20260831`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Night is a job, not a badge.** They light for ships that quoted last year. Mirror of Vaethorn's wait; do not collapse them (one is gospel, one is inventory).
 - **Inscrutable (leave it).** One unlit berth with no house attached. Night-watches, storm-wall dark, a name the dark book will not take — pick in play, or never. Do not solve it with a Watching eve-custom that does not belong this far west.

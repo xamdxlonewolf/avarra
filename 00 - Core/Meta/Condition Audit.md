@@ -12,7 +12,7 @@ updated: 2026-08-30
 
 # Condition Audit
 
-> **What this is.** A design/balance review of all ten Conditions (see [[Conditions]]), run 2026-08-19 before building society on top of them. Findings are triaged **Tier 1** (fix before building forward), **Tier 2** (cheap consistency cleanup), **Tier 3** (taste-forks). **✅ ALL TIERS RESOLVED (2026-08-19)** — every item closed, all 10 Condition cards at `note_status: locked`. Kept as a running record (the pass-two convention from [[Roadmap]]).
+> **What this is.** A design/balance review of all ten Conditions (see [[Conditions]]), run 2026-08-19 before building society on top of them. Findings are triaged **Tier 1** (fix before building forward), **Tier 2** (cheap consistency cleanup), **Tier 3** (taste-forks). **✅ ALL TIERS RESOLVED (2026-08-19)** — every item closed. Cards are `note_status: canon` (Story R.13 retired `locked`). Kept as a running record (the pass-two convention from [[Roadmap]]).
 
 ## Verdict in one line
 

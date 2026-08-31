@@ -2,7 +2,7 @@
 title: Selkie
 type: people
 visibility: player
-note_status: locked
+note_status: canon
 status: active
 tags: [culture, ancestry, kind, custom-ancestry]
 aliases: [The Sea-Born, The Skin-Kin]
@@ -11,7 +11,7 @@ language: Sakoa (hearth-register); daily speech is the local Maiethren drift
 homeland: the coasts — densest on [[Strandoren]] (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Selkie

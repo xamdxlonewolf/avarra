@@ -1,13 +1,13 @@
 ---
 title: Conditions
 type: moc
-visibility: gm
-note_status: draft
+visibility: player
+note_status: fleshed
 status: active
 tags: [moc, condition, index, design-hub]
 aliases: [The Conditions, Condition Roster, Becomings]
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Conditions — Index
@@ -53,26 +53,35 @@ Tithe clocks drain or fill on a **long rest** unless the card names a different 
 There are **9 Conditions a person can be Given or Struck with.** The **10th — [[The Unbound]] — is not a starting Condition:** it is the downstream state a [[Bound]] enters when a term-limited contract ends without another being signed. You can only become Unbound *through* Bound (in play or arranged at session zero). So: **9 to choose from, 10 in the world.**
 
 ### The 9 selectable Conditions
-| Condition | Monster | Standing | Path | Share (of all people) | Given / Struck | Mechanics |
-|---|---|---|---|---|---|---|
-| [[Long-Lived]] | vampire | rare / revered | Given | ~2.5% | all Given | R.2 repaired (2026-08-30) |
-| [[Two-Bodied]] | werewolf | common | Given | ~18% | all Given | R.2 repaired (2026-08-30) |
-| [[Returned]] | zombie | normal | Struck | ~7% | all Struck | R.2 repaired (2026-08-30) |
-| [[Bound]] | demon (by contract) | feared | Struck | ~5% contract-lane | all Struck; includes the Unbound | unchanged this story |
-| [[Far-Voiced]] | siren | revered | Both | ~12% | ~11% Given / ~1% Struck | rest trigger named (2026-08-30) |
-| [[The Stilled]] | gorgon | feared / regulated | Both | ~7% | ~6% Given / ~1% Struck | R.2 repaired (2026-08-30) |
-| [[The Answered]] | djinn | wildcard | Given | ~10% | all Given | R.2 repaired (2026-08-30) |
-| [[The Taken-In]] | leshy | looked-down / frontier | Both | ~13% | ~12% Given / ~1% Struck | rest clock cleaned (2026-08-30) |
-| [[Phoenix]] | phoenix | legendary | Given | <0.1% (one at a time) | all Given | R.2 repaired (2026-08-30) |
+| Condition | Monster | Standing | Path | Share (of all people) | Given / Struck |
+|---|---|---|---|---|---|
+| [[Long-Lived]] | vampire | rare / revered | Given | ~2.5% | all Given |
+| [[Two-Bodied]] | werewolf | common | Given | ~18% | all Given |
+| [[Returned]] | zombie | normal | Struck | ~7% | all Struck |
+| [[Bound]] | demon (by contract) | feared | Struck | ~5% contract-lane | all Struck; includes the Unbound |
+| [[Far-Voiced]] | siren | revered | Both | ~12% | ~11% Given / ~1% Struck |
+| [[The Stilled]] | gorgon | feared / regulated | Both | ~7% | ~6% Given / ~1% Struck |
+| [[The Answered]] | djinn | wildcard | Given | ~10% | all Given |
+| [[The Taken-In]] | leshy | looked-down / frontier | Both | ~13% | ~12% Given / ~1% Struck |
+| [[Phoenix]] | phoenix | legendary | Given | <0.1% (one at a time) | all Given |
 
 ### The downstream 10th
-| Condition | Monster | Standing | Path | Share | Status |
-|---|---|---|---|---|---|
-| [[The Unbound]] *(colloq. the Hollow)* | the price of a contract | pitied / uneasy | Struck — **chains off [[Bound]] only** | ~1.5%, *inside* Bound's ~5% | R.2 repaired (2026-08-30) |
+| Condition | Monster | Standing | Path | Share |
+|---|---|---|---|---|
+| [[The Unbound]] *(colloq. the Hollow)* | the price of a contract | pitied / uneasy | Struck — **chains off [[Bound]] only** | ~1.5%, *inside* Bound's ~5% |
 
 **The Kept** — the normal ~25% who receive no Condition (the Tree hugs them; wanted in their own right).
 **The Given-Over** *(title, not a Condition)* — the world's name for a Bound who signs contract after contract until the being effectively owns them; an NPC-tier fate. See [[Bound]].
 
 ## Links
-- [[The Premise]] · [[Build Plan]] · [[Condition Audit]] · [[09 - Creatures]]
-- GM: [[When the Fire Is Caught]] (one Gift; remnant is not a Phoenix)
+- [[The Premise]] — shares and the engine
+- [[At the Table]] — creation, Kept deal, Struck-in-play
+- [[Kind Heritage]] — Kind features and mixes
+- [[A Hidden Phoenix]] — the other Phoenix seat
+- [[09 - Creatures]] · [[Dangers of the Turning]]
+
+## GM Notes
+
+- Cards and this hub are `visibility: player` so export keeps the mechanics. Design history and harvest rules stay behind walls or in `11 - Secrets`.
+- One Gift: [[When the Fire Is Caught]]. Harvesters: [[The Protectors]]. Hidden PC agency: [[A Hidden Phoenix]].
+- Balance record: [[Condition Audit]]. Tracker: [[Build Plan]] · [[Roadmap]].

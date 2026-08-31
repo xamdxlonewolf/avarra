@@ -1,8 +1,8 @@
 ---
 title: The Stilled
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, struck, gorgon]
 aliases: [Stilled, Gorgon, Grey-Touched, Stone-Kissed]
@@ -14,7 +14,7 @@ path: Both
 population: ~7%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # The Stilled

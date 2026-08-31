@@ -2,7 +2,7 @@
 title: Yumboe
 type: people
 visibility: player
-note_status: locked
+note_status: canon
 status: active
 tags: [culture, ancestry, kind, custom-ancestry, yumboe]
 aliases: [The Good People, Bakhna Rakhna, The Hill-Folk, The Moon-Waked, The Hidden Folk]

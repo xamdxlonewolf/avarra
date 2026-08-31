@@ -1,8 +1,8 @@
 ---
 title: Returned
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, struck, zombie]
 aliases: [The Returned, Zombie, Reanimated, The Unfinished]
@@ -14,7 +14,7 @@ path: Struck only
 population: ~7%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Returned

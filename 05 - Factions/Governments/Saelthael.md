@@ -8,18 +8,18 @@ tags: [faction, government, polity, maiethorn, rain-shadow, epic-7]
 aliases: [The Sown Tree, the Rain-Shadow Realm, Saelthael-folk]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: dry-country Tree-seats that still walk west after the core stopped
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Saelthael
 
-> **The Sown Tree.** *(SAYL-thale · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree" = "the sown Tree.")* Conservative drift: *th* kept even in thin soil — they are still the Motherland. Theology high · reach **mid-low** (wells, not woods) · governance low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not make a Fox kingdom.
+> **The Sown Tree.** *(SAYL-thale · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree" = "the sown Tree.")* Conservative drift: *th* kept even in thin soil — they are still the Motherland. Theology high · reach **mid-low** (wells, not woods) · governance low.
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Saelthael*; people **Saelthael-folk**. Not *Saelorn* (a month). Not *Saelhael* (greens-keepers' liturgy). Shares *sael* with [[Saelvaeth]] on purpose — sowing on two continents, Clock 2 unfinished at the origin. Playable square: [[Ornsael]] (Story 7.2). **Not Ornsael's kingdom**; Ornsael is not this power's capital.
+> Everyday *Saelthael*; people **Saelthael-folk**. Not *Saelorn* (a month). Not *Saelhael* (greens-keepers' liturgy). Shares *sael* with [[Saelvaeth]] on purpose — sowing on two continents, Clock 2 unfinished at the origin. **Not Ornsael's kingdom**; Ornsael is not this power's capital.
 
 ## Overview (public)
 
@@ -44,6 +44,15 @@ Keep grafts alive in thin soil. Keep the west-road open. Refuse the core's story
 **Its injustice.** The motherland treats their waiting as a **local soil-problem** (true as far as it goes) and as a slight against the origin. Plenty next door; pilgrimage as a leftover they cannot retire. Vaethorn-guilt imported to sand that never asked for it.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not make a Fox kingdom.
+- Playable square: [[Ornsael]] (Story 7.2).
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
+- Seat stays unnamed (three corner seats already named).
 
 - **Not a Kitsune nation.** Sands-Fox densest. Mixed Kinds. Do not put ears on the flag.
 - **Pair with Saelvaeth.** Same root, two clocks' worth of planting. Do not narrate Saelthael as "history" and Saelvaeth as "frontier flavour."

@@ -12,14 +12,14 @@ seat: unnamed — do not make Harrow's the capital
 public_face: the live edge of the Grafting — a march, not a finished kingdom
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Saelvaeth
 
-> **The Sown Waiting.** *(sayl-VAYTH · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|vaeth]] "the waiting" = "sowing into the waiting.")* Worn drift: *th* kept — they still reach for the holy words because the wave is *here*. Theology mid-high · reach low · governance mid-low. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. **[[Harrow's Green]] sits in its orbit, not as a capital.** Do not give this march the next scion as a reward.
+> **The Sown Waiting.** *(sayl-VAYTH · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|vaeth]] "the waiting" = "sowing into the waiting.")* Worn drift: *th* kept — they still reach for the holy words because the wave is *here*. Theology mid-high · reach low · governance mid-low. **[[Harrow's Green]] sits in its orbit, not as a capital.**
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Saelvaeth*; people **Saelvaeth-folk**. Not *Vaethorn* (waiting-*land*). Not *Saelthael* (the Rain-Shadow's sown *Tree*). Not *Saelorn* (a month). Shares *sael* with Saelthael on purpose: planting on two continents. Playable squares in orbit: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] (Story 7.2). Still not a capital. [[Eolvaeth]] is [[Polity Archetypes|Vaethorn]]'s seat, not this march's.
+> Everyday *Saelvaeth*; people **Saelvaeth-folk**. Not *Vaethorn* (waiting-*land*). Not *Saelthael* (the Rain-Shadow's sown *Tree*). Not *Saelorn* (a month). Shares *sael* with Saelthael on purpose: planting on two continents. [[Eolvaeth]] is [[Polity Archetypes|Vaethorn]]'s seat, not this march's.
 
 ## Overview (public)
 
@@ -44,6 +44,14 @@ Keep taken grafts alive. Host the neighbour's week. Argue the next pot. Survive 
 **Its injustice.** **The queue as a border.** Harrow's luck is politics. The hamlets can see the canopy and send children anyway. Folk-right temptation in a kitchen drawer. Spreading Trees did not make the march kind.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not give this march the next scion as a reward.
+- Playable squares in orbit: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] (Story 7.2). Still not a capital.
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
 
 - **Do not make Harrow's the capital.** Named stub stays a town. Saelvaeth is the march around it.
 - **Do not make Harrow's the good town that waited faithfully.** Horticulture plus queue ([[Harrow's Green]] GM Notes).

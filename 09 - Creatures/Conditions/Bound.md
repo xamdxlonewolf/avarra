@@ -1,8 +1,8 @@
 ---
 title: Bound
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, struck, demon, contract]
 aliases: [The Bound, Demon, Contract-Sworn, Oath-Keepers]
@@ -12,9 +12,9 @@ monster: demon (by contract)
 standing: feared
 path: Struck only
 population: ~5%
-reveals: [the-other-hands]
+reveals: []
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Bound

@@ -16,9 +16,9 @@ updated: 2026-08-31
 
 # Maiethlir
 
-> **Threnmaieth's seat: an origin pilgrimage-town under a roll, not the grove.** *(my-eth-LEER · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|lir]] "thaw" = "the Mother's thaw.")* Conservative drift: *th* kept. Everyday *Maiethlir*. The capital of [[Polity Archetypes|Threnmaieth]] because this is where they started counting a hearth that was already holy — not because they own [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* this country and is not its crown. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
+> **Threnmaieth's seat: an origin pilgrimage-town under a roll, not the grove.** *(my-eth-LEER · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|lir]] "thaw" = "the Mother's thaw.")* Conservative drift: *th* kept. Everyday *Maiethlir*. The capital of [[Polity Archetypes|Threnmaieth]] because this is where they started counting a hearth that was already holy — not because they own [[Turning Tree|Thaeloren]]. The [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* this country and is not its crown.
 
-> **Canon status.** 🟡 **Playable seat.** Speaker-name *Rithim* 🟡. **Do not capture the First Seat.** Do not clone [[The Third Hearth]] or Brenthael as this capital. Do not let the census be the leftover-postcard. Do not clone Road-hands or [[The Slide]] as a district.
+> Speaker: *Rithim*. The First Seat is not this city's. This is not [[The Third Hearth]] and not Brenthael. The leftover is not "the census" as a postcard.
 
 ## At the table
 

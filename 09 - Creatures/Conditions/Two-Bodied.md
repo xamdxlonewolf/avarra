@@ -1,8 +1,8 @@
 ---
 title: Two-Bodied
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, werewolf, shifter]
 aliases: [The Two-Bodied, Werewolf, Animal-Shifters, The Other Self]
@@ -14,7 +14,7 @@ path: Given only
 population: ~18%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Two-Bodied

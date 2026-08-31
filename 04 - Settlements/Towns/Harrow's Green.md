@@ -16,9 +16,9 @@ updated: 2026-08-31
 
 # Harrow's Green
 
-> **A live-front Tree-town.** The luckiest kind of [[Heskoren]] square: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The neighbour's canopy. The Harrow-sentence — *we Turned at Harrow's Tree before we had our own* — is how new towns talk everywhere ([[Turning Tree]]); here it is the decade. Fleshed at square scale for [[Roadmap|Story 7.2]] (`settlement-design`: site, leftover, one tension — not a district grid).
+> **A live-front Tree-town.** The luckiest kind of [[Heskoren]] square: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The neighbour's canopy. The Harrow-sentence — *we Turned at Harrow's Tree before we had our own* — is how new towns talk everywhere ([[Turning Tree]]); here it is the decade.
 
-> **Canon status.** 🟡 **Playable square.** Everyday *Harrow's green* was already a Seat sentence ([[The Tree-Wardens|Cutting-leave]]); liturgical unknown on purpose. Warden-name *Haelin* 🟡. **Do not make it a capital** of [[Saelvaeth]]. Do not give it the next scion as a reward. Do not clone [[The Slide]] or Road-hands as a district.
+> Everyday *Harrow's green* was already a Seat sentence ([[The Tree-Wardens|Cutting-leave]]). Warden: *Haelin*. Not a capital of [[Saelvaeth]]. The next scion is not a reward.
 
 ## At the table
 

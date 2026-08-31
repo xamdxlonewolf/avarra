@@ -16,9 +16,9 @@ updated: 2026-08-31
 
 # Orentel
 
-> **Lestrand's seat: a salt quay, not a desk wearing a crown.** *(or-EN-tel · eroded [[The Old Tongue|oren]] + [[The Old Tongue|thael]] = "the witnessing-Tree," *th* worn to *t*.)* Everyday *Orentel*; Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. The capital of [[Polity Archetypes|Lestrand]] because notes and berths meet here, not because a house sits a throne. [[The White Note House]] is on the third quay, north side — placed, not crowned. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
+> **Lestrand's seat: a salt quay, not a desk wearing a crown.** *(or-EN-tel · eroded [[The Old Tongue|oren]] + [[The Old Tongue|thael]] = "the witnessing-Tree," *th* worn to *t*.)* Everyday *Orentel*; Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. The capital of [[Polity Archetypes|Lestrand]] because notes and berths meet here, not because a house sits a throne. [[The White Note House]] is on the third quay, north side — placed, not crowned.
 
-> **Canon status.** 🟡 **Playable seat.** Factor-name *Sorim* 🟡. **Do not make [[The White Note House|Ledan]] the government.** Do not clone [[Harrow's Green]]'s stone or [[Ornsael]]'s well as the quay's only texture. Do not clone Road-hands or [[The Slide]] as a district.
+> Factor: *Sorim*. [[The White Note House|Ledan]] is not the government.
 
 ## At the table
 

@@ -8,18 +8,18 @@ tags: [faction, government, polity, strandoren, fair-hand, epic-7]
 aliases: [The Reckoned Gift, Leddvael-folk, the Signing-Coast]
 world: The Turning
 category: government
-seat: unnamed — the three corner seats are named (Story 7.3); this power's seat stays unnamed
+seat: unnamed
 public_face: the stretch of water that made the Fair Hand a civic rite
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Leddvael
 
-> **The Reckoned Gift.** *(led-VAYL · [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|vael]] "gift" = "the gift reckoned.")* Eroded drift. Motherfaith theology **low**; [[The Fair Hand]] worn as **civic law**. Reach high · governance **mid**. Named-stub for [[Roadmap|Story 7.1]]. Do not flesh districts. Do not clone the [[The Book-Hands]] as a state church. **They do not rewrite Bound Terms.**
+> **The Reckoned Gift.** *(led-VAYL · [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|vael]] "gift" = "the gift reckoned.")* Eroded drift. Motherfaith theology **low**; [[The Fair Hand]] worn as **civic law**. Reach high · governance **mid**. **They do not rewrite Bound Terms.**
 
-> **Canon status.** 🟡 **Named stub.** Seed `20260827`. Everyday *Leddvael*; people **Leddvael-folk**. Not *Leddoren* (the faith's own-name). Not *Lestrand* (the premier coast). Not *Leddhael* (Book-hands' liturgy). The name is the doctrine: a gift is a bargain priced.
+> Everyday *Leddvael*; people **Leddvael-folk**. Not *Leddoren* (the faith's own-name). Not *Lestrand* (the premier coast). Not *Leddhael* (Book-hands' liturgy). The name is the doctrine: a gift is a bargain priced.
 
 ## Overview (public)
 
@@ -42,6 +42,14 @@ Keep signings clear. Vouch the Struck briskly as a later contract. Treat Motherf
 **Its injustice.** **Bargain-theology as statute.** A Given child is a term opened. A household that insists the colour was a gift is a bad debtor in a signing-town. The Bound are safe and *over-read* — the world's contract-pillar asked to be the world's whole person. No villain-faith; a sincere ledger laid over real Conditions.
 
 ## GM Notes
+
+- **Production (R.13).** Moved off the player body:
+- Named-stub for [[Roadmap|Story 7.1]].
+- Do not flesh districts.
+- Do not clone the [[The Book-Hands]] as a state church.
+- **Canon status.** 🟡 **Named stub.**
+- Seed `20260827`.
+- Seat stays unnamed (three corner seats already named).
 
 - **The Fair Hand is not villain-theology** ([[Strandoren]] GM Notes). Leddvael is that reading made civic. Wrong about *who* (no bargain was struck); sincere; useful; crushing in the specific case.
 - **Do not rewrite Bound Terms.** Book-hands' lock travels with the polity.

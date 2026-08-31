@@ -16,9 +16,9 @@ updated: 2026-08-31
 
 # Eolvaeth
 
-> **Vaethorn's seat: a pilgrim-edge town, not a live-front luck.** *(ay-ohl-VAYTH · [[The Old Tongue|eol]] "hinge" + [[The Old Tongue|vaeth]] "the waiting" = "the hinge-waiting.")* Worn drift: *th* kept. Everyday pulpit *Eolvaeth*; folk-speech **"Elvaeth"** *(el-VAYTH)*. The capital of [[Polity Archetypes|Vaethorn]] because people walk *here to wait*, not because the canopy is a certainty. Fleshed at seat scale for [[Roadmap|Story 7.3]] (`settlement-design`: site, leftover, one tension — enough street to play a capital, not a ward-grid).
+> **Vaethorn's seat: a pilgrim-edge town, not a live-front luck.** *(ay-ohl-VAYTH · [[The Old Tongue|eol]] "hinge" + [[The Old Tongue|vaeth]] "the waiting" = "the hinge-waiting.")* Worn drift: *th* kept. Everyday pulpit *Eolvaeth*; folk-speech **"Elvaeth"** *(el-VAYTH)*. The capital of [[Polity Archetypes|Vaethorn]] because people walk *here to wait*, not because the canopy is a certainty.
 
-> **Canon status.** 🟡 **Playable seat.** Warden-name *Vaethod* 🟡. **Not [[Harrow's Green]]. Not [[The Three Hamlets Past the Ford]]. Not [[Saelvaeth]]'s march.** Do not clone Road-hands or [[The Slide]] as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
+> Warden: *Vaethod*. **Not [[Harrow's Green]]. Not [[The Three Hamlets Past the Ford]]. Not [[Saelvaeth]]'s march.** This Tree does not have Harrow's luck.
 
 ## At the table
 
@@ -122,6 +122,7 @@ Vaethod cannot afford to see that "I have sent before" is the Harrow-sentence sa
 
 ## GM Notes
 
+- **Production (R.13).** Seat scale was Story 7.3. Do not clone Road-hands or the Slide as a district. Do not give this Tree Harrow's luck to make a capital feel like a reward.
 - **Do not make Eolvaeth the "good town" that waited faithfully.** They were an early pot that stayed thin. Congregation did the rest. Luck is horticulture plus the queue. Vaethorn will preach otherwise. History does not agree.
 - **Not Saelvaeth's march.** Harrow's is luck you can see from a ford. Eolvaeth is a gospel you walk to. Pair them in a campaign week if you want both leftover jobs of Heskoren visible; do not collapse them into one frontier flavour.
 - **One leftover job.** Devotion / the wait as destination. A cohort sent toward Saelvaeth is friction, not a second theme. Prestige that lands here is lost, rich, or lying.

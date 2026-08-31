@@ -1,8 +1,8 @@
 ---
 title: Long-Lived
 type: condition
-visibility: gm
-note_status: locked
+visibility: player
+note_status: canon
 status: active
 tags: [condition, becoming, given, vampire]
 aliases: [The Long-Lived, Vampire, Keepers, Ageless]
@@ -14,7 +14,7 @@ path: Given only
 population: ~2.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Long-Lived
