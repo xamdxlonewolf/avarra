@@ -465,7 +465,7 @@ python3 -m pip install --upgrade pillow
 python3 "14 - Assets/Maps/label_heskoren_atlas.py"
 ```
 
-That writes `Heskoren-Atlas-Labeled.png`. Relative seats follow the Known Map schematic; incidental generated roofs and field-grids stay unnamed. The unlabeled sheet remains the selected handout.
+That writes `Heskoren-Atlas-Labeled.png`. Relative seats follow the Known Map schematic and the settlement notes (east vale = Eolvaeth; west pocket = Ornled; the West Water is the *east* sea, toward Strandoren). Incidental generated roofs and field-grids stay unnamed. The unlabeled sheet remains the selected handout.
 
 Suggested first labels, not a new gazetteer:
 

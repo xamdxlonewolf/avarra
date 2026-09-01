@@ -106,9 +106,9 @@ Tried putting names on the painting even though the generate prompts say **NO TE
 | File | What happened |
 |---|---|
 | `label-trials/Heskoren-Atlas-labeled-gen.png` | Image model, reference-locked. Some spellings landed. It **redrew** the continent (snow, vertical title, stacked names). Not a copy of the master. |
-| `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Dots sit on painted hearths; type is offset into water or clear ground so the title and names do not sit on the roofs. Named: Eolvaeth, Harrow's, Brenod / Vaelun / Ornath, the First Bowl, Ornled; west face also has the last capes, marches, slate-shore, toward the storm-wall. Extra generated roof-clusters stay unnamed. |
+| `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Seats follow [[Named Ground]] and [[The Known Map]], not the largest painted cluster. **West (left):** last capes, marches, slate-shore, Ornled, toward the storm-wall. **East (right):** frontier coast, the West Water (to Strandoren), Eolvaeth / waiting vale, Harrow's and the Rise-water hamlets, the First Bowl. Vaelhesk is area-type over the south Yield. The south-east field-grid and extra roof-clusters stay unnamed. The north-east cloud bank is weather, not the storm-wall. |
 
-The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
+The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. If a painted cluster and a note disagree, the note wins. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
 
 The image-model attempt, for comparison:
 
