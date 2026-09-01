@@ -18,7 +18,7 @@ updated: 2026-09-01
 
 ## Active next
 
-**Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. Sacred Core and Rain-Wall are distinct generated region paintings inspired by Maiethorn (forest heart with one exceptional Tree versus highland divide), styled to the other atlas sheets. Chart-run and West Water remain Strandoren parent windows. [[The Atlas Sheets]] and [[Map Generation Tooling]] record the contract. Incidental generated detail is non-canon. World book untouched.
+**Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. Regional sheets that share a parent are distinct generated paintings, not continent crops: Sacred Core versus Rain-Wall (Maiethorn); Chart-run versus West Water (Strandoren). Styled to the rest of the atlas. [[The Atlas Sheets]] and [[Map Generation Tooling]] record the contract. Incidental generated detail is non-canon. World book untouched.
 
 **Leftovers 1 / 3 / 7 / 9 done (2026-08-31).** Conditions cross-link · climate/ecology · sick-Tree / guest-grove · revelation architecture. [[Roadmap#Epic 10 — Campaign|Epic 10]] Story 10.1 remains done — kit [[The Opening]], hub [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing; **C-02** world-book rebuild; **C-06** Kumbaan Tree-hedge, 2026-08-31).
 

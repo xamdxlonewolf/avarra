@@ -116,15 +116,11 @@ and west left. Do not copy the whole continent into the frame.
 | R7 Live Front | `prototype3/Heskoren-Atlas.png` |
 | R8 Waiting Vale | `prototype3/Heskoren-Atlas.png` |
 
-**Sacred Core and Rain-Wall** are generated regional paintings inspired by `prototype3/Maiethorn-Atlas.png` and styled to the other region sheets. They must remain **visibly different subjects**: forest heart with one exceptional Tree versus highland divide. Do not rebuild them as overlapping crops of the same continent sheet.
+**Sacred Core and Rain-Wall** are generated regional paintings inspired by `prototype3/Maiethorn-Atlas.png`. They must remain **visibly different subjects**: forest heart with one exceptional Tree versus highland divide.
 
-**Chart-run and West Water** remain Strandoren parent windows:
+**Chart-run and West Water** are generated regional paintings inspired by `prototype3/Strandoren-Atlas.png`. They must remain **visibly different subjects**: interior river-to-estuary hinterland versus open Night Shore / West Water. Do not rebuild either pair as overlapping crops of the same continent sheet.
 
-```bash
-python3 "14 - Assets/Maps/build_prototype3_regions.py"
-```
-
-That script must not write Sacred Core or Rain-Wall.
+`build_prototype3_regions.py` is retired and must not overwrite those four files.
 
 **Visual review gate.** Reject a regional render if it is the same composition as another sheet, copies a whole continent into the frame, rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark weather-forward portolan hand, muted moss/umber land, iron-gall detail, and bronze frame.
 
