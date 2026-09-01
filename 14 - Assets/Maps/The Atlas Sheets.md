@@ -89,7 +89,8 @@ No graft. No city. The wall is the climate.
 ## Regional rebuild review — 2026-09-01
 
 - All eight sheets use the dark, weather-forward Prototype 3 portolan hand, slate-teal water, and bronze frame.
-- **Continuity correction:** Sacred Core, Rain-Wall, Chart-run, and West Water were re-reviewed after the first regional pass and replaced with literal crops enlarged from their parent masters. Their visible terrain and hydrology are now parent pixels, not image-generation reinterpretations. Rebuild them with `build_prototype3_regions.py`.
+- **Continuity correction:** Sacred Core, Rain-Wall, Chart-run, and West Water were replaced with literal parent windows. Rebuild them with `build_prototype3_regions.py`.
+- **Scale correction:** those four are 1344 × 896 windows of the 1536 × 1024 masters (atlas scale, 1.14× fit, no extra sharpening). Local close-up crops are rejected; they looked zoomed-in and went soft.
 - Old Crossing retains the two facing Old World shores. Chart-run runs east into its established estuary. West Water remains the sparse open-ocean face.
 - Sacred Core keeps Thaeloren as the sole exceptional Tree; every other grove or graft is an ordinary map mark.
 - Rain-Wall uses offset weathered massifs, broad saddles, branching foothills, river-cut notches, and pass gaps rather than a straight ridge.

@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Build selected regional sheets as literal Prototype 3 master enlargements.
+"""Build selected regional sheets as literal Prototype 3 master windows.
 
 These four sheets previously drifted because image generation reinterpreted
-their geography. Each output now starts with an exact crop of its continent
-master. Resampling reveals the existing terrain at regional scale without
-inventing a new coastline, watershed, or river network.
+their geography, then looked zoomed and soft because small crops were
+enlarged. Each output is now a wide exact crop of its continent master,
+fitted to the atlas sheet with only a 1.14x resample so parent pixels stay
+legible. Do not use local close-up windows.
 """
 
 from __future__ import annotations
@@ -13,7 +14,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 import numpy as np
-from PIL import Image, ImageEnhance, ImageFilter, PngImagePlugin
+from PIL import Image, ImageFilter, PngImagePlugin
 
 
 ROOT = Path(__file__).resolve().parent
@@ -29,27 +30,30 @@ class Region:
 
 
 # Crop boxes are (left, top, right, bottom) in the 1536 x 1024 masters.
-# Every box preserves the output's 3:2 aspect ratio.
+# Every regional window is 1344 x 896 (3:2). That is most of the parent
+# sheet: enough focus to name a region, enough context to read as atlas
+# scale, and only a 1.14x fit onto the 1536 x 1024 output. Tighter crops
+# (local close-ups) are rejected because they look zoomed and go soft.
 REGIONS = (
     Region(
         "Sacred-Core-Atlas.png",
         "Maiethorn-Atlas.png",
-        (450, 330, 930, 650),
+        (28, 64, 1372, 960),
     ),
     Region(
         "Rain-Wall-Atlas.png",
         "Maiethorn-Atlas.png",
-        (500, 30, 1100, 430),
+        (104, 64, 1448, 960),
     ),
     Region(
         "Chart-Run-Atlas.png",
         "Strandoren-Atlas.png",
-        (360, 160, 1320, 800),
+        (192, 64, 1536, 960),
     ),
     Region(
         "West-Water-Atlas.png",
         "Strandoren-Atlas.png",
-        (0, 280, 960, 920),
+        (0, 128, 1344, 1024),
     ),
 )
 
@@ -104,12 +108,12 @@ def build(region: Region) -> None:
     if master.size != SIZE:
         raise ValueError(f"{parent_path} must be {SIZE}, found {master.size}")
 
+    left, top, right, bottom = region.crop
+    if right - left != 1344 or bottom - top != 896:
+        raise ValueError(f"{region.output} crop must be 1344x896, found {region.crop}")
     crop = master.crop(region.crop)
+    # LANCZOS only: extra sharpening made the mild upsample look crunchy.
     image = crop.resize(SIZE, Image.Resampling.LANCZOS)
-    # A restrained local-scale lift compensates for enlargement without
-    # changing Prototype 3's palette or weather.
-    image = ImageEnhance.Sharpness(image).enhance(1.12)
-    image = ImageEnhance.Contrast(image).enhance(1.02)
     image = apply_master_frame(image, master)
 
     metadata = PngImagePlugin.PngInfo()

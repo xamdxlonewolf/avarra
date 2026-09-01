@@ -122,9 +122,9 @@ Four sheets that failed the visual parent-continuity check are now built as lite
 python3 "14 - Assets/Maps/build_prototype3_regions.py"
 ```
 
-The script records the parent filename and crop rectangle in each PNG. Sacred Core and Rain-Wall come directly from Maiethorn; Chart-run and West Water come directly from Strandoren. It applies the parent's own bronze rules and corner ornament after enlargement. Do not replace those four with independently generated scenes: local detail is allowed only as an overpaint that leaves the inherited pixels legible.
+The script records the parent filename and crop rectangle in each PNG. Sacred Core and Rain-Wall come directly from Maiethorn; Chart-run and West Water come directly from Strandoren. Each window is **1344 × 896** on the 1536 × 1024 master (atlas scale, 1.14× fit, no extra sharpening). Do not replace those four with independently generated scenes, and do not use local close-up crops: they read as zoomed-in and go soft.
 
-**Visual review gate.** Reject a regional render if it becomes a whole continent or island, rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark teal weather, muted moss/umber land, iron-gall detail, and bronze frame.
+**Visual review gate.** Reject a regional render if it rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject a parent-window sheet if the crop is tighter than 1344 × 896 or needs more than a 1.2× resample. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark teal weather, muted moss/umber land, iron-gall detail, and bronze frame.
 
 **Interpolation remains non-canon.** Minor tributaries, unnamed roofs, exact paths, field divisions, forest edges, rocks, and weather decoration are rendering texture only. A generated detail enters canon only after it is reconciled and named in the vault.
 
