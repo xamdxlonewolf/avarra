@@ -9,7 +9,7 @@ aliases: [World Map, The Turning Map, Canonical Map]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # The Known Map
@@ -25,7 +25,7 @@ Kumbaan  ~storm-wall~  HESKOREN  ==West Water==  STRANDOREN  ==Old Crossing==  M
  (none)                 thin                      high                         full
 ```
 
-The SVG is the **labelled schematic** — placement only, light on terrain. Paintings that look walked live in `14 - Assets/Maps/` (atlas sheets + prompts). A painting is still not a survey; you add the names after. Do not copy extra islands off the world sheet.
+The SVG is the **labelled schematic** — placement only, light on terrain. The selected label-free paintings live in `14 - Assets/Maps/` ([[The Atlas Sheets]]; Prototype 3). Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey; add names from this schematic and [[Named Ground]] rather than inventing them from visual texture.
 
 ![[14 - Assets/Maps/The-Turning-Known-Map.svg]]
 

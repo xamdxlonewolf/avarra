@@ -8,18 +8,18 @@ tags: [asset, map, atlas, epic-r, story-r10]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # The Atlas Sheets
 
 > **Label-free paintings, not surveys.** Generated from the pack in [[Map Generation Tooling]]. Names and travel: [[Named Ground]]. Placement: [[The Known Map]] (SVG). If a painting and a note disagree, the note wins.
 
-> **Handouts.** Continent and region sheets can go to the table *unlabelled*. Do **not** hand the world sheet as canon — it invents extra islands. Composite C1–C4 if you need one page.
+> **Selected atlas (2026-09-01): Prototype 3.** The main world and continent filenames below are promoted copies of the matched Prototype 3 masters. The world sheet is composited from those exact landforms, so coastlines and physical features agree across scales.
 
-> **Three new matched options:** [[Atlas Prototype Review]]. Each set contains a world sheet plus reference-matched Kumbaan, Heskoren, Strandoren, and Maiethorn zooms. The existing images below remain unchanged.
+> **Handouts.** These label-free sheets can go to the table. They are still paintings rather than surveys; [[The Known Map]] and [[Named Ground]] remain authoritative for names and placement. Prototypes 1 and 2 remain available in [[Atlas Prototype Review]] as rejected alternatives, not parallel canon.
 
-## Continents
+## Selected continents
 
 ### Maiethorn (C1)
 
@@ -73,12 +73,12 @@ No graft. No city. The wall is the climate.
 
 ![[Waiting-Vale-Atlas.png]]
 
-## World mood piece (do not copy the extra isles)
+## Selected world atlas
 
 ![[The-Turning-World-Atlas.png]]
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
-- [[Atlas Prototype Review]] — three reference-matched world and continent sets
+- [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
 - [[14 - Assets]] · [[Roadmap]] (Story R.10)

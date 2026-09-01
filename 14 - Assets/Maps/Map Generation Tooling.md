@@ -85,7 +85,7 @@ Three matched applications of this workflow are collected in [[Atlas Prototype R
 
 1. **Reference-faithful dark portolan** — closest to the source palette.
 2. **Pale engraved survey** — easiest to annotate.
-3. **Weather-forward campaign atlas** — exact world-to-continent continuity plus strong climate and table mood.
+3. **Weather-forward campaign atlas** — **selected 2026-09-01**; exact world-to-continent continuity plus strong climate and table mood.
 
 Reference prompting keeps a family resemblance, but it does **not** guarantee identical geography. When exact continuity matters, make the continent sheets first and composite the world from scaled copies of those masters. Prototype 3 now follows that method; `build_prototype3_world.py` performs the reproducible composite. Do not independently regenerate its world sheet.
 
@@ -98,11 +98,11 @@ python3 "14 - Assets/Maps/build_prototype3_world.py"
 
 | File | Prompt |
 |---|---|
-| `The-Turning-World-Atlas.png` | W (expect extra isles; do not copy them) |
-| `Maiethorn-Atlas.png` | C1 |
-| `Strandoren-Atlas.png` | C2 |
-| `Heskoren-Atlas.png` | C3 |
-| `Kumbaan-Atlas.png` | C4 |
+| `The-Turning-World-Atlas.png` | Selected Prototype 3 continent-first composite |
+| `Maiethorn-Atlas.png` | Selected Prototype 3 C1 master |
+| `Strandoren-Atlas.png` | Selected Prototype 3 C2 master |
+| `Heskoren-Atlas.png` | Selected Prototype 3 C3 master |
+| `Kumbaan-Atlas.png` | Selected Prototype 3 C4 master |
 | `Old-Crossing-Atlas.png` | R1 |
 | `Sacred-Core-Atlas.png` | R2 |
 | `Rain-Wall-Atlas.png` | R3 |
