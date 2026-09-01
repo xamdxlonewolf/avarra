@@ -116,6 +116,14 @@ local-scale detail required by the regional subject.
 | R7 Live Front | `prototype3/Heskoren-Atlas.png` |
 | R8 Waiting Vale | `prototype3/Heskoren-Atlas.png` |
 
+Four sheets that failed the visual parent-continuity check are now built as literal master enlargements rather than fresh generations:
+
+```bash
+python3 "14 - Assets/Maps/build_prototype3_regions.py"
+```
+
+The script records the parent filename and crop rectangle in each PNG. Sacred Core and Rain-Wall come directly from Maiethorn; Chart-run and West Water come directly from Strandoren. It applies the parent's own bronze rules and corner ornament after enlargement. Do not replace those four with independently generated scenes: local detail is allowed only as an overpaint that leaves the inherited pixels legible.
+
 **Visual review gate.** Reject a regional render if it becomes a whole continent or island, rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark teal weather, muted moss/umber land, iron-gall detail, and bronze frame.
 
 **Interpolation remains non-canon.** Minor tributaries, unnamed roofs, exact paths, field divisions, forest edges, rocks, and weather decoration are rendering texture only. A generated detail enters canon only after it is reconciled and named in the vault.
