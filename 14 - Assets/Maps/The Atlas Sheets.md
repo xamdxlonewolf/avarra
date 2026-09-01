@@ -4,7 +4,7 @@ type: map
 visibility: gm
 note_status: draft
 status: active
-tags: [asset, map, atlas, epic-r, story-r10]
+tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
@@ -110,6 +110,8 @@ Tried putting names on the painting even though the generate prompts say **NO TE
 
 The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. If a painted cluster and a note disagree, the note wins. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
 
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.2–A.13 — one sheet, one session. Copy the Heskoren overlay script; do not ask the image model to write.
+
 The image-model attempt, for comparison:
 
 ![[label-trials/Heskoren-Atlas-labeled-gen.png]]
@@ -118,4 +120,4 @@ The image-model attempt, for comparison:
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A)

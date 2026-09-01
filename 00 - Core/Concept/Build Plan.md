@@ -18,7 +18,7 @@ updated: 2026-09-01
 
 ## Active next
 
-**Heskoren label trial (2026-09-01).** Asked the image model to write on the C3 painting anyway. Spellings partly landed; it redrew the continent. A Pillow overlay on the selected master keeps the painting and takes names from [[Named Ground]] (`Heskoren-Atlas-Labeled.png`). Vault-alignment pass: west-face names stay on the storm-side (Ornled, last capes, slate-shore, marches); east-face names stay on the Strandoren-facing side (Eolvaeth in the waiting vale, Harrow's and the Rise-water hamlets, frontier coast). The West Water is labelled on the *east* sea — that is the Named Ground name for the water toward Strandoren. The south-east field-grid stays unnamed. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
+**Epic A — Atlas labels (2026-09-01).** One labeled overlay per selected painting, one story / one session. Method locked in A.1: Pillow on the unlabeled master; do not ask the image model to write; names from [[Named Ground]] and [[The Known Map]]; painting vs note → the note wins. **A.1 Heskoren (C3) ✅** — `Heskoren-Atlas-Labeled.png`. **Next: A.2 World sheet.** Remaining: C1 · C2 · C4 · R1–R8. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
 
 **Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. Regional sheets that share a parent are distinct generated paintings, not continent crops: Sacred Core versus Rain-Wall (Maiethorn); Chart-run versus West Water (Strandoren). Styled to the rest of the atlas. [[The Atlas Sheets]] and [[Map Generation Tooling]] record the contract. Incidental generated detail is non-canon. World book untouched.
 
@@ -96,3 +96,4 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]] · [[When the Fire Is Caught]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]
 - [[The Old Tongue]] · [[Naming Tools]] · [[00 - Core]]
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] — Epic A overlay queue
