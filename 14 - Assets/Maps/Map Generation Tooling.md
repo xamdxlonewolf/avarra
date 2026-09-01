@@ -474,7 +474,7 @@ Suggested first labels, not a new gazetteer:
 | W | Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall |
 | C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Hinge Shore |
 | C2 | Orentel · Chart-run · Trenledd · Netstrand |
-| C3 | Eolvaeth · Harrow's · the ford · Rise-water |
+| C3 | Eolvaeth · Harrow's · Brenod / Vaelun / Ornath · the First Bowl · Ornled · last capes · slate-shore |
 | C4 | nothing that implies a graft |
 | R1 | Hinge Shore · Orentel · Hush-rate as a rate, not a border |
 | R2 | Thaeloren · Inner Close · Third Hearth · Maiethlir |

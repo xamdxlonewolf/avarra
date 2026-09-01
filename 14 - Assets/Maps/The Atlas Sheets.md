@@ -106,7 +106,7 @@ Tried putting names on the painting even though the generate prompts say **NO TE
 | File | What happened |
 |---|---|
 | `label-trials/Heskoren-Atlas-labeled-gen.png` | Image model, reference-locked. Some spellings landed. It **redrew** the continent (snow, vertical title, stacked names). Not a copy of the master. |
-| `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Names from [[Named Ground]] / [[The Known Map]] only. Relative seats mapped onto the painted land box. Incidental roofs and field-grids left unnamed. |
+| `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Dots sit on painted hearths; type is offset into water or clear ground so the title and names do not sit on the roofs. Named: Eolvaeth, Harrow's, Brenod / Vaelun / Ornath, the First Bowl, Ornled; west face also has the last capes, marches, slate-shore, toward the storm-wall. Extra generated roof-clusters stay unnamed. |
 
 The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
 

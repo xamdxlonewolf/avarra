@@ -18,7 +18,7 @@ updated: 2026-09-01
 
 ## Active next
 
-**Heskoren label trial (2026-09-01).** Asked the image model to write on the C3 painting anyway. Spellings partly landed; it redrew the continent. A Pillow overlay on the selected master keeps the painting and takes names from [[Named Ground]] (`Heskoren-Atlas-Labeled.png`). Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
+**Heskoren label trial (2026-09-01).** Asked the image model to write on the C3 painting anyway. Spellings partly landed; it redrew the continent. A Pillow overlay on the selected master keeps the painting and takes names from [[Named Ground]] (`Heskoren-Atlas-Labeled.png`). Dots sit on painted hearths; the continent name sits in the south-west sea. West face now has Ornled, last capes, marches, slate-shore. Extra generated roof-clusters stay unnamed. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
 
 **Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. Regional sheets that share a parent are distinct generated paintings, not continent crops: Sacred Core versus Rain-Wall (Maiethorn); Chart-run versus West Water (Strandoren). Styled to the rest of the atlas. [[The Atlas Sheets]] and [[Map Generation Tooling]] record the contract. Incidental generated detail is non-canon. World book untouched.
 

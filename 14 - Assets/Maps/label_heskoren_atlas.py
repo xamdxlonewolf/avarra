@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Overlay Named Ground labels on the selected Heskoren atlas painting.
 
-The painting stays the geographic texture. Names and relative placement come
-from Named Ground / the Known Map schematic — not from incidental generated
-roofs, fields, or tributaries. Rebuild:
+The painting stays the geographic texture. Names come from Named Ground and
+the playable squares — not from incidental generated roofs. Dots sit on the
+painted hearths those names already belong to. Rebuild:
 
     python3 "14 - Assets/Maps/label_heskoren_atlas.py"
 """
@@ -19,37 +19,22 @@ ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Heskoren-Atlas.png"
 OUTPUT = ROOT / "Heskoren-Atlas-Labeled.png"
 
-# Liberation Serif ≈ the Georgia hand on the Known Map SVG.
 FONT_DIR = Path("/usr/share/fonts/truetype/liberation")
 SERIF = FONT_DIR / "LiberationSerif-Regular.ttf"
 SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
 SERIF_ITALIC = FONT_DIR / "LiberationSerif-Italic.ttf"
 SERIF_BOLD_ITALIC = FONT_DIR / "LiberationSerif-BoldItalic.ttf"
 
-INK = (36, 30, 20)
-INK_MUTED = (62, 54, 40)
-# Cream type, dark stroke: the painting is too dark for iron-gall fill.
 TYPE = (236, 226, 196)
 TYPE_MUTED = (220, 208, 176)
 TYPE_WATER = (214, 228, 230)
 STROKE = (28, 22, 14)
-PARCHMENT = (228, 210, 170, 205)
-PARCHMENT_EDGE = (92, 72, 42, 230)
 DOT = (28, 24, 16)
 DOT_RING = (236, 226, 200)
-
-# Painted land, inside the bronze frame. West left, north up.
-# Tuned against the Prototype 3 Heskoren master (1536×1024).
-LAND = (190, 95, 1145, 905)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
     return ImageFont.truetype(str(path), size)
-
-
-def land_xy(fx: float, fy: float) -> tuple[int, int]:
-    x0, y0, x1, y1 = LAND
-    return int(x0 + fx * (x1 - x0)), int(y0 + fy * (y1 - y0))
 
 
 def halo_text(
@@ -107,20 +92,49 @@ def paste_rotated(
     )
 
 
-def cartouche(canvas: Image.Image, cx: int, cy: int, width: int, height: int) -> None:
-    overlay = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
-    draw = ImageDraw.Draw(overlay)
-    box = [cx - width // 2, cy - height // 2, cx + width // 2, cy + height // 2]
-    draw.rounded_rectangle(box, radius=14, fill=PARCHMENT, outline=PARCHMENT_EDGE, width=2)
-    inner = [box[0] + 5, box[1] + 5, box[2] - 5, box[3] - 5]
-    draw.rounded_rectangle(inner, radius=10, outline=(140, 112, 64, 160), width=1)
-    canvas.alpha_composite(overlay)
-
-
 def settlement_dot(draw: ImageDraw.ImageDraw, xy: tuple[int, int], radius: int = 5) -> None:
     x, y = xy
     draw.ellipse((x - radius - 2, y - radius - 2, x + radius + 2, y + radius + 2), fill=DOT_RING)
     draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=DOT)
+
+
+def leader(draw: ImageDraw.ImageDraw, start: tuple[int, int], end: tuple[int, int]) -> None:
+    draw.line((start, end), fill=DOT_RING, width=3)
+    draw.line((start, end), fill=STROKE, width=1)
+
+
+def place(
+    draw: ImageDraw.ImageDraw,
+    name: str,
+    xy: tuple[int, int],
+    typeface: ImageFont.FreeTypeFont,
+    *,
+    caption: str | None = None,
+    caption_font: ImageFont.FreeTypeFont | None = None,
+    off: tuple[int, int] = (16, -18),
+    anchor: str = "lm",
+    radius: int = 5,
+    stroke: int = 3,
+) -> None:
+    """Dot on the painted hearth; type offset so it does not sit on the roofs."""
+    settlement_dot(draw, xy, radius)
+    lx, ly = xy[0] + off[0], xy[1] + off[1]
+    if abs(off[0]) >= 16 or abs(off[1]) >= 16:
+        tip_x = lx + (-10 if off[0] > 0 else 10 if off[0] < 0 else 0)
+        tip_y = ly + (6 if off[1] < 0 else -6 if off[1] > 0 else 0)
+        leader(draw, xy, (tip_x, tip_y))
+    halo_text(draw, (lx, ly), name, typeface, TYPE, anchor=anchor, stroke=stroke)
+    if caption and caption_font:
+        cap_off = 16 if off[1] <= 0 else -16
+        halo_text(
+            draw,
+            (lx, ly + cap_off),
+            caption,
+            caption_font,
+            TYPE_MUTED,
+            anchor=anchor,
+            stroke=2,
+        )
 
 
 def build() -> Image.Image:
@@ -130,54 +144,92 @@ def build() -> Image.Image:
 
     canvas = base.copy()
 
-    title = font(SERIF_BOLD, 36)
-    subtitle = font(SERIF_ITALIC, 16)
-    place = font(SERIF_BOLD, 22)
-    caption = font(SERIF, 14)
-    water = font(SERIF_BOLD_ITALIC, 26)
-    river = font(SERIF_ITALIC, 18)
+    title = font(SERIF_BOLD, 32)
+    subtitle = font(SERIF_ITALIC, 15)
+    place_f = font(SERIF_BOLD, 20)
+    hamlet_f = font(SERIF_BOLD, 16)
+    caption_f = font(SERIF, 13)
+    water = font(SERIF_BOLD_ITALIC, 24)
+    river = font(SERIF_ITALIC, 17)
     note = font(SERIF_ITALIC, 13)
 
-    # Continent name sits in the north-west sea so the highland spine stays visible.
-    cartouche(canvas, 268, 148, 292, 92)
+    # Continent name as sea-type in the far south-west water. No cartouche on land.
     ink = ImageDraw.Draw(canvas)
-    halo_text(ink, (268, 132), "HESKOREN", title, INK, stroke=0)
-    halo_text(ink, (268, 168), "the Sundered Reach", subtitle, INK_MUTED, stroke=0)
+    halo_text(ink, (118, 948), "HESKOREN", title, TYPE, stroke=3)
+    halo_text(ink, (118, 978), "the Sundered Reach", subtitle, TYPE_MUTED, stroke=2)
 
-    paste_rotated(canvas, "the West Water", water, TYPE_WATER, (1260, 470), angle=-10)
-    ink = ImageDraw.Draw(canvas)
-
-    # Relative seats follow the Known Map schematic, mapped onto this land box.
-    # Eolvaeth: vale behind the east-facing coast.
-    eol = land_xy(0.74, 0.36)
-    settlement_dot(ink, eol)
-    halo_text(ink, (eol[0] - 16, eol[1] - 22), "Eolvaeth", place, TYPE, anchor="rm")
-    halo_text(ink, (eol[0] - 16, eol[1] + 4), "Vaethorn", caption, TYPE_MUTED, anchor="rm", stroke=2)
-
-    # Harrow's: inland live-front rise, east of the highland spine, not a capital.
-    harrow = land_xy(0.47, 0.53)
-    settlement_dot(ink, harrow)
-    halo_text(ink, (harrow[0] + 16, harrow[1] - 20), "Harrow's", place, TYPE, anchor="lm")
-    halo_text(ink, (harrow[0] + 16, harrow[1] + 4), "Saelvaeth", caption, TYPE_MUTED, anchor="lm", stroke=2)
-
-    # Ford: hours down the Rise-water. Close on the page because the walk is short.
-    ford = land_xy(0.56, 0.63)
-    settlement_dot(ink, ford, radius=4)
-    halo_text(ink, (ford[0] + 14, ford[1] + 2), "the ford", place, TYPE, anchor="lm")
-
-    rise = land_xy(0.51, 0.57)
-    paste_rotated(canvas, "Rise-water", river, TYPE_WATER, rise, angle=-26)
+    paste_rotated(canvas, "the West Water", water, TYPE_WATER, (1272, 455), angle=-10)
+    paste_rotated(canvas, "toward the storm-wall", note, TYPE_WATER, (108, 390), angle=78)
     ink = ImageDraw.Draw(canvas)
 
-    # Power stubs: named country, seats still unnamed. No borders.
-    halo_text(ink, land_xy(0.38, 0.76), "Ornled", place, TYPE)
-    halo_text(ink, land_xy(0.66, 0.88), "Vaelhesk", place, TYPE)
+    # West face — last capes, slate-shore, Ornled pocket, empty marches.
+    halo_text(ink, (168, 148), "the last capes", note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (168, 590), "slate-shore", note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (400, 310), "marches", note, TYPE_MUTED, stroke=2)
+    place(
+        ink,
+        "Ornled",
+        (292, 424),
+        place_f,
+        caption="Outer Ledger",
+        caption_font=caption_f,
+        off=(-62, -6),
+        anchor="rm",
+    )
 
-    halo_text(ink, land_xy(0.70, 0.26), "waiting vale", note, TYPE_MUTED, anchor="mm", stroke=2)
-    halo_text(ink, land_xy(0.50, 0.46), "live front", note, TYPE_MUTED, anchor="mm", stroke=2)
+    # Live-front rise east of the highland spine (painted grove-town).
+    place(
+        ink,
+        "Harrow's",
+        (638, 432),
+        place_f,
+        caption="Saelvaeth",
+        caption_font=caption_f,
+        off=(18, -26),
+        anchor="lm",
+    )
+    paste_rotated(canvas, "Rise-water", river, TYPE_WATER, (708, 488), angle=-32)
+    ink = ImageDraw.Draw(canvas)
+    halo_text(ink, (760, 528), "the ford", hamlet_f, TYPE, anchor="mm", stroke=2)
+    settlement_dot(ink, (752, 540), radius=3)
+
+    # Three hearths past the ford — Seat still does not use these names.
+    place(ink, "Brenod", (778, 502), hamlet_f, off=(14, -16), anchor="lm", radius=3, stroke=2)
+    place(ink, "Vaelun", (808, 552), hamlet_f, off=(14, 2), anchor="lm", radius=3, stroke=2)
+    place(ink, "Ornath", (738, 588), hamlet_f, off=(-14, 10), anchor="rm", radius=3, stroke=2)
+
+    # Largest painted town: gardens and camp-streets on the east vale.
+    place(
+        ink,
+        "Eolvaeth",
+        (1000, 668),
+        place_f,
+        caption="Vaethorn",
+        caption_font=caption_f,
+        off=(58, -36),
+        anchor="lm",
+    )
+    halo_text(ink, (1124, 590), "waiting vale", note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (690, 368), "live front", note, TYPE_MUTED, stroke=2)
+
+    # Guest-grove in the Yield, away from Harrow's.
+    place(
+        ink,
+        "the First Bowl",
+        (888, 792),
+        hamlet_f,
+        caption="Lonasir",
+        caption_font=caption_f,
+        off=(16, 18),
+        anchor="lm",
+        radius=4,
+        stroke=2,
+    )
+    halo_text(ink, (700, 900), "Vaelhesk", place_f, TYPE, stroke=3)
+    halo_text(ink, (700, 920), "the Far Yield", caption_f, TYPE_MUTED, stroke=2)
 
     footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (768, 988), footer, note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (768, 992), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 
