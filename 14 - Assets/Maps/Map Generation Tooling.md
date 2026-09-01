@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Map Generation Tooling
@@ -458,14 +458,23 @@ The wait is the town.
 
 ### How to annotate after generate
 
-Add names from [[Named Ground]] and [[The Known Map]] only. Suggested first labels, not a new gazetteer:
+Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the image model to write them.** A 2026-09-01 Heskoren trial (`label-trials/Heskoren-Atlas-labeled-gen.png`) produced readable words and **a different continent**. Overlay type on the selected master instead:
+
+```bash
+python3 -m pip install --upgrade pillow
+python3 "14 - Assets/Maps/label_heskoren_atlas.py"
+```
+
+That writes `Heskoren-Atlas-Labeled.png` (**Epic A / Story A.1**). Relative seats follow the Known Map schematic and the settlement notes (east vale = Eolvaeth; west pocket = Ornled; the West Water is the *east* sea, toward Strandoren). Incidental generated roofs and field-grids stay unnamed. The unlabeled sheet remains the selected handout. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+
+Suggested first labels, not a new gazetteer:
 
 | Art | Write on after |
 |---|---|
 | W | Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall |
 | C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Hinge Shore |
 | C2 | Orentel · Chart-run · Trenledd · Netstrand |
-| C3 | Eolvaeth · Harrow's · the ford · Rise-water |
+| C3 | Eolvaeth · Harrow's · Brenod / Vaelun / Ornath · the First Bowl · Ornled · last capes · slate-shore |
 | C4 | nothing that implies a graft |
 | R1 | Hinge Shore · Orentel · Hush-rate as a rate, not a border |
 | R2 | Thaeloren · Inner Close · Third Hearth · Maiethlir |

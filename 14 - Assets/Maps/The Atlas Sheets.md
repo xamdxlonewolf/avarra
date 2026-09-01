@@ -4,7 +4,7 @@ type: map
 visibility: gm
 note_status: draft
 status: active
-tags: [asset, map, atlas, epic-r, story-r10]
+tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
@@ -41,6 +41,10 @@ updated: 2026-09-01
 ### Heskoren (C3)
 
 ![[Heskoren-Atlas.png]]
+
+Labeled trial (2026-09-01). Overlay on this master, not a new survey. Rebuild with `label_heskoren_atlas.py`.
+
+![[Heskoren-Atlas-Labeled.png]]
 
 ### Kumbaan (C4)
 
@@ -95,8 +99,25 @@ No graft. No city. The wall is the climate.
 - Rain-Shadow remains the dry leeward country. Live Front keeps Harrow's rise, the ford, and three small downstream hearths. Waiting Vale stays behind the east-facing coast and does not show Harrow's canopy.
 - No labels, political borders, new named places, new powers, or canon claims were added.
 
+## Label trial — Heskoren (2026-09-01)
+
+Tried putting names on the painting even though the generate prompts say **NO TEXT**.
+
+| File | What happened |
+|---|---|
+| `label-trials/Heskoren-Atlas-labeled-gen.png` | Image model, reference-locked. Some spellings landed. It **redrew** the continent (snow, vertical title, stacked names). Not a copy of the master. |
+| `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Seats follow [[Named Ground]] and [[The Known Map]], not the largest painted cluster. **West (left):** last capes, marches, slate-shore, Ornled, toward the storm-wall. **East (right):** frontier coast, the West Water (to Strandoren), Eolvaeth / waiting vale, Harrow's and the Rise-water hamlets, the First Bowl. Vaelhesk is area-type over the south Yield. The south-east field-grid and extra roof-clusters stay unnamed. The north-east cloud bank is weather, not the storm-wall. |
+
+The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. If a painted cluster and a note disagree, the note wins. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.2–A.13 — one sheet, one session. Copy the Heskoren overlay script; do not ask the image model to write.
+
+The image-model attempt, for comparison:
+
+![[label-trials/Heskoren-Atlas-labeled-gen.png]]
+
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A)

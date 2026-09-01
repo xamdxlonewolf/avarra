@@ -18,6 +18,8 @@ updated: 2026-09-01
 
 ## Active next
 
+**Epic A — Atlas labels (2026-09-01).** One labeled overlay per selected painting, one story / one session. Method locked in A.1: Pillow on the unlabeled master; do not ask the image model to write; names from [[Named Ground]] and [[The Known Map]]; painting vs note → the note wins. **A.1 Heskoren (C3) ✅** — `Heskoren-Atlas-Labeled.png`. **Next: A.2 World sheet.** Remaining: C1 · C2 · C4 · R1–R8. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
+
 **Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. Regional sheets that share a parent are distinct generated paintings, not continent crops: Sacred Core versus Rain-Wall (Maiethorn); Chart-run versus West Water (Strandoren). Styled to the rest of the atlas. [[The Atlas Sheets]] and [[Map Generation Tooling]] record the contract. Incidental generated detail is non-canon. World book untouched.
 
 **Leftovers 1 / 3 / 7 / 9 done (2026-08-31).** Conditions cross-link · climate/ecology · sick-Tree / guest-grove · revelation architecture. [[Roadmap#Epic 10 — Campaign|Epic 10]] Story 10.1 remains done — kit [[The Opening]], hub [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing; **C-02** world-book rebuild; **C-06** Kumbaan Tree-hedge, 2026-08-31).
@@ -94,3 +96,4 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - [[Turning Tree]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]] · [[When the Fire Is Caught]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]
 - [[The Old Tongue]] · [[Naming Tools]] · [[00 - Core]]
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] — Epic A overlay queue

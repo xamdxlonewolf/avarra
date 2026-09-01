@@ -25,7 +25,7 @@ Kumbaan  ~storm-wall~  HESKOREN  ==West Water==  STRANDOREN  ==Old Crossing==  M
  (none)                 thin                      high                         full
 ```
 
-The SVG is the **labelled schematic** — placement only, light on terrain. The selected label-free paintings live in `14 - Assets/Maps/` ([[The Atlas Sheets]]; Prototype 3). Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey; add names from this schematic and [[Named Ground]] rather than inventing them from visual texture.
+The SVG is the **labelled schematic** — placement only, light on terrain. The selected label-free paintings live in `14 - Assets/Maps/` ([[The Atlas Sheets]]; Prototype 3). Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey; add names from this schematic and [[Named Ground]] rather than inventing them from visual texture. A 2026-09-01 Heskoren overlay (`Heskoren-Atlas-Labeled.png`) is a table aid on that painting, not a replacement for this schematic. On that sheet, west is left (last capes · Ornled · storm-wall) and the sea on the right is **the West Water** (to Strandoren), matching this drawing.
 
 ![[14 - Assets/Maps/The-Turning-Known-Map.svg]]
 
