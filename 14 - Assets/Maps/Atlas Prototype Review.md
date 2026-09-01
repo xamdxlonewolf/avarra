@@ -9,12 +9,14 @@ aliases: [Atlas Prototypes, Prototype Maps]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Atlas Prototype Review
 
 > **Production comparison, not canon.** These three sets use the supplied world map as their coastline and layout reference, then apply the established geography from [[The World Frame]], [[Named Ground]], and the four continent notes. If an image disagrees with a vault note, the note wins.
+
+> **Selection (2026-09-01): Prototype 3.** Its five maps are promoted to the main atlas filenames shown on [[The Atlas Sheets]]. Prototypes 1 and 2 remain here for comparison and provenance; they are not active alternatives.
 
 ## Reference contract
 
@@ -53,7 +55,7 @@ The cleanest option for later annotation: pale vellum, fine hachures, restrained
 |---|---|
 | ![[prototype2/Strandoren-Atlas.png]] | ![[prototype2/Maiethorn-Atlas.png]] |
 
-## Prototype 3 — weather-forward campaign atlas
+## Prototype 3 — selected atlas
 
 The most atmospheric option: stronger sea states, rain, forest mass, and the wet/dry divide across Maiethorn.
 
@@ -90,10 +92,10 @@ These are **non-canon visual texture**, not proposals and not a queue of places 
 
 ## Selection notes
 
-- Choose **Prototype 1** if continuity with the supplied world painting matters most.
-- Choose **Prototype 2** if the next step is hand-labeling or overpainting.
-- Choose **Prototype 3** if exact world-to-continent continuity, table mood, and climate readability matter most.
-- Mixing a world sheet from one prototype with continent sheets from another weakens the visual set, but does not change canon.
+- **Prototype 3 is selected.** It provides exact world-to-continent continuity, table mood, and climate readability.
+- Prototype 1 is retained as the closest comparison to the supplied source painting.
+- Prototype 2 is retained as a pale engraved experiment suited to annotation.
+- Do not mix world and continent sheets across prototypes. Future atlas work begins from Prototype 3's masters.
 
 ## Links
 

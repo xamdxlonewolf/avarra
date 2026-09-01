@@ -10,6 +10,7 @@ from __future__ import annotations
 
 from collections import deque
 from pathlib import Path
+import shutil
 
 import numpy as np
 from PIL import Image, ImageChops, ImageEnhance, ImageFilter
@@ -19,6 +20,13 @@ ROOT = Path(__file__).resolve().parent
 PROTOTYPE = ROOT / "prototype3"
 OUTPUT = PROTOTYPE / "The-Turning-World-Atlas.png"
 OCEAN = PROTOTYPE / "Painted-Ocean-Background.png"
+SELECTED_FILENAMES = (
+    "The-Turning-World-Atlas.png",
+    "Maiethorn-Atlas.png",
+    "Strandoren-Atlas.png",
+    "Heskoren-Atlas.png",
+    "Kumbaan-Atlas.png",
+)
 WIDTH, HEIGHT = 1536, 1024
 
 
@@ -249,6 +257,14 @@ def main() -> None:
     canvas = unify_atlas_hand(canvas)
     canvas.convert("RGB").save(OUTPUT, quality=96)
     print(f"Wrote {OUTPUT}")
+
+    # Prototype 3 is the selected atlas. Keep the main handout filenames in
+    # lockstep with its masters whenever the world composite is rebuilt.
+    for filename in SELECTED_FILENAMES:
+        source = PROTOTYPE / filename
+        destination = ROOT / filename
+        shutil.copyfile(source, destination)
+        print(f"Selected {destination}")
 
 
 if __name__ == "__main__":
