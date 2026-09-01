@@ -523,6 +523,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Heskoren label trial:** 2026-09-01. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts. World book untouched.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end still a type. World book untouched.
 - **Pass two — verification:** 3 / 3 tasks of P2.1 (100%) ✅ **Story P2.1 complete 2026-08-31.** Later pass-two stories undecomposed. C-01 resolved; C-05 resolved in passing with the opening. **C-02 resolved 2026-08-31** by user-requested world-book rebuild. **C-06 resolved 2026-08-31** (Kumbaan "few or no Trees" hedge → no Tree).

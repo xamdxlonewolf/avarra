@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Map Generation Tooling
@@ -458,7 +458,16 @@ The wait is the town.
 
 ### How to annotate after generate
 
-Add names from [[Named Ground]] and [[The Known Map]] only. Suggested first labels, not a new gazetteer:
+Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the image model to write them.** A 2026-09-01 Heskoren trial (`label-trials/Heskoren-Atlas-labeled-gen.png`) produced readable words and **a different continent**. Overlay type on the selected master instead:
+
+```bash
+python3 -m pip install --upgrade pillow
+python3 "14 - Assets/Maps/label_heskoren_atlas.py"
+```
+
+That writes `Heskoren-Atlas-Labeled.png`. Relative seats follow the Known Map schematic; incidental generated roofs and field-grids stay unnamed. The unlabeled sheet remains the selected handout.
+
+Suggested first labels, not a new gazetteer:
 
 | Art | Write on after |
 |---|---|

@@ -42,6 +42,10 @@ updated: 2026-09-01
 
 ![[Heskoren-Atlas.png]]
 
+Labeled trial (2026-09-01). Overlay on this master, not a new survey. Rebuild with `label_heskoren_atlas.py`.
+
+![[Heskoren-Atlas-Labeled.png]]
+
 ### Kumbaan (C4)
 
 No graft. No city. The wall is the climate.
@@ -94,6 +98,21 @@ No graft. No city. The wall is the climate.
 - Old Crossing retains the two facing Old World shores. `build_prototype3_regions.py` is retired.
 - Rain-Shadow remains the dry leeward country. Live Front keeps Harrow's rise, the ford, and three small downstream hearths. Waiting Vale stays behind the east-facing coast and does not show Harrow's canopy.
 - No labels, political borders, new named places, new powers, or canon claims were added.
+
+## Label trial — Heskoren (2026-09-01)
+
+Tried putting names on the painting even though the generate prompts say **NO TEXT**.
+
+| File | What happened |
+|---|---|
+| `label-trials/Heskoren-Atlas-labeled-gen.png` | Image model, reference-locked. Some spellings landed. It **redrew** the continent (snow, vertical title, stacked names). Not a copy of the master. |
+| `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Names from [[Named Ground]] / [[The Known Map]] only. Relative seats mapped onto the painted land box. Incidental roofs and field-grids left unnamed. |
+
+The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
+
+The image-model attempt, for comparison:
+
+![[label-trials/Heskoren-Atlas-labeled-gen.png]]
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
