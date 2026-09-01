@@ -96,13 +96,13 @@ python3 "14 - Assets/Maps/build_prototype3_world.py"
 
 ### Prototype 3 regional rebuild workflow
 
-Regional sheets are **child views**, not independent inventions. Supply the selected parent master on every render and begin the subject with:
+Regional sheets should read as **the same atlas family**, inspired by the selected parent, not as duplicate continent crops. Supply the parent master plus a successful regional sheet (Old Crossing is the style match) and begin the subject with:
 
 ```
-Enlarge the named subregion from the supplied Prototype 3 continent master.
-Keep north up and west left. Preserve the parent's coast, watershed, river
-direction, wet/dry boundary, settlement density, and atlas hand. Add only
-local-scale detail required by the regional subject.
+Paint this named region in the same dark weather-forward portolan hand as
+the supplied regional sheet. Take coastline, watershed, wet/dry divide,
+and settlement density from the supplied continent master. Keep north up
+and west left. Do not copy the whole continent into the frame.
 ```
 
 | Region | Required parent reference |
@@ -116,15 +116,17 @@ local-scale detail required by the regional subject.
 | R7 Live Front | `prototype3/Heskoren-Atlas.png` |
 | R8 Waiting Vale | `prototype3/Heskoren-Atlas.png` |
 
-Four sheets that failed the visual parent-continuity check are now built as literal master enlargements rather than fresh generations:
+**Sacred Core and Rain-Wall** are generated regional paintings inspired by `prototype3/Maiethorn-Atlas.png` and styled to the other region sheets. They must remain **visibly different subjects**: forest heart with one exceptional Tree versus highland divide. Do not rebuild them as overlapping crops of the same continent sheet.
+
+**Chart-run and West Water** remain Strandoren parent windows:
 
 ```bash
 python3 "14 - Assets/Maps/build_prototype3_regions.py"
 ```
 
-The script records the parent filename and crop rectangle in each PNG. Sacred Core and Rain-Wall come directly from Maiethorn; Chart-run and West Water come directly from Strandoren. Each window is **1344 × 896** on the 1536 × 1024 master (atlas scale, 1.14× fit, no extra sharpening). Do not replace those four with independently generated scenes, and do not use local close-up crops: they read as zoomed-in and go soft.
+That script must not write Sacred Core or Rain-Wall.
 
-**Visual review gate.** Reject a regional render if it rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject a parent-window sheet if the crop is tighter than 1344 × 896 or needs more than a 1.2× resample. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark teal weather, muted moss/umber land, iron-gall detail, and bronze frame.
+**Visual review gate.** Reject a regional render if it is the same composition as another sheet, copies a whole continent into the frame, rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark weather-forward portolan hand, muted moss/umber land, iron-gall detail, and bronze frame.
 
 **Interpolation remains non-canon.** Minor tributaries, unnamed roofs, exact paths, field divisions, forest edges, rocks, and weather decoration are rendering texture only. A generated detail enters canon only after it is reconciled and named in the vault.
 

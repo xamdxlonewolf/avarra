@@ -88,12 +88,10 @@ No graft. No city. The wall is the climate.
 
 ## Regional rebuild review — 2026-09-01
 
-- All eight sheets use the dark, weather-forward Prototype 3 portolan hand, slate-teal water, and bronze frame.
-- **Continuity correction:** Sacred Core, Rain-Wall, Chart-run, and West Water were replaced with literal parent windows. Rebuild them with `build_prototype3_regions.py`.
-- **Scale correction:** those four are 1344 × 896 windows of the 1536 × 1024 masters (atlas scale, 1.14× fit, no extra sharpening). Local close-up crops are rejected; they looked zoomed-in and went soft.
+- All eight sheets use the dark, weather-forward Prototype 3 portolan hand and bronze frame.
+- **Sacred Core and Rain-Wall** are distinct generated region paintings inspired by Maiethorn, not two crops of the same continent sheet. Sacred Core is the inland Motherwood with Thaeloren as the sole exceptional Tree. Rain-Wall is the highland divide: offset massifs, saddles, foothills, river notches, pass gaps, wet west and dry east, and no exceptional Tree.
+- Chart-run and West Water remain Strandoren parent windows via `build_prototype3_regions.py`.
 - Old Crossing retains the two facing Old World shores. Chart-run runs east into its established estuary. West Water remains the sparse open-ocean face.
-- Sacred Core keeps Thaeloren as the sole exceptional Tree; every other grove or graft is an ordinary map mark.
-- Rain-Wall uses offset weathered massifs, broad saddles, branching foothills, river-cut notches, and pass gaps rather than a straight ridge.
 - Rain-Shadow remains the dry leeward country. Live Front keeps Harrow's rise, the ford, and three small downstream hearths. Waiting Vale stays behind the east-facing coast and does not show Harrow's canopy.
 - No labels, political borders, new named places, new powers, or canon claims were added.
 

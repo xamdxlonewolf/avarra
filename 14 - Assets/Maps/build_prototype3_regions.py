@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
-"""Build selected regional sheets as literal Prototype 3 master windows.
+"""Build the Strandoren regional windows from the Prototype 3 master.
 
-These four sheets previously drifted because image generation reinterpreted
-their geography, then looked zoomed and soft because small crops were
-enlarged. Each output is now a wide exact crop of its continent master,
-fitted to the atlas sheet with only a 1.14x resample so parent pixels stay
-legible. Do not use local close-up windows.
+Chart-run and West Water remain literal parent windows. Sacred Core and
+Rain-Wall are separate generated regional paintings and must not be
+overwritten by this script.
 """
 
 from __future__ import annotations
@@ -30,21 +28,8 @@ class Region:
 
 
 # Crop boxes are (left, top, right, bottom) in the 1536 x 1024 masters.
-# Every regional window is 1344 x 896 (3:2). That is most of the parent
-# sheet: enough focus to name a region, enough context to read as atlas
-# scale, and only a 1.14x fit onto the 1536 x 1024 output. Tighter crops
-# (local close-ups) are rejected because they look zoomed and go soft.
+# Each Strandoren window is 1344 x 896 (3:2), fitted 1.14x onto the sheet.
 REGIONS = (
-    Region(
-        "Sacred-Core-Atlas.png",
-        "Maiethorn-Atlas.png",
-        (28, 64, 1372, 960),
-    ),
-    Region(
-        "Rain-Wall-Atlas.png",
-        "Maiethorn-Atlas.png",
-        (104, 64, 1448, 960),
-    ),
     Region(
         "Chart-Run-Atlas.png",
         "Strandoren-Atlas.png",
