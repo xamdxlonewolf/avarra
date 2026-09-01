@@ -19,6 +19,15 @@ updated: 2026-09-01
 
 > **Handouts.** These label-free sheets can go to the table. They are still paintings rather than surveys; [[The Known Map]] and [[Named Ground]] remain authoritative for names and placement. Prototypes 1 and 2 remain available in [[Atlas Prototype Review]] as rejected alternatives, not parallel canon.
 
+> **Canon boundary.** Coastline, watershed, named hydrology, settlement relationships, scale, and orientation follow the notes and selected masters. Minor tributaries, exact road bends, roof clusters, field edges, forest texture, coastal rocks, and decorative weather supplied by generation are **non-canon incidental texture**.
+
+| Regions | Prototype 3 parent |
+|---|---|
+| Old Crossing | Strandoren + Maiethorn |
+| Sacred Core · Rain-Wall · Rain-Shadow | Maiethorn |
+| Chart-run · West Water | Strandoren |
+| Live Front · Waiting Vale | Heskoren |
+
 ## Selected continents
 
 ### Maiethorn (C1)
@@ -76,6 +85,15 @@ No graft. No city. The wall is the climate.
 ## Selected world atlas
 
 ![[The-Turning-World-Atlas.png]]
+
+## Regional rebuild review — 2026-09-01
+
+- All eight sheets use the dark, weather-forward Prototype 3 portolan hand, slate-teal water, and bronze frame.
+- Old Crossing retains the two facing Old World shores. Chart-run runs east into its established estuary. West Water remains the sparse open-ocean face.
+- Sacred Core keeps Thaeloren as the sole exceptional Tree; every other grove or graft is an ordinary map mark.
+- Rain-Wall uses offset weathered massifs, broad saddles, branching foothills, river-cut notches, and pass gaps rather than a straight ridge.
+- Rain-Shadow remains the dry leeward country. Live Front keeps Harrow's rise, the ford, and three small downstream hearths. Waiting Vale stays behind the east-facing coast and does not show Harrow's canopy.
+- No labels, political borders, new named places, new powers, or canon claims were added.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic

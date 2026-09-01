@@ -94,6 +94,32 @@ python3 -m pip install --upgrade pillow numpy
 python3 "14 - Assets/Maps/build_prototype3_world.py"
 ```
 
+### Prototype 3 regional rebuild workflow
+
+Regional sheets are **child views**, not independent inventions. Supply the selected parent master on every render and begin the subject with:
+
+```
+Enlarge the named subregion from the supplied Prototype 3 continent master.
+Keep north up and west left. Preserve the parent's coast, watershed, river
+direction, wet/dry boundary, settlement density, and atlas hand. Add only
+local-scale detail required by the regional subject.
+```
+
+| Region | Required parent reference |
+|---|---|
+| R1 Old Crossing | `prototype3/Strandoren-Atlas.png` + `prototype3/Maiethorn-Atlas.png` |
+| R2 Sacred Core | `prototype3/Maiethorn-Atlas.png` |
+| R3 Rain-Wall | `prototype3/Maiethorn-Atlas.png` |
+| R4 Rain-Shadow | `prototype3/Maiethorn-Atlas.png` |
+| R5 Chart-run | `prototype3/Strandoren-Atlas.png` |
+| R6 West Water | `prototype3/Strandoren-Atlas.png` + the selected world composite for open-water context |
+| R7 Live Front | `prototype3/Heskoren-Atlas.png` |
+| R8 Waiting Vale | `prototype3/Heskoren-Atlas.png` |
+
+**Visual review gate.** Reject a regional render if it becomes a whole continent or island, rotates/mirrors the parent, reverses a named river, adds text, introduces an exceptional Tree outside Sacred Core, or changes settlement scale. Reject Rain-Wall unless the divide is visibly made of irregular offset massifs, broad saddles, branching foothills, river-cut notches, and usable pass gaps. Match the selected set's dark teal weather, muted moss/umber land, iron-gall detail, and bronze frame.
+
+**Interpolation remains non-canon.** Minor tributaries, unnamed roofs, exact paths, field divisions, forest edges, rocks, and weather decoration are rendering texture only. A generated detail enters canon only after it is reconciled and named in the vault.
+
 **Sample renders** (this pass, label-free, not surveys) live beside this note and are browsable on [[The Atlas Sheets]]:
 
 | File | Prompt |

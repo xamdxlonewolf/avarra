@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-09-01
 ---
 
 # Build Plan
@@ -17,6 +17,8 @@ updated: 2026-08-31
 > **Setting:** **_The Turning_** (started 2026-08-14; named 2026-08-20). Integrated-"monsters" world. Prior vault settings (original "Avarra," then "The Empire That Wasn't Evil") are git history — not canon.
 
 ## Active next
+
+**Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. All eight regional sheets were rebuilt as label-free child views of Maiethorn, Strandoren, and Heskoren, visually reviewed, and recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Incidental generated detail is non-canon. World book untouched.
 
 **Leftovers 1 / 3 / 7 / 9 done (2026-08-31).** Conditions cross-link · climate/ecology · sick-Tree / guest-grove · revelation architecture. [[Roadmap#Epic 10 — Campaign|Epic 10]] Story 10.1 remains done — kit [[The Opening]], hub [[The Isolated Fall]]. Later campaign stories and remaining pass-two work stay undecomposed until asked. Epic R remains **closed**. Gate: [[Epic R Completion Gate 2026-08-31]]. Log: [[Contradictions]] (C-05 resolved in passing; **C-02** world-book rebuild; **C-06** Kumbaan Tree-hedge, 2026-08-31).
 
