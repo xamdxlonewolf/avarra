@@ -10,10 +10,13 @@ Rebuild:
 
 West is left. East is right. No fifth land. No graft on Kumbaan.
 The Rain-Wall is Maiethorn's spine, not Heskoren's highlands.
+Seas sit in the middle of their water. The storm-wall follows
+Kumbaan's foam ring.
 """
 
 from __future__ import annotations
 
+import math
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
@@ -64,6 +67,12 @@ def measure(typeface: ImageFont.FreeTypeFont, text: str) -> tuple[int, int]:
     return bbox[2] - bbox[0], bbox[3] - bbox[1]
 
 
+def glyph_width(typeface: ImageFont.FreeTypeFont, char: str) -> int:
+    if char == " ":
+        return max(6, measure(typeface, "n")[0] // 2)
+    return max(1, measure(typeface, char)[0])
+
+
 def paste_rotated(
     canvas: Image.Image,
     text: str,
@@ -93,6 +102,100 @@ def paste_rotated(
     )
 
 
+def paste_along_arc(
+    canvas: Image.Image,
+    text: str,
+    typeface: ImageFont.FreeTypeFont,
+    fill: tuple[int, int, int],
+    cx: float,
+    cy: float,
+    radius: float,
+    start_deg: float,
+    end_deg: float,
+    stroke: int = 3,
+    tracking: float = 1.12,
+) -> None:
+    """Place glyphs on a circular arc.
+
+    Angles are mathematical degrees (0 = east, counterclockwise).
+    Screen y is inverted so 90° is north. Letters stand outside the
+    arc with the baseline toward the centre (rainbow / ring type).
+    """
+    widths = [glyph_width(typeface, ch) * tracking for ch in text]
+    total = sum(widths)
+    if total <= 0:
+        return
+    start = math.radians(start_deg)
+    end = math.radians(end_deg)
+    walked = 0.0
+    for char, width in zip(text, widths, strict=True):
+        mid = (walked + width / 2) / total
+        theta = start + (end - start) * mid
+        x = cx + radius * math.cos(theta)
+        y = cy - radius * math.sin(theta)
+        rotation = 90.0 - math.degrees(theta)
+        if char != " ":
+            paste_rotated(
+                canvas,
+                char,
+                typeface,
+                fill,
+                (int(round(x)), int(round(y))),
+                rotation,
+                stroke,
+            )
+        walked += width
+
+
+def paste_along_path(
+    canvas: Image.Image,
+    text: str,
+    typeface: ImageFont.FreeTypeFont,
+    fill: tuple[int, int, int],
+    points: list[tuple[float, float]],
+    stroke: int = 3,
+    tracking: float = 1.08,
+) -> None:
+    """Place glyphs along a polyline. Reading follows the point order."""
+    if len(points) < 2:
+        return
+    segs: list[tuple[float, float, float, float, float, float]] = []
+    total = 0.0
+    for (x0, y0), (x1, y1) in zip(points, points[1:], strict=False):
+        length = math.hypot(x1 - x0, y1 - y0)
+        segs.append((x0, y0, x1, y1, length, total))
+        total += length
+    if total <= 0:
+        return
+
+    widths = [glyph_width(typeface, ch) * tracking for ch in text]
+    text_w = sum(widths)
+    walked = 0.0
+    for char, width in zip(text, widths, strict=True):
+        target = ((walked + width / 2) / text_w) * total
+        x0 = y0 = x1 = y1 = 0.0
+        length = 1.0
+        base = 0.0
+        for x0, y0, x1, y1, length, base in segs:
+            if target <= base + length or (x0, y0, x1, y1) == segs[-1][:4]:
+                break
+        t = 0.0 if length == 0 else min(1.0, max(0.0, (target - base) / length))
+        x = x0 + (x1 - x0) * t
+        y = y0 + (y1 - y0) * t
+        angle = math.degrees(math.atan2(y0 - y1, x1 - x0))
+        if char != " ":
+            paste_rotated(
+                canvas,
+                char,
+                typeface,
+                fill,
+                (int(round(x)), int(round(y))),
+                angle,
+                stroke,
+            )
+        walked += width
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1536, 1024):
@@ -102,50 +205,106 @@ def build() -> Image.Image:
 
     title = font(SERIF_BOLD, 34)
     subtitle = font(SERIF_ITALIC, 16)
-    land = font(SERIF_BOLD, 28)
-    land_small = font(SERIF_BOLD, 20)
-    caption = font(SERIF_ITALIC, 14)
-    water = font(SERIF_BOLD_ITALIC, 22)
-    feature = font(SERIF_ITALIC, 16)
+    land = font(SERIF_BOLD, 42)
+    land_small = font(SERIF_BOLD, 28)
+    caption = font(SERIF_ITALIC, 17)
+    water = font(SERIF_BOLD_ITALIC, 32)
+    crossing = font(SERIF_BOLD_ITALIC, 22)
+    feature = font(SERIF_ITALIC, 19)
+    rain = font(SERIF_ITALIC, 18)
     note = font(SERIF_ITALIC, 13)
 
     ink = ImageDraw.Draw(canvas)
 
     # Quiet north water — sheet title, not a fifth land.
-    halo_text(ink, (560, 56), "THE TURNING", title, TYPE, stroke=3)
-    halo_text(ink, (560, 86), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (520, 52), "THE TURNING", title, TYPE, stroke=3)
+    halo_text(ink, (520, 82), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
 
-    # Kumbaan — small storm-walled isle, upper left. Type sits in the water
-    # below the hills. No city, no Tree, no safe channel. Do not name a graft.
-    halo_text(ink, (152, 252), "Kumbaan", land_small, TYPE, stroke=3)
-    halo_text(ink, (152, 274), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
-    paste_rotated(canvas, "the storm-wall", feature, TYPE_WATER, (282, 118), angle=-16)
-    ink = ImageDraw.Draw(canvas)
+    # Kumbaan — small storm-walled isle, upper left. Name sits below the
+    # ring. The storm-wall follows the circular foam, not a straight slug.
+    halo_text(ink, (152, 268), "Kumbaan", land_small, TYPE, stroke=3)
+    halo_text(ink, (152, 294), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
+    # Crown the foam ring. A short top arc keeps the letters leaning
+    # with the wall instead of stacking down the west coast.
+    paste_along_arc(
+        canvas,
+        "the storm-wall",
+        feature,
+        TYPE_WATER,
+        cx=152,
+        cy=132,
+        radius=88,
+        start_deg=160,
+        end_deg=20,
+        stroke=2,
+        tracking=1.16,
+    )
 
     # Heskoren — south-west frontier, distinctly south of the Old World pair.
-    halo_text(ink, (300, 924), "HESKOREN", land, TYPE, stroke=3)
-    halo_text(ink, (300, 950), "the Sundered Reach", caption, TYPE_MUTED, stroke=2)
+    halo_text(ink, (300, 900), "HESKOREN", land, TYPE, stroke=3)
+    halo_text(ink, (300, 932), "the Sundered Reach", caption, TYPE_MUTED, stroke=2)
 
     # West Water — the wide emptiness between Heskoren and Strandoren.
-    # Not the narrow eastern channel. Not Kumbaan's wall.
-    paste_rotated(canvas, "the West Water", water, TYPE_WATER, (400, 360), angle=-8)
+    # Stay in the open southern basin; do not start on Heskoren's land.
+    paste_along_path(
+        canvas,
+        "the West Water",
+        water,
+        TYPE_WATER,
+        [
+            (538, 778),
+            (590, 760),
+            (650, 752),
+            (715, 762),
+            (768, 782),
+        ],
+        stroke=3,
+        tracking=1.03,
+    )
 
     # Strandoren — maritime Old-World neighbour, centre of the sheet.
-    # Type sits in the water just north of the coast, not on the roofs.
-    halo_text(ink, (800, 164), "STRANDOREN", land, TYPE, stroke=3)
-    halo_text(ink, (800, 190), "the Shore-lands", caption, TYPE_MUTED, stroke=2)
+    halo_text(ink, (800, 158), "STRANDOREN", land, TYPE, stroke=3)
+    halo_text(ink, (800, 188), "the Shore-lands", caption, TYPE_MUTED, stroke=2)
 
     # Old Crossing — the crowded strait between Strandoren and Maiethorn.
-    # Type sits in the water north of the pinch so it does not become a border.
-    paste_rotated(canvas, "the Old Crossing", water, TYPE_WATER, (1088, 220), angle=-72)
+    # Follow the water down the channel; do not float in the north ocean.
+    paste_along_path(
+        canvas,
+        "the Old Crossing",
+        crossing,
+        TYPE_WATER,
+        [
+            (1096, 238),
+            (1100, 278),
+            (1102, 318),
+            (1094, 358),
+            (1082, 398),
+            (1068, 438),
+        ],
+        stroke=2,
+        tracking=1.02,
+    )
 
-    # Maiethorn — far east, largest old land. Name on the wet west, not the dry.
-    halo_text(ink, (1228, 232), "MAIETHORN", land, TYPE, stroke=3)
-    halo_text(ink, (1228, 258), "the Motherland", caption, TYPE_MUTED, stroke=2)
+    # Maiethorn — far east, largest old land. Name north of the wet west.
+    halo_text(ink, (1236, 228), "MAIETHORN", land, TYPE, stroke=3)
+    halo_text(ink, (1236, 258), "the Motherland", caption, TYPE_MUTED, stroke=2)
 
-    # Rain-Wall — Maiethorn's north–south divide, on the ridge, not the dry east.
-    # Not Heskoren's spines.
-    paste_rotated(canvas, "the Rain-Wall", feature, TYPE, (1372, 498), angle=-82)
+    # Rain-Wall — Maiethorn's north–south divide, on the ridge.
+    paste_along_path(
+        canvas,
+        "the Rain-Wall",
+        rain,
+        TYPE,
+        [
+            (1364, 360),
+            (1370, 430),
+            (1376, 510),
+            (1386, 590),
+            (1394, 660),
+        ],
+        stroke=2,
+        tracking=1.10,
+    )
 
     # Compass sits bottom-centre; keep the disclaimer off it and off Heskoren.
     footer = "Names from Named Ground. Painting is not a survey."
