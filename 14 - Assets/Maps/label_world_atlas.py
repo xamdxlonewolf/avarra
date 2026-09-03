@@ -102,6 +102,111 @@ def paste_rotated(
     )
 
 
+def _blend(canvas: Image.Image, x: int, y: int, pix: tuple[int, int, int, int]) -> None:
+    if not (0 <= x < canvas.width and 0 <= y < canvas.height) or pix[3] == 0:
+        return
+    dst = canvas.getpixel((x, y))
+    a = pix[3] / 255.0
+    canvas.putpixel(
+        (x, y),
+        (
+            int(dst[0] * (1 - a) + pix[0] * a),
+            int(dst[1] * (1 - a) + pix[1] * a),
+            int(dst[2] * (1 - a) + pix[2] * a),
+            255,
+        ),
+    )
+
+
+def warp_along_arc(
+    canvas: Image.Image,
+    text: str,
+    typeface: ImageFont.FreeTypeFont,
+    fill: tuple[int, int, int],
+    cx: float,
+    cy: float,
+    radius: float,
+    start_deg: float,
+    end_deg: float,
+    stroke: int = 3,
+) -> None:
+    """Bend a whole word onto a circular arc so the type itself curves."""
+    width, height = measure(typeface, text)
+    pad_x, pad_y = stroke + 10, stroke + 12
+    strip = Image.new("RGBA", (width + pad_x * 2, height + pad_y * 2), (0, 0, 0, 0))
+    draw = ImageDraw.Draw(strip)
+    halo_text(
+        draw,
+        (strip.size[0] // 2, strip.size[1] // 2),
+        text,
+        typeface,
+        fill,
+        stroke=stroke,
+    )
+    # Slight horizontal stretch so the warp does not crush counters.
+    strip = strip.resize(
+        (int(strip.size[0] * 1.15), strip.size[1]),
+        Image.Resampling.BICUBIC,
+    )
+    sw, sh = strip.size
+    src = strip.load()
+    half = sh / 2
+    r_min = radius - half - 2
+    r_max = radius + half + 2
+    samples = [start_deg + (end_deg - start_deg) * i / 8 for i in range(9)]
+    xs: list[float] = []
+    ys: list[float] = []
+    for deg in samples:
+        th = math.radians(deg)
+        for r in (r_min, r_max):
+            xs.append(cx + r * math.cos(th))
+            ys.append(cy - r * math.sin(th))
+    x0, x1 = int(min(xs) - 2), int(max(xs) + 3)
+    y0, y1 = int(min(ys) - 2), int(max(ys) + 3)
+    span = end_deg - start_deg
+    if abs(span) < 1e-6:
+        return
+
+    def arc_t(theta_rad: float) -> float | None:
+        deg = math.degrees(theta_rad)
+        for lift in (0.0, 360.0, -360.0):
+            t = (deg + lift - start_deg) / span
+            if -0.03 <= t <= 1.03:
+                return t
+        return None
+
+    for py in range(y0, y1):
+        for px in range(x0, x1):
+            dx = px - cx
+            dy = cy - py
+            r = math.hypot(dx, dy)
+            if r < r_min or r > r_max:
+                continue
+            t = arc_t(math.atan2(dy, dx))
+            if t is None:
+                continue
+            sx = t * (sw - 1)
+            sy = half - (r - radius)
+            ix, iy = int(sx), int(sy)
+            if not (0 <= ix < sw - 1 and 0 <= iy < sh - 1):
+                continue
+            fx, fy = sx - ix, sy - iy
+            c00 = src[ix, iy]
+            c10 = src[ix + 1, iy]
+            c01 = src[ix, iy + 1]
+            c11 = src[ix + 1, iy + 1]
+            pix = tuple(
+                int(
+                    c00[c] * (1 - fx) * (1 - fy)
+                    + c10[c] * fx * (1 - fy)
+                    + c01[c] * (1 - fx) * fy
+                    + c11[c] * fx * fy
+                )
+                for c in range(4)
+            )
+            _blend(canvas, px, py, pix)
+
+
 def paste_along_arc(
     canvas: Image.Image,
     text: str,
@@ -205,105 +310,91 @@ def build() -> Image.Image:
 
     title = font(SERIF_BOLD, 34)
     subtitle = font(SERIF_ITALIC, 16)
-    land = font(SERIF_BOLD, 42)
-    land_small = font(SERIF_BOLD, 28)
+    land = font(SERIF_BOLD, 46)
+    land_small = font(SERIF_BOLD, 30)
     caption = font(SERIF_ITALIC, 17)
-    water = font(SERIF_BOLD_ITALIC, 32)
-    crossing = font(SERIF_BOLD_ITALIC, 22)
-    feature = font(SERIF_ITALIC, 19)
-    rain = font(SERIF_ITALIC, 18)
+    water = font(SERIF_BOLD_ITALIC, 36)
+    crossing = font(SERIF_BOLD_ITALIC, 26)
+    feature = font(SERIF_ITALIC, 20)
+    rain = font(SERIF_ITALIC, 20)
     note = font(SERIF_ITALIC, 13)
 
     ink = ImageDraw.Draw(canvas)
 
     # Quiet north water — sheet title, not a fifth land.
-    halo_text(ink, (520, 52), "THE TURNING", title, TYPE, stroke=3)
-    halo_text(ink, (520, 82), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (500, 50), "THE TURNING", title, TYPE, stroke=3)
+    halo_text(ink, (500, 80), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
 
-    # Kumbaan — small storm-walled isle, upper left. Name sits below the
-    # ring. The storm-wall follows the circular foam, not a straight slug.
-    halo_text(ink, (152, 268), "Kumbaan", land_small, TYPE, stroke=3)
-    halo_text(ink, (152, 294), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
-    # Crown the foam ring. A short top arc keeps the letters leaning
-    # with the wall instead of stacking down the west coast.
-    paste_along_arc(
+    # Kumbaan — name below the ring. Storm-wall wraps the foam in a
+    # deep horseshoe so the curve is the first thing you read.
+    halo_text(ink, (152, 272), "Kumbaan", land_small, TYPE, stroke=3)
+    halo_text(ink, (152, 300), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
+    warp_along_arc(
         canvas,
         "the storm-wall",
         feature,
         TYPE_WATER,
         cx=152,
         cy=132,
-        radius=88,
-        start_deg=160,
-        end_deg=20,
+        radius=98,
+        start_deg=195,
+        end_deg=-15,
         stroke=2,
-        tracking=1.16,
     )
 
-    # Heskoren — south-west frontier, distinctly south of the Old World pair.
-    halo_text(ink, (300, 900), "HESKOREN", land, TYPE, stroke=3)
+    # Heskoren — south-west frontier, south of the Old World pair.
+    halo_text(ink, (300, 898), "HESKOREN", land, TYPE, stroke=3)
     halo_text(ink, (300, 932), "the Sundered Reach", caption, TYPE_MUTED, stroke=2)
 
-    # West Water — the wide emptiness between Heskoren and Strandoren.
-    # Stay in the open southern basin; do not start on Heskoren's land.
-    paste_along_path(
+    # West Water — the wide ocean west of Strandoren and north of
+    # Heskoren. Deep arc through the middle of that blue, not a
+    # straight slug and not the north pocket under Kumbaan.
+    warp_along_arc(
         canvas,
         "the West Water",
         water,
         TYPE_WATER,
-        [
-            (538, 778),
-            (590, 760),
-            (650, 752),
-            (715, 762),
-            (768, 782),
-        ],
+        cx=580,
+        cy=950,
+        radius=290,
+        start_deg=120,
+        end_deg=60,
         stroke=3,
-        tracking=1.03,
     )
 
-    # Strandoren — maritime Old-World neighbour, centre of the sheet.
-    halo_text(ink, (800, 158), "STRANDOREN", land, TYPE, stroke=3)
-    halo_text(ink, (800, 188), "the Shore-lands", caption, TYPE_MUTED, stroke=2)
+    # Strandoren — maritime Old-World neighbour.
+    halo_text(ink, (800, 152), "STRANDOREN", land, TYPE, stroke=3)
+    halo_text(ink, (800, 184), "the Shore-lands", caption, TYPE_MUTED, stroke=2)
 
-    # Old Crossing — the crowded strait between Strandoren and Maiethorn.
-    # Follow the water down the channel; do not float in the north ocean.
-    paste_along_path(
+    # Old Crossing — one nearly-vertical word in the actual strait
+    # between Strandoren and Maiethorn, not the north ocean above it.
+    paste_rotated(
         canvas,
         "the Old Crossing",
         crossing,
         TYPE_WATER,
-        [
-            (1096, 238),
-            (1100, 278),
-            (1102, 318),
-            (1094, 358),
-            (1082, 398),
-            (1068, 438),
-        ],
-        stroke=2,
-        tracking=1.02,
+        (1070, 368),
+        -88,
+        stroke=3,
     )
 
-    # Maiethorn — far east, largest old land. Name north of the wet west.
-    halo_text(ink, (1236, 228), "MAIETHORN", land, TYPE, stroke=3)
-    halo_text(ink, (1236, 258), "the Motherland", caption, TYPE_MUTED, stroke=2)
+    # Maiethorn — far east. Name north of the wet west.
+    halo_text(ink, (1240, 222), "MAIETHORN", land, TYPE, stroke=3)
+    halo_text(ink, (1240, 254), "the Motherland", caption, TYPE_MUTED, stroke=2)
 
-    # Rain-Wall — Maiethorn's north–south divide, on the ridge.
-    paste_along_path(
+    # Rain-Wall — bow with Maiethorn's crescent spine.
+    paste_along_arc(
         canvas,
         "the Rain-Wall",
         rain,
         TYPE,
-        [
-            (1364, 360),
-            (1370, 430),
-            (1376, 510),
-            (1386, 590),
-            (1394, 660),
-        ],
+        cx=1280,
+        cy=520,
+        radius=118,
+        start_deg=70,
+        end_deg=-70,
         stroke=2,
-        tracking=1.10,
+        tracking=1.12,
     )
 
     # Compass sits bottom-centre; keep the disclaimer off it and off Heskoren.
