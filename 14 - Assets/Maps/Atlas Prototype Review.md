@@ -9,7 +9,7 @@ aliases: [Atlas Prototypes, Prototype Maps]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Atlas Prototype Review
@@ -97,6 +97,7 @@ These are **non-canon visual texture**, not proposals and not a queue of places 
 - Prototype 2 is retained as a pale engraved experiment suited to annotation.
 - Do not mix world and continent sheets across prototypes. Future atlas work begins from Prototype 3's masters.
 - **Label trial (2026-09-01).** Asking the image model to write on Heskoren redrew the land. A Pillow overlay on the selected C3 master (`Heskoren-Atlas-Labeled.png`) keeps the painting and takes names only from [[Named Ground]]. Atlas sheets stay label-free as the selected handouts.
+- **World overlay (2026-09-03).** Same method on the selected world master (`The-Turning-World-Atlas-Labeled.png`). Four lands and two waters only. Extra painted isles unnamed.
 
 ## Links
 

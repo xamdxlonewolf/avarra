@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Build Plan
@@ -18,7 +18,7 @@ updated: 2026-09-01
 
 ## Active next
 
-**Epic A — Atlas labels (2026-09-01).** One labeled overlay per selected painting, one story / one session. Method locked in A.1: Pillow on the unlabeled master; do not ask the image model to write; names from [[Named Ground]] and [[The Known Map]]; painting vs note → the note wins. **A.1 Heskoren (C3) ✅** — `Heskoren-Atlas-Labeled.png`. **Next: A.2 World sheet.** Remaining: C1 · C2 · C4 · R1–R8. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
+**Epic A — Atlas labels (2026-09-03).** One labeled overlay per selected painting, one story / one session. Method locked in A.1: Pillow on the unlabeled master; do not ask the image model to write; names from [[Named Ground]] and [[The Known Map]]; painting vs note → the note wins. **A.1 Heskoren (C3) ✅** — `Heskoren-Atlas-Labeled.png`. **A.2 World sheet ✅** — `The-Turning-World-Atlas-Labeled.png`. **Next: A.3 Maiethorn (C1).** Remaining: C2 · C4 · R1–R8. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
 
 **Atlas follow-up complete (2026-09-01).** Prototype 3 remains the selected master set. Regional sheets that share a parent are distinct generated paintings, not continent crops: Sacred Core versus Rain-Wall (Maiethorn); Chart-run versus West Water (Strandoren). Styled to the rest of the atlas. [[The Atlas Sheets]] and [[Map Generation Tooling]] record the contract. Incidental generated detail is non-canon. World book untouched.
 

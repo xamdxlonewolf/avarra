@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # Map Generation Tooling
@@ -463,9 +463,10 @@ Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the ima
 ```bash
 python3 -m pip install --upgrade pillow
 python3 "14 - Assets/Maps/label_heskoren_atlas.py"
+python3 "14 - Assets/Maps/label_world_atlas.py"
 ```
 
-That writes `Heskoren-Atlas-Labeled.png` (**Epic A / Story A.1**). Relative seats follow the Known Map schematic and the settlement notes (east vale = Eolvaeth; west pocket = Ornled; the West Water is the *east* sea, toward Strandoren). Incidental generated roofs and field-grids stay unnamed. The unlabeled sheet remains the selected handout. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+That writes `Heskoren-Atlas-Labeled.png` (**Epic A / Story A.1**) and `The-Turning-World-Atlas-Labeled.png` (**Epic A / Story A.2**). Relative seats follow the Known Map schematic and the settlement notes (east vale = Eolvaeth; west pocket = Ornled; the West Water is the *east* sea of Heskoren, toward Strandoren). The world sheet reads west → east: Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall. Incidental generated roofs, field-grids, and extra painted isles stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
 
 Suggested first labels, not a new gazetteer:
 
