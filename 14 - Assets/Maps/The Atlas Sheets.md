@@ -120,7 +120,7 @@ The image-model attempt, for comparison:
 
 ## Label trial — World sheet (2026-09-03)
 
-Pillow overlay on the selected Prototype 3 world master. Seats follow [[Named Ground]] and [[The Known Map]], west → east: Kumbaan · the storm-wall · Heskoren · the West Water · Strandoren · the Old Crossing · Maiethorn · the Rain-Wall. Continent names are large land-type. Seas sit in the middle of their water: the West Water in the southern basin between Heskoren and Strandoren; the Old Crossing down the strait. The storm-wall crowns Kumbaan's foam ring. No fifth land. Decorative stars and extra painted texture stay unnamed. The Rain-Wall sits Maiethorn's spine, not Heskoren's highlands. No graft, city, or Tree named on Kumbaan. Continent epithets are the World Frame handles, not new places. Script: `14 - Assets/Maps/label_world_atlas.py`.
+Pillow overlay on the selected Prototype 3 world master. Seats follow [[Named Ground]] and [[The Known Map]], west → east: Kumbaan · the storm-wall · Heskoren · the West Water · Strandoren · the Old Crossing · Maiethorn · the Rain-Wall. Continent names are large land-type. Seas sit in the middle of their water: the West Water in the southern basin between Heskoren and Strandoren (in the blue, not across either shore); the Old Crossing in the strait, following the channel. The storm-wall is a shallow crown on Kumbaan's foam ring. No fifth land. Decorative stars and extra painted texture stay unnamed. The Rain-Wall sits Maiethorn's spine, not Heskoren's highlands. No graft, city, or Tree named on Kumbaan. Continent epithets are the World Frame handles, not new places. Script: `14 - Assets/Maps/label_world_atlas.py`.
 
 The unlabeled world sheet stays the selected handout.
 

@@ -10,8 +10,9 @@ Rebuild:
 
 West is left. East is right. No fifth land. No graft on Kumbaan.
 The Rain-Wall is Maiethorn's spine, not Heskoren's highlands.
-Seas sit in the middle of their water. The storm-wall follows
-Kumbaan's foam ring.
+Seas sit in the middle of their water. The storm-wall is a
+shallow crown on Kumbaan's foam ring. The Old Crossing follows
+the strait.
 """
 
 from __future__ import annotations
@@ -326,29 +327,40 @@ def build() -> Image.Image:
     halo_text(ink, (500, 80), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
 
     # Kumbaan — name below the ring. Storm-wall is a shallow crown
-    # over the foam, not a tight horseshoe.
+    # over the north foam, not a tight horseshoe.
     halo_text(ink, (152, 272), "Kumbaan", land_small, TYPE, stroke=3)
     halo_text(ink, (152, 300), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
-    # Straight over the north foam. Any arc has read as too curved.
-    halo_text(ink, (152, 68), "the storm-wall", feature, TYPE_WATER, stroke=2)
+    paste_along_arc(
+        canvas,
+        "the storm-wall",
+        feature,
+        TYPE_WATER,
+        cx=158,
+        cy=185,
+        radius=128,
+        start_deg=114,
+        end_deg=66,
+        stroke=2,
+        tracking=1.08,
+    )
 
     # Heskoren — south-west frontier, south of the Old World pair.
     halo_text(ink, (300, 898), "HESKOREN", land, TYPE, stroke=3)
     halo_text(ink, (300, 932), "the Sundered Reach", caption, TYPE_MUTED, stroke=2)
 
-    # West Water — the wide ocean west of Strandoren and north of
-    # Heskoren. Deep arc through the middle of that blue, not a
-    # straight slug and not the north pocket under Kumbaan.
+    # West Water — southern basin between Heskoren and Strandoren.
+    # Sit in the blue, below Strandoren's south coast and east of
+    # Heskoren's north tip — not across either shore.
     warp_along_arc(
         canvas,
         "the West Water",
         water,
         TYPE_WATER,
-        cx=530,
-        cy=740,
-        radius=260,
-        start_deg=122,
-        end_deg=58,
+        cx=635,
+        cy=905,
+        radius=160,
+        start_deg=114,
+        end_deg=66,
         stroke=3,
     )
 
@@ -356,16 +368,23 @@ def build() -> Image.Image:
     halo_text(ink, (800, 152), "STRANDOREN", land, TYPE, stroke=3)
     halo_text(ink, (800, 184), "the Shore-lands", caption, TYPE_MUTED, stroke=2)
 
-    # Old Crossing — one nearly-vertical word in the actual strait
-    # between Strandoren and Maiethorn, not the north ocean above it.
-    paste_rotated(
+    # Old Crossing — in the strait itself, following the water as
+    # it pinches and drifts west toward the southern mouth.
+    paste_along_path(
         canvas,
         "the Old Crossing",
         crossing,
         TYPE_WATER,
-        (1048, 575),
-        -88,
+        [
+            (1090, 335),
+            (1065, 400),
+            (1045, 455),
+            (1042, 520),
+            (1028, 565),
+            (1016, 605),
+        ],
         stroke=3,
+        tracking=1.06,
     )
 
     # Maiethorn — far east. Name north of the wet west.
