@@ -329,16 +329,8 @@ def build() -> Image.Image:
     # over the foam, not a tight horseshoe.
     halo_text(ink, (152, 272), "Kumbaan", land_small, TYPE, stroke=3)
     halo_text(ink, (152, 300), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
-    # Gentle tilt over the north foam — a full horseshoe read as too curved.
-    paste_rotated(
-        canvas,
-        "the storm-wall",
-        feature,
-        TYPE_WATER,
-        (158, 70),
-        -8,
-        stroke=2,
-    )
+    # Straight over the north foam. Any arc has read as too curved.
+    halo_text(ink, (152, 68), "the storm-wall", feature, TYPE_WATER, stroke=2)
 
     # Heskoren — south-west frontier, south of the Old World pair.
     halo_text(ink, (300, 898), "HESKOREN", land, TYPE, stroke=3)
@@ -352,11 +344,11 @@ def build() -> Image.Image:
         "the West Water",
         water,
         TYPE_WATER,
-        cx=575,
-        cy=890,
-        radius=290,
-        start_deg=120,
-        end_deg=60,
+        cx=530,
+        cy=740,
+        radius=260,
+        start_deg=122,
+        end_deg=58,
         stroke=3,
     )
 
@@ -371,7 +363,7 @@ def build() -> Image.Image:
         "the Old Crossing",
         crossing,
         TYPE_WATER,
-        (1054, 488),
+        (1048, 575),
         -88,
         stroke=3,
     )
