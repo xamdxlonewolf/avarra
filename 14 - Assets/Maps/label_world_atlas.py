@@ -325,20 +325,18 @@ def build() -> Image.Image:
     halo_text(ink, (500, 50), "THE TURNING", title, TYPE, stroke=3)
     halo_text(ink, (500, 80), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
 
-    # Kumbaan — name below the ring. Storm-wall wraps the foam in a
-    # deep horseshoe so the curve is the first thing you read.
+    # Kumbaan — name below the ring. Storm-wall is a shallow crown
+    # over the foam, not a tight horseshoe.
     halo_text(ink, (152, 272), "Kumbaan", land_small, TYPE, stroke=3)
     halo_text(ink, (152, 300), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
-    warp_along_arc(
+    # Gentle tilt over the north foam — a full horseshoe read as too curved.
+    paste_rotated(
         canvas,
         "the storm-wall",
         feature,
         TYPE_WATER,
-        cx=152,
-        cy=132,
-        radius=98,
-        start_deg=195,
-        end_deg=-15,
+        (158, 70),
+        -8,
         stroke=2,
     )
 
@@ -354,8 +352,8 @@ def build() -> Image.Image:
         "the West Water",
         water,
         TYPE_WATER,
-        cx=580,
-        cy=950,
+        cx=575,
+        cy=890,
         radius=290,
         start_deg=120,
         end_deg=60,
@@ -373,7 +371,7 @@ def build() -> Image.Image:
         "the Old Crossing",
         crossing,
         TYPE_WATER,
-        (1070, 368),
+        (1054, 488),
         -88,
         stroke=3,
     )
