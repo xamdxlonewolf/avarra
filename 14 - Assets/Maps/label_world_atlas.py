@@ -302,6 +302,34 @@ def paste_along_path(
         walked += width
 
 
+def cubic_bezier_points(
+    start: tuple[float, float],
+    control_1: tuple[float, float],
+    control_2: tuple[float, float],
+    end: tuple[float, float],
+    steps: int = 32,
+) -> list[tuple[float, float]]:
+    """Sample a smooth cubic path for labels that follow natural water."""
+    points: list[tuple[float, float]] = []
+    for index in range(steps + 1):
+        t = index / steps
+        u = 1.0 - t
+        x = (
+            u**3 * start[0]
+            + 3 * u**2 * t * control_1[0]
+            + 3 * u * t**2 * control_2[0]
+            + t**3 * end[0]
+        )
+        y = (
+            u**3 * start[1]
+            + 3 * u**2 * t * control_1[1]
+            + 3 * u * t**2 * control_2[1]
+            + t**3 * end[1]
+        )
+        points.append((x, y))
+    return points
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1536, 1024):
@@ -316,7 +344,7 @@ def build() -> Image.Image:
     caption = font(SERIF_ITALIC, 17)
     water = font(SERIF_BOLD_ITALIC, 36)
     crossing = font(SERIF_BOLD_ITALIC, 26)
-    feature = font(SERIF_ITALIC, 20)
+    storm = font(SERIF_BOLD_ITALIC, 22)
     rain = font(SERIF_ITALIC, 20)
     note = font(SERIF_ITALIC, 13)
 
@@ -330,18 +358,17 @@ def build() -> Image.Image:
     # over the north foam, not a tight horseshoe.
     halo_text(ink, (152, 272), "Kumbaan", land_small, TYPE, stroke=3)
     halo_text(ink, (152, 300), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
-    paste_along_arc(
+    warp_along_arc(
         canvas,
         "the storm-wall",
-        feature,
+        storm,
         TYPE_WATER,
         cx=158,
-        cy=185,
-        radius=128,
-        start_deg=114,
-        end_deg=66,
-        stroke=2,
-        tracking=1.08,
+        cy=480,
+        radius=420,
+        start_deg=99,
+        end_deg=81,
+        stroke=3,
     )
 
     # Heskoren — south-west frontier, south of the Old World pair.
@@ -357,10 +384,10 @@ def build() -> Image.Image:
         water,
         TYPE_WATER,
         cx=635,
-        cy=905,
-        radius=160,
-        start_deg=114,
-        end_deg=66,
+        cy=1010,
+        radius=250,
+        start_deg=118,
+        end_deg=62,
         stroke=3,
     )
 
@@ -375,14 +402,12 @@ def build() -> Image.Image:
         "the Old Crossing",
         crossing,
         TYPE_WATER,
-        [
+        cubic_bezier_points(
             (1090, 335),
-            (1065, 400),
-            (1045, 455),
-            (1042, 520),
-            (1028, 565),
+            (1050, 395),
+            (1060, 505),
             (1016, 605),
-        ],
+        ),
         stroke=3,
         tracking=1.06,
     )
