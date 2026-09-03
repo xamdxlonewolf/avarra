@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-09-01
+updated: 2026-09-03
 ---
 
 # The Atlas Sheets
@@ -90,6 +90,10 @@ No graft. No city. The wall is the climate.
 
 ![[The-Turning-World-Atlas.png]]
 
+Labeled overlay (2026-09-03). Pillow on this master, not a new survey. Rebuild with `label_world_atlas.py`.
+
+![[The-Turning-World-Atlas-Labeled.png]]
+
 ## Regional rebuild review — 2026-09-01
 
 - All eight sheets use the dark, weather-forward Prototype 3 portolan hand and bronze frame.
@@ -110,11 +114,17 @@ Tried putting names on the painting even though the generate prompts say **NO TE
 
 The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. If a painted cluster and a note disagree, the note wins. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.2–A.13 — one sheet, one session. Copy the Heskoren overlay script; do not ask the image model to write.
-
 The image-model attempt, for comparison:
 
 ![[label-trials/Heskoren-Atlas-labeled-gen.png]]
+
+## Label trial — World sheet (2026-09-03)
+
+Pillow overlay on the selected Prototype 3 world master. Seats follow [[Named Ground]] and [[The Known Map]], west → east: Kumbaan · the storm-wall · Heskoren · the West Water · Strandoren · the Old Crossing · Maiethorn · the Rain-Wall. No fifth land. Decorative stars and extra painted texture stay unnamed. The Rain-Wall sits Maiethorn's spine, not Heskoren's highlands. No graft, city, or Tree named on Kumbaan. Continent epithets are the World Frame handles, not new places. Script: `14 - Assets/Maps/label_world_atlas.py`.
+
+The unlabeled world sheet stays the selected handout.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.3–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
