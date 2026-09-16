@@ -211,8 +211,6 @@ def build() -> Image.Image:
         "Maiethlir",
         (514, 354),
         place_f,
-        caption="Threnmaieth",
-        caption_font=caption_f,
         off=(-22, -29),
         anchor="rm",
     )
