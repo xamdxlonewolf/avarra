@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-09-03
+updated: 2026-09-16
 ---
 
 # The Atlas Sheets
@@ -33,6 +33,10 @@ updated: 2026-09-03
 ### Maiethorn (C1)
 
 ![[Maiethorn-Atlas.png]]
+
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_maiethorn_atlas.py`.
+
+![[Maiethorn-Atlas-Labeled.png]]
 
 ### Strandoren (C2)
 
@@ -124,7 +128,13 @@ Pillow overlay on the selected Prototype 3 world master. Seats follow [[Named Gr
 
 The unlabeled world sheet stays the selected handout.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.3–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Maiethorn overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 C1 master. The nine labels come from [[Named Ground]], [[The Known Map]], and the locked C1 prompt: Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Hinge Shore. Thaeloren sits in the circular old-growth heart and uses a canopy-ring marker as the sole exceptional Tree. The Inner Close is a small walled-town mark inside Orenbren, one day's walk from Thaeloren, and not a capital or sixteenth power. Maiethlir sits where the west-running Core-thaw slows. Noon Pass is the older high northern notch; Shelf-gate is the lower road. The Hinge Shore marks the western Old Crossing face, and Rain-Shadow is broad climate type east of the watershed rather than a border.
+
+The unlabeled C1 sheet stays the selected handout. Incidental rivers, roofs, paths, and wells remain unnamed. Script: `14 - Assets/Maps/label_maiethorn_atlas.py`.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.4–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
