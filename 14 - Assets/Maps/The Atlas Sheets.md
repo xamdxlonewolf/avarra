@@ -70,6 +70,10 @@ Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild w
 
 ![[Old-Crossing-Atlas.png]]
 
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_old_crossing_atlas.py`.
+
+![[Old-Crossing-Atlas-Labeled.png]]
+
 ### R2 — Sacred Core / Motherwood
 
 ![[Sacred-Core-Atlas.png]]
@@ -158,13 +162,19 @@ Pillow overlay on the selected Prototype 3 C4 master. Kumbaan is the only land l
 
 The unlabeled C4 sheet stays the selected handout. Script: `14 - Assets/Maps/label_kumbaan_atlas.py`.
 
+## Old Crossing overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 R1 master. The chart names the Old Crossing in the channel. Orentel receives a plain settlement dot at the large Strandoren estuary on the western face, not a capital star. The Hinge Shore follows the opposite Maiethorn coast as area-type because its seat remains unnamed. The Hush-rate appears as a compact docket-like cartouche captioned *crossing charge*: no line crosses the water, and no territorial fill or political border is implied. Incidental quays, hulls, tributaries, roof clusters, and field divisions remain unnamed.
+
+The unlabeled R1 sheet stays the selected handout. Script: `14 - Assets/Maps/label_old_crossing_atlas.py`.
+
 ## Sacred Core overlay — 2026-09-16
 
 Pillow overlay on the selected Prototype 3 R2 master. The four labels come from [[Named Ground]], [[The Known Map]], the R2 prompt, and their settlement notes. Thaeloren uses a canopy-ring mark at the sole exceptional Tree in the central old-growth grove; the First Seat receives no separate throne or capital mark. The Inner Close is the walled town one day's walk out, inside Orenbren lodging-country. The Third Hearth is a modest road-house mark three days outward on the same Near Mile, not a city or power. Maiethlir is the counted river-city where the Core-thaw slows, reached by a different river road. No incidental clearing, roof cluster, road branch, or forest track was named.
 
 The unlabeled R2 sheet stays the selected handout. Script: `14 - Assets/Maps/label_sacred_core_atlas.py`.
 
-**Queue.** Unfinished sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.6 and A.8–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.8–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
