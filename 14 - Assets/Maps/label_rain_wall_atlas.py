@@ -6,9 +6,10 @@ Ground, the Known Map schematic, and the R3 prompt. Rebuild:
 
     python3 "14 - Assets/Maps/label_rain_wall_atlas.py"
 
-West is left. Lirorn calls Maiethorn's Rain-Wall the Thaw-Wall. Noon Pass
-is the old high road; Shelf-gate is the lower road left after the Break.
-These highlands are not Heskoren's spine and carry no Kind-territory fill.
+West is left. Rain-Wall is the common name; Lirorn calls it the Thaw-Wall.
+Noon Pass is the old high road; Shelf-gate is the lower road left after
+the Break. These highlands are not Heskoren's spine and carry no
+Kind-territory fill.
 """
 
 from __future__ import annotations
@@ -121,12 +122,11 @@ def build() -> Image.Image:
     caption_f = font(SERIF, 13)
     note = font(SERIF_ITALIC, 13)
 
-    # Name the divide by Lirorn's everyday handle. The smaller line makes the
-    # relationship to the continent-scale Rain-Wall explicit without adding a
-    # second mapped feature.
-    halo_text(ink, (252, 74), "THE THAW-WALL", title, TYPE)
-    halo_text(ink, (252, 104), "Lirorn's Rain-Wall", subtitle, TYPE_MUTED, stroke=2)
-    paste_rotated(canvas, "THE THAW-WALL", region, TYPE, (941, 506), angle=72)
+    # Rain-Wall is the common atlas name. Lirorn's Thaw-Wall remains a local
+    # secondary handle rather than replacing the mapped feature's name.
+    halo_text(ink, (252, 74), "THE RAIN-WALL", title, TYPE)
+    halo_text(ink, (252, 104), "Lirorn: the Thaw-Wall", subtitle, TYPE_MUTED, stroke=2)
+    paste_rotated(canvas, "THE RAIN-WALL", region, TYPE, (941, 506), angle=72)
 
     # Noon Pass is the older, higher northern notch. Its pale water-line and
     # the road ribbon remain physical texture; the overlay adds no boundary.

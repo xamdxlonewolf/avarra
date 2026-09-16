@@ -591,13 +591,13 @@ One session. Master: `Sacred-Core-Atlas.png`. Labels: Thaeloren · Inner Close �
 
 ### Story A.8 — Rain-Wall (R3) ✅ **DONE (2026-09-16)**
 One session. Master: `Rain-Wall-Atlas.png`.
-- [x] Read [[Named Ground]], [[The Known Map]], and the R3 prompt on [[Map Generation Tooling]]; use only Thaw-Wall, Noon Pass, and Shelf-gate
+- [x] Read [[Named Ground]], [[The Known Map]], and the R3 prompt on [[Map Generation Tooling]]; use only Rain-Wall (with Thaw-Wall as Lirorn's local handle), Noon Pass, and Shelf-gate
 - [x] Write a Pillow overlay on the selected R3 master; do not ask the image model to write
 - [x] Seat Noon Pass at the older high northern road-notch and Shelf-gate at the lower surviving road; use notch marks, not settlement marks or borders
-- [x] Name Lirorn's Thaw-Wall without claiming Heskoren's separate spine or drawing Tengu- or Fox-nation colour
+- [x] Name the Rain-Wall, with Lirorn's Thaw-Wall handle secondary, without claiming Heskoren's separate spine or drawing Tengu- or Fox-nation colour
 - [x] Record the labeled file on [[The Atlas Sheets]]; unlabeled R3 sheet stays the handout
 
-> **A.8 recorded decisions (2026-09-16).** `Rain-Wall-Atlas-Labeled.png` is one Pillow overlay on the selected R3 master. The Thaw-Wall is Lirorn's common handle for Maiethorn's Rain-Wall, not a second range. Noon Pass points to the older high northern road-notch and its water-line; Shelf-gate points to the lower road left after the Break. Small notch marks distinguish both from settlements and draw no border. Wet west, dry east, snow-shelves, ridge towns, roads, and rivers remain unnamed painted texture. Nothing claims Heskoren's separate spine or turns Tengu or Fox-of-the-Snows hearth density into a nation. Unlabeled R3 stays the handout. World book untouched.
+> **A.8 recorded decisions (2026-09-16).** `Rain-Wall-Atlas-Labeled.png` is one Pillow overlay on the selected R3 master. Rain-Wall is the primary atlas label; Thaw-Wall is Lirorn's local secondary handle, not a second range. Noon Pass points to the older high northern road-notch and its water-line; Shelf-gate points to the lower road left after the Break. Small notch marks distinguish both from settlements and draw no border. Wet west, dry east, snow-shelves, ridge towns, roads, and rivers remain unnamed painted texture. Nothing claims Heskoren's separate spine or turns Tengu or Fox-of-the-Snows hearth density into a nation. Unlabeled R3 stays the handout. World book untouched.
 
 ### Story A.9 — Rain-Shadow (R4)
 One session. Master: `Rain-Shadow-Atlas.png`. Labels: Ornsael · Well-wash · Dry Stair. Decompose to tasks when opened.
