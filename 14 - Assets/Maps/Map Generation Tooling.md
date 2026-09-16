@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-09-03
+updated: 2026-09-16
 ---
 
 # Map Generation Tooling
@@ -473,7 +473,7 @@ Suggested first labels, not a new gazetteer:
 | Art | Write on after |
 |---|---|
 | W | Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall |
-| C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Hinge Shore |
+| C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Wall · Rain-Shadow · Hinge Shore · Ornsael · Well-wash |
 | C2 | Orentel · Chart-run · Trenledd · Netstrand |
 | C3 | Eolvaeth · Harrow's · Brenod / Vaelun / Ornath · the First Bowl · Ornled · last capes · slate-shore |
 | C4 | nothing that implies a graft |
