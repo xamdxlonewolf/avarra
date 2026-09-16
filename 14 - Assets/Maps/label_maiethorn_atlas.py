@@ -185,7 +185,7 @@ def build() -> Image.Image:
     halo_text(ink, (160, 124), "the Motherland", subtitle, TYPE_MUTED, stroke=2)
 
     # The Old Crossing face: a coast-region, not a single invented port.
-    paste_rotated(canvas, "the Hinge Shore", region, TYPE_WATER, (244, 466), angle=78)
+    paste_rotated(canvas, "The Hinge Shore", region, TYPE_WATER, (244, 466), angle=78)
 
     # The exceptional canopy sits in the circular old-growth heart.
     ink = ImageDraw.Draw(canvas)
@@ -204,7 +204,7 @@ def build() -> Image.Image:
     halo_text(ink, (724, 500), "inside Orenbren", caption_f, TYPE_MUTED, anchor="lm", stroke=2)
 
     # Core-thaw leaves the west face of the divide and slows near Maiethlir.
-    paste_rotated(canvas, "the Core-thaw", terrain, TYPE_WATER, (594, 337), angle=8, stroke=2)
+    paste_rotated(canvas, "The Core-thaw", terrain, TYPE_WATER, (594, 337), angle=8, stroke=2)
     ink = ImageDraw.Draw(canvas)
     place(
         ink,
@@ -219,6 +219,23 @@ def build() -> Image.Image:
     # higher northern notch; Shelf-gate is the lower road left after the Break.
     paste_rotated(canvas, "Noon Pass", small, TYPE, (833, 300), angle=67, stroke=2)
     paste_rotated(canvas, "Shelf-gate", small, TYPE, (802, 604), angle=72, stroke=2)
+
+    # Name the continent-scale divide itself as well as its two usable notches.
+    paste_rotated(canvas, "THE RAIN-WALL", region, TYPE, (913, 470), angle=73)
+
+    # The eastern half gets its continent-scale settlement and seasonal water.
+    # Finer Rain-Shadow sites remain for the dedicated R4 sheet.
+    paste_rotated(canvas, "The Well-wash", terrain, TYPE_WATER, (1108, 520), angle=-10, stroke=2)
+    ink = ImageDraw.Draw(canvas)
+    place(
+        ink,
+        "Ornsael",
+        (1190, 570),
+        place_f,
+        off=(18, -24),
+        anchor="lm",
+        radius=4,
+    )
 
     # Broad climate label east of the watershed, not a border or polity fill.
     paste_rotated(canvas, "RAIN-SHADOW", region, TYPE, (1124, 646), angle=-8)

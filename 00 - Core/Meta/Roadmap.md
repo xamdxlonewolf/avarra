@@ -553,10 +553,10 @@ One session. Master: `The-Turning-World-Atlas.png`.
 One session. Master: `Maiethorn-Atlas.png`.
 - [x] Read [[Named Ground]], [[The Known Map]], and the C1 prompt on [[Map Generation Tooling]]; list only those names
 - [x] Write a Pillow overlay on the selected C1 master; do not ask the image model to write
-- [x] Seat Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Shadow · Hinge Shore. One exceptional Tree. No capital star on the First Seat
+- [x] Seat Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Wall · Rain-Shadow · Hinge Shore · Ornsael · Well-wash. One exceptional Tree. No capital star on the First Seat
 - [x] Record the labeled file on [[The Atlas Sheets]]; unlabeled C1 sheet stays the handout
 
-> **A.3 recorded decisions (2026-09-16).** `Maiethorn-Atlas-Labeled.png` is one Pillow overlay on the selected C1 master. Thaeloren uses a canopy-ring mark in the old-growth heart, not a capital star. The Inner Close is a small walled-town mark inside Orenbren, one day's walk from the Tree; it is neither a capital nor a sixteenth power. Maiethlir sits on the west-running Core-thaw. Noon Pass is the older high northern notch; Shelf-gate is the lower road left after the Break. Hinge Shore is coast-type on the Old Crossing face; Rain-Shadow is climate-type east of the watershed, not a border. Incidental painted detail remains unnamed. Unlabeled C1 stays the handout. World book untouched.
+> **A.3 recorded decisions (2026-09-16).** `Maiethorn-Atlas-Labeled.png` is one Pillow overlay on the selected C1 master. Thaeloren uses a canopy-ring mark in the old-growth heart, not a capital star. The Inner Close is a small walled-town mark inside Orenbren, one day's walk from the Tree; it is neither a capital nor a sixteenth power. Maiethlir sits on the west-running Core-thaw. Noon Pass is the older high northern notch; Shelf-gate is the lower road left after the Break. The Rain-Wall names the full mountain divide. The Hinge Shore is coast-type on the Old Crossing face; Rain-Shadow is climate-type east of the watershed, not a border. Ornsael and the Well-wash keep the dry east legible at continent scale; the Dry Stair remains for R4. Incidental painted detail remains unnamed. Formal map labels capitalize their leading articles. Unlabeled C1 stays the handout. World book untouched.
 
 ### Story A.4 — Strandoren (C2)
 One session. Master: `Strandoren-Atlas.png`. Labels: Orentel · Chart-run · Trenledd · Netstrand. Decompose to tasks when opened.
