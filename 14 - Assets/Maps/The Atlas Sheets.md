@@ -78,6 +78,10 @@ Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild w
 
 ![[Sacred-Core-Atlas.png]]
 
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_sacred_core_atlas.py`.
+
+![[Sacred-Core-Atlas-Labeled.png]]
+
 ### R3 — the Rain-Wall
 
 ![[Rain-Wall-Atlas.png]]
@@ -164,7 +168,13 @@ Pillow overlay on the selected Prototype 3 R1 master. The chart names the Old Cr
 
 The unlabeled R1 sheet stays the selected handout. Script: `14 - Assets/Maps/label_old_crossing_atlas.py`.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.7–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Sacred Core overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 R2 master. The four labels come from [[Named Ground]], [[The Known Map]], the R2 prompt, and their settlement notes. Thaeloren uses a canopy-ring mark at the sole exceptional Tree in the central old-growth grove; the First Seat receives no separate throne or capital mark. The Inner Close is the walled town one day's walk out, inside Orenbren lodging-country. The Third Hearth is a modest road-house mark three days outward on the same Near Mile, not a city or power. Maiethlir is the counted river-city where the Core-thaw slows, reached by a different river road. No incidental clearing, roof cluster, road branch, or forest track was named.
+
+The unlabeled R2 sheet stays the selected handout. Script: `14 - Assets/Maps/label_sacred_core_atlas.py`.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.8–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
