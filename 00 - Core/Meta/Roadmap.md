@@ -521,7 +521,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ---
 
 ## Epic A — Atlas labels
-**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.3 done (2026-09-16); rest queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
+**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.4 done (2026-09-16); rest queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
 
 > **What this is.** The selected Prototype 3 paintings stay label-free as the handouts. Each story adds a Pillow overlay on *one* master. Names come from [[Named Ground]] and [[The Known Map]] only. If a painting and a note disagree, the note wins. Incidental roofs, field-grids, extra isles, and decorative weather stay unnamed.
 
@@ -558,8 +558,14 @@ One session. Master: `Maiethorn-Atlas.png`.
 
 > **A.3 recorded decisions (2026-09-16).** `Maiethorn-Atlas-Labeled.png` is one Pillow overlay on the selected C1 master. Thaeloren uses a canopy-ring mark in the old-growth heart, not a capital star. The Inner Close is a small walled-town mark inside Orenbren, one day's walk from the Tree; it is neither a capital nor a sixteenth power. Maiethlir sits on the west-running Core-thaw. Noon Pass is the older high northern notch; Shelf-gate is the lower road left after the Break. The Rain-Wall names the full mountain divide. The Hinge Shore is coast-type on the Old Crossing face; Rain-Shadow is climate-type east of the watershed, not a border. Ornsael and the Well-wash keep the dry east legible at continent scale; the Dry Stair remains for R4. Incidental painted detail remains unnamed. Formal map labels capitalize their leading articles. Unlabeled C1 stays the handout. World book untouched.
 
-### Story A.4 — Strandoren (C2)
-One session. Master: `Strandoren-Atlas.png`. Labels: Orentel · Chart-run · Trenledd · Netstrand. Decompose to tasks when opened.
+### Story A.4 — Strandoren (C2) ✅ **DONE (2026-09-16)**
+One session. Master: `Strandoren-Atlas.png`.
+- [x] Read [[Named Ground]], [[The Known Map]], and the C2 prompt on [[Map Generation Tooling]]; list only those names
+- [x] Write a Pillow overlay on the selected C2 master; do not ask the image model to write
+- [x] Seat Orentel at the large eastern estuary · Chart-run from the west · Trenledd over the wealthy filed interior · Netstrand on the open-ocean west and south face. No borders and no capital star
+- [x] Record the labeled file on [[The Atlas Sheets]]; unlabeled C2 sheet stays the handout
+
+> **A.4 recorded decisions (2026-09-16).** `Strandoren-Atlas-Labeled.png` is one Pillow overlay on the selected C2 master. Orentel receives a plain settlement dot at the large eastern estuary, not a capital star. The Chart-run follows the broad interior river toward it from the west. Trenledd and Netstrand are area-type because both seats remain unnamed: Trenledd over the wealthy filed interior; Netstrand on the open-ocean west and south face. No political borders were inferred from the painting. Incidental harbours, river branches, roofs, and field divisions remain unnamed. Unlabeled C2 stays the handout. World book untouched.
 
 ### Story A.5 — Kumbaan (C4)
 One session. Master: `Kumbaan-Atlas.png`. Labels: the isle and the storm-wall only. **Nothing that implies a graft, a city, or a Tree.** Decompose to tasks when opened.
@@ -594,7 +600,7 @@ One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale �
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** Overlay method locked. Remaining stories A.4–A.13 queued, one sheet per session. Next: **A.4 Strandoren (C2).** World book untouched.
+- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** Overlay method locked. Remaining stories A.5–A.13 queued, one sheet per session. Next: **A.5 Kumbaan (C4).** World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end still a type. World book untouched.
