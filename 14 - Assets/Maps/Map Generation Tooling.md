@@ -464,9 +464,12 @@ Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the ima
 python3 -m pip install --upgrade pillow
 python3 "14 - Assets/Maps/label_heskoren_atlas.py"
 python3 "14 - Assets/Maps/label_world_atlas.py"
+python3 "14 - Assets/Maps/label_maiethorn_atlas.py"
+python3 "14 - Assets/Maps/label_strandoren_atlas.py"
+python3 "14 - Assets/Maps/label_kumbaan_atlas.py"
 ```
 
-That writes `Heskoren-Atlas-Labeled.png` (**Epic A / Story A.1**) and `The-Turning-World-Atlas-Labeled.png` (**Epic A / Story A.2**). Relative seats follow the Known Map schematic and the settlement notes (east vale = Eolvaeth; west pocket = Ornled; the West Water is the *east* sea of Heskoren, toward Strandoren). The world sheet reads west → east: Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall. Incidental generated roofs, field-grids, and extra painted isles stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+These write the labeled overlays completed through **Epic A / Story A.5**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. Incidental generated roofs, field-grids, standing stones, wrecks, and extra painted isles stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
 
 Suggested first labels, not a new gazetteer:
 
@@ -476,7 +479,7 @@ Suggested first labels, not a new gazetteer:
 | C1 | Thaeloren · Inner Close · Orenbren · Maiethlir · Core-thaw · Noon Pass · Shelf-gate · Rain-Wall · Rain-Shadow · Hinge Shore · Ornsael · Well-wash |
 | C2 | Orentel · Chart-run · Trenledd · Netstrand |
 | C3 | Eolvaeth · Harrow's · Brenod / Vaelun / Ornath · the First Bowl · Ornled · last capes · slate-shore |
-| C4 | nothing that implies a graft |
+| C4 | Kumbaan · storm-wall; nothing that implies a graft, city, harbour, settlement, safe channel, or Tree |
 | R1 | Hinge Shore · Orentel · Hush-rate as a rate, not a border |
 | R2 | Thaeloren · Inner Close · Third Hearth · Maiethlir |
 | R3 | Thaw-Wall · Noon Pass · Shelf-gate |
