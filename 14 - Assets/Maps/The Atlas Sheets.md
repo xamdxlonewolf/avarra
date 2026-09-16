@@ -60,6 +60,10 @@ No graft. No city. The wall is the climate.
 
 ![[Kumbaan-Atlas.png]]
 
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_kumbaan_atlas.py`.
+
+![[Kumbaan-Atlas-Labeled.png]]
+
 ## Regions
 
 ### R1 — the Old Crossing
@@ -144,7 +148,13 @@ Pillow overlay on the selected Prototype 3 C2 master. The four map labels come f
 
 The unlabeled C2 sheet stays the selected handout. Script: `14 - Assets/Maps/label_strandoren_atlas.py`.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.5–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Kumbaan overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 C4 master. Kumbaan is the only land label, seated over the central hill-country without a point marker; *the Sundering Isle* is its subordinate common-tongue epithet. The storm-wall follows the northern outer cloud-ring and names the complete girdle of cloud, current, and reef, not a political border or a break in the weather. No painted standing stone, wreck, hill, path, or interior texture is named. Nothing marks a graft, city, harbour, settlement, safe channel, or Tree.
+
+The unlabeled C4 sheet stays the selected handout. Script: `14 - Assets/Maps/label_kumbaan_atlas.py`.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.6–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
