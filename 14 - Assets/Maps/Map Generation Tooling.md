@@ -467,9 +467,10 @@ python3 "14 - Assets/Maps/label_world_atlas.py"
 python3 "14 - Assets/Maps/label_maiethorn_atlas.py"
 python3 "14 - Assets/Maps/label_strandoren_atlas.py"
 python3 "14 - Assets/Maps/label_kumbaan_atlas.py"
+python3 "14 - Assets/Maps/label_sacred_core_atlas.py"
 ```
 
-These write the labeled overlays completed through **Epic A / Story A.5**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. Incidental generated roofs, field-grids, standing stones, wrecks, and extra painted isles stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+These write the labeled overlays completed in **Epic A / Stories A.1–A.5 and A.7**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, and extra painted isles stay unnamed. Unlabeled sheets remain the selected handouts. Unfinished sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
 
 Suggested first labels, not a new gazetteer:
 
