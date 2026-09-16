@@ -70,6 +70,10 @@ Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild w
 
 ![[Old-Crossing-Atlas.png]]
 
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_old_crossing_atlas.py`.
+
+![[Old-Crossing-Atlas-Labeled.png]]
+
 ### R2 — Sacred Core / Motherwood
 
 ![[Sacred-Core-Atlas.png]]
@@ -154,7 +158,13 @@ Pillow overlay on the selected Prototype 3 C4 master. Kumbaan is the only land l
 
 The unlabeled C4 sheet stays the selected handout. Script: `14 - Assets/Maps/label_kumbaan_atlas.py`.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.6–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Old Crossing overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 R1 master. The chart names the Old Crossing in the channel. Orentel receives a plain settlement dot at the large Strandoren estuary on the western face, not a capital star. The Hinge Shore follows the opposite Maiethorn coast as area-type because its seat remains unnamed. The Hush-rate appears as a compact docket-like cartouche captioned *crossing charge*: no line crosses the water, and no territorial fill or political border is implied. Incidental quays, hulls, tributaries, roof clusters, and field divisions remain unnamed.
+
+The unlabeled R1 sheet stays the selected handout. Script: `14 - Assets/Maps/label_old_crossing_atlas.py`.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.7–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic

@@ -43,7 +43,7 @@ updated: 2026-09-16
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟢 architecture done; still alongside |
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
-| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | A.1–A.3 done; next A.4 |
+| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | A.1–A.6 done; next A.7 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -521,7 +521,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ---
 
 ## Epic A — Atlas labels
-**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.5 done (2026-09-16); rest queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
+**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.6 done (2026-09-16); rest queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
 
 > **What this is.** The selected Prototype 3 paintings stay label-free as the handouts. Each story adds a Pillow overlay on *one* master. Names come from [[Named Ground]] and [[The Known Map]] only. If a painting and a note disagree, the note wins. Incidental roofs, field-grids, extra isles, and decorative weather stay unnamed.
 
@@ -576,8 +576,15 @@ One session. Master: `Kumbaan-Atlas.png`.
 
 > **A.5 recorded decisions (2026-09-16).** `Kumbaan-Atlas-Labeled.png` is one Pillow overlay on the selected C4 master. Kumbaan receives land-type and its common-tongue epithet, without a point marker. The storm-wall follows the northern outer cloud-ring as a label for the complete girdle of cloud, current, and reef; the arc is not a border or an opening. No painted standing stone, wreck, hill, path, or interior texture is named. Nothing marks a graft, city, harbour, settlement, safe channel, or Tree. Unlabeled C4 stays the handout. World book untouched.
 
-### Story A.6 — Old Crossing (R1)
-One session. Master: `Old-Crossing-Atlas.png`. Labels: Hinge Shore · Orentel · Hush-rate as a rate, not a border. Decompose to tasks when opened.
+### Story A.6 — Old Crossing (R1) ✅ **DONE (2026-09-16)**
+One session. Master: `Old-Crossing-Atlas.png`.
+- [x] Read [[Named Ground]], [[The Known Map]], the R1 prompt on [[Map Generation Tooling]], and [[The Hinge Hush]]; use only the crossing, Hinge Shore, Orentel, and Hush-rate
+- [x] Write a Pillow overlay on the selected R1 master; do not ask the image model to write
+- [x] Seat Orentel at the large Strandoren estuary and the Hinge Shore as area-type on the opposite Maiethorn coast; use no capital star and invent no Hinge seat
+- [x] Show the Hush-rate as a compact crossing-charge cartouche in the channel, with no border line
+- [x] Record the labeled file on [[The Atlas Sheets]]; unlabeled R1 sheet stays the handout
+
+> **A.6 recorded decisions (2026-09-16).** `Old-Crossing-Atlas-Labeled.png` is one Pillow overlay on the selected R1 master. Orentel receives a plain settlement dot at the large western estuary, not a capital star. The Hinge Shore follows the opposite coast as area-type because its seat remains unnamed. The Hush-rate is a small docket-like plate in the channel captioned as a crossing charge; no line, territorial fill, or political border is drawn. The chart names the Old Crossing itself but promotes no incidental quay, hull, tributary, roof cluster, or field division. Unlabeled R1 stays the handout. World book untouched.
 
 ### Story A.7 — Sacred Core (R2)
 One session. Master: `Sacred-Core-Atlas.png`. Labels: Thaeloren · Inner Close · Third Hearth · Maiethlir. One exceptional Tree. Decompose to tasks when opened.
@@ -606,7 +613,7 @@ One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale �
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** Overlay method locked. Remaining stories A.6–A.13 queued, one sheet per session. Next: **A.6 Old Crossing (R1).** World book untouched.
+- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** Overlay method locked. Remaining stories A.7–A.13 queued, one sheet per session. Next: **A.7 Sacred Core (R2).** World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end still a type. World book untouched.
