@@ -467,9 +467,10 @@ python3 "14 - Assets/Maps/label_world_atlas.py"
 python3 "14 - Assets/Maps/label_maiethorn_atlas.py"
 python3 "14 - Assets/Maps/label_strandoren_atlas.py"
 python3 "14 - Assets/Maps/label_kumbaan_atlas.py"
+python3 "14 - Assets/Maps/label_old_crossing_atlas.py"
 ```
 
-These write the labeled overlays completed through **Epic A / Story A.5**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. Incidental generated roofs, field-grids, standing stones, wrecks, and extra painted isles stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+These write the labeled overlays completed through **Epic A / Story A.6**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Incidental generated roofs, field-grids, standing stones, wrecks, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
 
 Suggested first labels, not a new gazetteer:
 
