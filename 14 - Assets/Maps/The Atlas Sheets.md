@@ -86,6 +86,10 @@ Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild w
 
 ![[Rain-Wall-Atlas.png]]
 
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_rain_wall_atlas.py`.
+
+![[Rain-Wall-Atlas-Labeled.png]]
+
 ### R4 — Rain-Shadow
 
 ![[Rain-Shadow-Atlas.png]]
@@ -174,7 +178,13 @@ Pillow overlay on the selected Prototype 3 R2 master. The four labels come from 
 
 The unlabeled R2 sheet stays the selected handout. Script: `14 - Assets/Maps/label_sacred_core_atlas.py`.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.8–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Rain-Wall overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 R3 master. **The Rain-Wall** names Maiethorn's weathered north–south divide; Lirorn's local **Thaw-Wall** handle appears only as a secondary subtitle. The Noon Pass points to the older high northern road-notch and its water-line; Shelf-gate points to the lower road left after the Break. Small notch marks distinguish both from settlements and draw no border. The wet west face, dry east fall, snow-shelves, ridge towns, roads, and rivers remain painted terrain rather than additional named features. No label or fill claims Heskoren's separate spine, a Tengu nation, or a Fox nation.
+
+The unlabeled R3 sheet stays the selected handout. Script: `14 - Assets/Maps/label_rain_wall_atlas.py`.
+
+**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.9–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic

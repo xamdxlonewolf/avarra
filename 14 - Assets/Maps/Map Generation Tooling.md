@@ -469,9 +469,10 @@ python3 "14 - Assets/Maps/label_strandoren_atlas.py"
 python3 "14 - Assets/Maps/label_kumbaan_atlas.py"
 python3 "14 - Assets/Maps/label_old_crossing_atlas.py"
 python3 "14 - Assets/Maps/label_sacred_core_atlas.py"
+python3 "14 - Assets/Maps/label_rain_wall_atlas.py"
 ```
 
-These write the labeled overlays completed through **Epic A / Story A.7**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+These write the labeled overlays completed through **Epic A / Story A.8**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. On the Rain-Wall sheet, Rain-Wall is primary, Lirorn's Thaw-Wall handle is secondary, and the two pass-notches add no border or Kind-territory fill. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
 
 Suggested first labels, not a new gazetteer:
 
@@ -484,7 +485,7 @@ Suggested first labels, not a new gazetteer:
 | C4 | Kumbaan · storm-wall; nothing that implies a graft, city, harbour, settlement, safe channel, or Tree |
 | R1 | Hinge Shore · Orentel · Hush-rate as a rate, not a border |
 | R2 | Thaeloren · Inner Close · Third Hearth · Maiethlir |
-| R3 | Thaw-Wall · Noon Pass · Shelf-gate |
+| R3 | Rain-Wall · Thaw-Wall as Lirorn's local subtitle · Noon Pass · Shelf-gate |
 | R4 | Ornsael · Well-wash · Dry Stair |
 | R5 | Chart-run · first quay · White Note (building, not a crown) |
 | R6 | West Water · Night Shore · the unlit berth unmarked or marked only in play |
