@@ -42,6 +42,10 @@ Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild w
 
 ![[Strandoren-Atlas.png]]
 
+Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild with `label_strandoren_atlas.py`.
+
+![[Strandoren-Atlas-Labeled.png]]
+
 ### Heskoren (C3)
 
 ![[Heskoren-Atlas.png]]
@@ -134,7 +138,13 @@ Pillow overlay on the selected Prototype 3 C1 master. The continent-scale labels
 
 The unlabeled C1 sheet stays the selected handout. Incidental rivers, roofs, paths, and wells remain unnamed. Script: `14 - Assets/Maps/label_maiethorn_atlas.py`.
 
-**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.4–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Strandoren overlay — 2026-09-16
+
+Pillow overlay on the selected Prototype 3 C2 master. The four map labels come from [[Named Ground]], [[The Known Map]], and the locked C2 prompt. Orentel sits at the large eastern estuary on the Old Crossing face; its plain settlement dot is not a capital star. The Chart-run crosses the fertile interior from the west to that estuary. Trenledd is area-type over the wealthy filed interior, with its still-unnamed seat unmarked. Netstrand is area-type on the open-ocean west and south face, also without a seat marker. No borders were drawn, and no incidental harbour, river branch, roof cluster, or field division was named.
+
+The unlabeled C2 sheet stays the selected handout. Script: `14 - Assets/Maps/label_strandoren_atlas.py`.
+
+**Queue.** Later sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.5–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
