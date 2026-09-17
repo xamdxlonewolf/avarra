@@ -102,6 +102,10 @@ Labeled overlay (2026-09-17). Pillow on this master, not a new survey. Rebuild w
 
 ![[Chart-Run-Atlas.png]]
 
+Labeled overlay (2026-09-17). Pillow on this master, not a new survey. Rebuild with `label_chart_run_atlas.py`.
+
+![[Chart-Run-Atlas-Labeled.png]]
+
 ### R6 — Night Shore / West Water
 
 ![[West-Water-Atlas.png]]
@@ -194,7 +198,13 @@ Pillow overlay on the selected Prototype 3 R4 master. **The Rain-Shadow** names 
 
 The unlabeled R4 sheet stays the selected handout. Script: `14 - Assets/Maps/label_rain_shadow_atlas.py`.
 
-**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.10–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Chart-run overlay — 2026-09-17
+
+Pillow overlay on the selected Prototype 3 R5 master. **The Chart-run** follows the interior river east into the Salt Quay estuary. The first quay is a landing mark at the old inner south waterfront below the rise, not a city or capital. **The White Note** is a desk-house on the third quay, north side — a building mark, not a crown. Leap-frog warehouses, the south-mouth yards, filed river-towns, and other incidental texture remain unnamed. Nothing draws a capital star or makes the desk the government.
+
+The unlabeled R5 sheet stays the selected handout. Script: `14 - Assets/Maps/label_chart_run_atlas.py`.
+
+**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.11–A.13 — one sheet, one session. Next: **A.11 Night Shore / West Water (R6).** Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
