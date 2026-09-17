@@ -110,6 +110,10 @@ Labeled overlay (2026-09-17). Pillow on this master, not a new survey. Rebuild w
 
 ![[West-Water-Atlas.png]]
 
+Labeled overlay (2026-09-17). Pillow on this master, not a new survey. Rebuild with `label_west_water_atlas.py`.
+
+![[West-Water-Atlas-Labeled.png]]
+
 ### R7 — live front (Harrow's and the ford)
 
 ![[Live-Front-Atlas.png]]
@@ -204,7 +208,13 @@ Pillow overlay on the selected Prototype 3 R5 master. **The Chart-run** follows 
 
 The unlabeled R5 sheet stays the selected handout. Script: `14 - Assets/Maps/label_chart_run_atlas.py`.
 
-**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.11–A.13 — one sheet, one session. Next: **A.11 Night Shore / West Water (R6).** Copy the overlay scripts; do not ask the image model to write.
+## West Water overlay — 2026-09-17
+
+Pillow overlay on the selected Prototype 3 R6 master. **The West Water** names the open ocean as the long sea-leg, not the crowded Crossing; the hydrology sits in the blue, not across the shore. **The Night Shore** is area-type on the west-and-south face because its seat remains unnamed. The unlit berth is left unmarked. Hulls, harbour hatches, lamp-ticks, the painted inland run, and the far-left weather remain unnamed. Nothing draws a capital star, a border, a Kind-nation, or a graft on the storm-isle.
+
+The unlabeled R6 sheet stays the selected handout. Script: `14 - Assets/Maps/label_west_water_atlas.py`.
+
+**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.12–A.13 — one sheet, one session. Next: **A.12 Live Front (R7).** Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
