@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # Map Generation Tooling
@@ -470,9 +470,10 @@ python3 "14 - Assets/Maps/label_kumbaan_atlas.py"
 python3 "14 - Assets/Maps/label_old_crossing_atlas.py"
 python3 "14 - Assets/Maps/label_sacred_core_atlas.py"
 python3 "14 - Assets/Maps/label_rain_wall_atlas.py"
+python3 "14 - Assets/Maps/label_rain_shadow_atlas.py"
 ```
 
-These write the labeled overlays completed through **Epic A / Story A.8**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. On the Rain-Wall sheet, Rain-Wall is primary, Lirorn's Thaw-Wall handle is secondary, and the two pass-notches add no border or Kind-territory fill. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
+These write the labeled overlays completed through **Epic A / Story A.9**. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. On the Rain-Wall sheet, Rain-Wall is primary, Lirorn's Thaw-Wall handle is secondary, and the two pass-notches add no border or Kind-territory fill. On the Rain-Shadow sheet, Ornsael is a plain well-town, the Dry Stair is a site-mark on a different rise, and the Well-wash is seasonal hydrology; the Stair's well-town, terraces, and far-east roofs stay unnamed, with no capital star or Fox-nation fill. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Later sheets are one [[Roadmap#Epic A — Atlas labels|Epic A]] story each — copy this overlay pattern; do not ask the image model to write.
 
 Suggested first labels, not a new gazetteer:
 
