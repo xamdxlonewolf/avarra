@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-09-16
+updated: 2026-09-17
 ---
 
 # The Atlas Sheets
@@ -93,6 +93,10 @@ Labeled overlay (2026-09-16). Pillow on this master, not a new survey. Rebuild w
 ### R4 — Rain-Shadow
 
 ![[Rain-Shadow-Atlas.png]]
+
+Labeled overlay (2026-09-17). Pillow on this master, not a new survey. Rebuild with `label_rain_shadow_atlas.py`.
+
+![[Rain-Shadow-Atlas-Labeled.png]]
 
 ### R5 — Chart-run / Salt Quay hinterland
 
@@ -184,7 +188,13 @@ Pillow overlay on the selected Prototype 3 R3 master. **The Rain-Wall** names Ma
 
 The unlabeled R3 sheet stays the selected handout. Script: `14 - Assets/Maps/label_rain_wall_atlas.py`.
 
-**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.9–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
+## Rain-Shadow overlay — 2026-09-17
+
+Pillow overlay on the selected Prototype 3 R4 master. **The Rain-Shadow** names the dry east as climate-type, oriented east of the Rain-Wall; the left highlands are that range's back and are not given a second range label here. Ornsael receives a plain well-town dot at the west-road settlement with a Tree beside the well, not a capital star and not Thaeloren's canopy-ring. The Dry Stair is a small ascent mark on the stair-rise of a different hill; the well-town at its shoulder stays unnamed. The Well-wash follows the painted seasonal channel as hydrology, not a civic river or a border. Terraces, the far-east roof-cluster, and other incidental texture remain unnamed. Nothing draws Fox-nation colour.
+
+The unlabeled R4 sheet stays the selected handout. Script: `14 - Assets/Maps/label_rain_shadow_atlas.py`.
+
+**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.10–A.13 — one sheet, one session. Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
