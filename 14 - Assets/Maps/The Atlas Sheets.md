@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-09-17
+updated: 2026-09-19
 ---
 
 # The Atlas Sheets
@@ -118,6 +118,10 @@ Labeled overlay (2026-09-17). Pillow on this master, not a new survey. Rebuild w
 
 ![[Live-Front-Atlas.png]]
 
+Labeled overlay (2026-09-19). Pillow on this master, not a new survey. Rebuild with `label_live_front_atlas.py`.
+
+![[Live-Front-Atlas-Labeled.png]]
+
 ### R8 — waiting vale
 
 ![[Waiting-Vale-Atlas.png]]
@@ -214,7 +218,13 @@ Pillow overlay on the selected Prototype 3 R6 master. **The West Water** names t
 
 The unlabeled R6 sheet stays the selected handout. Script: `14 - Assets/Maps/label_west_water_atlas.py`.
 
-**Queue.** Remaining sheets are [[Roadmap#Epic A — Atlas labels|Epic A]] stories A.12–A.13 — one sheet, one session. Next: **A.12 Live Front (R7).** Copy the overlay scripts; do not ask the image model to write.
+## Live Front overlay — 2026-09-19
+
+Pillow overlay on the selected Prototype 3 R7 master. **Harrow's** is a plain grove-town on the rise canopy — not a capital star and not Thaeloren's canopy-ring. **The Rise-water** follows the low stream from that rise toward the ford. **Brenod**, **Vaelun**, and **Ornath** are small hearth marks on different ground past the crossing: the sending road-hearth, the wetter old plot, and the thinner rise. The ford, the cup-rock, distant canopy-pockets, and incidental roofs remain unnamed. Session one still sits here; that is not a map label.
+
+The unlabeled R7 sheet stays the selected handout. Script: `14 - Assets/Maps/label_live_front_atlas.py`.
+
+**Queue.** Remaining sheet is [[Roadmap#Epic A — Atlas labels|Epic A]] story A.13 — one sheet, one session. Next: **A.13 Waiting Vale (R8).** Copy the overlay scripts; do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
