@@ -43,7 +43,7 @@ updated: 2026-09-17
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟢 architecture done; still alongside |
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
-| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | A.1–A.10 done; next A.11 |
+| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | A.1–A.11 done; next A.12 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -521,7 +521,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ---
 
 ## Epic A — Atlas labels
-**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.10 done (2026-09-17); A.11–A.13 queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
+**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.11 done (2026-09-17); A.12–A.13 queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
 
 > **What this is.** The selected Prototype 3 paintings stay label-free as the handouts. Each story adds a Pillow overlay on *one* master. Names come from [[Named Ground]] and [[The Known Map]] only. If a painting and a note disagree, the note wins. Incidental roofs, field-grids, extra isles, and decorative weather stay unnamed.
 
@@ -625,8 +625,15 @@ One session. Master: `Chart-Run-Atlas.png`.
 
 > **A.10 recorded decisions (2026-09-17).** `Chart-Run-Atlas-Labeled.png` is one Pillow overlay on the selected R5 master. The Chart-run follows the interior river east into the Salt Quay estuary. The first quay is a landing mark at the old inner south waterfront below the rise, not a city or capital. The White Note is a desk-house on the third quay, north side — a building, not a crown. Leap-frog warehouses, the south-mouth yards, and filed river-towns remain unnamed. Unlabeled R5 stays the handout. World book untouched.
 
-### Story A.11 — Night Shore / West Water (R6)
-One session. Master: `West-Water-Atlas.png`. Labels: West Water · Night Shore. The unlit berth unmarked or marked only in play. Decompose to tasks when opened.
+### Story A.11 — Night Shore / West Water (R6) ✅ **DONE (2026-09-17)**
+One session. Master: `West-Water-Atlas.png`.
+- [x] Read [[Named Ground]], [[The Known Map]], the R6 prompt on [[Map Generation Tooling]], and [[Netstrand]]; use only West Water · Night Shore
+- [x] Write a Pillow overlay on the selected R6 master; do not ask the image model to write
+- [x] Seat the West Water in the open ocean and the Night Shore as area-type on the west-and-south face; use no capital star and invent no Night Shore seat
+- [x] Leave the unlit berth unmarked; name no incidental quay, hull, or harbour-hatch
+- [x] Record the labeled file on [[The Atlas Sheets]]; unlabeled R6 sheet stays the handout
+
+> **A.11 recorded decisions (2026-09-17).** `West-Water-Atlas-Labeled.png` is one Pillow overlay on the selected R6 master. The West Water names the open ocean as the long sea-leg, not the crowded Crossing; the hydrology sits in the blue, not across the shore. The Night Shore is area-type on the west-and-south face because its seat remains unnamed; *Netstrand* stays the continent-sheet liturgy. The unlit berth is left unmarked. Hulls, harbour hatches, lamp-ticks, the painted inland run, and the far-left weather remain unnamed. Nothing draws a capital star, a border, a Kind-nation, or a graft on the storm-isle. Unlabeled R6 stays the handout. World book untouched.
 
 ### Story A.12 — Live Front (R7)
 One session. Master: `Live-Front-Atlas.png`. Labels: Harrow's · Rise-water · Brenod / Vaelun / Ornath. No capital star on the rise. Session one sits here. Decompose to tasks when opened.
@@ -640,7 +647,7 @@ One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale �
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** Overlay method locked. Remaining stories A.11–A.13 are queued, one sheet per session. Next: **A.11 Night Shore / West Water (R6).** World book untouched.
+- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** Overlay method locked. Remaining stories A.12–A.13 are queued, one sheet per session. Next: **A.12 Live Front (R7).** World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end still a type. World book untouched.
@@ -677,5 +684,5 @@ One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale �
 - [[The Other Count]] — Story R.9 hub · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
-- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue (A.1–A.10 done; next A.11 Night Shore / West Water)
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue (A.1–A.11 done; next A.12 Live Front)
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
