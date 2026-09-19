@@ -126,6 +126,10 @@ Labeled overlay (2026-09-19). Pillow on this master, not a new survey. Rebuild w
 
 ![[Waiting-Vale-Atlas.png]]
 
+Labeled overlay (2026-09-19). Pillow on this master, not a new survey. Rebuild with `label_waiting_vale_atlas.py`.
+
+![[Waiting-Vale-Atlas-Labeled.png]]
+
 ## Selected world atlas
 
 ![[The-Turning-World-Atlas.png]]
@@ -224,7 +228,13 @@ Pillow overlay on the selected Prototype 3 R7 master. **Harrow's** is a plain gr
 
 The unlabeled R7 sheet stays the selected handout. Script: `14 - Assets/Maps/label_live_front_atlas.py`.
 
-**Queue.** Remaining sheet is [[Roadmap#Epic A — Atlas labels|Epic A]] story A.13 — one sheet, one session. Next: **A.13 Waiting Vale (R8).** Copy the overlay scripts; do not ask the image model to write.
+## Waiting Vale overlay — 2026-09-19
+
+Pillow overlay on the selected Prototype 3 R8 master. **The Waiting Vale** names the fold behind the east-facing coast as area-type; *Eolvaeth country* is the seat's handle, not a capital title. The spring is a pool-mark at the painted water where the tracks meet — a site, not a mile-shrine stone and not a Tree. **Eolvaeth** receives a plain pilgrim-town dot at the gift-hall cluster, not a capital star and not Thaeloren's canopy-ring. Harrow's canopy is neither drawn nor named; inland luck stays out of sight. The coast sliver, garden-grid, extra tracks, and the western ridge remain unnamed. Nothing draws a border, a Kind-nation, or a throne.
+
+The unlabeled R8 sheet stays the selected handout. Script: `14 - Assets/Maps/label_waiting_vale_atlas.py`.
+
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.13). Unlabeled Prototype 3 sheets stay the selected handouts. Do not ask the image model to write.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic

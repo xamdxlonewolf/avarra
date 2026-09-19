@@ -43,7 +43,7 @@ updated: 2026-09-19
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟢 architecture done; still alongside |
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
-| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | A.1–A.12 done; next A.13 |
+| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.13 done |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -521,7 +521,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ---
 
 ## Epic A — Atlas labels
-**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.12 done (2026-09-19); A.13 queued, one sheet per session** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
+**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.13 done (2026-09-19)** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
 
 > **What this is.** The selected Prototype 3 paintings stay label-free as the handouts. Each story adds a Pillow overlay on *one* master. Names come from [[Named Ground]] and [[The Known Map]] only. If a painting and a note disagree, the note wins. Incidental roofs, field-grids, extra isles, and decorative weather stay unnamed.
 
@@ -645,8 +645,15 @@ One session. Master: `Live-Front-Atlas.png`.
 
 > **A.12 recorded decisions (2026-09-19).** `Live-Front-Atlas-Labeled.png` is one Pillow overlay on the selected R7 master. Harrow's receives a plain settlement dot on the rise canopy, not a capital star and not Thaeloren's canopy-ring. The Rise-water follows the low stream from that rise toward the ford. Brenod, Vaelun, and Ornath are small hearth marks on different ground past the crossing: the sending road-hearth, the wetter old plot, and the thinner rise. The ford, the cup-rock, distant canopy-pockets, and incidental roofs remain unnamed. Session one still sits here; that is not a map label. Unlabeled R7 stays the handout. World book untouched.
 
-### Story A.13 — Waiting Vale (R8)
-One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale — not "capital." Do not draw or name Harrow's canopy in this fold. Decompose to tasks when opened.
+### Story A.13 — Waiting Vale (R8) ✅ **DONE (2026-09-19)**
+One session. Master: `Waiting-Vale-Atlas.png`.
+- [x] Read [[Named Ground]], [[The Known Map]], the R8 prompt on [[Map Generation Tooling]], and [[Eolvaeth]]; use only the spring · the vale / Eolvaeth
+- [x] Write a Pillow overlay on the selected R8 master; do not ask the image model to write
+- [x] Seat the spring as a site-mark at the track-junction pool and the vale as area-type; mark Eolvaeth as a pilgrim-edge, not a capital
+- [x] Leave Harrow's canopy undrawn and unnamed; name no incidental garden, extra track, coast-sliver, or inland ridge
+- [x] Record the labeled file on [[The Atlas Sheets]]; unlabeled R8 sheet stays the handout
+
+> **A.13 recorded decisions (2026-09-19).** `Waiting-Vale-Atlas-Labeled.png` is one Pillow overlay on the selected R8 master. **The Waiting Vale** is area-type for the fold behind the east-facing coast. The spring is a pool-mark at the painted water where the tracks meet, not a mile-shrine stone and not a Tree. Eolvaeth receives a plain pilgrim-town dot at the gift-hall cluster, not a capital star and not Thaeloren's canopy-ring. Harrow's canopy is neither drawn nor named; inland luck stays out of sight. The coast sliver, garden-grid, extra tracks, and the western ridge remain unnamed. Unlabeled R8 stays the handout. World book untouched.
 
 ---
 
@@ -654,7 +661,7 @@ One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale �
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** Overlay method locked. Remaining story A.13 is queued, one sheet per session. Next: **A.13 Waiting Vale (R8).** World book untouched.
+- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** Overlay method locked. Epic A complete. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end still a type. World book untouched.
@@ -691,5 +698,5 @@ One session. Master: `Waiting-Vale-Atlas.png`. Labels: the spring · the vale �
 - [[The Other Count]] — Story R.9 hub · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
-- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue (A.1–A.12 done; next A.13 Waiting Vale)
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue closed (A.1–A.13)
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
