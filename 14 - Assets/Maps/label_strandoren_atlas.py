@@ -18,6 +18,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Strandoren-Atlas.png"
@@ -118,15 +120,11 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     region = font(SERIF_BOLD_ITALIC, 24)
     place_f = font(SERIF_BOLD, 20)
     river = font(SERIF_BOLD_ITALIC, 19)
-    note = font(SERIF_ITALIC, 13)
 
-    # Quiet water on the Old Crossing side carries the sheet title.
-    halo_text(ink, (1358, 78), "STRANDOREN", title, TYPE)
-    halo_text(ink, (1358, 108), "the Shore-lands", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (1358, 92), "STRANDOREN", title, TYPE)
 
     # Orentel is the large salt-city at the eastern estuary. A plain dot marks
     # the settlement; it is Lestrand's seat without becoming a capital star.
@@ -135,7 +133,14 @@ def build() -> Image.Image:
     halo_text(ink, (1232, 422), "Orentel", place_f, TYPE, anchor="lm")
 
     # The broad interior run reaches Orentel from the west.
-    paste_rotated(canvas, "The Chart-run", river, TYPE_WATER, (776, 557), angle=7, stroke=2)
+    paste_along_path(
+        canvas,
+        "The Chart-run",
+        river,
+        TYPE_WATER,
+        cubic((500, 545), (660, 575), (820, 560), (990, 530)),
+        stroke=2,
+    )
 
     # Trenledd is the filed interior, not a point-seat or a surveyed border.
     paste_rotated(canvas, "TRENLEDD", region, TYPE, (820, 393), angle=-4)
@@ -143,9 +148,6 @@ def build() -> Image.Image:
     # Netstrand names the open-ocean west and south face. Its seat remains
     # unnamed, so the coast gets area-type rather than a settlement marker.
     paste_rotated(canvas, "NETSTRAND", region, TYPE, (340, 700), angle=11)
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1180, 991), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 

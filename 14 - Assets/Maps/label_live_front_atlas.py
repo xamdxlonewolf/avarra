@@ -20,6 +20,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Live-Front-Atlas.png"
@@ -122,29 +124,28 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     place_f = font(SERIF_BOLD, 19)
     hamlet_f = font(SERIF_BOLD, 16)
-    caption_f = font(SERIF, 13)
     river = font(SERIF_BOLD_ITALIC, 18)
-    note = font(SERIF_ITALIC, 13)
 
-    # Region-type for the pocket: a Hand that grew up, and the cluster
-    # that can see it. Title sits in the empty north-east mist.
-    halo_text(ink, (1248, 82), "THE LIVE FRONT", title, TYPE)
-    halo_text(ink, (1248, 112), "Harrow's rise and the ford", subtitle, TYPE_MUTED, stroke=2)
+    # Region name in the empty north-east mist.
+    halo_text(ink, (1248, 96), "THE LIVE FRONT", title, TYPE)
 
     # Harrow's is the grove-town on the rise. Plain settlement mark on
-    # the canopy — not a capital star, not Thaeloren's canopy-ring.
+    # the canopy. The name sits in the open margin above the roofs.
     settlement_dot(ink, (348, 198), radius=5)
-    leader(ink, (348, 198), (300, 86))
-    halo_text(ink, (288, 74), "Harrow's", place_f, TYPE, anchor="rm")
-    halo_text(ink, (288, 93), "not a capital", caption_f, TYPE_MUTED, anchor="rm", stroke=2)
+    leader(ink, (348, 198), (250, 150))
+    halo_text(ink, (238, 150), "Harrow's", place_f, TYPE, anchor="rm")
 
-    # Hydrology follows the low stream off the rise toward the ford.
-    # Do not name the crossing; the Seat's word for it is already the
-    # geography the hamlets sit past.
-    paste_rotated(canvas, "The Rise-water", river, TYPE_WATER, (568, 328), angle=-40, stroke=2)
+    # Hydrology follows the low stream off the rise. The ford stays unnamed.
+    paste_along_path(
+        canvas,
+        "The Rise-water",
+        river,
+        TYPE_WATER,
+        cubic((430, 250), (500, 300), (640, 340), (760, 450)),
+        stroke=2,
+    )
 
     ink = ImageDraw.Draw(canvas)
 
@@ -164,9 +165,6 @@ def build() -> Image.Image:
     settlement_dot(ink, (980, 812), radius=3)
     leader(ink, (980, 812), (860, 872))
     halo_text(ink, (848, 866), "Ornath", hamlet_f, TYPE, anchor="rm", stroke=2)
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 

@@ -20,6 +20,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Chart-Run-Atlas.png"
@@ -130,20 +132,18 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
 
-    title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     place_f = font(SERIF_BOLD, 19)
-    caption_f = font(SERIF, 13)
     river = font(SERIF_BOLD_ITALIC, 19)
-    note = font(SERIF_ITALIC, 13)
 
-    # Sheet title sits over the filed hinterland, not in the Old Crossing.
-    halo_text(ink, (268, 86), "THE CHART-RUN", title, TYPE)
-    halo_text(ink, (268, 116), "Salt Quay hinterland", subtitle, TYPE_MUTED, stroke=2)
-
-    # Hydrology follows the interior river east into the estuary. Do not
-    # redraw the water; the label sits on the painted run.
-    paste_rotated(canvas, "The Chart-run", river, TYPE_WATER, (490, 492), angle=-9, stroke=2)
+    # The river name follows the run. No second title over the fields.
+    paste_along_path(
+        canvas,
+        "The Chart-run",
+        river,
+        TYPE_WATER,
+        cubic((240, 530), (400, 505), (560, 520), (740, 550)),
+        stroke=2,
+    )
 
     ink = ImageDraw.Draw(canvas)
 
@@ -151,26 +151,13 @@ def build() -> Image.Image:
     # waterfront, below the rise. A landing mark, not a city or capital.
     quay_mark(ink, (1020, 428))
     leader(ink, (1020, 428), (888, 458))
-    halo_text(ink, (876, 450), "First Quay", place_f, TYPE, anchor="rm")
-    halo_text(ink, (876, 469), "old landing", caption_f, TYPE_MUTED, anchor="rm", stroke=2)
+    halo_text(ink, (876, 458), "First Quay", place_f, TYPE, anchor="rm")
 
     # The White Note is a desk-house on the third quay, north side. The
     # mark sits on the salt, not on a throne in the Tree-town.
     house_mark(ink, (1098, 352))
     leader(ink, (1098, 352), (1218, 278))
-    halo_text(ink, (1230, 270), "The White Note", place_f, TYPE, anchor="lm")
-    halo_text(
-        ink,
-        (1230, 289),
-        "desk, not a crown",
-        caption_f,
-        TYPE_MUTED,
-        anchor="lm",
-        stroke=2,
-    )
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (1230, 278), "The White Note", place_f, TYPE, anchor="lm")
 
     return canvas.convert("RGB")
 

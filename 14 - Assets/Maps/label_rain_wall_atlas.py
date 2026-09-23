@@ -115,17 +115,10 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
 
-    title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     region = font(SERIF_BOLD_ITALIC, 24)
     place_f = font(SERIF_BOLD, 19)
-    caption_f = font(SERIF, 13)
-    note = font(SERIF_ITALIC, 13)
 
-    # Rain-Wall is the common atlas name. Lirorn's Thaw-Wall remains a local
-    # secondary handle rather than replacing the mapped feature's name.
-    halo_text(ink, (252, 74), "THE RAIN-WALL", title, TYPE)
-    halo_text(ink, (252, 104), "Lirorn: the Thaw-Wall", subtitle, TYPE_MUTED, stroke=2)
+    # One name, on the spine. No sky title and no local-handle subtitle.
     paste_rotated(canvas, "THE RAIN-WALL", region, TYPE, (941, 506), angle=72)
 
     # Noon Pass is the older, higher northern notch. Its pale water-line and
@@ -133,17 +126,12 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     pass_mark(ink, (811, 361))
     leader(ink, (811, 361), (721, 292))
-    halo_text(ink, (709, 282), "Noon Pass", place_f, TYPE, anchor="rm")
-    halo_text(ink, (709, 301), "old high road", caption_f, TYPE_MUTED, anchor="rm", stroke=2)
+    halo_text(ink, (709, 292), "Noon Pass", place_f, TYPE, anchor="rm")
 
     # Shelf-gate is the lower surviving traffic road, below the old notch.
     pass_mark(ink, (724, 716))
     leader(ink, (724, 716), (631, 673))
-    halo_text(ink, (619, 665), "Shelf-gate", place_f, TYPE, anchor="rm")
-    halo_text(ink, (619, 684), "lower shelf-road", caption_f, TYPE_MUTED, anchor="rm", stroke=2)
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (619, 673), "Shelf-gate", place_f, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 

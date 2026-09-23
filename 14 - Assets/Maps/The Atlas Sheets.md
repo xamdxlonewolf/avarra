@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-09-19
+updated: 2026-09-23
 ---
 
 # The Atlas Sheets
@@ -235,6 +235,10 @@ Pillow overlay on the selected Prototype 3 R8 master. **The Waiting Vale** names
 The unlabeled R8 sheet stays the selected handout. Script: `14 - Assets/Maps/label_waiting_vale_atlas.py`.
 
 **Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.13). Unlabeled Prototype 3 sheets stay the selected handouts. Do not ask the image model to write.
+
+## Label cleanup — 2026-09-23
+
+Captions, epithets, and the survey footer are off the overlays. Each painted name is the thing itself: a place gets that name, and a point or leader only when the name would otherwise sit on the roofs. Rivers, oceans, and seas follow the water (`label_curves.py`). Land names stay straight. Sheet titles that repeated a name already on the water or the spine were dropped. Unlabeled sheets stay the handouts.
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic

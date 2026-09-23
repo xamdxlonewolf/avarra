@@ -19,6 +19,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Rain-Shadow-Atlas.png"
@@ -130,16 +132,10 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     place_f = font(SERIF_BOLD, 19)
-    caption_f = font(SERIF, 13)
     terrain = font(SERIF_ITALIC, 18)
-    note = font(SERIF_ITALIC, 13)
 
-    # Climate-type for the whole dry east. The left highlands are the
-    # Rain-Wall's back, named only as orientation in the subtitle.
-    halo_text(ink, (1248, 82), "THE RAIN-SHADOW", title, TYPE)
-    halo_text(ink, (1248, 112), "east of the Rain-Wall", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (1248, 96), "THE RAIN-SHADOW", title, TYPE)
 
     # Ornsael is the west-road well-town with a young-for-the-continent Tree
     # beside the well. The dot sits on the well. Plain settlement mark:
@@ -147,22 +143,22 @@ def build() -> Image.Image:
     settlement_dot(ink, (298, 678))
     leader(ink, (298, 678), (404, 598))
     halo_text(ink, (414, 588), "Ornsael", place_f, TYPE, anchor="lm")
-    halo_text(ink, (414, 607), "well-town", caption_f, TYPE_MUTED, anchor="lm", stroke=2)
 
     # The Dry Stair is the climb on a different rise. The well-town at its
     # shoulder stays unnamed; the mark sits on the steps, not the houses.
     stair_mark(ink, (800, 728))
     leader(ink, (800, 728), (862, 742))
-    halo_text(ink, (872, 734), "The Dry Stair", place_f, TYPE, anchor="lm")
-    halo_text(ink, (872, 753), "not a Tree", caption_f, TYPE_MUTED, anchor="lm", stroke=2)
+    halo_text(ink, (872, 742), "The Dry Stair", place_f, TYPE, anchor="lm")
 
-    # Seasonal hydrology, not a civic river and not a border. One name
-    # along the painted wash; do not redraw the water as a dashed line.
-    paste_rotated(canvas, "The Well-wash", terrain, TYPE, (1056, 552), angle=76, stroke=2)
-
-    ink = ImageDraw.Draw(canvas)
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
+    # Seasonal water. The name follows the wash instead of crossing it flat.
+    paste_along_path(
+        canvas,
+        "The Well-wash",
+        terrain,
+        TYPE,
+        cubic((1028, 390), (1088, 500), (1072, 640), (1008, 760)),
+        stroke=2,
+    )
 
     return canvas.convert("RGB")
 

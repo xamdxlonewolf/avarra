@@ -146,14 +146,11 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     isle = font(SERIF_BOLD, 48)
-    epithet = font(SERIF_ITALIC, 19)
     wall = font(SERIF_BOLD_ITALIC, 25)
-    note = font(SERIF_ITALIC, 13)
 
     # The island gets land-type only: no settlement marker and no inferred
-    # interior name. Its common-tongue epithet remains subordinate.
-    halo_text(ink, (768, 506), "KUMBAAN", isle, TYPE, stroke=4)
-    halo_text(ink, (768, 544), "the Sundering Isle", epithet, TYPE_MUTED, stroke=2)
+    # interior name.
+    halo_text(ink, (768, 520), "KUMBAAN", isle, TYPE, stroke=4)
 
     # Follow the northern cloud-ring. This labels the complete girdle rather
     # than suggesting a border, passage, harbour, or break in the wall.
@@ -168,9 +165,6 @@ def build() -> Image.Image:
         end_deg=68,
         stroke=3,
     )
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1188, 996), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 

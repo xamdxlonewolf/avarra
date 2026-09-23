@@ -20,6 +20,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "West-Water-Atlas.png"
@@ -103,29 +105,23 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
 
-    title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     region = font(SERIF_BOLD_ITALIC, 24)
     water = font(SERIF_BOLD_ITALIC, 22)
-    note = font(SERIF_ITALIC, 13)
 
-    # The chart's name sits in open northern water, as on the Old Crossing
-    # sheet. This is the long sea-leg, not the crowded strait.
-    halo_text(ink, (620, 80), "THE WEST WATER", title, TYPE_WATER)
-    halo_text(ink, (620, 110), "the long sea-leg", subtitle, TYPE_MUTED, stroke=2)
-
-    # Hydrology occupies the painted ocean. Sit it in the blue, not across
-    # either shore, and leave the hull-ticks unnamed.
-    paste_rotated(canvas, "The West Water", water, TYPE_WATER, (430, 548), angle=-18, stroke=2)
+    # One name, in the open ocean, following the swell. No header above it.
+    paste_along_path(
+        canvas,
+        "The West Water",
+        water,
+        TYPE_WATER,
+        cubic((180, 580), (340, 500), (500, 530), (640, 620)),
+        stroke=2,
+    )
 
     # The Night Shore is the west-and-south face. Its seat remains unnamed,
     # so the coast gets area-type rather than a settlement marker. The unlit
     # berth is a gap in the lamps, not a label — leave it for play.
     paste_rotated(canvas, "THE NIGHT SHORE", region, TYPE, (1324, 478), angle=78)
-
-    ink = ImageDraw.Draw(canvas)
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 

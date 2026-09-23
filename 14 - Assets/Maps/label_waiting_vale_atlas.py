@@ -94,22 +94,16 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     place_f = font(SERIF_BOLD, 19)
-    caption_f = font(SERIF, 13)
-    note = font(SERIF_ITALIC, 13)
 
-    # Area-type for the fold itself. The wait is the town; this is not a
-    # capital title sitting on a starred seat.
-    halo_text(ink, (720, 148), "THE WAITING VALE", title, TYPE)
-    halo_text(ink, (720, 178), "Eolvaeth country", subtitle, TYPE_MUTED, stroke=2)
+    # Area-type for the fold itself.
+    halo_text(ink, (720, 160), "THE WAITING VALE", title, TYPE)
 
     # The spring is the vale's reason: two tracks meet at the water.
     # Site-mark on the painted pool, not a shrine-stone and not a Tree.
     spring_mark(ink, (752, 506))
     leader(ink, (752, 506), (612, 456))
-    halo_text(ink, (600, 448), "The Spring", place_f, TYPE, anchor="rm")
-    halo_text(ink, (600, 467), "not a stone", caption_f, TYPE_MUTED, anchor="rm", stroke=2)
+    halo_text(ink, (600, 456), "The Spring", place_f, TYPE, anchor="rm")
 
     # Eolvaeth is the pilgrim-edge square around the gift-hall. A plain
     # town mark only: no capital star, no Thaeloren canopy-ring. Sit the
@@ -117,11 +111,7 @@ def build() -> Image.Image:
     # unnamed. The live-front luck stays out of sight further inland.
     settlement_dot(ink, (786, 556))
     leader(ink, (786, 556), (800, 668))
-    halo_text(ink, (800, 686), "Eolvaeth", place_f, TYPE, anchor="mm")
-    halo_text(ink, (800, 705), "pilgrim-edge", caption_f, TYPE_MUTED, anchor="mm", stroke=2)
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (800, 690), "Eolvaeth", place_f, TYPE, anchor="mm")
 
     return canvas.convert("RGB")
 

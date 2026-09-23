@@ -338,26 +338,20 @@ def build() -> Image.Image:
     canvas = base.copy()
 
     title = font(SERIF_BOLD, 34)
-    subtitle = font(SERIF_ITALIC, 16)
     land = font(SERIF_BOLD, 46)
     land_small = font(SERIF_BOLD, 30)
-    caption = font(SERIF_ITALIC, 17)
     water = font(SERIF_BOLD_ITALIC, 36)
     crossing = font(SERIF_BOLD_ITALIC, 26)
     storm = font(SERIF_BOLD_ITALIC, 22)
     rain = font(SERIF_ITALIC, 20)
-    note = font(SERIF_ITALIC, 13)
-
     ink = ImageDraw.Draw(canvas)
 
     # Quiet north water — sheet title, not a fifth land.
     halo_text(ink, (500, 50), "THE TURNING", title, TYPE, stroke=3)
-    halo_text(ink, (500, 80), "the Known Lands", subtitle, TYPE_MUTED, stroke=2)
 
-    # Kumbaan — name below the ring. Storm-wall is a shallow crown
+    # Kumbaan — name on the isle. Storm-wall is a shallow crown
     # over the north foam, not a tight horseshoe.
-    halo_text(ink, (152, 272), "Kumbaan", land_small, TYPE, stroke=3)
-    halo_text(ink, (152, 300), "the Sundering Isle", caption, TYPE_MUTED, stroke=2)
+    halo_text(ink, (152, 286), "Kumbaan", land_small, TYPE, stroke=3)
     warp_along_arc(
         canvas,
         "the storm-wall",
@@ -372,8 +366,7 @@ def build() -> Image.Image:
     )
 
     # Heskoren — south-west frontier, south of the Old World pair.
-    halo_text(ink, (300, 898), "HESKOREN", land, TYPE, stroke=3)
-    halo_text(ink, (300, 932), "the Sundered Reach", caption, TYPE_MUTED, stroke=2)
+    halo_text(ink, (300, 910), "HESKOREN", land, TYPE, stroke=3)
 
     # West Water — southern basin between Heskoren and Strandoren.
     # Sit in the blue, below Strandoren's south coast and east of
@@ -392,8 +385,7 @@ def build() -> Image.Image:
     )
 
     # Strandoren — maritime Old-World neighbour.
-    halo_text(ink, (800, 152), "STRANDOREN", land, TYPE, stroke=3)
-    halo_text(ink, (800, 184), "the Shore-lands", caption, TYPE_MUTED, stroke=2)
+    halo_text(ink, (800, 168), "STRANDOREN", land, TYPE, stroke=3)
 
     # Old Crossing — in the strait itself, following the water as
     # it pinches and drifts west toward the southern mouth.
@@ -413,8 +405,7 @@ def build() -> Image.Image:
     )
 
     # Maiethorn — far east. Name north of the wet west.
-    halo_text(ink, (1240, 222), "MAIETHORN", land, TYPE, stroke=3)
-    halo_text(ink, (1240, 254), "the Motherland", caption, TYPE_MUTED, stroke=2)
+    halo_text(ink, (1240, 238), "MAIETHORN", land, TYPE, stroke=3)
 
     # Rain-Wall — bow with Maiethorn's crescent spine.
     paste_along_arc(
@@ -430,10 +421,6 @@ def build() -> Image.Image:
         stroke=2,
         tracking=1.12,
     )
-
-    # Compass sits bottom-centre; keep the disclaimer off it and off Heskoren.
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1188, 996), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 

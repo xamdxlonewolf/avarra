@@ -18,6 +18,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Old-Crossing-Atlas.png"
@@ -35,7 +37,6 @@ TYPE_WATER = (214, 228, 230)
 STROKE = (28, 22, 14)
 MARK = (28, 24, 16)
 MARK_RING = (236, 226, 200)
-RATE_PLATE = (38, 45, 42, 210)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -111,37 +112,6 @@ def leader(draw: ImageDraw.ImageDraw, start: tuple[int, int], end: tuple[int, in
     draw.line((start, end), fill=STROKE, width=1)
 
 
-def rate_cartouche(
-    canvas: Image.Image,
-    centre: tuple[int, int],
-    heading_font: ImageFont.FreeTypeFont,
-    caption_font: ImageFont.FreeTypeFont,
-) -> None:
-    """A docket-like plate: explicitly a charge, with no border line."""
-    width, height = 194, 58
-    x = centre[0] - width // 2
-    y = centre[1] - height // 2
-    layer = Image.new("RGBA", (width, height), (0, 0, 0, 0))
-    draw = ImageDraw.Draw(layer)
-    draw.rounded_rectangle(
-        (1, 1, width - 2, height - 2),
-        radius=6,
-        fill=RATE_PLATE,
-        outline=MARK_RING,
-        width=2,
-    )
-    halo_text(draw, (width // 2, 20), "HUSH-RATE", heading_font, TYPE, stroke=2)
-    halo_text(
-        draw,
-        (width // 2, 42),
-        "crossing charge",
-        caption_font,
-        TYPE_MUTED,
-        stroke=2,
-    )
-    canvas.paste(layer, (x, y), layer)
-
-
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1536, 1024):
@@ -150,17 +120,19 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
 
-    title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     region = font(SERIF_BOLD_ITALIC, 24)
     place_f = font(SERIF_BOLD, 20)
-    rate_f = font(SERIF_BOLD, 17)
-    caption_f = font(SERIF, 13)
-    note = font(SERIF_ITALIC, 13)
+    rate_f = font(SERIF_BOLD_ITALIC, 18)
 
-    # The chart's name sits in open northern water between the two old shores.
-    halo_text(ink, (768, 76), "THE OLD CROSSING", title, TYPE_WATER)
-    halo_text(ink, (768, 106), "the oldest trade route", subtitle, TYPE_MUTED, stroke=2)
+    # The crossing name follows the channel. No header, no route subtitle.
+    paste_along_path(
+        canvas,
+        "The Old Crossing",
+        font(SERIF_BOLD_ITALIC, 26),
+        TYPE_WATER,
+        cubic((760, 150), (700, 320), (740, 500), (820, 700)),
+        stroke=2,
+    )
 
     # Orentel is the nucleated salt-city at the large western estuary. It gets
     # a plain settlement dot, never a capital star.
@@ -172,13 +144,9 @@ def build() -> Image.Image:
     # follows the coast instead of promoting a painted quay cluster.
     paste_rotated(canvas, "THE HINGE SHORE", region, TYPE, (1218, 440), angle=69)
 
-    # The peace survives as a docketed charge on traffic. A compact plate in
-    # the channel communicates a rate without drawing anything border-like.
-    rate_cartouche(canvas, (855, 728), rate_f, caption_f)
-
+    # The rate is a name in the channel, not a plate and not a border.
     ink = ImageDraw.Draw(canvas)
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (855, 728), "Hush-rate", rate_f, TYPE_WATER)
 
     return canvas.convert("RGB")
 

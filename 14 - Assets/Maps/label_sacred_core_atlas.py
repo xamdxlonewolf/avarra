@@ -108,77 +108,33 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     place_f = font(SERIF_BOLD, 19)
-    caption_f = font(SERIF, 13)
-    note = font(SERIF_ITALIC, 13)
 
-    # Sheet title is a scale handle, not a fifth mapped place.
-    halo_text(ink, (1255, 90), "SACRED CORE", title, TYPE)
-    halo_text(ink, (1255, 120), "the Motherwood", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (1255, 100), "SACRED CORE", title, TYPE)
 
     # The exceptional canopy in the deep central grove. The college in its
     # shadow is not given a separate throne or capital marker.
     tree_mark(ink, (744, 510))
     leader(ink, (744, 510), (700, 463))
     halo_text(ink, (688, 451), "Thaeloren", place_f, TYPE, anchor="rm")
-    halo_text(
-        ink,
-        (688, 470),
-        "the Awakening Tree",
-        caption_f,
-        TYPE_MUTED,
-        anchor="rm",
-        stroke=2,
-    )
 
     # The compact's visible walls sit a day's walk from the grove, inside
     # Orenbren lodging-country. The square mark is explicitly not a star.
     close_mark(ink, (374, 770))
     leader(ink, (374, 770), (414, 739))
     halo_text(ink, (424, 730), "Inner Close", place_f, TYPE, anchor="lm")
-    halo_text(
-        ink,
-        (424, 749),
-        "walled town, one day out",
-        caption_f,
-        TYPE_MUTED,
-        anchor="lm",
-        stroke=2,
-    )
 
     # The old road-house is three days outward on the same Near Mile. It gets
     # a small site glyph rather than a city dot or an invented neighbour label.
     hearth_mark(ink, (267, 333))
     leader(ink, (267, 333), (310, 304))
     halo_text(ink, (320, 295), "Third Hearth", place_f, TYPE, anchor="lm")
-    halo_text(
-        ink,
-        (320, 314),
-        "Near Mile road-house",
-        caption_f,
-        TYPE_MUTED,
-        anchor="lm",
-        stroke=2,
-    )
 
     # The counted city lies where the Core-thaw slows east of the grove. The
     # river road differs from Orenbren's Near Mile.
     settlement_dot(ink, (1228, 593))
     leader(ink, (1228, 593), (1188, 558))
     halo_text(ink, (1178, 548), "Maiethlir", place_f, TYPE, anchor="rm")
-    halo_text(
-        ink,
-        (1178, 567),
-        "counted river-city",
-        caption_f,
-        TYPE_MUTED,
-        anchor="rm",
-        stroke=2,
-    )
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1190, 991), footer, note, TYPE_MUTED, stroke=2)
 
     return canvas.convert("RGB")
 

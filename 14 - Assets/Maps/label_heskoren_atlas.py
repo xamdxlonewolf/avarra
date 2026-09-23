@@ -18,6 +18,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Heskoren-Atlas.png"
@@ -159,14 +161,19 @@ def build() -> Image.Image:
 
     # Continent name as sea-type in the far south-west water. No cartouche on land.
     ink = ImageDraw.Draw(canvas)
-    halo_text(ink, (118, 948), "HESKOREN", title, TYPE, stroke=3)
-    halo_text(ink, (118, 978), "the Sundered Reach", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (118, 960), "HESKOREN", title, TYPE, stroke=3)
 
-    # East sea = the West Water (Named Ground): between Heskoren and Strandoren.
-    paste_rotated(canvas, "the West Water", water, TYPE_WATER, (1272, 430), angle=-10)
-    paste_rotated(canvas, "to Strandoren", note, TYPE_WATER, (1288, 468), angle=-10)
-    # West sea = last capes, then the storm-wall. The NE cloud bank is weather, not that wall.
-    paste_rotated(canvas, "toward the storm-wall", note, TYPE_WATER, (96, 360), angle=78)
+    # East sea = the West Water. The name follows the water, not the shore.
+    paste_along_path(
+        canvas,
+        "the West Water",
+        water,
+        TYPE_WATER,
+        cubic((1180, 430), (1280, 360), (1390, 390), (1490, 490)),
+        stroke=2,
+    )
+    # West edge: the storm-wall is off the sheet. One name, not a direction note.
+    paste_rotated(canvas, "the storm-wall", water, TYPE_WATER, (96, 360), angle=78)
     ink = ImageDraw.Draw(canvas)
 
     # West face — storm-side capes, slate-shore, Ornled pocket, empty marches.
@@ -178,8 +185,6 @@ def build() -> Image.Image:
         "Ornled",
         (360, 520),
         place_f,
-        caption="Outer Ledger",
-        caption_font=caption_f,
         off=(-70, -8),
         anchor="rm",
     )
@@ -190,13 +195,18 @@ def build() -> Image.Image:
         "Harrow's",
         (638, 432),
         place_f,
-        caption="Saelvaeth",
-        caption_font=caption_f,
         off=(18, -26),
         anchor="lm",
     )
     # Rise-water is a low local stream, not the east-coast river.
-    paste_rotated(canvas, "Rise-water", river, TYPE_WATER, (708, 488), angle=-32)
+    paste_along_path(
+        canvas,
+        "Rise-water",
+        river,
+        TYPE_WATER,
+        cubic((660, 450), (700, 470), (740, 510), (790, 540)),
+        stroke=2,
+    )
     ink = ImageDraw.Draw(canvas)
     settlement_dot(ink, (800, 535), radius=3)
     halo_text(ink, (800, 518), "the ford", hamlet_f, TYPE, anchor="mm", stroke=2)
@@ -215,8 +225,6 @@ def build() -> Image.Image:
         "Eolvaeth",
         (940, 392),
         place_f,
-        caption="Vaethorn",
-        caption_font=caption_f,
         off=(-16, -28),
         anchor="rm",
     )
@@ -229,19 +237,13 @@ def build() -> Image.Image:
         "the First Bowl",
         (888, 792),
         hamlet_f,
-        caption="Lonasir",
-        caption_font=caption_f,
         off=(18, -22),
         anchor="lm",
         radius=4,
         stroke=2,
     )
     # Vaelhesk is the land, not a cape-town.
-    halo_text(ink, (800, 818), "Vaelhesk", place_f, TYPE, stroke=3)
-    halo_text(ink, (800, 838), "the Far Yield", caption_f, TYPE_MUTED, stroke=2)
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (768, 992), footer, note, TYPE_MUTED, stroke=2)
+    halo_text(ink, (800, 828), "Vaelhesk", place_f, TYPE, stroke=3)
 
     return canvas.convert("RGB")
 

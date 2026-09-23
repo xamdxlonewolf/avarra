@@ -18,6 +18,8 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
+from label_curves import cubic, paste_along_path
+
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "Maiethorn-Atlas.png"
@@ -171,18 +173,13 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     title = font(SERIF_BOLD, 32)
-    subtitle = font(SERIF_ITALIC, 15)
     region = font(SERIF_BOLD_ITALIC, 24)
     area = font(SERIF_BOLD, 20)
     place_f = font(SERIF_BOLD, 19)
-    caption_f = font(SERIF, 13)
     terrain = font(SERIF_ITALIC, 17)
-    small = font(SERIF_ITALIC, 14)
-    note = font(SERIF_ITALIC, 13)
+    small = font(SERIF_ITALIC, 16)
 
-    # Quiet western water carries the sheet title, away from the wind-rose.
-    halo_text(ink, (160, 94), "MAIETHORN", title, TYPE)
-    halo_text(ink, (160, 124), "the Motherland", subtitle, TYPE_MUTED, stroke=2)
+    halo_text(ink, (160, 108), "MAIETHORN", title, TYPE)
 
     # The Old Crossing face: a coast-region, not a single invented port.
     paste_rotated(canvas, "The Hinge Shore", region, TYPE_WATER, (244, 466), angle=78)
@@ -192,19 +189,23 @@ def build() -> Image.Image:
     tree_mark(ink, (622, 468))
     leader(ink, (622, 468), (594, 433))
     halo_text(ink, (586, 420), "Thaeloren", place_f, TYPE, anchor="rm")
-    halo_text(ink, (586, 439), "the Awakening Tree", caption_f, TYPE_MUTED, anchor="rm", stroke=2)
 
     # Orenbren is the lodging country around the grove. The Close is a town
-    # inside it, one day's walk from Thaeloren, and receives no capital star.
-    halo_text(ink, (562, 592), "ORENBREN", area, TYPE)
-    halo_text(ink, (562, 613), "lodging country", caption_f, TYPE_MUTED, stroke=2)
+    # inside it and receives no capital star.
+    halo_text(ink, (562, 600), "ORENBREN", area, TYPE)
     close_mark(ink, (686, 510))
     leader(ink, (686, 510), (716, 488))
-    halo_text(ink, (724, 481), "Inner Close", place_f, TYPE, anchor="lm")
-    halo_text(ink, (724, 500), "inside Orenbren", caption_f, TYPE_MUTED, anchor="lm", stroke=2)
+    halo_text(ink, (724, 488), "Inner Close", place_f, TYPE, anchor="lm")
 
     # Core-thaw leaves the west face of the divide and slows near Maiethlir.
-    paste_rotated(canvas, "The Core-thaw", terrain, TYPE_WATER, (594, 337), angle=8, stroke=2)
+    paste_along_path(
+        canvas,
+        "The Core-thaw",
+        terrain,
+        TYPE_WATER,
+        cubic((460, 355), (560, 325), (660, 330), (760, 360)),
+        stroke=2,
+    )
     ink = ImageDraw.Draw(canvas)
     place(
         ink,
@@ -225,7 +226,14 @@ def build() -> Image.Image:
 
     # The eastern half gets its continent-scale settlement and seasonal water.
     # Finer Rain-Shadow sites remain for the dedicated R4 sheet.
-    paste_rotated(canvas, "The Well-wash", terrain, TYPE_WATER, (1108, 520), angle=-10, stroke=2)
+    paste_along_path(
+        canvas,
+        "The Well-wash",
+        terrain,
+        TYPE_WATER,
+        cubic((980, 560), (1060, 500), (1160, 490), (1280, 560)),
+        stroke=2,
+    )
     ink = ImageDraw.Draw(canvas)
     place(
         ink,
@@ -238,11 +246,7 @@ def build() -> Image.Image:
     )
 
     # Broad climate label east of the watershed, not a border or polity fill.
-    paste_rotated(canvas, "RAIN-SHADOW", region, TYPE, (1124, 646), angle=-8)
-    paste_rotated(canvas, "dry hills and well-country", small, TYPE_MUTED, (1124, 677), angle=-8, stroke=2)
-
-    footer = "Names from Named Ground. Painting is not a survey."
-    halo_text(ink, (1192, 991), footer, note, TYPE_MUTED, stroke=2)
+    paste_rotated(canvas, "RAIN-SHADOW", region, TYPE, (1124, 660), angle=-8)
 
     return canvas.convert("RGB")
 
