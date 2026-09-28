@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-09-19
+updated: 2026-09-28
 ---
 
 # Build Plan
@@ -17,6 +17,8 @@ updated: 2026-09-19
 > **Setting:** **_The Turning_** (started 2026-08-14; named 2026-08-20). Integrated-"monsters" world. Prior vault settings (original "Avarra," then "The Empire That Wasn't Evil") are git history — not canon.
 
 ## Active next
+
+**Epic L — The lived world 🟡 (opened 2026-09-28).** The build is done and still feels designed: the years have no faces, and a player from one coast does not yet sound different from a player from another. Next story is **L.1 — How a place speaks** (what each drift calls the Tree and the Mother, and the tone a player can use). Then **L.2 — Faces on the years**. Do not start L.3 until those two land. Empty sidebar folders are often misfiles, not missing worlds. Full map of what to write, what to rehome, and what not to fill: [[Roadmap#Epic L — The lived world]].
 
 **Epic A — Atlas labels ✅ (2026-09-19).** One labeled overlay per selected painting, one story / one session. Method locked in A.1: Pillow on the unlabeled master; do not ask the image model to write; names from [[Named Ground]] and [[The Known Map]]; painting vs note → the note wins. **A.1 Heskoren (C3) ✅** — `Heskoren-Atlas-Labeled.png`. **A.2 World sheet ✅** — `The-Turning-World-Atlas-Labeled.png`. **A.3 Maiethorn (C1) ✅** — `Maiethorn-Atlas-Labeled.png`; Thaeloren is the sole exceptional Tree, Inner Close remains a town inside Orenbren, and neither gets a capital star. **A.4 Strandoren (C2) ✅** — `Strandoren-Atlas-Labeled.png`; Orentel is a plain-dot seat at the eastern estuary, while Trenledd and Netstrand remain borderless area labels with unnamed seats. **A.5 Kumbaan (C4) ✅** — `Kumbaan-Atlas-Labeled.png`; land-type on the hill-country and the storm-wall on the outer cloud-ring, with no point marker, graft, city, harbour, safe channel, or Tree. **A.6 Old Crossing (R1) ✅** — `Old-Crossing-Atlas-Labeled.png`; Orentel and the unnamed-seat Hinge Shore face each other, while the Hush-rate is a crossing-charge cartouche rather than a border. **A.7 Sacred Core (R2) ✅** — `Sacred-Core-Atlas-Labeled.png`; Thaeloren is the sole exceptional Tree, the Inner Close is the walled town one day out, the Third Hearth is a road-house three days outward, and Maiethlir is the Core-thaw city; none gets a capital star. **A.8 Rain-Wall (R3) ✅** — `Rain-Wall-Atlas-Labeled.png`; Rain-Wall is primary, Lirorn's Thaw-Wall handle is secondary, Noon Pass is the older high notch, and Shelf-gate is the lower surviving road, with no borders or Kind-nation fill. **A.9 Rain-Shadow (R4) ✅** — `Rain-Shadow-Atlas-Labeled.png`; Ornsael is a plain well-town, the Dry Stair is a site on a different rise, and the Well-wash is seasonal hydrology, with no capital star or Fox-nation fill. **A.10 Chart-run (R5) ✅** — `Chart-Run-Atlas-Labeled.png`; the Chart-run follows the interior river, the first quay is the old landing, and the White Note is a desk-house on the third quay north side, not a crown. **A.11 Night Shore / West Water (R6) ✅** — `West-Water-Atlas-Labeled.png`; the West Water names the open ocean and the Night Shore is area-type on the west-and-south face, with the unlit berth unmarked and no Night Shore seat. **A.12 Live Front (R7) ✅** — `Live-Front-Atlas-Labeled.png`; Harrow's is a plain grove-town on the rise, the Rise-water follows the stream to the ford, and Brenod / Vaelun / Ornath are three small downstream hearths, with no capital star. **A.13 Waiting Vale (R8) ✅** — `Waiting-Vale-Atlas-Labeled.png`; the spring is a site on the pool, the vale is area-type, Eolvaeth is a pilgrim-edge with no capital star, and Harrow's canopy is neither drawn nor named. Overlay queue closed. Unlabeled Prototype 3 sheets stay the selected handouts. World book untouched.
 
@@ -34,7 +36,7 @@ updated: 2026-09-19
 
 **Leftovers (2026-08-31).** [[Conditions]] carry Tree colour, path, and civic next-step. Living ground: [[Climate of the Turning]] · [[Ecology of the Turning]]. Secrets: [[Revelation Architecture]] · [[Reveal Index]]. Fire plot does not need the Spent Leaf. Household confirmation stays late. **Sick-Tree / guest-grove seated:** [[The Mill-hold]] · [[The First Bowl]]. A lead road-end type still waits.
 
-**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked; lock the nature of her limit.
+**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked; lock the nature of her limit. Under Epic L, also do not invent surnames, a fourth mainland tongue, planes, Kind-nations, or a fourth body-licence, and do not fill every empty folder or every village. The lead road-end town waits for Story L.5.
 
 Two clocks stand. Cutter unpicked.
 
@@ -97,3 +99,4 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Powers of the Turning]] · [[The Hinge Shore]] · [[Named Ground]] · [[People of the Turning]]
 - [[The Old Tongue]] · [[Naming Tools]] · [[00 - Core]]
 - [[The Atlas Sheets]] · [[Map Generation Tooling]] — Epic A overlay queue closed (A.1–A.13)
+- Epic L — lived world, opened 2026-09-28. Next story is L.1.

@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-09-19
+updated: 2026-09-28
 ---
 
 # Roadmap
@@ -44,6 +44,7 @@ updated: 2026-09-19
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
 | **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.13 done |
+| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 opened; next is L.1 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -657,10 +658,102 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 
 ---
 
+## Epic L — The lived world
+**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **opened 2026-09-28.** Next work is Story L.1, then L.2. Later stories stay coarse until those land. **Blast radius:** Med.
+
+> **Diagnosis (2026-09-28).** Pass one is built, the contradiction log is empty, and the world still feels designed. `story-sense` reads this as a world without life: history is a list of events with nobody in them, and culture is law and economy with one mouth. `worldbuilding` reads the same gap as institutions without faces and culture without depth. The fix is voices, then the dead, then what the living still do. It is not a second gazetteer.
+
+> **Empty folders are a mixed signal.** Some headings have no notes because the work was never done. Many others are empty because the note already lives in the parent folder or in another section. One canonical home per entity ([[Conventions]]). Link. Do not duplicate. Do not move a note just so a sidebar looks full.
+
+> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Invent modern surnames. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Name the twelve stub seats by default. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
+
+### Where the ask lands
+
+| The gap | Story | Already written — link, do not rewrite |
+|---|---|---|
+| How a place speaks; what they call the Tree and the Mother | **L.1** | [[The Old Tongue]] (three drifts + Kumbaan outside the box) · [[Naming People in the Turning]] |
+| Historical figures; past heroes and the condemned | **L.2** | [[The Other Count]] and its five years · [[The Closing]] · [[The First Cut]] · the walk |
+| Customs, traditions, rituals, mythology folders, religious history | **L.3** | [[Daily Life]] · [[Faiths of the Turning]] · the five faith notes · four fables · [[Turning Tree]] |
+| Bynames on the cast; leaders; living arguments | **L.4** | [[People of the Turning]] · the NPC notes (given names only) · byname rule already locked |
+| Continents, regions, city layouts, the road-end town, a few villages and sites, sky, phenomena, archaeology | **L.5** | Continents in `01 - World/Geography` · [[Named Ground]] · [[Maiethlir]] · [[Orentel]] · [[Settlement Seeds]] · [[The Reckoning of the Year]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] |
+| The other Daggerheart ancestries | **L.6** | [[Kinds of the Turning]] (hearths, not nations) · [[Kind Heritage]] |
+| Criminal houses, more fellowships, the watch, movements | **L.7** | [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]] · three licence guilds · the watch in [[Law and Citizenship]] |
+| Magic, beasts, constructs, artifacts, secrets folders | **L.8** | [[Conditions]] · five adversaries · [[The Spent Leaf]] · [[The Closed Lamp]] · [[Revelation Architecture]] · [[Reveal Index]] |
+| Sidebar honesty and old atlas leftovers | **L.9** | After the notes exist. Prototype 3 masters and labeled overlays stay |
+
+### Story L.1 — How a place speaks
+Player-facing voice. Skills: `language-evolution`, `dialogue`, `memetic-depth`. One note, not a language family. Deep grammar stays deferred except a paradigm a spoken line actually needs.
+
+- [ ] Write **How a Place Speaks** (`03 - Cultures/Languages/`): conservative, worn, and eroded Maiethren, plus Kumbaan's own mouth. For each, the spoken handles for the Tree, the Mother, a hug, a colour, a warden, and a graft. Common speech only. No new liturgical compounds.
+- [ ] Four tones a player can actually use — devout core, dock, waiting or live front, hill-hall. Sentence length, what they repeat, what they will not say in company.
+- [ ] Say why the second name is a byname (place, house, deed, or the Threnhael), and point at [[Naming People in the Turning]]. Do not rename the cast in this story.
+- [ ] Leave one phrase per drift in use and untranslated. Recognizable speech, inferrable drift, a little that will not gloss.
+- [ ] Do not unfreeze coinage. Do not add a fourth mainland tongue. Kumbaan stays outside the Old Tongue box.
+
+### Story L.2 — Faces on the years
+The dated years get people. Skills: `character-arc`, `positional-revelation`, `character-naming`. Files live in `08 - People/Historical Figures`. Event notes link. Names from the existing drifts and the naming tool; record the draw.
+
+- [ ] One remembered person for [[The Closing]], [[The Two Papers]], [[The Grey Summer]], [[The Thaw-Break]], and [[The Hinge Hush]]. What they wanted. What people still argue they did. Where the name is still said.
+- [ ] Two or three people around the Walk and the Cut who are not the cutter — a sermon, a minute, a folk blame. The cutter stays unpicked.
+- [ ] Mark each as praised, condemned, or still argued. That is the past hero and villain layer. No present campaign antagonist.
+- [ ] Do not date the Tree. Do not lock her limit. Do not add a sixteenth power. Do not coin liturgy.
+
+### Story L.3 — What the year feels like
+Customs, traditions, and rituals by **stance and faith**, not by Kind. Turning-Week as done in a devout square, on a dock, in a waiting town, and what the hill-hall does instead of a Leaf-Fall. A funeral, a guest-meal, and the hour someone is Struck. Ritual notes are practice, not a second copy of doctrine. One local habit per stance left unexplained.
+
+Rehome while writing, one home each: faith essays into `07 - Religion/Faiths`; the four fables into `Mythology`; a player-facing deity note for the Motherfaith and for [[The Unspent]], with the keystone still behind the wall. A religious-history hub **links** [[The Ages of the Turning]], [[The First Cut]], [[The Wrong Green]], and the household notes. It does not rewrite Epic 6. The Other Hands stay GM.
+
+### Story L.4 — Names in the room
+Every existing NPC note gets a **byname** under the locked pattern. No surnames. A Leaders index links the people who already hold an office; it does not clone their notes. New present leaders only where a road the table will walk has no mouth. Do not staff the twelve unnamed seats. A Heroes / Villains index is mostly L.2's dead, plus at most two living people the street argues about. No campaign villain. On-page mouths without notes stay on-page unless a story needs them.
+
+### Story L.5 — Places with a street
+Selective. [[Settlement Seeds]] is the catalog of leftover *types*; use it. Do not invent a new type except by seating the one that still waits.
+
+- Continents stay in `01 - World/Geography`. `04 - Settlements/Continents` becomes a pointer index. Do not copy the essays. Do not move the canonical notes.
+- Regions: an index from [[Named Ground]] and the fifteen powers. Write new region texture only for a blank between two places a traveler already crosses. Stub seats stay unnamed unless this story finds one road with no mouth.
+- [[Maiethlir]] and [[Orentel]] get enough layout to support a later city atlas: approaches, the Tree, one district tension, names a map could carry. Do not draw that atlas here. [[Eolvaeth]] stays a town.
+- Seat the **lead road-end** as one town. That closes the leftover type.
+- Two to four villages on roads that already exist (Near Mile, Salt Walk, live front). Not a gazetteer.
+- Two or three sites people already argue about — sacred, dug, or both. Deepen one of [[The Low Wall]], [[The Seeing-Ring]], or [[The Dry Stair]] with who dug and what they fought over. Do not found an archaeology discipline.
+- One sky-from-the-ground note beside [[The Reckoning of the Year]]: what the solstice and Kumbaan's moons look like to a person. Not a star catalog.
+- Two or three phenomena that climate and reach already imply.
+- Planes: one decision note. This world does not have them. The empty folder stops looking like a hole.
+
+### Story L.6 — The other hearths
+The stock Daggerheart ancestries get a **hearth-glance**: where they are dense, one kitchen habit, what they do not own. Group them. No new features. No Kind-nations. The four custom Kinds stay as written. Mechanics stay on [[Kind Heritage]].
+
+### Story L.7 — Fellowships, the watch, and movements
+[[The Slide]], [[The Holding Desk]], and [[The Standing Trade]] are the criminal layer already. Rehome or index them under `05 - Factions/Criminal`. Do not invent a fourth syndicate. [[The Protectors]] stay a public care with the harvest behind the wall, not a street gang.
+
+The three licence guilds stay the only body-licences ([[The Stillers]], [[The Element-Guilds]], [[The Intake]]). Add a few **craft fellowships** — mill, hull, road — that are not tickets.
+
+One military note: the town watch, a cohort, and what [[The Closing]] and [[The Hinge Hush]] left behind. No fifteen standing armies. No new war.
+
+Two or three movements, each marked **past** or **present**, grown from schisms that already exist (Watching, the Walled Book, the Pourers). No new ideology.
+
+### Story L.8 — The weird, the made, and the found
+One magic hub. Daggerheart domains are crafts with jobs. A Spoken colour is not a spell. [[Conditions]] are not a second magic system and stay where they are. When a ruling needs a procedure, add a short pointer under `13 - Game`. Do not rewrite the SRD.
+
+Constructs: a ruling. Condition labor and Answered craft already do most of that work. A construct, if one exists, has a maker and a problem. It is not a people.
+
+Beasts: promote two or three working animals out of [[Ecology of the Turning]] into creature notes, each with a use and a fear. Not a bestiary. Spirits only where a faith already has them (a door, a return), and not in a way that confirms the Other Hands. No unique-creature quota.
+
+Artifacts: [[The Spent Leaf]] and [[The Closed Lamp]] stay. Add a few argued objects — some true, some embellished, one never found. Meaning first. Daggerheart stats only if a PC could hold the thing. A short list of weapons, coats, and materials that exist because a place needed them. No loot ladder.
+
+Secrets: point [[Revelation Architecture]] and [[Reveal Index]] from Mysteries, Revelations, and Clues. Move a note only when the folder is its real home. Add at most two playable mysteries that are not the keystone and not a campaign plot.
+
+### Story L.9 — Sidebar honesty
+After L.1–L.8, empty folders that were decisions get a stub that says so, and leftovers get linked from the section MOCs. Archive or remove atlas prototypes 1 and 2 and the label-trial images. Keep the Prototype 3 masters, the labeled overlays, and the label scripts. World book untouched.
+
+> **L opened (2026-09-28).** No stories checked. Next session writes L.1 only.
+
+---
+
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Epic L — The lived world:** 0 / 9 tasks of L.1–L.2 (0%) 🟡 **opened 2026-09-28.** Stories L.3–L.9 stay coarse until L.1 and L.2 land. Diagnosis: voices, then faces, then customs. Empty folders are not a fill-list. World book untouched.
 - **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** Overlay method locked. Epic A complete. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
@@ -699,4 +792,5 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
 - [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue closed (A.1–A.13)
+- Epic L — the lived world (opened 2026-09-28). Next: Story L.1, How a Place Speaks. Then L.2, faces on the years.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
