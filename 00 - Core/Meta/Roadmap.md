@@ -665,7 +665,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 
 > **Empty folders are a mixed signal.** Some headings have no notes because the work was never done. Many others are empty because the note already lives in the parent folder or in another section. One canonical home per entity ([[Conventions]]). Link. Do not duplicate. Do not move a note just so a sidebar looks full.
 
-> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Invent modern surnames. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Name the twelve stub seats by default. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
+> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Give witness-lands or Kumbaan a surname. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Name the twelve stub seats by default. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
 
 ### Where the ask lands
 
@@ -674,7 +674,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 | How a place speaks; what they call the Tree and the Mother | **L.1** | [[The Old Tongue]] (three drifts + Kumbaan outside the box) · [[Naming People in the Turning]] |
 | Historical figures; past heroes and the condemned | **L.2** | [[The Other Count]] and its five years · [[The Closing]] · [[The First Cut]] · the walk |
 | Customs, traditions, rituals, mythology folders, religious history | **L.3** | [[Daily Life]] · [[Faiths of the Turning]] · the five faith notes · four fables · [[Turning Tree]] |
-| Bynames on the cast; leaders; living arguments | **L.4** | [[People of the Turning]] · the NPC notes (given names only) · byname rule already locked |
+| Second names on the cast; leaders; living arguments | **L.4** | [[People of the Turning]] · the NPC notes (given names only) · byname or house-name by raising-place, locked 2026-09-28 |
 | Continents, regions, city layouts, the road-end town, a few villages and sites, sky, phenomena, archaeology | **L.5** | Continents in `01 - World/Geography` · [[Named Ground]] · [[Maiethlir]] · [[Orentel]] · [[Settlement Seeds]] · [[The Reckoning of the Year]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] |
 | The other Daggerheart ancestries | **L.6** | [[Kinds of the Turning]] (hearths, not nations) · [[Kind Heritage]] |
 | Criminal houses, more fellowships, the watch, movements | **L.7** | [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]] · three licence guilds · the watch in [[Law and Citizenship]] |
@@ -686,7 +686,7 @@ Player-facing voice. Skills: `language-evolution`, `dialogue`, `memetic-depth`. 
 
 - [ ] Write **How a Place Speaks** (`03 - Cultures/Languages/`): conservative, worn, and eroded Maiethren, plus Kumbaan's own mouth. For each, the spoken handles for the Tree, the Mother, a hug, a colour, a warden, and a graft. Common speech only. No new liturgical compounds.
 - [ ] Four tones a player can actually use — devout core, dock, waiting or live front, hill-hall. Sentence length, what they repeat, what they will not say in company.
-- [ ] Say why the second name is a byname (place, house, deed, or the Threnhael), and point at [[Naming People in the Turning]]. Do not rename the cast in this story.
+- [ ] Say why a witness-town asks *of where?* and a list-land asks *what house?* Point at [[Naming People in the Turning]]. House-names (the surname slot) are already locked for Threnmaieth, Trenledd, the Inner Close, and filing houses. Do not rename the cast in this story.
 - [ ] Leave one phrase per drift in use and untranslated. Recognizable speech, inferrable drift, a little that will not gloss.
 - [ ] Do not unfreeze coinage. Do not add a fourth mainland tongue. Kumbaan stays outside the Old Tongue box.
 
@@ -704,7 +704,7 @@ Customs, traditions, and rituals by **stance and faith**, not by Kind. Turning-W
 Rehome while writing, one home each: faith essays into `07 - Religion/Faiths`; the four fables into `Mythology`; a player-facing deity note for the Motherfaith and for [[The Unspent]], with the keystone still behind the wall. A religious-history hub **links** [[The Ages of the Turning]], [[The First Cut]], [[The Wrong Green]], and the household notes. It does not rewrite Epic 6. The Other Hands stay GM.
 
 ### Story L.4 — Names in the room
-Every existing NPC note gets a **byname** under the locked pattern. No surnames. A Leaders index links the people who already hold an office; it does not clone their notes. New present leaders only where a road the table will walk has no mouth. Do not staff the twelve unnamed seats. A Heroes / Villains index is mostly L.2's dead, plus at most two living people the street argues about. No campaign villain. On-page mouths without notes stay on-page unless a story needs them.
+Every existing NPC note gets the **second name their raising-place uses**: a byname, or a house-name if they were raised where a list finds people (Threnmaieth, Trenledd, the Inner Close, a filing house). No English surnames. Kumbaan and the witness-lands stay without them. A Leaders index links the people who already hold an office; it does not clone their notes. New present leaders only where a road the table will walk has no mouth. Do not staff the twelve unnamed seats. A Heroes / Villains index is mostly L.2's dead, plus at most two living people the street argues about. No campaign villain. On-page mouths without notes stay on-page unless a story needs them.
 
 ### Story L.5 — Places with a street
 Selective. [[Settlement Seeds]] is the catalog of leftover *types*; use it. Do not invent a new type except by seating the one that still waits.

@@ -9,7 +9,7 @@ aliases: [Kind Distribution, Ancestry Map, The Hearths, Where Kinds Live]
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-09-28
 ---
 
 # Kinds of the Turning
@@ -34,7 +34,7 @@ The one exception that proves the rule is the [[Yumboe|Yumboes]]: they are rare 
 |---|---|---|
 | **Kind** | Birth-shape; sometimes a *hearth* (coast, ridge, wood, isle) | Loyalty, faith, legal standing, "which country" |
 | **Condition** | What they became (~75%); Tithe; guild/licence | Ancestry |
-| **Place** | The [[The Old Tongue|drift]] they speak, the institution-names they use, the polity that vouched them | What ears they have |
+| **Place** | The [[The Old Tongue|drift]] they speak, the institution-names they use, the polity that vouched them, and whether the second name is a byname or a house-name ([[Naming People in the Turning]]) | What ears they have |
 
 A [[Kitsune]] clerk on the [[Polity Archetypes|Lestrand]] docks, a [[Tengu]] pilgrim in [[Polity Archetypes|Threnmaieth]], a [[Selkie]] vouching-witness in [[Polity Archetypes|Vaethorn]] — none of those is a category-error. The interesting collision is always Kind × Condition × *place*.
 

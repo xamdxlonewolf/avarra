@@ -8,7 +8,7 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-08-31
+updated: 2026-09-28
 ---
 
 # Naming in the Turning
@@ -59,7 +59,7 @@ The universal grammar's institutions, with the **common-tongue** name and the th
 | a census of persons | *(none — no one else keeps one)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
 
-> **The darkest coinage.** Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name is the [[Polity Archetypes|sanctified-surveillance]] thesis in a single word.
+> **The darkest coinage.** Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name is the [[Polity Archetypes|sanctified-surveillance]] thesis in a single word. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands do not do this. → [[Naming People in the Turning#House-names — where a list outlives the witness]]
 
 ### Tithe-provision (civic infrastructure, from [[Economy and the Tithe]] / [[Daily Life]])
 
