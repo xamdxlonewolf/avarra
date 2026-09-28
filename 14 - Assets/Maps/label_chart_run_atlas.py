@@ -20,7 +20,7 @@ from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
-from label_curves import cubic, paste_along_path
+from label_curves import paste_along_path
 
 
 ROOT = Path(__file__).resolve().parent
@@ -133,16 +133,28 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
 
     place_f = font(SERIF_BOLD, 19)
-    river = font(SERIF_BOLD_ITALIC, 19)
+    river = font(SERIF_BOLD_ITALIC, 26)
 
-    # The river name follows the run. No second title over the fields.
+    # The name sits in the channel and follows the southward bend at the
+    # face's own spacing. The points are the painted centreline. A path
+    # stretched to the whole run scatters the letters onto the fields.
     paste_along_path(
         canvas,
         "The Chart-run",
         river,
         TYPE_WATER,
-        cubic((240, 530), (400, 505), (560, 520), (740, 550)),
+        [
+            (250, 456),
+            (280, 453),
+            (310, 458),
+            (340, 465),
+            (370, 475),
+            (400, 493),
+            (430, 509),
+        ],
         stroke=2,
+        tracking=1.0,
+        fit="type",
     )
 
     ink = ImageDraw.Draw(canvas)

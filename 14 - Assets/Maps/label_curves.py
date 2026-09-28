@@ -101,8 +101,15 @@ def paste_along_path(
     points: list[tuple[float, float]],
     stroke: int = 2,
     tracking: float = 1.04,
+    fit: str = "span",
 ) -> None:
-    """Place glyphs along a polyline. Letters stand on the path."""
+    """Place glyphs along a polyline. Letters stand on the path.
+
+    ``fit="span"`` opens the name across the whole path, which suits a
+    sea or a long coast. ``fit="type"`` keeps the face's own letter
+    spacing and centres that run on the path, so a river name follows
+    the water without scattering into caption-like letters.
+    """
     if len(points) < 2:
         return
     segs: list[tuple[float, float, float, float, float, float]] = []
@@ -116,19 +123,19 @@ def paste_along_path(
 
     widths = [glyph_width(typeface, char) * tracking for char in text]
     text_w = sum(widths)
+    if fit == "span":
+        origin = 0.0
+        scale = total / text_w
+    elif fit == "type":
+        origin = max(0.0, (total - text_w) / 2.0)
+        scale = 1.0
+    else:
+        raise ValueError(f"Unknown fit {fit!r}")
+
     walked = 0.0
     for char, width in zip(text, widths, strict=True):
-        target = ((walked + width / 2) / text_w) * total
-        x0 = y0 = x1 = y1 = 0.0
-        length = 1.0
-        base = 0.0
-        for x0, y0, x1, y1, length, base in segs:
-            if target <= base + length or (x0, y0, x1, y1) == segs[-1][:4]:
-                break
-        t = 0.0 if length == 0 else min(1.0, max(0.0, (target - base) / length))
-        x = x0 + (x1 - x0) * t
-        y = y0 + (y1 - y0) * t
-        angle = math.degrees(math.atan2(y0 - y1, x1 - x0))
+        target = origin + (walked + width / 2.0) * scale
+        x, y, angle = _point_on_path(segs, total, target)
         if char != " ":
             _paste_rotated(
                 canvas,
@@ -140,3 +147,26 @@ def paste_along_path(
                 stroke,
             )
         walked += width
+
+
+def _point_on_path(
+    segs: list[tuple[float, float, float, float, float, float]],
+    total: float,
+    target: float,
+) -> tuple[float, float, float]:
+    """Return x, y, and the reading angle in degrees. Past the end, follow the last heading."""
+    x0, y0, x1, y1, length, base = segs[-1]
+    if target > total and length > 0:
+        extra = (target - total) / length
+        x = x1 + (x1 - x0) * extra
+        y = y1 + (y1 - y0) * extra
+        angle = math.degrees(math.atan2(y0 - y1, x1 - x0))
+        return x, y, angle
+    for x0, y0, x1, y1, length, base in segs:
+        if target <= base + length or (x0, y0, x1, y1, length, base) == segs[-1]:
+            break
+    t = 0.0 if length == 0 else min(1.0, max(0.0, (target - base) / length))
+    x = x0 + (x1 - x0) * t
+    y = y0 + (y1 - y0) * t
+    angle = math.degrees(math.atan2(y0 - y1, x1 - x0))
+    return x, y, angle
