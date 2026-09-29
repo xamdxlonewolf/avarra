@@ -11,7 +11,7 @@ era: "[[The Years of Hands]]"
 date_in_world: "C.Y. 171 (aftermath through C.Y. 174); present = C.Y. 387"
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The Grey Summer
@@ -31,7 +31,7 @@ Grafts went unwatered where the Taken-In who knew the soil were in the ground. H
 
 ## What the fever wrote (second-order, not a sermon)
 
-**[[Trenledd]] began writing persons.** Ticket-and-tax machinery already had columns for hazard and debt. **Dirrol** *(DEER-rol)* added a column for *who is still alive to be found.* There was no hymn in it. There was a desk that had lost too many living witnesses and did not trust the three pillars to restock themselves. The Worn Count is this summer's child. Threnmaieth at least claims to keep you hale. Trenledd learned, in a plague-year, that it wanted you *findable.*
+**[[Trenledd]] began writing persons.** Ticket-and-tax machinery already had columns for hazard and debt. **[[Dirrol]]** *(DEER-rol)* added a column for *who is still alive to be found.* There was no hymn in it. There was a desk that had lost too many living witnesses and did not trust the three pillars to restock themselves. The Worn Count is this summer's child. Threnmaieth at least claims to keep you hale. Trenledd learned, in a plague-year, that it wanted you *findable.*
 
 **[[Brenledd]] piled a compact.** In C.Y. 174 the lesser hearths that had been priced one at a time through the fever — berth-fees in a summer with no berths, notes called early because a house was frightened — put their charters in one pile. **Nidtol** *(NID-tol)* is the hearth-name the compact still recites when Lestrand offers to simplify them. The league is not a founding-king. It is a refusal that learned to speak together.
 
@@ -83,6 +83,7 @@ Moved from the player-facing body during residual export polish:
 - **Hooks.** A Grey-summer debt whose family does not remember the cough; steal Dirrol's first person-column; a Brenledd town that wants out of a pile begun in panic; a Leddvael child opened as a term because the square's witnesses are in the ground; a pot that died for want of a watering-hand, filed as thin soil.
 
 ## Links
+- [[Dirrol]]
 - [[The Other Count]] · [[The Hinge Shore]] · [[Polity Archetypes|Lestrand]] · [[Trenledd]] · [[Brenledd]] · [[Leddvael]] · [[Netstrand]]
 - [[The White Note House]] · [[The Stillers]] · [[The Fair Hand]]
 - [[The First Cut]] — the gap is still horticulture and the list; the Grey is an extra friction

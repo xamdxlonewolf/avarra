@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-09-29
 ---
 
 # 08 - People
@@ -17,6 +17,13 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 
 ### Hub
 - [[People of the Turning]] — six pivots, named wants in the three seats, four campaign seeds
+
+### Historical figures
+Dead mouths the years still say. The living cast stays in the lists above.
+
+- **Still argued:** [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Rithnali]]
+- **Praised:** [[Monseoth]] — the sermon on the Near Mile
+- **Condemned:** [[Sedrad]] — the folk blame on the Salt Walk
 
 ### Positional pivots
 - [[Vaethod]] — Eolvaeth; warden who sends
@@ -60,3 +67,4 @@ Moved from the player-facing body during residual export polish:
 - - [[Naming People in the Turning]] · [[Roadmap]] (Story R.8; R.11)
 
 - **Opening:** [[Taeren]] and [[Rosire]] are on-screen in [[The Opening]]. [[Reimaethe]] and [[Hithaen]] stay offstage. Do not grow a crew. The walker is campaign-kit, not a seventh pivot.
+- **L.2 faces** live under Historical Figures. Do not build the Heroes / Villains index here; that is L.4. Do not rename the living cast onto these dead mouths.

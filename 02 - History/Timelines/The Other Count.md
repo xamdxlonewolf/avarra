@@ -9,7 +9,7 @@ aliases: [Years Besides Wood, The Counted Years That Were Not Grafts, Non-Tree H
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-09-29
 ---
 
 # The Other Count
@@ -80,6 +80,7 @@ The three sites remain undated.
 
 ## Links
 - The five: [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
+- Faces: [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Rithnali]] · [[Monseoth]] · [[Sedrad]]
 - Already on the shelf: [[The Wrong Green]] · [[The First Cut]] · [[The Ages of the Turning]]
 - Leftovers: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[The Walled Book]] · [[Powers of the Turning]] · [[The White Note House]]
@@ -103,6 +104,6 @@ Moved from the player-facing body during residual export polish:
 - **Two clocks + a chronicle.** If play starts treating C.Y. numbers as a fourth age, pull back to Clock 1 / Clock 2. The Other Count is *what happened while the wood travelled*, not a replacement spine.
 - **The Closed Seat is not a dark lord and not a first king.** They rationed the one seeing. The Seat later rationed wood. The Close still ranks. Four different papers preserve four human choices.
 - **Do not date the leftovers.** A party may dig. They may not be handed a year that starts the Tree.
-- **Hildal, Limrae, Manril, Dirrol, Nidtol, Narol, Vathne, Taerso, Sirtol, Tithsael** are working mouths (seed `20260830`, mid-list, reshaped to the person-register). Polish later. Do not promote them to a court.
+- **Faces (L.2).** [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] are the remembered persons. Manril stays the argument. Nidtol stays the later overlay. Vathne stays the slate. Sirtol stays the other shore. Tithsael stays the present night on [[The Seeing-Ring]]. Do not promote any of them to a court. Do not write the un-noted mouths as second celebrities.
 - **Fate-shifts already in the past (not proposals).** Closed Seat → remnant Close (fall). Hymn-country → two papers (schism). Quay-fever → Trenledd roll and Brenledd compact (institutional adaptation). Thaw-tolls → new pass-holder (reformation). Hinge War → Hush (absorption of a fight into a rate). Do not collapse any present power here.
 - **Hooks.** A debt with a Grey-summer verso; a Close gate that is not the Low Wall; a crown-count and a Cut-year that disagree by 67; a Hush-rate charged to a necessity-family; a Seeing-Ring night a warden wants blessed.

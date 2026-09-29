@@ -11,7 +11,7 @@ era: "[[The Years of Hands]]"
 date_in_world: "C.Y. 67 (present = C.Y. 387); Threnmaieth crown-count begins; present Crown-year 320"
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The Two Papers
@@ -23,7 +23,7 @@ updated: 2026-08-30
 
 After [[The Closing]] the grove had a college beside it and lodging-hearths around it. The wider hymn-country — Tree-dense, gift-talk, no Closed Seat on the lintel — still sang the same hymns. It did not yet have two flags.
 
-A reckoning-desk opened in a river-town that would later be counted as [[Maiethlir]]'s country. **Limrae** *(lim-RAY)* wrote persons because, they said, a gift you cannot find again is a gift you have already failed to tend. The Closed Seat had ranked. Limrae wanted to *keep*. Same ink-hunger, opposite kindness, if you believe the recto.
+A reckoning-desk opened in a river-town that would later be counted as [[Maiethlir]]'s country. **[[Limrae]]** *(lim-RAY)* wrote persons because, they said, a gift you cannot find again is a gift you have already failed to tend. The Closed Seat had ranked. Limrae wanted to *keep*. Same ink-hunger, opposite kindness, if you believe the recto.
 
 **Manril** *(MAN-ril)* kept the older proof in the plenty-country that would not take the name: you belong because you were seen to Turn, and you stay whole because your neighbours furnish what you were Given. To write a person is to say the three pillars failed. Manril would not sign the roll. They would not be named to it.
 
@@ -84,6 +84,7 @@ Moved from the player-facing body during residual export polish:
 - **Hooks.** A cousin-pair and one clerk; a crown-year a Maiethvael court will not find; Limrae's preface used as a founding-charter; the Close insulted as unmarked; a Speaker asked to convert Crown-year to Cut-year and refusing to start history at a desk.
 
 ## Links
+- [[Limrae]]
 - [[The Other Count]] · [[The Closing]] · [[Polity Archetypes]] · [[Maiethvael]]
 - [[Maiethlir]] · [[The Reckoned Offices]] · [[The Walled Book]]
 - [[The Ages of the Turning]] — crown-count lives here now

@@ -11,7 +11,7 @@ era: "[[The Years of Hands]]"
 date_in_world: "C.Y. 233 (roads closed two summers); present = C.Y. 387"
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The Thaw-Break
@@ -27,7 +27,7 @@ In 233 the high snow went together. Sky-couriers saw the white break in a week. 
 
 People died. So did animals, stores, and one well-town on the leeward side whose cistern took silt instead of snowmelt. [[Saelthael]]'s west-road — the leftover walk after the core stopped — was cut. Children who would have gone west in 233 and 234 went later, or went to a neighbour, or missed. The Given-door is still one week. A flood is not a second-chance year.
 
-**Narol of the Pass** *(NAH-rol)* took the thaw-toll when the old pass-holder's stone was under the water-line. Lirorn's mid-state is this fact you can levy: you tax the thaw, the pass, the high road. After the Break, *which* pass was the argument. Narol's house still levies. The valley still drinks. The ridge still pays in isolation. The injustice did not start in 233. The year made it visible as a water-line over a ribbon.
+**[[Narol of the Pass]]** *(NAH-rol)* took the thaw-toll when the old pass-holder's stone was under the water-line. Lirorn's mid-state is this fact you can levy: you tax the thaw, the pass, the high road. After the Break, *which* pass was the argument. Narol's house still levies. The valley still drinks. The ridge still pays in isolation. The injustice did not start in 233. The year made it visible as a water-line over a ribbon.
 
 ## What the water moved (not a sermon)
 
@@ -83,6 +83,7 @@ Moved from the player-facing body during residual export polish:
 - **Hooks.** A toll-right dated from the Break; a west-road cohort whose grandparents missed; Vathne's slate used as a charter; a pot-ring in Ornled with no wood in it; Threnmaieth tablets at a pass that moved; a Door-Keeper who sat down in the wet and a Road-hand who did not.
 
 ## Links
+- [[Narol of the Pass]]
 - [[The Other Count]] · [[Lirorn]] · [[Saelthael]] · [[Ornled]] · [[Saelvaeth]] · [[Vaelhesk]]
 - [[Ornsael]] · [[The Years of Hands]] · [[The Walking Years]]
 - [[02 - History]] · [[Roadmap]] (Story R.9; terrain names → R.10)

@@ -11,7 +11,7 @@ era: "[[The Years of Hands]]"
 date_in_world: "war C.Y. 299–304; hush C.Y. 304 (present = C.Y. 387)"
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The Hinge Hush
@@ -25,7 +25,7 @@ updated: 2026-08-30
 
 For five summers they took each other's hulls, tied each other's quays, and wrote each other's delays as righteousness. It was not a slaughter-age. It was a logistics war that killed people, which is what long water does when someone has decided the toll is a theology.
 
-**Taerso** *(TARE-so)* spoke for the Hinge Shore's houses. **Sirtol** *(SEER-tol)* spoke for a Ledger Coast charter-pile that was not the White Note and not the crown — one throat among many, which is how the Coast prefers a war. Neither sat a throne. Both could stop a berth.
+**[[Taerso]]** *(TARE-so)* spoke for the Hinge Shore's houses. **Sirtol** *(SEER-tol)* spoke for a Ledger Coast charter-pile that was not the White Note and not the crown — one throat among many, which is how the Coast prefers a war. Neither sat a throne. Both could stop a berth.
 
 In C.Y. 304 they hushed.
 
@@ -88,6 +88,7 @@ Moved from the player-facing body during residual export polish:
 - **Hooks.** A Hush-rate on a necessity-berth; a west-water landing Vaethorn tries to bless into a levy; Ornled beach-fee vs Netstrand quote; Brenledd side-paper a town wants out of; a Close heir complimenting the hush as ranking; Mataero filing occupancy under a rate they will not convert.
 
 ## Links
+- [[Taerso]]
 - [[The Other Count]] · [[The Grey Summer]] · [[The Hinge Shore]] · [[Polity Archetypes]] · [[Orentel]] · [[Named Ground]]
 - [[Netstrand]] · [[Saelvaeth]] · [[Polity Archetypes|Vaethorn]] · [[Ornled]] · [[Vaelhesk]] · [[Brenledd]]
 - [[The White Note House]] · [[The Years of Hands]]

@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 0 (present = C.Y. 387); spread inside locked bands through C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The First Cut
@@ -205,7 +205,7 @@ Spreading Trees *relocated* who is expected to have been seen at ten. A Hands-to
 
 ## In-world text
 
-*A minute of the First Seat, attributed to the Speaker Rithnali, from the summer the nameless green held its first Turning-Week. Later clerks file it as Cut-year 19. The verso is a list of pots that died, which no one read aloud. `oblique-worldbuilding`.*
+*A minute of the First Seat, attributed to the Speaker [[Rithnali]], from the summer the nameless green held its first Turning-Week. Later clerks file it as Cut-year 19. The verso is a list of pots that died, which no one read aloud. `oblique-worldbuilding`.*
 
 > *The wood that took within a day's earth of the First was cut without leave. We will not write who. We will write how, so the next cut does not kill what it carries.*
 >
@@ -213,7 +213,7 @@ Spreading Trees *relocated* who is expected to have been seen at ten. A Hands-to
 >
 > *The Tree does not reach twice by chance, and neither do we. From this summer a cut is a leave, or it is a theft we have decided not to chase. The towns that wait will wait on horticulture. The soil is thin in more places than it is not.*
 
-Rithnali cannot afford to see that "we will not write who" is the capture, or that "the soil is thin" is already a list. The pots on the verso are the argument the recto pretends to have closed. Folk who keep the nameless knife think this paper is a confession. The Seat thinks it is competence. Both can hold the same copy.
+[[Rithnali]] cannot afford to see that "we will not write who" is the capture, or that "the soil is thin" is already a list. The pots on the verso are the argument the recto pretends to have closed. Folk who keep the nameless knife think this paper is a confession. The Seat thinks it is competence. Both can hold the same copy.
 
 ## Folklore
 
@@ -242,6 +242,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 - **Hooks.** The nameless knife in a house that wants it named; Rithnali's verso of dead pots; a folk-right slip that took; a Fair Hand bill of lading for a living hand; a first-meal a Road-hand ate or refused; three hamlets watching Harrow's green; a Rain-Shadow walk after the core stopped; a Watcher grafting pears during a Cutting-leave sermon; a Long-Lived planter who will not say *I walked.*
 
 ## Links
+- [[Rithnali]] · [[Monseoth]] · [[Sedrad]]
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The Years of Hands]]
 - [[The Branch That Came Away]] — the Cut's paradox-fable
 - [[The Child Who Counted Stones]] — the walk as count

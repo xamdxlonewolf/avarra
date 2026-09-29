@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 19–38 (retreat C.Y. 38); present = C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The Closing
@@ -29,7 +29,7 @@ They did what a gate does when the road grows a second door. They tried to **upr
 
 They rode a day's earth with carrying-sacks and a sentence: the copy is a theft of the one seeing; bring the wood home or burn the pot. Some pots died. Some towns hid a slip in a well. Some lodging-hearths — the squares that would become [[Orenbren]] — would not starve their own beds to save a lintel. The early [[The Tree-Wardens|First Seat]] wanted *authorization*, not ash. Those are three different refusals. Together they are why an origin-empire cannot police a day's walk in a pre-print world.
 
-By C.Y. 38 the sitting was over. **Hildal** *(HIL-dal)* — last mouth of the Closed Seat that anyone will still name — ordered the Retreat. They did not save the grove. They saved a **book**. The walls they closed are the [[The Walled Book|Inner Close]]. The grove stayed. The college sat *beside* it and was not a throne. The beds stayed civic.
+By C.Y. 38 the sitting was over. **[[Hildal]]** *(HIL-dal)* — last mouth of the Closed Seat that anyone will still name — ordered the Retreat. They did not save the grove. They saved a **book**. The walls they closed are the [[The Walled Book|Inner Close]]. The grove stayed. The college sat *beside* it and was not a throne. The beds stayed civic.
 
 No one agrees which pot was the first they failed to pull. Naming that town would pick a hearth, and a hearth would pick a hand. History does not.
 
@@ -118,6 +118,7 @@ Hildal cannot afford to see that "we have always struck heir" is the sitting, co
 - **Hooks.** Hildal's verso of failed pots; a Near-Mile slip that survived a rider; a Salt-Walk note that still charges "origin delay"; Threnmaieth clerks at a gate that was a Retreat, not a census; a pilgrim ranked as labour because the Book does not know their hug.
 
 ## Links
+- [[Hildal]]
 - [[The Other Count]] · [[The First Cut]] · [[The Walled Book]] · [[Orenbren]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[The Tree-Wardens]]
 - [[The Low Wall]] · [[The Two Papers]]

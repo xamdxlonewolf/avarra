@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, history, epic-6]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-09-29
 ---
 
 # 02 - History
@@ -21,6 +21,7 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 - [[The Walking Years]] — only Thaeloren; you walked or you stayed Kept; the road as a life (three walks, inns, graves)
 - [[The Child Who Counted Stones]] — the road's paradox-fable *(lives in `07 - Religion`)*
 - [[The First Cut]] — the hinge and the spread; who cut is contested; Cutting-leave as captured copy-right
+- Mouths beside the Walk and the Cut, not the knife: [[Monseoth]] · [[Rithnali]] · [[Sedrad]]
 - [[The Branch That Came Away]] — the Cut's paradox-fable *(lives in `07 - Religion`)*
 - [[The Years of Hands]] — town Trees as the default; the walk's three jobs; Heskoren still the wave's front
 - [[The Child Who Climbed the Stone]] — the leftover's paradox-fable *(lives in `07 - Religion`)*
@@ -29,6 +30,7 @@ The past as believed and as recorded — eras, events, timelines, historical fig
 
 ### The Other Count — dated years that were not wood
 - [[The Other Count]] — chronicle hub; two clocks still stand
+- Faces on those years: [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] *(notes live in `08 - People`)*
 - [[The Closing]] — C.Y. 19–38; Closed Seat war, collapse, Retreat
 - [[The Two Papers]] — C.Y. 67; Maiethvael / Threnmaieth; crown-count starts
 - [[The Grey Summer]] — C.Y. 171; quay-fever; Trenledd / Brenledd / Leddvael causes

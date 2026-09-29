@@ -12,7 +12,7 @@ preceded_by: "[[Before the Walk]]"
 followed_by: "[[The Years of Hands]]"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # The Walking Years
@@ -216,6 +216,7 @@ Moved from the player-facing body during residual export polish:
 - **Hooks.** A Held bed with a name; a sibling Given/Kept pair and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.
 
 ## Links
+- [[Monseoth]] · [[Sedrad]]
 - [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Closing]] · [[The Years of Hands]]
 - [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — the leftover's
 - [[The Third Hearth]] — Thilim still making the bed · [[The White Note House]] — the same fortune, later
