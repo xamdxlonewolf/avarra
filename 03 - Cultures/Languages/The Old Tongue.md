@@ -11,7 +11,7 @@ speakers: liturgical/learned everywhere; conserved as daily speech in the Tree-r
 descends_from:          # none — this IS the root
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-08-31
+updated: 2026-09-29
 ---
 
 # The Old Tongue
@@ -213,6 +213,7 @@ The canonical collision data and deterministic generators live in `14 - Assets/N
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] — the institutions this pass renames
 - [[Naming in the Turning]] — the naming-conventions companion (institution variants, how to coin more)
 - [[Naming People in the Turning]] — person-names; hearth-registers of the four custom Kinds
+- [[How a Place Speaks]] — spoken handles and player tones; common speech only; Kumbaan outside this box
 - [[The Reckoning of the Year]] — the twelve months coined from these roots
 - [[The Ages of the Turning]] — era-names *Brenvaeth* · *Eoloren* · *Ornthael* (🔒)
 - [[The Walking Years]] — *brenhael* 🟡; three walks in the common tongue

@@ -8,7 +8,7 @@ tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Naming in the Turning
@@ -190,6 +190,7 @@ New liturgical names are frozen. If play creates a need that common speech canno
 - [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
 - [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
+- [[How a Place Speaks]] — the same drifts, as a mouth: handles, tones, and what a place asks you
 - [[Naming Tools]] — reproducible candidate streams and collision checks
 - [[Kinds of the Turning]] — hearths, not nations
 - [[The Ages of the Turning]] — era-names and Cut-years (Story 6.1)

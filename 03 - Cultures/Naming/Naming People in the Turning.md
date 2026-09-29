@@ -159,6 +159,7 @@ Before locking a new PC/NPC name, check:
 ## Links
 - [[Naming in the Turning]] — institutions; "the name reveals the stance"
 - [[The Old Tongue]] — root phonology and the three drifts
+- [[How a Place Speaks]] — how those drifts sound when a place is asked for the Tree, the Mother, or a name
 - [[Kinds of the Turning]] — hearths, not nations · [[Kind Heritage]] — table rulings
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[The Reckoning of the Year]] — month-names from the same Maiethren roots

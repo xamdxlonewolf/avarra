@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-09-29
 ---
 
 # 03 - Cultures
@@ -33,6 +33,7 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 
 ### Languages & Naming
 - [[The Old Tongue]] — *Maiethren*, the old liturgical root tongue of the [[Turning Tree|Awakening Tree]] (this world's "Latin"): warm/weighty phonology, pronunciation key, sacred lexicon, and **one root → three daughter drifts** (conserved core / worn frontier / eroded coast) — so *how a polity sounds reveals its stance*. Names the fifteen powers.
+- [[How a Place Speaks]] — common-speech handles and four tones (devout core, dock, waiting or live front, hill-hall). Kumbaan stays outside the Old Tongue.
 - [[Naming in the Turning]] — the naming-conventions companion: **the name a polity gives a shared institution reveals its stance** (venting-hall → *gift-hall* in devout Vaethorn / *release-house* on secular Lestrand / *counted hall* in surveillance-state Threnmaieth). The working dictionary of institution names + how to coin more.
 - [[Naming People in the Turning]] — person-names: named by *place*; custom Kinds keep a hearth-register (Kusawe / Sakoa / Gonan / Yumboe). Seeded lists, collision rules.
 
