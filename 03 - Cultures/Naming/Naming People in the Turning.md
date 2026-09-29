@@ -36,22 +36,28 @@ A fox-born broker on a Ledger Coast quay that does not file people might be **Ra
 
 ### House-names — where a list outlives the witness
 
-Some places say the second name the way our world says a surname. It is inherited. Children wear it. A clerk says it second. It is still a Maiethren word from that place's drift, often an old given name that stuck to a line. It is not an English family name, and it is not a town.
+Some places keep an inherited house-name in the slot where our world keeps a surname. Children wear it. A neighbour says the given name. A clerk says the **house first**, then the given name. The house-word is still from that place's drift, often an old given name that stuck to a line. It is not an English family name, and it is not a town.
 
-Ask which question the place asks. A witness-town asks *of where?* A list-land asks *what house?*
+You do not hand over every piece you own. The place that asks decides which piece, and in which order.
 
-| Where | What they ask | What the second name is | Example |
-|---|---|---|---|
-| **The Tallied Crown** ([[Polity Archetypes\|Threnmaieth]], seat [[Maiethlir]]) | *What house?* | The **roll-name** on the [[Naming in the Turning\|Threnhael]]. Inherited, said second. The street may use the given name alone. | **Raki Maethaem** *(MAY-thaym)* |
-| **The Worn Count** ([[Trenledd]]) | *What house?* | The **column-name**. Same shape, no hymn. They will not call it a Threnhael. | **Tilim Vonti** *(TIL-im VON-ti)* |
-| **The Inner Close** (inside [[Orenbren]], [[The Walled Book]]) | *What line?* | The **line-name**. Inherited. *Closed* on a roster is the rank, not the name. A colour can strike the rank and leave the name. | **Volir Vonsumur** *(VOH-leer von-SOO-mur)* |
-| **A filing house elsewhere** | *What house?* — only if you are of that house | The house while the paper is open. A byname on the street. A deathless desk or an inherited berth. Not the whole quay. | **Foaro of the White Note** · **Foaro of the third quay** |
-| **Everywhere else on the mainland** | *Of where?* | A **byname**. [[Maiethvael]], the Waiting Lands, the live front, [[Ornled]], and the lodging-towns. | **Tora of Brenod** · **Thilim of the Held bed** |
-| **[[The Sundering Isle\|Kumbaan]]** | *Who?* | A given name. Not a surname, and not *of the town*. | **Njunda** |
+- **A neighbour** gets the given name.
+- **A clerk in a list-land** gets the **house first, then the given name**. That is the file. Given-name only is an incomplete row.
+- **A witness-town** gets the given name, and *of the place* if you are a stranger. Leading with a house-name there sounds filed, or cold.
+- **Kumbaan** gets the given name. A mainland house or a mainland *of-the-town* is not your name there.
 
-A marriage in a list-land chooses which house the new household is written under. Children wear that one. Refusing the writing is a fight with the clerk, not a blank where the surname should be. In Trenledd the column may file you under the house that pays, including one you dislike. In the Inner Close the line can cast you out and keep the name on you anyway.
+| Who | What they own | At home | In a witness-town | When a list asks | On Kumbaan |
+|---|---|---|---|---|---|
+| **Raki**, raised in [[Maiethlir]] | Given **Raki**. House **Maethaem** *(MAY-thaym)*. | Neighbour: **Raki**. Clerk: **Maethaem, Raki**. | **Raki of Maiethlir**. Do not open with Maethaem. | **Maethaem, Raki**. | **Raki**. |
+| **Tilim**, raised in [[Trenledd]] | Given **Tilim**. House **Vonti** *(VON-ti)*. | Gate: **Vonti, Tilim**. A friend: **Tilim**. | **Tilim of the Worn Count**. Vonti first sounds like a column. | **Vonti, Tilim**. | **Tilim**. |
+| **Volir**, raised in the Inner Close | Given **Volir** *(VOH-leer)*. Line **Vonsumur** *(von-SOO-mur)*. | Where rank is in the room: **Vonsumur, Volir**. Kin: **Volir**. | **Volir of the Inner Close**. The line first is a display. | **Vonsumur, Volir**. The crown files the line as a house. It is not their book. | **Volir**. |
+| **Tora**, raised in Brenod | Given **Tora**. Bynamed **of Brenod**. No house. | **Tora**. A stranger: **Tora of Brenod**. | **Tora of Brenod**. | **Of Brenod**. There is no house to give. If she stays, they may invent one. She should not borrow one. | **Tora**. |
+| **Thilim**, the Held bed | Given **Thilim**. Bynamed **of the Held bed**. No house. | **Thilim**. A stranger: **Thilim of the Held bed**. | **Thilim of the Third Hearth**. | **Of the Held bed**. Same as Tora: no house, and do not invent one to be polite. | **Thilim**. |
+| **Foaro**, of the [[The White Note House\|White Note]] | Given **Foaro**. The desk is a house only while the paper is open. The street is the third quay at [[Orentel]]. | In the room: **White Note, Foaro**. On the quay: **Foaro of the third quay**. | **Foaro of Orentel**. | **Of the White Note**, and say it is a desk. Said like a family, they will file the desk as one. | **Foaro**. |
+| **Njunda**, the Feeding Hill | Given **Njunda**. No house. Not *of a town*. | **Njunda**. | **Njunda**. If they will not let it go: **of the Feeding Hill**. | **Njunda**, of the Feeding Hill. No house to put first. | **Njunda**. |
 
-A person raised in one habit and living in the other wears the name they came with. Harrow's will not use a roll-name unless it means to be cold. Maiethlir will invent a house for a walker who stays, and the walker will feel filed.
+A marriage in a list-land chooses which house the new household is written under. Children wear that one. Refusing the writing is a fight with the clerk, not a blank where the surname should be. In Trenledd the column may file you under the house that pays, including one you dislike. In the Inner Close the line can cast you out and keep the name on you anyway. *Closed* on a roster is that rank, not a second name.
+
+Harrow's will not use a roll-name unless it means to be cold. Maiethlir will invent a house for a walker who stays, and the walker will feel filed.
 
 A mixed mainland child answers to **one register** if either side is custom — usually the kitchen they spent the summer in, or the name that stuck — and still takes the **second name of the place that raised them**, byname or house-name. A Selkie-and-Tengu child might be *Lavo of Highgate*; the perch is in the byname, not a second hearth-register worn at once. See [[Kinds of the Turning#Mixed-Kind children]]. A [[Yumboe]] keeps the one register and is never a mix.
 
