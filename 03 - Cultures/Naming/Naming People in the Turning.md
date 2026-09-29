@@ -9,7 +9,7 @@ aliases: [Person Names, Kind Registers, How People Are Named, The Four Registers
 world: The Turning
 reveals: []
 created: 2026-08-23
-updated: 2026-09-28
+updated: 2026-09-29
 ---
 
 # Naming People in the Turning
@@ -40,14 +40,14 @@ Some places say the second name the way our world says a surname. It is inherite
 
 Ask which question the place asks. A witness-town asks *of where?* A list-land asks *what house?*
 
-| Where | What the second name is | What a full name sounds like |
-|---|---|---|
-| **The Tallied Crown** ([[Polity Archetypes\|Threnmaieth]], seat [[Maiethlir]]) | The **roll-name** on the [[Naming in the Turning\|Threnhael]]. The crown keeps you hale by keeping you findable. The street may still know your stair; the warrant uses the house. | Given name, then the house: *Raki Maethaem* on the roll, and *Raki* when someone is trying to pin them down. |
-| **The Worn Count** ([[Trenledd]]) | The **column-name**. Same shape, no hymn. The roll began as tickets and taxes and forgot to stop. You are filed so you can be found. | Given name, then an eroded house-word. They will not call it a Threnhael. |
-| **The Inner Close** (inside [[Orenbren]], [[The Walled Book]]) | The **line-name**. The house is the inheritance. A colour can strike an heir off the line; the name is then the problem they carry. | The line is said when rank is in the room. A minute already writes it *Closed*, not as a street. |
-| **A filing house elsewhere** | Only the people of that house. A deathless desk, an inherited berth, a long-house whose memory is the credit. The rest of the quay or the road stays on bynames. | The house when the term is in the room; *of the quay* on the street. |
-| **Everywhere else on the mainland** | A **byname**. [[Maiethvael]] refuses a person-list. The Waiting Lands, the live front, [[Ornled]], and the lodging-towns ask where you stood. | **Tora of Brenod.** **Thilim of the Held bed.** |
-| **[[The Sundering Isle\|Kumbaan]]** | Neither. A given name, and the table or the hill if more is needed. A mainland surname on a Yumboe is a costume. | **Njunda**, and the hill if you insist. |
+| Where | What they ask | What the second name is | Example |
+|---|---|---|---|
+| **The Tallied Crown** ([[Polity Archetypes\|Threnmaieth]], seat [[Maiethlir]]) | *What house?* | The **roll-name** on the [[Naming in the Turning\|Threnhael]]. Inherited, said second. The street may use the given name alone. | **Raki Maethaem** *(MAY-thaym)* |
+| **The Worn Count** ([[Trenledd]]) | *What house?* | The **column-name**. Same shape, no hymn. They will not call it a Threnhael. | **Tilim Vonti** *(TIL-im VON-ti)* |
+| **The Inner Close** (inside [[Orenbren]], [[The Walled Book]]) | *What line?* | The **line-name**. Inherited. *Closed* on a roster is the rank, not the name. A colour can strike the rank and leave the name. | **Volir Vonsumur** *(VOH-leer von-SOO-mur)* |
+| **A filing house elsewhere** | *What house?* — only if you are of that house | The house while the paper is open. A byname on the street. A deathless desk or an inherited berth. Not the whole quay. | **Foaro of the White Note** · **Foaro of the third quay** |
+| **Everywhere else on the mainland** | *Of where?* | A **byname**. [[Maiethvael]], the Waiting Lands, the live front, [[Ornled]], and the lodging-towns. | **Tora of Brenod** · **Thilim of the Held bed** |
+| **[[The Sundering Isle\|Kumbaan]]** | *Who?* | A given name. Not a surname, and not *of the town*. | **Njunda** |
 
 A marriage in a list-land chooses which house the new household is written under. Children wear that one. Refusing the writing is a fight with the clerk, not a blank where the surname should be. In Trenledd the column may file you under the house that pays, including one you dislike. In the Inner Close the line can cast you out and keep the name on you anyway.
 
@@ -164,5 +164,6 @@ Before locking a new PC/NPC name, check:
 
 - **Own-names are locked.** *Kusawe / Sakoa / Gonan* were approved 2026-08-23. Individual *person* names stay a working list — draw from the seeds, don't swap the endonyms for Japanese/Gaelic medians.
 - **Two names is a Kind×place tell, not a secret identity.** Players should hear it in ordinary introductions. The inscrutable bit is smaller: the lost fourth Fox-word ([[Kinds of the Turning]]), a Yumboe who *does* take a mainland second name (they have decided to stay), a Threnmaieth clerk who refuses to record hearth-names (the roll wants the house, not the kitchen).
-- **House-names (2026-09-28).** User amended the 2026-08-23 byname-only line. Witness-lands stay bynames. Threnmaieth, Trenledd, the Inner Close, and filing houses use an inherited name in the surname slot. Do not rename the cast in this note; Story L.4 does that. Do not give Maiethvael, the Waiting Lands, or Kumbaan a person-list. Dirrol's column on [[Trenledd]] is the historical seed; do not biograph it here.
+- **House-names (2026-09-28).** User amended the 2026-08-23 byname-only line. Witness-lands stay bynames. Threnmaieth, Trenledd, the Inner Close, and filing houses use an inherited name in the surname slot. Do not rename the cast in this note; Story L.4 does that. Do not give Maiethvael, the Waiting Lands, or Kumbaan a person-list. Dirrol's column on [[Trenledd]] is the historical seed; do not biograph it here. *Closed* on a Walled Book minute is rank, not a surname.
+- **Textbook names, not cast (2026-09-29).** `python3 "14 - Assets/Names/generate_names.py" --seed 20260929 --register conservative --count 12` — **Volir** position 9, **Vonsumur** position 5, paired as the Inner Close example. `python3 "14 - Assets/Names/generate_names.py" --seed 20260929 --register eroded --count 12` — **Vonti** position 6, paired with the existing sample given name **Tilim**. **Raki Maethaem**, **Foaro**, **Tora of Brenod**, **Thilim of the Held bed**, and **Njunda** were already in the notes. Do not seat Volir, Vonsumur, Vonti, or Tilim as people.
 - **No deep grammar.** Do not write "sentences" in Kusawe or Gonan. If a scene needs an in-group word, coin *one word* from the inventory and gloss it.
