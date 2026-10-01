@@ -19,7 +19,7 @@ foreshadowed_by:
   - "[[The Open Table]] · [[Yumboe]] · [[The Sundering Isle]] — control: almost no Struck, no Given"
 revealed_in:
 created: 2026-08-23
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # The Other Hands
@@ -133,6 +133,7 @@ Per the user's call, now locked in this note and pointed from [[Yumboe]] / [[The
 - **They do not worship her or her household**, so the Other Hands have **little purchase** — the doors are not kept in their names, the rites are not theirs. This is not "gods starve without prayer" as a video-game mana bar. It is: a Hand reaches through a door that is *used*. On Kumbaan those doors are barely a concept.
 - **Struck can still happen, at far smaller percentages** than the mainland's ~15% lifetime Struck. A Yumboe who dies with work unfinished, or drowns, or is taken by the deep green of the Paps, *can* be caught — rarely. Enough for a story. Not enough to be a social class. No Returned neighbourhoods; no Bound guilds.
 - **A Yumboe abroad**, standing under a mainland Tree, is a live campaign beat, not a population fact. The Tree is her hand; she *could* Give. It almost never arises. Don't write a racial immunity.
+- **The storm-wall is not a ward against the household (settled 2026-10-01).** Weather, current, and reef — a dial, per [[The Sundering Isle]]. Do not set a larger power in the water to keep her, or the Hands, from interfering. That would pick the nature of her limit, still open on [[Is the Leaf-Mother Real]], and turn a crossing into a seal. Unreached stays the word.
 
 The Isle remains the sharpest experiment: a people outside her Giving, barely inside her household's reach, with a faith that was never hers.
 

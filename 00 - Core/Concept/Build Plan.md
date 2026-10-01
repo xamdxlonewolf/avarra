@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Build Plan
@@ -36,9 +36,9 @@ updated: 2026-09-29
 
 **Leftovers (2026-08-31).** [[Conditions]] carry Tree colour, path, and civic next-step. Living ground: [[Climate of the Turning]] · [[Ecology of the Turning]]. Secrets: [[Revelation Architecture]] · [[Reveal Index]]. Fire plot does not need the Spent Leaf. Household confirmation stays late. **Sick-Tree / guest-grove seated:** [[The Mill-hold]] · [[The First Bowl]]. A lead road-end type still waits.
 
-**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked; lock the nature of her limit. Under Epic L, also do not invent a fourth mainland tongue, planes, Kind-nations, or a fourth body-licence; do not give witness-lands or Kumbaan surnames; do not fill every empty folder or every village. House-names are the surname habit, and only where a list finds people. The lead road-end town waits for Story L.5.
+**Do not:** rebuild locked engines; reopen R.12 phonology or R.13 table procedure unless asked; update the world book unless the user asks; resume the old Epic 8 roster plan; name the First Cut's cutter; date the Tree; add a sixteenth power; put a graft on Kumbaan; write endings or later sessions unless asked; lock the nature of her limit. Under Epic L, also do not invent a fourth mainland tongue, planes, Kind-nations, or a fourth body-licence; do not give witness-lands or Kumbaan surnames; do not fill every empty folder or every village. House-names are the surname habit, and only where a list finds people. The lead road-end town waits for Story L.5. Do not write a reliable pre-Cut year-chronicle. Do not set a power in the storm-wall to block the household.
 
-Two clocks stand. Cutter unpicked.
+Two clocks stand. Cutter unpicked. The dated shelf is since the First Cut, a graft. Conditions, the Giving, and the doors are older and undated ([[Before the Walk]] · [[The Ages of the Turning]]). Kumbaan's storm-wall stays weather.
 
 ## What this world is
 

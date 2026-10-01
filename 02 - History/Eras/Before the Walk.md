@@ -12,7 +12,7 @@ preceded_by:
 followed_by: "[[The Walking Years]]"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Before the Walk
@@ -55,6 +55,7 @@ Moved from the player-facing body during residual export polish:
 - **This is the 20% inscrutable.** Resist the urge to fill it. [[The Watching]] and [[The Old Ways]] already hold the two usable memories (seeing without a mother; doors without a graft). A third "true prehistory" would flatten both.
 - **Keystone-adjacent, not keystone-confirming.** The Tree standing before it was called Hers is compatible with [[Is the Leaf-Mother Real|she is real]] *and* with "the Mother-name is later." Do not use this note to decide what she is. The *maternal intent* is locked; her metaphysical species is not.
 - **Nature of the limit:** a wound-in-the-deep-past is *one* available cause among several. Story 6.1 does not pick it. If a later epic wants "she is spent from something Before," that is a taste call, not a smuggled fact.
+- **The count is not the birthday of Conditions (settled 2026-10-01).** Cut-year 0 is a copy of wood. The Giving, and the organized walk, are older than that shelf and have no start year. Becoming at a door is older than the walk. Kinds are older than both. Do not build a second official calendar of reliable pre-Cut years. Pages older than the Cut may exist, and they are local and lossy: a grove-leave, a shrine name, a house note. Person-rolls are late. Past the oldest page a living keeper will stand behind, the record blurs — stones, the three leftovers, Kumbaan memory, Watchers who will not chisel a year. [[Long-Lived]] are Given only. They can remember a walk they witnessed. They are not a library of centuries from before the Giving. A clean switch at C.Y. 0 — she appeared when the chronicle starts, and before that there were no Conditions — is the overlay this note refuses.
 
 ## Links
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The Watching]] · [[The Old Ways]] · [[Turning Tree]] · [[Is the Leaf-Mother Real]]

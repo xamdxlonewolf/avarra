@@ -10,7 +10,7 @@ aliases: [Kumbaan, The Sunder, The Storm-Walled Isle, The Hidden Home, The Yumbo
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-22
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # The Sundering Isle
@@ -101,5 +101,5 @@ The labelled picture: [[The Known Map]]. Days: there are none that count. To dra
 - **The Isle is the strongest keystone experiment — guard the reveal.** A near-Treeless land whose people become what they become *without* the Leaf-Fall is the cleanest natural test of whether the Mother is behind *any* of it. Per [[The Other Hands]]: **no Gifts** (no graft has crossed; her reach does not get there); **Struck are rare** (the household has little purchase where it is unknown and the doors are not kept); their Kind and their table are *their own*, not a subtler Tree. Don't resolve a lone Yumboe's Struck-or-not in session one — it's still a late beat, just no longer an empty question.
 - **Three old faiths, three edges, one buried truth.** [[The Open Table]] joins [[The Watching]] and [[The Old Ways]] as the world's three keystone-adjacent religions — each grown far from (or before) the Motherfaith's account, each possibly preserving a fragment of what the Trees really are. The Isle's is the *purest* control: a cosmology with zero Motherfaith contamination. If a campaign triangulates the keystone, these three are the corners. See [[Faiths of the Turning]].
 - **"Spirits of the dead" is folklore, not literal here.** The source myth calls Yumboes ghosts/ancestral spirits. We reinvent them as a *living* people (they're a playable Kind), but the ancestral flavour is deliberately kept as their *faith's* self-image — a people who venerate hill, moon, and lineage and speak of themselves in the old ancestral idiom. Don't make them literally undead (that's the [[Returned]]'s lane).
-- **The storm-wall is a dial, not a lock.** A permanent absolute wall kills the expedition hook; a weekly packet kills the isolate. Thinning, wreck, or a Kind/Condition that can survive a night on the reef (a [[Selkie]]? a [[Far-Voiced]]?) stays a lever. Procedure is above; do not invent a moon-warden or a Kumbaan mission.
+- **The storm-wall is a dial, not a lock, and not a ward.** A permanent absolute wall kills the expedition hook; a weekly packet kills the isolate. Thinning, wreck, or a Kind/Condition that can survive a night on the reef (a [[Selkie]]? a [[Far-Voiced]]?) stays a lever. Procedure is above; do not invent a moon-warden or a Kumbaan mission. Do not explain the girdle as a larger power blocking the household. The cause of her limit stays open. See [[The Other Hands]].
 - **Play [[Ndenjoo]] as a home.** Confirmation that the isle is the control stays late. First nights are dishes, wrecks, and guests.

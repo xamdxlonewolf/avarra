@@ -9,7 +9,7 @@ aliases: [The Ages, How History Is Counted, The Era Spine, Cut-Years, The Grafti
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # The Ages of the Turning
@@ -58,6 +58,8 @@ There is **no universal year-zero.** Same twelve months; three new-year's days (
 **Present (🔒):** **Cut-year 387** — the 387th summer since the First Cut. Vault shorthand **C.Y. 387**. Not a round number on purpose.
 
 **What you may not date.** The [[Turning Tree|Awakening Tree]] is **old beyond reliable dating.** [[Before the Walk]] has no start. The *nature* of the [[Is the Leaf-Mother Real|Mother's limit]] stays open. Who made the First Cut stays contested ([[The First Cut]]).
+
+**Cut-year 0 is a graft.** It is the first witnessed copy of living wood. It is not the first Condition, not the first Giving, and not the Tree's birthday. The Giving and the walk sit in [[Before the Walk]] and [[The Walking Years]] with no start year on this shelf. Becoming at a door is older than the walk. Being born a Kind is older than both.
 
 ### Spread of the wave (🔒 shape and bands)
 

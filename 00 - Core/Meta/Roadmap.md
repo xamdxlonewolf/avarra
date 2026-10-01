@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # Roadmap
@@ -665,7 +665,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 
 > **Empty folders are a mixed signal.** Some headings have no notes because the work was never done. Many others are empty because the note already lives in the parent folder or in another section. One canonical home per entity ([[Conventions]]). Link. Do not duplicate. Do not move a note just so a sidebar looks full.
 
-> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Give witness-lands or Kumbaan a surname. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Name the twelve stub seats by default. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
+> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Give witness-lands or Kumbaan a surname. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Write a reliable pre-Cut year-chronicle, or treat C.Y. 0 as the birthday of Conditions. Set a power in the storm-wall to block the household. Name the twelve stub seats by default. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
 
 ### Where the ask lands
 
@@ -750,6 +750,8 @@ Secrets: point [[Revelation Architecture]] and [[Reveal Index]] from Mysteries, 
 After L.1–L.8, empty folders that were decisions get a stub that says so, and leftovers get linked from the section MOCs. Archive or remove atlas prototypes 1 and 2 and the label-trial images. Keep the Prototype 3 masters, the labeled overlays, and the label scripts. World book untouched.
 
 > **L.2 done (2026-09-29).** Faces are in. Next session may open L.3. This pass did not. L.3–L.9 stay coarse.
+
+> **Shelf and storm (2026-10-01).** Dated years are since the First Cut, a graft. Conditions, the Giving, and the doors are older and undated. Kumbaan's storm-wall stays weather, current, and reef. No blocker in the water. Her limit's nature stays open. Recorded on [[Before the Walk]], [[The Ages of the Turning]], [[The Other Hands]], [[The Sundering Isle]]. World book untouched.
 
 ---
 
