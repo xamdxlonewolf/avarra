@@ -13,14 +13,14 @@ location: "of [[Orentel]]; this Hale-month [[Harrow's Green]] upper room"
 role: infirmary hand who opened a door
 reveals: [when-the-fire-is-caught]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # Rosire
 
 > Brought water at [[Tesara]]'s shed. This Hale-month they are not on that floor. An upper room at the live front. Still wants to be forgotten.
 
-*(ro-SEER-eh.)* Eroded drift. Of [[Orentel]]. Sleeping at [[Harrow's Green]].
+*(ro-SEER-eh.)* Eroded drift. Of [[Orentel]]. A neighbour says Rosire. A stranger gets Rosire of Orentel. They do not use the byname from before this floor. There is no house. On Kumbaan the name is Rosire. Sleeping at [[Harrow's Green]].
 
 ## Summary
 

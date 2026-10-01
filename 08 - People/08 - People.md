@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # 08 - People
@@ -18,8 +18,12 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 ### Hub
 - [[People of the Turning]] — six pivots, named wants in the three seats, four campaign seeds
 
+### Indexes
+- [[Leaders]] — offices that already have a mouth
+- [[Heroes and Villains]] — praised, condemned, and still argued
+
 ### Historical figures
-Dead mouths the years still say. The living cast stays in the lists above.
+Dead mouths the years still say. The living cast stays in the lists above. The argued list is [[Heroes and Villains]].
 
 - **Still argued:** [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Rithnali]]
 - **Praised:** [[Monseoth]] — the sermon on the Near Mile
@@ -67,4 +71,5 @@ Moved from the player-facing body during residual export polish:
 - - [[Naming People in the Turning]] · [[Roadmap]] (Story R.8; R.11)
 
 - **Opening:** [[Taeren]] and [[Rosire]] are on-screen in [[The Opening]]. [[Reimaethe]] and [[Hithaen]] stay offstage. Do not grow a crew. The walker is campaign-kit, not a seventh pivot.
-- **L.2 faces** live under Historical Figures. Do not build the Heroes / Villains index here; that is L.4. Do not rename the living cast onto these dead mouths.
+- **L.2 faces** live under Historical Figures. [[Heroes and Villains]] links them. It does not clone them. Do not rename the living cast onto these dead mouths.
+- **L.4 names** sit on the NPC notes: a house in Maiethlir and on Hithaen's unsaid line, a byname everywhere people are witnessed, Njunda as the given name, Thilim of the Held bed. The White Note is a desk only while the paper is open. Tora stays on the on-page list above.

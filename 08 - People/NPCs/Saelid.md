@@ -13,12 +13,12 @@ location: "[[Eolvaeth]]"
 role: baker; Vaethod's sibling
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Saelid
 
-*(SAY-lid.)* Camp-street baker, [[Eolvaeth]]. Younger sibling of [[Vaethod]]. Taken-In green in the stall-pots; ordinary flour in the rest.
+*(SAY-lid.)* Camp-street baker, [[Eolvaeth]]. Younger sibling of [[Vaethod]]. A neighbour says Saelid. On those streets they are Saelid of the camp-streets. A stranger to the vale gets Saelid of Eolvaeth. There is no house. On Kumbaan the name is Saelid. Taken-In green in the stall-pots; ordinary flour in the rest.
 
 **Want:** winter mouths to buy bread. A send-year takes them.
 

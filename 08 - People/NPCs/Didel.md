@@ -13,12 +13,12 @@ location: "[[Orentel]]"
 role: Selkie hauler
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Didel
 
-*(dih-DEL.)* [[Selkie]] of Hallowquay — hearth-given, Strand-byname. Haulage. Not a Kind-champion.
+*(dih-DEL.)* [[Selkie]] of Hallowquay — hearth-given, Strand-byname. The civic name is the quay, not the Kind. A neighbour says Didel. A stranger gets Didel of Hallowquay. A list gets of Hallowquay and no house. On Kumbaan the name is Didel. Haulage. Not a Kind-champion.
 
 **Want:** a kin-berth for a skin-kin wedding in Eolthael. [[Sorim]] has held 1–4 for a First-Hand year. Didel cannot hold those.
 

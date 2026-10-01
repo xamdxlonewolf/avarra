@@ -5,7 +5,7 @@ visibility: player
 note_status: fleshed
 status: alive
 tags: [npc, kumbaan, table-keeper, ndenjoo, yumboe]
-aliases: [Njunda of Ndenjoo, the Feeding Hill host]
+aliases: [the Feeding Hill host]
 world: The Turning
 culture: Kumbaan / Yumboe register
 faction: "[[The Table-Keepers]]"
@@ -13,14 +13,14 @@ location: "[[Ndenjoo]]"
 role: table-keeper
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # Njunda
 
 > Opens the hill-hall at [[Ndenjoo]]. Almost not clergy. One job: keep the table.
 
-*(NJOON-dah.)* [[Yumboe]]. Of the Feeding Hill; they do not take a mainland byname. They have not crossed.
+*(NJOON-dah.)* [[Yumboe]]. The name is Njunda. A neighbour says Njunda. If a witness-town will not let the place go, they may hear of the Feeding Hill. That is the place. There is no house. A list gets Njunda, of the Feeding Hill, with nothing to put first. On the hill the name is Njunda. They have not crossed.
 
 ## At a glance
 

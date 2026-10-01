@@ -135,5 +135,5 @@ Kumbaan asks neither. The given name is the name. A mainland house, or a mainlan
 - **Coinage stays frozen.** *Lei thulen*, *len soret*, and *ka doven* are in-use phrases, one per drift. *Aman ndo* is the hill's phrase. It is not a Maiethren drift and not a root. Do not gloss them. Do not etymologize them into the root list. Do not enter them as names or liturgical compounds.
 - ***Tallo*** is dock pronunciation of *the Thallow*. ***Mait*** is *Maieth* with the thorn tired; careful prayer restores *Maieth*. Neither is a charter form and neither is a new everyday name beside Turning Tree.
 - **No graft on Kumbaan.** *Their cutting* is a mainland object in hill speech. Do not seat wood in the valley.
-- **Second names.** The 2026-09-28 / 2026-09-29 rule stands. Do not rename the cast here. Story L.4 does that. Textbook rows stay textbook.
+- **Second names.** The 2026-09-28 / 2026-09-29 rule stands. The living cast was named on the person notes in L.4. Do not rename them here. Textbook rows stay textbook.
 - **Do not** date the Tree, name the cutter, lock her limit, or add a power. World book untouched.

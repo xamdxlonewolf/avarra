@@ -5,22 +5,22 @@ visibility: player
 note_status: draft
 status: alive
 tags: [npc, campaign-seed, kept-regime, eolvaeth, given]
-aliases: [Hithaen of the old walls, the disinherited Given]
+aliases: [the disinherited Given, Brethlumal Hithaen]
 world: The Turning
-culture: conservative given-name; byname refused
+culture: conservative given-name; Inner Close house unsaid
 faction: "was [[The Walled Book]]; is not now"
 location: "[[Eolvaeth]]"
 role: Given heir who lost a Kept-line status
 reveals: []
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Hithaen
 
 > Arrived in [[Eolvaeth]]'s gift-hall this Hale-month with no list behind them and a name they will not put on a wall. Given. Used to be an heir of a house that counts the Kept as the line that may rule. The leaf took that.
 
-*(hith-AYN.)* Conservative given-name. They will not take *of Eolvaeth* yet. They will not say the old byname. Seed, not a plot.
+*(hith-AYN.)* Conservative given-name. House **Brethlumal** *(breth-LU-mal)*. The line cast them out and kept the name on them. They will not say it. They will not take *of Eolvaeth*. A neighbour in the vale says Hithaen. A clerk behind the wall would say Brethlumal, Hithaen. A letter that still uses the house has not been opened. On Kumbaan the name is Hithaen. Seed, not a plot.
 
 ## Summary
 
@@ -48,6 +48,7 @@ Does not name the surviving power. Does not decide whether that regime replaces 
 
 - **Seed only.** The remnant is [[The Walled Book]] (political class rule, not another church). R.10 may still move the Inner Close. Hithaen is the disinherited Given. Do not name Talnin as this person. Do not write the war.
 - **Arc (if play picks them up).** *Lie:* if I get the name back I get myself back. *Need:* a standing that is witnessed for the person who Turned, not the line that lost them. *Want:* bread, a stall, or a wall-pass — they will not admit which.
+- **House.** Brethlumal is the line that kept the name after the leaf. They will not say it in the vale. Do not turn it into *of Eolvaeth*. Do not write the Book on this page. The civic slot is the house, not a Kind.
 - **Kind is incidental.** Do not make them a Kind-champion of the old walls.
 - **Intersection:** [[Vaethod]]'s hall. A later road to [[Orentel]] if they need a warrant. Not a party with [[Reimaethe]] or [[Taeren]].
 - **The leaf did not disinherit them; the class rule did.**

@@ -13,14 +13,14 @@ location: "[[Orentel]]"
 role: loft occupancy
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Mataero
 
 > Lets the inland loft of [[The White Note House]]. Twelve beds. Eight let. Four open for Eolthael. North bed not to let. They file all of that as occupancy.
 
-*(mah-TAY-ro.)* Eroded drift. Of the rise behind the third quay; a clerk will write *of Orentel*.
+*(mah-TAY-ro.)* Eroded drift. Of the rise behind the third quay. A neighbour says Mataero. A stranger, and a clerk with the paper shut, gets Mataero of Orentel. There is no family to put first. While a White Note paper is open the line may be headed White Note, Mataero, and it is the desk. Shut the paper and the quay says Mataero of the rise. On Kumbaan the name is Mataero.
 
 ## At a glance
 

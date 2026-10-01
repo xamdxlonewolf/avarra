@@ -13,14 +13,14 @@ location: "[[Orentel]]"
 role: Intake clerk; catching-year
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # Tesara
 
 > Sits the stillers' shed that does not face the street. A key the slate does not name. Success is silence. They will not stamp a ticket this week.
 
-*(teh-SAH-rah.)* Eroded drift. Of Orentel; the floor will say *emergency ticket* if they say anything.
+*(teh-SAH-rah.)* Eroded drift. Of Orentel. A neighbour says Tesara. A stranger gets Tesara of Orentel. The shed is the week, not a house. A list gets of Orentel and no family. On Kumbaan the name is Tesara. The floor will say *emergency ticket* if they say anything.
 
 ## At a glance
 

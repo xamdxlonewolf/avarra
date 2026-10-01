@@ -13,14 +13,14 @@ location: "[[Orentel]]"
 role: factor who holds a berth
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Sorim
 
 > Factor on [[Orentel]]'s first quay. Charters berths. Files occupancy of water. They are not Ledan. They are not the council.
 
-*(SOR-im.)* Eroded drift. Of the Salt Quay.
+*(SOR-im.)* Eroded drift. Of the Salt Quay. A neighbour says Sorim. A stranger gets Sorim of Orentel, or of the first quay if they are already on it. The house-share is the hold-fee, not a family. A list gets of the Salt Quay and nothing to put first. On Kumbaan the name is Sorim.
 
 ## At a glance
 

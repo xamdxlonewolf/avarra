@@ -13,14 +13,14 @@ location: "[[Orentel]]"
 role: quay-desk
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # Ledan
 
 > Writes the quay-desk of [[The White Note House]]. [[Long-Lived]]. The C.Y. 280 conversion-query is the same mouth.
 
-*(LED-an.)* Eroded drift. Of the third quay, north side. A clerk will write *of Orentel*. They are a house-mouth, not a seventh pivot.
+*(LED-an.)* Eroded drift. Of the third quay, north side. A neighbour on the quay says Ledan. A stranger gets Ledan of Orentel. While the paper is open a clerk may write White Note, Ledan, and it is the desk. Shut the paper and the name is Ledan of the third quay. There is no family. On Kumbaan the name is Ledan. They are the desk's mouth, not a seventh pivot.
 
 ## At a glance
 

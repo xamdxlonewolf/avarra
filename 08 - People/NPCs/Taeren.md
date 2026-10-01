@@ -13,14 +13,14 @@ location: "[[The Three Hamlets Past the Ford|Brenod]]; last fall at [[Harrow's G
 role: a hush; a child the stories are not about
 reveals: [when-the-fire-is-caught]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # Taeren
 
 > A hush. A Brenod child who stood at the neighbour's canopy. Something white. Nobody important wrote it. They do not know why a fire answers them when someone says an old name.
 
-*(TAY-ren.)* Worn drift. Of [[The Three Hamlets Past the Ford|Brenod]], not of Harrow's, not of a capital. The fall was the neighbour's week.
+*(TAY-ren.)* Worn drift. Of [[The Three Hamlets Past the Ford|Brenod]], not of Harrow's, not of a capital. A neighbour says Taeren. A stranger gets Taeren of Brenod. There is no house. On Kumbaan the name is Taeren. The fall was the neighbour's week.
 
 ## Summary
 

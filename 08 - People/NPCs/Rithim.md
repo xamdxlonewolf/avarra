@@ -5,7 +5,7 @@ visibility: player
 note_status: fleshed
 status: alive
 tags: [npc, pivot, maiethlir, threnmaieth, speaker]
-aliases: [Rithim of Maiethlir, the delayed Speaker]
+aliases: [Rithim of Maiethlir, the delayed Speaker, Nirsei Rithim]
 world: The Turning
 culture: Threnmaieth / conservative Maiethren
 faction: "[[The Tree-Wardens]]"
@@ -13,14 +13,14 @@ location: "[[Maiethlir]]"
 role: Speaker who will not say the line
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Rithim
 
 > Speaker of [[Maiethlir]]. Names the leaf-colour at Leaf-Fall. A clerk waits to copy it. Some summers they let that happen in the same breath. Some they do not.
 
-*(RITH-im.)* Conservative drift. Of Maiethlir. The crown has not replaced them. The Seat has not recalled them.
+*(RITH-im.)* House **Nirsei** *(nir-SAY)*. Conservative drift. A neighbour says Rithim. A clerk says Nirsei, Rithim. A stranger gets Rithim of Maiethlir. On Kumbaan the name is Rithim. The crown has not replaced them. The Seat has not recalled them.
 
 ## At a glance
 
@@ -52,7 +52,7 @@ They cannot unsay a colour. They cannot keep a clerk from writing *delay noted*.
 
 ## Role & Relationships
 
-- **[[Valein]]** *(vah-LAYN)* — Kept, same household, unmarked. A partner, not a child; the square knows them as the person who brings Rithim a cup after a Speaking. The verso of last Eolthael's copy-slip already noted an unmarked in the household ([[Maiethlir#In-world text]]). Rithim has not said the name into a hall.
+- **[[Valein]]** *(vah-LAYN)* — Kept, same household, unmarked. House Nirsei, if a clerk is allowed the second name. A partner, not a child; the square knows them as the person who brings Rithim a cup after a Speaking. The verso of last Eolthael's copy-slip already noted an unmarked in the household ([[Maiethlir#In-world text]]). Rithim has not said the name into a hall.
 - **[[Laevila]]** — keeps the old room under the recut chapel. Same morning, some years: one mouth Speaks, one describes. They eat together after Night Watch and do not agree what that means.
 - **The tablet-clerks** — Long-Lived among them. They want the copy in the same breath. They have not yet asked for Valein by name in front of the Tree.
 - **[[Vehaela]] · [[Baerith]]** — other wants on this square. See [[People of the Turning]].

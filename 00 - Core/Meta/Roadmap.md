@@ -44,7 +44,7 @@ updated: 2026-10-01
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
 | **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.13 done |
-| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.3 done; next is L.4 |
+| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.4 done; next is L.5 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -659,7 +659,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 ---
 
 ## Epic L — The lived world
-**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **L.3 done 2026-10-01.** Next work is Story L.4. L.4–L.9 stay coarse until that story is opened. **Blast radius:** Med.
+**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **L.4 done 2026-10-01.** Next work is Story L.5. L.5–L.9 stay coarse until that story is opened. **Blast radius:** Med.
 
 > **Diagnosis (2026-09-28).** Pass one is built, the contradiction log is empty, and the world still feels designed. `story-sense` reads this as a world without life: history is a list of events with nobody in them, and culture is law and economy with one mouth. `worldbuilding` reads the same gap as institutions without faces and culture without depth. The fix is voices, then the dead, then what the living still do. It is not a second gazetteer.
 
@@ -674,7 +674,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 | How a place speaks; what they call the Tree and the Mother | **L.1** ✅ | [[How a Place Speaks]] · [[The Old Tongue]] (three drifts + Kumbaan outside the box) · [[Naming People in the Turning]] |
 | Historical figures; past heroes and the condemned | **L.2** ✅ | [[The Other Count]] and its five years · [[The Closing]] · [[The First Cut]] · the walk |
 | Customs, traditions, rituals, mythology folders, religious history | **L.3** ✅ | [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]] · [[Daily Life]] |
-| Second names on the cast; leaders; living arguments | **L.4** | [[People of the Turning]] · the NPC notes (given names only) · byname or house-name by raising-place, locked 2026-09-28 |
+| Second names on the cast; leaders; living arguments | **L.4** ✅ | [[People of the Turning]] · the NPC notes · [[Leaders]] · [[Heroes and Villains]] · byname or house-name by raising-place, locked 2026-09-28 |
 | Continents, regions, city layouts, the road-end town, a few villages and sites, sky, phenomena, archaeology | **L.5** | Continents in `01 - World/Geography` · [[Named Ground]] · [[Maiethlir]] · [[Orentel]] · [[Settlement Seeds]] · [[The Reckoning of the Year]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] |
 | The other Daggerheart ancestries | **L.6** | [[Kinds of the Turning]] (hearths, not nations) · [[Kind Heritage]] |
 | Criminal houses, more fellowships, the watch, movements | **L.7** | [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]] · three licence guilds · the watch in [[Law and Citizenship]] |
@@ -714,8 +714,16 @@ Customs, traditions, and rituals by **stance and faith**, not by Kind. Skills: `
 
 > **L.3 recorded decisions (2026-10-01).** Felt year → [[What the Year Feels Like]] · [[How the Week Is Kept]] ([[Maiethlir]] square, [[Orentel]] dock, [[Eolvaeth]] waiting; [[Ndenjoo]] keeps supper instead). Hours → [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]]. Unexplained habits left where they were: thaw, salt, wet leaf; the heel is new on [[Ndenjoo]] and unglossed. [[Maieth]] is the player-facing presence, belief only. [[The Unspent]] moved, not rewritten. [[The Houses and the Years]] is a door. World book untouched.
 
-### Story L.4 — Names in the room
-Every existing NPC note gets the **second name their raising-place uses**: a byname, or a house-name if they were raised where a list finds people (Threnmaieth, Trenledd, the Inner Close, a filing house). No English surnames. Kumbaan and the witness-lands stay without them. A Leaders index links the people who already hold an office; it does not clone their notes. New present leaders only where a road the table will walk has no mouth. Do not staff the twelve unnamed seats. A Heroes / Villains index is mostly L.2's dead, plus at most two living people the street argues about. No campaign villain. On-page mouths without notes stay on-page unless a story needs them.
+### Story L.4 — Names in the room ✅ **DONE (2026-10-01)**
+Every existing NPC note gets the **second name their raising-place uses**: a byname, or a house-name if they were raised where a list finds people (Threnmaieth, including Maiethlir, Trenledd, the Inner Close, a filing house while the paper is open). No English surnames. No Kind-name in the civic slot. Kumbaan and the witness-lands stay without house-names. A Leaders index links the people who already hold an office; it does not clone their notes. New present leaders only where a road the table will walk has no mouth. Do not staff the twelve unnamed seats. A Heroes / Villains index is mostly L.2's dead, plus at most two living people the street argues about. No campaign villain. On-page mouths without notes stay on-page unless a story needs them.
+
+- [x] Write the second name on every note in `08 - People/NPCs/`. House-name only for a raising-place that lists people. Bynamed where people are witnessed. Neighbour gets the given name; a list-land clerk gets the house first; a witness-town gets the given name and *of the place* for a stranger; Kumbaan gets the given name. Draws from `generate_names.py`; record seed and position. No English surnames. No Kind-name in the civic slot. If [[Naming People in the Turning]] already has a worked row, use it. Textbook rows stay textbook. Thilim stays of the Held bed. Njunda stays the given name. The Orentel [[Valen]] is not Valen of Hallowquay; an N. still gives no family name. The White Note is a desk only while the paper is open.
+- [x] Write [[Leaders]]: link offices that already have a mouth. Do not clone their notes. No new present leader — the roads the table walks already have mouths. Do not staff the twelve unnamed seats. Do not capture the First Seat.
+- [x] Write [[Heroes and Villains]]: L.2's dead, plus at most two living people the street argues about. No campaign villain. Do not add house-lines to Hildal, Limrae, or Dirrol.
+- [x] On-page mouths without notes stay on-page. Tora stays on [[08 - People]]. Do not give Maiethvael, the Waiting Lands, or Kumbaan a person-list.
+- [x] Do not unfreeze liturgical coinage. Do not add a fourth mainland tongue. Do not date the Tree. Do not name the cutter. Do not lock the nature of her limit. Do not add a sixteenth power. Do not put a graft on Kumbaan. Do not update the world book.
+
+> **L.4 recorded decisions (2026-10-01).** Second names are on the NPC notes. House-names, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261001 --register conservative --count 40` — **Thalonve** position 27 ([[Laevila]] · [[Senithi]]), **Rairtei** position 26 ([[Baerith]]), **Nirsei** position 32 ([[Rithim]]; [[Valein]] unwritten), **Brethlumal** position 15 ([[Hithaen]], unsaid). English-adjacent and Maieth-adjacent draws in that field were thrown back (Tervi, Mermil, Theolvo, Leobrai, Maithvoro, Meirleth, Brathru, Runnaeth, Muleonmen, Simulsai). Natul was distance 2 of Narol. Lertae sat too near Limrae. Witness-lands and Orentel stay bynames. Thilim of the Held bed. Njunda the given name. Textbook rows unseated, including Valen of Hallowquay. White Note is a desk only while the paper is open. [[Leaders]] links existing mouths; no new leader; twelve seats unstaffed. [[Heroes and Villains]] links the L.2 dead plus [[Vaethod]] and [[Sorim]], still argued, not villains. World book untouched.
 
 ### Story L.5 — Places with a street
 Selective. [[Settlement Seeds]] is the catalog of leftover *types*; use it. Do not invent a new type except by seating the one that still waits.
@@ -756,6 +764,8 @@ Secrets: point [[Revelation Architecture]] and [[Reveal Index]] from Mysteries, 
 ### Story L.9 — Sidebar honesty
 After L.1–L.8, empty folders that were decisions get a stub that says so, and leftovers get linked from the section MOCs. Archive or remove atlas prototypes 1 and 2 and the label-trial images. Keep the Prototype 3 masters, the labeled overlays, and the label scripts. World book untouched.
 
+> **L.4 done (2026-10-01).** The room can say a second name. Next session may open L.5. This pass did not. L.5–L.9 stay coarse.
+
 > **L.3 done (2026-10-01).** The year has a street. Next session may open L.4. This pass did not. L.4–L.9 stay coarse.
 
 > **L.2 done (2026-09-29).** Faces are in. L.3 opened the following session.
@@ -768,7 +778,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic L — The lived world:** 15 / 15 tasks of L.1–L.3 (100%) 🟡 **L.3 done 2026-10-01.** Next is L.4. Stories L.4–L.9 stay coarse until L.4 is opened. Diagnosis: voices, then faces, then customs. Empty folders are not a fill-list. World book untouched.
+- **Epic L — The lived world:** 20 / 20 tasks of L.1–L.4 (100%) 🟡 **L.4 done 2026-10-01.** Next is L.5. Stories L.5–L.9 stay coarse until L.5 is opened. Diagnosis: voices, then faces, then customs, then the names in the room. Empty folders are not a fill-list. World book untouched.
 - **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** Overlay method locked. Epic A complete. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
@@ -807,5 +817,5 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
 - [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue closed (A.1–A.13)
-- Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. Next: Story L.4.
+- Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. Next: Story L.5.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1

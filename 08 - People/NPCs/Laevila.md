@@ -5,7 +5,7 @@ visibility: player
 note_status: fleshed
 status: alive
 tags: [npc, pivot, maiethlir, watchers, grown-over, long-lived]
-aliases: [Laevila of the recut chapel, the un-recut copy]
+aliases: [Laevila of the recut chapel, the un-recut copy, Thalonve Laevila]
 world: The Turning
 culture: Threnmaieth / conservative Maiethren
 faction: "[[The Watchers]]"
@@ -13,14 +13,14 @@ location: "[[Maiethlir]]"
 role: Grown-Over Watcher; day-baker; lintel-copy
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Laevila
 
 > Bakes on the old extra-mile. Keeps the room under the chapel the wardens recut. Has the only copy of the beam's hidden face. Filed as the second column. Has a day job.
 
-*(lay-VEE-lah.)* Conservative drift. Of Maiethlir. [[Long-Lived]]. They walked as a child, under Thaeloren, before this river had to count them.
+*(lay-VEE-lah.)* House **Thalonve** *(tha-LON-ve)*. Conservative drift. A neighbour says Laevila. A clerk says Thalonve, Laevila. A stranger gets Laevila of Maiethlir. On Kumbaan the name is Laevila. [[Long-Lived]]. They walked as a child, under Thaeloren, before this river had to count them.
 
 ## At a glance
 
@@ -52,7 +52,7 @@ They cannot confirm a colour. They cannot unsay the recut. They can sit beside t
 
 ## Role & Relationships
 
-- **[[Senithi]]** *(seh-NITH-ee)* — grandchild, Given, ordinary. A marriage is priced on a line that lists the wrong grandmother. Laevila wants the hidden face read once, not as theology — as a name a tablet will swallow.
+- **[[Senithi]]** *(seh-NITH-ee)* — grandchild, Given, ordinary, the same house. A marriage is priced on a line that lists the wrong grandmother. The house-word is Thalonve either way. Laevila wants the hidden face read once, not as theology — as a name a tablet will swallow.
 - **[[Rithim]]** — Speaks in the same square. They eat after the Night Watch. Rithim will not say the line. Laevila will not say the Mother. That is as close as peace gets on this street.
 - **The chapel wardens** — recut the beam. File the room as vestry. Leave a plate during Turning-Week. Courtesy, not a wage.
 - **Bare Tree kin** — will not eat with a Watcher who takes crown-coin for a copied lintel. Laevila has not taken it. They are running out of reasons not to.

@@ -13,14 +13,14 @@ location: "[[Eolvaeth]]"
 role: town-warden who sends
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Vaethod
 
 > Town-warden of [[Eolvaeth]]. Hands-folk. Speaks the fall or refuses to invent one. Some years they send a cohort toward [[Saelvaeth]]'s luck. They have not resigned.
 
-*(VAYTH-od.)* Worn drift. Of Eolvaeth; folk will also say *of Elvaeth*.
+*(VAYTH-od.)* Worn drift. A neighbour says Vaethod. A stranger gets Vaethod of Eolvaeth; folk will also say *of Elvaeth*. There is no house to give a clerk. On Kumbaan the name is Vaethod.
 
 ## At a glance
 

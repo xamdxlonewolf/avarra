@@ -9,14 +9,14 @@ aliases: [The Cast, Capital Casts, Positional Pivots]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # People of the Turning
 
 Offices that already had to exist, made into people. The job is why they matter. None of them were chosen. A party can meet two in a week and never meet the rest.
 
-Recruits not by Kind. Names from [[Naming People in the Turning]].
+Recruits not by Kind. Given names below are what a neighbour says. The second name, and what a clerk or a stranger gets, is on each note — rule in [[Naming People in the Turning]].
 
 ## The six pivots
 
@@ -99,6 +99,18 @@ The houses exist. Do not grow the four into a crew.
 | Hidden second fire | [[Taeren]] | not to be seen as a story | of Brenod; still at [[Harrow's Green]] after last Turning-Week |
 | The one who opened a door | [[Rosire]] | the child gone, themselves forgotten | of Orentel; Harrow's upper room this Hale-month |
 
+## Names in the room
+
+A neighbour still gets the given name.
+
+[[Maiethlir]] writes a house. [[Laevila]] and [[Senithi]] are Thalonve. [[Rithim]] is Nirsei, and [[Valein]] is the same house unwritten. [[Baerith]] is Rairtei. [[Vehaela]] is of Lirorn, and has not taken a house.
+
+[[Eolvaeth]] asks *of where?* [[Vaethod]], [[Saelid]], [[Heiral]], [[Nedaen]], and [[Daron]] are of the town, or of the street they already stand on. [[Hithaen]] will not take *of Eolvaeth*. The line still has a house on them, and they will not say it in this hall.
+
+[[Orentel]] asks *of where?* The quay does not file a family. [[The White Note House|The White Note]] is a house only while the paper is open, and then it is the desk. [[Valen]] is of Orentel. [[Didel]] is of Hallowquay.
+
+[[Thilim]] is of the Held bed. [[Taeren]] is of Brenod. [[Njunda]] is the given name.
+
 ## GM Notes
 
 ### Production notes (P2.1)
@@ -114,7 +126,8 @@ Moved from the player-facing body during residual export polish:
 - **Two clocks.** Someone who walked ([[Thilim]] as the inn; [[Laevila]] as a child under Thaeloren). Someone who did not. Someone who thinks the wave is over ([[Mataero]]). Someone still sending ([[Vaethod]]). The live front is Haelin's, pointed at, not cloned into a seventh pivot.
 - **Seeds stay seeds.** [[Reimaethe]] is a mouth of [[The Pourers]], not the house. [[Hithaen]] is a mouth of [[The Walled Book]], not the Book. [[Taeren]] and [[Rosire]] sit under [[The Protectors]] and [[When the Fire Is Caught]]. Opening kit: [[The Opening]] — those two on-screen at Harrow's; Reimaethe and Hithaen stay in their squares. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. This page still does not grow four mouths into a crew.
 - **Do not add a Given-Over broker here.** That face is [[The Holding Desk]]. Sold vouching is [[The Standing Trade]] — an alley [[Didel]] has heard of, not a seventh pivot.
-- **Threnmaieth instruments** live on [[The Reckoned Offices]] (Menirein · Tarvae · Videm · Sirtal). [[Rithim]] is already the local Speaker. Do not invent a second registrar to tidy them.
+- **Threnmaieth instruments** live on [[The Reckoned Offices]] (Menirein · Tarvae · Videm · Sirtal). [[Rithim]] is already the local Speaker. Do not invent a second registrar to tidy them. Do not give those four a person-note or a house from this page.
+- **L.4 houses, one draw.** `python3 "14 - Assets/Names/generate_names.py" --seed 20261001 --register conservative --count 40` — Thalonve position 27, Nirsei position 32, Rairtei position 26, Brethlumal position 15. English-adjacent and Maieth-adjacent candidates in that field were thrown back. Full record: [[Naming People in the Turning#GM Notes]] and [[Roadmap#Epic L — The lived world]].
 
 ## Links
 - [[Vaethod]] · [[Rithim]] · [[Mataero]] · [[Thilim]] · [[Laevila]] · [[Tesara]]
@@ -127,4 +140,4 @@ Moved from the player-facing body during residual export polish:
 - [[The Pourers]] · [[The Walled Book]] · [[The Protectors]] · [[The Reckoned Offices]]
 - [[When the Fire Is Caught]] — engine under [[Taeren]] / [[Rosire]], GM
 - [[The Opening]] · [[The Isolated Fall]]
-- [[Naming People in the Turning]] · [[08 - People]] · [[Roadmap]]
+- [[Naming People in the Turning]] · [[Leaders]] · [[Heroes and Villains]] · [[08 - People]] · [[Roadmap]]

@@ -13,14 +13,14 @@ location: "[[The Third Hearth]]"
 role: innkeeper of the Held bed
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Thilim
 
 > Keeps the third lodging out from the Motherwood on the Near Mile. [[Long-Lived]]. Inland. The notes are smaller than the White Note's. The shrine is larger. Seine's bed is still made.
 
-*(THIL-im.)* Of the Third Hearth. A pilgrim who asks where the college is will be pointed at the wood, not the inn.
+*(THIL-im.)* Of the Held bed. A neighbour says Thilim. A stranger gets Thilim of the Third Hearth, or of the Held bed. A list gets of the Held bed. There is no house, and they will not borrow one. On Kumbaan the name is Thilim. A pilgrim who asks where the college is will be pointed at the wood, not the inn.
 
 ## At a glance
 
