@@ -9,7 +9,7 @@ aliases: [The Religious Landscape, Other Religions, The Wider Pantheon, Faiths]
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Faiths of the Turning
@@ -77,6 +77,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - Clergy: [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]]
 - Shadow (not clergy): [[The Slide]]
 - The shared story: [[The Child at Four Doors]]
+- The felt year: [[What the Year Feels Like]] · [[The Houses and the Years]] · [[Maieth]] · [[The Unspent]]
 - Placed on: [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] · [[The Wrong Green]] · [[The Old Tongue]] · [[Naming in the Turning]] · [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM)
 - [[The Unspent]] · [[The Pourers]] — fringe, not a sixth

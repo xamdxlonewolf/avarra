@@ -162,6 +162,7 @@ Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 - [[Returned]] · [[Bound]] · [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]]
 - [[Phoenix]] is hers only — [[When the Fire Is Caught]] (one Gift; remnant is not a second Phoenix)
 - [[The Unspent]] — outside this roster; cannot Give or Strike
+- [[The Houses and the Years]] — player-facing door. It does not carry this note.
 - [[Yumboe]] · [[The Sundering Isle]]
 - [[The Uncoloured Intake]] — deniable handout (not a pin)
 - [[Revelation Architecture]] · [[Reveal Index]]

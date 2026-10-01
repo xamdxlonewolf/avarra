@@ -121,6 +121,7 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 
 ## Links
 - **Eras & the hinge:** [[Before the Walk]] · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
+- [[The Houses and the Years]] — religious-history door. The spine stays here.
 - **The Other Count:** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · leftovers [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[The Reckoning of the Year]] — months, solstice, three new-year's days; Cut-years live there too
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Leaf-Mother]] · [[Is the Leaf-Mother Real]]

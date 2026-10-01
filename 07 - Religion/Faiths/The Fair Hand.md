@@ -84,7 +84,7 @@ What unites the inks is practical fury at a hidden term. That is why Settlers ca
 On its face: a Bound's pride, a little cold. Underneath: the Fair Hand's whole case against gift-doctrine — and a blindness the document cannot afford: that a clause you can read is not the same as a love you cannot price. The Bound who prefers the clause is sincere. They have felt the cost and named it a price.
 
 ## Links
-- [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — gift-doctrine's rival
+- [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — gift-doctrine's rival · [[What the Year Feels Like]]
 - [[Strandoren]] · [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]]
 - [[Polity Archetypes|Lestrand]] · [[The Child at Four Doors]]
 - [[The Book-Hands]] — the working house (Story 5.2)

@@ -11,7 +11,7 @@ speakers: common speech in the three Maiethren drifts, and Kumbaan's own mouth
 descends_from: "[[The Old Tongue]] (the three drifts). Kumbaan does not descend from it."
 reveals: []
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # How a Place Speaks
@@ -122,6 +122,7 @@ Kumbaan asks neither. The given name is the name. A mainland house, or a mainlan
 - [[Naming in the Turning]] — the same thing, three street-words, by stance
 - [[Naming People in the Turning]] — the locked second name; what you say when asked
 - [[Turning Tree]] — Hand, hug, colour, graft · [[The Leaf-Mother]] · [[The Tree-Wardens]]
+- [[What the Year Feels Like]] — the year those tones spend · [[How the Week Is Kept]]
 - [[Polity Archetypes]] — the Waiting Lands, the Ledger Coast, the Tallied Crown
 - [[Maiethlir]] · [[Eolvaeth]] · [[Orentel]] · [[Harrow's Green]] · [[Trenledd]] · [[The Walled Book|the Inner Close]]
 - [[The Sundering Isle]] · [[Ndenjoo]] · [[The Open Table]] · [[Yumboe]]

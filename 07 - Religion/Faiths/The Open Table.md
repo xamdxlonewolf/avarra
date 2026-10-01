@@ -95,7 +95,7 @@ House detail (who lays the plate, what they refuse): [[The Table-Keepers]].
 On its face: hospitality, almost twee. Underneath: a whole cosmology that has never needed the Leaf-Fall — and the sharpest keystone experiment in the world, spoken as table-manners. The sailor who copied it thought it was a grace. It is a claim that *wanted* was never a gift.
 
 ## Links
-- [[Faiths of the Turning]] — the map · [[Yumboe]] — the people who keep this
+- [[Faiths of the Turning]] — the map · [[Yumboe]] — the people who keep this · [[What the Year Feels Like]] · [[How the Week Is Kept]]
 - [[The Sundering Isle]] (Kumbaan) · [[Ndenjoo]] — playable hall · [[The Child at Four Doors]]
 - [[The Leaf-Mother]] · [[The Reckoning of the Year]] (Kumbaan keeps the moon, not the solstice)
 - [[The Table-Keepers]] — the working house

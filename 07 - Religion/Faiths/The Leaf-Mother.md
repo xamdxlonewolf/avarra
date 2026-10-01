@@ -10,12 +10,12 @@ world:
 domain: becoming, gifts, the Turning, the tended life
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-19
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # The Leaf-Mother
 
-> **The faith built around the [[Turning Tree]].** Some hold that the **Leaf-Mother** blessed the world with the Conditions, and that the Turning Trees are her hands reaching down to *choose* — each Leaf-Fall an act of a mother's love. This is **a belief held by many, not confirmed cosmology**: skeptics are sincere and full members of society, and the faith itself is built to make room for them. This note fixes the doctrine, the practice, the clergy, and the live schism. The rite's object lives in [[Turning Tree]]; the engine it enacts is locked in [[The Premise]].
+> **The faith built around the [[Turning Tree]].** Some hold that the **Leaf-Mother** blessed the world with the Conditions, and that the Turning Trees are her hands reaching down to *choose* — each Leaf-Fall an act of a mother's love. This is **a belief held by many, not confirmed cosmology**: skeptics are sincere and full members of society, and the faith itself is built to make room for them. This note fixes the doctrine, the practice, the clergy, and the live schism. Who they mean by the name, as a presence, is [[Maieth]]. The rite's object lives in [[Turning Tree]]; the engine it enacts is locked in [[The Premise]]. The felt week and the hours beside it are [[What the Year Feels Like]].
 
 ## Shape of the faith (at a glance)
 
@@ -93,6 +93,7 @@ Every branch above is a *good-faith* position. No house is a villain-theology. B
 - **Clergy orders:** built as [[The Tree-Wardens]] (Story 5.1, names 🟡). The other four houses: [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2). The sacred calendar is locked ([[The Reckoning of the Year]]); the faith's Tithe-economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
 
 ## Links
+- [[Maieth]] — the presence, as belief · [[What the Year Feels Like]] — the felt year
 - [[Turning Tree]] — the object and rite this faith is built around · [[The Wrong Green]] — the cited mis-Speaking
 - [[The Tree-Wardens]] — the working clergy (Story 5.1)
 - [[Faiths of the Turning]] — the other faiths, and how this one lives beside them

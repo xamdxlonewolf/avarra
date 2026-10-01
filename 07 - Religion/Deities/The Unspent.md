@@ -12,7 +12,7 @@ faith: "[[The Pourers]] (Long-Lived fringe)"
 reveal_tag: the-unspent
 reveals: [the-unspent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # The Unspent
@@ -55,7 +55,7 @@ Not a sixth Turning. Not a way to become Long-Lived. Not [[Returned|Threnvaeth]]
 - [[Long-Lived]] — the Condition whose funerals this practice answers
 - [[Reimaethe]] — volunteer who wants out (seed; house is [[The Pourers]])
 - [[The Other Hands]] — five doors; this is not a sixth
-- [[The Leaf-Mother]] · [[Faiths of the Turning]]
+- [[The Leaf-Mother]] · [[Maieth]] · [[Faiths of the Turning]] · [[The Houses and the Years]]
 - [[Is the Leaf-Mother Real]] — do not fire the keystone through a cup
 - [[The Pourers]] — the congregation
 - [[07 - Religion]] · [[11 - Secrets]]

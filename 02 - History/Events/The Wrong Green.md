@@ -10,7 +10,7 @@ era: "[[The Years of Hands]]"
 date_in_world: C.Y. 248
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # The Wrong Green
@@ -49,6 +49,7 @@ The clerk who wrote it can see horticulture and a queue. They cannot see the two
 
 ## Links
 - [[Turning Tree]] — the rite and the warden questions · [[The Tree-Wardens]] — why the Speaking is civic
+- [[The Houses and the Years]] — door. The case stays here.
 - [[Harrow's Green]] · [[The Years of Hands]] · [[The Reckoning of the Year]]
 - [[The Taken-In]] · [[The Premise]] · [[The Leaf-Mother]]
 - [[02 - History]] · [[07 - Religion]]

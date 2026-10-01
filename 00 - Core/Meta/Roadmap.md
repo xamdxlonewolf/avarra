@@ -44,7 +44,7 @@ updated: 2026-10-01
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
 | **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.13 done |
-| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.2 done; next is L.3 |
+| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.3 done; next is L.4 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -659,7 +659,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 ---
 
 ## Epic L — The lived world
-**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **L.2 done 2026-09-29.** Next work is Story L.3. L.3–L.9 stay coarse until that story is opened. **Blast radius:** Med.
+**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **L.3 done 2026-10-01.** Next work is Story L.4. L.4–L.9 stay coarse until that story is opened. **Blast radius:** Med.
 
 > **Diagnosis (2026-09-28).** Pass one is built, the contradiction log is empty, and the world still feels designed. `story-sense` reads this as a world without life: history is a list of events with nobody in them, and culture is law and economy with one mouth. `worldbuilding` reads the same gap as institutions without faces and culture without depth. The fix is voices, then the dead, then what the living still do. It is not a second gazetteer.
 
@@ -673,7 +673,7 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 |---|---|---|
 | How a place speaks; what they call the Tree and the Mother | **L.1** ✅ | [[How a Place Speaks]] · [[The Old Tongue]] (three drifts + Kumbaan outside the box) · [[Naming People in the Turning]] |
 | Historical figures; past heroes and the condemned | **L.2** ✅ | [[The Other Count]] and its five years · [[The Closing]] · [[The First Cut]] · the walk |
-| Customs, traditions, rituals, mythology folders, religious history | **L.3** | [[Daily Life]] · [[Faiths of the Turning]] · the five faith notes · four fables · [[Turning Tree]] |
+| Customs, traditions, rituals, mythology folders, religious history | **L.3** ✅ | [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]] · [[Daily Life]] |
 | Second names on the cast; leaders; living arguments | **L.4** | [[People of the Turning]] · the NPC notes (given names only) · byname or house-name by raising-place, locked 2026-09-28 |
 | Continents, regions, city layouts, the road-end town, a few villages and sites, sky, phenomena, archaeology | **L.5** | Continents in `01 - World/Geography` · [[Named Ground]] · [[Maiethlir]] · [[Orentel]] · [[Settlement Seeds]] · [[The Reckoning of the Year]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] |
 | The other Daggerheart ancestries | **L.6** | [[Kinds of the Turning]] (hearths, not nations) · [[Kind Heritage]] |
@@ -702,10 +702,17 @@ The dated years get people. Skills: `character-arc`, `positional-revelation`, `c
 
 > **L.2 recorded decisions (2026-09-29).** Remembered persons, all **still argued:** [[Hildal]] (clerk of the Retreat), [[Limrae]] (Manril stays the argument), [[Dirrol]] (desk; Nidtol stays the later overlay), [[Narol of the Pass]], [[Taerso]] (Sirtol stays the other shore). Around the Walk and the Cut, not the cutter: [[Monseoth]] of the Near Mile (**praised**, the sermon), [[Rithnali]] (**still argued**, the minute), [[Sedrad]] of the Salt Walk (**condemned**, the folk blame). Five attributions uncollapsed. No house-names on the witness-roads. Draws, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20260930 --register conservative --count 40` — Monseoth, position 11. `python3 "14 - Assets/Names/generate_names.py" --seed 20260930 --register eroded --count 40` — Sedrad, position 22. Heroes / Villains index not built (L.4). World book untouched.
 
-### Story L.3 — What the year feels like
-Customs, traditions, and rituals by **stance and faith**, not by Kind. Turning-Week as done in a devout square, on a dock, in a waiting town, and what the hill-hall does instead of a Leaf-Fall. A funeral, a guest-meal, and the hour someone is Struck. Ritual notes are practice, not a second copy of doctrine. One local habit per stance left unexplained.
+### Story L.3 — What the year feels like ✅ **DONE (2026-10-01)**
+Customs, traditions, and rituals by **stance and faith**, not by Kind. Skills: `story-sense`, `memetic-depth`, `belief-systems`. The felt year is practice. Doctrine stays on the faith essays.
 
-Rehome while writing, one home each: faith essays into `07 - Religion/Faiths`; the four fables into `Mythology`; a player-facing deity note for the Motherfaith and for [[The Unspent]], with the keystone still behind the wall. A religious-history hub **links** [[The Ages of the Turning]], [[The First Cut]], [[The Wrong Green]], and the household notes. It does not rewrite Epic 6. The Other Hands stay GM.
+- [x] Write the ordinary year by stance and faith, not by Kind, in [[What the Year Feels Like]]. Link [[Daily Life]]. Do not copy it. Leave one local habit per stance unexplained: the thaw, the salt, the wet leaf, and the heel.
+- [x] Write Turning-Week as kept in a devout square, on a dock, and in a waiting town, and what the hill-hall does instead of a Leaf-Fall → [[How the Week Is Kept]].
+- [x] Write a funeral, a guest-meal, and the hour someone is Struck. Ritual notes are practice, not a second copy of doctrine. Do not coin liturgy. → [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]]
+- [x] One home each. Faith essays into `07 - Religion/Faiths`. Four fables into `07 - Religion/Mythology`. [[The Unspent]] under `07 - Religion/Deities`, no second cup-note. [[Maieth]] is belief beside [[The Leaf-Mother]]. The keystone stays behind the wall.
+- [x] [[The Houses and the Years]] links [[The Ages of the Turning]], [[The First Cut]], [[The Wrong Green]], and the household notes. It does not rewrite Epic 6. [[The Other Hands]] stay GM.
+- [x] Do not date the Tree. Do not lock her limit. Do not add a sixteenth power. Do not put a graft on Kumbaan. Do not write a reliable pre-Cut year-chronicle, or treat C.Y. 0 as the birthday of Conditions. Do not set a power in the storm-wall. Do not name the cutter. Do not coin liturgy. Do not update the world book.
+
+> **L.3 recorded decisions (2026-10-01).** Felt year → [[What the Year Feels Like]] · [[How the Week Is Kept]] ([[Maiethlir]] square, [[Orentel]] dock, [[Eolvaeth]] waiting; [[Ndenjoo]] keeps supper instead). Hours → [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]]. Unexplained habits left where they were: thaw, salt, wet leaf; the heel is new on [[Ndenjoo]] and unglossed. [[Maieth]] is the player-facing presence, belief only. [[The Unspent]] moved, not rewritten. [[The Houses and the Years]] is a door. World book untouched.
 
 ### Story L.4 — Names in the room
 Every existing NPC note gets the **second name their raising-place uses**: a byname, or a house-name if they were raised where a list finds people (Threnmaieth, Trenledd, the Inner Close, a filing house). No English surnames. Kumbaan and the witness-lands stay without them. A Leaders index links the people who already hold an office; it does not clone their notes. New present leaders only where a road the table will walk has no mouth. Do not staff the twelve unnamed seats. A Heroes / Villains index is mostly L.2's dead, plus at most two living people the street argues about. No campaign villain. On-page mouths without notes stay on-page unless a story needs them.
@@ -749,7 +756,9 @@ Secrets: point [[Revelation Architecture]] and [[Reveal Index]] from Mysteries, 
 ### Story L.9 — Sidebar honesty
 After L.1–L.8, empty folders that were decisions get a stub that says so, and leftovers get linked from the section MOCs. Archive or remove atlas prototypes 1 and 2 and the label-trial images. Keep the Prototype 3 masters, the labeled overlays, and the label scripts. World book untouched.
 
-> **L.2 done (2026-09-29).** Faces are in. Next session may open L.3. This pass did not. L.3–L.9 stay coarse.
+> **L.3 done (2026-10-01).** The year has a street. Next session may open L.4. This pass did not. L.4–L.9 stay coarse.
+
+> **L.2 done (2026-09-29).** Faces are in. L.3 opened the following session.
 
 > **Shelf and storm (2026-10-01).** Dated years are since the First Cut, a graft. Conditions, the Giving, and the doors are older and undated. Kumbaan's storm-wall stays weather, current, and reef. No blocker in the water. Her limit's nature stays open. Recorded on [[Before the Walk]], [[The Ages of the Turning]], [[The Other Hands]], [[The Sundering Isle]]. World book untouched.
 
@@ -759,7 +768,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic L — The lived world:** 9 / 9 tasks of L.1–L.2 (100%) 🟡 **L.2 done 2026-09-29.** Next is L.3. Stories L.3–L.9 stay coarse until L.3 is opened. Diagnosis: voices, then faces, then customs. Empty folders are not a fill-list. World book untouched.
+- **Epic L — The lived world:** 15 / 15 tasks of L.1–L.3 (100%) 🟡 **L.3 done 2026-10-01.** Next is L.4. Stories L.4–L.9 stay coarse until L.4 is opened. Diagnosis: voices, then faces, then customs. Empty folders are not a fill-list. World book untouched.
 - **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** Overlay method locked. Epic A complete. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
@@ -798,5 +807,5 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
 - [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue closed (A.1–A.13)
-- Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. Next: Story L.3.
+- Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. Next: Story L.4.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1

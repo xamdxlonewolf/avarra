@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # 03 - Cultures
@@ -30,6 +30,11 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 - [[Economy and the Tithe]] — the universal economic grammar. The Tithe organizes vocation and a civic utility (wells, not granaries); self-paying vs provided-for Tithes (a spectrum, with Far-Voiced & Returned on the seam); why Taken-In live in stone cities; labor-by-Condition; the Kept as free generalist labor; deathless banking houses & the endow-not-inherit loop; center/periphery; shadow economy. Lived official faces → [[Tithe-Infrastructure]]. Lived illicit faces → [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]].
 - [[Daily Life]] — the universal grammar of everyday life. Marriage & family as a spectrum (mundane-mixed → the aching Long-Lived marriage you outlive); medicine (Stilled surgeons, Returned tending the dead — miraculous, unequally distributed); city design as principles (the Tree at the centre, city Turning by hearth, Tithe-provision as civic utility, the watch on the street). Where the ~5%-scary dial sits at eye level.
 - [[Polity Archetypes]] — three worked polities at *different corners* of the theology/reach/governance axes, proving the universal grammar above flexes: **Vaethorn** (the Waiting Lands — warm/poor/faithful pilgrim edge), **Lestrand** (the Ledger Coast — rich/cool secular merchant power), **Threnmaieth** (the Tallied Crown — sanctified surveillance, the darkest corner). Each pair shares exactly one axis, so the set proves the three are independent. The other twelve named-stubs → [[Powers of the Turning]].
+
+### Customs and traditions
+- [[What the Year Feels Like]] — the ordinary year, by stance and faith. One habit in each stance left where it already lives.
+- [[How the Week Is Kept]] — Turning-Week in a devout square, on a dock, in a waiting town, and the night a hill-hall does not keep a Leaf-Fall.
+- Burials, a stranger's bowl, and the hour someone changes: [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] *(rituals; they live in `07 - Religion`)*. Household grammar stays [[Daily Life]].
 
 ### Languages & Naming
 - [[The Old Tongue]] — *Maiethren*, the old liturgical root tongue of the [[Turning Tree|Awakening Tree]] (this world's "Latin"): warm/weighty phonology, pronunciation key, sacred lexicon, and **one root → three daughter drifts** (conserved core / worn frontier / eroded coast) — so *how a polity sounds reveals its stance*. Names the fifteen powers.

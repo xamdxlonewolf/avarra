@@ -11,7 +11,7 @@ region:
 stratum:
 reveals: [keystone-adjacent]
 created: 2026-08-19
-updated: 2026-08-30
+updated: 2026-10-01
 ---
 
 # Turning Tree
@@ -137,7 +137,8 @@ A parent who asks *what if the Tree simply does nothing* is asking a question th
 - **Clergy offices:** built as [[The Tree-Wardens]] (names 🟡). Edge-case questions live in the table above. The colour→Condition palette stays locked. History of the grafts: [[The Ages of the Turning]]. The Open Table quarrel that can spend a week: [[The Open Table]].
 
 ## Links
-- [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy)
+- [[The Leaf-Mother]] — the faith built around the Tree (doctrine, schism, clergy) · [[Maieth]] — the presence, as belief
+- [[How the Week Is Kept]] — what Turning-Week feels like in a square, on a dock, in a waiting town; the hill does not keep it
 - [[The Tree-Wardens]] — the working clergy (warden-hearth, Speakers, Road-hands, First Seat)
 - [[Faiths of the Turning]] — the other faiths that share or refuse this Tree
 - [[The Premise]] — the locked engine (Given / Struck / Kept, population math, the Tithe)

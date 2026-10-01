@@ -11,7 +11,7 @@ region: "[[The Sundering Isle]]"
 population: a valley — a few dozen hearths under one Pap, who come to one hall
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-01
 ---
 
 # Ndenjoo
@@ -58,6 +58,8 @@ Life is under the hill. You do not walk *through* a town. You walk into a Pap an
 - **The day-rooms** — cool, for sleep when the moon is down. Daylight is a Sabbath of sleep, not a fallen hour. A mainlander who is loud at noon is a problem the hall can feel in its teeth.
 - **The path to the sand** — Soonke's stretch. A hooded lamp that does not call ships. Living go up. Dead go above the tide.
 - **The standing-stone** — a dare, not a mile-shrine. No ribbons. Visitors from the core will try to climb it as if it owed them a leftover. It does not.
+
+**Inscrutable, on purpose:** on one night of the moon sailors call Yoltal, the hall eats the heel of the loaf first. Every other night the heel is last, or it goes to the goats. The valley says the hands like the crust when the mainland is loud. Njunda will not correct that, and will not say it is the reason. A guest who asks is given more bread.
 
 Homes accommodate becomings the isle actually has: a rare Struck is family news, not a class ([[Yumboe]]). Mixed mainland Kinds are guests if they crossed. They do not grow quarters. A Yumboe is what you are *because that is who lives here*.
 
@@ -111,6 +113,7 @@ On its face: hospitality, almost a grace. Underneath: kin-making has a room. The
 
 - **Commit, not a gate (Story R.11).** This square is for play. Do not run it as a keystone vault. The isle remains the cleanest control; confirmation stays late and stays off this table.
 - **No Tree. No graft. No mile-shrine.** A later story that "finds an old scion" here breaks the isolate and [[The Open Table]]. Dead wood is not a Tree.
+- **Do not gloss the heel.** The folk sentence about the crust is not an answer. Do not make that night a ward, a liturgy, or a Leaf-Fall in disguise.
 - **Not of her household.** Staying-kin are not [[The Other Hands]]. Rare Struck stay family news ([[Yumboe]]).
 - **Not a sixteenth power.** A valley, not a flag. Kumbaan is not a mainland polity.
 - **Hospitality is the ~5% dial at its gentlest — until the hall overflows.** Do not turn the Open Table into a trap-cult or a geas. The scare, when you need one, is a wreck, a guest who will not leave, a week of mouths, a noon that will not sleep.

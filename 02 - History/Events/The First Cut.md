@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 0 (present = C.Y. 387); spread inside locked bands through C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-09-29
+updated: 2026-10-01
 ---
 
 # The First Cut
@@ -243,7 +243,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five mouths, 
 
 ## Links
 - [[Rithnali]] · [[Monseoth]] · [[Sedrad]]
-- [[The Ages of the Turning]] · [[The Walking Years]] · [[The Years of Hands]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The Years of Hands]] · [[The Houses and the Years]]
 - [[The Branch That Came Away]] — the Cut's paradox-fable
 - [[The Child Who Counted Stones]] — the walk as count
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Watching]] · [[The Old Ways]] · [[The Fair Hand]] · [[The Open Table]] · [[The Door-Keepers]]

@@ -66,7 +66,7 @@ Both branches revere the Struck and the Taken-In. That is the load-bearing court
 On its face: frontier courtesy, a little barbed. Underneath: the Old Ways' whole case — and the seam they cannot see. They have correctly felt that becoming happens at doors with no healthy Tree. They have not asked whether a hand was in the water too, at the end of its reach.
 
 ## Links
-- [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the latecomer
+- [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the latecomer · [[What the Year Feels Like]]
 - [[Heskoren]] · [[The Taken-In]] · [[The Premise]] (the Struck) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (the older sense of *vael*)
 - [[The Door-Keepers]] — the working house (Story 5.2)

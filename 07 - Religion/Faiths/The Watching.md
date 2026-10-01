@@ -69,7 +69,7 @@ Full faction: [[The Watchers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing
 On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predates the Mother-name* — which is exactly the memory the sacred centre cannot afford to be curious about. A scholar who copies the lintel is already walking toward the keystone, and does not know it.
 
 ## Links
-- [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the faith that grew over this one
+- [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the faith that grew over this one · [[What the Year Feels Like]]
 - [[Maiethorn]] · [[Turning Tree]] (Thaeloren) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over as a file-name)
 - [[The Watchers]] — the working house (Story 5.2)
