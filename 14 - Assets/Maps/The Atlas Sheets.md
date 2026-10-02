@@ -264,7 +264,7 @@ Repainted again the same day so each city fills its sheet, and the zoom is the s
 
 ![[Maiethlir-Heart-Atlas.png]]
 
-The same square as the city plate, drawn closer: the Tree on the left, the tablet-hall one street to the east, the Slow Water along the bottom. Rebuild with `label_maiethlir_heart.py`.
+The same square as the city plate, drawn closer: the Tree on the left is a mature Hand, a broad dark hardwood filling its square, not the First Hand. The tablet-hall stays one street to the east. The Slow Water stays along the bottom. Rebuild with `label_maiethlir_heart.py`.
 
 ![[Maiethlir-Heart-Atlas-Labeled.png]]
 

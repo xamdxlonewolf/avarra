@@ -2,7 +2,9 @@
 """Label the Maiethlir heart zoom.
 
 A closer sheet of the Tree, the Slow Water, the Loft Row, and the
-tablet-hall. Not a new district. The image model was not asked to write.
+tablet-hall. The Tree is a mature Hand: a broad dark hardwood filling
+its square, not the First Hand. Not a new district. The image model
+was not asked to write.
 
     python3 "14 - Assets/Maps/label_maiethlir_heart.py"
 """
