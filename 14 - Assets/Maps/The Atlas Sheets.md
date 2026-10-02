@@ -272,7 +272,7 @@ The same square as the city plate, drawn closer: the Tree on the left, the table
 
 ![[Orentel-Drop-Atlas.png]]
 
-The Rise inside the roofs. The Tree is surrounded by the city. The Drop leaves the square through houses. The quays are not on this sheet. Rebuild with `label_orentel_drop.py`.
+The Rise inside the roofs. The Tree is a mature Hand, a broad dark hardwood filling its square, not the First Hand and not a glow. The Drop leaves the square through houses. The quays are not on this sheet. Rebuild with `label_orentel_drop.py`.
 
 ![[Orentel-Drop-Atlas-Labeled.png]]
 

@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Label the Orentel drop zoom.
 
-The Rise inside the city. The Tree is surrounded by roofs. The Drop
-leaves that square through houses. The quays are not in this frame.
+The Rise inside the city. The Tree is a mature Hand: a broad dark
+hardwood filling its square, not the First Hand. The Drop leaves that
+square through houses. The quays are not in this frame.
 Not a new district. The image model was not asked to write.
 
     python3 "14 - Assets/Maps/label_orentel_drop.py"
@@ -51,16 +52,16 @@ def build() -> Image.Image:
 
     halo_text(ink, (140, 40), "Orentel", title, TYPE)
 
-    # The square. Roofs continue past every edge of this sheet.
-    leader(ink, (500, 430), (340, 340))
-    halo_text(ink, (328, 340), "The Rise", place, TYPE, anchor="rm")
+    # The square under the mature Hand. Roofs continue past every edge.
+    leader(ink, (430, 470), (260, 400))
+    halo_text(ink, (248, 400), "The Rise", place, TYPE, anchor="rm")
 
-    leader(ink, (590, 360), (740, 280))
-    halo_text(ink, (752, 280), "The Tree", place, TYPE, anchor="lm")
+    leader(ink, (470, 230), (300, 150))
+    halo_text(ink, (288, 150), "The Tree", place, TYPE, anchor="rm")
 
     # The street leaving the square, still among houses. The quay is off the sheet.
-    leader(ink, (780, 740), (640, 800))
-    halo_text(ink, (628, 800), "The Drop", place, TYPE, anchor="rm")
+    leader(ink, (740, 750), (560, 820))
+    halo_text(ink, (548, 820), "The Drop", place, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 
