@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-09-23
+updated: 2026-10-02
 ---
 
 # The Atlas Sheets
@@ -130,6 +130,26 @@ Labeled overlay (2026-09-19). Pillow on this master, not a new survey. Rebuild w
 
 ![[Waiting-Vale-Atlas-Labeled.png]]
 
+## City sheets
+
+New paintings, not crops of Sacred Core, Chart-run, Old Crossing, or the continent masters. The unlabeled Prototype 3 sheets stay the regional handouts. [[Eolvaeth]] stays a town and has no city sheet.
+
+### Maiethlir
+
+![[Maiethlir-City-Atlas.png]]
+
+Labeled overlay (2026-10-02). Pillow on this city master. The image model was not asked to write. Rebuild with `label_maiethlir_city.py`.
+
+![[Maiethlir-City-Atlas-Labeled.png]]
+
+### Orentel
+
+![[Orentel-City-Atlas.png]]
+
+Labeled overlay (2026-10-02). Pillow on this city master. The image model was not asked to write. Rebuild with `label_orentel_city.py`.
+
+![[Orentel-City-Atlas-Labeled.png]]
+
 ## Selected world atlas
 
 ![[The-Turning-World-Atlas.png]]
@@ -234,7 +254,15 @@ Pillow overlay on the selected Prototype 3 R8 master. **The Waiting Vale** names
 
 The unlabeled R8 sheet stays the selected handout. Script: `14 - Assets/Maps/label_waiting_vale_atlas.py`.
 
-**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.13). Unlabeled Prototype 3 sheets stay the selected handouts. Do not ask the image model to write.
+## City sheets — 2026-10-02
+
+Two new city paintings. Not crops, and not relabels, of Sacred Core, Chart-run, Old Crossing, or the continent masters. Names come from [[Maiethlir]] and [[Orentel]] only. If the painting and the note disagree, the note wins. The image model was not asked to write. Unlabeled Prototype 3 sheets stay the regional handouts. [[Eolvaeth]] has no city sheet. World book untouched.
+
+**Maiethlir.** `Maiethlir-City-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-City-Atlas.png`. West is left. The river runs west. **Down Gate** is the downstream opening in the old flood-wall. **Wall Path** is the upstream path on the east bank. **Grove Bank** is the north road outside the wall; the house on that road stays unnamed. The First Seat is not marked. [[Maiethvael]]'s seat is not named. **The Tree** is the civic canopy on the **Slow Water**, inside the wall, with no capital star and not Thaeloren's ring. **Loft Row** is the one street from that Tree to the **Tablet-hall**. Painted battlements are incidental; the wall is the flood-wall. South-bank streets stay unnamed. No second name on the Core-thaw. [[Nelath]] is not on this sheet. Script: `label_maiethlir_city.py`.
+
+**Orentel.** `Orentel-City-Atlas-Labeled.png` is a Pillow overlay on `Orentel-City-Atlas.png`. West is left. The estuary opens east. **Chart mouth** is the western river entry. **Crossing-mouth** is the eastern sail-in. **The Tree** stands on **The Rise**. **The Drop** is the street from that free Hand down to the held berths. **First Quay** is the old south landing. **The Third** is the north-side quay. **White Note** is a desk-house on that quay, not a crown and not on the Rise. **Hallowquay** is the lesser inner landing. **Inland yard** is the open pasture behind the Rise. No capital star. No city wall is named. [[Denlad]] is not a district here. Script: `label_orentel_city.py`.
+
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these city sheets by cropping a regional master.
 
 ## Label cleanup — 2026-09-23
 

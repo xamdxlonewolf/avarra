@@ -147,7 +147,7 @@ Moved from the player-facing body during residual export polish:
 - - **[[The Intake]]** — [[Tesara]] sits the stillers' shed. Success is silence. Do not clone [[The Slide]].
 - - **Road-hands / graft-carts** — rare; a pot on an Eolthael berth is cargo in the clerk's mouth. Do not clone them as a chapter-house.
 
-- **L.5 layout.** Crossing-mouth, Chart mouth, the Rise, the Drop, the First Quay, the Third north side, Hallowquay, the inland yard. The Drop is the one district tension. Do not draw the atlas in this pass. [[Denlad]] is a cove, not a fifth berth.
+- **L.5 layout.** Crossing-mouth, Chart mouth, the Rise, the Drop, the First Quay, the Third north side, Hallowquay, the inland yard. The Drop is the one district tension. [[Denlad]] is a cove, not a fifth berth. City sheet drawn later, Story A.14 (2026-10-02), on [[The Atlas Sheets]]. Regional sheets were not relabeled.
 - **Do not make the White Note the crown.** The desk is one house on the third quay. The council is many tickets. A party that only meets Ledan has not met Orentel.
 - **One leftover job.** Prestige / First-Hand year as product **the city holds**. Necessity in the loft is texture, not a second theme. Devotion that books a release-house is friction.
 - **Prestige-walk chain (Story R.6).** Netstrand berths/hulls → White Note terms → Orentel holds. Orenbren houses the year at the origin. Do not let Ledan, Sorim, and a Night-Shore factor each "invent" the same winter.
@@ -165,4 +165,4 @@ Moved from the player-facing body during residual export polish:
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — warranting
 - [[Eolvaeth]] · [[Maiethlir]] — the other two seats
 - [[Sorim]] · [[Mataero]] · [[Tesara]] · [[People of the Turning]]
-- [[Denlad]] · [[Ledan]] · [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11; layout L.5)
+- [[Denlad]] · [[Ledan]] · [[Naming People in the Turning]] — Hallowquay · [[The Atlas Sheets]] — city sheet · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11; layout L.5; sheet A.14)

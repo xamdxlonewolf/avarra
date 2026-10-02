@@ -138,7 +138,7 @@ Moved from the player-facing body during residual export polish:
 
 - Homes accommodate becomings, and the accommodation is on the tablet. Mixed Kinds. A Fox of the Snows down from Lirorn is a guest with a name. Do not grow Kind-quarters. Do not clone the Slide; the late week here is *unfiled*, which is the local crime.
 
-- **L.5 layout.** Grove Bank, Down Gate, Wall Path, Slow Water, Loft Row. The Loft Row is the one district tension. Do not draw the atlas in this pass. Do not turn the Down Gate into Maiethvael's seat.
+- **L.5 layout.** Grove Bank, Down Gate, Wall Path, Slow Water, Loft Row. The Loft Row is the one district tension. Do not turn the Down Gate into Maiethvael's seat. City sheet drawn later, Story A.14 (2026-10-02), on [[The Atlas Sheets]]. Regional sheets were not relabeled.
 - **Do not capture the First Seat in the first sentence, or the fifth.** Proximity is pressure. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll — and keep Rithim as the local version of that refusal, incomplete.
 - **Do not own Thaeloren.** This is a Hand beside a thaw-river. The grove is a dark on the horizon. Orenbren lodges the other road. Brenthael is a neighbour of an inn, not this capital.
 - **One leftover job.** Devotion / extra mile, layered. The census is the layer, not the postcard. Necessity from up-range is friction. Prestige that books a counted winter is the First-Hand year wearing a halo.
@@ -155,7 +155,7 @@ Moved from the player-facing body during residual export polish:
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — the naming
 - [[Eolvaeth]] · [[Orentel]] — the other two seats
 - [[Rithim]] · [[Laevila]] · [[People of the Turning]] · [[The Reckoned Offices]]
-- [[The Down-Bank]] · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11; layout L.5)
+- [[The Down-Bank]] · [[The Atlas Sheets]] — city sheet · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11; layout L.5; sheet A.14)
 
 #### Taste-open markers (P2.1)
 
