@@ -258,13 +258,13 @@ The unlabeled R8 sheet stays the selected handout. Script: `14 - Assets/Maps/lab
 
 Two new city paintings. Not crops, and not relabels, of Sacred Core, Chart-run, Old Crossing, or the continent masters. Names come from [[Maiethlir]] and [[Orentel]] only. If the painting and the note disagree, the note wins. The image model was not asked to write. Unlabeled Prototype 3 sheets stay the regional handouts. [[Eolvaeth]] has no city sheet. World book untouched.
 
-Repainted again the same day against the example street-maps. A full-city plate from the generator stays about 1152 pixels on the long side, so the overall sheets carry the city in its country, and a second sheet zooms the named heart. Maiethlir sits in Sacred Core forest, river running west. Orentel sits on the Chart-run estuary, filed plain to the west, sea to the east. The Tree square is the smaller half of Orentel. No new names.
+Repainted again the same day so each city fills its sheet, and the zoom is the same place as the city plate. Maiethlir sits in Sacred Core forest, river running west, roofs on both banks. Orentel sits on the Chart-run estuary, filed plain to the west, sea to the east, the harbour the larger half. The Tree square is the smaller half of Orentel. No new names.
 
 ### Maiethlir heart
 
 ![[Maiethlir-Heart-Atlas.png]]
 
-Zoom of the Tree, the Slow Water, the Loft Row, and the tablet-hall. Rebuild with `label_maiethlir_heart.py`.
+The same square as the city plate, drawn closer: the Tree on the left, the tablet-hall one street to the east, the Slow Water along the bottom. Rebuild with `label_maiethlir_heart.py`.
 
 ![[Maiethlir-Heart-Atlas-Labeled.png]]
 
@@ -272,13 +272,13 @@ Zoom of the Tree, the Slow Water, the Loft Row, and the tablet-hall. Rebuild wit
 
 ![[Orentel-Drop-Atlas.png]]
 
-Zoom of the Rise, the Tree, the Drop, the First Quay, and the White Note on the Third. Rebuild with `label_orentel_drop.py`.
+The same street as the city plate, drawn closer: the Tree on the left, the Drop running down to the First Quay. The Third and the White Note stay on the city plate, on the north pier above this frame. Rebuild with `label_orentel_drop.py`.
 
 ![[Orentel-Drop-Atlas-Labeled.png]]
 
-**Maiethlir.** `Maiethlir-City-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-City-Atlas.png`. West is left. The river runs west. **Down Gate** is the downstream opening in the old flood-wall. **Wall Path** is the upstream road outside the wall, on the east bank. **Grove Bank** is the north road from the wood. The wood is not a seat. The First Seat is not marked. [[Maiethvael]]'s seat is not named. **The Tree** is the civic canopy on the **Slow Water**, inside the wall, with no capital star and not Thaeloren's ring. **Loft Row** is the one street from that Tree to the **Tablet-hall**. Painted battlements are incidental; the wall is the flood-wall. South-bank streets stay unnamed. No second name on the Core-thaw. [[Nelath]] is not on this sheet. Script: `label_maiethlir_city.py`.
+**Maiethlir.** `Maiethlir-City-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-City-Atlas.png`. West is left. The river runs west. **Down Gate** is the downstream opening in the old flood-wall. **Wall Path** is the upstream road outside the wall, on the east bank. **Grove Bank** is the north road from the wood. The wood is not a seat. The First Seat is not marked. [[Maiethvael]]'s seat is not named. **The Tree** is the civic canopy on the **Slow Water**, inside the wall, with no capital star and not Thaeloren's ring. **Loft Row** is the one street from that Tree to the **Tablet-hall**, which stands east of the square. The heart sheet is that same square. Painted battlements are incidental; the wall is the flood-wall. South-bank streets stay unnamed. No second name on the Core-thaw. [[Nelath]] is not on this sheet. Script: `label_maiethlir_city.py`.
 
-**Orentel.** `Orentel-City-Atlas-Labeled.png` is a Pillow overlay on `Orentel-City-Atlas.png`. West is left. The estuary opens east. **Chart mouth** is the western river entry. **Crossing-mouth** is the eastern sail-in. **The Tree** stands on **The Rise**. **The Drop** is the street from that free Hand down to the held berths. **First Quay** is the old south landing. **The Third** is the north-side quay. **White Note** is a desk-house on that quay, not a crown and not on the Rise. **Hallowquay** is the lesser inner landing. **Inland yard** is the open pasture behind the Rise. No capital star. No city wall is named. [[Denlad]] is not a district here. Script: `label_orentel_city.py`.
+**Orentel.** `Orentel-City-Atlas-Labeled.png` is a Pillow overlay on `Orentel-City-Atlas.png`. West is left. The estuary opens east. **Chart mouth** is the western river entry. **Crossing-mouth** is the eastern sail-in. **The Tree** stands on **The Rise**, a small square inside the roofs. **The Drop** is the street from that free Hand down to the held berths, and the drop sheet is that same street. **First Quay** is the old south landing at the end of it. **The Third** is the north-side quay, above the closer frame. **White Note** is a desk-house on that quay, not a crown and not on the Rise. **Hallowquay** is the lesser inner landing. **Inland yard** is the open pasture behind the Rise. No capital star. No city wall is named. [[Denlad]] is not a district here. Script: `label_orentel_city.py`.
 
 **Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these city sheets by cropping a regional master.
 

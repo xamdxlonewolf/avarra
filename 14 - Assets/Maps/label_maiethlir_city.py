@@ -87,35 +87,35 @@ def build() -> Image.Image:
     place = font(SERIF_BOLD, 20)
     water = font(SERIF_BOLD_ITALIC, 20)
 
-    halo_text(ink, (180, 800), "Maiethlir", title, TYPE)
+    halo_text(ink, (150, 48), "Maiethlir", title, TYPE)
 
     # Downstream, west. Nothing beyond this gate is Maiethvael's seat.
-    leader(ink, (155, 470), (155, 400))
-    halo_text(ink, (200, 390), "Down Gate", place, TYPE, anchor="lm")
+    leader(ink, (120, 455), (120, 390))
+    halo_text(ink, (168, 390), "Down Gate", place, TYPE, anchor="lm")
 
     # Upstream, east, where the river enters. Not the Noon Pass.
-    leader(ink, (1005, 385), (980, 300))
-    halo_text(ink, (968, 300), "Wall Path", place, TYPE, anchor="rm")
+    leader(ink, (1065, 430), (1020, 360))
+    halo_text(ink, (1008, 360), "Wall Path", place, TYPE, anchor="rm")
 
     # North road from the wood. The wood is not a seat.
-    leader(ink, (545, 130), (380, 70))
-    halo_text(ink, (368, 70), "Grove Bank", place, TYPE, anchor="rm")
+    leader(ink, (575, 115), (420, 58))
+    halo_text(ink, (408, 58), "Grove Bank", place, TYPE, anchor="rm")
 
-    # Civic Hand on the bank of the slow reach. No capital star.
-    leader(ink, (545, 330), (700, 270))
-    halo_text(ink, (712, 270), "The Tree", place, TYPE, anchor="lm")
+    # Civic Hand on the north bank. No capital star.
+    leader(ink, (500, 300), (360, 250))
+    halo_text(ink, (348, 250), "The Tree", place, TYPE, anchor="rm")
 
-    # Long hall one street from the Tree.
-    hall_mark(ink, (400, 275))
-    leader(ink, (385, 268), (250, 220))
-    halo_text(ink, (238, 220), "Tablet-hall", place, TYPE, anchor="rm")
+    # Long hall one street east of the Tree.
+    hall_mark(ink, (730, 325))
+    leader(ink, (746, 318), (860, 270))
+    halo_text(ink, (872, 270), "Tablet-hall", place, TYPE, anchor="lm")
 
     # That street. The only district tension.
-    leader(ink, (490, 270), (360, 330))
-    halo_text(ink, (348, 330), "Loft Row", place, TYPE, anchor="rm")
+    leader(ink, (620, 360), (620, 430))
+    halo_text(ink, (620, 448), "Loft Row", place, TYPE)
 
     # The wide reach inside the wall.
-    halo_text(ink, (430, 500), "Slow Water", water, TYPE_WATER)
+    halo_text(ink, (420, 530), "Slow Water", water, TYPE_WATER)
 
     return canvas.convert("RGB")
 

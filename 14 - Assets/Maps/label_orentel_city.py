@@ -93,45 +93,45 @@ def build() -> Image.Image:
     title = font(SERIF_BOLD, 28)
     place = font(SERIF_BOLD, 20)
 
-    halo_text(ink, (160, 800), "Orentel", title, TYPE)
+    halo_text(ink, (140, 48), "Orentel", title, TYPE)
 
-    # Pasture behind the roofs. The inland edge.
-    leader(ink, (430, 190), (300, 140))
-    halo_text(ink, (288, 140), "Inland yard", place, TYPE, anchor="rm")
+    # Pasture north of the roofs. The inland edge.
+    leader(ink, (540, 145), (400, 90))
+    halo_text(ink, (388, 90), "Inland yard", place, TYPE, anchor="rm")
 
     # Small square inside the roofs. The city around it is the larger half.
-    leader(ink, (500, 330), (380, 270))
-    halo_text(ink, (368, 270), "The Rise", place, TYPE, anchor="rm")
+    leader(ink, (360, 400), (250, 340))
+    halo_text(ink, (238, 340), "The Rise", place, TYPE, anchor="rm")
 
-    leader(ink, (545, 315), (640, 250))
-    halo_text(ink, (652, 250), "The Tree", place, TYPE, anchor="lm")
+    leader(ink, (400, 410), (480, 360))
+    halo_text(ink, (492, 360), "The Tree", place, TYPE, anchor="lm")
 
-    # From the square toward the berths.
-    leader(ink, (620, 430), (500, 480))
-    halo_text(ink, (488, 480), "The Drop", place, TYPE, anchor="rm")
+    # From the square down toward the berths.
+    leader(ink, (560, 500), (480, 560))
+    halo_text(ink, (468, 560), "The Drop", place, TYPE, anchor="rm")
 
-    # Inner landing, tucked against the city, upstream of the long berths.
-    quay_mark(ink, (760, 400))
-    leader(ink, (745, 395), (640, 360))
-    halo_text(ink, (628, 360), "Hallowquay", place, TYPE, anchor="rm")
+    # Inner landing, tucked against the city, west of the long berths.
+    quay_mark(ink, (640, 500))
+    leader(ink, (625, 492), (560, 440))
+    halo_text(ink, (548, 440), "Hallowquay", place, TYPE, anchor="rm")
 
     # Long south waterfront.
-    quay_mark(ink, (830, 580))
-    leader(ink, (845, 595), (960, 660))
-    halo_text(ink, (972, 660), "First Quay", place, TYPE, anchor="lm")
+    quay_mark(ink, (860, 640))
+    leader(ink, (875, 655), (980, 720))
+    halo_text(ink, (992, 720), "First Quay", place, TYPE, anchor="lm")
 
     # North-side quay of the harbour.
-    quay_mark(ink, (900, 275))
-    leader(ink, (915, 268), (1020, 210))
-    halo_text(ink, (1032, 210), "The Third", place, TYPE, anchor="lm")
+    quay_mark(ink, (820, 270))
+    leader(ink, (835, 262), (940, 210))
+    halo_text(ink, (952, 210), "The Third", place, TYPE, anchor="lm")
 
     # Desk on that north quay. Not a crown.
-    house_mark(ink, (860, 265))
-    leader(ink, (848, 258), (760, 210))
-    halo_text(ink, (748, 210), "White Note", place, TYPE, anchor="rm")
+    house_mark(ink, (900, 310))
+    leader(ink, (912, 302), (1020, 270))
+    halo_text(ink, (1032, 270), "White Note", place, TYPE, anchor="lm")
 
-    halo_text(ink, (130, 360), "Chart mouth", place, TYPE_WATER)
-    halo_text(ink, (1020, 160), "Crossing-mouth", place, TYPE_WATER)
+    halo_text(ink, (160, 200), "Chart mouth", place, TYPE_WATER)
+    halo_text(ink, (980, 140), "Crossing-mouth", place, TYPE_WATER)
 
     return canvas.convert("RGB")
 

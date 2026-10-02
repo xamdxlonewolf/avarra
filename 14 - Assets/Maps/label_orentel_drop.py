@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Label the Orentel drop zoom.
 
-A closer sheet of the Rise, the Tree, the Drop, the First Quay, and the
-White Note on the Third. Not a new district. The image model was not
-asked to write.
+A closer sheet of the same Rise, Tree, Drop, and First Quay as the city
+plate. The Third and the White Note stay on the city plate, on the north
+pier above this frame. Not a new district. The image model was not asked
+to write.
 
     python3 "14 - Assets/Maps/label_orentel_drop.py"
 """
@@ -65,28 +66,23 @@ def build() -> Image.Image:
     title = font(SERIF_BOLD, 26)
     place = font(SERIF_BOLD, 20)
 
-    halo_text(ink, (150, 40), "Orentel", title, TYPE)
+    halo_text(ink, (140, 36), "Orentel", title, TYPE)
 
-    leader(ink, (520, 110), (360, 70))
-    halo_text(ink, (348, 70), "The Rise", place, TYPE, anchor="rm")
+    # Same square as the city plate: left side, roofs around it.
+    leader(ink, (250, 200), (140, 130))
+    halo_text(ink, (128, 130), "The Rise", place, TYPE, anchor="rm")
 
-    leader(ink, (590, 90), (740, 55))
-    halo_text(ink, (752, 55), "The Tree", place, TYPE, anchor="lm")
+    leader(ink, (300, 230), (400, 160))
+    halo_text(ink, (412, 160), "The Tree", place, TYPE, anchor="lm")
 
-    leader(ink, (610, 300), (430, 240))
-    halo_text(ink, (418, 240), "The Drop", place, TYPE, anchor="rm")
+    # Same street, still running from the square down to the berths.
+    leader(ink, (560, 400), (430, 340))
+    halo_text(ink, (418, 340), "The Drop", place, TYPE, anchor="rm")
 
-    quay_mark(ink, (340, 540))
-    leader(ink, (325, 548), (180, 620))
-    halo_text(ink, (168, 620), "First Quay", place, TYPE, anchor="rm")
-
-    quay_mark(ink, (980, 620))
-    leader(ink, (990, 610), (1040, 540))
-    halo_text(ink, (1052, 540), "The Third", place, TYPE, anchor="lm")
-
-    house_mark(ink, (820, 520))
-    leader(ink, (835, 510), (960, 460))
-    halo_text(ink, (972, 460), "White Note", place, TYPE, anchor="lm")
+    # The long quay this street reaches. The north pier is off this frame.
+    quay_mark(ink, (900, 620))
+    leader(ink, (915, 635), (1020, 700))
+    halo_text(ink, (1032, 700), "First Quay", place, TYPE, anchor="lm")
 
     return canvas.convert("RGB")
 
