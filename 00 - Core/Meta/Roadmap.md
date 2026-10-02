@@ -43,7 +43,7 @@ updated: 2026-10-02
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟢 architecture done; still alongside |
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
-| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.13 done |
+| **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.13 done; A.14 city sheets open |
 | **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.5 done; next is L.6 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
@@ -522,7 +522,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ---
 
 ## Epic A — Atlas labels
-**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.13 done (2026-09-19)** · **Blast radius:** Low. Table aids only. Does not reopen R.10, invent gazetteer, or touch the world book.
+**Skill:** vault geography ([[Named Ground]] · [[The Known Map]]) · **Status:** 🟢 **A.1–A.13 done (2026-09-19).** **A.14 open** — city sheets for [[Maiethlir]] and [[Orentel]], next or later. Does not reopen A.1–A.13. **Blast radius:** Low. Table aids only. Does not reopen R.10, invent a gazetteer, or touch the world book.
 
 > **What this is.** The selected Prototype 3 paintings stay label-free as the handouts. Each story adds a Pillow overlay on *one* master. Names come from [[Named Ground]] and [[The Known Map]] only. If a painting and a note disagree, the note wins. Incidental roofs, field-grids, extra isles, and decorative weather stay unnamed.
 
@@ -656,6 +656,15 @@ One session. Master: `Waiting-Vale-Atlas.png`.
 
 > **A.13 recorded decisions (2026-09-19).** `Waiting-Vale-Atlas-Labeled.png` is one Pillow overlay on the selected R8 master. **The Waiting Vale** is area-type for the fold behind the east-facing coast. The spring is a pool-mark at the painted water where the tracks meet, not a mile-shrine stone and not a Tree. Eolvaeth receives a plain pilgrim-town dot at the gift-hall cluster, not a capital star and not Thaeloren's canopy-ring. Harrow's canopy is neither drawn nor named; inland luck stays out of sight. The coast sliver, garden-grid, extra tracks, and the western ridge remain unnamed. Unlabeled R8 stays the handout. World book untouched.
 
+### Story A.14 — City sheets (Maiethlir and Orentel)
+Two city sheets, from the layout already written in L.5. **Open.** May be done next, or any time later. It is not the default lived-world next: that stays **L.6**. It does not reopen A.1–A.13. [[Eolvaeth]] stays a town and gets no city sheet.
+
+- [ ] Read the layout on [[Maiethlir]] and [[Orentel]]. Use only names those notes already carry. If a painting and a note disagree, the note wins.
+- [ ] One **Maiethlir** city sheet. Approaches: the Grove Bank, the Down Gate, the Wall Path. The Tree stands on the Slow Water, inside the old flood-wall. The one tension is the Loft Row, between the Tree and the tablet-hall. No capital star. The First Seat stays in the wood. [[Maiethvael]]'s seat stays unnamed.
+- [ ] One **Orentel** city sheet. Approaches: the Crossing-mouth and the Chart mouth. The Tree is on the Rise. The one tension is the Drop, from that free Hand down to the held berths. Also carry: the First Quay, the Third on the north side ([[The White Note House]], a desk), Hallowquay, the inland yard. No capital star. The White Note is not the crown.
+- [ ] These are new sheets. Do not crop or relabel Sacred Core, Chart-run, Old Crossing, or the continent masters. Do not put [[Nelath]], [[Raillath]], [[Denlad]], [[Tunral]], or a second name on the Core-thaw onto the regional sheets. Denlad is a day's sail short of the estuary and is not a district of Orentel. Nelath is a different road and is not a district of Maiethlir.
+- [ ] If a painting is generated, do not ask the image model to write. Label from the notes. Record both sheets on [[The Atlas Sheets]]. Unlabeled Prototype 3 sheets stay the regional handouts. Do not update the world book.
+
 ---
 
 ## Epic L — The lived world
@@ -730,7 +739,7 @@ Selective. [[Settlement Seeds]] is the catalog of leftover *types*. The lead tha
 
 - [x] Continents stay in `01 - World/Geography`. `04 - Settlements/Continents` is a pointer index. Essays were not copied. Canonical notes were not moved. → [[Continents]]
 - [x] Regions: an index from [[Named Ground]] and the fifteen powers. New region texture only for the blank between [[Maiethlir]] and [[The Hinge Shore]]. Stub seats stay unnamed. The spur at [[Nelath]] had no mouth; it is a town, not a seat. → [[Regions]] · [[The Down-Bank]]
-- [x] [[Maiethlir]] and [[Orentel]] have enough layout for a later city atlas: approaches, the Tree, one district tension, names a map could carry. The atlas was not drawn. [[Eolvaeth]] stays a town.
+- [x] [[Maiethlir]] and [[Orentel]] have enough layout for a later city atlas: approaches, the Tree, one district tension, names a map could carry. The atlas was not drawn. City sheets are [[#Story A.14 — City sheets (Maiethlir and Orentel)|Story A.14]], next or later. [[Eolvaeth]] stays a town.
 - [x] Seat the lead road-end as one town: the walk stopped, the square is the last mile, a stone in the square, the road ends at the boughs, an upper room. Not [[Harrow's Green]], not Brenthael, not [[The Mill-hold]]. Not a capital. Not the First Seat. → [[Nelath]]
 - [x] Three villages on roads that already exist. Not a gazetteer. → [[Raillath]] (Near Mile) · [[Denlad]] (Salt Walk) · [[Tunral]] (live front)
 - [x] The argued sites stay [[The Low Wall]], [[The Seeing-Ring]], and [[The Dry Stair]]. The Low Wall records who dug and what they fought over. No archaeology discipline.
@@ -783,7 +792,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
 - **Epic L — The lived world:** 29 / 29 tasks of L.1–L.5 (100%) 🟡 **L.5 done 2026-10-02.** Next is L.6. Stories L.6–L.9 stay coarse until L.6 is opened. Diagnosis: voices, then faces, then customs, then the names in the room, then a street. Empty folders are not a fill-list. World book untouched.
-- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** Overlay method locked. Epic A complete. World book untouched.
+- **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** Overlay queue closed. **Story A.14:** 0 / 5 city-sheet tasks. Open. May be done next or later. Does not reopen A.1–A.13. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end seated at [[Nelath]] in Story L.5 (2026-10-02). World book untouched.
@@ -820,6 +829,6 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 - [[The Other Count]] — Story R.9 hub · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
-- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue closed (A.1–A.13)
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A overlay queue closed (A.1–A.13). **A.14 open:** city sheets for [[Maiethlir]] and [[Orentel]], next or later.
 - Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. **L.5 done 2026-10-02** → [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]] · [[The Down-Bank]] · [[The Sky from the Ground]] · [[Planes]]. Next: Story L.6.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
