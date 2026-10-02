@@ -11,7 +11,7 @@ region: "[[Maiethorn]]"
 population: a counted city — smaller than Orentel, older; the clerks will tell you a number after every Eolthael
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Maiethlir
@@ -48,6 +48,19 @@ The Core-thaw is why anyone stopped. Ford, mill, a Hand planted beside the water
 Water is the river, conduits the crown maintains, cisterns in the old pilgrim-streets. Food is the Core's plenty. Fuel is the wood's edge, which the Seat will not let a crown cut without a leave — proximity is pressure, not ownership. The [[The Taken-In|Taken-In]] work the **tended green** the crown furnishes; they are not a nation.
 
 A wall exists and is old. It was for floods and for a generation of argument, not for a siege the Core no longer expects. The interesting streets are inside it, where the old extra-mile meets the tablet-hall.
+
+## Layout
+
+Enough to walk, and enough for a later map. Not a grid. The Core-thaw runs west, toward the Old Crossing. The city sits where that water slowed.
+
+- **The Grove Bank** — the way from [[Turning Tree|Thaeloren]]. One or two days on the river road, which is not the Near Mile. You arrive with the Motherwood as a dark behind you. The First Seat is in that wood. It is not inside this wall.
+- **The Down Gate** — downstream, west, onto [[The Down-Bank]]. The counted conduits thin within a day. The Hinge Shore's quay is still several days of bank, orchard, and mud. [[Maiethvael]]'s argument can occupy the first day down. This gate does not name their seat.
+- **The Wall Path** — upstream, toward [[Lirorn]] and the snow that feeds the thaw. [[Vehaela]]'s thin-snow winters come this way. It is not the Noon Pass. It is the path the river's source already implies.
+- **The Slow Water** — the ford and the mill-reach inside the wall, where a Hand could be planted because the carrying stopped being a current. The Tree stands on this water.
+- **The Tree** — civic heart, inside the old flood-wall, not the First Hand. Leaf-Fall is in this square.
+- **The Loft Row** — the old extra-mile, one street from the Tree to the tablet-hall. Upper rooms that slept pilgrims are clerk-dorms now. This is the district tension: a hymn on the square end, a copy at the hall end, and beds in between that the roll has not all found. [[Rithim]] Speaks at the Tree. The clerk waits on the hall side of the same street. They are not two cities.
+
+The tended green, the counted hall, the stiller, and the far shed stay where the square already put them. They are not a second map.
 
 ## The square (not a district grid)
 
@@ -125,6 +138,7 @@ Moved from the player-facing body during residual export polish:
 
 - Homes accommodate becomings, and the accommodation is on the tablet. Mixed Kinds. A Fox of the Snows down from Lirorn is a guest with a name. Do not grow Kind-quarters. Do not clone the Slide; the late week here is *unfiled*, which is the local crime.
 
+- **L.5 layout.** Grove Bank, Down Gate, Wall Path, Slow Water, Loft Row. The Loft Row is the one district tension. Do not draw the atlas in this pass. Do not turn the Down Gate into Maiethvael's seat.
 - **Do not capture the First Seat in the first sentence, or the fifth.** Proximity is pressure. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll — and keep Rithim as the local version of that refusal, incomplete.
 - **Do not own Thaeloren.** This is a Hand beside a thaw-river. The grove is a dark on the horizon. Orenbren lodges the other road. Brenthael is a neighbour of an inn, not this capital.
 - **One leftover job.** Devotion / extra mile, layered. The census is the layer, not the postcard. Necessity from up-range is friction. Prestige that books a counted winter is the First-Hand year wearing a halo.
@@ -141,7 +155,7 @@ Moved from the player-facing body during residual export polish:
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — the naming
 - [[Eolvaeth]] · [[Orentel]] — the other two seats
 - [[Rithim]] · [[Laevila]] · [[People of the Turning]] · [[The Reckoned Offices]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11)
+- [[The Down-Bank]] · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11; layout L.5)
 
 #### Taste-open markers (P2.1)
 

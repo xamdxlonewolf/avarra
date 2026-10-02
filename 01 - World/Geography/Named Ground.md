@@ -10,7 +10,7 @@ aliases: [Named Terrain, Rivers and the Rain-Wall, Travel Times]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Named Ground
@@ -72,7 +72,7 @@ Snowmelt off the Rain-Wall's west face. Runs toward the Old Crossing. [[Maiethli
 
 The extra mile used to come through with this thaw. Clerks file the spring rise as snowmelt. **Inscrutable, on purpose (already on the seat):** the Core-thaw runs louder the week before Leaf-Fall. Watchers do not file it. Rithim Speaks over it.
 
-In a high Liren the lodging-road meets a near branch of the same water. Thilim's slate — *the summer the ford ran high* — is this river in a bad year, not a fifth name.
+In a high Liren the lodging-road meets a near branch of the same water. Thilim's slate — *the summer the ford ran high* — is this river in a bad year, not a fifth name. Below [[Maiethlir]], the same water is [[The Down-Bank]]: the days a traveler already spends before [[The Hinge Shore]] classifies a hull. Not a second river.
 
 [[The Thaw-Break]] (C.Y. 233) is what happens when the Rain-Wall does not thaw as it usually thaws. The Core-thaw took a month in seven days.
 
@@ -125,16 +125,21 @@ The three walks, converted:
 | Thaeloren | [[Maiethlir]] | river road along the Core-thaw | **1–2 days** |
 | Thaeloren | [[The Third Hearth]] | Near Mile | **3 days** |
 | Third Hearth | Brenthael | Near Mile | **1 day** further out |
-| Brenthael | [[The Mill-hold]] | Near Mile | **2 days** further out |
+| Brenthael | [[The Mill-hold]] | Near Mile | **2 days** further out (the halt [[Raillath]] sits in this stretch, a day from each) |
+| Brenthael | [[Raillath]] | Near Mile | **1 day** further out |
+| Raillath | [[The Mill-hold]] | Near Mile | **1 day** further out |
+| Near Mile, a day short of the Third Hearth | [[Nelath]] | the spur, and then it stops | **1 day** |
 | Thaeloren | [[The Low Wall]] | off the present Mile | **1–2 days** (not inside the Close) |
 | Thaeloren | [[The Hinge Shore]] quays | Core-thaw and the west-road | **8–12 days** |
 | Thaeloren | [[Ornsael]] | west-road over the Shelf-gate (or the Noon Pass, if you like a water-line) | **10–14 days** |
 | Hinge Shore quay | [[Orentel]] | Old Crossing | **3–5 days' sail** |
+| Orentel | [[Denlad]] | a side inlet on the way toward the Hinge Shore, short of the estuary | **about 1 day's sail** |
 | Orentel | [[Trenledd]] interior | Chart-run | **4–8 days** |
 | Orentel | [[Netstrand]] west quays | coasting | **8–14 days** |
 | Netstrand | Heskoren frontier coast | West Water | **2–4 weeks** |
 | Heskoren coast | [[Eolvaeth]] | inland vale | **1–2 weeks** |
 | Eolvaeth | [[Harrow's Green]] | live-front roads | **2–3 weeks** (Eolvaeth cannot see Harrow's, and does not want to) |
+| Harrow's Green | [[Tunral]] | live-front road, coastward, no sightline | **about a week** |
 | Harrow's Green | [[The Three Hamlets Past the Ford]] | the Rise-water | **hours to 1 day** (the canopy is a dark on the far slope) |
 | Vaelun | [[The First Bowl]] | vale track into the Yield, *away* from Harrow's | **1–2 days** |
 | Any mainland quay | Kumbaan | storm-wall | **not a timetable** |
@@ -153,7 +158,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Powers of the Turning]] · [[The Walking Years]] · [[The Other Count]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
-- [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The Mill-hold]] · [[The First Bowl]] · [[Ornsael]]
+- [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The Mill-hold]] · [[The First Bowl]] · [[Ornsael]] · [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]]
 - [[The Walled Book]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
 - [[01 - World]]
 

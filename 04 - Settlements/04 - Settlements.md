@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, settlements, epic-6, epic-7]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # 04 - Settlements
@@ -29,9 +29,19 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The First Bowl]] — guest-grove (*Lonasir*); two settings of one bowl
 
 ### Archetype seats
-- [[Eolvaeth]] — Vaethorn's pilgrim-edge; the conflict walks in
-- [[Orentel]] — Lestrand's salt-quay; crane and hold
-- [[Maiethlir]] — Threnmaieth's counted river-seat; the thaw can arrive
+- [[Eolvaeth]] — Vaethorn's pilgrim-edge; a town; the conflict walks in
+- [[Orentel]] — Lestrand's salt-quay; crane and hold; the Drop is the hill between them
+- [[Maiethlir]] — Threnmaieth's counted river-seat; the Loft Row is the tension
+
+### The spur, and three halts
+- [[Nelath]] — road-end Tree-town; the walk stopped; the square is the last mile
+- [[Raillath]] — Near Mile halt between Brenthael and the Mill-hold
+- [[Denlad]] — Salt Walk inlet a day's sail short of Orentel
+- [[Tunral]] — a kitchen on the live-front road, no sightline to Harrow's
+
+### Regions and continents (pointers)
+- [[Continents]] — the four notes stay in `01 - World/Geography`
+- [[Regions]] — Named Ground, the fifteen, and [[The Down-Bank]]
 
 ### Placed site
 - [[The White Note House]] — walkable desk and loft; [[Ledan]] in the room
@@ -40,7 +50,7 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[Ndenjoo]] — the Feeding Hill; table-at-the-centre; no Tree · [[Njunda]]
 
 ### Pre-Walk leftovers
-- [[The Low Wall]] — three gaps, name-stone crawl, Thuda at the garden-end
+- [[The Low Wall]] — three gaps, the C.Y. 381 opening of the name-stone bed, Thuda at the garden-end
 - [[The Seeing-Ring]] — under-ring crawl; Tithsael keeps the night
 - [[The Dry Stair]] — crawl behind the basin; not Ornsael's hill
 

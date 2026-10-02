@@ -117,7 +117,7 @@ Moved from the player-facing body during residual export polish:
 
 - **Do not make Harrow's the "good town" that waited faithfully.** They were a paying-enough, soil-enough, chain-enough next on a list written in the Motherwood. Luck is horticulture plus the queue. Vaethorn will preach otherwise.
 - **The Harrow-sentence is a tell.** When an NPC says it as nostalgia, they are Maiethorn. When they say it as this year, they are the front. When they say it as a slight (*they Turned at Harrow's because they had no Hand*), they are a hamlet.
-- **One leftover job.** Necessity. A ribbon on the stone is texture, not a second theme. A First-Hand-year household here is lost, rich, or lying.
+- **One leftover job.** Necessity. A ribbon on the stone is texture, not a second theme. A First-Hand-year household here is lost, rich, or lying. The seated road-end is [[Nelath]]. This square's cart-track still goes to the ford. Do not relabel this green into that town.
 - **Host-rights.** A later cut from Harrow's, acting on the origin's behalf, still wants the meal if the ground is an old green. Seated: [[The First Bowl]]. Do not clone this square onto that vale.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let Haelin assert the mind. "The soil was right here" is horticulture.
 - **Keep the cost in sight.** A pretty live-front town whose leftover is only picturesque launders the graves. Keep the hamlets visible from the square in at least one sightline.

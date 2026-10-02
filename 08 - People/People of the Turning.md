@@ -9,7 +9,7 @@ aliases: [The Cast, Capital Casts, Positional Pivots]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # People of the Turning
@@ -85,6 +85,11 @@ Not a second court. Squares that needed a second shape.
 | Talen · Milsun · Thurrei | [[The Mill-hold]] | drain-and-slate | a mill that still turns; a week that still has room |
 | Delvor · Vilraet · Brudu | [[The First Bowl]] | bowl / Speaking / old planting | sit before colour; a Struck housed; morning water |
 | Meirim | Brenthael | neighbour-warden | the Third Hearth's stone down; room for the Mill-hold's week |
+| Raetoth · Lithsur | [[Nelath]] | stone and scar | the mile stays in the square / the name goes back on the day |
+| Lonteith | [[Raillath]] | the halt | the column drinks and does not stay |
+| Relmun | [[Denlad]] | the post | a tide that is not a hold |
+| Huval | [[Tunral]] | the night's kitchen | a true distance, and no invented colour |
+| Nurreith | [[The Low Wall]] | one summer's shovel | the labour off the garden; the chip was the other quarry |
 | Soonke · Saalo | [[Ndenjoo]] sand / valley | sit / leave | wreck off the hill; Waandi found |
 | Thuda | [[The Low Wall]] garden-end | innkeep | labour off the garden |
 
@@ -101,7 +106,7 @@ The houses exist. Do not grow the four into a crew.
 
 ## Names in the room
 
-A neighbour still gets the given name.
+A neighbour still gets the given name. Raetoth, Lithsur, Lonteith, Relmun, Huval, and Nurreith are given names on the place notes. A stranger hears *of Nelath*, *of Raillath*, *of Denlad*, *of Tunral*, or *of the garden-end*. None of them has a house.
 
 [[Maiethlir]] writes a house. [[Laevila]] and [[Senithi]] are Thalonve. [[Rithim]] is Nirsei, and [[Valein]] is the same house unwritten. [[Baerith]] is Rairtei. [[Vehaela]] is of Lirorn, and has not taken a house.
 

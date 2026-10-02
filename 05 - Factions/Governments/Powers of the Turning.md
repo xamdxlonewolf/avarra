@@ -9,7 +9,7 @@ aliases: [The Great Powers, The Fifteen, Named Powers, The Other Powers]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Powers of the Turning
@@ -69,7 +69,7 @@ The three corners [[Polity Archetypes]] left un-built are now on the map: **Maie
 
 ## How they sit (network, not a painted map)
 
-**[[Maiethorn]]** — the Tallied Crown coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (Core-thaw Hand, *not* the grove). The Gift-Realm shares the Mother and refuses the list: same hymns, opposite paper. The Witness-Hearths are the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* them and is not their crown. [[The Third Hearth]] is one lodging-mouth; [[The Mill-hold]] is a Hands-town two days past Brenthael whose Hand is unsound this year — not a capital. The [[The Walled Book|Inner Close]] lives *inside* this compact. The Sown Tree is the leeward east, still walking west after the core stopped. [[The Hinge Shore]] faces [[Strandoren]] across [[Named Ground|the Old Crossing]] and classifies the hull. The Thaw-Land holds [[Named Ground|the Rain-Wall]]; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
+**[[Maiethorn]]** — the Tallied Crown coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (Core-thaw Hand, *not* the grove). The Gift-Realm shares the Mother and refuses the list: same hymns, opposite paper. The Witness-Hearths are the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* them and is not their crown. [[The Third Hearth]] is one lodging-mouth; [[The Mill-hold]] is a Hands-town two days past Brenthael whose Hand is unsound this year — not a capital. [[Nelath]] is a spur that leaves the Mile and stops — not a capital and not the seat. The [[The Walled Book|Inner Close]] lives *inside* this compact. The Sown Tree is the leeward east, still walking west after the core stopped. [[The Hinge Shore]] faces [[Strandoren]] across [[Named Ground|the Old Crossing]] and classifies the hull. The Thaw-Land holds [[Named Ground|the Rain-Wall]]; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
 
 **[[Strandoren]]** — [[Polity Archetypes|Lestrand]] is the premier coast; its seat is [[Orentel]] (Salt Quay; White Note on the third quay, not the crown). [[Brenledd]] is the compact of towns that got tired of being priced by one set of houses. [[Leddvael]] made [[The Fair Hand]] a civic rite on a different stretch of signing-water. [[Trenledd]] is the wealthy interior that started counting tickets and did not stop. [[Netstrand]] faces the open ocean toward [[Heskoren]] and, in stories, the storm-wall.
 

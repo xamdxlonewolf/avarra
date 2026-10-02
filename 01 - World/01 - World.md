@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # 01 - World
@@ -22,7 +22,9 @@ The physical setting as its inhabitants understand it — geography, climate, ec
 - **Climate:** [[Climate of the Turning]] — seasons and the eight weather bands · [[Climate of Maiethorn]] · [[Climate of Strandoren]] · [[Climate of Heskoren]] · [[Climate of Kumbaan]]
 - **Ecology:** [[Ecology of the Turning]] — forage, crops, disease, Tithe-ecology, and working beasts
 - **Powers:** [[Powers of the Turning]] — the fifteen
-- **Sky & time:** [[The Reckoning of the Year]] — the calendar, the solstice, Turning-Week, the twelve months + Kumbaan's moons; Cut-years in [[The Ages of the Turning]]
+- **Sky & time:** [[The Reckoning of the Year]] — the calendar, the solstice, Turning-Week, the twelve months + Kumbaan's moons; what a person sees is [[The Sky from the Ground]]; Cut-years in [[The Ages of the Turning]]
+- **Phenomena:** [[The Green Across the Gap]] · [[The Day-Wash]] · [[Brine and Rain]] — what climate and reach already do
+- **Planes:** [[Planes]] — this world does not have them
 
 ## Related
 - [[The Premise]] (world scale & register) · [[Turning Tree]] · [[The Old Tongue]] · [[Polity Archetypes]] · [[Powers of the Turning]] · [[Kinds of the Turning]]

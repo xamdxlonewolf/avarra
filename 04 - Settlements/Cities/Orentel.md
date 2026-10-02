@@ -11,7 +11,7 @@ region: "[[Strandoren]]"
 population: a salt-city — tens of thousands; the Tree-town is the smaller half
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Orentel
@@ -48,6 +48,21 @@ Water is the tide, cisterns on the rise, and paid wells in the warehouse-leap. F
 No walls that matter. The boundary is the last crane and the ranging-yard inland. Low governance looks like this: the council charters the guild, never the person.
 
 **Hallowquay** is a lesser inner quay, not the capital. A fox-born broker might still be *of Hallowquay*. That byname was already in the world; the seat is Orentel.
+
+## Layout
+
+Enough to walk, and enough for a later map. The estuary faces east, toward the Old Crossing. The Chart-run comes in from the west.
+
+- **The Crossing-mouth** — the sail from [[The Hinge Shore]], three to five days in fair weather, into the estuary. [[Denlad]] is a side inlet about a day's sail short of this mouth, on the way in, not a berth in it.
+- **The Chart mouth** — inland boats and the river-plain. [[Trenledd]]'s filed stretch is four to eight days upriver. That seat stays unnamed. The food on the quay is this water's plain as much as it is the catch.
+- **The Rise** — above the first quay, where the graft took. Oldest lintels face the Tree. The square still Turns local children for free.
+- **The Drop** — the street from the Rise down to the first quay. This is the district tension, and it is one hill: free colour at the top, held berths at the bottom. A family can stand on the Drop and see both prices in the same glance. [[Sorim]]'s slate starts at the bottom. The Tree-tenders' free starts at the top. Neither owns the street.
+- **The First Quay** — the Salt Walk's old landing. Berths 1–4 held in Eolthael. Berth 5 is earth.
+- **The Third, north side** — [[The White Note House]]. A desk. Not the council. Not the crown.
+- **Hallowquay** — the lesser inner quay already named. A byname, not a second city.
+- **The inland yard** — ranging behind the Rise, where the city's boundary is the last hired beast and not a wall.
+
+Leaf-lots and the ticket-infirmaries sit downwind, off the Drop's seaward end. They are not the tension. The tension is the hill between a free Hand and a priced berth.
 
 ## The square (not a district grid)
 
@@ -132,6 +147,7 @@ Moved from the player-facing body during residual export polish:
 - - **[[The Intake]]** — [[Tesara]] sits the stillers' shed. Success is silence. Do not clone [[The Slide]].
 - - **Road-hands / graft-carts** — rare; a pot on an Eolthael berth is cargo in the clerk's mouth. Do not clone them as a chapter-house.
 
+- **L.5 layout.** Crossing-mouth, Chart mouth, the Rise, the Drop, the First Quay, the Third north side, Hallowquay, the inland yard. The Drop is the one district tension. Do not draw the atlas in this pass. [[Denlad]] is a cove, not a fifth berth.
 - **Do not make the White Note the crown.** The desk is one house on the third quay. The council is many tickets. A party that only meets Ledan has not met Orentel.
 - **One leftover job.** Prestige / First-Hand year as product **the city holds**. Necessity in the loft is texture, not a second theme. Devotion that books a release-house is friction.
 - **Prestige-walk chain (Story R.6).** Netstrand berths/hulls → White Note terms → Orentel holds. Orenbren houses the year at the origin. Do not let Ledan, Sorim, and a Night-Shore factor each "invent" the same winter.
@@ -149,4 +165,4 @@ Moved from the player-facing body during residual export polish:
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — warranting
 - [[Eolvaeth]] · [[Maiethlir]] — the other two seats
 - [[Sorim]] · [[Mataero]] · [[Tesara]] · [[People of the Turning]]
-- [[Ledan]] · [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11)
+- [[Denlad]] · [[Ledan]] · [[Naming People in the Turning]] — Hallowquay · [[04 - Settlements]] · [[Roadmap]] (Story 7.3; cast R.8; R.11; layout L.5)

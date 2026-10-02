@@ -12,7 +12,7 @@ seat: unnamed
 public_face: the Near Mile's lodging-towns, grown into a civic power that does not own the Tree
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Orenbren
@@ -37,7 +37,7 @@ Inside the lodging-country, not as a sixteenth flag, sits the **[[The Walled Boo
 
 ## Structure & Membership
 
-A compact of hearth-towns, not a single inn. Town-wardens and lodging-guilds. Recruits not by Kind. Deathless houses exist here as *patrons of beds* ([[The Third Hearth]] is the fleshed square of the type, not this power's capital; neighbour Hands-town **Brenthael**). Further out the Mile, [[The Mill-hold]] is a Hands-town whose Hand is unsound this year — not a capital, not Brenthael.
+A compact of hearth-towns, not a single inn. Town-wardens and lodging-guilds. Recruits not by Kind. Deathless houses exist here as *patrons of beds* ([[The Third Hearth]] is the fleshed square of the type, not this power's capital; neighbour Hands-town **Brenthael**). Further out the Mile, [[The Mill-hold]] is a Hands-town whose Hand is unsound this year — not a capital, not Brenthael. [[Nelath]] is a road-end on a spur that leaves the Mile a day short of the Third Hearth and stops. Not a capital. Not the seat. The seat stays unnamed.
 
 ## Goals & Methods
 
@@ -65,6 +65,6 @@ Keep the extra mile possible. Charge for it in coin, duty, or hymn — the mix i
 ## Links
 - [[Powers of the Turning]] · [[Maiethorn]] · [[The Tree-Wardens]] · [[Turning Tree]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Settlement Seeds]]
-- [[The Third Hearth]] · [[The Mill-hold]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
+- [[The Third Hearth]] · [[The Mill-hold]] · [[Nelath]] · [[The White Note House]] · [[Orentel]] · [[Netstrand]]
 - [[The Walled Book]] — the Inner Close · [[The Closing]] · [[The Low Wall]]
 - [[Polity Archetypes]] · [[The Other Count]] · [[Roadmap]] (Story 7.1; Story R.6; history R.9)

@@ -10,7 +10,7 @@ aliases: [The Calendar, The Turning Year, Turning-Week, The Solstice Reckoning, 
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-30
+updated: 2026-10-02
 ---
 
 # The Reckoning of the Year
@@ -23,7 +23,7 @@ updated: 2026-08-30
 
 A single sun and a single **moon** on a familiar ~monthly cycle — enough to give the world nights, tides, and the [[Yumboe|Yumboes']] moonlit calendar without inventing exotic astronomy. Four true seasons, real winters (the temperate [[The World Frame|Old World]] register). The one fact that *matters* cosmologically is the **solstice** — the sun's turning-point — because that is when the [[Turning Tree|Trees]] turn.
 
-> **Why solstice, in-world.** The Leaf-Fall happens at the solstice because that is when the [[Turning Tree|Trees]] turn their colour and choose — the sun reaches its turning, and so do the children. Believers read this as the [[The Leaf-Mother|Mother]] timing her choosing to the year's own hinge; skeptics read it as ordinary seasonal biology (the Trees respond to light, like any tree). Both are content with the same calendar. *(Which is right is [[Is the Leaf-Mother Real|keystone-gated]] — see GM Notes.)*
+> **Why solstice, in-world.** The Leaf-Fall happens at the solstice because that is when the [[Turning Tree|Trees]] turn their colour and choose — the sun reaches its turning, and so do the children. Believers read this as the [[The Leaf-Mother|Mother]] timing her choosing to the year's own hinge; skeptics read it as ordinary seasonal biology (the Trees respond to light, like any tree). Both are content with the same calendar. What that noon and that long night look like to a person, and what Kumbaan's moons look like from a hill, is [[The Sky from the Ground]]. *(Which reading of the solstice is right is [[Is the Leaf-Mother Real|keystone-gated]] — see GM Notes.)*
 
 ## The Turning Year
 
@@ -97,6 +97,7 @@ The reckoning is **universal in principle** (one sun, one moon, the two solstice
 
 ## Links
 - [[Turning Tree]] (the Leaf-Fall, held Turning-Week) · [[The Leaf-Mother]] (the faith that reads the solstice as her choosing) · [[The Premise]] (solstice-timing locked)
+- [[The Sky from the Ground]] — noon, the long night, and a bright hill, not a star catalog
 - [[The World Frame]] — the reach-gradient this calendar is lived along · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Yumboe]] (the lunar-reckoning people) · [[The Old Tongue]] (month-roots) · [[Naming in the Turning]] · [[Naming People in the Turning]]
 - [[The Ages of the Turning]] — Cut-years and the two clocks · [[The First Cut]] · [[The Walking Years]] — when to leave so as not to miss the week

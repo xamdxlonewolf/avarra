@@ -9,12 +9,12 @@ aliases: [Place Seeds, Leftover Towns, What Inherits]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Settlement Seeds
 
-> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground. Not cities. A catalog of settlement-types that already have a past, so towns do not feel designed last week. The ~15 powers are named in [[Powers of the Turning]]. A lead road-end type still waits as a type until a later session picks another map-square.
+> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground. Not cities. A catalog of settlement-types that already have a past, so towns do not feel designed last week. The ~15 powers are named in [[Powers of the Turning]]. The lead road-end is seated: [[Nelath]].
 
 ## What every Turning-place already inherits
 
@@ -29,7 +29,7 @@ Kumbaan was not in this catalog on purpose — isle places are a different lefto
 | Type | What it is | Layered leftover | Where it lives | Named stub |
 |---|---|---|---|---|
 | **Origin pilgrimage-town** | devotion's extra mile; the Motherwood's lodging | Near Mile as civic season *and* holiday; Seat proximity | [[Maiethorn]] Sacred Core | [[Maiethlir]] ✅ seated (roll *layers* the leftover; does **not** own the grove) · neighbour square: [[The Third Hearth\|Brenthael]] |
-| **Road-end Tree-town** | the walk stopped here; the square *is* the last mile | stone in the square; road ends at the boughs; upper room | any Hands land; densest on Maiethorn | *(unused lead; layered onto Harrow's / Brenthael)* |
+| **Road-end Tree-town** | the walk stopped here; the square *is* the last mile | stone in the square; road ends at the boughs; upper room | any Hands land; densest on Maiethorn | [[Nelath]] ✅ seated (a spur that stops; not Harrow's, not Brenthael, not the Mill-hold) |
 | **Deathless inn-bank** | road-past as credit | beds + notes; Held bed as house custom | Near Mile inland; Salt-Walk quay | [[The Third Hearth]] ✅ fleshed (stayed a hearth) · [[The White Note House]] ✅ placed on [[Orentel]] (desk, not the crown) |
 | **Salt quay** | prestige-walk + pots | empty Eolthael berths; holds that smell of earth; Fair Hand signing-watch | [[Strandoren]] coasts | [[Orentel]] ✅ seated (White Note on the third quay, **not** the crown) |
 | **Live-front Tree-town** | luckiest Heskoren; neighbour's canopy | Harrow-sentence as *this decade*; borrowed Turnings inbound | [[Heskoren]] | [[Harrow's Green]] ✅ fleshed |
@@ -45,7 +45,7 @@ Do not invent Kind-quarters ([[Kinds of the Turning|hearths, not nations]]).
 1. **Pick a type, then a square** — geography first ([[The World Frame]]), leftover second, polity-face third ([[Powers of the Turning]]).
 2. **Keep the two clocks visible** — a road-end Tree-town that never mentions the stone is a backdrop. A waiting cluster written as "frontier flavour" is a stacked age.
 3. **One leftover job per street, not all of them** — devotion, prestige, and necessity can share an inn; they should not all be the town's *theme*.
-4. **Name squares from leftover types, against [[Powers of the Turning]].** Existing squares and seats use only part of the catalog; a lead road-end type still waits.
+4. **Name squares from leftover types, against [[Powers of the Turning]].** The catalog's types are seated. [[Nelath]] closed the road-end lead. Do not invent a further type to fill a folder.
 
 ## Playable squares
 
@@ -59,8 +59,9 @@ Tree at the centre; two clocks visible; one leftover job per street. Early squar
 | [[Ornsael]] | Rain-Shadow walk-hold | [[Saelthael]], **not a capital** | necessity (west-road as *water*) | Clock 2 is not "the frontier"; its well problem differs from Eolvaeth’s spring |
 | [[The Mill-hold]] | sick-Tree square | [[Orenbren]] lodging-country, **not a capital**; past Brenthael | necessity (the walk *returns*) | Hands can un-Hands in the core; mill-race vs roots, not a dry well |
 | [[The First Bowl]] | guest-grove | [[Vaelhesk]] old green, **not a capital**; folk *Lonasir* | host-rights (the meal) | a later planting is a guest; wood that went past the hamlets |
+| [[Nelath]] | road-end Tree-town | [[Orenbren]] spur off the Near Mile, **not a capital** | the stopped walk (the square *is* the last mile) | the spur ends at the boughs; Harrow's cart-track and the Mill-hold's Mile do not |
 
-[[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated. Sick-Tree and guest-grove are seated. A lead road-end type waits. Do not invent Kind-quarters.
+[[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated. Sick-Tree and guest-grove are seated. The road-end lead is seated at [[Nelath]]. Do not invent Kind-quarters.
 
 ## Named and placed squares
 
@@ -71,6 +72,7 @@ Tree at the centre; two clocks visible; one leftover job per street. Early squar
 - [[Ornsael]] — Rain-Shadow walk-hold on [[Saelthael]] ✅
 - [[The Mill-hold]] — sick-Tree Hands-town on [[Orenbren]]'s Near Mile ✅
 - [[The First Bowl]] — guest-grove in [[Vaelhesk]] (folk *Lonasir*) ✅
+- [[Nelath]] — road-end Tree-town on an Orenbren spur ✅ (the walk stopped; not a through-road)
 
 ## Archetype seats
 
@@ -89,11 +91,17 @@ Three corners as *places*, not only axes. Tree at the centre; two clocks visible
 - [[Daily Life]] — Tree-at-the-centre grammar · [[Economy and the Tithe]] · [[Law and Citizenship]]
 - [[Heskoren]] · [[Maiethorn]] · [[Strandoren]] · [[The Tree-Wardens]] · [[The Door-Keepers]]
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
-- [[The Mill-hold]] · [[The First Bowl]]
+- [[The Mill-hold]] · [[The First Bowl]] · [[Nelath]]
+- [[Raillath]] · [[Denlad]] · [[Tunral]] — villages on roads that already existed
+- [[The Down-Bank]] — the stretch between Maiethlir and the Hinge Shore
 - [[Ndenjoo]] — Kumbaan hall (not a mile-shrine type)
 - [[04 - Settlements]] · [[Powers of the Turning]] · [[Roadmap]]
 
 ## GM Notes
+
+### L.5 — the lead is seated
+
+The player body is current. [[Nelath]] is the road-end Tree-town. Lines below that say the type "still waits" are the 2026-08-31 record, kept as the pass that left the lead open. Do not seat it again. Do not relabel [[Harrow's Green]], Brenthael, or [[The Mill-hold]] into Nelath.
 
 ### Production notes (P2.1)
 
@@ -108,9 +116,9 @@ Moved from the player-facing body during residual export polish:
 
 - Kumbaan was not in this catalog on purpose — isle places are a different leftover (storm-wall, moons, Open Table), not a mile-shrine type. **Story R.11 opened one hall:** [[Ndenjoo]]. Still no Tree. Still not a thirteenth mainland power.
 - Guest-grove is seated: [[The First Bowl]]. Do not clone a second Harrow onto Vaelun.
-- 4. **Name squares from leftover types, against [[Powers of the Turning]]** — the ~12 stubs are Story 7.1 (done). 7.2 picked four types. 7.3 seated the three archetype capitals. Sick-Tree and guest-grove seated 2026-08-31. A lead road-end type still waits.
-- [[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated (7.3). Sick-Tree → [[The Mill-hold]]; guest-grove → [[The First Bowl]]. A lead road-end type still waits. Do not clone Road-hands or [[The Slide]] as a district. Do not invent Kind-quarters.
-- **Seeds are a blast-radius brake.** 7.2 fleshed four squares; 7.3 seated three capitals; leftover seating added Mill-hold and First Bowl without rebuilding the seats. A lead road-end type still waits.
+- 4. **Name squares from leftover types, against [[Powers of the Turning]]** — the ~12 stubs are Story 7.1 (done). 7.2 picked four types. 7.3 seated the three archetype capitals. Sick-Tree and guest-grove seated 2026-08-31. The road-end lead was still open on that date; Story L.5 seated it at [[Nelath]].
+- [[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated (7.3). Sick-Tree → [[The Mill-hold]]; guest-grove → [[The First Bowl]]. Road-end → [[Nelath]]. Do not clone Road-hands or [[The Slide]] as a district. Do not invent Kind-quarters.
+- **Seeds are a blast-radius brake.** 7.2 fleshed four squares; 7.3 seated three capitals; leftover seating added Mill-hold and First Bowl without rebuilding the seats. L.5 added Nelath, three villages, and city layout without rebuilding the seats.
 - **Write the job, not the postcard.** A pretty road-end town whose leftover is only picturesque launders the graves. A waiting cluster whose only note is "poor and faithful" agrees with Vaethorn guilt.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let a seed-note assert the mind.
 - **Kumbaan stayed off this list on purpose.** R.11 opened [[Ndenjoo]] as a table-at-the-centre hall, not a mile-shrine type and not a thirteenth power. Do not add a Tree to complete the catalog.

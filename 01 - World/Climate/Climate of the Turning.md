@@ -10,7 +10,7 @@ aliases: [Weather of the Turning, The Eight Climate Bands, Playable Weather]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Climate of the Turning
@@ -123,7 +123,8 @@ For exact journeys and named ground, use [[Named Ground]]. For food, illness, an
 - [[Ecology of the Turning]] — food, disease, Tithe-ecology, and working beasts
 - [[Climate of Maiethorn]] · [[Climate of Strandoren]] · [[Climate of Heskoren]] · [[Climate of Kumbaan]]
 - [[Named Ground]] — the eight bands, named waters, passes, rivers, and travel times
-- [[The Reckoning of the Year]] — the twelve months, two solstices, and Kumbaan's moons
+- [[The Reckoning of the Year]] — the twelve months, two solstices, and Kumbaan's moons · [[The Sky from the Ground]] — the same sky from a square or a hill
+- [[The Green Across the Gap]] · [[The Day-Wash]] · [[Brine and Rain]] — phenomena this weather already implies
 - [[Turning Tree]] · [[Economy and the Tithe]] · [[The Grey Summer]] · [[The Thaw-Break]]
 - [[Dangers of the Turning]] · [[The World Frame]] · [[01 - World]]
 

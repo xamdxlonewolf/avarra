@@ -113,7 +113,7 @@ Talen is doing a week. They will not file a blight. Milsun will read the verso a
 
 - **This is the sick-Tree square.** Hands un-Hands. Necessity-walk *returns*. Civic crisis wearing a child's summer. Do not make it a cursed Tree, a dying faith, or a last-tree-of-a-people. Horticulture: a choked culvert, root blight, unsound wood, one week.
 - **Not Ornsael.** Physical problem = mill-race vs roots (plenty of drink, wrong water at the Hand). Institutional response = a neighbour-slate. Cast = drain-and-slate. Mystery = foam that holds last year's colour. Ornsael keeps the well, the share, the wet knot, the west-road.
-- **Not Brenthael.** Brenthael's Hand is sound. Meirim hosts. Do not sicken the Third Hearth's neighbour to tidy a map. The lead road-end type stays unused; road-ending-at-boughs is Clock 1 texture here, not a second seated type.
+- **Not Brenthael.** Brenthael's Hand is sound. Meirim hosts. Do not sicken the Third Hearth's neighbour to tidy a map. The lead road-end is [[Nelath]], a spur that stops. Road-ending-at-the-boughs here is Clock 1 texture: the Mile still goes grove-ward. Do not relabel this hold into that town.
 - **Not the Grey Summer again.** Grafts went unwatered in C.Y. 171 because tenders died. This is a drain. People are alive and arguing.
 - **Queue parallax.** A replacement scion for a sick Hands-Tree and a first Tree for the hamlets are the same carrying-earth. Do not let Thurrei solve that. Do not convert the Seat.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let the foam assert the mind. Do not date the Tree. Do not pick a cutter.

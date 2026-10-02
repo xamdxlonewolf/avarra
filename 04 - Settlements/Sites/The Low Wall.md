@@ -11,7 +11,7 @@ region: "[[Orenbren]] lodging-country, Near Mile — first days' walk from the M
 stratum: uncounted — older stone than the Close; no honest start
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # The Low Wall
@@ -56,6 +56,16 @@ No one living built it. [[Before the Walk]] has no start, and this stone is of t
 | Old Ways hearths on the Mile | A guest-mark, or a door that is not a Tree | That a meal will not make it a grove |
 | Tree-wardens | A climb they want stopped | That a ribbon here is not a colour, and the children already know |
 
+## Who dug
+
+One summer, not a school. In Hale-month of C.Y. 381, **Nurreith** *(NUR-rayth)* and three lodging-guild hands opened the name-stone's bed. [[Delamem]] had paid for a chip that could be filed as the Close's quarry. A Watcher stood in the cut and would not let a chisel touch the panel. **Thuda** wanted the gang off the garden by dark and pulled them.
+
+What they fought over was the chip, and under the chip the right to call the wall a page. Delamem needed the quarry to match. Nurreith needed the labour back on guest-beds, and also needed the chip to be worth the afternoon or the guild would call the day a waste. The Watcher needed no Cut-year on the stone. Thuda needed the person-gap empty and the last course left as a pot-ring, which it is not.
+
+The chip was the other quarry. Nobody scratched a year. They filled the bed the same week. The fill is newer than the taking of the letters, and the fill is not a date for the wall, the Tree, or the Before. The next person with a shovel is still a person with a shovel. No office came of the afternoon. No method. The Close still wants a confirmation. The Watchers still want the panel blank. The garden still wants its evenings.
+
+Nurreith is a given name. A neighbour says it. A stranger hears *Nurreith of the garden-end*, which is already more address than Thuda likes. There is no house-name. This is not a list.
+
 ## How you enter
 
 - **The cart-gap.** Widened. You walk in like a delivery. The Close prefers this one when they want the wall to look like theirs.
@@ -74,7 +84,7 @@ No one living built it. [[Before the Walk]] has no start, and this stone is of t
 
 ## Discoveries (still no year)
 
-You might find: a different quarry's chip in the name-stone's bed; a pot-ring that is not motherwood; a knife-ribbon someone left because they thought this was the nameless knife's first house (it is not); a second footing behind the inward step that never got a walkway; scratch-wear on the person-gap that is newer than the Close's claim.
+You might find: a different quarry's chip in the name-stone's bed; the C.Y. 381 fill on top of that chip, which dates a quarrel and not the wall; a pot-ring that is not motherwood; a knife-ribbon someone left because they thought this was the nameless knife's first house (it is not); a second footing behind the inward step that never got a walkway; scratch-wear on the person-gap that is newer than the Close's claim.
 
 You must not be handed: a year that starts the Tree, a first enemy with a flag, a gospel in the panel, "it was the Close's outer ring all along" as a solve.
 
@@ -88,6 +98,7 @@ Recognizable: a ruined wall, a climb, an inn's back garden. Inferrable: two quar
 | A Watcher (unnamed, or Tithsael's cousin if you need a link) | standing the chisel off | stop a year |
 | **Thuda** | garden-end, watering the last course | pull labour; fetch a child |
 | Orenbren lodging-guild runner | with a complaint already written | make the climb stop looking like a leftover |
+| **Nurreith** | the guild's shovel, if the bed is open again | finish an afternoon, or be stopped |
 
 ## Archaeology and play
 
@@ -108,7 +119,8 @@ The innkeep cannot afford to see that "when the beds were full" is already a hou
 - **Uncounted on purpose.** This is the 20% inscrutable of the Before, made walkable. Resist a first king, a first war, a first enemy-nation. A forgotten flood-bank, a forgotten raid, a forgotten *watching* — play may lean; the note does not pick.
 - **Keystone-adjacent, not confirming.** An old wall near the grove is compatible with "people organized around a Tree that was already there" and with "people organize around anything tall." Do not use it to decide what she is.
 - **R.11 added the crawl, the pressures, Thuda.** Still do not solve the wall.
-- **Hooks.** Confirm-or-refuse the Close's claim; get a child down; a labour-walk through the person-gap; a Watcher and a clerk at the blank panel; a knife-ribbon left in error; the name-stone bed.
+- **L.5 added one dig, not a discipline.** C.Y. 381. Nurreith opened the bed. Delamem wanted a quarry-match. A Watcher refused a year. Thuda pulled the labour. The chip was the other stone. Do not found a school of diggers, a method, or a pre-Cut chronicle on the back of that week. Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Nurreith** position 14. Given name. No house.
+- **Hooks.** Confirm-or-refuse the Close's claim; get a child down; a labour-walk through the person-gap; a Watcher and a clerk at the blank panel; a knife-ribbon left in error; the name-stone bed; the 381 fill opened again.
 
 ## Links
 - [[The Other Count]] · [[Before the Walk]] · [[The Closing]] · [[The Walled Book]] · [[Orenbren]]
