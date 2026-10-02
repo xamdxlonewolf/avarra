@@ -11,7 +11,7 @@ region: "[[Orenbren]]"
 population: a Hands-town — a few hundred hearths around one mill-race and one canopy
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # The Mill-hold
@@ -83,7 +83,7 @@ No Epic-8 pivot lives here. The square talks as a **drain and a slate**:
 - **The square that used to watch children Turn** — this year the witness has to walk grove-ward and back. Vouching-at-a-distance on the Motherland is the tell that Ornthael is unfinished even here.
 - **Orenbren lodging-custom** — hospitality as rent in Eolthael. A Hands-town sending children *in* looks, from a bed-guild, like failure. Talen hears a date.
 
-A miller still takes a share of grain. They are not the mouth this square turns on unless you ask whose race was kept full.
+A miller still takes a share of grain ([[Craft Fellowships]]). They are not the mouth this square turns on unless you ask whose race was kept full.
 
 ## What can enter a scene
 

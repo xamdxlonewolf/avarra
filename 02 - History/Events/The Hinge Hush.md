@@ -11,7 +11,7 @@ era: "[[The Years of Hands]]"
 date_in_world: "war C.Y. 299–304; hush C.Y. 304 (present = C.Y. 387)"
 reveals: []
 created: 2026-08-30
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # The Hinge Hush
@@ -92,4 +92,5 @@ Moved from the player-facing body during residual export polish:
 - [[The Other Count]] · [[The Grey Summer]] · [[The Hinge Shore]] · [[Polity Archetypes]] · [[Orentel]] · [[Named Ground]]
 - [[Netstrand]] · [[Saelvaeth]] · [[Polity Archetypes|Vaethorn]] · [[Ornled]] · [[Vaelhesk]] · [[Brenledd]]
 - [[The White Note House]] · [[The Years of Hands]]
+- [[The Watch and the Cohort]] — the hush left a rate, not a fleet
 - [[02 - History]] · [[Roadmap]] (Story R.9)

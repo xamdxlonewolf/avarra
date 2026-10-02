@@ -10,7 +10,7 @@ world: The Turning
 domain: witnessing, the Tree before it was named Mother, the Before
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-24
+updated: 2026-10-02
 ---
 
 # The Watching
@@ -73,6 +73,7 @@ On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predate
 - [[Maiethorn]] · [[Turning Tree]] (Thaeloren) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over as a file-name)
 - [[The Watchers]] — the working house (Story 5.2)
+- [[Movements]] — the pear-graft, past; the Masked and the Bare Tree stay on this page
 - [[Before the Walk]] — the unnamed preface they keep as *the Before* · [[The Ages of the Turning]]
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
 

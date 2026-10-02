@@ -12,7 +12,7 @@ seat: the Inner Close — a walled town in [[Orenbren]] lodging-country, not a s
 public_face: a compact of Kept houses that still tax and roster the Conditioned by a book older than the Threnhael
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-02
 ---
 
 # The Walled Book
@@ -104,5 +104,6 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 - [[Law and Citizenship]] — the Kept as default legal person, here elevated to rule
 - [[The Tree-Wardens]] · [[The First Cut]] — hinge · [[The Closing]] — the war · [[The Low Wall]] — not these walls
 - [[The Pourers]] · [[The Protectors]] — other engines
+- [[Movements]] — the disinherited will not copy the labour-line onto the next town's slate
 - [[Maiethlir]] · [[The Third Hearth]] · [[Hithaen]] — the mouth that lost the line
 - [[05 - Factions]]

@@ -12,7 +12,7 @@ seat: none — a shelf in a long-house; the best-known circle sits a deathless l
 public_face: Long-Lived who keep a cup and say they poured a god into it so the rest of a deathless life can still be walked
 reveals: [the-unspent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-02
 ---
 
 # The Pourers
@@ -107,4 +107,5 @@ On its face: a memorial committee. Underneath: "we made the listener" is the mas
 - [[Faiths of the Turning]] — fringe, not a sixth
 - [[The Other Hands]] — not a sixth door (GM)
 - [[The Walled Book]] · [[The Protectors]] — other engines, keep distinct
+- [[Movements]] — the withdrawers are the people who asked to stop
 - [[07 - Religion]] · [[05 - Factions]]

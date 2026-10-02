@@ -8,7 +8,7 @@ tags: [society, law, citizenship, governance, epic-2, social-structure]
 aliases: [Law of the Turning, Citizenship, Condition Law, Witnessed Citizenship]
 reveals: [keystone-adjacent]
 created: 2026-08-20
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Law and Citizenship
@@ -127,7 +127,7 @@ Active papers in a working city are smaller than the 29% pool — perhaps half o
 - **Slates name hours, plants, and chairs — not gifts.** A bed-slate is rows. A hall-slate is bells. A guild-roll is practitioners of an art. The one kingdom that writes *persons and gifts* is still only the Watchful.
 - **Most people never hold a paper.** The Kept quarter, the Two-Bodied plurality, the Taken-In, the Returned, the deathless, the Hollow: no ticket. Among the Conditioned, a large minority *can* be asked if they practice. That is a craft world, not a register-world.
 
-**Who holds the pen matters as much as the rule.** Licences are **guild-issued, not state-issued** — the late-medieval arrangement. A guild *knows its own members* the way any craft guild does. The state *charters* the guild and lets it police its own under threat of losing the charter. This diffuses power (no single authority holds the Conditioned) and breeds its own frictions: guilds guard monopolies, tickets become property, and an unlicensed practitioner threatens the guild's charter as much as the public's safety. Lived houses: [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]].
+**Who holds the pen matters as much as the rule.** Licences are **guild-issued, not state-issued** — the late-medieval arrangement. A guild *knows its own members* the way any craft guild does. The state *charters* the guild and lets it police its own under threat of losing the charter. This diffuses power (no single authority holds the Conditioned) and breeds its own frictions: guilds guard monopolies, tickets become property, and an unlicensed practitioner threatens the guild's charter as much as the public's safety. Lived houses: [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]]. A mill, a hull, and a road have fellowships that are not these papers: [[Craft Fellowships]].
 
 ## The three pillars — why the Conditioned *are* the legal system
 
@@ -143,7 +143,7 @@ Evidence and contract in The Turning are therefore *made of people.* Its 1400s r
 The Inviolate Will already sorts the charge: **negligent Tithe-lapse** versus **willful weaponizing**. This is the ladder the charge walks. There is no crime of *being* a Condition.
 
 1. **Neighbour-word.** Most harm dies on the street. Restitution, apology, a Bound word if they have one. The watch is not called.
-2. **The watch.** Night-watch, ward-watch. Often Kept (untithed nights) and [[Two-Bodied]] (the ranging *is* the Tithe), with a [[Far-Voiced]] for the shout. They hold a body until morning. They do not investigate Conditions. They fetch a pillar or a guild. "The watch" in other notes means this civic hold, not a secret police — except where a Watchful crown has made it one.
+2. **The watch.** Night-watch, ward-watch. Often Kept (untithed nights) and [[Two-Bodied]] (the ranging *is* the Tithe), with a [[Far-Voiced]] for the shout. They hold a body until morning. They do not investigate Conditions. They fetch a pillar or a guild. "The watch" in other notes means this civic hold, not a secret police — except where a Watchful crown has made it one. Who stands the bench, what a cohort is, and what the two wars left are on [[The Watch and the Cohort]].
 3. **Guild-hearing.** Tithe-lapse, unlicensed Gaze, an element let go in a shop. The guild fines, suspends a ticket, binds to apprenticeship. The state is not in the room unless the charter is at risk.
 4. **Open hearing.** Willful harm. Witnesses — especially the three pillars. The charge is the act. "You Gazed a man" is assault. "You are Stilled" is not a crime. A Gaze used as a forever-hold is the rare charge the Stillers' own code already names.
 5. **What the hearing can do** without writing you down:

@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 19–38 (retreat C.Y. 38); present = C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-09-29
+updated: 2026-10-02
 ---
 
 # The Closing
@@ -123,6 +123,8 @@ Hildal cannot afford to see that "we have always struck heir" is the sitting, co
 - [[The Walking Years]] · [[The Years of Hands]] · [[The Tree-Wardens]]
 - [[The Low Wall]] · [[The Two Papers]]
 - [[Powers of the Turning]] · [[The Branch That Came Away]]
+- [[The Watch and the Cohort]] — the riders went home; the wall is not a garrison
+- [[Movements]] — the pear-graft, the Watching's refusal to ride
 - [[02 - History]] · [[Roadmap]]
 
 ## GM Notes
@@ -132,4 +134,3 @@ Hildal cannot afford to see that "we have always struck heir" is the sitting, co
 Moved from the player-facing body during residual export polish:
 
 - > **Canon status.** 🟡 **Lived war (Story R.9).** 🔒 **Does not name the cutter.** 🔒 **Does not add a sixteenth power.** The Inner Close stays a town inside [[Orenbren]] (**placement 🔒 Story R.10** — not a shore-flag). 🔒 **The Closed Seat was an origin-gate, not a world-empire.**
-- - [[02 - History]] · [[Roadmap]] (Story R.9)

@@ -12,7 +12,7 @@ seat: none — four craft-houses; a town may have one yard or four doors on one 
 public_face: the craft guilds that channel the Answered — Ember, Tide, Root, Gale — so the element is used in earnest and does not let go in a crowded room
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # The Element-Guilds
@@ -35,7 +35,7 @@ The common name is **the element-guilds**. *The Crae* survives mainly in formal 
 
 ## Charter summary
 
-- **Four doors, one ticket standard.** Ember (smiths, glass, firefighting). Tide (hulls, dyers, anything that wants water to behave). Root (masons, potters, the carrying-earth a Road-hand may buy). Gale (sails, mills, instruments). An Ember-master does not set Tide's fees. The **shop is chartered**; journeymen sit under a door. That is not a census of every lamp-amber in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
+- **Four doors, one ticket standard.** Ember (smiths, glass, firefighting). Tide (hulls, dyers, anything that wants water to behave). Root (masons, potters, the carrying-earth a Road-hand may buy). Gale (sails, mills, instruments). An Ember-master does not set Tide's fees. The **shop is chartered**; journeymen sit under a door. That is not a census of every lamp-amber in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]]. The mill-share, the hull-wrights, and the road-mend are [[Craft Fellowships]]. They keep the season of work. They do not stamp this ticket.
 - **Self-paying until you leave.** Earnest work slakes the Tithe. The guild is therefore the upkeep. That is why the monopoly has metaphysical teeth: a benched Answered is not merely unemployed.
 - **The paperwork is boring on purpose.** Apprenticeship term, supervised Reach, crowded-yard endorsement, night rotation, transfer. The danger enters when one of those boxes conceals grief, coercion, or a master protecting a fee.
 - **One Condition does not make one temperament.** An even-tempered Root potter and a short-fused Ember smith share a ticket standard and almost nothing else.

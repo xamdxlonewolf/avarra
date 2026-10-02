@@ -11,7 +11,7 @@ region: "[[Heskoren]]"
 population: a pilgrim-town — a couple thousand souls in Ledger-month, more in Hale-month
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Eolvaeth
@@ -71,7 +71,7 @@ Tithe-provision is alms and congregation: real warmth, real want. You can be too
 
 **Clock 1:** Hands-children who *did* Turn at this Tree. The Long Mile is supposed to be optional. The hinge is supposed to have arrived.
 
-**Clock 2:** the Tree is not a certainty; camp-streets still fill for Eolthael; some years a cohort still goes toward Saelvaeth's luck, or further if that luck is full. The gospel says wait. The Seat's horticulture, on a thin year, says send. Vaethod has done both. The town remembers which summers.
+**Clock 2:** the Tree is not a certainty; camp-streets still fill for Eolthael; some years a cohort still goes toward Saelvaeth's luck, or further if that luck is full ([[The Watch and the Cohort]]). The gospel says wait. The Seat's horticulture, on a thin year, says send. Vaethod has done both. The town remembers which summers.
 
 Devotion is the job on the street: people walk *to* Eolvaeth to wait together. That is how a poor land gets a capital without a crown. It is not [[Orenbren]]'s extra mile (those people already have a healthy canopy). It is not the hamlets' necessity (those kitchens can see Harrow's). It is the wait made into a destination, which is also how scarcity becomes unworthiness if you let the sermon land.
 

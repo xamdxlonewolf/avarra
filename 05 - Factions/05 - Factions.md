@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-10-02
 ---
 
 # 05 - Factions
@@ -59,20 +59,28 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 - [[The Shore-Sitters]] — isle flavor; own-name *Njawaal*.
 - [[The Pourers]] — everyday *the Pourers* / *the Cup Circle*. Wear [[The Unspent]]. Not a sixth faith. Seed: [[Reimaethe]].
 
-### Shadow houses
+### Criminal
+
+[[The Slide]], [[The Holding Desk]], and [[The Standing Trade]] live in `05 - Factions/Criminal`. They are the criminal layer. There is no fourth house beside them.
 
 | House | The job, in one line | Who sends for them |
 |---|---|---|
 | [[The Slide]] | Rent *not falling* — one week of green, outlet, or novelty | Someone whose Tithe-queue is longer than their edge |
 | [[The Holding Desk]] | Refinance a Bound's Terms after the honest year closes | A Bound who cannot pay the Pledge; a creditor who wants a walkable instrument |
 | [[The Standing Trade]] | Sell a mouth that will say *I was there* | An unvouched traveller; a name that must cross a warrant-line |
-| [[The Protectors]] | Keep the one Phoenix in care (public); harvest the fire (GM) | A square that wants the one; a white-fire letter; a hush |
 
 - [[The Slide]] — everyday *the Slide* / *week-keepers*; cant *Vaethledd*. Official guilds no longer pretend not to know them when the doors meet.
 - [[The Holding Desk]] — everyday *hold-clerks*. Not the Slide. Not the unused Back Table.
 - [[The Standing Trade]] — everyday *the Standing Trade*. Not the Slide. Not a reopening of the unused Bought Watch pick.
-- [[The Protectors]] — everyday *the Protectors* / *the Care*. Public hospice. Harvest stays behind the wall.
 - [[Rogue House Options]] — archived menu. Bought Watch / Quiet Cut unused *as Slide jobs*.
+
+### Care
+
+[[The Protectors]] stay under Organizations. Everyday *the Protectors* / *the Care*. A public hospice that keeps the one Phoenix. The harvest stays behind the wall. They are not a street gang and not a fourth criminal house.
+
+| House | The job, in one line | Who sends for them |
+|---|---|---|
+| [[The Protectors]] | Keep the one Phoenix in care (public); harvest the fire (GM) | A square that wants the one; a white-fire letter; a hush |
 
 ### Tithe-infrastructure & safety-guilds
 
@@ -87,7 +95,16 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 
 - [[Tithe-Infrastructure]] — sector hub. Greens and halls are jurisdictions of this note.
 - [[The Greens-Keepers]] · [[The Hall-Keepers]] — doors, not colleges.
-- [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] — ticket-yards and the shed. Intake mouth: [[Tesara]] (Orentel).
+- [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] — ticket-yards and the shed. Intake mouth: [[Tesara]] (Orentel). The Hall-Keepers' Voice-ticket stays with the halls.
+- [[Craft Fellowships]] — the mill-share, the hull-wrights, and the road-mend. A season of work. Not a body-licence.
+
+### Military
+
+One note. A town watch, a cohort sent when a Hand cannot Turn the week, and what [[The Closing]] and [[The Hinge Hush]] left: a wall, and a rate. → [[The Watch and the Cohort]]
+
+### Movements
+
+Two present, one past, from schisms already written. → [[Movements]]
 
 ### Three opposition engines (keep distinct)
 
@@ -100,6 +117,7 @@ The ~15 great powers. Three worked corners stay in [[Polity Archetypes]]; twelve
 ## Related
 - [[Roadmap]] · [[Powers of the Turning]] · [[People of the Turning]]
 - [[The Leaf-Mother]] · [[Turning Tree]] · [[Faiths of the Turning]] · [[Economy and the Tithe]] · [[Law and Citizenship]] · [[Naming in the Turning]]
+- [[Craft Fellowships]] · [[The Watch and the Cohort]] · [[Movements]]
 
 ## GM Notes
 
