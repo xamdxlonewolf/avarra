@@ -258,7 +258,23 @@ The unlabeled R8 sheet stays the selected handout. Script: `14 - Assets/Maps/lab
 
 Two new city paintings. Not crops, and not relabels, of Sacred Core, Chart-run, Old Crossing, or the continent masters. Names come from [[Maiethlir]] and [[Orentel]] only. If the painting and the note disagree, the note wins. The image model was not asked to write. Unlabeled Prototype 3 sheets stay the regional handouts. [[Eolvaeth]] has no city sheet. World book untouched.
 
-Repainted the same day. The first masters read as villages. These are city-scale: Maiethlir is the compact counted city inside the flood-wall, smaller than Orentel. Orentel fills a wider sheet as the salt-city, and the Tree square is the smaller half.
+Repainted again the same day against the example street-maps. A full-city plate from the generator stays about 1152 pixels on the long side, so the overall sheets carry the city in its country, and a second sheet zooms the named heart. Maiethlir sits in Sacred Core forest, river running west. Orentel sits on the Chart-run estuary, filed plain to the west, sea to the east. The Tree square is the smaller half of Orentel. No new names.
+
+### Maiethlir heart
+
+![[Maiethlir-Heart-Atlas.png]]
+
+Zoom of the Tree, the Slow Water, the Loft Row, and the tablet-hall. Rebuild with `label_maiethlir_heart.py`.
+
+![[Maiethlir-Heart-Atlas-Labeled.png]]
+
+### Orentel drop
+
+![[Orentel-Drop-Atlas.png]]
+
+Zoom of the Rise, the Tree, the Drop, the First Quay, and the White Note on the Third. Rebuild with `label_orentel_drop.py`.
+
+![[Orentel-Drop-Atlas-Labeled.png]]
 
 **Maiethlir.** `Maiethlir-City-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-City-Atlas.png`. West is left. The river runs west. **Down Gate** is the downstream opening in the old flood-wall. **Wall Path** is the upstream road outside the wall, on the east bank. **Grove Bank** is the north road from the wood. The wood is not a seat. The First Seat is not marked. [[Maiethvael]]'s seat is not named. **The Tree** is the civic canopy on the **Slow Water**, inside the wall, with no capital star and not Thaeloren's ring. **Loft Row** is the one street from that Tree to the **Tablet-hall**. Painted battlements are incidental; the wall is the flood-wall. South-bank streets stay unnamed. No second name on the Core-thaw. [[Nelath]] is not on this sheet. Script: `label_maiethlir_city.py`.
 

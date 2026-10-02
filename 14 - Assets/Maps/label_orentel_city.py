@@ -84,8 +84,8 @@ def house_mark(draw: ImageDraw.ImageDraw, xy: tuple[int, int]) -> None:
 
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
-    if base.size != (1280, 720):
-        raise SystemExit(f"Expected 1280×720 Orentel city master, got {base.size}")
+    if base.size != (1152, 864):
+        raise SystemExit(f"Expected 1152×864 Orentel city master, got {base.size}")
 
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
@@ -93,49 +93,45 @@ def build() -> Image.Image:
     title = font(SERIF_BOLD, 28)
     place = font(SERIF_BOLD, 20)
 
-    halo_text(ink, (180, 660), "Orentel", title, TYPE)
+    halo_text(ink, (160, 800), "Orentel", title, TYPE)
 
-    # Open pasture behind the Rise. Small beside the roof-mass.
-    leader(ink, (175, 180), (175, 118))
-    halo_text(ink, (210, 100), "Inland yard", place, TYPE, anchor="lm")
+    # Pasture behind the roofs. The inland edge.
+    leader(ink, (430, 190), (300, 140))
+    halo_text(ink, (288, 140), "Inland yard", place, TYPE, anchor="rm")
 
-    # The small square the Tree stands on. The city around it is the larger half.
-    leader(ink, (500, 235), (400, 165))
-    halo_text(ink, (388, 165), "The Rise", place, TYPE, anchor="rm")
+    # Small square inside the roofs. The city around it is the larger half.
+    leader(ink, (500, 330), (380, 270))
+    halo_text(ink, (368, 270), "The Rise", place, TYPE, anchor="rm")
 
-    # Ordinary civic canopy in that square. Not a capital star.
-    leader(ink, (575, 210), (680, 150))
-    halo_text(ink, (692, 150), "The Tree", place, TYPE, anchor="lm")
+    leader(ink, (545, 315), (640, 250))
+    halo_text(ink, (652, 250), "The Tree", place, TYPE, anchor="lm")
 
-    # The street from the free Hand down toward the held berths.
-    leader(ink, (545, 340), (410, 300))
-    halo_text(ink, (398, 300), "The Drop", place, TYPE, anchor="rm")
+    # From the square toward the berths.
+    leader(ink, (620, 430), (500, 480))
+    halo_text(ink, (488, 480), "The Drop", place, TYPE, anchor="rm")
 
-    # Lesser inner landing, on the upstream wharf, not in the channel.
-    quay_mark(ink, (430, 512))
-    leader(ink, (415, 518), (230, 575))
-    halo_text(ink, (218, 575), "Hallowquay", place, TYPE, anchor="rm")
+    # Inner landing, tucked against the city, upstream of the long berths.
+    quay_mark(ink, (760, 400))
+    leader(ink, (745, 395), (640, 360))
+    halo_text(ink, (628, 360), "Hallowquay", place, TYPE, anchor="rm")
 
-    # The old landing on the long south waterfront, below the Rise.
-    quay_mark(ink, (620, 530))
-    leader(ink, (635, 545), (790, 610))
-    halo_text(ink, (802, 610), "First Quay", place, TYPE, anchor="lm")
+    # Long south waterfront.
+    quay_mark(ink, (830, 580))
+    leader(ink, (845, 595), (960, 660))
+    halo_text(ink, (972, 660), "First Quay", place, TYPE, anchor="lm")
 
-    # North-side waterfront. On the shore, not out among the hulls.
-    quay_mark(ink, (868, 238))
-    leader(ink, (882, 232), (1048, 175))
-    halo_text(ink, (1060, 175), "The Third", place, TYPE, anchor="lm")
+    # North-side quay of the harbour.
+    quay_mark(ink, (900, 275))
+    leader(ink, (915, 268), (1020, 210))
+    halo_text(ink, (1032, 210), "The Third", place, TYPE, anchor="lm")
 
-    # A desk just inland of that north quay. Not a crown, and not on the Rise.
-    house_mark(ink, (830, 230))
-    leader(ink, (815, 225), (720, 200))
-    halo_text(ink, (708, 200), "White Note", place, TYPE, anchor="rm")
+    # Desk on that north quay. Not a crown.
+    house_mark(ink, (860, 265))
+    leader(ink, (848, 258), (760, 210))
+    halo_text(ink, (748, 210), "White Note", place, TYPE, anchor="rm")
 
-    # Inland boats. Trenledd's seat stays off this sheet.
-    halo_text(ink, (155, 400), "Chart mouth", place, TYPE_WATER)
-
-    # The sail in from the Hinge Shore. No far-shore city is named.
-    halo_text(ink, (1080, 360), "Crossing-mouth", place, TYPE_WATER)
+    halo_text(ink, (130, 360), "Chart mouth", place, TYPE_WATER)
+    halo_text(ink, (1020, 160), "Crossing-mouth", place, TYPE_WATER)
 
     return canvas.convert("RGB")
 
