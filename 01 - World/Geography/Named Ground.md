@@ -70,7 +70,7 @@ Heskoren's highland spines are a *different* weather. Do not hang the Rain-Wall 
 
 Snowmelt off the Rain-Wall's west face. Runs toward the Old Crossing. [[Maiethlir]] sat down where the water slowed enough to hold a Hand — a day's living-earth from the Motherwood, on the *river road*, not [[Orenbren]]'s Near Mile.
 
-The extra mile used to come through with this thaw. Clerks file the spring rise as snowmelt. **Inscrutable, on purpose (already on the seat):** the Core-thaw runs louder the week before Leaf-Fall. Watchers do not file it. Rithim Speaks over it.
+The extra mile used to come through with this thaw. Clerks file the spring rise as snowmelt. The Core-thaw runs louder the week before Leaf-Fall. That fact already sits on [[Maiethlir]]. Watchers do not file it. Rithim Speaks over it.
 
 In a high Liren the lodging-road meets a near branch of the same water. Thilim's slate — *the summer the ford ran high* — is this river in a bad year, not a fifth name. Below [[Maiethlir]], the same water is [[The Down-Bank]]: the days a traveler already spends before [[The Hinge Shore]] classifies a hull. Not a second river.
 
@@ -170,5 +170,5 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - **Names are handles, not a new cosmology.** The reach-gradient is still the load-bearing map. Distances make the walks expensive; they do not confirm a mind.
 - **Kumbaan never.** Align every later sentence with [[The First Cut]]: wrecked pots allowed; a taking is not.
 - **Inner Close stays in Orenbren.** The geography pass is closed. Do not promote. Do not move the Book to the Hinge Shore to tidy a stub.
-- **The Core-thaw's loud week is already Maiethlir's inscrutable.** Do not explain it here.
+- **The Core-thaw's loud week is already on Maiethlir, and that note does not explain it.** Do not explain it here.
 - **Hooks.** A Hush-rate on a necessity-family; a Shelf-gate closed in Liren; a Rise-water cup the Seat will not name; a Chart-run delay that makes a Grey-verso due; a Well-wash year that looks like Clock 2 at the origin.

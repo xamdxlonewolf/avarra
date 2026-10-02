@@ -43,5 +43,5 @@ A raw throat goes to [[The Intake]]. A shut room after the lamps is [[The Slide]
 ## GM Notes
 
 - Folded as a jurisdiction. One lintel stays: Far-Voiced are the seam Condition. Do not grow four offices on a playhouse.
-- The unswept bench is inscrutable. Do not explain which Cry.
+- Do not explain which Cry the unswept bench belongs to.
 - *Aeloren* is retired, not waiting for a replacement. Do not refill the empty slot with another compound.

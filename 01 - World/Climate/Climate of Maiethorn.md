@@ -191,5 +191,5 @@ At the table, make it practical first: a Speaker raising their voice, a tablet m
 ## GM Notes
 
 - **Keystone discipline:** dense healthy grafts, old drains, good soil, and concentrated tending are the player-facing reasons the core Turns reliably. Dry soil, salt, young wood, and distance explain weaker edges. Do not let the loud week become proof of a speaker in the river.
-- **The loud week is the region's single inscrutable.** It already belongs to Maiethlir. Do not add an answering frost, a second river omen, or a Tree that forecasts the colour.
+- **The loud week already belongs to Maiethlir, and Maiethlir does not explain it.** Do not add an answering frost, a second river omen, or a Tree that forecasts the colour.
 - **Pressure, not ownership:** the First Seat remains in the Motherwood beside Maiethlir's country. Climate does not move the grove, the Inner Close, or a sixteenth power.

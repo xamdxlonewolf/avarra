@@ -28,7 +28,7 @@ The Near Mile is a different road. [[Nelath]]'s spur leaves that one. You do not
 
 Recognizable: a river road, orchards, a bed, mud in Liren, dust in a dry Gift-month. Inferrable: two paperwork habits have both stopped, and the city's loud week is behind you. The hinge is still ahead, several days in fair weather — the grove-to-quay walk is eight to twelve days, and the city has already taken the first one or two ([[Named Ground#Travel times]]).
 
-**Inscrutable, on purpose:** posts along the bank with a notch that is not a mile-shrine and not a ribbon. People touch them in passing. The crown did not put them there. The hinge did not put them there. The bank will not say what the notch is for. Do not promote the notches into a second shrine-road.
+Posts along the bank have a notch that is not a mile-shrine and not a ribbon. People touch them in passing. The crown did not put them there. The hinge did not put them there. The bank will not say what the notch is for. Do not turn the notches into a second shrine-road.
 
 No Tree in this note is a seat. Hands along the bank Turn at their own hearths when they have them. That is ordinary Motherland reach, not a new capital and not the First Seat.
 

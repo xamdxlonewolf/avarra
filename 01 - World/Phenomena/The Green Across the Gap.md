@@ -21,7 +21,7 @@ From the ground it is a green the size of a thumbnail, then a colour if the ligh
 
 The phenomenon is the mismatch: seen, and not reachable before the week moves. It does not create a second Leaf-Fall. It does not mean the wood is calling. A [[Far-Voiced]] can carry the news that the road is shut. They cannot carry the child across the bog by being heard.
 
-**Inscrutable, on purpose:** some clear days the green is there at dawn and gone by noon without a cloud. Travelers blame haze. Ridge-folk do not bother to blame it. Nobody measures it.
+On some clear days the green is there at dawn and gone by noon, with no cloud. Travelers blame haze. Ridge-folk do not bother to blame it. Nobody measures it.
 
 ## Links
 - [[Climate of Heskoren]] · [[Climate of the Turning]] · [[Heskoren]]

@@ -70,7 +70,7 @@ Tithe-provision is core-warm and suddenly thin: the greens still work; the Hand 
 
 The Seat will call thin soil. The mill will call a race. Talen will call a date in Eolthael. All three are looking at the same square.
 
-**Inscrutable, on purpose:** mill-foam on the drain-lip holds last Eolthael's colour a day longer than the water. Milsun will not explain. Talen moves the foam with a stick. Thurrei wipes it off a pot-wrap and does not write it.
+Mill-foam on the drain-lip keeps last Eolthael's colour a day longer than the water does. Milsun will not say why. Talen moves the foam with a stick. Thurrei wipes it off a pot-wrap and does not write it down.
 
 ## People & Powers
 

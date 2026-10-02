@@ -87,7 +87,7 @@ The clerks will tell you a number. It changes after every Eolthael. Do not put t
 
 Devotion is the job on the street: people still come because the hinge is holy. The Threnhael is the layer — a tablet beside the Tree, not instead of it. That is how a pious core gets a capital without capturing the grove. The injustice is that the layer learned to withhold the green.
 
-**Inscrutable, on purpose:** the Core-thaw runs louder the week before Leaf-Fall. Clerks file it as snowmelt. Watchers do not. Maiethlir will not explain. Rithim will Speak over it. A clerk will wait for the water to quiet before copying.
+The Core-thaw runs louder the week before Leaf-Fall. Clerks file it as snowmelt. Watchers do not. Maiethlir will not say why. Rithim will Speak over it. A clerk will wait for the water to quiet before copying.
 
 ## People & Powers
 

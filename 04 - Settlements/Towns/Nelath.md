@@ -70,7 +70,7 @@ Tithe-provision is core-warm and local. You can be too poor to stay whole here. 
 
 The Seat will call the requirement over. Raetoth will call the mile the square. Lithsur will call a name that used to be a day. All three are looking at one stone.
 
-**Inscrutable, on purpose:** the rain-notch, and the lintel. Nelath will not explain why the notch stays wet, or whose name is cut over the door. A clerk who copies either has already misunderstood the town.
+The rain-notch stays wet, and a name is cut into the lintel over the door. Nelath will not say why the notch stays wet, or whose name that is. A clerk who copies either one has already misunderstood the town.
 
 ## People & Powers
 

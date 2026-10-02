@@ -6,7 +6,7 @@ note_status: draft
 tags: [meta, conventions, schema]
 aliases: [Schema, Front-matter Reference]
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Vault Conventions
@@ -145,6 +145,18 @@ Keep `title`, `type`, and `aliases`. Drop `visibility`, `reveals`, `note_status`
 ### What this rule does not do
 
 It does not rewrite voice. It does not remove `🔒` / `🟡` from the Roadmap. It does not treat a player-body "Not *Saelorn* (a month)" disambiguation as a GM note. Production scaffolding (seeds, story numbers, "do not clone") belongs under `## GM Notes` so this rule removes it.
+
+## Plain prose
+
+Setting notes use ordinary sentences. A reader should be able to repeat the fact without translating the sentence.
+
+People in the world may refuse to explain a habit. Write what they do, then say they will not say why. "On one night, Ndenjoo eats the heel of the loaf first. They will not say why."
+
+Do not label a fact "Inscrutable," "leave it," or "20%." Do not hide a simple fact in a riddle. "They cook on the quay, close enough to hear the tide" is a normal sentence.
+
+A later note must not invent an explanation for a habit left unexplained, and must not turn that habit into a new power, relic, or rite. Put that instruction in ordinary words under `## GM Notes`.
+
+Story P2.2 (2026-10-02). The world book keeps its old wording until someone asks for a rebuild.
 
 ## Linking & naming
 

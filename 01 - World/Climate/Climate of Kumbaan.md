@@ -202,6 +202,6 @@ Bad vents, warm turf, crossed gusts, and memory after danger explain it well eno
 ## GM Notes
 
 - **No Tree means no Tree.** No graft, no hidden root, no storm-grown Hand, no dead pot that wakes. Kumbaan ecology is terrace, peat, shallows, halls, livestock, and unseen-handed labour.
-- **The smoke is the region's single inscrutable.** It is retrospective and unreliable. It cannot schedule a crossing or identify a safe route.
+- **The smoke is the one thing this note does not explain.** People remember it after the fact, and they remember it badly. It cannot schedule a crossing or show a safe route.
 - **Keystone discipline:** player text can observe no Tree and no Given system. It does not explain the nature of the limit or expose a hidden household.
 - **Reach-label vs Tree-count.** "Near-none" on the gradient is the *reach* column (no Giving system). It is not a hedge that a Tree might be here. Player geography now matches the categorical lock: no Tree, never a graft. Log: [[Contradictions]] C-06.

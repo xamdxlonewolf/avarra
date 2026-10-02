@@ -21,7 +21,7 @@ A traveler from the core sees a silver in the dust and treats it as a ford. By m
 
 [[Climate of the Turning|Rain-Shadow]] weeks already include a hard shower, a dust blow, or no change at all. A shower can make the wash run and still leave no civic drink. Animals cut the bank. A cart bogs in silt that was a road at noon. Taken-In ground that was watered by the shine is dry again before the leaves notice, except where someone spent the night bucket on a planting and not on the shine.
 
-**Inscrutable, on purpose:** a bright thread of water that runs uphill of the last rain, for an hour, and is gone. Well-keepers say the rock remembers a wet year. Core travelers say the map is wrong. The bank does not explain itself.
+Sometimes a bright thread of water runs uphill of the last rain, lasts an hour, and is gone. Well-keepers say the rock remembers a wet year. Core travelers say the map is wrong. Nobody on the bank will say which of those is true.
 
 ## Links
 - [[Named Ground]] · [[Climate of Maiethorn]] · [[Saelthael]] · [[Ornsael]] · [[The Dry Stair]]

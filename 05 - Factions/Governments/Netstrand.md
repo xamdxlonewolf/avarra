@@ -58,7 +58,7 @@ Quote the far crossing. Keep the Heskoren run profitable. Charter hulls to the O
 - Seat stays unnamed (three corner seats already named).
 
 - **Night is a job, not a badge.** They light for ships that quoted last year. Mirror of Vaethorn's wait; do not collapse them (one is gospel, one is inventory).
-- **Inscrutable (leave it).** One unlit berth with no house attached. Night-watches, storm-wall dark, a name the dark book will not take — pick in play, or never. Do not solve it with a Watching eve-custom that does not belong this far west.
+- One berth stays unlit, and no house is attached to it. It might be a night-watch, the dark of the storm-wall, or a name the dark book will not take. Pick in play, or never. Do not solve it with a Watching custom that does not belong this far west.
 - **Staging ground for Isle expeditions** stays Strandoren; Netstrand is the natural berth. Hold whether a claim is true. A taking on Kumbaan is still forbidden.
 - **Prestige-walk chain (Story R.6).** Netstrand = berths/hulls. White Note = terms. Orentel = holds. Orenbren = destination beds, not a fourth seller.
 - **Hooks.** A pot in a hold; a hull chartered to Orentel whose passengers thought the berth *was* the hug; a Yumboe story that is a lie; a Yumboe story that is not; a Saelvaeth town waiting on a ship that quoted them last year; a lamp on a name; the unlit berth.

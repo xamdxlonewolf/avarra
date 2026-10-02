@@ -59,7 +59,7 @@ Life is under the hill. You do not walk *through* a town. You walk into a Pap an
 - **The path to the sand** — Soonke's stretch. A hooded lamp that does not call ships. Living go up. Dead go above the tide.
 - **The standing-stone** — a dare, not a mile-shrine. No ribbons. Visitors from the core will try to climb it as if it owed them a leftover. It does not.
 
-**Inscrutable, on purpose:** on one night of the moon sailors call Yoltal, the hall eats the heel of the loaf first. Every other night the heel is last, or it goes to the goats. The valley says the hands like the crust when the mainland is loud. Njunda will not correct that, and will not say it is the reason. A guest who asks is given more bread.
+On one night of the moon sailors call Yoltal, the hall eats the heel of the loaf first. Every other night the heel is last, or it goes to the goats. The valley says the hands like the crust when the mainland is loud. Njunda will not correct that, and will not say it is the reason. A guest who asks is given more bread.
 
 Homes accommodate becomings the isle actually has: a rare Struck is family news, not a class ([[Yumboe]]). Mixed mainland Kinds are guests if they crossed. They do not grow quarters. A Yumboe is what you are *because that is who lives here*.
 

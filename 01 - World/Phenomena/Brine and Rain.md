@@ -23,7 +23,7 @@ A west wind lays salt on leaves that were green at dawn. A Chart-run rise, or a 
 
 People argue about which damage to count. Guilds count the flood, because a flood has a witness. The salt-burn is quieter and often the one that takes the green. A Hall-keeper schedules around the wet paths. A Book-hand does not put the salt in a Term unless someone makes them look at a leaf.
 
-**Inscrutable, on purpose:** a lot that salts on a windless morning. The estuary is flat. Nobody filed a gale. The tender washes the leaves and will not say where the salt sat in the air.
+Sometimes a lot salts on a windless morning. The estuary is flat. Nobody filed a gale. The tender washes the leaves and will not say where the salt was in the air.
 
 ## Links
 - [[Climate of Strandoren]] · [[Climate of the Turning]] · [[Ecology of the Turning]]

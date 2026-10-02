@@ -47,7 +47,7 @@ Grove-ward a day is Brenthael, whose Hand is sound. Further out a day is the Mil
 
 Food is the kitchen and what the column does not eat. Fuel is the same coppice as the rest of the Mile. Mixed Kinds. No Kind-quarter.
 
-**Inscrutable, on purpose:** the undyed ribbon. Not a leaf-colour. Lonteith will not name the hand that ties it. A clerk who calls it a blank line has already filed the wrong thing.
+Someone ties an undyed ribbon here. It is not a leaf-colour. Lonteith will not name the hand that ties it. A clerk who calls it a blank line has already filed the wrong thing.
 
 ## What can enter a scene
 

@@ -88,7 +88,7 @@ You might find: a different quarry's chip in the name-stone's bed; the C.Y. 381 
 
 You must not be handed: a year that starts the Tree, a first enemy with a flag, a gospel in the panel, "it was the Close's outer ring all along" as a solve.
 
-Recognizable: a ruined wall, a climb, an inn's back garden. Inferrable: two quarries, a claim, a Book that assigns a walk. Inscrutable: who it was against, and whether "against" is even the verb.
+A visitor can see a ruined wall, a climb, and an inn's back garden. They can guess two quarries, a claim, and a Book that assigns a walk. The note does not say who the wall was against, or whether "against" is the right word.
 
 ## Current actors
 
@@ -116,7 +116,7 @@ The innkeep cannot afford to see that "when the beds were full" is already a hou
 
 ## GM Notes
 
-- **Uncounted on purpose.** This is the 20% inscrutable of the Before, made walkable. Resist a first king, a first war, a first enemy-nation. A forgotten flood-bank, a forgotten raid, a forgotten *watching* — play may lean; the note does not pick.
+- **Uncounted on purpose.** This is the Before, kept thin, and you can walk it. Do not add a first king, a first war, or a first enemy-nation. A forgotten flood-bank, a forgotten raid, a forgotten watching: play may lean. The note does not pick.
 - **Keystone-adjacent, not confirming.** An old wall near the grove is compatible with "people organized around a Tree that was already there" and with "people organize around anything tall." Do not use it to decide what she is.
 - **R.11 added the crawl, the pressures, Thuda.** Still do not solve the wall.
 - **L.5 added one dig, not a discipline.** C.Y. 381. Nurreith opened the bed. Delamem wanted a quarry-match. A Watcher refused a year. Thuda pulled the labour. The chip was the other stone. Do not found a school of diggers, a method, or a pre-Cut chronicle on the back of that week. Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Nurreith** position 14. Given name. No house.

@@ -165,7 +165,7 @@ Moved from the player-facing body during residual export polish:
 - **They do not know what story they are in.** Defaults: four elemental paladin-chapters, fire-police, Avatar-nations. Rotate. Form stays craft guild (load-bearing). Four doors, one grammar. They want work that slakes and a room that does not let go. They do not want a client.
 - **Do not clone the Orenhael's four offices onto four elements.** No Ember-Speaker, no Tide-Road-hand. Shop-rules are local manners, not a college.
 - **Moral parallax.** Distances: causal ("the shop keeps them whole") and social (idle is *their* failure). Engine: exchange — every rotation is a Tithe paid as civic labor — and accumulation — every "we do not bench" year makes exit harder. Comfort: the word *earnest*.
-- **The last coal / yesterday's water / unwashed clay / unshut window are inscrutable.** Practical and not explained. Do not turn them into four relics.
+- **The last coal, yesterday's water, unwashed clay, and an unshut window are practical.** The guild does not explain them. Do not turn them into four relics.
 - **No Kind-nations.** Gale-Tengu is a lean. Ember-Drakona is a lean. Leans are not chapters.
 - **No Kind-gate. No Kumbaan Crae. No element-pope.**
 - **Hooks.** A benched Ember in a dry month; a Road-hand buying carrying-earth from a Root who wants to walk the scion; a hull that needs Tide and a Book-hand's stamp and only has one; a crown column that wants element *and* person; Intake pulling the only Tide-master off a mid-bend; a PC who wants to leave the shop.

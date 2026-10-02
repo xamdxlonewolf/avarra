@@ -69,7 +69,7 @@ Homes accommodate becomings. A window that opens. A room kept green. Threshold c
 
 Vaethorn heat sits on many tongues as gospel. This square lives in Vaelhesk custom. A waiting-gospel that calls refusal deprivation is the enemy of the meal. History does not agree with it.
 
-**Inscrutable, on purpose:** the first-meal bread is always a little sour. Delvor says that is how you know the grove sat down. Vilraet will not eat the heel. Brudu puts a pinch of hill in the bowl that is not this hill, and will not say which door it came from.
+The first-meal bread is always a little sour. Delvor says that is how you know the grove sat down. Vilraet will not eat the heel. Brudu puts a pinch from another hill in the bowl, and will not say which door it came from.
 
 Do not clone the hamlets' cup. The cup is a send/don't-send. The bowl is a sit/don't-sit. Same water-country, different question.
 
@@ -109,7 +109,7 @@ A third line, if Brudu is there, is only: *The planting drinks at first light. T
 
 - **This is the guest-grove.** Old Ways planting; first meal vs Cutting-leave; host-rights. Play with [[The Door-Keepers]] and with Nethiro at Vaelun. Do not clone a second Harrow. Do not make Vaelun this square. Do not sicken the guest to merge types; the sick-Tree is [[The Mill-hold]].
 - **Both love the wood.** Neighbours, not pagans-vs-church. Door-Keepers do not carry scions. Vilraet is not a missionary. The injustice is host-rights as a claim that can shun — kindness with a threshold. Keep it local and real. Not holy war.
-- **Not the hamlets.** Formula = two settings of one bowl, not three kitchens. Inscrutable = sour bread / pinch of another hill, not the cup. The cup stays at the ford.
+- **Not the hamlets.** Two settings of one bowl, not three kitchens. What stays unexplained is the sour bread and a pinch from another hill, not the cup. The cup stays at the ford.
 - **Not Ornsael.** A morning bucket is manners in one green, not a west-road of thirst.
 - **Wood that went past.** Harrow's cut, after Harrow's took. The hamlets' slight is structural. Do not tidy it by giving Brenod this guest. Do not make the First Bowl a Saelvaeth square; it sits in Vaelhesk.
 - **Keystone:** thin/sick/few grafts stay horticulture in player text. A guest that took is still a graft of the one Tree; do not let Delvor or Vilraet assert the mind. Confirmation stays late. Household doors stay in GM walls on the faith notes.

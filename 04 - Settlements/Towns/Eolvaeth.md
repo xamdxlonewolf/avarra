@@ -75,7 +75,7 @@ Tithe-provision is alms and congregation: real warmth, real want. You can be too
 
 Devotion is the job on the street: people walk *to* Eolvaeth to wait together. That is how a poor land gets a capital without a crown. It is not [[Orenbren]]'s extra mile (those people already have a healthy canopy). It is not the hamlets' necessity (those kitchens can see Harrow's). It is the wait made into a destination, which is also how scarcity becomes unworthiness if you let the sermon land.
 
-**Inscrutable, on purpose:** the wet leaf on the spring. Core pilgrims ask if it is a ribbon. Elvaeth will not explain. The year the Tree speaks, there is no leaf. The year it does not, there are too many to count, and no one files the count.
+A wet leaf lies on the spring. Pilgrims from the core ask if it is a ribbon. Eolvaeth will not say. In a year when the Tree speaks, there is no leaf. In a year when it does not, there are too many to count, and no one writes the number down.
 
 ## People & Powers
 

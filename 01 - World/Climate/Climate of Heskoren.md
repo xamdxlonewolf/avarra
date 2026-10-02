@@ -208,5 +208,5 @@ Packed earth, drainage, buried stone, or a tender's morning walk can explain any
 ## GM Notes
 
 - **The player-facing cause remains distance and history expressed through horticulture:** young, sick, or scarce grafts; long carrying chains; wind, soil, water, and delayed care. The real edge stays unconfirmed.
-- **The old-road melt is the region's single inscrutable.** It remembers where wood came from, not where it should go. Do not turn it into a compass, a prophecy, or a voice.
+- **The old-road melt is the one habit this note does not explain.** It shows where wood came from. It does not show where wood should go. Do not turn it into a compass, a prophecy, or a voice.
 - **Kind-hearth discipline:** foxes in woods and snow, crows on ridges, seals on coasts. Terrain can make a hearth dense. It never makes a Kind-government.

@@ -78,7 +78,7 @@ You might find: the salt-white is mineral, or ash of ordinary brush, or somethin
 
 You must not be handed: this was her first Hand, this was a Fox temple, this was a Closed Seat well-gate, a year, "it was a Tree all along."
 
-Recognizable: stairs to a ruin, a dry fountain, a dare. Inferrable: a failed planting, a door-habit without a grove, a town that walks west because *this* is not a Tree. Inscrutable: what the basin was for, and why the pecking is wrong on purpose.
+A visitor can see stairs, a dry fountain, and a dare. They can guess a failed planting, a habit of doors with no grove, and a town that walks west because this place is not a Tree. The note does not say what the basin was for, or why the pecking is the wrong angle on purpose.
 
 ## Current actors
 

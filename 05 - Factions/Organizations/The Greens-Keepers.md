@@ -43,7 +43,7 @@ They recruit by practice, not Kind. They do not steal a scion. They do not expor
 ## GM Notes
 
 - Folded as a jurisdiction, not a faction-clone. Texture (buried leaf, "we do not know a pot") stays playable on the sector note. Do not grow a Green Seat in a later polish.
-- The buried leaf is inscrutable. A PC who digs it up has committed a local rudeness, not found a cosmology.
+- A PC who digs up the buried leaf has been rude. They have not found how the world works.
 
 #### Taste-open markers (P2.1)
 

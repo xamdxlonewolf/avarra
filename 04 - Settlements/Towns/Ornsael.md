@@ -69,7 +69,7 @@ Homes bend to becomings: north-side cool rooms, green pots on lintels, shutters 
 
 Vaethorn-guilt imported to sand that never asked for it is still an injustice, and it is the wrong sermon for this square. Waiting read as unworthiness was about a colour. This year the town empties itself for water. A core hymn about thin soil will be heard as a man who has never drawn a bucket.
 
-**Inscrutable, on purpose:** the well-rope is knotted at last year's water-line. This year's knot is wet when the water stands below it. Ornsael will not explain. Theisva moves the knot. Lesna says the planting tastes the same wet. Bovaer puts sand in a west-facing shoe and does not call it a rite.
+The well-rope is knotted at last year's water-line. This year's knot is wet even when the water stands below it. Ornsael will not say why. Theisva moves the knot. Lesna says the planting tastes the same when it is wet. Bovaer puts sand in a west-facing shoe and does not call that a rite.
 
 ## People & Powers
 

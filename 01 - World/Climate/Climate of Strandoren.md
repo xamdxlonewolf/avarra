@@ -198,5 +198,5 @@ Tree-tenders wash the roots with fresh water. Hall-keepers schedule around the w
 ## GM Notes
 
 - **High reach is not high faith.** Mature abundant Trees follow early sea-carried grafting, wealth, drainage, and care in player text. Commercial belief does not weaken the wood, and healthy wood does not prove doctrine.
-- **Salt on roots is the region's single inscrutable.** Keep it practical, localized, and deniable. Do not let it forecast a colour, speak a name, or become a second Grey Summer symptom.
+- **Salt on the roots is Orentel's habit, and Orentel does not explain it.** Keep it practical and local. Do not let it forecast a colour, speak a name, or become a second Grey Summer.
 - **Connected disease, mundane mechanism.** Strandoren should feel vulnerable because people and goods move quickly, not because the sea carries a curse.

@@ -42,7 +42,7 @@ The upper work is cut from a kinder quarry: steps that do not match the ring's t
 ## Features
 
 - **The ring-walk.** Clockwise is local habit. A Watcher will not tell you why. A warden will tell you it is Turning-Week in stone, which is overlay so confident it sounds like folklore.
-- **The out-looks.** Four wider gaps. One faces the smear of the origin. One faces the Old Crossing weather. Two face nothing a present map cares about. The last two are the inscrutable fifth.
+- **The out-looks.** Four wider gaps. One faces the smear of the origin. One faces the Old Crossing weather. Two face nothing a present map cares about. Those last two stay unexplained.
 - **The emptied shrine.** Steps, lintel-socket, no roof. A ribbon sometimes appears on the socket in Eolthael and is gone by Leddorn. Tithsael takes it off if it is a colour-ribbon. A hug-ribbon they will leave, which is how a Watcher does a kindness the Seat will not understand.
 - **The pecked mark.** Tender's blessing over a withheld geometry. You can feel both if you put a thumb on them. Dual-practice in a fingertip.
 - **The night.** Tithsael keeps it. Not a service. A seeing. People come with a cough, a question, or a child who was not Held and was not Given and wants a hill that does not owe them a name.
@@ -78,7 +78,7 @@ You might find: a second withheld cut under the Tender's mark; a pot-ring that i
 
 You must not be handed: confirmation she stood here, a date for the lower ring, a first sermon, "it was a Closed Seat gate" (that hunger belongs to [[The Low Wall]]).
 
-Recognizable: a stone circle, a ruined shrine, a night-watch. Inferrable: two builds, an overlay, a faith that will not start history at a knife. Inscrutable: the two out-looks that face nothing, and what "seeing" meant before it meant a mother.
+A visitor can see a stone circle, a ruined shrine, and a night-watch. They can guess two builds, a later overlay, and a faith that will not start history at a knife. The note does not say why two gaps face nothing on a present map, or what "seeing" meant before it meant a mother.
 
 This site serves the keystone *as pattern*: reach and seeing are older than the name. Skeptics still win the mundane reading (a high place, later piety). Both readings share the same hill.
 

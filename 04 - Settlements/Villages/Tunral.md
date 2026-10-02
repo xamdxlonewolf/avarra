@@ -45,7 +45,7 @@ The post, the kitchen, a yard that takes a cart if the cart is small. The road c
 
 Food is oats, a smoked fish if the coastward week was kind, and the pot. No stiller. A [[Two-Bodied]] on the road is a traveler, not a quarter. Mixed Kinds in the sense that a frontier road is mixed. Do not found a people here.
 
-**Inscrutable, on purpose:** the bowl on the wrong side of the kitchen. Huval will not gloss it. A pilgrim who calls it the Mother's portion has already preached. A clerk who calls it a due has already levied.
+A bowl sits on the wrong side of the kitchen. Huval will not say why. A pilgrim who calls it the Mother's portion has already preached. A clerk who calls it a due has already charged for it.
 
 ## What can enter a scene
 

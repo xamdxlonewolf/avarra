@@ -87,7 +87,7 @@ Homes accommodate becomings. Mixed Kinds. A Sands-Fox at a desk is unremarkable 
 
 Prestige is the job on the street: the walk you do not need, sold. That is how a rich coast gets a capital without a crown. Devotion that lands here is a hymn the release-house will schedule. Necessity in the loft is Mataero's eye, not the city's brand.
 
-**Inscrutable, on purpose:** salt on the Tree's roots in Eolthael. They say it is the tide. The tide does not reach the rise. Orentel will not explain. A Hall-keeper will schedule around it. A Book-hand will not put it in a Term.
+Salt sits on the Tree's roots in Eolthael. People say it is the tide. The tide does not reach the rise. Orentel will not say why the salt is there. A Hall-keeper will schedule around it. A Book-hand will not put it in a Term.
 
 ## People & Powers
 

@@ -45,7 +45,7 @@ From the post to the Tree is a short climb. The rise is above the inlet. The tid
 
 Food is fish, bread, and whatever the tied hull will trade. A [[The Taken-In|Taken-In]] garden sits landward of the Tree, where brine is a storm-story and not the daily drink. Mixed Kinds. [[Selkie]] hearths use this water because it is water, not because the cove is a gate. No Kind-quarter. No ticket-infirmary. A cough in a closed hull is the Grey Summer's memory, not a second plague on the page.
 
-**Inscrutable, on purpose:** chalk will not take on the wet post. Relmun says the name aloud and does not write it. A mother hears a week. Relmun hears a tide. Denlad will not say which refusal it is.
+Chalk will not stick to the wet post. Relmun says the name aloud and does not write it. A mother hears a week. Relmun hears a tide. Denlad will not say which of those they are refusing.
 
 ## What can enter a scene
 

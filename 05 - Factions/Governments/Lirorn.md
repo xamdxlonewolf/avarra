@@ -39,7 +39,7 @@ Ridge-compacts, pass-tolls, valley charters under a holding. Recruits not by Kin
 
 Keep the passes and the spring. Be paid for water the core calls a gift. Stay un-named to the [[Naming in the Turning|Threnhael]] as a people — they will name the passes if they can. After 233 they named the Shelf-gate. Lirorn charged them for the water anyway.
 
-**Its injustice.** **The ridge pays in isolation for water the valley files as a gift.** A shelf-town whose graft sickens is a long way from a stiller. Mid-state enough to levy; not enough to furnish every Tithe on a cliff. Tolls that feel like geography feel like 233 if you were on the shelf. The Core-thaw's loud week before Leaf-Fall is Maiethlir's inscrutable, not this holding's sermon.
+**Its injustice.** **The ridge pays in isolation for water the valley files as a gift.** A shelf-town whose graft sickens is a long way from a stiller. Mid-state enough to levy; not enough to furnish every Tithe on a cliff. Tolls that feel like geography feel like 233 if you were on the shelf. The Core-thaw's loud week before Leaf-Fall belongs to Maiethlir, and Maiethlir does not explain it. It is not this holding's sermon.
 
 ## GM Notes
 
