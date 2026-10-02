@@ -87,39 +87,37 @@ def build() -> Image.Image:
     place = font(SERIF_BOLD, 20)
     water = font(SERIF_BOLD_ITALIC, 20)
 
-    halo_text(ink, (168, 748), "Maiethlir", title, TYPE)
+    halo_text(ink, (210, 790), "Maiethlir", title, TYPE)
 
     # Downstream, west, where the river leaves the flood-wall. Nothing
     # beyond this gate is Maiethvael's seat.
-    leader(ink, (214, 418), (128, 362))
-    halo_text(ink, (116, 362), "Down Gate", place, TYPE, anchor="rm")
+    leader(ink, (258, 400), (168, 330))
+    halo_text(ink, (156, 330), "Down Gate", place, TYPE, anchor="rm")
 
-    # Upstream path, east, toward the snow that feeds the thaw. Not the Noon Pass.
-    leader(ink, (948, 248), (1048, 176))
-    halo_text(ink, (1060, 176), "Wall Path", place, TYPE, anchor="lm")
+    # Upstream road outside the wall, east, along the incoming river. Not the Noon Pass.
+    leader(ink, (1048, 355), (910, 248))
+    halo_text(ink, (898, 248), "Wall Path", place, TYPE, anchor="rm")
 
-    # The way from the wood. The road is outside the wall. The house on
-    # that road stays unnamed; the First Seat is not in this city.
-    leader(ink, (524, 118), (360, 78))
-    halo_text(ink, (348, 78), "Grove Bank", place, TYPE, anchor="rm")
+    # The north road from the wood. The wood is not a seat, and the First
+    # Seat is not marked inside the wall.
+    leader(ink, (530, 150), (690, 90))
+    halo_text(ink, (702, 90), "Grove Bank", place, TYPE, anchor="lm")
 
-    # Civic Hand on the slow reach. The leader touches the painted canopy,
-    # not the neighbouring roof. No ring that could be read as Thaeloren,
-    # and no capital star.
-    leader(ink, (498, 348), (330, 308))
-    halo_text(ink, (318, 308), "The Tree", place, TYPE, anchor="rm")
+    # Civic Hand on the bank of the slow reach. No capital star.
+    leader(ink, (478, 372), (330, 330))
+    halo_text(ink, (318, 330), "The Tree", place, TYPE, anchor="rm")
 
-    # The other end of the same street, on the hall side of the row, inside the wall.
-    hall_mark(ink, (616, 222))
-    leader(ink, (630, 214), (748, 148))
-    halo_text(ink, (760, 148), "Tablet-hall", place, TYPE, anchor="lm")
+    # The long hall one street from the Tree, inside the wall.
+    hall_mark(ink, (640, 388))
+    leader(ink, (656, 378), (790, 330))
+    halo_text(ink, (802, 330), "Tablet-hall", place, TYPE, anchor="lm")
 
-    # The street between the Tree and the hall. The only district tension.
-    leader(ink, (534, 268), (392, 228))
-    halo_text(ink, (380, 228), "Loft Row", place, TYPE, anchor="rm")
+    # That street. The only district tension.
+    leader(ink, (555, 360), (430, 300))
+    halo_text(ink, (418, 300), "Loft Row", place, TYPE, anchor="rm")
 
-    # The ford and mill-reach inside the wall, not a second name for the whole river.
-    halo_text(ink, (560, 492), "Slow Water", water, TYPE_WATER)
+    # The wide reach inside the wall, not a second name for the whole river.
+    halo_text(ink, (760, 458), "Slow Water", water, TYPE_WATER)
 
     return canvas.convert("RGB")
 
