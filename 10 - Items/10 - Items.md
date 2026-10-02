@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # 10 - Items
@@ -18,6 +18,14 @@ Weapons, armor, equipment, artifacts, and materials. Canonical home for items (M
 ### Artifacts
 - [[The Spent Leaf]] — colourless remainder of a Giving; the keystone's firing pin (player body deniable; confirmation in GM Notes)
 - [[The Closed Lamp]] — travelling-coal that answers two mouths; fire-plot object, not a leaf
+- [[The Other Chip]] — true; the other quarry, under the 381 fill
+- [[The Dry Slip]] — true; dead wood in a dry basin
+- [[The Ribboned Knife]] — embellished; a Closing summer's kitchen knife
+- [[The Socket Ribbon]] — embellished; cloth on the Seeing-Ring
+- [[The One Knife]] — never found
+
+### Weapons, coats, materials
+- [[What a Place Needed]] — the short list. No ladder.
 
 ## Related
 - [[The Remainder]] — the desk that keeps the box · [[Is the Leaf-Mother Real]] (GM) · [[Turning Tree]]

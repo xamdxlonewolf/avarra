@@ -51,7 +51,7 @@ A sent cohort from Eolvaeth stops at the thorn outside the vale and eats before 
 
 The wall is the [[The Walled Book|Inner Close]], a town inside [[Orenbren]]. The Book still ranks who owes. That is a class rule. It is not a garrison on the wall. Nobody kept the riders as a host that could be called again.
 
-A Near-Mile house may still hang a kitchen-knife on a ribbon beside a scorch on an old pot-ring. People know which summer that was. They do not turn out for it. [[The Low Wall]] is another stone, from another dig. A person who says the two walls are one wall is making a claim about the past. They are not raising a company.
+A Near-Mile house may still hang a kitchen-knife on a ribbon beside a scorch on an old pot-ring ([[The Ribboned Knife]]). People know which summer that was. They do not turn out for it. [[The Low Wall]] is another stone, from another dig. A person who says the two walls are one wall is making a claim about the past. They are not raising a company.
 
 ## What the Hinge Hush left
 

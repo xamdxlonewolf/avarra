@@ -11,7 +11,7 @@ region: "[[Saelthael]] Rain-Shadow — a rise above a well-town, not [[Ornsael]]
 stratum: uncounted stair; top is a door-stone and a dry basin, not a Tree-pit
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # The Dry Stair
@@ -37,7 +37,7 @@ The Rain-Shadow still walks west after the core stopped. This stair does not. It
 
 The steps are worn in the middle. People have gone up for a long time. At the top: a slab with a threshold-cut, standing like a door with no wall, and a basin pecked into the rock behind it. The basin is dry. Taken-In who know wells say the rock was never a good cistern — the pecking is wrong for holding. Old Ways mouths on a visiting week leave a first-meal at the threshold and do not call the slab a guest. Children dare the last step and come down louder than they went up.
 
-A later warden tried to plant a slip in the basin "so the stair would have a point." The slip died. Dead wood is not a Tree. The Seat did not send a second. Saelthael already knows about dirt.
+A later warden tried to plant a slip in the basin "so the stair would have a point." The slip died ([[The Dry Slip]]). Dead wood is not a Tree. The Seat did not send a second. Saelthael already knows about dirt.
 
 ## Features
 

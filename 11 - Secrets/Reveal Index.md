@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [secret, moc, index, reveals]
 aliases: [Reveal Tags, Tag Index, Secrets Index]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Reveal Index
@@ -118,6 +118,10 @@ Do **not** put confirmation language in the player body. Phoenix and the hub sta
 **Not missing (checked, left empty on purpose)**
 [[Far-Voiced]] · [[The Stilled]] · [[The Taken-In]] — GM Notes do not name Hands. [[Long-Lived]] points at the cup without confirming furniture. [[At the Table]] points at the opening kit without spoiling cosmology. Geography / [[Named Ground]] / [[01 - World]] already carry the tags they need; another agent owns those files.
 
+## Playable mysteries (not pins)
+
+[[The Name-Stone Bed]] and [[A Buyer for the Knife]] do not have `reveal_tag`s. They are not `leaf-mother-is-real`, `the-other-hands`, or `when-the-fire-is-caught`. They do not confirm the Leaf-Mother or the Other Hands. Find them from [[Mysteries]]. [[Revelations]] and [[Clues]] point back here and do not hold a second copy of this index.
+
 ## How to use this in export
 
 1. Omit `visibility: gm` notes.
@@ -125,6 +129,6 @@ Do **not** put confirmation language in the player body. Phoenix and the hub sta
 3. Optional: drop notes whose `reveals` still contain an unrevealed tag **and** whose remaining body would spoil that tag. Do not hide [[Conditions]] or [[Kind Heritage]] this way.
 
 ## Links
-- [[Revelation Architecture]] — procedure · [[11 - Secrets]]
+- [[Revelation Architecture]] — procedure · [[11 - Secrets]] · [[Mysteries]] · [[Revelations]] · [[Clues]]
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] · [[The Unspent]] · [[When the Fire Is Caught]]
 - [[Conventions]]

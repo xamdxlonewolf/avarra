@@ -10,7 +10,7 @@ aliases: [Food and Disease of the Turning, Living Ground, Tithe-Ecology]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Ecology of the Turning
@@ -122,16 +122,16 @@ The Turning has no single supernatural disease ecology. Most sickness is familia
 
 | Beast | Livelihood | Where it is common | Scene use |
 |---|---|---|---|
-| Ox | Ploughing, cart haulage, heavy timber | Core farms, Chart-run plain, broad Heskoren vales | A stalled cart, a precious breeding animal, a ford too deep |
+| [[The Cart-Ox\|Ox]] | Ploughing, cart haulage, heavy timber | Core farms, Chart-run plain, broad Heskoren vales | A stalled cart, a precious breeding animal, a ford too deep |
 | Horse or pony | Riding, courier work, pack and light haulage | Roads everywhere; smaller hardy ponies in uplands | A lamed mount, a crowded stable, weather outrunning a rider |
 | Mule | Sure-footed pack work | Rain-Wall passes, dry hills, long roads | A load that must be divided when the pass narrows |
 | Sheep | Wool, milk, meat, manure | Rain-Wall shelves, Shore-land meadows, Heskoren uplands, Kumbaan hills | Shearing, lambing, a flock cutting a road into mud |
-| Goat | Milk, meat, hide, manure, scrub browsing | Rain-Shadow, Heskoren rough ground, Kumbaan terraces | A well-share argument; a terrace wall knocked loose |
+| [[The Terrace Goat\|Goat]] | Milk, meat, hide, manure, scrub browsing | Rain-Shadow, Heskoren rough ground, Kumbaan terraces | A well-share argument; a terrace wall knocked loose |
 | Cattle | Milk, meat, hide, manure | Wetter lowlands and sheltered frontier vales | Winter fodder running short; flood evacuation |
 | Pig | Meat and woodland mast | Mother-core, Strandoren interior, Heskoren woods | A disputed mast right; animals loose in a green |
 | Chicken or goose | Eggs, meat, alarm, market income | Nearly every settled hearth | A sickness marker, a stolen supper, noise in a hiding place |
 | Bee | Honey, wax, orchard work | Core orchards, Shore-lands, sheltered Heskoren pockets | A failed blossom, wax owed to a hall, hives moved before flood |
-| Dog or cat | Herding, guarding, vermin control, companionship | Farms, quays, halls, and road-houses | A dog refuses a flooded path; a granary cat marks hidden spoilage |
+| [[The Path Dog\|Dog]] or cat | Herding, guarding, vermin control, companionship | Farms, quays, halls, and road-houses | A dog refuses a flooded path; a granary cat marks hidden spoilage |
 
 A Two-Bodied person's other self is a person in another real animal body, never livestock, breeding stock, or a guild-owned beast. Their work can overlap with these animals without erasing the difference.
 

@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 0 (present = C.Y. 387); spread inside locked bands through C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # The First Cut
@@ -45,7 +45,7 @@ A parent who would not watch another child stay [[Law and Citizenship|Kept]] for
 
 Lived:
 
-- **The nameless knife** is the object, not a saint. Some hearths keep a kitchen-knife on a ribbon the way Hands-children climb mile-shrines: they cannot say whether they are honouring a theft or a gift. Do not put a name on the handle.
+- **The nameless knife** is the object, not a saint ([[The One Knife]]). Some hearths keep a kitchen-knife on a ribbon the way Hands-children climb mile-shrines: they cannot say whether they are honouring a theft or a gift. Do not put a name on the handle.
 - **Thief-songs** on the Near Mile are walking-songs with the cutter as *we*. Salt-Walk versions make it a quay-joke (*the first unpaid berth*). Long-Mile versions are not funny. Vaethorn's later guilt wants this parent to have been *unworthy*. The songs do not agree.
 - **Folk-right cutting** did not vanish when the Seat wrote a leave. A Taken-In with a sick neighbour and no year to wait will still take a slip. Most of those slips die. The ones that take are how the queue learns it is not the only horticulture in the world. [[The Tree-Wardens|Road-hands]] call this a problem. Towns that lived through a stolen year call it a year they Turned.
 

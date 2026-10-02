@@ -11,7 +11,7 @@ region: "[[Maiethorn]] hymn-country — a hill in old [[The Watching]] districts
 stratum: two builds — uncounted ring below; later shrine-work above, now emptied
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # The Seeing-Ring
@@ -43,7 +43,7 @@ The upper work is cut from a kinder quarry: steps that do not match the ring's t
 
 - **The ring-walk.** Clockwise is local habit. A Watcher will not tell you why. A warden will tell you it is Turning-Week in stone, which is overlay so confident it sounds like folklore.
 - **The out-looks.** Four wider gaps. One faces the smear of the origin. One faces the Old Crossing weather. Two face nothing a present map cares about. Those last two stay unexplained.
-- **The emptied shrine.** Steps, lintel-socket, no roof. A ribbon sometimes appears on the socket in Eolthael and is gone by Leddorn. Tithsael takes it off if it is a colour-ribbon. A hug-ribbon they will leave, which is how a Watcher does a kindness the Seat will not understand.
+- **The emptied shrine.** Steps, lintel-socket, no roof. A ribbon sometimes appears on the socket in Eolthael and is gone by Leddorn ([[The Socket Ribbon]]). Tithsael takes it off if it is a colour-ribbon. A hug-ribbon they will leave, which is how a Watcher does a kindness the Seat will not understand.
 - **The pecked mark.** Tender's blessing over a withheld geometry. You can feel both if you put a thumb on them. Dual-practice in a fingertip.
 - **The night.** Tithsael keeps it. Not a service. A seeing. People come with a cough, a question, or a child who was not Held and was not Given and wants a hill that does not owe them a name.
 

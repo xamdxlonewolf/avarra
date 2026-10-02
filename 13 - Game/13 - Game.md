@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc, rules, daggerheart]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # 13 - Game
@@ -14,7 +14,8 @@ updated: 2026-08-31
 System-facing material — rules, mechanics, encounters, tables.
 
 ## Contents
-- [[At the Table]] — creation, Kept deal, Struck-in-play, travel, city, crime, Leaf-Fall
+- [[At the Table]] — creation, Kept deal, Struck-in-play, travel, city, crime, Leaf-Fall, domain cards, a made thing
+- [[How the Work Is Done]] — crafts; the hub lives in `06 - Magic`
 - [[Kind Heritage]] — custom Kind power band, Hearth-Mark, Mixed Ancestry, one surprise keyword
 - [[A Hidden Phoenix]] — player-agency for a Phoenix who is not the public legend
 - [[Dangers of the Turning]] — wilderness adversaries and travel environments

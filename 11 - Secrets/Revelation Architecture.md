@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [secret, gm-truth, procedure, revelation]
 aliases: [How Secrets Fire, Reveal Procedure, Firing Order]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # Revelation Architecture
@@ -95,6 +95,10 @@ If the table later wants cosmology under the fire, wait until the keystone has l
 
 Tone: warmth with an ache. ~5% scary, and only on purpose. No harvest-god twist.
 
+## Side afternoons (not rungs)
+
+[[The Name-Stone Bed]] and [[A Buyer for the Knife]] are playable, and they are not this table. They do not fire the keystone, the household, or the opening. Do not pair either one with [[The Spent Leaf]] or with session one at [[Harrow's Green]]. The cutter stays unpicked. Procedure for those two afternoons lives on their own notes. Index: [[Mysteries]].
+
 ## What this architecture does not do
 
 - Lock the nature of her limit
@@ -104,7 +108,7 @@ Tone: warmth with an ache. ~5% scary, and only on purpose. No harvest-god twist.
 - Confirm her in any player body
 
 ## Links
-- [[11 - Secrets]] · [[Reveal Index]] · [[Contradictions]]
+- [[11 - Secrets]] · [[Reveal Index]] · [[Mysteries]] · [[Revelations]] · [[Clues]] · [[Contradictions]]
 - [[Is the Leaf-Mother Real]] · [[The Other Hands]] · [[The Unspent]] · [[When the Fire Is Caught]]
 - [[The Spent Leaf]] · [[The Remainder]] · [[The Closed Lamp]] · [[The Uncoloured Intake]]
 - [[The Opening]] · [[The Isolated Fall]] · [[A Hidden Phoenix]] · [[The Protectors]]

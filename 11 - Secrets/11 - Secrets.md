@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # 11 - Secrets
@@ -14,6 +14,8 @@ updated: 2026-08-31
 **GM ONLY.** The revelation architecture: mysteries, revelations, clues, contradictions, and GM truth. Each secret carries a `reveal_tag`; player-facing notes list what they expose via `reveals: []`.
 
 **Run it:** [[Revelation Architecture]] — firing order, what stays deniable, what confirmation does not include, fire plot without the keystone. **Find it:** [[Reveal Index]] — tag → secret → keyed notes.
+
+The same two notes are pointed from [[Mysteries]], [[Revelations]], and [[Clues]]. Those folders do not hold a second copy. A note stays where its home already is.
 
 ## Tag vocabulary
 
@@ -32,6 +34,9 @@ Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-e
 ### Procedure
 - [[Revelation Architecture]] — GM hub: two tracks (fire plot / cosmology), firing order, retrieval table (secret → pin → do-not-pair)
 - [[Reveal Index]] — every `reveal_tag` keyed; Bound / Returned carry `the-other-hands`; Phoenix hub stays untagged
+- [[Mysteries]] — points here; two playable afternoons that are not the keystone and not the opening
+- [[Revelations]] — points here; the truths stay in GM Truth
+- [[Clues]] — points here; clue objects stay in their own folders
 
 ### GM Truth
 - [[Is the Leaf-Mother Real]] — **keystone secret** (`reveal_tag: leaf-mother-is-real`): she **is** real and benevolent; the Trees genuinely are her hands; the gifts are real; she is bounded and giving costs her. Skeptics are sincere and wrong about the mind. **Firing pin:** [[The Spent Leaf]] (held during a Giving) · desk: [[The Remainder]]. Rungs 1–5 stay deniable; rung 6 can fire. Household stays behind. Exposed-by (clue, not confirmation): notes tagged `keystone-adjacent`.

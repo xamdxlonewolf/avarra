@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc, creatures, conditions, adversaries]
 aliases: [Creatures, Beasts, Adversaries]
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # 09 - Creatures
@@ -36,6 +36,24 @@ A small Daggerheart layer. Not a second monster taxonomy.
 - [[Colourless Host]] — T2 Support (dead wood that still wants to Give)
 
 Settlement scene-dangers (cohort, crane, well-mouth) stay on the settlement notes. Pre-Walk sites: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]].
+
+The five adversaries stay the five. Working animals are not a sixth.
+
+## Beasts (livelihoods)
+
+Promoted from the table on [[Ecology of the Turning]]. Each has a use and a fear. A [[Two-Bodied]] other self stays a person.
+
+- [[The Cart-Ox]] — plough and haul; a ford over the axle
+- [[The Terrace Goat]] — milk and scrub; the wall and the well-share
+- [[The Path Dog]] — the path and the door; floodwater
+
+## A made thing
+
+[[A Made Thing]] — Condition labor and Answered craft already do this work. If one exists, it has a maker and a problem. It is not a people. Clank stay a Kind on [[Kinds of the Turning]].
+
+## Spirits
+
+[[Kin at the Door]] — a meal at an old door, and a Returned person. No other list.
 
 ## Related
 - [[The Premise]] — two-layer model

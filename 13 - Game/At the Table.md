@@ -9,7 +9,7 @@ aliases: [Table Procedures, Session Zero, Character Creation]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-02
 ---
 
 # At the Table
@@ -114,6 +114,16 @@ The load-bearing sentences, for when you cannot open the table:
 - You may correct a Speaking. You may not rerun a fall. [[The Wrong Green]] is the cited year.
 - White-fire is sent to the First Seat. A town-warden does not guess Phoenix.
 
+## Domain cards, a Speaking, a made thing
+
+Open [[How the Work Is Done]] for the jobs. Use the SRD card as printed. Do not add a second roll. A Condition clock ticks only from its own card.
+
+A Spoken colour is the warden's sentence at Leaf-Fall. It is not a spellcast. Hope does not buy a colour. Edge cases stay in the section above.
+
+If a scene has a thing that keeps working with no person in it, open [[A Made Thing]]. Name the maker and the problem. Do not give it a Kind, a Condition, or a domain.
+
+[[The Cart-Ox]], [[The Terrace Goat]], and [[The Path Dog]] are livelihoods. They are not adversaries. A [[Two-Bodied]] other self is a person. A door and a return are [[Kin at the Door]].
+
 ## Special seats (pointers)
 
 | Seat | Open this |
@@ -122,10 +132,12 @@ The load-bearing sentences, for when you cannot open the table:
 | Condition cards, rest clocks | [[Conditions]] |
 | Hidden or captive Phoenix PC | [[A Hidden Phoenix]] |
 | Wilderness danger, a roll on the road | [[Dangers of the Turning]] |
+| A domain card, a Spoken colour | [[How the Work Is Done]] |
+| A made thing | [[A Made Thing]] |
 | Population shares, Given / Struck / Both | [[The Premise]] |
 
 ## Links
-- [[Kind Heritage]] · [[Conditions]] · [[The Premise]]
+- [[Kind Heritage]] · [[Conditions]] · [[The Premise]] · [[How the Work Is Done]] · [[A Made Thing]]
 - [[Law and Citizenship]] · [[Turning Tree]] · [[Named Ground]]
 - [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[13 - Game]]

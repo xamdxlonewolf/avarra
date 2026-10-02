@@ -84,7 +84,7 @@ Nurreith is a given name. A neighbour says it. A stranger hears *Nurreith of the
 
 ## Discoveries (still no year)
 
-You might find: a different quarry's chip in the name-stone's bed; the C.Y. 381 fill on top of that chip, which dates a quarrel and not the wall; a pot-ring that is not motherwood; a knife-ribbon someone left because they thought this was the nameless knife's first house (it is not); a second footing behind the inward step that never got a walkway; scratch-wear on the person-gap that is newer than the Close's claim.
+You might find: a different quarry's chip in the name-stone's bed ([[The Other Chip]]); the C.Y. 381 fill on top of that chip, which dates a quarrel and not the wall; a pot-ring that is not motherwood; a knife-ribbon someone left because they thought this was the nameless knife's first house (it is not); a second footing behind the inward step that never got a walkway; scratch-wear on the person-gap that is newer than the Close's claim.
 
 You must not be handed: a year that starts the Tree, a first enemy with a flag, a gospel in the panel, "it was the Close's outer ring all along" as a solve.
 
