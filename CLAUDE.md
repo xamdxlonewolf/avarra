@@ -73,7 +73,7 @@ Use the project-scoped **`/obsidian` (obsidian-vault) skill** for finding, creat
 
 A suite of fiction/worldbuilding skills is installed (from `jwynia/agent-skills`). **Use them** — don't hand-wave a design task you have a purpose-built skill for. They form a linked system: **`story-sense` is the router** — when something feels broken, thin, or stuck, invoke it first to diagnose *which* problem this is, then it points to the specific skill. Don't guess; diagnose, then reach for the named tool.
 
-**Two adaptations to note:**
+**Adaptations to note:**
 - **`shared-world`** — adopt its *philosophy* (canon-status tracking: Established / Proposed / Contradicted; a running conflicts log; "the bible grows with the story, stay lean"), but **ignore its file scaffolding and Deno scripts** — this vault (`00–14` folders, `visibility`/`note_status`/`reveals` front-matter, templates, MOCs in `00 - Core/Meta/`) is already a stronger, spoiler-aware world bible. Track canon status and contradictions *inside* the existing notes (e.g. `11 - Secrets/Contradictions`, `note_status`), not in a parallel `world-bible/` tree.
 - **`metabolic-cultures`** — built for closed-loop *space habitats*. Only reach for it if the setting has sealed/closed-system cultures; otherwise skip.
 - **`memetic-depth`** — a few things in the world can stay unexplained. Write them as ordinary sentences. The rule is **Plain prose** in `00 - Core/Meta/Conventions.md`. Do not put "inscrutable," "leave it," or "20%" in a setting note, and do not write riddles. `oblique-worldbuilding` is for an in-world document with a limited viewpoint, not for the narrator of a reference note.
