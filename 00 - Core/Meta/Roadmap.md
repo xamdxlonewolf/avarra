@@ -45,6 +45,8 @@ updated: 2026-10-02
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
 | **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.14 done |
 | **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.5 done; next is L.6 |
+| **S** | [[#Epic S — The other seats]] | The twelve powers whose seats were left unnamed. A city, a town, or a recorded refusal. Maps of those places wait on this | Med | 🟡 queued; not opened |
+| **M** | [[#Epic M — Town sheets and the new seats]] | Sheets for squares that already have streets, then sheets for whatever S seats. Does not reopen A.1–A.14 | Low | 🟡 queued; M.3 waits on S |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -676,7 +678,7 @@ Two city sheets, from the layout already written in L.5. It does not reopen A.1�
 
 > **Empty folders are a mixed signal.** Some headings have no notes because the work was never done. Many others are empty because the note already lives in the parent folder or in another section. One canonical home per entity ([[Conventions]]). Link. Do not duplicate. Do not move a note just so a sidebar looks full.
 
-> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Give witness-lands or Kumbaan a surname. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Write a reliable pre-Cut year-chronicle, or treat C.Y. 0 as the birthday of Conditions. Set a power in the storm-wall to block the household. Name the twelve stub seats by default. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
+> **Do not.** Invent a fourth mainland language, unfreeze liturgical coinage, or write a grammar nobody speaks. Give witness-lands or Kumbaan a surname. Turn stock ancestries into nations. Add a fourth body-licence. Invent planes. Name the cutter. Date the Tree. Lock the nature of her limit. Add a sixteenth power. Put a graft on Kumbaan. Write a reliable pre-Cut year-chronicle, or treat C.Y. 0 as the birthday of Conditions. Set a power in the storm-wall to block the household. Name the twelve stub seats during L; that pass is [[#Epic S — The other seats]]. Fill every village. Write the campaign. Rebuild the Epic 8 roster. Move [[Conditions]] out of `09 - Creatures/Conditions`. Update the world book unless asked.
 
 ### Where the ask lands
 
@@ -779,6 +781,42 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 
 > **L.5 done (2026-10-02).** The spur stops at [[Nelath]]. Next session may open L.6. This pass did not. L.6–L.9 stay coarse.
 
+---
+
+## Epic S — The other seats
+**Skill:** `story-sense` → `settlement-design`, `governance-systems`, `memetic-depth` · **Status:** 🟡 **queued 2026-10-02.** Not opened. Stories stay coarse until L.6–L.9 are done, unless the user opens S sooner. **Blast radius:** Med.
+
+> The fifteen already exist on [[Powers of the Turning]]. Three seats are named: [[Maiethlir]] (city), [[Orentel]] (city), [[Eolvaeth]] (town). The other twelve were left unnamed on purpose, so a paragraph would not invent a capital. This epic is the pass that names a place or records the refusal. Beneath them the world still swarms. This epic does not census that swarm.
+
+> **Do not.** Add a sixteenth power. Put a graft on Kumbaan. Capture the First Seat. Promote the [[The Walled Book|Inner Close]] to a capital or move it out of [[Orenbren]]. Give [[Brenledd]] a throne-city. Make [[Harrow's Green]], [[Ornsael]], [[The Mill-hold]], [[Nelath]], or [[The First Bowl]] into a capital to tidy a stub. Date the Tree. Name the cutter. Staff every new seat with a cast. Update the world book unless asked. Draw the sheets here; that is Epic M.
+
+### Story S.1 — Maiethorn's unnamed seats
+[[Maiethvael]], [[Orenbren]], [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's refusal is already half-written: the compact has no capital, and the Inner Close stays a walled town inside it. Enough street for a later sheet: approaches, the Hand if the place has one, one tension. No capital star. The First Seat stays in the wood.
+
+### Story S.2 — Strandoren's unnamed seats
+[[Brenledd]], [[Leddvael]], [[Trenledd]], [[Netstrand]]. Brenledd stays a league: name charter-towns, not a throne. The others get a city or a town only if the note can say why that place is the one a stranger means. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
+
+### Story S.3 — Heskoren's unnamed seats
+[[Ornled]], [[Vaelhesk]], [[Saelvaeth]]. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
+
+---
+
+## Epic M — Town sheets and the new seats
+**Skill:** `settlement-design` · **Status:** 🟡 **queued 2026-10-02.** Not opened. **Blast radius:** Low.
+
+> Paintings follow notes. If a painting and a note disagree, the note wins. New sheets, not crops of the regional masters. Do not relabel Sacred Core, Chart-run, Old Crossing, or the continent masters with these names. The image model does not write. Pillow labels from the notes. Record each sheet on [[The Atlas Sheets]]. Unlabeled Prototype 3 sheets stay the regional handouts. A civic Hand is a broad dark hardwood filling its square, not the First Hand, and not a glow. Thaeloren remains the only exceptional canopy. No capital star. No world book unless asked.
+
+> **Order.** M.1 and M.2 use squares that already have streets. They may open before Epic S. M.3 waits until S has named or refused the place. A refusal gets no city plate.
+
+### Story M.1 — Details the two cities still lack
+[[Orentel]]: a pier sheet of the First Quay, the Third, and the White Note, with the Rise left off it so the Tree stays inland. [[Maiethlir]]: the Grove Bank as a road view, the wood a dark behind the gate, the First Seat unnamed. Do not redraw the city plates or the heart and Rise sheets unless a note has changed.
+
+### Story M.2 — Towns and squares already seated
+One sheet each, at the size the note already claims. [[The Walled Book|Inner Close]]: a walled town one day from Thaeloren, the wood beyond the wall, not a city and not the college. [[Eolvaeth]]: a town in the waiting vale, not a city. [[Harrow's Green]]: the live-front square. [[The Mill-hold]]: a sick Hand, the canopy visibly wrong. [[Ornsael]]: a Tree beside the well. [[Nelath]]: the road ends at the boughs. [[Ndenjoo]]: the Feeding Hill, and no Tree.
+
+### Story M.3 — Sheets for whatever S seats
+After S.1–S.3. A city gets a city plate and, if the plate cannot hold the tension, one closer sheet of the same place. A town gets a town sheet. A league gets the charter-town S named, not a capital. A refusal gets nothing. Same rules as M.1: new paintings, notes win, no text from the image model, no capital star, regional handouts untouched.
+
 > **L.4 done (2026-10-01).** The room can say a second name. Next session may open L.5. This pass did not. L.5–L.9 stay coarse.
 
 > **L.3 done (2026-10-01).** The year has a street. Next session may open L.4. This pass did not. L.4–L.9 stay coarse.
@@ -794,6 +832,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
 - **Epic L — The lived world:** 29 / 29 tasks of L.1–L.5 (100%) 🟡 **L.5 done 2026-10-02.** Next is L.6. Stories L.6–L.9 stay coarse until L.6 is opened. Diagnosis: voices, then faces, then customs, then the names in the room, then a street. Empty folders are not a fill-list. World book untouched.
+- **Epic S — The other seats:** queued 2026-10-02. Stories S.1–S.3, undecomposed. Not opened. The twelve unnamed powers get a city, a town, or a refusal. Does not run during L.6 unless asked.
+- **Epic M — Town sheets and the new seats:** queued 2026-10-02. Stories M.1–M.3, undecomposed. Not opened. M.1–M.2 may open before S. M.3 waits on S. Does not reopen A.1–A.14.
 - **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** 5 / 5 of A.14 (100%) ✅ **2026-10-02.** Overlay queue closed. City sheets for [[Maiethlir]] and [[Orentel]] are in. Does not reopen A.1–A.13. [[Eolvaeth]] has no city sheet. L.6 was not opened. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
@@ -831,6 +871,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 - [[The Other Count]] — Story R.9 hub · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
-- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A closed (A.1–A.14, 2026-10-02). City sheets: [[Maiethlir]] · [[Orentel]]. Unlabeled Prototype 3 sheets stay the regional handouts. Next lived-world story is L.6; it was not opened with the sheets.
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A closed (A.1–A.14, 2026-10-02). City sheets: [[Maiethlir]] · [[Orentel]]. Unlabeled Prototype 3 sheets stay the regional handouts. Further sheets are Epic M. Next lived-world story is L.6; it was not opened with the sheets.
+- Epic S — the other seats. Queued 2026-10-02. S.1 Maiethorn · S.2 Strandoren · S.3 Heskoren. Not opened.
+- Epic M — town sheets and the new seats. Queued 2026-10-02. M.1 city details · M.2 seated towns · M.3 after S. Not opened.
 - Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. **L.5 done 2026-10-02** → [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]] · [[The Down-Bank]] · [[The Sky from the Ground]] · [[Planes]]. Next: Story L.6.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
