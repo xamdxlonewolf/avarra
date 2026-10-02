@@ -9,14 +9,14 @@ aliases: [Kind Distribution, Ancestry Map, The Hearths, Where Kinds Live]
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-09-28
+updated: 2026-10-02
 ---
 
 # Kinds of the Turning
 
 > **What this is.** How **Kinds** (born ancestries) sit on the map of **The Turning**. This is the load-bearing [[Roadmap|Story 4.2]] note: it fixes the *distribution rule* so later settlements and casts don't accidentally turn each Kind into a country. Naming — how a person *sounds* — lives in [[Naming People in the Turning]]. Table rulings (Hearth-Mark, Mixed Ancestry, the one surprise keyword) live in [[Kind Heritage]]. The four custom ancestries themselves are already locked ([[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]); this note does not rebuild them.
 
-> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. **Story R.3 (2026-08-30):** the other kitchen; Mixed Ancestry allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). Town-level pockets stay free for Epic 7. Table rulings → [[Kind Heritage]].
+> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. **Story R.3 (2026-08-30):** the other kitchen; Mixed Ancestry allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind. **Story L.6 (2026-10-02):** stock hearth-glances — where a group is dense, one kitchen, what they do not own. No new features. No Kind-nations. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). A thicker stock pocket is a town fact. Table rulings → [[Kind Heritage]].
 
 ## The rule
 
@@ -120,24 +120,112 @@ Condition arrives on its own clock. A mixed-Kind child Turns, or is Kept, or is 
 
 ## Stock ancestries (the other eighteen)
 
-Daggerheart's stock set ([[Build Plan|Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah]]) lives **everywhere the Trees do**. They are not assigned continents. A few *leans* — evolved, not designed — keep the map from feeling like a grey slurry:
+Daggerheart's stock set ([[Build Plan|Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah]]) lives **everywhere the Trees do**. They are not assigned continents. A few *leans* — evolved, not designed — keep the map from feeling like a grey slurry. The glances below are those leans, and a place at the table for the stock the leans had not yet named.
 
-- Water-born stock (Ribbet, Galapa, some Seaborne communities) cluster on the same coasts as Selkies, and are *not* Selkies: Ribbet breathe the deep; Selkies hold their breath and cannot be kept.
-- Height-and-wild stock (Giant, some Ridgeborne / Wildborne) show thicker on [[Heskoren]]'s uplands, beside Tengu ridges, not instead of them.
-- Old-wood stock (Elf, Faerie, Fungril, Firbolg) show thicker in [[Maiethorn]]'s Motherwood, beside Wilds-fox hearths.
-- **Infernis** are *born* demon-blooded. They are not [[Bound]]. The contrast is the point; do not seat them as a Bound-underclass or a Bound-homeland.
-- **Halfling / Faerie** are not [[Yumboe]]. Small-and-flight and small-and-lucky stay their own lanes; the good people are isle, moon, and unseen hands.
-
-Leans are **not rules.** A Ribbet judge in inland Threnmaieth is fine. A Giant Lestrand banker is fine. If a later settlement wants a thicker pocket of one stock, that is a town fact, not a racial nation.
+**You are raised by a place, not by your ears.** Leans are **not rules.** A Ribbet judge in inland [[Polity Archetypes|Threnmaieth]] is ordinary. A Giant on a [[Polity Archetypes|Lestrand]] dock is ordinary. A Giant Lestrand banker is the same fact. A thicker pocket of one stock is a town fact. [[Raillath]], [[Denlad]], and [[Tunral]] are not anybody's villages. [[Maiethlir]] and [[Orentel]] are not anybody's cities.
 
 Humans are common, not a default the others deviate from. In this world there is no "human baseline" to marry away from — same logic [[Daily Life]] already locked for Conditions.
 
-Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place that raised them. That is how the two-feature roster stays playable beside the four customs. It is a place-phrase, not a lean turning into a nation.
+Stock-ancestry characters, and stock-and-stock mixes, take a [[Kind Heritage|Hearth-Mark]] from the place that raised them. That is how the two-feature roster stays playable beside the four customs. It is a place-phrase, not a lean turning into a nation. Mixed Ancestry and the one surprise keyword stay on [[Kind Heritage]]. The kitchens use the ordinary larder ([[Ecology of the Turning]]). A Kind does not grow its own staple.
+
+### The water-born
+
+**Ribbet, Galapa.**
+
+Water-born stock cluster on the same coasts as [[Selkie|Selkies]], and are not Selkies: [[Strandoren]]'s indented shore, [[Maiethorn]]'s western ports on the [[Named Ground|Old Crossing]], and, thinner, [[Heskoren]]'s wild coast. Ribbet breathe the deep. Selkies hold their breath and cannot be kept. Galapa share the quay with both. A Ribbet raised inland was raised by that town.
+
+**Kitchen.** Bread softened in fish broth, with seaweed or a cockle when the tide was kind. The pot sits where someone can hear the water.
+
+**What they do not own.** The coast, the Crossing, the deep, or the Selkie strand. Some Seaborne communities sit in the same weather. That is a community card, not a Kind ([[Kind Heritage]]).
+
+### Beside the ridges
+
+**Giant.**
+
+Height-and-wild stock show thicker on [[Heskoren]]'s uplands, beside [[Tengu]] ridges, not instead of them. The Giant is the ancestry in that lean. Some Ridgeborne and Wildborne communities share the weather. They are communities, not a Giant law ([[Kind Heritage]]). A Giant raised on a Lestrand dock was raised by the dock.
+
+**Kitchen.** Oat mash, dried peas, and cheese or smoked fish if the week had either. It is the upland pot. The perch is not a seat at it.
+
+**What they do not own.** The ridge, the wind, the high road, or the sky-courier's run. [[Maiethorn]]'s [[Named Ground|Rain-Wall]] is already a Tengu and Snows-fox hearth. A Giant on that road is a neighbour.
+
+### The old wood
+
+**Elf, Faerie, Fungril, Firbolg.**
+
+Old-wood stock show thicker in [[Maiethorn]]'s Motherwood, beside Wilds-fox hearths. The clearing is still mixed. [[Heskoren]]'s deep forests are Wilds-fox country too; an Elf there is a neighbour of that forest. The lean named here is the Motherwood.
+
+Faerie are small-and-flight. They are not [[Yumboe]]. Small-and-flight and small-and-lucky stay their own lanes. The good people are isle, moon, and unseen hands. A wing in the Motherwood is a person the town already knows.
+
+**Kitchen.** Oat pottage with dried peas, and mushrooms when the week was wet. It is started for whoever is already in the clearing, fox-born included.
+
+> **Inscrutable (leave it).** Fungril households set a spoonful of that pottage aside and do not say for whom. Do not add a feature. Let the spoon sit.
+
+**What they do not own.** The Motherwood, the graft, the Wilds hearth, the air, or [[The Sundering Isle|Kumbaan]].
+
+### Hedgerow and herd
+
+**Faun, Halfling.**
+
+Thicker on the farmed edges — Mother-core pastures, the [[Named Ground|Chart-run]] plain, the vales under Heskoren's spines — where a hedge and a herd already feed a town. A thicker pocket in a village that already has a name is a town fact.
+
+Halfling are small-and-lucky. They are not [[Yumboe]].
+
+**Kitchen.** Cabbage cooked in the morning's milk, eaten in the yard before the herd is let through. It is a habit of that house. It is not [[The Guest-Meal]].
+
+**What they do not own.** The field, the herd, luck, the small, or the isle.
+
+### Loft, mast, and canopy
+
+**Katari, Simiah.**
+
+Thicker where a place already has an up: the Motherwood canopy, the rigging on [[Strandoren]], the lofts over a market or a drying floor. They sit beside the old wood and the quays. The town below is still mixed.
+
+**Kitchen.** A late handful of what the house already cooked — hazel nuts, or the cold fish — taken in the loft, on the mast, or on the branch. The town's supper is still at the table.
+
+**What they do not own.** The canopy, the mast, the night, or the market.
+
+### The warm bench
+
+**Clank, Dwarf, Goblin, Drakona.**
+
+Thicker where a town already mends things: a flood-wall, a hull, a mill, a drying loft, the foot of a road that already climbs to a perch. [[Maiethlir]] and [[Orentel]] have that work. The work does not become their quarter. Drakona are a little easier to find where a household keeps a fire in the work from morning to dark. Ember-Answered among them is a common lean. Ember is not a Drakona chapter ([[The Element-Guilds]]).
+
+**Kitchen.** Bread and beans at the bench while it is still warm from the work. The heat is borrowed from the job.
+
+**What they do not own.** The wall, the quay, the mill, the forge, [[The Element-Guilds|Ember]], or the stone under a Tengu ridge. Faiths and guilds still recruit by Condition, faith, and office. There is no guild of ears.
+
+### The carrying yard
+
+**Orc.**
+
+Thicker where the day's work is a lift: thaw-roads, the landings of the Salt Walk, dock-gangs, the hauling on a live front. Other Kinds do the same lifting. A crew that is mostly Orc is a town fact. The town is still mixed.
+
+**Kitchen.** A pot of peas, with smoked fish if the road met a quay, eaten in the yard while the cart is still hitched.
+
+**What they do not own.** The road, the ford, the watch, or a war.
+
+### Human
+
+Humans are common on every Tree-continent, and no thicker on one of them than on another. A human-heavy street is a street that happened. They are not the body the others are measured against ([[Daily Life]]).
+
+**Kitchen.** They cook what the town cooks. The pot is the place's pot.
+
+**What they do not own.** The ordinary, the measure of any other Kind, or a human seat.
+
+### Born to the blood
+
+**Infernis.**
+
+Infernis are *born* demon-blooded. They are not [[Bound]]. The contrast is the point. They have no terrain lean and no contract-country. They are born wherever the Trees are. A street with more of them is a family that stayed. That is a town fact. An Infernis who swears is Bound like anyone else. The blood is Kind. The contract is Condition ([[At the Table]]).
+
+**Kitchen.** They eat the house's pot and pass it the way the house passes it. No extra bowl is set for the blood.
+
+**What they do not own.** The contract, Bound, or a homeland.
 
 ## What this does to later work
 
 - **[[Roadmap|Epic 5]] factions** recruit by Condition, guild, and faith, not by Kind. A tree-warden order that was "Kitsune-only" would be a smell.
-- **[[Roadmap|Epic 7]] settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind. [[Ornsael]] is the worked example: fox-market by the well, mixed Kinds, no gate.
+- **[[Roadmap|Epic 7]] settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind. [[Ornsael]] is the worked example: fox-market by the well, mixed Kinds, no gate. A stock pocket is the same kind of fact: a creek, a street, a crew. The town stays mixed. The pocket does not become a seat, a guild, or a feature.
 - **[[Roadmap|Epic 8]] people** get a Kind (including a mainland mix), a Condition or Kept, and a *place*. The place names them; see [[Naming People in the Turning]]. A mixed-Kind childhood is a kitchen question, not a tragic half-blood plot. [[Yumboe]] stay GM-leave and whole.
 - **Table rules** for feature count, Mixed Ancestry, and the Hearth-Mark → [[Kind Heritage]].
 
@@ -147,7 +235,8 @@ Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place th
 - [[Maiethorn]] (Rain-Shadow, Motherwood, Rain-Wall) · [[Strandoren]] (Selkie coasts) · [[Heskoren]] (ridges, wild woods) · [[The Sundering Isle]] · [[Named Ground]]
 - [[Naming People in the Turning]] · [[Naming in the Turning]] · [[Daily Life]]
 - [[Kind Heritage]] — Hearth-Mark, Mixed Ancestry, one surprise keyword
-- [[Roadmap]] (Story 4.2; Story R.3) · [[03 - Cultures]]
+- [[Ecology of the Turning]] — the larder these kitchens use · [[The Element-Guilds]] · [[Bound]] · [[At the Table]]
+- [[Roadmap]] (Story 4.2; Story R.3; Story L.6) · [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
@@ -156,4 +245,5 @@ Stock-ancestry characters take a [[Kind Heritage|Hearth-Mark]] from the place th
 - **Do not grow Kind-nations later.** If Epic 7 wants a "fox principality," make it a Rain-Shadow *polity* that happens to be Fox-dense, running on the same theology/reach/governance axes as everyone else. The moment a government is *for* a Kind, the two-layer model has started to rot.
 - **The lost fourth Fox is a grandmother, not a plot coupon.** If you ever spend it, spend it as folklore that stayed when a hearth died (a vanished dry-lake, a wood that was cut) — not as a secret ancestry feature waiting in a drawer.
 - **The other kitchen is not a faction.** If a later pass builds "the fox-summer office," it has become a Kind-nation in a summer hat. Keep it families, couriers, and a grandmother who does the summers.
+- **L.6 glances stay in this note.** Nine groups, not eighteen countries. Do not file a Kind-nation note beside them. Do not charter the warm bench. Infernis stay born, and stay off any Bound homeland. A Ribbet inland and a Giant on a Lestrand dock stay ordinary. Do not move Hearth-Mark, Mixed Ancestry, or the surprise keyword off [[Kind Heritage]].
 - **Mainland Mixed Ancestry is the SRD rule.** Do not walk it back to one-Kind-unless-asked. [[Yumboe]] stay GM-leave and the full Kind; do not invent a blood-purity sermon to justify it.

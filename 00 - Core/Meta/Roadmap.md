@@ -44,7 +44,7 @@ updated: 2026-10-02
 | **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; later undecomposed |
 | **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
 | **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.14 done |
-| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.5 done; next is L.6 |
+| **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | 🟡 L.6 done; next is L.7 |
 | **S** | [[#Epic S — The other seats]] | The twelve powers whose seats were left unnamed. A city, a town, or a recorded refusal. Maps of those places wait on this | Med | 🟡 queued; not opened |
 | **M** | [[#Epic M — Town sheets and the new seats]] | Sheets for squares that already have streets, then sheets for whatever S seats. Does not reopen A.1–A.14 | Low | 🟡 queued; M.3 waits on S |
 
@@ -672,7 +672,7 @@ Two city sheets, from the layout already written in L.5. It does not reopen A.1�
 ---
 
 ## Epic L — The lived world
-**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **L.5 done 2026-10-02.** Next work is Story L.6. L.6–L.9 stay coarse until that story is opened. **Blast radius:** Med.
+**Skill:** `story-sense` → `memetic-depth`, `dialogue`, `language-evolution`, `character-arc`, `belief-systems` · **Status:** 🟡 **L.6 done 2026-10-02.** Next work is Story L.7. L.7–L.9 stay coarse until that story is opened. **Blast radius:** Med.
 
 > **Diagnosis (2026-09-28).** Pass one is built, the contradiction log is empty, and the world still feels designed. `story-sense` reads this as a world without life: history is a list of events with nobody in them, and culture is law and economy with one mouth. `worldbuilding` reads the same gap as institutions without faces and culture without depth. The fix is voices, then the dead, then what the living still do. It is not a second gazetteer.
 
@@ -689,7 +689,7 @@ Two city sheets, from the layout already written in L.5. It does not reopen A.1�
 | Customs, traditions, rituals, mythology folders, religious history | **L.3** ✅ | [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]] · [[Daily Life]] |
 | Second names on the cast; leaders; living arguments | **L.4** ✅ | [[People of the Turning]] · the NPC notes · [[Leaders]] · [[Heroes and Villains]] · byname or house-name by raising-place, locked 2026-09-28 |
 | Continents, regions, city layouts, the road-end town, a few villages and sites, sky, phenomena, archaeology | **L.5** ✅ | Continents in `01 - World/Geography` · [[Named Ground]] · [[Maiethlir]] · [[Orentel]] · [[Settlement Seeds]] · [[The Reckoning of the Year]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] |
-| The other Daggerheart ancestries | **L.6** | [[Kinds of the Turning]] (hearths, not nations) · [[Kind Heritage]] |
+| The other Daggerheart ancestries | **L.6** ✅ | [[Kinds of the Turning]] (hearths, not nations) · [[Kind Heritage]] |
 | Criminal houses, more fellowships, the watch, movements | **L.7** | [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]] · three licence guilds · the watch in [[Law and Citizenship]] |
 | Magic, beasts, constructs, artifacts, secrets folders | **L.8** | [[Conditions]] · five adversaries · [[The Spent Leaf]] · [[The Closed Lamp]] · [[Revelation Architecture]] · [[Reveal Index]] |
 | Sidebar honesty and old atlas leftovers | **L.9** | After the notes exist. Prototype 3 masters and labeled overlays stay |
@@ -753,8 +753,16 @@ Selective. [[Settlement Seeds]] is the catalog of leftover *types*. The lead tha
 
 > **L.5 recorded decisions (2026-10-02).** `story-sense`: Harrow's already says the square is the last mile while a cart-track continues to the ford; the Mill-hold says the road ended at the boughs while the Mile continues grove-ward. Seating either again would be a second copy. [[Nelath]] is a spur off the Near Mile, a day short of the Third Hearth, that stops. The scar is thorns and a ditch, not a green lane. Orenbren's seat stays unnamed. The First Seat stays in the wood. Eolvaeth was not given wards. Maiethlir's tension is the Loft Row. Orentel's is the Drop. The Down-Bank is the days after Maiethlir's Down Gate and before a hull is classified; Maiethvael's seat stays unnamed and unlistable. Draws, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Nelath** position 34, **Raetoth** position 9, **Lithsur** position 30, **Raillath** position 25, **Lonteith** position 22, **Nurreith** position 14. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register eroded --count 40` — **Denlad** position 4, **Relmun** position 10. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register worn --count 40` — **Tunral** position 7, **Huval** position 2. Thrown back from those fields: distance-2 collisions (Nulol, Tairol, Maiseoth, Mimae, Taemeon, Lirrei, Dirto, Sonral, Bonti, Daded, Motel, Sati, Benrad, Niren, Sirse, Nolol, Vuren, Lirvei, Taeril, Loltir, Narat) and ear-collisions or English stems (Thaeval, Neilsur, Seonmith, Sainral, Rairin, Voseil, Virmeil, Rulrat, Tailreth, Breintae) plus the th-stacks that will not be said at a table. Given names only. No house-names. No person-list for Maiethvael, the Waiting Lands, or Kumbaan. World book untouched.
 
-### Story L.6 — The other hearths
-The stock Daggerheart ancestries get a **hearth-glance**: where they are dense, one kitchen habit, what they do not own. Group them. No new features. No Kind-nations. The four custom Kinds stay as written. Mechanics stay on [[Kind Heritage]].
+### Story L.6 — The other hearths ✅ **DONE (2026-10-02)**
+The stock Daggerheart ancestries get a **hearth-glance**: where they are dense, one kitchen habit, what they do not own. Group them. No new features. No Kind-nations. The four custom Kinds stay as written. Mechanics stay on [[Kind Heritage]]. Skills: `memetic-depth`.
+
+- [x] Keep the leans already on [[Kinds of the Turning]] and write them as glances. Water-born (Ribbet, Galapa) on the Selkie coasts, and not Selkies. Height-and-wild (Giant, beside some Ridgeborne / Wildborne communities) on Heskoren's uplands, beside Tengu ridges. Old-wood (Elf, Faerie, Fungril, Firbolg) in the Motherwood, beside Wilds-fox hearths.
+- [x] Group the rest, still as hearths: hedgerow and herd (Faun, Halfling); loft, mast, and canopy (Katari, Simiah); the warm bench (Clank, Dwarf, Goblin, Drakona); the carrying yard (Orc); Human; Infernis. All eighteen named. No eighteen nations. No country each.
+- [x] For each group: where they are dense, one kitchen from the ordinary larder, and what they do not own. Humans common, not a baseline. Infernis born demon-blooded, not [[Bound]], no homeland. Halfling and Faerie not [[Yumboe]]. A thicker pocket is a town fact. A Ribbet inland and a Giant on a Lestrand dock stay ordinary.
+- [x] Link [[Kind Heritage]]. Do not add features. Do not move Hearth-Mark, Mixed Ancestry, or the surprise keyword. The four custom Kinds stay as written.
+- [x] Do not create a Kind-nation note, a fox-summer office, or a guild that recruits by ears. Do not rename the cast. Do not seat the twelve unnamed powers. Do not update the world book. Do not open L.7, Epic S, or Epic M.
+
+> **L.6 recorded decisions (2026-10-02).** Glances live in [[Kinds of the Turning]], not in a new note. Nine groups: water-born (Ribbet, Galapa); beside the ridges (Giant); old wood (Elf, Faerie, Fungril, Firbolg); hedgerow and herd (Faun, Halfling); loft, mast, and canopy (Katari, Simiah); the warm bench (Clank, Dwarf, Goblin, Drakona); the carrying yard (Orc); Human; born to the blood (Infernis). Kitchens are the place's larder ([[Ecology of the Turning]]). One spoonful in a Fungril house is left unglossed. Ember stays a lean, not a Drakona chapter. Hearth-Mark, Mixed Ancestry, and the surprise keyword stay on [[Kind Heritage]]. World book untouched. L.7 not opened.
 
 ### Story L.7 — Fellowships, the watch, and movements
 [[The Slide]], [[The Holding Desk]], and [[The Standing Trade]] are the criminal layer already. Rehome or index them under `05 - Factions/Criminal`. Do not invent a fourth syndicate. [[The Protectors]] stay a public care with the harvest behind the wall, not a street gang.
@@ -780,6 +788,8 @@ Secrets: point [[Revelation Architecture]] and [[Reveal Index]] from Mysteries, 
 After L.1–L.8, empty folders that were decisions get a stub that says so, and leftovers get linked from the section MOCs. Archive or remove atlas prototypes 1 and 2 and the label-trial images. Keep the Prototype 3 masters, the labeled overlays, and the label scripts. World book untouched.
 
 > **L.5 done (2026-10-02).** The spur stops at [[Nelath]]. Next session may open L.6. This pass did not. L.6–L.9 stay coarse.
+
+> **L.6 done (2026-10-02).** Stock hearth-glances are in [[Kinds of the Turning]]. Next session may open L.7. This pass did not. L.7–L.9 stay coarse. Epic S and Epic M were not opened.
 
 ---
 
@@ -831,8 +841,8 @@ After S.1–S.3. A city gets a city plate and, if the plate cannot hold the tens
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic L — The lived world:** 29 / 29 tasks of L.1–L.5 (100%) 🟡 **L.5 done 2026-10-02.** Next is L.6. Stories L.6–L.9 stay coarse until L.6 is opened. Diagnosis: voices, then faces, then customs, then the names in the room, then a street. Empty folders are not a fill-list. World book untouched.
-- **Epic S — The other seats:** queued 2026-10-02. Stories S.1–S.3, undecomposed. Not opened. The twelve unnamed powers get a city, a town, or a refusal. Does not run during L.6 unless asked.
+- **Epic L — The lived world:** 34 / 34 tasks of L.1–L.6 (100%) 🟡 **L.6 done 2026-10-02.** Next is L.7. Stories L.7–L.9 stay coarse until L.7 is opened. Diagnosis: voices, then faces, then customs, then the names in the room, then a street, then the other hearths. Empty folders are not a fill-list. World book untouched.
+- **Epic S — The other seats:** queued 2026-10-02. Stories S.1–S.3, undecomposed. Not opened. The twelve unnamed powers get a city, a town, or a refusal. Does not run during L.7 unless asked. L.6 did not open it.
 - **Epic M — Town sheets and the new seats:** queued 2026-10-02. Stories M.1–M.3, undecomposed. Not opened. M.1–M.2 may open before S. M.3 waits on S. Does not reopen A.1–A.14.
 - **Epic A — Atlas labels:** 5 / 5 of A.1 (100%) ✅ **2026-09-01.** 4 / 4 of A.2 (100%) ✅ **2026-09-03.** 4 / 4 of A.3 (100%) ✅ **2026-09-16.** 4 / 4 of A.4 (100%) ✅ **2026-09-16.** 4 / 4 of A.5 (100%) ✅ **2026-09-16.** 5 / 5 of A.6 (100%) ✅ **2026-09-16.** 4 / 4 of A.7 (100%) ✅ **2026-09-16.** 5 / 5 of A.8 (100%) ✅ **2026-09-16.** 5 / 5 of A.9 (100%) ✅ **2026-09-17.** 5 / 5 of A.10 (100%) ✅ **2026-09-17.** 5 / 5 of A.11 (100%) ✅ **2026-09-17.** 5 / 5 of A.12 (100%) ✅ **2026-09-19.** 5 / 5 of A.13 (100%) ✅ **2026-09-19.** 5 / 5 of A.14 (100%) ✅ **2026-10-02.** Overlay queue closed. City sheets for [[Maiethlir]] and [[Orentel]] are in. Does not reopen A.1–A.13. [[Eolvaeth]] has no city sheet. L.6 was not opened. World book untouched.
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
@@ -871,8 +881,8 @@ After S.1–S.3. A city gets a city plate and, if the plate cannot hold the tens
 - [[The Other Count]] — Story R.9 hub · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
 - [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
-- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A closed (A.1–A.14, 2026-10-02). City sheets: [[Maiethlir]] · [[Orentel]]. Unlabeled Prototype 3 sheets stay the regional handouts. Further sheets are Epic M. Next lived-world story is L.6; it was not opened with the sheets.
+- [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A closed (A.1–A.14, 2026-10-02). City sheets: [[Maiethlir]] · [[Orentel]]. Unlabeled Prototype 3 sheets stay the regional handouts. Further sheets are Epic M. L.6 was not opened with the sheets. Next lived-world story is L.7; it was not opened in the L.6 pass.
 - Epic S — the other seats. Queued 2026-10-02. S.1 Maiethorn · S.2 Strandoren · S.3 Heskoren. Not opened.
 - Epic M — town sheets and the new seats. Queued 2026-10-02. M.1 city details · M.2 seated towns · M.3 after S. Not opened.
-- Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. **L.5 done 2026-10-02** → [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]] · [[The Down-Bank]] · [[The Sky from the Ground]] · [[Planes]]. Next: Story L.6.
+- Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. **L.5 done 2026-10-02** → [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]] · [[The Down-Bank]] · [[The Sky from the Ground]] · [[Planes]]. **L.6 done 2026-10-02** → stock hearth-glances on [[Kinds of the Turning]]. Next: Story L.7. L.7 was not opened.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1

@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-01
+updated: 2026-10-02
 ---
 
 # 03 - Cultures
@@ -17,13 +17,13 @@ Peoples, languages, customs, traditions, social structures, and naming conventio
 <!-- Link notes in this section here as they are created. Aggregate; do not duplicate. -->
 
 ### Custom Kinds (born-ancestries unique to this world)
-- [[Kinds of the Turning]] — how Kinds sit on the map: **hearths, not nations**; the other kitchen; mixed-Kind children
+- [[Kinds of the Turning]] — how Kinds sit on the map: **hearths, not nations**; the other kitchen; mixed-Kind children; stock hearth-glances
 - [[Kind Heritage]] — Hearth-Mark, Mixed Ancestry, one surprise keyword
 - [[Kitsune]] — fox-born; three hearths (Wilds / Snows / Sands); locked, 3 features
 - [[Selkie]] — sea-born; coastal hearth; locked, 3 features
 - [[Tengu]] — mountain-born crow-folk; ridge hearth; locked, 3 features
 - [[Yumboe]] — the good people of [[The Sundering Isle|Kumbaan]]; mythic-rare off-isle; locked, 3 features
-- *(These sit alongside Daggerheart's 18 stock ancestries — see [[Build Plan]]. Stock PCs take a Hearth-Mark.)*
+- *(These sit alongside Daggerheart's 18 stock ancestries. Where a stock group is dense, the kitchen, and what they do not own, live on [[Kinds of the Turning]]. Stock PCs take a Hearth-Mark — [[Kind Heritage]].)*
 
 ### Social Structures
 - [[Law and Citizenship]] — the universal legal grammar of a world where 3 of 4 carry a Condition. Citizenship is *witnessed, not recorded* (a hearth saw you Turn; proof runs through vouching people, not papers); city witnessing by hearth-stand; road-word and the watch's three questions; crime ladder under the Inviolate Will; guild safety-tickets for hazardous *uses* (ticketable pool ≠ census). Polity variation on three independent axes (theology / reach / governance).
