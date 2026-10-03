@@ -42,8 +42,8 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # Open dirt against the left of the canopy.
-    halo_text(ink, (468, 410), "The Tree", place, TYPE, anchor="rm")
+    # On the lower trunk, in the dirt at the roots.
+    halo_text(ink, (552, 424), "The Tree", place, TYPE)
 
     # Open dirt against the right of the standing stone.
     halo_text(ink, (712, 410), "The stone", place, TYPE, anchor="lm")

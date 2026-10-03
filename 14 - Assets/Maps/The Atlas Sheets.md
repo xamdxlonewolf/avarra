@@ -356,7 +356,7 @@ A smaller square than the Mill-hold. A sound Hand. The spur comes in and becomes
 
 ![[Ndenjoo-Atlas.png]]
 
-A low ridge falling to the sand, and a hall under the turf. A few dozen hearths. Pasture and a standing-stone on the turf. A path down to the sand. No Tree. Rebuild with `label_ndenjoo.py`.
+A close piece of the slope, at village scale. The hill continues off the frame. A hall under the turf, a few dozen hearths, pasture, a standing-stone, and a path that leaves toward the sand. No Tree. Rebuild with `label_ndenjoo.py`.
 
 ![[Ndenjoo-Atlas-Labeled.png]]
 
@@ -370,7 +370,7 @@ A low ridge falling to the sand, and a hall under the turf. A few dozen hearths.
 
 **Nelath.** `Nelath-Atlas-Labeled.png` is a Pillow overlay on `Nelath-Atlas.png`. West is left. **The Tree** is a sound Hand. **The stone** is in the square. **The scar** is the ditch and thorns beyond the boughs, with no cart-track. The cistern is the drink and is not labeled. The Third Hearth, the Mill-hold, and the First Seat are not drawn. No capital star. Script: `label_nelath.py`.
 
-**Ndenjoo.** `Ndenjoo-Atlas-Labeled.png` is a Pillow overlay on `Ndenjoo-Atlas.png`. West is left. The hill is a low ridge falling to the sand. **The hall** is the lit turf door, with a short leader. The standing-stone, the path, and the sand stay unlabeled. Njunda is not labeled. No Tree, no dead trunk, no graft. The storm-wall stays weather. No capital star. Script: `label_ndenjoo.py`.
+**Ndenjoo.** `Ndenjoo-Atlas-Labeled.png` is a Pillow overlay on `Ndenjoo-Atlas.png`. West is left. The frame is a piece of the slope. The hill continues off the edges. **The hall** is the lit turf door. The standing-stone, the path, and the sand stay unlabeled. Njunda is not labeled. No Tree, no dead trunk, no graft. The storm-wall stays weather. No capital star. Script: `label_ndenjoo.py`.
 
 ## Epic M pointers — 2026-10-03
 

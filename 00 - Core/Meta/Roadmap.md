@@ -1043,7 +1043,7 @@ One sheet each, at the size the note already claims. [[Rothallo]] is [[The Walle
 >
 > **Nelath.** `Nelath-Atlas.png`, `label_nelath.py`. Labels: the Tree, the stone, the scar. The cistern is the drink and is not labeled. The Third Hearth, the Mill-hold, and the First Seat are not drawn.
 >
-> **Ndenjoo.** `Ndenjoo-Atlas.png`, `label_ndenjoo.py`. A low ridge falling to the sand. Label: the hall. Njunda is not labeled. No Tree, no dead trunk, no graft. The storm-wall stays weather. Harrow's Green and Nelath names sit against the features they name.
+> **Ndenjoo.** `Ndenjoo-Atlas.png`, `label_ndenjoo.py`. A close piece of the slope, at village scale. The hill continues off the frame. Label: the hall. Njunda is not labeled. No Tree, no dead trunk, no graft. The storm-wall stays weather. Harrow's Green and Nelath names sit on the features they name.
 
 ### Story M.3 — Sheets for whatever S seats
 After S.1–S.3. A city gets a city plate and, if the plate cannot hold the tension, one closer sheet of the same place. A town gets a town sheet. A league gets the charter-town S named, not a capital. A refusal gets nothing. Same rules as M.1: new paintings, notes win, no text from the image model, no capital star. These plates do not replace the pointers on the maps that already exist.

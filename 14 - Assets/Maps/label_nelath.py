@@ -46,8 +46,8 @@ def build() -> Image.Image:
     # Open dirt under the sound Hand.
     halo_text(ink, (560, 380), "The Tree", place, TYPE)
 
-    # Open dirt against the left face of the standing stone.
-    halo_text(ink, (418, 300), "The stone", place, TYPE, anchor="rm")
+    # Against the right face of the standing stone.
+    halo_text(ink, (472, 305), "The stone", place, TYPE, anchor="lm")
 
     # In the thorn ditch, clear of the last roofs and the cistern.
     halo_text(ink, (1090, 340), "The scar", place, TYPE)
