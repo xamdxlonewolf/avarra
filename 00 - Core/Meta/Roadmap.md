@@ -898,7 +898,9 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 >
 > **Answered (2026-10-03), the street.** When the notes are written, a city gets the ways in, the place the work happens, and one tension. A town gets the gate, the work, and one tension. No ward-grid. Vaelhesk gets no new street. The detail comes from notes already in the vault. It is not grilled place by place. The sheets wait for Epic M.
 >
-> **Answered (2026-10-03), mouths.** A new seat may have new people, on a scale. A capital has more than one. One of the largest cities has more than one. A large city has one. Towns and villages are skipped unless a person belongs there. The count at the top, and which smaller places get the one, is the next question. No person has been written.
+> **Answered (2026-10-03), mouths.** A new seat may have new people, on a scale. A capital has more than one. One of the largest cities has more than one. A large city has one. Towns and villages are skipped unless a person belongs there. No person has been written.
+>
+> **Answered (2026-10-03), 3, 2, 1.** Capitals get three new people. One of the largest cities gets two. A large city gets one. [[Rothallo]], [[Seinbrun]], and [[Raitin]] get three. [[Votaer]] gets two. [[Naenor]], [[Lunbra]], and [[Braetu]] get one. [[Larbril]] gets one, because it is the only city of that power. [[Natai]] gets one, because the town exists so someone can be blamed. The person at Lunbra is not the crown. That throat stays unnamed. [[Tasain]], [[Sanbreo]], [[Vaelhesk]], the six charter-towns, and the villages get no new person. Narol and Vathne stay the people already written. No person has been written yet.
 >
 > **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen.
 >
