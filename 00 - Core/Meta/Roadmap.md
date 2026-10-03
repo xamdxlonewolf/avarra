@@ -843,7 +843,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 
 > The fifteen already exist on [[Powers of the Turning]]. Three seats are named: [[Maiethlir]] (city), [[Orentel]] (city), [[Eolvaeth]] (town). The other twelve were left unnamed on purpose, so a paragraph would not invent a capital. This epic is the pass that names a place or records the refusal. Beneath them the world still swarms. This epic does not census that swarm.
 
-> **Do not.** Add a sixteenth power. Put a graft on Kumbaan. Capture the First Seat. Move the [[The Walled Book|Inner Close]] out of [[Orenbren]]. It is Orenbren's capital (S.0, 2026-10-03), with smaller towns and villages as needed. Give [[Brenledd]] a throne-city. Make [[Harrow's Green]], [[Ornsael]], [[The Mill-hold]], [[Nelath]], or [[The First Bowl]] into a capital to tidy a stub. Date the Tree. Name the cutter. Staff every new seat with a cast. Update the world book unless asked. Draw the sheets here; that is Epic M. Do not write a seat, a refusal, or a place-name in S.1–S.3 until Story S.0 is recorded.
+> **Do not.** Add a sixteenth power. Put a graft on Kumbaan. Capture the First Seat. Move the [[The Walled Book|Inner Close]] out of [[Orenbren]]. It is Orenbren's capital (S.0, 2026-10-03), with smaller towns and villages as needed, and it still needs a real place-name. [[Brenledd]] gets a throne-city (S.0, 2026-10-03). Make [[Harrow's Green]], [[Ornsael]], [[The Mill-hold]], [[Nelath]], or [[The First Bowl]] into a capital to tidy a stub. Date the Tree. Name the cutter. Staff every new seat with a cast. Update the world book unless asked. Draw the sheets here; that is Epic M. Do not write a seat or a place-name in S.1–S.3 until Story S.0 is recorded. Write ordinary sentences. Do not use "compact" for a league or a group of towns. Do not use "a stranger means."
 
 ### Story S.0 — Grill before seating
 `grill-me` on this epic, before any seat is written. One question at a time. Each question carries a recommended answer. A question the vault already answers is not asked again. Record the answers on this story. S.1 stays closed until the grill is finished.
@@ -859,12 +859,16 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 > **Answered (2026-10-03), Orenbren.** The [[The Walled Book|Inner Close]] is Orenbren's capital. Smaller towns and villages around it as needed. It stays inside Orenbren. No settlement note has been written yet.
 >
 > **Answered (2026-10-03), First Seat.** The First Seat stays in the wood. The Inner Close is the civic capital. One power, not a sixteenth. The wood is not crowned. The Close is not the college.
+>
+> **Answered (2026-10-03), Brenledd.** Brenledd gets a throne-city. The name is not chosen yet.
+>
+> **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen. The name is not chosen yet.
 
 ### Story S.1 — Maiethorn's unnamed seats
 [[Maiethvael]], [[Orenbren]], [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's capital is the [[The Walled Book|Inner Close]], still inside Orenbren, with smaller towns and villages as needed (S.0). Enough street for a later sheet: approaches, the Hand if the place has one, one tension. The First Seat stays in the wood (S.0).
 
 ### Story S.2 — Strandoren's unnamed seats
-[[Brenledd]], [[Leddvael]], [[Trenledd]], [[Netstrand]]. Brenledd stays a league: name charter-towns, not a throne. The others get a city or a town only if the note can say why that place is the one a stranger means. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
+[[Brenledd]], [[Leddvael]], [[Trenledd]], [[Netstrand]]. Brenledd gets a throne-city (S.0). The other three get a city, a town, a village, or a hamlet when the country needs one. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
 
 ### Story S.3 — Heskoren's unnamed seats
 [[Ornled]], [[Vaelhesk]], [[Saelvaeth]]. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
