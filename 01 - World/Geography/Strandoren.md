@@ -10,7 +10,7 @@ aliases: [The Shore-lands, The Trade Continent, The Crossroads, Strandor]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-30
+updated: 2026-10-03
 ---
 
 # Strandoren
@@ -45,7 +45,7 @@ How the wood got here is [[The First Cut]]: C.Y. 40–160, **by sea**, wealthy c
 ## Powers & Polities
 
 - **[[Polity Archetypes|Lestrand]] — the Ledger Coast** *(theology low · reach high · governance low)*. The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale, Tithe-provision as a *private market* (buy your green, your novelty, your outlet — and fade if you can't). The richest and coolest corner of the world. Seat: [[Orentel]] (Salt Quay; [[The White Note House]] placed, not crowned).
-- **The other four (named-stubs → [[Powers of the Turning]]).** [[Brenledd]] (the Hearth-League — many charters, one compact) · [[Leddvael]] (the Reckoned Gift — Fair Hand as civic rite; Book-hands still have no seat) · [[Trenledd]] (the Worn Count — a roll with the hymn worn off) · [[Netstrand]] (the Night Shore — West Water, Heskoren trade). Lestrand's capital is [[Orentel]] (Story 7.3).
+- **The other four.** [[Brenledd]] (the Hearth-League — the council sits at [[Raitin]]; the league stays a league of hearths) · [[Leddvael]] (the Reckoned Gift — the signing-watch sits at [[Naenor]]; the Book-Hands still have no seat) · [[Trenledd]] (the Worn Count — the roll is kept at [[Lunbra]]) · [[Netstrand]] (the Night Shore — the far crossing is quoted at [[Braetu]]). Lestrand's capital is [[Orentel]].
 
 ## Faith
 

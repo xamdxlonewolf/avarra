@@ -8,11 +8,11 @@ tags: [faction, government, polity, strandoren, epic-7]
 aliases: [The Worn Count, Trenled, Trenledd-folk, the Roll-Interior]
 world: The Turning
 category: government
-seat: unnamed
+seat: "[[Lunbra]]"
 public_face: a Tree-rich interior that keeps a roll of persons and will not call it holy
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Trenledd
@@ -28,6 +28,8 @@ Wealthy [[Strandoren]] interior: mature Trees, dense Given, guilds thick — and
 [[Polity Archetypes|Threnmaieth]] at least claims to keep you hale. Trenledd claims to keep you *findable*. Cutting you off is default, not impiety.
 
 **Site.** Tree-rich interior (not the deep thin interior — reach is high). Leftover: road-end Tree-towns that got *filed*; stones in squares with numbers on the back.
+
+**Seat.** [[Lunbra]] is the large city on the [[Named Ground|Chart-run]], four to eight days upriver of [[Orentel]], where the roll is kept. It is wealthy, and it shows the money. People go there because a family already has it, or because they want it. Towns and villages through the filed country stay unnamed. The governing throat stays unnamed. [[Vamar]] keeps a column. Vamar is not that throat.
 
 **How it formed.** Guild-tickets plus deathless memory plus a council that distrusted living witness the way Threnmaieth does, without Threnmaieth's scripture. [[The Grey Summer]] added the column that would not stop: **Dirrol** wrote *who is still alive to be found.* The three pillars work here and are treated as *insufficient* — feeling, word, and memory answer to themselves. A ledger answers to the desk. Evolutionary, not a coup: each crisis added a column.
 
@@ -49,9 +51,9 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 - Named-stub for [[Roadmap|Story 7.1]].
 - Do not flesh districts.
 - Do not give them a Threnhael by another name without noticing the difference.
-- **Canon status.** 🟡 **Named stub.**
+- **Canon status.** 🟡 **Named stub, seated.**
 - Seed `20260827`.
-- Seat stays unnamed (three corner seats already named).
+- Seat is [[Lunbra]]. The governing throat stays unnamed. Do not make Vamar, or Dirrol, that throat. Do not census the filed country.
 
 - **Colder, not kinder.** Removing the hymn does not make the list care for the people on it.
 - **Etymology tell.** *Thren* → *Tren* is GM-legible. Reserve noticing.
@@ -59,7 +61,7 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 - **Hooks.** Steal a roll that is not called sacred; a family whose private Turning was ticketed; a Long-Lived clerk who remembers the column that was added; a Lestrand factor who will not enter because they do not wish to be written.
 
 ## Links
-- [[Powers of the Turning]] · [[Strandoren]] · [[Polity Archetypes]]
+- [[Powers of the Turning]] · [[Strandoren]] · [[Lunbra]] · [[Polity Archetypes]]
 - [[Law and Citizenship]] · [[Naming in the Turning]] · [[The Old Tongue]]
 - [[The Grey Summer]] · [[The Hinge Hush]] · [[The Other Count]]
 - [[Roadmap]] (Story 7.1; history R.9)

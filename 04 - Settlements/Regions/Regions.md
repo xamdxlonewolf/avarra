@@ -9,14 +9,14 @@ aliases: [Settlement Regions]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Regions
 
 An index. The ground's names live on [[Named Ground]]. The fifteen powers live on [[Powers of the Turning]]. This page points at both and adds one stretch that was only a duration: [[The Down-Bank]], between [[Maiethlir]] and [[The Hinge Shore]].
 
-Stub seats stay unnamed. [[Nelath]] is a town on a spur that had no mouth. It is not a seat. The twelve unnamed seats of the fifteen are not staffed here.
+Maiethorn's seats and Strandoren's seats are named. Heskoren's three are not, except [[Eolvaeth]], which was already Vaethorn's town. [[Nelath]] is a town on a spur that had no mouth. It is not a seat. This index does not staff a court.
 
 ## Named ground
 
@@ -34,21 +34,21 @@ Stub seats stay unnamed. [[Nelath]] is a town on a spur that had no mouth. It is
 
 ## The fifteen
 
-Three seats are named. The other twelve stay unnamed. A square in a power's orbit is not that power's crown.
+A square in a power's orbit is not that power's crown.
 
 | Power | Continent | Seat |
 |---|---|---|
 | [[Polity Archetypes\|Threnmaieth]] | [[Maiethorn]] | [[Maiethlir]] |
-| [[Maiethvael]] | Maiethorn | unnamed |
-| [[Orenbren]] | Maiethorn | unnamed. [[Nelath]] is a spur-town, not this crown |
-| [[Saelthael]] | Maiethorn | unnamed. [[Ornsael]] is not a capital |
-| [[The Hinge Shore]] | Maiethorn | unnamed |
-| [[Lirorn]] | Maiethorn | unnamed |
+| [[Maiethvael]] | Maiethorn | [[Seinbrun]] |
+| [[Orenbren]] | Maiethorn | [[Rothallo]], still called the Inner Close. [[Nelath]] is a spur-town, not this crown |
+| [[Saelthael]] | Maiethorn | [[Larbril]]. [[Ornsael]] is not a capital |
+| [[The Hinge Shore]] | Maiethorn | [[Votaer]] |
+| [[Lirorn]] | Maiethorn | [[Tasain]] |
 | [[Polity Archetypes\|Lestrand]] | [[Strandoren]] | [[Orentel]] |
-| [[Brenledd]] | Strandoren | unnamed |
-| [[Leddvael]] | Strandoren | unnamed |
-| [[Trenledd]] | Strandoren | unnamed |
-| [[Netstrand]] | Strandoren | unnamed |
+| [[Brenledd]] | Strandoren | [[Raitin]]. The six charter-towns stay unnamed |
+| [[Leddvael]] | Strandoren | [[Naenor]] |
+| [[Trenledd]] | Strandoren | [[Lunbra]]. The governing throat stays unnamed |
+| [[Netstrand]] | Strandoren | [[Braetu]] |
 | [[Polity Archetypes\|Vaethorn]] | [[Heskoren]] | [[Eolvaeth]], which stays a town |
 | [[Ornled]] | Heskoren | unnamed |
 | [[Vaelhesk]] | Heskoren | unnamed. [[The First Bowl]] is not a capital |

@@ -111,6 +111,19 @@ Mouths at the seats, with a want that is not a Tree. A neighbour says the given 
 
 Delamem and Talnin remain the Book's mouths, on [[The Walled Book]]. [[Hithaen]] is another Given heir, already in [[Eolvaeth]].
 
+## Strandoren's seated mouths
+
+Mouths at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Lunbra]] a clerk says the house first. [[Orentel]] was already seated. [[Denlad]] stays Relmun. The White Note stays [[Ledan]].
+
+| Person | Square | The job | The want that is not a Tree |
+|---|---|---|---|
+| [[Turvo]] | [[Raitin]] | the shared notes | a cleared note the next hearth will still stand |
+| [[Nubo]] | [[Raitin]] | the gap between hearths | a vouching that holds past the hall |
+| [[Sulnu]] | [[Raitin]] | the ticket to the river stair | a ticket that still means something at the water |
+| [[Derdil]] | [[Naenor]] | the signing-watch | a term that closes without making a gift a debt |
+| [[Vamar]] | [[Lunbra]] | a column of the roll | the row under the house that was said. House Melro. Not the crown. |
+| [[Mursur]] | [[Braetu]] | the far quote, and a lamp | the dark berth left without a house |
+
 ## Four campaign seeds
 
 The houses exist. Do not grow the four into a crew.
@@ -157,7 +170,9 @@ Moved from the player-facing body during residual export polish:
 - [[Reimaethe]] · [[Hithaen]] · [[Taeren]] · [[Rosire]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
 - [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]
+- [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]
 - [[Vuthbraen]] · [[Breillai]] · [[Raermu]] · [[Brimaen]] · [[Breolnir]] · [[Methei]] · [[Brormei]] · [[Tumair]] · [[Lertho]]
+- [[Turvo]] · [[Nubo]] · [[Sulnu]] · [[Derdil]] · [[Vamar]] · [[Mursur]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
 - [[The Mill-hold]] · [[The First Bowl]]
 - [[Ndenjoo]] · [[Njunda]] · [[Ledan]]

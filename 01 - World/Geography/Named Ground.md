@@ -47,7 +47,7 @@ What happened on it, dated: [[The Grey Summer]] (C.Y. 171) tied the quays. [[The
 
 ## The West Water
 
-Wider than the Crossing. This is the Long Mile's sea-leg, the graft-pot's worse berth, [[Netstrand]]'s leftover. Heskoren's frontier coast faces it back toward Strandoren. Beyond the last capes, the storm-wall. The Hush's west-water clause lives here: Netstrand quotes the far; Saelvaeth may take a pot without a waiting-due; Vaethorn may bless and may not levy; Ornled is a beach-fee.
+Wider than the Crossing. This is the Long Mile's sea-leg, the graft-pot's worse berth, [[Netstrand]]'s leftover. [[Braetu]] is the harbour where that crossing is quoted. Heskoren's frontier coast faces it back toward Strandoren. Beyond the last capes, the storm-wall. The Hush's west-water clause lives here: Netstrand quotes the far; Saelvaeth may take a pot without a waiting-due; Vaethorn may bless and may not levy; Ornled is a beach-fee.
 
 Do not book [[The Sundering Isle|Kumbaan]] on this water. A wrecked pot in a sailor's story is allowed. A taking is not.
 
@@ -86,7 +86,7 @@ A low stream off Harrow's rise. Downstream it is the ford the Seat used as a geo
 
 ### the Chart-run
 
-[[Strandoren]]'s interior river-plain, running to [[Orentel]]'s estuary. The First Cut's "river-days" are this water: coasts took by sea; inland waited on a cart *and* this run. [[Trenledd]] sits on the wealthy stretch that got filed. Food on the Salt Quay is this plain, the Crossing's catch, and whatever the hinge pays.
+[[Strandoren]]'s interior river-plain, running to [[Orentel]]'s estuary. The First Cut's "river-days" are this water: coasts took by sea; inland waited on a cart *and* this run. [[Trenledd]] sits on the wealthy stretch that got filed. [[Lunbra]] is the city on that stretch, where the roll is kept. Food on the Salt Quay is this plain, the Crossing's catch, and whatever the hinge pays.
 
 ## Climate bands (compact)
 
@@ -134,9 +134,9 @@ The three walks, converted:
 | Thaeloren | [[Ornsael]] | west-road over the Shelf-gate (or the Noon Pass, if you like a water-line) | **10–14 days** |
 | Hinge Shore quay | [[Orentel]] | Old Crossing | **3–5 days' sail** |
 | Orentel | [[Denlad]] | a side inlet on the way toward the Hinge Shore, short of the estuary | **about 1 day's sail** |
-| Orentel | [[Trenledd]] interior | Chart-run | **4–8 days** |
-| Orentel | [[Netstrand]] west quays | coasting | **8–14 days** |
-| Netstrand | Heskoren frontier coast | West Water | **2–4 weeks** |
+| Orentel | [[Lunbra]] | Chart-run | **4–8 days** |
+| Orentel | [[Braetu]] | coasting, to the Night Shore's west quays | **8–14 days** |
+| [[Braetu]] | Heskoren frontier coast | West Water | **2–4 weeks** |
 | Heskoren coast | [[Eolvaeth]] | inland vale | **1–2 weeks** |
 | Eolvaeth | [[Harrow's Green]] | live-front roads | **2–3 weeks** (Eolvaeth cannot see Harrow's, and does not want to) |
 | Harrow's Green | [[Tunral]] | live-front road, coastward, no sightline | **about a week** |
@@ -159,6 +159,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[Powers of the Turning]] · [[The Walking Years]] · [[The Other Count]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
 - [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The Mill-hold]] · [[The First Bowl]] · [[Ornsael]] · [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]]
+- [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]
 - [[The Walled Book]] · [[Rothallo]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
 - [[01 - World]]
 

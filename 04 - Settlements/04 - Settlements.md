@@ -40,6 +40,12 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[Votaer]] — the Hinge Shore's port; the classification quay
 - [[Tasain]] — Lirorn's walled town below the Shelf-gate
 
+### Strandoren's other seats
+- [[Raitin]] — Brenledd's throne-city; the council hall; seven hearths, and the six towns stay unnamed
+- [[Naenor]] — Leddvael's port; the signing-watch
+- [[Lunbra]] — Trenledd's city on the Chart-run; the roll-room
+- [[Braetu]] — the Night Shore's harbour; the quote-desk
+
 ### The spur, and three halts
 - [[Nelath]] — road-end Tree-town; the walk stopped; the square is the last mile
 - [[Raillath]] — Near Mile halt between Brenthael and the Mill-hold

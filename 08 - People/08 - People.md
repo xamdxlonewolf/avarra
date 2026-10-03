@@ -50,6 +50,12 @@ Dead mouths the years still say. The living cast stays in the lists above. The a
 - [[Votaer]]: [[Tumair]] · [[Lertho]]
 - [[Tasain]] — no new person. [[Narol of the Pass]] stays.
 
+### Strandoren seats
+- [[Raitin]]: [[Turvo]] · [[Nubo]] · [[Sulnu]]
+- [[Naenor]]: [[Derdil]]
+- [[Lunbra]]: [[Vamar]]
+- [[Braetu]]: [[Mursur]]
+
 ### Campaign seeds
 - [[Reimaethe]] — volunteer who wants out
 - [[Hithaen]] — disinherited Given heir
