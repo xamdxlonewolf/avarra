@@ -888,7 +888,9 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 >
 > **Answered (2026-10-03), Saelvaeth's town.** [[Saelvaeth]] gets one town, where the march-voice stands. Other towns where a graft has taken. Hamlets and waiting clusters between them. [[Harrow's Green]] stays as it is. The three hamlets past the ford stay the three hamlets. The name is not chosen yet. No note has been created yet.
 >
-> **Open, the epithet.** The user flagged "the Sown Waiting" as strange language. It is still the spoken line on [[Saelvaeth]], and the plain-prose pass did not rewrite these epithets. Not corrected yet. The learned spelling *Saelvaeth* stays. Whether people stop saying "the Sown Waiting" is the next question. The same kind of line is still on other powers (the Sown Tree, the Far Yield, the Reckoned Gift, the Worn Count, the Gift-Realm). Night Shore, Thaw-Land, and Ledger Coast are already plain. No sweep has been opened.
+> **Answered (2026-10-03), the epithets.** Keep them for now. The user was asking, not opening a rewrite. "The Sown Waiting" stays the spoken line. The same kind of line stays on the other powers. No sweep.
+>
+> **Answered (2026-10-03), the march-town's name is open.** Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261013 --register conservative --count 80`. Shown: Rulvai 8, Natai 13, Tilbrai 14, Laevo 17, Teomar 31, Brelvol 44. Thrown back: Rimeitheo (theo), Monmail (mail), Raintol beside Ranto, Leinuthsail (sail), Rainneon (rain, neo), Runbrae beside Lunbra, Norbrain (rain), Vonna beside Volnae, Nannar beside Naenor, Thaerleithneth (leith), Veota beside Votaer, Brulbrir (brul), and the th-stacks a table will not say.
 >
 > **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen.
 >
