@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-01
+updated: 2026-10-03
 ---
 
 # 08 - People
@@ -20,7 +20,7 @@ The persistent cast of the setting — NPCs, historical figures, leaders, heroes
 
 ### Indexes
 - [[Leaders]] — offices that already have a mouth
-- [[Heroes and Villains]] — praised, condemned, and still argued
+- [[Heroes and Villains]] — praised, condemned, and still argued. [[Heroes]] and [[Villains]] point at that one index. The people are not split across the two folders.
 
 ### Historical figures
 Dead mouths the years still say. The living cast stays in the lists above. The argued list is [[Heroes and Villains]].

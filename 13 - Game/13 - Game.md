@@ -6,12 +6,12 @@ note_status: fleshed
 tags: [moc, rules, daggerheart]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 13 - Game
 
-System-facing material — rules, mechanics, encounters, tables.
+Session procedure already has four homes. The folders under this section point at them.
 
 ## Contents
 - [[At the Table]] — creation, Kept deal, Struck-in-play, travel, city, crime, Leaf-Fall, domain cards, a made thing
@@ -20,6 +20,7 @@ System-facing material — rules, mechanics, encounters, tables.
 - [[A Hidden Phoenix]] — player-agency for a Phoenix who is not the public legend
 - [[Dangers of the Turning]] — wilderness adversaries and travel environments
 - [[Conditions]] — Transformation cards (hub in `09 - Creatures`)
+- [[Rules]] · [[Mechanics]] · [[Encounters]] · [[Tables]] · [[Daggerheart]] — pointers. The text stays on the four procedure notes. The SRD stays the SRD.
 
 ## Related
 - [[Kinds of the Turning]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]

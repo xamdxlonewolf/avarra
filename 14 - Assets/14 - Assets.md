@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-30
+updated: 2026-10-03
 ---
 
 # 14 - Assets
@@ -18,6 +18,8 @@ Maps, images, handouts, documents, and references.
   - [[The Known Map]] — labelled schematic (SVG)
   - `Maps/The Atlas Sheets.md` — label-free paintings (GM)
   - `Maps/Map Generation Tooling.md` — prompts to regenerate; Azgaar (GM)
+  - [[The Selected Handouts]] — the unlabeled Prototype 3 sheets are the handouts. They stay in Maps.
+- **Images** and **References** — unused shelf. The paintings, and the reference painting, stay under Maps. Nothing has decided a second library.
 - **The Turning — World Book** (compiled reading copy; do not update unless asked):
   - `Documents/Setting Book/The-Turning-World-Book.html`
   - `Documents/Setting Book/The-Turning-World-Book.pdf`

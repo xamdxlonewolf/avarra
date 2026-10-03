@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc, creatures, conditions, adversaries]
 aliases: [Creatures, Beasts, Adversaries]
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 09 - Creatures
@@ -54,6 +54,10 @@ Promoted from the table on [[Ecology of the Turning]]. Each has a use and a fear
 ## Spirits
 
 [[Kin at the Door]] — a meal at an old door, and a Returned person. No other list.
+
+## Monsters and unique creatures
+
+[[Monsters]] — there is no bestiary. Conditions stay in this section. [[Unique]] — there is no quota. Neither folder holds a creature note.
 
 ## Related
 - [[The Premise]] — two-layer model

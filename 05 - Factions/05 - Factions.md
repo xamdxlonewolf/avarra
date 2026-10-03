@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 05 - Factions
@@ -105,6 +105,8 @@ One note. A town watch, a cohort sent when a Hand cannot Turn the week, and what
 ### Movements
 
 Two present, one past, from schisms already written. → [[Movements]]
+
+The note lives under Organizations. [[Movements Home]] says so. The note stays there.
 
 ### Three opposition engines (keep distinct)
 

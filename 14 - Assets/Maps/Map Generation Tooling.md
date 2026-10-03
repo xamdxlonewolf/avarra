@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Map Generation Tooling
@@ -458,7 +458,7 @@ The wait is the town.
 
 ### How to annotate after generate
 
-Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the image model to write them.** A 2026-09-01 Heskoren trial (`label-trials/Heskoren-Atlas-labeled-gen.png`) produced readable words and **a different continent**. Overlay type on the selected master instead:
+Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the image model to write them.** A 2026-09-01 Heskoren trial (`99 - Archive/Atlas/label-trials/Heskoren-Atlas-labeled-gen.png`, archived 2026-10-03) produced readable words and **a different continent**. Overlay type on the selected master instead:
 
 ```bash
 python3 -m pip install --upgrade pillow

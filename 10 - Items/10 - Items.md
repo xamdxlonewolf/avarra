@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 10 - Items
@@ -26,6 +26,7 @@ Weapons, armor, equipment, artifacts, and materials. Canonical home for items (M
 
 ### Weapons, coats, materials
 - [[What a Place Needed]] — the short list. No ladder.
+- [[Weapons]] · [[Armor]] · [[Equipment]] · [[Materials]] — pointers. The things stay on that note. Magic artifacts stay in this section, and [[Artifacts]] under `06 - Magic` only points here.
 
 ## Related
 - [[The Remainder]] — the desk that keeps the box · [[Is the Leaf-Mother Real]] (GM) · [[Turning Tree]]

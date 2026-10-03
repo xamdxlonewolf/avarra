@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc, magic]
 aliases: [Magic]
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 06 - Magic
@@ -26,6 +26,14 @@ Artifacts live in `10 - Items`. This section links them. It does not copy them.
 - [[What a Place Needed]] — coats, tools, and materials a place already used
 
 A thing left running, if a town has one, is [[A Made Thing]].
+
+## Shelves
+
+[[Schools]], [[Traditions]], and [[Systems]] record the same decision. There is no school, no tradition, and no second system. The hub is [[How the Work Is Done]].
+
+[[Artifacts]] points at `10 - Items`. The objects stay there.
+
+`Practices` and `Phenomena` are unused shelf. Nothing has decided a note for either. The work is the hub. What people see in the weather is [[The Green Across the Gap]], [[The Day-Wash]], and [[Brine and Rain]].
 
 ## Related
 

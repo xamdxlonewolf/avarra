@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, history, epic-6]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 02 - History
@@ -30,13 +30,13 @@ The past as believed and as recorded — eras, events, timelines, and historical
 
 ### The Other Count — dated years that were not wood
 - [[The Other Count]] — chronicle hub; two clocks still stand
-- Faces on those years: [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] *(notes live in `08 - People`)*
+- Faces on those years: [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] *(notes live in `08 - People`)*. [[Historical Figures]] is the pointer in this section. It does not copy the notes.
 - [[The Closing]] — C.Y. 19–38; Closed Seat war, collapse, Retreat
 - [[The Two Papers]] — C.Y. 67; Maiethvael / Threnmaieth; crown-count starts
 - [[The Grey Summer]] — C.Y. 171; quay-fever; Trenledd / Brenledd / Leddvael causes
 - [[The Thaw-Break]] — C.Y. 233; one-week melt
 - [[The Hinge Hush]] — C.Y. 304; current Old Crossing peace
-- Leftovers (uncounted, with entrances and pressures): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] *(sites live in `04 - Settlements`)*. The Low Wall's C.Y. 381 opening is a fight over a chip, not a school of diggers. The other two stay as they are.
+- Leftovers (uncounted, with entrances and pressures): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] *(sites live in `04 - Settlements`)*. The Low Wall's C.Y. 381 opening is a fight over a chip, not a school of diggers. The other two stay as they are. [[Archaeology]] points at the three sites. It is not a discipline.
 
 ## Related
 - [[The Reckoning of the Year]] — how a year is kept; Cut-years live there too

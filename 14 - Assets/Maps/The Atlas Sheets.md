@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # The Atlas Sheets
@@ -17,7 +17,7 @@ updated: 2026-10-02
 
 > **Selected atlas (2026-09-01): Prototype 3.** The main world and continent filenames below are promoted copies of the matched Prototype 3 masters. The world sheet is composited from those exact landforms, so coastlines and physical features agree across scales.
 
-> **Handouts.** These label-free sheets can go to the table. They are still paintings rather than surveys; [[The Known Map]] and [[Named Ground]] remain authoritative for names and placement. Prototypes 1 and 2 remain available in [[Atlas Prototype Review]] as rejected alternatives, not parallel canon.
+> **Handouts.** These label-free sheets can go to the table. They are still paintings rather than surveys; [[The Known Map]] and [[Named Ground]] remain authoritative for names and placement. Prototypes 1 and 2 are archived under `99 - Archive/Atlas/`. [[Atlas Prototype Review]] keeps the comparison. They are rejected alternatives, not parallel canon. [[The Selected Handouts]] says the same, from the empty Handouts folder.
 
 > **Canon boundary.** Coastline, watershed, named hydrology, settlement relationships, scale, and orientation follow the notes and selected masters. Minor tributaries, exact road bends, roof clusters, field edges, forest texture, coastal rocks, and decorative weather supplied by generation are **non-canon incidental texture**.
 
@@ -173,14 +173,14 @@ Tried putting names on the painting even though the generate prompts say **NO TE
 
 | File | What happened |
 |---|---|
-| `label-trials/Heskoren-Atlas-labeled-gen.png` | Image model, reference-locked. Some spellings landed. It **redrew** the continent (snow, vertical title, stacked names). Not a copy of the master. |
+| `99 - Archive/Atlas/label-trials/Heskoren-Atlas-labeled-gen.png` | Image model, reference-locked. Some spellings landed. It **redrew** the continent (snow, vertical title, stacked names). Not a copy of the master. Archived 2026-10-03. |
 | `Heskoren-Atlas-Labeled.png` | Pillow overlay on the selected Prototype 3 master. Seats follow [[Named Ground]] and [[The Known Map]], not the largest painted cluster. **West (left):** last capes, marches, slate-shore, Ornled, toward the storm-wall. **East (right):** frontier coast, the West Water (to Strandoren), Eolvaeth / waiting vale, Harrow's and the Rise-water hamlets, the First Bowl. Vaelhesk is area-type over the south Yield. The south-east field-grid and extra roof-clusters stay unnamed. The north-east cloud bank is weather, not the storm-wall. |
 
 The unlabeled C3 sheet stays the selected handout. The overlay is a table aid, not a second gazetteer. Do not promote generated fields or extra peaks into canon because a label sat near them. If a painted cluster and a note disagree, the note wins. Script: `14 - Assets/Maps/label_heskoren_atlas.py`.
 
-The image-model attempt, for comparison:
+The image-model attempt, archived for comparison:
 
-![[label-trials/Heskoren-Atlas-labeled-gen.png]]
+![[99 - Archive/Atlas/label-trials/Heskoren-Atlas-labeled-gen.png]]
 
 ## Label trial — World sheet (2026-09-03)
 

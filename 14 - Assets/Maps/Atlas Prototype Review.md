@@ -9,14 +9,14 @@ aliases: [Atlas Prototypes, Prototype Maps]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-09-03
+updated: 2026-10-03
 ---
 
 # Atlas Prototype Review
 
 > **Production comparison, not canon.** These three sets use the supplied world map as their coastline and layout reference, then apply the established geography from [[The World Frame]], [[Named Ground]], and the four continent notes. If an image disagrees with a vault note, the note wins.
 
-> **Selection (2026-09-01): Prototype 3.** Its five maps are promoted to the main atlas filenames shown on [[The Atlas Sheets]]. Prototypes 1 and 2 remain here for comparison and provenance; they are not active alternatives.
+> **Selection (2026-09-01): Prototype 3.** Its five maps are promoted to the main atlas filenames shown on [[The Atlas Sheets]]. Prototypes 1 and 2 were archived on 2026-10-03 under `99 - Archive/Atlas/`. They are not active alternatives. The reference painting stays in `references/`. It is part of the contract below, not part of the rejected set.
 
 ## Reference contract
 
@@ -31,29 +31,33 @@ updated: 2026-09-03
 
 Closest to the supplied painting's palette, border, sea treatment, and terrain density.
 
-![[prototype1/The-Turning-World-Atlas.png]]
+Archived 2026-10-03. Files: `99 - Archive/Atlas/prototype1/`.
+
+![[99 - Archive/Atlas/prototype1/The-Turning-World-Atlas.png]]
 
 | Kumbaan | Heskoren |
 |---|---|
-| ![[prototype1/Kumbaan-Atlas.png]] | ![[prototype1/Heskoren-Atlas.png]] |
+| ![[99 - Archive/Atlas/prototype1/Kumbaan-Atlas.png]] | ![[99 - Archive/Atlas/prototype1/Heskoren-Atlas.png]] |
 
 | Strandoren | Maiethorn |
 |---|---|
-| ![[prototype1/Strandoren-Atlas.png]] | ![[prototype1/Maiethorn-Atlas.png]] |
+| ![[99 - Archive/Atlas/prototype1/Strandoren-Atlas.png]] | ![[99 - Archive/Atlas/prototype1/Maiethorn-Atlas.png]] |
 
 ## Prototype 2 — pale engraved survey
 
 The cleanest option for later annotation: pale vellum, fine hachures, restrained washes, and clearer hydrology.
 
-![[prototype2/The-Turning-World-Atlas.png]]
+Archived 2026-10-03. Files: `99 - Archive/Atlas/prototype2/`.
+
+![[99 - Archive/Atlas/prototype2/The-Turning-World-Atlas.png]]
 
 | Kumbaan | Heskoren |
 |---|---|
-| ![[prototype2/Kumbaan-Atlas.png]] | ![[prototype2/Heskoren-Atlas.png]] |
+| ![[99 - Archive/Atlas/prototype2/Kumbaan-Atlas.png]] | ![[99 - Archive/Atlas/prototype2/Heskoren-Atlas.png]] |
 
 | Strandoren | Maiethorn |
 |---|---|
-| ![[prototype2/Strandoren-Atlas.png]] | ![[prototype2/Maiethorn-Atlas.png]] |
+| ![[99 - Archive/Atlas/prototype2/Strandoren-Atlas.png]] | ![[99 - Archive/Atlas/prototype2/Maiethorn-Atlas.png]] |
 
 ## Prototype 3 — selected atlas
 
@@ -92,12 +96,13 @@ These are **non-canon visual texture**, not proposals and not a queue of places 
 
 ## Selection notes
 
-- **Prototype 3 is selected.** It provides exact world-to-continent continuity, table mood, and climate readability.
-- Prototype 1 is retained as the closest comparison to the supplied source painting.
-- Prototype 2 is retained as a pale engraved experiment suited to annotation.
+- **Prototype 3 is selected.** It provides exact world-to-continent continuity, table mood, and climate readability. Masters stay in `14 - Assets/Maps/prototype3/`.
+- Prototype 1 is archived as the closest comparison to the supplied source painting. Files: `99 - Archive/Atlas/prototype1/`.
+- Prototype 2 is archived as a pale engraved experiment suited to annotation. Files: `99 - Archive/Atlas/prototype2/`.
 - Do not mix world and continent sheets across prototypes. Future atlas work begins from Prototype 3's masters.
-- **Label trial (2026-09-01).** Asking the image model to write on Heskoren redrew the land. A Pillow overlay on the selected C3 master (`Heskoren-Atlas-Labeled.png`) keeps the painting and takes names only from [[Named Ground]]. Atlas sheets stay label-free as the selected handouts.
+- **Label trial (2026-09-01).** Asking the image model to write on Heskoren redrew the land. The trial image was archived on 2026-10-03 to `99 - Archive/Atlas/label-trials/Heskoren-Atlas-labeled-gen.png`. A Pillow overlay on the selected C3 master (`Heskoren-Atlas-Labeled.png`) keeps the painting and takes names only from [[Named Ground]]. Atlas sheets stay label-free as the selected handouts.
 - **World overlay (2026-09-03).** Same method on the selected world master (`The-Turning-World-Atlas-Labeled.png`). Four lands and two waters only. Extra painted isles unnamed.
+- The reference painting, `references/World-Map-Reference.png`, stays with the maps. It was not archived.
 
 ## Links
 
