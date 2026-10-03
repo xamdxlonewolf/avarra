@@ -8,11 +8,11 @@ tags: [faction, government, polity, heskoren, epic-7, live-front]
 aliases: [The Sown Waiting, Saelvaeth-folk, the Live March]
 world: The Turning
 category: government
-seat: unnamed — do not make Harrow's the capital
+seat: "[[Natai]]"
 public_face: the live edge of the Grafting — a march, not a finished kingdom
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Saelvaeth
@@ -28,6 +28,8 @@ The live front of Clock 2 on [[Heskoren]]: C.Y. 200–387, still incomplete. Tow
 Governance is mid-low because *someone* must stand for the Harrow-sentence: wardens, Road-hands passing through, a march-voice that did not exist when the first pots came. Not a tall state. Enough state to be blamed.
 
 **Site.** Heskoren's grafted pockets on the moving edge. Leftover: **live-front Tree-town**. Necessity's neighbour's week. Fate-pressure noted, not rolled ([[The Years of Hands]]).
+
+**Seat.** [[Natai]] is the town where the march-voice stands. Other towns where a graft has taken stay unnamed. Hamlets and waiting clusters between them stay unnamed. [[Harrow's Green]] stays as it is, and stays out of this seat. [[The Three Hamlets Past the Ford]] stay the three hamlets.
 
 **How it formed.** The wave, this decade. Paying-enough, soil-enough, chain-enough nexts on a list written in the Motherwood. A polity made of luck-plus-queue. [[The Grey Summer]] thinned the supply-line for a decade; [[The Thaw-Break]] made the neighbour's week worse mud. [[The Hinge Hush]] wrote one mercy: they may take a pot without a Vaethorn waiting-due. Vaethorn will preach unworthiness. History does not agree.
 
@@ -57,17 +59,17 @@ Moved from the player-facing body during residual export polish:
 - Do not flesh districts.
 - Do not give this march the next scion as a reward.
 - Playable squares in orbit: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] (Story 7.2). Still not a capital.
-- **Canon status.** 🟡 **Named stub.**
+- **Canon status.** 🟡 **Named stub, seated.** Seat is [[Natai]] (S.3). Harrow's stays out of that seat.
 - Seed `20260827`.
 
-- **Do not make Harrow's the capital.** Named stub stays a town. Saelvaeth is the march around it.
+- **Do not make Harrow's the capital.** Harrow's stays a town in the orbit. The seat is [[Natai]]. Saelvaeth is the march around both.
 - **Do not make Harrow's the good town that waited faithfully.** Horticulture plus queue ([[Harrow's Green]] GM Notes).
 - **Pair with Saelthael.** Origin-continent leftover walking vs live-front planting. Same sowing. Two clocks.
 - **Fate-pressure** on Seat / Road-hands / waiting towns: noted, not rolled.
 - **Hooks.** Borrowed Turning whose witness walks home; a stone the warden wants moved; a pot for someone else sleeping in Harrow's upper room; the seam at the ford (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate).
 
 ## Links
-- [[Powers of the Turning]] · [[Heskoren]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
+- [[Powers of the Turning]] · [[Heskoren]] · [[Natai]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
 - [[Saelthael]] · [[Polity Archetypes]] · [[The Years of Hands]] · [[The Tree-Wardens]]
 - [[Settlement Seeds]] · [[Ornsael]] · [[The Other Count]] · [[The Hinge Hush]]
 - [[Roadmap]] (Story 7.2; history R.9)

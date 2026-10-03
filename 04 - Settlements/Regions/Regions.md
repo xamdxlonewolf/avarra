@@ -16,7 +16,7 @@ updated: 2026-10-03
 
 An index. The ground's names live on [[Named Ground]]. The fifteen powers live on [[Powers of the Turning]]. This page points at both and adds one stretch that was only a duration: [[The Down-Bank]], between [[Maiethlir]] and [[The Hinge Shore]].
 
-Maiethorn's seats and Strandoren's seats are named. Heskoren's three are not, except [[Eolvaeth]], which was already Vaethorn's town. [[Nelath]] is a town on a spur that had no mouth. It is not a seat. This index does not staff a court.
+Maiethorn's seats, Strandoren's seats, and Heskoren's seats are named or refused. [[Eolvaeth]] was already Vaethorn's town. [[Vaelhesk]] has no town-note. The land is the seat. [[Nelath]] is a town on a spur that had no mouth. It is not a seat. This index does not staff a court.
 
 ## Named ground
 
@@ -50,9 +50,9 @@ A square in a power's orbit is not that power's crown.
 | [[Trenledd]] | Strandoren | [[Lunbra]]. The governing throat stays unnamed |
 | [[Netstrand]] | Strandoren | [[Braetu]] |
 | [[Polity Archetypes\|Vaethorn]] | [[Heskoren]] | [[Eolvaeth]], which stays a town |
-| [[Ornled]] | Heskoren | unnamed |
-| [[Vaelhesk]] | Heskoren | unnamed. [[The First Bowl]] is not a capital |
-| [[Saelvaeth]] | Heskoren | unnamed. [[Harrow's Green]] is not a capital |
+| [[Ornled]] | Heskoren | [[Sanbreo]]. The pockets stay unnamed |
+| [[Vaelhesk]] | Heskoren | the land is the seat. [[The First Bowl]] is not a capital |
+| [[Saelvaeth]] | Heskoren | [[Natai]]. [[Harrow's Green]] is not this seat |
 
 [[The Sundering Isle|Kumbaan]] is not a sixteenth power and not a thirteenth mainland one. No graft. No seat on this list.
 

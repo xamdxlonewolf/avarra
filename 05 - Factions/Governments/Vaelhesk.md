@@ -12,7 +12,7 @@ seat: unnamed — the land is the seat
 public_face: old greens that keep host-rights — the first meal before anyone's leave
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Vaelhesk
@@ -27,7 +27,7 @@ Pre-graft host-lands on [[Heskoren]]: old greens, ancestor-doors, first meals. T
 
 Struck and [[The Taken-In]] are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose — the child is already the hill's. Vaethorn reads those children as Kept-for-want. That disagreement decides whether a child travels.
 
-**Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**, seated as [[The First Bowl]] (folk *Lonasir*). Play with the Door-Keepers and with Nethiro at Vaelun. Not a capital. The land is the seat.
+**Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**, seated as [[The First Bowl]] (folk *Lonasir*). Play with the Door-Keepers and with Nethiro at Vaelun. Not a capital. The land is the seat. There is no new city and no new name. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door. The First Bowl stays the guest-grove it already is.
 
 **How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200–387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal. [[The Thaw-Break]] moved wet guests to high doors. [[The Hinge Hush]] does not write them: a first meal is not a landing-due. Netstrand crews who skip it learn this without a treaty.
 
@@ -50,8 +50,9 @@ Feed the first meal. Name a Struck at the door that made them. Treat a warden wi
 - Do not flesh districts.
 - Do not make a Taken-In nation.
 - Do not clone a second Harrow.
-- **Canon status.** 🟡 **Named stub.**
+- **Canon status.** 🟡 **Named stub.** The seat stays a refusal (S.3).
 - Seed `20260827`.
+- The land is the seat. Do not name a city to tidy it. Do not write a new place-note. Do not give the refusal a person. Villages and hamlets stay on the old greens. A traveler is pointed at a door.
 - Do not clone [[Harrow's Green]].
 
 - **Old Ways may be half-right for the wrong reasons** ([[Heskoren]] GM Notes). Do not confirm. Do not dissolve host-rights when the keystone lands.

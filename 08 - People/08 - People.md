@@ -56,6 +56,11 @@ Dead mouths the years still say. The living cast stays in the lists above. The a
 - [[Lunbra]]: [[Vamar]]
 - [[Braetu]]: [[Mursur]]
 
+### Heskoren seats
+- [[Natai]]: [[Dumu]]
+- [[Sanbreo]] — no new person. Vathne stays the slate.
+- [[Vaelhesk]] — no new person. The land is the seat.
+
 ### Campaign seeds
 - [[Reimaethe]] — volunteer who wants out
 - [[Hithaen]] — disinherited Given heir

@@ -11,7 +11,7 @@ region: "[[Heskoren]]"
 population: three hearths — a few dozen houses each, not a town
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # The Three Hamlets Past the Ford
@@ -71,7 +71,7 @@ Vaelun's leftover is host-rights, not a second Harrow. [[The Door-Keepers]] play
 
 ### Ornath *(OR-nath)*
 
-The furthest past the ford. Thinnest soil as a feeling, not a locked horticulture. Ornath can see Harrow's when the weather is kind and can walk the *other* way, toward [[Ornled]]'s slate, if the congregation-net fails. They have not gone. The road is still a temptation that looks like sense: no gospel, a ledger, the same thin Trees.
+The furthest past the ford. Thinnest soil as a feeling, not a locked horticulture. Ornath can see Harrow's when the weather is kind and can walk the *other* way, toward [[Sanbreo]], where [[Ornled]] keeps the slate, if the congregation-net fails. They have not gone. The road is still a temptation that looks like sense: no gospel, a ledger, the same thin Trees.
 
 Ornath's leftover is the wait with an exit that is not a Tree. Do not make them the "secular hamlet" as a hat. Some mouths there still wait. Some have stopped saying her name and have not started keeping a list either.
 
@@ -130,11 +130,12 @@ Moved from the player-facing body during residual export polish:
 - **Fate-pressure (noted, not rolled):** precarious — single dependency on Harrow's week or a pot. Do not wipe the cluster to make the queue feel real. The pressure *is* the play.
 - **Seam, not a planet-of-hats.** All four voices (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate) can sit in one week. Do not assign one polity per hamlet as a costume. Brenod leans sending, Vaelun leans refusal, Ornath leans the other road — leans, not flags. Wood that went past them to [[The First Bowl]] is a slight, not a fourth kitchen.
 - **Hearths, not Kind-quarters.** Taken-In ground in Vaelun is old plot, not a leshy village. Mixed Kinds in all three.
-- **Hooks.** A borrowed Turning whose Harrow-witness will not walk back; a folk-right slip that took; a first meal a Road-hand ate or refused; a Kept child asked what they lacked; an unvouched Struck and a congregation deciding; the stone in Harrow's square climbed by a hamlet child; the cup; a clerk who writes Brenod on a leave and starts a fight about which green; Ornath walking toward slate.
+- **Habit.** One, among the three. The cup on the ford-rock. The count is full. Do not explain the cup. No new person.
+- **Hooks.** A borrowed Turning whose Harrow-witness will not walk back; a folk-right slip that took; a first meal a Road-hand ate or refused; a Kept child asked what they lacked; an unvouched Struck and a congregation deciding; the stone in Harrow's square climbed by a hamlet child; the cup; a clerk who writes Brenod on a leave and starts a fight about which green; Ornath walking toward [[Sanbreo]].
 - **Opening:** [[Taeren]] is a Brenod mouth this Hale-month, not a fourth kitchen-speaker. Tora still wants the walk. Do not make Tora a Phoenix plotter. Kit: [[The Opening]].
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[Harrow's Green]] (Tora at the stone) · [[The Child Who Climbed the Stone]]
-- [[Heskoren]] · [[Saelvaeth]] · [[Vaelhesk]] · [[The First Bowl]] · [[Ornled]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
+- [[Heskoren]] · [[Saelvaeth]] · [[Natai]] · [[Vaelhesk]] · [[The First Bowl]] · [[Ornled]] · [[Sanbreo]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[The Old Ways]] · [[Polity Archetypes]]
 - [[The First Cut]] — the leave that named them without naming them
 - [[04 - Settlements]] · [[Roadmap]] (Story 7.2; R.11)

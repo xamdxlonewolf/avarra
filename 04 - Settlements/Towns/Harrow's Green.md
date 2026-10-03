@@ -11,7 +11,7 @@ region: "[[Heskoren]]"
 population: a small town — a few hundred hearths around one canopy
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Harrow's Green
@@ -72,6 +72,8 @@ Tithe-provision is frontier-warm and thin: the greens, the ranging, the upper ro
 
 A warden who pulls the stone down is doing theology with a hammer. They are not wrong that Leaf-Fall needs the space. They are wrong if they think the graves went with the requirement. The next necessity-column will miss the water. Haelin knows this and still wants it moved. That is the tension, not a villain.
 
+The cistern-dipper is hung with the bowl toward the stream. Harrow's Green will not say why.
+
 ## People & Powers
 
 Haelin stays the live-front office this cast points at; the six pivots are not here ([[People of the Turning]]).
@@ -85,7 +87,7 @@ Offices that must exist:
 - **Road-hands passing through** — they sleep in the town that was chosen, on the way to the one that was not.
 - **A Door-Keeper at a later planting** — host-rights if a cut from Harrow's is set in an old green. The later planting is [[The First Bowl]] (Lonasir, in the Far Yield). The first meal, or a claiming. Do not skip [[The Door-Keepers]] to make the town simpler.
 
-Saelvaeth's march-voice can be blamed when the queue is ugly. It does not sit a throne here.
+Saelvaeth's march-voice can be blamed when the queue is ugly. The voice stands at [[Natai]]. It does not sit a throne here. [[Dumu]] is that mouth. Haelin keeps this square.
 
 ## What can enter a scene
 
@@ -123,10 +125,11 @@ Moved from the player-facing body during residual export polish:
 - **Keep the cost in sight.** A pretty live-front town whose leftover is only picturesque launders the graves. Keep the hamlets visible from the square in at least one sightline.
 - **Hooks.** The hamlets can see the canopy; a borrowed Turning whose witness has to walk home; the stone Haelin wants moved; a Road-hand sleeping here with a pot for someone else; a folk-right slip in a hamlet that took, and Harrow's warden asked to Speak it; a first meal a Road-hand ate or refused on the way through; the climbing-child from the fable, this year.
 - **Opening sits here.** [[The Opening]] / [[The Isolated Fall]]. Hale-month, C.Y. 387. Do not rebuild this square into a Phoenix festival. The leftover job stays necessity. Extra mouths in the upper room are the thing Haelin will not always say. Do not invent a Care-fortress on the rise.
+- **Habit.** One. The cistern-dipper. The count is full. A later note must not explain it, and must not turn it into a power, a relic, or a rite. No new person. The march-voice is [[Dumu]] at [[Natai]], and is not a warden of this square.
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Three Hamlets Past the Ford]] (Tora of Brenod) · [[The First Bowl]] · [[The Child Who Climbed the Stone]]
-- [[Heskoren]] · [[Saelvaeth]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
+- [[Heskoren]] · [[Saelvaeth]] · [[Natai]] · [[Dumu]] · [[Polity Archetypes]] · [[The Tree-Wardens]] · [[The Door-Keepers]] · [[Turning Tree]]
 - [[Daily Life]] — Tree-at-the-centre · [[Law and Citizenship]] — neighbour-witness
 - [[The Wrong Green]] — the cited mis-Speaking, kept in the hearth
 - [[People of the Turning]] — live front this cast points at

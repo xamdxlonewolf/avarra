@@ -160,6 +160,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
 - [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The Mill-hold]] · [[The First Bowl]] · [[Ornsael]] · [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]]
 - [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]
+- [[Sanbreo]] · [[Natai]]
 - [[The Walled Book]] · [[Rothallo]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
 - [[01 - World]]
 

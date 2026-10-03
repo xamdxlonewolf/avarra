@@ -46,6 +46,11 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[Lunbra]] — Trenledd's city on the Chart-run; the roll-room
 - [[Braetu]] — the Night Shore's harbour; the quote-desk
 
+### Heskoren's other seats
+- [[Sanbreo]] — Ornled's town; the slate; a beach-fee when a hull arrives. The pockets stay unnamed
+- [[Vaelhesk]] — no town-note. The land is the seat. [[The First Bowl]] stays a guest-grove
+- [[Natai]] — Saelvaeth's town; the march-voice. [[Harrow's Green]] stays out of that seat
+
 ### The spur, and three halts
 - [[Nelath]] — road-end Tree-town; the walk stopped; the square is the last mile
 - [[Raillath]] — Near Mile halt between Brenthael and the Mill-hold

@@ -10,7 +10,7 @@ aliases: [The Sundered Reach, The Frontier, The Far Lands, Heskorn, The Waiting 
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Heskoren
@@ -45,7 +45,7 @@ How the wood got here is [[The First Cut]]: C.Y. 200–387, still incomplete. Th
 ## Powers & Polities
 
 - **[[Polity Archetypes|Vaethorn]] — the Waiting Lands** *(theology high · reach low · governance low)*. The frontier touchstone with the theology knob turned all the way up: ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge whose ruling mood is *waiting* for a graft to take, for a gift that may not come. Its injustice is a **guilt** (scarcity read as unworthiness), not a boot. Seat: [[Eolvaeth]] (pilgrim-edge vale; not [[Saelvaeth]]'s march).
-- **The other three (named-stubs → [[Powers of the Turning]]).** [[Ornled]] (the Outer Ledger — **secular frontier**, required corner) · [[Vaelhesk]] (the Far Yield — Old Ways host-rights) · [[Saelvaeth]] (the Sown Waiting — live front as a march; [[Harrow's Green]] in its orbit, not as a capital; fleshed Story 7.2). Fewer, poorer, scattered; un-polity'd wild still fills the space between.
+- **The other three (named-stubs → [[Powers of the Turning]]).** [[Ornled]] (the Outer Ledger — **secular frontier**, required corner; the slate is kept at [[Sanbreo]]) · [[Vaelhesk]] (the Far Yield — Old Ways host-rights; the land is the seat) · [[Saelvaeth]] (the Sown Waiting — live front as a march; the march-voice stands at [[Natai]]; [[Harrow's Green]] in its orbit, not as that seat; fleshed Story 7.2). Fewer, poorer, scattered; un-polity'd wild still fills the space between.
 
 ## Faith
 

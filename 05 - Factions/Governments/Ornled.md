@@ -8,11 +8,11 @@ tags: [faction, government, polity, heskoren, epic-7]
 aliases: [The Outer Ledger, Ornled-folk, the Secular Frontier]
 world: The Turning
 category: government
-seat: unnamed
+seat: "[[Sanbreo]]"
 public_face: a Tree-poor frontier that improvises Tithe as slate and favor — no congregation-net
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Ornled
@@ -28,6 +28,8 @@ Thin-reach [[Heskoren]] country that never took the waiting-gospel. Same young g
 They do not hate the Mother. They do not *use* her. Vaethorn hears the missing *th* in their name as godlessness. Ornled hears Vaethorn's *th* as a luxury.
 
 **Site.** Frontier pockets off the hottest pilgrim-roads. Leftover: **waiting cluster without a gospel**. Same stones, same upper rooms if a walk used to pass; the leftover job is necessity, not devotion.
+
+**Seat.** [[Sanbreo]] is the town, on the brink of a small city, where the slate is kept. A beach-fee can be paid there when a hull arrives. Villages and hamlets in the pockets around it stay unnamed. That town is the seat. It is still a town.
 
 **How it formed.** Kept/Struck-heavy districts that watched the waiting-theology arrive with the grafts and declined to make scarcity a soul-problem. Improvisation as culture. Low governance because no one has the spare people to be a state. The Fair Hand is a rumour from ships, not a civic rite — they have few Bound to make a book of. [[The Thaw-Break]] gave one cluster a year they can point at: **Vathne**'s slate, after a waited pot drowned in someone else's thaw. The Hush writes them as *slate-shore*: a beach-fee, not a hymn. They were not asked.
 
@@ -51,9 +53,9 @@ Stay whole with what is in the pot. Do not owe a hymn for green. Trade with Nets
 - Do not flesh districts.
 - Do not write a Wild West.
 - Do not write a noble-savage.
-- **Canon status.** 🟡 **Named stub.**
+- **Canon status.** 🟡 **Named stub, seated.**
 - Seed `20260827`.
-- Seat stays unnamed (three corner seats already named).
+- Seat is [[Sanbreo]] (S.3). The town is the seat. Do not make it a city. Do not name the pockets. Vathne stays the slate. Do not move Narol here. No new person.
 
 - **Required corner.** Low/low/low. Isolates theology against Vaethorn (same reach, same governance, faith burned out not up).
 - **Not freedom.** Light state plus thin Trees plus no faith-net is exposure.
@@ -61,7 +63,7 @@ Stay whole with what is in the pot. Do not owe a hymn for green. Trade with Nets
 - **Hooks.** An unvouched Struck and a slate; a Vaethorn congregation trying to convert a well; a Netstrand bill; a graft that takes and nobody holds a feast or a count.
 
 ## Links
-- [[Powers of the Turning]] · [[Heskoren]] · [[Polity Archetypes]]
+- [[Powers of the Turning]] · [[Heskoren]] · [[Sanbreo]] · [[Polity Archetypes]]
 - [[Law and Citizenship]] · [[The Intake]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
 - [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; history R.9)

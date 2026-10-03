@@ -124,6 +124,14 @@ Mouths at the seats, with a want that is not a Tree. A neighbour says the given 
 | [[Vamar]] | [[Lunbra]] | a column of the roll | the row under the house that was said. House Melro. Not the crown. |
 | [[Mursur]] | [[Braetu]] | the far quote, and a lamp | the dark berth left without a house |
 
+## Heskoren's seated mouth
+
+One mouth. [[Sanbreo]] has no new person. [[Vaelhesk]] has no new person. The land stays the seat. A neighbour says the given name.
+
+| Person | Square | The job | The want that is not a Tree |
+|---|---|---|---|
+| [[Dumu]] | [[Natai]] | the march-voice | a shout that lands at that gate, and not on Haelin's square |
+
 ## Four campaign seeds
 
 The houses exist. Do not grow the four into a crew.
@@ -171,8 +179,9 @@ Moved from the player-facing body during residual export polish:
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
 - [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]
 - [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]
+- [[Sanbreo]] · [[Natai]]
 - [[Vuthbraen]] · [[Breillai]] · [[Raermu]] · [[Brimaen]] · [[Breolnir]] · [[Methei]] · [[Brormei]] · [[Tumair]] · [[Lertho]]
-- [[Turvo]] · [[Nubo]] · [[Sulnu]] · [[Derdil]] · [[Vamar]] · [[Mursur]]
+- [[Turvo]] · [[Nubo]] · [[Sulnu]] · [[Derdil]] · [[Vamar]] · [[Mursur]] · [[Dumu]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
 - [[The Mill-hold]] · [[The First Bowl]]
 - [[Ndenjoo]] · [[Njunda]] · [[Ledan]]
