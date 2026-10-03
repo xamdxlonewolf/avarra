@@ -280,7 +280,11 @@ The Rise inside the roofs. The Tree is a mature Hand, a broad dark hardwood fill
 
 **Orentel.** `Orentel-City-Atlas-Labeled.png` is a Pillow overlay on `Orentel-City-Atlas.png`. West is left. The estuary opens east. **Chart mouth** is the western river entry. **Crossing-mouth** is the eastern sail-in. **The Tree** stands on **The Rise**, a small square inside the roofs. **The Drop** is the street from that free Hand down to the held berths. The drop sheet shows only its inland start, with the Tree surrounded by roofs, and does not draw the quays. **First Quay** is the old south landing at the end of that street, on the city plate. **The Third** is the north-side quay. **White Note** is a desk-house on that quay, not a crown and not on the Rise. **Hallowquay** is the lesser inner landing. **Inland yard** is the open pasture behind the Rise. No capital star. No city wall is named. [[Denlad]] is not a district here. Script: `label_orentel_city.py`.
 
-**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these city sheets by cropping a regional master.
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these city sheets by cropping a regional master. The next map work is Epic M. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
+
+## Epic M pointers — 2026-10-03
+
+Capitals, large cities, and important towns get a plain pointer and a label on the overlays that already show their ground, and on [[The Known Map]]. Decided 2026-10-03. Story M.4 on [[Roadmap]]. The paintings stay. Pillow on these masters. No capital star. A mark only where the notes already place the place. [[Vaelhesk]] gets no settlement dot. Unlabeled Prototype 3 sheets stay the handouts. This pass has not been drawn.
 
 ## Label cleanup — 2026-09-23
 
@@ -290,4 +294,4 @@ Captions, epithets, and the survey footer are off the overlays. Each painted nam
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.4)
