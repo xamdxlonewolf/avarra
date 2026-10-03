@@ -857,9 +857,11 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 > **Answered (2026-10-03), next.** True medieval structure. Capitals and seats of power where they are needed. Large cities where they are expected. The rest scattered as towns, villages, and hamlets. A walled city that is all there is counts as a capital of sorts. No seat has been written.
 >
 > **Answered (2026-10-03), Orenbren.** The [[The Walled Book|Inner Close]] is Orenbren's capital. Smaller towns and villages around it as needed. It stays inside Orenbren. No settlement note has been written yet.
+>
+> **Answered (2026-10-03), First Seat.** The First Seat stays in the wood. The Inner Close is the civic capital. One power, not a sixteenth. The wood is not crowned. The Close is not the college.
 
 ### Story S.1 — Maiethorn's unnamed seats
-[[Maiethvael]], [[Orenbren]], [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's capital is the [[The Walled Book|Inner Close]], still inside Orenbren, with smaller towns and villages as needed (S.0). Enough street for a later sheet: approaches, the Hand if the place has one, one tension. The First Seat question is still open in the grill.
+[[Maiethvael]], [[Orenbren]], [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's capital is the [[The Walled Book|Inner Close]], still inside Orenbren, with smaller towns and villages as needed (S.0). Enough street for a later sheet: approaches, the Hand if the place has one, one tension. The First Seat stays in the wood (S.0).
 
 ### Story S.2 — Strandoren's unnamed seats
 [[Brenledd]], [[Leddvael]], [[Trenledd]], [[Netstrand]]. Brenledd stays a league: name charter-towns, not a throne. The others get a city or a town only if the note can say why that place is the one a stranger means. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
