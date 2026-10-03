@@ -880,7 +880,9 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 >
 > **Answered (2026-10-03), Braetu.** The user picked Braetu, position 11. The Night Shore's harbour city. No note has been created yet. Strandoren's four seats are named in S.0. No settlement note has been written.
 >
-> **Answered (2026-10-03), Ornled's seat.** [[Ornled]] gets a town on the brink of a small city, where the slate is kept and a beach-fee can be paid when a hull arrives. Villages and hamlets in the pockets around it. That town is the seat. The name is not chosen yet. No note has been created yet. Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261012 --register conservative --count 80`. Shown: Sanbreo 6, Vairtain 8, Tolsel 18, Broran 34, Letair 63, Ranto 75. Thrown back: Brothreo (broth), Tailritei (tail), Mainen (main), Rairneoth and Neorith (neo), Rainvailme (rain), Braivainseo (vain), Lubrail (rail), Sethmabri (seth), Sirsuth (sir), Semul (mul), Vele beside Vemae, Nonnae beside Volnae, Seothlun beside Seolun, Rothmaenlith beside Rothallo, Rithme (rhythm), Loten beside Lonteith, Lumunon beside Lunbra, and the th-stacks a table will not say.
+> **Answered (2026-10-03), Ornled's seat.** [[Ornled]] gets a town on the brink of a small city, where the slate is kept and a beach-fee can be paid when a hull arrives. Villages and hamlets in the pockets around it. That town is the seat. Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261012 --register conservative --count 80`. Shown: Sanbreo 6, Vairtain 8, Tolsel 18, Broran 34, Letair 63, Ranto 75. Thrown back: Brothreo (broth), Tailritei (tail), Mainen (main), Rairneoth and Neorith (neo), Rainvailme (rain), Braivainseo (vain), Lubrail (rail), Sethmabri (seth), Sirsuth (sir), Semul (mul), Vele beside Vemae, Nonnae beside Volnae, Seothlun beside Seolun, Rothmaenlith beside Rothallo, Rithme (rhythm), Loten beside Lonteith, Lumunon beside Lunbra, and the th-stacks a table will not say.
+>
+> **Answered (2026-10-03), Sanbreo.** The user picked Sanbreo, position 6. Ornled's town on the brink of a small city. No note has been created yet.
 >
 > **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen.
 >
@@ -913,7 +915,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 [[Brenledd]] (throne-city Raitin, upper end of large, a river-city, seven hearths, S.0), [[Leddvael]] (port city Naenor, slightly smaller than Orentel, S.0), [[Trenledd]] (opulent city Lunbra, on the Chart-run, S.0), [[Netstrand]] (harbour city Braetu, smaller than Orentel, S.0). The charter-towns stay. The other three get a city, a town, a village, or a hamlet when the country needs one. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
 
 ### Story S.3 — Heskoren's unnamed seats
-[[Ornled]] (town on the brink of a small city, name open, S.0), [[Vaelhesk]], [[Saelvaeth]]. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
+[[Ornled]] (town Sanbreo, on the brink of a small city, S.0), [[Vaelhesk]], [[Saelvaeth]]. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
 
 ---
 
