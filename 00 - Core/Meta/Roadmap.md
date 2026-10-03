@@ -896,6 +896,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 >
 > **Answered (2026-10-03), the draw.** A name is shown before it is written. The user picks. That is how Rothallo through Natai were chosen.
 >
+> **Answered (2026-10-03), the street.** When the notes are written, a city gets the ways in, the place the work happens, and one tension. A town gets the gate, the work, and one tension. No ward-grid. Vaelhesk gets no new street. The detail comes from notes already in the vault. It is not grilled place by place. The sheets wait for Epic M.
+>
 > **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen.
 >
 > **Answered (2026-10-03), the name.** Draw a spoken name from the conservative list and show it before any note changes. The user picks. "Inner Close" stays an alias. New liturgical compounds stay frozen. Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261003 --register conservative --count 40`. Shown: Breolma 4, Reolnain 5, Tairthen 16, Brortaer 22, Leinren 23, Rothallo 28. Thrown back from that field: English stems (Mortin, Tensen, Neosuth, Thuleith, Breitein, Vurleon, and the theo/neo draws), th-stacks a table will not say, Laethmaeth beside Maieth, Railnal and Venlaith beside Raillath.
