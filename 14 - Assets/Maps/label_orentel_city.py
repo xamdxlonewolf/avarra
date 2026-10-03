@@ -107,19 +107,19 @@ def build() -> Image.Image:
     leader(ink, (388, 378), (500, 330))
     halo_text(ink, (512, 330), "The Tree", place, TYPE, anchor="lm")
 
-    # From the square down toward the berths.
-    leader(ink, (560, 500), (480, 560))
-    halo_text(ink, (468, 560), "The Drop", place, TYPE, anchor="rm")
+    # The one street from the square down to the berths. The far end sits mid-road.
+    leader(ink, (640, 508), (520, 570))
+    halo_text(ink, (508, 570), "The Drop", place, TYPE, anchor="rm")
 
-    # Inner landing, on the pier west of the long berths.
-    quay_mark(ink, (798, 478))
-    leader(ink, (782, 468), (680, 420))
-    halo_text(ink, (668, 420), "Hallowquay", place, TYPE, anchor="rm")
+    # Lesser inner pier, on its deck. West of the long landing.
+    quay_mark(ink, (770, 450))
+    leader(ink, (770, 450), (700, 390))
+    halo_text(ink, (688, 390), "Hallowquay", place, TYPE, anchor="rm")
 
-    # Long south landing, on the pier. Not the water beside it.
-    quay_mark(ink, (900, 588))
-    leader(ink, (916, 604), (1000, 700))
-    halo_text(ink, (1012, 700), "First Quay", place, TYPE, anchor="lm")
+    # Long south landing. Open deck, clear of the boats.
+    quay_mark(ink, (920, 590))
+    leader(ink, (920, 590), (1000, 690))
+    halo_text(ink, (1040, 710), "First Quay", place, TYPE, anchor="mm")
 
     # North-side quay, on the pier deck.
     quay_mark(ink, (910, 232))

@@ -97,9 +97,9 @@ def build() -> Image.Image:
     leader(ink, (1110, 318), (1040, 190))
     halo_text(ink, (1028, 190), "Wall Path", place, TYPE, anchor="rm")
 
-    # The north road at the wall, where it leaves toward the wood.
-    leader(ink, (545, 48), (450, 30))
-    halo_text(ink, (438, 30), "Grove Bank", place, TYPE, anchor="rm")
+    # The road in the north gate, where it leaves toward the wood.
+    leader(ink, (508, 40), (400, 22))
+    halo_text(ink, (388, 22), "Grove Bank", place, TYPE, anchor="rm")
 
     # Civic Hand on the north bank. No capital star.
     leader(ink, (558, 322), (400, 250))
