@@ -873,6 +873,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 > **Answered (2026-10-03), Seinbrun.** The user picked Seinbrun, position 1. Maiethvael's capital. No note has been renamed or created yet.
 >
 > **Answered (2026-10-03), Saelthael.** One medium city, close to something people already want to be near. Not a huge capital. [[Ornsael]] is not renamed into it. Where it sits is still open. No note has been created yet.
+>
+> **Answered (2026-10-03), the Well-wash.** The city sits where the west road meets the Well-wash, short of the pass. People are close to water and to the walk west. [[Ornsael]] stays the smaller well-town, farther into the dry. The [[The Dry Stair|Dry Stair]] is not the reason for the city. Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261005 --register conservative --count 40`. Shown, not chosen: Larbril 4, Tethraith 9, Brulvol 18, Tubreo 28, Leithrae 32, Seollin 40. Thrown back: Tunsir (sir), Reinvan (rain), Neothson (son), Nimaeth beside Maieth, Lirto and Lirebrul beside Lirorn, Maelve, Nethair beside the Neth- clergy names, and the th-stacks a table will not say.
 
 ### Story S.1 — Maiethorn's unnamed seats
 [[Maiethvael]] (capital Seinbrun, S.0), [[Orenbren]] (capital Rothallo, S.0), [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's capital is Rothallo, the place still called the [[The Walled Book|Inner Close]] until the notes are renamed. It stays inside Orenbren, with smaller towns and villages as needed (S.0). Enough street for a later sheet: approaches, the Hand if the place has one, one tension. The First Seat stays in the wood (S.0).
