@@ -304,13 +304,13 @@ The road, not the square. The gate is in the old flood-wall. The Motherwood is a
 
 **Maiethlir Grove Bank.** `Maiethlir-Grove-Bank-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-Grove-Bank-Atlas.png`. West is left. The frame is the road. **Grove Bank** is the north road from the wood, one or two days, and it is not the Near Mile. The gate is in the old flood-wall. The wood is a dark behind that gate and is not labeled. The First Seat stays in that wood, unnamed: no college, no throne, no canopy-ring, and no mark. Thaeloren's canopy is not on this sheet. The civic Tree on the Slow Water stays on the heart sheet. Loft Row, the tablet-hall, the Down Gate, and the Wall Path are not redrawn here. [[Maiethvael]]'s seat is not named. The Down Gate is not that seat. Painted battlements are incidental; the wall is the flood-wall. Script: `label_maiethlir_grove_bank.py`.
 
-**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Story M.2 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master, a city plate, or a town sheet. M.3 and M.4 were not opened. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Story M.2 is in. Story M.3 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master, a city plate, or a town sheet. M.4 was not opened. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
 
 ## Town sheets — 2026-10-03
 
 Six new paintings. Not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, or the Grove Bank sheet. Names come from the settlement notes. If a painting and a note disagree, the note wins. The image model was not asked to write. Masters are 1152×864. West is left. No capital star. A civic Hand is a broad dark hardwood filling its square. Thaeloren is not on these sheets. Unlabeled Prototype 3 sheets stay the regional handouts. World book untouched.
 
-[[Rothallo]] is the Inner Close. People still say that name. It is Orenbren's walled capital, one day from the wood, and it is the same place. No sheet here. The plate stays for M.3.
+[[Rothallo]] is the Inner Close. People still say that name. It is Orenbren's walled capital, one day from the wood, and it is the same place. No sheet in M.2. The plate is with the M.3 seats, below.
 
 ### Eolvaeth
 
@@ -372,6 +372,140 @@ A close piece of the slope, at village scale. The hill continues off the frame. 
 
 **Ndenjoo.** `Ndenjoo-Atlas-Labeled.png` is a Pillow overlay on `Ndenjoo-Atlas.png`. West is left. The frame is a piece of the slope. The hill continues off the edges. **The hall** is the lit turf door. The standing-stone, the path, and the sand stay unlabeled. Njunda is not labeled. No Tree, no dead trunk, no graft. The storm-wall stays weather. No capital star. Script: `label_ndenjoo.py`.
 
+## Seats — 2026-10-03
+
+Thirteen new paintings. Not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, the Grove Bank sheet, or the M.2 town sheets. Names come from the settlement notes. If a painting and a note disagree, the note wins. The image model was not asked to write. Masters are 1152×864. West is left. No capital star. A civic Hand is a broad dark hardwood filling its square. Thaeloren is not on these sheets. [[Vaelhesk]] has no sheet. The six charter-towns were not painted. Unlabeled Prototype 3 sheets stay the regional handouts. World book untouched.
+
+### Seinbrun
+
+![[Seinbrun-Atlas.png]]
+
+A large city off the water. The furnished hall, the green beside it, and a Hand beside the hall. No city wall. Rebuild with `label_seinbrun.py`.
+
+![[Seinbrun-Atlas-Labeled.png]]
+
+### Rothallo
+
+![[Rothallo-Atlas.png]]
+
+Orenbren's walled capital, one day from the wood. People still say the Inner Close. The gate, the beds outside the wall, and a Hand inside. Rebuild with `label_rothallo.py`.
+
+![[Rothallo-Atlas-Labeled.png]]
+
+### Rothallo gate
+
+![[Rothallo-Gate-Atlas.png]]
+
+The city plate could not hold the beds outside and the Book inside. This is that gate. Rebuild with `label_rothallo_gate.py`.
+
+![[Rothallo-Gate-Atlas-Labeled.png]]
+
+### Larbril
+
+![[Larbril-Atlas.png]]
+
+A medium city. No wall. The west road meets the Well-wash. The wash in this frame is a silt-line. A Hand at the meeting. Rebuild with `label_larbril.py`.
+
+![[Larbril-Atlas-Labeled.png]]
+
+### Votaer
+
+![[Votaer-Atlas.png]]
+
+One of the largest cities. The sea is west. The classification quay is the working waterfront. A Hand stands back from that quay. Rebuild with `label_votaer.py`.
+
+![[Votaer-Atlas-Labeled.png]]
+
+### Raitin
+
+![[Raitin-Atlas.png]]
+
+A river-city. The council hall stands at the head of the river stair. A Hand beside the hall. The river is not named. Rebuild with `label_raitin.py`.
+
+![[Raitin-Atlas-Labeled.png]]
+
+### Naenor
+
+![[Naenor-Atlas.png]]
+
+A large port on its own coast. The signing-watch is the book-table in the square. A Hand stands off that square. Rebuild with `label_naenor.py`.
+
+![[Naenor-Atlas-Labeled.png]]
+
+### Lunbra
+
+![[Lunbra-Atlas.png]]
+
+A large city on the Chart-run, inland of the salt. The river runs east. The roll-room stands on the square. A Hand in the square. Rebuild with `label_lunbra.py`.
+
+![[Lunbra-Atlas-Labeled.png]]
+
+### Braetu
+
+![[Braetu-Atlas.png]]
+
+A harbour city on the West Water. The sea is west. A Hand stands back from the working water. Rebuild with `label_braetu.py`.
+
+![[Braetu-Atlas-Labeled.png]]
+
+### Braetu quay
+
+![[Braetu-Quay-Atlas.png]]
+
+The city plate could not hold the quote-desk and the unlit berth together. The sea is west. Rebuild with `label_braetu_quay.py`.
+
+![[Braetu-Quay-Atlas-Labeled.png]]
+
+### Tasain
+
+![[Tasain-Atlas.png]]
+
+A walled town in the valley. The town gate is in the frame. The Shelf-gate stays off the sheet. Rebuild with `label_tasain.py`.
+
+![[Tasain-Atlas-Labeled.png]]
+
+### Sanbreo
+
+![[Sanbreo-Atlas.png]]
+
+A town on the brink of a small city. The shore gate, the slate on the wall inside it, and the beach. The sea is east. Rebuild with `label_sanbreo.py`.
+
+![[Sanbreo-Atlas-Labeled.png]]
+
+### Natai
+
+![[Natai-Atlas.png]]
+
+A march-town. The town gate is on the road. A young Hand. Rebuild with `label_natai.py`.
+
+![[Natai-Atlas-Labeled.png]]
+
+**Seinbrun.** `Seinbrun-Atlas-Labeled.png` is a Pillow overlay on `Seinbrun-Atlas.png`. West is left. The frame is the city. **The hall** is the furnished hall. **The green** is the ground beside it. **The Tree** is the Hand beside the hall. No city wall. The wood is not inside the city. The First Seat is not marked. Thaeloren is not on this sheet. No closer sheet. No capital star. Script: `label_seinbrun.py`.
+
+**Rothallo.** `Rothallo-Atlas-Labeled.png` is a Pillow overlay on `Rothallo-Atlas.png`. West is left. This is the Inner Close. **The gate** is the argument. **The beds** are outside the wall. **The Tree** is the Hand inside the walls. The city does not Speak it. The Book is on the gate sheet. The First Seat stays in the wood, unnamed: no college, no throne, no canopy-ring, and no mark. Thaeloren is not on this sheet. No capital star. Script: `label_rothallo.py`.
+
+**Rothallo gate.** `Rothallo-Gate-Atlas-Labeled.png` is a Pillow overlay on `Rothallo-Gate-Atlas.png`. West is left. **The gate** is the same gate. **The beds** are outside. **The Book** is the Book of Tithes, inside the wall. No capital star. Script: `label_rothallo_gate.py`.
+
+**Larbril.** `Larbril-Atlas-Labeled.png` is a Pillow overlay on `Larbril-Atlas.png`. West is left. **The meeting** is where the west road meets the Well-wash. **The west road** leaves toward the pass. **Well-wash** is a silt-line in this frame. **The Tree** stands at the meeting. No wall. Not Ornsael. Not the Dry Stair. No capital star. Script: `label_larbril.py`.
+
+**Votaer.** `Votaer-Atlas-Labeled.png` is a Pillow overlay on `Votaer-Atlas.png`. West is left. The sea is on the left. **Classification quay** is the working waterfront. **The Tree** stands back from that quay. The blessing and the docket are the same quay. No White Note. No Chart-run. No closer sheet. No capital star. Script: `label_votaer.py`.
+
+**Raitin.** `Raitin-Atlas-Labeled.png` is a Pillow overlay on `Raitin-Atlas.png`. West is left. **The hall** is the council hall. **The river stair** is the stair under it. **The Tree** stands beside the hall. The river is not named. The six charter-towns stay off the sheet. No capital star. Script: `label_raitin.py`.
+
+**Naenor.** `Naenor-Atlas-Labeled.png` is a Pillow overlay on `Naenor-Atlas.png`. West is left. **The signing-watch** is the book-table in the square. **The Tree** stands off that square. Working berths. Not the Chart-run. Not the West Water. The lost berth is not in this city. No capital star. Script: `label_naenor.py`.
+
+**Lunbra.** `Lunbra-Atlas-Labeled.png` is a Pillow overlay on `Lunbra-Atlas.png`. West is left. The Chart-run runs east, toward the right. **The roll-room** stands on **the square**. **The Tree** is in the square. **Chart-run** is the river. The governing throat is not named. The square and the roll-room are both on this plate. No closer sheet. No capital star. Script: `label_lunbra.py`.
+
+**Braetu.** `Braetu-Atlas-Labeled.png` is a Pillow overlay on `Braetu-Atlas.png`. West is left. The sea is on the left. **The Tree** stands back from the working water. **West Water** is that sea. The quote-desk and the unlit berth are on the quay sheet. The White Note is not here. No capital star. Script: `label_braetu.py`.
+
+**Braetu quay.** `Braetu-Quay-Atlas-Labeled.png` is a Pillow overlay on `Braetu-Quay-Atlas.png`. West is left. **The quote-desk** is on the quay. **The unlit berth** has no house on it. **West Water** is the sea on the left. No capital star. Script: `label_braetu_quay.py`.
+
+**Tasain.** `Tasain-Atlas-Labeled.png` is a Pillow overlay on `Tasain-Atlas.png`. West is left. The frame is the town, not the shelf. **The town gate** is the wall in the valley. **The Tree** is the Hand inside. The Shelf-gate stays off the sheet. Narol is not labeled. No capital star. Script: `label_tasain.py`.
+
+**Sanbreo.** `Sanbreo-Atlas-Labeled.png` is a Pillow overlay on `Sanbreo-Atlas.png`. West is left. The sea is on the right. **The shore gate** meets the beach. **The slate** is on the wall inside the gate. The line is not written on it. No civic Hand is the subject. Not a harbour city. No capital star. Script: `label_sanbreo.py`.
+
+**Natai.** `Natai-Atlas-Labeled.png` is a Pillow overlay on `Natai-Atlas.png`. West is left. The frame is the town. **The town gate** is on the road. **The Tree** is a young Hand. Harrow's Green, the ford, and the three hamlets are not drawn. Dumu is not labeled. No capital star. Script: `label_natai.py`.
+
 ## Epic M pointers — 2026-10-03
 
 Capitals, large cities, and important towns get a plain pointer and a label on the overlays that already show their ground, and on [[The Known Map]]. Decided 2026-10-03. Story M.4 on [[Roadmap]]. The paintings stay. Pillow on these masters. No capital star. A mark only where the notes already place the place. [[Vaelhesk]] gets no settlement dot. Unlabeled Prototype 3 sheets stay the handouts. This pass has not been drawn.
@@ -384,4 +518,4 @@ Captions, epithets, and the survey footer are off the overlays. Each painted nam
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.2 · Story M.4)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.2 · Story M.3 · Story M.4)
