@@ -892,6 +892,10 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 >
 > **Answered (2026-10-03), the march-town's name is open.** Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261013 --register conservative --count 80`. Shown: Rulvai 8, Natai 13, Tilbrai 14, Laevo 17, Teomar 31, Brelvol 44. Thrown back: Rimeitheo (theo), Monmail (mail), Raintol beside Ranto, Leinuthsail (sail), Rainneon (rain, neo), Runbrae beside Lunbra, Norbrain (rain), Vonna beside Volnae, Nannar beside Naenor, Thaerleithneth (leith), Veota beside Votaer, Brulbrir (brul), and the th-stacks a table will not say.
 >
+> **Answered (2026-10-03), Natai.** The user picked Natai, position 13. Saelvaeth's march-town. No note has been created yet. The twelve seats are named or refused in S.0. No settlement note has been written.
+>
+> **Answered (2026-10-03), the draw.** A name is shown before it is written. The user picks. That is how Rothallo through Natai were chosen.
+>
 > **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen.
 >
 > **Answered (2026-10-03), the name.** Draw a spoken name from the conservative list and show it before any note changes. The user picks. "Inner Close" stays an alias. New liturgical compounds stay frozen. Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261003 --register conservative --count 40`. Shown: Breolma 4, Reolnain 5, Tairthen 16, Brortaer 22, Leinren 23, Rothallo 28. Thrown back from that field: English stems (Mortin, Tensen, Neosuth, Thuleith, Breitein, Vurleon, and the theo/neo draws), th-stacks a table will not say, Laethmaeth beside Maieth, Railnal and Venlaith beside Raillath.
@@ -923,7 +927,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 [[Brenledd]] (throne-city Raitin, upper end of large, a river-city, seven hearths, S.0), [[Leddvael]] (port city Naenor, slightly smaller than Orentel, S.0), [[Trenledd]] (opulent city Lunbra, on the Chart-run, S.0), [[Netstrand]] (harbour city Braetu, smaller than Orentel, S.0). The charter-towns stay. The other three get a city, a town, a village, or a hamlet when the country needs one. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
 
 ### Story S.3 — Heskoren's unnamed seats
-[[Ornled]] (town Sanbreo, on the brink of a small city, S.0), [[Vaelhesk]] (no city; the land stays the seat, S.0), [[Saelvaeth]] (one march-town, name open, S.0). Harrow's Green stays as it is. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
+[[Ornled]] (town Sanbreo, on the brink of a small city, S.0), [[Vaelhesk]] (no city; the land stays the seat, S.0), [[Saelvaeth]] (march-town Natai, S.0). Harrow's Green stays as it is. The twelve seats are named or refused. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
 
 ---
 
