@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Roadmap
@@ -851,6 +851,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 - [ ] Walk the open calls one at a time: what "do not name a capital" means now; how many of the twelve may be cities; Brenledd's charter-town count; how much street a named place gets; whether any new mouth is allowed; whether a name-draw is shown before it is written; whether a new place gets one habit people will not explain.
 - [ ] Record the answers here. Do not write them onto the power notes during the grill.
 - [ ] Do not open S.1, S.2, or S.3 until those answers are on this story. Do not update the world book. Do not draw a sheet.
+
+> **Answered (2026-10-03).** A capital is allowed when the power needs one and the place can say why. When there is a capital, prefer a large or huge city. Towns, villages, and hamlets are allowed as well. No seat has been written.
 
 ### Story S.1 — Maiethorn's unnamed seats
 [[Maiethvael]], [[Orenbren]], [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's refusal is already half-written: the compact has no capital, and the Inner Close stays a walled town inside it. Enough street for a later sheet: approaches, the Hand if the place has one, one tension. No capital star. The First Seat stays in the wood.
