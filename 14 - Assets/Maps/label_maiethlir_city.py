@@ -89,30 +89,30 @@ def build() -> Image.Image:
 
     halo_text(ink, (150, 48), "Maiethlir", title, TYPE)
 
-    # Downstream, west. Nothing beyond this gate is Maiethvael's seat.
-    leader(ink, (120, 455), (120, 390))
-    halo_text(ink, (168, 390), "Down Gate", place, TYPE, anchor="lm")
+    # Downstream opening, where the road leaves the wall onto the bridge.
+    leader(ink, (228, 434), (150, 360))
+    halo_text(ink, (138, 360), "Down Gate", place, TYPE, anchor="rm")
 
-    # Upstream, east, where the river enters. Not the Noon Pass.
-    leader(ink, (1065, 430), (1020, 360))
-    halo_text(ink, (1008, 360), "Wall Path", place, TYPE, anchor="rm")
+    # Upstream road outside the wall, on the east bank. Not the river.
+    leader(ink, (1110, 318), (1040, 190))
+    halo_text(ink, (1028, 190), "Wall Path", place, TYPE, anchor="rm")
 
-    # North road from the wood. The wood is not a seat.
-    leader(ink, (575, 115), (420, 58))
-    halo_text(ink, (408, 58), "Grove Bank", place, TYPE, anchor="rm")
+    # The north road at the wall, where it leaves toward the wood.
+    leader(ink, (545, 48), (450, 30))
+    halo_text(ink, (438, 30), "Grove Bank", place, TYPE, anchor="rm")
 
     # Civic Hand on the north bank. No capital star.
-    leader(ink, (500, 300), (360, 250))
-    halo_text(ink, (348, 250), "The Tree", place, TYPE, anchor="rm")
+    leader(ink, (558, 322), (400, 250))
+    halo_text(ink, (388, 250), "The Tree", place, TYPE, anchor="rm")
 
     # Long hall one street east of the Tree.
     hall_mark(ink, (730, 325))
     leader(ink, (746, 318), (860, 270))
     halo_text(ink, (872, 270), "Tablet-hall", place, TYPE, anchor="lm")
 
-    # That street. The only district tension.
-    leader(ink, (620, 360), (620, 430))
-    halo_text(ink, (620, 448), "Loft Row", place, TYPE)
+    # The street between the Tree and the hall. Not the canopy.
+    leader(ink, (632, 298), (700, 230))
+    halo_text(ink, (712, 230), "Loft Row", place, TYPE, anchor="lm")
 
     # The wide reach inside the wall.
     halo_text(ink, (420, 530), "Slow Water", water, TYPE_WATER)

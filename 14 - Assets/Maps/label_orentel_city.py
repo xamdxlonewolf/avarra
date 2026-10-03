@@ -99,36 +99,37 @@ def build() -> Image.Image:
     leader(ink, (540, 145), (400, 90))
     halo_text(ink, (388, 90), "Inland yard", place, TYPE, anchor="rm")
 
-    # Small square inside the roofs. The city around it is the larger half.
-    leader(ink, (360, 400), (250, 340))
-    halo_text(ink, (238, 340), "The Rise", place, TYPE, anchor="rm")
+    # Open pavement of the square, south of the Hand, so the leader stays off the canopy.
+    leader(ink, (430, 448), (300, 470))
+    halo_text(ink, (288, 470), "The Rise", place, TYPE, anchor="rm")
 
-    leader(ink, (400, 410), (480, 360))
-    halo_text(ink, (492, 360), "The Tree", place, TYPE, anchor="lm")
+    # The Hand in that square.
+    leader(ink, (388, 378), (500, 330))
+    halo_text(ink, (512, 330), "The Tree", place, TYPE, anchor="lm")
 
     # From the square down toward the berths.
     leader(ink, (560, 500), (480, 560))
     halo_text(ink, (468, 560), "The Drop", place, TYPE, anchor="rm")
 
-    # Inner landing, tucked against the city, west of the long berths.
-    quay_mark(ink, (640, 500))
-    leader(ink, (625, 492), (560, 440))
-    halo_text(ink, (548, 440), "Hallowquay", place, TYPE, anchor="rm")
+    # Inner landing, on the pier west of the long berths.
+    quay_mark(ink, (798, 478))
+    leader(ink, (782, 468), (680, 420))
+    halo_text(ink, (668, 420), "Hallowquay", place, TYPE, anchor="rm")
 
-    # Long south waterfront.
-    quay_mark(ink, (860, 640))
-    leader(ink, (875, 655), (980, 720))
-    halo_text(ink, (992, 720), "First Quay", place, TYPE, anchor="lm")
+    # Long south landing, on the pier. Not the water beside it.
+    quay_mark(ink, (900, 588))
+    leader(ink, (916, 604), (1000, 700))
+    halo_text(ink, (1012, 700), "First Quay", place, TYPE, anchor="lm")
 
-    # North-side quay of the harbour.
-    quay_mark(ink, (820, 270))
-    leader(ink, (835, 262), (940, 210))
-    halo_text(ink, (952, 210), "The Third", place, TYPE, anchor="lm")
+    # North-side quay, on the pier deck.
+    quay_mark(ink, (910, 232))
+    leader(ink, (926, 220), (1020, 168))
+    halo_text(ink, (1032, 168), "The Third", place, TYPE, anchor="lm")
 
-    # Desk on that north quay. Not a crown.
-    house_mark(ink, (900, 310))
-    leader(ink, (912, 302), (1020, 270))
-    halo_text(ink, (1032, 270), "White Note", place, TYPE, anchor="lm")
+    # Desk-house on the pier. The name stays on the sheet.
+    house_mark(ink, (966, 372))
+    leader(ink, (978, 360), (1000, 300))
+    halo_text(ink, (1012, 300), "White Note", place, TYPE, anchor="lm")
 
     halo_text(ink, (160, 200), "Chart mouth", place, TYPE_WATER)
     halo_text(ink, (980, 140), "Crossing-mouth", place, TYPE_WATER)
