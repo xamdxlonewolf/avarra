@@ -853,6 +853,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 - [ ] Do not open S.1, S.2, or S.3 until those answers are on this story. Do not update the world book. Do not draw a sheet.
 
 > **Answered (2026-10-03).** A capital is allowed when the power needs one and the place can say why. When there is a capital, prefer a large or huge city. Towns, villages, and hamlets are allowed as well. No seat has been written.
+>
+> **Answered (2026-10-03), next.** True medieval structure. Capitals and seats of power where they are needed. Large cities where they are expected. The rest scattered as towns, villages, and hamlets. A walled city that is all there is counts as a capital of sorts. No seat has been written.
 
 ### Story S.1 — Maiethorn's unnamed seats
 [[Maiethvael]], [[Orenbren]], [[Saelthael]], [[The Hinge Shore]], [[Lirorn]]. One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's refusal is already half-written: the compact has no capital, and the Inner Close stays a walled town inside it. Enough street for a later sheet: approaches, the Hand if the place has one, one tension. No capital star. The First Seat stays in the wood.
