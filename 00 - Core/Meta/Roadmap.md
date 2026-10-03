@@ -862,6 +862,8 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 >
 > **Answered (2026-10-03), Brenledd.** Brenledd gets a throne-city. The name is not chosen yet.
 >
+> **Answered (2026-10-03), the throne-city.** It is a river-city on the upper end of large, one of the largest, where the council sits and the shared notes clear. The charter-towns stay around it. It is not a second [[Orentel]]. The name is not chosen yet. No note has been created yet.
+>
 > **Answered (2026-10-03), words.** Ordinary sentences. "Compact" is not the word for a league or a group of towns. "A stranger means" is not a test. The plain-prose pass removed riddles and the labels Inscrutable, leave it, and 20%. It did not give the Inner Close a place-name. "The Close" and "Inner Close" stay as the old description until a real name is chosen.
 >
 > **Answered (2026-10-03), the name.** Draw a spoken name from the conservative list and show it before any note changes. The user picks. "Inner Close" stays an alias. New liturgical compounds stay frozen. Field, algorithm 1: `python3 "14 - Assets/Names/generate_names.py" --seed 20261003 --register conservative --count 40`. Shown: Breolma 4, Reolnain 5, Tairthen 16, Brortaer 22, Leinren 23, Rothallo 28. Thrown back from that field: English stems (Mortin, Tensen, Neosuth, Thuleith, Breitein, Vurleon, and the theo/neo draws), th-stacks a table will not say, Laethmaeth beside Maieth, Railnal and Venlaith beside Raillath.
@@ -890,7 +892,7 @@ After L.1–L.8, empty folders that were decisions get a stub that says so, and 
 [[Maiethvael]] (capital Seinbrun, S.0), [[Orenbren]] (capital Rothallo, S.0), [[Saelthael]] (medium city Larbril, on the Well-wash, S.0), [[The Hinge Shore]] (great port city Votaer, S.0), [[Lirorn]] (walled town Tasain, below the Shelf-gate, S.0). One traveler-name each: a city where the power can bear one, a town where it cannot, or a written refusal. Orenbren's capital is Rothallo, the place still called the [[The Walled Book|Inner Close]] until the notes are renamed. It stays inside Orenbren, with smaller towns and villages as needed (S.0). Enough street for a later sheet: approaches, the Hand if the place has one, one tension. The First Seat stays in the wood (S.0).
 
 ### Story S.2 — Strandoren's unnamed seats
-[[Brenledd]], [[Leddvael]], [[Trenledd]], [[Netstrand]]. Brenledd gets a throne-city (S.0). The other three get a city, a town, a village, or a hamlet when the country needs one. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
+[[Brenledd]] (throne-city, upper end of large, a river-city, name open, S.0), [[Leddvael]], [[Trenledd]], [[Netstrand]]. The charter-towns stay. The other three get a city, a town, a village, or a hamlet when the country needs one. [[Orentel]] is not redrawn. A new harbour is not a second Orentel.
 
 ### Story S.3 — Heskoren's unnamed seats
 [[Ornled]], [[Vaelhesk]], [[Saelvaeth]]. Thin country. A town is the likely answer, and a refusal is allowed. Vaelhesk's land can remain the seat; [[The First Bowl]] stays a guest-grove. Saelvaeth does not absorb [[Harrow's Green]]. [[Eolvaeth]] stays Vaethorn's town and is not given wards here.
