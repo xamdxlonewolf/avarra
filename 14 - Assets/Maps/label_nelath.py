@@ -46,11 +46,11 @@ def build() -> Image.Image:
     # Open dirt under the sound Hand.
     halo_text(ink, (560, 380), "The Tree", place, TYPE)
 
-    # Open spur, above the nearest roof and short of the stone.
-    halo_text(ink, (300, 230), "The stone", place, TYPE)
+    # Open dirt against the left face of the standing stone.
+    halo_text(ink, (418, 300), "The stone", place, TYPE, anchor="rm")
 
-    # The thorn ditch. Not a roof.
-    halo_text(ink, (1020, 500), "The scar", place, TYPE)
+    # In the thorn ditch, clear of the last roofs and the cistern.
+    halo_text(ink, (1090, 340), "The scar", place, TYPE)
 
     return canvas.convert("RGB")
 

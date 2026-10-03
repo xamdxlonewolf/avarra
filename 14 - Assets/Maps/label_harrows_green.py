@@ -42,11 +42,11 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # Open square, left of the Hand.
-    halo_text(ink, (390, 430), "The Tree", place, TYPE, anchor="rm")
+    # Open dirt against the left of the canopy.
+    halo_text(ink, (468, 410), "The Tree", place, TYPE, anchor="rm")
 
-    # Open square, right of the standing stone.
-    halo_text(ink, (740, 430), "The stone", place, TYPE, anchor="lm")
+    # Open dirt against the right of the standing stone.
+    halo_text(ink, (712, 410), "The stone", place, TYPE, anchor="lm")
 
     return canvas.convert("RGB")
 

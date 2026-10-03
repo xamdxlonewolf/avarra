@@ -47,9 +47,9 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # The turf door. The name would sit on the lamplit opening.
-    leader(ink, (575, 310), (400, 240))
-    halo_text(ink, (388, 240), "The hall", place, TYPE, anchor="rm")
+    # The lit turf door, low on the slope. The name sits in the open turf beside it.
+    leader(ink, (512, 628), (400, 590))
+    halo_text(ink, (388, 590), "The hall", place, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 
