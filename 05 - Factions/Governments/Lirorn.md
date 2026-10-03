@@ -8,11 +8,11 @@ tags: [faction, government, polity, maiethorn, epic-7, story-r10]
 aliases: [The Thaw-Land, Lirorn-folk, the Range-Holding, the Thaw-Wall]
 world: The Turning
 category: government
-seat: unnamed
+seat: "[[Tasain]]"
 public_face: the Rain-Wall — last year's snow as this year's civic year
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Lirorn
@@ -28,6 +28,8 @@ People say **the Thaw-Land** and **Thaw-folk**. Charters and learned maps write 
 [[Tengu]] ridge-towns and Fox-of-the-Snows hearths sit densest here ([[Kinds of the Turning]]). Mixed Kinds on every shelf. A lowlander arriving on foot is a guest who climbed.
 
 **Site.** The Rain-Wall. Leftover: ridge-roads that used to be walking-paths to the grove; stones in high squares; some roads that now end at a local Tree. Two passes a table needs: the **Noon Pass** (water-line over the old ribbon-notch) and the **Shelf-gate** (the road Narol took after [[The Thaw-Break]]).
+
+**Seat.** [[Tasain]] is the walled town in a sheltered valley below the Shelf-gate, where the west road comes down and the levy is taken. Villages and hamlets stay on the shelves. The Noon Pass stays a pass. [[Narol of the Pass]] stays the person already written. No new mouth.
 
 **How it formed.** March-holds on the snowmelt. Mid governance because water is a fact you can levy without a census of souls: you tax the thaw, the pass, the high road. Theology cooled by height and distance from the grove's daily pressure, not by doubt. C.Y. 233 made the levy visible as a water-line. The injustice did not start that year. The year named it.
 
@@ -48,9 +50,9 @@ Keep the passes and the spring. Be paid for water the core calls a gift. Stay un
 - Do not flesh districts.
 - Do not make a Tengu empire.
 - Do not make a Fox-of-the-Snows kingdom.
-- **Canon status.** 🟡 **Named stub, sharpened.**
+- **Canon status.** 🟡 **Named stub, seated.**
 - Seed `20260827` (name) · terrain `20260831`.
-- Seat stays unnamed (three corner seats already named).
+- Seat is [[Tasain]]. Do not turn the Noon Pass into a town. Do not give the gate a new person. Narol stays.
 
 - **Not a watershed with a toll as the only sentence.** The job is *last year's snow as this year's civic year.* Maiethlir is downstream. Saelthael's west-road crosses the Shelf-gate. Close either and Clock 2 shows on the Motherland.
 - **Hearths, not nations.** Tengu densest. Snows-Fox densest. The interesting PC is a human or Selkie of the Thaw-Land, or a Tengu of [[The Hinge Shore]].
@@ -58,6 +60,6 @@ Keep the passes and the spring. Be paid for water the core calls a gift. Stay un
 - **Hooks.** A thaw delayed; a Noon Pass stone children rub; Break-rate in a kind year; Threnmaieth tablets at the Shelf-gate; Vehaela wanting an uncounted loft off thin snow; a sky-courier strip that says *this is not a row.*
 
 ## Links
-- [[Powers of the Turning]] · [[Maiethorn]] · [[Named Ground]] · [[The Thaw-Break]]
+- [[Powers of the Turning]] · [[Maiethorn]] · [[Tasain]] · [[Named Ground]] · [[The Thaw-Break]]
 - [[Maiethlir]] · [[Saelthael]] · [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]]
 - [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; Story R.10)

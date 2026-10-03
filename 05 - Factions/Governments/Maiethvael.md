@@ -8,11 +8,11 @@ tags: [faction, government, polity, maiethorn, epic-7]
 aliases: [The Gift-Realm, the Mother's Gift, Maiethvael-folk]
 world: The Turning
 category: government
-seat: unnamed
+seat: "[[Seinbrun]]"
 public_face: the old gift-country that shares the Mother and will not keep a list
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # Maiethvael
@@ -26,6 +26,8 @@ People say **the Gift-Realm** and **Gift-folk**. Charters and learned maps write
 An old, Tree-dense Motherland realm that treats Tithe-provision as **public tending** — greens, halls, and medicine furnished by congregation and guild, not by a crown channel. Citizenship is witnessed in the world's warm default. There is no [[Naming in the Turning|Threnhael]] here; they will tell you counting persons is a failure of trust in the [[Law and Citizenship|three pillars]]. The hymns are the same ones [[Polity Archetypes|Threnmaieth]] sings. The paper is not.
 
 **Site.** Full-reach [[Maiethorn]] country in sight of the pilgrimage weather, not coiled on the grove. Leftover: origin pilgrimage-country that *furnishes* — the extra mile as hospitality, not as a roll-line.
+
+**Seat.** [[Seinbrun]] is the capital, a large city off the [[Named Ground|Core-thaw]], a day's argument from [[Maiethlir]]. Not Maiethlir. Not [[The Down-Bank]]. Smaller towns and villages around it stay unnamed. The hall furnishes. The city does not keep a list.
 
 **How it formed.** Gift-integration that never accepted a census. [[The Two Papers]] (C.Y. 67) is the year: **Manril** would not be named to Limrae's roll. Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. Light state on purpose. The gap is filled by faith and guild, not by a clerk.
 
@@ -46,17 +48,17 @@ Keep the gift hale without writing the gifted down. Furnish generously. Pity the
 - **Production (R.13).** Moved off the player body:
 - Named-stub for [[Roadmap|Story 7.1]].
 - Do not flesh districts.
-- Do not name a capital.
+- Seat is [[Seinbrun]]. Do not move it onto Maiethlir or the Down-Bank. Do not census the towns around it.
 - Do not make this the kind foil to [[Polity Archetypes|Threnmaieth]].
-- **Canon status.** 🟡 **Named stub.**
+- **Canon status.** 🟡 **Named stub, seated.**
 - Seed `20260827`.
-- Seat stays unnamed (three corner seats already named).
+- The three corner seats stay [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. Seinbrun is this power's capital, not a fourth corner.
 
 - **Not the good kingdom.** Congregation-welfare can still price belonging through piety.
 - **Name-pair with Threnmaieth.** Same *maieth*; gift vs reckoning. A scholar may notice. Do not gloss it.
 - **Hooks.** A Kept child in full-reach plenty; a Tithe-poor household that left the hymn and lost the green; Threnmaieth clerks who want this realm *named* to the roll; a Watcher family and a Motherfaith guild sharing a Tree and not a list.
 
 ## Links
-- [[Powers of the Turning]] · [[Polity Archetypes]] · [[Maiethorn]]
+- [[Powers of the Turning]] · [[Polity Archetypes]] · [[Maiethorn]] · [[Seinbrun]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Leaf-Mother]] · [[The Watching]]
 - [[The Two Papers]] · [[The Other Count]] · [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; history R.9)

@@ -11,7 +11,7 @@ region: "[[Orenbren]]"
 population: a Hands-town — one square at the end of a spur; fewer hearths than the Mill-hold
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Nelath
@@ -110,7 +110,7 @@ Raetoth cannot afford to see that a stone in a square is still a grave, or that 
 - **Not Harrow's Green.** Harrow's job is the neighbour's week. Its stone is still the road's drink, and Haelin wants it moved for the crowd. Beyond those boughs a cart-track goes to the ford. Do not relabel that green into this town.
 - **Not Brenthael.** Meirim wants the Third Hearth's stone down for an extra-mile crowd. Brenthael's Hand is sound and the Mile goes through. Nelath's stone is the spur's own next day, already pulled in.
 - **Not the Mill-hold.** Sick wood, a neighbour-slate, children walking *in*. "The road ended at the boughs" there is Clock 1 texture while the Mile continues grove-ward. Here the spur stops. Do not sicken Nelath to make it interesting. Do not move the culvert here.
-- **Not a capital.** Orenbren's seat stays unnamed. The First Seat stays in the wood. Do not capture either.
+- **Not a capital.** Orenbren's capital is [[Rothallo]], still called the Inner Close. This town is not it. The First Seat stays in the wood. Do not capture either.
 - **Not a deathless inn.** No Held bed. No century-note. The upper room is the pulled-in day, not a second White Note and not Seine's lintel.
 - **One leftover job.** The stopped walk. A ribbon is texture. A Road-hand upstairs is texture. A necessity-family belongs back on the Mile.
 - **Postcard check.** The scar is thorns and a dry ditch, not a green lane. The stone is a waymark and a grave. Do not launder it into a view.

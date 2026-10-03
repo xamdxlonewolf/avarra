@@ -11,7 +11,7 @@ region: "[[Maiethorn]]"
 stratum:
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # The Third Hearth
@@ -68,6 +68,8 @@ Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The 
 
 The two fates of the same origin still stand. The White Note collected, on a [[Strandoren]] quay. The Third Hearth kept making the bed. Play both. Mataero cannot see this house except as a warning.
 
+At dark, Thilim sets the yard-broom across the lintel and steps over it. They will not say why.
+
 ## People & Powers
 
 [[Thilim]] is a person now ([[People of the Turning]]). Do not add a court around the inn.
@@ -112,6 +114,7 @@ Moved from the player-facing body during residual export polish:
 - **Thilim's four jobs** stay disagreed. Do not pick which sermon they are.
 - **Mataero's blindness stands.** Do not correct the junior in Thilim's voice unless play wants the collision.
 - **Keystone:** do not let the stone assert the mind. It is a day's water and a name.
+- **Habit (S.1).** One, and the count is full. The broom on the lintel. A later note must not explain it, and must not turn it into a power, a relic, or a rite. Do not add a person. Thilim stays the mouth.
 - **Hooks.** Seine's name on a lintel; Brenthael wanting the stone down; a First-Hand year and a neighbour's week in the same loft; a note that outlived a family; Thilim asked to convert a house-year to a Cut-year for a court; a cutting in the pot that is still not a Tree; a pilgrim who thought Orenbren *was* the Seat; wool-merchants from the White Note's loft looking at empty beds and calling them failure; Meirim hosting [[The Mill-hold]]'s cohort while still wanting this stone down.
 - **Do not sicken Brenthael** to tidy the sick-Tree type. That square is [[The Mill-hold]].
 

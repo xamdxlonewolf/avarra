@@ -5,19 +5,19 @@ visibility: player
 note_status: fleshed
 status: active
 tags: [faction, government, kept, political-class, orenbren]
-aliases: [The Closed Heirs, The Inner Close, The Book of Tithes, The Untithed Seat]
+aliases: [The Closed Heirs, The Book of Tithes, The Untithed Seat]
 world: The Turning
 category: government
-seat: the Inner Close — a walled town in [[Orenbren]] lodging-country, not a sixteenth flag
+seat: "[[Rothallo]] — Orenbren's walled capital, still called the Inner Close; inside Orenbren, not a sixteenth flag"
 public_face: a compact of Kept houses that still tax and roster the Conditioned by a book older than the Threnhael
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # The Walled Book
 
-Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. The place: **the Inner Close** — first day's walk from the Motherwood, walled, lodged *inside* [[Orenbren]] and not counted as a sixteenth great power. Orenbren treats the walls as a guest-compact that never opened. [[Polity Archetypes|Threnmaieth]] treats them as a roll that will not share ink.
+Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. The place: **[[Rothallo]]**, still called **the Inner Close** — first day's walk from the Motherwood, walled, the capital of [[Orenbren]] and not a sixteenth great power. Orenbren treats the walls as a guest-compact that never opened. [[Polity Archetypes|Threnmaieth]] treats them as a roll that will not share ink.
 
 This is **political class rule**, not a church. They do not Speak colours. They do not pour a god. They **classify**.
 
@@ -28,7 +28,7 @@ Folk still say there was an older empire of the untithed, and that it sat on the
 | | |
 |---|---|
 | **Want** | A Closed Heir who stays Kept, and a Book that still assigns what the Conditioned owe. The walls shut. The class intact. |
-| **Have** | The Book of Tithes, an heir-roll, a walled town, and labour-rosters the lodging-country pretends are house-custom. |
+| **Have** | The Book of Tithes, an heir-roll, the walls of Rothallo, and labour-rosters the lodging-country pretends are house-custom. |
 | **Fear** | A Closed child Given at the next Leaf-Fall. Threnmaieth copying the Book onto the Threnhael. Orenbren deciding the guest-compact is a bed-tax. |
 | **Live conflict** | Talnin's heir-name is on the roll. The Tree has not Spoken this child's colour yet. Delamem has already drafted the labour-line *if the leaf is not a hug*. |
 | **Hooks** | A Given heir struck from the heir-roll in the same week as the fair; a labour-roster that assigns Taken-In to a lot they may not leave; a tax on a Bound's next signing; Threnmaieth clerks at the gate with empty tablets; a pilgrim who thought the Close was an inn. |
@@ -61,7 +61,7 @@ Orenbren witnesses who slept. The Close witnesses who *owes*. They share a count
 - They will not Speak a colour or officiate a Leaf-Fall. A warden may come in for Turning-Week. The copy after the Speaking is *their* copy, not the Seat's and not the Threnhael's.
 - They will not pour years into a cup. [[The Pourers]] are a deathless hobby. A Closed Heir who is Long-Lived may pour. The Book does not care.
 - They will not hide a [[Phoenix]]. White-fire inside the walls is a classification emergency, not a relic.
-- They will not add a sixteenth flag. The Close is a town. The fifteen already include Orenbren.
+- They will not add a sixteenth flag. Rothallo is Orenbren's capital. People still say the Inner Close. The fifteen already include Orenbren.
 
 ## How they reach a party
 
@@ -91,7 +91,7 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 ## GM Notes
 
 - **Political classification.** Engine two of three. Not religious self-consumption ([[The Pourers]]). Not worship used to hide extraction ([[The Protectors]]). The injustice is the Book, not a hymn.
-- **Not a sixteenth power.** Lives inside Orenbren as a walled town. **Placement 🔒 (Story R.10):** the Closed Seat sat the grove; Hildal's Retreat closed walls a day's walk from the Motherwood. A shore-flag cannot carry that remnant. Do not move the Book to [[The Hinge Shore]]. Do not promote the Close. Do not capture the First Seat. Do not make this Threnmaieth's inner court — that collapses two lists into one.
+- **Not a sixteenth power.** [[Rothallo]] is Orenbren's capital, still called the Inner Close, still inside Orenbren. **Placement 🔒 (Story R.10):** the Closed Seat sat the grove; Hildal's Retreat closed walls a day's walk from the Motherwood. A shore-flag cannot carry that remnant. Do not move the Book to [[The Hinge Shore]]. Do not move the walls out of Orenbren. Do not capture the First Seat. The wood is not crowned. Rothallo is not the college. Do not make this Threnmaieth's inner court — that collapses two lists into one.
 - **Old empire, now written.** The Closed Seat sat the grove and decided who could walk. [[The First Cut]] broke the monopoly; [[The Closing]] is the war, the collapse, Hildal's Retreat. Do not name the cutter. Do not promote the Close to a sixteenth flag. Do not make Hildal a villain-king.
 - **Distinct from Threnmaieth.** Sacred census writes everyone as care. The Book ranks the tithed and disinherits the Given heir. A campaign can steal both lists and they will not say the same thing about the same child.
 - **Names.** Delamem, Talnin of the Inner Close — seed `20260830`, conservative list, mid-bottom. Inner Close / Walled Book / Closed Heirs / Book of Tithes are common-tongue. No new liturgy.
@@ -99,7 +99,7 @@ On its face: estate law. Underneath: "we do not file this as a slight" is the on
 - **Hooks.** The colour that strikes an heir; clerks at the gate; a pilgrim ranked as labour; Orenbren full and the Close shut; a Bound eaten by Book and desk in the same week.
 
 ## Links
-- [[Orenbren]] — the lodging-power this town sits inside · [[Powers of the Turning]]
+- [[Orenbren]] — the lodging-power · [[Rothallo]] — the capital, still called the Inner Close · [[Powers of the Turning]]
 - [[Polity Archetypes|Threnmaieth]] · [[The Reckoned Offices]] — the other list
 - [[Law and Citizenship]] — the Kept as default legal person, here elevated to rule
 - [[The Tree-Wardens]] · [[The First Cut]] — hinge · [[The Closing]] — the war · [[The Low Wall]] — not these walls

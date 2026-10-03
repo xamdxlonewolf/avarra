@@ -10,7 +10,7 @@ aliases: [Named Terrain, Rivers and the Rain-Wall, Travel Times]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Named Ground
@@ -121,7 +121,7 @@ The three walks, converted:
 
 | From | To | How | Fair weather |
 |---|---|---|---|
-| [[Turning Tree\|Thaeloren]] | [[The Walled Book\|Inner Close]] | walk | **1 day** |
+| [[Turning Tree\|Thaeloren]] | [[Rothallo]] (still called the Inner Close) | walk | **1 day** |
 | Thaeloren | [[Maiethlir]] | river road along the Core-thaw | **1–2 days** |
 | Thaeloren | [[The Third Hearth]] | Near Mile | **3 days** |
 | Third Hearth | Brenthael | Near Mile | **1 day** further out |
@@ -150,7 +150,7 @@ A Hale-month storm on the Old Crossing can turn a Salt Walk into a missed year. 
 
 The surviving Kept regime is **not** a sixteenth flag and **not** a replacement of [[The Hinge Shore]].
 
-The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retreat closed walls **one day's walk from the Motherwood**, inside [[Orenbren]] lodging-country. That is the [[The Walled Book|Inner Close]]. A shore-flag cannot carry a remnant that sat the *grove*. The Hinge Shore is the hinge of a different war ([[The Hinge Hush]]). Leave both jobs where they are.
+The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retreat closed walls **one day's walk from the Motherwood**, inside [[Orenbren]] lodging-country. That place is [[Rothallo]], still called the Inner Close. The Book is [[The Walled Book]]. A shore-flag cannot carry a remnant that sat the *grove*. The Hinge Shore is the hinge of a different war ([[The Hinge Hush]]). Leave both jobs where they are.
 
 ## Links
 - [[The Known Map]] — the labelled picture · [[The World Frame]] — the reach-gradient
@@ -159,7 +159,7 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - [[Powers of the Turning]] · [[The Walking Years]] · [[The Other Count]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Closing]]
 - [[Maiethlir]] · [[Orentel]] · [[Eolvaeth]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[The Mill-hold]] · [[The First Bowl]] · [[Ornsael]] · [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]]
-- [[The Walled Book]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
+- [[The Walled Book]] · [[Rothallo]] · [[Orenbren]] · [[The Hinge Shore]] · [[Lirorn]] · [[Netstrand]]
 - [[01 - World]]
 
 ## GM Notes
@@ -169,6 +169,6 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 
 - **Names are handles, not a new cosmology.** The reach-gradient is still the load-bearing map. Distances make the walks expensive; they do not confirm a mind.
 - **Kumbaan never.** Align every later sentence with [[The First Cut]]: wrecked pots allowed; a taking is not.
-- **Inner Close stays in Orenbren.** The geography pass is closed. Do not promote. Do not move the Book to the Hinge Shore to tidy a stub.
+- **Rothallo stays in Orenbren.** People still say the Inner Close. The geography pass is closed. Do not move the walls. Do not make a sixteenth power. Do not move the Book to the Hinge Shore to tidy a stub. The First Seat stays in the wood.
 - **The Core-thaw's loud week is already on Maiethlir, and that note does not explain it.** Do not explain it here.
 - **Hooks.** A Hush-rate on a necessity-family; a Shelf-gate closed in Liren; a Rise-water cup the Seat will not name; a Chart-run delay that makes a Grey-verso due; a Well-wash year that looks like Clock 2 at the origin.

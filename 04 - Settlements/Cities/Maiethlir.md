@@ -11,7 +11,7 @@ region: "[[Maiethorn]]"
 population: a counted city — smaller than Orentel, older; the clerks will tell you a number after every Eolthael
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Maiethlir
@@ -89,6 +89,10 @@ Devotion is the job on the street: people still come because the hinge is holy. 
 
 The Core-thaw runs louder the week before Leaf-Fall. Clerks file it as snowmelt. Watchers do not. Maiethlir will not say why. Rithim will Speak over it. A clerk will wait for the water to quiet before copying.
 
+The counted hall serves the Far-Voiced hour from cups that have already been used that morning. Maiethlir will not say why.
+
+Clerks tie a loose thread around the tablet-stylus on the day a marriage is copied, and cut it off before a colour. They will not say why.
+
 ## People & Powers
 
 Cast: [[People of the Turning]]. [[Rithim]] and [[Laevila]] are people now, not only offices.
@@ -146,6 +150,7 @@ Moved from the player-facing body during residual export polish:
 - **Maiethvael is the argument next door.** Same *maieth*, opposite paper. Do not make them the kind foil (piety as a social tax in plenty).
 - **Keystone:** dense Given stay horticulture in player text. Do not let the tablet assert the mind. The loud river is not her voice unless a later reveal earns it.
 - **The counted channel remains coercive.** Devotion sanctifies the surveillance; the surveillance enforces the devotion. No clean villain.
+- **Habits (S.1).** Three, and the count is full. The loud thaw was already here. The used cups and the thread on the stylus are the two added. A later note must not explain any of the three, and must not turn them into a power, a relic, or a rite. Do not add a person from this pass.
 - **Hooks.** A colour Spoken and not copied in the same breath; steal, forge, or refuse a Threnhael line; a Grown-Over room under a recut chapel; a Kept child pitied and filed; the crown withholding green; a Long-Lived archivist who remembers an overwrite; a pilgrim who thought Maiethlir *was* the Seat; a necessity-family from Lirorn's thin snow; pairing a session with [[The Third Hearth]] so lodging and counting have to share a week.
 
 ## Links

@@ -9,12 +9,12 @@ aliases: [the down-bank, the lower Core-thaw]
 world: The Turning
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # The Down-Bank
 
-> **The blank between two places a traveler already crosses.** Downstream of [[Maiethlir]], on [[Named Ground|the Core-thaw]], before [[The Hinge Shore]] asks what a hull is. Not a power. Not a seat. Not a city. The first day below the Down Gate can still be [[Maiethvael]]'s argument. This note does not name that seat and does not list those people.
+> **The blank between two places a traveler already crosses.** Downstream of [[Maiethlir]], on [[Named Ground|the Core-thaw]], before [[The Hinge Shore]] asks what a hull is. Not a power. Not a seat. Not a city. The first day below the Down Gate can still be [[Maiethvael]]'s argument. The seat is [[Seinbrun]], and it is not on this bank. This note does not list the people.
 
 ## What you are in
 
@@ -39,6 +39,6 @@ No Tree in this note is a seat. Hands along the bank Turn at their own hearths w
 - **The first quay-question, too early.** A traveler rehearses a hull-class for an innkeeper who has no hull. The innkeeper hears a person who has not arrived.
 
 ## Links
-- [[Maiethlir]] · [[The Hinge Shore]] · [[Maiethvael]] · [[Named Ground]]
+- [[Maiethlir]] · [[The Hinge Shore]] · [[Maiethvael]] · [[Seinbrun]] · [[Named Ground]]
 - [[Regions]] · [[Orenbren]] · [[Nelath]]
 - [[04 - Settlements]] · [[Climate of Maiethorn]]

@@ -9,7 +9,7 @@ aliases: [The Cast, Capital Casts, Positional Pivots]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # People of the Turning
@@ -93,6 +93,24 @@ Not a second court. Squares that needed a second shape.
 | Soonke · Saalo | [[Ndenjoo]] sand / valley | sit / leave | wreck off the hill; Waandi found |
 | Thuda | [[The Low Wall]] garden-end | innkeep | labour off the garden |
 
+## Maiethorn's seated mouths
+
+Mouths at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Rothallo]] a clerk says the house first. [[Tasain]] has [[Narol of the Pass]] on the levy, and no one new.
+
+| Person | Square | The job | The want that is not a Tree |
+|---|---|---|---|
+| [[Vuthbraen]] | [[Seinbrun]] | the furnished hall | the pot still open to a house that left the hymn |
+| [[Breillai]] | [[Seinbrun]] | outside the hymn | a green and a bed without the net |
+| [[Raermu]] | [[Seinbrun]] | the medicine basket | a stiller's hour for a Kept child |
+| [[Brimaen]] | [[Rothallo]] | a stall inside the walls | the key through Turning-Week. House Lanbru. |
+| [[Breolnir]] | [[Rothallo]] | the sleep-line at the gate | a Given pilgrim written as sleep. House Tethnae. |
+| [[Methei]] | [[Rothallo]] | labour on the outer beds | the assignment ends at dark. House Sithlaen. |
+| [[Brormei]] | [[Larbril]] | the meeting of road and wash | the west road still a road when the wash is silt |
+| [[Tumair]] | [[Votaer]] | the hull's docket | one class for a hull that is also a pilgrim |
+| [[Lertho]] | [[Votaer]] | the Hush-rate | the rate taken as a rate |
+
+Delamem and Talnin remain the Book's mouths, on [[The Walled Book]]. [[Hithaen]] is another Given heir, already in [[Eolvaeth]].
+
 ## Four campaign seeds
 
 The houses exist. Do not grow the four into a crew.
@@ -138,6 +156,8 @@ Moved from the player-facing body during residual export polish:
 - [[Vaethod]] · [[Rithim]] · [[Mataero]] · [[Thilim]] · [[Laevila]] · [[Tesara]]
 - [[Reimaethe]] · [[Hithaen]] · [[Taeren]] · [[Rosire]]
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]
+- [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]
+- [[Vuthbraen]] · [[Breillai]] · [[Raermu]] · [[Brimaen]] · [[Breolnir]] · [[Methei]] · [[Brormei]] · [[Tumair]] · [[Lertho]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
 - [[The Mill-hold]] · [[The First Bowl]]
 - [[Ndenjoo]] · [[Njunda]] · [[Ledan]]

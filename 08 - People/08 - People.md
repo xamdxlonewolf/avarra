@@ -43,6 +43,13 @@ Dead mouths the years still say. The living cast stays in the lists above. The a
 - [[Orentel]]: [[Sorel]] · [[Valen]] · [[Lasole]] · [[Didel]]
 - [[Maiethlir]]: [[Valein]] · [[Senithi]] · [[Vehaela]] · [[Baerith]]
 
+### Maiethorn seats
+- [[Seinbrun]]: [[Vuthbraen]] · [[Breillai]] · [[Raermu]]
+- [[Rothallo]]: [[Brimaen]] · [[Breolnir]] · [[Methei]]
+- [[Larbril]]: [[Brormei]]
+- [[Votaer]]: [[Tumair]] · [[Lertho]]
+- [[Tasain]] — no new person. [[Narol of the Pass]] stays.
+
 ### Campaign seeds
 - [[Reimaethe]] — volunteer who wants out
 - [[Hithaen]] — disinherited Given heir

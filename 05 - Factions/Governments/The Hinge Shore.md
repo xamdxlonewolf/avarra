@@ -8,11 +8,11 @@ tags: [faction, government, polity, maiethorn, epic-7, story-r10]
 aliases: [The Hinge-Shore, Hinge Shore, Eolstrand, the Old Crossing Face, Hinge-folk]
 world: The Turning
 category: government
-seat: unnamed
+seat: "[[Votaer]]"
 public_face: the Motherland's Old-Crossing ports — they decide whether a hull is a pilgrim, a pot, or cargo
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-03
 ---
 
 # The Hinge Shore
@@ -31,6 +31,8 @@ updated: 2026-08-31
 
 **Site.** Old Crossing face. Leftover: salt-adjacent Old-World quays (the Salt Walk's *other* shore — people embarked *from* Strandoren; they landed here). The **Hush-rate** is charged as old custom ([[The Hinge Hush]]). They will not call it a victory.
 
+**Seat.** [[Votaer]] is the port, one of the largest, because the crossing is why the people are there. Hulls are classified on those quays. The Hush-rate is charged there. It faces [[Orentel]] and is not a second Orentel. Towns and villages along the rest of the shore stay unnamed.
+
 **How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides. [[The Grey Summer]] taught the pious shore how to step around a fade *without putting the blessing down.* The cool cousin starts there as weather, not as a conversion.
 
 ## Structure & Membership
@@ -48,12 +50,12 @@ Keep the Old Crossing the world's highway. Classify the hull before anyone price
 - **Production (R.13).** Moved off the player body:
 - Named-stub for [[Roadmap|Story 7.1]]; sharpened Story R.10.
 - Do not flesh districts.
-- Do not name a capital.
+- Seat is [[Votaer]]. Do not make it a second Orentel.
 - Do not make a Selkie nation.
-- Do not let this flag carry the [[The Walled Book|Inner Close]].
-- **Canon status.** 🟡 **Named stub, sharpened.**
+- Do not let this flag carry [[Rothallo]], still called the Inner Close.
+- **Canon status.** 🟡 **Named stub, seated.**
 - Seed `20260827` (name) · terrain `20260831`.
-- Seat stays unnamed (three corner seats already named).
+- The three corner seats stay where they are. Votaer is this shore's port.
 
 - **Not Lestrand-lite.** Same high reach, cooler faith — on the *conservative* shore. The independent-axes proof is the *job*: classify, do not price. Do not let mid-hymns read as thin Trees.
 - **Not a Selkie flag.** Coasts are hearths.
@@ -61,7 +63,7 @@ Keep the Old Crossing the world's highway. Classify the hull before anyone price
 - **Hooks.** A cargo that is also a pilgrim; a Hush-rate on a neighbour's week; a Lestrand note protested in a Motherland court; a Far-Voiced dock-witness who will not sell their feeling; Nomele of the Hinge selling a standing; dock-bells that still pause in Hale-month, then go back to cargo.
 
 ## Links
-- [[Powers of the Turning]] · [[Maiethorn]] · [[Strandoren]] · [[Named Ground]]
+- [[Powers of the Turning]] · [[Maiethorn]] · [[Votaer]] · [[Strandoren]] · [[Named Ground]]
 - [[The Hinge Hush]] · [[The Grey Summer]] · [[The Standing Trade]]
 - [[Kinds of the Turning]] · [[Selkie]] · [[The Walking Years]]
 - [[The Walled Book]] — not this shore · [[Roadmap]] (Story 7.1; Story R.10)

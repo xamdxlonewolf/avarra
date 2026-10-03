@@ -9,7 +9,7 @@ aliases: [The Great Powers, The Fifteen, Named Powers, The Other Powers]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # Powers of the Turning
@@ -69,7 +69,7 @@ The three corners [[Polity Archetypes]] left un-built are now on the map: **Maie
 
 ## How they sit (network, not a painted map)
 
-**[[Maiethorn]]** — the Tallied Crown coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (Core-thaw Hand, *not* the grove). The Gift-Realm shares the Mother and refuses the list: same hymns, opposite paper. The Witness-Hearths are the lodging-agglomeration of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* them and is not their crown. [[The Third Hearth]] is one lodging-mouth; [[The Mill-hold]] is a Hands-town two days past Brenthael whose Hand is unsound this year — not a capital. [[Nelath]] is a spur that leaves the Mile and stops — not a capital and not the seat. The [[The Walled Book|Inner Close]] lives *inside* this compact. The Sown Tree is the leeward east, still walking west after the core stopped. [[The Hinge Shore]] faces [[Strandoren]] across [[Named Ground|the Old Crossing]] and classifies the hull. The Thaw-Land holds [[Named Ground|the Rain-Wall]]; Fox-of-the-Snows and [[Tengu]] hearths are *densest* here, and it is not their country.
+**[[Maiethorn]]** — the Tallied Crown coils near the sacred centre and wants everyone on the [[Naming in the Turning|Threnhael]]; its seat is [[Maiethlir]] (Core-thaw Hand, *not* the grove). The Gift-Realm shares the Mother and refuses the list: same hymns, opposite paper; its capital is [[Seinbrun]]. The Witness-Hearths are the lodging-country of the Near Mile — civic, not clerical; the [[The Tree-Wardens|First Seat]] sits in the Motherwood *beside* them and is not their crown. Their capital is [[Rothallo]], still called the Inner Close, inside Orenbren. [[The Third Hearth]] is one lodging-mouth; [[The Mill-hold]] is a Hands-town two days past Brenthael whose Hand is unsound this year — not a capital. [[Nelath]] is a spur that leaves the Mile and stops — not a capital and not the seat. The Sown Tree is the leeward east, still walking west after the core stopped; its city is [[Larbril]], and [[Ornsael]] stays the smaller well-town. [[The Hinge Shore]] faces [[Strandoren]] across [[Named Ground|the Old Crossing]] and classifies the hull at [[Votaer]]. The Thaw-Land holds [[Named Ground|the Rain-Wall]]; its town is [[Tasain]], below the Shelf-gate. Fox-of-the-Snows and [[Tengu]] hearths are *densest* on that snow, and it is not their country.
 
 **[[Strandoren]]** — [[Polity Archetypes|Lestrand]] is the premier coast; its seat is [[Orentel]] (Salt Quay; White Note on the third quay, not the crown). [[Brenledd]] is the compact of towns that got tired of being priced by one set of houses. [[Leddvael]] made [[The Fair Hand]] a civic rite on a different stretch of signing-water. [[Trenledd]] is the wealthy interior that started counting tickets and did not stop. [[Netstrand]] faces the open ocean toward [[Heskoren]] and, in stories, the storm-wall.
 
@@ -97,11 +97,11 @@ The fifteen are not fifteen ancient kingdoms. [[Maiethorn]]'s six inherit a grov
 | **[[Vaelhesk]]** | Host-rights older than the wave; not on the Hush clause | A first meal is not a landing-due. Vaethorn reads their children as Kept-for-want. |
 | **[[Saelvaeth]]** | Live march from the C.Y. 200s; Hush: may take a pot without a waiting-due | The queue is the border. Harrow's luck is politics. |
 
-The [[The Walled Book|Inner Close]] sits inside Orenbren and remembers the sitting, not a continent. It is not a sixteenth flag.
+[[Rothallo]], still called the Inner Close, sits inside Orenbren and remembers the sitting, not a continent. It is not a sixteenth flag. The Book is [[The Walled Book]].
 
 ## What these names are not
 
-- **The twelve stubs' seats stay unnamed.** The three corner capitals are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. Leftover squares are not throne-cities.
+- **Maiethorn's five seats are named.** [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]. Strandoren's and Heskoren's seats stay unnamed. The three corner capitals are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. Leftover squares are not throne-cities.
 - **Hearths, not flags.** [[Kinds of the Turning]]. The Sown Tree is sand-country, not a Fox kingdom. The Thaw-Land is a watershed, not a Tengu empire. The Hinge Shore and the Night Shore are shores, not Selkie thalassocracies. The Far Yield is host-rights, not a Taken-In nation.
 - **Faiths are not extra flags.** [[The Watching]] stays a heartland heresy *inside* Maiethorn districts. Leddvael is the one power that made a rival faith *civic* — and even there the Book-hands have no seat.
 - **Kumbaan is not on this list.** There is no mile-shrine on the Isle.

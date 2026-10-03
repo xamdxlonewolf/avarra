@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, settlements, epic-6, epic-7]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-03
 ---
 
 # 04 - Settlements
@@ -32,6 +32,13 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[Eolvaeth]] — Vaethorn's pilgrim-edge; a town; the conflict walks in
 - [[Orentel]] — Lestrand's salt-quay; crane and hold; the Drop is the hill between them
 - [[Maiethlir]] — Threnmaieth's counted river-seat; the Loft Row is the tension
+
+### Maiethorn's other seats
+- [[Seinbrun]] — Maiethvael's capital; the furnished hall
+- [[Rothallo]] — Orenbren's capital; still called the Inner Close
+- [[Larbril]] — Saelthael's city, where the west road meets the Well-wash
+- [[Votaer]] — the Hinge Shore's port; the classification quay
+- [[Tasain]] — Lirorn's walled town below the Shelf-gate
 
 ### The spur, and three halts
 - [[Nelath]] — road-end Tree-town; the walk stopped; the square is the last mile
