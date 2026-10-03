@@ -280,7 +280,31 @@ The Rise inside the roofs. The Tree is a mature Hand, a broad dark hardwood fill
 
 **Orentel.** `Orentel-City-Atlas-Labeled.png` is a Pillow overlay on `Orentel-City-Atlas.png`. West is left. The estuary opens east. **Chart mouth** is the western river entry. **Crossing-mouth** is the eastern sail-in. **The Tree** stands on **The Rise**, a small square inside the roofs. **The Drop** is the street from that free Hand down to the held berths. The drop sheet shows only its inland start, with the Tree surrounded by roofs, and does not draw the quays. **First Quay** is the old south landing at the end of that street, on the city plate. **The Third** is the north-side quay. **White Note** is a desk-house on that quay, not a crown and not on the Rise. **Hallowquay** is the lesser inner landing. **Inland yard** is the open pasture behind the Rise. No capital star. No city wall is named. [[Denlad]] is not a district here. Script: `label_orentel_city.py`.
 
-**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these city sheets by cropping a regional master. The next map work is Epic M. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
+## City details — 2026-10-03
+
+Two new closer paintings. Not crops of Sacred Core, Chart-run, Old Crossing, the continent masters, or the four city paintings already in the atlas. Names come from [[Maiethlir]], [[Orentel]], and [[The White Note House]]. If a painting and a note disagree, the note wins. The image model was not asked to write. The city plates, the heart sheet, and the drop sheet were not redrawn. Unlabeled Prototype 3 sheets stay the regional handouts. World book untouched.
+
+### Orentel piers
+
+![[Orentel-Piers-Atlas.png]]
+
+The tide, not the hill. The Rise stays off the inland edge, so the Tree stays inland. The Drop's quay end may enter from that edge. The Tree, the square, and the salt on the roots stay on the drop sheet. Rebuild with `label_orentel_piers.py`.
+
+![[Orentel-Piers-Atlas-Labeled.png]]
+
+### Maiethlir Grove Bank
+
+![[Maiethlir-Grove-Bank-Atlas.png]]
+
+The road, not the square. The gate is in the old flood-wall. The Motherwood is a dark behind that gate. The wood is not labeled. The First Seat is not marked. Rebuild with `label_maiethlir_grove_bank.py`.
+
+![[Maiethlir-Grove-Bank-Atlas-Labeled.png]]
+
+**Orentel piers.** `Orentel-Piers-Atlas-Labeled.png` is a Pillow overlay on `Orentel-Piers-Atlas.png`. West is left. The frame is the tide. **First Quay** is the south landing. Berths 1–4 are held. Berth 5 is earth. The berths are not lettered. **The Third** is the north-side quay. **White Note** is one desk-house on that north side, not the council, not the crown, and not a palace. Mataero's loft stays off this sheet with the Rise. Hallowquay, the inland yard, the Chart mouth, the Crossing-mouth, Denlad, the release-house, and the leaf-lots stay off the labels. No city wall. No capital star. Script: `label_orentel_piers.py`.
+
+**Maiethlir Grove Bank.** `Maiethlir-Grove-Bank-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-Grove-Bank-Atlas.png`. West is left. The frame is the road. **Grove Bank** is the north road from the wood, one or two days, and it is not the Near Mile. The gate is in the old flood-wall. The wood is a dark behind that gate and is not labeled. The First Seat stays in that wood, unnamed: no college, no throne, no canopy-ring, and no mark. Thaeloren's canopy is not on this sheet. The civic Tree on the Slow Water stays on the heart sheet. Loft Row, the tablet-hall, the Down Gate, and the Wall Path are not redrawn here. [[Maiethvael]]'s seat is not named. The Down Gate is not that seat. Painted battlements are incidental; the wall is the flood-wall. Script: `label_maiethlir_grove_bank.py`.
+
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master or a city plate. M.2, M.3, and M.4 were not opened. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
 
 ## Epic M pointers — 2026-10-03
 
@@ -294,4 +318,4 @@ Captions, epithets, and the survey footer are off the overlays. Each painted nam
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.4)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.4)
