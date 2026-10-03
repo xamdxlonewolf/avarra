@@ -38,10 +38,11 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    halo_text(ink, (390, 330), "The Tree", place, TYPE)
-    halo_text(ink, (560, 445), "The meeting", place, TYPE)
-    halo_text(ink, (200, 425), "The west road", place, TYPE)
-    halo_text(ink, (560, 700), "Well-wash", place, TYPE)
+    # The Hand beside the crossing. The wash is the thin silt, not a second road.
+    halo_text(ink, (400, 300), "The Tree", place, TYPE)
+    halo_text(ink, (180, 432), "The west road", place, TYPE)
+    halo_text(ink, (578, 200), "Well-wash", place, TYPE)
+    halo_text(ink, (640, 455), "The meeting", place, TYPE)
     return canvas.convert("RGB")
 
 

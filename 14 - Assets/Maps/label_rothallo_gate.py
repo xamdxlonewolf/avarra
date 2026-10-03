@@ -38,9 +38,10 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    halo_text(ink, (400, 400), "The gate", place, TYPE)
-    halo_text(ink, (100, 600), "The beds", place, TYPE)
-    halo_text(ink, (730, 370), "The Book", place, TYPE)
+    # Same gatehouse as the city plate. Beds outside. Book inside the wall.
+    halo_text(ink, (520, 500), "The gate", place, TYPE)
+    halo_text(ink, (160, 430), "The beds", place, TYPE)
+    halo_text(ink, (610, 290), "The Book", place, TYPE)
     return canvas.convert("RGB")
 
 

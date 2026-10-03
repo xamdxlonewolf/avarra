@@ -396,7 +396,7 @@ Orenbren's walled capital, one day from the wood. People still say the Inner Clo
 
 ![[Rothallo-Gate-Atlas.png]]
 
-The city plate could not hold the beds outside and the Book inside. This is that gate. Rebuild with `label_rothallo_gate.py`.
+The same square gatehouse as the city plate. Beds outside the wall. The Book inside it. Rebuild with `label_rothallo_gate.py`.
 
 ![[Rothallo-Gate-Atlas-Labeled.png]]
 
@@ -404,7 +404,7 @@ The city plate could not hold the beds outside and the Book inside. This is that
 
 ![[Larbril-Atlas.png]]
 
-A medium city. No wall. The west road meets the Well-wash. The wash in this frame is a silt-line. A Hand at the meeting. Rebuild with `label_larbril.py`.
+A medium city. No wall. The west road is the street. The Well-wash is the thin silt-line that crosses it, not a second road. A Hand at the meeting. Rebuild with `label_larbril.py`.
 
 ![[Larbril-Atlas-Labeled.png]]
 
@@ -484,9 +484,9 @@ A march-town. The town gate is on the road. A young Hand. Rebuild with `label_na
 
 **Rothallo.** `Rothallo-Atlas-Labeled.png` is a Pillow overlay on `Rothallo-Atlas.png`. West is left. This is the Inner Close. **The gate** is the argument. **The beds** are outside the wall. **The Tree** is the Hand inside the walls. The city does not Speak it. The Book is on the gate sheet. The First Seat stays in the wood, unnamed: no college, no throne, no canopy-ring, and no mark. Thaeloren is not on this sheet. No capital star. Script: `label_rothallo.py`.
 
-**Rothallo gate.** `Rothallo-Gate-Atlas-Labeled.png` is a Pillow overlay on `Rothallo-Gate-Atlas.png`. West is left. **The gate** is the same gate. **The beds** are outside. **The Book** is the Book of Tithes, inside the wall. No capital star. Script: `label_rothallo_gate.py`.
+**Rothallo gate.** `Rothallo-Gate-Atlas-Labeled.png` is a Pillow overlay on `Rothallo-Gate-Atlas.png`. West is left. **The gate** is the same square gatehouse as the city plate. **The beds** are outside. **The Book** is the Book of Tithes, inside the wall. No capital star. Script: `label_rothallo_gate.py`.
 
-**Larbril.** `Larbril-Atlas-Labeled.png` is a Pillow overlay on `Larbril-Atlas.png`. West is left. **The meeting** is where the west road meets the Well-wash. **The west road** leaves toward the pass. **Well-wash** is a silt-line in this frame. **The Tree** stands at the meeting. No wall. Not Ornsael. Not the Dry Stair. No capital star. Script: `label_larbril.py`.
+**Larbril.** `Larbril-Atlas-Labeled.png` is a Pillow overlay on `Larbril-Atlas.png`. West is left. **The meeting** is the stone where the west road crosses the wash. **The west road** is the street and leaves toward the pass. **Well-wash** is the thin silt-line, not a road. **The Tree** stands at the meeting. No wall. Not Ornsael. Not the Dry Stair. No capital star. Script: `label_larbril.py`.
 
 **Votaer.** `Votaer-Atlas-Labeled.png` is a Pillow overlay on `Votaer-Atlas.png`. West is left. The sea is on the left. **Classification quay** is the working waterfront. **The Tree** stands back from that quay. The blessing and the docket are the same quay. No White Note. No Chart-run. No closer sheet. No capital star. Script: `label_votaer.py`.
 
@@ -505,6 +505,29 @@ A march-town. The town gate is on the road. A young Hand. Rebuild with `label_na
 **Sanbreo.** `Sanbreo-Atlas-Labeled.png` is a Pillow overlay on `Sanbreo-Atlas.png`. West is left. The sea is on the right. **The shore gate** meets the beach. **The slate** is on the wall inside the gate. The line is not written on it. No civic Hand is the subject. Not a harbour city. No capital star. Script: `label_sanbreo.py`.
 
 **Natai.** `Natai-Atlas-Labeled.png` is a Pillow overlay on `Natai-Atlas.png`. West is left. The frame is the town. **The town gate** is on the road. **The Tree** is a young Hand. Harrow's Green, the ford, and the three hamlets are not drawn. Dumu is not labeled. No capital star. Script: `label_natai.py`.
+
+## Overhead plans — 2026-10-03
+
+The oblique plates stay. These are separate overhead plans of the same cities and towns, so the streets, walls, and water can be read as a map. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted.
+
+![[Seinbrun-Plan-Atlas-Labeled.png]]
+![[Rothallo-Plan-Atlas-Labeled.png]]
+![[Larbril-Plan-Atlas-Labeled.png]]
+![[Votaer-Plan-Atlas-Labeled.png]]
+![[Raitin-Plan-Atlas-Labeled.png]]
+![[Naenor-Plan-Atlas-Labeled.png]]
+![[Lunbra-Plan-Atlas-Labeled.png]]
+![[Braetu-Plan-Atlas-Labeled.png]]
+![[Maiethlir-Plan-Atlas-Labeled.png]]
+![[Orentel-Plan-Atlas-Labeled.png]]
+![[Tasain-Plan-Atlas-Labeled.png]]
+![[Sanbreo-Plan-Atlas-Labeled.png]]
+![[Natai-Plan-Atlas-Labeled.png]]
+![[Eolvaeth-Plan-Atlas-Labeled.png]]
+![[Harrows-Green-Plan-Atlas-Labeled.png]]
+![[Mill-hold-Plan-Atlas-Labeled.png]]
+![[Ornsael-Plan-Atlas-Labeled.png]]
+![[Nelath-Plan-Atlas-Labeled.png]]
 
 ## Epic M pointers — 2026-10-03
 
