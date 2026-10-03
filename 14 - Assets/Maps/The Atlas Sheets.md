@@ -304,7 +304,73 @@ The road, not the square. The gate is in the old flood-wall. The Motherwood is a
 
 **Maiethlir Grove Bank.** `Maiethlir-Grove-Bank-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-Grove-Bank-Atlas.png`. West is left. The frame is the road. **Grove Bank** is the north road from the wood, one or two days, and it is not the Near Mile. The gate is in the old flood-wall. The wood is a dark behind that gate and is not labeled. The First Seat stays in that wood, unnamed: no college, no throne, no canopy-ring, and no mark. Thaeloren's canopy is not on this sheet. The civic Tree on the Slow Water stays on the heart sheet. Loft Row, the tablet-hall, the Down Gate, and the Wall Path are not redrawn here. [[Maiethvael]]'s seat is not named. The Down Gate is not that seat. Painted battlements are incidental; the wall is the flood-wall. Script: `label_maiethlir_grove_bank.py`.
 
-**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master or a city plate. M.2, M.3, and M.4 were not opened. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Story M.2 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master, a city plate, or a town sheet. M.3 and M.4 were not opened. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
+
+## Town sheets — 2026-10-03
+
+Six new paintings. Not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, or the Grove Bank sheet. Names come from the settlement notes. If a painting and a note disagree, the note wins. The image model was not asked to write. Masters are 1152×864. West is left. No capital star. A civic Hand is a broad dark hardwood filling its square. Thaeloren is not on these sheets. Unlabeled Prototype 3 sheets stay the regional handouts. World book untouched.
+
+[[Rothallo]] is the Inner Close. People still say that name. It is Orenbren's walled capital, one day from the wood, and it is the same place. No sheet here. The plate stays for M.3.
+
+### Eolvaeth
+
+![[Eolvaeth-Atlas.png]]
+
+The fold. A maybe-Hand at the centre, the spring, the gift-hall, and camp-streets that learned to winter. No walls. Rebuild with `label_eolvaeth.py`.
+
+![[Eolvaeth-Atlas-Labeled.png]]
+
+### Harrow's Green
+
+![[Harrows-Green-Atlas.png]]
+
+The live-front square. A Hand at the centre, the stone in the square, the Rise-water at the foot of the rise. No walls. Rebuild with `label_harrows_green.py`.
+
+![[Harrows-Green-Atlas-Labeled.png]]
+
+### The Mill-hold
+
+![[Mill-hold-Atlas.png]]
+
+A mill-town. The Hand is sick this year: the canopy is visibly wrong, and it is still a hardwood. The mill-house and the race sit on the lower side. The culvert is under the square. No walls. Rebuild with `label_mill_hold.py`.
+
+![[Mill-hold-Atlas-Labeled.png]]
+
+### Ornsael
+
+![[Ornsael-Atlas.png]]
+
+A well-town in the dry country. The Tree stands beside the well. The west-road is the main street and leaves toward the pass. No walls. Rebuild with `label_ornsael.py`.
+
+![[Ornsael-Atlas-Labeled.png]]
+
+### Nelath
+
+![[Nelath-Atlas.png]]
+
+A smaller square than the Mill-hold. A sound Hand. The spur comes in and becomes the square. Beyond the boughs the road is a scar. The stone is in the square. No walls. Rebuild with `label_nelath.py`.
+
+![[Nelath-Atlas-Labeled.png]]
+
+### Ndenjoo
+
+![[Ndenjoo-Atlas.png]]
+
+One hill and a hall under the turf. A few dozen hearths. Pasture and a standing-stone on the turf. A path down to the sand. No Tree. Rebuild with `label_ndenjoo.py`.
+
+![[Ndenjoo-Atlas-Labeled.png]]
+
+**Eolvaeth.** `Eolvaeth-Atlas-Labeled.png` is a Pillow overlay on `Eolvaeth-Atlas.png`. West is left. The frame is the fold. **The Tree** is a maybe-Hand, a broad dark hardwood filling its square, not Harrow's luck and not Thaeloren. **The spring** is the pool. It is not a mile-shrine. **The gift-hall** is the long hall on the square. Vaethod is not labeled. No walls. No capital star. Script: `label_eolvaeth.py`.
+
+**Harrow's Green.** `Harrows-Green-Atlas-Labeled.png` is a Pillow overlay on `Harrows-Green-Atlas.png`. West is left. **The Tree** is the sound Hand in the square. **The stone** is the standing stone in that square. The Rise-water runs at the foot of the rise and is not labeled. Brenod, Vaelun, and Ornath are not on this sheet. The square is not Nelath. No fortress. No capital star. Script: `label_harrows_green.py`.
+
+**The Mill-hold.** `Mill-hold-Atlas-Labeled.png` is a Pillow overlay on `Mill-hold-Atlas.png`. West is left. **The Tree** is the sick Hand: leaves late and thin, the crown visibly wrong, still a hardwood and not a glow. **The mill-race** is the water on the lower side. **The culvert** is the drain in the square. Brenthael is not drawn. No capital star. Script: `label_mill_hold.py`.
+
+**Ornsael.** `Ornsael-Atlas-Labeled.png` is a Pillow overlay on `Ornsael-Atlas.png`. West is left. **The Tree** stands beside **The well**. **The west-road** is the main street and leaves toward the pass. This is not Saelthael's capital and not Larbril. No capital star. Script: `label_ornsael.py`.
+
+**Nelath.** `Nelath-Atlas-Labeled.png` is a Pillow overlay on `Nelath-Atlas.png`. West is left. **The Tree** is a sound Hand. **The stone** is in the square. **The scar** is the ditch and thorns beyond the boughs, with no cart-track. The cistern is the drink and is not labeled. The Third Hearth, the Mill-hold, and the First Seat are not drawn. No capital star. Script: `label_nelath.py`.
+
+**Ndenjoo.** `Ndenjoo-Atlas-Labeled.png` is a Pillow overlay on `Ndenjoo-Atlas.png`. West is left. **The hall** is the turf door. The standing-stone, the path, and the sand stay unlabeled. Njunda is not labeled. No Tree, no dead trunk, no graft. The storm-wall stays weather. No capital star. Script: `label_ndenjoo.py`.
 
 ## Epic M pointers — 2026-10-03
 
@@ -318,4 +384,4 @@ Captions, epithets, and the survey footer are off the overlays. Each painted nam
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.4)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.2 · Story M.4)
