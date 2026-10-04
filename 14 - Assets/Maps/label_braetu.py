@@ -17,10 +17,12 @@ OUTPUT = ROOT / "Braetu-Atlas-Labeled.png"
 
 FONT_DIR = Path("/usr/share/fonts/truetype/liberation")
 SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
+SERIF_ITALIC = FONT_DIR / "LiberationSerif-BoldItalic.ttf"
 
 TYPE = (48, 32, 18)
 TYPE_WATER = (28, 48, 62)
 HALO = (244, 236, 214)
+MARK = (42, 28, 16)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -31,6 +33,11 @@ def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
 
 
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1152, 864):
@@ -38,8 +45,10 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    halo_text(ink, (590, 290), "The Tree", place, TYPE)
-    halo_text(ink, (80, 400), "West Water", place, TYPE_WATER)
+    water = font(SERIF_ITALIC, 20)
+    leader(ink, (620, 380), (800, 470))
+    halo_text(ink, (620, 380), "The Tree", place, TYPE)
+    halo_text(ink, (90, 340), "West Water", water, TYPE_WATER)
     return canvas.convert("RGB")
 
 

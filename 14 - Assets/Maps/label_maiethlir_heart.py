@@ -60,22 +60,18 @@ def build() -> Image.Image:
     place = font(SERIF_BOLD, 20)
     water = font(SERIF_BOLD_ITALIC, 20)
 
-    halo_text(ink, (150, 40), "Maiethlir", title, TYPE)
+    halo_text(ink, (180, 48), "Maiethlir", title, TYPE)
 
-    # Same square as the city plate: tree on the left, river along the bottom.
-    leader(ink, (470, 280), (300, 200))
-    halo_text(ink, (288, 200), "The Tree", place, TYPE, anchor="rm")
+    leader(ink, (320, 320), (140, 140))
+    halo_text(ink, (140, 140), "The Tree", place, TYPE)
 
-    # Same long hall, still one street east of the Tree.
-    hall_mark(ink, (900, 280))
-    leader(ink, (916, 272), (1020, 200))
-    halo_text(ink, (1032, 200), "Tablet-hall", place, TYPE, anchor="lm")
+    hall_mark(ink, (760, 380))
+    leader(ink, (760, 380), (1000, 260))
+    halo_text(ink, (1000, 260), "Tablet-hall", place, TYPE)
 
-    # The street between them, continuing to the bridge.
-    leader(ink, (700, 360), (560, 430))
-    halo_text(ink, (548, 430), "Loft Row", place, TYPE, anchor="rm")
+    halo_text(ink, (540, 460), "Loft Row", place, TYPE)
 
-    halo_text(ink, (280, 800), "Slow Water", water, TYPE_WATER)
+    halo_text(ink, (640, 800), "Slow Water", water, TYPE_WATER)
     return canvas.convert("RGB")
 
 

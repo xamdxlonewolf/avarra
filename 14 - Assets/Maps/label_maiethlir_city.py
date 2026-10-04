@@ -87,35 +87,34 @@ def build() -> Image.Image:
     place = font(SERIF_BOLD, 20)
     water = font(SERIF_BOLD_ITALIC, 20)
 
-    halo_text(ink, (150, 48), "Maiethlir", title, TYPE)
+    halo_text(ink, (150, 36), "Maiethlir", title, TYPE)
 
     # Downstream opening, where the road leaves the wall onto the bridge.
-    leader(ink, (228, 434), (150, 360))
-    halo_text(ink, (138, 360), "Down Gate", place, TYPE, anchor="rm")
+    leader(ink, (150, 560), (60, 470))
+    halo_text(ink, (60, 470), "Down Gate", place, TYPE)
 
-    # Upstream road outside the wall, on the east bank. Not the river.
-    leader(ink, (1110, 318), (1040, 190))
-    halo_text(ink, (1028, 190), "Wall Path", place, TYPE, anchor="rm")
+    # Upstream road on the east bank, where the reach leaves the wall.
+    leader(ink, (1050, 450), (960, 320))
+    halo_text(ink, (960, 320), "Wall Path", place, TYPE)
 
     # The road in the north gate, where it leaves toward the wood.
-    leader(ink, (508, 40), (400, 22))
-    halo_text(ink, (388, 22), "Grove Bank", place, TYPE, anchor="rm")
+    leader(ink, (540, 130), (720, 50))
+    halo_text(ink, (720, 50), "Grove Bank", place, TYPE)
 
     # Civic Hand on the north bank. No capital star.
-    leader(ink, (558, 322), (400, 250))
-    halo_text(ink, (388, 250), "The Tree", place, TYPE, anchor="rm")
+    leader(ink, (340, 300), (160, 180))
+    halo_text(ink, (160, 180), "The Tree", place, TYPE)
 
     # Long hall one street east of the Tree.
-    hall_mark(ink, (730, 325))
-    leader(ink, (746, 318), (860, 270))
-    halo_text(ink, (872, 270), "Tablet-hall", place, TYPE, anchor="lm")
+    hall_mark(ink, (650, 320))
+    leader(ink, (650, 320), (880, 220))
+    halo_text(ink, (880, 220), "Tablet-hall", place, TYPE)
 
     # The street between the Tree and the hall. Not the canopy.
-    leader(ink, (632, 298), (700, 230))
-    halo_text(ink, (712, 230), "Loft Row", place, TYPE, anchor="lm")
+    halo_text(ink, (500, 420), "Loft Row", place, TYPE)
 
     # The wide reach inside the wall.
-    halo_text(ink, (420, 530), "Slow Water", water, TYPE_WATER)
+    halo_text(ink, (780, 500), "Slow Water", water, TYPE_WATER)
 
     return canvas.convert("RGB")
 

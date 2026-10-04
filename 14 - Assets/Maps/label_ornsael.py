@@ -48,15 +48,11 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # The canopy. The name sits in the open planting, not on a roof.
-    leader(ink, (700, 340), (900, 430))
-    halo_text(ink, (912, 430), "The Tree", place, TYPE, anchor="lm")
-
-    # Open dust below the well-mouth.
-    halo_text(ink, (620, 500), "The well", place, TYPE)
-
-    # On the open road, clear of the roofs above it.
-    halo_text(ink, (150, 310), "The west-road", place, TYPE)
+    leader(ink, (240, 240), (410, 350))
+    halo_text(ink, (240, 240), "The Tree", place, TYPE)
+    leader(ink, (700, 320), (530, 390))
+    halo_text(ink, (700, 320), "The well", place, TYPE)
+    halo_text(ink, (180, 480), "The west-road", place, TYPE)
 
     return canvas.convert("RGB")
 

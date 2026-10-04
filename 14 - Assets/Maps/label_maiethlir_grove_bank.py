@@ -23,6 +23,7 @@ SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
 
 TYPE = (48, 32, 18)
 HALO = (244, 236, 214)
+MARK = (42, 28, 16)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -31,6 +32,11 @@ def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
 
 def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
+
+
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
 
 
 def build() -> Image.Image:
@@ -42,7 +48,8 @@ def build() -> Image.Image:
     place = font(SERIF_BOLD, 20)
 
     # Beside the north road, in the wood above the gate. Not on the roofs.
-    halo_text(ink, (548, 168), "Grove Bank", place, TYPE, anchor="rm")
+    leader(ink, (300, 160), (500, 220))
+    halo_text(ink, (300, 160), "Grove Bank", place, TYPE)
 
     return canvas.convert("RGB")
 

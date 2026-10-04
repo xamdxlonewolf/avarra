@@ -508,13 +508,27 @@ A march-town. The town gate is on the road. A young Hand. Rebuild with `label_na
 
 ## The ordinary house — 2026-10-04
 
-Close plates and overhead plans use the house of their band. The ink is one atlas: steep bird's-eye, roofs filling the frame, a house still a house, west left, masters 1152×864. The image model is not asked to write. Pillow names sit on the features. A hearth, a window that can open, and a pot of green sit on that local house.
+Close plates and overhead plans use the house of their band. The ink is one atlas: steep bird's-eye, roofs filling the frame, a house still a house, west left, masters 1152×864. The image model was not asked to write. Pillow names sit on the features: Liberation Serif, a cream halo, a leader when the name would sit on the feature. A hearth, a window that can open, and a pot of green sit on that local house.
 
-The ordinary house is distinct from one band to the next. Towns inside a band vary only by the landmark the note already names. `Orentel-City-Atlas.png` is the shore-lands house. It is the reference for Raitin, Naenor, Lunbra, and Braetu. It is not the reference for the other bands. The cards, and which sheet uses which, are in [[Map Generation Tooling#The ordinary house]]. Story M.5 on [[Roadmap]] redraws the close plates to those cards. The plates on this page still wear the shore-lands house until that story replaces them. Regional masters stay. Story M.4 does not redraw them.
+The ordinary house is distinct from one band to the next. Towns inside a band vary only by the landmark the note already names. The cards are in [[Map Generation Tooling#The ordinary house]]. Story M.5 on [[Roadmap]] redrew these close plates and plans to those cards. Maiethlir, Larbril, Braetu, and Harrow's Green sort with the labels covered. Regional masters stay. Story M.4 does not redraw them.
+
+**Mother-core.** Seinbrun, Rothallo, the Rothallo gate, Maiethlir (city, heart, Grove Bank), the Mill-hold, Nelath, and their plans. Two storeys. Pale stone on the ground floor, dark timber above. Steep dark roofs, tight rows. The Rothallo gate keeps the beds outside the wall and the Book inside it.
+
+**Thaw-Wall.** Tasain and its plan. Stone to the eaves, thick walls, steep roofs that hold snow, houses stepped on the slope.
+
+**Rain-Shadow.** Larbril, Ornsael, and their plans. Low pale stone, shuttered, a yard and a cistern, wide dusty lanes. Larbril's Well-wash stays the water. The west road stays the street.
+
+**Shore-lands.** `Orentel-City-Atlas.png` stays the model, and the reference for this band only. Raitin, Naenor, Lunbra, Braetu, the Braetu quay, and their plans were redrawn to it. Tall and narrow. Brick and timber, red tile, long warehouse roofs at the water.
+
+**Old Crossing face.** Votaer and its plan. The mother-core stone house turned toward the quay. Shorter than Orentel. Older stone. Fewer new brick warehouses.
+
+**Sundered Reach.** Eolvaeth, Harrow's Green, Natai, and their plans. Rough fieldstone and raw timber, steep patched roofs, a garden larger than the house. Sanbreo packs that house under slate roofs.
+
+**Kumbaan.** Ndenjoo already wore turf and stone, a hall under the hill, and no Tree. That sheet was left.
 
 ## Overhead plans — 2026-10-03
 
-The oblique plates stay. These are separate steep bird's-eye plans at the same roof size, so a house is still a house. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. Orentel and Maiethlir use the city sheets. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted. The house on these plans follows [[#The ordinary house — 2026-10-04]] once Story M.5 redraws them.
+The oblique plates stay. These are separate steep bird's-eye plans at the same roof size, so a house is still a house. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. Orentel and Maiethlir use the city sheets. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted. The house on these plans is the ordinary house of [[#The ordinary house — 2026-10-04]].
 
 ![[Seinbrun-Plan-Atlas-Labeled.png]]
 ![[Rothallo-Plan-Atlas-Labeled.png]]
@@ -547,4 +561,4 @@ Captions, epithets, and the survey footer are off the overlays. Each painted nam
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
 - [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.2 · Story M.3 · Story M.4)
+- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.2 · Story M.3 · Story M.4 · Story M.5)

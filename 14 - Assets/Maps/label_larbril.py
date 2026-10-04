@@ -17,10 +17,12 @@ OUTPUT = ROOT / "Larbril-Atlas-Labeled.png"
 
 FONT_DIR = Path("/usr/share/fonts/truetype/liberation")
 SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
+SERIF_ITALIC = FONT_DIR / "LiberationSerif-BoldItalic.ttf"
 
 TYPE = (48, 32, 18)
 TYPE_WATER = (28, 48, 62)
 HALO = (244, 236, 214)
+MARK = (42, 28, 16)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -31,6 +33,11 @@ def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
 
 
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1152, 864):
@@ -38,11 +45,14 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    # The Hand beside the crossing. The wash is the thin silt, not a second road.
-    halo_text(ink, (400, 300), "The Tree", place, TYPE)
-    halo_text(ink, (180, 432), "The west road", place, TYPE)
-    halo_text(ink, (578, 200), "Well-wash", place, TYPE)
-    halo_text(ink, (640, 455), "The meeting", place, TYPE)
+    water = font(SERIF_ITALIC, 20)
+    # The Hand beside the crossing. The wash is the water, not a second road.
+    leader(ink, (340, 250), (560, 400))
+    halo_text(ink, (340, 250), "The Tree", place, TYPE)
+    halo_text(ink, (180, 430), "The west road", place, TYPE)
+    halo_text(ink, (500, 150), "Well-wash", water, TYPE_WATER)
+    leader(ink, (740, 540), (540, 450))
+    halo_text(ink, (740, 540), "The meeting", place, TYPE)
     return canvas.convert("RGB")
 
 

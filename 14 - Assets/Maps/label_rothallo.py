@@ -21,6 +21,7 @@ SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
 TYPE = (48, 32, 18)
 TYPE_WATER = (28, 48, 62)
 HALO = (244, 236, 214)
+MARK = (42, 28, 16)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -31,6 +32,11 @@ def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
 
 
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1152, 864):
@@ -38,9 +44,12 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    halo_text(ink, (640, 170), "The Tree", place, TYPE)
-    halo_text(ink, (360, 500), "The gate", place, TYPE)
-    halo_text(ink, (140, 540), "The beds", place, TYPE)
+    leader(ink, (320, 140), (530, 260))
+    halo_text(ink, (320, 140), "The Tree", place, TYPE)
+    leader(ink, (90, 600), (270, 690))
+    halo_text(ink, (90, 600), "The gate", place, TYPE)
+    leader(ink, (320, 830), (150, 800))
+    halo_text(ink, (320, 830), "The beds", place, TYPE)
     return canvas.convert("RGB")
 
 

@@ -21,8 +21,10 @@ OUTPUT = ROOT / "Mill-hold-Atlas-Labeled.png"
 
 FONT_DIR = Path("/usr/share/fonts/truetype/liberation")
 SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
+SERIF_ITALIC = FONT_DIR / "LiberationSerif-BoldItalic.ttf"
 
 TYPE = (48, 32, 18)
+TYPE_WATER = (28, 48, 62)
 HALO = (244, 236, 214)
 MARK = (42, 28, 16)
 
@@ -47,16 +49,13 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
+    water = font(SERIF_ITALIC, 20)
 
-    # Open dirt of the square, clear of the ragged crown.
-    halo_text(ink, (400, 470), "The Tree", place, TYPE, anchor="rm")
-
-    # The drain mouth. The name sits in the open dirt of the square.
-    leader(ink, (690, 505), (560, 590))
-    halo_text(ink, (548, 590), "The culvert", place, TYPE, anchor="rm")
-
-    # The race, in the water along the lower side.
-    halo_text(ink, (420, 830), "The mill-race", place, TYPE)
+    leader(ink, (120, 250), (250, 400))
+    halo_text(ink, (120, 250), "The Tree", place, TYPE)
+    leader(ink, (700, 300), (500, 400))
+    halo_text(ink, (700, 300), "The culvert", place, TYPE)
+    halo_text(ink, (980, 600), "The mill-race", water, TYPE_WATER)
 
     return canvas.convert("RGB")
 

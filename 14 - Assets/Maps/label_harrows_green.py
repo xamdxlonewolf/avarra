@@ -34,6 +34,11 @@ def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
 
 
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1152, 864):
@@ -42,11 +47,10 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # On the lower trunk, in the dirt at the roots.
-    halo_text(ink, (552, 424), "The Tree", place, TYPE)
-
-    # Open dirt against the right of the standing stone.
-    halo_text(ink, (712, 410), "The stone", place, TYPE, anchor="lm")
+    leader(ink, (380, 240), (640, 360))
+    halo_text(ink, (380, 240), "The Tree", place, TYPE)
+    leader(ink, (980, 380), (790, 450))
+    halo_text(ink, (980, 380), "The stone", place, TYPE)
 
     return canvas.convert("RGB")
 

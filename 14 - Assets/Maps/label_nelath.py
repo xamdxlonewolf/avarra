@@ -35,6 +35,11 @@ def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
 
 
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1152, 864):
@@ -43,14 +48,12 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # Open dirt under the sound Hand.
-    halo_text(ink, (560, 380), "The Tree", place, TYPE)
-
-    # Against the right face of the standing stone.
-    halo_text(ink, (472, 305), "The stone", place, TYPE, anchor="lm")
-
-    # In the thorn ditch, clear of the last roofs and the cistern.
-    halo_text(ink, (1090, 340), "The scar", place, TYPE)
+    leader(ink, (140, 260), (280, 400))
+    halo_text(ink, (140, 260), "The Tree", place, TYPE)
+    leader(ink, (640, 360), (460, 440))
+    halo_text(ink, (640, 360), "The stone", place, TYPE)
+    leader(ink, (840, 420), (620, 480))
+    halo_text(ink, (840, 420), "The scar", place, TYPE)
 
     return canvas.convert("RGB")
 

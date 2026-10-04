@@ -21,6 +21,7 @@ SERIF_BOLD = FONT_DIR / "LiberationSerif-Bold.ttf"
 TYPE = (48, 32, 18)
 TYPE_WATER = (28, 48, 62)
 HALO = (244, 236, 214)
+MARK = (42, 28, 16)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -31,6 +32,11 @@ def halo_text(draw, xy, text, typeface, fill, *, anchor="mm", stroke=3):
     draw.text(xy, text, font=typeface, fill=fill, anchor=anchor, stroke_width=stroke, stroke_fill=HALO)
 
 
+def leader(draw, start, end):
+    draw.line((start, end), fill=HALO, width=3)
+    draw.line((start, end), fill=MARK, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1152, 864):
@@ -38,9 +44,11 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    halo_text(ink, (420, 360), "The Tree", place, TYPE)
-    # The near deck. The name is wider than the planks; its middle sits on them.
-    halo_text(ink, (560, 842), "Classification quay", place, TYPE)
+    leader(ink, (300, 140), (480, 240))
+    halo_text(ink, (300, 140), "The Tree", place, TYPE)
+    # The near quay. The name stays off the houses.
+    leader(ink, (420, 640), (210, 500))
+    halo_text(ink, (420, 640), "Classification quay", place, TYPE)
     return canvas.convert("RGB")
 
 

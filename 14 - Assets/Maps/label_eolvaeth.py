@@ -48,15 +48,12 @@ def build() -> Image.Image:
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
 
-    # Open dirt under the maybe-Hand. The canopy stays clear.
-    halo_text(ink, (470, 545), "The Tree", place, TYPE)
-
-    # Open dirt at the pool's left lip. The cottages stay clear of the name.
-    halo_text(ink, (500, 625), "The spring", place, TYPE)
-
-    # The long hall. The name would sit on the thatch.
-    leader(ink, (760, 390), (980, 500))
-    halo_text(ink, (992, 500), "The gift-hall", place, TYPE, anchor="lm")
+    leader(ink, (180, 140), (350, 230))
+    halo_text(ink, (180, 140), "The Tree", place, TYPE)
+    leader(ink, (320, 580), (500, 480))
+    halo_text(ink, (320, 580), "The spring", place, TYPE)
+    leader(ink, (920, 260), (700, 360))
+    halo_text(ink, (920, 260), "The gift-hall", place, TYPE)
 
     return canvas.convert("RGB")
 

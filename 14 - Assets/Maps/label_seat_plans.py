@@ -48,11 +48,14 @@ def label(master: str, out: str, marks: list[Mark]) -> None:
         raise SystemExit(f"{master} is {base.size}, expected 1152×864")
     ink = ImageDraw.Draw(base)
     face = font(20)
+    water = ImageFont.truetype(
+        "/usr/share/fonts/truetype/liberation/LiberationSerif-BoldItalic.ttf", 20
+    )
     for mark in marks:
         x, y, text, fill = mark[0], mark[1], mark[2], mark[3]
         if len(mark) == 6:
             leader(ink, (x, y), (mark[4], mark[5]))
-        halo(ink, (x, y), text, face, fill)
+        halo(ink, (x, y), text, water if fill == TYPE_WATER else face, fill)
     base.convert("RGB").save(ROOT / out, quality=95)
     print(f"Wrote {out}")
 
@@ -60,82 +63,82 @@ def label(master: str, out: str, marks: list[Mark]) -> None:
 def main() -> None:
     T, W = TYPE, TYPE_WATER
     label("Seinbrun-Plan-Atlas.png", "Seinbrun-Plan-Atlas-Labeled.png", [
-        (180, 200, "The hall", T, 280, 320),
-        (680, 300, "The Tree", T, 500, 380),
-        (250, 560, "The green", T, 420, 480),
+        (180, 160, "The hall", T, 400, 270),
+        (830, 190, "The Tree", T, 640, 300),
+        (470, 450, "The green", T),
     ])
     label("Rothallo-Plan-Atlas.png", "Rothallo-Plan-Atlas-Labeled.png", [
-        (640, 80, "The Tree", T, 510, 175),
-        (920, 250, "The Book", T, 760, 320),
-        (900, 760, "The gate", T, 720, 640),
-        (200, 800, "The beds", T, 140, 660),
+        (140, 280, "The Tree", T, 280, 430),
+        (540, 420, "The Book", T, 380, 510),
+        (70, 640, "The gate", T, 170, 730),
+        (880, 800, "The beds", T, 620, 780),
     ])
     label("Larbril-Plan-Atlas.png", "Larbril-Plan-Atlas-Labeled.png", [
-        (160, 150, "The Tree", T, 320, 230),
-        (760, 400, "The meeting", T, 570, 455),
-        (140, 560, "The west road", T, 280, 490),
-        (700, 110, "Well-wash", W, 530, 180),
+        (220, 340, "The Tree", T, 420, 480),
+        (700, 460, "The meeting", T, 480, 540),
+        (860, 680, "The west road", T),
+        (500, 140, "Well-wash", W),
     ])
     label("Votaer-Plan-Atlas.png", "Votaer-Plan-Atlas-Labeled.png", [
-        (1040, 220, "The Tree", T, 900, 320),
-        (240, 620, "Classification quay", T, 340, 430),
+        (680, 170, "The Tree", T, 480, 300),
+        (90, 300, "Classification quay", T, 310, 500),
     ])
     label("Raitin-Plan-Atlas.png", "Raitin-Plan-Atlas-Labeled.png", [
-        (250, 140, "The hall", T, 480, 260),
-        (980, 360, "The Tree", T, 800, 450),
-        (480, 720, "The river stair", T, 680, 650),
+        (200, 170, "The Tree", T, 380, 280),
+        (840, 150, "The hall", T, 620, 240),
+        (840, 540, "The river stair", T, 640, 480),
     ])
     label("Naenor-Plan-Atlas.png", "Naenor-Plan-Atlas-Labeled.png", [
-        (140, 120, "The Tree", T, 300, 210),
-        (360, 520, "The signing-watch", T, 530, 400),
+        (880, 150, "The Tree", T, 690, 240),
+        (900, 500, "The signing-watch", T, 700, 400),
     ])
     label("Lunbra-Plan-Atlas.png", "Lunbra-Plan-Atlas-Labeled.png", [
-        (250, 220, "The Tree", T, 420, 310),
-        (760, 160, "The roll-room", T, 580, 240),
-        (320, 440, "The square", T, 500, 400),
-        (1020, 500, "Chart-run", W),
+        (320, 260, "The Tree", T, 530, 370),
+        (1000, 160, "The roll-room", T, 780, 260),
+        (360, 540, "The square", T, 520, 470),
+        (760, 800, "Chart-run", W),
     ])
     label("Braetu-Plan-Atlas.png", "Braetu-Plan-Atlas-Labeled.png", [
-        (160, 250, "The quote-desk", T, 300, 340),
-        (140, 800, "The unlit berth", T, 280, 700),
-        (1040, 180, "The Tree", T, 870, 270),
-        (80, 70, "West Water", W),
+        (1040, 520, "The quote-desk", T, 880, 650),
+        (280, 720, "The unlit berth", T, 520, 620),
+        (800, 150, "The Tree", T, 980, 280),
+        (140, 480, "West Water", W),
     ])
     label("Tasain-Plan-Atlas.png", "Tasain-Plan-Atlas-Labeled.png", [
-        (720, 150, "The Tree", T, 540, 250),
-        (280, 800, "The town gate", T, 490, 700),
+        (200, 280, "The Tree", T, 400, 400),
+        (460, 830, "The town gate", T, 700, 720),
     ])
     label("Sanbreo-Plan-Atlas.png", "Sanbreo-Plan-Atlas-Labeled.png", [
-        (880, 470, "The shore gate", T, 650, 530),
-        (400, 740, "The slate", T, 510, 600),
+        (680, 540, "The shore gate", T, 860, 650),
+        (680, 430, "The slate", T, 840, 590),
     ])
     label("Natai-Plan-Atlas.png", "Natai-Plan-Atlas-Labeled.png", [
-        (280, 170, "The Tree", T, 470, 280),
-        (160, 800, "The town gate", T, 240, 690),
+        (320, 220, "The Tree", T, 520, 340),
+        (300, 820, "The town gate", T, 540, 740),
     ])
     label("Eolvaeth-Plan-Atlas.png", "Eolvaeth-Plan-Atlas-Labeled.png", [
-        (260, 250, "The gift-hall", T, 460, 340),
-        (760, 560, "The spring", T, 560, 480),
-        (900, 280, "The Tree", T, 730, 380),
+        (200, 170, "The Tree", T, 410, 280),
+        (280, 540, "The spring", T, 490, 440),
+        (920, 250, "The gift-hall", T, 700, 360),
     ])
     label("Harrows-Green-Plan-Atlas.png", "Harrows-Green-Plan-Atlas-Labeled.png", [
-        (300, 240, "The Tree", T, 480, 340),
-        (780, 300, "The stone", T, 610, 400),
+        (380, 240, "The Tree", T, 640, 360),
+        (980, 380, "The stone", T, 790, 450),
     ])
     label("Mill-hold-Plan-Atlas.png", "Mill-hold-Plan-Atlas-Labeled.png", [
-        (250, 90, "The Tree", T, 430, 180),
-        (250, 470, "The culvert", T, 450, 400),
-        (760, 760, "The mill-race", W, 540, 650),
+        (180, 160, "The Tree", T, 360, 280),
+        (340, 460, "The culvert", T, 520, 520),
+        (860, 780, "The mill-race", W),
     ])
     label("Ornsael-Plan-Atlas.png", "Ornsael-Plan-Atlas-Labeled.png", [
-        (860, 250, "The Tree", T, 700, 340),
-        (380, 470, "The well", T, 555, 390),
-        (180, 140, "The west-road", T, 300, 240),
+        (220, 210, "The Tree", T, 400, 330),
+        (740, 330, "The well", T, 560, 400),
+        (160, 470, "The west-road", T),
     ])
     label("Nelath-Plan-Atlas.png", "Nelath-Plan-Atlas-Labeled.png", [
-        (240, 270, "The Tree", T, 420, 360),
-        (800, 250, "The stone", T, 630, 340),
-        (900, 540, "The scar", T, 700, 470),
+        (220, 270, "The Tree", T, 400, 400),
+        (760, 370, "The stone", T, 590, 450),
+        (860, 180, "The scar", T, 1020, 420),
     ])
     # These two plans are the city sheets. Their labels already sit
     # on the features, including the quay and hall marks.
