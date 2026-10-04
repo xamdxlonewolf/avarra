@@ -508,7 +508,7 @@ A march-town. The town gate is on the road. A young Hand. Rebuild with `label_na
 
 ## Overhead plans — 2026-10-03
 
-The oblique plates stay. These are separate overhead plans of the same cities and towns, so the streets, walls, and water can be read as a map. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted.
+The oblique plates stay. These are separate steep bird's-eye plans in the same ink-and-watercolor hand as `Orentel-City-Atlas.png`, at that sheet's roof size, so the roofs fill the frame and a house is still a house. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. Orentel and Maiethlir use the city sheets. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted.
 
 ![[Seinbrun-Plan-Atlas-Labeled.png]]
 ![[Rothallo-Plan-Atlas-Labeled.png]]
