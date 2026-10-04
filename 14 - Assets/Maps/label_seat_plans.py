@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Label the steep bird's-eye plans of the cities and towns.
 
-Each plan is painted in the same ink-and-watercolor hand and at the
-same roof size as Orentel-City-Atlas.png. Orentel and Maiethlir use
-those city sheets. The image model was not asked to write. West is
-left. A name sits on the feature it names.
+The ink hand is shared. The ordinary house is the band card in
+Map Generation Tooling. Orentel is the shore-lands house, and
+Maiethlir uses the mother-core house. The image model was not
+asked to write. West is left. A name sits on the feature it names.
 
     python3 "14 - Assets/Maps/label_seat_plans.py"
 """

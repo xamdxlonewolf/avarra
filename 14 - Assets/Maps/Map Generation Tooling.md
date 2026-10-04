@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # Map Generation Tooling
@@ -456,6 +456,77 @@ The wait is the town.
 
 ---
 
+### The ordinary house
+
+Paste **Close-plate hand** plus the **one band** the sheet belongs to, then the landmark the settlement note already names. One band per generate. Continent and region sheets stay the portolan above. They do not show this house. A roof cluster on those sheets is incidental texture.
+
+A hearth, a window that can open, and a pot of green sit on every mainland house. They sit on the local structure.
+
+Towns in one band use the same house. The landmark is the slight variance: a wall, a well, a quay, a sick canopy. Cover the labels. A mother-core plate, a rain-shadow plate, a shore-lands plate, and a reach plate should sort themselves. If they do not, replace the plate before painting the rest of that band.
+
+**Mother-core.** Seinbrun, Rothallo, the Rothallo gate, Maiethlir (city, heart, Grove Bank), the Mill-hold, Nelath, and their plans.
+
+**Thaw-Wall.** Tasain and its plan.
+
+**Rain-Shadow.** Larbril, Ornsael, and their plans.
+
+**Shore-lands.** Orentel and its closer sheets are the model. Raitin, Naenor, Lunbra, Braetu, the Braetu quay, and their plans.
+
+**Old Crossing face.** Votaer and its plan.
+
+**Sundered Reach.** Eolvaeth, Harrow's Green, Natai, and their plans. Sanbreo is the dense slate-shore version of this house.
+
+**Kumbaan.** Ndenjoo. No mainland house. No Tree.
+
+```
+Close-plate hand. Steep bird's-eye, the same camera as a city atlas
+plate: fronts of houses visible, dozens of small houses, roofs cut by
+the frame. Fine brown pen and watercolor on cream paper. No sky. No
+text, letters, numbers, or labels. A hearth, a window that can open,
+and a pot of green on the local house.
+```
+
+```
+Mother-core house. Two storeys. Pale stone on the ground floor, dark
+old timber above. Steep dark roofs, chimneys, houses in tight rows on
+worn lanes, a small yard behind. Long-settled. The same house repeated.
+```
+
+```
+Thaw-Wall house. Stone to the eaves, thick walls, steep roofs built to
+hold snow, houses stepped on the slope. Highland stone, repeated.
+```
+
+```
+Rain-Shadow house. Low pale stone. One storey, or one upper room.
+Shuttered windows, a low roof, a yard, a cistern, pots on the lintel.
+Wide dusty lanes. Green is the Tree and the pots.
+```
+
+```
+Shore-lands house. Tall and narrow. Brick and timber, red tile, gables
+to the street, long warehouse roofs at the water. Match Orentel. A
+west-weather quay may darken the roofs. It stays this house.
+```
+
+```
+Old Crossing house. The mother-core stone house turned toward a quay.
+Shorter than the shore-lands stacks. Older stone. Fewer new brick
+warehouses.
+```
+
+```
+Sundered Reach house. Rough fieldstone and raw timber, steep patched
+roofs, a garden larger than the house, rooms added on. The slate-shore
+version packs that stone under slate roofs until the town is almost a
+city. It stays this coast's stone.
+```
+
+```
+Kumbaan house. Turf and stone. A hall under the hill. Pasture. A path
+down to the sand. No Tree. No brick quay. No timber row.
+```
+
 ### How to annotate after generate
 
 Add names from [[Named Ground]] and [[The Known Map]] only. **Do not ask the image model to write them.** A 2026-09-01 Heskoren trial (`99 - Archive/Atlas/label-trials/Heskoren-Atlas-labeled-gen.png`, archived 2026-10-03) produced readable words and **a different continent**. Overlay type on the selected master instead:
@@ -503,7 +574,7 @@ python3 "14 - Assets/Maps/label_natai.py"
 python3 "14 - Assets/Maps/label_seat_plans.py"
 ```
 
-These write the labeled overlays for **Epic A** (A.1–A.14). A.14 added two city sheets, `Maiethlir-City-Atlas.png` and `Orentel-City-Atlas.png`: new paintings, not crops of Sacred Core, Chart-run, Old Crossing, or the continent masters. A later pass the same day redrew both cities so the roofs fill the sheet, then redrew `Maiethlir-Heart-Atlas.png` and `Orentel-Drop-Atlas.png` from those plates so the Tree stays in the same place. The Orentel drop is the Rise inside the roofs and does not show the quays. Labels come from the [[Maiethlir]] and [[Orentel]] notes. The image model was not asked to write. Unlabeled Prototype 3 sheets stay the regional handouts. A 2026-09-23 pass removed subtitles, epithet lines, and the survey footer: a label is the name, with a point or leader only when it needs one. Water names follow the water through `label_curves.py`. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. On the Rain-Wall sheet, Rain-Wall is primary, Lirorn's Thaw-Wall handle is secondary, and the two pass-notches add no border or Kind-territory fill. On the Rain-Shadow sheet, Ornsael is a plain well-town, the Dry Stair is a site-mark on a different rise, and the Well-wash is seasonal hydrology; the Stair's well-town, terraces, and far-east roofs stay unnamed, with no capital star or Fox-nation fill. On the Chart-run sheet, the Chart-run follows the interior river into the estuary, the first quay is the old landing, and the White Note is a desk-house on the third quay north side, not a crown; leap-frog warehouses, the south-mouth yards, and filed river-towns stay unnamed, with no capital star. On the West Water sheet, the West Water names the open ocean and the Night Shore is area-type on the west-and-south face; the unlit berth, hulls, harbour hatches, and far-left weather stay unnamed, with no capital star or Night Shore seat. On the Live Front sheet, Harrow's is a plain grove-town on the rise, the Rise-water follows the stream toward the ford, and Brenod / Vaelun / Ornath are three small downstream hearths; the ford, the cup-rock, and distant canopy-pockets stay unnamed, with no capital star. On the Waiting Vale sheet, the vale is area-type, the spring is a pool-mark at the track-junction water, and Eolvaeth is a pilgrim-edge with no capital star; Harrow's canopy, the coast sliver, the garden-grid, and the inland ridge stay unnamed. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Epic A is complete; copy this overlay pattern if a later sheet is needed, and do not ask the image model to write. Story M.1 (2026-10-03) added two closer paintings, `Orentel-Piers-Atlas.png` and `Maiethlir-Grove-Bank-Atlas.png`, labeled by the two scripts above. They are not crops of the regional masters or of the four city paintings already in the atlas. The pier sheet is the tide. The Grove Bank sheet is the north road. The image model was not asked to write. Story M.2 (2026-10-03) added six paintings beside those scripts: `Eolvaeth-Atlas.png`, `Harrows-Green-Atlas.png`, `Mill-hold-Atlas.png`, `Ornsael-Atlas.png`, `Nelath-Atlas.png`, and `Ndenjoo-Atlas.png`. They are not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, or the Grove Bank sheet. A town fills its frame as a town. Ndenjoo is one hill and has no Tree. Rothallo was not painted in M.2. The image model was not asked to write. Story M.3 (2026-10-03) added thirteen paintings beside those scripts: `Seinbrun-Atlas.png`, `Rothallo-Atlas.png`, `Rothallo-Gate-Atlas.png`, `Larbril-Atlas.png`, `Votaer-Atlas.png`, `Raitin-Atlas.png`, `Naenor-Atlas.png`, `Lunbra-Atlas.png`, `Braetu-Atlas.png`, `Braetu-Quay-Atlas.png`, `Tasain-Atlas.png`, `Sanbreo-Atlas.png`, and `Natai-Atlas.png`. They are not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, the Grove Bank sheet, or the M.2 town sheets. A city fills its frame as a city. A town fills its frame as a town. Rothallo is the Inner Close. The gate sheet holds the beds outside and the Book inside. The Braetu quay sheet holds the quote-desk and the unlit berth. Vaelhesk has no sheet. The six charter-towns were not painted. The image model was not asked to write. A later pass the same day redrew `Rothallo-Gate-Atlas.png` so the gatehouse matches the city plate, with the beds outside and the Book inside, and redrew `Larbril-Atlas.png` so the Well-wash is a thin silt-line and the west road is the only street. Steep bird's-eye plans of the cities and towns, in the same ink-and-watercolor hand as `Orentel-City-Atlas.png`, were added beside those scripts and labeled by `label_seat_plans.py`: Seinbrun, Rothallo, Larbril, Votaer, Raitin, Naenor, Lunbra, Braetu, Maiethlir, Orentel, Tasain, Sanbreo, Natai, Eolvaeth, Harrow's Green, the Mill-hold, Ornsael, and Nelath. Each plan is a new painting, not a crop and not a flat roof diagram. Rothallo's gate is the plain arched gatehouse, with the beds outside. Larbril's Well-wash is the water at the meeting, and the west road is the street. Vaelhesk has no plan. Ndenjoo has no plan.
+These write the labeled overlays for **Epic A** (A.1–A.14). A.14 added two city sheets, `Maiethlir-City-Atlas.png` and `Orentel-City-Atlas.png`: new paintings, not crops of Sacred Core, Chart-run, Old Crossing, or the continent masters. A later pass the same day redrew both cities so the roofs fill the sheet, then redrew `Maiethlir-Heart-Atlas.png` and `Orentel-Drop-Atlas.png` from those plates so the Tree stays in the same place. The Orentel drop is the Rise inside the roofs and does not show the quays. Labels come from the [[Maiethlir]] and [[Orentel]] notes. The image model was not asked to write. Unlabeled Prototype 3 sheets stay the regional handouts. A 2026-09-23 pass removed subtitles, epithet lines, and the survey footer: a label is the name, with a point or leader only when it needs one. Water names follow the water through `label_curves.py`. Relative seats follow the Known Map schematic and the settlement notes. Kumbaan receives only land-type and the storm-wall along its outer cloud-ring: no point marker, graft, city, harbour, safe channel, or Tree. On the Old Crossing sheet, the Hush-rate is a crossing-charge cartouche, not a line or political border. Sacred Core receives one canopy-ring for Thaeloren, a walled-town square for the Inner Close, a modest road-house mark for the Third Hearth, and a plain settlement dot for Maiethlir; none is a capital star. On the Rain-Wall sheet, Rain-Wall is primary, Lirorn's Thaw-Wall handle is secondary, and the two pass-notches add no border or Kind-territory fill. On the Rain-Shadow sheet, Ornsael is a plain well-town, the Dry Stair is a site-mark on a different rise, and the Well-wash is seasonal hydrology; the Stair's well-town, terraces, and far-east roofs stay unnamed, with no capital star or Fox-nation fill. On the Chart-run sheet, the Chart-run follows the interior river into the estuary, the first quay is the old landing, and the White Note is a desk-house on the third quay north side, not a crown; leap-frog warehouses, the south-mouth yards, and filed river-towns stay unnamed, with no capital star. On the West Water sheet, the West Water names the open ocean and the Night Shore is area-type on the west-and-south face; the unlit berth, hulls, harbour hatches, and far-left weather stay unnamed, with no capital star or Night Shore seat. On the Live Front sheet, Harrow's is a plain grove-town on the rise, the Rise-water follows the stream toward the ford, and Brenod / Vaelun / Ornath are three small downstream hearths; the ford, the cup-rock, and distant canopy-pockets stay unnamed, with no capital star. On the Waiting Vale sheet, the vale is area-type, the spring is a pool-mark at the track-junction water, and Eolvaeth is a pilgrim-edge with no capital star; Harrow's canopy, the coast sliver, the garden-grid, and the inland ridge stay unnamed. Incidental generated roofs, field-grids, standing stones, wrecks, clearings, extra painted isles, and unnamed quays stay unnamed. Unlabeled sheets remain the selected handouts. Epic A is complete; copy this overlay pattern if a later sheet is needed, and do not ask the image model to write. Story M.1 (2026-10-03) added two closer paintings, `Orentel-Piers-Atlas.png` and `Maiethlir-Grove-Bank-Atlas.png`, labeled by the two scripts above. They are not crops of the regional masters or of the four city paintings already in the atlas. The pier sheet is the tide. The Grove Bank sheet is the north road. The image model was not asked to write. Story M.2 (2026-10-03) added six paintings beside those scripts: `Eolvaeth-Atlas.png`, `Harrows-Green-Atlas.png`, `Mill-hold-Atlas.png`, `Ornsael-Atlas.png`, `Nelath-Atlas.png`, and `Ndenjoo-Atlas.png`. They are not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, or the Grove Bank sheet. A town fills its frame as a town. Ndenjoo is one hill and has no Tree. Rothallo was not painted in M.2. The image model was not asked to write. Story M.3 (2026-10-03) added thirteen paintings beside those scripts: `Seinbrun-Atlas.png`, `Rothallo-Atlas.png`, `Rothallo-Gate-Atlas.png`, `Larbril-Atlas.png`, `Votaer-Atlas.png`, `Raitin-Atlas.png`, `Naenor-Atlas.png`, `Lunbra-Atlas.png`, `Braetu-Atlas.png`, `Braetu-Quay-Atlas.png`, `Tasain-Atlas.png`, `Sanbreo-Atlas.png`, and `Natai-Atlas.png`. They are not crops of the regional masters, the continent masters, the city plates, the heart sheet, the drop sheet, the pier sheet, the Grove Bank sheet, or the M.2 town sheets. A city fills its frame as a city. A town fills its frame as a town. Rothallo is the Inner Close. The gate sheet holds the beds outside and the Book inside. The Braetu quay sheet holds the quote-desk and the unlit berth. Vaelhesk has no sheet. The six charter-towns were not painted. The image model was not asked to write. A later pass the same day redrew `Rothallo-Gate-Atlas.png` so the gatehouse matches the city plate, with the beds outside and the Book inside, and redrew `Larbril-Atlas.png` so the Well-wash is a thin silt-line and the west road is the only street. Steep bird's-eye plans of the cities and towns, in the same ink-and-watercolor hand as `Orentel-City-Atlas.png`, were added beside those scripts and labeled by `label_seat_plans.py`: Seinbrun, Rothallo, Larbril, Votaer, Raitin, Naenor, Lunbra, Braetu, Maiethlir, Orentel, Tasain, Sanbreo, Natai, Eolvaeth, Harrow's Green, the Mill-hold, Ornsael, and Nelath. Each plan is a new painting, not a crop and not a flat roof diagram. Rothallo's gate is the plain arched gatehouse, with the beds outside. Larbril's Well-wash is the water at the meeting, and the west road is the street. Vaelhesk has no plan. Ndenjoo has no plan. Story M.5 (2026-10-04) writes the ordinary house in the section above. Close plates and plans still wear the shore-lands house until that story redraws them. Orentel remains the shore-lands reference. Regional masters stay.
 
 Suggested first labels, not a new gazetteer:
 

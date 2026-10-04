@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 
 # The Atlas Sheets
@@ -506,9 +506,15 @@ A march-town. The town gate is on the road. A young Hand. Rebuild with `label_na
 
 **Natai.** `Natai-Atlas-Labeled.png` is a Pillow overlay on `Natai-Atlas.png`. West is left. The frame is the town. **The town gate** is on the road. **The Tree** is a young Hand. Harrow's Green, the ford, and the three hamlets are not drawn. Dumu is not labeled. No capital star. Script: `label_natai.py`.
 
+## The ordinary house — 2026-10-04
+
+Close plates and overhead plans use the house of their band. The ink is one atlas: steep bird's-eye, roofs filling the frame, a house still a house, west left, masters 1152×864. The image model is not asked to write. Pillow names sit on the features. A hearth, a window that can open, and a pot of green sit on that local house.
+
+The ordinary house is distinct from one band to the next. Towns inside a band vary only by the landmark the note already names. `Orentel-City-Atlas.png` is the shore-lands house. It is the reference for Raitin, Naenor, Lunbra, and Braetu. It is not the reference for the other bands. The cards, and which sheet uses which, are in [[Map Generation Tooling#The ordinary house]]. Story M.5 on [[Roadmap]] redraws the close plates to those cards. The plates on this page still wear the shore-lands house until that story replaces them. Regional masters stay. Story M.4 does not redraw them.
+
 ## Overhead plans — 2026-10-03
 
-The oblique plates stay. These are separate steep bird's-eye plans in the same ink-and-watercolor hand as `Orentel-City-Atlas.png`, at that sheet's roof size, so the roofs fill the frame and a house is still a house. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. Orentel and Maiethlir use the city sheets. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted.
+The oblique plates stay. These are separate steep bird's-eye plans at the same roof size, so a house is still a house. West is left. Masters are 1152×864. The image model was not asked to write. Pillow labels in `label_seat_plans.py` use the names already on each settlement note. Orentel and Maiethlir use the city sheets. No capital star. Vaelhesk has no plan. Ndenjoo is a village and has no plan. The six charter-towns were not painted. The house on these plans follows [[#The ordinary house — 2026-10-04]] once Story M.5 redraws them.
 
 ![[Seinbrun-Plan-Atlas-Labeled.png]]
 ![[Rothallo-Plan-Atlas-Labeled.png]]
