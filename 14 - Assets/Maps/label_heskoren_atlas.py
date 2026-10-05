@@ -218,8 +218,10 @@ def build() -> Image.Image:
     place(ink, "Vaelun", (808, 552), hamlet_f, off=(18, 10), anchor="lm", radius=3, stroke=2)
     place(ink, "Ornath", (738, 588), hamlet_f, off=(-14, 10), anchor="rm", radius=3, stroke=2)
     halo_text(ink, (690, 368), "live front", note, TYPE_MUTED, stroke=2)
-    # Natai is the march-town on the live front. Not Harrow's square,
-    # not the ford, and not a hamlet between grafts.
+    # Natai is the march-town. Not Harrow's square, not the ford, and not
+    # a hamlet between grafts. This overlay puts the name east of Harrow's.
+    # The Known Map schematic puts it west of Harrow's, between Sanbreo and
+    # the square. The schematic is the placement. Do not move this dot.
     place(
         ink,
         "Natai",

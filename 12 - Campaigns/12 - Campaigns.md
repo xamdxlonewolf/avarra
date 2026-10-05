@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-08-31
+updated: 2026-10-05
 ---
 
 # 12 - Campaigns
@@ -16,6 +16,7 @@ updated: 2026-08-31
 ## Contents
 - [[The Isolated Fall]] — first campaign; live-front opening
 - [[The Opening]] — session-one kit (not a played session)
+- [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]] — later kits; not a close
 
 ## Related
 - [[Harrow's Green]] · [[Taeren]] · [[Rosire]] · [[A Hidden Phoenix]]

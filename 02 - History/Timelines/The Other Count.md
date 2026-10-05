@@ -9,7 +9,7 @@ aliases: [Years Besides Wood, The Counted Years That Were Not Grafts, Non-Tree H
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-09-29
+updated: 2026-10-05
 ---
 
 # The Other Count
@@ -75,7 +75,7 @@ The clerk cannot afford to see that "171 is not a Cut we honor" is how a fever b
 
 - **Who cut.** Five attributions stand ([[The First Cut]]). The Closing is about the *copy*, not the knife.
 - **The nature of her limit.** A war over access is people. It is not a wound-theory.
-- **A sixteenth power.** The Inner Close is a town inside [[Orenbren]].
+- **A sixteenth power.** [[Rothallo]], still called the Inner Close, is a walled city inside [[Orenbren]]. It is this power's capital. It is not a second flag.
 The three sites remain undated.
 
 ## Links
@@ -96,7 +96,7 @@ Moved from the player-facing body during residual export polish:
 
 - > **What this is.** The dated years inside C.Y. 0–387 that are **not** the spread of grafts. Two clocks still organize how you Turned and where the wood has reached ([[The Ages of the Turning]]). This note is the proof that three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. Built for [[Roadmap|Story R.9]] with `systemic-worldbuilding`, `world-fates` (shifts already in the past), `oblique-worldbuilding`, and `cliche-transcendence` (the Closed Seat is a gate that grew a country, not a dark lord).
 - > **Canon status.** 🟡 **Lived chronicle (2026-08-30).** 🔒 **Does not move the two clocks, the present year, the spread-bands, or the undated Tree.** 🔒 **Who cut remains unpicked.** Names of the five years and the Closed Seat are working common-tongue — no new liturgy. World book untouched.
-- - **A sixteenth power.** The Inner Close is a town inside [[Orenbren]]. **Placement locked Story R.10** — not a replacement of [[The Hinge Shore]].
+- - **A sixteenth power.** [[Rothallo]], still called the Inner Close, is a walled city inside [[Orenbren]], and this power's capital. **Placement locked Story R.10** — not a replacement of [[The Hinge Shore]]. The regional painting still shows the small walled square. It was not redrawn to city scale.
 - - **Named terrain.** ✅ Story R.10 → [[Named Ground]] (the Old Crossing · the Rain-Wall · the Core-thaw · the Rise-water · the Chart-run · the Well-wash).
 - - **Adventure-site procedure.** ✅ Story R.11: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] now have entrances, pressures, discoveries, and current actors. Still do not date them.
 - - [[02 - History]] · [[Roadmap]] (Story R.9; R.11)

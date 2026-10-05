@@ -8,7 +8,7 @@ tags: [secret, contradiction, pass-two, moc]
 aliases: [Conflicts Log, Contradiction Log, Pass Two Log]
 category: contradiction
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-05
 ---
 
 # Contradictions
@@ -22,6 +22,20 @@ updated: 2026-08-31
 ## Open
 
 *None.*
+
+## Resolved in the sweep after L, S, and M (2026-10-05)
+
+C-01 through C-06 and R-01 through R-04 were not reopened. P2.1 and P2.2 were not reopened. No map was redrawn. The world book was left as it stands. It still calls the Inner Close a town. That is the standing rule, not a new C-02.
+
+| ID | What | Resolution |
+|---|---|---|
+| **C-07** | Living notes still called [[Rothallo]] a town, or said it was not a capital. The close plate and the regional square still show a small walled mark. The seat note says a walled city, the capital of [[Orenbren]], still called the Inner Close, not a sixteenth power. | The note wins. The paintings stay. [[The Other Count]], [[The Atlas Sheets]], [[Map Generation Tooling]], and the atlas-script headers now say the painted square was not redrawn to city scale, and the place is the capital. No capital star. |
+| **C-08** | [[The Known Map]] puts [[Natai]] west of [[Harrow's Green]], between [[Sanbreo]] and the square, not on the ford. The Heskoren overlay and the world overlay put the same name east of Harrow's. [[Natai]] does not name a side. | The schematic is the placement. The overlays were not redrawn. Recorded on [[The Known Map]] and [[Map Generation Tooling]]. Do not move either mark to make them match. |
+| **C-09** | The M.4 record said [[Larbril]] is on the west bank of the Well-wash. The seat note says the meeting of the west road and the wash, short of the pass, west of [[Ornsael]]'s well. The rain-shadow dot sits east of the wash as that sheet draws it. | The seat note wins. The sentence was corrected on [[The Atlas Sheets]], [[Roadmap]], and the rain-shadow script. The dot was not moved. |
+
+Checked, and not a conflict: the new seats' habit counts and people match the grill. The habits stay unexplained. Vaelhesk has no settlement dot. The six charter-towns stay unnamed. Larbril's plate keeps the wash as water and the west road as the street. Rothallo's gate plate keeps the beds outside and the Book inside. Harrow's stays a square. [[Nelath]] stays the road-end.
+
+**P2.4 (same day).** `story-sense` on the notes this sweep touched. The seats already have a way in, a job, a tension, and the mouths the grill allowed. The trouble was stale sentences, not a thin street. No note was thickened. The heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, and the Fungril spoonful were not explained.
 
 ## Resolved with leftovers 1 / 3 / 9 (2026-08-31)
 

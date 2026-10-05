@@ -264,6 +264,7 @@ On its face: a careful warden. Underneath: the hush is a person still waiting to
 
 ## Links
 - [[The Isolated Fall]] — campaign hub
+- [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]] — later kits; this session stays as written
 - [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Wrong Green]]
 - [[Taeren]] · [[Rosire]] · [[People of the Turning]]
 - [[A Hidden Phoenix]] · [[When the Fire Is Caught]] · [[The Protectors]] · [[Phoenix]]

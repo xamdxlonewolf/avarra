@@ -8,8 +8,9 @@ Ground, the Known Map schematic, and the C1 prompt. Rebuild:
 
 West is left. The Rain-Wall divides the wet Motherland from the dry
 Rain-Shadow. Thaeloren is the sole exceptional Tree; its marker is a
-canopy ring, never a capital star. Rothallo is the walled town inside
-Orenbren. People still say the Inner Close. It is the same mark.
+canopy ring, never a capital star. Rothallo is the painted walled square
+inside Orenbren. The place is the capital. People still say the Inner
+Close. It is the same mark. Do not redraw this master to city scale.
 """
 
 from __future__ import annotations

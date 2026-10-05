@@ -8,8 +8,9 @@ Rebuild:
     python3 "14 - Assets/Maps/label_sacred_core_atlas.py"
 
 West is left. Thaeloren is the sole exceptional Tree. Rothallo is the
-walled town inside Orenbren. People still say the Inner Close. It is the
-same mark. The Third Hearth is a Near Mile road-house, and Maiethlir is
+painted walled square inside Orenbren. The place is the capital. People
+still say the Inner Close. It is the same mark. Do not redraw this master
+to city scale. The Third Hearth is a Near Mile road-house, and Maiethlir is
 the counted river-city. Seinbrun is off that river, in the warm core.
 None receives a capital star.
 """

@@ -9,7 +9,7 @@ aliases: [Offices, Who Holds the Office]
 world: The Turning
 reveals: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-05
 ---
 
 # Leaders
@@ -42,7 +42,7 @@ Tora of Brenod is the witness-mouth on [[08 - People]]. Meirim is the neighbour-
 - **No new present leader.** The roads a table already walks have a mouth: Haelin at Harrow's, Tora at Brenod, [[Thilim]] on the Near Mile, [[Vaethod]] at Eolvaeth, [[Ledan]] and [[Sorim]] and [[Tesara]] at Orentel, [[Rithim]] at Maiethlir, [[Njunda]] at Ndenjoo. Meirim is already Brenthael's warden, on the page.
 - **Haelin stays an alias of [[Harrow's Green]].** Do not write Haelin a person-note to fill this index.
 - **The four instruments stay on [[The Reckoned Offices]].** Do not clone Menirein, Tarvae, Videm, or Sirtal. Do not give them houses in this pass. [[Rithim]] is already the town Speaker.
-- **Do not staff the twelve unnamed seats.** Do not capture the First Seat. Do not make a pope of the hill.
+- **The twelve seats are named.** Their mouths are on the seat notes. This index does not add another. Do not capture the First Seat. Do not make a pope of the hill.
 - **[[Sorim]] is not the council.** Linked here because the berth already has a factor.
 
 ## Links

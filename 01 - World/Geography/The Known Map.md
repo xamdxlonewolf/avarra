@@ -49,6 +49,14 @@ The SVG is the **labelled schematic** — placement only, light on terrain. The 
 
 Travel times: [[Named Ground#Travel times]]. A day's walk is a mile-shrine. The Salt Walk is the Old Crossing plus the Near Mile. The Long Mile is the West Water plus Heskoren mud.
 
+## GM Notes
+
+The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], between [[Sanbreo]] and the square, and not on the ford. The Heskoren overlay and the world overlay put that name east of Harrow's. Those paintings were not redrawn. Do not move either mark to make them match.
+
+[[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square. They were not redrawn to city scale. No capital star.
+
+[[Larbril]] is where the west road meets the Well-wash, short of the pass, west of [[Ornsael]]'s well. It is not a west bank. The rain-shadow dot was not moved.
+
 ## Links
 - [[Named Ground]] · [[The World Frame]] · [[Powers of the Turning]]
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]

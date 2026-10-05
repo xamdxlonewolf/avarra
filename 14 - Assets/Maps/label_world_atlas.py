@@ -481,6 +481,9 @@ def build() -> Image.Image:
     place_city(ink, "Larbril", (1368, 535), (1410, 508), city, "lm")
 
     # Heskoren. Harrow's is not a capital. Vaelhesk is not a dot.
+    # This sheet puts Natai east of Harrow's. The Known Map schematic puts
+    # Natai west of Harrow's, between Sanbreo and the square. The schematic
+    # is the placement. Do not move this dot.
     place_city(ink, "Sanbreo", (228, 708), (168, 688), city, "rm")
     place_city(ink, "Harrow's", (318, 658), (280, 622), city, "rm")
     place_city(ink, "Natai", (360, 718), (318, 762), city, "rm")

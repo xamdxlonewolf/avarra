@@ -41,8 +41,8 @@ updated: 2026-10-04
 | **7** | [[#Epic 7 — Settlements]] | Concrete stages for play | Med | ✅ done + leftover squares |
 | **8** | [[#Epic 8 — People]] | The cast | Low | 🟢 8.1 landed in R.8 |
 | **9** | [[#Epic 9 — Secrets & Canon]] | Revelation architecture — runs *alongside* from Epic 0 | — | 🟢 architecture done; still alongside |
-| **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1 done; P2.2 plain prose done 2026-10-02; later undecomposed |
-| **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 opening done |
+| **P2** | [[#Pass two — verification]] | Whole-world consistency, contradictions, gaps, quality — after pass one | **High** | P2.1–P2.4 done 2026-10-05. Endings stay undecomposed |
+| **10** | [[#Epic 10 — Campaign]] | Actual play material; needs the world to exist first | — | 🟢 10.1–10.2 done. Endings undecomposed |
 | **A** | [[#Epic A — Atlas labels]] | Overlay names on the selected paintings, one sheet per story | Low | ✅ A.1–A.14 done |
 | **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | ✅ L.1–L.9 done 2026-10-03 |
 | **S** | [[#Epic S — The other seats]] | The twelve powers whose seats were left unnamed. A city, a town, or a recorded refusal. Maps of those places wait on Epic M | Med | ✅ S.0–S.3 done 2026-10-03. Epic S complete |
@@ -207,7 +207,7 @@ updated: 2026-10-04
 ---
 
 ## Pass two — verification
-**Skill:** `story-sense` (router) · `worldbuilding` · **Status:** **P2.2 complete 2026-10-02.** P2.1 complete 2026-08-31. Later stories undecomposed. **Blast radius:** High. Pass one is complete. Do not resume the old Epic 8 plan. Do not open L.7, Epic S, or Epic M from this story.
+**Skill:** `story-sense` (router) · `worldbuilding` · **Status:** **P2.4 complete 2026-10-05.** P2.3 contradiction sweep the same day. P2.2 complete 2026-10-02. P2.1 complete 2026-08-31. **Blast radius:** High. Pass one is complete. Do not resume the old Epic 8 plan. Do not reopen P2.1 or P2.2.
 
 > A review sweep of the whole world for consistency, contradictions, gaps, and quality. Log and resolve under [[Contradictions]]. The bible stays this vault. Do not invent a parallel `world-bible/` tree. Do not update the world book unless asked. Hub collisions found while writing the opening are logged and fixed on that log (C-05).
 
@@ -230,10 +230,28 @@ The notes had picked up a writing habit: facts hidden in riddles, and the labels
 
 > **P2.2 recorded decisions (2026-10-02).** Plain prose is the note voice. Unexplained habits stay unexplained, and they are written as what people do. The compiled world book still has the old sentences. It was not rebuilt. L.7 was not opened.
 
+### Story P2.3 — Contradiction sweep after L, S, and M ✅ **DONE (2026-10-05)**
+Read the world again now that Epics L, S, and M are in. The new seats, their people and habits, the close plates, and the pointers on [[The Known Map]] and the overlays. If a painting and a note disagree, the note wins. Do not redraw a map. Log on [[Contradictions]]. Resolve in the home note when the locked spine already decides it. If two locked decisions conflict, log that and stop. Do not silently pick.
+
+- [x] Read [[Contradictions]] first. Leave C-01 through C-06 and R-01 through R-04 resolved. Do not reopen P2.1 or P2.2.
+- [x] Read the Epic S seats, their people and habits, the close plates, and the pointers.
+- [x] Where a painting and a note disagree, the note wins. Do not redraw a map. Log the finding. Resolve it in the home note when the locked spine already decides it.
+- [x] If two locked decisions conflict, log that and stop on that item. Do not silently pick.
+- [x] Do not invent a parallel world-bible. Do not generate a new power, faith, tongue, or liturgical name. Do not update the world book. Do not reopen M.4 or M.5.
+
+> **P2.3 recorded decisions (2026-10-05).** C-07, C-08, and C-09 are on [[Contradictions]]. Rothallo's painted square stays town-scale; the note says capital. Natai's placement is the schematic, west of Harrow's; the overlays that put the name east were not redrawn. Larbril is the meeting of the west road and the Well-wash, not a west bank; the dot was not moved. Living notes that still said "unnamed seat" or "not a capital" were corrected. Habit counts and people matched the grill. The world book was not rebuilt. No map was redrawn.
+
+### Story P2.4 — Thin-spot pass on what the sweep touched ✅ **DONE (2026-10-05)**
+`story-sense` on the notes P2.3 touched. Fix a note only when that diagnosis says the note is thin. If nothing is thin, write that down. Do not reopen P2.2.
+
+- [x] Run `story-sense` on the seats, people, close-plate labels, and pointer notes the sweep touched.
+- [x] Fix a note only if the diagnosis says it is thin. If nothing is thin, write that down.
+- [x] Do not reopen P2.2. Do not put "inscrutable," "leave it," or "20%" back into a note. Do not explain the heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, or the Fungril spoonful. Do not turn any of those into a power, a relic, or a rite. Do not fill an empty folder. Plain prose, per [[Conventions#Plain prose]].
+
+> **P2.4 recorded decisions (2026-10-05).** The seats already have a way in, a job, a tension, and the mouths the grill allowed. `story-sense` reads the sweep's trouble as stale sentences, not a world without a street. No note was thickened. The unexplained habits stay unexplained. Written on [[Contradictions]] beside the sweep.
+
 ### Later (do not decompose until asked)
-- Contradiction sweep from the log (C-02 compile-stale resolved by the 2026-08-31 rebuild; C-05 resolved in passing with the opening)
-- Quality / thin-spot pass if `story-sense` still flags a thin note after P2.2. P2.2 already replaced the riddle labels. Do not reopen it to add the labels back.
-- Further campaign stories after [[#Epic 10 — Campaign|Story 10.1]] — not a return to the old Epic 8 roster plan
+- The campaign's close — [[#Epic 10 — Campaign]]. Endings stay here until asked. Not a return to the old Epic 8 roster plan.
 
 ---
 
@@ -514,7 +532,7 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 ---
 
 ## Epic 10 — Campaign
-**Skill:** `key-moments`, `table-tone`, `dialogue` (`endings` later) · **Status:** 🟢 **Story 10.1 done (2026-08-31).** Actual play material (`12 - Campaigns`). Hub: [[The Isolated Fall]]. Kit: [[The Opening]]. Do not resume the old Epic 8 roster. Do not name the cutter, date the Tree, coin liturgy, or add a sixteenth power.
+**Skill:** `key-moments`, `table-tone`, `dialogue` (`endings` later) · **Status:** 🟢 **Story 10.2 done (2026-10-05).** Story 10.1 done (2026-08-31). Actual play material (`12 - Campaigns`). Hub: [[The Isolated Fall]]. Kits: [[The Opening]] · [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]]. Endings stay undecomposed. Do not resume the old Epic 8 roster. Do not name the cutter, date the Tree, coin liturgy, or add a sixteenth power.
 
 > **Locked opening (2026-08-31).** Session one sits at [[Harrow's Green]] — one existing square, live front, not a new town, not a capital, not a Protector fortress. On-screen: escaped remnant-walker + [[Rosire]] + the new Gift ([[Taeren]] as the hidden seat, *or* a PC in that seat). [[Reimaethe]] and [[Hithaen]] offstage. Five key moments, mystery first; one 5% wrongness beat; wonder at the isolated fall. No Leaf-Mother reveal. Agency stays on [[A Hidden Phoenix]]. Engine: [[When the Fire Is Caught]] — apparent two is leftover fire next to a Gift.
 
@@ -526,8 +544,18 @@ Ordinary-job characters who become structural pivots. Draw from offices 7.2–7.
 
 > **10.1 recorded decisions.** Unseen-leaf + remnant walker. A walker-PC who can still Rise is a different opening; do not stack it on Taeren as a second Gift. Taeren is of Brenod; the fall was the neighbour's week at Harrow's Tree (C-05). Rosire left Tesara's shed. The walker stays unnamed this session. No sixteenth power. World book untouched. Later sessions, fragments-as-campaign, and endings stay undecomposed.
 
+### Story 10.2 — The next sessions ✅ **DONE (2026-10-05)**
+Memory-fragment continuation after [[The Opening]]. GM kits, in the same voice: key moments, not a plot. What the table can see. What stays a player choice. Session one stays done.
+
+- [x] Read [[The Opening]] and [[The Isolated Fall]] before writing.
+- [x] Write the kits. [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]]. Key moments, not a plot.
+- [x] Session one stays at [[Harrow's Green]], Hale-month, C.Y. 387. One Gift. [[Taeren]] or a PC in that seat, not both. The walker stays unnamed. [[Reimaethe]] and [[Hithaen]] stay offstage.
+- [x] No Leaf-Mother reveal. Do not fire the remnant-to-ash confirm. No Protector fortress. No second bird. Do not write the campaign's close.
+- [x] Point the hub at the kits. Do not resume the old Epic 8 roster. Do not update the world book.
+
+> **10.2 recorded decisions (2026-10-05).** Three kits after session one. The walk is a choice, still Hale-month. The fragment is one offer, and zero is legal. Early Eolthael leaves the threads open. Leaf-Fall is not played. The walker is still unnamed. Clue 5 stays unfired. Endings stay undecomposed. World book untouched.
+
 ### Later (do not decompose until asked)
-- Memory-fragment continuation and later sessions
 - `endings` when the campaign needs a close
 - Do not resume the old Epic 8 roster to fill a court
 
@@ -1102,7 +1130,7 @@ Capitals, large cities, and important towns. A plain pointer and a label, so a r
 - [x] [[Naenor]] is its own coast. Not the Chart-run sheet. Not the West Water sheet. [[Lunbra]] is the Chart-run, four to eight days upriver of Orentel. [[Braetu]] is the West Water. [[Raitin]] is the river behind the premier coast, and that river is not the Chart-run.
 - [x] No dot for [[Vaelhesk]]. No names for the six charter-towns, the pockets, the shelves, or the villages between grafts.
 
-> **M.4 done (2026-10-05).** Pointers on the maps that already existed. No new painting. Pillow, Liberation Serif, cream type with a dark stroke, a leader when the name would sit on the feature. West is left. No capital star. The note won where a painting disagreed. [[The Known Map]] schematic, the world overlay, Maiethorn, Sacred Core, Strandoren, Heskoren, the Old Crossing, the Chart-run, the West Water, the Rain-Wall, and the Rain-Shadow. The Inner Close square on Maiethorn and on Sacred Core is labeled Rothallo. Maiethlir and Orentel were left where a sheet already had them, and marked once on the world overlay, which had not. Seinbrun is off the Core-thaw. Votaer is the Hinge Shore port. Tasain is in the valley below the Shelf-gate. Larbril is on the west bank of the Well-wash, short of the pass. Lunbra is upriver on the Chart-run. Raitin is the river behind the premier coast. Naenor is the south coast of Strandoren. Braetu is the Night Shore. Sanbreo is the slate-shore mark that had said Ornled. Natai is the march, not Harrow's square and not the ford. Eolvaeth and Harrow's stay. Vaelhesk has no dot. The six charter-towns, the pockets, the shelves, and the villages between grafts stay unnamed. Live Front, Waiting Vale, Kumbaan, the close plates, and the plans were not redrawn. Unlabeled Prototype 3 sheets stay the handouts. The world book was not rebuilt. M.5 stays checked.
+> **M.4 done (2026-10-05).** Pointers on the maps that already existed. No new painting. Pillow, Liberation Serif, cream type with a dark stroke, a leader when the name would sit on the feature. West is left. No capital star. The note won where a painting disagreed. [[The Known Map]] schematic, the world overlay, Maiethorn, Sacred Core, Strandoren, Heskoren, the Old Crossing, the Chart-run, the West Water, the Rain-Wall, and the Rain-Shadow. The Inner Close square on Maiethorn and on Sacred Core is labeled Rothallo. Maiethlir and Orentel were left where a sheet already had them, and marked once on the world overlay, which had not. Seinbrun is off the Core-thaw. Votaer is the Hinge Shore port. Tasain is in the valley below the Shelf-gate. Larbril is where the west road meets the Well-wash, short of the pass, west of Ornsael's well. Lunbra is upriver on the Chart-run. Raitin is the river behind the premier coast. Naenor is the south coast of Strandoren. Braetu is the Night Shore. Sanbreo is the slate-shore mark that had said Ornled. Natai is the march, not Harrow's square and not the ford. Eolvaeth and Harrow's stay. Vaelhesk has no dot. The six charter-towns, the pockets, the shelves, and the villages between grafts stay unnamed. Live Front, Waiting Vale, Kumbaan, the close plates, and the plans were not redrawn. Unlabeled Prototype 3 sheets stay the handouts. The world book was not rebuilt. M.5 stays checked.
 
 ### Story M.5 — The ordinary house ✅ **DONE (2026-10-04)**
 Close plates and overhead plans use the house of their band. The cards are in [[Map Generation Tooling#The ordinary house]] and on [[The Atlas Sheets]]. The ink stays one atlas. The ordinary house is distinct from band to band. Towns inside a band vary by the landmark the note already names. `Orentel-City-Atlas.png` is the shore-lands house, and the reference for that band. Regional masters stay. Epic A stays closed. M.4 does not redraw a painting. This story does not open a new epic. The world book stays untouched.
@@ -1140,9 +1168,9 @@ Close plates and overhead plans use the house of their band. The cards are in [[
 - **Heskoren label trial:** folded into [[#Epic A — Atlas labels|Story A.1]]. Image-model labels redrew C3. Overlay `Heskoren-Atlas-Labeled.png` keeps the Prototype 3 master; names from [[Named Ground]] only. Unlabeled sheets stay the selected handouts.
 - **Atlas follow-up:** 8 / 8 regional sheets rebuilt and visually reviewed ✅ **2026-09-01.** Sibling region sheets are distinct generated paintings, not parent crops: Sacred Core versus Rain-Wall; Chart-run versus West Water. Crop builder retired. Non-canon interpolation boundary recorded on [[The Atlas Sheets]] and [[Map Generation Tooling]]. Thaeloren remains the only exceptional Tree. World book untouched.
 - **Epic 7 leftover — sick-Tree / guest-grove:** 4 / 4 tasks (100%) ✅ **2026-08-31.** [[The Mill-hold]] (Hands un-Hands; mill-race vs roots) · [[The First Bowl]] (guest-grove; two settings of one bowl). Lead road-end seated at [[Nelath]] in Story L.5 (2026-10-02). World book untouched.
-- **Pass two — verification:** 3 / 3 tasks of P2.1 (100%) ✅ **Story P2.1 complete 2026-08-31.** 4 / 4 tasks of P2.2 (100%) ✅ **Story P2.2 complete 2026-10-02** — plain prose. Later pass-two stories undecomposed. C-01 resolved; C-05 resolved in passing with the opening. **C-02 resolved 2026-08-31** by user-requested world-book rebuild. **C-06 resolved 2026-08-31** (Kumbaan "few or no Trees" hedge → no Tree). World book not rebuilt for P2.2. L.7 not opened.
+- **Pass two — verification:** 3 / 3 tasks of P2.1 (100%) ✅ **Story P2.1 complete 2026-08-31.** 4 / 4 tasks of P2.2 (100%) ✅ **Story P2.2 complete 2026-10-02** — plain prose. 5 / 5 tasks of P2.3 (100%) ✅ **Story P2.3 complete 2026-10-05** — contradiction sweep after L, S, and M. C-07, C-08, C-09 on [[Contradictions]]. No map redrawn. 3 / 3 tasks of P2.4 (100%) ✅ **Story P2.4 complete 2026-10-05** — nothing the sweep touched was thin. C-01 through C-06 and R-01 through R-04 stay resolved. **C-02** stays the 2026-08-31 rebuild. World book not rebuilt. Endings stay undecomposed.
 - **Epic 9 — Secrets & Canon:** 4 / 4 tasks of Story 9.1 (100%) ✅ **architecture done 2026-08-31.** Hub [[Revelation Architecture]] · [[Reveal Index]]. Clues [[The Uncoloured Intake]] · [[The Closed Lamp]]. Still alongside for new `reveals:`.
-- **Epic 10 — Campaign:** 4 / 4 tasks of Story 10.1 (100%) ✅ **opening done 2026-08-31.** Hub [[The Isolated Fall]] · kit [[The Opening]]. Later campaign stories undecomposed. Do not resume the old Epic 8 roster.
+- **Epic 10 — Campaign:** 4 / 4 tasks of Story 10.1 (100%) ✅ **opening done 2026-08-31.** 5 / 5 tasks of Story 10.2 (100%) ✅ **next sessions done 2026-10-05.** Hub [[The Isolated Fall]] · kits [[The Opening]] · [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]]. Endings stay undecomposed. Do not resume the old Epic 8 roster.
 - **Epic R: Editorial repair and table readiness:** 97 / 97 tasks (100%) ✅ **closed 2026-08-31.** Gate: [[Epic R Completion Gate 2026-08-31]]. Stories **R.1–R.13** ✅. Residual export polish is **P2.1**, not a reopened R.13. Source: [[Editorial Audit 2026-08-29]]. **Story R.1 ✅** (population arithmetic; Unbound inside Bound; Premise is the sole census). **Story R.2 ✅** (Condition mechanics; one-Gift rule in [[When the Fire Is Caught]]; no level scaling). **Story R.3 ✅** (Hearth-Mark, not a trim; Mixed Ancestry as SRD; Yumboe GM-leave and full Kind; one surprise keyword; other kitchen). **Story R.4 ✅** — warden questions and Leaf-Fall failure on [[Turning Tree]]; dread → [[The Wrong Green]]; Other Hands wants / Orledd receive / allowance strain → [[The Other Hands]]; Open Table lintel → [[The Open Table]]. **Story R.5 ✅** — leaks walled; tag split (`keystone-adjacent` / `the-other-hands`); firing pin [[The Spent Leaf]] + [[The Remainder]]; rungs 1–5 deniable, rung 6 can fire; [[The Unspent]] outside the Five Hands. **Story R.6 ✅** — licence pool ≠ census; Tithe-provision as wells not grain; hearth-stand; road-word; crime ladder; urban Taken-In; prestige-walk chained (Netstrand berths → White Note terms → Orentel holds). **Story R.7 ✅** — lived faces [[The Holding Desk]] · [[The Standing Trade]]; Threnmaieth instruments [[The Reckoned Offices]]; three unlocked fights; header blocks; voice break; greens/halls folded; opposition can act; three engines [[The Pourers]] · [[The Walled Book]] · [[The Protectors]], kept distinct. **Story R.8 ✅** — six pivots + named wants in the three seats + four campaign seeds; hub [[People of the Turning]]. **Story R.9 ✅** — [[The Other Count]]; Closed Seat / [[The Closing]]; five dated years; three leftovers; Ledan query C.Y. 280; fifteen inherited claims. **Story R.10 ✅** — [[Named Ground]] (Old Crossing · Rain-Wall · four rivers · travel table) · [[The Known Map]] · tooling extracted to `14 - Assets/Maps/` · Kumbaan never aligned · Inner Close 🔒 in [[Orenbren]] · the Hinge Shore / Lirorn / Netstrand sharpened. **Story R.11 ✅** — Ornsael de-cloned (well-share); formula varied across seven; White Note walkable; Kumbaan committed ([[Ndenjoo]] · [[Njunda]] · crossing); leftovers given entrances/pressures; retrieval headers; scene-entering dangers. **Story R.12 ✅** — phonology and drift repaired; common handles promoted; *Aeloren* / *Eolstrand* retired; root families closed; fables and note voices differentiated; editorial mantras capped; deterministic naming tool stored. **Story R.13 ✅** — [[Build Plan]] rewritten; `locked` → `canon`; Conditions `player`; [[09 - Creatures]] filled; [[Rogue House Options]] archived; strip rule on [[Conventions]]; scaffolding moved; [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]]. Engine untouched. World book rebuilt 2026-08-31 on explicit request (C-02).
 - **Epic 0 — Foundations:** 7 / 7 tasks (100%) ✅ — setting named *The Turning* (2026-08-20); household elaboration 2026-08-23 → [[The Other Hands]]
 - **Epic 1 — Anchor:** 16 / 16 tasks checked (100% of listed) — clergy orders → [[The Tree-Wardens]] (Story 5.1, names 🟡). **Conditions cross-link leftover ✅ 2026-08-31** → [[Conditions]] derived palette; At the Tree / Away from the Tree on all ten cards.
@@ -1172,7 +1200,7 @@ Close plates and overhead plans use the house of their band. The cards are in [[
 - [[People of the Turning]] — Story R.8 hub · [[Vaethod]] · [[Rithim]] · [[Mataero]] · [[Thilim]] · [[Laevila]] · [[Tesara]] · [[Reimaethe]] · [[Hithaen]] · [[Taeren]] · [[Rosire]]
 - [[The Other Count]] — Story R.9 hub · [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[Conditions]] · [[Kind Heritage]] · [[At the Table]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[Kinds of the Turning]] · [[00 - Core]] · [[Conventions]] · [[99 - Archive]]
-- [[The Isolated Fall]] · [[The Opening]] — Epic 10 Story 10.1
+- [[The Isolated Fall]] · [[The Opening]] · [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]] — Epic 10 Stories 10.1 and 10.2. Endings undecomposed.
 - [[The Atlas Sheets]] · [[Map Generation Tooling]] · [[The Known Map]] — Epic A closed (A.1–A.14, 2026-10-02). City sheets: [[Maiethlir]] · [[Orentel]]. Story M.1 (2026-10-03): Orentel piers · Maiethlir Grove Bank. Unlabeled Prototype 3 sheets stay the regional handouts. L.6 was not opened with the sheets. Next lived-world story is L.7; it was not opened in the L.6 pass.
 - Epic S — the other seats. S.0 done 2026-10-03. S.1 done 2026-10-03 → [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]. S.2 done 2026-10-03 → [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]. S.3 done 2026-10-03 → [[Sanbreo]] · [[Vaelhesk]] (the land is the seat) · [[Natai]].
 - Epic M — town sheets and the new seats. M.1 done 2026-10-03 → Orentel piers · Maiethlir Grove Bank. M.2 done 2026-10-03 → Eolvaeth · Harrow's Green · the Mill-hold · Ornsael · Nelath · Ndenjoo. M.3 done 2026-10-03 → Seinbrun · Rothallo (and the gate) · Larbril · Votaer · Raitin · Naenor · Lunbra · Braetu (and the quay) · Tasain · Sanbreo · Natai. Rothallo is the Inner Close. Vaelhesk has no sheet and no dot. M.4 done 2026-10-05 → pointers on [[The Known Map]] and the overlays that already show that ground. M.5 done 2026-10-04 → close plates and plans wear the ordinary house in [[Map Generation Tooling]]. Orentel stays the shore-lands model. Ndenjoo was already the Kumbaan house.
