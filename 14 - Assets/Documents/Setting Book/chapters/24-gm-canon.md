@@ -1,6 +1,6 @@
 # GM Canon
 
-The table does not start knowing this. Read the world first if you want to meet it as a player would.
+Read the player-facing chapters first if you want to meet the world as a player would. The table does not start knowing this chapter.
 
 This chapter holds the **keystone**: what is actually true, whether anyone in the world can prove it. The Leaf-Mother is real and benevolent. Skeptics are sincere, and wrong about the mind. If a campaign ever confirms her, it lands as warmth.
 
@@ -12,12 +12,12 @@ A **Tithe** is a Condition's upkeep. Its dangerous edge is story pressure, never
 - **Two-Bodied.** The forced shift is timing and inconvenience, never control. The inner voice is a roleplay partner, not a second player: it can want, argue, sulk, and celebrate, but it never rolls, never acts, and never overrides a choice. If a table finds the animal "made me do it," pull it back to nagging. Hold the line on size, no-myth, and no hands / no person's mind / no speech / no tools, so a Two-Bodied out-animals a Tengu or an Answered without out-personing them.
 - **Returned.** Refuse to Fall is "hard to keep down," not immortality: a scar every time, out of the current scene, back by the next long rest. When the last Hope slot would go, they cannot come back. A lapsed Purpose is quiet crisis, not punishment. **Whose hand:** a Returned is Struck by the Quiet Tally (*Threnvaeth*), the household clerk of leftover purpose, under the Leaf-Mother's allowance. She does not Give this at the Tree; she authorizes the catch. The unfinished business is still *theirs*; Threnvaeth does not puppet the Purpose. Do not put that in player-facing text.
 - **Bound.** The Whisper is strictly suggestive: plausible lies and intrusive thoughts the player can reject at a Stress cost. Never puppet the PC. The Pledge is a known, dreaded horizon toward the Unbound, not a surprise. **Whose hand:** the Counterparty is **Orledd**, the household Hand who answers a sworn ask. The face chosen at creation (demon / cosmic-horror / unknown) is a mask; the terms are the same shape. Do not play Orledd as a devil, and do not retcon Given Conditions into bargains.
-- **The Unbound.** The Quiet is a temptation engine, not a compulsion: every "reach for the bargain" beat is refusable at a Stress cost. The tragedy to play toward: an Unbound who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the Given-Over (the Unbound end-state). Warmth is the only thing that actually fills the hole; contracts only mute it.
+- **The Unbound.** The Quiet tempts. It does not compel. Every time they reach for the bargain, they can refuse at a Stress cost. The tragedy to play toward: an Unbound who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the Given-Over (the Unbound end-state). Warmth is the only thing that actually fills the hole; contracts only mute it.
 - **Far-Voiced.** The Cry is a feeling landing on listeners. Stress, never a forced action or belief. A Struck Far-Voiced's first Cry, pre-guild, is a formative beat, not a punishment. A Given Far-Voiced in deep Tithe-debt (0 tokens, on duty, in a courtroom or relay tower) is a slow-building set-piece.
 - **The Stilled.** The Gaze is an attack against an unwilling target (Instinct or Presence). Willing and downed targets take no roll. **Stilled** is a special condition, not Restrained: no actions or reactions; they can speak, be moved, and be targeted; they may mark a Stress to clear it when they would act. The seizing (Grey at 3 tokens) is strictly self-directed: the Stilled's own limb, or harmless scenery, never another PC's autonomy. A Struck Stilled's first, unpracticed Gaze (probably on someone they love, probably by accident) is formative. A Given Stilled deep in Grey-debt on a riot line or in an operating theatre is a slow-building set-piece.
 - **The Answered.** Every 0-token consequence stays on the Answered and their immediate surroundings. Let the chosen element define the character's whole voice (an Ember-Answered feels nothing like a Root-Answered). One of the Answered deep in Tithe-debt walking into a crowded hall, a ship's hold, or a dry archive is a slow-building set-piece.
 - **The Taken-In.** Go-to-seed is strictly environmental: growth from ground and structures, never roots seizing another creature. A Struck Taken-In's uncertainty ("did I walk out, or was I sent?") is quiet identity dread, not a hidden puppet-string. The wild in them is *part of them*, not a master. One dragged deep into a dungeon, a ship's hold, or a stone keep and left to wilt is a slow-building set-piece.
-- **Phoenix.** Run two engines together. The **count**: let everyone watch the Hope slots go; each rising costs something the player feels (a face, a reason they started). The **fishbowl**: never anonymous; every town has those who revere, worship, hunt, and hate them, often the same crowd. Never force a Rise; it is always the player's death-move choice alongside the standard three. A Phoenix may choose Blaze of Glory and end if the story earns it. The fire boons are strong on purpose: compensation for a life with no privacy and a death you can count down to. As a legendary NPC, rebirths make era-markers (the same soul, met three times, remembering the party less each time).
+- **Phoenix.** Run two things at once. The **count**: let everyone watch the Hope slots go; each rising costs something the player feels (a face, a reason they started). The **attention**: the Phoenix is never anonymous. Every town has people who revere them, worship them, hunt them, and hate them, often the same crowd. Never force a Rise; it is always the player's death-move choice alongside the standard three. A Phoenix may choose Blaze of Glory and end if the story earns it. The fire boons are strong on purpose: compensation for a life with no privacy and a death you can count down to. As a legendary NPC, rebirths make era-markers (the same soul, met three times, remembering the party less each time).
 
 ## GM only: Peoples
 
@@ -25,9 +25,9 @@ Distribution is a reach-tell only for the Yumboes. Mainland Kind-hearths (a Kind
 
 Do not grow Kind-nations later. If a later settlement wants a "fox principality," make it a Rain-Shadow polity that happens to be Fox-dense, running on the same theology / reach / governance axes as everyone else. The moment a government is *for* a Kind, the two-layer model (Kind born, Condition acquired, stacked) has started to rot.
 
-The lost fourth Fox is a grandmother's word, not a plot coupon. If you ever spend it, spend it as folklore that stayed when a hearth died (a vanished dry-lake, a wood that was cut), not as a secret ancestry feature waiting in a drawer.
+The lost fourth Fox is a word a grandmother still says. If you use it, use the folklore that stayed when a hearth died: a vanished dry-lake, a wood that was cut. Do not explain the word. Do not make it an ancestry feature.
 
-Two names is a Kind × place tell, not a secret identity. Players should hear it in ordinary introductions. A few smaller things stay unexplained. The lost fourth Fox-word. A Yumboe who does take a mainland byname has decided to stay. A Threnmaieth clerk who refuses to record hearth-names is doing the roll: it wants one name only.
+Two names is a Kind and a place, heard in an ordinary introduction. It is not a secret identity. Write the lost fourth Fox-word as what a grandmother says, and do not explain it. A Yumboe who takes a mainland byname has decided to stay. A Threnmaieth clerk who refuses to record hearth-names is doing the roll: it wants one name only.
 
 Each polity's vocabulary is its self-justification, not the truth of what it does. Threnmaieth's "keeping-whole" (**Threnhael**) is surveillance that calls itself care. Lestrand's "the free" for the **Kept** (hugged by the Tree, no colour, no Condition Given) is a market reframing a social slight as a virtue. Vaethorn's "the Waited" wraps real pity in reverence. None of these framings is dissolved by confirming the Mother. They are how each society launders its own injustice, and a kind Mother does not make any of the three names honest.
 
@@ -105,7 +105,7 @@ A devout river-town on a thaw: *maieth* + *lir* = **Maiethlir**, *th* kept. Do n
 
 In-world, people will tell you names wear down with distance and trade. That is true as far as it goes. The deeper pull that keeps the old sound near the Trees is the Mother's nearness. Same fact, two readings. Do not assert the deeper one in player-facing text.
 
-History adds a mundane mechanism you can play: the pilgrimage itself was a conserving pull. Far mouths walked to the same grove each year, so the old sound got refreshed. Local Trees let the daughters grow in place. Hands-era weather on a Walking-era root.
+History adds a mundane mechanism you can play: the pilgrimage itself was a conserving pull. Far mouths walked to the same grove each year, so the old sound got refreshed. Local Trees let the daughter-mouths grow in place. The Years of Hands wear a Walking Years root.
 
 **Thaeloren = "the Tree that witnesses"** is not decoration. She is real, and the Leaf-Fall is her seeing each child. The language keeps a truth the skeptics have explained away. Do not gloss it in player-facing text as mere poetry. Let a scholar-PC notice it, or save it for a reveal beat. Do not front-load it.
 
@@ -131,7 +131,7 @@ Each custom Kind has a **register**: a closed set of sounds for given names and 
 | Beats | CV or CVC. Two or three beats. |
 | Do not use | *th*, *sh*, *kr/gr*, *mb/nd/nj* |
 
-**Tengu: Gonan** (GO-nan). Clipped, windy, high-country. Not the same mouth as Kusawe. That is the trap: two folklore-Japanese Kinds collapsing into one sound.
+**Tengu: Gonan** (GO-nan). Clipped, windy, high-country. Not the same mouth as Kusawe. Do not give Tengu and Kitsune one shared sound.
 
 | | |
 |---|---|
@@ -156,7 +156,7 @@ The Kept are spared, and some are simply past her edge. A hug and no colour is, 
 
 The Struck are still hers, at the farthest reach of her arm. She **Gives** at the Tree; she does **not** Strike. The catch at the door is enacted by lesser gods of her household, each restricted to one door, working under her allowance. The Struck are still hers because those hands are *hers to send*. **Narrow-Hand** (she Gives only at the Tree) is right about that limit. **Wide-Hand** (those means are still hers: her household, her allowance, her catch at the edge) is right about belonging. Neither holds the whole.
 
-**R2** (the second guardrail): **her benevolence does not dissolve injustice.** Her kindness is cosmological, not social. She authored the gifts; she did **not** author the injustice built on top of them. The Watchful kingdom's register, unvouched-Struck suspicion, Bound over-watching, guild conscription of the Given, Tithe-need as leverage, the Kept pitied, the Given-Over's lost personhood, the scion-queue, the recut lintel, the book that will not close, the host of a dying guest, the sentence that will not travel, the week that will not end, the gate, the scheduled hour, the Grey as labor, the shop you cannot leave, the week no one writes: these are **not misreadings of a kindness to be dissolved by the reveal.** They are the moral spine of the setting. If a campaign ever confirms she is real and kind, that must **not** retroactively make the society just. The keystone answers *is anyone there, and do they mean well* (yes); it pointedly does not answer *is what people built around her fair* (often no). Protect that gap. That is where the play is.
+**Her benevolence does not dissolve injustice.** Her kindness is cosmological, not social. She authored the gifts; she did **not** author the injustice built on top of them. The Watchful kingdom's register, unvouched-Struck suspicion, Bound over-watching, guild conscription of the Given, Tithe-need as leverage, the Kept pitied, the Given-Over's lost personhood, the scion-queue, the recut lintel, the book that will not close, the host of a dying guest, the sentence that will not travel, the week that will not end, the gate, the scheduled hour, the Grey as labor, the shop you cannot leave, the week no one writes: these are **not misreadings of a kindness to be dissolved by the reveal.** They are the moral spine of the setting. If a campaign ever confirms she is real and kind, that must **not** retroactively make the society just. The keystone answers *is anyone there, and do they mean well* (yes); it pointedly does not answer *is what people built around her fair* (often no). Protect that gap. That is where the play is.
 
 The three corners do not share a mechanism of injustice. They share only that people built them. Vaethorn's guilt-theology of unworthiness, Lestrand's let-the-poor-fade market, Threnmaieth's sanctified census: confirming she is kind does not make *any* of these three fair. Rival faiths can be *used* as leverage; they are not automatically the moral good because they dissent. Confirming she is kind does not dissolve Threnmaieth's counting of heretics, Lestrand's priced fading, or Vaethorn's guilt-theology.
 
@@ -173,29 +173,29 @@ If a campaign ever works toward the keystone, the three old corners are the Watc
 
 **The Tree is player-facing but keystone-adjacent.** The graft continuity ("every Tree is literally the one Tree's hand") is the physical fact that, followed to its end, confirms she is real and present. Present it as doctrine the faithful hold, never as demonstrated cosmology. Skeptics grant the grafting and deny the mind. Resist making the Tree eerie or the ceremony sinister. Dread lives in individual Tithes, not in the rite.
 
-**The schism is the reusable engine.** The three questions (Kept, Struck, mind) are inexhaustible fuel for NPCs, factions, and family drama. Do not let a player-facing scene award the win to either branch. Believers see the hand and miss the edge; skeptics see the edge and miss the hand. The world is built so being a skeptic costs nothing day to day, which keeps the schism *poignant* rather than *ironic*.
+**Use the schism again.** The three questions — Kept, Struck, and whether a mind is there — keep supplying NPCs, factions, and family arguments. Do not let a player-facing scene award the win to either branch. Believers see the hand and miss the edge; skeptics see the edge and miss the hand. The world is built so being a skeptic costs nothing day to day, which keeps the schism *poignant* rather than *ironic*.
 
 **The Child at Four Doors.** The paradox is the point. The child cannot pick without already having been claimed, and cannot be claimed without picking. Each faith resolves the unbearable middle by making *their* door the one that was always open. None of the last lines is the true cosmology. The true cosmology is: a mother reached, at cost, and did not reach everyone the same way. The fable will not say that. Which ending an NPC offers is a faster stance-read than a speech about doctrine. Do not write an official fifth door. Do not close the keystone in a children's story. Reserve the warmth for the confirming beat, if it ever comes.
 
-**The Orenhael** (tree-wardens as an order) **are right about the wood and incomplete about the hand.** Every scion (a grafted town Tree) *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present them as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind. The queue is the parallax, not the Tree: the Seat sees soil and carrying-earth; the hamlet past the ford sees another year of borrowed Turnings. Which town gets the next graft is still a human rationing of her reach. Threnmaieth must not capture the Seat in the first sentence. Proximity is pressure, not ownership.
+**The Orenhael** (tree-wardens as an order) **are right about the wood and incomplete about the hand.** Every scion (a grafted town Tree) *is* continuous tissue of the one Tree, and when any warden Speaks a colour they are naming a choice she made. Present them as competent neighbours, not as people who secretly know. A skeptic town-warden is *good at the job* and wrong about the mind. The split is the queue, not the Tree. The Seat sees soil and carrying-earth. The hamlet past the ford sees another year of borrowed Turnings. Which town gets the next graft is still a human rationing of her reach. Threnmaieth must not capture the Seat in the first sentence. Proximity is pressure, not ownership.
 
-**The Slide.** They do not know what story they are in. They think they are in a rent-and-credit story. They want *continuity of the week*, not a victim they relish. A corpse is a ruined asset. Play them as patient, useful, and sure they helped. The town is complicit; do not make the week-keeper the only villain. Official Tithe-infra and the licence-guilds are the public / posted / counted version of furnishing. This house is the overflow those guilds pretend not to know. Off-book Bound brokerage and sold vouching stay nameless. They do not rewrite Terms, steal scions, or sell a false Turning-witness.
+**The Slide.** They do not know what story they are in. They think they are in a rent-and-credit story. They want *continuity of the week*, not a victim they relish. A corpse is a ruined asset. Play them as patient, useful, and sure they helped. The town is complicit; do not make the week-keeper the only villain. Official Tithe-infrastructure and the licence-guilds are the public, posted, counted version of furnishing. This house is the overflow those guilds pretend not to know. Off-book Bound brokerage and sold vouching stay nameless. They do not rewrite Terms, steal scions, or sell a false Turning-witness.
 
 **Official halls and greens.** They think they are in a wells-and-yards story. They want a town that does not wilt, Cry, or seize in the square. They do not want a client. Every closed gate feeds a week-book. Comfort: the words *share*, *hour*, *ticket*, *enough*. She gave the Tithe; she did not build the lot.
 
 **Greens-Keepers.** They want *a living lot*, not a client. A wilt on the lot is a ruined commons. A wilt off the lot is weather they have decided not to see. The buried leaf is how the lot remembers; a PC who digs it up has committed a local rudeness, not found a cosmology. The bed-slate is plants. If it is already a quiet census, that is Threnmaieth leaking, not the world's baseline.
 
-**Hall-Keepers.** One lintel is the point. Far-Voiced are the seam Condition. The unswept bench is how the hall remembers; do not explain which Cry.
+**Hall-Keepers.** Put both jobs in the one hall: the furnished hour, and the Voice-ticket. They stay two jobs. Far-Voiced are where those two jobs meet. Write the unswept bench as what the hall does. Do not explain which Cry it remembers.
 
 **Stillers.** They want a street that does not seize and a patient who lives. They do not want a register of the feared. Forever-hold of a *person* is ordinary violent crime, the code's one named horror. The Gaze never seizes a will. The doorknob is practical (a still knob is a tell), not a relic. Ticket-as-property is Lestrand's live argument, not world-law.
 
-**Element-Guilds.** Four doors, one grammar. They want work that slakes and a room that does not let go. The last coal / yesterday's water / unwashed clay / unshut window are practical and not explained. Gale-Tengu is a lean. Ember-Drakona is a lean. Leans are not chapters.
+**Element-Guilds.** The four elements are four doors under one set of rules. They want work that slakes the Tithe, and a room that holds the element. Write the last coal, yesterday's water, the unwashed clay, and the unshut window as what the guild does. Do not explain them. Gale-Tengu is a lean. Ember-Drakona is a lean. Leans are not chapters.
 
 **The Intake.** They want a quiet week. They do not want a client, a relic, or a route. Success is burned. Given children got a childhood the Struck will never get. Travel is accidental, not a circuit: a runner toward *this* person. Bound / Taken-In / Returned / Two-Bodied / Long-Lived are the wrong office.
 
 **The reach-edge stays GM-side as *cause*.** Vaethorn's high Kept/Struck rates, Lestrand's and Threnmaieth's dense Given, the core-vs-frontier medicine gap: all read in-world as plain distance-and-biology (the skeptics' whole case). The real reason (her reach is bounded and thins where the Trees are thin) stays GM-side. Don't let a player-facing beat assert the cause. Vaethorn is the sharpest test of this: they are the place where a devout population *most wants* an explanation for the thin gift, and where the wrong (true) answer would land hardest.
 
-**Names encode the R2 guard, per polity.** Each polity's vocabulary is its *self-justification*, not the truth of what it does. Threnmaieth's "keeping-whole" (Threnhael) is surveillance that calls itself care; Lestrand's "the free" for the Kept is a market reframing a social slight as a virtue; Vaethorn's "the Waited" wraps real pity in reverence. None of these framings is dissolved by the reveal.
+**Each polity's names keep that rule.** The vocabulary is the polity's self-justification, not the truth of what it does. Threnmaieth's "keeping-whole" (Threnhael) is surveillance that calls itself care; Lestrand's "the free" for the Kept is a market reframing a social slight as a virtue; Vaethorn's "the Waited" wraps real pity in reverence. None of these framings is dissolved by the reveal.
 
 **The Long-Lived marriage** is the setting's quietest, most reusable ache. Reserve it for weight.
 
@@ -241,7 +241,7 @@ Because she is quiet and genuinely kind, revelation gathers as things fitting to
 ### What players will think first
 
 - **"It's just what the Trees do."** The skeptic's reading: biology/phenomenon, no mind behind it. Sincere, common, and *wrong about the mind*, but they have genuinely *seen the edge* and mislabelled a limit as an absence. Safe to hold, and half-right, which is what makes it durable.
-- **"If she's real and kind, why the Tithes / why the Struck / why anyone Kept?"** The schism's engine. These now have *true* answers with an ache in them (a gift has honest weight; she reaches the thresholds but only at the edge of her arm; some Kept are chosen for wholeness and some are simply past her reach), but the answers aren't *provable*, so the questions stay live.
+- **"If she's real and kind, why the Tithes / why the Struck / why anyone Kept?"** These questions stay live. They have true answers with an ache in them (a gift has honest weight; she reaches the thresholds but only at the edge of her arm; some Kept are chosen for wholeness and some are simply past her reach), but the answers aren't *provable*, so the questions stay live.
 - **"A kind god would save everyone."** The misreading the constraint invites: that a *bounded* mother isn't really benevolent. In-world this is a real theological wound. She is kind *and* finite, and the gap between them is where the grief lives. It does not solve into either omnipotence or indifference.
 - **The dark reading:** that a benevolent front hides a harvest/betrayal. This setting **rejects** that. The floor is *sound*: bounded, costly, and grieving, but sound.
 
@@ -267,7 +267,7 @@ The schism stays a *good-faith* disagreement, and the constraint makes it *two-s
 
 She is **not** exclusive. She is the first and greatest of a household. She **Gives**. She does **not** Strike. The Struck are the work of **the Other Hands**: lesser gods of her household, each with a restricted door and her allowance to reach through it.
 
-The world still holds her as belief. The other faiths already describe these powers as *they* understand them. Confirmation is a late beat, and it should land as *the household was always there*, not as a gotcha pantheon dump.
+The world still holds her as belief. The other faiths already describe these powers as *they* understand them. Confirmation is a late beat, and it should land as the household having always been there, not as a sudden list of gods.
 
 ### The division of labour
 
@@ -283,7 +283,7 @@ She cannot (or will not) Give a death or a contract to a ten-year-old. Those doo
 
 Five Hands, five doors, five Conditions that can arrive without a leaf. Each is **restricted**: one door, one grant, her allowance. They are not a dark court and not a rival pantheon. They are *family labour*, the work she cannot do at the Tree without breaking what a gift is.
 
-| Door | Condition | Everyday name | Liturgical (Maiethren, the Old Tongue) | The fresh angle |
+| Door | Condition | Everyday name | Liturgical (Maiethren, the Old Tongue) | Play them as |
 |---|---|---|---|---|
 | died with work unfinished | Returned | **the Quiet Tally** | *Threnvaeth* (THREN-vayth): "the counted waiting" | Not Hades, not a reaper. A **clerk of leftover purpose**. Will not close the book while work remains. Warm-solemn, like the Returned themselves. |
 | a contract sworn in extremity | Bound (and the Unbound when the term ends) | **the Counterparty** | *Orledd* (or-LED): "the witnessed reckoning" | Not a devil. The one who **answers a sworn ask** and keeps the term. The Bound's chosen face (demon / vast / unknown) is a *mask they gave*; Orledd wears it. |
@@ -340,7 +340,7 @@ Yumboes are unreached, not refused. A graft that cannot travel is not a judgment
 
 **"Spirits of the dead" is folklore, not literal here.** The source myth calls Yumboes ghosts/ancestral spirits. They are a *living* people (a playable Kind). The ancestral flavour is their *faith's* self-image: a people who venerate hill, moon, and lineage and speak of themselves in the old ancestral idiom. They are not literally undead (that's the Returned's lane).
 
-**The storm-wall is a dial, not a lock.** Whether it can be crossed, and how, is a GM lever. A permanent absolute wall kills the expedition hook. A seasonal thinning, a known-but-deadly passage, or a Condition/Kind that can survive it keeps the door usable when the story wants it.
+Whether the storm-wall can be crossed, and how, stays open. Choose for the story in front of you. Do not make the wall impossible for good: that removes the expedition. A seasonal thinning, a known passage that kills, or a Condition or Kind that can survive the wall keeps a crossing available when that story wants one. Do not write the choice into the book as the fact.
 
 Kumbaan stays off the clerk's list on purpose. A later campaign may reach it; it is not a great power. A wrecked pot in a sailor's story is allowed. A taking is not. Road-hands do not bring the Mother across the storm-wall. Finding an old scion on the Isle would break the isolate and the Open Table.
 
@@ -356,7 +356,7 @@ Never let a player-facing region note assert the deeper cause; let it read as ge
 
 **Strandoren** has Trees as healthy as Maiethorn's but wears the faith lightly. The reason the Given are dense here is the same as anywhere (healthy grafts), and the reason the *faith* is thin is purely social (commerce erodes devotion). Keep those two facts separate in-world; don't let the cool faith read as thin reach or vice versa. The eroded language drift is the tell: smooth because secular, not because Tree-poor.
 
-**Heskoren** is the sharpest in-world test of the keystone edge. The Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer (her reach is bounded and thins where the Trees are thin) is exactly the answer that would land hardest and cruellest here. It would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is *young/sick/scarce grafts* (true as far as it goes) and history (**Clock 2**: where the wood has reached; the graft-wave still moving). The gap between "true as far as it goes" and the whole truth is where the play lives.
+**Heskoren** is the sharpest in-world test of the keystone edge. The Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer (her reach is bounded and thins where the Trees are thin) is exactly the answer that would land hardest and cruellest here. It would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is young, sick, or scarce grafts (true as far as it goes) and history: where the wood has reached, the wave of grafts still moving. The gap between "true as far as it goes" and the whole truth is where the play lives.
 
 **The Sundering Isle** is the strongest keystone experiment. A near-Treeless land whose people become what they become *without* the Leaf-Fall is the cleanest natural test of whether the Mother is behind *any* of it. No Gifts (no graft has crossed; her reach does not get there). Struck are rare (the household has little purchase where it is unknown and the doors are not kept). Their Kind and their table are *their own*, not a subtler Tree. Don't resolve a lone Yumboe's Struck-or-not in session one. It's still a late beat.
 
@@ -384,13 +384,15 @@ Every scion *is* continuous tissue of the one Tree, so the **First Cut** (the fi
 
 ## The ages, GM-side
 
-**The two clocks protect the keystone without confirming it.** Clock 2 (the wave) is the player-facing face of "reach grew with the grafts," the quiet argument that a *hand*, not a climate, is behind the thinning. Skeptics still win the mundane reading (young/sick/few grafts, distance, history). Both readings share the same map. Do not let a player-facing era note assert the mind.
+**Two clocks.** Say what each one is, then use the name.
 
-**Clock 1** is how you Turned: walk to a Tree, or stand under a town graft.
+**Clock 1** is how a person Turned: they walked to a Tree, or they stood under a town graft.
 
-**The present is not post-history.** Especially on Heskoren. Narrating Ornthael (the Years of Hands) as "the modern age after the Grafting" re-creates stacked ages. Two clocks. The wave is live. A sick Tree in the core puts a Hands-town back on the neighbour's week; that is Clock 1 flipping, not an age ending.
+**Clock 2** is where the wood has reached: the wave of living grafts, still moving. The two clocks protect the keystone without confirming it. Clock 2 is what players can see of "reach grew with the grafts," the quiet argument that a hand, not a climate, is behind the thinning. Skeptics still win the mundane reading (young, sick, or few grafts, distance, history). Both readings share the same map. Do not let a player-facing era note assert the mind.
 
-**Heskoren is not "living in the past."** A hamlet sending this year's ten-year-olds to a neighbour is doing Clock 2, present tense. A hamlet sending them all the way to Thaeloren is doing Clock 1, present tense. Do not narrate either as re-enactment.
+**The present is this year.** Especially on Heskoren. Do not narrate Ornthael, the Years of Hands, as the modern age that began after the Grafting finished. That stacks one finished age on another. Keep both clocks. The wave is live. A sick Tree in the core puts a Hands-town back on the neighbour's week. That is Clock 1 changing. It is not an age ending.
+
+**Heskoren is this year.** A hamlet sending this year's ten-year-olds to a neighbour is Clock 2, present tense. A hamlet sending them all the way to Thaeloren is Clock 1, present tense. Do not narrate either as a re-enactment.
 
 **The Grafting is not a redemption arc for society.** Local Trees did not abolish Struck stigma, Tithe-leverage, guild conscription, or the pitied Kept. They *relocated* who gets a local witness and who waits on a queue. The scion-queue is the Hands-era injustice grown from a Walking-era mercy. Confirming she is kind does not make the queue fair. The Seat's narration ("her will travelling") is a claim, not a solvent.
 
@@ -398,13 +400,13 @@ Every scion *is* continuous tissue of the one Tree, so the **First Cut** (the fi
 
 **The Walking did not make far people spiritually deficient.** Distance did. Vaethorn's guilt-theology is a Hands-era reading of a Walking-era fact. Old Ways refusal is not "missing the gift"; it is a different door. Do not let history agree with the guilt.
 
-**The one-week door is the engine's teeth.** If eleven-year-olds Turn Given "because they tried," the split household and the held-over year lose their bite. Struck remains the later door. That is enough mercy.
+**Keep the Given-door to one week.** If eleven-year-olds Turn Given because they tried, the split household and the held-over year lose their force. Struck remains the later door. That is enough mercy.
 
 **Protect the two-sided memory.** Devout Hands-era storytellers will want Brenvaeth (the Walking Years) as holy traffic: every child a pilgrim, every summer a hymn. Skeptics will want it as biology plus bad roads. Both are using the era. The graves make the hymn expensive; the hymn makes the graves a meaning. Play both. The fables refuse to pick.
 
-**The gap (C.Y. 160 to 200)** is load-bearing. Not empty time and not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. Filling the gap with a crusade or a miracle-crossing launders the list.
+**Keep the gap from C.Y. 160 to 200.** It is not empty time, and it is not a punishment. Dead wood on the Long Mile, a chain that had to mature, a queue that preferred a paying next. Do not fill the gap with a crusade or a miracle-crossing.
 
-**Who made the First Cut is unpicked.** A named first Road-hand, a named parent, a named saint, is a taste call if play needs a tomb. A face makes a great-man history; the engine is wood and waiting. The five attributions are the play. Collapsing them in GM voice is how you accidentally write a gospel.
+**Who made the First Cut stays unpicked.** A named first Road-hand, a named parent, or a named saint is available only if a session needs a tomb. Naming one face makes one person the cause. What carries the age is the wood and the waiting. The five attributions are the play. If you collapse them in your own voice, you write a gospel.
 
 **Rithnali says *Tree*, the later Cutting-leave says *Mother*.** The early paper has not finished the overlay. Dual-practice, an old Speaker, or the college still arguing the name: playable, not a gotcha. Do not "correct" the minute.
 
@@ -432,7 +434,7 @@ A **leftover job** is the one present-tense work a square still does from the ro
 
 **Harrow's Green is not the "good town" that waited faithfully.** They were a paying-enough, soil-enough, chain-enough next on a list written in the Motherwood. Luck is horticulture plus the queue. Vaethorn will preach otherwise. The **Harrow-sentence** is a tell: when an NPC says it as nostalgia, they are Maiethorn; when they say it as this year, they are the front; when they say it as a slight (*they Turned at Harrow's because they had no Hand*), they are a hamlet. One leftover job: necessity. A ribbon on the stone is texture, not a second theme. A First-Hand-year household here is lost, rich, or lying. Keep the hamlets visible from the square in at least one sightline. "The soil was right here" is horticulture; Haelin does not assert the mind.
 
-**The Three Hamlets are not living in the past.** A hamlet sending this year's ten-year-olds to Harrow's is doing the present. They wait because the wood is slow, the road is long, and the list was written in the Motherwood. Not because they were unworthy. Confirming she is kind does not plant the scion. Fate-pressure: precarious, a single dependency on Harrow's week or a pot. Do not wipe the cluster to make the queue feel real. The pressure *is* the play. Seam, not a **planet-of-hats** (a place where every NPC recites one theme): all four voices (Saelvaeth luck / Vaelhesk refusal / Vaethorn guilt / Ornled slate) can sit in one week. Brenod leans sending, Vaelun leans refusal, Ornath leans the other road: leans, not flags. Which green has the sick stick waits on a session.
+**The Three Hamlets are not living in the past.** A hamlet sending this year's ten-year-olds to Harrow's is doing the present. They wait because the wood is slow, the road is long, and the list was written in the Motherwood. Not because they were unworthy. Confirming she is kind does not plant the scion. Fate-pressure: precarious, a single dependency on Harrow's week or a pot. Do not wipe the cluster to make the queue feel real. The pressure *is* the play. Keep it a seam. Do not make every person recite one theme. All four voices — Saelvaeth's luck, Vaelhesk's refusal, Vaethorn's guilt, Ornled's slate — can sit in one week. Brenod leans sending, Vaelun leans refusal, Ornath leans the other road: leans, not flags. Which green has the sick stick waits on a session.
 
 **The Third Hearth is not a failure.** The White Note collected. The Third Hearth kept making the bed. Do not have Thilim "lose" because the paper went to the coast. One leftover job on the street: devotion / extra mile. Necessity in the loft is Thilim's eye, not a second town-theme. Prestige that lands here is the household that missed the White Note. Orenbren is many hearths. Brenthael is a neighbour square, not a capital. Thilim's four jobs stay disagreed. Do not pick which sermon they are. Do not kill Thilim to close the Held bed (the leftover pilgrim bed). The stone is a day's water and a name; it does not assert the mind.
 
@@ -442,13 +444,13 @@ A **leftover job** is the one present-tense work a square still does from the ro
 
 **Orentel: the White Note is not the crown.** The desk is one house on the third quay. The council is many tickets. A party that only meets Ledan has not met Orentel. One leftover job: prestige / First-Hand year as product. Necessity in the loft is texture, not a second theme. Empty berths and earth-holds are this street's leftover. Salt on the roots is not a ribbon. Hallowquay stays a lesser quay: a neighbourhood byname, not a retcon of the capital. Dense Given stay horticulture-and-trade in player text. Confirming she is kind does not make the hold kind. A rich city stepping around a fade is the Coast's injustice at eye level.
 
-**Maiethlir does not capture the First Seat.** Proximity is pressure. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll, and keep Rithim as the local version of that refusal, incomplete. This is a Hand beside a thaw-river. The grove is a dark on the horizon. Orenbren lodges the other road. Brenthael is a neighbour of an inn, not this capital. One leftover job: devotion / extra mile, layered. The census is the layer, not the postcard. Tablets, a loud thaw, clerk-dorms in old lofts. The unfiled Held bed is a rumour the roll has not found: a different leftover, not Seine's lintel moved to the counted city. Maiethvael is the argument next door. Same *maieth*, opposite paper. Do not make them the kind foil (piety as a social tax in plenty). Dense Given stay horticulture in player text. The loud river is not her voice unless a later reveal earns it, and even then the social-injustice guard holds. Confirming she is kind does not make the counted channel kind. Devotion sanctifies the surveillance; the surveillance enforces the devotion. No clean villain.
+**Maiethlir does not capture the First Seat.** Proximity is pressure. A First Seat that *is* the Threnhael is a different (darker) setting. Keep the college able to refuse the roll, and keep Rithim as the local version of that refusal, incomplete. This is a Hand beside a thaw-river. The grove is a dark on the horizon. Orenbren lodges the other road. Brenthael is a neighbour of an inn, not this capital. One leftover job: devotion, the extra mile, with the census written on top of it. Do not play the census as the whole town. Tablets, a loud thaw, clerk-dorms in old lofts. The unfiled Held bed is a rumour the roll has not found: a different leftover, not Seine's lintel moved to the counted city. Maiethvael is the argument next door. Same *maieth*, opposite paper. Do not make them the kind foil (piety as a social tax in plenty). Dense Given stay horticulture in player text. The loud river is not her voice unless a later reveal earns it, and even then her kindness does not make the counting fair. Confirming she is kind does not make the counted channel kind. Devotion sanctifies the surveillance; the surveillance enforces the devotion. No clean villain.
 
 **Name-pairs as tells.** Maiethvael / Threnmaieth is the Motherland's argument in two names: Mother's *gift* vs Mother's *reckoning*. Same *maieth*, opposite paper. Saelthael / Saelvaeth share *sael* (sowing) on two continents. Clock 2 still moving at the origin *and* the front. Do not narrate one as history and the other as frontier flavour. Trenledd's etymology: *Thren* worn to *Tren* is the sacred count with the sacred worn off, the same machinery Threnmaieth sanctifies, named as what it does. A scholar-PC may notice; do not gloss it in player text as a clever pun. The *vael/vaeth* pair: Yield vs waiting. Same continent, opposite first syllable. Vaethorn and Vaelhesk already *feel* it.
 
 **Theology and reach stay independent.** High reach, cooled faith on the Hinge Shore is the same pairing Strandoren proves, on the *conservative* shore. Do not let mid-hymns read as thin Trees.
 
-**Netstrand's *neth*.** Why *night* sits on this west shore is not fully explained: night-watches, storm-wall dark, a Watching-flavoured eve-custom that does not belong this far west. Pick in play, or never.
+**Netstrand's *neth*.** On this west shore people keep a night-watch, or they name the dark off the storm-wall, or they keep an eve-custom that sounds like the Watching and does not belong this far west. Write what they do. Why *night* sits here stays open. Pick one for a session, or never pick.
 
 **Ornled is not freedom.** Light state plus thin Trees plus no faith-net is exposure. Do not agree with Vaethorn that Ornled is unworthy. Distance and a choice of gospel. Horticulture plus culture.
 
@@ -479,7 +481,7 @@ A pretty road-end town whose leftover is only picturesque launders the graves. A
 - The twelve seats are named or refused: Seinbrun, Rothallo, Larbril, Votaer, Tasain, Raitin, Naenor, Lunbra, Braetu, Sanbreo, Vaelhesk (the land; no city), Natai. Six charter-towns and Trenledd's throat stay unnamed. The First Seat is a college in the wood beside Maiethlir, unnamed, not a throne and not captured. The White Note is placed on Orentel, not crowned. Harrow's Green and Ornsael are not capitals. Larbril is the city at the wash. Ornsael is the well farther into the dry. Natai is the march, west of Harrow's, not the ford and not the square. No capital star. Vaelhesk has no settlement dot. No graft on Kumbaan.
 - The Other Count sits beside the two clocks: Closing 19–38, Two Papers 67, Grey Summer 171, Thaw-Break 233, Hinge Hush 299–304. Cutter unpicked. Present C.Y. 387.
 - Fate-pressure on the First Seat, Road-hands, waiting towns, and deathless houses is visible. It has not been rolled.
-- Opening kit: Isolated Fall sits at Harrow's Green, Hale-month C.Y. 387. One Gift. Apparent two is leftover fire next to a new leaf. Harvest engine stays behind this chapter.
+- Opening kit: Isolated Fall sits at Harrow's Green, Hale-month C.Y. 387. One Gift. Apparent two is leftover fire next to a new leaf. The harvest stays in this chapter.
 
 **Open.**
 
@@ -489,7 +491,7 @@ A pretty road-end town whose leftover is only picturesque launders the graves. A
 - **What she wants**, beyond giving good gifts, is undecided. She is kind; her larger purpose (if any) is unwritten.
 - **Where she is / whether she can be reached** is undecided. Revelation is deliberately quiet; there is no throne to visit.
 - **Whether the storm-wall can be crossed, and how** is a GM lever, not a settled fact.
-- **Why *neth* sits on Netstrand's shore** is not fully explained.
+- **Why *neth* sits on Netstrand's shore** stays open. Write what people do there. Do not settle why.
 - **Which of the three hamlets' greens has the sick stick** waits on a session.
 - **Household names** (Quiet Tally / Counterparty / Second Breath / Holding / Taking, and their Maiethren forms) are polishable; the structure is settled.
 - **Eclipses and comets** are not written. A later story may name one in play. A second mainland moon is not open. Other planes are not open. Whether the storm-wall can be crossed stays its own question.
@@ -498,7 +500,7 @@ A pretty road-end town whose leftover is only picturesque launders the graves. A
 
 What the table learns, and in what order. The keystone and the household are already in this chapter. This is not a second cosmology.
 
-Keep the Phoenix engine behind the keystone. Do not lead with a second bird. Do not confirm her in session one.
+Keep the Phoenix rules behind the keystone. Do not lead with a second Phoenix. Do not confirm her in session one.
 
 ### When the fire is caught
 
@@ -515,7 +517,7 @@ The remnant cannot Rise, cannot be Given, and cannot Give. Immunity and wings ca
 
 The slot is empty from the true death. The leaf may fall. The wider world does not see it because the remnant is still *called* the Phoenix and kept out of sight. Doctrine says there cannot be two, so a Spoken white-fire while a sanctuary still "holds the Phoenix" is filed as a mis-Speaking or a hush. The new child is real. The stories are still about the old name.
 
-**The Protectors** catch the fire. They use this engine; they do not rewrite it. Player text knows the Care as a hospice that will not produce the one. The harvest stays here.
+**The Protectors** catch the fire. They use these rules. They do not rewrite them. Player text knows the Care as a hospice that will not produce the one. The harvest stays here.
 
 Clues, in order: Hope scars without memories; a sanctuary that will not produce the Phoenix; a white-fire fall that was never Spoken; fire that answers a child and an old name at once; late, the remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. Warmth with a theft under it. Not a harvest-god reveal.
 
@@ -523,7 +525,7 @@ Misreadings to refuse: there were always two; the Tree made a mistake; the remna
 
 ### A hidden Phoenix (player agency)
 
-The open-card Phoenix is a fishbowl. This is the other seat. Whole-table consent, same as the public card. The Transformation card does not change.
+The open-card Phoenix is never anonymous. This is the other seat. Whole-table consent, same as the public card. The Transformation card does not change.
 
 Two legal shapes. Pick one. They are not two Phoenixes.
 
@@ -542,14 +544,14 @@ Stored fire can show facts (a count, a layout, a name the fire still answers, th
 
 ### Isolated Fall — the opening
 
-The first campaign. Play starts at an existing square. Session one is a kit, not a novel. Mystery first. One 5% beat. Wonder at an isolated fall. The Leaf-Mother is not this session's reveal.
+The first campaign. Play starts at an existing square. Session one is a kit, not a novel. Mystery first. One frightening beat. Wonder at an isolated fall. The Leaf-Mother is not this session's reveal.
 
 | | |
 |---|---|
 | **Sits** | Harrow's Green, Hale-month, C.Y. 387. Next week is Eolthael. |
 | **On-screen** | The walker · Rosire · the new Gift (Taeren *or* a PC in that seat) · Haelin · Tora of Brenod |
 | **Offstage** | Reimaethe · Hithaen · Vimein · Tesara's week · the Care as a place you can walk into |
-| **Do not** | Invent a Protector fortress. Lead with a second bird. Confirm her. Name the cutter. Date the Tree. Add a sixteenth power. |
+| **Do not** | Invent a Protector fortress. Lead with a second Phoenix. Confirm her. Name the cutter. Date the Tree. Add a sixteenth power. |
 
 There is **one Gift**. This opening needs an apparent two, so: the new Gift is an unseen leaf (can still Rise); the walker is leftover fire (Gift already ended, cannot Rise, not a Phoenix for Leaf-Fall, law, or the roster); Rosire opened a door that was not on the slate.
 
@@ -563,8 +565,8 @@ What the table can see: a live-front square doing a necessity-day; civic talk th
 
 1. **Two tenses in the square.** Mystery. Someone asks whether the one is coming for Leaf-Fall. A neighbour says the Phoenix is in care. Another says they have never seen one. Haelin: they have a Tree. They do not have a legend. Curiosity, not dread.
 2. **White that nobody Spoke.** Wonder. Last Eolthael, a Brenod child stood at Harrow's Tree. Something white. Haelin did not Speak it. Heat in the hands they do not show. If a PC occupies this seat, this moment is theirs. Do not run Taeren as an NPC beside them. Do not confirm the Leaf-Mother. Linger. Then stop.
-3. **Scars that do not match the lives.** Mystery. The walker is in the upper room. More crossed lives than they can put in a row. They cannot Rise. Do not stage that death this session to prove the engine. Rosire brings water and does not explain.
-4. **The lamp that knows two mouths.** Wrongness glimpse (~5%). Rosire kept a closed travelling-lamp. The coal should be cold. It is not. When the new Gift is on the stair, the lamp leans. When the walker speaks an old name, the lamp answers that name too. Narrate the lamp, the lean, the two names. Do **not** narrate harvest, bank, remnant, Protectors, or "this is not a real Phoenix." One linger, then let someone pour tea.
+3. **Scars that do not match the lives.** Mystery. The walker is in the upper room. More crossed lives than they can put in a row. They cannot Rise. Do not stage that death this session to prove the rule. Rosire brings water and does not explain.
+4. **The lamp that knows two mouths.** One glimpse of wrongness. Rosire kept a closed travelling-lamp. The coal should be cold. It is not. When the new Gift is on the stair, the lamp leans. When the walker speaks an old name, the lamp answers that name too. Narrate the lamp, the lean, the two names. Do **not** narrate harvest, bank, remnant, Protectors, or "this is not a real Phoenix." One linger, then let someone pour tea.
 5. **The door that was not on the slate.** Mystery. Rosire on-screen as a person, not a confession. A cleared room. Sand. They flinch. They will say: someone walked; I walked the other way. What the party does with the person who opened the door is theirs. Session one can end with the lamp still lit, the stone still unmoved, the witness still unwalked, and no one named as the one. Do not fire the remnant-to-ash beat. Do not have Vimein arrive.
 
 **Stop lines.** No Leaf-Mother reveal. No Care-fortress. No hunt in hour one. No second Gift. After the lamp, decompress — water, bread, the stone still there.

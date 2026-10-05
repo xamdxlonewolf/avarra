@@ -1,10 +1,10 @@
 # The Ages
 
-People in this world do not live in "the Fourth Age." They keep **two overlapping clocks**, and which one they glance at tells you where they stand.
+How you Turned is one count people keep: the walk to the origin, or standing under a town Tree. Where the wood has reached is the other: the Grafting, still unfinished on Heskoren, never on Kumbaan. The first count is **Clock 1**. The second is **Clock 2**. Which one a person glances at tells you where they stand.
 
-**Clock 1: How you Turned** (personal, generational). Did you walk to Thaeloren, or to a neighbour who had already walked, or did you stand under a town **graft**? A graft, here, is horticulture: a cutting of living wood joined to new ground so it grows as the same plant. Ordinary families date themselves this way: *we are a Hands-house; grandmother still talks of the road.* **Hands** names the planted town Trees, and also the era in which those Trees are the ordinary way to Turn. A Long-Lived who says *"I walked"* is dating the room.
+**Clock 1** is personal and generational. Did you walk to Thaeloren, or to a neighbour who had already walked, or did you stand under a town **graft**? A graft, here, is horticulture: a cutting of living wood joined to new ground so it grows as the same plant. A family says, "We are a Hands-house. Grandmother still talks of the road." **Hands** names the planted town Trees, and also the era in which those Trees are the ordinary way to Turn. A Long-Lived who says "I walked" is dating the room.
 
-**Clock 2: Where the wood has reached** (geographic, unfinished). The **Grafting** is a wave of living wood that started at the origin, filled Maiethorn, crossed to Strandoren by sea, and is still arriving on Heskoren. Kumbaan is off the wave entirely. Present-day thin reach is the front of a process that has not finished.
+**Clock 2** is geographic, and unfinished. The **Grafting** is a wave of living wood that started at the origin, filled Maiethorn, crossed to Strandoren by sea, and is still arriving on Heskoren. Kumbaan is off the wave entirely. Present-day thin reach is the front of a process that has not finished.
 
 Both clocks sit on an unnamed preface: **Before the Walk**. The Tree was already there. No honest count starts it.
 
@@ -14,13 +14,13 @@ The Walking Years were a logistics problem that killed children on the road. The
 
 | | Everyday | Liturgical | Says | What it is |
 |---|---|---|---|---|
-| Preface | **Before the Walk** | *(mostly unnamed)* · the Watching keep **the Before** | *(none)* | The Tree already stood. Kinds, doors, and seeing without a mother's name. Uncounted on purpose. |
+| Preface | **Before the Walk** | *(mostly unnamed)* · the Watching keep **the Before** | *(none)* | The Tree already stood. Kinds, doors, and seeing without a mother's name. No count of it has a start. |
 | Clock 1, old default | **the Walking Years** | **Brenvaeth** *(bren-VAYTH)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed Kept for want of the trip. Far lands ran heavy on the Kept and the Struck. |
-| The hinge | **the First Cut** | **Eoloren** *(ay-ohl-OR-en)* | "the witnessed hinge" | Someone cut living wood and it *took*. Who, is argued. That it happened, is not. |
-| Clock 2 | **the Grafting** | *(process, not an age you exit)* | *(none)* | The carrying of hands. Still unfinished at the Sundered Reach. Never crossed the storm-wall. |
+| The hinge | **the First Cut** | **Eoloren** *(ay-ohl-OR-en)* | "the witnessed hinge" | Someone cut living wood and it *took*. Who is argued. The taking is the part every telling grants. |
+| Clock 2 | **the Grafting** | *(still moving through the present)* | *(none)* | The carrying of hands. Still unfinished at the Sundered Reach. Never crossed the storm-wall. |
 | Clock 1, new default | **the Years of Hands** | **Ornthael** *(orn-THALE)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains as devotion, prestige, or necessity where a graft has failed. |
 
-The liturgical pair is a deliberate inversion of the Road-hands' own name. **Thaelvaeth** is "the Tree gone to the waiting": wood carried *out*. **Brenvaeth** is "the hearth gone to the waiting": people walking *in*. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths.
+The liturgical pair inverts the Road-hands' own name. **Thaelvaeth** is "the Tree gone to the waiting": wood carried *out*. **Brenvaeth** is "the hearth gone to the waiting": people walking *in*. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths.
 
 ## How years are numbered
 
@@ -28,25 +28,25 @@ There is **no universal year-zero.** Same twelve months; three new-year's days. 
 
 | Who | What they count from | What it sounds like |
 |---|---|---|
-| First Seat / devout clerks | **the First Cut**, in **Cut-years** (liturgical: the *Eoloren-count*). A Cut-year is a year numbered from that hinge, not from a creation or a coronation. | "the 387th Cut-year" |
-| Threnmaieth | Cut-years *and* a crown-count from the Two Papers (C.Y. 67; present **Crown-year 320**) | a number that wants to be a roll |
+| First Seat / devout clerks | **the First Cut**, in **Cut-years** (liturgical: the *Eoloren-count*). A Cut-year is a year numbered from that hinge. | "the 387th Cut-year" |
+| Threnmaieth | Cut-years *and* a crown-count from the Two Papers (C.Y. 67; present **Crown-year 320**) | both numbers, set down for a roll |
 | Lestrand / deathless houses | a **house-founding**, a note-issue, a contract-term | "the 200th summer of the White Note" |
 | Vaethorn | **the year our graft took**, or the last *actual* Turning-Week | a child "turns the year" when the local Tree last managed a fall |
-| the Watching | they **refuse the Cut-count** | the overlay is not an epoch; the Tree was already seeing |
-| the Old Ways | a closed door, a drowning-year, a guest that took | the Hands are when *guests* arrived, not when history began |
+| the Watching | they **refuse the Cut-count** | the Tree was already seeing, before any Cut-count |
+| the Old Ways | a closed door, a drowning-year, a guest that took | the Hands are when guests arrived; the old doors are older than that arrival |
 | Kumbaan | **moons** | the mainland ages are a sailor's chart they do not owe |
 
 **Present:** **Cut-year 387**, the 387th summer since the First Cut. Shorthand **C.Y. 387**. It is not a round number.
 
-**What you may not date.** The Awakening Tree is **old beyond reliable dating.** Before the Walk has no start. Who made the First Cut stays contested. The three pre-Walk leftovers (the Low Wall, the Seeing-Ring, the Dry Stair) are *found*, not founded.
+**What no one can date.** The Awakening Tree is **old beyond reliable dating.** Before the Walk has no start. Who made the First Cut stays contested. The Low Wall, the Seeing-Ring, and the Dry Stair are older jobs of the ground from before the Walk. People found them standing. They carry no builder's name.
 
 ### The Other Count
 
-Two clocks still organize how you Turned and where the wood has reached. Three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. This count sits *beside* the clocks. It does not replace them.
+Two clocks still organize how you Turned and where the wood has reached. Three hundred and eighty-seven summers also held a war, a split of paper, a fever, a flood, and a hush that is still the Old Crossing's peace. This count sits *beside* the clocks.
 
-In the Walking Years the origin was not an open grove. A class of the untithed **sat on Thaeloren** and decided who might walk to it. Everyday historical name: **the Closed Seat.** Folk: **the Grove-Sitters.** They were an *origin-gate* that grew a country around the one seeing — not a flag on all three continents. Strandoren paid the Salt Walk; it was never a province. Heskoren was beyond a gate's ride. Kumbaan was not in the story.
+In the Walking Years a class of the untithed **sat on Thaeloren** and decided who might walk to it. Everyday historical name: **the Closed Seat.** Folk: **the Grove-Sitters.** They were an *origin-gate* that grew a country around the one seeing. Strandoren paid the Salt Walk; it was never a province. Heskoren was beyond a gate's ride. Kumbaan lay beyond any road that gate could send.
 
-They thought they were doing horticulture and mercy: the one Tree cannot stand a world at once, so someone must choose the road. That is the same hunger the First Seat later named Cutting-leave, and the same hunger Rothallo still files as rank. People still say the Inner Close. It is Orenbren's walled capital, one day's walk from the wood, inside Orenbren. It is not a second town and not a sixteenth power. The First Seat stays in the wood.
+They thought they were doing horticulture and mercy: the one Tree cannot stand a world at once, so someone must choose the road. That is the same hunger the First Seat later named Cutting-leave, and the same hunger Rothallo still files as rank. People still say the Inner Close. It is Orenbren's walled capital, one day's walk from the wood, inside Orenbren. The First Seat stays in the wood.
 
 | Cut-years | Everyday name | Kind | What it left |
 |---|---|---|---|
@@ -54,11 +54,11 @@ They thought they were doing horticulture and mercy: the one Tree cannot stand a
 | **C.Y. 67** | **the Two Papers** | political / dynastic (paper, not blood) | One hymn-country became Maiethvael and Threnmaieth. Crown-count starts here. Present **Crown-year 320**. |
 | **C.Y. 171** | **the Grey Summer** | epidemic | Quay-fever on the Old Crossing. Not a Tithe. Trenledd began writing persons. Brenledd piled a compact (C.Y. 174). Leddvael made a signing a civic rite. |
 | **C.Y. 233** | **the Thaw-Break** | natural | Lirorn snowmelt in one week on the Rain-Wall. Noon Pass lost; Shelf-gate taken. West-road cut two summers. |
-| **C.Y. 248** | **the Wrong Green** | Tree / civic | A hug Speaked as copper-green. Human wound. Already a cited year at Harrow's. Not one of the five non-Tree years; kept here so a table does not invent a second Harrow. |
+| **C.Y. 248** | **the Wrong Green** | Tree / civic | A hug Speaked as copper-green. Human wound. Already a cited year at Harrow's. The five dated events beside it are the Closing, the Two Papers, the Grey Summer, the Thaw-Break, and the Hinge Hush. |
 | **C.Y. 280** | **Ledan's query** | archival dating | The White Note House in its 200th summer. Ledan is Long-Lived; the conversion is still the house's habit. Present house-year **307**. |
 | **C.Y. 299–304** | **the Hinge War** → **the Hinge Hush** | inter-power / treaty | The Hinge Shore and the Ledger Coast over hinge-tolls. The hush is the current Old Crossing peace, with a West Water clause Netstrand still quotes. |
 
-Present remains **C.Y. 387**. Do not slide it. Who cut remains unpicked. A chronicle that writes a first king onto the Before is doing the overlay the Watching warned about.
+Present remains **C.Y. 387**. Who cut remains unpicked. A chronicle that writes a first king onto the Before is laying a later story on an undated seeing. The Watching warn against that.
 
 **What a traveller notices, besides wood.** Three dates on a debt, and a *fourth* if the note survived the Grey Summer. A kitchen that still will not send a child through the Inner Close's gate. A Lirorn pass-stone with a water-line over the old ribbon-notch. A Hinge Shore quay that charges the Hush-rate and will not call it a victory. A Watching night on a ring of stones that is older than any Cut-year anyone will write.
 
@@ -78,26 +78,26 @@ A freshly planted **scion** (the cutting itself, not a seed) still takes **a gen
 
 ## What the two clocks did
 
-**Law.** Citizenship-by-local-witness is a Hands-era default. In the Walking Years the town that *saw you Turn* was the crowd under Thaeloren, or no one, if you never arrived. Far children who stayed Kept were unwitnessed as Given because they did not make the trip. They were not missing from a roll. Vouching-at-a-distance (a Long-Lived who remembers the origin-fall, a Bound word, a Far-Voiced feeling) was invented to carry the origin's witness home. The unvouched Struck are older than the grafts: a becoming on a far threshold was always unwitnessed. The Grafting localized who is expected to have been seen. It did not invent that unease.
+**Law.** Citizenship-by-local-witness is a Hands-era default. In the Walking Years the town that *saw you Turn* was the crowd under Thaeloren, or no one, if you never arrived. Far children who stayed Kept were unwitnessed as Given because they did not make the trip. No roll had a line for them. Vouching-at-a-distance (a Long-Lived who remembers the origin-fall, a Bound word, a Far-Voiced feeling) was invented to carry the origin's witness home. The unvouched Struck are older than the grafts: a becoming on a far threshold was always unwitnessed. The Grafting localized who is expected to have been seen. The unease was already in the far towns.
 
 **Money.** Many deathless houses began as **road-houses**: inns on the pilgrimage roads that also issued credit, beds and century-notes for families who had to walk. When the walk stopped being required in the core, the houses still had Long-Lived memory of every debtor on the road, and paper that outlived the pilgrimage-season. They became banks. The endow-not-inherit loop is older than the Hands. The *trusted note* is a Walking-era instrument that outlived its road.
 
 **Clergy.** **Cutting-leave** is the First Seat's paper authorizing a cut: how the college captured a practice that began without it. The first successful cut was argued as theft, as mercy, as the Tree offering a branch, as old horticulture the Motherfaith later named. The Seat won the *authorization*. The **scion-queue** is the Grafting's child, the bottleneck that appears when her reach can travel but someone still decides *which town next.* Spreading Trees made a queue.
 
-**Language.** The pilgrimage was a conserving pull. Once a year the far-flung walked to the same grove and heard the same liturgy, so the Old Tongue stayed nearer itself along the road. Local Trees let daughters grow in place. That is why drift tracks Tree-thinness, and why Lestrand eroded so far so fast: trade, a local canopy, and no need to walk to the Motherwood. The three daughter-drifts are Hands-era weather sitting on a Walking-era root.
+**Language.** The pilgrimage was a conserving pull. Once a year the far-flung walked to the same grove and heard the same liturgy, so the Old Tongue stayed nearer itself along the road. Local Trees let daughters grow in place. That is why drift tracks Tree-thinness, and why Lestrand eroded so far so fast: trade, a local canopy, and no need to walk to the Motherwood. The three daughter-drifts are Years-of-Hands change on a Walking-era root.
 
-**Geography.** The reach-gradient *is* the wave, frozen at C.Y. 387. Maiethorn is old Hands. Strandoren is mature Hands with a commercial aftertaste. Heskoren is the Grafting this decade. Kumbaan never entered the clocks. In-world this reads as distance-and-history, which is true as far as it goes.
+**Geography.** The reach-gradient *is* the wave, frozen at C.Y. 387. Maiethorn is old Hands. Strandoren is mature Hands with a commercial aftertaste. Heskoren is the Grafting this decade. Kumbaan never entered the clocks. A traveller meets that spread as distance, and as history.
 
 **Faith.** The Watching remember Before the Walk as *the Before*, seeing without a mother's name, and will not start history at a Cut. The Old Ways were already becoming before any pilgrim road; the Hands are when *guests* arrived late. The Fair Hand dates contracts from a signing, not from a wound in wood; the Grafting is a supply-chain fact. The Open Table owes the ages nothing.
 
 ### What a traveller notices
 
-- A Long-Lived who says *I walked*, and a room that goes quiet. Clock 1, spoken as biography.
+- A Long-Lived who says "I walked," and a room that goes quiet. That is Clock 1: how that person Turned.
 - A **mile-shrine** on a road that now ends at a town Tree: a stone at about a day's walk, set for a Turning that no longer has to happen there. The devout still leave a ribbon. The town children climb it.
 - **Empty pilgrim-beds** in an old inn's upper room, let now to merchants. The deathless house that owns the inn still dates its notes from the founding-summer the beds were full.
 - Three dates for one summer, written on one debt: a Cut-year, a house-year, a "year the graft took."
-- A Heskoren hamlet whose ten-year-olds still walk to a neighbour. They are not doing history. They are doing *this year.*
-- A Phoenix named as an era-marker, *the Phoenix of the last Walking summer*, without anyone agreeing which summer that was.
+- A Heskoren hamlet whose ten-year-olds still walk to a neighbour. That walk is this year.
+- Someone names a Phoenix "the Phoenix of the last Walking summer," and no one in the room agrees which summer that was.
 
 ### A clerk's query (C.Y. 387)
 
@@ -113,37 +113,37 @@ Ledan is asking a court question. The Speaker who answers, if they answer, will 
 
 ## Before the Walk
 
-The unnamed preface. The Awakening Tree already stood. People already had Kinds. Some already *became* things at doors the later faith would struggle to place. This era is kept thin on purpose. There is no date. The Tree is old beyond reliable dating. No creation myth, no first king. The Watching keep **the Before**.
+The unnamed preface. The Awakening Tree already stood. People already had Kinds. Some already *became* things at doors the later faith would struggle to place. People tell little of it. There is no date. The Tree is old beyond reliable dating. No creation myth, no first king. The Watching keep **the Before**.
 
-Most of the world does not have a name for this. The devout skip it. Skeptics call it "before anyone bothered to walk," which is a shrug, not a chronicle.
+Most of the world does not have a name for this. The devout skip it. Skeptics say, "Before anyone bothered to walk," and they keep no years for it.
 
 The Watching keep the one lived name: **the Before.** In their telling the world was Kind and Kind alone, then the Tree was already there, *watching*. The Giving came after the Watching. The Mother-name came after that. Each layer is a story laid over a seeing.
 
-The Old Ways do not grant that becoming waited on a road. Heskoren's people already crossed doors (drowning, grove, stone) before any pilgrim mile. The Walking Years, when they arrived as a foreign traffic, were not the beginning of history. They were the beginning of *company*.
+The Old Ways do not grant that becoming waited on a road. Heskoren's people already crossed doors (drowning, grove, stone) before any pilgrim mile. The Walking Years, when they arrived as a foreign traffic, were the beginning of *company*.
 
-The Open Table is not in this clock. Kumbaan's hill-history does not owe Thaeloren a preface.
+Kumbaan's hill-history does not owe Thaeloren a preface.
 
 What can be said without inventing kings:
 
 - The origin Tree is the one Tree no one grafted from another. It was not planted in a remembered summer.
 - Far from it, people lived as they lived. Some were Struck at thresholds because thresholds exist. Some were never either Given or Struck, because there was no local fall to miss.
-- When people *organized the tenth-year trip*, the Walking Years began. That organization is the start of Clock 1, not the start of the world.
+- When people organized the tenth-year trip, the Walking Years began. That organization is the start of Clock 1. The world was already there.
 
-None dated. That is the point. A later chronicle that "discovers" a first king, a first war, or a first sermon in this era is doing the overlay the Watching warned about.
+None of this is dated. A later chronicle that writes a first king, a first war, or a first sermon into this era is laying a later story on an undated seeing. The Watching warn against that.
 
 ---
 
 ## The Walking Years
 
-Once there was only the Awakening Tree, and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed Kept for want of it**, so the far reaches ran heavy on the Kept and the Struck as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical: **Brenvaeth** *(bren-VAYTH)*, "the hearth gone to the waiting."
+Once there was only the Awakening Tree, and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed Kept for want of it**, so the far reaches ran heavy on the Kept and the Struck as the ordinary count. Everyday name: **the Walking Years.** Liturgical: **Brenvaeth** *(bren-VAYTH)*, "the hearth gone to the waiting."
 
-In these years the divine was not local. The Leaf-Fall happened in one grove, on Maiethorn, under Thaeloren. A tenth summer was a journey, or it was a hug you never received because you were not there to be hugged.
+In these years the Leaf-Fall happened in one grove, on Maiethorn, under Thaeloren. A tenth summer was a journey, or it was a hug you never received because you were not there to be hugged.
 
-The far-flung who stayed home were not "skipped by a goddess" in any way a town could prove. They were **children who did not walk.** Some were later Struck at a drowning, an oath, a death, unwitnessed, because the only crowd that counted was a continent away. Some stayed Kept for life, wanted or not, because want-of-a-trip is a distance.
+No town could show that a goddess had skipped the far-flung who stayed home. They were **children who did not walk.** Some were later Struck at a drowning, an oath, a death, unwitnessed, because the only crowd that counted was a continent away. Some stayed Kept for life, wanted or not, because want-of-a-trip is a distance.
 
-Thin reach used to mean far from the one Tree. After the First Cut, thin reach came to mean *Tree-poor places*: young, sick, or few grafts. A hamlet next-door to a dying scion can be "far" in the old sense without being far on a map.
+Thin reach used to mean far from the one Tree. After the First Cut, thin reach came to mean *Tree-poor places*: young, sick, or few grafts. A hamlet next-door to a dying scion is near on a map. The wood there is thin, which is what "far" came to mean.
 
-The pilgrimage **did not vanish** when grafts began. It changed jobs. In the Years of Hands the devout still walk to the origin; the poor and the Tree-bereaved still walk to a neighbour. The Walking Years are the time when *everyone who Turned as Given had walked, or had been carried.*
+The pilgrimage changed jobs when grafts began, and people still walk it. In the Years of Hands the devout still walk to the origin; the poor and the Tree-bereaved still walk to a neighbour. The Walking Years are the time when *everyone who Turned as Given had walked, or had been carried.*
 
 The later romance of the old mile is a Hands-era feeling laid on Walking-era graves.
 
@@ -153,7 +153,7 @@ The era has no dated start. It grows out of Before the Walk when the trip become
 
 Turning-Week is the week bracketing the High Solstice in **Eolthael**. Every child who has turned ten since the last High Solstice Turns that week, under Thaeloren, or they do not Turn as Given at all.
 
-Miss the week and the door has shut. An eleven-year-old at the origin the following summer is a visitor. The Tree's Given-door is the tenth-year cohort, not a standing appointment. Struck doors still open later, elsewhere, with no leaf and no crowd. That is a different mercy, and it was always the far lands' other path.
+Miss the week and the door has shut. An eleven-year-old at the origin the following summer is a visitor. The Tree's Given-door is that tenth-year cohort, in that week. Struck doors still open later, elsewhere, with no leaf and no crowd. That is a different mercy, and it was always the far lands' other path.
 
 This is why families from any distance **left early**, and why the richest or most frightened far households spent a *year* at the origin: a nine-year-old wintered in a road-house so they could not miss. The held-over child is the expensive mercy. Everyone else gambled one summer.
 
@@ -167,11 +167,11 @@ Named in the common tongue, because the walk was logistics before it was liturgy
 | **the Salt Walk** | Strandoren: ship the inner sea, then the Near Mile | a sailing plus the inland days | a berth in fair weather; miss the last crossing and you miss the year |
 | **the Long Mile** | Heskoren, and the Strandoren interior before the coasts were rich | weeks to months | a year's surplus, or a road-house note, or you did not go |
 
-People did not say *Brenvaeth* on the road. They said *we are on the Long Mile*, or *we took the salt*. Vaethorn still calls the whole past *the waiting-road*. Lestrand files it as *the road-years*. Threnmaieth wants the miles *on a roll*.
+On the road, people said, "We are on the Long Mile," or "We took the salt." Clerks keep the name Brenvaeth. Vaethorn still calls the whole past "the waiting-road." Lestrand files it as "the road-years." A Threnmaieth clerk wants the miles "on a roll."
 
 **Timing against the year.** Near-Mile families left in **Haelren** or early **Eolthael** and were home by **Vaelorn**. Salt-Walk households watched the inner sea from **Saelorn**; a late storm in Hale-month was a Kept child. Long-Mile columns left in **Liren** or **Saelorn**, the thaw and the first green, and hoped the High Solstice had not happened without them. Some arrived in **Leddorn** with a ten-year-old who had already missed. The road-houses knew that silence. They did not charge extra for it. They also did not refund the note.
 
-Kumbaan is not on this table. No walk crossed the storm-wall.
+No walk crossed the storm-wall to Kumbaan.
 
 ### Who could afford it
 
@@ -181,7 +181,7 @@ The Salt Walk sorted by **cash and weather.** Coastal wealth bought berths. Inte
 
 The Long Mile sorted by **whether you could lose a year.** Food, shoes, a second adult if you had one, and the note you signed at the first road-house that would take it. Many could not. Those who could often could not for *every* child.
 
-**The split household** is the era's ordinary cruelty. A family with three children near ten could sometimes walk one. The one who walked might come home Given. The ones who stayed were Kept, or were Struck later at a local door, and grew up in the same kitchen as a sibling the origin had seen. Distance did this. Vaethorn's later guilt (*we wait because we are unworthy*) is a Hands-era reading of that fact. The miles do not agree with the guilt.
+**The split household** is the era's ordinary cruelty. A family with three children near ten could sometimes walk one. The one who walked might come home Given. The ones who stayed were Kept, or were Struck later at a local door, and grew up in the same kitchen as a sibling the origin had seen. Distance did this. Vaethorn's later guilt is a Hands-era reading of that fact. A preacher there says, "We wait because we are unworthy." The miles record the distance.
 
 Old Ways households on Heskoren often **refused the walk** on purpose. Their children were already the land's. Motherfaith neighbours read those children as Kept-for-want, which is a misreading the walk itself cannot correct. Both families are telling the truth they have.
 
@@ -203,11 +203,11 @@ In Brenvaeth, a land far from Thaeloren was **Kept-heavy and Struck-heavy becaus
 - **Kept** were the default far childhood: whole, untithed, unwitnessed-as-Given. Some were wanted that way. Some were the price of a summer the family could not raise. Some were Old Ways children the Motherfaith had misfiled.
 - **Struck** were the far lands' other door, and always had been. Drownings, oaths, deaths. No leaf. No origin-crowd. The unease that follows the Struck is older than the grafts. The walk made it louder, because the Given in the same town *had* been seen, a continent away.
 
-When the wood later travelled, this pattern *relocated*. A Tree-poor pocket next to a dying scion reads the same on a census and is not far on a map. Clock 2. Today's Heskoren is not a costume of Brenvaeth. Some of it still *is* Brenvaeth, this year, for this cohort. Some of it is a neighbour's canopy and a queue. Both can be true on the same road.
+When the wood later travelled, this pattern *relocated*. A Tree-poor pocket next to a dying scion has the same count of Kept and Struck. The place is near. The wood is thin. That is Clock 2. Today's Heskoren is this year. Some cohorts still walk. A valley over, children stand under a town Tree. Both can be true on the same road.
 
 ### Institutions of the road
 
-There was no travelling church with offices. The Tree-Wardens as a graft-carrying order is Hands-era weather. In Brenvaeth the **origin-hearth** was the only Speaking that counted; far towns had no Tree to tend. What the road had was inns, stones, and summer traffic.
+In Brenvaeth the **origin-hearth** was the only Speaking that counted. Far towns had no Tree to tend. The road had inns, stones, and summer traffic. Tree-Wardens who carry grafts belong to the Years of Hands.
 
 #### Mile-shrines
 
@@ -215,13 +215,13 @@ Water if the ground allows. A flat top for a pack. Often a name. Often a ribbon.
 
 They begin as graves and waymarks in the same act. You bury someone where the column had to stop, and the next year the stop is the place you aim for. The devout later leave ribbons for the Tree. Children later climb them. Hands-towns later argue about pulling them down because the road now ends at a local canopy and the stone is in the way. The stone does not know which story it is in.
 
-A ribbon is not a leaf-colour. People tie what they have. A copper-green scrap on a Long-Mile stone does not mean a Taken-In died there. Travellers who have walked once know this. Travellers who have only heard the romance do not.
+People tie what they have. A copper-green scrap on a Long-Mile stone is cloth. Travellers who have walked once treat it as cloth. Travellers who have only heard the romance look for a Taken-In's death in the colour.
 
 #### Road-houses
 
 Many deathless houses began here. In Brenvaeth they sold beds, porridge, a dry room, and **credit for a walk you could not miss twice.**
 
-Cant: **brenhael** *(bren-HAYL)*, *bren* + *hael*, "the hearth kept whole." Vaethorn says *waiting-hearth*. Lestrand says *the bed-house* (and still means the bank). Threnmaieth would like them *on the roll*.
+Cant: **brenhael** *(bren-HAYL)*, *bren* + *hael*, "the hearth kept whole." Vaethorn says "waiting-hearth." Lestrand says "the bed-house" and still means the bank. A Threnmaieth clerk would like them "on the roll."
 
 What a road-house actually sold:
 
@@ -234,13 +234,13 @@ The White Note's founding-summer is a house-year, not a Cut-year. In the Walking
 
 #### Summer traffic
 
-For two months the Near Mile is a moving town: columns, dust, Far-Voiced cries from ridge to ridge (*the road is full; the ford is wrong; a child is down*), Two-Bodied ranging the edges because the ranging *is* the Tithe and the column is a herd. Markets grow at the mile-shrines and vanish when Eolthael ends. Then the road is empty and local, and the road-house counts notes.
+For two months the Near Mile is a moving town of columns and dust. A Far-Voiced calls from ridge to ridge, "The road is full," "The ford is wrong," "A child is down." Two-Bodied range the edges because the ranging *is* the Tithe and the column is a herd. Markets grow at the mile-shrines and vanish when Eolthael ends. Then the road is empty and local, and the road-house counts notes.
 
-There were no pilgrim-knights and no official convoy-guild. People walked with whoever left the same week. A Bound's word might hold a column together for a fortnight. A Kept adult with no Tithe to manage was, then as now, the person who could carry the extra pack.
+People walked with whoever left the same week. A Bound's word might hold a column together for a fortnight. A Kept adult with no Tithe to manage was, then as now, the person who could carry the extra pack.
 
 ### Witness at the origin, or not at all
 
-Citizenship-by-local-witness is Hands-era weather. In Brenvaeth the town that *saw you Turn* was the crowd under Thaeloren, or no one.
+In Brenvaeth the town that *saw you Turn* was the crowd under Thaeloren, or no one. Citizenship-by-local-witness comes later, with the Years of Hands.
 
 - **Going home did not bring the crowd with you.** Your village had not watched. Belonging at home required someone who *had* been under the boughs to stand for you: a parent, a neighbour from the column, a Long-Lived who keeps origin-falls the way they later keep town-falls. **Vouching-at-a-distance was invented to carry the origin's witness home.** The three pillars (Long-Lived memory, Bound word, Far-Voiced feeling) are older than the grafts; the *job* of carrying a far Turning is Walking-era.
 - **A Given child with no surviving witness** is legally thin in the place they grew up. Origin-orphans, road-house children, a Bound stranger who will swear the colour they did not see (and cannot cheaply lie). The unvouched are older than the Struck-stigma, and include people the Tree *did* Give.
@@ -249,16 +249,16 @@ Citizenship-by-local-witness is Hands-era weather. In Brenvaeth the town that *s
 
 The origin-crowd was enormous in Eolthael and ordinary the rest of the year. Speakers of the origin-hearth named colours until their voices went. Folk-known colours still were; the warden's word made them *count* for people who would have to carry that word home.
 
-### Long-Lived who still say *I walked*
+### Long-Lived who still say "I walked"
 
-A Long-Lived who says *I walked* is dating the room. Memory is perfect. **Meaning is not.** There is no single Long-Lived account.
+A Long-Lived who says "I walked" is dating the room. Memory is perfect. What they mean by it is argued. There is no single Long-Lived account.
 
 At present (C.Y. 387) the sentence does at least four jobs, and they argue:
 
-- **I walked as a child, under Thaeloren, before my town had wood.** A Maiethorn deathless Given in the late Walking (the last core cohorts, before Maiethorn filled in the first Cut-years) is speaking of a summer most of the room has only as a ribbon. A Heskoren deathless may mean *last decade.* Same words. Different clocks.
-- **I walked the mile as the inn.** A road-house Long-Lived may never have stood under the canopy as a pilgrim. They walked the same stretch every summer for two hundred years. They remember every debtor. They will not always tell you which children came back.
-- **I remember the graves and I will not call them holy.** Skeptics among the deathless. The road was biology plus bad fords. They are sincere. They still tear up at a ribbon, which they will not explain.
-- **I remember the graves and I will not call them logistics.** Devout deathless. Every stone was a waiting. They are sincere. They still know which ford killed which name, which they will tell you whether you asked or not.
+- **"I walked as a child, under Thaeloren, before my town had wood."** A Maiethorn deathless Given in the late Walking (the last core cohorts, before Maiethorn filled in the first Cut-years) is speaking of a summer most of the room has only as a ribbon. A Heskoren deathless may mean "last decade." Same words. The two clocks differ.
+- **"I walked the mile as the inn."** A road-house Long-Lived may never have stood under the canopy as a pilgrim. They walked the same stretch every summer for two hundred years. They remember every debtor. They will not always tell you which children came back.
+- **"I remember the graves and I will not call them holy."** Skeptics among the deathless. The road was biology plus bad fords. They are sincere. They still tear up at a ribbon, which they will not explain.
+- **"I remember the graves and I will not call them logistics."** Devout deathless. Every stone was a waiting. They are sincere. They still know which ford killed which name, which they will tell you whether you asked or not.
 
 Blood-Read will give you a true fragment of a walk. It will not tell you which of the four jobs the living speaker is doing.
 
@@ -271,8 +271,8 @@ They also disagree with Seat chronicles that start at the First Cut. A Long-Live
 - An inn's upper room with too many beds for the present trade. The house still dates its notes from a founding-summer the beds were full.
 - A Held bed that has not been let in anyone's living mortal memory. The innkeeper can tell you the name. They will not tell you they think the child is dead, or Kept, or Old Ways, or never born.
 - A sibling-pair, one Given, one Kept, who will not walk the same side of a road.
-- A Far-Voiced ridge-cry in an old pattern: *the ford is wrong.* No column answers. Birds do.
-- Someone at a table saying *I walked*, and the room sorting itself by who goes quiet.
+- A Far-Voiced calls from a ridge, in an old pattern, "The ford is wrong." No column answers. Birds do.
+- Someone at a table says, "I walked," and the room sorts itself by who goes quiet.
 
 ### A Turning-Week slate
 
@@ -286,7 +286,7 @@ They also disagree with Seat chronicles that start at the First Cut. A Long-Live
 >
 > *I do not ask which summer was holy. I ask which mouths will be here at dark. The Held bed is made. If Seine comes I will not have to remember I made it for nothing.*
 
-The Held bed is already a shrine. The house's fortune is the farness the wood will later abolish. The cutting in the pot is not a First Cut. It is a man who missed his green.
+The Held bed is already a shrine. The house's fortune is the farness the wood will later abolish. The cutting in the pot is a man who missed his green.
 
 ---
 
@@ -302,61 +302,61 @@ A freshly planted scion still takes **a generation** to hold a Leaf-Fall. So C.Y
 
 ### The five attributions
 
-The five stories are not speeches. They are *jobs*. Which one a room is doing is a faster read than a creed. They are not collapsed into a secret true cutter.
+The five stories are *jobs*. Which one a room is doing tells you more than a creed would. Who cut stays unpicked. All five stay in use.
 
 #### Folk: the stolen branch
 
 A parent who would not watch another child stay Kept for want of a trip, or would not bury another child on the Near Mile, took wood without leave. Mercy as theft.
 
 - **The nameless knife** is the object, not a saint. Some hearths keep a kitchen-knife on a ribbon the way Hands-children climb mile-shrines: they cannot say whether they are honouring a theft or a gift. There is no name on the handle.
-- **Thief-songs** on the Near Mile are walking-songs with the cutter as *we*. Salt-Walk versions make it a quay-joke (*the first unpaid berth*). Long-Mile versions are not funny. Vaethorn's later guilt wants this parent to have been *unworthy*. The songs do not agree.
-- **Folk-right cutting** did not vanish when the Seat wrote a leave. A Taken-In with a sick neighbour and no year to wait will still take a slip. Most of those slips die. The ones that take are how the queue learns it is not the only horticulture in the world. Road-hands call this a problem. Towns that lived through a stolen year call it a year they Turned.
+- **Thief-songs** on the Near Mile are walking-songs. The singers say "we" for the cutter. A Salt-Walk singer makes it a quay-joke and says, "The first unpaid berth." Long-Mile versions are not funny. Vaethorn's later guilt calls this parent "unworthy." The songs do not agree.
+- **Folk-right cutting** continued after the Seat wrote a leave. A Taken-In with a sick neighbour and no year to wait will still take a slip. Most of those slips die. The ones that take are how the queue learns it is not the only horticulture in the world. Road-hands call this a problem. Towns that lived through a stolen year call it a year they Turned.
 
 The later Cutting-leave fee is, in this telling, **a fine that forgot it was a fine.** Lestrand will broker it without blushing. That is this story with a clerk.
 
-A stolen Hand still left a town behind that did not get the next one. This mouth does not linger there.
+A stolen Hand still left a town behind that did not get the next one. The songs leave that town and go on.
 
 #### Clergy: the warden ahead of the college
 
 A tree-warden of a Near-Mile hearth cut with a leave that did not yet exist. The wood took. The origin-hearth spent **the generation of argument** (C.Y. 0 into the first local Leaf-Fall) trying to decide whether this was blight, theft, or rite. The First Seat as a *Cutting-leave desk* is what that argument left on the ground. The Road-hands are this scandal in an office: the people who walk what used to be unsanctioned.
 
-- **Speakers who will not say *first*.** They will say *the witnessed hinge.* They will date a note. They will not point at a grave. Some of them are skeptics who grant the horticulture and refuse the saint. Some of them are devout who think naming a cutter would steal the Tree's offering. Same silence, two jobs.
+- **Speakers who will not say "first."** They say, "The witnessed hinge." They will date a note. They will not point at a grave. Some of them are skeptics who grant the horticulture and refuse the saint. Some of them are devout who think naming a cutter would steal the Tree's offering. Both rooms keep that silence.
 - **The quiet years at the origin.** After the first copy, the Motherwood tried to forbid further cuts. Wood died in pots anyway. Neighbours cut anyway. Forbidding a copy that had already taken is how a college learns it does not own the Tree's tissue, only the *authorization.*
 - **Road-hands as regularized heresy.** They were not designed as a travelling church. They are the generation of argument, given a cart.
 
-"We will write how, not who" is how a heresy becomes a monopoly. This mouth writes the how.
+A Speaker says, "We will write how, not who." That sentence is how a heresy becomes a monopoly. The college writes the how.
 
 #### Devout: the Tree offered
 
 A branch came away. No theft, no genius. A Hand giving a Hand. The Mother (or the Tree, if you will not say Mother) *meant* the wood to travel. This is the version the Seat prefers in sermons, because it makes the scion-queue sound like stewardship rather than rationing.
 
-- **Eoloren sermons** at Turning-Week in the Motherwood: *she sent her hands outward so the hearths could stay.* The graves of the Walking Years are named in the same breath, on a good day. On a bad day they are not.
-- **The watering-words** as proof. If the marrying-rite were only horticulture, why would the wood listen? Skeptics: because you watered it. Both can stand under the same canopy.
-- **Cutting-leave as blessing.** Vaethorn calls it *the wood's blessing.* The devout need that name. Without it the queue is a list of who waits.
+- **Eoloren sermons** at Turning-Week in the Motherwood. A Speaker says, "She sent her hands outward so the hearths could stay." The graves of the Walking Years are named in the same breath, on a good day. On a bad day they are not.
+- **The watering-words** as proof. A devout neighbour says, "If the marrying-rite were only horticulture, why would the wood listen?" A skeptic says, "Because you watered it." Both can stand under the same canopy.
+- **Cutting-leave as blessing.** Vaethorn calls it "the wood's blessing." The devout use that name. Without it the queue is a list of who waits.
 
-"She meant the wood to travel" is how you narrate a wave that went to paying coasts before it went to the poor far. The thing saved, when anything was, was a walk. Not everyone's.
+Devout sermons say, "She meant the wood to travel." The wave went to paying coasts before it went to the poor far. The thing saved, when anything was, was a walk. Not everyone's.
 
-#### The Watching: horticulture, then an overlay
+#### The Watching: horticulture, then a later name
 
-People had always been able to cut living wood. Fruit-grafts, orchard-kin, a slip in a pot. The Motherfaith later *named* one cut the First, and started a count, which is what overlays do. The Tree was already seeing. A date does not make a mother.
+People had always been able to cut living wood. Fruit-grafts, orchard-kin, a slip in a pot. The Motherfaith later named one cut the First, and started a count. That is a story laid over a seeing. The Tree was already seeing. A Watcher says, "A date does not make a mother."
 
 - **They refuse the Cut-count.** A Watcher clerk will date a debt from a house-year, a drowning-year, a night they kept. They will convert to Eoloren-count if a court makes them, and they will not call it history.
 - **Pear-grafts as the tell.** Watcher hearths on Maiethorn still graft ordinary fruit in the same week a Road-hand passes with carrying-earth. They do not think this is a joke. They think it is the whole argument, done with hands.
-- **The withheld *first*.** Same cadence as the withheld blessing. *What was cut, was seen. What took, was seen. The Tree does not reach twice by chance.* No Mother in it. No epoch in it.
+- **The withheld *first*.** Same cadence as the withheld blessing. A Watcher says, "What was cut, was seen. What took, was seen. The Tree does not reach twice by chance." The sentence names no Mother and no epoch.
 
-Refusing the date does not refuse the wave. Children still died on the road until the copies took. The overlay is a name. The graves were not.
+Children still died on the road until the copies took. The Watching's refusal is a name for the count. The graves are in the ground.
 
 #### The Old Ways: the land received a guest
 
-No one "cut" in the Seat's sense. A grove took in kin. The Hands are when guests began arriving from the east. Host-rights start here, not a college's warrant.
+In the Old Ways telling, a grove took in kin. The Hands are when guests began arriving from the east. Host-rights start at that receiving. A college's warrant is a different paper.
 
 - **The first meal** for a new graft: food left at the planting, the way you feed a guest before you ask their business. The Door-Keepers still do this. A Road-hand who eats is doing host-courtesy whether the Seat wrote it down or not. A Road-hand who plants and leaves is a claiming.
-- **Guest-reading vs First-reading.** A Guest-reading town will pilgrimage *and* keep the meal. A First-reading district will tend the same wood as a guest in their house and still refuse the Tender's blessing. Both start the story at a *receiving*, not at a knife. The Cut is a mainland word for an arrival.
-- **They do not start history at C.Y. 0.** On Heskoren the guests *arrive* in the C.Y. 200s. Calling that "late" is already Motherfaith. Calling it "the First Cut, delayed" is a Seat map. The land was already making children at the old doors.
+- **Guest-reading vs First-reading.** A Guest-reading town will pilgrimage *and* keep the meal. A First-reading district will tend the same wood as a guest in their house and still refuse the Tender's blessing. Both start the story at a *receiving*. The Cut is a mainland word for an arrival.
+- **Their count does not open at C.Y. 0.** On Heskoren the guests *arrive* in the C.Y. 200s. Motherfaith calls that arrival "late." A Seat map calls it "the First Cut, delayed." The land was already making children at the old doors.
 
 A guest who takes a generation to speak (the first local Leaf-Fall) will still be called a Tree by the children who Turn under it. Host-rights do not stop a town from becoming Hands-era.
 
-People tell all five. Skeptics grant the horticulture (observable) and deny the conclusion (that a mind chose the travelling). The Fair Hand is not a sixth attribution of the *cut*; they enter when the wood boards a ship. The Open Table is not in this story.
+People tell all five. Skeptics grant the horticulture (observable) and deny the conclusion (that a mind chose the travelling). The Fair Hand enters when the wood boards a ship. The Open Table keeps moons, and stays off this argument.
 
 ### The generation of argument
 
@@ -364,10 +364,10 @@ C.Y. 0 is a cut. The next twenty summers are copies, dead wood, a college that c
 
 **What people actually did.**
 
-- Near-Mile towns cut because the first green was *visible from the next square.* Living tissue, a day's earth, a pot, a Taken-In who knew soil. This is why the origin-towns filled first. Not worthiness. Distance a sapling can survive.
+- Near-Mile towns cut because the first green was visible from the next town. Living tissue, a day's earth, a pot, a Taken-In who knew soil. This is why the origin-towns filled first. A sapling can survive that distance. Worthiness is a later sermon.
 - Most early copies **died.** Mortal wood, wrong season, a pot that dried on the Near Mile in Hale-month, a well-meant slip with no carrying-earth. The deaths are why the Seat could tell itself the first taking was a fluke, for a while.
 - The origin-hearth tried **forbidding.** Speakers named it theft, blight, a wound in the First Hand. Neighbours cut anyway. A prohibition with no riders cannot police a day's walk in a pre-print world.
-- **Proof arrived as a ceremony.** When the nameless green held its first Turning-Week, a colour fell (or a hug; the tellings do not agree, and it does not change the paper). A town that was not the origin had been *seen seeing.* Clock 1 flipped for that hearth. Citizenship-by-local-witness is born as weather in that square, a generation after the knife. The Walk is no longer the only door. The Seat can argue doctrine until the leaves fall. It cannot argue the leaves back onto Thaeloren.
+- **Proof arrived as a ceremony.** When the nameless green held its first Turning-Week, a colour fell (or a hug; the tellings do not agree, and it does not change the paper). A town that was not the origin had been *seen seeing.* Clock 1 flipped for that hearth. Citizenship-by-local-witness begins in that town, a generation after the knife. The Walk is no longer the only door. The Seat can argue doctrine until the leaves fall. It cannot argue the leaves back onto Thaeloren.
 
 **What the Seat captured.**
 
@@ -385,25 +385,25 @@ A scion still takes a generation to Turn. A healthy town Tree may supply the nex
 
 #### Maiethorn, C.Y. 0–80 (origin-towns first; Rain-Shadow slower)
 
-The Near Mile becomes unnecessary as *requirement* in the core, town by town, as canopies come of age. Origin-squares first: a day's earth, then two, then a valley. The pilgrimage remains: devotion at Thaeloren, and necessity wherever a graft has not yet spoken.
+The Near Mile stops being a requirement in the core, town by town, as canopies come of age. Origin-towns first: a day's earth, then two, then a valley. The pilgrimage remains: devotion at Thaeloren, and necessity wherever a graft has not yet spoken.
 
-**The Rain-Shadow is slower on purpose.** Same continent, thin soil, wells, sand-country. A cut that takes in the Sacred Core dies in the dry hills unless a Taken-In and a lucky year agree. This is dirt. Fox of the Sands hearths still walk west toward Thaeloren after coastal squares have already stopped. Clock 2 on one continent at two speeds.
+**The Rain-Shadow is slower.** Same continent, thin soil, wells, sand-country. A cut that takes in the Sacred Core dies in the dry hills unless a Taken-In and a lucky year agree. This is dirt. Fox of the Sands hearths still walk west toward Thaeloren after coastal towns have already stopped. That is Clock 2: one continent, two speeds of the wood.
 
-Seat narration: *her hands filled the Motherland.* Folk memory: *we stopped burying children on the Near Mile where the wood took, and we did not stop where it didn't.* Both sentences can be said in the same market.
+A Seat sermon says, "Her hands filled the Motherland." Folk memory says, "We stopped burying children on the Near Mile where the wood took, and we did not stop where it didn't." Both sentences can be said in the same market.
 
-By C.Y. 80 the Motherland is **old Hands** in the core and **still waiting** in pockets. That leftover waiting is why a Maiethorn hamlet can still send this year's ten-year-olds to a neighbour without being "historical."
+By C.Y. 80 the Motherland is **old Hands** in the core and **still waiting** in pockets. That older job of the ground is why a Maiethorn hamlet can still send this year's ten-year-olds to a neighbour. The walk is this year.
 
 #### Strandoren, C.Y. 40–160, by sea (wealthy coasts first, interior later)
 
-The inner sea already knew how to move a child. Moving a Hand is the same berth with worse instructions: living earth, do not stow below, water at dawn, a Taken-In or a Road-hand who sleeps beside the pot.
+The inner sea already knew how to move a child. Moving a Hand is the same berth with worse instructions. The written instructions say, "Living earth. Do not stow below. Water at dawn." A Taken-In or a Road-hand sleeps beside the pot.
 
 **Why the sea starts while Maiethorn is still filling (C.Y. 40).** A ship is faster than filling every inland hamlet. A wealthy coast can pay a Cutting-leave and a Salt-Walk crew in the same summer a Near-Mile village is still on the Seat's list. The wave went where ships and fees went.
 
-**Coasts first.** Port-cities take. Deep interior waits on river-days and a cart, which is a small Long Mile. Strandoren's later high reach and worn faith are not a paradox: the wood arrived as cargo, and cargo does not require a mother. The Fair Hand dates the carrying as a supply-chain fact. They will attend a planting as witnesses to a signing. They will not start history at a wound in wood. *The first carrying* is their name for Eoloren, and they mean a bill of lading.
+**Coasts first.** Port-cities take. Deep interior waits on river-days and a cart, which is a small Long Mile. Strandoren's later high reach and worn faith sit together. The wood arrived as cargo. The Fair Hand treats that cargo as needing no mother, and dates the carrying as a supply-chain fact. They will attend a planting as witnesses to a signing. They date a signing, and they leave the wound in wood to other houses. Their name for Eoloren is "the first carrying," and they mean a bill of lading.
 
 **What the Salt Walk becomes.** When a coast Turns under its own canopy, the berth stops being a tenth-year necessity and becomes a luxury, a contract-hinge, a devout extra. Road-houses on the inland days lose a season of boots and keep the notes.
 
-By C.Y. 160 the Shore-lands are **mature Hands** on the water and still patchy inland. Lestrand files the whole motion as *the carrying.* They are not wrong about the ships.
+By C.Y. 160 the Shore-lands are **mature Hands** on the water and still patchy inland. Lestrand files the whole motion as "the carrying." The ships are in that filing.
 
 #### The gap (why Heskoren waits until C.Y. 200)
 
@@ -413,17 +413,17 @@ Three stacked frictions, none of them unworthiness:
 2. **The chain has to grow up.** You cut from the origin, or from a healthy town Tree. Maiethorn's first generation of sources come of age in the C.Y. 20s–40s. Strandoren's coastal Hands are not ready to be sources until later still. You cannot skip to the sundered reach without a mature link, unless you spend origin-wood on a death-march. The Seat did not, mostly. That is horticulture and it is also a choice about who is next.
 3. **The queue prefers a paying next.** After the coasts, carrying-earth is committed to interiors, replacements, sick Trees: the quiet work that does not look like a wave. Heskoren is poor, far, and already accused (by a later guilt-theology) of waiting because it deserved to. They waited because the wood was slow, the road was long, and the list was written in the Motherwood.
 
-Vaethorn will preach *we wait because we are unworthy.* The gap is the evidence they use. The chronicle does not agree.
+Vaethorn will preach, "We wait because we are unworthy." The gap is the evidence they use. The chronicle records the slow wood, the long road, and the list.
 
 #### Heskoren, C.Y. 200–387 (still incomplete)
 
 The frontier coast faces the sea back toward Strandoren; that is the lifeline of new grafts. Luckiest towns have had a local Turning for a few generations (a scion that arrived in the 200s and spoke in the 220s, or later). Whole districts still send children down the road, to a neighbour's new canopy, or, still, the Long Mile, if the neighbour is a stick in a pot.
 
-**This is Clock 2, present tense.** Some hamlets are in the Walking Years *this year, for this cohort.* Some are Hands-era one valley over. Both can be true on the same road. Vaethorn's waiting is the wave's front.
+Today's Heskoren is this year. Some cohorts still walk. A valley over, children stand under a town Tree. That is Clock 2. Both can be true on the same road. Vaethorn's waiting is the wave's front.
 
 Old Ways host-rights start *here* as a lived collision, not as a Maiethorn sermon. A graft in an old Taken-In green is a guest. A Cutting-leave is a mainland paper. The meal comes first, or the planting is a claiming.
 
-Seat narration: *her will is still travelling.* Folk memory: *the cart came late, the soil was called thin, the three hamlets past the ford can see Harrow's green from here.* The Harrow-sentence is already how new towns talk. On Heskoren it is the decade.
+A Seat sermon says, "Her will is still travelling." Folk memory says, "The cart came late, the soil was called thin, the three hamlets past the ford can see Harrow's green from here." New towns already say which canopy they can see. On Heskoren that is the decade.
 
 #### Kumbaan: never
 
@@ -439,20 +439,20 @@ No graft crossed the storm-wall. Road-hands do not bring the Mother over drownin
 | Heskoren's wait | Soil, timing, the Mother's pace | The list, the dead wood, the late cart |
 | What was saved | The world received her | Children stopped dying on *some* roads |
 
-A Long-Lived who says *I walked* and a Speaker who keeps the Eoloren-count will fight about the same summer. A Long-Lived who *planted* (a Road-hand's long tenure, an innkeeper who watched pots replace children) will not always tell you which taking they think was holy. Memory is perfect. Meaning is not.
+A Long-Lived who says "I walked" and a Speaker who keeps the Eoloren-count will fight about the same summer. A Long-Lived who planted (a Road-hand's long tenure, an innkeeper who watched pots replace children) will not always tell you which taking they think was holy. Memory is perfect. What the sentence means is argued.
 
-Spreading Trees did not abolish the unvouched Struck, the pitied Kept, guild conscription, or Tithe-leverage. They *relocated* who is expected to have been seen at ten. A Hands-town can still meet a feared Struck with a rope. A local canopy is not a solvent.
+The unvouched Struck, the pitied Kept, guild conscription, and Tithe-leverage are still in the towns. Spreading Trees *relocated* who is expected to have been seen at ten. A Hands-town can still meet a feared Struck with a rope. A local canopy leaves that rope where it was.
 
 ### What a character notices
 
 - A kitchen-knife on a ribbon in a Near-Mile house that will not name a saint.
 - Watchers grafting pears in the same week a Road-hand waters carrying-earth.
 - A first-meal bowl at a planting, licked clean by dogs, which the Seat did not write down.
-- A ship's instruction, still copied: *one living hand; do not stow below; water at dawn.* The clerk who copies it files cargo.
-- Three hamlets that can see a neighbour's canopy and are still on the queue. They have learned not to say *queue.*
+- A clerk still copies a ship's instruction: "One living hand. Do not stow below. Water at dawn." The clerk files it as cargo.
+- Three hamlets that can see a neighbour's canopy and are still on the queue. The college's word for the wait stays in the college.
 - A Rain-Shadow child on the west-road after the core has stopped walking.
 - Empty Salt-Walk berths in Eolthael, and a hold that still smells of wet earth out of season.
-- A Long-Lived who planted and will not say *I walked.* Different job. Same quiet.
+- A Long-Lived who planted says something other than "I walked." The job is the planting. The room still goes quiet.
 
 ### A minute of the First Seat
 
@@ -478,46 +478,46 @@ Spreading Trees did not abolish the unvouched Struck, the pitied Kept, guild con
 
 ## The Years of Hands
 
-A town Turning Tree is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical: **Ornthael** *(orn-THALE)*, "Tree-land." The Grafting is Clock 2 still moving. It is not an age you exit.
+A town Turning Tree is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical: **Ornthael** *(orn-THALE)*, "Tree-land." The Grafting is Clock 2, still moving through the present.
 
 This is the era the rest of the world lives in without naming it. Town Trees. Local Leaf-Fall. Citizenship because *this* town watched you. The pilgrimage to Thaeloren as an extra, not the only door.
 
 It is also incomplete. Read the reach-gradient as a *date*, not as a finished map:
 
-- **Maiethorn:** old Hands. Dense mature grafts. The Walking is biography for the deathless and a ribbon on a mile-shrine for everyone else, except in the Rain-Shadow, and except wherever a Tree has sickened. Old Hands can un-Hands. That is weather, not a fall of the age.
+- **Maiethorn:** old Hands. Dense mature grafts. The Walking is biography for the deathless and a ribbon on a mile-shrine for everyone else, except in the Rain-Shadow, and except wherever a Tree has sickened. Old Hands can un-Hands. A sickened Tree sends that town's children back onto a road. The Years of Hands go on around them.
 - **Strandoren:** mature Hands, worn faith. The road-houses finished becoming banks here. The walk is a luxury, a contract-hinge, and a hold that still smells of earth when a pot is the passenger.
 - **Heskoren:** the Grafting *this decade.* Luckiest towns have had a local canopy for a few generations. Whole districts still send children down the road. Vaethorn's waiting is the wave's front.
-- **Kumbaan:** never. Off both clocks.
+- **Kumbaan:** never took a graft, and does not walk its children to Thaeloren. It sits off both clocks.
 
-The pilgrimage **did not vanish.** It changed jobs. Institutions that survive by changing function are the texture of this era: the First Seat still authorizes cuts (now a queue); deathless houses still remember the road (now as credit); mile-shrines still stand (now as folklore, argument, and a thing children climb). The romance of the old mile is a Hands feeling. The graves are Walking facts. They occupy the same square.
+The pilgrimage changed jobs, and people still walk it. The First Seat still authorizes cuts, now as a queue. Deathless houses still remember the road, now as credit. Mile-shrines still stand, as folklore, as argument, and as a thing children climb. The romance of the old mile belongs to the Years of Hands. The graves belong to the Walking Years. They stand on the same ground.
 
-A child on the Long Mile this summer is not doing history.
+A child on the Long Mile this summer is making the week.
 
 ### The walk's three jobs
 
 In Brenvaeth the walk was *how you Turned.* In Ornthael it is three jobs that share roads, inns, and the one-week door, and do not share a reason.
 
-| Job | Who still walks | What they are buying | What they are not |
+| Job | Who still walks | What they are buying | On the road |
 |---|---|---|---|
-| **Devotion: the extra mile** | People who already have a local Tree and still want Thaeloren | an origin-fall; a ribbon at the First Hand; the Motherwood in Eolthael | necessity. They could have Turned at home. |
-| **Prestige: the First-Hand year** | Lestrand money, a Bound signing-watch, a guild-ticket hinge, a wedding extra | being *seen at the origin* when you did not need to be; a held-over winter as a product | piety, unless it is also that. The Fair Hand will attend as witnesses to a signing. |
-| **Necessity: the neighbour's week** (still *the old mile* when the neighbour is a continent) | Tree-poor, Tree-sick, Tree-young; a missed fall this year; Heskoren this cohort; the Rain-Shadow after the core stopped | a Given-door that is not at home | folklore. They are making the week. |
+| **Devotion: the extra mile** | People who already have a local Tree and still want Thaeloren | an origin-fall; a ribbon at the First Hand; the Motherwood in Eolthael | They could have Turned at home. They walk anyway. |
+| **Prestige: the First-Hand year** | Lestrand money, a Bound signing-watch, a guild-ticket hinge, a wedding extra | being seen at the origin in a year they could have stayed home; a held-over winter as a product | Piety may be in the party. The Fair Hand attends as witnesses to a signing. |
+| **Necessity: the neighbour's week** (still *the old mile* when the neighbour is a continent) | Tree-poor, Tree-sick, Tree-young; a missed fall this year; Heskoren this cohort; the Rain-Shadow after the core stopped | a Given-door in another town | They are making the week. |
 
-People did not say *Ornthael* on the road. They said *we are going to the Thallow*, or *we Turn at Harrow's*, or *the berth is for the child*. Vaethorn still calls almost any walk *the waiting-road*. Lestrand files the extra as *the First-Hand year* and the need as *the borrowed week*. Threnmaieth wants the miles *on a roll*.
+On the road, people said, "We are going to the Thallow," or "We Turn at Harrow's," or "The berth is for the child." Clerks keep the name Ornthael. Vaethorn still calls almost any walk "the waiting-road." Lestrand files the extra as "the First-Hand year" and the need as "the borrowed week." A Threnmaieth clerk wants the miles "on a roll."
 
-**They share the Near Mile in Hale-month.** A devotion-column, a prestige household with too much luggage, a necessity-family who sold a year, and a Road-hand going the other way with a pot, can sleep in the same upper room. The innkeeper can tell who is which. They will not always tell you. The Far-Voiced ridge-cry still works: *the ford is wrong.* Some of the mouths that answer are pilgrims. Some are carts of wood.
+**They share the Near Mile in Hale-month.** A devotion-column, a prestige household with too much luggage, a necessity-family who sold a year, and a Road-hand going the other way with a pot, can sleep in the same upper room. The innkeeper can tell who is which. They will not always tell you. The Far-Voiced ridge-cry still works. Someone calls, "The ford is wrong." Some who answer are pilgrims. Some are carts of wood.
 
 **The inversion, lived.** Thaelvaeth is wood carried *out*. Brenvaeth was hearths walking *in*. In the Years of Hands both directions are traffic. A Road-hand and a tenth-year pass on a bank and do not owe each other a sermon. That passing *is* the two clocks in one afternoon.
 
-**Hands can un-Hands.** A town Tree that sickens, or that fails a fall, puts a Hands-town back on the neighbour's week. Clock 1 is not a one-way door. A sick Tree is Clock 2 weather that the Seat will call thin soil, and the town will call this year.
+**Hands can un-Hands.** A town Tree that sickens, or that fails a fall, puts a Hands-town back on the neighbour's week. A sick Tree is Clock 2: the wood has thinned. The Seat calls that thin soil. The town calls it this year.
 
 The one-week door did not loosen. Miss Eolthael and the Given-door has shut, at home or at the origin. Struck remains the later mercy. There is still no second-chance year. The held-over nine-year-old is still the expensive mercy, and on the prestige-walk it is also a winter you can buy.
 
-Kumbaan is not on this table. No extra mile crosses the storm-wall.
+No extra mile crosses the storm-wall to Kumbaan.
 
-### Visible leftovers
+### The older job of the ground
 
-What the Walking built, the Hands still sleep in. Adaptive reuse, not ruins. A leftover that is only a ruin is a Hands-town telling itself the road is over.
+What the Walking built, the Hands still sleep in. The older job of the ground is still in use. A Hands-town that treats a mile-shrine as only a ruin is telling itself the road is over.
 
 #### Mile-shrines (the stone in the square)
 
@@ -525,14 +525,14 @@ Still water, a flat top, often a name, often a ribbon. In a Hands-town the last 
 
 They are, at once:
 
-- **Graves.** Walking facts. A Long-Lived who says *I walked* can still tell you which ford the name belongs to.
+- **Graves.** Walking facts. A Long-Lived who says "I walked" can still tell you which ford the name belongs to.
 - **Waymarks.** Necessity-walkers still drink there. Road-hands still aim for the water.
 - **Folklore.** Devotion leaves a ribbon. Hands-children climb.
 - **Argument.** A warden wants it moved because it is in the way of the Leaf-Fall crowd. A house that still dates notes from a founding-summer wants it left. A neighbour who still walks wants it left for a different reason.
 
 The stone does not know which story it is in. A ribbon is still not a leaf-colour.
 
-Hands-towns that **pull a stone down** are doing theology with a hammer. They are not wrong that the road no longer has to happen there. They are wrong if they think the graves went with the requirement. The next necessity-column will miss the water.
+Hands-towns that **pull a stone down** are doing theology with a hammer. The road no longer has to happen there. The graves stay in the ground. The next necessity-column will miss the water.
 
 #### The upper room (empty pilgrim-beds)
 
@@ -540,22 +540,22 @@ An old inn's upper room has too many beds for the present trade. In Brenvaeth th
 
 - **Let to merchants.** The White Note's conversion; occupancy as competence.
 - **Opened for Eolthael.** Devotion and prestige still swell a Near-Mile house for a fortnight.
-- **Held.** A family said they would come. They did not. The innkeeper keeps the bed a year, then two, then as a habit that looks like hospitality and functions as a shrine *and* as proof the house remembers. Thilim still makes Seine's. Houses that became banks mostly stopped making them, except the one they will not let, which is how a clerk writes *house custom* on a slate and means a grave.
+- **Held.** A family said they would come. They did not. The innkeeper keeps the bed a year, then two, then as a habit that looks like hospitality and functions as a shrine *and* as proof the house remembers. Thilim still makes Seine's. Houses that became banks mostly stopped making them, except the one they will not let. A clerk writes "house custom" on a slate and means a grave.
 
-The romance of the empty bed is a Hands feeling. The name on the lintel is a Walking fact.
+The romance of the empty bed belongs to the Years of Hands. The name on the lintel belongs to the Walking Years.
 
 #### Roads that end at a Tree
 
 The pilgrim-road was often the main road. A graft took beside it. The town grew around the canopy. **The road now ends at the Tree.** The last holy mile is a square. Beyond the boughs the old way is a cart-track to timber, a neighbour, a ford. Children are told the road goes to the Motherwood. It goes to the mill. Both can be true if you keep walking, which most Hands-children do not.
 
-A road that "ends" is a Clock 1 sentence. The necessity-family from the next valley is still using it as Clock 2. Same stones.
+A road that ends at the Tree is Clock 1 for that town: the children Turn at home. The family from the next valley is still walking those stones, because the wood has not reached them. That walk is Clock 2. Same stones.
 
-#### Other leftovers a character notices
+#### Other older jobs of the ground
 
 - Empty Salt-Walk berths in Eolthael, except the expensive ones and the holds that smell of wet earth out of season.
-- A Far-Voiced ridge-cry in an old pattern: *the ford is wrong.* No column answers. A Road-hand does. Birds do.
+- A Far-Voiced calls from a ridge, in an old pattern, "The ford is wrong." No column answers. A Road-hand does. Birds do.
 - A sibling-pair, one Given, one Kept, who will not walk the same side of a road. A split household's grandchildren keeping a courtesy they cannot date.
-- Markets that still swell at an old mile-mark in Hale-month, then vanish, even when no column comes. Habit is a leftover.
+- Markets that still swell at an old mile-mark in Hale-month, then vanish, even when no column comes. That habit is the older job of the ground.
 - A kitchen-knife on a ribbon in a Near-Mile house that will not name a saint (the nameless knife, still not a museum piece).
 
 ### Deathless houses' road-past as present credit
@@ -567,29 +567,29 @@ Many deathless houses began as road-houses. That fate-shift is already in the pa
 **Two fates of the same origin, still standing.**
 
 - **The White Note House.** The reformation. Beds let to merchants. Paper on the quay. The 200th summer of the White Note is already a clerk's problem. The Held names are in the founding-book. Most of those beds are let. One is not, which is how a bank proves it used to be an inn.
-- **The Third Hearth.** The house that stayed a hearth. Thilim still keeps it, still makes Seine's bed, still knows which mouths will be here at dark. The notes are smaller. The shrine is larger. Lestrand calls this a bed-house that failed to become a bank. Thilim does not call it a failure.
+- **The Third Hearth.** The house that stayed a hearth. Thilim still keeps it, still makes Seine's bed, still knows which mouths will be here at dark. The notes are smaller. The shrine is larger. Lestrand says, "A bed-house that failed to become a bank." Thilim keeps the hearth.
 
 The long-house of books is still the deathless paying their own Tithe. The road-past is why anyone trusted them to endow in the first place: a mouth that remembered every debtor on the mile is a mouth you let steer a library.
 
 **The prestige-walk is now a product some houses sell.** A held-over winter at the origin, once the frightened far mercy, is a First-Hand year you can book. The White Note did not invent that. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. The year is assembled on three desks: **Netstrand charters the hull, the White Note writes the term, Orentel holds the berth.** Orenbren houses the sleep at the origin. Necessity-families still sign the old kind of note: eat now, pay on the home-walk, or when the child is grown, or when a sibling walks next year. Same paper, two jobs. The clerk who files both as occupancy is counting beds, not jobs.
 
-Vaethorn will preach that the houses *abandoned the waiting-road*. The walk stopped being required in the core. The memory did not. The paper outlived the season. That is a reformation, and it still collects. Spreading Trees did not make the notes kind.
+Vaethorn will preach, "The houses abandoned the waiting-road." The walk stopped being required in the core. The memory did not. The paper outlived the season. That is a reformation, and it still collects. Spreading Trees did not make the notes kind.
 
 ### Heskoren as the live front
 
-**This is Clock 2, present tense.** Some hamlets are in the Walking Years *this year, for this cohort.* Some are Hands-era one valley over. Both can be true on the same road.
+Today's Heskoren is this year. Some cohorts still walk. A valley over, children stand under a town Tree. That is Clock 2. Both can be true on the same road.
 
-**Harrow's Green** is the luckiest kind of Heskoren town: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. It is a neighbour's canopy. It is also a queue-confession you can see from the ford. The Harrow-sentence (*we Turned at Harrow's Tree before we had our own*) is how new towns talk everywhere. On Heskoren it is the decade.
+**Harrow's Green** is the luckiest kind of Heskoren town: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. It is a neighbour's canopy. From the ford, that canopy is in sight, and the towns past the ford are still waiting. New towns say, "We Turned at Harrow's Tree before we had our own." That is how they talk everywhere. On Heskoren it is the decade.
 
-**The Three Hamlets Past the Ford** are the waiting kind. The Seat's Cutting-leave already named them as thin soil. They send this year's ten-year-olds to Harrow's, or further if Harrow's year is too full, or still the Long Mile if the neighbour is a stick in a pot. They have learned not to say *queue.* They can see the canopy. Folk-right cutting is a temptation with a kitchen-knife. Most slips die. The ones that take are how the queue learns it is not the only horticulture in the world.
+**The Three Hamlets Past the Ford** are the waiting kind. The Seat's Cutting-leave already named them as thin soil. They send this year's ten-year-olds to Harrow's, or further if Harrow's year is too full, or still the Long Mile if the neighbour is a stick in a pot. The college's word for the wait stays in the college. They can see the canopy. Folk-right cutting is a temptation with a kitchen-knife. Most slips die. The ones that take are how the queue learns it is not the only horticulture in the world.
 
 **Old Ways host-rights start here as a collision, not a sermon.** A graft in an old Taken-In green is a guest. A Cutting-leave is a mainland paper. The first meal comes first, or the planting is a claiming. The Door-Keepers and the Road-hands can both love the wood and still fight about the bowl.
 
-**Borrowed Turnings are the front's ordinary year.** Citizenship-by-local-witness is Hands-era weather: the town that *saw you* may be Harrow's, not the hamlet that raised you. Vouching-at-a-distance, invented to carry an *origin*-fall home, now carries a *neighbour*-fall home. Same three pillars. Shorter road. The unvouched Struck are still older than the grafts. A local canopy did not dissolve them.
+**Borrowed Turnings are the front's ordinary year.** Citizenship-by-local-witness is a Years-of-Hands practice. The town that *saw you* may be Harrow's, while the hamlet that raised you is a different place. Vouching-at-a-distance, invented to carry an *origin*-fall home, now carries a *neighbour*-fall home. Same three pillars. Shorter road. The unvouched Struck are still older than the grafts. A local canopy leaves them in the town.
 
-Seat narration: *her will is still travelling.* Folk memory: *the cart came late, the soil was called thin, we can see Harrow's green from here.* Vaethorn will preach *we wait because we are unworthy.* They wait because the wood is slow, the road is long, and the list was written in the Motherwood.
+A Seat sermon says, "Her will is still travelling." Folk memory says, "The cart came late, the soil was called thin, we can see Harrow's green from here." Vaethorn will preach, "We wait because we are unworthy." They wait because the wood is slow, the road is long, and the list was written in the Motherwood.
 
-The Rain-Shadow on Maiethorn is the same grammar on an older continent: leftover waiting after the core stopped. Ornsael is that leftover on the Motherland. A west-road child after the Sacred Core has stopped walking is Clock 2 where the Hands first matured, which is how you know Ornthael is not a finished age.
+The Rain-Shadow on Maiethorn is the same wait on an older continent: the older job of the ground after the core stopped. Ornsael is that older job on the Motherland. A west-road child after the Sacred Core has stopped walking is Clock 2, on the continent where the Hands first matured. Ornthael is still underway there.
 
 ### What is strained
 
@@ -625,21 +625,21 @@ The pressure is already visible.
 
 ---
 
-## Folklore of the road, the Cut, and the leftover
+## Folklore of the road, the Cut, and the older job of the ground
 
-Three teaching-stories. The bones stay the same. The last line will not choose.
+Three teaching-stories. The bones stay the same. Each teller adds a last line.
 
 ### The Child Who Counted Stones
 
-The teaching-story of the road. Told on the Walking Years' three walks, and still told in Hands-towns that have never sent a child as far as the next valley. Romance and graves in the same count.
+The teaching-story of the road is a child counting stones. It is told on the Walking Years' three walks, and still told in Hands-towns that have never sent a child as far as the next valley. The count holds the romance and the graves together.
 
 A child asked how far it was to the Tree.
 
-The mother said: *as many days as there are stones.*
+The mother said, "As many days as there are stones."
 
 The child walked, and counted. At each stone there was a ribbon, or there was not. The child asked if the ribbons were for people who had arrived.
 
-The mother said: *some.*
+The mother said, "Some."
 
 They drank at the stones. They slept in their lee. They used them to know the water. The child kept count, and the count was the days, and the count was also the names the mother would not read aloud.
 
@@ -647,23 +647,23 @@ They arrived. A leaf fell, or the leaves hugged. The tellings do not agree, and 
 
 On the way back the child asked to leave a ribbon.
 
-The mother said: *we are not a stone yet.*
+The mother said, "We are not a stone yet."
 
 The child left one anyway, on a stone that already had too many, and could not say, later, whether they had been adding a day or a grave.
 
 A Long-Lived who keeps a hearth on that mile will tell you the child's name. They will not tell you which summer. They still make a bed they will not let.
 
-**The last lines (by mouth).** The bones above are common. What a mouth adds last is the stance:
+**The last lines.** The bones above are common. The teller adds one of these:
 
-- **Near Mile (devout):** *The Mother had counted them first. The stones were how she kept the days.*
-- **Near Mile (tired):** *It was a road. The stones were so you did not miss the water.*
-- **Salt Walk:** *The sea has no stones. That is why we charge for the berth.*
-- **Long Mile:** *The mother was wrong. There are more stones than days. That is how you know you are on the Long Mile.*
-- **the Old Ways:** *The stones were there before the walk. The land was already counting.*
-- **the Watching:** *The Tree saw every ribbon. The count was optional.*
-- **Hands-era children:** *We climb them. There is a good one past the mill. The ribbon is just rag.*
+- **Near Mile (devout).** A devout teller on the Near Mile says, "The Mother had counted them first. The stones were how she kept the days."
+- **Near Mile (tired).** A tired teller on the Near Mile says, "It was a road. The stones were so you did not miss the water."
+- **Salt Walk.** A Salt-Walk teller says, "The sea has no stones. That is why we charge for the berth."
+- **Long Mile.** A Long-Mile teller says, "The mother was wrong. There are more stones than days. That is how you know you are on the Long Mile."
+- **the Old Ways.** An Old Ways teller says, "The stones were there before the walk. The land was already counting."
+- **the Watching.** A Watcher says, "The Tree saw every ribbon. The count was optional."
+- **Hands-era children.** A Hands-era child says, "We climb them. There is a good one past the mill. The ribbon is just rag."
 
-Skeptics of every walk tell a short ending: *There were not two counts. There were people, and weather, and a grove that would not come to you.*
+Skeptics of every walk tell a short ending. One of them says, "There were not two counts. There were people, and weather, and a grove that would not come to you."
 
 **Variants.**
 
@@ -687,9 +687,9 @@ They carried another. Or they carried the same one, and the tellings do not agre
 
 It took.
 
-The origin said: *that wood is ours.*
+The origin said, "That wood is ours."
 
-The new ground said: *that wood is here.*
+The new ground said, "That wood is here."
 
 Both were right, which is why there had to be a paper.
 
@@ -697,34 +697,34 @@ The paper said who may take the next branch. The Tree was not asked. The Tree ke
 
 A child asked which Tree was the real one.
 
-The mother said: *count the Hands.*
+The mother said, "Count the Hands."
 
 The child counted two, then twenty, then the towns that were not in the count yet.
 
 The child asked who was next.
 
-The mother said: *the soil is thin there.*
+The mother said, "The soil is thin there."
 
 The child could see the neighbour's canopy from the ford, and could not say, later, whether they had been counting Hands or counting waits.
 
 A Long-Lived who planted will tell you the child's name. They will not tell you which summer. They still will not write who cut.
 
-**The last lines (by mouth).**
+**The last lines.**
 
-- **Folk (Near Mile):** *The mother was the one who cut. The paper came after, like a fine.*
-- **Clergy:** *The warden cut with a leave the college had not invented yet. The paper is how we kept the next one alive.*
-- **Devout:** *The branch came away. No one stole a Hand. She gave one.*
-- **the Watching:** *We have always cut living wood. They named one cut the First. The count is optional.*
-- **the Old Ways:** *The ground received a guest. The paper is a mainland word for a meal they did not stay for.*
-- **the Fair Hand:** *The second carrying was a berth. The first was an unlicensed one. That is the whole hymn.*
-- **Hands-era children (a Tree-town):** *We Turn here. The neighbour walks. The story is why.*
-- **Hands-era children (still walking):** *We can see the canopy. The story does not plant anything.*
+- **Folk (Near Mile).** A Near-Mile singer says, "The mother was the one who cut. The paper came after, like a fine."
+- **Clergy.** A Speaker says, "The warden cut with a leave the college had not invented yet. The paper is how we kept the next one alive."
+- **Devout.** A devout teller says, "The branch came away. No one stole a Hand. She gave one."
+- **the Watching.** A Watcher says, "We have always cut living wood. They named one cut the First. The count is optional."
+- **the Old Ways.** An Old Ways teller says, "The ground received a guest. The paper is a mainland word for a meal they did not stay for."
+- **the Fair Hand.** A Fair Hand clerk says, "The second carrying was a berth. The first was an unlicensed one. That is the whole hymn."
+- **Hands-era children (a Tree-town).** A child in a Tree-town says, "We Turn here. The neighbour walks. The story is why."
+- **Hands-era children (still walking).** A child who is still walking says, "We can see the canopy. The story does not plant anything."
 
-Skeptics of every house tell a short ending: *There was not a Hand that learned to walk. There was wood, and a pot, and a college that got to the knife late.*
+Skeptics of every house tell a short ending. One of them says, "There was not a Hand that learned to walk. There was wood, and a pot, and a college that got to the knife late."
 
 **Variants.**
 
-- On Maiethorn it is told at Turning-Week in the Motherwood and in kitchens that keep a knife on a ribbon. The Motherwood version starts at *came away.* The kitchen version starts at *took.*
+- On Maiethorn it is told at Turning-Week in the Motherwood and in kitchens that keep a knife on a ribbon. The Motherwood version starts at "came away." The kitchen version starts at "took."
 - On Strandoren the quay-version never finds a Tree until the hold is opened. The joke is the bill. The bill is not a joke inland.
 - On Heskoren some tellers omit the taking. The child is still asking who is next when the story stops. Guest-reading tellers start at the meal. First-reading tellers start at the claiming.
 - A Seat telling ends on the paper, not the ford. Speakers think this is the real version.
@@ -732,47 +732,47 @@ Skeptics of every house tell a short ending: *There was not a Hand that learned 
 
 ### The Child Who Climbed the Stone
 
-The teaching-story of the leftover. Told in the Years of Hands about mile-shrines that outlived the requirement, and still told in towns that have a Tree in the square and a neighbour that walks. You cannot treat a stone as past without abandoning the people still using it as a mile, and you cannot treat the road as unchanged without lying about the local canopy.
+The teaching-story of the older job of the ground. Told in the Years of Hands about mile-shrines that outlived the requirement, and still told in towns that have a Tree in the square and a neighbour that walks. Neighbours still use the stone as a mile. The canopy in the square is already Turning children.
 
 A town grew a Tree beside the road.
 
 The last stone of the old mile stood in what became the square. Children climbed it. A ribbon stayed on it, or did not. The tellings do not agree, and it does not change the scuff.
 
-A warden said: *it is in the way of the crowd.*
+A warden said, "It is in the way of the crowd."
 
-A Long-Lived who keeps beds said: *it is a name.*
+A Long-Lived who keeps beds said, "It is a name."
 
 A child of the Tree-town asked how far it was to the Tree.
 
-The mother said: *we are already here.*
+The mother said, "We are already here."
 
 A child from the hamlets past the ford came for a borrowed week, saw children on the stone, and asked how far it was to the Tree.
 
-The Tree-town mother said: *we are already here.*
+The Tree-town mother said, "We are already here."
 
-The waiting child said: *we can see your canopy from the ford.*
+The waiting child said, "We can see your canopy from the ford."
 
 They climbed together. The waiting child left a ribbon. The Tree-town child could not say, later, whether they had been playing or counting a wait.
 
 A Long-Lived who still makes a bed they will not let will tell you both children's names. They will not tell you which summer. They still will not move the stone, and they still will not say the road is over.
 
-**The last lines (by mouth).**
+**The last lines.**
 
-- **Tree-town (devout):** *The Mother stopped the road when the Hand arrived. The stone is how we remember the waiting.*
-- **Tree-town (tired):** *The Tree is here. The stone is in the way. We climb it because it is the right height.*
-- **Waiting child / Heskoren:** *We can see the canopy. The story does not plant anything.*
-- **Lestrand:** *The beds upstairs are let. The stone is a mile-mark the clerks have not billed yet.*
-- **Innkeeper:** *The stone is the upper room. We did not let it. That is the whole hymn.*
-- **the Watching:** *The stone was already a stone. The Tree saw the climb. The count is optional.*
-- **the Old Ways:** *The land was already counting. The square is a guest's furniture.*
-- **Road-hand:** *I water at it. I sleep in the town that was not chosen. I do not say queue.*
-- **Hands-era children (who have never walked):** *There is a good one in the square. The ribbon is just rag.*
+- **Tree-town (devout).** A devout teller in a Tree-town says, "The Mother stopped the road when the Hand arrived. The stone is how we remember the waiting."
+- **Tree-town (tired).** A tired teller in a Tree-town says, "The Tree is here. The stone is in the way. We climb it because it is the right height."
+- **Waiting child / Heskoren.** A waiting child on Heskoren says, "We can see the canopy. The story does not plant anything."
+- **Lestrand.** A Lestrand clerk says, "The beds upstairs are let. The stone is a mile-mark the clerks have not billed yet."
+- **Innkeeper.** An innkeeper says, "The stone is the upper room. We did not let it. That is the whole hymn."
+- **the Watching.** A Watcher says, "The stone was already a stone. The Tree saw the climb. The count is optional."
+- **the Old Ways.** An Old Ways teller says, "The land was already counting. The square is a guest's furniture."
+- **Road-hand.** A Road-hand says, "I water at it. I sleep in the town that was not chosen. I do not say queue."
+- **Hands-era children (who have never walked).** A Hands-era child who has never walked says, "There is a good one in the square. The ribbon is just rag."
 
-Skeptics of every house tell a short ending: *There were not two roads. There was a stone, and a Tree, and a child who still had to walk.*
+Skeptics of every house tell a short ending. One of them says, "There were not two roads. There was a stone, and a Tree, and a child who still had to walk."
 
 **Variants.**
 
-- On Maiethorn it is told as a square-game; the chorus is only *already here.* The Rain-Shadow telling (Ornsael) omits the Tree-town mother, or makes her wrong.
+- On Maiethorn it is told as a square-game; the chorus is only "already here." The Rain-Shadow telling (Ornsael) omits the Tree-town mother, or makes her wrong.
 - On Strandoren the quay-version starts in the loft and never finds a stone until inland, which is the joke and the bill.
 - On Heskoren some tellers omit the climb. The waiting child is still asking how far when the story stops. Guest-reading tellers start at the meal under the stone. First-reading tellers start at the claiming of the square.
 - A Seat telling ends on the crowd, not the ford. Speakers think this is the real version: the stone should move.

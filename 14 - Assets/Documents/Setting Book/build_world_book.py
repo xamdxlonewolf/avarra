@@ -309,7 +309,7 @@ HTML_HEAD = """<!DOCTYPE html>
   <p class="subtitle">Kind, Condition, and the reach of the Tree</p>
   <p class="meta">
     Living world book · Cut-year 387<br>
-    Spine locked · reserved chapters marked <em>to write</em>
+    Chapters keep their numbers · a grey box is still unwritten
   </p>
 </section>
 """
