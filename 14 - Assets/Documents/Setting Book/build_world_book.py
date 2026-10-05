@@ -76,6 +76,14 @@ main {
   max-width: 46rem;
   padding: 2.2rem 2.4rem 6rem;
 }
+main img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0.6rem 0 1.5rem;
+  border: 1px solid var(--rule);
+  page-break-inside: avoid;
+}
 .title-page {
   min-height: 88vh;
   display: flex;
@@ -509,11 +517,11 @@ def build_pdf(html_path: Path) -> Path | None:
         "--disable-dev-shm-usage",
         f"--user-data-dir={profile}",
         f"--print-to-pdf={OUT_PDF}",
-        "--virtual-time-budget=15000",
+        "--virtual-time-budget=90000",
         html_path.as_uri(),
     ]
     try:
-        subprocess.check_call(cmd, timeout=120)
+        subprocess.check_call(cmd, timeout=240)
     except subprocess.TimeoutExpired:
         if not OUT_PDF.exists():
             raise

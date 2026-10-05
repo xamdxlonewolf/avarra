@@ -67,7 +67,7 @@ These stay where they are. Do not promote them to new chapters unless the spine 
 - **What the year feels like / the sky from the ground** (ch. 15) — one ground. This world has no planes.
 - **The twelve seats** (ch. 19 and ch. 20) — named, or refused. Rothallo is the Inner Close.
 - **The Mill-hold, the First Bowl, Nelath** (ch. 21) — sick-Tree, guest-grove, road-end.
-- **Known Map and overlays** (ch. 17) — notes place the marks. Vaelhesk has no settlement dot.
+- **Known Map and overlays** (ch. 17) — the labeled paintings. Vaelhesk has no settlement dot. The schematic drawing is not the picture.
 
 ## How to update
 
