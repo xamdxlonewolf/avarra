@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # Roadmap
@@ -47,6 +47,7 @@ updated: 2026-10-04
 | **L** | [[#Epic L — The lived world]] | Soul pass after the build: voices, then faces, then what people do. Empty folders are not a checklist | Med | ✅ L.1–L.9 done 2026-10-03 |
 | **S** | [[#Epic S — The other seats]] | The twelve powers whose seats were left unnamed. A city, a town, or a recorded refusal. Maps of those places wait on Epic M | Med | ✅ S.0–S.3 done 2026-10-03. Epic S complete |
 | **M** | [[#Epic M — Town sheets and the new seats]] | Sheets for squares that already have streets, then sheets for whatever S seats. Pointers for capitals, large cities, and important towns go on the maps that already show that ground. The ordinary house is Story M.5. Does not reopen A.1–A.14 | Low | ✅ M.1–M.5 done. M.4 pointers 2026-10-05 |
+| **B** | [[#Epic B — The book, in a reader's voice]] | Read the setting book one chapter at a time and rewrite it for people who will play. Does not open new canon | Med | 🟡 B.1 open. 0 / 26 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -1157,10 +1158,54 @@ Close plates and overhead plans use the house of their band. The cards are in [[
 
 ---
 
+## Epic B — The book, in a reader's voice
+
+**Status:** 🟡 **open** · **Blast radius:** Med. The vault stays canonical. This epic edits the compiled reading copy only: `14 - Assets/Documents/Setting Book/chapters/`. One chapter per task, in spine order. Do not start the next chapter until the current one has been read all the way through.
+
+A partial pass on 2026-10-05 opened some sentences in chapters 00, 05, 10, 12, 13, 14, 15, 16, 19, 20, 21, and 23. Those boxes stay open. A chapter is done only after the whole file has been read.
+
+**The voice.** Write for people who will play here, the way a setting book explains a world. The first sentence of a passage says what is happening. A local word gets a plain gloss the first time that chapter needs it. A line someone in the world might say goes in quotation marks, and the text says who says it.
+
+**Unclear language to replace when it still hides the fact.** A metaphor standing in for the rule. A stack of faith-names or place-names with no statement of what each person does. Designer labels in player text: "Clock 2," "Leftover," "Playable square," "Session wants," "same trick," "under one lintel." Negative sentences that only correct a wrong guess.
+
+**Do not.** Change a fact to make a sentence easier. Explain the heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, or the Fungril spoonful. Turn any of those into a power, a relic, or a rite. Put "inscrutable," "leave it," or "20%" into the book as a design label. Move a secret into a player chapter. Confirm the Leaf-Mother in player text. Name the cutter. Date the Tree. Add a sixteenth power. Fire the remnant-to-ash confirm. Write the campaign's close. Paste The Walk Home, The Offered Fragment, or The Week Still Open in as a plot. Invent a chapter, rename a file, or reorder the spine. Redraw a map. The labeled paintings stay. Where a painting and a note disagree, the note wins.
+
+Chapter 24 stays instructions for the GM. Unclear sentences there get the same plain treatment. The open questions stay open: who made the First Cut, the nature of her limit, what she is, and whether the storm-wall can be crossed.
+
+### Story B.1 — Read the book in order
+
+- [ ] **00 Using This Book** (`00-using-this-book.md`). Read the whole chapter. A player should know how to use the book without already living in the world.
+- [ ] **01 The World in Brief** (`01-the-world-in-brief.md`). Read the whole chapter.
+- [ ] **02 Kind and Condition** (`02-kind-and-condition.md`). Read the whole chapter.
+- [ ] **03 The Conditions** (`03-the-conditions.md`). Read the whole chapter. Rules text may stay in the game's own terms. The fiction around a rule still has to say what is happening.
+- [ ] **04 The Kinds** (`04-the-kinds.md`). Read the whole chapter.
+- [ ] **05 Language and Naming** (`05-language-and-naming.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **06 The Turning Tree** (`06-the-turning-tree.md`). Read the whole chapter.
+- [ ] **07 The Leaf-Mother** (`07-the-leaf-mother.md`). Read the whole chapter. She stays a belief.
+- [ ] **08 The Five Faiths** (`08-the-five-faiths.md`). Read the whole chapter.
+- [ ] **09 Orders and Houses** (`09-orders-and-houses.md`). Read the whole chapter.
+- [ ] **10 Law and Citizenship** (`10-law-and-citizenship.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **11 Economy and the Tithe** (`11-economy-and-the-tithe.md`). Read the whole chapter.
+- [ ] **12 Daily Life** (`12-daily-life.md`). Read the whole chapter. The burial, the guest-meal, and what a house keeps were opened on 2026-10-05. The rest of the chapter was not.
+- [ ] **13 Tithe-Infrastructure and Guilds** (`13-tithe-guilds.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **14 The Four Continents** (`14-the-lands.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **15 The Reckoning of the Year** (`15-the-reckoning.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **16 Climate, Ecology, and Travel** (`16-climate-and-ecology.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **17 Maps** (`17-maps.md`). Read the whole chapter. The pictures stay the labeled paintings. This task is the sentences around them.
+- [ ] **18 The Ages** (`18-the-ages.md`). Read the whole chapter. "Clock 2" in player text gets said in ordinary words. The clocks may keep their names once the chapter has said what each one is.
+- [ ] **19 The Fifteen Powers** (`19-the-fifteen-powers.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **20 Gazetteer** (`20-gazetteer.md`). Read the whole chapter. The 2026-10-05 pass did not finish it. Town entries still say "Clock 2."
+- [ ] **21 Other Places** (`21-other-places.md`). Read the whole chapter. The 2026-10-05 pass did not finish it. Two claimants on one green stays unwritten.
+- [ ] **22 Faces of the Turning** (`22-faces-of-the-turning.md`). Read the whole chapter.
+- [ ] **23 Playing in the Turning** (`23-at-the-table.md`). Read the whole chapter. The 2026-10-05 pass did not finish it.
+- [ ] **24 GM Canon** (`24-gm-canon.md`). Read the whole chapter. Plain instructions. The four open questions stay open.
+- [ ] **Rebuild.** When every chapter box above is checked, run `python3 "14 - Assets/Documents/Setting Book/build_world_book.py"`. Read the HTML for the chapters changed in that sitting. Do not rebuild after every chapter unless asked.
+
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Epic B — The book, in a reader's voice:** 0 / 26 tasks of B.1 (0%). One chapter at a time, in spine order. A 2026-10-05 pass opened some sentences and did not finish any chapter. Rebuild is the last task.
 - **Epic L — The lived world:** 34 / 34 tasks of L.1–L.6 (100%). 5 / 5 tasks of L.7 (100%). 6 / 6 tasks of L.8 (100%). 5 / 5 tasks of L.9 (100%) ✅ **L.9 done 2026-10-03. Epic L complete.** Diagnosis: voices, then faces, then customs, then the names in the room, then a street, then the other hearths, then fellowships and the watch, then the weird, the made, and the found, then sidebar honesty. Empty folders are not a fill-list. World book untouched. Epic S and Epic M were not opened.
 - **Epic S — The other seats:** 3 / 3 tasks of S.0 ✅ **(2026-10-03).** 7 / 7 tasks of S.1 ✅ **(2026-10-03).** 6 / 6 tasks of S.2 ✅ **(2026-10-03).** 5 / 5 tasks of S.3 ✅ **(2026-10-03). Epic S complete.** Maiethorn's five seats, Strandoren's four seats, and Heskoren's three seats are written or refused. [[Orentel]] has nine habits. [[Sanbreo]], [[Natai]], [[Harrow's Green]], and [[The First Bowl]] have one. [[Eolvaeth]] and the three hamlets already had one. [[Vaelhesk]] has no new place. World book untouched. Epic M not opened.
 - **Epic M — Town sheets and the new seats:** 5 / 5 tasks of M.1 ✅ **(2026-10-03).** 9 / 9 tasks of M.2 ✅ **(2026-10-03).** 14 / 14 tasks of M.3 ✅ **(2026-10-03).** 5 / 5 tasks of M.4 ✅ **(2026-10-05).** 9 / 9 tasks of M.5 ✅ **(2026-10-04).** Epic M complete. Rothallo is the Inner Close, and the plate is in. Vaelhesk has no sheet and no dot. Does not reopen A.1–A.14. World book untouched.
@@ -1206,3 +1251,4 @@ Close plates and overhead plans use the house of their band. The cards are in [[
 - Epic M — town sheets and the new seats. M.1 done 2026-10-03 → Orentel piers · Maiethlir Grove Bank. M.2 done 2026-10-03 → Eolvaeth · Harrow's Green · the Mill-hold · Ornsael · Nelath · Ndenjoo. M.3 done 2026-10-03 → Seinbrun · Rothallo (and the gate) · Larbril · Votaer · Raitin · Naenor · Lunbra · Braetu (and the quay) · Tasain · Sanbreo · Natai. Rothallo is the Inner Close. Vaelhesk has no sheet and no dot. M.4 done 2026-10-05 → pointers on [[The Known Map]] and the overlays that already show that ground. M.5 done 2026-10-04 → close plates and plans wear the ordinary house in [[Map Generation Tooling]]. Orentel stays the shore-lands model. Ndenjoo was already the Kumbaan house.
 - Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. **L.5 done 2026-10-02** → [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]] · [[The Down-Bank]] · [[The Sky from the Ground]] · [[Planes]]. **L.6 done 2026-10-02** → stock hearth-glances on [[Kinds of the Turning]]. **L.7 done 2026-10-02** → [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]] under Criminal · [[Craft Fellowships]] · [[The Watch and the Cohort]] · [[Movements]]. **L.8 done 2026-10-02** → [[How the Work Is Done]] · [[A Made Thing]] · [[The Cart-Ox]] · [[The Terrace Goat]] · [[The Path Dog]] · [[Kin at the Door]] · [[What a Place Needed]] · [[The Other Chip]] · [[The Dry Slip]] · [[The Ribboned Knife]] · [[The Socket Ribbon]] · [[The One Knife]] · [[The Name-Stone Bed]] · [[A Buyer for the Knife]]. **L.9 done 2026-10-03** → decision folders point at the notes that already hold them. Prototype 1, Prototype 2, and the label-trial image are under `99 - Archive/Atlas/`. Epic S and Epic M were not opened.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
+- Epic B — the book, in a reader's voice. Open. One chapter at a time, starting at Using This Book. The setting book is the thing being edited. The vault is not.

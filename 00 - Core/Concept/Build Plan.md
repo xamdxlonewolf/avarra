@@ -18,6 +18,8 @@ updated: 2026-10-05
 
 ## Active next
 
+**Epic B — The book, in a reader's voice.** Open. Next task is chapter 00, then the chapters in spine order on [[Roadmap#Epic B — The book, in a reader's voice]]. Read one whole chapter before the next. The 2026-10-05 wording pass did not finish a chapter. Do not check a box for that pass. Vault stays canonical. Do not explain the heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, or the Fungril spoonful. Do not write the campaign's close.
+
 **World book maps (2026-10-05).** User asked. The maps chapter shows the labeled atlas paintings. The schematic drawing is not the picture in the book.
 
 **World book voice (2026-10-05).** User asked. The reading copy now explains the place to people who will play here. Insider shorthand in the daily chapters, the guest-meal, burials, the Struck hour, and the seat entries was opened into ordinary sentences. Quoted lines stay quoted. Unexplained habits stay unexplained. No new epic.
