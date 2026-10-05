@@ -18,7 +18,7 @@ updated: 2026-10-05
 
 ## Active next
 
-**Epic B — The book, in a reader's voice.** Open. Next task is chapter 00, then the chapters in spine order on [[Roadmap#Epic B — The book, in a reader's voice]]. Read one whole chapter before the next. The 2026-10-05 wording pass did not finish a chapter. Do not check a box for that pass. Vault stays canonical. Do not explain the heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, or the Fungril spoonful. Do not write the campaign's close.
+**Epic B — The book, in a reader's voice ✅ (B.1 done 2026-10-05).** All twenty-five chapters were read through and the sentences that still hid the fact were rewritten for people who will play. The book was rebuilt. The vault was not rewritten. The Leaf-Mother stays a belief in the player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, and the Fungril spoonful stay unexplained. The campaign's close was not written.
 
 **World book maps (2026-10-05).** User asked. The maps chapter shows the labeled atlas paintings. The schematic drawing is not the picture in the book.
 

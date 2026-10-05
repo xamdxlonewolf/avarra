@@ -2,29 +2,29 @@
 
 ## Kinds
 
-You are raised by a place, not by your ears.
+A place raises you. Kind is the body you were born in.
 
-A **Kind** is the ancestry you are born with: a birth-shape. Nobody blinks at a fox-tail in a Maiethorn market or wings on a Heskoren ridge. Conditions are the becoming the world organizes around. Kinds are the body you brought to the Turning Tree. There are no Kitsune kingdoms, no Selkie thalassocracies (sea-empires), no Tengu mountain-empires.
+A **Kind** is the ancestry you are born with: a birth-shape. Nobody blinks at a fox-tail in a Maiethorn market or wings on a Heskoren ridge. Conditions are the becoming the world organizes around. Kinds are the body you brought to the Turning Tree. Kitsune, Selkie, and Tengu live in the towns around them. None of those Kinds is a country of its own.
 
-What the custom Kinds have are **hearths**: the place-people of a Kind, terrain they were born to, where they are densest and not theirs alone. A hearth is a forest, a coast, a ridge, a dry country, an isle. More than a fireplace, and not a flag.
+What the custom Kinds have are **hearths**: the ground a Kind is born to and densest on. Other people live on that ground too. A hearth is a forest, a coast, a ridge, a dry country, an isle. The word is that ground, and also the home fire.
 
-Yumboes look like an exception. They are rare off Kumbaan because of distance (the storm-wall), not because Kind is a nationality. On the isle they are ordinary. On the mainland they are a sailor's tale. Same people. The map did that, not a racial law.
+Yumboes are rare off Kumbaan because of the storm-wall, the distance. On the isle they are ordinary. On the mainland they are a sailor's tale. Same people. The storm-wall on the map made that difference.
 
 ### Kind, Condition, place
 
-| Layer | What it tells you | What it does not |
+| Layer | What it tells you | Where the rest of a person lives |
 |---|---|---|
-| **Kind** | Birth-shape; sometimes a hearth (coast, ridge, wood, isle) | Loyalty, faith, legal standing, which country |
-| **Condition** | What they became (~75%); Tithe; guild/licence | Ancestry |
-| **Place** | The drift they speak, the institution-names they use, the polity that vouched them | What ears they have |
+| **Kind** | Birth-shape; sometimes a hearth (coast, ridge, wood, isle) | Loyalty, faith, legal standing, and country are decided apart from the body |
+| **Condition** | What they became (~75%); the Tithe (the upkeep of a becoming); guild or licence | The birth-body stays the Kind |
+| **Place** | The local speech they use (their drift), the institution-names they use, the country that stood witness for them | Ears, wings, and tails stay the Kind |
 
-A Kitsune clerk on the Lestrand docks, a Tengu pilgrim in Threnmaieth, a Selkie vouching-witness in Vaethorn: none of those is a mistake. The interesting collision is always Kind × Condition × place.
+A Kitsune clerk works the Lestrand docks. A Tengu pilgrim walks in Threnmaieth. A Selkie stands as a witness for someone in Vaethorn. Each of those is an ordinary life. The life that matters is the Kind, the Condition, and the place together.
 
-Kinds do not carry a Tithe. A Tithe belongs to a Condition.
+A Tithe belongs to a Condition.
 
 ### The four custom hearths
 
-**Kitsune: three hearths, one Kind.** The fox-born already come in three Foxes: Wilds, Snows, and Sands. That is the distribution, written into the body. Three grounds, and no fox-country. They marry and mingle; a child takes after one parent's line. You meet Kitsune in every port and every court. You meet more of a given Fox where that ground is.
+**Kitsune: three hearths, one Kind.** The fox-born already come in three Foxes: Wilds, Snows, and Sands. That is the distribution, written into the body. Three grounds, shared with whoever else lives there. They marry and mingle; a child takes after one parent's line. You meet Kitsune in every port and every court. You meet more of a given Fox where that ground is.
 
 | Fox | Hearth | Where on the map |
 |---|---|---|
@@ -32,126 +32,128 @@ Kinds do not carry a Tithe. A Tithe belongs to a Condition.
 | **Snows** (white / high cold) | high snow, pale open country | densest on Maiethorn's central range and Heskoren's highland spines |
 | **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in Maiethorn's Rain-Shadow: the leeward east of the central range, the one true dry country in the known world |
 
-A Fox of the Sands in a wet Strandoren harbour is unremarkable (people move). A town in the Rain-Shadow with no fox-born at all would be the thing worth asking about.
+A Fox of the Sands in a wet Strandoren harbour has simply moved, the way people do. A town in the Rain-Shadow with no fox-born at all is the thing worth asking about.
 
-Old Kitsune hearths still have a word for a fourth fox no one is born as anymore. The word is kept; the Fox is not. A grandmother will say it and not explain.
+Old Kitsune hearths still have a word for a fourth fox no one is born as anymore. People still say the word. No one is born that Fox. A grandmother will say the word and will not say why.
 
-**Selkie: the coasts.** Selkies belong to two homes at once, so their hearth is the line between: strand, estuary, cold harbour, the towns that face water. Densest on Strandoren's indented coasts (the continent is almost all shoreline). Common in Maiethorn's western ports on the inner sea. Present on Heskoren's wild coast, thinner inland. Not native to Kumbaan. A Selkie who makes that crossing is a story, not a population.
+**Selkie: the coasts.** Selkies belong to two homes at once, so their hearth is the line between: strand, estuary, cold harbour, the towns that face water. Densest on Strandoren's indented coasts (the continent is almost all shoreline). Common in Maiethorn's western ports on the inner sea. Present on Heskoren's wild coast, thinner inland. Kumbaan has no native Selkies. A Selkie who makes that crossing is one person's story.
 
-Inland Selkies exist (the skin Anchors; they can always find their way back to water). They are simply fewer, and they miss the place they aren't, which they consider normal.
+Inland Selkies exist. The skin Anchors: they always know the way back to wherever they left it, and they can always find their way back to water. They are simply fewer, and they miss whichever home they are away from, which they consider normal.
 
-**Tengu: the ridges.** Tengu hearths are peaks, cliff-shelves, and the wind that lives there. Densest on Maiethorn's central range and Heskoren's highland spines, the two continents that actually have killing height. Rare as a settled people on low Strandoren. The ones you meet there are usually sky-couriers (a family, a perch on a clock-tower, a run over the inner sea), not a ridge-town transplanted to a quay.
+**Tengu: the ridges.** Tengu hearths are peaks, cliff-shelves, and the wind that lives there. Densest on Maiethorn's central range and Heskoren's highland spines, the two continents that actually have killing height. Rare as a settled people on low Strandoren. The ones you meet there are usually sky-couriers: a family, a perch on a clock-tower, a run over the inner sea.
 
 Tengu settlements cling to crags and are reached by wing or by rope. A lowlander arriving on foot is a guest who climbed. That is the courtesy.
 
-They keep a running, half-teasing rivalry with the Selkies. Sky-folk and sea-folk each remain convinced their element is the one worth belonging to. The rivalry is colour, not a border.
+They keep a running, half-teasing rivalry with the Selkies. Sky-folk and sea-folk each remain convinced their element is the one worth belonging to. The rivalry stays a tease between neighbours.
 
-**Yumboe: the isle.** Kumbaan, and almost nowhere else. Mythic-rare off the isle; on it, ordinary. No Leaf-Fall, no Given Conditions; Struck possible but rare. Their Kind and their table are their own. A Yumboe on the mainland is usually the only one anyone in that town has ever seen. They have no mainland hearth. The storm-wall is the distribution.
+**Yumboe: the isle.** Kumbaan, and almost nowhere else. Mythic-rare off the isle; on it, ordinary. Kumbaan has no Leaf-Fall, so no child there is Given a Condition. A Struck Condition can still happen, and it is rare. Their ancestry is their own, and so is the feast they keep. A Yumboe on the mainland is usually the only one anyone in that town has ever seen. They have no mainland hearth. The storm-wall is the distribution.
 
 ### Stock ancestries
 
-Daggerheart's stock set (Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah) lives everywhere the Trees do. They are not assigned continents. A few leans keep the map from reading as grey slurry:
+Daggerheart's stock set (Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah) lives everywhere the Trees do. They live on every continent that has Trees. A few tendencies keep one stock thicker in some country than another:
 
-- Water-born stock (Ribbet, Galapa, some Seaborne communities) cluster on the same coasts as Selkies, and are not Selkies: Ribbet breathe the deep; Selkies hold their breath and cannot be kept.
-- Height-and-wild stock (Giant, some Ridgeborne / Wildborne) show thicker on Heskoren's uplands, beside Tengu ridges, not instead of them.
+- Water-born stock (Ribbet, Galapa, some Seaborne communities) cluster on the same coasts as Selkies. Ribbet breathe the deep. Selkies hold their breath, and a grip does not keep them.
+- Height-and-wild stock (Giant, some Ridgeborne / Wildborne) show thicker on Heskoren's uplands, beside Tengu ridges. Tengu still live on those ridges.
 - Old-wood stock (Elf, Faerie, Fungril, Firbolg) show thicker in Maiethorn's Motherwood, beside Wilds-fox hearths.
-- Infernis are born demon-blooded. They are not Bound. They are not a Bound-underclass and they have no Bound-homeland.
-- Halfling and Faerie are not Yumboe. Small-and-flight and small-and-lucky stay their own lanes; the good people are isle, moon, and unseen hands.
+- Infernis are born demon-blooded. Bound is a contract a person swears later. Infernis live in the same towns as everyone else, and they have no country of their own.
+- Faeries are the small people with flight. Halflings are the small people with luck. Yumboes are the good people of the isle, tied to the moon and to unseen hands.
 
-Leans are not rules. A Ribbet judge in inland Threnmaieth is ordinary. A Giant on a Lestrand dock is ordinary. A thicker pocket of one stock in a town is a fact about the town. It is not a nation, a guild, or a seat.
+A Ribbet judge in inland Threnmaieth is ordinary. A Giant on a Lestrand dock is ordinary. A thicker pocket of one stock in a town is a fact about that town. The town stays mixed. Country, guild, and a faith's seat are decided apart from that pocket.
 
-The kitchens are the place's larder. An ancestry does not grow its own staple.
+The kitchens cook what the place grows. The staple belongs to the town's larder.
 
-- **Ribbet and Galapa** cook on the quay, close enough to hear the tide: bread softened in fish broth, with seaweed or a cockle when the tide was good. They do not own the coast, and they are not Selkies.
-- **Giants** eat the usual upland meal, oat mash and dried peas, and they do not eat it on a Tengu perch. They do not own the ridge.
-- **Elves, Faeries, Fungril, and Firbolg** are thicker in the Motherwood, beside Wilds-fox hearths. The clearing is still mixed. Oat pottage, dried peas, mushrooms when the week was wet. A Fungril household sets one spoonful aside. They will not say who it is for. They do not own the wood, and a Faerie is not a Yumboe.
-- **Fauns and Halflings** are thicker on farmland. They cook cabbage in the morning's milk and eat it in the yard. That is how that house eats. It is not a guest-meal. They do not own the field.
-- **Katari and Simiah** eat a handful where they were working, a loft or a mast or a branch, and still come to the town's supper. They do not own the canopy.
-- **Clanks, Dwarves, Goblins, and Drakona** are thicker where a town already mends things. Bread and beans at the bench, still warm from the work. Ember is a lean some Drakona share with the Answered. It is not a Drakona chapter. They do not own the mill or the forge.
-- **Orcs** are thicker where the day's work is lifting. A pot of peas in the yard, the cart still hitched. They do not own the road or the watch.
-- **Humans** are common on every continent that has Trees, and no more common on one than on another. They cook what the town cooks. They are not the body everyone else is measured against.
-- **Infernis** are born with demon blood. They are not Bound. They have no homeland. They eat from the same pot as the rest of the house. They do not set a separate bowl because of the blood.
+- **Ribbet and Galapa** cook on the quay, close enough to hear the tide: bread softened in fish broth, with seaweed or a cockle when the tide was good.
+- **Giants** eat the usual upland meal, oat mash and dried peas, down off the Tengu perch.
+- **Elves, Faeries, Fungril, and Firbolg** are thicker in the Motherwood, beside Wilds-fox hearths. The clearing is still mixed. Oat pottage, dried peas, mushrooms when the week was wet. A Fungril household sets one spoonful aside. They will not say who it is for.
+- **Fauns and Halflings** are thicker on farmland. They cook cabbage in the morning's milk and eat it in the yard. That is the house's own breakfast.
+- **Katari and Simiah** eat a handful where they were working, a loft or a mast or a branch, and still come to the town's supper.
+- **Clanks, Dwarves, Goblins, and Drakona** are thicker where a town already mends things. Bread and beans at the bench, still warm from the work. Ember is a lean some Drakona share with the Answered. The mill and the forge stay the town's.
+- **Orcs** are thicker where the day's work is lifting. A pot of peas in the yard, the cart still hitched.
+- **Humans** are common on every continent that has Trees, and equally common on each. They cook what the town cooks. Every Kind is a full body.
+- **Infernis** are born with demon blood. Bound is a sworn contract. They have no homeland. They eat from the same pot as the rest of the house.
 
-Humans are common. They are not a default the others deviate from. There is no human baseline to marry away from.
+The quay, the ridge, the wood, the field, the canopy, the mill, the road, and the pot belong to the town. A kitchen cooks there. It does not hold the ground.
 
-Factions recruit by Condition, guild, and faith, not by Kind. A settlement may have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town being that Kind. Ornsael is the worked example: fox-market by the well, mixed Kinds, no gate. A person gets a Kind, a Condition or Kept, and a place. The place names them.
+Humans are common. A marriage between Kinds is a marriage. Every Kind is already a full body.
+
+Factions recruit by Condition, by guild, and by faith. A settlement may have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market). The town stays mixed. Ornsael shows it: fox-market by the well, mixed Kinds, no gate. A person has a Kind, a Condition or the Kept (the Tree left them as they were), and a place. The place names them.
 
 ### Hearth-Mark
 
-Stock Daggerheart ancestries grant two features. Each custom Kind grants three. The customs were balanced against each other. Stock is not a trap.
+Stock Daggerheart ancestries grant two features. Each custom Kind grants three. The customs were balanced against each other.
 
-A character whose two ancestry features are **both from stock ancestries** — a single stock Kind, or a stock-and-stock mix — takes a **Hearth-Mark** at character creation. A character who takes **any custom-Kind feature** does not. The third feature *is* the hearth written into the body.
+A character whose two ancestry features are **both from stock ancestries** — a single stock Kind, or a stock-and-stock mix — takes a **Hearth-Mark** at character creation. A character who takes **any custom-Kind feature** does not take a Hearth-Mark. The third feature *is* the hearth written into the body.
 
-Name the **place that raised you**: a town, a quay, a ridge-road, a walk-hold, a roll-street. Write it as a place-phrase, not a Kind-phrase. *Hallowquay salvage-child* is a Hearth-Mark. *Seal-blood* is not.
+Name the **place that raised you**: a town, a quay, a ridge-road, a walk-hold, a roll-street. Write it as a place-phrase. *Hallowquay salvage-child* names the place, and that is a Hearth-Mark. *Seal-blood* names a Kind, and that line stays off the Mark.
 
-**Once per session,** when you make an action or reaction roll that leans on how that place taught you to live, add **+2**. You do not spend Hope for this. You may still spend Hope to add a relevant Experience on the same roll.
+**Once per session,** when you make an action or reaction roll that leans on how that place taught you to live, add **+2**. The +2 costs no Hope. You may still spend Hope to add a relevant Experience on the same roll.
 
-This is not an immunity, not a Stress power, and not a shopping list. If a phrase starts granting swim-breath, flight, or "cannot be caught off guard," it has become a feature; throw it back and write the place again.
+The +2 is the whole of the Mark. A phrase that starts granting swim-breath, flight, or freedom from being caught off guard has turned into a feature. Write the place again.
 
-Everyone still takes a **Community** as the SRD requires. A Hearth-Mark is not a second Community and not a third ancestry feature. You still take the two Experiences the SRD gives every character.
+Everyone still takes a **Community** as the SRD requires. The Hearth-Mark sits beside that Community. It adds no ancestry feature. You still take the two Experiences the SRD gives every character.
 
 ### Mixed Ancestry
 
-The table allows what Daggerheart allows. Mixed Ancestry is a legal heritage, not a rare exception and not a toy you ask permission for. Two mainland Kinds — stock, custom, or one of each — mix by the SRD rule: the **top** (first-listed) feature of one ancestry and the **bottom** (second-listed) feature of another.
+The table allows what Daggerheart allows. Mixed Ancestry is an ordinary heritage, the same one Daggerheart allows. Two mainland Kinds — stock, custom, or one of each — mix by the SRD rule: the **top** (first-listed) feature of one ancestry and the **bottom** (second-listed) feature of another.
 
-Custom Kinds have a third feature. That third feature is the **hearth feature**. It is not available in a mix.
+Custom Kinds have a third feature. That third feature is the **hearth feature**. A mix leaves it out.
 
-| Kind | Top | Bottom | Hearth (not mixed) |
+| Kind | Top | Bottom | Hearth feature, only on the full Kind |
 |---|---|---|---|
 | Kitsune | Slip the Frame | Fox's Glamour | Your Fox (Wilds / Snows / Sands) |
 | Selkie | Second Skin | Slip the Hold | Seal-Kin |
 | Tengu | Wind-Winged | Wind-Caller | The Mountain's Mood |
 
-Yumboe is **not on this table.**
+Yumboe is taken whole. That Kind is written below.
 
 How to build one:
 
 1. Take **one Top** from one parent Kind and **one Bottom** from the other.
 2. Take **no** hearth feature from either custom Kind.
 3. Take **no** Hearth-Mark if either feature is custom. Take a Hearth-Mark if both features are stock.
-4. If both chosen features grant the same verb (fly and fly, swim and swim), keep one and take the unused listed Top or Bottom from either parent instead. Do not stack the same verb.
-5. Write both sides on the body — ears and webbing, wings and a fox-brush, whatever the pairing is. That is the mix, not a hidden tell waiting to be a third feature.
+4. If both chosen features grant the same verb (fly and fly, swim and swim), keep one and take the unused listed Top or Bottom from either parent instead. One copy of that verb is the mix.
+5. Write both sides on the body — ears and webbing, wings and a fox-brush, whatever the pairing is. That pairing is the whole mix.
 
-Do not take three features from one custom Kind and then add a stock feature. Do not take two hearth features. Community is unchanged. Kind still stacks with a Condition. A mixed-heritage character Turns, or is Kept, or is Struck, like anyone else.
+One Top and one Bottom is the whole mix. A hearth feature stays with the full Kind. Community is unchanged. Kind still stacks with a Condition. A mixed-heritage character meets the Leaf-Fall, or is Kept, or is Struck, like anyone else.
 
-A mixed Kitsune is fox-touched (Slip or Glamour). They are not a Fox of the Wilds, Snows, or Sands unless they take the full Kind.
+A mixed Kitsune has Slip the Frame or Fox's Glamour. The Fox of the Wilds, the Snows, or the Sands comes only with the full Kind.
 
 ### Yumboe at the table
 
 A Yumboe character needs **GM leave**. They are mythic-rare off Kumbaan; a mainland campaign that seats one has decided the storm-wall let someone through.
 
-If the table says yes, they are the **full Kind**: Hollow-Hill, Moon-Waked, and The Unseen Hands. No Hearth-Mark. No Top/Bottom split. No Yumboe feature paired with a stock or mainland-custom feature.
+If the table says yes, they are the **full Kind**: Hollow-Hill, Moon-Waked, and The Unseen Hands, and nothing mixed in. The three features already include the hearth, so there is no separate Hearth-Mark.
 
-A child of a Yumboe and anyone else is either a full Yumboe (same GM leave) or the other parent's Kind, with at most a story-tell. They are never a mechanical mix. The good people do not come in halves. That is not a blood-purity doctrine. Distance and the storm-wall are enough.
+A child of a Yumboe and anyone else is either a full Yumboe (same GM leave) or the other parent's Kind, with at most a story-tell (a detail in the fiction, and no extra feature). The sheet has no half-Yumboe. Distance and the storm-wall are why.
 
 ---
 
 ## Kitsune
 
-Kitsune are the fox-born: slight, quick-eyed people with a fox's ears and a brush of tail, and the cold pale light of **foxfire** (*kitsunebi*, fox-flame) always a thought away at their fingertips. In folklore the fox is a shapeshifter and a liar. The truth is gentler, and still real. A Kitsune can throw a **glamour**: foxfire drawn into the shape of another face, a borrowed voice, a trick of the eye. Glamour is an illusion of seeming, not flesh. It never touches what a person decides, only what they perceive. Kitsune are no more dishonest than their neighbours. They simply cannot quite be pinned down. They redirect. They step out of the frame of a situation and leave you looking at where they were, or at a face that isn't theirs. The tail is real and worn openly, and often the surest way to catch a glamoured fox: the one thing the fire will not hide.
+Kitsune are the fox-born: slight, quick-eyed people with a fox's ears and a brush of tail, and the cold pale light of **foxfire** (*kitsunebi*, fox-flame) always a thought away at their fingertips. A Kitsune can throw a **glamour**: foxfire drawn into the shape of another face, a borrowed voice, a trick of the eye. Glamour is an illusion of seeming. The body underneath stays the same. It changes what a person perceives. The decision stays theirs. Kitsune are as honest as their neighbours. They simply cannot quite be pinned down. They redirect. They step out of the frame of a situation and leave you looking at where they were, or at a face that isn't theirs. The tail is real and worn openly, and often the surest way to catch a glamoured fox. The fire leaves the tail in sight.
 
 Foxfire is common to every Kitsune: the ghost-light that leads travelers off the mountain path, the pale fire that hides the sacred white fox, the flame the old nine-tails were said to carry. Each kind of fox bends the same fire a different way.
 
 Just as the world holds arctic, desert, and forest foxes, the fox-born come in kinds shaped by the country they were born to. The **Fox of the Wilds** (red-and-russet, the forest and hedgerow fox), the **Fox of the Snows** (white-coated, born to the cold north and the high snows), and the **Fox of the Sands** (pale and huge-eared, born to the deserts and dry country). All are Kitsune. All share the same slipperiness and the same foxfire, and marry and mingle freely; a child takes after one parent's line or the other. Each carries a gift bred into it by its home ground, and turns its foxfire to a different old fox-story: the will-o'-wisp that leads a hunter astray, the pale flame that swallows the white fox from sight, the ward-fire of the fox that always knows what's coming.
 
-Three of every four people acquire a Condition. Kitsune are a Kind who never quite stay where you left them. Their reputation is misdirection-without-deceit. The fox slips the trap and leaves the trap in plain view.
+Three of every four people acquire a Condition. Kitsune are a Kind who never quite stay where you left them. Their reputation is honest misdirection. They slip a trap and leave the trap sitting in plain view.
 
 ### Values
 
-Kitsune prize the graceful exit and the unfought fight: the deal that dissolves before it comes to blows, the door found before the room fills with smoke. They tend to distrust cornered situations (their instinct in a corner is to make a new corner) and to admire cleverness over force. A common fox-born saying: *"Never the last one holding it."* They keep their word carefully, because a people so slippery would be trusted by no one if they were also untrustworthy. A Kitsune's given word tends to be very solid, and they know it is their most valuable possession.
+Kitsune prize the graceful exit and the unfought fight: the deal that dissolves before it comes to blows, the door found before the room fills with smoke. They tend to distrust cornered situations (their instinct in a corner is to make a new corner) and to admire cleverness over force. Kitsune say: "Never the last one holding it." They keep their word carefully, because a people so slippery would be trusted by no one if they were also untrustworthy. A Kitsune's given word tends to be very solid, and they know it is their most valuable possession.
 
 ### Customs
 
-Because they defuse rather than escalate, and can never quite be cornered, Kitsune work as mediators, brokers, and night-couriers. They carry delicate news between rival houses, hold the neutral ground in a negotiation, walk the dark roads by their own cold foxfire, and are trusted to be somewhere unnoticed and gone again without a scene. Foxfire is a small everyday grace, too. Children are taught to make it before they're taught to read, and a home with a fox-born in it never wants for a soft, safe light. Older Kitsune, by tradition, carry themselves with more tails in the telling of it. The folklore of nine tails survives as reputation and honorific, not as literal biology or power.
+They defuse a fight, and they can never quite be cornered, so Kitsune work as mediators, brokers, and night-couriers. They carry delicate news between rival houses, hold the neutral ground in a negotiation, walk the dark roads by their own cold foxfire, and are trusted to be somewhere unnoticed and gone again without a scene. Foxfire is a small everyday grace, too. Children are taught to make it before they're taught to read, and a home with a fox-born in it never wants for a soft, safe light. Older Kitsune, by tradition, carry themselves with more tails in the telling of it. The folklore of nine tails is a reputation and an honorific. The body keeps one brush. The extra tails live in the telling.
 
 ### Daggerheart ancestry features
 
-Every Kitsune has **Slip the Frame** and **Fox's Glamour**, and chooses one **Fox** at character creation. The Fox is a full feature. Each grants a lasting knack (the real animal's gift, bred in by its home ground) and a foxfire signature move (the fox-spirit myth, each kind turning the same ghost-flame a different way).
+Every Kitsune has **Slip the Frame** and **Fox's Glamour**, and chooses one **Fox** at character creation. The Fox is a full feature. Each grants a lasting knack (the real animal's gift, bred in by its home ground) and a foxfire signature move (the fox-spirit myth, each Fox turning the same ghost-flame a different way).
 
 - **Slip the Frame:** When you would take damage from an attack, you can mark a **Stress** to slip aside: halve the damage, then immediately move up to **Very Close** range to a position out of the attacker's reach. If you end this movement out of line of sight, you are **Hidden**.
-- **Fox's Glamour:** You can wrap yourself in foxfire-glamour to seem other than you are: veil your fox features to pass unremarked, cast your voice or a small sound a short way off, or throw a minor sensory illusion (a flicker of movement, a scent, a light) into a space within **Close** range. Once per scene, you can mark a **Stress** to **wear another face**: take on the convincing seeming of another person you've seen, holding it as long as you concentrate. The glamour is illusion, not flesh: it doesn't change your body or fool touch, and a creature that has strong reason to doubt what it's seeing can make an appropriate roll to catch the tell (a fox-shadow, a reflection that's a beat late, an animal's unease). This is disguise and misdirection. It never reaches mind-control. It changes what others perceive, not what they decide.
+- **Fox's Glamour:** You can wrap yourself in foxfire-glamour to seem other than you are: veil your fox features to pass unremarked, cast your voice or a small sound a short way off, or throw a minor sensory illusion (a flicker of movement, a scent, a light) into a space within **Close** range. Once per scene, you can mark a **Stress** to **wear another face**: take on the convincing seeming of another person you've seen, holding it as long as you concentrate. The glamour is illusion. It doesn't change your body or fool touch, and a creature that has strong reason to doubt what it's seeing can make an appropriate roll to catch the tell (a fox-shadow, a reflection that's a beat late, an animal's unease). This is disguise and misdirection. It changes what others perceive. What they decide stays theirs.
 - **Your Fox:** Choose the fox you were born to. Each has a lasting knack and a foxfire move:
-  - **Fox of the Wilds** *(red / forest fox: the will-o'-wisp that leads travelers off the path).* *Knack:* you are at home in tangled, broken, or overgrown country: **advantage** on Agility Rolls to climb, leap, tumble, or move through difficult terrain, and you ignore its movement penalty. *Foxfire (Wisp-Lure):* mark a **Stress** to send dancing ghost-lights and false trails around a creature within **Close** range; until the end of its next turn it is drawn after the lights: its attacks against anyone but you are made with **disadvantage**, and you may immediately move up to **Very Close** range without drawing an attack. The lights are a lure. They are not a leash. The target isn't compelled to move, only baited to look the wrong way.
+  - **Fox of the Wilds** *(red / forest fox: the will-o'-wisp that leads travelers off the path).* *Knack:* you are at home in tangled, broken, or overgrown country: **advantage** on Agility Rolls to climb, leap, tumble, or move through difficult terrain, and you ignore its movement penalty. *Foxfire (Wisp-Lure):* mark a **Stress** to send dancing ghost-lights and false trails around a creature within **Close** range; until the end of its next turn it is drawn after the lights: its attacks against anyone but you are made with **disadvantage**, and you may immediately move up to **Very Close** range without drawing an attack. The lights are a lure. The target is baited to look the wrong way, and still chooses where to move.
   - **Fox of the Snows** *(arctic fox: the sacred white fox that vanishes in its own pale fire).* *Knack:* you leave no trail worth following. Adversaries have **disadvantage** on rolls to track, trail, or find you, and you have **advantage** on rolls to **Hide** or move unseen in open, snowy, pale, or exposed terrain. *Foxfire (Cold Vanishing):* once per scene, mark a **Stress** to wrap yourself in cold white foxfire and let the eye slide off you, and become **Hidden** even while observed and in the open, so long as you don't take an action that would obviously reveal you.
   - **Fox of the Sands** *(fennec: the many-tailed fox that always knows what's coming).* *Knack:* you see clearly in darkness and dim light as far as you would in daylight, and your great ears miss nothing: **advantage** on rolls to hear, notice, or locate hidden creatures, sounds, or movement. *Foxfire (Ward-Flame):* when you or an ally within **Close** range would be targeted by an attack, you can mark a **Stress** to throw up a sudden curtain of foxfire. The target gains a **+2 bonus to their Evasion** against that attack.
 
@@ -165,11 +167,11 @@ A Kitsune raised devout in Threnmaieth may still be Raki at home and Raki Maetha
 
 ## Selkie
 
-Selkies are the sea-born, the skin-kin: sleek, cool-skinned people who carry a second self, a **sealskin** they can wear or set aside. The skin is not a costume and not a disguise. It is genuinely them, a spare body kept close, and slipping it on or off takes only a moment. Distinct from the frog-folk who simply live underwater, a Selkie's gift is not breathing the deep. It is that you cannot keep hold of one. A Selkie in the water, in a net, in a grip, in a locked room, has a way out. The sea taught them that being held is temporary.
+Selkies are the sea-born, the skin-kin: sleek, cool-skinned people who carry a second self, a **sealskin** they can wear or set aside. The skin is genuinely them, a spare body kept close, and slipping it on or off takes only a moment. Frog-folk live underwater and breathe there. A Selkie's gift is the way out: you cannot keep hold of one. A Selkie in the water, in a net, in a grip, in a locked room, has a way out. The sea taught them that being held is temporary.
 
-Out of the skin, a Selkie reads as an ordinary person with a few quiet tells: cool, faintly sleek skin, large dark eyes, and sometimes a little webbing at the fingers. Nobody stares. The seal-blood shows the way any other Kind's does. The real transformation lives in the skin, not the face.
+Out of the skin, a Selkie reads as an ordinary person with a few quiet tells: cool, faintly sleek skin, large dark eyes, and sometimes a little webbing at the fingers. Nobody stares. The seal-blood shows the way any other Kind's does. The real transformation lives in the skin. The face keeps only the quiet tells.
 
-The old story is theft and grief. Steal a selkie's skin and you own her; she pines for a sea she can't return to. A Selkie belongs fully to **two homes at once**, shore and sea, and so they are the people who move easily between worlds that don't understand each other. The removable skin is a private, tender thing (loaning it, or having it taken, is a real intimacy and a real violation, handled in story, never as a mechanical gotcha). It is not a leash.
+People still tell the old story, in which a stolen skin means you own her and she pines for a sea she can't return to. A Selkie belongs fully to **two homes at once**, shore and sea, and so they are the people who move easily between worlds that don't understand each other. The removable skin is a private, tender thing. Loaning it, or having it taken, is a real intimacy and a real violation, handled in story. It never becomes a penalty on the sheet.
 
 ### Values
 
@@ -179,22 +181,22 @@ Selkies value belonging without being bound: deep loyalty freely given, resented
 
 Because they can't be kept down and can't be kept out, Selkies work as rescue swimmers, cold-water divers and salvors, and go-betweens: the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony. Where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters.
 
-Death by drowning is the threshold that Strikes the Far-Voiced. Selkies, being so at home in the water, have a complicated, storied relationship with that door.
+Death by drowning is the threshold that Strikes the Far-Voiced. Selkies live in that water, and the stories about them and that drowning are many.
 
 ### Daggerheart ancestry features
 
 - **Second Skin:** You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than anyone should, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
   - *Anchored.* Your skin is your fixed point in the world. Wherever you leave it stashed, you always know the direction and distance to it and can find your way back to it unerringly, however far you've travelled or however turned-around you are. (Loaning your skin, or having it taken, is a matter of story and trust, never a mechanical penalty.)
 - **Slip the Hold:** When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
-- **Seal-Kin:** Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. A warning and a help. Not an immunity. *Cannot be caught off guard* sits on The Mountain's Mood only.
+- **Seal-Kin:** Seals and the beasts of the sea treat you as kin. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. That is a warning and a help. The Mountain's Mood is the feature that says you cannot be caught off guard, and it belongs to the Tengu.
 
-Selkies are at home in water (long breath-hold, ignore cold and deep, swim advantage) but are not true underwater breathers. That stays the Ribbet's lane. Seal-Kin calls seal-kin to aid. It does not charm people.
+Selkies are at home in water (long breath-hold, ignore cold and deep, swim advantage). Ribbets are the ones who breathe underwater. Seal-Kin calls seal-kin to aid. People keep their own will.
 
 ### Naming
 
 Hearth-register **Sakoa** (sah-KOH-ah): liquid, rounded, coastal. Daily speech is the local Maiethren drift. Given names include Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea.
 
-The hearth-name is spoken to the water the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn. Two homes, two names. They do not consider this a conflict.
+The hearth-name is spoken to the water the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn. Two homes, two names. They treat that as ordinary.
 
 ---
 
@@ -202,13 +204,13 @@ The hearth-name is spoken to the water the day a child is first given the run of
 
 Tengu are the crow-born of the high country: lean, sharp-featured people with dark feathers through their hair and down their arms, black bright eyes, and broad wings that carry them off any cliff or updraft. They are the folk of the peaks and the wind, born where the air is thin and the weather turns in a heartbeat, and utterly unbothered by either. Where lowlanders see a killing drop and a coming storm, a Tengu reads a launch point and a rising thermal. They fly, and the mountain never surprises them. They feel the rockfall before it slides and the squall before it breaks.
 
-The old stories make them aloof trickster-demons or swordsmanship-obsessed hermits. The crow-born of the Turning belong to the high wild the way Selkies belong to the sea: at home in the exact place that kills everyone else. The fox-born move unseen through society, the sea-born through water, the crow-born through the sky and the heights.
+The crow-born of the Turning belong to the high wild the way Selkies belong to the sea: at home in the exact place that kills everyone else. The fox-born move unseen through society, the sea-born through water, the crow-born through the sky and the heights.
 
 Wings are always present. A Tengu reads as Tengu at a glance, as ordinary in-world as any other Kind.
 
 ### Values
 
-Tengu prize perspective, the view from height and the habit of mind that comes with it. Their instinct in any tangle is to get above it and look down: gain height, gain distance, see the whole shape of a thing before acting. They tend toward blunt directness (from people used to seeing exactly where a path leads and saying so) and a certain impatience with those who won't climb to look for themselves. A crow-born saying: *"The valley argues about the storm; the ridge just watches it come."* They respect earned skill and hard-won height, and have little patience for status that wasn't climbed to.
+Tengu prize perspective, the view from height and the habit of mind that comes with it. Their instinct in any tangle is to get above it and look down: gain height, gain distance, see the whole shape of a thing before acting. They tend toward blunt directness (from people used to seeing exactly where a path leads and saying so) and a certain impatience with those who won't climb to look for themselves. Tengu say: "The valley argues about the storm; the ridge just watches it come." They respect earned skill and hard-won height, and have little patience for status that wasn't climbed to.
 
 ### Customs
 
@@ -217,14 +219,14 @@ Because they can go where footpaths can't and read the mountain's mood before it
 ### Daggerheart ancestry features
 
 - **Wind-Winged:** You can fly. While flying, you can mark a **Stress** to fold your wings and **dive** on a target within Close range: treat it as a **Finesse** attack dealing **d8** physical damage using your Proficiency, and end the dive anywhere within **Very Close** range of that target.
-- **The Mountain's Mood:** You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush**. You always feel it coming in time to act or call a warning before it lands. That wording is issued **once**, here, and only against weather and ground. Seal-Kin names an approach. Hollow-Hill feels gait through earth. Neither is this immunity.
+- **The Mountain's Mood:** You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush**. You always feel it coming in time to act or call a warning before it lands. That wording is written **once**, here. It applies to weather and to ground. Seal-Kin names an approach through the water. Hollow-Hill feels gait through earth. Those two senses are theirs. This immunity is the Tengu's.
 - **Wind-Caller:** You command the mountain wind the way the old fan-bearers did (the fan is a **ha-uchiwa**, a Tengu feather-fan). Mark a **Stress** to call a sudden gust and choose one: **shove** a target within **Far** range a step closer or farther and knock it **Vulnerable**; **carry** yourself or a willing ally an extra move on the wind (a great leap, a saving glide down from a height, a boost across a gap); or **sweep** an area within Close range clear of smoke, gas, fog, or loose airborne projectiles until the start of your next turn.
 
 ### Naming
 
-Hearth-register **Gonan** (GO-nan): clipped, windy, high-country. Deliberately not the same mouth as Kusawe. Daily speech is the local Maiethren drift. Given names include Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. (Gonan is also the people-name; reuse as a given name is a hearth-honor, like naming a child after the ridge.)
+Hearth-register **Gonan** (GO-nan): clipped, windy, high-country. The sound is a different mouth from Kusawe. Daily speech is the local Maiethren drift. Given names include Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. (Gonan is also the people-name; reuse as a given name is a hearth-honor, like naming a child after the ridge.)
 
-Bynames are often a perch or a pass (Teku of Highgate, Hosen of the White Stair), not a harbour.
+Bynames are often a perch or a pass (Teku of Highgate, Hosen of the White Stair). A harbour-name belongs to the coast.
 
 ---
 
@@ -234,13 +236,13 @@ Yumboes are the good people (*Bakhna Rakhna* in their own tongue), the small, mo
 
 Unlike Kitsune, Selkie, and Tengu, who are native to the mainland and unremarkable there, a Yumboe is mythic-rare off their far isle. Most people of Maiethorn, Strandoren, and Heskoren have only heard stories of the pearly, silver-haired good people from across the drowning sea.
 
-On the isle they are an ordinary, warm, whole people who happen to live somewhere almost no one can reach, so their strangeness is distance. They are not strange to themselves. They are only a legend to a world that has never had them to supper. A small, generous hill-people who love a feast and the moon; underneath, the hands with no bodies, and a whole living nation the mainland files under fairy-tale.
+On the isle they are an ordinary, warm, whole people who happen to live somewhere almost no one can reach, so their strangeness is distance. On the isle they are ordinary to themselves. They are a legend to a world that has never had them to supper. A small, generous hill-people who love a feast and the moon; underneath, the hands with no bodies, and a whole people the mainland files under fairy-tale.
 
-A Yumboe reads as a Yumboe at a glance, which is exactly why they can't move unremarked off their isle. The "two-foot good people" of the oldest tellings are the deep-hill kin of legend; those you would play are small but not doll-sized.
+A Yumboe reads as a Yumboe at a glance, which is exactly why they are remarked on the moment they leave their isle. The "two-foot good people" of the oldest tellings are the deep-hill kin of legend. The ones at the table are the waist-high people.
 
 ### Values
 
-Yumboes prize hospitality above nearly all else. To feed a guest, and to be fed as one, is their deepest courtesy and their firmest bond; a shared table is as binding to them as a sworn word is to the Bound. They are a people of the threshold and the hearth: comfortable underground and after dark, unhurried, and quietly certain that the surface world's noon-day bustle misses most of what matters. Because they are small and their home is hidden, they have never learned to meet force with force. They meet it with welcome and misdirection, and with a great many helping hands. A Yumboe saying: *"No one is a stranger twice."* They find the mainland's daylight faiths loud and its treatment of the unwelcomed baffling.
+Yumboes prize hospitality above nearly all else. To feed a guest, and to be fed as one, is their deepest courtesy and their firmest bond; a shared table is as binding to them as a sworn word is to the Bound. They are a people of the threshold and the hearth: comfortable underground and after dark, unhurried, and quietly certain that the surface world's noon-day bustle misses most of what matters. Because they are small and their home is hidden, they have never learned to meet force with force. They meet it with welcome and misdirection, and with a great many helping hands. Yumboes say: "No one is a stranger twice." They find the mainland's daylight faiths loud and its treatment of the unwelcomed baffling.
 
 ### Customs
 
@@ -248,15 +250,15 @@ On Kumbaan, life runs by the moon. The good people wake at dusk, work and feast 
 
 Off the isle (the very few who cross), a Yumboe is a walking wonder, and knows it. They tend to become hosts, keepers, cooks, and go-betweens wherever they land, turning the one thing they always have (a welcome, and hands to lay a table) into a place in a world that first meets them as a myth. A Yumboe abroad is usually the only one anyone has ever seen.
 
-Kumbaan has no Turning Tree. There is no Leaf-Fall and no Given Conditions on the isle. Struck can still happen, at far smaller percentages than the mainland: enough for a story, not a social class. Being a Kind, Yumboe still stacks with a Condition in principle. A Yumboe abroad under a mainland Tree is a live question (she could Give; it almost never arises), not a racial immunity.
+Kumbaan has no Turning Tree. The isle has no Leaf-Fall and no Given Conditions. Struck can still happen, at far smaller percentages than the mainland: enough for a story, and too few to be a social class. Being a Kind, Yumboe still stacks with a Condition in principle. A Yumboe abroad under a mainland Tree could be Given. It almost never arises.
 
 ### Daggerheart ancestry features
 
 Every Yumboe has all three: **Hollow-Hill**, **Moon-Waked**, and **The Unseen Hands**.
 
-- **Hollow-Hill:** You are one of the good people: **small** (hill-folk stature), and born to the deep earth. You can move through gaps and spaces too tight for a larger creature, and you have **advantage** on Agility Rolls to squeeze, climb, or move through cramped, broken, or underground terrain and to **Hide** where there is cover to slip behind. Underground, or within stone and hill, you always know your depth and heading and **cannot become lost**. You feel movement through the ground: the **direction, number, and gait** (walk, crawl, or slide) of creatures within **Close** range who are on or under the earth. Tremor-sense, not immunity. *Cannot be caught off guard* sits on The Mountain's Mood only.
-- **Moon-Waked:** You keep the night. You see in darkness and dim light as clearly as others see by day, and you have **advantage** on rolls to notice, search, or act **at night or underground**, anywhere the sun doesn't reach. When you take rest **under the open night sky or moonlight**, you clear **1 additional Stress** (or your party gains a little of the good people's ease: the GM's call on the fiction). The daylight doesn't harm you, but you are never quite at your best in its glare.
-- **The Unseen Hands:** You can call the good people's unseen servants (**hands and feet plainly visible, but no body between them**) to attend you. At will, they perform small tasks within **Close** range: fetch and carry a light object, pour and serve, hold a door or a rope, steady a load, lay a table. Once per scene, you can mark a **Stress** to set them to **harry** instead: a flurry of unseen hands swarms a target within **Close** range, and until the end of its next turn choose one: the target has **disadvantage** on its next attack, **or** the next ally to act against it has **advantage**. The hands are a conjured seeming of many small helpers. They are not a force. They can distract, fumble, and fetch, but they can't deal damage, wield a weapon, or restrain a determined creature.
+- **Hollow-Hill:** You are one of the good people: **small** (hill-folk stature), and born to the deep earth. You can move through gaps and spaces too tight for a larger creature, and you have **advantage** on Agility Rolls to squeeze, climb, or move through cramped, broken, or underground terrain and to **Hide** where there is cover to slip behind. Underground, or within stone and hill, you always know your depth and heading and **cannot become lost**. You feel movement through the ground: the **direction, number, and gait** (walk, crawl, or slide) of creatures within **Close** range who are on or under the earth. That is a sense of who is moving. The Mountain's Mood is where "cannot be caught off guard" is written, and it belongs to the Tengu.
+- **Moon-Waked:** You keep the night. You see in darkness and dim light as clearly as others see by day, and you have **advantage** on rolls to notice, search, or act **at night or underground**, anywhere the sun doesn't reach. When you take rest **under the open night sky or moonlight**, you clear **1 additional Stress** (or your party gains a little of the good people's ease: the GM's call on the fiction). Daylight leaves you unhurt. Glare is when you are least at your best.
+- **The Unseen Hands:** You can call the good people's unseen servants (**hands and feet plainly visible, but no body between them**) to attend you. At will, they perform small tasks within **Close** range: fetch and carry a light object, pour and serve, hold a door or a rope, steady a load, lay a table. Once per scene, you can mark a **Stress** to set them to **harry** instead: a flurry of unseen hands swarms a target within **Close** range, and until the end of its next turn choose one: the target has **disadvantage** on its next attack, **or** the next ally to act against it has **advantage**. The hands are a conjured seeming of many small helpers. They can distract, fumble, and fetch. Damage, a weapon, and holding a determined creature are outside their work.
 
 ### Naming
 
