@@ -49,26 +49,54 @@ A devout frontier holds joyous Turnings with almost no infirmary behind them. A 
 
 ### When the town buries
 
-They wash the body in the house. Often the washer is Returned, because that is already their street, and the family still chooses the cloth. Then the carry. In a Tree-town the body goes past the canopy, along the street the person used, and is not stood under the boughs. Nobody asks for a colour. A warden may walk, and may say Maieth as a neighbour, or walk silent if the house asked for silence. Neighbours bring food to the door. The door stays open through the meal. The person who will sleep there shuts it.
+A funeral is a walk and a meal. It is not a Turning. Nobody asks the Tree what the dead person "was," and a warden does not read a leaf-colour over the body.
 
-A mixed house is the usual house. A Motherfaith sibling says Maieth over their own bowl. A Watcher sibling says what the dead were like at the stall, and does not thank a giver. If the dead kept a book, a Settler closes it where the room can see the last line, and does not write a new one. A kin-speaker puts a little of the meal at the threshold. If the dead were of a door, the rest of that food goes to the door when the street is finished. Ancestors in that rite are kin who remained. A return is a Returned person, with a neighbour's life. You do not summon one. Nobody Speaks a fall over the bowls.
+They wash the body in the house. The washer is often one of the Returned, people who died and came back, because tending the dead is already their work. The family still chooses the burial cloth. Neighbours then carry the body. In a town with a Tree, the carry goes past the canopy, along the street the person used. The body is not stood under the branches. A tree-warden may walk with them. If the house wants the Mother named, the warden says "Maieth" the way a neighbour would. Maieth is the short name devout people use for the Leaf-Mother. If the house asked for silence, the warden walks silent. Neighbours bring food to the door. The door stays open through the meal. The person who will sleep in the house that night is the one who shuts it.
 
-On a dock the gang carries along the quay. The box does not go under the Tree to be read. The salt on the roots is not part of this hour. A waiting town does not send to a luckier Hand for a warden. The wet leaf on the spring is the spring's business. At Ndenjoo the body goes above the tide. The hall does not lay a second empty plate. The dead's own cup sits in the place that was already set, for one night, and then it goes back to the shelf.
+Most households already mix faiths, so the meal is mixed too. Each person does their own small rite at their own bowl. They do not stop the meal to argue which name comes first.
+
+- A Motherfaith sibling says "Maieth" over their own bowl, and means the life.
+- A sibling of the Watching describes the dead as they were at the market stall: the coat, the argument, the way they counted change. They do not thank a giver.
+- If the dead kept a personal book, someone of the Fair Hand closes it on the table, where the room can see the last line, and does not write a new one. People call them Settlers.
+- Someone of the Old Ways puts a little of the meal at the threshold. People call them kin-speakers. If the dead belonged to a particular door, that faith's word for a household's own old practice, the rest of that food goes to the door when the street has finished eating. In that rite, ancestors are kin who stayed. A "return" means a Returned person, still living a neighbour's life. You do not summon one.
+
+Speaking a fall is the warden's sentence at Leaf-Fall, when a Tree gives a living child a colour. A funeral is not that day. Nobody does it over the bowls. A neighbour who tries is walked outside by whoever is nearest the pot.
+
+On a dock, if the dead worked the water, the crew carries the coffin along the quay. It does not go under the town Tree to be read. Some of the crew say "fair wind, fair term," because that is already their sentence for a leaving. Some will not, because they keep that sentence for a ship that is still going out. Both happen in the same hour, and the crew does not stop to settle it. If there is a book, it is closed where the crew can see. In another month, people put salt on the Tree's roots. That habit is not part of the funeral. They will not say why the salt is there.
+
+A waiting town such as Eolvaeth does not send to a luckier town's Tree for a warden. If the local warden is in the vale, they may walk. If this year's children were already sent away to Turn somewhere else, the town buries with the people who stayed. Food goes to the door the person kept. A wet leaf lies on the town spring. That is the spring's habit. It is not a funeral token. They will not say why the leaf is there.
+
+At Ndenjoo, on the Sundering Isle, the body is laid above the tide. The hall does not set a second empty plate for the dead. The dead person's own cup sits in the place that was already set, for one night, and then it goes back to the shelf. Whether anyone says a name is an argument the valley already has. It waits until after the dishes.
 
 ### The guest-meal
 
-The bowl is down before the question. In a devout kitchen the guest sits and eats, and then someone asks *of where?* Nobody asks what colour they are. On a dock, first bread is standing, at a barrel. Sitting down before that is how you claim a berth you have not paid. After the bread, if no paper is open, there is a chair. If a filing house has a paper open, the house-name comes before the chair. The bowl does not wait on the house. In a waiting town a guest is fed from the pot. Nobody promises that the wood will speak. If they ask about the leaf, someone passes the bread.
+Feed the guest before you ask who they are. That much is true on every mainland road. What people ask afterward depends on the town.
 
-At Ndenjoo, first night, the guest does not serve and does not sit the place that is set back from the board. Second night, a plate is put in their hands. On the one night the heel is eaten first, a guest who asks is given more bread.
+In a devout kitchen, such as a street in Maiethlir, the guest sits and eats. Then someone asks, "Of where?" They mean which town or vale. Nobody asks what leaf-colour the guest carries, or whether they have one. The host may say "Maieth" over the host's own bowl. The guest is not asked to repeat it. A Watcher at the same table tells the guest what is in the pot, and then stops. A Settler at the end of the bench does not open a book. A letter can wait until the guest's shoes are dry.
 
-If someone asks what the guest *is* before the bowl is down, the room goes quiet. The person nearest the pot puts the bowl down anyway.
+On a dock such as Orentel, the first bread is eaten standing, at a barrel, where the crane can be seen. Sitting down before that bread is how a person claims a berth they have not paid for. After the bread, if no clerk has a document open, there is a chair. They ask which berth. A guest with no berth still eats. If a filing house, a clerk's office, has a paper open, the clerk asks for the house-name before offering the chair. A house-name is the inherited family name those offices use. The food does not wait for the name. If a book-hand wants the guest's affairs written down that night, the person who cut the bread tells them to do it on the quay in the morning.
+
+In a waiting town the guest is often a clerk from the core, come to watch a Turning week, who found a pot instead. They are fed from the common pot if the house is thin. Nobody promises that the local wood will speak this week. If the guest asks about the wet leaf on the spring, someone passes the bread. That is the whole answer. The town will not say what the leaf is for.
+
+At Ndenjoo, on the first night, the guest does not serve food and does not sit in the place set back from the table. That place is already kept. On the second night, someone puts a plate in the guest's hands to carry. That second sitting is how the hall counts you as kin on the isle. It does not become papers you can show a mainland watch. On the one night the hall eats the heel of the loaf first, a guest who asks why is given more bread. They will not say why the heel came first.
+
+If someone asks what the guest is before the food is down, the room goes quiet. The person nearest the pot puts the bowl down anyway.
 
 ### What a house keeps
 
-People hire a craft. A made thing, if a town has one at all, is a crane left running, a mill someone swears turns with nobody at the stones, a figure of clay. It has a maker and a problem. It has no Kind and no Condition. A Clank is a person. Most towns do not keep one on a shelf.
+When a town needs work done, it hires a person. A made thing, if a town has one at all, is an object that keeps going with nobody in it: a crane left running, a mill someone swears turns with nobody at the stones, a figure of clay. It has a maker, and it has a problem, such as a stop that broke or a debt the maker did not finish. It is not a people. It has no Kind and no Condition. A Clank is a person, born a Clank, who mends flood-walls and mills alongside everyone else who does that work. Most towns do not keep a made thing on a shelf.
 
-Ordinary kit is what the place already needed. An oiled wool coat on a Rain-Wall shelf. A short hook and a waxed coat on Orentel's quay. A pruning knife and a wind cloak at a young graft. A goat-hair blanket and a water-skin in the Rain-Shadow. A peat cloak on Kumbaan. Beeswax in a Mother-core orchard. A coat from this list is clothing. A pruning knife is a tender's tool. It is not the one blade people mean when they say *the* knife.
+Ordinary kit is whatever that ground already needed. It is clothing and tools, not better armor, and not a relic.
 
-Hearths hang a kitchen knife on a ribbon because they cannot say whether they are honouring a theft or a gift. One Near-Mile house hangs theirs beside a scorch on an old pot-ring, and knows which summer that was. Strangers want that knife to be the first copy. The house will not sell it as that. No house has produced the one blade. Who cut stays unwritten.
+| Place | What they keep | Why it is there |
+|---|---|---|
+| Rain-Wall shelves, above the passes | An oiled wool coat | The shelf is wet and cold. |
+| Orentel's quay | A short hook, and a coat waxed against spray | Lines, crates, and salt water. |
+| A young graft on the live front | A pruning knife, and a wind cloak | The wood is new and the weather is not. The knife is a tender's tool. |
+| The Rain-Shadow | A goat-hair blanket, and a water-skin | The days are dry and the well is shared. |
+| Kumbaan | A peat cloak | Smoke and rain, in the hall and on the terrace. |
+| A Mother-core orchard | Beeswax | The hives, and the halls that are owed wax when the blossom fails. |
+
+A coat from this list is clothing. A pruning knife is a gardener's knife. It is not the one blade people mean when they say "the knife." Some hearths hang an ordinary kitchen knife on a ribbon, because they cannot say whether they are honouring a theft or a gift. One house on the Near Mile hangs its knife beside a scorch on an old pot-ring, and the house knows which summer that was. Strangers want that ribboned knife to be the famous first blade. The house will not sell it as that. No house has produced the one blade. Who made the first cut is not written down.
 
 ---

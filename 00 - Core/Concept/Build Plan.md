@@ -18,6 +18,8 @@ updated: 2026-10-05
 
 ## Active next
 
+**World book voice (2026-10-05).** User asked. The reading copy now explains the place to people who will play here. Insider shorthand in the daily chapters, the guest-meal, burials, the Struck hour, and the seat entries was opened into ordinary sentences. Quoted lines stay quoted. Unexplained habits stay unexplained. No new epic.
+
 **World book (2026-10-05).** User asked. Compiled reading copy rebuilt from the vault through the seats, the lived world, and the map notes. Rothallo is the Inner Close, Orenbren's capital. The twelve seats are in the book. The Mill-hold, the First Bowl, and Nelath fill the old holes. Two claimants on one green stays a type. The four open questions stay open. No new epic. The campaign's close was not written. Vault remains canonical.
 
 **Stories P2.3, P2.4, and 10.2 ✅ (2026-10-05).** The contradiction sweep is on [[Contradictions]] (C-07, C-08, C-09). Rothallo's painted square stays town-scale; the note says capital. Natai's dots on Heskoren and the world overlay now sit west of Harrow's, with the Known Map. Larbril is toward the pass on both the rain-shadow sheet and Maiethorn. Ornsael is farther into the dry, not the next roof and not the coast. The paintings were not redrawn. `story-sense` found nothing thin in what the sweep touched. Later sessions of [[The Isolated Fall]] are [[The Walk Home]], [[The Offered Fragment]], and [[The Week Still Open]]. Session one stays [[The Opening]], at [[Harrow's Green]], Hale-month, C.Y. 387. One Gift. Endings stay undecomposed. The world book was not rebuilt.

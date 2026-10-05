@@ -60,7 +60,7 @@ Struck on the road are vouched-anew at the next desk that will take them (the In
 
 Sold vouching still exists as a nameless underside. It is not this custom. A sold mouth that will not answer a Far-Voiced call is how the market fails in public.
 
-Kumbaan is not a jurisdiction on this grammar. You do not arrive vouched. A road-word, company-vouch, or guild-mark still helps you *leave a Strandoren quay*. It does not file a hill. On the isle, guest-right is the table. A second sitting makes you kin *there*. It does not become a last-hearth you can spend on a mainland watch.
+Kumbaan does not use this system. You do not arrive already vouched. A road-word, a company's vouch, or a guild-mark still helps you leave a Strandoren quay. None of those make you known on the hill. On the isle, the right to be a guest is the table. A second sitting makes you kin there. It does not become a "last hearth," the place you name when a mainland watch asks where you slept, that the watch will accept.
 
 ### The Struck: those who changed *unwitnessed*
 
@@ -75,9 +75,11 @@ Two things make the seam sharper:
 
 Vaethorn's second word for the Struck is *the late-come* (met at a later door). Lestrand's is *the turned* (neutral, a fact). Threnmaieth's is *the unwitnessed* (suspect until named).
 
-The hour itself is care. Nobody has a leaf yet, and the right sentence is still too early. On a quay they haul a person up, count the breaths, and do not walk them to the Tree that night. A book opened over someone who cannot yet refuse a line is shut by whoever is holding the head. In a devout house they take the person inside and do not take them to the root tonight. Maieth can be said over the blanket by the sibling who needs to say it. It is not required of the person under it. In a waiting town they get the person dry and, if they can sit, to the pot. Nobody names a colour over the steam. The spring's leaf is not a sign for this hour. On the hill, rare, Njunda feeds them. Nobody reads a test.
+The first hour is care. The person has changed, and nobody has a leaf-colour for them yet. The formal words can wait.
 
-An oath: take the pen out of the hand until the person can hear the clause. A death that did not finish: keep them warm, and do not assign the unfinished work tonight. Acknowledgment at a Tree, a civic settling, a walk back to a door: those are other days. The tenth year, if they are still inside it, is a different problem. Bring them to be welcomed if the week is still open. Do not stand them for a second life.
+On a quay, the crew hauls the person up, counts the breaths, and does not walk them to the Tree that night. If a clerk opens a book over someone who cannot yet refuse a line, whoever is holding the person's head shuts the book. In a devout house, the family takes the person inside and does not take them to the Tree's roots tonight. A sibling who needs to may say "Maieth" over the blanket. Maieth is the short name devout people use for the Leaf-Mother. The person under the blanket is not required to say it. In a waiting town, they get the person dry and, if the person can sit, to the common pot. Nobody names a leaf-colour over the steam. The wet leaf on the town spring is not a sign for this hour. On the Sundering Isle, which is rare, Njunda feeds them. Nobody gives them a test, and nobody tells them the mainland story about the Mother.
+
+If the change came by an oath, take the pen out of the hand until the person can hear the clause they are still agreeing to. If the change came by a death that did not finish, keep them warm, and do not assign the unfinished work that night. Being acknowledged at a Tree, settling their civic standing, or walking them back to an Old Ways door are later days. If they are still inside their tenth year, that is a different problem. Bring them to be welcomed if Turning-Week is still open. Do not stand them up as if the Tree were giving them a second life.
 
 ### The Inviolate Will
 

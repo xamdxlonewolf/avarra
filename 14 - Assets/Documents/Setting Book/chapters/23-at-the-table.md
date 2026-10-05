@@ -115,7 +115,7 @@ Short shapes that use two clocks and do not treat the Years of Hands as post-his
 
 **An origin-town under a roll.** Maiethlir. Extra mile layered, not replaced. A Speaker who will not copy. A Watcher who will describe. The First Seat in the wood beside, able to refuse.
 
-**A hill-hall beyond the wall.** Ndenjoo. Hospitality as the rite. The storm-wall is the climate. Session wants are kin and wreck, not a proof.
+**A hill-hall beyond the wall.** Ndenjoo. Hospitality is the rite. The storm-wall is the climate. Play kin and wreck. Do not play a proof of what the Trees are.
 
 A campaign opening that uses a remnant-walker, an inside helper, and an isolated white-fire fall is a GM kit. Book X.
 

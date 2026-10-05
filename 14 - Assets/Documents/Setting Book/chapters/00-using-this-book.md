@@ -1,6 +1,6 @@
 # Using This Book
 
-This is the world book of **the Turning**. It is written as settled setting, not as a workshop. There is no build-order here, and no note about why a choice was made. Names are given as the names. Open questions the world itself has not settled stay open in the text.
+This is the world book of **the Turning**, written for people who will play here. It explains the place in ordinary language. A line in quotation marks is something a person in the world might say, and the text says who says it. A habit people will not explain is described as what they do. There is no build-order here, and no note about why a choice was made. Open questions the world itself has not settled stay open in the text.
 
 The **spine is locked.** Chapters keep their numbers and titles. When more of the world is built, it is written *into* the chapter that already exists. Grey boxes marked **Not yet written** are reserved holes. They are intentional, not missing pages. Filling one means replacing the box, not adding a new chapter. The hole that remains in Other Places is two claimants on one green: a type, not a seated square. Deep forage ecology in Climate stays thin on purpose.
 

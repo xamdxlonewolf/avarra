@@ -38,7 +38,7 @@ Yumboes are the exception. They are too rare on the mainland to have grown a loc
 
 ### Before you lock it
 
-- Do not seat **Raki** and **Ranyu** in the same party. Do not seat **Teku** and **Kukra** as twins unless they are.
+- Do not put **Raki** and **Ranyu** in the same party. Do not put **Teku** and **Kukra** in as twins unless they are.
 - A Selkie named **Wishi**, or a Tengu named **Maethaem**, is a tell: raised away, adopted, or passing. Use it on purpose or not at all.
 - Place-names already on the map are reserved. No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. The same goes for church and house names (Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd), the squares Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's, and the seats Eolvaeth, Orentel, Maiethlir.
 
@@ -52,7 +52,9 @@ There is no fourth "human language." A town in any Tree-touched land uses these 
 
 ## How a place speaks
 
-A traveller can say Turning Tree, the Mother, a hug, a colour, a tree-warden, and a graft, and be understood on every mainland road. What follows is what a place says when it is being itself. The core keeps the thorn. Waiting speech tires it. A dock lets it go. Kumbaan speaks in its own mouth.
+A traveller can say Turning Tree, the Mother, a hug, a colour, a tree-warden, and a graft, and be understood on every mainland road. Use those words and you will be understood. The table below is what each kind of place calls the same six things when it is talking like itself. Use a local word when you want a scene to sound like that place. Say who is speaking.
+
+The pious core keeps the old *th* sound. Waiting towns tire it out. A dock lets it go. Kumbaan, the Sundering Isle, speaks in its own mouth and has no Tree to name.
 
 | | Pious core | Waiting lands, the live front | The docks | The hill |
 |---|---|---|---|---|
@@ -65,17 +67,17 @@ A traveller can say Turning Tree, the Mother, a hug, a colour, a tree-warden, an
 
 Careful prayer in a waiting town puts the thorn back, and Maieth returns for as long as the prayer is open. The kitchen says Mait. A no-colour is still a hug. They do not dress it as a prize. On a dock, Tallo is how a quay says the Thallow once the thorn is gone. Say it on the water. A charter keeps the long name. A no-colour is a clear: the child came up clear, free to be hired. Trenledd is this mouth with a list. The hill has a table and no Tree. The far tree and their cutting are mainland things. The loud story is what they call the Mother when a guest brings her up. A warden who climbs the hill is the loud guest, and is still fed.
 
-Four tones are enough for a scene.
+Four ways of talking are enough for a scene.
 
-A devout square finishes its sentence, then puts the Mother's Hand or Maieth back in if the first sentence left them down. They will not say Tallo, or the old rite, or a clear, while the room is mixed. They will not lead with a house-name to a neighbour.
+In a devout square, people finish the practical sentence, then put "the Mother's Hand" or "Maieth" back in if the first sentence left them out. While the room is mixed, they will not say "Tallo," "the old rite," or "a clear." They will not open with a house-name when speaking to a neighbour.
 
-A dock speaks in about six words, then the number or the berth if it needs them. They repeat the last hard fact. They will not restore a thorn to sound devout. They will not call a clear a sadness. While the paper is shut they will not ask what house. While a filing house has the paper open, they will: house first, then the given name.
+On a dock, people speak in about six words, then give the number or the berth if they need them. They repeat the last hard fact. They will not put the old *th* back into a word to sound devout. A "clear" is their word for a child the Tree hugged and gave no Condition, free to be hired. They will not call that a sadness. While no document is open, they will not ask what house you belong to. While a filing house has the paper open, they will: house-name first, then the given name.
 
-A waiting town, and the live front, use one length and two repeats. Waiting repeats *not this week*. The live front repeats *the wood*, then the neighbour if the wood will not speak. They will not promise the week. They will not call the Thallow Tallo.
+A waiting town, and the live front, keep to one length and two repeats. A waiting town repeats "not this week." The live front repeats "the wood," and then the neighbour's town if their own wood will not speak. They will not promise the week. They will not call their Tree "Tallo."
 
-A hill-hall uses three short sentences. A welcome. A pause. One practical thing. They repeat *sit*, and *the place*. They will not read a test. They will not ask of where, or what house, as the price of a seat.
+A hill-hall on Kumbaan uses three short sentences: a welcome, a pause, and one practical thing. They repeat "sit," and "the place." They will not give a newcomer a test. They will not ask "of where," or what house, as the price of a seat.
 
-Each mainland drift still has one phrase it says whole, and the hill has its own. Nobody stops to translate them. *Lei thulen. Ka doven. Len soret. Aman ndo.*
+Each of these places also has one phrase it says whole. People do not stop to translate it, and this book does not either. Use it as a line someone says, not as a spell or a password. *Lei thulen. Ka doven. Len soret. Aman ndo.*
 
 | Raised in | How the name sounds | Pick from |
 |---|---|---|
@@ -195,7 +197,7 @@ These are the blocks names are built from. The meaning is what the old word mean
 
 The Awakening Tree's church-name is **Thaeloren** (thae-LOR-en): the Tree that witnesses. Everyday worn form: **the Thallow**. Citizenship-by-witness is in the Tree's own name.
 
-The three corner-names are the same trick, worn three ways:
+The three famous corners are named by gluing two old words and wearing them down. Closer to the Tree, the old sound stays. Farther out, it sands off:
 
 - **Vaethorn** (vay-THORN): *vaeth* + *orn*, "the Waiting Land." Keeps the *th*. Everyday **Wethorn**. People: Vaethorn-folk, or the Waiting.
 - **Lestrand** (leh-STRAND): *ledd* + *strand*, sanded smooth, "the Reckoning Coast." The *th* is gone. People: Lestrand-folk or Strandmen.

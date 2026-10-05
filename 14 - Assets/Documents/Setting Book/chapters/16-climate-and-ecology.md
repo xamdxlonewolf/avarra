@@ -71,7 +71,7 @@ The live front is Saelvaeth's luck: Harrow's Green, the Rise-water, the hamlets'
 
 Mild wet under cloud. Bright nights. The wall is the climate. There is no Tree-ecology. A slip planted here would die. Dead wood is not a Tree. Food is terrace, shallows when the wall is kind, and whatever unseen hands fetch. Fuel is peat and what a wreck sometimes gives the hall.
 
-You do not book the isle. A thinning is a moon shore-sitters know, not a ferry. Most hulls wreck, turn, or do not return. If you live: sand or not; a shore-sitter decides *alive*; walked uphill; first night as guest at a hall; a table-keeper decides *kin* at the second sitting. The second sitting is how you belong **on the isle**. It does not travel back to a mainland watch. Playable square: Ndenjoo, the Feeding Hill.
+There is no ferry to the isle, and no ticket you can buy. Shore-sitters know a moon when the storm-wall thins. That thinning is weather, not a scheduled crossing. Most ships wreck, turn back, or do not return. If you live, this is the order: you are on the sand or you are not; a shore-sitter decides that you are alive; you are walked uphill; the first night you are a guest at a hall; at the second sitting, a table-keeper decides that you are kin. That second sitting makes you kin on the isle. It does not become papers a mainland watch will accept. The town a party can enter is Ndenjoo, which sailors call the Feeding Hill.
 
 ## Travel times
 

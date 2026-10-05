@@ -9,7 +9,7 @@ Everyday: **the furnishing**, or just **the greens and the halls.** There is no 
 
 ### Shape of the sector
 
-- **Two jobs that are not one house.** **Furnishing** keeps a provided-for Tithe from becoming a public hazard (green, an outlet, a new page). **Ticketing** marks competence for the three Conditions that can hurt a bystander (the Stilled, Far-Voiced, the Answered). A town may house both under one lintel. They are still two jobs. The Bound's "ticket" is a table, not a body-guild.
+- **Two jobs that are not one house.** **Furnishing** keeps a provided-for Tithe from becoming a public hazard (green, an outlet, a new page). **Ticketing** marks competence for the three Conditions that can hurt a bystander (the Stilled, Far-Voiced, the Answered). A town may put both jobs in the same building. They are still two jobs. The Bound's "ticket" is a hearing at a table, not a guild licence for their body.
 - **Official means *enough*, not *a week*.** A commons-share, a scheduled hour, a library that is open. The product is a person who can walk away until tomorrow. The Slide's product is a person who cannot. The town is glad of both and will not say so about the second.
 - **They think they are in a public-works story.** Wells. Yards. A playhouse. A surgeon's college. They do not call themselves monster-wardens.
 - **No Furnishing Seat.** A town keeps its own lot and hall. A deathless house endows its own long-house. The licence-guilds charter *their* members. Nothing in this sector micromanages a far commons.
@@ -51,7 +51,7 @@ The **road-mend** fills a hole, clears a ford, and shores a culvert. They are no
 
 ### The work people hire
 
-A domain is a job the town already pays someone to do. People do not enroll in a school of magic. Arcana is workshop heat, water, stone, air, or light. Blade is a weapon, a watch until morning, a pruning knife, a cohort walking children to a sound Hand. Bone is where to stand. Codex is paper, and reading a page is not Speaking a colour. Grace is a guest-meal or a factor's terms. The hazardous Cry stays the hall-keepers' ticket. Midnight is a shut door and a trade that does not want a square. Sage is ground, herd, weather, the bark of a young graft. Splendor is the room after harm. Valor is standing a gap.
+Daggerheart's domains are jobs a town already pays someone to do. People do not enroll in a school of magic. Arcana is workshop heat, water, stone, air, or light. Blade is a weapon, a watch until morning, a pruning knife, a cohort walking children to a sound Hand. Bone is where to stand. Codex is paper, and reading a page is not Speaking a colour. Grace is a guest-meal or a factor's terms. The hazardous Cry stays the hall-keepers' ticket. Midnight is a shut door and a trade that does not want a square. Sage is ground, herd, weather, the bark of a young graft. Splendor is the room after harm. Valor is standing a gap.
 
 A Spoken colour is the warden's sentence at Leaf-Fall. It is not a spell. Hope does not buy a colour. A Condition is a becoming, with a Tithe. A craft does not Turn anyone. If the same person has both, each one does what its own card says.
 

@@ -23,11 +23,15 @@ A **leftover job** is the walk's remaining civic function after local Trees made
 | **Rain-Shadow walk-hold** | leftover waiting on the Motherland | west-road after the core stopped | Maiethorn dry hills | Ornsael, the well-town farther into the dry. Saelthael's city is Larbril, at the Well-wash, short of the pass |
 | **Pilgrim-edge** | wait as destination | congregation made a country; Tree not a certainty | Heskoren | Eolvaeth |
 
-The sick-Tree town, the guest-grove, and the road-end are seated: the Mill-hold, the First Bowl, and Nelath. They are written in Other Places. One type is still only a type. **Two claimants on one green** — a warden and a door-keeper, both sure the wood is theirs to speak for. Vaelun leans this way. It is not yet a named square of the type. Do not seat it on the First Bowl to tidy the list. The Bowl is the guest-grove. Vaelun is a kitchen past the ford.
+Three kinds of place the road already needed now have names. The sick-Tree town is the Mill-hold. The guest-grove is the First Bowl. The road-end is Nelath. They are written in Other Places. One kind of place is still only a kind: **two claimants on one green**, a tree-warden and an Old Ways door-keeper, both sure the wood is theirs to speak for. Vaelun, one of the three hamlets past the ford, leans that way. It is not yet a named square of that kind. The First Bowl is the guest-grove. It is not that unused kind. Vaelun is a kitchen past the ford.
 
 ---
 
 ## Playable squares
+
+These are towns a party can walk into. Each entry says where the place sits, what work it does, and who you can meet. A line in quotation marks is something a person there might say. Where an entry mentions the graft-wave, it means the slow spread of living wood outward from the Motherwood. That spread is still moving. The Ages explains it at length. You do not need the label to play the town.
+
+A few entries still use the shorthand **Clock 2** for that same unfinished spread: this year's children still walk to a Tree that can speak, or a road is still in use because the walk is not over. It is the present. It is not a costume of an earlier age.
 
 ### Harrow's Green
 
@@ -39,7 +43,7 @@ The wave has not finished here. Harrow's is a Hand that grew up. The three hamle
 
 Vaethorn heat sits on many hearths as gospel, not always as flag. This square lives in Saelvaeth's orbit (the live-front march), not as its capital. The Old Ways are neighbours, not a museum. A first meal at a later planting is a live argument, not a courtesy-card.
 
-**Leftover job on this street: necessity.** The neighbour's week. Devotion leaves a ribbon on the stone. Prestige does not book a winter here.
+What this town still does, from the years when children had to walk, is necessity. Neighbouring hamlets still send their ten-year-olds here for the week. A ribbon on the stone is devotion, left by someone else. Rich households do not book a winter here.
 
 **Site.** A low rise above a stream that becomes the ford downstream. The graft took on the rise; the old pilgrim-road climbed it because that was the day's water. Towns on Heskoren do not pick a pretty hill and then invent a Tree. The wood picked, and the hearths followed.
 
@@ -98,7 +102,7 @@ Old Ways hearths among them may **refuse the neighbour's week** on purpose. Thei
 
 Geographically they sit on a seam: Saelvaeth luck they can see, Vaelhesk refusal in the kitchen, Vaethorn gospel on the tongue, Ornled slate if they walk the other way.
 
-**Leftover job on this street: necessity.** They are making the week. Devotion is a misreading visitors bring. Prestige does not stop at the ford.
+What these hamlets still do is make the week. They send the children. A visitor who calls that devotion has misread them. Prestige does not stop at the ford.
 
 **Site.** The ford is the Seat's geography, the thing you can see Harrow's green from, water a mile-shrine would have marked if anyone had set a stone on the waiting side. No stone. That absence is a leftover. Necessity still drinks there. Children still ask how far it is.
 
@@ -156,7 +160,7 @@ An old Near-Mile house, three days' walk out from Thaeloren toward the approach-
 
 It sits in Orenbren's lodging-country, civic beds within a week's walk of the grove, and is a seed of that type, not the compact's throne. The inns grew a country. This is one mouth.
 
-**Leftover job on this street: devotion.** The extra mile as civic season. The loft still sleeps necessity and, rarely, prestige; Thilim can tell who is which. They will not always tell you. The White Note sells the First-Hand year. This house makes the bed.
+What this road-house still does is devotion: it keeps the extra mile as the town's season. The loft still sleeps people who had to come, and, rarely, people who paid to come. Thilim can tell which is which, and will not always say. The White Note, a desk on Orentel's quay, sells a first-year pilgrimage as a product. This house makes the bed.
 
 Lestrand calls this a bed-house that failed to become a bank. Thilim asks which mouths will be here at dark.
 
@@ -205,7 +209,7 @@ Saelthael is the polity of people who still sow. Ornsael is a square of that hab
 
 Fox of the Sands hearths are densest here. That is terrain, not a flag. A town with *no* fox-born would be the thing worth asking about. Mixed Kinds drink the same well.
 
-**Leftover job on this street: necessity.** The west-road is still how this year's ten-year-olds go when a neighbour's week is cheaper than a dry summer. Devotion belongs to people who already have a healthy canopy. Prestige does not book a dry hill.
+What this well-town still does is necessity. The west road is still how this year's ten-year-olds go when a neighbour's Turning week is cheaper than a dry summer. Devotion belongs to people who already have a healthy Tree. Prestige does not book a dry hill.
 
 **Site.** The well is why anyone stopped. The range takes the rain; this side keeps the dust. Settlement is nucleated around water the way Harrow's is nucleated around wood: same grammar, different scarcity. The graft was married to the well on purpose. Living earth wants a drink in sand-country as much as a child does.
 
@@ -267,7 +271,7 @@ It is not a throne. Governance here is almost absent. What sits in the vale is a
 
 Saelvaeth's luck is a different weather, further along the wave. Harrow's Green is a Hand that grew up. The three hamlets can see that canopy from a ford. Eolvaeth cannot see it, and does not want to. Wanting it would be admitting the wait is a queue. The gospel says stay. Horticulture, some years, says send.
 
-**Leftover job on this street: devotion.** The wait as a pilgrimage destination. Necessity is what visitors from thinner districts are actually doing; the town will not call it that. Prestige does not book a thin vale.
+What this town still does is devotion. People walk here in order to wait. Visitors from thinner country are usually here because they have to be. The town will not call that necessity. Prestige does not book a thin vale.
 
 **Site.** Two tracks meet at a spring in a fold of upland. The graft was married to the water because living earth wants a drink and a child does. Settlement clustered where the wood took, and then the camps filled the fold, because a thin Tree that *might* speak is still the oldest Hand a long walk can reach without crossing into Saelvaeth's orbit.
 
@@ -327,7 +331,7 @@ An inner-sea estuary on Strandoren, facing Maiethorn across the oldest water in 
 
 Lestrand is guild self-rule carried as far as it goes. Orentel is the square that proves it: a charter-council of houses and craft-guilds, no crown, no Threnhael. Citizenship-by-witness runs smoothly because reach is high. The three pillars (Long-Lived memory, Bound word, Far-Voiced feeling) are infrastructure. An unvouched person is a transaction that cannot clear.
 
-**Leftover job on this street: prestige.** The First-Hand year as a product; empty Eolthael berths held for households who can pay to walk a walk they do not need. Necessity still eats in the lofts; Mataero files it as occupancy.
+What this quay still sells is prestige: a first-year pilgrimage, booked as a product, with empty berths in Eolthael held for households who can pay to walk a walk they do not need. People who had to come still eat in the lofts. Mataero files them as occupied beds.
 
 **Site.** The estuary is why anyone stopped. Deep water, a sheltered sound, a tide that writes the working day. The graft took on the **rise above the first quay** (C.Y. 40s to 80s, wealthy coast, a paying next), and the oldest lintels still face that Tree. The road used to come inland from the berth toward a healthier origin-canopy. Then this canopy grew up. Then the berth became the point.
 
@@ -414,7 +418,7 @@ The extra mile used to come through with the thaw. When Hands made the origin-wa
 
 Threnmaieth coils near the sacred centre and wants everyone on the Threnhael. Maiethlir is the square that proves the coil without owning the Tree: the colour that falls is a hymn *and* a line. Maiethvael shares the Mother and refuses the list, same hymns, opposite paper, a day's argument upriver or down.
 
-**Leftover job on this street: devotion.** The extra mile as civic season, *layered* under the roll. The job is not "the census" as a postcard. Necessity still sleeps in an uncounted loft if the soil up-range is thin; prestige books a counted winter. The Threnhael sits on a leftover. It does not replace it.
+What this city still does is devotion: the extra mile remains the civic season, now written under the census. The census is not the postcard. People who had to come still sleep in an uncounted loft when the soil up-range is thin. People who paid book a counted winter. The crown's roll sits on top of that older traffic. It does not replace it.
 
 **Site.** The thaw-river is why anyone stopped. Ford, mill, a Hand planted beside the water because the first carrying followed living earth and a day's drink. The Motherwood is a dark on one horizon. You can walk to the grove. Most Hands-children do not. The college is in those clearings. It is not this square.
 
@@ -471,11 +475,13 @@ The delay is the leftover: a pilgrimage-town that still thinks the hymn comes fi
 
 ## The twelve seats
 
-The three corners are above. These are the other twelve. A capital, a city, a town, or a refusal. Harrow's Green is not among them. Six charter-towns, and the shelves, and the pockets between grafts, stay unnamed. No capital is marked with a star. The First Seat stays in the wood.
+The three famous corners are above: Threnmaieth, Lestrand, and Vaethorn, with their cities Maiethlir, Orentel, and Eolvaeth. These twelve are the other seats of power. Each one is a capital, a city, a town, or a written refusal to build a city. Harrow's Green is a square in Saelvaeth's orbit. It is not one of the twelve. Six charter-towns around Raitin, the shelves of Lirorn, and the pockets between grafts stay unnamed. No capital is marked with a star on a map. The First Seat, the college of tree-wardens, stays in the Motherwood and is not a capital.
+
+Read an entry this way. The first lines say what the place is and where it sits. **The work** is the job the town does, and who does it. A neighbour uses a given name. A clerk in a list-land says the house-name first. The last sentences are habits. People do them and will not say why. A habit is not a relic and not a rite.
 
 ### Seinbrun (Maiethvael's capital)
 
-*(SAYN-brun.)* A large city in the warm core of Maiethorn. People say the Gift-Realm. Charters write *Maiethvael*. It furnishes greens, a hall, and medicine by congregation and guild. There is no roll. It is not Maiethlir. It is not the Down-Bank. The first day below Maiethlir's Down Gate is Gift-folk and is still not this seat. The wood is in sight of the pilgrimage season. It is not inside the city. A Hand stands beside the furnished hall. Nobody copies a colour onto a roll.
+*(SAYN-brun.)* Maiethvael's capital, a large city in the warm core of Maiethorn. People call the country the Gift-Realm. Charters write *Maiethvael*. The city provides public greens, a hall, and medicine through its congregations and guilds. It does not keep a census. It is not Maiethlir. It is not the Down-Bank, the stretch of road below Maiethlir's Down Gate. You can spend a day among Gift-folk on that road and still not have reached Seinbrun. During pilgrimage season the Motherwood is in sight. It is not inside the city. A town Tree stands beside the furnished hall. The city does not copy a child's leaf-colour onto a list.
 
 **The work** is the hall, with the green beside it. Vuthbraen keeps the hall. Raermu keeps the medicine basket. Breillai left the hymn. The green, the hall, and the medicine went together. The hall can still set a bowl. The net stays where the hymn is. A neighbour says the given name. There is no house to put first.
 
@@ -485,7 +491,7 @@ The furnished hall sets an empty bowl at the end of the table, away from the pot
 
 *(roh-THAL-oh.)* A walled city, one day's walk from the Motherwood. People still say **the Inner Close**, and the Close. The walls answer to those names. It is the same place. It stays inside Orenbren. It is not a second town and not a sixteenth power. Smaller towns and villages lie around it in the lodging-country. This book does not name them. The Third Hearth, the Mill-hold, and Nelath are in that country. They are not this capital.
 
-The First Seat is in the wood, beyond the wall. The wood is not crowned. A Hand stands inside the walls. The city does not Speak it. Closed Heirs rank the Conditioned by the Book of Tithes, kept inside. Orenbren witnesses who slept. They do not share a page. Beds for assigned labour are outside the gate. The Book is inside. That door never opened.
+The First Seat, the tree-wardens' college, is in the wood beyond the wall. The wood is not the capital. A town Tree stands inside the walls. The city does not hold a Turning at it. The Closed Heirs rank Conditioned people in the Book of Tithes, kept inside the walls. Orenbren, the country around the city, keeps a separate witness of who slept the night. The two records are not copied onto each other. Beds for people assigned to labour are outside the gate. The Book is inside. That gate does not open to join the two.
 
 **The work** is the Book. Delamem keeps it. The pages assign taxes, restrictions, and labour, on top of the Tithe a person already carries. Talnin is still the heir whose tenth year is not finished. A neighbour says a given name. A clerk says the house first. *Closed* on a roster is a rank, not a second name. The line can cast a person out and keep the house on them.
 

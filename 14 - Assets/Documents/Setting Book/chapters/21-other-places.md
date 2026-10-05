@@ -48,9 +48,9 @@ There is no leftover job of the walk. Kumbaan is off the clocks. The leftover is
 
 Life is under the hill. You walk into a Pap and come out at a board. The extra place is set slightly back, every meal that matters. To omit it is the one impiety. Daylight is a Sabbath of sleep. A mainlander loud at noon is a problem the hall can feel in its teeth. On one night of the moon sailors call Yoltal, the heel of the loaf is eaten first. Ndenjoo will not say why. A guest who asks is given more bread.
 
-**Crossing, short enough to start.** You do not book Ndenjoo. You are on the sand or you are not. Soonke decides *alive*. Njunda decides *kin*. The second sitting is how you belong on the isle. It does not travel back to a mainland watch. A road-word still works on a Strandoren quay *before* you sail. Here the question is not asked. Sitters do not send anyone back.
+**Getting there.** You cannot book a passage to Ndenjoo. You are on the sand or you are not. Soonke, who sits the storm-beach, decides whether you are alive. Njunda, who keeps the hall, decides whether you are kin. The second sitting is how you belong on the isle. It does not become papers a mainland watch will accept. A road-word, the mainland custom of being vouched for, still helps you leave a Strandoren quay before you sail. On the hill, nobody asks for it. The shore-sitters do not send anyone back.
 
-Session wants: an extra place laid; Nolas gone as kin, not as a slight; a wreck off the hill; a word of Waandi. None of them are "prove what the Trees are." A warden guest is still a guest. There is no Tree to tend.
+A session here can use an extra place already laid, Nolas gone because the hall counts them as kin, a wreck off the hill, or a word of Waandi, who left. None of those scenes are a test of what the Trees are. A warden who arrives is still a guest. There is no Tree to tend.
 
 What can enter a scene: a wreck walked uphill tonight; the hands stop; noon-noise; a hull rumour.
 
@@ -76,7 +76,7 @@ A miller still takes a share of grain. The mill-share is not the mouth this squa
 
 The guest-grove. An old green that kept host-rights before any leave. A young Hand stands in it now, cut from Harrow's Green after Harrow's took. Everyday *the First Bowl*. Folk hearth-name *Lonasir* *(lo-NAH-seer)*. The Seat still writes *a later planting in the Far Yield* and does not use the hearth-name.
 
-Not Vaelhesk's capital. The land is the seat. There is no city here to mark. Not Vaelun. Not a second Harrow. Not a sick Tree. A day's walk, sometimes two, from Vaelun, away from Harrow's, deeper into the Yield. You do not pass Harrow's square to reach it unless you are carrying wood from there.
+This grove is not Vaelhesk's capital. Vaelhesk's seat is the land itself, and there is no city to mark. The First Bowl is not Vaelun, not a second Harrow's Green, and not a sick Tree. It is a day's walk from Vaelun, sometimes two, away from Harrow's and deeper into the Yield. You do not pass Harrow's square to reach it unless you are carrying wood from there.
 
 The Mother's wood is a guest. A Cutting-leave without the meal is a claiming. **Delvor** *(DEL-vor)* of Lonasir asks about the bowl before they ask about a leave. **Vilraet** *(vil-RAYT)* is town-warden of the guest and wants the week Spoken so a marriage can be witnessed here. **Brudu** *(BROO-doo)*, Taken-In, keeps the old planting and wants the morning water before the guest's pot. The question of whether this is Taken-In country is the slight.
 
@@ -84,7 +84,7 @@ The first-meal bread is always a little sour. Delvor says that is how you know t
 
 ## Nelath
 
-The road-end. *(NEL-ath.)* Mile-folk say **the spur** and mean the road, then use the town's name once they are in it. A Hands-town in Orenbren lodging-country: one square at the end of a side-day of the Near Mile. The junction is a day short of the Third Hearth. From the junction the spur is one day, and then the canopy. You do not pass Thilim. You do not pass the culvert. Not Harrow's Green. Not Brenthael. Not the Mill-hold. Not Rothallo, and not the First Seat.
+Nelath *(NEL-ath)* is the road-end: a town where a side road stops. People on the Near Mile say "the spur" and mean the road, then use the town's name once they are in it. It is a Tree-town in Orenbren's lodging-country, one square at the end of a side trip off the Near Mile. The junction is a day short of the Third Hearth. From the junction the spur is one more day, and then the canopy. You do not pass Thilim's road-house, and you do not pass the Mill-hold's culvert. Nelath is not Harrow's Green, not Brenthael, not the Mill-hold, not Rothallo, and not the First Seat.
 
 The main Mile still goes on. This track leaves it and does not rejoin. When Hands made the origin-walk optional, this town brought the next stone in. Beyond the boughs there is a scar: a ditch, thorns, and the width of a road that is no longer a road. There is no ford. There is no neighbour's canopy.
 

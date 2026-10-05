@@ -20,7 +20,7 @@ The names on the map are old words glued together. Here is what they are saying 
 | **Heskoren** | hesk-OR-en | the Outer Land. Everyday: **Heskorn**. *Hesk-* is a frontier word for the far edge; the old rite is older than this grafting. |
 | **Kumbaan** | koom-BAHN | the hidden home, in the Yumboes' own tongue. Sailors say **the Sundering Isle**, or **the Sunder**, for the water that walls it off. |
 
-Each of the three large continents has a named corner. Same trick, worn three ways:
+Each of the three large continents has one famous corner, named by gluing two old words together and wearing them down. The farther the corner sits from the Awakening Tree, the more the old sound has worn off:
 
 | Name | Says | Means |
 |---|---|---|
