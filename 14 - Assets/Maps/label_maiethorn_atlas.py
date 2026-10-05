@@ -281,13 +281,14 @@ def build() -> Image.Image:
         radius=4,
     )
     # Larbril is where the west road meets the Well-wash, short of the
-    # pass, and west of Ornsael's well. Not a second well-town.
+    # pass, and west of Ornsael's well. The dot sits on that crossing.
+    # Not a second well-town.
     place(
         ink,
         "Larbril",
-        (1040, 604),
+        (1044, 548),
         place_f,
-        off=(-16, 32),
+        off=(-18, 36),
         anchor="rm",
     )
 

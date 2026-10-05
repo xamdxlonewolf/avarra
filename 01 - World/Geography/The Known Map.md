@@ -51,11 +51,11 @@ Travel times: [[Named Ground#Travel times]]. A day's walk is a mile-shrine. The 
 
 ## GM Notes
 
-The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], between [[Sanbreo]] and the square, and not on the ford. The Heskoren overlay and the world overlay put that name east of Harrow's. Those paintings were not redrawn. Do not move either mark to make them match.
+The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], between [[Sanbreo]] and the square, and not on the ford. The Heskoren overlay and the world overlay now put the dot there. The paintings were not redrawn.
 
-[[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square. They were not redrawn to city scale. No capital star.
+[[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square. They were not redrawn to city scale. No capital star. The city plate is the city.
 
-[[Larbril]] is where the west road meets the Well-wash, short of the pass, west of [[Ornsael]]'s well. It is not a west bank. The rain-shadow dot was not moved.
+[[Larbril]] is where the west road meets the Well-wash, short of the pass, west of [[Ornsael]]'s well. It is not a west bank. The rain-shadow dot sits on that road, west of the well. The Maiethorn dot sits on the wash, still west of the well. The paintings were not redrawn.
 
 ## Links
 - [[Named Ground]] · [[The World Frame]] · [[Powers of the Turning]]
