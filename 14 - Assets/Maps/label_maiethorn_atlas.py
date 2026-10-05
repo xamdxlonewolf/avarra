@@ -8,8 +8,8 @@ Ground, the Known Map schematic, and the C1 prompt. Rebuild:
 
 West is left. The Rain-Wall divides the wet Motherland from the dry
 Rain-Shadow. Thaeloren is the sole exceptional Tree; its marker is a
-canopy ring, never a capital star. The Inner Close remains inside
-Orenbren and is not a sixteenth power.
+canopy ring, never a capital star. Rothallo is the walled town inside
+Orenbren. People still say the Inner Close. It is the same mark.
 """
 
 from __future__ import annotations
@@ -190,12 +190,14 @@ def build() -> Image.Image:
     leader(ink, (622, 468), (594, 433))
     halo_text(ink, (586, 420), "Thaeloren", place_f, TYPE, anchor="rm")
 
-    # Orenbren is the lodging country around the grove. The Close is a town
-    # inside it and receives no capital star.
+    # Orenbren is the lodging country around the grove. Rothallo is the
+    # walled capital inside it, one day from the wood. The square mark is
+    # the same one the sheet already used for the Inner Close. No second
+    # town, and no capital star.
     halo_text(ink, (562, 600), "ORENBREN", area, TYPE)
     close_mark(ink, (686, 510))
     leader(ink, (686, 510), (716, 488))
-    halo_text(ink, (724, 488), "Inner Close", place_f, TYPE, anchor="lm")
+    halo_text(ink, (724, 488), "Rothallo", place_f, TYPE, anchor="lm")
 
     # Core-thaw leaves the west face of the divide and slows near Maiethlir.
     paste_along_path(
@@ -216,10 +218,43 @@ def build() -> Image.Image:
         anchor="rm",
     )
 
+    # Seinbrun is the warm-core capital, off the Core-thaw and a day from
+    # Maiethlir. Not the Down-Bank, and not an inn on the Near Mile.
+    place(
+        ink,
+        "Seinbrun",
+        (470, 278),
+        place_f,
+        off=(-18, -36),
+        anchor="rm",
+    )
+
+    # Votaer is the port on the Hinge Shore, facing the Old Crossing.
+    # The coast stays area-type. The dot is the city, not a second shore.
+    place(
+        ink,
+        "Votaer",
+        (368, 498),
+        place_f,
+        off=(22, -34),
+        anchor="lm",
+    )
+
     # Two distinct notches through the irregular Rain-Wall. Noon is the older,
     # higher northern notch; Shelf-gate is the lower road left after the Break.
     paste_rotated(canvas, "Noon Pass", small, TYPE, (833, 300), angle=67, stroke=2)
     paste_rotated(canvas, "Shelf-gate", small, TYPE, (802, 604), angle=72, stroke=2)
+    ink = ImageDraw.Draw(canvas)
+    # Tasain is the walled town in the valley below the Shelf-gate, on the
+    # wet side. The pass stays a pass. The shelves stay unnamed.
+    place(
+        ink,
+        "Tasain",
+        (658, 702),
+        place_f,
+        off=(-24, 28),
+        anchor="rm",
+    )
 
     # Name the continent-scale divide itself as well as its two usable notches.
     paste_rotated(canvas, "THE RAIN-WALL", region, TYPE, (913, 470), angle=73)
@@ -243,6 +278,16 @@ def build() -> Image.Image:
         off=(18, -24),
         anchor="lm",
         radius=4,
+    )
+    # Larbril is where the west road meets the Well-wash, short of the
+    # pass, and west of Ornsael's well. Not a second well-town.
+    place(
+        ink,
+        "Larbril",
+        (1040, 604),
+        place_f,
+        off=(-16, 32),
+        anchor="rm",
     )
 
     # Broad climate label east of the watershed, not a border or polity fill.

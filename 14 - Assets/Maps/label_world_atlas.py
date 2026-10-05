@@ -36,6 +36,8 @@ TYPE = (236, 226, 196)
 TYPE_MUTED = (220, 208, 176)
 TYPE_WATER = (214, 228, 230)
 STROKE = (28, 22, 14)
+MARK = (28, 24, 16)
+MARK_RING = (236, 226, 200)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -330,6 +332,40 @@ def cubic_bezier_points(
     return points
 
 
+def settlement_dot(draw: ImageDraw.ImageDraw, xy: tuple[int, int], radius: int = 3) -> None:
+    x, y = xy
+    draw.ellipse(
+        (x - radius - 1, y - radius - 1, x + radius + 1, y + radius + 1),
+        fill=MARK_RING,
+    )
+    draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=MARK)
+
+
+def leader(draw: ImageDraw.ImageDraw, start: tuple[int, int], end: tuple[int, int]) -> None:
+    draw.line((start, end), fill=MARK_RING, width=2)
+    draw.line((start, end), fill=STROKE, width=1)
+
+
+def place_city(
+    draw: ImageDraw.ImageDraw,
+    name: str,
+    xy: tuple[int, int],
+    label: tuple[int, int],
+    typeface: ImageFont.FreeTypeFont,
+    anchor: str,
+) -> None:
+    """A plain dot. The name sits off the feature."""
+    settlement_dot(draw, xy)
+    if anchor == "lm":
+        end = (label[0] - 2, label[1])
+    elif anchor == "rm":
+        end = (label[0] + 2, label[1])
+    else:
+        end = label
+    leader(draw, xy, end)
+    halo_text(draw, label, name, typeface, TYPE, anchor=anchor, stroke=2)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1536, 1024):
@@ -421,6 +457,34 @@ def build() -> Image.Image:
         stroke=2,
         tracking=1.12,
     )
+
+    # Capitals, large cities, and important towns. Plain dots. No capital
+    # star. Maiethlir and Orentel were not on this sheet; they are marked
+    # once here. Vaelhesk stays off. The charter-towns stay off.
+    ink = ImageDraw.Draw(canvas)
+    city = font(SERIF_BOLD, 13)
+
+    # Strandoren. West is left. Orentel is the eastern estuary.
+    place_city(ink, "Orentel", (1005, 410), (1048, 378), city, "lm")
+    place_city(ink, "Lunbra", (890, 400), (840, 362), city, "rm")
+    place_city(ink, "Raitin", (862, 468), (800, 432), city, "rm")
+    place_city(ink, "Naenor", (900, 522), (848, 576), city, "rm")
+    place_city(ink, "Braetu", (830, 530), (760, 548), city, "rm")
+
+    # Maiethorn. The Rain-Wall is the eastern spine. Rothallo is the
+    # Inner Close, the same mark, and this sheet had not drawn it yet.
+    place_city(ink, "Votaer", (1148, 430), (1104, 396), city, "rm")
+    place_city(ink, "Seinbrun", (1222, 362), (1156, 300), city, "rm")
+    place_city(ink, "Maiethlir", (1210, 400), (1248, 372), city, "lm")
+    place_city(ink, "Rothallo", (1252, 452), (1296, 430), city, "lm")
+    place_city(ink, "Tasain", (1272, 575), (1228, 610), city, "rm")
+    place_city(ink, "Larbril", (1368, 535), (1410, 508), city, "lm")
+
+    # Heskoren. Harrow's is not a capital. Vaelhesk is not a dot.
+    place_city(ink, "Sanbreo", (228, 708), (168, 688), city, "rm")
+    place_city(ink, "Harrow's", (318, 658), (280, 622), city, "rm")
+    place_city(ink, "Natai", (360, 718), (318, 762), city, "rm")
+    place_city(ink, "Eolvaeth", (376, 644), (328, 598), city, "rm")
 
     return canvas.convert("RGB")
 

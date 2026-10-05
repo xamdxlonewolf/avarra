@@ -7,9 +7,11 @@ Rebuild:
 
     python3 "14 - Assets/Maps/label_sacred_core_atlas.py"
 
-West is left. Thaeloren is the sole exceptional Tree. The Inner Close is a
-walled town inside Orenbren, the Third Hearth is a Near Mile road-house, and
-Maiethlir is the counted river-city. None receives a capital star.
+West is left. Thaeloren is the sole exceptional Tree. Rothallo is the
+walled town inside Orenbren. People still say the Inner Close. It is the
+same mark. The Third Hearth is a Near Mile road-house, and Maiethlir is
+the counted river-city. Seinbrun is off that river, in the warm core.
+None receives a capital star.
 """
 
 from __future__ import annotations
@@ -118,11 +120,12 @@ def build() -> Image.Image:
     leader(ink, (744, 510), (700, 463))
     halo_text(ink, (688, 451), "Thaeloren", place_f, TYPE, anchor="rm")
 
-    # The compact's visible walls sit a day's walk from the grove, inside
-    # Orenbren lodging-country. The square mark is explicitly not a star.
+    # Rothallo's walls sit a day's walk from the grove, inside Orenbren.
+    # The square mark is the one this sheet already gave the Inner Close.
+    # Same place. No capital star.
     close_mark(ink, (374, 770))
     leader(ink, (374, 770), (414, 739))
-    halo_text(ink, (424, 730), "Inner Close", place_f, TYPE, anchor="lm")
+    halo_text(ink, (424, 730), "Rothallo", place_f, TYPE, anchor="lm")
 
     # The old road-house is three days outward on the same Near Mile. It gets
     # a small site glyph rather than a city dot or an invented neighbour label.
@@ -135,6 +138,12 @@ def build() -> Image.Image:
     settlement_dot(ink, (1228, 593))
     leader(ink, (1228, 593), (1188, 558))
     halo_text(ink, (1178, 548), "Maiethlir", place_f, TYPE, anchor="rm")
+
+    # Seinbrun stands off the Core-thaw, in the warm core, with the wood
+    # in sight and not inside the city. Not the Near Mile. Not Maiethlir.
+    settlement_dot(ink, (1100, 360))
+    leader(ink, (1100, 360), (1048, 304))
+    halo_text(ink, (1036, 292), "Seinbrun", place_f, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 

@@ -176,13 +176,14 @@ def build() -> Image.Image:
     paste_rotated(canvas, "the storm-wall", water, TYPE_WATER, (96, 360), angle=78)
     ink = ImageDraw.Draw(canvas)
 
-    # West face — storm-side capes, slate-shore, Ornled pocket, empty marches.
+    # West face — storm-side capes, slate-shore, Sanbreo, empty marches.
+    # Sanbreo is the one town on the slate-shore. The pockets stay unnamed.
     halo_text(ink, (188, 148), "the last capes", note, TYPE_MUTED, stroke=2)
     halo_text(ink, (248, 568), "slate-shore", note, TYPE_MUTED, stroke=2)
     halo_text(ink, (400, 300), "marches", note, TYPE_MUTED, stroke=2)
     place(
         ink,
-        "Ornled",
+        "Sanbreo",
         (360, 520),
         place_f,
         off=(-70, -8),
@@ -217,6 +218,16 @@ def build() -> Image.Image:
     place(ink, "Vaelun", (808, 552), hamlet_f, off=(18, 10), anchor="lm", radius=3, stroke=2)
     place(ink, "Ornath", (738, 588), hamlet_f, off=(-14, 10), anchor="rm", radius=3, stroke=2)
     halo_text(ink, (690, 368), "live front", note, TYPE_MUTED, stroke=2)
+    # Natai is the march-town on the live front. Not Harrow's square,
+    # not the ford, and not a hamlet between grafts.
+    place(
+        ink,
+        "Natai",
+        (760, 360),
+        place_f,
+        off=(28, -48),
+        anchor="lm",
+    )
 
     # Eolvaeth: vale behind the Strandoren-facing (east) coast, NE of Harrow's.
     # Not the south-east field-grid. Not a west-coast pocket.

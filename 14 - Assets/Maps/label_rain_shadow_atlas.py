@@ -8,9 +8,10 @@ Stair notes. Rebuild:
     python3 "14 - Assets/Maps/label_rain_shadow_atlas.py"
 
 West is left. The Rain-Wall's back occupies only the left edge. Ornsael
-is a west-road well-town, not a capital. The Dry Stair climbs a different
-rise toward nothing that is a Tree. The Well-wash is seasonal water, not
-a civic river. These dry hills are not a Fox-nation.
+is a west-road well-town, not a capital. Larbril is where that road meets
+the Well-wash, short of the pass. The Dry Stair climbs a different rise
+toward nothing that is a Tree. The Well-wash is seasonal water, not a
+civic river. These dry hills are not a Fox-nation. No capital star.
 """
 
 from __future__ import annotations
@@ -159,6 +160,13 @@ def build() -> Image.Image:
         cubic((1028, 390), (1088, 500), (1072, 640), (1008, 760)),
         stroke=2,
     )
+    # Larbril is the meeting of the west road and the wash, on the west
+    # bank, short of the pass. Not Ornsael's well, and not the Dry Stair.
+    # The name stays clear of the wash type.
+    ink = ImageDraw.Draw(canvas)
+    settlement_dot(ink, (1108, 648))
+    leader(ink, (1108, 648), (872, 528))
+    halo_text(ink, (860, 520), "Larbril", place_f, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 

@@ -7,9 +7,9 @@ Ground, the Known Map schematic, and the C2 prompt. Rebuild:
     python3 "14 - Assets/Maps/label_strandoren_atlas.py"
 
 West is left. Orentel sits at the large eastern estuary on the Old
-Crossing face. The Chart-run reaches it from the west; Trenledd occupies
-the wealthy filed interior; Netstrand is the open-ocean west and south
-face. Polities receive no borders, and Orentel receives no capital star.
+Crossing face. Lunbra is on the Chart-run, days upriver. Raitin is the
+river behind that coast, and that river is not the Chart-run. Naenor
+keeps its own coast. Braetu is the Night Shore. No capital star.
 """
 
 from __future__ import annotations
@@ -142,12 +142,33 @@ def build() -> Image.Image:
         stroke=2,
     )
 
-    # Trenledd is the filed interior, not a point-seat or a surveyed border.
+    # Trenledd is the filed country. Lunbra is the city on the Chart-run,
+    # inland of the salt, not a second Orentel and not a filed river-town.
     paste_rotated(canvas, "TRENLEDD", region, TYPE, (820, 393), angle=-4)
+    ink = ImageDraw.Draw(canvas)
+    settlement_dot(ink, (662, 488))
+    leader(ink, (662, 488), (560, 430))
+    halo_text(ink, (548, 430), "Lunbra", place_f, TYPE, anchor="rm")
 
-    # Netstrand names the open-ocean west and south face. Its seat remains
-    # unnamed, so the coast gets area-type rather than a settlement marker.
+    # Raitin is behind the premier coast, on a river that is not the
+    # Chart-run. The six charter-towns stay unnamed.
+    settlement_dot(ink, (920, 640))
+    leader(ink, (920, 640), (860, 700))
+    halo_text(ink, (848, 708), "Raitin", place_f, TYPE, anchor="rm")
+
+    # Naenor is its own indented coast, south of the filed interior.
+    # Not the estuary, not the Night Shore, not the Chart-run.
+    settlement_dot(ink, (782, 842))
+    leader(ink, (782, 842), (700, 768))
+    halo_text(ink, (688, 768), "Naenor", place_f, TYPE, anchor="rm")
+
+    # Netstrand names the open-ocean west and south face. Braetu is the
+    # harbour on that face. The coast stays area-type.
     paste_rotated(canvas, "NETSTRAND", region, TYPE, (340, 700), angle=11)
+    ink = ImageDraw.Draw(canvas)
+    settlement_dot(ink, (450, 640))
+    leader(ink, (450, 640), (520, 590))
+    halo_text(ink, (532, 582), "Braetu", place_f, TYPE, anchor="lm")
 
     return canvas.convert("RGB")
 

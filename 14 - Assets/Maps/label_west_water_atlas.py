@@ -8,10 +8,10 @@ Rebuild:
     python3 "14 - Assets/Maps/label_west_water_atlas.py"
 
 West is left. The West Water is the open ocean filling the left and
-centre. The Night Shore is area-type on the west-and-south face; its
-seat stays unnamed. The unlit berth is left unmarked. Hulls, harbour
-hatches, lamp-ticks, the painted inland run, and the far-left weather
-remain unnamed.
+centre. The Night Shore is area-type on the west-and-south face. Braetu
+is the harbour on that face. The unlit berth is left unmarked. Naenor
+is not this sheet. Hulls, harbour hatches, lamp-ticks, the painted
+inland run, and the far-left weather remain unnamed.
 """
 
 from __future__ import annotations
@@ -36,6 +36,8 @@ TYPE = (236, 226, 196)
 TYPE_MUTED = (220, 208, 176)
 TYPE_WATER = (214, 228, 230)
 STROKE = (28, 22, 14)
+MARK = (28, 24, 16)
+MARK_RING = (236, 226, 200)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -97,6 +99,20 @@ def paste_rotated(
     )
 
 
+def settlement_dot(draw: ImageDraw.ImageDraw, xy: tuple[int, int], radius: int = 5) -> None:
+    x, y = xy
+    draw.ellipse(
+        (x - radius - 2, y - radius - 2, x + radius + 2, y + radius + 2),
+        fill=MARK_RING,
+    )
+    draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=MARK)
+
+
+def leader(draw: ImageDraw.ImageDraw, start: tuple[int, int], end: tuple[int, int]) -> None:
+    draw.line((start, end), fill=MARK_RING, width=3)
+    draw.line((start, end), fill=STROKE, width=1)
+
+
 def build() -> Image.Image:
     base = Image.open(SOURCE).convert("RGBA")
     if base.size != (1536, 1024):
@@ -118,10 +134,14 @@ def build() -> Image.Image:
         stroke=2,
     )
 
-    # The Night Shore is the west-and-south face. Its seat remains unnamed,
-    # so the coast gets area-type rather than a settlement marker. The unlit
-    # berth is a gap in the lamps, not a label — leave it for play.
+    # The Night Shore stays area-type. Braetu is the harbour city on it.
+    # The unlit berth stays unmarked. The name does not sit on a lamp.
     paste_rotated(canvas, "THE NIGHT SHORE", region, TYPE, (1324, 478), angle=78)
+    ink = ImageDraw.Draw(canvas)
+    place_f = font(SERIF_BOLD, 20)
+    settlement_dot(ink, (1148, 640))
+    leader(ink, (1148, 640), (1040, 720))
+    halo_text(ink, (1028, 728), "Braetu", place_f, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 

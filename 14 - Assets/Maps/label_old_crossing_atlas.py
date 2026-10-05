@@ -7,9 +7,9 @@ Ground, the Known Map schematic, and the R1 prompt. Rebuild:
     python3 "14 - Assets/Maps/label_old_crossing_atlas.py"
 
 West is left. Orentel sits at the large estuary on Strandoren's eastern
-face. The Hinge Shore is the opposite Maiethorn coast and receives area
-type rather than an invented seat. The Hush-rate is a crossing charge,
-not a political border.
+face. Votaer is the port on the opposite coast. The Hinge Shore stays
+area-type. The Hush-rate is a crossing charge, not a political border.
+No capital star. Orentel is not marked a second time.
 """
 
 from __future__ import annotations
@@ -140,9 +140,13 @@ def build() -> Image.Image:
     leader(ink, (535, 620), (492, 579))
     halo_text(ink, (480, 571), "Orentel", place_f, TYPE, anchor="rm")
 
-    # The opposite coast is a polity-region with an unnamed seat. Area type
-    # follows the coast instead of promoting a painted quay cluster.
+    # The opposite coast stays a region. Votaer is the port on that shore,
+    # facing Orentel. The dot sits on the coast, not on a quay cluster.
     paste_rotated(canvas, "THE HINGE SHORE", region, TYPE, (1218, 440), angle=69)
+    ink = ImageDraw.Draw(canvas)
+    settlement_dot(ink, (1136, 590))
+    leader(ink, (1136, 590), (1248, 660))
+    halo_text(ink, (1260, 668), "Votaer", place_f, TYPE, anchor="lm")
 
     # The rate is a name in the channel, not a plate and not a border.
     ink = ImageDraw.Draw(canvas)

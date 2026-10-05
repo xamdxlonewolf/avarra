@@ -8,10 +8,11 @@ Note House notes. Rebuild:
     python3 "14 - Assets/Maps/label_chart_run_atlas.py"
 
 West is left. The Chart-run is the interior river running east into the
-Salt Quay estuary. The first quay is the old landing below the rise, not
-a capital. The White Note is a desk-house on the third quay's north side,
-not a crown. Leap-frog warehouses, the south-mouth yards, and filed
-river-towns remain unnamed.
+Salt Quay estuary. Lunbra is on that river, upriver of the salt. The
+first quay is the old landing below the rise, not a capital. The White
+Note is a desk-house on the third quay's north side, not a crown.
+Leap-frog warehouses, the south-mouth yards, and filed river-towns
+remain unnamed. Naenor is not this coast. Raitin is not this river.
 """
 
 from __future__ import annotations
@@ -114,6 +115,15 @@ def quay_mark(draw: ImageDraw.ImageDraw, xy: tuple[int, int]) -> None:
     draw.line((x - 9, y - 6, x - 9, y + 6), fill=MARK, width=2)
 
 
+def settlement_dot(draw: ImageDraw.ImageDraw, xy: tuple[int, int], radius: int = 5) -> None:
+    x, y = xy
+    draw.ellipse(
+        (x - radius - 2, y - radius - 2, x + radius + 2, y + radius + 2),
+        fill=MARK_RING,
+    )
+    draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=MARK)
+
+
 def house_mark(draw: ImageDraw.ImageDraw, xy: tuple[int, int]) -> None:
     """A desk-house, deliberately unlike a capital star."""
     x, y = xy
@@ -170,6 +180,13 @@ def build() -> Image.Image:
     house_mark(ink, (1098, 352))
     leader(ink, (1098, 352), (1218, 278))
     halo_text(ink, (1230, 278), "The White Note", place_f, TYPE, anchor="lm")
+
+    # Lunbra is four to eight days upriver of the salt, on this river.
+    # The dot is the north bank, clear of the channel type and of the
+    # roof clusters the painting scattered along the run.
+    settlement_dot(ink, (478, 376))
+    leader(ink, (478, 376), (342, 292))
+    halo_text(ink, (330, 292), "Lunbra", place_f, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 

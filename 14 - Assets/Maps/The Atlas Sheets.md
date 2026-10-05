@@ -8,7 +8,7 @@ tags: [asset, map, atlas, epic-r, story-r10, epic-a]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-10-04
+updated: 2026-10-05
 ---
 
 # The Atlas Sheets
@@ -304,7 +304,7 @@ The road, not the square. The gate is in the old flood-wall. The Motherwood is a
 
 **Maiethlir Grove Bank.** `Maiethlir-Grove-Bank-Atlas-Labeled.png` is a Pillow overlay on `Maiethlir-Grove-Bank-Atlas.png`. West is left. The frame is the road. **Grove Bank** is the north road from the wood, one or two days, and it is not the Near Mile. The gate is in the old flood-wall. The wood is a dark behind that gate and is not labeled. The First Seat stays in that wood, unnamed: no college, no throne, no canopy-ring, and no mark. Thaeloren's canopy is not on this sheet. The civic Tree on the Slow Water stays on the heart sheet. Loft Row, the tablet-hall, the Down Gate, and the Wall Path are not redrawn here. [[Maiethvael]]'s seat is not named. The Down Gate is not that seat. Painted battlements are incidental; the wall is the flood-wall. Script: `label_maiethlir_grove_bank.py`.
 
-**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Story M.2 is in. Story M.3 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master, a city plate, or a town sheet. M.4 was not opened. Story M.4 puts pointers on the overlays that already exist. That pass has not been drawn.
+**Queue.** [[Roadmap#Epic A — Atlas labels|Epic A]] is complete (A.1–A.14). Story M.1 is in. Story M.2 is in. Story M.3 is in. Unlabeled Prototype 3 sheets stay the regional handouts. Do not ask the image model to write. Do not start from these sheets by cropping a regional master, a city plate, or a town sheet. Story M.4 (2026-10-05) put pointers on the overlays that already exist. The paintings were not redrawn.
 
 ## Town sheets — 2026-10-03
 
@@ -551,7 +551,11 @@ The oblique plates stay. These are separate steep bird's-eye plans at the same r
 
 ## Epic M pointers — 2026-10-03
 
-Capitals, large cities, and important towns get a plain pointer and a label on the overlays that already show their ground, and on [[The Known Map]]. Decided 2026-10-03. Story M.4 on [[Roadmap]]. The paintings stay. Pillow on these masters. No capital star. A mark only where the notes already place the place. [[Vaelhesk]] gets no settlement dot. Unlabeled Prototype 3 sheets stay the handouts. This pass has not been drawn.
+Capitals, large cities, and important towns have a plain pointer and a label on the overlays that already show their ground, and on [[The Known Map]]. Decided 2026-10-03. Drawn 2026-10-05. Story M.4 on [[Roadmap]]. The paintings stay. Pillow on these masters. Liberation Serif. Cream type, a dark stroke, a leader when the name would sit on the feature. West is left. No capital star. A mark only where the notes already place the place.
+
+[[Maiethlir]] and [[Orentel]] stay where a sheet already had them. The world overlay had neither, so each is marked once there. The Inner Close square on Maiethorn and on Sacred Core is labeled [[Rothallo]]. [[Seinbrun]] is off the Core-thaw. [[Votaer]] is the port on the Hinge Shore. [[Tasain]] is in the valley below the Shelf-gate. [[Larbril]] is on the west bank of the Well-wash, short of the pass. [[Lunbra]] is upriver on the Chart-run, on the continent and on the river sheet. [[Raitin]] is the river behind the premier coast, not the Chart-run and not the Chart-run sheet. [[Naenor]] is the south coast of Strandoren, not the Chart-run sheet and not the West Water sheet. [[Braetu]] is the Night Shore, on the continent and on the West Water. [[Sanbreo]] is the slate-shore mark that had said Ornled. [[Natai]] is the march on Heskoren and on the world overlay, not Harrow's square and not the ford. [[Eolvaeth]] and [[Harrow's Green]] stay. Harrow's is not a capital.
+
+[[Vaelhesk]] gets no settlement dot. The six charter-towns, the pockets, the shelves, and the villages between grafts stay unnamed. Live Front, Waiting Vale, and Kumbaan were not given a borrowed roof. Close plates and plans were not redrawn. Unlabeled Prototype 3 sheets stay the handouts. The world book was not rebuilt.
 
 ## Label cleanup — 2026-09-23
 

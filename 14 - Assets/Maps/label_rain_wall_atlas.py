@@ -8,8 +8,9 @@ Ground, the Known Map schematic, and the R3 prompt. Rebuild:
 
 West is left. Rain-Wall is the common name; Lirorn calls it the Thaw-Wall.
 Noon Pass is the old high road; Shelf-gate is the lower road left after
-the Break. These highlands are not Heskoren's spine and carry no
-Kind-territory fill.
+the Break. Tasain is the town in the valley below that lower road.
+These highlands are not Heskoren's spine and carry no Kind-territory
+fill. No capital star. The shelves stay unnamed.
 """
 
 from __future__ import annotations
@@ -34,6 +35,15 @@ TYPE_MUTED = (220, 208, 176)
 STROKE = (28, 22, 14)
 MARK = (28, 24, 16)
 MARK_RING = (236, 226, 200)
+
+
+def settlement_dot(draw: ImageDraw.ImageDraw, xy: tuple[int, int], radius: int = 5) -> None:
+    x, y = xy
+    draw.ellipse(
+        (x - radius - 2, y - radius - 2, x + radius + 2, y + radius + 2),
+        fill=MARK_RING,
+    )
+    draw.ellipse((x - radius, y - radius, x + radius, y + radius), fill=MARK)
 
 
 def font(path: Path, size: int) -> ImageFont.FreeTypeFont:
@@ -132,6 +142,13 @@ def build() -> Image.Image:
     pass_mark(ink, (724, 716))
     leader(ink, (724, 716), (631, 673))
     halo_text(ink, (619, 673), "Shelf-gate", place_f, TYPE, anchor="rm")
+
+    # Tasain is in the sheltered valley below the Shelf-gate, on the wet
+    # side of the road. The notch itself stays the pass. The dot is the
+    # open valley floor, not the rocky slope and not a roof cluster.
+    settlement_dot(ink, (360, 790))
+    leader(ink, (360, 790), (122, 650))
+    halo_text(ink, (110, 650), "Tasain", place_f, TYPE, anchor="rm")
 
     return canvas.convert("RGB")
 

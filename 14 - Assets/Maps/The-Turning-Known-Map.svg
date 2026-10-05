@@ -63,7 +63,13 @@
   <circle cx="332" cy="440" r="3" fill="#2a2418"/>
   <text x="340" y="444" font-family="Georgia, serif" font-size="9" fill="#2a2418">the ford</text>
 
-  <text x="250" y="500" font-family="Georgia, serif" font-size="9" fill="#2a2418">Ornled</text>
+  <circle cx="228" cy="488" r="3.5" fill="#2a2418"/>
+  <text x="236" y="484" font-family="Georgia, serif" font-size="10" fill="#2a2418">Sanbreo</text>
+  <text x="236" y="496" font-family="Georgia, serif" font-size="8" fill="#4a4438">Ornled</text>
+
+  <circle cx="262" cy="458" r="3.5" fill="#2a2418"/>
+  <text x="196" y="462" font-family="Georgia, serif" font-size="10" fill="#2a2418">Natai</text>
+
   <text x="360" y="520" font-family="Georgia, serif" font-size="9" fill="#2a2418">Vaelhesk</text>
 
   <!-- STRANDOREN -->
@@ -85,11 +91,20 @@
   <text x="698" y="318" font-family="Georgia, serif" font-size="8" fill="#4a4438">Lestrand</text>
 
   <text x="600" y="300" font-family="Georgia, serif" font-size="9" fill="#2a2418">Trenledd</text>
-  <text x="560" y="430" font-family="Georgia, serif" font-size="9" fill="#2a2418">Brenledd</text>
-  <text x="680" y="450" font-family="Georgia, serif" font-size="9" fill="#2a2418">Leddvael</text>
+
+  <circle cx="640" cy="352" r="3.5" fill="#2a2418"/>
+  <text x="648" y="348" font-family="Georgia, serif" font-size="10" fill="#2a2418">Lunbra</text>
+
+  <circle cx="575" cy="448" r="4" fill="#2a2418"/>
+  <text x="583" y="444" font-family="Georgia, serif" font-size="10" fill="#2a2418">Raitin</text>
+  <text x="583" y="456" font-family="Georgia, serif" font-size="8" fill="#4a4438">Brenledd</text>
+
+  <circle cx="648" cy="482" r="4" fill="#2a2418"/>
+  <text x="656" y="478" font-family="Georgia, serif" font-size="10" fill="#2a2418">Naenor</text>
+  <text x="656" y="490" font-family="Georgia, serif" font-size="8" fill="#4a4438">Leddvael</text>
 
   <circle cx="540" cy="400" r="3.5" fill="#2a2418"/>
-  <text x="500" y="396" font-family="Georgia, serif" font-size="10" fill="#2a2418">Netstrand</text>
+  <text x="500" y="396" font-family="Georgia, serif" font-size="10" fill="#2a2418">Braetu</text>
   <text x="508" y="408" font-family="Georgia, serif" font-size="8" fill="#4a4438">Night Shore</text>
 
   <!-- MAIETHORN -->
@@ -123,7 +138,7 @@
   <text x="900" y="258" font-family="Georgia, serif" font-size="10" fill="#2a2418">Thaeloren</text>
 
   <circle cx="938" cy="268" r="3" fill="#6a3020"/>
-  <text x="944" y="264" font-family="Georgia, serif" font-size="8" fill="#4a2010">Inner Close</text>
+  <text x="944" y="264" font-family="Georgia, serif" font-size="8" fill="#4a2010">Rothallo</text>
 
   <circle cx="900" cy="310" r="3" fill="#2a2418"/>
   <text x="862" y="322" font-family="Georgia, serif" font-size="9" fill="#2a2418">Orenbren</text>
@@ -136,12 +151,22 @@
   <text x="828" y="312" font-family="Georgia, serif" font-size="8" fill="#4a4438">Threnmaieth</text>
 
   <circle cx="848" cy="270" r="4" fill="#2a2418"/>
-  <text x="800" y="266" font-family="Georgia, serif" font-size="10" fill="#2a2418">Hinge Shore</text>
-  <text x="812" y="278" font-family="Georgia, serif" font-size="8" fill="#4a4438">Old Crossing face</text>
+  <text x="800" y="266" font-family="Georgia, serif" font-size="10" fill="#2a2418">Votaer</text>
+  <text x="812" y="278" font-family="Georgia, serif" font-size="8" fill="#4a4438">Hinge Shore</text>
 
-  <text x="940" y="220" font-family="Georgia, serif" font-size="9" fill="#2a2418">Maiethvael</text>
+  <text x="960" y="198" font-family="Georgia, serif" font-size="9" fill="#2a2418">Maiethvael</text>
+
+  <circle cx="900" cy="228" r="4" fill="#2a2418"/>
+  <text x="848" y="224" font-family="Georgia, serif" font-size="10" fill="#2a2418">Seinbrun</text>
+
   <text x="990" y="250" font-family="Georgia, serif" font-size="8" fill="#4a4438">Noon Pass</text>
   <text x="992" y="318" font-family="Georgia, serif" font-size="8" fill="#4a4438">Shelf-gate</text>
+
+  <circle cx="952" cy="348" r="3.5" fill="#2a2418"/>
+  <text x="910" y="364" font-family="Georgia, serif" font-size="10" fill="#2a2418">Tasain</text>
+
+  <circle cx="1036" cy="402" r="4" fill="#2a2418"/>
+  <text x="1044" y="396" font-family="Georgia, serif" font-size="10" fill="#2a2418">Larbril</text>
 
   <circle cx="1088" cy="430" r="3.5" fill="#2a2418"/>
   <text x="1098" y="428" font-family="Georgia, serif" font-size="10" fill="#2a2418">Ornsael</text>
@@ -162,6 +187,6 @@
 
   <!-- caption -->
   <text x="600" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#2a2418">The Turning — the Known Lands</text>
-  <text x="600" y="658" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a4438">Reach-gradient west to east is the wave run backward. Kumbaan never took. The Inner Close is a town inside Orenbren, not a sixteenth flag.</text>
+  <text x="600" y="658" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#4a4438">Reach-gradient west to east is the wave run backward. Kumbaan never took. Rothallo, still called the Inner Close, sits inside Orenbren.</text>
   <text x="600" y="674" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5a5448">Travel: Named Ground. Schema, not a survey. C.Y. 387.</text>
 </svg>

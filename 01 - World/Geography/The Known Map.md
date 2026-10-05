@@ -9,7 +9,7 @@ aliases: [World Map, The Turning Map, Canonical Map]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-10-03
+updated: 2026-10-05
 ---
 
 # The Known Map
@@ -34,7 +34,7 @@ The SVG is the **labelled schematic** — placement only, light on terrain. The 
 - Four landmasses in the locked relative places.
 - The **Old Crossing**, the **West Water**, the **Rain-Wall**, four rivers, the Noon Pass / Shelf-gate.
 - The fifteen as *regions*, not surveyed borders. [[Rothallo]], still called the Inner Close, as a mark *inside* Orenbren, not a sixteenth colour.
-- The playable squares and the seats. Capitals, large cities, and important towns are marked once Epic M draws them (Story M.4). A mark only where a note already places the place. [[Vaelhesk]] is the land, not a dot.
+- The playable squares and the seats. Capitals, large cities, and important towns are marked (Story M.4, 2026-10-05). [[Rothallo]] is the mark inside Orenbren. People still say the Inner Close. [[Maiethlir]] and [[Orentel]] stay the marks they were. [[Vaelhesk]] is the land, not a dot.
 - The three pre-Walk leftovers as small marks ([[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]).
 
 ## What it is not allowed to show
