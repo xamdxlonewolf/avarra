@@ -13,21 +13,17 @@ A **leftover job** is the walk's remaining civic function after local Trees made
 | Type | What it is | Layered leftover | Where it lives | Named square or seat |
 |---|---|---|---|---|
 | **Origin pilgrimage-town** | devotion's extra mile; the Motherwood's lodging | Near Mile as civic season *and* holiday; Seat proximity | Maiethorn Sacred Core | Maiethlir (roll *layers* the leftover; does **not** own the grove) · neighbour square: Brenthael |
-| **Road-end Tree-town** | the walk stopped here; the square *is* the last mile | stone in the square; road ends at the boughs; upper room | any Hands land; densest on Maiethorn | unused as a lead; layered onto Harrow's / Brenthael |
+| **Road-end Tree-town** | the walk stopped here; the square *is* the last mile | stone in the square; road ends at the boughs; upper room | any Hands land; densest on Maiethorn | **Nelath** (the spur stops; not Harrow's, not Brenthael, not the Mill-hold). Layered onto Harrow's and Brenthael already; those are not this lead |
 | **Deathless inn-bank** | road-past as credit | beds + notes; Held bed as house custom | Near Mile inland; Salt-Walk quay | the Third Hearth (stayed a hearth) · the White Note House on Orentel (desk, not the crown) |
 | **Salt quay** | prestige-walk + pots | empty Eolthael berths; holds that smell of earth; Fair Hand signing-watch | Strandoren coasts | Orentel (White Note on the third quay, **not** the crown) |
 | **Live-front Tree-town** | luckiest Heskoren; neighbour's canopy | Harrow-sentence as *this decade*; borrowed Turnings inbound | Heskoren | Harrow's Green |
 | **Waiting cluster** | queue made visible; Clock 2 this year | can see a neighbour's canopy; folk-right temptation; Kept/Struck-heavy | Heskoren; also Rain-Shadow pockets | the Three Hamlets Past the Ford (folk names *Brenod · Vaelun · Ornath*) |
-| **Sick-Tree square** | Hands that un-Hands | necessity-walk *returns*; civic crisis wearing a child's summer | any continent the wood has reached | unused as a named square; well-graft weather lives on Ornsael without a named sick fall |
-| **Guest-grove** | Old Ways planting | first meal vs Cutting-leave; host-rights | Heskoren old greens | the Door-Keepers at Vaelun; host-rights, not a second Harrow |
-| **Rain-Shadow walk-hold** | leftover waiting on the Motherland | west-road after the core stopped | Maiethorn dry hills | Ornsael (proves Ornthael is unfinished even at the origin-continent) |
+| **Sick-Tree square** | Hands that un-Hands | necessity-walk *returns*; civic crisis wearing a child's summer | any continent the wood has reached | **the Mill-hold** (Orenbren lodging-country). Ornsael's well can drop without a sick fall |
+| **Guest-grove** | Old Ways planting | first meal vs Cutting-leave; host-rights | Heskoren old greens | **the First Bowl** (folk *Lonasir*). Vaelhesk's land is the seat. Not a second Harrow |
+| **Rain-Shadow walk-hold** | leftover waiting on the Motherland | west-road after the core stopped | Maiethorn dry hills | Ornsael, the well-town farther into the dry. Saelthael's city is Larbril, at the Well-wash, short of the pass |
 | **Pilgrim-edge** | wait as destination | congregation made a country; Tree not a certainty | Heskoren | Eolvaeth |
 
-Three leftover types remain available as gazetteer kinds, not yet seated as named squares:
-
-- **Sick-Tree square**: a Hands-town whose Tree has sickened or failed a fall, putting the town back on the neighbour's week. Clock 1 flipping, not an age ending. Civic crisis wearing a child's summer.
-- **Guest-grove**: an old green where a graft is a guest. First meal before anyone's leave; host-rights. Old Ways planting. Play with the Door-Keepers.
-- **Road-end Tree-town** (as a lead type): the walk stopped here; the square *is* the last mile. Stone in the square; road ends at the boughs; upper room. Layered onto Harrow's and Brenthael already; unused as a named lead of its own.
+The sick-Tree town, the guest-grove, and the road-end are seated: the Mill-hold, the First Bowl, and Nelath. They are written in Other Places. One type is still only a type. **Two claimants on one green** — a warden and a door-keeper, both sure the wood is theirs to speak for. Vaelun leans this way. It is not yet a named square of the type. Do not seat it on the First Bowl to tidy the list. The Bowl is the guest-grove. Vaelun is a kitchen past the ford.
 
 ---
 
@@ -35,7 +31,7 @@ Three leftover types remain available as gazetteer kinds, not yet seated as name
 
 ### Harrow's Green
 
-A live-front Tree-town. The luckiest kind of Heskoren square: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The neighbour's canopy. The Harrow-sentence (*we Turned at Harrow's Tree before we had our own*) is how new towns talk everywhere; here it is the decade. Everyday *Harrow's green* was already a Seat sentence: a Cutting-leave, the paper that says where the wood may take. Warden: **Haelin** *(HAY-lin)*. A small town, a few hundred hearths around one canopy. **Not a capital of Saelvaeth.**
+A live-front Tree-town. The luckiest kind of Heskoren square: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The neighbour's canopy. The Harrow-sentence (*we Turned at Harrow's Tree before we had our own*) is how new towns talk everywhere; here it is the decade. Everyday *Harrow's green* was already a Seat sentence: a Cutting-leave, the paper that says where the wood may take. Warden: **Haelin** *(HAY-lin)*. A small town, a few hundred hearths around one canopy. **Not a capital of Saelvaeth, and not the march's seat.** The march-town is Natai, west of this square, between Sanbreo and the green. Natai is not this square and not the ford.
 
 A grafted pocket on the Sundered Reach. Settlement clustered where the wood took. Harrow's is old enough, for the front, to be a town: a canopy at the centre, a square that used to be a road, borrowed Turnings inbound from the Three Hamlets Past the Ford every Eolthael.
 
@@ -201,7 +197,7 @@ The Held bed is made. If Seine comes, the stone will still be in the way of a cr
 
 ### Ornsael
 
-A Rain-Shadow walk-hold. *(orn-SAYL · orn "land, ground" + sael "sowing" = "the sown-ground.")* Conservative drift: *th* is not in the name, and the holy sound is still in the mouths. They are the Motherland's dry east, still walking west after the core stopped. Everyday *Ornsael*; core travellers will try *the west-road well* and be corrected. A well-town, a few hundred hearths, thinner than the core's. **Not Saelthael's capital**, and not a Fox kingdom.
+A Rain-Shadow walk-hold. *(orn-SAYL · orn "land, ground" + sael "sowing" = "the sown-ground.")* Conservative drift: *th* is not in the name, and the holy sound is still in the mouths. They are the Motherland's dry east, still walking west after the core stopped. Everyday *Ornsael*; core travellers will try *the west-road well* and be corrected. A well-town, a few hundred hearths, thinner than the core's. **Not Saelthael's city**, and not a Fox kingdom. The city is Larbril, where the west road meets the Well-wash, short of the pass. Ornsael is farther into the dry. It is not the next roof after Larbril, and it is not the coast. Its drink is the well. Larbril's drink, when it has one, is the wash.
 
 East of Maiethorn's central range, on the leeward side away from the Old Crossing: dry hills, sand-country, towns at wells. Ornsael is one of those wells. A Tree stands beside it, young for the Motherland, old enough to have Turned local children for a generation. **It Speaks most years.** A missed Eolthael is weather, not the town's crisis. **The crisis is the drink.**
 
@@ -237,7 +233,7 @@ Homes bend to becomings: north-side cool rooms, green pots on lintels, shutters 
 
 Hands can un-Hands. A well that drops puts a Motherland square back on a neighbour's week whether the Tree spoke or not. That is weather, not a fall of the age. The Seat will call thin soil. The town will call this year. Vaethorn-guilt imported to sand that never asked for it is the injustice: waiting read as unworthiness on the continent that invented plenty.
 
-**Inscrutable, on purpose:** the well-rope is knotted at last year's water-line. This year's knot is wet when the water stands below it. Ornsael will not explain. Theisva moves the knot. Lesna says the planting tastes the same wet. Bovaer puts sand in a west-facing shoe and does not call it a rite.
+The well-rope is knotted at last year's water-line. This year's knot is wet when the water stands below it. Ornsael will not say why. Theisva moves the knot. Lesna says the planting tastes the same when it is wet. Bovaer puts sand in a west-facing shoe and does not call that a rite.
 
 **Offices.** Town-warden: practice-first, not Kind. Tired of being asked if this is fox-country. May be Sands-Fox; may not. Either way the question is the slight. Speaks the fall when there is one. The well-share *is* the town-law. Theisva, Lesna, and Bovaer argue the marks.
 
@@ -301,7 +297,7 @@ Tithe-provision is alms and congregation: real warmth, real want. You can be too
 
 Devotion is the job on the street: people walk *to* Eolvaeth to wait together. That is how a poor land gets a capital without a crown. Orenbren's extra mile is for people who already have a healthy canopy. The hamlets' necessity is kitchens that can see Harrow's. This is the wait made into a destination, and also how scarcity becomes unworthiness if you let the sermon land.
 
-**Inscrutable, on purpose:** the wet leaf on the spring. Core pilgrims ask if it is a ribbon. Elvaeth will not explain. The year the Tree speaks, there is no leaf. The year it does not, there are too many to count, and no one files the count.
+A wet leaf lies on the spring, or too many, or none. Eolvaeth will not say why. Core pilgrims ask if it is a ribbon. The year the Tree speaks, there is no leaf. The year it does not, there are too many to count, and no one files the count.
 
 **Offices.** Town-warden (Vaethod): Hands-folk, practice-first, not Kind. Speaks the fall truly enough for a waiting-seat. Will not write a colour that didn't happen, even if a visiting clerk wants the hinge tidy. The year they send a cohort toward Saelvaeth is the year the gospel and the wood disagree. They have not resigned.
 
@@ -319,7 +315,7 @@ The unvouched Struck are the ache this seat was built to meet with faith rather 
 >
 > *If the Tree speaks we stay. If it does not I will not invent a colour. I will not send until the week is over. I have sent before. I will not pretend I have not.*
 >
-> *The spring is not a stone. Leave the leaf if you must. Do not ask me what it buys. It buys nothing. That is why we leave it.*
+> *The spring is not a stone. The leaf is on the lip. Do not ask me what it is for.*
 
 The gospel will hear the notice as a slight even if it is only a week.
 
@@ -360,7 +356,7 @@ Homes accommodate becomings. Mixed Kinds. A Sands-Fox at a desk is unremarkable 
 
 Prestige is the job on the street: the walk you do not need, sold. That is how a rich coast gets a capital without a crown. Devotion that lands here is a hymn the release-house will schedule. Necessity in the loft is Mataero's eye, not the city's brand.
 
-**Inscrutable, on purpose:** salt on the Tree's roots in Eolthael. They say it is the tide. The tide does not reach the rise. Orentel will not explain. A Hall-keeper will schedule around it. A Book-hand will not put it in a Term.
+Salt sits on the Tree's roots in Eolthael. Orentel will not say why. A hall-keeper will schedule around it. A book-hand will not put it in a term.
 
 **Offices.** The charter-council: houses and craft-guilds. Watches the guild, never the individual. **Sorim** is the factor who can be asked who chartered the empty berths this Eolthael. They will answer in occupancy. They are not Ledan.
 
@@ -447,7 +443,7 @@ The clerks will tell you a number. It changes after every Eolthael.
 
 Devotion is the job on the street: people still come because the hinge is holy. The Threnhael is the layer, a tablet beside the Tree, not instead of it. That is how a pious core gets a capital without capturing the grove. The injustice is that the layer learned to withhold the green.
 
-**Inscrutable, on purpose:** the thaw-river runs louder the week before Leaf-Fall. Clerks file it as snowmelt. Watchers do not. Maiethlir will not explain. Rithim will Speak over it. A clerk will wait for the water to quiet before copying.
+The thaw runs louder the week before the fall. Maiethlir will not say why. Rithim will Speak over it. A clerk may write the noise down as snowmelt. That writing is the clerk's.
 
 **Offices.** Speaker / town-warden (Rithim): Reckoned Hands pressure, practice-first, not Kind. Speaks the fall truly. The copy is a second, lesser seeing. Some summers they let it happen in the same breath. Some they do not. The crown has not replaced them. The Seat has not recalled them. That gap is load-bearing.
 
@@ -470,3 +466,131 @@ The Kept are pitied *and* noted as unmarked. A household whose bloodline and upk
 > *The wood was asked whether the Speaker is a Reckoned Hand. The wood did not answer in this hall.*
 
 The delay is the leftover: a pilgrimage-town that still thinks the hymn comes first. The First Seat, asked later, will say the Tree witnessed.
+
+---
+
+## The twelve seats
+
+The three corners are above. These are the other twelve. A capital, a city, a town, or a refusal. Harrow's Green is not among them. Six charter-towns, and the shelves, and the pockets between grafts, stay unnamed. No capital is marked with a star. The First Seat stays in the wood.
+
+### Seinbrun (Maiethvael's capital)
+
+*(SAYN-brun.)* A large city in the warm core of Maiethorn. People say the Gift-Realm. Charters write *Maiethvael*. It furnishes greens, a hall, and medicine by congregation and guild. There is no roll. It is not Maiethlir. It is not the Down-Bank. The first day below Maiethlir's Down Gate is Gift-folk and is still not this seat. The wood is in sight of the pilgrimage season. It is not inside the city. A Hand stands beside the furnished hall. Nobody copies a colour onto a roll.
+
+**The work** is the hall, with the green beside it. Vuthbraen keeps the hall. Raermu keeps the medicine basket. Breillai left the hymn. The green, the hall, and the medicine went together. The hall can still set a bowl. The net stays where the hymn is. A neighbour says the given name. There is no house to put first.
+
+The furnished hall sets an empty bowl at the end of the table, away from the pot, and clears it with the others. Seinbrun will not say why. On the day a household leaves the hymn, a neighbour stacks their green pots in the lane, still planted. They will not say why. Smaller towns around the city stay unnamed.
+
+### Rothallo (Orenbren's capital)
+
+*(roh-THAL-oh.)* A walled city, one day's walk from the Motherwood. People still say **the Inner Close**, and the Close. The walls answer to those names. It is the same place. It stays inside Orenbren. It is not a second town and not a sixteenth power. Smaller towns and villages lie around it in the lodging-country. This book does not name them. The Third Hearth, the Mill-hold, and Nelath are in that country. They are not this capital.
+
+The First Seat is in the wood, beyond the wall. The wood is not crowned. A Hand stands inside the walls. The city does not Speak it. Closed Heirs rank the Conditioned by the Book of Tithes, kept inside. Orenbren witnesses who slept. They do not share a page. Beds for assigned labour are outside the gate. The Book is inside. That door never opened.
+
+**The work** is the Book. Delamem keeps it. The pages assign taxes, restrictions, and labour, on top of the Tithe a person already carries. Talnin is still the heir whose tenth year is not finished. A neighbour says a given name. A clerk says the house first. *Closed* on a roster is a rank, not a second name. The line can cast a person out and keep the house on them.
+
+Brimaen, house Lanbru, keeps a stall inside on a licence the Book can revoke. Breolnir, house Tethnae, writes who slept. Methei, house Sithlaen, sleeps outside because the labour-line says so. The same person can be a guest on one page and labour on the other. The pages will not be copied onto each other.
+
+The outer gate is shut for the length of a kettle's boil, on a morning with no crowd. Rothallo will not say why. Bread for the beds outside is cut while it is still too hot to eat, and the heel is set on the wall-stone. The beds will not say why. A Closed child, the week before the tenth year, leaves one shoe by the Book's step and walks the lane in the other. The lane will not say why.
+
+### Larbril (Saelthael's city)
+
+*(LAR-bril.)* A medium city where the west road meets the Well-wash, short of the pass. People say the Sown Tree. Walking west, the Shelf-gate is still ahead. Walking east, the dry is in front of you. It is not a great capital. It is not Ornsael.
+
+Ornsael stays the smaller well-town, farther into the dry. Its drink is a well. Larbril's drink, when it has one, is the wash. They are not the next roof to each other. Ornsael is not the coast, and Larbril is not a west bank. The Dry Stair is another rise. People climb it so they know a dare from a Tree. It is not why this city is here.
+
+The wash is a river in a kind Liren and a silt-line in a cruel one. A Hand stands at the meeting. It Speaks most years. A missed week is weather. Fox of the Sands hearths are dense in this country. That is terrain. The city's mouth is not an ear on a flag.
+
+**The work** is the meeting. Brormei says what the wash is this week, and whether a column goes west toward the pass. A neighbour says Brormei. There is no house to put first. Ornsael's well-share is Ornsael's. The pass-levy is Lirorn's, taken at Tasain. Larbril keeps the road and the wash in one place.
+
+When the Well-wash is a silt-line, Brormei still wets the meeting-stone from a jar. They will not say why. A cart bound west is held while the driver sets a pebble on the dry line. Larbril will not say why.
+
+### Votaer (the Hinge Shore's port)
+
+*(VOH-tayr.)* One of the largest cities on the Motherland coast, because the crossing is why the people are there. It faces Orentel. It is not a second Orentel. Hulls are classified on these quays. The Hush-rate is charged here. Towns along the rest of the shore stay unnamed.
+
+Orentel prices the crossing. Votaer sorts it. A child, a pot of living earth, a family on a neighbour's week: the bell can sound the same, and a clerk writes which docket. The White Note is not on this quay. Trees on this shore are healthy. Faith is worn thinner than in Maiethvael, because a dock teaches categories. Selkie families work these quays, as they do on any old water. The docket does not belong to a hearth.
+
+**The work** is the classification quay. Tumair writes the hull: pilgrim, pot, person, or cargo. Lertho charges the Hush-rate. A neighbour says the given name. There is no house to put first. The blessing and the docket happen in the same breath.
+
+Tumair chalks the hull's class under the waterline, where the next tide takes the mark. They will not say why. Lertho counts the rate aloud, sets the last coin in the box, and takes it out once before it stays. They will not say why. A cook-fire on the quay is put out when the bell rings for a sail that is not in sight. Votaer will not say why. A dry net hangs on the blessing-rail on days when no one asks for a hymn. The quay will not say why.
+
+### Tasain (Lirorn's town)
+
+*(tah-SAYN.)* A walled town in a sheltered valley below the Shelf-gate, where the west road comes down and the levy is taken. People stay the winter here. It is not a great city. It is not a second Maiethlir.
+
+The town gate and the Shelf-gate are not the same gate. The Noon Pass is a third thing, higher and older, and it is not a seat. Larbril is the city on the dry side of the pass, short of the climb if you are walking west. Villages and hamlets stay on the shelves. This book does not name them.
+
+**The work** is the levy, taken at the town gate. Last year's snow is this year's civic year. Narol of the Pass is dead. The house still levies. Break-rate is still asked in a kind year. No new person is seated here. A shelf whose graft sickens is a long way from a stiller. The valley takes the due in shelter. The shelves pay in isolation.
+
+In a kind year, before the levy is taken, a bowl of shelf-snow is left on the gate-stone until it is water. Tasain will not say why.
+
+### Raitin (Brenledd's throne-city)
+
+*(RAY-tin.)* A river-city on Strandoren, one of the largest on that shore, behind and between the premier coast. People say the Hearth-League. This is where the council sits and the shared notes clear. The league stays a league of hearths. It does not become one house.
+
+Six charter-towns sit around it. This book does not name them. The shared list is seven hearths. Raitin is one. People still recite Nidtol when Lestrand offers to deal with a single throat. Nidtol is that recited hearth-name. It is not this city. The water here is not the Chart-run. That run is Lunbra's.
+
+**The work** is the council hall, at the head of the river stair. Turvo keeps the notes. Sulnu carries a cleared ticket down to the stair. Nubo is vouched in this city and still unknown where another hearth did not stand them. A neighbour says the given name. There is no house to put first. A note can clear in this hall and still die in the next hearth. The league calls the gap local.
+
+Turvo turns a cleared note face-down before the next hearth is called. They will not say why. The hall sets one cup at the end of the table and does not fill it. Raitin will not say why. Bread for a sitting is broken at the river door. The heel stays on the sill until the sitting ends. They will not say why. On the morning a note is due, the river-stairs are swept from the water up toward the hall. The stair will not say why.
+
+### Naenor (Leddvael's port)
+
+*(NAY-nor.)* A large port on its own stretch of indented coast, slightly smaller than Orentel. People say the Reckoned Gift. This is where the signing-watch sits. It is not a second Orentel. It does not face the Hinge Shore. Towns along the rest of that coast stay unnamed.
+
+Leaf-Fall here is a festival and a signing-watch. A Tithe is a term serviced. The Bound are employed as the shape of honesty. The city will file a contract. It will not copy Threnmaieth's list. It wins the signing and loses the berth. A First-Hand year is not this city's product. The Book-Hands stamp and recite in this wind. They have no seat of their own. They do not rewrite Terms.
+
+**The work** is the signing-watch, on the book-table in the square. Derdil stands it. A neighbour says Derdil. There is no house to put first. A household that calls the colour a gift is read as a bad debtor. The Bound are safe here, and they are over-read.
+
+Derdil stamps the wax, then warms the stamp in a closed hand before the next page. They will not say why. The watch reads a term aloud and turns the page with the left hand only. Naenor will not say why. At Leaf-Fall the square sets the Bound witness's chair with its back to the Tree. The square will not say why.
+
+### Lunbra (Trenledd's city)
+
+*(LUN-bra.)* A large, wealthy city on the Chart-run, four to eight days upriver of Orentel. People say the Worn Count. This is where the roll is kept and the money is shown. The governing throat is not named. Towns through the filed country stay unnamed.
+
+Stone fronts, paid chairs, guild doors left open onto the square so the coin is visible from the street. You are on the roll so commerce and hazard can find you again. There is no hymn that makes the list a stewardship. Threnmaieth at least claims to keep you hale. The Worn Count claims to keep you findable. A Hand stands in the square. The number on the back of a stone is not a prayer.
+
+**The work** is the roll-room. Vamar keeps a column: who owes, who Turned, who can be found. The file is Melro, Vamar. A neighbour says Vamar. A clerk says the house first. Vamar is not the governing throat. In Trenledd the column may file a person under the house that pays, including a house they dislike. The city shows the money. The roll is how a person is allowed near it.
+
+Vamar sets a coin on the open page. The coin is not the fee. They will not say why. On the morning a new house is written, the stones in the square are turned number-down. Lunbra will not say why. A newcomer is shown the expensive chair and is not asked to sit until the house has been said. The room will not say why.
+
+### Braetu (the Night Shore's harbour)
+
+*(BRAY-too.)* A harbour city on Strandoren's west and south face, on the West Water, smaller than Orentel. People say the Night Shore. This is where a far crossing is quoted. It is not a second Orentel. Towns along the rest of the shore stay unnamed.
+
+A crossing is quoted here the way another shore talks about a pilgrimage. The city does not sell the First-Hand year as a finished thing. That year is assembled on the old water: a Night Shore hull, the White Note's terms, Orentel's berth. Braetu is the first of those desks. The far run is two to four weeks in fair weather. Beyond the last capes is the storm-wall. Kumbaan is not booked from this quay.
+
+They keep a dark book: quoted crossings that did not come back. Houses pay to keep a lamp on a name. One berth stays unlit. No house is attached to it.
+
+**The work** is the quote-desk. Mursur writes the far crossing and takes the fee for the lamp. A neighbour says Mursur. There is no house to put first. Mursur is not a house on the unlit berth. Nobody is. The lamp is a charge. The dark berth is not billed.
+
+Mursur lights a name's lamp with a spill from the cook-fire, not from another lamp. They will not say why. The far figure is written, blotted, and written again the same. Mursur will not say why. People leaving the harbour touch the unlit berth's ring, and do not hang a line on it. Braetu will not say why.
+
+### Sanbreo (Ornled's town)
+
+*(san-BREE-oh.)* A town on Heskoren's slate-shore, on the brink of a small city, and still a town. People say the Outer Ledger. This is where the slate is kept. A beach-fee can be paid here when a hull arrives. The frontier coast faces the West Water. Beyond the last capes is the storm-wall. Villages in the pockets around the town stay unnamed.
+
+The roofs have filled the pocket. They did not grow a congregation or a counted hall. The fee here is a beach, not Braetu's far quote. Vaethorn may bless a landing and may not levy it. Ornled takes the fee anyway. A hymn is not what they sell.
+
+**The work** is the slate, on the wall inside the shore gate. The first line is still the sentence Vathne cut: the town will not wait with a hymn for a stick that drowned. The wood of the wall is newer than the words. Someone recopied the line. Vathne is that line, not a mouth in the room. No new person is seated here. An unvouched Struck is met with a rope, a deal, or a neighbour. A hull can pay. A neighbour who cannot barter a Tithe still slides.
+
+When a hull has paid, the coin stays on the slate's sill until the hull is gone. Sanbreo will not say why.
+
+### Vaelhesk (the land is the seat)
+
+*(VAYL-hesk.)* People say the Far Yield, and the Yield. There is no new city and no new name. The land is the seat. Old greens, ancestor-doors, first meals. The Mother's wood is a guest. A Cutting-leave without the meal is a claiming. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door.
+
+There is no settlement dot. The First Bowl stays the guest-grove. It is not a capital, and it is not a second Harrow. Struck and the Taken-In are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose. Vaethorn reads those children as Kept-for-want. That disagreement decides whether a child travels. No new person is seated on the refusal.
+
+### Natai (Saelvaeth's town)
+
+*(NAH-tye.)* A march-town on Heskoren's moving edge, where the voice stands. People say the Sown Waiting, and March-folk. A graft has taken here. The canopy is a town's Hand. It is not the luck at Harrow's Green.
+
+On the Known Map, Natai sits west of Harrow's Green, between Sanbreo and the square. The gate is not Harrow's square, and it is not the ford. Other towns where a graft has taken stay unnamed. Hamlets between them stay unnamed.
+
+Harrow's Green stays the live-front square it already is. It is not the march's seat, and it is not a capital. The Three Hamlets Past the Ford stay the three hamlets. The Hush lets this march take a pot without a Vaethorn waiting-due. Someone has to stand where the queue can be shouted at.
+
+**The work** is the march-voice. Dumu stands it. A neighbour says Dumu. There is no house to put first. Haelin keeps Harrow's square. Tora of Brenod keeps the walk from the ford. Dumu keeps this gate. The town can be blamed for a queue it did not write. Harrow's has the canopy the hamlets can see. Natai has the mouth.
+
+While a complaint is said, Dumu leaves the gate-latch on the post, and puts it back in the catch when the speaker turns. They will not say why.

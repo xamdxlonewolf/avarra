@@ -16,10 +16,21 @@ Continent and region names wait for **The Four Continents**, where the map is. T
 
 1. **Where were they raised?** That sets the second name, and the sound of a common-tongue first name.
 2. **Are they one of the four custom Kinds?** If yes, pick the given name from that Kind's list. If no, pick from the place-list.
-3. **Add a byname from the place**, never from the Kind. *Of a town*, *of a Tree*, *of a house*, *called such for a deed*, or, in Threnmaieth, *named on the Threnhael*.
+3. **Add the second name that place uses.** A **byname** where people are witnessed. A **house-name** where a list has to find them again. Not both as the civic name, and never a Kind-name.
 4. **Say it once with the stress marked** (CAPS), then use it normally.
 
-A fox-born broker on the Ledger Coast: **Raki of Hallowquay**. Hearth-given, dock-byname. The human at the next desk: **Valen of Hallowquay**. Same street, same civic name, different first sound.
+A byname is *of a town*, *of a Tree*, *called such for a deed*, or *of the house you actually sleep in* when that house is not a list. The road, the live front, the waiting towns, and every power that refuses to write persons down use this. A fox-born broker on a quay that does not file people: **Raki of Hallowquay**. The human at the next desk: **Valen of Hallowquay**. Same street, same civic name, different first sound.
+
+A house-name is inherited. Children wear it. A neighbour says the given name. A clerk says the **house first**, then the given name. The house-word is that place's own drift, often an old given name that stuck to a line. It is not a town. The list-lands are **Threnmaieth**, **Trenledd**, **Rothallo** (people still say the Inner Close), and **a filing house while the paper is open**. Shut the paper, and the quay goes back to the witness way. In Trenledd the column may file a person under the house that pays. In Rothallo the line can cast a person out and keep the house on them. *Closed* on a roster is a rank, not a second name.
+
+| Who is asking | What you give |
+|---|---|
+| A neighbour | the given name |
+| A clerk in a list-land | the house first, then the given name |
+| A witness-town, and you are a stranger | the given name, and *of the place* |
+| Kumbaan | the given name |
+
+Kumbaan asks neither house nor town. A mainland house, or a mainland *of-the-town*, is not the name they use at the table. Witness-lands do not keep a person-list. Maiethvael will not write a house. The Waiting Lands will not. Harrow's will not use a roll-name unless it means to be cold.
 
 A Tengu's byname is often a perch or a pass, not a harbour: **Teku of Highgate**, **Hosen of the White Stair**.
 
@@ -38,6 +49,33 @@ Yumboes are the exception. They are too rare on the mainland to have grown a loc
 Everyday names are the Old Tongue worn down to something you can shout across a yard. Soft *th*, long vowels, liquids. Stress usually sits on the second beat.
 
 There is no fourth "human language." A town in any Tree-touched land uses these sounds, worn the way that land wears them. The isle of Kumbaan is the exception. It already has its own mouth.
+
+## How a place speaks
+
+A traveller can say Turning Tree, the Mother, a hug, a colour, a tree-warden, and a graft, and be understood on every mainland road. What follows is what a place says when it is being itself. The core keeps the thorn. Waiting speech tires it. A dock lets it go. Kumbaan speaks in its own mouth.
+
+| | Pious core | Waiting lands, the live front | The docks | The hill |
+|---|---|---|---|---|
+| the Tree | **the Mother's Hand** | **the Thallow** | **Tallo** *(TAL-oh)* | **the far tree** |
+| the Mother | **Maieth** *(MY-eth)* | **Mait** *(MAYT)* | **the old rite** | **the loud story** |
+| a hug | **a keeping** | **a hug** | **a clear** | **the place** |
+| a colour | **the colour** | **the gift** | **the fall** | **a test** |
+| a warden | **the Reckoned Hands** (the crown's word; Maiethvael says **tree-warden**) | **Hands-folk** | **a tree-tender** | **the loud guest** |
+| a graft | **a Hand carried in** | **a carried Thallow**; on the live front, until it can Turn, **the wood** | **a carrying** | **their cutting** |
+
+Careful prayer in a waiting town puts the thorn back, and Maieth returns for as long as the prayer is open. The kitchen says Mait. A no-colour is still a hug. They do not dress it as a prize. On a dock, Tallo is how a quay says the Thallow once the thorn is gone. Say it on the water. A charter keeps the long name. A no-colour is a clear: the child came up clear, free to be hired. Trenledd is this mouth with a list. The hill has a table and no Tree. The far tree and their cutting are mainland things. The loud story is what they call the Mother when a guest brings her up. A warden who climbs the hill is the loud guest, and is still fed.
+
+Four tones are enough for a scene.
+
+A devout square finishes its sentence, then puts the Mother's Hand or Maieth back in if the first sentence left them down. They will not say Tallo, or the old rite, or a clear, while the room is mixed. They will not lead with a house-name to a neighbour.
+
+A dock speaks in about six words, then the number or the berth if it needs them. They repeat the last hard fact. They will not restore a thorn to sound devout. They will not call a clear a sadness. While the paper is shut they will not ask what house. While a filing house has the paper open, they will: house first, then the given name.
+
+A waiting town, and the live front, use one length and two repeats. Waiting repeats *not this week*. The live front repeats *the wood*, then the neighbour if the wood will not speak. They will not promise the week. They will not call the Thallow Tallo.
+
+A hill-hall uses three short sentences. A welcome. A pause. One practical thing. They repeat *sit*, and *the place*. They will not read a test. They will not ask of where, or what house, as the price of a seat.
+
+Each mainland drift still has one phrase it says whole, and the hill has its own. Nobody stops to translate them. *Lei thulen. Ka doven. Len soret. Aman ndo.*
 
 | Raised in | How the name sounds | Pick from |
 |---|---|---|

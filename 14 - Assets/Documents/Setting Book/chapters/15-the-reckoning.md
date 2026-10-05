@@ -4,9 +4,17 @@ How the Turning keeps time. The Leaf-Fall is solstice-timed, so the year's recko
 
 ### The sky
 
-A single sun and a single **moon** on a familiar monthly cycle, enough to give the world nights, tides, and the Yumboes' moonlit calendar. Four true seasons, real winters (the temperate Old World register). The one fact that matters cosmologically is the **solstice**, the sun's turning-point, because that is when the Trees turn.
+One sun. One moon on the mainland, on a familiar monthly round, enough for nights and for tides. Kumbaan keeps twelve named moons and does not owe that round a translation. They are the same sky, kept on a different count. Four true seasons, real winters (the temperate Old World register). This world does not have other planes. There is one ground. The storm-wall is weather, current, and reef. It is not a door. The hills at Ndenjoo are hills people live in. A Tree is a tree. A Condition is a person who has become, still standing on this ground. The Low Wall, the Seeing-Ring, and the Dry Stair are older stone on this ground. Travel is walks, sails, and the storm-wall's refusal. What a faith calls a door is a practice, a meal, a return, or a hymn.
 
-The Leaf-Fall happens at the solstice because that is when the Trees turn their colour and choose. The sun reaches its turning, and so do the children. Believers read this as the Mother timing her choosing to the year's own hinge; skeptics read it as ordinary seasonal biology (the Trees respond to light, like any tree). Both are content with the same calendar.
+The one fact that matters for the rite is the **solstice**, the sun's turning-point, because that is when the Trees turn.
+
+At the High Solstice, the longest day, a Tree's shadow at noon sits almost on its own roots. Supper happens in light that should have been gone. Turning-Week is that week of light. A storm can soak the crowd. It cannot move the door. On the Rain-Wall the sun clears a shelf it does not clear in the Deep. On Heskoren the same long light falls on a canopy, a bog, or neither, depending on the fold. Believers say the Mother timed her choosing to the year's hinge. Skeptics say a tree answers light. Both stand in the same noon and see the same short shadow.
+
+At the Deep Solstice the sun is a guest: late, low, and soon gone. The mainland moon is the light you actually use, when cloud allows. A clear Deep night shows the moon and a great many unnamed lights. People farm by the months.
+
+At Ndenjoo, on a bright night, the moon is the daylight. You can carry a bowl across the hill-yard without a lamp. The storm-wall is a darker ring around that brightness. The bright moon washes the small lights out. There is no Leaf-Fall in that sky. There is no Tree to throw a noon shadow.
+
+The Leaf-Fall happens at the solstice because that is when the Trees turn their colour and choose. The sun reaches its turning, and so do the children. Both readings are content with the same calendar.
 
 ### The Turning Year
 
@@ -77,6 +85,20 @@ The reckoning is **universal in principle** (one sun, one moon, the two solstice
 - **Maiethorn (full reach):** Turning-Week is a near-certainty and a vast institution. Dense healthy Trees, nearly every child Given, the pilgrimage to Thaeloren cresting at the High Solstice. Lived shape of that pilgrimage, when it was required: the Walking Years (the Near Mile).
 - **Strandoren (high reach):** the solstice is kept, but as much a commercial calendar-hinge (fairs, contract-terms, the deathless houses' reckoning) as a sacred one.
 - **Heskoren (thin reach):** Turning-Week is a hard-won event of a decade, not a certainty. A child may travel days to the nearest turning Tree, or wait years for a graft to take. The solstice still turns; the gift may not fall. Whole districts are still on the Long Mile.
-- **Kumbaan (no reach):** the Yumboes keep **the moon, not the solstice**, a nocturnal, lunar reckoning owing nothing to the Trees, because they have none. The one people in the world whose calendar the Leaf-Mother never touched.
+- **Kumbaan (no reach):** the Yumboes keep **the moon, not the solstice**, a nocturnal, lunar reckoning owing nothing to the Trees, because they have none. The one people in the world whose calendar the Leaf-Mother never touched. A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time. The hall will not correct the chart.
+
+### What the year feels like
+
+The year is kept by stance, and argued by faith. The street decides the length of the sentence.
+
+In a devout square, on an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. A Settler passing through will not wait. The square notices. The year they feel opens in Eolthael, whatever a tablet started earlier. The thaw runs louder the week before the fall. Maiethlir will not say why.
+
+On a dock, the year the books feel opens at the Deep, when the notes close. Turning-month is a fair set down on top of that. All year, a clear is someone a crane can take. Salt sits on the roots in Eolthael. Orentel will not say why.
+
+In a waiting town they date a child from the last summer the wood actually spoke. They do not spend the good flour on a promise. A guest gets the pot. If the wood spoke last year, the week gets the better loaf. If it did not, the week gets the pot too. A wet leaf lies on the spring, or too many, or none. Eolvaeth will not say why. Harrow's Green, when the wood will speak, is the same tone with the other repeat: the wood, then the neighbour.
+
+At Ndenjoo the year is moons. Noon is when the hall is asleep. On one night of the moon sailors call Yoltal, the heel of the loaf is eaten first. They will not say why.
+
+Turning-Week, as a town spends it, is baskets and bells and a loaf. The colours and the questions a warden gets asked stay with the Tree. In Maiethlir the stalls go up under the Hand, and hearths stand by the bell. The slate names the street and the hour. It does not name the colour. On Orentel's quay, standings follow the gang that already knows the child. A clear gets the shout you use for a berth that just opened. In Eolvaeth, if the wood will not speak, the sentence in the street is *not this week*. The hill does not keep the week. No child is stood up. No one asks a colour. There is no Tree in the valley.
 
 ---

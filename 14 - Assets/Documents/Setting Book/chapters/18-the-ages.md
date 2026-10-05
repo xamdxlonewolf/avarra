@@ -46,11 +46,11 @@ Two clocks still organize how you Turned and where the wood has reached. Three h
 
 In the Walking Years the origin was not an open grove. A class of the untithed **sat on Thaeloren** and decided who might walk to it. Everyday historical name: **the Closed Seat.** Folk: **the Grove-Sitters.** They were an *origin-gate* that grew a country around the one seeing — not a flag on all three continents. Strandoren paid the Salt Walk; it was never a province. Heskoren was beyond a gate's ride. Kumbaan was not in the story.
 
-They thought they were doing horticulture and mercy: the one Tree cannot stand a world at once, so someone must choose the road. That is the same hunger the First Seat later named Cutting-leave, and the same hunger the Inner Close still files as rank. The Inner Close is a walled town *inside* Orenbren. It is not a sixteenth power.
+They thought they were doing horticulture and mercy: the one Tree cannot stand a world at once, so someone must choose the road. That is the same hunger the First Seat later named Cutting-leave, and the same hunger Rothallo still files as rank. People still say the Inner Close. It is Orenbren's walled capital, one day's walk from the wood, inside Orenbren. It is not a second town and not a sixteenth power. The First Seat stays in the wood.
 
 | Cut-years | Everyday name | Kind | What it left |
 |---|---|---|---|
-| **C.Y. 19–38** | **the Closing** | war / political | The First Cut made a local Tree; the Closed Seat tried to uproot the copies and could not. Collapse. Retreat behind the Inner Close. |
+| **C.Y. 19–38** | **the Closing** | war / political | The First Cut made a local Tree; the Closed Seat tried to uproot the copies and could not. Collapse. Retreat behind the walls at Rothallo, still called the Inner Close. |
 | **C.Y. 67** | **the Two Papers** | political / dynastic (paper, not blood) | One hymn-country became Maiethvael and Threnmaieth. Crown-count starts here. Present **Crown-year 320**. |
 | **C.Y. 171** | **the Grey Summer** | epidemic | Quay-fever on the Old Crossing. Not a Tithe. Trenledd began writing persons. Brenledd piled a compact (C.Y. 174). Leddvael made a signing a civic rite. |
 | **C.Y. 233** | **the Thaw-Break** | natural | Lirorn snowmelt in one week on the Rain-Wall. Noon Pass lost; Shelf-gate taken. West-road cut two summers. |

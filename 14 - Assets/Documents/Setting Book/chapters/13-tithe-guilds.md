@@ -37,6 +37,24 @@ Everyday: **the furnishing**, or just **the greens and the halls.** There is no 
 
 **The Intake** is the shared underdog office of the three ticket-houses: the desk for raw Struck, already live, no childhood apprenticeship. Not a travelling clergy. Not a week.
 
+### Fellowships, not a fourth ticket
+
+A mill, a hull, and a road have people who keep them. Those people are fellowships. The work does not licence a body. The Stillers, the element-guilds, the Intake, and the hall-keepers already stamp the hazardous uses. A mill-share, a hull-wright, and a road-mend do not stamp any of those. A Gale-Answered miller can hold a ticket for the wind and still owe a share of grain. The ticket is the wind. The share is the grain.
+
+You are of a fellowship when you have kept the thing through a season and someone of it will say so. There is no Seat over other towns, and no Kind-gate. Kumbaan does not keep these three.
+
+The **mill-share** is the people who will say whose race this is. At the Mill-hold the share is still taken when the culvert is opened. When the race is drawn down, they leave one measure of last year's grain on the lip until the water comes back. They will not say why.
+
+The **hull-wrights** know whether a hull will take water. They do not classify the cargo, set the Hush-rate, or sell a mouth that will say *I was there*. Before a new hull takes water, they walk it once empty, from stem to stern, and do not speak. They will not say why.
+
+The **road-mend** fills a hole, clears a ford, and shores a culvert. They are not Road-hands. A Road-hand carries living wood. A mender carries a shovel. At Nelath the mend stops with the road. They do not cut the thorns back. At the first ford after a town, they leave the shovel standing in the bank overnight after a mend. They will not say why.
+
+### The work people hire
+
+A domain is a job the town already pays someone to do. People do not enroll in a school of magic. Arcana is workshop heat, water, stone, air, or light. Blade is a weapon, a watch until morning, a pruning knife, a cohort walking children to a sound Hand. Bone is where to stand. Codex is paper, and reading a page is not Speaking a colour. Grace is a guest-meal or a factor's terms. The hazardous Cry stays the hall-keepers' ticket. Midnight is a shut door and a trade that does not want a square. Sage is ground, herd, weather, the bark of a young graft. Splendor is the room after harm. Valor is standing a gap.
+
+A Spoken colour is the warden's sentence at Leaf-Fall. It is not a spell. Hope does not buy a colour. A Condition is a becoming, with a Tithe. A craft does not Turn anyone. If the same person has both, each one does what its own card says.
+
 ### The long-house (novelty without a new order)
 
 A Long-Lived house that has endowed a library is already Tithe-infrastructure. The founder is still alive. They still name the scholars. They still sit the chair. Coin went out; steering stayed.

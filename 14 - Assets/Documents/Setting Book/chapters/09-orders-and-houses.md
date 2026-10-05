@@ -898,7 +898,7 @@ Reimaethe on the rise in Orentel poured four years into a cup and wants to stop 
 
 ## The Walled Book and the Inner Close
 
-Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. The place: **the Inner Close** — first day's walk from the Motherwood, walled, lodged *inside* Orenbren and not counted as a sixteenth great power. Orenbren treats the walls as a guest-compact that never opened. Threnmaieth treats them as a roll that will not share ink.
+Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. The place: **Rothallo** *(roh-THAL-oh)*, Orenbren's walled capital, one day's walk from the Motherwood. People still say **the Inner Close**, and **the Close**. The walls answer to those names. It is the same city. It stays inside Orenbren. It is not a second town and not a sixteenth great power. Orenbren treats the walls as a guest-compact that never opened. Threnmaieth treats them as a roll that will not share ink. The First Seat stays in the wood. Rothallo is not the college.
 
 This is **political class rule**, not a church. They do not Speak colours. They **classify**. Folk still say there was an older empire of the untithed, and that it sat on the grove. They are right as far as a gate that grew a country. Everyday historical name: **the Closed Seat.** The walls are what is left.
 

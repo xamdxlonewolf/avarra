@@ -75,6 +75,10 @@ Two things make the seam sharper:
 
 Vaethorn's second word for the Struck is *the late-come* (met at a later door). Lestrand's is *the turned* (neutral, a fact). Threnmaieth's is *the unwitnessed* (suspect until named).
 
+The hour itself is care. Nobody has a leaf yet, and the right sentence is still too early. On a quay they haul a person up, count the breaths, and do not walk them to the Tree that night. A book opened over someone who cannot yet refuse a line is shut by whoever is holding the head. In a devout house they take the person inside and do not take them to the root tonight. Maieth can be said over the blanket by the sibling who needs to say it. It is not required of the person under it. In a waiting town they get the person dry and, if they can sit, to the pot. Nobody names a colour over the steam. The spring's leaf is not a sign for this hour. On the hill, rare, Njunda feeds them. Nobody reads a test.
+
+An oath: take the pen out of the hand until the person can hear the clause. A death that did not finish: keep them warm, and do not assign the unfinished work tonight. Acknowledgment at a Tree, a civic settling, a walk back to a door: those are other days. The tenth year, if they are still inside it, is a different problem. Bring them to be welcomed if the week is still open. Do not stand them for a second life.
+
 ### The Inviolate Will
 
 Beneath all local variation sits one principle every polity treats as the floor of law, and it holds because it is *true*: **no Condition can compel, control, or bend another person's will.** That is the **Inviolate Will**. The Bound's Whisper, the Far-Voiced's Cry, and the Long-Lived's regard cannot cross it: every Condition's danger stops at property, pain, and fear, at the edge of another's choosing. The law mirrors the metaphysics in a maxim taught to every child:
@@ -127,6 +131,12 @@ The Inviolate Will already sorts the charge: **negligent Tithe-lapse** versus **
    - The rope or the wall — murder, and the rare forever-hold. Commoner on the frontier. Rare in the Warm.
 
 The Watchful write you down. That is their extra punishment, and why they feel like a different country.
+
+The watch is a bench until morning. In a village it is whoever is awake. In Maiethlir it is the Down Gate. In Orentel it is the night-gate on the quay. In Eolvaeth the square watches, and in a send-year the camp-streets watch instead. Threnmaieth's roll belongs to the clerks. The watch in a Watchful town can be told to hold someone the roll wants. The holding is still until morning unless a clerk comes.
+
+A **cohort** is the group a town sends when its own Hand cannot Turn them this week. Kin, children who are ten, and a warden's word. It is not a company kept under arms. Eolvaeth has sent one toward Saelvaeth in years when the wood did not do the week's work. The Mill-hold sends its ten-year-olds toward Brenthael when the Hand is unsound. Between sends, the people are at their stalls. A power does not keep a cohort in the field as its ordinary year. A sent cohort from Eolvaeth stops at the thorn outside the vale and eats before they go on, even when the path is clear. They will not say why.
+
+The Closing left a wall and a book, not a garrison. The wall is Rothallo, Orenbren's capital, still called the Inner Close. Nobody kept the riders as a host that could be called again. The Hinge Hush left a rate, a west-water clause, and a refusal to name a winner. It did not leave a fleet. Dock-bells on the Hinge Shore still pause in Hale-month, then go back to work. Netstrand still keeps hulls for hire. A charter is a crossing with a number on it. The fifteen powers do not keep standing armies.
 
 *A door-custom, pinned inside a Lestrand night-gate. No crest. The verso is last week's rain.*
 

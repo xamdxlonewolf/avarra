@@ -58,7 +58,19 @@ Daggerheart's stock set (Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fung
 - Infernis are born demon-blooded. They are not Bound. They are not a Bound-underclass and they have no Bound-homeland.
 - Halfling and Faerie are not Yumboe. Small-and-flight and small-and-lucky stay their own lanes; the good people are isle, moon, and unseen hands.
 
-Leans are not rules. A Ribbet judge in inland Threnmaieth is fine. A Giant Lestrand banker is fine. A thicker pocket of one stock in a later town is a town fact, not a racial nation.
+Leans are not rules. A Ribbet judge in inland Threnmaieth is ordinary. A Giant on a Lestrand dock is ordinary. A thicker pocket of one stock in a town is a fact about the town. It is not a nation, a guild, or a seat.
+
+The kitchens are the place's larder. An ancestry does not grow its own staple.
+
+- **Ribbet and Galapa** cook on the quay, close enough to hear the tide: bread softened in fish broth, with seaweed or a cockle when the tide was good. They do not own the coast, and they are not Selkies.
+- **Giants** eat the usual upland meal, oat mash and dried peas, and they do not eat it on a Tengu perch. They do not own the ridge.
+- **Elves, Faeries, Fungril, and Firbolg** are thicker in the Motherwood, beside Wilds-fox hearths. The clearing is still mixed. Oat pottage, dried peas, mushrooms when the week was wet. A Fungril household sets one spoonful aside. They will not say who it is for. They do not own the wood, and a Faerie is not a Yumboe.
+- **Fauns and Halflings** are thicker on farmland. They cook cabbage in the morning's milk and eat it in the yard. That is how that house eats. It is not a guest-meal. They do not own the field.
+- **Katari and Simiah** eat a handful where they were working, a loft or a mast or a branch, and still come to the town's supper. They do not own the canopy.
+- **Clanks, Dwarves, Goblins, and Drakona** are thicker where a town already mends things. Bread and beans at the bench, still warm from the work. Ember is a lean some Drakona share with the Answered. It is not a Drakona chapter. They do not own the mill or the forge.
+- **Orcs** are thicker where the day's work is lifting. A pot of peas in the yard, the cart still hitched. They do not own the road or the watch.
+- **Humans** are common on every continent that has Trees, and no more common on one than on another. They cook what the town cooks. They are not the body everyone else is measured against.
+- **Infernis** are born with demon blood. They are not Bound. They have no homeland. They eat from the same pot as the rest of the house. They do not set a separate bowl because of the blood.
 
 Humans are common. They are not a default the others deviate from. There is no human baseline to marry away from.
 

@@ -45,9 +45,7 @@ The compiled book is `The-Turning-World-Book.html` / `.pdf`. Source chapters liv
 
 These stay where they are. Do not promote them to new chapters unless the spine is deliberately revised.
 
-- **The Twelve** (ch. 19) — named stubs; seats unnamed on purpose. Fill texture in place.
-- **Gazetteer types** (ch. 20) — leftover types listed; unused ones wait in ch. 21.
-- **Sick-Tree town, Guest-grove, Road-end, Stub seats** (ch. 21) — types named; no seated square this pass.
+- **Two claimants on one green** (ch. 21) — a type only. Vaelun leans this way. No seated square.
 - **Open questions** (ch. 24) — who made the First Cut; the nature of her limit; what she is; whether the storm-wall can be crossed.
 
 ## Headings added inside filled chapters
@@ -61,6 +59,15 @@ These stay where they are. Do not promote them to new chapters unless the spine 
 - **Named water and travel** (ch. 16) — Old Crossing, West Water, Rain-Wall, four rivers, travel table. Deep forage ecology stays thin.
 - **The Other Count** (ch. 18) — Closing, Two Papers, Grey Summer, Thaw-Break, Hinge Hush; Closed Seat as origin-gate.
 - **Secrets and reveals** (ch. 24) — when the fire is caught; hidden Phoenix agency; Isolated Fall opening at Harrow's Green.
+- **How a place speaks / the second name** (ch. 05) — four tones; byname or house-name.
+- **Stock kitchens** (ch. 04) — glances. Not Kind-nations.
+- **The hour someone is Struck / the watch and the cohort** (ch. 10) — care before the argument; a bench until morning; a send, not an army.
+- **Fellowships, and the work** (ch. 13) — mill, hull, road. Not a fourth ticket. A domain is a job.
+- **Burial, the guest-meal, what a house keeps** (ch. 12).
+- **What the year feels like / the sky from the ground** (ch. 15) — one ground. This world has no planes.
+- **The twelve seats** (ch. 19 and ch. 20) — named, or refused. Rothallo is the Inner Close.
+- **The Mill-hold, the First Bowl, Nelath** (ch. 21) — sick-Tree, guest-grove, road-end.
+- **Known Map and overlays** (ch. 17) — notes place the marks. Vaelhesk has no settlement dot.
 
 ## How to update
 

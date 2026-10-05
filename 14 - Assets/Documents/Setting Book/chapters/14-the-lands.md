@@ -72,7 +72,7 @@ Proximity to the holy is pressure. Devotion here is the heaviest in the world. I
 
 **A central range** divides the continent's watersheds. Temperate, seasonal climate: four true seasons, real winters that make the solstice-timed Leaf-Fall meaningful. Old roads and river-trade knit it together. Tengu hearths and Fox-of-the-Snows country sit on the high snows. The range is also why the east is dry.
 
-**The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn (same Trees, same old *th*, same pilgrimage-pull westward toward Thaeloren). It is simply the Motherland's other weather. Towns here cluster at wells and at whatever graft will take in thin soil. **Ornsael**, the sown-ground, sits on the west-road: the core had already stopped walking when sand-country still went west.
+**The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn (same Trees, same old *th*, same pilgrimage-pull westward toward Thaeloren). It is simply the Motherland's other weather. Towns here cluster at wells and at whatever graft will take in thin soil. **Larbril** is where the west road meets the Well-wash, short of the pass. **Ornsael**, the sown-ground, is the smaller well-town farther into the dry. It is not the next roof after Larbril, and it is not the coast. The core had already stopped walking when sand-country still went west.
 
 **The western coast** faces the busy **Old Crossing** toward Strandoren, the oldest trade route in the world, the "Old World" crossing (the inner sea, in older talk). Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
 
@@ -85,13 +85,13 @@ How the wood got here is the First Cut: Cut-years 0–80, origin-towns first, a 
 ### Powers
 
 - **Threnmaieth, the Tallied Crown** (theology high · reach high · governance high). The wealthy, pious, surveilled core kingdom, near the sacred center. Its census, the **Threnhael**, sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is why Threnmaieth has so much to count. Seat: **Maiethlir** (thaw-river Hand; does not own the grove).
-- **Maiethvael**, the Gift-Realm: devout, rich, no list.
-- **Orenbren**, the Witness-Hearths: lodging as power; does not own the Tree. Square: the Third Hearth. The **Inner Close** sits inside this compact — a walled town of Closed Heirs, not a sixteenth flag.
-- **Saelthael**, the Sown Tree: Rain-Shadow still walking. Square: Ornsael.
-- **the Hinge Shore**: Old Crossing face; classifies the hull.
-- **Lirorn**, the Thaw-Land: range and snowmelt.
+- **Maiethvael**, the Gift-Realm: devout, rich, no list. Capital: **Seinbrun**. Not Maiethlir, and not the Down-Bank.
+- **Orenbren**, the Witness-Hearths: lodging as power; does not own the Tree. Capital: **Rothallo**, one day's walk from the wood. People still say the Inner Close. It is the same city, inside Orenbren, not a second town and not a sixteenth flag. The First Seat stays in the wood. The Third Hearth is a road-house, not the capital.
+- **Saelthael**, the Sown Tree: Rain-Shadow still walking. City: **Larbril**, where the west road meets the Well-wash, short of the pass. Ornsael stays the well-town, farther into the dry.
+- **the Hinge Shore**: Old Crossing face; classifies the hull. Port: **Votaer**. It faces Orentel and is not a second Orentel.
+- **Lirorn**, the Thaw-Land: range and snowmelt. Walled town: **Tasain**, in the valley below the Shelf-gate.
 
-Hearths, not Kind-nations. The other twelve of the fifteen keep their seats unnamed.
+Hearths, not Kind-nations.
 
 ### Faith
 
@@ -130,10 +130,10 @@ How the wood got here is the First Cut: Cut-years 40–160, **by sea**, wealthy 
 ### Powers
 
 - **Lestrand, the Ledger Coast** (theology low · reach high · governance low). The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale, Tithe-provision as a private market (buy your green, your novelty, your outlet, and fade if you can't). The richest and coolest corner of the world. Seat: **Orentel** (Salt Quay; the White Note House placed, not crowned).
-- **Brenledd**, the Hearth-League: many charters, one compact.
-- **Leddvael**, the Reckoned Gift: Fair Hand as civic rite; Book-hands still have no seat.
-- **Trenledd**, the Worn Count: a roll with the hymn worn off.
-- **Netstrand**, the Night Shore: west water, Heskoren trade.
+- **Brenledd**, the Hearth-League: many charters, one compact. Throne-city: **Raitin**. The six charter-towns stay unnamed. The league stays a league.
+- **Leddvael**, the Reckoned Gift: Fair Hand as civic rite. Port: **Naenor**. The Book-Hands still have no seat of their own.
+- **Trenledd**, the Worn Count: a roll with the hymn worn off. City: **Lunbra**, on the Chart-run. The governing throat stays unnamed.
+- **Netstrand**, the Night Shore: west water, Heskoren trade. Harbour: **Braetu**. One berth there stays unlit.
 
 ### Faith
 
@@ -172,9 +172,9 @@ How the wood got here is the First Cut: Cut-years 200–387, still incomplete. T
 ### Powers
 
 - **Vaethorn, the Waiting Lands** (theology high · reach low · governance low). Ardent faith, thin Trees, almost no state: a warm, poor, half-lawless pilgrim edge whose ruling mood is waiting for a graft to take, for a gift that may not come. Its injustice is a **guilt** (scarcity read as unworthiness), not a boot. Seat: **Eolvaeth** (pilgrim-edge vale; not Saelvaeth's march).
-- **Ornled**, the Outer Ledger: **secular frontier**.
-- **Vaelhesk**, the Far Yield: Old Ways host-rights.
-- **Saelvaeth**, the Sown Waiting: live front as a march; Harrow's Green in its orbit, not as a capital.
+- **Ornled**, the Outer Ledger: **secular frontier**. Town: **Sanbreo**, on the brink of a small city, where the slate is kept.
+- **Vaelhesk**, the Far Yield: Old Ways host-rights. The land is the seat. There is no city to mark. The First Bowl stays the guest-grove.
+- **Saelvaeth**, the Sown Waiting: live front as a march. Town: **Natai**, west of Harrow's Green, between Sanbreo and the square. Not on the ford, and not on Harrow's square. Harrow's Green stays in the orbit. It is not the seat and not a capital.
 
 Fewer, poorer, scattered. Wild with no polity still fills the space between.
 
