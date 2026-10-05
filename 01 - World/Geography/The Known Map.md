@@ -55,7 +55,7 @@ The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], betwe
 
 [[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square. They were not redrawn to city scale. No capital star. The city plate is the city.
 
-[[Larbril]] is where the west road meets the Well-wash, short of the pass, west of [[Ornsael]]'s well. It is not a west bank. The rain-shadow dot sits on that road, west of the well. The Maiethorn dot sits on the wash, still west of the well. The paintings were not redrawn.
+[[Larbril]] is where the west road meets the Well-wash, short of the pass. [[Ornsael]] is farther into the dry, at a well, not the next roof and not the coast. The rain-shadow sheet and the Maiethorn sheet use that same gap. The paintings were not redrawn.
 
 ## Links
 - [[Named Ground]] · [[The World Frame]] · [[Powers of the Turning]]

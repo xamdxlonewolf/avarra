@@ -271,18 +271,19 @@ def build() -> Image.Image:
         stroke=2,
     )
     ink = ImageDraw.Draw(canvas)
+    # Ornsael is the well-town farther into the dry, east of Larbril.
+    # Not the coast, and not the next roof to the wash meeting.
     place(
         ink,
         "Ornsael",
-        (1190, 570),
+        (1096, 618),
         place_f,
-        off=(18, -24),
+        off=(14, -28),
         anchor="lm",
         radius=4,
     )
     # Larbril is where the west road meets the Well-wash, short of the
-    # pass, and west of Ornsael's well. The dot sits on that crossing.
-    # Not a second well-town.
+    # pass. The dry between here and Ornsael is the gap. Not a second well.
     place(
         ink,
         "Larbril",

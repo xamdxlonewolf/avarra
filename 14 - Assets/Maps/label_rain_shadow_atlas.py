@@ -160,13 +160,13 @@ def build() -> Image.Image:
         cubic((1028, 390), (1088, 500), (1072, 640), (1008, 760)),
         stroke=2,
     )
-    # Larbril is on the west road, west of Ornsael's well, short of the
-    # pass. Not the well-town. Not the Dry Stair. Not the east side of
-    # the painted channel. The channel stays where the water is.
+    # Larbril is on the west road, short of the pass, with the dry still
+    # ahead of it. Ornsael is farther along that road, at the well. Not
+    # the next roof. Not the Dry Stair. Not the eastern channel.
     ink = ImageDraw.Draw(canvas)
-    settlement_dot(ink, (232, 568))
-    leader(ink, (232, 568), (360, 492))
-    halo_text(ink, (372, 484), "Larbril", place_f, TYPE, anchor="lm")
+    settlement_dot(ink, (180, 432))
+    leader(ink, (180, 432), (300, 390))
+    halo_text(ink, (312, 382), "Larbril", place_f, TYPE, anchor="lm")
 
     return canvas.convert("RGB")
 
