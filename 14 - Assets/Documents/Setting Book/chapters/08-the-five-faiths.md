@@ -19,7 +19,7 @@ Smaller household rites, quay-charms, and Kind-customs stay local. The clergy ar
 Every faith in this world has to answer the same fact: most people *become* something they were not born as. They do not agree on what that becoming is.
 
 - **Given.** The Motherfaith says *chosen*. The Watching says *seen*. The Fair Hand says *signed*. The Old Ways say the Tree is a *late guest* at a door the land already kept.
-- **Struck.** The Motherfaith argues whether she reached the threshold. The Watching says the threshold was always a place of seeing. The Fair Hand says a later contract, struck in extremity. The Old Ways say this is the *oldest* becoming: the land's own children.
+- **Struck.** The Motherfaith argues whether she reached the threshold. The Watching says the threshold was always a place of seeing. The Fair Hand says a later contract, struck in extremity. The Old Ways say this is the *oldest* becoming. That is the land's own children.
 - **Kept.** The same hug. The Motherfaith calls it a gift of wholeness, or being passed over. The Watching calls it a seeing. The Fair Hand says no bargain was taken. The Old Ways say the land had no door for you that year.
 - **Tithe.** The same upkeep. The Motherfaith calls it the honest weight of a gift. The Watching calls it the cost someone once paid. The Fair Hand calls it the term of the contract. The Old Ways call it the land's due.
 
@@ -31,7 +31,7 @@ Each of these is a sincere answer to something people live with. The Motherfaith
 
 **Each fight stays in its own land.**
 
-- **Maiethorn.** The fight is at the centre. The Watching and the Motherfaith share the same Trees and argue over the blessing spoken there. Threnmaieth files Watchers on the Threnhael, its census, as a known, counted dissent (the Grown-Over). The pressure is that file.
+- **Maiethorn.** The fight is at the centre. The Watching and the Motherfaith share the same Trees and argue over the blessing spoken there. Threnmaieth files Watchers on the Threnhael as a known, counted dissent. That is its census. The file calls that dissent the Grown-Over. The pressure is that file.
 - **Strandoren.** Faith is practiced lightly, so the fight is over the Bound and the books. The Fair Hand and the Motherfaith compete for the same oath-keepers in the same port. Lestrand prices both and polices neither.
 - **Heskoren.** The fight is over the grove. The Old Ways were there before the grafts. The Motherfaith is fiercest where the gift is scarcest. A dying Tree has two claimants. Vaethorn's piety makes this tender and sharp.
 - **The Sundering Isle.** Almost no contact. A Yumboe on the mainland is a guest at everyone else's rite. They keep their supper, and the mainland's daylight rites sound loud to them.
@@ -45,7 +45,7 @@ Each of these is a sincere answer to something people live with. The Motherfaith
 | Motherfaith + Old Ways | Pilgrimage to a graft *and* threshold-walking the old doors | Who tends a sickening Tree: warden or door-keeper |
 | Any mainland + Open Table | A rare shared supper; someone says "no one is a stranger twice" | A second supper counts as kin inside the room, and a Turning-witness counts as belonging outside it. The storm-wall still bounds the isle |
 
-A shared teaching-story, the Child at Four Doors, is told in all five houses with a different last line. That is how the world argues without a council.
+All five houses tell the Child at Four Doors, and the last line changes. That is how the world argues without a council.
 
 The Leaf-Mother remains a *belief* in public life. The other faiths stay beliefs. The Watching says it remembers a cost. That claim stays unsettled in public.
 
@@ -53,16 +53,16 @@ The Leaf-Mother remains a *belief* in public life. The other faiths stay beliefs
 
 ## The Watching
 
-The heartland heresy of Maiethorn. An older Tree-faith the Motherfaith grew over, at the centre. They keep the Tree and refuse the Mother-name. They say the colours fall because the Tree sees.
+The Watching is Maiethorn's heartland heresy. It is an older Tree-faith the Motherfaith grew over, at the centre. They keep the Tree and refuse the Mother-name. They say the colours fall because the Tree sees.
 
-Everyday: **the Watching.** Their own name: **Haelthael** (*hayl-THALE*), from *hael* + *thael*, "the Tree kept whole." They mean the Tree before anyone split it into a Mother and her hands. The Motherfaith's soft name is **the First Watching**; Threnmaieth's file-name is **the Grown-Over**.
+A neighbour says **the Watching**. The house says **Haelthael** (*hayl-THALE*). That is *hael* + *thael*, the Tree kept whole. They mean the Tree before anyone split it into a Mother and her hands. The Motherfaith says **the First Watching**. Threnmaieth's file says **the Grown-Over**.
 
 ### Shape of the faith
 
 - **The Tree looks.** A colour is a seeing made visible. To live well is to name what was seen.
-- **Their practice is older than the Motherfaith's.** They stand at the same Leaf-Fall. They keep their own words when the warden says the Tender's blessing, the warden's line over the child. Practice binds them to the town. The withheld word is the whole dissent.
-- **The Tree is the Tree.** They give it no mother, no bargain-partner, and no land-spirit in a new dress. Naming it *Maieth* is, to them, the overlay: a comfort the heartland invented when the seeing needed a face.
-- **You know them by the name they keep.** They keep **Thaeloren** ("the Tree that witnesses") and refuse **Hand of the Mother**. Same wood. The title is the schism.
+- **Their practice is older than the Motherfaith's.** They stand at the same Leaf-Fall. They keep their own words when the warden says the Tender's blessing. That is the warden's line over the child. Practice binds them to the town. The withheld word is the whole dissent.
+- **The Tree is the Tree.** They give it no mother, no bargain-partner, and no land-spirit in a new dress. Naming it *Maieth* is, to them, the overlay. That is a comfort the heartland invented when the seeing needed a face.
+- **You know them by the name they keep.** They keep **Thaeloren**. That is the Tree that witnesses. They refuse **Hand of the Mother**. Same wood. The title is the schism.
 
 ### Doctrine (as believed)
 
@@ -74,7 +74,7 @@ Everyday: **the Watching.** Their own name: **Haelthael** (*hayl-THALE*), from *
 
 **The Kept were seen.** A hug and no colour is a seeing of wholeness, or a seeing that did not reach. They argue this as fiercely as the Motherfaith does, without a mother's comfort. They say the hug is a witness.
 
-**The Struck were seen at a harder door.** A drowning, an oath, a death: the Tree is the ordinary place of seeing; the threshold is an older one. The Watching leaves the Motherfaith's Wide-Hand and Narrow-Hand readings, a wide reach and a narrow one, with the Motherfaith. Seeing, they say, was never confined to a grafted scion.
+**The Struck were seen at a harder door.** A drowning, an oath, a death: the Tree is the ordinary place of seeing; the threshold is an older one. The Watching leaves the Motherfaith's Wide-Hand and Narrow-Hand readings with the Motherfaith. Those are a wide reach and a narrow one. Seeing, they say, was never confined to a grafted scion.
 
 ### Practice
 
@@ -87,9 +87,9 @@ Everyday: **the Watching.** Their own name: **Haelthael** (*hayl-THALE*), from *
 - **Name what you saw.** After a Turning, a Watcher sits with the child and describes the fall: the colour, the way the leaf came, what the year will ask. Devotion is accurate speech. The warden's line, "tend what you're given," is the one they leave unspoken.
 - **Pre-Mother names.** In Haelthael liturgy the origin Tree is only **Thaeloren**. "First Hand" is tolerated as poetry. "Hand of the Mother" is the overlay they will not say.
 
-Watchers keep the Night Watch, teach the withheld blessing, and (where a town will have it) offer a second reading of a rare or mixed fall. The reading sits beside the tree-warden's, and the tree-warden's reading stays the town's. In Threnmaieth they are a known column on the roll. Anyone of the Watching may keep the Night Watch. The second reading is a reputation: the person a town asks to sit beside the warden.
+Watchers keep the Night Watch, teach the withheld blessing, and (where a town will have it) offer a second reading of a rare or mixed fall. The reading sits beside the tree-warden's, and the tree-warden's reading stays the town's. In Threnmaieth they are a known column on the roll. Anyone of the Watching may keep the Night Watch. The second reading is a reputation. That is the person a town asks to sit beside the warden.
 
-The Watching has no seat in the Awakening Tree's shadow. That seat was grown-over by the First Seat. Their oldest rooms are under older chapels, or in houses that never took a warden's lintel (the beam over the door). The rooms are the argument: the Watching was here first.
+The Watching has no seat in the Awakening Tree's shadow. That seat was grown-over by the First Seat. Their oldest rooms are under older chapels, or in houses that never took a warden's lintel. That is the beam over the door. The rooms are the argument. The Watching was here first.
 
 ### The live schism
 
@@ -109,15 +109,15 @@ Read as heresy, the inscription is stubborn and local. It claims the Tree predat
 
 ## The Fair Hand
 
-The fortune-and-contract faith of Strandoren. A mercantile theology that reads Conditions not as gifts given but as **bargains struck**. The world is a ledger of deals; the Tithe is a *term*, not a devotion; when the book is closed you are *even*, and owe no gratitude forever. Direct doctrinal rival to the Motherfaith's gift-language, at home on the trade continent and especially among the Bound.
+Strandoren's fortune-and-contract faith reads Conditions not as gifts given but as **bargains struck**. The world is a ledger of deals; the Tithe is a *term*, not a devotion; when the book is closed you are *even*, and owe no gratitude forever. It is the direct doctrinal rival to the Motherfaith's gift-language, at home on the trade continent and especially among the Bound.
 
-Everyday: **the Fair Hand.** Their own name: **Leddoren** (*led-OR-en*), from *ledd* + *oren*, "the witnessed account." Lestrand slang: **the Settling.** The Motherfaith's name for them: **the Bargainers.** A Bound who has paid their year's Terms will say they have **a closed book**.
+A neighbour says **the Fair Hand**. The house says **Leddoren** (*led-OR-en*). That is *ledd* + *oren*, the witnessed account. Lestrand says **the Settling**. The Motherfaith says **the Bargainers.** A Bound who has paid their year's Terms will say they have **a closed book**.
 
 ### Shape of the faith
 
 - **Fair terms.** Know what you owe, pay it, walk. A gift you cannot put down is, to them, an imposition. No one here is being saved from a fall.
 - **The book is the practice.** What makes you of the Fair Hand is that you keep accounts honestly: Tithe, contract, witness. Many Settlers still bring a child to the Tree. They attend as witnesses to a signing.
-- **A counterparty, or none.** The faith splits on whether anyone sits across the table. A counterparty is the other party to the deal. Both branches agree the table is real. The Leaf-Mother, if she exists, is a giver who will not show her terms, which, to a Settler, is the one unforgivable clause.
+- **A counterparty, or none.** The faith splits on whether anyone sits across the table. They call the other party to the deal a counterparty. Both branches agree the table is real. The Leaf-Mother, if she exists, is a giver who will not show her terms, which, to a Settler, is the one unforgivable clause.
 - **You know them by a small personal book,** in which a Settler writes colour, Tithe, and what they are owed. Threnmaieth's census is a different book, and the Fair Hand calls that census a sin. The Bound did not invent the personal book. They are the ones whose book is also a contract.
 
 ### Doctrine (as believed)
@@ -128,7 +128,7 @@ Everyday: **the Fair Hand.** Their own name: **Leddoren** (*led-OR-en*), from *l
 
 **The Kept declined, or were not offered.** No bargain taken; nothing owed; nothing owed to them. On Lestrand this sits beside calling the Kept *the free*. The Fair Hand gave that word a theology.
 
-**The Struck signed later, in a storm.** Extremity is when people accept bad terms. A drowning, an oath, a death: of course the book opens then. The Struck are not suspects; they are people who bargained without a clerk. The faith's kindness is to *settle the year fairly* after the fact, by a hall or a warrant: vouching that remakes the year as a new agreement (novation, in a clerk's mouth). A Bound's *Terms* are the exception: those belong to the Counterparty, not to a clerk. Its cruelty is the same motion: a Struck who cannot settle fades, and the quay steps around them.
+**The Struck signed later, in a storm.** Extremity is when people accept bad terms. A drowning, an oath, a death: of course the book opens then. The Struck are not suspects; they are people who bargained without a clerk. The faith's kindness is to *settle the year fairly* after the fact, by a hall or a warrant. That vouching remakes the year as a new agreement. A clerk says novation. A Bound's *Terms* are the exception. Those belong to the Counterparty, not to a clerk. Its cruelty is the same motion. A Struck who cannot settle fades, and the quay steps around them.
 
 **Grace is a closed book.** The Fair Hand says: you paid, you are even, walk.
 
@@ -138,11 +138,11 @@ Everyday: **the Fair Hand.** Their own name: **Leddoren** (*led-OR-en*), from *l
 
   > *"Grant and term, seen and spoken. The book is open. Keep it fair."*
 
-- **Public settling.** Tithe paid where a neighbour can see it. They call that clearing. A Bound's oath-day is the high holy day: Terms recited, the year's book closed or marked owing. The Motherfaith calls this showing off. The Fair Hand calls it the only honest worship.
+- **Public settling.** Tithe paid where a neighbour can see it. They call that clearing. A Bound's oath-day is the high holy day. The Terms are recited, and the year's book is closed or marked owing. The Motherfaith calls this showing off. The Fair Hand calls it the only honest worship.
 - **Quay-blessings.** Short, worn, in the eroded tongue. A Settler says "fair wind, fair term" over a hull, a contract, a marriage. The sacred and the commercial use the same sentence, and that is the teaching.
 - **The personal book.** Colour, Tithe, debts, what the year owes you. It stays private. A Settler will die to keep a crown-clerk out of it. That fury they share with every other faith on the subject.
 
-Book-hands (also Settlers) are notaries who are also theologians. They witness signings, teach children how to keep a book, and settle a Struck's *civic* year (a hall, a warrant). They recite a Bound's Terms on oath-day; they do not rewrite those Terms (the Counterparty's clause, not a clerk's). On Lestrand they are often the same people as commercial clerks. The faith is the profession, held lightly.
+Book-hands are notaries who are also theologians. Neighbours also call them Settlers. They witness signings, teach children how to keep a book, and settle a Struck's *civic* year by a hall or a warrant. They recite a Bound's Terms on oath-day. They do not rewrite those Terms. The Terms are the Counterparty's clause, not a clerk's. On Lestrand they are often the same people as commercial clerks. The faith is the profession, held lightly.
 
 The Fair Hand meets in guild-rooms and quay-shrines. A "high house" in a rich port is the oldest book-room. They keep no membership roll. A roll would be a Threnhael.
 
@@ -165,28 +165,28 @@ The words are a Bound's pride, a little cold. They make the Fair Hand's case aga
 
 ## The Old Ways
 
-The ancestor-and-land faith of Heskoren. It predates the grafts. It says the Mother's reach is new here, and the land was already making children of its own, the Struck, the Taken-In, at rivers, drowning-pools, oath-stones, and groves. The Trees are *guests*, not the source.
+The Old Ways are the ancestor-and-land faith of Heskoren. The faith predates the grafts. It says the Mother's reach is new here, and the land was already making children of its own, the Struck, the Taken-In, at rivers, drowning-pools, oath-stones, and groves. The Trees are *guests*, not the source.
 
-Everyday, and their own common name: **the Old Ways.** Liturgical: **Vaeloren** (*vay-LOR-en*), from *vael* + *oren*. They use **vael** in an older sense: not "a Condition Given" but **what the land yields**. The Motherfaith, they say, *narrowed* the word to a leaf-colour. Vaethorn-pious speech calls them **the Before-Faith**; the Taken-In among them say **the Green Kin**.
+A neighbour says **the Old Ways**. That is also the house's common name. The rite writes **Vaeloren** (*vay-LOR-en*). That is *vael* + *oren*. They use **vael** in an older sense. That is not "a Condition Given", but **what the land yields**. The Motherfaith, they say, *narrowed* the word to a leaf-colour. Vaethorn-pious speech calls them **the Before-Faith**. The Taken-In among them say **the Green Kin**.
 
 ### Shape of the faith
 
 - **Place makes people.** A river that has drowned and returned, a hill that took someone in, an oath-stone that heard a vow: these are **the old doors**. The grafted Tree is a new door, welcome if it behaves.
 - **You keep the Old Ways by walking.** Go to the doors, feed the kin who stayed, and stand for the Struck when a town will not. Belief about the Mother comes second. Many Kin-speakers also bring a child to a healthy graft when they can reach one.
-- **The land is many, and the dead stay.** Hills, waters, old trees (the wild kin of motherwood; the grafts are the planted Trees), and the people who went into them. The Returned come through a different door. Ancestors, here, are kin who remained in the ground.
+- **The land is many, and the dead stay.** Hills, waters, old trees, and the people who went into them. The old trees are the wild kin of motherwood. The grafts are the planted Trees. The Returned come through a different door. Ancestors, here, are kin who remained in the ground.
 - **You know them by a worn token from their door:** a river-stone, grove-twig, or pinch of hill, carried the way a Settler carries a book. No two look alike. The mismatch is the teaching: no two doors are the same.
 
 ### Doctrine (as believed)
 
 **The land was first.** Before grafts, before pilgrimage, Heskoren's people already became things. The Struck are the oldest rite, the land doing what the land does. The Taken-In are the grove's own children.
 
-**Vael meant yield.** Grain, game, a child returned from water, a person the hill kept. The Motherfaith's *vael* (a Given Condition) is a *special case* they mistook for the whole word. To call a leaf a *vael* is fine. To say only a leaf is a *vael* is a theft of speech.
+**Vael meant yield.** Grain, game, a child returned from water, a person the hill kept. The Motherfaith's *vael* is a *special case* they mistook for the whole word. That is a Given Condition. To call a leaf a *vael* is fine. To say only a leaf is a *vael* is a theft of speech.
 
 **Grafts are guests.** A healthy Tree is a new kin-house. You may tend it. You may Turn under it. You may not pretend it invented becoming, or that a town without one is empty of the sacred. A sickening Tree is a guest who is dying in your grove. The fight with the tree-wardens is *who is host*.
 
 **The Kept are a year the land had no door.** Some years a door does not open for you. You are still the land's. Next year, or the drowning-year, or never. The waiting that Vaethorn sanctifies as pilgrimage is, here, just weather.
 
-**The Mother is a late name.** Either the land wearing a face the newcomers needed (the Guest-reading) or a claiming (the First-reading). Both agree she did not *arrive first*.
+**The Mother is a late name.** Either the land wearing a face the newcomers needed, or a claiming. The first is the Guest-reading. The second is the First-reading. Both agree she did not *arrive first*.
 
 ### Practice
 
@@ -195,7 +195,7 @@ Everyday, and their own common name: **the Old Ways.** Liturgical: **Vaeloren** 
 - **Standing for the Struck.** When a person changes later and alone, the Old Ways do not take them to a Tree to be *acknowledged as Given*. They take them back to the door that made them, if it can be found, and *name them kin*. The Motherfaith's quiet receiving-rite and this one sometimes happen in the same week, for the same person, and the argument is which name goes first.
 - **The contested grove.** An ailing graft in an old Taken-In green is the fight everyone knows: warden against door-keeper, guest against host, pilgrimage-scarcity against "we had ways." Neighbours who both love the wood.
 
-Door-keepers (also Kin-speakers) know which doors still open. They speak at ancestor-meals. They stand for the unvouched Struck when they can. Their standing is a reputation. A famous door-keeper is the one three valleys will walk to. The two jobs often belong to the same person.
+Door-keepers know which doors still open. Neighbours also call them Kin-speakers. They speak at ancestor-meals. They stand for the unvouched Struck when they can. Their standing is a reputation. A famous door-keeper is the one three valleys will walk to. The two jobs often belong to the same person.
 
 The land is the seat. Vaethorn's tree-wardens find this infuriating and, in a dry year, quietly useful. Door-keepers walk the doors. A scion is not theirs to carry.
 
@@ -218,15 +218,15 @@ The words are frontier courtesy, with a barb. They make the Old Ways' case. This
 
 ## The Open Table
 
-The isolate faith of Kumbaan. Grown with no Tree and no Mother-name. The good people keep the night, set a place for hands that have no bodies, and hold that a stranger at the table is the holiest thing in the world.
+Kumbaan's isolate faith grew with no Tree and no Mother-name. The good people keep the night, set a place for hands that have no bodies, and hold that a stranger at the table is the holiest thing in the world.
 
-Mainland everyday: **the Open Table**, or sailors' **the Moon-Feast.** Their own name: **Ndeyaan** (*ndey-AHN*), the night-keeping. In full courtesy, **Bakhna Ndeya** ("the good night"). The opening of every meal that matters is already their creed. Someone at the table says "No one is a stranger twice."
+On the mainland a neighbour says **the Open Table**. A sailor says **the Moon-Feast**. The house says **Ndeyaan** (*ndey-AHN*). That is the night-keeping. In full courtesy they say **Bakhna Ndeya**. That is the good night. The opening of every meal that matters is already their creed. Someone at the table says "No one is a stranger twice."
 
 ### Shape of the faith
 
 - **The table is the founding fact.** To feed and be fed is how the living sit with the staying-kin and with anyone the storm-wall did not keep out. There is no Leaf-Fall because, they say, there was nothing missing to give.
 - **The rite is the meal.** Ndeyaan has almost no clergy and no chapel. The rite is supper under the moon, a place set for hands you can see and for a body you cannot see, daylight reserved for sleep. A Yumboe who keeps this on the mainland is still of the Open Table. A mainlander who sits once is a guest; one who sits twice is kin.
-- **The hill, the moon, the ones who stayed.** The dead do not leave; they stay as hands. Whether those hands are the dead (the Staying) or the hill's own courtesy (the Serving) is the house-argument. The good people are a living Kind. The idiom is ancestral. The bodies are warm.
+- **The hill, the moon, the ones who stayed.** The dead do not leave; they stay as hands. Whether those hands are the dead or the hill's own courtesy is the house-argument. The dead are the Staying. The hill's own courtesy is the Serving. The good people are a living Kind. The idiom is ancestral. The bodies are warm.
 - **You know them by an extra place laid,** even when the household is poor. The unseen hands make this possible. The extra place is furniture.
 
 ### Doctrine (as believed)
@@ -235,7 +235,7 @@ Mainland everyday: **the Open Table**, or sailors' **the Moon-Feast.** Their own
 
 **The dead stay to serve.** Folklore on the mainland calls Yumboes spirits of the dead. They find this rude. In their telling, the hands are the staying-kin. The living host. The staying pour. A feast that outshines its means is a theological statement. The household is larger than the bodies you can count.
 
-**The moon wakes both.** Night is the shared day of the living and the staying. Daylight is a Sabbath of sleep, a rest-day. They call the mainland's daylight faiths loud, as they would call a guest loud who will not sit.
+**The moon wakes both.** Night is the shared day of the living and the staying. Daylight is a Sabbath of sleep. That is a rest-day. They call the mainland's daylight faiths loud, as they would call a guest loud who will not sit.
 
 **A stranger is the sacrament.** The storm-wall keeps the world out. Anyone who crosses it has already been through drowning-water. You feed them. The second supper is the rite of belonging. This is why a lone Yumboe on Strandoren becomes a host wherever they land: they are still keeping Ndeyaan, with whatever table they can make.
 
@@ -243,14 +243,14 @@ Mainland everyday: **the Open Table**, or sailors' **the Moon-Feast.** Their own
 
 ### Practice
 
-- **The moon-feast.** The ordinary high rite: night, hill-hall or open turf, the extra place, the unseen hands fetching and pouring. Songs. No colour-reading. No terms recited.
+- **The moon-feast.** The ordinary high rite is night, a hill-hall or open turf, the extra place, and the unseen hands fetching and pouring. Songs. No colour-reading. No terms recited.
 - **The place set.** Even a poor house lays it. To omit it is the one real impiety: not because the staying starve (they do not), but because you have counted the household too small.
 - **No one is a stranger twice.** Spoken at the second sitting. The first night you are a guest, and a guest is already sacred. The second, you are of the table. On Kumbaan the sentence decides belonging. It is spoken, and it is not written down.
 - **Daylight sleep.** Daylight is when the good people and the staying-kin rest. A Yumboe abroad still takes their long rest when the moon is down, if they can, and they keep that rest quiet.
 
-Table-keepers (also hill-hosts) are the person whose hall the valley comes to on the bright nights. The standing is a reputation. Their job is to keep the table.
+Table-keepers are the person whose hall the valley comes to on the bright nights. Neighbours also call them hill-hosts. The standing is a reputation. Their job is to keep the table.
 
-Shore-sitters (also wall-waiters) are the other isle job. They sit the storm-beach and wait. Swimming out is outside the job. The living go uphill to a table.
+Shore-sitters are the other isle job. Neighbours also call them wall-waiters. They sit the storm-beach and wait. Swimming out is outside the job. The living go uphill to a table.
 
 A Yumboe abroad is a table-keeper by necessity. One person can keep Ndeyaan in a Lestrand attic. That is how the faith travels, when it travels at all. Whoever will lay the extra place can keep it. Kumbaan sends no mission.
 
@@ -267,9 +267,9 @@ On Kumbaan, *no one is a stranger twice* is how you belong. On the mainland, you
 
 This is the faith's edge on the mainland. It needs a room, a tenth year, and a clerk who counts belonging by a Turning-witness.
 
-**The everyday collision (citizenship).** A guest sits a second night in a Lestrand attic. The host says the sentence and means it. A quay clerk, a Book-hand, or a warden passing through asks for a Turning-witness before treating that person as of a place. Inside the room, the person is kin. Outside the door, the person is a guest. Neither office is cruel. Past the door, the sentence stays the host's.
+**The everyday collision.** That is citizenship. A guest sits a second night in a Lestrand attic. The host says the sentence and means it. A quay clerk, a Book-hand, or a warden passing through asks for a Turning-witness before treating that person as of a place. Inside the room, the person is kin. Outside the door, the person is a guest. Neither office is cruel. Past the door, the sentence stays the host's.
 
-**The week that can close (the Given-door).** A child of the table — isle-raised, convert-raised, a sailor's tenth summer in a port — reaches Turning-Week. The host stays home. In the host's telling, they were never lacking. A neighbour or a town-warden walks them to the Turning Tree. The Given-door is **one week**. If the argument outlasts Eolthael, the Turning-month, the child is unTurned. Struck doors still open later. The host did not ask for that opening. The warden cannot file it as kindness.
+**The week that can close.** A child of the table — isle-raised, convert-raised, a sailor's tenth summer in a port — reaches Turning-Week. The host stays home. In the host's telling, they were never lacking. A neighbour or a town-warden walks them to the Turning Tree. The Given-door is **one week**. If the argument outlasts Eolthael, the child is unTurned. Eolthael is the Turning-month. Struck doors still open later. The host did not ask for that opening. The warden cannot file it as kindness.
 
 The child is already on the mainland. The storm-wall stayed where it was.
 
@@ -285,7 +285,7 @@ Said to the empty plate before the hands arrive. Taught to children. Heard once,
 
 The words are hospitality. The sailor who copied them thought they were a grace. The blessing claims that being wanted was never a gift, and this house has never needed the Leaf-Fall.
 
-Kumbaan keeps the moon. A mainland priest may notice that their holiest week, the High Solstice, is weather here.
+Kumbaan keeps the moon. A mainland priest may notice that their holiest week is weather here. That is the High Solstice.
 
 ---
 

@@ -134,6 +134,13 @@
       "skillPath": "skills/creative/fiction/structure/positional-revelation/SKILL.md",
       "computedHash": "7f97b177e160ad38e31e58e6287e268278282d85016c43be4f7045cee12a01aa"
     },
+    "prose-style": {
+      "source": "jwynia/agent-skills",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "skills/creative/fiction/craft/prose-style/SKILL.md",
+      "computedHash": "886edbb25c94d982a1609c701aea3fca13016b62ec10e792b7b5e4e8bea7a638"
+    },
     "settlement-design": {
       "source": "jwynia/agent-skills",
       "ref": "main",

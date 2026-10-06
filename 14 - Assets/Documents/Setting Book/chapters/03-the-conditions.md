@@ -2,9 +2,9 @@
 
 Condition cards do not advance with character level. The card you hold at level 1 is the card you hold at level 10. Class features, domain cards, Experiences, weapon tier, and Hope scars are what change around it.
 
-What can still deepen: a Two-Bodied may attach an animal-form Experience when they would gain an Experience, and a second signature capability only as a once-ever story milestone. Returned and Phoenix cross out Hope slots, and the slots left are the returns they have left. A Bound's Terms (the standing obligations written into the contract) and Pledge (the piece of themselves named at signing as the price) change when the story changes them. Attacks that use Proficiency (Kindle, Reach, the Green Word, the Two-Bodied natural weapon) rise because Proficiency rises.
+What can still deepen: a Two-Bodied may attach an animal-form Experience when they would gain an Experience, and a second signature capability only as a once-ever story milestone. Returned and Phoenix cross out Hope slots, and the slots left are the returns they have left. The standing obligations written into a Bound's contract, and the piece of themselves named at signing as the price, change when the story changes them. Those are the Terms and the Pledge. Attacks that use Proficiency (Kindle, Reach, the Green Word, the Two-Bodied natural weapon) rise because Proficiency rises.
 
-A **Tithe** is the upkeep of a becoming. Its tokens drain or fill on a **long rest** unless the card names another trigger. A day with two short rests does not change these tokens twice. At each long rest, run this list once. Each line is yes-or-no.
+A becoming has an upkeep. That is a **Tithe**. Its tokens drain or fill on a **long rest** unless the card names another trigger. A day with two short rests does not change these tokens twice. At each long rest, run this list once. Each line is yes-or-no.
 
 | Condition | At this long rest | Counted outside that rest |
 |---|---|---|
@@ -23,17 +23,17 @@ A **Tithe** is the upkeep of a becoming. Its tokens drain or fill on a **long re
 
 ## Long-Lived
 
-**Folk recognition.** The old tales called them vampires. **Path.** Given only, by a rare leaf-colour at Leaf-Fall (a child's tenth-year solstice at a town Turning Tree). **Share.** About 2.5 percent. **Standing.** Rare and revered.
+**Folk recognition.** The old tales called them vampires. **Path.** Given only, by a rare leaf-colour when a child stands at a town Turning Tree on their tenth-year solstice. That day is Leaf-Fall. **Share.** About 2.5 percent. **Standing.** Rare and revered.
 
-Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is an ageless keeper of memory who lives on what they learn. When they are starved they fade, forget, and finally empty out. What remains of the old blood-hunger is this: a Long-Lived can read a memory in a single drop of blood. By ancient courtesy they will not cross a threshold uninvited.
+Aging simply stops, and nothing witnessed is ever forgotten. They live on what they learn. When they are starved they fade, forget, and finally empty out. What remains of the old blood-hunger is this: a Long-Lived can read a memory in a single drop of blood. By ancient courtesy they will not cross a threshold uninvited.
 
 They keep the archives, judge disputes, and witness records as notaries, and people consult them because they remember what they have witnessed. Courts, guilds, and archives are built around them. Too many deathless people would lock institutions into the shape they already have, so their scarcity is part of the world's shape. People consult them and hold them a little apart from ordinary company.
 
-**The old courtesy.** A Long-Lived waits to be asked in, always. It is held as the deepest good manners, a mark of trustworthiness (a keeper of records does not intrude), and no one quite remembers it as anything else. It is old, and it is universal among them. A Long-Lived who is refused the door feels the refusal more than they will say. It is simply how the Long-Lived have always been.
+**The old courtesy.** A Long-Lived waits to be asked in, always. It is held as the deepest good manners, a mark of trustworthiness, and no one quite remembers it as anything else. A keeper of records does not intrude. It is old, and it is universal among them. A Long-Lived who is refused the door feels the refusal more than they will say. It is simply how the Long-Lived have always been.
 
 Meeting the Tithe is why they hold the jobs they do. A Long-Lived wants to keep learning, so scholarship, judging, and record-keeping are the careers that keep that upkeep met. Deprivation is the danger: imprisonment, a dull siege, exile somewhere with nothing new. Isolating a Long-Lived is a recognized cruelty.
 
-They can have children and families, but none are guaranteed to inherit the Condition; most don't. They watch spouses and children grow old and die, then either stop and live on alone with the memory, or begin again and outlive that family too. Beneath the hunger for knowledge, this is the deeper Tithe: they outlive the people they love. They are deathless. Violence, accident, or a failed Tithe still ends them, which keeps their numbers stable across centuries.
+They can have children and families, but none are guaranteed to inherit the Condition; most don't. They watch spouses and children grow old and die, then either stop and live on alone with the memory, or begin again and outlive that family too. Beneath the hunger for knowledge, they outlive the people they love. That is the deeper Tithe. They are deathless. Violence, accident, or a failed Tithe still ends them, which keeps their numbers stable across centuries.
 
 ### Rules
 
@@ -52,11 +52,11 @@ They can have children and families, but none are guaranteed to inherit the Cond
 
 **Folk recognition.** The old tales called them werewolves. **Path.** Given only. **Share.** About 18 percent. **Standing.** Common.
 
-A Two-Bodied is a person who carries a second, animal self that is always theirs to command. The second body is a useful animal partner you carry inside you. This is the common labor Condition, and the most versatile labor force: rescue, herding, wild-work, war, courier, and scout work, each with a second body suited to the job.
+A Two-Bodied carries a second, animal self, and that self is always theirs to command. The second body is a useful animal partner you carry inside you. They do the common labor, and they are the most versatile labor force: rescue, herding, wild-work, war, courier, and scout work, each with a second body suited to the job.
 
 Shifting is voluntary and clean. The animal shape carries its own personality, temperament, and inner voice, distinct from the born self. The Two-Bodied converse with it in the head, a running second opinion. The animal mouth cannot form human speech. The wolf that wants to run the scent *now*. The hawk that trusts height over talk. The otter that finds the whole meeting tedious. It is named. Townsfolk say "that's Bramble, her otter," and they come to recognize its moods. The change and every action stay the person's to command. It nags, it wants, and it colors how the day feels: a live companion you happen to be.
 
-The Condition runs in families. Children of a Two-Bodied parent are far more likely to be Given it at their Awakening (the Leaf-Fall), and usually as the same animal. Whole bloodlines are wolf-folk, hawk-folk, otter-folk. A first-in-the-line, or one who breaks type, is notable.
+The Condition runs in families. Children of a Two-Bodied parent are far more likely to be Given it at their Awakening, and usually as the same animal. That day is Leaf-Fall. Whole bloodlines are wolf-folk, hawk-folk, otter-folk. A first-in-the-line, or one who breaks type, is notable.
 
 The other self is a real, natural animal, roughly between a housecat and a large wolf, bear, boar, or horse in size. A real animal does exactly what that animal really does. A hawk flies. An otter swims and holds its breath. A bear is strong. The size stays in that range: a hawk is hawk-sized, and a wolf is wolf-sized. A roc and a kelpie are stories, and neither is a body anyone carries. In the animal form the limbs and the mouth are the animal's. There are no hands, no human speech, and no tools. The person still chooses every action. A flying Two-Bodied is a superb scout and courier. A Tengu is a person aloft, with hands to carry and fight and a human mind and voice in the air. An aquatic Two-Bodied swims brilliantly and works the water as that animal. An Answered uses tools in the water. A true amphibious person keeps a person's body there. The body is a magnificent animal, in the animal's own shape.
 
@@ -81,13 +81,13 @@ Because the upkeep is simply being the animal sometimes, most Two-Bodied satisfy
 
 **Folk recognition.** The old tales called them zombies. **Path.** Struck only. It arrives later in life, and it requires death. **Share.** About 7 percent. **Standing.** Normal and quietly respected.
 
-A Returned is a person who died with something unfinished, and whose purpose keeps them walking: calm, deliberate, unafraid of death because they have already met it. They persist.
+They died with something unfinished, and the purpose keeps them walking: calm, deliberate, unafraid of death because they have already met it. They persist.
 
 Someone dies with a thing left undone strong enough to hold them, and they get back up. Society sends them where the work kills the living: into plague wards, down mine collapses, out on battlefield recovery, and to tend and speak for the dead. They are solemn, dependable, the people you send where the living cannot safely go. They are unshaken by gore and death, and a death that takes them may still not be the last.
 
-The Tithe is a feeling as much as an upkeep. A Returned is only steady while they have a reason. Neglect it and they cool, literally and socially. The living can tell a settling Returned at a touch. The Returned build their lives around their purpose with almost religious care. Their returns are counted: each Refuse to Fall crosses out a Hope slot, so a long-walking Returned is a person whose remaining Hope slots you can count. **Blaze of Glory** is the death they can choose: after a life of refusing rest, going out spectacularly on their own terms, including when the last scar would otherwise end them.
+The Tithe is a feeling as much as an upkeep. A Returned is only steady while they have a reason. Neglect it and they cool, literally and socially. The living can tell a settling Returned at a touch. The Returned build their lives around their purpose with almost religious care. Their returns are counted: each Refuse to Fall crosses out a Hope slot, so a long-walking Returned is a person whose remaining Hope slots you can count. After a life of refusing rest, they can go out spectacularly on their own terms, including when the last scar would otherwise end them. That death is **Blaze of Glory**.
 
-When the unfinished thing is finally done, the choice is theirs. They may **Settle** (lie down and take the rest they skipped, at last) or **become one of the Kept**, laying the Condition aside and living out the rest of their days as a mortal again. Taking up a new Purpose instead keeps them Returned and walking. That is a major character beat, coordinated with the GM.
+When the unfinished thing is finally done, the choice is theirs. They may lie down and take the rest they skipped, at last, or lay the Condition aside and live out the rest of their days as a mortal again. Lying down is **Settle**. Laying the Condition aside, they become one of the Kept. Taking up a new Purpose instead keeps them Returned and walking. That is a major character beat, coordinated with the GM.
 
 ### Rules
 
@@ -104,17 +104,17 @@ When the unfinished thing is finally done, the choice is theirs. They may **Sett
 
 **Folk recognition.** The old tales called them demons. In this world the demon is a contract. **Path.** Struck only. A child cannot consent to a contract. **Share.** About 5 percent. **Standing.** Feared.
 
-The Bound are the only people with a Condition who chose it. In some extremity they swore a contract with something on the other side, and got power in exchange for Terms (the standing obligations written into the contract). The horror is the contract: a debt and a counterparty (the other party to the contract) that always watches the ledger. Infernis is Daggerheart's demon-blooded ancestry, the Kind you are born. Bound is a Condition you acquire by swearing.
+The Bound are the only people with a Condition who chose it. In some extremity they swore a contract with something on the other side, and got power in exchange for the standing obligations written into the contract. Those are the Terms. The horror is the contract: a debt, and the other party, who always watches the ledger. That party is the counterparty. You can be born to Daggerheart's demon-blooded ancestry. That Kind is called Infernis. You swear, and the Condition you acquire is Bound.
 
 Society fears them. The power is real, the terms are binding, and the contract collects from a Bound who falls behind. Society also needs them. A Bound's sworn word is literally binding, and they know a lie when they hear one, so they enforce agreements, keep oaths, witness them, and settle debts. When a treaty absolutely must hold, a Bound swears to it.
 
-The counterparty may be chosen at creation, or left unknown for the Bound to learn later: a demon or lesser power (a named, bargaining entity); a cosmic-horror intelligence (vast, indifferent, *wrong*); or unknown even to the Bound, who do not know who holds the contract.
+The counterparty may be chosen at creation, or left unknown for the Bound to learn later: a named demon or lesser power that bargains; a cosmic-horror intelligence (vast, indifferent, *wrong*); or unknown even to the Bound, who do not know who holds the contract.
 
-The only sure release is to kill the thing that holds the contract, but a patron that can grant power can often sense the intent forming, so plotting it is its own peril. Term-limited contracts instead simply end, releasing the Bound and collecting the Pledge (the piece of themselves named at signing as the price). What walks away is Unbound: free of the contract, and missing the Pledge.
+The only sure release is to kill the thing that holds the contract, but a patron that can grant power can often sense the intent forming, so plotting it is its own peril. Term-limited contracts instead simply end, releasing the Bound and collecting the piece of themselves named at signing as the price. That piece is the Pledge. What walks away is Unbound: free of the contract, and missing the Pledge.
 
 True flight may be contracted. True flight belongs to the Tengu and, in legend, the Phoenix. A contract for flight is uncommon, and it always shows: it grants literal, visible wings (or a stranger tell: a shadow that lifts, feet that will not touch ground) that a Bound cannot furl or hide, marking them plainly as something that made a bargain, the way a Phoenix's fire marks them. Most who want the sky are better served by gliding or a saving slow-fall. True sustained flight is a GM's call, priced with heavier Terms and a Pledge to match. The wings stay visible in any crowd.
 
-**The Given-Over** is the world's name for a Bound who keeps signing, power after power, pledge after pledge: first out of fear of paying what they already owe (sign another contract to defer the debt), then because it becomes too much to stop. Bit by bit they give themselves over until the being effectively holds them. A person who has signed away nearly all of themselves is a person the table no longer plays as a character. The plain name is the Given-Over. Among the contract-guilds, the Forfeit.
+A Bound keeps signing, power after power, pledge after pledge: first out of fear of paying what they already owe, signing another contract to defer the debt, then because it becomes too much to stop. Bit by bit they give themselves over until the being effectively holds them. A person who has signed away nearly all of themselves is a person the table no longer plays as a character. The plain name is the Given-Over. Among the contract-guilds, the Forfeit.
 
 ### Rules
 
@@ -130,11 +130,11 @@ True flight may be contracted. True flight belongs to the Tengu and, in legend, 
 
 **Folk recognition.** The price of a contract. Colloquially, **the Hollow**. **Path.** Struck only. It follows a finished Bound contract. **Share.** About 1.5 percent: only the subset of Bound whose contracts were term-limited. An open-ended contract does not come due. **Standing.** Pitied / uneasy.
 
-When the term ends, the counterparty releases the person and collects the Pledge, the part of themselves they named at signing, and they walk away unbound: free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. The Condition is titled Unbound for the release. The common tongue calls them the Hollow, after the hole. Both are true: a freedom, and an absence.
+When the term ends, the counterparty releases the person and collects the part of themselves they named at signing. That part is the Pledge. They walk away unbound, free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. The common tongue calls them the Hollow, after the hole. Both are true: a freedom, and an absence.
 
 The Pledge was chosen up front, at the signing. You knew what you would owe. So the loss is both grief and gift: the hole is also an immunity. People are unsettled by the absence in them. A Long-Lived keeps learning to stay whole. An Unbound keeps connecting to stay quiet.
 
-You become Unbound only after playing through (or arranging at session zero, with the GM) an actual Bound contract, establishing what the contract was, what you Pledged, and the moment the term came due and it was collected. The Absence is a specific, agreed loss with real weight.
+You become Unbound only after playing through (or arranging at session zero, with the GM) an actual Bound contract, establishing what the contract was, what you Pledged, and the moment the term came due and it was collected. What was taken is specific, agreed, and it has real weight. That loss is the Absence.
 
 ### Rules
 
@@ -152,13 +152,13 @@ You become Unbound only after playing through (or arranging at session zero, wit
 
 **Folk recognition.** The old tales called them sirens. **Path.** Both Given and Struck. **Share.** About 12 percent (~11% Given, ~1% Struck). **Standing.** Revered.
 
-A Far-Voiced's voice has total emotional fidelity: it carries exactly as far, and exactly as true, as the Far-Voiced means it to. The danger lands on the Far-Voiced themself.
+A Far-Voiced's voice carries exactly as far, and exactly as true, as the Far-Voiced means it to. The danger lands on the Far-Voiced themself.
 
 A Far-Voiced's voice is never drowned out by distance, storm, battle-noise, or water, and it never says less than it means. That is why the signal network runs on them: relay-singers post along coasts, roads, and border-towns to carry warnings, alarms, and orders faster and farther than any horn or drum. Courts and treaties want them as witnesses, because a Far-Voiced's own voice betrays real feeling the moment they are under pressure, so their sworn word is trusted precisely because they are bad at lying under strain. They fill concert halls because emotion, delivered audibly and exactly, is the whole art form. They are revered. A Far-Voiced who cannot keep that voice in hand is a genuine hazard to everyone in earshot, which is exactly why guild training exists.
 
-The two paths read differently. A **Given** Far-Voiced drew the colour at the Awakening and spent childhood guild-trained (breath control, projection, the discipline of venting on purpose), controlled, professional, poised. A **Struck** Far-Voiced nearly drowned. Struck arrives by surviving drowning. They came up with the voice raw and untrained, the pull of unvented feeling already on them before anyone taught them to vent it. Same Condition, very different person. Onlookers see no leaf-colour and no ceremony. They call it a miracle, or faintly uncanny. A Struck Far-Voiced usually needs a guild's help fast, before they learn in public what happens at zero tokens.
+The two paths read differently. A **Given** Far-Voiced drew the colour at the Awakening and spent childhood guild-trained (breath control, projection, the discipline of venting on purpose), controlled, professional, poised. A **Struck** Far-Voiced nearly drowned. They came up with the voice raw and untrained, the pull of unvented feeling already on them before anyone taught them to vent it. Same Condition, very different person. Onlookers see no leaf-colour and no ceremony. They call it a miracle, or faintly uncanny. A Struck Far-Voiced usually needs a guild's help fast, before they learn in public what happens at zero tokens.
 
-Meeting the Tithe is why the jobs exist. Deliberate, controlled venting (performance, ritual song, relay-calls) is how a working Far-Voiced keeps that upkeep met, so the careers that need a big voice are also the careers that keep one healthy. The guild drilling (breath work, scheduled performance, the discipline of singing it out before a shift ends) exists because an un-vented Far-Voiced is unpleasant to be near, and a Cry (an un-vented outburst of feeling) in a crowded hall or a command tent is a real, documented hazard.
+Meeting the Tithe is why the jobs exist. Deliberate, controlled venting (performance, ritual song, relay-calls) is how a working Far-Voiced keeps that upkeep met, so the careers that need a big voice are also the careers that keep one healthy. The guild drilling (breath work, scheduled performance, the discipline of singing it out before a shift ends) exists because an un-vented Far-Voiced is unpleasant to be near, and an un-vented outburst of feeling in a crowded hall or a command tent is a real, documented hazard. That outburst is a Cry.
 
 A Bound detects others' lies. A Far-Voiced betrays their own feeling.
 
@@ -180,13 +180,13 @@ The Cry costs listeners Stress and costs the Far-Voiced a Stress. Listeners feel
 
 **Folk recognition.** The old tales called them gorgons. **Path.** Both Given and Struck. **Share.** About 7 percent. **Standing.** Feared and guild-regulated.
 
-One of the Stilled is a person who can still things: arrest a wound, freeze a fight before it turns lethal, hold a struggling patient steady under the knife. The danger is that the stillness has to come from somewhere, and if one of the Stilled doesn't keep moving, it starts settling into them.
+One of the Stilled can arrest a wound, freeze a fight before it turns lethal, or hold a struggling patient steady under the knife. The danger is that the stillness has to come from somewhere, and if one of the Stilled doesn't keep moving, it starts settling into them.
 
-The Gaze, their stilling look, can hold a moment still: a bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. Peacekeepers want them on a riot line. A stilled brawl is a brawl that didn't turn into a massacre. Surgeons and medics want them in the theatre: a patient held perfectly still is a patient who survives the knife. They are feared and licensed, because the same Gaze that stops a wound bleeding can, misused or lost to anger, hold a person still forever. Licenses, oversight, and a strict code govern who may still and why.
+Their look can hold a moment still. A bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. That look is the Gaze. Peacekeepers want them on a riot line. A stilled brawl is a brawl that didn't turn into a massacre. Surgeons and medics want them in the theatre: a patient held perfectly still is a patient who survives the knife. They are feared and licensed, because the same Gaze that stops a wound bleeding can, misused or lost to anger, hold a person still forever. Licenses, oversight, and a strict code govern who may still and why.
 
 Their hair stirs faintly when something nearby has gone dangerously still (a held breath, a nocked arrow, a predator about to spring). A tell their trade has learned to read.
 
-The two paths read differently. A **Given** Stilled drew the colour at the Awakening and trained young under guild discipline: knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. A **Struck** Stilled actually survived being turned to stone, held rigid, unbreathing, for however long it took someone to reverse it, and came back with the stillness now living inside them, unpracticed, and the stillness comes on more easily. Struck arrives by surviving being turned to stone: petrified by another of the Stilled's Gaze, a trap, a curse, an accident, and returning to flesh. Onlookers see no leaf-colour and no ceremony. They call it a miracle, a mercy, or a little unnerving, depending on who did the reversing. A Struck member of the Stilled usually needs a guild's help fast, before an unmanaged Grey (the stillness collecting in them, counting toward stone) shows them in public what a seizing feels like.
+The two paths read differently. A **Given** Stilled drew the colour at the Awakening and trained young under guild discipline: knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. A **Struck** Stilled actually survived being turned to stone, held rigid and unbreathing for however long it took someone to reverse it, and came back to flesh with the stillness now living inside them, unpracticed, and the stillness comes on more easily. The stone came from another of the Stilled's Gaze, a trap, a curse, or an accident. Onlookers see no leaf-colour and no ceremony. They call it a miracle, a mercy, or a little unnerving, depending on who did the reversing. A Struck member of the Stilled usually needs a guild's help fast, before unmanaged stillness collects in them, counts toward stone, and shows them in public what a seizing feels like. That stillness is the Grey.
 
 The Stilled drill hard, spar often, and stay physically busy almost as a matter of professional identity. Every use of the Gaze adds a little Grey, so the guilds build constant motion into the job itself (patrols, practice bouts, dance as therapy) to work it back out before it settles. An unlicensed or careless one of the Stilled who lets the Grey fill and seize is a real, documented hazard, first to themselves. A doorknob turned to stone is scenery. Their own hand, locked on a weapon, is the limb the seizing takes. The guild's oversight is strict.
 
@@ -207,11 +207,11 @@ The seizing locks the Stilled's own body, or turns something small nearby to sto
 
 ## The Answered
 
-**Folk recognition.** The old tales called them djinn: jinni, wish-granting spirits in lamps. **Path.** Given only. **Share.** About 10 percent. **Standing.** Wildcard.
+**Folk recognition.** The old tales called them djinn. In those tales, a jinni sat in a lamp and granted wishes. **Path.** Given only. **Share.** About 10 percent. **Standing.** Wildcard.
 
-An Answered is a person one of the four elements answered at the Awakening, and the element goes on answering for the rest of their life. The element talks back to the Answered's hands the way a native tongue talks back to a native speaker.
+One of the four elements answered them at the Awakening, and the element goes on answering for the rest of their life. The element talks back to the Answered's hands the way a native tongue talks back to a native speaker.
 
-At Leaf-Fall, an Answered child's leaf marks them Given, and its **shade** names which element answered: **Ember** (fire), **Tide** (water), **Root** (earth and stone), or **Gale** (air). From that day the element is theirs to speak to. They coax it the way a potter coaxes clay.
+At Leaf-Fall, an Answered child's leaf marks them Given, and its **shade** names which element answered: fire, water, earth and stone, or air. Those shades are **Ember**, **Tide**, **Root**, and **Gale**. From that day the element is theirs to speak to. They coax it the way a potter coaxes clay.
 
 That is why the Answered run the craft guilds built around their element. Ember-Answered glasswrights and smiths who don't need a furnace at full heat. Tide-Answered shipwrights and dyers who can bend a hull's planks or set a colour without steam or mordant. Root-Answered masons and potters who coax stone and clay without chisel or wheel. Gale-Answered sailmakers and instrument-makers who cut and voice their work with the wind's own help. Watch rotations, escort work, and firefighting crews give them a steady outlet as well.
 
@@ -244,9 +244,9 @@ Every 0-token consequence lands on the Answered's own body or the air, water, an
 
 ## The Taken-In
 
-**Folk recognition.** The old tales called them leshy: trickster forest-spirits that led travelers in circles until they died. **Path.** Both Given and Struck. **Share.** About 13 percent (~12% Given, ~1% Struck). **Standing.** Respected but looked-down; frontier.
+**Folk recognition.** The old tales called them leshy. In those tales, a trickster forest-spirit led travelers in circles until they died. **Path.** Both Given and Struck. **Share.** About 13 percent (~12% Given, ~1% Struck). **Standing.** Respected but looked-down; frontier.
 
-One of the Taken-In is a person the wild took partway into itself and gave back changed: bark at the knuckles, moss in the hair, a spread of antler or a knot of root somewhere on the body, and green things that lean toward them. The wild lives in them now, and answers them, which is exactly why the hard land gets worked at all.
+The wild took them partway into itself and gave them back changed: bark at the knuckles, moss in the hair, a spread of antler or a knot of root somewhere on the body, and green things that lean toward them. The wild lives in them now, and answers them, which is exactly why the hard land gets worked at all.
 
 They can coax growth, read the wild, and move through it unseen and unlost. The frontier runs on them. A Taken-In steward makes thin soil yield, keeps a herd through a bad winter, walks a forest without ever losing north, and knows a day out which way the weather turns. They are society's farmers, foresters, herders, and frontier-wardens.
 
@@ -277,9 +277,9 @@ The go-to-seed growth erupts from the ground and structures around the Taken-In 
 
 **Folk recognition.** They are called what the stories call them: **the Phoenix**. Every other Condition wears a plain, euphemistic title (the Long-Lived, the Returned, the Far-Voiced) because those becomings pass unremarked in the crowd, and the quiet name is their camouflage. The Phoenix cannot pass, cannot hide, and the whole world already knows the story. The naming itself marks them as singular. **Path.** Given only. The Tree's leaf is the only way a Phoenix begins. **Share.** Less than 0.1 percent, and there is only ever **one at a time in the entire world**. **Standing.** Legendary.
 
-A Phoenix is a person who burns down to ash and rises again. Each death takes a piece of who they were; each life is a little further from the first. The Long-Lived never die. The Returned refuse to stay dead. A Phoenix dies completely, and comes back a new turn of the same soul, carrying fewer and fewer of the old one's memories.
+A Phoenix burns down to ash and rises again. Each death takes a piece of who they were; each life is a little further from the first. The Long-Lived never die. The Returned refuse to stay dead. A Phoenix dies completely, and comes back a new turn of the same soul, carrying fewer and fewer of the old one's memories.
 
-When the current Phoenix finally ends (spends their last life), the Tree gives the leaf to a single child, somewhere, and the next one begins. They are singular: the one living person the whole world's phoenix-stories are currently about. The Tree names them once a generation or once an age, and then not again until they're gone. Almost nobody has ever met them. They are known through stories.
+When the current Phoenix finally spends their last life, the Tree gives the leaf to a single child, somewhere, and the next one begins. They are the one living person the whole world's phoenix-stories are currently about. The Tree names them once a generation or once an age, and then not again until they're gone. Almost nobody has ever met them. They are known through stories.
 
 A whole city arranges itself around a Phoenix. In a single town they may be, all at once:
 

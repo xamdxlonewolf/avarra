@@ -2,7 +2,7 @@
 
 ## The fifteen
 
-Fifteen named powers on the three large continents. Kumbaan is an isolate with a table, a moon, and a storm-wall. The Isle is a people at home.
+Fifteen named powers stand on the three large continents. Kumbaan is an isolate with a table, a moon, and a storm-wall. The Isle is a people at home.
 
 Beneath the fifteen the world still swarms: marches, free towns, petty Tree-seats, wild that no one has named as a power. Fifteen is how many powers are worth naming.
 
@@ -57,15 +57,15 @@ The Watching stays a heartland heresy *inside* Maiethorn districts. Leddvael is 
 
 ### How they sit
 
-**Maiethorn.** Threnmaieth coils near the sacred centre and wants everyone on the **Threnhael**, its census of persons. Its seat is Maiethlir, a thaw-river Hand: a town whose planted Tree now Turns its own children. Maiethvael is the old gift-country that shares the Mother and keeps no list: same hymns, opposite paper. Orenbren is the lodging-cluster of the Near Mile (the week's door to the origin), and the work is civic lodging. The First Seat stays in the Motherwood beside Orenbren. Saelthael is the leeward east, still walking west after the core stopped. The Hinge Shore faces Strandoren across the Old Crossing. Lirorn holds the central range that divides the waters. Fox-of-the-Snows and Tengu hearths are *densest* here. Lirorn remains the watershed.
+**Maiethorn.** Threnmaieth coils near the sacred centre and wants everyone on the **Threnhael**. The Threnhael is its census of persons. Its seat is Maiethlir. It is a thaw-river Hand. The planted Tree now Turns the town's own children. Maiethvael is the old gift-country that shares the Mother and keeps no list. The hymns are the same. The paper is not. Orenbren is the lodging-cluster of the Near Mile (the week's door to the origin), and the work is civic lodging. The First Seat stays in the Motherwood beside Orenbren. Saelthael is the leeward east, still walking west after the core stopped. The Hinge Shore faces Strandoren across the Old Crossing. Lirorn holds the central range that divides the waters. Fox-of-the-Snows and Tengu hearths are *densest* here. Lirorn remains the watershed.
 
-**Strandoren.** Lestrand is the premier coast. Its seat is Orentel, the Salt Quay. The White Note sits on the third quay and writes the terms. Brenledd is the compact of towns that got tired of being priced by one set of houses. Leddvael made the Fair Hand a civic rite on a different stretch of signing-water. Trenledd is the wealthy interior that started counting tickets and did not stop. Netstrand faces the open ocean toward Heskoren and, in stories, the storm-wall.
+**Strandoren.** Lestrand is the premier coast. Its seat is Orentel. It is the Salt Quay. The White Note sits on the third quay and writes the terms. Brenledd is the compact of towns that got tired of being priced by one set of houses. Leddvael made the Fair Hand a civic rite on a different stretch of signing-water. Trenledd is the wealthy interior that started counting tickets and did not stop. Netstrand faces the open ocean toward Heskoren and, in stories, the storm-wall.
 
-**Heskoren.** Vaethorn is the waiting-gospel. Its seat is Eolvaeth, a pilgrim-edge. Saelvaeth is the live edge of the wave. Natai is the march-town. Harrow's Green is a grove-town in that march. Vaelhesk keeps host-rights on old greens, and the land is the seat. Ornled is Vaethorn with the faith burned out instead of up: same thin Trees, no congregation to catch you. The Three Hamlets Past the Ford sit on the seam. They can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal. Folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them.
+**Heskoren.** Vaethorn is the waiting-gospel. Its seat is Eolvaeth. It is a pilgrim-edge. Saelvaeth is the live edge of the wave. Natai is the march-town. Harrow's Green is a grove-town in that march. Vaelhesk keeps host-rights on old greens, and the land is the seat. Ornled is Vaethorn with the faith burned out instead of up. It has the same thin Trees, and no congregation to catch you. The Three Hamlets Past the Ford sit on the seam. They can see Harrow's canopy (Saelvaeth luck) and still hear Vaethorn guilt and Vaelhesk refusal. Folk names *Brenod · Vaelun · Ornath*; the Seat still does not use them.
 
 ### Two mouths, same fifteen
 
-A Seat clerk and a Lestrand **factor** (a house's commercial agent, who prices routes and berths) do not issue the same map. **Orthopraxy**, belonging by the rite you keep, is the peace. The *list* is the tell.
+A Seat clerk and a Lestrand **factor** do not issue the same map. A factor works for a house and prices routes and berths. **Orthopraxy**, belonging by the rite you keep, is the peace. The *list* is the tell.
 
 > **From a Cut-year minute, First Seat (C.Y. 387).** *Threnmaieth names itself the Reckoning and would name us. Maiethvael will not be named to them and still Sends the extra mile. Orenbren lodges what we do not house. Saelthael still walks, which the origin finds inconvenient. The Hinge Shore takes the Old Crossing. Lirorn takes the thaw. Across the water the factor's five: Lestrand, the Brenledd compact, Leddvael which files a Bound as a civic virtue, Trenledd which keeps a roll and will not call it a Threnhael, Netstrand which sells the west. On the far reach: Vaethorn waiting, Saelvaeth planting, Vaelhesk feeding a first meal we did not authorize, Ornled which will not say her name and will not keep a list either. Kumbaan is not a land we graft. We do not write it.*
 >
@@ -81,7 +81,7 @@ Neither list is complete. Both are true of the speaker.
 
 *(THREN-my-eth · thren "to count" + maieth "Mother" = "the Mother's Reckoning." Theology high · reach high · governance high; the darkest corner)*
 
-A pious, Tree-rich core kingdom that is also **Watchful**: it keeps a register of persons. Alone among polities it holds a **census of persons and their Conditions**. Set that in the wealthiest, most devout, most Tree-dense land, and the roster is kept as **sanctified duty**. The Mother's gifts are precious and must be *accounted for.* The other two corners have injustices you can name and resent. This one dresses its injustice in the two things the world most trusts, faith and plenty.
+Threnmaieth is a pious, Tree-rich core kingdom that is also **Watchful**. It keeps a register of persons. Alone among polities it holds a **census of persons and their Conditions**. Set that in the wealthiest, most devout, most Tree-dense land, and the roster is kept as **sanctified duty**. The Mother's gifts are precious and must be *accounted for.* The other two corners have injustices you can name and resent. This one dresses its injustice in the two things the world most trusts, faith and plenty.
 
 **Law.** The record is held on people: every subject and their gift written down. Guild rolls and tax ledgers exist everywhere. This is a **census of persons**, framed at home as reverent stewardship of the Mother's blessings and lived as surveillance. Reach is high, so there is a great deal to count: dense Given, dense guilds, abundant Long-Lived whose memory the crown *distrusts because it isn't the crown's*. That is the Tallied Crown's deepest tell. It will not rely on the three pillars the rest of the world runs on (Long-Lived memory, Bound word, Far-Voiced feeling). Living memory answers to itself. A ledger answers to the crown. The **unvouched are hunted and the Struck pursued to be catalogued.** The Bound are watched far past their real hazard: stigma dressed as safety. The Inviolate Will means the Whisper cannot command, and the roster's own clerks know it. Devotion supplies the justification a bare Watchful crown lacks: *you would not hide a gift from the Mother, so why hide it from her stewards?*
 
@@ -91,13 +91,13 @@ A pious, Tree-rich core kingdom that is also **Watchful**: it keeps a register o
 
 **Its injustice.** The worst of both high axes, each excusing the other. The devotion sanctifies the surveillance (*it is reverence to be counted*). The surveillance enforces the devotion (*to refuse the count is impiety*). There is no clean villain. A wealthy, faithful, orderly people believe that accounting for the Mother's gifts is the highest form of tending them, and that belief makes the machinery of control almost impossible to resist. No other polity keeps such a list. This crown invented the record. The faith is what lets it feel like grace.
 
-**The seat.** Maiethlir *(my-eth-LEER)*, a thaw-river Hand in the Sacred Core. The older job of this ground is the extra mile, the walk devotion still sends people on. The Threnhael is the roll laid on that walk. Thaeloren, the Tree in the Motherwood, stands outside this crown. The First Seat stays in the wood beside Maiethlir.
+**The seat.** Maiethlir *(my-eth-LEER)* is in the Sacred Core. It is a thaw-river Hand. The older job of this ground is the extra mile. Devotion still sends people on that walk. The Threnhael is the roll laid on that walk. Thaeloren stands outside this crown. It is the Tree in the Motherwood. The First Seat stays in the wood beside Maiethlir.
 
 ### Lestrand: the Ledger Coast
 
 *(leh-STRAND · ledd "to reckon" + strand "shore" = "the Reckoning Coast." Theology low · reach high · governance low)*
 
-A dense, Tree-rich merchant power. The Trees are mature and many, the Given are dense, and the faith is worn *lightly.* Deep markets, thin welfare, and a cool, transactional read on becoming. It shares the Waiting Lands' light-touch governance: no crown writes anyone down. Where the Lands' light state leaves a *gap the faith fills*, the Coast's light state leaves a *space the guilds fill.*
+Lestrand is a dense, Tree-rich merchant power. The Trees are mature and many, the Given are dense, and the faith is worn *lightly.* Deep markets, thin welfare, and a cool, transactional read on becoming. It shares the Waiting Lands' light-touch governance: no crown writes anyone down. Where the Lands' light state leaves a *gap the faith fills*, the Coast's light state leaves a *space the guilds fill.*
 
 **Law.** The world's warm default at its most developed: **guild self-rule** carried as far as it goes. The state is a charter-granting council of merchant houses and craft-guilds. It charters the Stilled's guild and the element-guilds and watches the guild, never the individual. Citizenship-by-witness runs *smoothly* here because reach is high: abundant Long-Lived notaries, Bound whose sworn word closes every contract, Far-Voiced on every dock and in every court. The three pillars are not reverence here. They are **infrastructure**, the machinery that lets a huge commercial city run on trust without a register. The Struck are vouched-in briskly, as efficiency rather than grace, because an unvouched person is a transaction that cannot clear. The Inviolate Will is cited less as sacred bedrock than as sound commercial law: a Bound's contract binds property, not persons, and the Coast likes that line because it makes the Bound the perfect notary.
 
@@ -107,13 +107,13 @@ A dense, Tree-rich merchant power. The Trees are mature and many, the Given are 
 
 **Its injustice.** The coolest of the three. Nothing is *policed*. Your marriage, your gift, your faith are your own. Everything is *priced*, and a person who cannot pay slides with a whole rich city stepping around them. The Coast will never file you or conscript you. It will let you fade if you run out of coin, and feel that it owed you nothing.
 
-**The seat.** Orentel *(or-EN-tel)*, a salt-quay city on the inner sea. The White Note House sits on the third quay, north side, and writes the terms. Orentel holds the seat.
+**The seat.** Orentel *(or-EN-tel)* is on the inner sea. It is a salt-quay city. The White Note House sits on the third quay, north side, and writes the terms. Orentel holds the seat.
 
 ### Vaethorn: the Waiting Lands
 
 *(vay-THORN · vaeth "the waiting" + orn "land" = "the Waiting Land." Everyday *Wethorn*. Theology high · reach low · governance low)*
 
-A broad, thinly-peopled land at the world's Tree-poor margin. The faith burns hottest *because* the Trees are scarce. The ruling mood is *waiting*: for a graft to take, a distant Tree to be reached, a gift that may never fall. Where the Trees are few and young, more children come away Kept, more people are Struck later and alone, and the Motherfaith answers that scarcity with *more* devotion, not less: pilgrimage, longing, and a theology built around waiting for a gift that may not come.
+Vaethorn is a broad, thinly-peopled land at the world's Tree-poor margin. The faith burns hottest *because* the Trees are scarce. The ruling mood is *waiting*: for a graft to take, a distant Tree to be reached, a gift that may never fall. Where the Trees are few and young, more children come away Kept, more people are Struck later and alone, and the Motherfaith answers that scarcity with *more* devotion, not less: pilgrimage, longing, and a theology built around waiting for a gift that may not come.
 
 **Law.** Governance is almost absent. No crown reaches the individual, and custom outruns written law the way it does on any frontier. Citizenship is witnessed in the oldest, most literal way: a settlement small enough that everyone *was* there when you Turned. Thin reach makes that fragile. With few Long-Lived to remember and few Bound to vouch, the three pillars that make proof-by-people work are stretched thin. The **unvouched Struck** (a person who changed alone, with no guild to catch them and few witnesses to stand for them) is a constant, aching problem the Waiting Lands meet with faith rather than machinery. A feared Condition here is more likely to be met with a rope or a blessing than a licence, because there is no guild to issue one.
 
@@ -123,7 +123,7 @@ A broad, thinly-peopled land at the world's Tree-poor margin. The faith burns ho
 
 **Its injustice.** Not a boot. A **guilt**. The scarcity of the gift becomes a theology of *unworthiness*. The Kept wonder what they lacked. The Struck wonder why the Mother came to them at the wrong door and alone. A hard, quiet piety can shade into treating want as a spiritual failing. The Waiting Lands are the kindest place in the world to a whole neighbour and the loneliest to an unvouched one.
 
-**The seat.** Eolvaeth *(ay-ohl-VAYTH)*, a pilgrim-edge vale behind the Strandoren-facing coast. People walk *here to wait*. The Tree is not a certainty. Eolvaeth holds Vaethorn's seat. Harrow's Green is a grove-town in Saelvaeth's march, and Natai is the march-town. The Three Hamlets Past the Ford sit on the seam.
+**The seat.** Eolvaeth *(ay-ohl-VAYTH)* is behind the Strandoren-facing coast. It is a pilgrim-edge vale. People walk *here to wait*. The Tree is not a certainty. Eolvaeth holds Vaethorn's seat. Harrow's Green is a grove-town in Saelvaeth's march, and Natai is the march-town. The Three Hamlets Past the Ford sit on the seam.
 
 ---
 
@@ -133,37 +133,37 @@ The twelve have seats: a capital, a city, a town, or, in Vaelhesk, the land. Six
 
 ### Maiethvael: the Gift-Realm
 
-*(my-ETH-vayl · maieth "Mother" + vael "gift" = "the Mother's Gift.")* Theology high · reach high · governance **low**. Everyday *Maiethvael*; people **Maiethvael-folk**. Threnmaieth, the Mother's Reckoning, is the other power.
+*(my-ETH-vayl · maieth "Mother" + vael "gift" = "the Mother's Gift.")* Theology high · reach high · governance **low**. Everyday *Maiethvael*; people **Maiethvael-folk**. Threnmaieth is the other power.
 
-An old, Tree-dense Motherland realm that treats Tithe-provision as **public tending**: greens, halls, and medicine furnished by congregation and guild. Citizenship is witnessed in the world's warm default. There is no Threnhael here. They will tell you counting persons is a failure of trust in the three pillars. The hymns are the same ones Threnmaieth sings. The paper is not.
+Maiethvael is an old, Tree-dense Motherland realm that treats Tithe-provision as **public tending**. Congregation and guild furnish the greens, the halls, and the medicine. Citizenship is witnessed in the world's warm default. There is no Threnhael here. They will tell you counting persons is a failure of trust in the three pillars. The hymns are the same ones Threnmaieth sings. The paper is not.
 
-**Site.** Full-reach Maiethorn country in sight of the pilgrimage weather. The older job of the ground is an origin pilgrimage-country that *furnishes*: the extra mile kept as hospitality.
+**Site.** This is full-reach Maiethorn country, in sight of the pilgrimage weather. The older job of the ground is an origin pilgrimage-country that *furnishes*. The extra mile is kept as hospitality.
 
-**How it formed.** Gift-integration that never accepted a census. When Threnmaieth began to write people down, Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. Light state on purpose. Faith and guild fill the gap.
+**How it formed.** Gift-integration never accepted a census. When Threnmaieth began to write people down, Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. The state is light on purpose. Faith and guild fill the gap.
 
-**Structure.** Guild self-rule under ardent practice. Recruits by office, faith, and Condition-lean. The Watching persists in old districts as it does elsewhere on Maiethorn.
+**Structure.** Guild self-rule runs under ardent practice. Recruiting goes by office, faith, and Condition-lean. The Watching persists in old districts as it does elsewhere on Maiethorn.
 
 **Goals.** Keep the gift hale without writing the gifted down. Furnish generously. Pity the Kept in a land where almost no child is Kept: the slight with no thin-Tree excuse.
 
 **Its injustice.** Not a boot. A **social tax of piety**. Warmth is real and so is the bill: fall out of congregation and the net goes with it, and there is no crown to appeal to. The Kept here are pitied in *plenty*. Threnmaieth at least files them. Maiethvael loves them and cannot stop measuring what they missed.
 
-**Seat.** **Seinbrun** *(SAYN-brun)* is the capital, a large city in the warm core. People say the Gift-Realm. A traveler can spend the first day below Maiethlir's Down Gate among Gift-folk and still not have arrived. The city furnishes a hall, a green beside it, and medicine. There is no roll. A neighbour says a given name. Vuthbraen keeps the hall. Raermu keeps the basket. Breillai left the hymn, and the green went with it. The First Seat stays in the wood. Smaller towns around Seinbrun stay unnamed.
+**Seat.** **Seinbrun** *(SAYN-brun)* is the capital. It is a large city in the warm core. People say the Gift-Realm. A traveler can spend the first day below Maiethlir's Down Gate among Gift-folk and still not have arrived. The city furnishes a hall, a green beside it, and medicine. There is no roll. A neighbour says a given name. Vuthbraen keeps the hall. Raermu keeps the basket. Breillai left the hymn, and the green went with it. The First Seat stays in the wood. Smaller towns around Seinbrun stay unnamed.
 
 ### Orenbren: the Witness-Hearths
 
 *(or-EN-bren · oren "to witness" + bren "hearth" = "the witnessing-hearth.")* Theology high · reach high · governance mid-low. Everyday *Orenbren*; people **Orenbren-folk**. The inns grew a country. The First Seat stays in the wood. Thaeloren stands in that wood.
 
-The civic cluster of the **Near Mile**: lodging-squares, upper rooms, and old road-houses that stayed hearths when the walk stopped being required in the core. Pilgrims still come (the extra mile, the First-Hand year: the prestige origin-walk). Orenbren houses them. Its power is a monopoly on *beds within a week's walk of the grove*.
+Orenbren is the civic cluster of the **Near Mile**. Lodging-squares, upper rooms, and old road-houses stayed hearths when the walk stopped being required in the core. Pilgrims still come (the extra mile, the First-Hand year: the prestige origin-walk). Orenbren houses them. Its power is a monopoly on *beds within a week's walk of the grove*.
 
 The First Seat sits in the Motherwood beside this power and remains a college. Threnmaieth would like the lodging-rolls. Orenbren witnesses who slept. Colour stays off that witness.
 
-The capital is **Rothallo** *(roh-THAL-oh)*, a walled city one day's walk from the Motherwood. People still say the **Inner Close**, and the Close. The walls answer to those names. It is the same place. It stays inside Orenbren. Closed Heirs still rank the Conditioned by a Book of Tithes, kept inside the walls. Orenbren witnesses who slept. They share a country. They do not share a page. Beds for the labour-line are outside the gate. The Book is inside. The First Seat is in the wood, beyond the wall. Rothallo does not Speak the Hand that stands inside the city. The Low Wall, in Other Places, is a different quarry in a fold nearby. It was found already in the ground. The Third Hearth is a road-house three days out. The Mill-hold is the mill-town where the race and the roots share the water. Nelath is the road-end, where the walk stopped. Rothallo is the capital.
+The capital is **Rothallo** *(roh-THAL-oh)*. It is a walled city one day's walk from the Motherwood. People still say the **Inner Close**, and the Close. The walls answer to those names. It is the same place. It stays inside Orenbren. Closed Heirs still rank the Conditioned by a Book of Tithes, kept inside the walls. Orenbren witnesses who slept. They share a country. They do not share a page. Beds for the labour-line are outside the gate. The Book is inside. The First Seat is in the wood, beyond the wall. Rothallo does not Speak the Hand that stands inside the city. The Low Wall, in Other Places, is a different quarry in a fold nearby. It was found already in the ground. The Third Hearth is a road-house three days out. The Mill-hold is where the race and the roots share the water. It is the mill-town. Nelath is where the walk stopped. It is the road-end. Rothallo is the capital.
 
-**Site.** Maiethorn Sacred Core's approach-country. The older job of the ground is an **origin pilgrimage-town**. Tree at the centre of each square; the road used to go further and now ends in a festival season.
+**Site.** This is the approach-country of Maiethorn's Sacred Core. The older job of the ground is an **origin pilgrimage-town**. A Tree stands at the centre of each square. The road used to go further, and now it ends in a festival season.
 
-**How it formed.** Walking-era hearths that federated around the one-week door. When the Years of Hands made the origin-walk optional, the beds did not empty. They changed jobs. A lodging-network learned it could levy, charter, and speak as one without becoming clergy.
+**How it formed.** Walking-era hearths federated around the one-week door. When the Years of Hands made the origin-walk optional, the beds did not empty. They changed jobs. A lodging-network learned it could levy, charter, and speak as one without becoming clergy.
 
-**Structure.** A compact of hearth-towns. Town-wardens and lodging-guilds. Any Kind may take up the work. Deathless houses exist here as *patrons of beds*. Rothallo is the capital. The Third Hearth is a road-house three days out. Brenthael is the neighbour Hand, where the pilgrim road ends at the town Tree. Delamem keeps the Book. Talnin is the heir whose tenth year is not finished. A neighbour in the city says a given name. A clerk says the house first. *Closed* on a roster is a rank.
+**Structure.** It is a compact of hearth-towns, with town-wardens and lodging-guilds. Any Kind may take up the work. Deathless houses exist here as *patrons of beds*. Rothallo is the capital. The Third Hearth is a road-house three days out. Brenthael is the neighbour Hand, where the pilgrim road ends at the town Tree. Delamem keeps the Book. Talnin is the heir whose tenth year is not finished. A neighbour in the city says a given name. A clerk says the house first. *Closed* on a roster is a rank.
 
 **Goals.** Keep the extra mile possible. Charge for it in coin, duty, or hymn; the mix is the local argument. Keep Orenbren's own name, beside the Seat and beside the Reckoning.
 
@@ -173,33 +173,33 @@ The capital is **Rothallo** *(roh-THAL-oh)*, a walled city one day's walk from t
 
 *(SAYL-thale · sael "sowing" + thael "Tree" = "the sown Tree.")* They are still the Motherland. Theology high · reach **mid-low**, a country of wells · governance low. Everyday *Saelthael*; people **Saelthael-folk**. Shares *sael* with Saelvaeth on purpose: sowing on two continents. Where the wood has reached, the work is still unfinished, even at the origin. Larbril is the city. Ornsael is the well-town a party meets in this dry country. Fox of the Sands hearths are common here because the ground is dry.
 
-The Rain-Shadow: leeward east of the central range, dry hills and sand-country, towns at wells and at whatever graft will take. Full-reach continent, **thinner wood**. The core stopped walking. Saelthael did not. Children still go west in the neighbour's week (walking to a neighbour's Tree), or further, because a well-Tree is not a certainty.
+Saelthael is the Rain-Shadow, leeward east of the central range. The towns sit in dry hills and sand-country, at wells and at whatever graft will take. The continent is full-reach, and the wood is thinner. The core stopped walking. Saelthael did not. Children still go west in the neighbour's week (walking to a neighbour's Tree), or further, because a well-Tree is not a certainty.
 
 Fox of the Sands hearths are densest here because the ground is dry. A town with *no* fox-born would be the thing worth asking about.
 
-**Site.** Maiethorn's dry east. The older job of the ground is a **Rain-Shadow walk-hold**: the west-road after the core stopped. Ornthael ("Tree-land," the years when a town Tree is the ordinary way to Turn) is unfinished even on the origin continent. The city is **Larbril** *(LAR-bril)*, medium, where the west road meets the Well-wash, short of the pass. Walking west, the Shelf-gate is still ahead. Walking east, the dry is in front of you. Brormei stands at the meeting and says what the wash is this week. **Ornsael** stays the smaller well-town, farther into the dry. Its drink is a well. The Dry Stair is another rise, on its own ground.
+**Site.** This is Maiethorn's dry east. The older job of the ground is a **Rain-Shadow walk-hold**. That is the west-road after the core stopped. Ornthael means Tree-land. It names the years when a town Tree is the ordinary way to Turn, and those years are unfinished even on the origin continent. **Larbril** *(LAR-bril)* is where the west road meets the Well-wash, short of the pass. It is a medium city. Walking west, the Shelf-gate is still ahead. Walking east, the dry is in front of you. Brormei stands at the meeting and says what the wash is this week. **Ornsael** stays the smaller well-town, farther into the dry. Its drink is a well. The Dry Stair is another rise, on its own ground.
 
-**How it formed.** Tree-seats that formed around wells and slow grafts (C.Y. 0-80 was slower here: dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow.
+**How it formed.** Tree-seats formed around wells and slow grafts (C.Y. 0-80 was slower here: dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow.
 
-**Structure.** Light custom, town-wardens, wells as civic fact. Any Kind may take up the work. The Taken-In are honoured as they are on any thirsty land: the backbone of the work.
+**Structure.** Custom is light. Town-wardens keep it, and wells are a civic fact. Any Kind may take up the work. The Taken-In are honoured as they are on any thirsty land: the backbone of the work.
 
 **Goals.** Keep grafts alive in thin soil. Keep the west-road open. Name the waiting as thin soil.
 
-**Its injustice.** The motherland treats their waiting as a **local soil-problem** (true as far as it goes) and as a slight against the origin. Plenty next door. The pilgrimage is the older job of this ground, and they are still walking it. Vaethorn-guilt imported to sand that never asked for it.
+**Its injustice.** The motherland treats their waiting as a **local soil-problem** (true as far as it goes) and as a slight against the origin. Plenty is next door. The pilgrimage is the older job of this ground, and they are still walking it. Vaethorn-guilt was imported to sand that never asked for it.
 
 ### The Hinge Shore
 
 Theology **mid** · reach high · governance low. **The Hinge Shore** is both the spoken and written name; its people are **Hinge-folk**. An older dockets-form *Eolstrand* is retired: *Eoloren, Eolthael,* and *Eolvaeth* already carry the hinge-root across an era, a month, and a city.
 
-Maiethorn's western ports on **the Old Crossing** toward Strandoren: the oldest trade route in the world. Ancient, rich, less frantic than the Ledger Coast. They decide whether a hull is pilgrim, pot, person, or cargo before anyone across the water prices it. Lestrand **prices** the crossing. The Hinge Shore **sorts** it. Faith worn *thinner* here than in Maiethvael because a dock teaches categories. Trees still healthy because this is still the Motherland.
+The Hinge Shore is Maiethorn's western ports on **the Old Crossing** toward Strandoren. The Old Crossing is the oldest trade route in the world. It is ancient and rich, and less frantic than the Ledger Coast. They decide whether a hull is pilgrim, pot, person, or cargo before anyone across the water prices it. Lestrand **prices** the crossing. The Hinge Shore **sorts** it. Faith is worn *thinner* here than in Maiethvael because a dock teaches categories. The Trees are still healthy because this is still the Motherland.
 
 Selkie families are common on these quays, as they are on any old water. They keep hearths here. The **Hush-rate** is charged as old custom. They will not call it a victory.
 
-**Site.** Old Crossing face. The older job of the ground is salt-adjacent Old-World quays (the Salt Walk's *other* shore: people embarked *from* Strandoren; they landed here). The port is **Votaer** *(VOH-tayr)*, one of the largest cities on this coast, because the crossing is why the people are there. It faces Orentel across the water. Tumair writes the hull: pilgrim, pot, person, or cargo. Lertho charges the Hush-rate on the same water. The White Note writes its terms on Orentel's third quay. Towns and villages along the rest of the shore stay unnamed.
+**Site.** This is the face of the Old Crossing. The older job of the ground is salt-adjacent Old-World quays. That is the Salt Walk's *other* shore. People embarked *from* Strandoren, and they landed here. **Votaer** *(VOH-tayr)* is the port, because the crossing is why the people are there. It is one of the largest cities on this coast. It faces Orentel across the water. Tumair writes the hull: pilgrim, pot, person, or cargo. Lertho charges the Hush-rate on the same water. The White Note writes its terms on Orentel's third quay. Towns and villages along the rest of the shore stay unnamed.
 
-**How it formed.** Port-kings and charter-harbours grown from the crossing. Conservative tongue because the grove is at their backs; mid theology because Lestrand is in front of them. A hinge has two sides. The Grey Summer taught the pious shore how to step around a fade *without putting the blessing down.*
+**How it formed.** Port-kings and charter-harbours grew from the crossing. The tongue stays conservative because the grove is at their backs, and theology stays mid because Lestrand is in front of them. A hinge has two sides. The Grey Summer taught the pious shore how to step around a fade *without putting the blessing down.*
 
-**Structure.** Guild-coast, light state, old houses. Any Kind may take up the work. Far-Voiced on every quay as infrastructure, same as Strandoren, with more hymn left in the voice.
+**Structure.** It is a guild-coast, with a light state and old houses. Any Kind may take up the work. Far-Voiced on every quay as infrastructure, same as Strandoren, with more hymn left in the voice.
 
 **Goals.** Keep the Old Crossing the world's highway. Classify the hull before anyone prices it. Broker pilgrimage-traffic and cargo under the Shore's own categories. Charge the Hush-rate. Say the blessing if a mouth wants one.
 
@@ -209,29 +209,29 @@ Selkie families are common on these quays, as they are on any old water. They ke
 
 *(leer-ORN · lir "thaw; water that runs again" + orn "land" = "thaw-land.")* Theology mid · reach high · governance **mid**. Everyday *Lirorn*; people **Lirorn-folk**. The range divides Maiethorn's waters. The name is the snowmelt.
 
-Maiethorn's central range: high snow, rope-and-wing towns, rivers that begin as thaw. Reach is still full. Grafts take in the valleys and the sheltered shelves. The weather is bigger, and the state is a **watershed holding**. Lowlands drink Lirorn's spring. Ridges notice.
+Lirorn is Maiethorn's central range. The snow is high, the towns are rope-and-wing, and the rivers begin as thaw. Reach is still full. Grafts take in the valleys and the sheltered shelves. The weather is bigger, and the state is a **watershed holding**. Lowlands drink Lirorn's spring. Ridges notice.
 
 Tengu ridge-towns and Fox-of-the-Snows hearths sit densest here. Mixed Kinds on every shelf. A lowlander arriving on foot is a guest who climbed.
 
-**Site.** The range that divides the continent's watersheds. The older job of the ground is ridge-roads that used to be walking-paths to the grove; stones in high squares; some roads that now end at a local Tree. The seat is **Tasain** *(tah-SAYN)*, a walled town in a sheltered valley below the Shelf-gate, where the west road comes down and the levy is taken. The town gate is Tasain's own. The Shelf-gate is the pass above it. The Noon Pass stays a pass, higher and older. Narol of the Pass is dead. The house still levies. Villages and hamlets stay on the shelves. Larbril is the city on the dry side of that pass. Tasain is where you are when the road has come down into shelter.
+**Site.** This range divides the continent's watersheds. The older job of the ground is the ridge-roads. They used to be walking-paths to the grove. Stones sit in the high squares, and some roads now end at a local Tree. **Tasain** *(tah-SAYN)* holds the seat. The levy is taken where the west road comes down. It is a walled town in a sheltered valley below the Shelf-gate. The town gate is Tasain's own. The Shelf-gate is the pass above it. The Noon Pass stays a pass, higher and older. Narol of the Pass is dead. The house still levies. Villages and hamlets stay on the shelves. Larbril is the city on the dry side of that pass. Tasain is where you are when the road has come down into shelter.
 
-**How it formed.** March-holds on the snowmelt. Mid governance because water is a fact you can levy without a census of souls: you tax the thaw, the pass, the high road. Theology cooled by height and distance from the grove's daily pressure.
+**How it formed.** It formed as march-holds on the snowmelt. Governance is mid because water is a fact you can levy without a census of souls: you tax the thaw, the pass, the high road. Theology is cooled by height and by distance from the grove's daily pressure.
 
-**Structure.** Ridge-compacts, pass-tolls, valley charters under a holding. Any Kind may take up the work. Sky-couriers hold ordinary office.
+**Structure.** Ridge-compacts, pass-tolls, and valley charters sit under a holding. Any Kind may take up the work. Sky-couriers hold ordinary office.
 
 **Goals.** Keep the passes and the spring. Be paid for water the core calls a gift. The people stay off the Threnhael. The Threnhael will name a pass when it can.
 
-**Its injustice.** **The ridge pays in isolation for water the valley drinks.** Tolls that feel like geography. A shelf-town whose graft sickens is a long way from a stiller. Mid-state enough to levy; not enough to furnish every Tithe on a cliff.
+**Its injustice.** **The ridge pays in isolation for water the valley drinks.** The tolls feel like geography. A shelf-town whose graft sickens is a long way from a stiller. Mid-state enough to levy; not enough to furnish every Tithe on a cliff.
 
 ### Brenledd: the Hearth-League
 
 *(bren-LED · bren "hearth" + ledd "to reckon" = "hearths of the ledger.")* Theology low · reach high · governance low. Everyday *the Brenledd* or *the compact*; people **Brenled-folk**. A league of hearths. The throne-city sits inside the league.
 
-A **league of charter-towns** on Strandoren (river-ports, lesser harbours, inland markets) that compact to face Lestrand's houses and stay many hearths. Each town is a hearth with its own Tree and its own vouching. The compact is the arithmetic: shared tickets, shared notes, shared refusal to be priced one at a time. The throne-city is **Raitin** *(RAY-tin)*, a river-city, one of the largest on the Shore-lands, where the council sits and the shared notes clear. Six charter-towns sit around it. They stay unnamed. Nidtol is the hearth-name people still recite when Lestrand offers one throat. Raitin is the city where the notes clear. Turvo keeps the notes. Sulnu carries a cleared ticket to the river stair. Nubo is vouched in Raitin and still unknown in the next hearth. A throne-city leaves the league many hearths.
+A **league of charter-towns** on Strandoren (river-ports, lesser harbours, inland markets) that compact to face Lestrand's houses and stay many hearths. Each town is a hearth with its own Tree and its own vouching. The compact is the arithmetic: shared tickets, shared notes, shared refusal to be priced one at a time. The throne-city is **Raitin** *(RAY-tin)*. The council sits there. It is a river-city, one of the largest on the Shore-lands. Six charter-towns sit around it. They stay unnamed. Nidtol is the hearth-name people still recite when Lestrand offers one throat. Raitin is the city where the notes clear. Turvo keeps the notes. Sulnu carries a cleared ticket to the river stair. Nubo is vouched in Raitin and still unknown in the next hearth. A throne-city leaves the league many hearths.
 
 Faith worn light, same as the coast. Trees mature. Nothing is policed; everything is *chartered*.
 
-**Site.** The constellation behind and between the premier coast. The older job of the ground is salt and river towns; some road-end Tree-towns that federated instead of fading into a deathless house's hinterland.
+**Site.** Brenledd sits behind and between the premier coast. The older job of the ground is salt and river towns. Some were road-end Tree-towns that federated instead of fading into a deathless house's hinterland.
 
 **How it formed.** Towns that got tired of being the other party on a Lestrand note. The compact is a pile of charters that learned to speak together, messy and still holding.
 
@@ -245,13 +245,13 @@ Faith worn light, same as the coast. Trees mature. Nothing is policed; everythin
 
 *(led-VAYL · ledd "to reckon" + vael "gift" = "the gift reckoned.")* Motherfaith theology **low**; the Fair Hand worn as **civic law**. Reach high · governance **mid**. Everyday *Leddvael*; people **Leddvael-folk**. The name is the doctrine: a gift is a bargain priced. The Book-Hands stamp and recite; they have **no seat**. Bound Terms stay as written.
 
-A signing-coast on Strandoren that took the Fair Hand from a dockside theology to a **civic rite**. Leaf-Fall is a festival *and* a signing-watch. Tithe is a term serviced. The Bound are model citizens here, *employed* as the shape of honesty. Mid governance: the book is a kind of statute, and persons stay off a census. They file a contract. The list stays Threnmaieth's.
+Leddvael is a signing-coast on Strandoren that took the Fair Hand from a dockside theology to a **civic rite**. Leaf-Fall is a festival *and* a signing-watch. Tithe is a term serviced. The Bound are model citizens here, *employed* as the shape of honesty. Mid governance: the book is a kind of statute, and persons stay off a census. They file a contract. The list stays Threnmaieth's.
 
-**Site.** A different stretch of indented coast than Lestrand, enough water to have its own houses. The older job of the ground is a **salt quay with a signing-watch**. The port is **Naenor** *(NAY-nor)*, large, and slightly smaller than Orentel, on a stretch of coast of its own. Derdil stands the signing-watch. The Book-Hands stamp and recite in this wind. They hold no seat here. Bound Terms stay as written. The city wins the term and loses the berth. Empty prestige berths stay Orentel's. Naenor has working berths. The work is the watch.
+**Site.** This is a different stretch of indented coast than Lestrand, with enough water to have its own houses. The older job of the ground is a **salt quay with a signing-watch**. **Naenor** *(NAY-nor)* is the port, on a stretch of coast of its own. It is large, and slightly smaller than Orentel. Derdil stands the signing-watch. The Book-Hands stamp and recite in this wind. They hold no seat here. Bound Terms stay as written. The city wins the term and loses the berth. Empty prestige berths stay Orentel's. Naenor has working berths. The work is the watch.
 
-**How it formed.** Fortune-and-contract practice thickening until a charter-coast found it cheaper to *establish* the Settling (Fair Hand contract-practice) than to argue hymns per dock. A habit that got a seal.
+**How it formed.** Fortune-and-contract practice thickened until a charter-coast found it cheaper to *establish* the Settling than to argue hymns per dock. The Settling is Fair Hand contract-practice. A habit that got a seal.
 
-**Structure.** Charter-council plus book-tables. Any Kind may take up the work. Gift-reading families live here. They are the minority that sounds devout and looks like a credit risk.
+**Structure.** A charter-council works with the book-tables. Any Kind may take up the work. Gift-reading families live here. They are the minority that sounds devout and looks like a credit risk.
 
 **Goals.** Keep signings clear. Vouch the Struck briskly as a later contract. Treat Motherfaith gift-talk as unpriced language. It stays allowed.
 
@@ -261,15 +261,15 @@ A signing-coast on Strandoren that took the Fair Hand from a dockside theology t
 
 *(tren-LED · thren "sacred counting" + ledd "to reckon," with the holy sound sanded off.)* The reconstruction *Threnledd* is unused on purpose: they will not say the holy word. Theology **low** · reach **high** · governance **high**. Everyday *Trenledd* or *the Trenled*; people **Trenled-folk**. They call the list **the roll**, Lestrand's word for a *tax* roll, here meaning persons. Dropping the hymn from the count *is* the thesis.
 
-Wealthy Strandoren interior: mature Trees, dense Given, guilds thick, and a state that **writes people down**. The list began as ticket-and-tax machinery (safety-licences, house-notes, charter-rolls) and forgot to stop at property. There is no hymn that makes it stewardship. There is no Mother to be accounted to. You are on the roll because commerce and hazard-control wanted a name they could find again.
+Trenledd is the wealthy interior of Strandoren. The Trees are mature, the Given are dense, the guilds are thick, and the state writes people down. The list began as ticket-and-tax machinery (safety-licences, house-notes, charter-rolls) and forgot to stop at property. There is no hymn that makes it stewardship. There is no Mother to be accounted to. You are on the roll because commerce and hazard-control wanted a name they could find again.
 
 Threnmaieth at least claims to keep you hale. Trenledd claims to keep you *findable*. Cutting you off is default, not impiety.
 
-**Site.** Tree-rich interior, where reach is high. The older job of the ground is road-end Tree-towns that got *filed*; stones in squares with numbers on the back. The city is **Lunbra** *(LUN-bra)*, large and wealthy, on the Chart-run, four to eight days upriver of Orentel. The roll is kept here. The money is shown in the square. Vamar keeps a column. A neighbour says Vamar. A clerk says the house first: Melro, Vamar. The governing throat stays unnamed. Towns through the filed country stay unnamed.
+**Site.** The interior is rich in Trees, and reach is high. The older job of the ground is road-end Tree-towns that got *filed*. Stones in the squares have numbers on the back. **Lunbra** *(LUN-bra)* is on the Chart-run, four to eight days upriver of Orentel. It is large and wealthy. The roll is kept here. The money is shown in the square. Vamar keeps a column. A neighbour says Vamar. A clerk says the house first: Melro, Vamar. The governing throat stays unnamed. Towns through the filed country stay unnamed.
 
 **How it formed.** Guild-tickets plus deathless memory plus a council that distrusted living witness the way Threnmaieth does, without Threnmaieth's scripture. The three pillars work here and are treated as *insufficient*. Feeling, word, and memory answer to themselves. A ledger answers to the desk. Each crisis added a column.
 
-**Structure.** A writing-crown or writing-council. Licence-guilds as state organs. Any Kind may take up the work. The Struck are pursued to be catalogued because an unwitnessed change is a row that appeared without a clerk.
+**Structure.** It is a writing-crown or a writing-council. Licence-guilds serve as state organs. Any Kind may take up the work. The Struck are pursued to be catalogued because an unwitnessed change is a row that appeared without a clerk.
 
 **Goals.** Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that can be shut. Argue procedure, and keep theology off the docket.
 
@@ -279,15 +279,15 @@ Threnmaieth at least claims to keep you hale. Trenledd claims to keep you *finda
 
 *(NET-strand · neth "night; the long dark" + strand "shore.")* Reconstruction *Nethstrand* unused in daily speech. Theology mid-low · reach high · governance low. Everyday *Netstrand*; people **Netstrand-folk**. People call it the Night Shore. West water, storm stories, and watches after dark are what a traveler meets there.
 
-Strandoren's west and south face: open ocean toward Heskoren and, far beyond, the storm-wall. Bold houses run the frontier trade. They sell **hulls and west-water berths** — crews, capacity, a crossing quoted like a pilgrimage. The First-Hand year is assembled on the Old Crossing: Netstrand charters the ship, the White Note writes the terms, Orentel holds the berth. Orenbren houses the sleep at the origin. Almost none have crossed to the Sundering Isle. Those who claim to are the tellers of Yumboe stories.
+Netstrand is Strandoren's west and south face. The open ocean lies toward Heskoren and, far beyond, the storm-wall. Bold houses run the frontier trade. They sell **hulls and west-water berths** — crews, capacity, a crossing quoted like a pilgrimage. The First-Hand year is assembled on the Old Crossing: Netstrand charters the ship, the White Note writes the terms, Orentel holds the berth. Orenbren houses the sleep at the origin. Almost none have crossed to the Sundering Isle. Those who claim to are the tellers of Yumboe stories.
 
 Faith mixed: Motherfaith worn light, Fair Hand ordinary on a signing-quay, quay-charms nobody writes down. Trees still mature along this wealthy edge.
 
-**Site.** Open-ocean coast. The older job of the ground is a **salt quay**: empty Eolthael berths; earth-smelling holds (graft-pots going out); the neighbour's week billed as a crossing. The harbour is **Braetu** *(BRAY-too)*, smaller than Orentel, because the far run is thinner than the Old Crossing. Mursur writes the far crossing and takes the fee for a lamp on a name. They keep a dark book of quoted crossings that did not come back. One berth stays unlit, with no house attached. The city leaves the berth that way. The book on this quay is the Heskoren run. The Isle stays a tale. Towns along the rest of the shore stay unnamed.
+**Site.** This is an open-ocean coast. The older job of the ground is a **salt quay**. Eolthael berths sit empty. Holds smell of earth, and graft-pots go out. The neighbour's week is billed as a crossing. **Braetu** *(BRAY-too)* is the harbour. It is smaller than Orentel, because the far run is thinner than the Old Crossing. Mursur writes the far crossing and takes the fee for a lamp on a name. They keep a dark book of quoted crossings that did not come back. One berth stays unlit, with no house attached. The city leaves the berth that way. The book on this quay is the Heskoren run. The Isle stays a tale. Towns along the rest of the shore stay unnamed.
 
-**How it formed.** West-houses grown from Salt Walk traffic and the later carrying to Heskoren (by sea, coasts first, then the far). A shore that faces the wave's supply-line.
+**How it formed.** West-houses grew from Salt Walk traffic and the later carrying to Heskoren (by sea, coasts first, then the far). A shore that faces the wave's supply-line.
 
-**Structure.** Merchant houses, berth-guilds, light charter-council. Any Kind may take up the work. Selkie are common on the water. Sky-couriers from Lirorn and Tengu families work the clock-towers. The towers are a job.
+**Structure.** Merchant houses and berth-guilds sit under a light charter-council. Any Kind may take up the work. Selkie are common on the water. Sky-couriers from Lirorn and Tengu families work the clock-towers. The towers are a job.
 
 **Goals.** Quote the far crossing. Keep the Heskoren run profitable. Sell Isle-tales without having to survive them. Keep the berths on Netstrand's own book.
 
@@ -297,15 +297,15 @@ Faith mixed: Motherfaith worn light, Fair Hand ordinary on a signing-quay, quay-
 
 *(orn-LED · orn "land" + ledd "to reckon"; clipped from *Ornledd*.)* On Heskoren, dropping the sacred sound is a neglect, not just distance. Theology **low** · reach **low** · governance **low**. Everyday *Ornled*; people **Ornled-folk**. Reconstruction *Ornledd* unused. They do not tend old endings. A Vaethorn without the faith, harder and colder.
 
-Thin-reach Heskoren country that never took the waiting-gospel. Same young grafts, same Kept-heavy and Struck-heavy weather as Vaethorn, and **no congregation to fill the gap**. Tithe-provision is barter, favor, and a slate on the wall. An unvouched Struck is a problem met with a rope, a deal, or a neighbour. Custom outruns law because there is almost no law and almost no hymn.
+Ornled is thin-reach Heskoren country that never took the waiting-gospel. It has the same young grafts, and the same Kept-heavy and Struck-heavy weather as Vaethorn, and **no congregation to fill the gap**. Tithe-provision is barter, favor, and a slate on the wall. An unvouched Struck is a problem met with a rope, a deal, or a neighbour. Custom outruns law because there is almost no law and almost no hymn.
 
 They do not hate the Mother. They do not *use* her. Vaethorn hears the missing *th* in their name as godlessness. Ornled hears Vaethorn's *th* as a luxury.
 
-**Site.** Frontier pockets off the hottest pilgrim-roads. The older job of the ground is a **waiting cluster without a gospel**. Same stones, same upper rooms if a walk used to pass. That older job is necessity. The town is **Sanbreo** *(san-BREE-oh)*, on the brink of a small city, where the slate is kept and a hull can pay a beach-fee. The first line on the wall is still the sentence Vathne cut. Vathne is that line. No new person sits the gate. Villages in the pockets around it stay unnamed. Eolvaeth is Vaethorn's seat, a pilgrim-edge vale in the waiting-gospel. Sanbreo keeps this gate.
+**Site.** These are frontier pockets off the hottest pilgrim-roads. The older job of the ground is a **waiting cluster without a gospel**. The stones are the same, and the upper rooms are the same if a walk used to pass. That older job is necessity. **Sanbreo** *(san-BREE-oh)* is where the slate is kept and a hull can pay a beach-fee. It is on the brink of a small city. The first line on the wall is still the sentence Vathne cut. Vathne is that line. No new person sits the gate. Villages in the pockets around it stay unnamed. Eolvaeth is Vaethorn's seat. It is a pilgrim-edge vale in the waiting-gospel. Sanbreo keeps this gate.
 
-**How it formed.** Kept/Struck-heavy districts that watched the waiting-theology arrive with the grafts and declined to make scarcity a soul-problem. Improvisation as culture. Low governance because no one has the spare people to be a state. The Fair Hand is a rumour from ships. They have few Bound to make a book of.
+**How it formed.** Kept and Struck-heavy districts watched the waiting-theology arrive with the grafts and declined to make scarcity a soul-problem. Improvisation is the culture. Governance is low because no one has the spare people to be a state. The Fair Hand is a rumour from ships. They have few Bound to make a book of.
 
-**Structure.** Town custom, slates, vouching stretched thin. Any Kind may take up the work. The Intake's problem is acute here and unofficial: catching a raw Struck, a shed if you're lucky, silence if it works.
+**Structure.** The structure is town custom, slates, and vouching stretched thin. Any Kind may take up the work. The Intake's problem is acute here and unofficial: catching a raw Struck, a shed if you're lucky, silence if it works.
 
 **Goals.** Stay whole with what is in the pot. Keep green a matter of the pot. Trade with Netstrand when a ship comes, and keep the town's own slate.
 
@@ -315,15 +315,15 @@ They do not hate the Mother. They do not *use* her. Vaethorn hears the missing *
 
 *(VAYL-hesk · vael in the **older** sense, "what the land yields" + hesk- "far/outer edge" = "the far yield.")* *Vael* kept because the Old Ways claim the Motherfaith *narrowed* it to "gift." Theology **mid** as Motherfaith gift-devotion, high as Old Ways practice. Reach low · governance low. Everyday *Vaelhesk*; people **Vaelhesk-folk** or **the Yield**. The fight with Vaethorn is in the first syllable: *vael* vs *vaeth*. The land is the seat. The work is host-rights.
 
-Pre-graft host-lands on Heskoren: old greens, ancestor-doors, first meals. The Mother's wood is a **guest**. A Cutting-leave (Seat leave to cut living wood) without the meal is a claiming. The Door-Keepers walk here as Kin-speakers. The land is the seat.
+Vaelhesk is pre-graft host-lands on Heskoren, with old greens, ancestor-doors, and first meals. The Mother's wood is a **guest**. A Cutting-leave is Seat leave to cut living wood. Without the meal, that leave is a claiming. The Door-Keepers walk here as Kin-speakers. The land is the seat.
 
 Struck and the Taken-In are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose: the child is already the hill's. Vaethorn reads those children as Kept-for-want. Both families are telling the truth they have.
 
-**Site.** Heskoren's old greens, and the live front is only part of them. The older job of the ground is a **guest-grove**, and that grove is the First Bowl. The Door-Keepers walk here. The work is host-rights. The land is the seat. Vaelhesk names no city. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door. The First Bowl stays the guest-grove it already is. Harrow's Green is the grove-town on Saelvaeth's march.
+**Site.** These are Heskoren's old greens, and the live front is only part of them. The older job of the ground is a **guest-grove**, and that grove is the First Bowl. The Door-Keepers walk here. The work is host-rights. The land is the seat. Vaelhesk names no city. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door. The First Bowl stays the guest-grove it already is. Harrow's Green is the grove-town on Saelvaeth's march.
 
-**How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200-387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal.
+**How it formed.** Animist and ancestor polities predate the wave. When grafts arrived (C.Y. 200-387, still arriving), some districts became Vaethorn. These kept the door. The state stays low because the land does not need a clerk to be owed a meal.
 
-**Structure.** Hearth-clusters, door-keepers, host-right custom. Any Kind may take up the work. The Taken-In are densest here as frontier labor and as *kin*.
+**Structure.** The structure is hearth-clusters, door-keepers, and host-right custom. Any Kind may take up the work. The Taken-In are densest here as frontier labor and as *kin*.
 
 **Goals.** Feed the first meal. Name a Struck at the door that made them. Treat a warden with a pot as a guest or as a thief, depending on whether they sat down.
 
@@ -337,14 +337,14 @@ Where the wood is still arriving on Heskoren, the front runs C.Y. 200-387 and is
 
 Governance is mid-low because *someone* must stand for the Harrow-sentence (*we Turned at Harrow's Tree before we had our own*): wardens, Road-hands passing through, a march-voice that did not exist when the first pots came. The state is large enough to be blamed, and no larger.
 
-**Site.** Heskoren's grafted pockets on the moving edge. The older job of the ground is a **live-front Tree-town**: the neighbour's week kept as necessity.
+**Site.** These are Heskoren's grafted pockets on the moving edge. The older job of the ground is a **live-front Tree-town**. The neighbour's week is kept as necessity.
 
-**How it formed.** The wave, this decade. Paying-enough, soil-enough, chain-enough nexts on a list written in the Motherwood. A polity made of luck-plus-queue. Vaethorn will preach unworthiness. History does not agree.
+**How it formed.** The wave made it, this decade. The nexts were paying-enough, soil-enough, and chain-enough, on a list written in the Motherwood. It is a polity made of luck and a queue. Vaethorn will preach unworthiness. History does not agree.
 
-**Structure.** Town-wardens, borrowed Turnings, Road-hands who sleep here on the way to a town that was not chosen. Any Kind may take up the work. The Old Ways are neighbours, in Vaelhesk. Vaethorn heat sits on many hearths as gospel. The march they stand in is Saelvaeth.
+**Structure.** Town-wardens, borrowed Turnings, and Road-hands who sleep here on the way to a town that was not chosen are the offices. Any Kind may take up the work. The Old Ways are neighbours, in Vaelhesk. Vaethorn heat sits on many hearths as gospel. The march they stand in is Saelvaeth.
 
 **Goals.** Keep taken grafts alive. Host the neighbour's week. Argue the next pot. Survive being the sentence the Seat already wrote.
 
-**Its injustice.** **The queue as a border.** Harrow's luck is politics. The hamlets can see the canopy and send children anyway. Folk-right (unofficial cutting) temptation in a kitchen drawer. Spreading Trees did not make the march kind.
+**Its injustice.** **The queue as a border.** Harrow's luck is politics. The hamlets can see the canopy and send children anyway. Folk-right is a temptation in a kitchen drawer. It is unofficial cutting. Spreading Trees did not make the march kind.
 
 ---

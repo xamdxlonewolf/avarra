@@ -54,7 +54,7 @@ A town in any Tree-touched land uses these sounds, worn the way that land wears 
 
 A traveller can say Turning Tree, the Mother, a hug, a colour, a tree-warden, and a graft, and be understood on every mainland road. Use those words and you will be understood. The table below is what each kind of place calls the same six things in its own words. Use a local word when you want a scene to sound like that place. Say who is speaking.
 
-The pious core keeps the old *th* sound. Waiting towns soften it. A dock drops it. Kumbaan, the Sundering Isle, speaks its own speech and has no Tree to name.
+The pious core keeps the old *th* sound. Waiting towns soften it. A dock drops it. Kumbaan speaks its own speech and has no Tree to name. That is the Sundering Isle.
 
 | | Pious core | Waiting lands, the live front | The docks | The hill |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ The pious core keeps the old *th* sound. Waiting towns soften it. A dock drops i
 | a warden | **the Reckoned Hands** (the crown's word; Maiethvael says **tree-warden**) | **Hands-folk** | **a tree-tender** | **the loud guest** |
 | a graft | **a Hand carried in** | **a carried Thallow**; on the live front, until it can Turn, **the wood** | **a carrying** | **their cutting** |
 
-Careful prayer in a waiting town says "Maieth," with the *th* restored, for as long as the prayer is open. The kitchen says "Mait." A no-colour is still a hug. On a dock, Tallo is how a quay says the Thallow once the *th* is gone. Say Tallo on the dock. A charter keeps the long name. A no-colour is a clear: the child came up clear, free to be hired. Trenledd speaks this dock way and keeps a list. The hill has a table and no Tree. The hill says "the far tree" for the mainland Tree and "their cutting" for a mainland graft. The loud story is what they call the Mother when a guest brings her up. A warden who climbs the hill is the loud guest, and is still fed.
+Careful prayer in a waiting town says "Maieth," with the *th* restored, for as long as the prayer is open. The kitchen says "Mait." A no-colour is still a hug. On a dock, Tallo is how a quay says the Thallow once the *th* is gone. Say Tallo on the dock. A charter keeps the long name. A no-colour is a clear. The child came up clear, and is free to be hired. Trenledd speaks this dock way and keeps a list. The hill has a table and no Tree. The hill says "the far tree" for the mainland Tree and "their cutting" for a mainland graft. The loud story is what they call the Mother when a guest brings her up. A warden who climbs the hill is the loud guest, and is still fed.
 
 A scene uses one of four ways of talking: a devout square, a dock, a waiting town or the live front, and a hill-hall on Kumbaan.
 
 In a devout square, people finish the practical sentence, then put "the Mother's Hand" or "Maieth" back in if the first sentence left them out. While the room is mixed, they say "the Mother's Hand" and "Maieth," and they greet a neighbour by the given name.
 
-On a dock, people speak in about six words, then give the number or the berth if they need them. They repeat the last hard fact. They speak the dock form, with the old *th* gone. A "clear" is their word for a child the Tree hugged and gave no Condition, free to be hired. While no document is open, they ask the given name. While a filing house has the paper open, they ask the house-name first, then the given name.
+On a dock, people speak in about six words, then give the number or the berth if they need them. They repeat the last hard fact. They speak the dock form, with the old *th* gone. They say "clear". That is a child the Tree hugged and gave no Condition. While no document is open, they ask the given name. While a filing house has the paper open, they ask the house-name first, then the given name.
 
 A waiting town, and the live front, say a short line and then repeat it. A waiting town repeats "not this week." The live front repeats "the wood," and then the neighbour's town if their own wood cannot Turn yet. They call their Tree the Thallow.
 
@@ -105,7 +105,7 @@ A Kitsune hearth-name sounds light, slipping, and a little hissy.
 
 The hearth-name is the one they answer to when someone is trying to pin them down. They consider this funny. A fox raised devout in Threnmaieth may still be Raki at home and Raki Maethaem on the roll.
 
-**To make another:** two or three short beats. Use k, s, sh, n, r, m, t, w, y, f, h, and the vowels a, i, u, e, o, plus *ai* as in *eye*. You can end on n, m, or r. Do not put a *th* in it (that is church-speech). Do not start with *kr* or *gr* (that is Tengu). Do not use *mb* or *nd* (that is Yumboe).
+**To make another:** two or three short beats. Use k, s, sh, n, r, m, t, w, y, f, h, and the vowels a, i, u, e, o, plus *ai* as in *eye*. You can end on n, m, or r. Do not put a *th* in it. That is church-speech. Do not start with *kr* or *gr*. That is Tengu. Do not use *mb* or *nd*. That is Yumboe.
 
 ### Selkie: Sakoa (sah-KOH-ah)
 
@@ -125,13 +125,13 @@ A Tengu hearth-name is clipped, windy, and high-country. The names are short, wi
 
 Gonan is also the people-name. Reusing it as a given name is a hearth-honor, like naming a child after the ridge.
 
-**To make another:** prefer two beats. Use k, t, g, n, r, h, s, b, d. *Kr*, *gr*, and *hr* at the front are at home here. Vowels a, o, u, e. Few *i* (that vowel lives with the foxes). Do not use *th*, *sh*, *mb* / *nd*, or long *ai* / *ea* / *oa*.
+**To make another:** prefer two beats. Use k, t, g, n, r, h, s, b, d. *Kr*, *gr*, and *hr* at the front are at home here. Vowels a, o, u, e. Few *i*. That vowel lives with the foxes. Do not use *th*, *sh*, *mb* / *nd*, or long *ai* / *ea* / *oa*.
 
 ### Yumboe
 
 Yumboe is its own tongue. Open vowels, a drum-like rhythm, and *mb*, *nd*, *nk*, *nj* at the start of a beat. A Yumboe name sounds foreign the instant it is spoken. The Trees never crossed the storm-wall, so the speech stayed the island's own.
 
-They call themselves **Bakhna Rakhna**, the good people. Their home is **Kumbaan** (koom-BAHN). Mainlanders call it the Sundering Isle.
+They call themselves **Bakhna Rakhna**. That is the good people. Their home is **Kumbaan** (koom-BAHN). Mainlanders call it the Sundering Isle.
 
 **Pick from:** Ambaa, Njeela, Kumbo, Ndeya, Mbaraan, Njunda, Rakhilo, Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.
 
@@ -156,12 +156,12 @@ The Old Tongue is warm and weighty. No harsh piles of consonants. If you cannot 
 
 ## How to Name a Place or a Hall
 
-The Old Tongue, **Maiethren** (mah-YETH-ren, "Mother-speech"), is the church language of the Awakening Tree. Nobody grows up speaking it at the market. Place-names, crowns, and old offices are built from it. Everyday talk uses plain compounds: *the Kept*, *the ranging*, *tree-wardens*.
+The Old Tongue is **Maiethren** (mah-YETH-ren). That is Mother-speech. It is the church language of the Awakening Tree. Nobody grows up speaking it at the market. Place-names, crowns, and old offices are built from it. Everyday talk uses plain compounds. People say *the Kept*, *the ranging*, and *tree-wardens*.
 
 To name something old or official:
 
 1. **Pick one or two old words** from the list below.
-2. **Glue them together.** Thaeloren is *thael* + *oren*: Tree + witness.
+2. **Glue them together.** Thaeloren is *thael* + *oren*. That is Tree and witness.
 3. **Wear it the way the land wears it.** A devout land keeps the *th* and the long vowels. A frontier town softens them. A dock town wears the *th* and the long vowels away. The most worn name belongs to the least-devout place.
 4. **Mark the stress** on first use.
 
@@ -171,7 +171,7 @@ Kumbaan's names are Yumboe.
 
 ### The old words
 
-These are the blocks names are built from. The meaning is what the old word meant in the rite. A dock town may keep the sound and wear the rite-meaning down.
+These are the blocks names are built from. Each old word has the meaning it had in the rite. A dock town may keep the sound and wear the rite-meaning down.
 
 | Word | Says | Means |
 |---|---|---|
@@ -195,28 +195,28 @@ These are the blocks names are built from. The meaning is what the old word mean
 | **crae** | kray | craft; the working of an element. The Answered shops as a sector. |
 | **hesk** | hesk | far, outer edge. Frontier coinage, not in the old rite. Heskoren, Vaelhesk. |
 
-The Awakening Tree's church-name is **Thaeloren** (thae-LOR-en): the Tree that witnesses. Everyday worn form: **the Thallow**. A person belongs by being witnessed, and Thaeloren names that.
+The Awakening Tree's church-name is **Thaeloren** (thae-LOR-en). That is the Tree that witnesses. Everyday, people say **the Thallow**. A person belongs by being witnessed, and Thaeloren names that.
 
 Vaethorn, Lestrand, and Threnmaieth are named by gluing two old words and wearing them down. Closer to the Tree, the old sound stays. Farther out, the *th* wears away:
 
-- **Vaethorn** (vay-THORN): *vaeth* + *orn*, "the Waiting Land." Keeps the *th*. Everyday **Wethorn**. People: Vaethorn-folk, or the Waiting.
-- **Lestrand** (leh-STRAND): *ledd* + *strand*, worn smooth, "the Reckoning Coast." The *th* is gone. People: Lestrand-folk or Strandmen.
-- **Threnmaieth** (THREN-my-eth): *thren* + *maieth*, "the Mother's Reckoning." Keeps the full old sound. People: Threnmaieth-folk. The crown styles itself the Mother's Reckoning.
+- **Vaethorn** (vay-THORN) is *vaeth* + *orn*. That is the Waiting Land. It keeps the *th*. Everyday people say **Wethorn**. They say Vaethorn-folk, or the Waiting.
+- **Lestrand** (leh-STRAND) is *ledd* + *strand*, worn smooth. That is the Reckoning Coast. The *th* is gone. People say Lestrand-folk or Strandmen.
+- **Threnmaieth** (THREN-my-eth) is *thren* + *maieth*. That is the Mother's Reckoning. It keeps the full old sound. People say Threnmaieth-folk. The crown styles itself the Mother's Reckoning.
 
 Further from the Tree, the old words keep wearing down. In Trenledd, *thren* is worn down to *Tren*. In Maiethvael, *maieth* names the gift. On Heskoren, Vaelhesk is named from *vael* and Vaethorn is named from *vaeth*.
 
 Faiths are named from the same blocks, so a faith sounds like the land that keeps it:
 
-- **Haelthael** (hayl-THALE): *hael* + *thael*, "the Tree kept whole." The Watching's own name. Its people are the Watchers.
-- **Leddoren** (led-OR-en): *ledd* + *oren*, "the witnessed account." The Fair Hand's own name. Its people are the Book-hands.
-- **Vaeloren** (vay-LOR-en): *vael* + *oren* in the older sense, "the land's witnessing." The Old Ways. Its people are the door-keepers and the Kin-speakers.
-- **Ndeyaan** (ndey-AHN), said in the Open Table's speech. The Open Table's own name. Its people are the table-keepers and the hill-hosts.
+- **Haelthael** (hayl-THALE) is *hael* + *thael*. That is the Tree kept whole. The Watching keeps it as its own name. Its people are the Watchers.
+- **Leddoren** (led-OR-en) is *ledd* + *oren*. That is the witnessed account. The Fair Hand keeps it as its own name. Its people are the Book-hands.
+- **Vaeloren** (vay-LOR-en) is *vael* + *oren* in the older sense. That is the land's witnessing. The Old Ways keep it. Its people are the door-keepers and the Kin-speakers.
+- **Ndeyaan** (ndey-AHN) is said in the Open Table's speech. That is the Open Table's own name. Its people are the table-keepers and the hill-hosts.
 
 If you need a new church or guild name, glue two old words and wear them for the land. Do not collide with a name already on the map. The church-names already in use:
 
-**Orenhael** (or-EN-hayl), tree-wardens: witness + whole. **Thaelvaeth** (THALE-vayth), Road-hands: the Tree gone to the waiting. **Nethoren** (neth-OR-en), Watchers: night-witnesses. **Leddhael** (LED-hayl), Book-hands: the accounted-whole. **Vaelbren** (VAYL-bren), door-keepers: the yield-hearth. **Njaalo** (NJAH-lo), the table-keepers and the hill-hosts. **Njawaal** (njah-WAHL), the shore-sitters. Both names are Yumboe. **Vaethledd** (VAYTH-led), the Slide: the waiting reckoned. **Saelhael** (SAYL-hayl), greens-keepers: the sown-whole. Hall-keepers have no current liturgical form; *Aeloren* is retired. **Stelhael** (stel-HAYL), stillers: the held-whole. **the Crae** (kray), the element-guilds: craft. The Intake has no church-name.
+Tree-wardens keep **Orenhael** (or-EN-hayl). That is witness and whole. Road-hands keep **Thaelvaeth** (THALE-vayth). That is the Tree gone to the waiting. Watchers keep **Nethoren** (neth-OR-en). That is night-witnesses. Book-hands keep **Leddhael** (LED-hayl). That is the accounted-whole. Door-keepers keep **Vaelbren** (VAYL-bren). That is the yield-hearth. The table-keepers and the hill-hosts keep **Njaalo** (NJAH-lo). The shore-sitters keep **Njawaal** (njah-WAHL). Both names are Yumboe. The Slide keeps **Vaethledd** (VAYTH-led). That is the waiting reckoned. Greens-keepers keep **Saelhael** (SAYL-hayl). That is the sown-whole. Hall-keepers have no current liturgical form. *Aeloren* is retired. Stillers keep **Stelhael** (stel-HAYL). That is the held-whole. The element-guilds keep **the Crae** (kray). That is craft. The Intake has no church-name.
 
-Era-names from the same old words: **Brenvaeth** (bren-VAYTH), the Walking Years. **Eoloren** (ay-ohl-OR-en), the First Cut. **Ornthael** (orn-THALE), the Years of Hands. A road-house's cant is **brenhael** (bren-HAYL), the hearth kept whole.
+Era-names come from the same old words. **Brenvaeth** (bren-VAYTH) is the Walking Years. **Eoloren** (ay-ohl-OR-en) is the First Cut. **Ornthael** (orn-THALE) is the Years of Hands. A road-house's cant is **brenhael** (bren-HAYL). That is the hearth kept whole.
 
 ---
 
@@ -235,7 +235,7 @@ Use the **common tongue** column unless you need the local word. Use the local w
 | a census of persons | *(none; no one else keeps one)* | *(none; the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
 
-Threnmaieth's census calls itself the **Threnhael**: *thren* + *hael*, "the keeping-whole." It sounds like care. It is total surveillance. Its clerks say they keep the realm hale. Its subjects are kept whole. Outsiders hear "the Counting."
+Threnmaieth's census calls itself the **Threnhael**. That is *thren* + *hael*, the keeping-whole. It sounds like care. It is total surveillance. Its clerks say they keep the realm hale. Its subjects are kept whole. Outsiders hear "the Counting."
 
 ### Tithe-provision
 
@@ -256,7 +256,7 @@ The three life-outcomes of the Leaf-Fall keep their plain names **everywhere**: 
 | **the Struck** (turned later, alone) | *the late-come* (met at a later door) | *the turned* (neutral, a fact) | *the unwitnessed* (suspect until named) |
 | **the Kept** (untithed, whole) | *the Waited* / *Mother-kept* (pitied, passed over) | *the free* (their labor carries no Tithe) | *the unmarked* / *the passed-over* (noted as such) |
 
-The Kept are pitied in devout Vaethorn (they missed the gift), envied on mercantile Lestrand (no Tithe, no guild, and they can go anywhere), and filed as unmarked in Threnmaieth (a gap in the roll to be explained).
+The Kept are pitied in devout Vaethorn. They missed the gift. They are envied on mercantile Lestrand. They carry no Tithe and no guild, and they can go anywhere. Threnmaieth files them as unmarked. That is a gap in the roll to be explained.
 
 ### Clergy
 

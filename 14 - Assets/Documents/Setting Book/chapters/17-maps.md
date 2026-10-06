@@ -1,6 +1,6 @@
 # Maps
 
-East is Maiethorn, the old heart, where the wood is oldest. West is Heskoren, the outer land, where the wood is still thin, and past the storm-wall is Kumbaan, the isle. The names of the water and the stone are in *Climate, Ecology, and Travel*. What the lands are is in *The Four Continents*. These sheets show where a named place sits. If a painted roof and a sentence in this book disagree, follow the sentence.
+East is Maiethorn, where the wood is oldest. West is Heskoren, where the wood is still thin, and past the storm-wall is Kumbaan. The names of the water and the stone are in *Climate, Ecology, and Travel*. What the lands are is in *The Four Continents*. These sheets show where a named place sits. If a painted roof and a sentence in this book disagree, follow the sentence.
 
 On the drawing, west is left and east is right. From the left the lands run: Kumbaan, an isle with no Trees, then the storm-wall, then Heskoren, where the wood is thin, then the West Water, then Strandoren, where the wood is mature, then the Old Crossing, then Maiethorn, where the wood is oldest. The coastlines are a sketch, not a measured survey. West is left on the sheets that carry names. The relative positions stay.
 
@@ -10,7 +10,7 @@ The picture is the labeled world painting. West is left. The labels are the ones
 
 **Rothallo** is the mark inside Orenbren, one day's walk from the wood. People still say the Inner Close. That name is this city, and the city is the capital. On the regional sheets the painted mark is small. No sheet paints a star on a capital. Maiethlir and Orentel are each marked once.
 
-Capitals, large cities, and important towns are marked where the notes already place them. **Vaelhesk** is the land. It has no settlement dot. Harrow's Green is a grove-town. Ornsael is a well-town. The First Seat stands in the wood. No sheet marks it. Rothallo is the capital. No date is written on the Tree. There is no graft on Kumbaan. A graft is a cutting of living wood planted so a town can Turn. None took on the isle.
+Capitals, large cities, and important towns are marked where the notes already place them. **Vaelhesk** is the land. It has no settlement dot. Harrow's Green is a grove-town. Ornsael is a well-town. The First Seat stands in the wood. No sheet marks it. Rothallo is the capital. No date is written on the Tree. There is no graft on Kumbaan. None took on the isle.
 
 Three older stones are small marks: the Low Wall, the Seeing-Ring, and the Dry Stair. They are found stone from before the Walking Years. The Ages chapter tells that stretch.
 
@@ -46,7 +46,7 @@ One isle. The name sits on the hill-country with no point marker. The storm-wall
 
 ## The overlays
 
-Each painted region keeps the names the ground already had. A pointer is a plain mark for a place the notes already name.
+Each painted region keeps the names the ground already had.
 
 **The world sheet** is the painting at the start of this chapter. It runs the same west-to-east line: Kumbaan, the storm-wall, Heskoren, the West Water, Strandoren, the Old Crossing, Maiethorn, the Rain-Wall. The sea-names sit in the water. Vaelhesk has no dot on this sheet either. Maiethlir and Orentel are marked once here.
 
@@ -58,7 +58,7 @@ Each painted region keeps the names the ground already had. A pointer is a plain
 
 <img src="../../Maps/Sacred-Core-Atlas-Labeled.png" alt="Labeled painting of the Sacred Core. Rothallo is the walled square. No mark for the First Seat." />
 
-**The Rain-Wall.** The range is the Rain-Wall. The Noon Pass and the Shelf-gate are notches in the range. Tasain is the town in the valley below the Shelf-gate. Tengu and Fox-of-the-Snows hearths sit on the snow, inside Lirorn. A hearth is the home-ground of a people.
+**The Rain-Wall.** The range is the Rain-Wall. The Noon Pass and the Shelf-gate are notches in the range. Tasain is the town in the valley below the Shelf-gate. Tengu and Fox-of-the-Snows hearths sit on the snow, inside Lirorn.
 
 <img src="../../Maps/Rain-Wall-Atlas-Labeled.png" alt="Labeled painting of the Rain-Wall. Tasain is the town below the Shelf-gate." />
 
@@ -113,7 +113,7 @@ Closer sheets exist for the seats and the town squares that already have streets
 
 Three old walks are still roads:
 
-- **Near Mile** — inland stones toward Thaeloren. Some now end at a Turning Tree, a town's planted Tree. Nelath's spur is one road that stops.
+- **Near Mile** — inland stones toward Thaeloren. Some now end at a Turning Tree. Nelath's spur is one road that stops.
 - **Salt Walk** — the Old Crossing, then the Near Mile. The Hush-rate is charged on the hinge. Votaer sorts the hull. Orentel prices the berth.
 - **Long Mile** — the West Water, then Heskoren mud. Empty road-houses still make the bed. Braetu quotes the far run.
 

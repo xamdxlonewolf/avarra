@@ -4,11 +4,11 @@ The Turning keeps time by the sun. The Leaf-Fall falls at a solstice, so the cou
 
 ### The sky
 
-One sun. One moon on the mainland, on a familiar monthly round, enough for nights and for tides. Kumbaan, the storm-walled isle, keeps twelve named moons and counts them on its own list. They are the same sky, counted differently. Four true seasons, and real winters: the temperate year. People stand on one ground. The storm-wall is weather, current, and reef. The hills at Ndenjoo, on that isle, are hills people live in. A Tree is a living tree. A Condition is a person who has become, still standing on this ground. The Low Wall, the Seeing-Ring, and the Dry Stair are older stone on this same ground. People reach a place by walking or by sail. What a faith calls a door is a practice, a meal, a return, or a hymn.
+One sun. One moon on the mainland, on a familiar monthly round, enough for nights and for tides. Kumbaan keeps twelve named moons and counts them on its own list. They are the same sky, counted differently. Four true seasons, and real winters. People stand on one ground. The storm-wall is weather, current, and reef. The hills at Ndenjoo are hills people live in. A person who has become is still standing on this ground. The Low Wall, the Seeing-Ring, and the Dry Stair are older stone on this same ground. People reach a place by walking or by sail. What a faith calls a door, people keep as a practice, a meal, a return, or a hymn.
 
-The one fact that matters for the rite is the **solstice**, the sun's turning-point, because that is when the Trees turn.
+The one fact that matters for the rite is the **solstice**, because that is when the Trees turn.
 
-At the High Solstice, the longest day, a Tree's shadow at noon sits almost on its own roots. Supper happens in light that should have been gone. Turning-Week is that week of light. A storm can soak the crowd. The solstice stays on the sun's day. On the Rain-Wall, Maiethorn's central range, the sun clears a shelf it leaves in shadow in the Deep. On Heskoren, the outer continent, the same long light falls on a canopy, a bog, or neither, depending on the fold. Believers say, "The Mother timed her choosing to the year's hinge." Skeptics say, "A tree answers light." Both stand in the same noon and see the same short shadow.
+At the High Solstice, the longest day, a Tree's shadow at noon sits almost on its own roots. Supper happens in light that should have been gone. Turning-Week is that week of light. A storm can soak the crowd. The solstice stays on the sun's day. On Maiethorn's Rain-Wall the sun clears a shelf it leaves in shadow in the Deep. On Heskoren the same long light falls on a canopy, a bog, or neither, depending on the fold. Believers say, "The Mother timed her choosing to the year's hinge." Skeptics say, "A tree answers light." Both stand in the same noon and see the same short shadow.
 
 At the Deep Solstice the sun rises late, stays low, and is soon gone. The mainland moon is the light you actually use, when cloud allows. A clear Deep night shows the moon and a great many unnamed lights. People farm by the months.
 
@@ -38,7 +38,7 @@ The calendar counts like this:
 
 #### The twelve Maiethren months
 
-Liturgical names are Maiethren, the old speech of Maiethorn. Beside them sits the worn common-tongue form, the way Lestrand, the merchant coast, says the same month. The name you use reveals the stance. Counted here **from the Deep Solstice** as an astronomical order.
+Liturgical names are Maiethren, the old speech of Maiethorn. Beside them sits the worn common-tongue form, the way Lestrand says the same month. The name you use reveals the stance. Counted here **from the Deep Solstice** as an astronomical order.
 
 | # | Season | Liturgical | Says | Worn / common | Holds |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Liturgical names are Maiethren, the old speech of Maiethorn. Beside them sits th
 
 ### When the year starts: three new-year days by stance
 
-The devout and the clergy begin the year at **Eolthael**. The Turning is the hinge that matters. Lestrand and the deathless houses begin it at **Nethael**. Midwinter is when the books close. In Vaethorn, the waiting country on Heskoren, the pulpit follows the clergy. In the fields, people date a child from the last summer a local Tree managed a fall. They say, "The child turns the year." Same twelve names. Any of three days may be kept as the opening of the year. A debt can be late on one count and early on another, and people will argue which day began it.
+The devout and the clergy begin the year at **Eolthael**. The Turning is the hinge that matters. Lestrand and the deathless houses begin it at **Nethael**. Midwinter is when the books close. In Vaethorn the pulpit follows the clergy. In the fields, people date a child from the last summer a local Tree managed a fall. They say, "The child turns the year." Same twelve names. Any of three days may be kept as the opening of the year. A debt can be late on one count and early on another, and people will argue which day began it.
 
 ### Kumbaan's moons
 
@@ -71,9 +71,9 @@ The Yumboe of Kumbaan keep **twelve named moons**. The count is lunar:
 
 Months name a season. **Years have no universal number.** The count written on a debt is a theology, the same argument as which day opens the year. The Ages chapter keeps the full count.
 
-- **First Seat / devout clerks** count **Cut-years** from the First Cut (liturgical: the *Eoloren-count*). Present: **Cut-year 387**. A Cut-year is a year numbered from that first successful planting.
+- **First Seat / devout clerks** count **Cut-years** from the First Cut (liturgical: the *Eoloren-count*). Present: **Cut-year 387**.
 - **Lestrand and the deathless houses** count from a house-founding or a note-issue. A clerk of the White Note will write "the 200th summer of the White Note."
-- **Vaethorn** counts from the year the local graft took. A graft is a cutting of living wood, planted so a town can Turn. People there say, "the year our graft took."
+- **Vaethorn** counts from the year the local graft took. People there say, "the year our graft took."
 - **The Watching** refuse the Cut-count. **Kumbaan** keeps moons and owes the ages nothing.
 
 The Awakening Tree is old beyond reliable dating. There is no year the world began, and no year she appeared.
@@ -82,20 +82,20 @@ The Awakening Tree is old beyond reliable dating. There is no year the world beg
 
 The count is the same sky on the mainland: one sun, one moon, two solstices. People live that count differently as the wood thins.
 
-- **Maiethorn** (the old heart, full reach): Turning-Week is a near-certainty and a vast institution. Dense healthy Trees, nearly every child Given, the pilgrimage to Thaeloren cresting at the High Solstice. When that walk was required, it was the Walking Years. The Near Mile is the inland trip on Maiethorn, days to a couple of weeks. The Ages chapter tells those years.
-- **Strandoren** (the shore continent, high reach): the solstice is kept as a sacred date and as a commercial one. Fairs, contract-terms, and the deathless houses' reckoning all hang on it.
-- **Heskoren** (thin reach): Turning-Week is a hard-won event of a decade. A child may travel days to the nearest Turning Tree, a town's planted Tree, or wait years for a graft to take. The solstice still arrives. The gift may not fall. Whole districts still walk the Long Mile, the road of weeks or months to a Tree that can Turn them.
-- **Kumbaan** (the isle, almost no Trees): the Yumboes keep the moon. The reckoning is nocturnal and lunar, and they have no Trees to time it to. Devout mainlanders say, "The Leaf-Mother never touched this calendar." A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time. The hall will not correct the chart.
+- **Maiethorn** (full reach): Turning-Week is a near-certainty and a vast institution. Dense healthy Trees, nearly every child Given, the pilgrimage to Thaeloren cresting at the High Solstice. When that walk was required, it was the Walking Years. The Near Mile is the inland trip on Maiethorn, days to a couple of weeks. The Ages chapter tells those years.
+- **Strandoren** (high reach): the solstice is kept as a sacred date and as a commercial one. Fairs, contract-terms, and the deathless houses' reckoning all hang on it.
+- **Heskoren** (thin reach): Turning-Week is a hard-won event of a decade. A child may travel days to the nearest Turning Tree, or wait years for a graft to take. The solstice still arrives. The gift may not fall. Whole districts still walk the Long Mile, weeks or months to a Tree that can Turn them.
+- **Kumbaan** (almost no Trees): the Yumboes keep the moon. The reckoning is nocturnal and lunar, and they have no Trees to time it to. Devout mainlanders say, "The Leaf-Mother never touched this calendar." A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time. The hall will not correct the chart.
 
 ### What the year feels like
 
 People keep the week their street actually keeps. Faiths argue about what the week means. Each street chooses the words.
 
-In a devout town, on an ordinary market morning, people carrying baskets stop when a tree-warden steps onto the Tree's roots, and start again when the warden steps off. Someone of the Watching will not say "Maieth," and will still wait. Someone of the Fair Hand, passing through, will not wait. The square notices both. The year these people feel begins in Eolthael, the hinge-month, even if a clerk's tablet started the count earlier. In Maiethlir the thaw-river runs louder the week before Leaf-Fall. The town will not say why.
+In a devout town, on an ordinary market morning, people carrying baskets stop when a tree-warden steps onto the Tree's roots, and start again when the warden steps off. Someone of the Watching will not say "Maieth," and will still wait. Someone of the Fair Hand, passing through, will not wait. The square notices both. The year these people feel begins in Eolthael, even if a clerk's tablet started the count earlier. In Maiethlir the thaw-river runs louder the week before Leaf-Fall. The town will not say why.
 
 On a dock, the year the account books feel begins at the Deep Solstice, when the notes are closed. Turning-month is a fair laid on top of that closing. All year, a "clear" is a person a crane-crew will hire: someone the Tree hugged and gave no Condition. In Eolthael, people put salt on the Tree's roots. Orentel will not say why.
 
-In a waiting town, people date a child from the last summer the local wood actually spoke. They do not spend the good flour on a promise that it will speak again. A guest gets the common pot. If the wood spoke last year, Turning-Week gets the better loaf. If it did not, the week gets the pot too. A wet leaf lies on the spring, or too many, or none. Eolvaeth will not say why. At Harrow's Green, a grove-town on Heskoren's live edge, people say, "The wood," first when it will speak. If their own wood will not speak, they name the neighbour's town after that.
+In a waiting town, people date a child from the last summer the local wood actually spoke. They do not spend the good flour on a promise that it will speak again. A guest gets the common pot. If the wood spoke last year, Turning-Week gets the better loaf. If it did not, the week gets the pot too. A wet leaf lies on the spring, or too many, or none. Eolvaeth will not say why. At Harrow's Green people say, "The wood," first when it will speak. If their own wood will not speak, they name the neighbour's town after that.
 
 At Ndenjoo the year is moons. Noon is when the hall is asleep. On one night of the moon sailors call Yoltal, the hall eats the heel of the loaf first. They will not say why.
 
