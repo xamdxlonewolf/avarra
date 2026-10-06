@@ -25,11 +25,11 @@ These six matter because of the office they already hold.
 
 ### Vaethod — Eolvaeth
 
-**Vaethod** *(VAYTH-od)* is town-warden of Eolvaeth: the mouth who decides whether the hinge happened, whether the Speaking week is over, and some years whether a cohort walks toward Saelvaeth's luck. They name a colour only when it fell. What they want is **Saelid**'s baker's stall on the camp-streets — winter mouths buy bread, and a send-year takes those mouths away. They tell themselves that speaking truly means they have not chosen. They have sent people toward Haelin's live front without meeting them.
+**Vaethod** *(VAYTH-od)* is town-warden of Eolvaeth. They decide whether the hinge happened, whether the Speaking week is over, and some years whether a cohort walks toward Saelvaeth's luck. They name a colour only when it fell. What they want is **Saelid**'s baker's stall on the camp-streets — winter mouths buy bread, and a send-year takes those mouths away. They tell themselves that speaking truly means they have not chosen. They have sent people toward Haelin's live front without meeting them.
 
 ### Rithim — Maiethlir
 
-**Rithim** *(RITH-im)* is Speaker of Maiethlir — the mouth that names the leaf-colour while clerks wait to copy it. What they want is **Valein**, Kept and unmarked in the same household, to stay off the tablet; the verso already knows how to write *unmarked*. They believe delaying the copy is the same as refusing. On the same morning Laevila describes what Rithim keeps off the roll. The First Seat stays in the wood beside them. Rithim's office is the square's Speaking.
+**Rithim** *(RITH-im)* is Speaker of Maiethlir. They name the leaf-colour while clerks wait to copy it. What they want is **Valein**, Kept and unmarked in the same household, to stay off the tablet; the verso already knows how to write *unmarked*. They believe delaying the copy is the same as refusing. On the same morning Laevila describes what Rithim keeps off the roll. The First Seat stays in the wood beside them. Rithim's office is the square's Speaking.
 
 ### Mataero — Orentel
 
@@ -37,15 +37,15 @@ These six matter because of the office they already hold.
 
 ### Thilim — the Third Hearth
 
-**Thilim** *(THIL-im)* keeps the Third Hearth, the third lodging out from the Motherwood on the Near Mile — Long-Lived, inland, notes smaller than the White Note's, shrine larger. They walked the mile as the inn until the stretch was optional and kept making the bed anyway. What they want is the stone's water still feeding the pot when it is dark; Seine's bed is still made. They hold that mouths at dark matter more than paper. Brenthael's warden wants the stone moved. Thilim keeps the name where it is. The name is also a well.
+**Thilim** *(THIL-im)* keeps the Third Hearth. It is the third lodging out from the Motherwood on the Near Mile. Thilim is Long-Lived. The hearth is inland, the notes are smaller than the White Note's, and the shrine is larger. They walked the mile as the inn until the stretch was optional and kept making the bed anyway. What they want is the stone's water still feeding the pot when it is dark; Seine's bed is still made. They hold that mouths at dark matter more than paper. Brenthael's warden wants the stone moved. Thilim keeps the name where it is. The name is also a well.
 
 ### Laevila — Maiethlir
 
-**Laevila** *(lay-VEE-lah)* bakes on the old extra-mile, keeps the room under the chapel the wardens recut, and holds the only copy of the beam's hidden face. Long-Lived; they walked as a child under Thaeloren before this river had to count them. What they want is **Senithi**'s name good for a marriage: the hidden face still has the grandmother under her own name, and the roll wrote the household wrong. They tell themselves that if they only describe, they have not chosen sides. Rithim Speaks in the same square. They eat after Night Watch and do not agree what that means.
+**Laevila** *(lay-VEE-lah)* bakes on the old extra-mile, keeps the room under the chapel the wardens recut, and holds the only copy of the beam's hidden face. They are Long-Lived. They walked as a child under Thaeloren before this river had to count them. What they want is **Senithi**'s name good for a marriage: the hidden face still has the grandmother under her own name, and the roll wrote the household wrong. They tell themselves that if they only describe, they have not chosen sides. Rithim Speaks in the same square. They eat after Night Watch and do not agree what that means.
 
 ### Tesara — Orentel
 
-**Tesara** *(teh-SAH-rah)* sits the stillers' shed off the street — a key kept off the slate, success measured in silence. Struck years back, they remember the door from their own catching-week. What they want is **Valen** stamped with a real ticket. The paper in the way is a burned slip. They believe a quiet week means they saved someone. The paying floor wants the master back. Mataero will need a loft if Valen lives without a ticket.
+**Tesara** *(teh-SAH-rah)* sits the stillers' shed off the street. A key is kept off the slate, and success is measured in silence. Struck years back, they remember the door from their own catching-week. What they want is **Valen** stamped with a real ticket. The paper in the way is a burned slip. They believe a quiet week means they saved someone. The paying floor wants the master back. Mataero will need a loft if Valen lives without a ticket.
 
 ## Named wants in the three seats
 
@@ -77,10 +77,10 @@ These are second mouths in places that already have one.
 
 **Reimaethe** *(RYE-may-theh)* is a Long-Lived on the rise in Orentel who poured four years into a cup and wants to stop before the fifth. Neighbours call it a rich uncle's hobby. They pay a rise-loft on time. Mataero writes *let*. The reason stays off the slate.
 
-**Hithaen** *(hith-AYN)* arrived in Eolvaeth's gift-hall this Hale-month with no list behind them. Given; they used to be heir to a house that counts the Kept as the line that may rule. The leaf took that. They want a life off the wall-pass. Vaethod has not decided if this mouth came to wait or to be counted.
+**Hithaen** *(hith-AYN)* arrived in Eolvaeth's gift-hall this Hale-month with no list behind them. They are Given. They used to be heir to a house that counts the Kept as the line that may rule. The leaf took that. They want a life off the wall-pass. Vaethod has not decided if this mouth came to wait or to be counted.
 
-**Taeren** *(TAY-ren)* is of Brenod. Harrow's Green is the grove-town where they are standing. Last Eolthael they stood at the neighbour's canopy at Harrow's Green; something white happened, and a colour outside the civic list has no home-walk as a witnessing, so they are still in the square when Hale-month extra mouths arrive. Heat in the hands they do not show. Ordinary questions.
+**Taeren** *(TAY-ren)* is of Brenod. Harrow's Green is the grove-town where they are standing. Last Eolthael they stood at the neighbour's canopy at Harrow's Green; something white happened, and a colour outside the civic list has no home-walk as a witnessing, so they are still in the square when Hale-month extra mouths arrive. Heat in the hands they do not show. They ask ordinary questions.
 
-**Rosire** *(ro-SEER-eh)* is of Orentel, infirmary-tired. They used to bring water at Tesara's shed; this Hale-month they are in an upper room at Harrow's Green. Travel stays out of their talk. They want the person they walked inland with kept out of a story, and no one sent to fetch them.
+**Rosire** *(ro-SEER-eh)* is of Orentel. They are infirmary-tired. They used to bring water at Tesara's shed; this Hale-month they are in an upper room at Harrow's Green. Travel stays out of their talk. They want the person they walked inland with kept out of a story, and no one sent to fetch them.
 
 Ledan still writes the quay-desk. The six pivots stay Vaethod, Rithim, Mataero, Thilim, Laevila, and Tesara. Reimaethe, Hithaen, Taeren, and Rosire stay four separate people.

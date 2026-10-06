@@ -4,7 +4,7 @@ The map of the Turning shows how far the origin Tree's wood has spread. That dis
 
 Nearest that wood, the old sacred country is dense with Trees. The merchant coasts beyond it still have many. The frontier is thin. Past the last capes, a storm-walled isle has almost none.
 
-There is one Awakening Tree, **Thaeloren**. Every town Tree is a living **graft** of it: a cutting of that same wood, planted in new ground so a child can Turn under it. People call that planted Tree a Turning Tree. The further a land sits from the deep, old, densely-grafted core, the thinner its reach tends to run: fewer, younger, more fragile Trees. More children are left among the Kept. More people are Struck later and alone. How far a land sits from Thaeloren is also how long ago the wood arrived. The Ages chapter tells that history.
+There is one Awakening Tree, **Thaeloren**. Every town Tree is a living **graft** of it, planted in new ground so a child can Turn under it. People call that planted Tree a Turning Tree. The further a land sits from the deep, old, densely-grafted core, the thinner its reach tends to run: fewer, younger, more fragile Trees. More children are left among the Kept. More people are Struck later and alone. How far a land sits from Thaeloren is also how long ago the wood arrived. The Ages chapter tells that history.
 
 Names keep the old *th* nearest the Tree. A frontier town softens it. A dock town sands it off. You can hear how far a land sits from the grove in how people say the same word.
 
@@ -28,16 +28,16 @@ Each of the three large continents has one famous corner, named by gluing two ol
 | **Lestrand** | leh-STRAND | the Reckoning Coast. The *th* is gone. |
 | **Vaethorn** | vay-THORN | the Waiting Land. Everyday: **Wethorn**. |
 
-The other named powers on each continent are built from the same old words. You will meet them as you go. **Language and Naming** is the word-box if you want to hear one as it appears, or make another.
+The other named powers on each continent are built from the same old words. You will meet them as you go. **Language and Naming** will let you hear one as it appears, or make another.
 
 ## How the continents sit
 
 Reading the world roughly **east to west**, as the wood thins:
 
-- **Maiethorn** anchors the **east**: the old heart, where the land is oldest and most settled and the Awakening Tree still stands. Everything the world calls "the center" is here.
+- **Maiethorn** anchors the **east**, where the land is oldest and most settled and the Awakening Tree still stands. Everything the world calls "the center" is here.
 - **Strandoren** lies **west across the Old Crossing**, close enough to Maiethorn for constant, ancient trade (the two are the "Old World" pair), its long indented coasts facing the crossing. The Old Crossing — the inner sea, in older talk — is the busiest water in the world.
 - **Heskoren** sprawls **further west and south**, beyond Strandoren's far coast, reached late, grafted late, the edge of the settled world. Between Strandoren and Heskoren the sea widens and the reach thins. This is where the frontier begins.
-- **The Sundering Isle** sits **alone in the far west (or deep south) ocean**, past Heskoren's last capes, walled off by the **storm-wall**: a band of killing weather, currents, and reef that has wrecked most who tried the crossing. The wood never reached it. The isle is near-Treeless and seldom reached, and its people are mythic-rare on all three other continents.
+- **The Sundering Isle** sits **alone in the far west (or deep south) ocean**, past Heskoren's last capes, walled off by the **storm-wall**. Killing weather, currents, and reef have wrecked most who tried the crossing. The wood never reached it. The isle is near-Treeless and seldom reached, and its people are mythic-rare on all three other continents.
 
 Maiethorn and Strandoren are close and old. Heskoren is far and thin. The Isle is sundered beyond.
 
@@ -58,7 +58,7 @@ The Motherfaith is one faith among several. The Watching, the Fair Hand, and the
 
 ## Maiethorn: the Motherland
 
-*(mah-YETH-orn. The Mother's Land.)*
+*(mah-YETH-orn.)*
 
 Maiethorn is the world's **old heart**: the continent people mean when they say "the center." It is long-settled and deeply grafted: every hill with its Tree, and every Tree with its centuries. This is where the Motherfaith began, and where the Awakening Tree grows. A child's Turning is ordinary here because it is almost certain. The Trees are so healthy that nearly every child is Given, and being Kept is rare enough to be an event. Deathless houses here are centuries old. Stilled infirmaries stand open. Far-Voiced work on every court and quay.
 
@@ -68,19 +68,19 @@ Devotion here is the heaviest in the world, because the Awakening Tree stands on
 
 **The Sacred Core.** At Maiethorn's heart stands **Thaeloren, the Awakening Tree**, in a deep old grove that is the destination of the world's great pilgrimage. People call it the First Hand: the wood later Turning Trees were cut from. The land around it is the most densely-grafted on earth: an old, gentle country of rounded hills, river valleys, and Tree-crowned towns, worn smooth by long settlement.
 
-**The Motherwood.** Vast old-growth forest of motherwood and its wild kin rings the core. Here are the healthiest Trees, and the graft-nurseries from which **scions** (the cuttings themselves) travel to the whole world. The First Seat and the faith's institutions cluster in the wood's clearings.
+**The Motherwood.** Vast old-growth forest of motherwood and its wild kin rings the core. Here are the healthiest Trees, and the graft-nurseries from which the cuttings travel to the whole world. The First Seat and the faith's institutions cluster in the wood's clearings.
 
-**A central range** divides the continent's watersheds. Temperate, seasonal climate: four true seasons, real winters that make the solstice-timed Leaf-Fall meaningful. Old roads and river-trade knit it together. Tengu hearths and Fox-of-the-Snows country sit on the high snows. A hearth is the home-ground of a people. The range is also why the east is dry.
+**A central range** divides the continent's watersheds. Temperate, seasonal climate: four true seasons, real winters that make the solstice-timed Leaf-Fall meaningful. Old roads and river-trade knit it together. Tengu hearths and Fox-of-the-Snows country sit on the high snows. The range is also why the east is dry.
 
 **The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn: the same Trees, the same old *th*, and the same pilgrimage west toward Thaeloren. The weather here is the dry one. Towns here cluster at wells and at whatever graft will take in thin soil. **Larbril** is where the west road meets the Well-wash, short of the pass. **Ornsael** is the smaller well-town farther into the dry, where people sow at a well. Open sand-country lies between it and Larbril, and the town sits inland. Children in the sacred core could already Turn at a Turning Tree while families here were still walking west to Thaeloren.
 
-**The western coast** faces the busy **Old Crossing** toward Strandoren, the oldest trade route in the world, the "Old World" crossing (the inner sea, in older talk). Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
+**The western coast** faces the busy **Old Crossing** toward Strandoren, the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
 
 ### Reach
 
-**Full.** This is the densest, healthiest grafting anywhere. Nearly every child is Given. The three pillars (Long-Lived memory, Bound word, Far-Voiced feeling) are thick on the ground. The Kept are genuinely uncommon and, in the more fervent districts, quietly pitied as passed-over. Nowhere else are so many children Given, or so many of those three gifts at work.
+**Full.** This is the densest, healthiest grafting anywhere. Nearly every child is Given. Long-Lived memory, Bound word, and Far-Voiced feeling are thick on the ground. The Kept are genuinely uncommon and, in the more fervent districts, quietly pitied as passed-over. Nowhere else are so many children Given, or so many of those three gifts at work.
 
-The wood arrived with the First Cut. A Cut-year is a year counted from that first successful planting. Maiethorn filled in Cut-years 0–80, origin-towns first. A cutting could travel about a day while the wood was still alive, and then it had to be planted. The **Rain-Shadow was slower**: the same continent, thin soil, and wells. Towns in the sacred core had Turning Trees, and their children stopped walking to Thaeloren, while sand-country families were still walking west. The ground set that pace. The Ages chapter has the years.
+The wood arrived with the First Cut. The years since that first successful planting are Cut-years. Maiethorn filled in Cut-years 0–80, origin-towns first. A cutting could travel about a day while the wood was still alive, and then it had to be planted. The **Rain-Shadow was slower**: the same continent, thin soil, and wells. Towns in the sacred core had Turning Trees, and their children stopped walking to Thaeloren, while sand-country families were still walking west. The ground set that pace. The Ages chapter has the years.
 
 ### Powers
 
@@ -105,7 +105,7 @@ In the Walking Years, a Maiethorn child Turned by walking to Thaeloren. That inl
 
 ## Strandoren: the Shore-lands
 
-*(stran-DOR-en. Everyday **Strandor**. The Witnessed Shore.)*
+*(stran-DOR-en. Everyday **Strandor**.)*
 
 Strandoren is the **crossroads of the known world**: a continent of harbours, its long coastline so deeply indented with bays, sounds, and peninsulas that no point sits far from saltwater. It is the **market that grew up facing Maiethorn**: charter-towns, guild halls, banking houses, and quays. The Trees here are mature and many (reach is high, the Given are dense), but the faith is worn light, folded into commerce until a child's Turning is watched less as a sacrament than as a question of which guild the colour opens. Deathless banking is at full scale here. Condition-labor buys the world's most advanced public works.
 
@@ -125,11 +125,11 @@ It is free, prosperous, and cool. Nothing here is policed (your faith, your gift
 
 **High.** Grafts here are mature and abundant, especially on the coast. The Given are dense. The three pillars are the machinery a huge commercial society runs on: Long-Lived notaries, Bound whose word closes contracts, Far-Voiced on every dock and in every court. The Struck are vouched-in briskly and efficiently. An unvouched person is a transaction that can't clear.
 
-The wood arrived by sea in Cut-years 40–160, wealthy coasts first. A ship outran the work of planting every inland hamlet. A rich coast could pay for a Cutting-leave, the First Seat's paper allowing a cut, while a village on the Near Mile was still waiting its turn. The interior, along the rivers, was planted later. Clerks of the Fair Hand call that arrival "the carrying," and they file it as cargo.
+The wood arrived by sea in Cut-years 40–160, wealthy coasts first. A ship outran the work of planting every inland hamlet. A rich coast could pay the First Seat for a Cutting-leave, while a village on the Near Mile was still waiting its turn. The interior, along the rivers, was planted later. Clerks of the Fair Hand call that arrival "the carrying," and they file it as cargo.
 
 ### Powers
 
-- **Lestrand, the Ledger Coast** (theology low · reach high · governance low). The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale. A Tithe is the upkeep a Condition needs. Here that upkeep is a private market: you buy your green, your novelty, your outlet, and you fade if you cannot pay. The richest and coolest corner of the world. Its seat is **Orentel**, on the Salt Quay. The White Note House keeps its office on that quay and keeps the old notes. The guilds govern the city.
+- **Lestrand, the Ledger Coast** (theology low · reach high · governance low). The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale. Here the upkeep is a private market: you buy your green, your novelty, your outlet, and you fade if you cannot pay. The richest and coolest corner of the world. Its seat is **Orentel**, on the Salt Quay. The White Note House keeps its office on that quay and keeps the old notes. The guilds govern the city.
 - **Brenledd**, the Hearth-League, is many charter-towns under one compact. Each town keeps its own Tree and its own vouching. The throne-city is **Raitin**, a river-city where the council sits and the shared notes clear. Six charter-towns sit around it, each with its own hearth. Raitin is where they meet.
 - **Leddvael**, the Reckoned Gift, keeps the Fair Hand as the city's own rite. Leaf-Fall here is a festival and a signing-watch. Its port is **Naenor**. The Book-Hands stamp a signing and recite. They work on this water and keep no hall of their own.
 - **Trenledd**, the Worn Count, writes its people on a roll of tax and hazard. The count carries no hymn. Its city is **Lunbra**, on the Chart-run, where the roll is kept and the money is shown.
@@ -147,9 +147,9 @@ The Salt Walk was Strandoren's way to a Turning: a ship across the Old Crossing,
 
 ## Heskoren: the Sundered Reach
 
-*(hesk-OR-en. Everyday **Heskorn**. The Outer Land.)*
+*(hesk-OR-en. Everyday **Heskorn**.)*
 
-Heskoren is the **edge of the world that the Trees reached last**. The land is young in wood, thin, and waiting: a broad, rugged, half-settled country where the grafts came recently, take poorly, and sicken often. Whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the Kept (children who reached no healthy Tree at ten) and the Struck (people who changed later, alone, unwitnessed). It is where the Motherfaith burns hottest. Scarcity of the gift has heated devotion: pilgrimage, longing, and a theology of waiting. In the Walking Years the same pattern was distance. The Long Mile, the weeks-to-months walk from this continent to Thaeloren, cost more than most families could spend. Some districts still send children that far, or to a neighbour's Tree. The distance is what kept them from the gift.
+Heskoren is the **edge of the world that the Trees reached last**. The land is young in wood, thin, and waiting: a broad, rugged, half-settled country where the grafts came recently, take poorly, and sicken often. Whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the Kept and the Struck. It is where the Motherfaith burns hottest. Scarcity of the gift has heated devotion: pilgrimage, longing, and a theology of waiting. In the Walking Years the same pattern was distance. The Long Mile from this continent to Thaeloren took weeks or months, and it cost more than most families could spend. Some districts still send children that far, or to a neighbour's Tree. The distance is what kept them from the gift.
 
 It is warm, poor, and self-reliant: the kindest place in the world to a whole neighbour and the loneliest to an unvouched one. The danger is a **lapsing Condition with no infirmary to reach**, and a faith that consoles what it cannot cure. Scarcity of the gift shades into a doctrine of unworthiness.
 
@@ -195,7 +195,7 @@ The Sundering Isle is the one land the grafts never reached, or never held. Wher
 
 Kumbaan is an ordinary home, warm and hospitable, that happens to be nearly impossible to reach. The strangeness is the distance. The Yumboes are not strange to themselves, only to a world that has never met them.
 
-Kumbaan is an isolate with a table, a moon, and a storm-wall. The Isle is a people at home.
+Kumbaan keeps a table, a moon, and a storm-wall. The Isle is a people at home.
 
 ### Geography and climate
 

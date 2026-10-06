@@ -28,7 +28,7 @@ They stay two things when the stories sound alike. An **Infernis** who swears a 
 
 ### The Kept deal
 
-The Kept have no boon and no Tithe. A Tithe clock is the upkeep a Condition card asks a character to mark, usually at a long rest. The Kept clock is empty on purpose. That emptiness is the tradeoff.
+The Kept have no boon and no Tithe. A Condition card asks a character to mark a Tithe clock. That is the upkeep, and the mark usually comes at a long rest. The Kept clock is empty on purpose. That emptiness is the tradeoff.
 
 What they have is a legal standing and a free rest. The law treats them as the ordinary person: the hug was witnessed, they owe no guild, and they hold no Condition licence. At every long rest they take their downtime with no Tithe checklist. Everyone else may be marking a Tithe clock. That free rest is the advantage at the table. They can still be Struck later. Kept is the present. It is not a promise to stay that way.
 
@@ -54,7 +54,7 @@ Condition cards do not level. The card at 1 is the card at 10. Class features, d
 
 You move on someone's word. A paper that names what you are does not replace the answer. A watch asks **name, last hearth, who stands.** Two of the three will do. If you have none, you sit until morning, or you are walked to the next gate.
 
-These customs answer the watch: a road-word, a company's vouch, a guild-mark, a house-note, guest-right, and the custom of a walk. Distances are in *Climate, Ecology, and Travel*. Kumbaan, the Sundering Isle, does not use this road-word. The crossing is in *Other Places*, under Ndenjoo, and in *The Four Continents*. People do sell a vouch. That sale is a separate trade. It does not answer this watch.
+These customs answer the watch: a road-word, a company's vouch, a guild-mark, a house-note, guest-right, and the custom of a walk. Distances are in *Climate, Ecology, and Travel*. Kumbaan does not use this road-word. That is the Sundering Isle. The crossing is in *Other Places*, under Ndenjoo, and in *The Four Continents*. People do sell a vouch. That sale is a separate trade. It does not answer this watch.
 
 ### City witnessing
 
@@ -83,19 +83,19 @@ Use these when you cannot open *The Turning Tree*:
 
 Start in one of these places. Stay with the one job the old walk left on that street. After a town has its own Tree, that job is one of three. **Devotion:** people keep a walk they no longer need, either as an extra mile or as a wait at a Tree that may not speak. **Prestige:** a household pays for a winter, or a berth, for a walk they do not need. **Necessity:** the local Tree is missing, young, or sick, or the week cannot hold the mouths, so people use a neighbour's standing, water, or bed. Give the place one of those jobs. A guest may bring a second into the same week. The second is not the place's theme.
 
-**Eolvaeth.** People come here to wait, and the wait is the job. Vaethod, the town-warden, will not invent a colour. Saelid's stall has to feed the winter mouths. A stranger in the gift-hall has no list to stand on. Some years the wood says send the children on. The gospel in the vale says stay.
+**Eolvaeth.** People come here to wait, and the wait is the job. Vaethod will not invent a colour. Vaethod is the town-warden. Saelid's stall has to feed the winter mouths. A stranger in the gift-hall has no list to stand on. Some years the wood says send the children on. The gospel in the vale says stay.
 
-**Orentel.** The quay sells a winter to households who can pay for a walk they do not need, and that sale is the job. The Eolthael berths are empty because they are held. A White Note term is the paper. A Night-Shore hull is the ship. An Orentel hold is the berth. A prestige winter takes all three, at three desks. Tesara works the stillers' shed, and the shed does not face the street. Two streets off the third quay, a person too poor to meet a Tithe fades while the city steps around them.
+**Orentel.** The quay sells a winter to households who can pay for a walk they do not need, and that sale is the job. The Eolthael berths are empty because they are held. A prestige winter takes all three, at three desks: a White Note term for the paper, a Night-Shore hull for the ship, and an Orentel hold for the berth. Tesara works the stillers' shed, and the shed does not face the street. Two streets off the third quay, a person too poor to meet a Tithe fades while the city steps around them.
 
-**Maiethlir.** Start the week before Leaf-Fall, when the thaw is loud. Rithim, the Speaker, will not give the clerk the line. The wardens have recut a chapel, and a Watching room is under it. The crown keeps a counted channel for a Far-Voiced hour and for the city's green. That channel can be shut. The extra mile is still walked here. The roll writes on top of that walk, and the walk remains.
+**Maiethlir.** Start the week before Leaf-Fall, when the thaw is loud. Rithim will not give the clerk the line. Rithim is the Speaker. The wardens have recut a chapel, and a Watching room is under it. The crown keeps a counted channel for a Far-Voiced hour and for the city's green. That channel can be shut. The extra mile is still walked here. The roll writes on top of that walk, and the walk remains.
 
-**Harrow's Green.** Hale-month, Cut-year 387, the 387th summer counted from the First Cut. The job is a neighbour's week that can still be walked home. The stone has to move so the crowd can stand, and the water is still on it. The upper room has extra mouths. Children here Turn under this Tree. The hamlets can see the canopy and are still sending theirs.
+**Harrow's Green.** Start in Hale-month. The year is Cut-year 387. That is the 387th summer counted from the First Cut. The job is a neighbour's week that can still be walked home. The stone has to move so the crowd can stand, and the water is still on it. The upper room has extra mouths. Children here Turn under this Tree. The hamlets can see the canopy and are still sending theirs.
 
 **Ornsael.** The well is dropping, and the job is water. The share is chalked on the lip. Pilgrims from the core arrive expecting a holiday walk. A wet knot sits below last year's water-line.
 
 **the Three Hamlets.** Play the same week as Harrow's Green. The canopy is a dark on the far slope. Brenod sends the child. Vaelun may refuse the walk. Ornath may take the other road. The job is the neighbour's week.
 
-**the Third Hearth.** Thilim has made Seine's bed and left it made. The extra mile is optional, and the house still keeps the bed. That is the job. Meirim, Brenthael's warden, wants the stone taken down. Mouths will be here at dark. Seine's name is on the lintel. The stone at the road is the day's water.
+**the Third Hearth.** Thilim has made Seine's bed and left it made. The extra mile is optional, and the house still keeps the bed. That is the job. Meirim wants the stone taken down. Meirim is Brenthael's warden. Mouths will be here at dark. Seine's name is on the lintel. The stone at the road is the day's water.
 
 **Ndenjoo.** Play the hall's hospitality, and play the storm-wall as the weather. A wreck has walked uphill. The extra place is already set. A guest is loud at noon, when the hall sleeps. There is no Tree. Seat the wreck, keep kin who will not leave, and let someone want a crossing out. Leave what the Trees are unproved.
 
@@ -107,13 +107,13 @@ The Conditions are already the people in the world. Do not add a second vampire,
 
 ## Sample frames
 
-Use one of these for a run of sessions. In each mainland frame, some people Turn under the Tree in town, and this year someone is still walking because living wood has not reached every hearth. Play both as the present. The Years of Hands are the years a town Tree is the ordinary way to Turn. They are underway.
+Use one of these for a run of sessions. In each mainland frame, some people Turn under the Tree in town, and this year someone is still walking because living wood has not reached every hearth. Play both as the present. The Years of Hands are underway. Those are the years a town Tree is the ordinary way to Turn.
 
 **A town where the planting is still arriving.** Harrow's Green, or the hamlets looking at its canopy. The job on the street is a neighbour's week. A pot of living wood may arrive, and it may not. Someone here is still sending this year's children. Someone who thinks the planting is finished lives two weeks away and cannot see this canopy.
 
 **A quay that sells a winter.** Orentel. A household that wants the prestige of a First-Hand year goes to three desks: a Night-Shore hull, a term from the White Note, and a hold at Orentel. One desk does not finish the winter. Necessity still sleeps in the loft. Ledan, at the White Note desk, asks which count the debt should wear: the house's own year, a Cut-year, or a third date a court invented. Say which.
 
-**An origin town with a roll.** Maiethlir. The extra mile is still walked, and the clerks write on top of it. Rithim, the Speaker, will not copy the clerk's line. A Watcher will describe what they saw. The First Seat is in the wood beside the city, and can refuse what the city asks.
+**An origin town with a roll.** Maiethlir. The extra mile is still walked, and the clerks write on top of it. Rithim will not copy the clerk's line. A Watcher will describe what they saw. The First Seat is in the wood beside the city, and can refuse what the city asks.
 
 **The hall on the isle.** Ndenjoo. Hospitality is the rite: an extra place, a second night, a guest who can sleep the day. The storm-wall is the weather. Play kin and a wreck. Do not spend the session proving what the Trees are.
 
@@ -145,4 +145,4 @@ None of these are Conditions. A walker may *be* Conditioned the way anyone is.
 
 Pair a place with one danger. On the Long Mile inland, use a mile-gap and a Gap-Cat. On the Long Mile where a house still keeps a bed from a week that ended, use an empty road-house and a Bed-Keeper. On the Rain-Wall, use a thaw-gate, and let the weather be enough. On the Chart-run, use a night-berth and a Chart-Crew. At a dead pot on the live front, use one Colourless Host as Support. Do not add a second Host. Near a town on the Near Mile, use what that town already sends into a scene. The storm-wall belongs with the isle, in *Other Places*. It is not one of these road dangers.
 
-A Colourless Host is a planting gone wrong, or a pot that never took. Skeptics and believers can both be loud. This book does not decide between them.
+Use a Colourless Host when a planting has gone wrong, or a pot never took. Skeptics and believers can both be loud. This book does not decide between them.

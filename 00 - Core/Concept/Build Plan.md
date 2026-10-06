@@ -18,6 +18,8 @@ updated: 2026-10-05
 
 ## Active next
 
+**Epic C — How the book speaks ✅ (C.1 done 2026-10-05).** `prose-style` is installed. The audit named two narrators: pages that sound like a person explaining a town, and pages that stopped to define the word. The glossary asides were pulled into the next sentence. The baseline stayed the Turning Tree opening and [[How a Place Speaks]]. The book was rebuilt. The vault was not rewritten. The four open questions stay open. Two claimants on one green stay unwritten.
+
 **Epic B — The book, in a reader's voice ✅ (B.1 done 2026-10-05).** All twenty-five chapters were read through and the sentences that still hid the fact were rewritten for people who will play. The book was rebuilt. The vault was not rewritten. The Leaf-Mother stays a belief in the player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, and the Fungril spoonful stay unexplained. The campaign's close was not written.
 
 **World book maps (2026-10-05).** User asked. The maps chapter shows the labeled atlas paintings. The schematic drawing is not the picture in the book.

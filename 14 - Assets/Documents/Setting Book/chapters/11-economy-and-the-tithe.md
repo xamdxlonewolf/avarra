@@ -1,7 +1,7 @@
 # Economy and the Tithe
 
 
-Every Condition has a Tithe, an ongoing need that must be met or the danger comes out. About three people in four carry a Condition, so keeping them able to carry it is part of how the economy is built. What began as a private need becomes a public one at that scale.
+Every Condition has a Tithe. That is an ongoing need that must be met, or the danger comes out. About three people in four carry a Condition, so keeping them able to carry it is part of how the economy is built. What began as a private need becomes a public one at that scale.
 
 **Tithe-provision is a permanent civic utility**, like wells and roads: visible in every town, fought over, load-bearing for the people who need it. Grain is the other supply. Grain feeds everyone, every day. The greens and halls keep an exposed minority from sliding into the Condition's danger, and keep their neighbours from living next to that slide. The sector is large enough to organize a town around. It is not the food supply.
 
@@ -14,9 +14,9 @@ The figures below are shares of work and of custom.
 | Who | About | What "provision" is |
 |---|---|---|
 | **Self-paying by vocation** | the Answered ~10 · Two-Bodied ~18 · the Stilled ~7 → **~35%** | Work is the Tithe. They are a labor market. |
-| **If the work fits** | Far-Voiced ~12 · Returned ~7 → **~19%** | Self-pay if the job fits. Buy a hall-hour or carry the need unpaid when it does not. A hall-hour is a booked hour for a Far-Voiced voice. |
+| **If the work fits** | Far-Voiced ~12 · Returned ~7 → **~19%** | Self-pay if the job fits. Buy a hall-hour or carry the need unpaid when it does not. The hour is booked for a Far-Voiced voice. |
 | **Provided-for** | the Taken-In ~13 · Long-Lived ~2.5 · the Unbound ~1.5 · Bound Terms ~3.5 → **~20%** | Green, novelty, warmth, whatever the clause set. |
-| **The Kept** | **~25%** | No Tithe. They buy bread. They do not buy a lot-hour, an hour on the city's green. |
+| **The Kept** | **~25%** | No Tithe. They buy bread. They do not buy a lot-hour. That is an hour on the city's green. |
 
 Green is free on a farm. Most Taken-In live where it is free. The **purchased or civic customer base** — urban Taken-In, hall-users without a stage, novelty-seekers, warmth that money can only approximate — is on the order of **a seventh of the people**, concentrated in stone towns. The queues are real. A city fights over lot-hours and hall-bells the way it fights over wells: a wilt or a Cry in the square is a public problem. Tithe-goods do not move in the grain carts.
 
@@ -30,14 +30,14 @@ Tithes do not all cost the same to pay. Some cost nothing in coin, because payin
 |---|---|---|
 | the Answered | use the element in earnest | **the craft itself:** a Tide-Answered shipwright slakes the Tithe by building the ship |
 | Two-Bodied | spend time as the animal | **the ranging work:** herding, rescue, courier, scout; being the beast is the job |
-| the Stilled | burn off the Grey, the residue each Gaze leaves, by exertion | **active labor:** surgery, riot-lines, demolition; the vigorous work burns that Grey off |
+| the Stilled | burn off the Grey by exertion. The Grey is the residue each Gaze leaves | **active labor:** surgery, riot-lines, demolition; the vigorous work burns that Grey off |
 
 **If the work fits, the Tithe is self-paying. If it does not, someone has to furnish it.** Two Conditions sit in both columns. The job decides which.
 
 | Condition | The Tithe | Self-pays when… | Falls to provided-for when… |
 |---|---|---|---|
-| Far-Voiced | vent strong emotion each day | the vocation is the vent: **performer, crier, negotiator, sworn witness**; feeling in earnest on the job discharges the Tithe | the voice has **no outlet** (isolated posting, dull labor, silence) and they need a **venting-hall**, a hall furnished so the voice can be let out |
-| Returned | act toward the Purpose, the unfinished task they still have to finish | the **Purpose aligns with the work:** plague wards, recovery, tending the dead; doing the deadly job pays it | the Purpose is **personal or unmet by any trade** (a vengeance, a vow, a person to find). No employer can furnish it, and it pulls against ordinary work |
+| Far-Voiced | vent strong emotion each day | the vocation is the vent: **performer, crier, negotiator, sworn witness**; feeling in earnest on the job discharges the Tithe | the voice has **no outlet** (isolated posting, dull labor, silence) and they need a **venting-hall**. That hall is furnished so the voice can be let out |
+| Returned | act toward the Purpose. That is the unfinished task they still have to finish | the **Purpose aligns with the work:** plague wards, recovery, tending the dead; doing the deadly job pays it | the Purpose is **personal or unmet by any trade** (a vengeance, a vow, a person to find). No employer can furnish it, and it pulls against ordinary work |
 
 **Provided-for Tithes: upkeep that must be supplied.** For the rest, the Tithe is a cost with no productive by-product. Someone must furnish the green, the novelty, the warmth, and that furnishing is the Tithe-provision sector.
 
@@ -83,22 +83,22 @@ Green is an expense in a stone city, and cities keep the Taken-In at arm's lengt
 They are in the city because:
 
 1. **They were Given here.** A copper-green leaf, the Taken-In's colour, at a city Tree. Family, work, and a hearth-witness keep them. Leaving the city is leaving the circle that saw you Turn.
-2. **Grain and timber come in; people come with them.** Seasonal Taken-In on the quays, wintering, some staying. The harvest-hands who do not go home in Hale-month, the spring month also called Haelren.
+2. **Grain and timber come in; people come with them.** Seasonal Taken-In on the quays, wintering, some staying. The harvest-hands who do not go home in Hale-month. Hale-month is the spring month, also called Haelren.
 3. **The lot is a job.** Greens-keepers need Taken-In labor. The city imports green-skill for the commons, then will not sit them at the high table.
 4. **The door can open in a city's old green.** Lost and dying in a deep wild is the Struck path that makes a Taken-In. A walled grove, a lot at night, a river-garden after a flood can open the same door. It is rare, and it is enough.
-5. **They cannot afford to leave.** Green-poverty is a trap: you need the lot to stay whole, the lot is gated, you work for lot-hours, you never save the cart-fare home. That trap is the city's green trade inside the Slide, the illicit market in Tithe-goods. Week-keepers are the people who sell it, and the green is what they sell when the gate will not.
+5. **They cannot afford to leave.** Green-poverty is a trap: you need the lot to stay whole, the lot is gated, you work for lot-hours, you never save the cart-fare home. That trap is the city's green trade inside the Slide. That is the illicit market in Tithe-goods. Week-keepers sell it, and the green is what they sell when the gate will not.
 
-World share is still ~13%. A stone city runs **lower** — a twentieth to a twelfth of its adults, concentrated on lots, orchards, river-gardens, and the week-keeper's pot, a private pot of green that same trade rents by the week. Enough for a queue. Enough for a wilt two streets off. Enough for a customer at that pot. The frontier still has the density and the honour. The city has the gate.
+World share is still ~13%. A stone city runs **lower** — a twentieth to a twelfth of its adults, concentrated on lots, orchards, river-gardens, and the week-keeper's pot. That private pot of green is what the same trade rents by the week. Enough for a queue. Enough for a wilt two streets off. Enough for a customer at that pot. The frontier still has the density and the honour. The city has the gate.
 
 ### Banking and the deathless houses
 
-**The Turning's banks do not die.** These are the **deathless houses**: a Long-Lived banking house founded by a person who is still personally running it two centuries later, the same memory, word, and ledger, unbroken. Merchants carry **letters of credit**, a written promise to pay in place of a chest of coin. Three things follow.
+**The Turning's banks do not die.** These are the **deathless houses**. A Long-Lived founded the bank and is still personally running it two centuries later, the same memory, word, and ledger, unbroken. Merchants carry **letters of credit**. That is a written promise to pay in place of a chest of coin. Three things follow.
 
 - **The trusted note.** A note issued by a deathless house is trusted almost as coin, because everyone knows the banker cannot forget a debt, cannot be quietly succeeded by a defaulting heir, and will personally answer for it in fifty years. Their paper circulates further and holds value better than any crown's. Other paper is trusted by how close it comes to the word of a house that will not die.
 - **The long instrument.** Deathless houses lend and endow on horizons no mortal lender would risk: century loans, multi-generation trusts, the patient financing of cathedrals, canals, and universities. The instruments are letters of credit and endowments. The world has no stock exchange and no joint-stock company.
 - **The concentration risk.** Wealth that never passes to an heir never disperses through inheritance. The scattering that a death forces on every other fortune never happens here. Even at ~2.5% of the population, the deathless can slowly gather an outsized share of standing capital. Their small numbers are what keep that share from becoming the whole of standing capital, and the economy never fully resolves the gathering. An endowment sends the coin out and keeps the steering of it, so influence concentrates even while the cash flows into the institutions they still direct.
 
-Many houses began as **road-houses** in the Walking Years, the age when families still had to walk to Thaeloren, the Awakening Tree: inns, beds, and century-credit for that road. When the core no longer required the walk, the same Long-Lived still remembered every debtor, and the paper outlived the pilgrimage season. The houses became banks. Two of them are still standing, on opposite errands. The White Note House collects on the old paper. The Third Hearth still makes the bed. The trusted note is an instrument from the Walking Years that outlived its road.
+Many houses began as **road-houses** in the Walking Years: inns, beds, and century-credit for that road. In that age, families still had to walk to Thaeloren. That is the Awakening Tree. When the core no longer required the walk, the same Long-Lived still remembered every debtor, and the paper outlived the pilgrimage season. The houses became banks. Two of them are still standing, on opposite errands. The White Note House collects on the old paper. The Third Hearth still makes the bed. The trusted note is an instrument from the Walking Years that outlived its road.
 
 ### Inheritance and the problem of not dying
 
@@ -106,7 +106,7 @@ Inheritance law is bent by the deathless. A Long-Lived's children **do not inher
 
 The characteristic answer: **the deathless endow.** Having no heirs, and needing for their own Tithe a steady supply of novelty (new books, new scholarship, new things to learn), a Long-Lived characteristically funds the institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. It is also how they grieve: an endowment in the name of a child who died a century ago. **An endowment is coin converted into permanent, directed patronage.** The founder does not die, so they keep the chair, name the scholars, and steer the institution for centuries. The fortune has not been let go. Endowment eases the coin concentration, because liquid wealth flows out into public works, and deepens the influence concentration, because the same few deathless hands still guide the universities, courts, and archives their money built. Keeping the Long-Lived few does not end that lock-up. The lock-up changes shape, from hoarded coin to patronage that does not step down.
 
-For everyone else inheritance is ordinary, except the **Two-Bodied bloodlines**, where the Condition, the family animal, and often the family trade descend together, so a guild place and a Condition can be a single inheritance. And the law's sharpest open question is economic at root: the **Given-Over**, a Bound who contracted away so much of themselves that the counterparty effectively owns the person. That is the ultimate inheritance failure: an estate, and a self, absorbed by a creditor.
+For everyone else inheritance is ordinary, except the **Two-Bodied bloodlines**, where the Condition, the family animal, and often the family trade descend together, so a guild place and a Condition can be a single inheritance. And the law's sharpest open question is economic at root: the **Given-Over**. A Bound contracted away so much of themselves that the counterparty effectively owns the person. That is the ultimate inheritance failure: an estate, and a self, absorbed by a creditor.
 
 ### Center and periphery
 

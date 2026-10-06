@@ -33,9 +33,9 @@ These are towns a party can walk into. Each entry says where the place sits, wha
 
 ### Harrow's Green
 
-A live-front Tree-town whose work is necessity: the neighbour's week, when hamlets send their ten-year-olds to this canopy. The luckiest kind of Heskoren square: a scion that arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The neighbour's canopy. The Harrow-sentence (*we Turned at Harrow's Tree before we had our own*) is how new towns talk everywhere; here it is the decade. Everyday *Harrow's green* was already a Seat sentence: a Cutting-leave, the paper that says where the wood may take. Warden: **Haelin** *(HAY-lin)*. A small town, a few hundred hearths around one canopy. The march-town is Natai, west of this square, between Sanbreo and the green. This square's water is the stream. The ford is downstream.
+Harrow's Green is a live-front Tree-town. It is the luckiest kind of square on this front. A scion arrived in the C.Y. 200s, spoke a generation later, and has now Turned local children for a few generations. The Harrow-sentence (*we Turned at Harrow's Tree before we had our own*) is how new towns talk everywhere; here it is the decade. Everyday *Harrow's green* was already a Seat sentence on a Cutting-leave. **Haelin** *(HAY-lin)* is the warden. The town is a few hundred hearths around one canopy. The march-town is Natai, west of this square, between Sanbreo and the green. This square's water is the stream. The ford is downstream.
 
-A grafted pocket on the Sundered Reach. Settlement clustered where the wood took. Harrow's is old enough, for the front, to be a town: a canopy at the centre, a square that used to be a road, borrowed Turnings inbound from the Three Hamlets Past the Ford every Eolthael.
+A grafted pocket on the Sundered Reach. Settlement clustered where the wood took. Harrow's is old enough, for the front, to be a town. A canopy stands at the centre. The square used to be a road. Borrowed Turnings come in from the Three Hamlets Past the Ford every Eolthael.
 
 The wave has not finished here. Harrow's is a Hand that grew up. The three hamlets can see the green from the ford. The Seat has already written that the wood will take *here* and not, this year, *there.* Harrow's lives inside that sentence whether it asked to or not.
 
@@ -88,7 +88,7 @@ The hamlets will hear the notice as a slight even if it is only a crowd.
 
 ### The Three Hamlets Past the Ford
 
-A waiting cluster whose work is necessity: they send this year's ten-year-olds to a neighbour's Tree. The Seat's Cutting-leave already filed them as a remainder: *the wood will take at Harrow's green. It will not take this year at the three hamlets past the ford: the soil is thin there.* They can see Harrow's Green from the water. They send this year's ten-year-olds to the neighbour's week, or further if Harrow's year is too full, or still the Long Mile if the neighbour is a stick in a pot. Folk hearth-names. The Seat's paper still reads "the three hamlets past the ford." That blindness is load-bearing. Three hearths, a few dozen houses each. You walk from kitchen to kitchen.
+The Three Hamlets Past the Ford are a waiting cluster. The Seat's Cutting-leave already filed them as a remainder: *the wood will take at Harrow's green. It will not take this year at the three hamlets past the ford: the soil is thin there.* They can see Harrow's Green from the water. They send this year's ten-year-olds to the neighbour's week, or further if Harrow's year is too full, or still the Long Mile if the neighbour is a stick in a pot. Folk hearth-names. The Seat's paper still reads "the three hamlets past the ford." That blindness is load-bearing. Three hearths, a few dozen houses each. You walk from kitchen to kitchen.
 
 Three hearths past a ford on Heskoren, close enough to share a complaint and far enough that a scion for "the hamlets" would still be a fight about *which* green. Thin reach as weather: Kept-heavy and Struck-heavy *this year, for this cohort.* This year's children still walk to a Tree that can speak. It is the present.
 
@@ -110,19 +110,19 @@ The houses are dispersed. You walk from hearth to hearth. The cluster is a compl
 
 #### Brenod *(BREN-od)*
 
-The sending hearth, and its work is necessity: walking the child to Harrow's for the neighbour's week. Motherfaith as practice: they walk the child to Harrow's, they want a mouth that was *there* to walk back and stand for the fall, they can recite the thin-soil sentence without using the word *queue.* The kitchen-knife is in this drawer more often than the others, which does not mean they have used it. It means they have looked at it.
+Brenod is the sending hearth. Motherfaith in this kitchen is the walk to Harrow's. They want a mouth that was *there* to walk back and stand for the fall, and they can recite the thin-soil sentence without using the word *queue.* The kitchen-knife is in this drawer more often than the others, which does not mean they have used it. It means they have looked at it.
 
 Brenod keeps the neighbour's week as *duty.* A visitor from the core will hear faith. Brenod hears a date in Eolthael.
 
 #### Vaelun *(VAY-lun)*
 
-The yield-hearth, and its work is host-rights on an old green. Older *vael*, what the land keeps, distinct from *vaeth*, the waiting. The Old Ways sit this kitchen. They may refuse the neighbour's week on purpose. Their children are already the land's. A first meal is the host's claim. A later cut from Harrow's, acting on the origin's behalf, still wants the bowl if this ground is an old green.
+Vaelun is the yield-hearth. Older *vael* is what the land keeps. *Vaeth* is the waiting. The Old Ways sit this kitchen. They may refuse the neighbour's week on purpose. Their children are already the land's. A first meal is the host's claim. A later cut from Harrow's, acting on the origin's behalf, still wants the bowl if this ground is an old green.
 
 Vaelun keeps host-rights. The Door-Keepers play here. Motherfaith neighbours in Brenod will call Vaelun's Kept children passed-over. Vaelun will not correct them in the Mother's language.
 
 #### Ornath *(OR-nath)*
 
-The furthest hearth past the ford, and its work is the wait, with the road toward Ornled's slate still open. Thinnest soil as a feeling, where the horticulture is still felt rather than decided. Ornath can see Harrow's when the weather is kind and can walk the *other* way, toward Ornled's slate, if the congregation-net fails. They have not gone. The road is still a temptation that looks like sense: a ledger, the same thin Trees, and no gospel.
+Ornath is the furthest hearth past the ford. The soil is thinnest here, still a feeling, and the horticulture is still felt rather than decided. Ornath can see Harrow's when the weather is kind and can walk the *other* way, toward Ornled's slate, if the congregation-net fails. They have not gone. The road is still a temptation that looks like sense: a ledger, the same thin Trees, and no gospel.
 
 Ornath keeps the wait, and the other road goes toward Ornled's slate. Some mouths there still wait. Some have stopped saying her name and have not started keeping a list either.
 
@@ -148,19 +148,19 @@ None of the three will take the other two as the whole truth. The leave already 
 
 ### The Third Hearth (and Brenthael)
 
-A road-house that stayed a hearth, and its work is devotion: beds for the extra mile. The third lodging out from the Motherwood on the Near Mile, kept by **Thilim** *(THIL-im)*, Long-Lived, inland, keeping this house since before the First Cut, as later clerks would say. Seine's bed is still made. The notes are smaller than the White Note's. The shrine is larger. Everyday *the third hearth*; cant *brenhael*, "hearth-Tree," like any road-house. Neighbour-town **Brenthael** *(bren-THALE)*: *bren* + *thael*, "the hearth-Tree." On Maiethorn, in Orenbren's lodging-country. Orenbren's capital is Rothallo, the Inner Close. The First Seat sits in the Motherwood.
+The Third Hearth is a road-house that stayed a hearth. It is the third lodging out from the Motherwood on the Near Mile. **Thilim** *(THIL-im)* has kept this house since before the First Cut, as later clerks would say. Thilim is Long-Lived and inland. Seine's bed is still made. The notes are smaller than the White Note's. The shrine is larger. People say *the third hearth*. The cant *brenhael* is the hearth-Tree word any road-house gets. **Brenthael** *(bren-THALE)* is the neighbour-town. The house stands on Maiethorn, in Orenbren's lodging-country. Orenbren's capital is Rothallo. Rothallo is the Inner Close. The First Seat sits in the Motherwood.
 
 An old Near-Mile house, three days' walk out from Thaeloren toward the approach-country. Beds, porridge, a dry room, a green-lot, a shed. In Brenvaeth it sold the walk you could not miss twice. In Ornthael it still opens for Eolthael.
 
 It sits in Orenbren's lodging-country, civic beds within a week's walk of the grove, one mouth of that lodging. The inns grew a country. This is one mouth.
 
-What this road-house still does is devotion: it keeps the extra mile as the town's season. The loft still sleeps people who had to come, and, rarely, people who paid to come. Thilim can tell which is which, and will not always say. The White Note, a desk on Orentel's quay, sells a first-year pilgrimage as a product. This house makes the bed.
+What this road-house still does is devotion: it keeps the extra mile as the town's season. The loft still sleeps people who had to come, and, rarely, people who paid to come. Thilim can tell which is which, and will not always say. The White Note is a desk on Orentel's quay. It sells a first-year pilgrimage as a product. This house makes the bed.
 
 Lestrand calls this "a bed-house that failed to become a bank." Thilim asks, "Which mouths will be here at dark?"
 
 **Site.** The Near Mile is a week's door to the origin. Counted from the grove outward: first hearth a day out, second, **third**. Pilgrims walking *in* hit the neighbour-town first.
 
-**Brenthael** stands a day's walk further from the grove than the inn, a Hands-town that grew around a graft planted beside the road. The pilgrim-way now **ends at Brenthael's Tree**. Beyond the boughs: mill, timber, the rest of Maiethorn. Children there are told the road goes to the Motherwood. It does, if they keep walking past the inn, two more hearths, and the wood. Most Hands-children do not.
+**Brenthael** stands a day's walk further from the grove than the inn. It is a Hands-town that grew around a graft planted beside the road. The pilgrim-way now **ends at Brenthael's Tree**. Beyond the boughs: mill, timber, the rest of Maiethorn. Children there are told the road goes to the Motherwood. It does, if they keep walking past the inn, two more hearths, and the wood. Most Hands-children do not.
 
 The Third Hearth kept the older job: beds for people still going in. Water is a well in the yard and the **stone** at the lintel-road, a day's-walk shrine that never got pulled into Brenthael's square because the inn refused to let the town have it. Thilim uses it for water and will not join the argument about pulling it down. Brenthael's warden wants it moved. The stone is in the way of a crowd that is not this house's crowd.
 
@@ -193,7 +193,7 @@ The Held bed is made. If Seine comes, the stone will still be in the way of a cr
 
 ### Ornsael
 
-A Rain-Shadow well-town whose work is necessity: children still walk west when the well drops. *(orn-SAYL · orn "land, ground" + sael "sowing" = "the sown-ground.")* Conservative drift: *th* is absent from the name, and the holy sound is still in the mouths. They are the Motherland's dry east, still walking west after the core stopped. The everyday name is *Ornsael*. A traveller from the core who says "the west-road well" is told the town's name. A well-town, a few hundred hearths, thinner than the core's. Saelthael's city is Larbril, where the west road meets the Well-wash, short of the pass. Ornsael is farther into the dry. Its drink is the well. Larbril's drink, when it has one, is the wash.
+Ornsael *(orn-SAYL)* is a Rain-Shadow well-town. *Th* is absent from the name, and the holy sound is still in the mouths. They are the Motherland's dry east, still walking west after the core stopped. The everyday name is *Ornsael*. A traveller from the core who says "the west-road well" is told the town's name. The town is a few hundred hearths, thinner than the core's. Saelthael's city is Larbril, where the west road meets the Well-wash, short of the pass. Ornsael is farther into the dry. Its drink is the well. Larbril's drink, when it has one, is the wash.
 
 East of Maiethorn's central range, on the leeward side away from the Old Crossing: dry hills, sand-country, towns at wells. Ornsael is one of those wells. A Tree stands beside it, young for the Motherland, old enough to have Turned local children for a generation. **It Speaks most years.** A missed Eolthael is weather. **The crisis is the drink.**
 
@@ -223,7 +223,7 @@ No walls. The boundary is where the well's courtesy ends and the dust does not.
 
 Homes bend to becomings: north-side cool rooms, green pots on lintels, shutters that open for a Far-Voiced hour because there is no hall to book. Thin infrastructure, high theology, low governance: Saelthael's combination at street height.
 
-This is Maiethorn, the Motherland, Hands-country in the core. Conservative mouths. The extra mile is supposed to be optional. Children still go west when the well drops or a neighbour's week is cheaper. The road that used to go further is still in use, because the walk is not over. It is the present. Same *sael* ("sowing") as Saelvaeth on the live front, sowing on two continents. Both are this year.
+This is Maiethorn, the Motherland, Hands-country in the core. Conservative mouths. The extra mile is supposed to be optional. Children still go west when the well drops or a neighbour's week is cheaper. The road that used to go further is still in use, because the walk is not over. It is the present. Same *sael* as Saelvaeth on the live front, sowing on two continents. Both are this year.
 
 Hands can un-Hands. A well that drops puts a Motherland square back on a neighbour's week whether the Tree spoke or not. That is weather. The Seat will call thin soil. The town will call this year. Vaethorn-guilt imported to sand that never asked for it is the injustice: waiting read as unworthiness on the continent that invented plenty.
 
@@ -253,7 +253,7 @@ Theisva is doing a drink. They will not file a year. Lesna will read the verso a
 
 ### Eolvaeth (Vaethorn's seat)
 
-The capital of Vaethorn, a pilgrim-town whose work is devotion: people walk here to wait. *(ay-ohl-VAYTH · eol "hinge" + vaeth "the waiting" = "the hinge-waiting.")* Worn drift: *th* kept. Everyday pulpit *Eolvaeth*; folk-speech **"Elvaeth"** *(el-VAYTH)*. The canopy speaks in some years and stays quiet in others. Warden: **Vaethod** *(VAYTH-od)*. A pilgrim-town, a couple thousand souls in Ledger-month, more in Hale-month. Harrow's Green is the live-front square. The Three Hamlets Past the Ford are the kitchens at Harrow's ford. Saelvaeth's march-town is Natai.
+Eolvaeth *(ay-ohl-VAYTH)* is the capital of Vaethorn. It is a pilgrim-town. The name keeps *th*. The pulpit says *Eolvaeth*. Folk-speech says **"Elvaeth"** *(el-VAYTH)*. The canopy speaks in some years and stays quiet in others. **Vaethod** *(VAYTH-od)* is the warden. A couple thousand souls live here in Ledger-month, and more in Hale-month. Harrow's Green is the live-front square. The Three Hamlets Past the Ford are the kitchens at Harrow's ford. Saelvaeth's march-town is Natai.
 
 A vale behind Heskoren's Strandoren-facing coast. One of the earlier pots on this continent: a C.Y. 200s graft that took, spoke some years, and never grew into a neighbour's certainty. The live front moved on. The waiting stayed. Congregation made a country. Vaethorn is the gospel; **Eolvaeth is the square the gospel stands in.**
 
@@ -313,7 +313,7 @@ The gospel will hear the notice as a slight even if it is only a week.
 
 ### Orentel (Lestrand's seat)
 
-The capital of Lestrand, a salt-city whose work is prestige: a first-year pilgrimage booked as a winter you can buy. *(or-EN-tel · eroded oren + thael = "the witnessing-Tree," th worn to t.)* Everyday *Orentel*; Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. Notes and berths meet here. The White Note House is on the third quay, north side, a desk in the city. **Sorim** *(SOR-im)* is the factor, a house-agent who charters berths and files occupancy. A salt-city, tens of thousands; the Tree-town is the smaller half.
+Orentel *(or-EN-tel)* is the capital of Lestrand. It is a salt-city. In the name, *th* has worn to *t*. People say *Orentel*. Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. Notes and berths meet here. The White Note House is on the third quay, north side. It is a desk in the city. **Sorim** *(SOR-im)* is the factor who charters berths and files occupancy. Tens of thousands live here. The Tree-town is the smaller half.
 
 An inner-sea estuary on Strandoren, facing Maiethorn across the oldest water in the world. The Salt Walk used to land here. When the walk stopped being required on this coast, the berths did not empty. They changed jobs. Adaptive reuse at city scale: a Tree-town that grew a quay, then a second quay, then a leap-frog of warehouses along the tide, until the nucleated square was the smaller half of a salt-city.
 
@@ -374,7 +374,7 @@ Ledan will hear the slate as a neighbour who cannot convert. Mataero will hear o
 
 #### The White Note House (placed, not crowned)
 
-A road-house that became a desk, and its work is the trusted note: century-loans, and a winter you can buy. A deathless house of the trusted note. **Ledan** writes century-loans from a founding-summer the house calls the White Note's count. **Mataero** *(mah-TAY-ro)* lets the loft. The north bed is house custom, kept empty, a founding-name the junior is not to copy onto a term. Everyday *the White Note*; Lestrand still says *the bed-house* and means the bank. Founding about C.Y. 80 (White Note year 200 = Cut-year 280, per Ledan's conversion-problem). The quay-desk sits on Orentel's third quay, north side; the inland loft is in the rise behind. The desk is one house on that quay.
+The White Note House is a road-house that became a desk. It is a deathless house of the trusted note. **Ledan** writes century-loans from a founding-summer the house calls the White Note's count. **Mataero** *(mah-TAY-ro)* lets the loft. The north bed is house custom, kept empty, a founding-name the junior is not to copy onto a term. People say *the White Note*. Lestrand still says *the bed-house* and means the bank. Founding about C.Y. 80 (White Note year 200 = Cut-year 280, per Ledan's conversion-problem). The quay-desk sits on Orentel's third quay, north side; the inland loft is in the rise behind. The desk is one house on that quay.
 
 The same fortune as the Third Hearth, later. In Brenvaeth the house was beds, porridge, and credit for a walk you could not miss twice. When the walk stopped being required in the core, the Long-Lived still remembered every debtor, and the paper outlived the pilgrimage-season. The desk sat down on Orentel's third quay because that is where notes now move. The inland upper room is occupancy: twelve beds in the rise behind the salt, looking at a Tree that still Turns for free.
 
@@ -396,9 +396,9 @@ No mortal court can check a Long-Lived's memory of a ford two hundred summers ba
 
 ### Maiethlir (Threnmaieth's seat)
 
-The capital of Threnmaieth, where the work is devotion: the extra mile, written into the census. *(my-eth-LEER · maieth "Mother" + lir "thaw" = "the Mother's thaw.")* Conservative drift: *th* kept. Everyday *Maiethlir*. This is where they started counting a hearth that was already holy. The First Seat sits in the Motherwood beside this country. Speaker: **Rithim** *(RITH-im)*, the elder who names the leaf-colour at Leaf-Fall (in a small town the warden Speaks; here the office has its own mouth). A counted city, smaller than Orentel, older; the clerks will tell you a number after every Eolthael.
+Maiethlir *(my-eth-LEER)* is the capital of Threnmaieth. The name keeps *th*. People say *Maiethlir*. This is where they started counting a hearth that was already holy. The First Seat sits in the Motherwood beside this country. **Rithim** *(RITH-im)* is the Speaker who names the leaf-colour at Leaf-Fall. In a small town the warden Speaks. Here the office has its own mouth. Maiethlir is a counted city, smaller than Orentel, and older. The clerks will tell you a number after every Eolthael.
 
-A thaw-river town on Maiethorn, in the Sacred Core and not in the grove. Snowmelt comes down from Lirorn's range; the river runs toward the inner sea. Maiethlir sat down where the water slowed enough to hold a Hand, an origin-town of the C.Y. 0 to 40s, a day's living-earth from the wood, on a *different road* than Orenbren's Near Mile. Orenbren lodges the approach. This river counted the people who stayed.
+A thaw-river town on Maiethorn, in the Sacred Core and not in the grove. Snowmelt comes down from Lirorn's range; the river runs toward the inner sea. Maiethlir sat down where the water slowed enough to hold a Hand. It is an origin-town of the C.Y. 0 to 40s. It stands a day's living-earth from the wood, on a *different road* than Orenbren's Near Mile. Orenbren lodges the approach. This river counted the people who stayed.
 
 The extra mile used to come through with the thaw. When Hands made the origin-walk optional, the lodging emptied toward Orenbren's beds. The rooms did not stay empty. Clerks filled them. Adaptive reuse at city scale: a pilgrimage-street that learned house-names on a tablet.
 
@@ -459,13 +459,13 @@ The delay is devotion: a pilgrimage-town that still thinks the hymn comes first.
 
 ## The twelve seats
 
-The three famous corners are above: Threnmaieth, Lestrand, and Vaethorn, with their cities Maiethlir, Orentel, and Eolvaeth. These twelve are the other seats of power. Each one is a capital, a city, a town, or a written refusal to build a city. Harrow's Green is a square in Saelvaeth's orbit. The twelve seats are the ones named in this section. Six charter-towns around Raitin, the shelves of Lirorn, and the pockets between grafts stay unnamed. No capital is marked with a star on a map. The First Seat, the college of tree-wardens, stays in the Motherwood.
+The three famous corners are above: Threnmaieth, Lestrand, and Vaethorn, with their cities Maiethlir, Orentel, and Eolvaeth. These twelve are the other seats of power. Each one is a capital, a city, a town, or a written refusal to build a city. Harrow's Green is a square in Saelvaeth's orbit. The twelve seats are the ones named in this section. Six charter-towns around Raitin, the shelves of Lirorn, and the pockets between grafts stay unnamed. No capital is marked with a star on a map. The First Seat stays in the Motherwood. It is the college of tree-wardens.
 
 Read an entry this way. The first lines say what the place is and where it sits. **The work** is the job the town does, and who does it. A neighbour uses a given name. A clerk in a list-land says the house-name first. The last sentences are habits. People do them and will not say why.
 
 ### Seinbrun (Maiethvael's capital)
 
-*(SAYN-brun.)* Maiethvael's capital, a large city in the warm core of Maiethorn, whose work is a public hall, a green, and medicine, and which keeps no census. People call the country the Gift-Realm. Charters write *Maiethvael*. The city provides public greens, a hall, and medicine through its congregations and guilds. Maiethlir is the counted city. The Down-Bank is the stretch of road below Maiethlir's Down Gate. You can spend a day among Gift-folk on that road and still be short of Seinbrun. During pilgrimage season the Motherwood is in sight. The grove stays outside the city. A town Tree stands beside the furnished hall. A child's leaf-colour stays off any list.
+*(SAYN-brun.)* Seinbrun is Maiethvael's capital. It is a large city in the warm core of Maiethorn. It keeps no census. People call the country the Gift-Realm. Charters write *Maiethvael*. The city provides public greens, a hall, and medicine through its congregations and guilds. Maiethlir is the counted city. The Down-Bank is the stretch of road below Maiethlir's Down Gate. You can spend a day among Gift-folk on that road and still be short of Seinbrun. During pilgrimage season the Motherwood is in sight. The grove stays outside the city. A town Tree stands beside the furnished hall. A child's leaf-colour stays off any list.
 
 **The work** is the hall, with the green beside it. Vuthbraen keeps the hall. Raermu keeps the medicine basket. Breillai left the hymn. The green, the hall, and the medicine went together. The hall can still set a bowl. The net stays where the hymn is. A neighbour says the given name. There is no house to put first.
 
@@ -473,9 +473,9 @@ The furnished hall sets an empty bowl at the end of the table, away from the pot
 
 ### Rothallo (Orenbren's capital)
 
-*(roh-THAL-oh.)* A walled city, one day's walk from the Motherwood, whose work is the Book of Tithes. People still say **the Inner Close**, and the Close. The walls answer to those names. Rothallo is that city, and it stays inside Orenbren. Smaller towns and villages lie around it in the lodging-country. This book does not name them. The Third Hearth, the Mill-hold, and Nelath are in that country. Rothallo is the capital. Those three keep their own jobs: a hearth, a sick-Tree lodging, and the road-end.
+*(roh-THAL-oh.)* Rothallo is a walled city. It is one day's walk from the Motherwood. People still say **the Inner Close**, and the Close. The walls answer to those names. Rothallo is that city, and it stays inside Orenbren. Smaller towns and villages lie around it in the lodging-country. This book does not name them. The Third Hearth, the Mill-hold, and Nelath are in that country. Rothallo is the capital. Those three keep their own jobs: a hearth, a sick-Tree lodging, and the road-end.
 
-The First Seat, the tree-wardens' college, is in the wood beyond the wall. Rothallo is the capital. A town Tree stands inside the walls. The city does not hold a Turning at it. The Closed Heirs rank Conditioned people in the Book of Tithes, kept inside the walls. Orenbren, the country around the city, keeps a separate witness of who slept the night. The two records are not copied onto each other. Beds for people assigned to labour are outside the gate. The Book is inside. That gate does not open to join the two.
+The First Seat is in the wood beyond the wall. Rothallo is the capital. A town Tree stands inside the walls. The city does not hold a Turning at it. The Closed Heirs rank Conditioned people in the Book of Tithes, kept inside the walls. Orenbren keeps a separate witness of who slept the night. The two records are not copied onto each other. Beds for people assigned to labour are outside the gate. The Book is inside. That gate does not open to join the two.
 
 **The work** is the Book. Delamem keeps it. The pages assign taxes, restrictions, and labour, on top of the Tithe a person already carries. Talnin is still the heir whose tenth year is not finished. A neighbour says a given name. A clerk says the house first. *Closed* on a roster is a rank kept with the house-name. The line can cast a person out and keep the house on them.
 
@@ -485,7 +485,7 @@ The outer gate is shut for the length of a kettle's boil, on a morning with no c
 
 ### Larbril (Saelthael's city)
 
-*(LAR-bril.)* A medium city where the west road meets the Well-wash, short of the pass, and the work is that meeting. People say the Sown Tree. Walking west, the Shelf-gate is still ahead. Walking east, the dry is in front of you.
+*(LAR-bril.)* Larbril is a medium city where the west road meets the Well-wash, short of the pass. People say the Sown Tree. Walking west, the Shelf-gate is still ahead. Walking east, the dry is in front of you.
 
 Ornsael stays the smaller well-town, farther into the dry. Its drink is a well. Larbril's drink, when it has one, is the wash. Dry country lies along the road between the wash and the well. The Dry Stair is another rise. People climb it so they know a dare from a Tree. The city is here because the road meets the wash.
 
@@ -497,7 +497,7 @@ When the Well-wash is a silt-line, Brormei still wets the meeting-stone from a j
 
 ### Votaer (the Hinge Shore's port)
 
-*(VOH-tayr.)* One of the largest cities on the Motherland coast, and its work is sorting the crossing. It faces Orentel. Hulls are classified on these quays. The Hush-rate is charged here. Towns along the rest of the shore stay unnamed.
+*(VOH-tayr.)* Votaer is one of the largest cities on the Motherland coast. It faces Orentel. Hulls are classified on these quays. The Hush-rate is charged here. Towns along the rest of the shore stay unnamed.
 
 Orentel prices the crossing. Votaer sorts it. A child, a pot of living earth, a family on a neighbour's week: the bell can sound the same, and a clerk writes which docket. The White Note stands on Orentel's third quay. Trees on this shore are healthy. Faith is worn thinner than in Maiethvael, because a dock teaches categories. Selkie families work these quays, as they do on any old water. The docket does not belong to a hearth.
 
@@ -507,7 +507,7 @@ Tumair chalks the hull's class under the waterline, where the next tide takes th
 
 ### Tasain (Lirorn's town)
 
-*(tah-SAYN.)* A walled town in a sheltered valley below the Shelf-gate, where the west road comes down and the levy is taken. People stay the winter here. Maiethlir is the counted city on the thaw-river. This town takes the levy at the gate.
+*(tah-SAYN.)* Tasain is a walled town in a sheltered valley below the Shelf-gate, where the west road comes down. People stay the winter here. Maiethlir is the counted city on the thaw-river. This town takes the levy at the gate.
 
 The town gate takes the levy. The Shelf-gate is the pass above the valley. The Noon Pass is a third road, higher and older. Larbril is the city on the dry side of the pass, short of the climb if you are walking west. Villages and hamlets stay on the shelves. This book does not name them.
 
@@ -517,7 +517,7 @@ In a kind year, before the levy is taken, a bowl of shelf-snow is left on the ga
 
 ### Raitin (Brenledd's throne-city)
 
-*(RAY-tin.)* A river-city on Strandoren, one of the largest on that shore, behind and between the premier coast, where the council sits and the shared notes clear. People say the Hearth-League. The league stays a league of hearths.
+*(RAY-tin.)* Raitin is a river-city on Strandoren. It is one of the largest on that shore, behind and between the premier coast. People say the Hearth-League. The league stays a league of hearths.
 
 Six charter-towns sit around it. This book does not name them. The shared list is seven hearths. Raitin is one. People still recite Nidtol when Lestrand offers to deal with a single throat. Nidtol is a hearth-name the league recites. Raitin is the river-city. Raitin's water is the river under the stair. The Chart-run is Lunbra's.
 
@@ -527,7 +527,7 @@ Turvo turns a cleared note face-down before the next hearth is called. They will
 
 ### Naenor (Leddvael's port)
 
-*(NAY-nor.)* A large port on its own stretch of indented coast, slightly smaller than Orentel, where the signing-watch sits. People say the Reckoned Gift. Votaer is the port that faces the Hinge Shore. Naenor stands on its own coast. Towns along the rest of that coast stay unnamed.
+*(NAY-nor.)* Naenor is a large port on its own stretch of indented coast. It is slightly smaller than Orentel. People say the Reckoned Gift. Votaer is the port that faces the Hinge Shore. Naenor stands on its own coast. Towns along the rest of that coast stay unnamed.
 
 Leaf-Fall here is a festival and a signing-watch. A Tithe is a term serviced. The Bound are employed as the shape of honesty. The city will file a contract. It will not copy Threnmaieth's list. It wins the signing and loses the berth. A First-Hand year is booked at Orentel. This city sells the signing. The Book-Hands stamp and recite in this wind. They have no seat of their own. Terms stay as they were written.
 
@@ -537,7 +537,7 @@ Derdil stamps the wax, then warms the stamp in a closed hand before the next pag
 
 ### Lunbra (Trenledd's city)
 
-*(LUN-bra.)* A large, wealthy city on the Chart-run, four to eight days upriver of Orentel, where the roll is kept and the money is shown. People say the Worn Count. The governing throat stays unnamed. Towns through the filed country stay unnamed.
+*(LUN-bra.)* Lunbra is a large, wealthy city on the Chart-run, four to eight days upriver of Orentel. People say the Worn Count. The governing throat stays unnamed. Towns through the filed country stay unnamed.
 
 Stone fronts, paid chairs, guild doors left open onto the square so the coin is visible from the street. You are on the roll so commerce and hazard can find you again. There is no hymn that makes the list a stewardship. Threnmaieth at least claims to keep you hale. The Worn Count claims to keep you findable. A Hand stands in the square. The number on the back of a stone is a count.
 
@@ -547,7 +547,7 @@ Vamar sets a coin on the open page. The coin is not the fee. They will not say w
 
 ### Braetu (the Night Shore's harbour)
 
-*(BRAY-too.)* A harbour city on Strandoren's west and south face, on the West Water, smaller than Orentel, where a far crossing is quoted. People say the Night Shore. Towns along the rest of the shore stay unnamed.
+*(BRAY-too.)* Braetu is a harbour city on Strandoren's west and south face, on the West Water. It is smaller than Orentel. People say the Night Shore. Towns along the rest of the shore stay unnamed.
 
 A crossing is quoted here the way another shore talks about a pilgrimage. The First-Hand year is assembled on the old water: a Night Shore hull, the White Note's terms, Orentel's berth. Braetu is the first of those desks. The far run is two to four weeks in fair weather. Beyond the last capes is the storm-wall. This quay does not book Kumbaan.
 
@@ -559,7 +559,7 @@ Mursur lights a name's lamp with a spill from the cook-fire, not from another la
 
 ### Sanbreo (Ornled's town)
 
-*(san-BREE-oh.)* A town on Heskoren's slate-shore, on the brink of a small city, and still a town, where the slate is kept. People say the Outer Ledger. A beach-fee can be paid here when a hull arrives. The frontier coast faces the West Water. Beyond the last capes is the storm-wall. Villages in the pockets around the town stay unnamed.
+*(san-BREE-oh.)* Sanbreo is a town on Heskoren's slate-shore. It is on the brink of a small city, and it is still a town. People say the Outer Ledger. A beach-fee can be paid here when a hull arrives. The frontier coast faces the West Water. Beyond the last capes is the storm-wall. Villages in the pockets around the town stay unnamed.
 
 The roofs have filled the pocket. They did not grow a congregation or a counted hall. The fee here is a beach. Braetu quotes the far crossing. Vaethorn may bless a landing and may not levy it. Ornled takes the fee anyway. The slate and the beach-fee are what this town sells.
 
@@ -569,13 +569,13 @@ When a hull has paid, the coin stays on the slate's sill until the hull is gone.
 
 ### Vaelhesk (the land is the seat)
 
-*(VAYL-hesk.)* The land is the seat, and the work is the old green: ancestor-doors and the first meal. People say the Far Yield, and the Yield. There is no new city and no new name. Old greens, ancestor-doors, first meals. The Mother's wood is a guest. A Cutting-leave without the meal is a claiming. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door.
+*(VAYL-hesk.)* The land is the seat. People say the Far Yield, and the Yield. There is no new city and no new name. Old greens, ancestor-doors, first meals. The Mother's wood is a guest. A Cutting-leave without the meal is a claiming. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door.
 
 There is no settlement dot. The First Bowl stays the guest-grove, a planting on this land. Harrow's Green is the live-front square. Struck and the Taken-In are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose. Vaethorn reads those children as Kept-for-want. That disagreement decides whether a child travels. No new person is seated on the refusal.
 
 ### Natai (Saelvaeth's town)
 
-*(NAH-tye.)* A march-town on Heskoren's moving edge, where the work is the march-voice. People say the Sown Waiting, and March-folk. A graft has taken here. The canopy is a town's Hand. Harrow's Green keeps the luckier canopy.
+*(NAH-tye.)* Natai is a march-town on Heskoren's moving edge. People say the Sown Waiting, and March-folk. A graft has taken here. The canopy is a town's Hand. Harrow's Green keeps the luckier canopy.
 
 On the Known Map, Natai sits west of Harrow's Green, between Sanbreo and the square. Harrow's square is the canopy. The ford is downstream of Harrow's rise. This gate is the march-town. Other towns where a graft has taken stay unnamed. Hamlets between them stay unnamed.
 

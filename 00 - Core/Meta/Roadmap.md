@@ -48,6 +48,7 @@ updated: 2026-10-05
 | **S** | [[#Epic S — The other seats]] | The twelve powers whose seats were left unnamed. A city, a town, or a recorded refusal. Maps of those places wait on Epic M | Med | ✅ S.0–S.3 done 2026-10-03. Epic S complete |
 | **M** | [[#Epic M — Town sheets and the new seats]] | Sheets for squares that already have streets, then sheets for whatever S seats. Pointers for capitals, large cities, and important towns go on the maps that already show that ground. The ordinary house is Story M.5. Does not reopen A.1–A.14 | Low | ✅ M.1–M.5 done. M.4 pointers 2026-10-05 |
 | **B** | [[#Epic B — The book, in a reader's voice]] | Read the setting book one chapter at a time and rewrite it for people who will play. Does not open new canon | Med | ✅ B.1 done 2026-10-05. 26 / 26 |
+| **C** | [[#Epic C — How the book speaks]] | `prose-style` audit of the setting book, then a sentence pass so the narrator sounds like one person talking. Does not open new canon | Med | ✅ C.0–C.1 done 2026-10-05 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -1203,10 +1204,41 @@ Chapter 24 stays instructions for the GM. Unclear sentences there get the same p
 
 > **B.1 recorded decisions (2026-10-05).** Every chapter was read through. Sentences that hid a fact were rewritten for people who will play. Numbers, names, and rulings stayed. A roc and a kelpie are still not Two-Bodied bodies. Faeries fly. Halflings are called lucky. Ember stays a lean. Cut-year 387 is still not a round number. Thilim's pot is a later miss. Braetu's quay still does not book Kumbaan. Clock 1 and Clock 2 are named in the Ages chapter and in the GM chapter after each chapter says what the count is. Town entries say the present in ordinary words. The Leaf-Mother stays a belief in player chapters. She stays real, benevolent, bounded, and costly in the GM chapter. The four open questions stay open. Two claimants on one green stay the unwritten block in Other Places. The heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, and the Fungril spoonful stay unexplained. The campaign's close was not written. The vault was not rewritten. The book was rebuilt.
 
+## Epic C — How the book speaks
+
+**Skill:** `prose-style` · **Status:** ✅ **C.1 done (2026-10-05).** · **Blast radius:** Med. The vault stays canonical. This epic edits the compiled reading copy: `14 - Assets/Documents/Setting Book/chapters/`. Structure is already in. This is the sentence pass.
+
+> **C.0 diagnosis (prose-style, 2026-10-05).** `story-sense` sends this to prose-style: the facts are in, and the sentences do not all sound like the same person talking. Three states. **P6, inconsistent voice.** Some pages already sound like someone explaining a town. The Epic B pass put a definition in the same breath as the name, and those pages sound like a glossary. **P4, monotonous.** The repeated shape is "the Name, the thing that means…" and "X is a Y." Openings pile up on *The* and *A*. **P2, over-corrected.** A reader no longer has to guess a word, and now has to step over the definition. The baseline is the opening of the Turning Tree chapter in the setting book, and [[How a Place Speaks]]: middle speech, a person using the word by doing something with it. Do not vary openings just to vary them. Do not add a metaphor. Do not gloss a term the sentence already shows.
+
+**Do not.** Change a fact, a name, a number, or a ruling. Explain the heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, or the Fungril spoonful. Confirm the Leaf-Mother in a player chapter. Name the cutter. Date the Tree. Close the four open questions. Fill the block that begins **Not yet written.** Write the campaign's close. Redraw a map. Rewrite a rules line that is already a card (Hope, Stress, a damage die, Proficiency) unless the prose around the card is a glossary sentence.
+
+### Story C.0 — Record the diagnosis ✅ **DONE (2026-10-05)**
+- [x] Run `prose-style`. Name the states. Name the baseline voice. Write them on this epic.
+
+### Story C.1 — Say it the way the baseline says it
+
+Read the whole chapter. Leave a sentence that already sounds like a person talking. Change the sentence that stops to define a word, or that stacks "X is a Y," when the next clause can show the thing by what someone does.
+
+- [x] **00–02, 06–07.** Using This Book, The World in Brief, Kind and Condition, The Turning Tree, The Leaf-Mother.
+- [x] **03–04.** The Conditions, The Kinds. Rules cards stay cards.
+- [x] **05, 08.** Language and Naming, The Five Faiths. Quoted folklore stays quoted. She stays a belief.
+- [x] **09.** Orders and Houses.
+- [x] **10–12.** Law and Citizenship, Economy and the Tithe, Daily Life.
+- [x] **13.** Tithe-Infrastructure and Guilds.
+- [x] **14–17.** The Four Continents, The Reckoning of the Year, Climate, Maps. Image paths stay.
+- [x] **18.** The Ages. Clock 1 and Clock 2 may keep their names after the chapter has said what each count is.
+- [x] **19, 21, 22.** The Fifteen Powers, Other Places, Faces. The unwritten green stays unwritten. The four seeds stay four people.
+- [x] **20.** Gazetteer.
+- [x] **23–24.** Playing in the Turning, GM Canon. Chapter 24 may keep the confirmation that she is real. The four open questions stay open.
+- [x] **Rebuild.** When the chapter boxes above are checked, run `python3 "14 - Assets/Documents/Setting Book/build_world_book.py"`. Compress the PDF if Chrome writes one too large for the remote. Read the HTML for a spoken page and a page that was a glossary.
+
+> **C.1 recorded decisions (2026-10-05).** The glossary shape came out of the sentence it was stopping. A name is used, and the next sentence says what it is, when the chapter still needs that. Sentences that already sounded like a person explaining a town were left. Rules cards stayed cards. Numbers, seats, and the unexplained habits stayed. The Leaf-Mother stays a belief in the player chapters. She stays real, benevolent, bounded, and costly in the GM chapter. The four open questions stay open. Two claimants on one green stay unwritten. Cut-year 387 is still not a round number. The book was rebuilt. The vault was not rewritten.
+
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Epic C — How the book speaks:** 13 / 13 tasks (100%) ✅ **2026-10-05.** `prose-style`: P6, P4, and P2 over-corrected. Glossary asides pulled into the next sentence. Baseline kept: the Turning Tree opening and [[How a Place Speaks]]. Book rebuilt. Vault not rewritten.
 - **Epic B — The book, in a reader's voice:** 26 / 26 tasks of B.1 (100%) ✅ **2026-10-05.** Each chapter was read through. Designer shorthand in the player chapters is said in ordinary words. Clock 1 and Clock 2 keep their names in the Ages chapter and in the GM chapter, after the chapter says what each count is. The Leaf-Mother stays a belief in player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The book was rebuilt. The vault was not rewritten.
 - **Epic L — The lived world:** 34 / 34 tasks of L.1–L.6 (100%). 5 / 5 tasks of L.7 (100%). 6 / 6 tasks of L.8 (100%). 5 / 5 tasks of L.9 (100%) ✅ **L.9 done 2026-10-03. Epic L complete.** Diagnosis: voices, then faces, then customs, then the names in the room, then a street, then the other hearths, then fellowships and the watch, then the weird, the made, and the found, then sidebar honesty. Empty folders are not a fill-list. World book untouched. Epic S and Epic M were not opened.
 - **Epic S — The other seats:** 3 / 3 tasks of S.0 ✅ **(2026-10-03).** 7 / 7 tasks of S.1 ✅ **(2026-10-03).** 6 / 6 tasks of S.2 ✅ **(2026-10-03).** 5 / 5 tasks of S.3 ✅ **(2026-10-03). Epic S complete.** Maiethorn's five seats, Strandoren's four seats, and Heskoren's three seats are written or refused. [[Orentel]] has nine habits. [[Sanbreo]], [[Natai]], [[Harrow's Green]], and [[The First Bowl]] have one. [[Eolvaeth]] and the three hamlets already had one. [[Vaelhesk]] has no new place. World book untouched. Epic M not opened.
@@ -1254,3 +1286,4 @@ Chapter 24 stays instructions for the GM. Unclear sentences there get the same p
 - Epic L — the lived world. **L.1 done 2026-09-29** → [[How a Place Speaks]]. **L.2 done 2026-09-29** → [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Monseoth]] · [[Rithnali]] · [[Sedrad]]. **L.3 done 2026-10-01** → [[What the Year Feels Like]] · [[How the Week Is Kept]] · [[When the Town Buries]] · [[The Guest-Meal]] · [[When Someone Is Struck]] · [[Maieth]] · [[The Houses and the Years]]. **L.4 done 2026-10-01** → second names on the NPC notes · [[Leaders]] · [[Heroes and Villains]]. **L.5 done 2026-10-02** → [[Nelath]] · [[Raillath]] · [[Denlad]] · [[Tunral]] · [[The Down-Bank]] · [[The Sky from the Ground]] · [[Planes]]. **L.6 done 2026-10-02** → stock hearth-glances on [[Kinds of the Turning]]. **L.7 done 2026-10-02** → [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]] under Criminal · [[Craft Fellowships]] · [[The Watch and the Cohort]] · [[Movements]]. **L.8 done 2026-10-02** → [[How the Work Is Done]] · [[A Made Thing]] · [[The Cart-Ox]] · [[The Terrace Goat]] · [[The Path Dog]] · [[Kin at the Door]] · [[What a Place Needed]] · [[The Other Chip]] · [[The Dry Slip]] · [[The Ribboned Knife]] · [[The Socket Ribbon]] · [[The One Knife]] · [[The Name-Stone Bed]] · [[A Buyer for the Knife]]. **L.9 done 2026-10-03** → decision folders point at the notes that already hold them. Prototype 1, Prototype 2, and the label-trial image are under `99 - Archive/Atlas/`. Epic S and Epic M were not opened.
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
 - Epic B — the book, in a reader's voice. **B.1 done 2026-10-05.** The setting book was read one chapter at a time and rebuilt. The vault was not rewritten.
+- Epic C — how the book speaks. **C.1 done 2026-10-05.** `prose-style` audit, then the sentence pass. The book was rebuilt. The vault was not rewritten.
