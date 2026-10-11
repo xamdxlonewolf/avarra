@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Warden's Ear</title>
+<style>
+  :root {
+    --ink: #241c16;
+    --muted: #5c5146;
+    --paper: #f4ead8;
+    --paper-2: #efe2cc;
+    --bg: #1a1612;
+    --bg-2: #241e18;
+    --line: #d9cbb4;
+    --leaf: #2f5a40;
+    --leaf-soft: #e5f0e6;
+    --wine: #6e2c38;
+    --wine-soft: #f6e4e6;
+    --gold: #8a5a22;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    min-height: 100vh;
+    background: var(--bg);
+    color: var(--paper);
+    font-family: "Iowan Old Style", Palatino, "Palatino Linotype", Georgia, serif;
+    line-height: 1.45;
+  }
+  button, input { font: inherit; }
+  button { cursor: pointer; }
+  .app {
+    display: grid;
+    grid-template-columns: 280px 1fr;
+    min-height: 100vh;
+  }
+  aside {
+    background: var(--bg-2);
+    border-right: 1px solid #3a3128;
+    padding: 1.25rem 1rem 2rem;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow: auto;
+  }
+  aside h1 {
+    font-size: 1.35rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    margin: 0 0 0.2rem;
+  }
+  aside .sub {
+    color: #cbbba6;
+    font-size: 0.92rem;
+    margin: 0 0 1rem;
+  }
+  .nav-btn, .side-link {
+    display: block;
+    width: 100%;
+    text-align: left;
+    background: transparent;
+    color: var(--paper);
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 0.55rem 0.65rem;
+    margin: 0 0 0.25rem;
+  }
+  .nav-btn small, .side-link small {
+    display: block;
+    color: #b5a690;
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.02em;
+  }
+  .nav-btn.on, .side-link.on {
+    background: #322920;
+    border-color: #5a4a38;
+  }
+  .nav-btn.wall { color: #f0c9cf; }
+  .bar {
+    height: 4px;
+    background: #3a3128;
+    border-radius: 99px;
+    margin-top: 0.35rem;
+    overflow: hidden;
+  }
+  .bar span {
+    display: block;
+    height: 100%;
+    background: #8fbf96;
+  }
+  main {
+    padding: 1.5rem 1.4rem 3rem;
+    max-width: 820px;
+  }
+  .sheet {
+    background: var(--paper);
+    color: var(--ink);
+    border-radius: 14px;
+    padding: 1.4rem 1.35rem 1.2rem;
+    box-shadow: 0 18px 50px rgba(0,0,0,0.28);
+  }
+  .kicker {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin: 0 0 0.4rem;
+  }
+  h2 { margin: 0 0 0.6rem; font-size: 1.7rem; line-height: 1.2; }
+  .who {
+    font-style: italic;
+    color: var(--muted);
+    margin: 0 0 0.8rem;
+  }
+  .prompt { font-size: 1.22rem; margin: 0 0 1rem; }
+  .say, .miss, .hold, .breath {
+    border-radius: 10px;
+    padding: 0.85rem 0.9rem;
+    margin: 0.7rem 0;
+  }
+  .say { background: var(--leaf-soft); }
+  .miss { background: #f7f1e4; border: 1px solid var(--line); }
+  .hold { background: var(--wine-soft); }
+  .breath { background: #f7f3ea; border: 1px solid var(--line); }
+  .label {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    margin: 0 0 0.35rem;
+    color: var(--muted);
+  }
+  .say .label { color: var(--leaf); }
+  .hold .label { color: var(--wine); }
+  .home {
+    color: var(--muted);
+    font-size: 0.92rem;
+    margin: 0.4rem 0 0;
+  }
+  .row { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+  .btn {
+    border-radius: 999px;
+    border: 1px solid #c8b79a;
+    background: #fffaf2;
+    color: var(--ink);
+    padding: 0.55rem 0.95rem;
+  }
+  .btn.primary { background: var(--leaf); color: #f4fff5; border-color: var(--leaf); }
+  .btn.ghost { background: transparent; }
+  .btn.warn { background: var(--wine); color: #fff7f8; border-color: var(--wine); }
+  .pocket li { margin: 0.45rem 0; }
+  .score {
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 0.85rem;
+    color: #d9cbb6;
+    margin: 0.8rem 0 0;
+  }
+  .keys {
+    margin-top: 1.2rem;
+    color: #b5a690;
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 0.78rem;
+  }
+  .wall-banner {
+    background: var(--wine);
+    color: #fff7f8;
+    border-radius: 10px;
+    padding: 0.55rem 0.75rem;
+    margin: 0 0 0.8rem;
+    font-family: "Avenir Next", "Segoe UI", sans-serif;
+    font-size: 0.85rem;
+  }
+  @media (max-width: 800px) {
+    .app { grid-template-columns: 1fr; }
+    aside { position: relative; height: auto; border-right: 0; border-bottom: 1px solid #3a3128; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <aside>
+    <h1>The Warden's Ear</h1>
+    <p class="sub">Say it, then look. The vault wins if a line here is wrong.</p>
+    <button class="side-link" id="go-home" type="button">Tonight's twelve<small>The sentences to have cold</small></button>
+    <div id="sitting-nav"></div>
+    <p class="score" id="score"></p>
+    <button class="side-link" id="clear-marks" type="button">Clear marks<small>Start the drill over</small></button>
+    <div class="keys">Space reveals. H means you had it. N means you needed the card. Arrows move.</div>
+  </aside>
+  <main>
+    <div class="sheet" id="sheet"></div>
+  </main>
+</div>
+<script>
+const STUDY = {
+  pocket: [
+    "The people other stories call monsters live here as neighbours, with a job the town needs and an upkeep they meet.",
+    "Kind is the body you are born with. Condition is what you become. Both are true at once.",
+    "At ten, a coloured leaf Gives a Condition. A hug with no colour Keeps the child.",
+    "A death, an oath, or a survivable near-death can Strike someone later. That day has no leaf.",
+    "Over a life the split runs about sixty Given, fifteen Struck, and twenty-five Kept.",
+    "The Tithe is that upkeep. Meet it and you stand in good credit with the town. Fall behind and a small edge shows. The will stays yours.",
+    "The Leaf-Mother is a belief some people hold. The rite is what everyone shares.",
+    "Town life is late-medieval. The further step is paid for by someone's Tithe. There is no printing press and no gunpowder.",
+    "It is Cut-year 387. Town Trees are living grafts of the one Tree, Thaeloren. The planting is still arriving on Heskoren. Kumbaan never took a graft.",
+    "Fifteen powers stand on three continents. Kumbaan is a people at a table, behind a storm-wall.",
+    "A traveler is vouched by a word: name, last hearth, who stands. Two will do.",
+    "The opening sits at Harrow's Green, a grove-town on that live edge, in Hale-month of Cut-year 387."
+  ],
+  sittings: [
+    {
+      id: "square",
+      title: "The square",
+      kicker: "Before anyone has a sheet",
+      breath: "Neighbours with a job and an upkeep. Born a Kind, become a Condition, both at once. At ten a colour Gives or a hug Keeps. Later a door can Strike. The Mother is a belief. Towns are late-medieval, and the extra is paid by a Tithe. Cut-year 387. The grafts are still moving on Heskoren, and they never reached Kumbaan. We can start at Harrow's Green.",
+      cards: [
+        {
+          id: "sell",
+          who: "A friend who has never heard of this",
+          prompt: "What is this game, in the time it takes to set down a cup?",
+          say: "People who would be monsters in another story live here in the open, with work the town already depends on. Each of them carries an upkeep. Meet it and the day is ordinary. Fall behind and a real edge shows. The person stays in charge of what they do. The towns look late-medieval. Anything past that was paid for by someone's upkeep.",
+          miss: "A secret underclass of vampires hiding from hunters.",
+          home: "The Premise"
+        },
+        {
+          id: "everyone",
+          who: "The same friend",
+          prompt: "So everyone is a vampire or a werewolf?",
+          say: "What you are born is your Kind: human, elf, fox-born, and the rest. What you become, if you become, is a Condition. About three in four people acquire one over a life. About one in four is hugged by the Tree and left as they are. Those are the Kept. The two layers sit on the same person. A fox-born can carry a wolf's second body. A human can die and get back up to finish a thing.",
+          miss: "Monster is the species, and human is the alternative.",
+          home: "The Premise"
+        },
+        {
+          id: "when",
+          who: "A parent on the square",
+          prompt: "When does it happen to a child?",
+          say: "In the tenth year, during Turning-Week, under the town Tree. A coloured leaf Gives a Condition, and the colour names which one. A hug of ordinary green, with no naming colour, Keeps the child, and the town wanted that. Some becomings cannot happen to a child. Those come later, when a person dies, swears a contract, or survives a drowning, a gaze, or being lost in the wild. That later change is being Struck. There is no ceremony.",
+          miss: "Anyone can catch it, any year, the way a curse spreads.",
+          home: "Turning Tree"
+        },
+        {
+          id: "god",
+          who: "Someone who wants the cosmology settled before they play",
+          prompt: "Is the Leaf-Mother real?",
+          say: "People here do not agree, and play is better if session zero does not hand down a verdict. Some say she chooses the gifts and the Trees are her hands. Others say this is simply what the Trees do. Everyone still stands the child under the canopy. The rite binds. The belief is the argument.",
+          hold: "Your private answer is in the sitting called After they go home. She is real, benevolent, bounded, and costly. You do not lead with that.",
+          home: "The Leaf-Mother"
+        },
+        {
+          id: "magic",
+          who: "A player who wants to know the tech level",
+          prompt: "How magical is daily life?",
+          say: "Chartered towns, guild halls, markets, mills, letters of credit, universities. No printing press. No gunpowder. The step past that life comes from Condition-labor, and you can see whose upkeep bought it. A deathless notary is why a house remembers three centuries. A voice that carries is why a warning crosses a storm. Where those people are scarce, that step is scarce too.",
+          miss: "Wizards and magic items as the engine of the setting.",
+          home: "The Premise"
+        },
+        {
+          id: "year",
+          who: "Someone looking at a blank map",
+          prompt: "Where are we in history, in one breath?",
+          say: "It is Cut-year 387, the Years of Hands. Most towns have their own Tree, a living cutting of the one Awakening Tree, Thaeloren, on Maiethorn. That wave filled Maiethorn, crossed the sea to Strandoren, and is still arriving on Heskoren. The storm-walled isle, Kumbaan, never took a graft. The campaign I have starts at Harrow's Green, a grove-town on that live edge, in Hale-month.",
+          home: "The Ages of the Turning"
+        },
+        {
+          id: "nations",
+          who: "A player building an elf kingdom in their head",
+          prompt: "Which country belongs to the elves? To the foxes?",
+          say: "None. A place raises you. A Kind can be thicker on a coast, a ridge, or a dry shadow, and the town stays mixed. Faith, law, and loyalty sit on the hearth and the power, not on the body. You will meet a fox-born clerk on a priced dock and a crow-born pilgrim in a hymn-country. Both are ordinary.",
+          miss: "Each ancestry owns a realm.",
+          home: "Kinds of the Turning"
+        },
+        {
+          id: "scary",
+          who: "Someone who wants to know if this is horror",
+          prompt: "How frightening is it, honestly?",
+          say: "Mostly it is neighbours and colleagues. The fright is the upkeep when it slips: a voice that leaks what you feel, a stillness that settles in a limb, a memory that fades when you have learned nothing. I will not take your character away from you to make a monster scene. If you want a slaughter game, this is the wrong world. If you want a job, a cost, and a town that needs the job, this is it.",
+          home: "At the Table"
+        }
+      ]
+    },
+    {
+      id: "sort",
+      title: "Sorting a person",
+      kicker: "The sheet, and the mistakes on it",
+      breath: "One Condition on top of a Kind. The Kept carry an empty clock and the free long rest. A missed week leaves a child unTurned. The card does not level. One Phoenix, and the table agrees. The Hollow comes after a finished contract. A Yumboe is the whole Kind, and you say yes first. Stock ancestries take a Hearth-Mark once a session.",
+      cards: [
+        {
+          id: "born-vampire",
+          who: "A player",
+          prompt: "I want to be a vampire who was born a vampire.",
+          say: "You were born a Kind. Long-Lived is what the Tree Gives at ten, by a deep-red leaf, and it is rare. Infernis are the people born demon-blooded. That birth is a Kind. Bound is what a person becomes by swearing a contract. An Infernis can swear, and then both are true. They do not merge into one thing.",
+          miss: "Vampire and demon are ancestries you pick instead of a Condition.",
+          home: "At the Table"
+        },
+        {
+          id: "two-conditions",
+          who: "A player",
+          prompt: "Can I be a werewolf and a siren?",
+          say: "One Condition. The Tree Gives one. A later door does not add a second. Pick the becoming. Your Kind is the other layer, and it can rhyme with the Condition without becoming it. A Selkie in the water is still a Selkie if they are also Far-Voiced.",
+          home: "At the Table"
+        },
+        {
+          id: "kept",
+          who: "A player who wants no powers",
+          prompt: "I don't want a Condition. What do I get instead?",
+          say: "You can be Kept. The leaves hugged you. You have no Condition card and no Tithe. At every long rest you take your downtime while other people may be tending an upkeep. That empty clock is the advantage. You do not get a bonus Experience to compensate. You can still be Struck later, if you agree when a real door opens.",
+          miss: "The Kept are the people the Tree rejected, so the GM owes them a feature.",
+          home: "At the Table"
+        },
+        {
+          id: "unturned",
+          who: "A player writing a missed childhood",
+          prompt: "My character never stood at the Tree. So they're Kept, right?",
+          say: "A missed week, a refusal, or a week under unsound wood leaves a child unTurned. The Kept are the children a sound Tree hugged, and someone witnessed the hug. Folk may use the kind word. The law files the hug. An unTurned person can still be Struck later. There is no second tenth year.",
+          home: "Turning Tree"
+        },
+        {
+          id: "level",
+          who: "A player looking at levels 1 through 10",
+          prompt: "Does my Condition get stronger as I level?",
+          say: "The card you take is the card you keep. Class features, domain cards, Experiences, weapon tier, Proficiency, and Hope scars change around it. A Two-Bodied may hang an animal Experience on the other self. A second signature for that animal is a once-ever story, not a level. Proficiency is what raises the dice the card already has.",
+          home: "Conditions"
+        },
+        {
+          id: "phoenix-seat",
+          who: "A player, excited",
+          prompt: "I want to be the Phoenix.",
+          say: "There is one living Phoenix. The leaf is white-fire, and almost no town has seen it fall. It is a spotlight seat. The rest of the table agrees, or we keep the Phoenix as someone you meet. A hidden Phoenix is a separate conversation, after the pitch, with its own rules. I will not put two Gifts in the party.",
+          hold: "Apparent two is leftover fire beside a new leaf. A remnant is not a Phoenix. Say none of that unless you have opened A Hidden Phoenix with them.",
+          home: "Phoenix"
+        },
+        {
+          id: "hollow-start",
+          who: "A player",
+          prompt: "Can I start as the Hollow?",
+          say: "The Unbound is what a Bound becomes when a term-limited contract ends and the price is collected. You can start there if we agree you already lived the contract: what you swore, what you pledged, and the day it came due. It is not a tenth Condition you pick off the list.",
+          home: "The Unbound"
+        },
+        {
+          id: "yumboe",
+          who: "A player",
+          prompt: "I want to be a Yumboe. Maybe half.",
+          say: "Yumboes are ordinary on Kumbaan and a story on the mainland. I have to agree before one sits at this table, and you take the whole Kind. The isle has no Leaf-Fall, so a Yumboe is not Given a Condition. A Struck Condition can still happen there, and it is rare.",
+          home: "Yumboe"
+        },
+        {
+          id: "hearth-mark",
+          who: "A player with a stock ancestry",
+          prompt: "A human feels thinner than a fox. Do I just accept that?",
+          say: "The four customs carry three features. If both of your ancestry features come from stock, you take a Hearth-Mark: a place-phrase for where you were raised. Once a session, on a roll that place taught you, you add +2. You do not spend Hope for it. If you take any custom feature, you skip the Mark. Everyone still chooses a Community. The Mark is not a Community and not a Kind.",
+          home: "Kind Heritage"
+        },
+        {
+          id: "mixed",
+          who: "A player",
+          prompt: "Can I mix ancestries?",
+          say: "Yes, the way Daggerheart already allows: a top and a bottom. You do not mix a custom Kind's third feature into a stock body. Any custom feature means no Hearth-Mark. A Yumboe is the full Kind, with my leave, and is not a mix.",
+          home: "Kind Heritage"
+        }
+      ]
+    },
+    {
+      id: "week",
+      title: "Turning-Week",
+      kicker: "You are the person they ask",
+      breath: "One week in the tenth year. A colour or a hug under sound wood happens once. A miss, a refusal, or unsound wood leaves the child unTurned. You may correct the Speaking. You may not rerun the fall. A city remembers a hearth. The Tree Gives or Keeps. Struck happens somewhere else.",
+      cards: [
+        {
+          id: "colours",
+          who: "A parent",
+          prompt: "What do the colours mean? Say them so I could stand in the square and know.",
+          say: "Deep red, wine-dark: Long-Lived. Storm-grey: Two-Bodied. Lamp-amber or brass: the Answered, and the shade names Ember, Tide, Root, or Gale. Sea-blue: Far-Voiced. Pale stone, marble-white: the Stilled, and the warden says it carefully. Copper-green, the metallic one: the Taken-In. White-fire, opal: Phoenix, and a town warden sends word rather than guessing. The hug is ordinary summer green, with no naming colour. Returned, Bound, and the Unbound have no colour. The Tree never Strikes.",
+          home: "Turning Tree"
+        },
+        {
+          id: "wrong-green",
+          who: "A grandparent",
+          prompt: "The warden said copper-green. I saw a hug. Can we stand the child again?",
+          say: "You can correct a Speaking. The Wrong Green, Cut-year 248, is the cited year a hug was Spoken as copper-green. It was a human wound. A completed standing under sound wood happens once. The wood has never answered a second fall.",
+          home: "The Wrong Green"
+        },
+        {
+          id: "sick-tree",
+          who: "A family under a failing canopy",
+          prompt: "The Tree was sick all week. Does that make the child Kept?",
+          say: "A week spent under unsound wood leaves the child unTurned. The Kept are a witnessed hug under sound wood. Struck remains the mercy that can still come later. You do not offer next year's Leaf-Fall to sort them.",
+          home: "Turning Tree"
+        },
+        {
+          id: "city",
+          who: "A player whose character is from Orentel",
+          prompt: "A city can't remember every child. So they keep a register of gifts?",
+          say: "They stand by hearth, in named hours. The sentence that counts is 'I am of the third quay,' not 'I am of Orentel.' The warden says the colour or the hug aloud. The gifts are not written in a roll. Threnmaieth writes the stand down. That writing is the aberration, not the custom.",
+          home: "Law and Citizenship"
+        },
+        {
+          id: "orphan",
+          who: "A warden's neighbour",
+          prompt: "Who brings an orphan?",
+          say: "Kin first. Then the household that feeds the child. Then the warden's own house on the square. An orphan no one brings is a miss. You do not invent a second leaf because the square feels sorry.",
+          home: "Turning Tree"
+        },
+        {
+          id: "adult",
+          who: "A player",
+          prompt: "My character is thirty and never Turned. Can they stand this year?",
+          say: "The Given door is one week in the tenth year. An adult who missed it is unTurned. A real later door can still Strike them, if they agree to the card. There is no makeup ceremony.",
+          home: "At the Table"
+        },
+        {
+          id: "white-fire",
+          who: "A town that thinks it saw opal",
+          prompt: "White-fire in our square. Do I announce a Phoenix?",
+          say: "You send word to the First Seat. A town warden does not guess Phoenix into the record. Naming it aloud at the ceremony is how a square makes a problem it cannot hold.",
+          home: "Turning Tree"
+        }
+      ]
+    },
+    {
+      id: "jobs",
+      title: "The jobs",
+      kicker: "The old tale, then the neighbour",
+      breath: "Given only: Long-Lived, Two-Bodied, the Answered, Phoenix. Struck only: Returned, Bound, and the Hollow after a finished contract. Both paths: Far-Voiced, the Stilled, the Taken-In. The town keeps them because of the work. The Tithe is the edge. The will stays theirs. Two-Bodied is the common one. Phoenix is the story.",
+      cards: [
+        {
+          id: "long-lived",
+          who: "A player",
+          prompt: "I want the vampire.",
+          say: "That is the Long-Lived. Given only, about two and a half percent, a deep-red leaf. Aging stops. What they witness, they can keep. They staff archives, courts, and notaries, because learning is how they stay well. Starve them of anything new and they fade, then empty. They can have children. Most children do not inherit. Violence, accident, or a failed upkeep can still end them. They wait to be asked across a threshold. People treat that as old manners, and they do not remember it as anything else.",
+          home: "Long-Lived"
+        },
+        {
+          id: "two-bodied",
+          who: "A player",
+          prompt: "I want the werewolf.",
+          say: "That is the Two-Bodied. Given only, about eighteen percent, storm-grey, the common Condition. They carry a second animal self, a real animal between a housecat and a bear, horse, or boar, and the change is theirs to command. The animal has a name and a mood. The person chooses the actions. Towns use them for rescue, labor, war, and the wild. A full day without the other self, and the next roll with Fear shifts them. They mark a Stress. They stay in command. A roc is a story. A kelpie is a story. Neither is a body anyone carries.",
+          home: "Two-Bodied"
+        },
+        {
+          id: "returned",
+          who: "A player",
+          prompt: "I want the zombie.",
+          say: "That is the Returned. Struck only, after a death, about seven percent, no leaf. An unfinished purpose keeps them walking. Towns send them where the work kills the living, and they tend the dead. Skip the purpose for a rest and their touch runs cold. They do not get the death option called Avoid Death. They can Refuse to Fall until the Hope scars run out. When the purpose is finished they may lie down, become Kept, or name a new purpose.",
+          home: "Returned"
+        },
+        {
+          id: "bound",
+          who: "A player",
+          prompt: "I want the demon.",
+          say: "The demon, here, is a contract. Bound is Struck only, about five percent on that whole lane, and a child cannot swear it. They chose the power and the Terms. Towns fear them and use them wherever a word must hold. Break a Term and the contract collects. The person still chooses every action. A contract that grants true flight shows: wings they cannot hide. Signing yourself away until the table should stop playing you is called the Given-Over. We do not start there.",
+          home: "Bound"
+        },
+        {
+          id: "hollow",
+          who: "A player who heard 'hollow'",
+          prompt: "What is the Hollow, if it isn't a demon anymore?",
+          say: "Inside that contract lane, about one and a half percent have already finished a term. The counterparty took the Pledge they named at signing. They are free, and missing that piece. The missing place is also a narrow immunity. They stay steady by resting with someone who knows their name. When the quiet runs out, an offer of power sounds reasonable. They can refuse. Refusing aches.",
+          home: "The Unbound"
+        },
+        {
+          id: "far-voiced",
+          who: "A player",
+          prompt: "I want the siren.",
+          say: "That is the Far-Voiced. Both paths, about twelve percent, mostly Given by a sea-blue leaf. The voice carries as far as they mean it, and as truly. Relays, courts, and halls run on that. A Struck Far-Voiced actually drowned and came up untrained. The danger lands on them. Feeling they do not vent becomes a Cry, and everyone in earshot feels it. Those people still choose what they do.",
+          home: "Far-Voiced"
+        },
+        {
+          id: "stilled",
+          who: "A player",
+          prompt: "I want the gorgon.",
+          say: "That is the Stilled. Both paths, about seven percent, a pale-stone leaf. The Gaze can hold a wound, a patient, or a fight. Guilds license it because the same look can lock a person still. If they do not keep moving, the stillness settles into their own body. A Struck one survived being turned to stone. The ticket names the Gaze, the use, not the existence of the person.",
+          home: "The Stilled"
+        },
+        {
+          id: "answered",
+          who: "A player",
+          prompt: "I want the genie.",
+          say: "That is the Answered. Given only, about ten percent, a lamp-amber leaf. One element answered and keeps answering: Ember, Tide, Root, or Gale. The craft guilds are built on that. They ask the element. They do not take orders for it from someone else. Leave them idle too long and the element speaks through their hands and the ground around them. Other people keep their will.",
+          home: "The Answered"
+        },
+        {
+          id: "taken-in",
+          who: "A player",
+          prompt: "I want the leshy, the forest one.",
+          say: "That is the Taken-In. Both paths, about thirteen percent, a copper-green leaf, metallic, never the hug's summer green. The wild gave them back with bark, moss, antler, or root, and growing things lean toward them. Farms, forests, and the frontier run on them. Cities eat what they grow and keep them at arm's length. A Struck one was lost and dying in the deep wild. At a long rest they need to touch a living plant. A window-box counts. Open sky with no plant does not.",
+          home: "The Taken-In"
+        },
+        {
+          id: "phoenix-job",
+          who: "A player",
+          prompt: "How is a Phoenix different from a Returned or a Long-Lived?",
+          say: "The Long-Lived do not die of age. The Returned refuse to stay dead so they can finish a purpose. A Phoenix dies completely and comes back a further turn of the same soul, with less of the old life. Given only, white-fire, less than a tenth of a percent, one living Gift in the world. The name is the legend's name because they cannot pass in a crowd.",
+          home: "Phoenix"
+        },
+        {
+          id: "where",
+          who: "A player",
+          prompt: "Where would I actually see each of them?",
+          say: "Two-Bodied are everywhere there is heavy work. Taken-In are thickest on farms and the frontier, and present in stone cities as hands. Far-Voiced stand on coasts, roads, and in halls. The Answered are in the workshops of their element. The Stilled are where a licence lets a Gaze work: a surgery, a riot line. Returned are where the job can kill. Bound cluster where oaths are the business, and Leddvael made that civic. Long-Lived sit in old houses, courts, and archives. Phoenix is a story people know and a person almost nobody meets. Tree-poor country, Heskoren especially, runs higher on the Kept and the Struck. The Tree-dense core runs higher on the Given.",
+          home: "The Premise"
+        }
+      ]
+    },
+    {
+      id: "born",
+      title: "The bodies",
+      kicker: "What nobody blinks at",
+      breath: "Four customs, three features each, a hearth and not a country. Kitsune slip the frame. Selkies leave a hold. Tengu fly, and the mountain's mood is the one 'cannot be caught off guard.' Yumboes keep a table. Stock ancestries cook what the town cooks and take a Hearth-Mark. Speak the common name. Write the liturgical one. Leave the fourth fox and the spoonful unexplained.",
+      cards: [
+        {
+          id: "kitsune",
+          who: "A player",
+          prompt: "What is a Kitsune, in play, without the folklore lecture?",
+          say: "Fox-born. Ears, one brush of tail, foxfire at the fingertips. They can slip an attack and throw a glamour, including another face for a scene. The body underneath stays. People trust their given word because a slippery people would have no credit if the word were slippery too. Three Foxes: Wilds in the wood, Snows on the high cold, Sands in the dry. Nine tails are an honorific. The body keeps one brush. Old hearths still say a word for a fourth fox. No one is born that Fox. They will not tell you why. You leave it there.",
+          home: "Kitsune"
+        },
+        {
+          id: "selkie",
+          who: "A player",
+          prompt: "What is a Selkie if the stolen-skin story is the one I know?",
+          say: "They carry a sealskin, a second self they can wear or set aside. In the skin they belong to cold water, hold a long breath, and always know the way to air and the way back to the skin. Out of a grab, they can slip. Ribbets are the ones who breathe underwater. A Selkie's gift is the way out. The skin loaned or taken is a matter of trust in the story. It is not a penalty written on the sheet. They are thickest on Strandoren's coasts. Kumbaan has no native Selkies.",
+          home: "Selkie"
+        },
+        {
+          id: "tengu",
+          who: "A player",
+          prompt: "Who flies?",
+          say: "Tengu fly. Wings stay visible. They read weather and ground before it moves, and the phrase 'cannot be caught off guard' belongs to that, once, on this Kind, for hazards and terrain. They guide passes, carry word over ridges, and pull people off cliffs. A lowlander who climbed to their shelf is a guest. They tease the Selkies about sky and sea. A Bound can contract for flight, and those wings cannot be hidden. Phoenix flight is the legend.",
+          home: "Tengu"
+        },
+        {
+          id: "yumboe-body",
+          who: "A player who has only heard 'fairy'",
+          prompt: "How do I describe a Yumboe without making them a mainland faerie?",
+          say: "Waist-high to a mainlander, pearl-pale, silver hair, awake with the moon. On the isle they are the good people, and the sentence they keep is 'no one is a stranger twice.' The table is the bond. Unseen hands wait on a feast you can see is larger than the kitchen. Faeries are the small people with flight. Halflings are the small people with luck. A Yumboe is the good person of that isle. Off the isle, most towns have never had one to supper.",
+          home: "Yumboe"
+        },
+        {
+          id: "stock",
+          who: "A player flipping the ancestry list",
+          prompt: "Where do the stock ancestries live, and what do they eat?",
+          say: "Everywhere the Trees stand, in pockets, not nations. A Ribbet judge inland is ordinary. The kitchen cooks what the town grows. Quay folk eat from the tide. Upland pots are oats and peas. A Fungril household sets one spoonful aside and will not say who it is for. You do not explain the spoonful. Infernis are born demon-blooded and eat from the same pot as the house. They have no homeland.",
+          home: "Kinds of the Turning"
+        },
+        {
+          id: "names",
+          who: "A player asking what to write on the name line",
+          prompt: "How do names work?",
+          say: "Speak the common name. Write the liturgical name when a roll or a house requires it. The second name is a byname where people witnessed you, and a house-name in Threnmaieth, Trenledd, the Inner Close, and the filing houses. The fox, seal, and crow hearth-registers are Kusawe, Sakoa, and Gonan. New liturgical coinage is frozen. If you need a fresh old-tongue name at the table, you don't. Use the tools, or use a common name.",
+          home: "Naming People in the Turning"
+        }
+      ]
+    },
+    {
+      id: "gate",
+      title: "At the gate",
+      kicker: "A day, not a constitution",
+      breath: "Name, last hearth, who stands. Two will do. There is no crime of being a Condition. Three tickets cover hazardous uses. Five faiths answer one fact, and people belong by the rite they keep. The Tithe is a civic utility, like a well. High Solstice is Turning-Week. If someone is Struck, they agree, and the town looks after them before it files them.",
+      cards: [
+        {
+          id: "vouch",
+          who: "A player about to walk into a city",
+          prompt: "What papers do I need?",
+          say: "You move on a word. The watch asks your name, your last hearth, and who stands for you. Two will do. A road-word, a company's vouch, a guild-mark, a house-note, guest-right, or the custom of the walk can be the stand. None of those, and you sit until morning or you are walked to the next gate. Sold vouching exists. That trade is the Standing Trade. It is not the custom you are owed.",
+          home: "Law and Citizenship"
+        },
+        {
+          id: "crime",
+          who: "A player waiting to be arrested for what they are",
+          prompt: "What gets me in trouble with the watch?",
+          say: "Harm, not the Condition. A neighbour's word can start it. The watch can hold you until morning. Then a guild-hearing, then an open hearing. Exile from the hearth is the civic death. A negligent lapse in a Tithe and a willful use of a gift as a weapon are different charges. Being Long-Lived, or Bound, or Kept, is not a charge.",
+          home: "Law and Citizenship"
+        },
+        {
+          id: "tickets",
+          who: "A player who heard 'licence'",
+          prompt: "Do I need a licence to exist?",
+          say: "Three uses are ticketed, because they can hurt a crowd: the Stilling Gaze, a Far-Voiced Cry, an Answered element let loose in a yard. The ticket names the use. Bound is heard at a table where the Terms are known. There is no fourth licence for being Bound. The state watches the charter. It does not keep a universal roll of persons. Threnmaieth's census is the famous exception.",
+          home: "Law and Citizenship"
+        },
+        {
+          id: "faiths",
+          who: "A player",
+          prompt: "What do people believe? Give me five I can say.",
+          say: "The Motherfaith says a Condition is a gift chosen. The Watching, in Maiethorn's oldest districts, says it is a seeing that later got a mother's name. The Fair Hand, on Strandoren's ports, says it is a bargain, and Leddvael made that civic. The Old Ways, on Heskoren, say the land makes its own, and the Tree is a late guest. The Open Table, on Kumbaan, keeps a supper for a hunger the isle never had. People belong by the rite they keep. Doctrine fights. The festival usually does not.",
+          home: "Faiths of the Turning"
+        },
+        {
+          id: "clergy",
+          who: "A player",
+          prompt: "Who do I talk to if I want a priest?",
+          say: "Match the rite. Tree-Wardens keep the Motherfaith at the canopy. Watchers keep the vigil. Book-Hands witness a signing. Door-Keepers walk the old rivers, stones, and groves. Table-Keepers keep the supper. Shore-Sitters wait on the storm-beach. Name the one your character would actually meet, and stop.",
+          home: "Faiths of the Turning"
+        },
+        {
+          id: "guilds",
+          who: "A player",
+          prompt: "Are there guilds, or is that still blank?",
+          say: "The Element-Guilds belong to the Answered. The Stillers hold the Gaze. The Intake takes a newly Struck person whose door is hazardous. Mill, hull, and road are craft fellowships, a share of the work, and they are not a ticket. If a story needs a crime, three houses already exist: the Slide, the Holding Desk, and the Standing Trade. You can pitch the world without opening their ledgers.",
+          home: "05 - Factions"
+        },
+        {
+          id: "tithe-money",
+          who: "A player who thinks the economy is 'magic replaces food'",
+          prompt: "Is the whole economy the Tithe?",
+          say: "The Tithe is a civic utility, in the way a well is. Bread still comes from the harvest. About thirty-five percent of people are in the trades where the work itself is the upkeep: Two-Bodied, the Answered, and the Stilled. The people who buy the upkeep, or take it from the town, are about a seventh, mostly in stone cities. The Taken-In in those cities are harvest-hands and lot labor. Arm's length is manners. They are still in the city.",
+          home: "Economy and the Tithe"
+        },
+        {
+          id: "calendar",
+          who: "A player asking when the ceremony is",
+          prompt: "When is Turning-Week, and what year is it?",
+          say: "Turning-Week brackets the High Solstice, midsummer. The year has twelve Maiethren months, and the new year starts on different days depending on who is counting. Kumbaan keeps twelve moons. The present is Cut-year 387. That number is not a round one, and you should not round it.",
+          home: "The Ages of the Turning"
+        }
+      ]
+    },
+    {
+      id: "map",
+      title: "The map in your hand",
+      kicker: "Sketch while you talk",
+      breath: "Maiethorn, Strandoren, Heskoren, and the isle. Thaeloren in the Motherwood. Fifteen powers. Kumbaan is not one of them. Rothallo is inside Orenbren. The White Note is a desk on Orentel's quay. Harrow's Green is a grove-town on Saelvaeth's march, and that is where the opening sits.",
+      cards: [
+        {
+          id: "four",
+          who: "A player with a napkin",
+          prompt: "Draw the world. Talk while you draw.",
+          say: "Three large continents and a small isle. Maiethorn is the origin, six powers, the wood at full reach. Strandoren is across the Old Crossing, five powers, coasts and compacts, high reach. Heskoren is the far one, four powers, thin Trees, the planting unfinished. Kumbaan sits behind a storm-wall. It has a table and moons. It is not a sixteenth power, and it never took a graft.",
+          home: "Powers of the Turning"
+        },
+        {
+          id: "origin",
+          who: "A player pointing at the middle of Maiethorn",
+          prompt: "Where is the real Tree, and who lives next to it?",
+          say: "Thaeloren stands in the Motherwood. The First Seat is a college in that wood, not a throne and not a capital. Maiethlir is Threnmaieth's city on the thaw river. Rothallo, which people still call the Inner Close, is Orenbren's walled capital, one day's walk from the wood. Same city. It is not a second town and not a flag of its own.",
+          home: "Powers of the Turning"
+        },
+        {
+          id: "three",
+          who: "A player who will remember three and forget twelve",
+          prompt: "Give me three countries that feel different by the end of the sentence.",
+          say: "Threnmaieth writes you down and calls the census care. Its seat is Maiethlir. Lestrand prices you and leaves you free. Its seat is Orentel, and the White Note is a desk-house on the third quay, not a crown. Vaethorn has scarce gifts and hot faith. Its seat is Eolvaeth, a pilgrim edge. If I only keep three, I keep the roll, the price, and the wait.",
+          home: "Powers of the Turning"
+        },
+        {
+          id: "fifteen",
+          who: "You, alone, the book closed",
+          prompt: "Name all fifteen, and the seat, or the refusal.",
+          say: "Threnmaieth, Maiethlir. Maiethvael, Seinbrun. Orenbren, Rothallo. Saelthael, Larbril, with Ornsael the well-town farther into the dry. The Hinge Shore, Votaer. Lirorn, Tasain, under the Shelf-gate. Lestrand, Orentel. Brenledd, Raitin, and the league stays a league of hearths. Leddvael, Naenor. Trenledd, Lunbra, where the roll is kept and the money is shown. Netstrand, Braetu. Vaethorn, Eolvaeth. Ornled, Sanbreo. Vaelhesk, no city: the land is the seat. Saelvaeth, Natai. Harrow's Green is a grove-town in that march. It is not the capital.",
+          home: "Powers of the Turning"
+        },
+        {
+          id: "handles",
+          who: "A player who wants the rest in one pass",
+          prompt: "Say what each of the other ones is for, in a clause.",
+          say: "Maiethvael shares the hymns and keeps no list. Saelthael is still planting on the rain-shadow. The Hinge Shore classifies the hulls on the Old Crossing. Lirorn holds the range and the thaw; Noon Pass is gone and the Shelf-gate is the road. Brenledd got tired of one set of houses pricing everyone. Leddvael signs a Bound as a civic rite. Trenledd keeps a roll and will not call it a hymn. Netstrand quotes the far crossing. Ornled is the frontier with the faith burned out. Vaelhesk feeds you. Saelvaeth is the live edge of the planting.",
+          home: "Powers of the Turning"
+        },
+        {
+          id: "travel",
+          who: "A player asking how far",
+          prompt: "How long does it take to go somewhere?",
+          say: "A day's walk is the unit, and the road marks it. The Near Mile is days, up to a couple of weeks. The Salt Walk is a few days' sail and then the walk inland. The Long Mile is measured in weeks, often six to twelve. Kumbaan is not on that grammar. Braetu can quote a far crossing. It does not book the isle.",
+          home: "Named Ground"
+        },
+        {
+          id: "start",
+          who: "The table",
+          prompt: "Where do we start?",
+          say: "Harrow's Green, in Saelvaeth, on Heskoren. Hale-month, Cut-year 387. A grove-town on the march, west of the idea of a capital, with the planting new enough that people still argue about the week. That is the place. The plot can wait until we are sitting down to play it.",
+          hold: "The kit is a remnant-walker, Rosire, and one Gift, either Taeren or a PC in that seat. Mystery first. No Leaf-Mother reveal. You do not recite the kit at the pitch.",
+          home: "The Opening"
+        }
+      ]
+    },
+    {
+      id: "dates",
+      title: "What you can date",
+      kicker: "Two clocks, and five events",
+      breath: "Clock one is how you Turned. Clock two is where the wood has reached. There is no universal year-zero. The present is Cut-year 387. You can tell a war of copies, a split of paper, a fever, a flood, and a hush on the crossing. The Tree is older than the count. You do not name the person who cut.",
+      cards: [
+        {
+          id: "clocks",
+          who: "A player",
+          prompt: "How do people talk about the past?",
+          say: "Two clocks. The first is personal. Did your house walk to Thaeloren, or stand under a town graft? The second is the map. How far has the living wood reached? It is still moving on Heskoren. It never crossed to Kumbaan. Before the Walk, the Tree was already there. No honest count starts that preface.",
+          home: "The Ages of the Turning"
+        },
+        {
+          id: "ages",
+          who: "A player",
+          prompt: "What are the ages called?",
+          say: "Before the Walk, undated. Then the Walking Years, liturgical name Brenvaeth: you walked to the origin or you stayed Kept for want of the trip. Then the First Cut, Eoloren: someone cut living wood and it took. Then the Grafting, still unfinished. The age we are in is the Years of Hands, Ornthael: a town Tree is the ordinary way to Turn.",
+          home: "The Ages of the Turning"
+        },
+        {
+          id: "numbers",
+          who: "A player holding a debt with three dates",
+          prompt: "Why doesn't everyone use the same year?",
+          say: "The number on a debt is a theology. Devout clerks count Cut-years from the First Cut. We are in 387. Threnmaieth also counts crowns from the Two Papers, so this is also Crown-year 320. The White Note is in its 307th house-year. Ledan's query was the house's 200th summer, and that summer was Cut-year 280. Vaethorn counts from the local graft. The Watching refuse the Cut-count. Kumbaan counts moons.",
+          home: "The Other Count"
+        },
+        {
+          id: "five",
+          who: "You, rehearsing",
+          prompt: "Tell the five events a traveler still meets.",
+          say: "Cut-years 19 to 38, the Closing. The old gate around the one Tree tried to uproot the copies, failed, and retreated behind the walls at Rothallo. Cut-year 67, the Two Papers. One hymn-country became Maiethvael and Threnmaieth. Cut-year 171, the Grey Summer. A quay-fever on the Old Crossing. It was not a Tithe. Trenledd began writing persons. Cut-year 233, the Thaw-Break. Lirorn's snowmelt in a week. Noon Pass was lost. Cut-years 299 to 304, the Hinge War, then the Hinge Hush, which is still the peace on the Old Crossing. Beside those, Cut-year 248 is the Wrong Green, a mis-Speaking.",
+          home: "The Other Count"
+        },
+        {
+          id: "cannot",
+          who: "A player who wants the origin story",
+          prompt: "Who planted the first Tree, and who made the Cut?",
+          say: "The Awakening Tree is older than anyone can date. Before the Walk has no start. Who made the First Cut is argued, and history has not picked a face. The Low Wall, the Seeing-Ring, and the Dry Stair were already standing. They have no builder's name. I will not invent a first king to make the preface feel finished.",
+          home: "The Ages of the Turning"
+        },
+        {
+          id: "wave",
+          who: "A player",
+          prompt: "How did the Trees spread?",
+          say: "The Cut was near Thaeloren, on Maiethorn. Maiethorn filled over the next eighty years or so. Strandoren took the wood by sea, wealthy coasts first, from roughly year 40 to 160. Heskoren has been receiving it from about year 200, and the work is unfinished. A fresh cutting takes a generation before that town can hold its own Leaf-Fall. Kumbaan is not on the wave.",
+          home: "The Ages of the Turning"
+        }
+      ]
+    },
+    {
+      id: "after",
+      title: "After they go home",
+      kicker: "For you. Close the laptop if they are still in the room.",
+      wall: true,
+      breath: "She is real, kind, bounded, and costly, and the pitch does not say so. She Gives. She does not Strike. One Gift. The open questions stay open. The heel, the salt, the wet leaf, the loud thaw, the fourth fox, and the spoonful stay unexplained. The Inner Close is a regime inside Orenbren, not a sixteenth power.",
+      cards: [
+        {
+          id: "keystone",
+          who: "You, after the pitch",
+          prompt: "What do you know about the Leaf-Mother that the table does not get for free?",
+          say: "She is real, benevolent, bounded, and costly. The Trees are her hands. The gifts are real gifts. Skeptics are sincere, and they are wrong. If a campaign ever confirms it, the confirmation is warmth. It does not make the census, the market, or the guilt-theology fair. People built those on top of the gifts.",
+          home: "Is the Leaf-Mother Real"
+        },
+        {
+          id: "hands",
+          who: "You",
+          prompt: "Who Strikes, if she only Gives?",
+          say: "She Gives. She does not Strike. The Other Hands Strike under her allowance, and the Struck are still hers. The Open Table is not of her household. Yumboes are unreached, not refused. None of this is a pitch line.",
+          home: "The Other Hands"
+        },
+        {
+          id: "fire",
+          who: "You",
+          prompt: "What is the Phoenix rule you must not blur?",
+          say: "One living Gift. The original self ends at the death they cannot Rise from. What can look like two is leftover fire beside a new leaf. A remnant walks on banked fire. It is not a Phoenix and cannot be Given. The Protectors, in public, are a care. In truth they take Phoenixes out of public life, cause controlled deaths, harvest the fire, and keep the memory of those deaths off the returning person. You never force a player Phoenix to Rise.",
+          home: "When the Fire Is Caught"
+        },
+        {
+          id: "opens",
+          who: "A player who rewards confidence and will accept a bluff",
+          prompt: "They ask who cut, what she is, why her reach has an edge, and whether the storm-wall can be crossed. What do you answer?",
+          say: "Those four are open on purpose. Her limit has an edge, and giving costs her. The cause of the limit is unwritten. Who cut is contested, and you pick a tomb only if play needs one. What she is, beyond a maternal and benevolent intent, is undecided. Whether the storm-wall can be crossed is a lever, not a fact. Say that it is undecided. Inventing an answer to sound prepared is how the setting gets a second, worse canon.",
+          home: "GM Canon, in the world book, the settled-and-open list"
+        },
+        {
+          id: "habits",
+          who: "You, tempted to explain a weird detail",
+          prompt: "What do people do that you will not explain?",
+          say: "The heel. The salt. The wet leaf. The loud thaw. The word for a fourth fox. The Fungril spoonful set aside. People do these things. The notes do not say why. You can describe the act. You do not promote it into a relic, a rite, or a secret you 'reveal' later.",
+          home: "Conventions, the plain-prose rule"
+        },
+        {
+          id: "close",
+          who: "You",
+          prompt: "What was the Closed Seat, in case someone calls Rothallo an empire?",
+          say: "The Closed Seat was an origin-gate. It sat on the one Tree and chose who might walk. It was not a world-empire. Strandoren was never its province. The Closing broke the monopoly on the copies. What remains is the Walled Book, a political class inside Orenbren, behind the walls of Rothallo. Kept heirs can lose status if they are Given. It is not a church, and it is not a sixteenth power.",
+          home: "The Walled Book"
+        },
+        {
+          id: "pitch-line",
+          who: "They ask again, at the door",
+          prompt: "Last question. Is she real? They are watching your face.",
+          say: "People here do not agree. I am not going to hand you a verdict before we play. The Trees do what the Trees do, and the argument about why is one of the things you can have a character believe.",
+          hold: "That sentence is the whole of what they get. Your certainty stays on your side of the table.",
+          home: "The Leaf-Mother"
+        }
+      ]
+    },
+    {
+      id: "tavern",
+      title: "The tavern",
+      kicker: "Three friends. You talk. Then you ask one question.",
+      breath: "One minute on neighbours, Kind, Condition, the week, and the upkeep. Then the sheet. Then you stop, and you ask whether they want to have been chosen at ten, hugged, or changed later. You do not recite the fifteen. You do not confirm the Mother. You do not tell the plot.",
+      cards: [
+        {
+          id: "minute",
+          who: "The curious friend",
+          prompt: "Sell it in a minute. Go.",
+          say: "You play someone in a late-medieval world where the vampire, the werewolf, and the rest are jobs with an upkeep. You were born a Kind. At ten a town Tree either Gave you a Condition or hugged you and left you as you are. Some people change later, by dying, swearing, or surviving a door a child cannot walk. About three in four carry a Condition. The upkeep can get ugly. It never takes the character over. The Leaf-Mother is what some people believe about why. We would start in a grove-town on the edge of the planting, where the local Tree is still a living argument.",
+          home: "The Premise"
+        },
+        {
+          id: "pirate",
+          who: "The folklore friend",
+          prompt: "I want to play a vampire pirate.",
+          say: "Long-Lived is Given at ten, rare, and they stay well by learning and witnessing. A ship that is only raid and empty water starves that. A ship that carries news, contracts, and a moving memory can feed it. You were born some Kind, maybe a Selkie or a human of a quay, and the deep-red leaf came later. You wait to be asked in. You can have children. Most of them will not be Long-Lived. You can still be killed.",
+          home: "Long-Lived"
+        },
+        {
+          id: "sheet",
+          who: "The rules friend",
+          prompt: "What do I actually write down?",
+          say: "Kind first. Then a Community, as Daggerheart has it. Then class, two Experiences, and equipment. Then Turning: Given, Kept, Struck, or unTurned. Given or Struck means one Condition card. If both ancestry features are stock, add a Hearth-Mark, a place-phrase, +2 once a session. Phoenix and Yumboe wait for a yes from me and from the table. The Condition card does not level.",
+          home: "At the Table"
+        },
+        {
+          id: "eat",
+          who: "The friend who wants to lose control",
+          prompt: "Can my werewolf lose control and eat the party?",
+          say: "The shift stays yours. If you go a full day without being the animal, the next Fear roll can force the timing, and you mark a Stress. You still choose what the body does. No Condition seizes a player character. The scare is the timing, the cold touch, the leaked feeling, the fade. The will stays put.",
+          home: "Two-Bodied"
+        },
+        {
+          id: "religion-short",
+          who: "The lore friend",
+          prompt: "What's the religion, short?",
+          say: "Five faiths, one fact: most people become something they were not born as. The Motherfaith calls it a gift. The Watching calls it a seeing. The Fair Hand calls it a bargain. The Old Ways call it the land. The Open Table never had the Tree and keeps a supper instead. Your character belongs by the rite they keep. I will not tell you which theology is true.",
+          home: "Faiths of the Turning"
+        },
+        {
+          id: "politics",
+          who: "A friend who wants intrigue",
+          prompt: "Where is my character from if I want politics?",
+          say: "If you want to be written down, Threnmaieth. If you want a price on everything and a desk that remembers, Lestrand, and Orentel. If you want old walls, beds, and a class that used to gate the Tree, Orenbren, and Rothallo. Pick one. The other twelve can wait until you care about a border.",
+          home: "Powers of the Turning"
+        },
+        {
+          id: "wrong",
+          who: "The anxious friend",
+          prompt: "What if I pick the wrong Condition?",
+          say: "We can retune before the first session without a ceremony. Inside the fiction, a Kept or unTurned person can be Struck later, with your agreement. A fall that already happened does not get a second Leaf-Fall. You will not accidentally collect a second Condition. If you want the missed childhood, unTurned is a real answer.",
+          home: "At the Table"
+        },
+        {
+          id: "session",
+          who: "The table",
+          prompt: "What happens in session one? They want the plot.",
+          say: "A grove-town, Harrow's Green, Hale-month, Cut-year 387. The wood there is new enough that a week can still go wrong in public. We will find out how by playing the week. I am not going to spoil it in the pitch.",
+          hold: "Remnant-walker, Rosire, one Gift shared between Taeren and a PC seat. Pourer and Walled-Book heir stay offstage. No reveal that she is real.",
+          home: "The Opening"
+        },
+        {
+          id: "horror",
+          who: "Someone choosing a table",
+          prompt: "Is this horror, politics, or a travel game?",
+          say: "It is a town game that can travel. The politics are real because the gifts are useful and people built unfair houses on top of them. The horror is a small dial. You will know your neighbours. You will also know the one upkeep that can ruin a week.",
+          home: "The Premise"
+        },
+        {
+          id: "ask",
+          who: "You, when they go quiet",
+          prompt: "Stop talking. Ask them the question that teaches the engine.",
+          say: "Do you want to have been chosen at ten, hugged and left as you are, or changed later by something that happened to you? And what were you born as, before any of that?",
+          home: "At the Table"
+        }
+      ]
+    }
+  ]
+};
+
+const STORAGE = "wardens-ear-v1";
+const state = {
+  view: "home",
+  sitting: 0,
+  card: 0,
+  revealed: false,
+  progress: load()
+};
+
+function load() {
+  try {
+    return JSON.parse(localStorage.getItem(STORAGE)) || {};
+  } catch (e) {
+    return {};
+  }
+}
+function save() {
+  localStorage.setItem(STORAGE, JSON.stringify(state.progress));
+  renderScore();
+}
+function keyOf(sittingId, cardId) {
+  return sittingId + ":" + cardId;
+}
+function mark(sittingId, cardId, value) {
+  state.progress[keyOf(sittingId, cardId)] = value;
+  save();
+}
+function status(sittingId, cardId) {
+  return state.progress[keyOf(sittingId, cardId)] || "";
+}
+function sittingStats(sitting) {
+  let had = 0;
+  sitting.cards.forEach(function (card) {
+    if (status(sitting.id, card.id) === "had") had += 1;
+  });
+  return { had: had, total: sitting.cards.length };
+}
+function renderScore() {
+  let had = 0;
+  let total = 0;
+  STUDY.sittings.forEach(function (sitting) {
+    const stats = sittingStats(sitting);
+    had += stats.had;
+    total += stats.total;
+  });
+  document.getElementById("score").textContent = had + " cold of " + total;
+}
+function renderNav() {
+  const nav = document.getElementById("sitting-nav");
+  nav.innerHTML = "";
+  STUDY.sittings.forEach(function (sitting, index) {
+    const stats = sittingStats(sitting);
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "nav-btn" + (sitting.wall ? " wall" : "") + (state.view !== "home" && state.sitting === index ? " on" : "");
+    button.innerHTML = sitting.title + "<small>" + stats.had + " / " + stats.total + " cold</small><div class='bar'><span style='width:" + Math.round(100 * stats.had / stats.total) + "%'></span></div>";
+    button.addEventListener("click", function () {
+      openSitting(index);
+    });
+    nav.appendChild(button);
+  });
+  document.getElementById("go-home").classList.toggle("on", state.view === "home");
+}
+function openHome() {
+  state.view = "home";
+  state.revealed = false;
+  render();
+}
+function openSitting(index) {
+  state.view = "sitting";
+  state.sitting = index;
+  state.card = 0;
+  state.revealed = false;
+  render();
+}
+function current() {
+  return STUDY.sittings[state.sitting];
+}
+function render() {
+  renderNav();
+  renderScore();
+  if (state.view === "home") renderHome();
+  else if (state.view === "breath") showBreath();
+  else renderCard();
+}
+function renderHome() {
+  const sheet = document.getElementById("sheet");
+  const items = STUDY.pocket.map(function (line) {
+    return "<li>" + escapeHtml(line) + "</li>";
+  }).join("");
+  sheet.innerHTML =
+    "<p class='kicker'>If the pitch is tonight</p>" +
+    "<h2>Twelve sentences</h2>" +
+    "<p>Say them aloud with the book closed. When one snags, open that sitting and answer the scene before you read the line under it. Mark a card cold only if the words were already yours.</p>" +
+    "<ol class='pocket'>" + items + "</ol>" +
+    "<div class='row'><button class='btn primary' id='start' type='button'>Start at the square</button></div>" +
+    "<p class='home'>This page is a drill. The vault note is the index. If a sentence and a note disagree, the note wins.</p>";
+  document.getElementById("start").addEventListener("click", function () {
+    openSitting(0);
+  });
+}
+function renderCard() {
+  const sitting = current();
+  const card = sitting.cards[state.card];
+  const sheet = document.getElementById("sheet");
+  const st = status(sitting.id, card.id);
+  let body = "";
+  if (sitting.wall) {
+    body += "<div class='wall-banner'>This sitting is for you. Do not open it in front of players.</div>";
+  }
+  body += "<p class='kicker'>" + escapeHtml(sitting.kicker) + " · " + (state.card + 1) + " of " + sitting.cards.length + "</p>";
+  body += "<h2>" + escapeHtml(sitting.title) + "</h2>";
+  body += "<p class='who'>" + escapeHtml(card.who) + "</p>";
+  body += "<p class='prompt'>" + escapeHtml(card.prompt) + "</p>";
+  if (!state.revealed) {
+    body += "<div class='row'><button class='btn primary' id='reveal' type='button'>I've said it</button></div>";
+  } else {
+    body += "<div class='say'><p class='label'>A true answer</p><p>" + escapeHtml(card.say) + "</p></div>";
+    if (card.miss) body += "<div class='miss'><p class='label'>If this is what came out, say it again</p><p>" + escapeHtml(card.miss) + "</p></div>";
+    if (card.hold) body += "<div class='hold'><p class='label'>Hold</p><p>" + escapeHtml(card.hold) + "</p></div>";
+    body += "<p class='home'>If you stumbled, open " + escapeHtml(card.home) + ".</p>";
+    body += "<div class='row'>";
+    body += "<button class='btn primary' id='had' type='button'>I had it cold</button>";
+    body += "<button class='btn warn' id='needed' type='button'>I needed this</button>";
+    body += "</div>";
+  }
+  body += "<div class='row'>";
+  body += "<button class='btn ghost' id='prev' type='button'>Previous</button>";
+  body += "<button class='btn ghost' id='next' type='button'>Next</button>";
+  if (state.card === sitting.cards.length - 1) {
+    body += "<button class='btn' id='breath' type='button'>Say the sitting in one breath</button>";
+  }
+  body += "</div>";
+  if (st) {
+    body += "<p class='home'>Last time you marked this " + (st === "had" ? "cold" : "as a card you needed") + ".</p>";
+  }
+  sheet.innerHTML = body;
+  const reveal = document.getElementById("reveal");
+  if (reveal) reveal.addEventListener("click", function () { state.revealed = true; render(); });
+  const had = document.getElementById("had");
+  if (had) had.addEventListener("click", function () { mark(sitting.id, card.id, "had"); go(1); });
+  const needed = document.getElementById("needed");
+  if (needed) needed.addEventListener("click", function () { mark(sitting.id, card.id, "needed"); go(1); });
+  document.getElementById("prev").addEventListener("click", function () { go(-1); });
+  document.getElementById("next").addEventListener("click", function () { go(1); });
+  const breath = document.getElementById("breath");
+  if (breath) breath.addEventListener("click", showBreath);
+}
+function showBreath() {
+  state.view = "breath";
+  const sitting = current();
+  const stats = sittingStats(sitting);
+  const sheet = document.getElementById("sheet");
+  renderNav();
+  sheet.innerHTML =
+    "<p class='kicker'>" + escapeHtml(sitting.title) + "</p>" +
+    "<h2>In one breath</h2>" +
+    "<div class='breath'><p>" + escapeHtml(sitting.breath) + "</p></div>" +
+    "<p>" + stats.had + " of " + stats.total + " cold in this sitting. The ones you needed are still in the list. Say those scenes again before you call the sitting done.</p>" +
+    "<div class='row'><button class='btn primary' id='back' type='button'>Back to the scenes</button></div>";
+  document.getElementById("back").addEventListener("click", function () {
+    state.view = "sitting";
+    state.revealed = false;
+    render();
+  });
+}
+function go(step) {
+  const sitting = current();
+  const next = state.card + step;
+  if (next < 0) return;
+  if (next >= sitting.cards.length) {
+    showBreath();
+    return;
+  }
+  state.card = next;
+  state.revealed = false;
+  render();
+}
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+}
+document.getElementById("go-home").addEventListener("click", openHome);
+document.getElementById("clear-marks").addEventListener("click", function () {
+  if (!window.confirm("Clear every cold mark in this browser?")) return;
+  state.progress = {};
+  save();
+  render();
+});
+document.addEventListener("keydown", function (event) {
+  const tag = (event.target && event.target.tagName) || "";
+  if (tag === "INPUT" || tag === "TEXTAREA") return;
+  if (state.view === "breath") {
+    if (event.key === "ArrowLeft") {
+      state.view = "sitting";
+      state.revealed = false;
+      render();
+    }
+    return;
+  }
+  if (state.view !== "sitting") return;
+  if (event.key === " " || event.code === "Space") {
+    event.preventDefault();
+    if (!state.revealed) {
+      state.revealed = true;
+      render();
+    }
+  } else if (event.key === "ArrowRight") {
+    go(1);
+  } else if (event.key === "ArrowLeft") {
+    go(-1);
+  } else if ((event.key === "h" || event.key === "H") && state.revealed) {
+    mark(current().id, current().cards[state.card].id, "had");
+    go(1);
+  } else if ((event.key === "n" || event.key === "N") && state.revealed) {
+    mark(current().id, current().cards[state.card].id, "needed");
+    go(1);
+  }
+});
+render();
+</script>
+</body>
+</html>

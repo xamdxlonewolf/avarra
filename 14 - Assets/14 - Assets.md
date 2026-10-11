@@ -6,7 +6,7 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-03
+updated: 2026-10-11
 ---
 
 # 14 - Assets
@@ -39,3 +39,7 @@ The vault notes remain the working source of truth.
 Moved from the player-facing body during residual export polish:
 
 - - **Maps (Story R.10):**
+
+### The Warden's Ear (2026-10-11)
+
+GM study page, not a handout: `Documents/The Wardens Ear/index.html`. Index: [[The Wardens Ear]]. Do not give the file to players. Sitting 9 confirms the keystone.

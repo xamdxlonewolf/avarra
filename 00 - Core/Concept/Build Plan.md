@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-10-05
+updated: 2026-10-11
 ---
 
 # Build Plan
@@ -17,6 +17,8 @@ updated: 2026-10-05
 > **Setting:** **_The Turning_** (started 2026-08-14; named 2026-08-20). Integrated-"monsters" world. Prior vault settings (original "Avarra," then "The Empire That Wasn't Evil") are git history — not canon.
 
 ## Active next
+
+**The Warden's Ear (2026-10-11).** A spoken study for pitching the setting without rereading the book. [[The Wardens Ear]]. The page is `14 - Assets/Documents/The Wardens Ear/index.html`. No new epic. The dated shelf, street-level city memory, and the campaign's close stay where they were.
 
 **Epic C — How the book speaks ✅ (C.1 done 2026-10-05).** `prose-style` is installed. The audit named two narrators: pages that sound like a person explaining a town, and pages that stopped to define the word. The glossary asides were pulled into the next sentence. The baseline stayed the Turning Tree opening and [[How a Place Speaks]]. The book was rebuilt. The vault was not rewritten. The four open questions stay open. Two claimants on one green stay unwritten.
 
@@ -109,7 +111,7 @@ Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fres
 SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /rules/ · /gm/
 
 ## Links
-- [[Roadmap]] — tracker · [[The Premise]] — design hub · [[Conventions]] — schema and export
+- [[Roadmap]] — tracker · [[The Premise]] — design hub · [[Conventions]] — schema and export · [[The Wardens Ear]] — spoken study for the pitch
 - [[Epic R Completion Gate 2026-08-31]] · [[Contradictions]]
 - [[At the Table]] · [[Kind Heritage]] · [[Conditions]] · [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[The Opening]] · [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]] · [[The Isolated Fall]]
