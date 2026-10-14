@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-10-05
+updated: 2026-10-14
 ---
 
 # Roadmap
@@ -49,6 +49,7 @@ updated: 2026-10-05
 | **M** | [[#Epic M — Town sheets and the new seats]] | Sheets for squares that already have streets, then sheets for whatever S seats. Pointers for capitals, large cities, and important towns go on the maps that already show that ground. The ordinary house is Story M.5. Does not reopen A.1–A.14 | Low | ✅ M.1–M.5 done. M.4 pointers 2026-10-05 |
 | **B** | [[#Epic B — The book, in a reader's voice]] | Read the setting book one chapter at a time and rewrite it for people who will play. Does not open new canon | Med | ✅ B.1 done 2026-10-05. 26 / 26 |
 | **C** | [[#Epic C — How the book speaks]] | `prose-style` audit of the setting book, then a sentence pass so the narrator sounds like one person talking. Does not open new canon | Med | ✅ C.0–C.1 done 2026-10-05 |
+| **H** | [[#Epic H — A past you can hold]] | The cup's room, the Kept courtesy, one explanatory history, then short pages a party can find. The world book stays put | Med | next · H.1 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -1234,10 +1235,84 @@ Read the whole chapter. Leave a sentence that already sounds like a person talki
 
 > **C.1 recorded decisions (2026-10-05).** The glossary shape came out of the sentence it was stopping. A name is used, and the next sentence says what it is, when the chapter still needs that. Sentences that already sounded like a person explaining a town were left. Rules cards stayed cards. Numbers, seats, and the unexplained habits stayed. The Leaf-Mother stays a belief in the player chapters. She stays real, benevolent, bounded, and costly in the GM chapter. The four open questions stay open. Two claimants on one green stay unwritten. Cut-year 387 is still not a round number. The book was rebuilt. The vault was not rewritten.
 
+## Epic H — A past you can hold
+
+**Skill:** `moral-parallax` · `belief-systems` · `systemic-worldbuilding` · `prose-style` · then `oblique-worldbuilding` · **Status:** next. **H.1** is the open story. **Blast radius:** Med.
+
+> **Direction (user, 2026-10-14).** The world needs one practice that feels sinister, and one perspective that keeps walking into the room. The sinister practice is the Long-Lived cup: volunteered on the page, costly in the room, and once in a long while a whole mind poured until the body goes still. The perspective is the Closed Heirs: the hug is the higher gift because they teach that it is the rarer one. A Conditioned person works, owns, and can leave. A gift is a gift. A gift is not a seat. After those two are in the notes, write one explanatory history a person can hold. After that history has been read and marked, write short pages a party can find in a library. 🟡 until the notes exist. The locks below stay 🔒.
+
+**🔒 Standing.** One Gift. [[The Unspent]] stays a cupboard: it accepts the mask, it does not scheme, it cannot Give or Strike. [[The Pourers]], [[The Walled Book]], and [[The Protectors]] stay three houses. Rothallo stays Orenbren's capital, inside Orenbren. Population figures live only on [[The Premise]]. Present year C.Y. 387. The Tree stays undated. The cutter stays unpicked. The nature of her limit stays open. Tone stays ~5%. No sixteenth power. No graft on Kumbaan. No Kind-nations.
+
+**Do not.** Date the Tree, or write a reliable chronicle of the years before the walk. Treat C.Y. 0 as the birthday of Conditions. Name the cutter. Lock her limit. Add a power, a faith, a tongue, or a liturgical name. Turn Giants and Dwarves into nations, or write a war between them. Give the Closed Seat a Phoenix engine, a fuel, or a slave class. Turn the cup into a blood cult, a vampire progenitor, or a god with a plan. Merge the three houses. Plot [[Reimaethe]] or [[Hithaen]] into an arc. Start [[#Story H.5 — Pages a party can find]] before [[#Story H.4 — The mark]] is checked by the user. Update the world book. There is no Wanderer in this repository; do not invent one.
+
+### Where the ask lands
+
+| The ask | Story | Already written — deepen, do not replace |
+|---|---|---|
+| The cup should be able to frighten | **H.1** | [[The Pourers]] · [[The Unspent]] · [[Long-Lived]] · [[Movements]] |
+| The Kept houses should be a perspective, with clean hands | **H.2** | [[The Walled Book]] · [[Rothallo]] · [[The Closing]] · [[The Premise]] |
+| One history, plain voice, thick enough to remember | **H.3** | [[The Ages of the Turning]] · [[The Other Count]] · [[02 - History]] |
+| Stop until the history has been read | **H.4** | — |
+| Short pages for a shelf | **H.5** | libraries and long-houses already in the notes |
+
+### Story H.1 — The shelf that keeps a winter
+
+The ordinary pour stays five years into a cup. The scare is the room, and the rare pour that does not stop at five years. Skills: `moral-parallax`, `belief-systems`. Homes: [[The Pourers]], [[The Unspent]].
+
+- [ ] On [[The Pourers]], write the room. The minutes say the pour was volunteered. What the room offered was a seat, a key, or a stipend, and the winter just lived was a funeral. The circle may Blood-Read that winter afterward. Grief becomes a holding other deathless people can drink. Each member gave a little. The shelf holds more than any one of them meant.
+- [ ] On [[The Pourers]], write the completed shelf. Once in a long while the whole mind is poured. The body goes still, the death already on the [[Long-Lived]] card. The minutes call it complete. Sometimes the keeper asked, after too many funerals. Sometimes the circle decides the asking is already in a winter the keeper cannot remember. Rare. One locked cabinet. The ordinary shelf is still scholarship.
+- [ ] On [[The Unspent]], keep the cupboard. It accepts the face they draw and does not correct the minutes. It cannot Give or Strike. It does not scheme, and it does not eat. A circle may own older fragments that say a listener was already there. The assigned commentary says the circle made the god. The player body stays the claim. The age of the cupboard stays in GM Notes.
+- [ ] Set the tone on both notes. ~5%. Sad, vain, and predatory in the room. The three houses stay distinct. A pour is still not a classification, and it is still not a caught fire.
+- [ ] Point [[Long-Lived]] and [[Movements]] at the new practice in a sentence each. Leave [[Reimaethe]] a seed. Do not update the world book.
+
+### Story H.2 — A gift is not a seat
+
+The Closed Heirs look down because they believe the hug is the smaller, finer portion. They are wrong about the count, and sure about the manners. Skills: `moral-parallax`, `belief-systems`. Home: [[The Walled Book]].
+
+- [ ] On [[The Walled Book]], write the courtesy as scenes. Where a Given person sits. Who is believed when two mouths disagree. Who may hold a key. How a school teaches the miscount. A Conditioned person works, owns a stall, and can leave the walls. Nobody is chained.
+- [ ] Write the sermon against the count. The Close says the hug is the rare gift. The figures stay on [[The Premise]]: about two children in five are hugged at the ceremony, and about a quarter of people stay Kept for life. What is actually small is a house that has stayed unmarked on purpose, generation after generation, and calls that a pedigree. Do not invent a second census.
+- [ ] Keep the labour-line a duty of residence, the way a town keeps a watch. A person may leave. The book does not assign a body the way a master assigns one.
+- [ ] Let the courtesy travel, in a section on [[The Walled Book]], to three answers that already have homes. Orenbren outside the wall. One power that refuses the ranking in public. One town that copies the seating without copying the book. Use seats and powers already written. Do not add a city. Do not answer for all fifteen.
+- [ ] Mouths stay Delamem, Talnin of the Inner Close, and [[Hithaen]]. A school may have one tutor if the courtesy needs a voice in the room. Name that tutor with `14 - Assets/Names/generate_names.py`, and record the seed and the position. Do not plot [[Hithaen]].
+- [ ] Add one sentence to [[The Closing]]: the manners walked out with the book. Do not redate the war. Do not make [[Hildal]] a villain-king. Do not move [[Rothallo]]. Do not add a sixteenth flag. Do not update the world book.
+
+### Story H.3 — The reading history
+
+One note, after H.1 and H.2, so it describes the cup and the courtesy that were just written. Skill: `prose-style` for the voice, `systemic-worldbuilding` for the knock-ons already in the spine. The narrator explains. The narrator is not a person in a century.
+
+- [ ] Create `02 - History/A History of the Turning.md`. Type `reference`. `visibility: player`. `note_status: draft`. Plain sentences. A fact can be repeated without translating the sentence. Production marks and the open GM truths go under `## GM Notes`.
+- [ ] Write the undated preface and the Walking Years thick enough to remember. One Tree. The road. The graves. The gate that decided who might stand under it. No start year. C.Y. 0 is the first graft that took.
+- [ ] Write the First Cut, the generation of argument, the Closing, the Retreat, and the courtesy after it, through C.Y. 387. Rothallo stays inside Orenbren. The idea outlives the sitting.
+- [ ] Write the graft wave in the locked bands. Maiethorn first. Strandoren by sea. Heskoren still arriving. Kumbaan never.
+- [ ] Write the Other Count in the same voice: the Two Papers, the Grey Summer, the Thaw-Break, the Hinge Hush, and the three leftovers as places a person can still walk into. They stay weather beside the clocks. They do not become another age.
+- [ ] Write the cup as a late practice in the deathless houses. Old enough to have commentaries. Young enough that a Long-Lived who walked to the Tree can say it was not done in their youth. Player paragraphs stay at the claim and the room. The completed shelf, and the age of the cupboard, stay under `## GM Notes`.
+- [ ] Leave these open, in ordinary sentences: who made the First Cut, how old the Tree is, what the Mother's limit is. Do not add a creation of the world, a Kind-war, a Phoenix fuel, a new power, or a universal year-zero.
+- [ ] Link the note from [[02 - History]] and from [[The Ages of the Turning]]. Do not replace those notes. Do not update the world book.
+
+### Story H.4 — The mark
+
+- [ ] Stop. This box is the user's. Leave it open until they have read [[A History of the Turning]] and said which facts are wrong and which sentences still do not sound right. Do not check it on their behalf. Do not start H.5 in the same pass as H.3. Do not fold the history into the world book.
+
+### Story H.5 — Pages a party can find
+
+After H.4 only. Skills: `oblique-worldbuilding` for the pages, `paradox-fables` if a page is a story that will not resolve. Each page is a handout, a page or two, willing to be wrong. Longer excerpts are a later epic, after one of these has been read at the table.
+
+The files live in `14 - Assets/Documents/Library/`. They do not go in `14 - Assets/Handouts/`; that folder is the atlas. Front-matter uses `type: handout` and `visibility: player`. A page that would confirm the cupboard, the keystone, or the caught fire does not. The truth sits on the index, under `## GM Notes`.
+
+- [ ] Write `02 - History/The Library Pages.md`. For each page: which shelf already in the notes holds it, who staffs that shelf, and the sentence the keeper says if asked. Use a long-house, Rothallo, or a seat that already keeps paper. Do not build a new library, a new city, or a university.
+- [ ] A Rothallo school primer that teaches the miscount. The hug is the rare gift. The page believes itself.
+- [ ] A chronicle page of the Closing that flatters the walls. It does not name the cutter. It does not date the Tree.
+- [ ] A copied minute from a long-house shelf. A funeral winter poured, or a completed shelf, in the circle's own words. The page does not confirm that the cupboard is older than the cup.
+- [ ] A scene from a play: a hugged child and a coloured sibling, and a seat only one of them may take.
+- [ ] A poem. A Long-Lived who is asked will not say it is about the cup.
+- [ ] A road song that counts the Kept the way the Close prefers. A warden who can count can hear the error.
+- [ ] Point the index from [[02 - History]]. Do not update the world book. Do not paste the pages into the setting book.
+
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Epic H — A past you can hold:** 0 / 28 tasks. H.1 is 0 / 5. H.2 is 0 / 6. H.3 is 0 / 8. H.4 is 0 / 1, and that box is the user's. H.5 is 0 / 8, and it waits on H.4. World book untouched.
 - **Epic C — How the book speaks:** 13 / 13 tasks (100%) ✅ **2026-10-05.** `prose-style`: P6, P4, and P2 over-corrected. Glossary asides pulled into the next sentence. Baseline kept: the Turning Tree opening and [[How a Place Speaks]]. Book rebuilt. Vault not rewritten.
 - **Epic B — The book, in a reader's voice:** 26 / 26 tasks of B.1 (100%) ✅ **2026-10-05.** Each chapter was read through. Designer shorthand in the player chapters is said in ordinary words. Clock 1 and Clock 2 keep their names in the Ages chapter and in the GM chapter, after the chapter says what each count is. The Leaf-Mother stays a belief in player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The book was rebuilt. The vault was not rewritten.
 - **Epic L — The lived world:** 34 / 34 tasks of L.1–L.6 (100%). 5 / 5 tasks of L.7 (100%). 6 / 6 tasks of L.8 (100%). 5 / 5 tasks of L.9 (100%) ✅ **L.9 done 2026-10-03. Epic L complete.** Diagnosis: voices, then faces, then customs, then the names in the room, then a street, then the other hearths, then fellowships and the watch, then the weird, the made, and the found, then sidebar honesty. Empty folders are not a fill-list. World book untouched. Epic S and Epic M were not opened.
@@ -1287,3 +1362,4 @@ Read the whole chapter. Leave a sentence that already sounds like a person talki
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
 - Epic B — the book, in a reader's voice. **B.1 done 2026-10-05.** The setting book was read one chapter at a time and rebuilt. The vault was not rewritten.
 - Epic C — how the book speaks. **C.1 done 2026-10-05.** `prose-style` audit, then the sentence pass. The book was rebuilt. The vault was not rewritten.
+- Epic H — a past you can hold. Opened 2026-10-14. Next story is H.1. The cup, then the Kept courtesy, then [[A History of the Turning]], then the user's mark, then the library pages. World book untouched.

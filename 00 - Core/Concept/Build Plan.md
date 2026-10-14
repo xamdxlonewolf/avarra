@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-10-11
+updated: 2026-10-14
 ---
 
 # Build Plan
@@ -17,6 +17,8 @@ updated: 2026-10-11
 > **Setting:** **_The Turning_** (started 2026-08-14; named 2026-08-20). Integrated-"monsters" world. Prior vault settings (original "Avarra," then "The Empire That Wasn't Evil") are git history — not canon.
 
 ## Active next
+
+**Epic H — A past you can hold (2026-10-14).** Next work. [[Roadmap#Epic H — A past you can hold]]. H.1 first: the cup's room, on [[The Pourers]] and [[The Unspent]]. Then the Kept courtesy on [[The Walled Book]]. Then one explanatory history. Short library pages wait until that history has been read and marked. The world book stays untouched. The three houses stay three. No new power.
 
 **The Warden's Ear (2026-10-11).** A spoken study for pitching the setting without rereading the book. [[The Wardens Ear]]. The page is `14 - Assets/Documents/The Wardens Ear/index.html`. No new epic. The dated shelf, street-level city memory, and the campaign's close stay where they were.
 
