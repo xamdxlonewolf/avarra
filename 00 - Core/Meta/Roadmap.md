@@ -7,7 +7,7 @@ status: active
 tags: [meta, roadmap, build-plan, tracker, moc]
 aliases: [The Roadmap, Epics, Build Tracker]
 created: 2026-08-17
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Roadmap
@@ -49,7 +49,7 @@ updated: 2026-10-14
 | **M** | [[#Epic M — Town sheets and the new seats]] | Sheets for squares that already have streets, then sheets for whatever S seats. Pointers for capitals, large cities, and important towns go on the maps that already show that ground. The ordinary house is Story M.5. Does not reopen A.1–A.14 | Low | ✅ M.1–M.5 done. M.4 pointers 2026-10-05 |
 | **B** | [[#Epic B — The book, in a reader's voice]] | Read the setting book one chapter at a time and rewrite it for people who will play. Does not open new canon | Med | ✅ B.1 done 2026-10-05. 26 / 26 |
 | **C** | [[#Epic C — How the book speaks]] | `prose-style` audit of the setting book, then a sentence pass so the narrator sounds like one person talking. Does not open new canon | Med | ✅ C.0–C.1 done 2026-10-05 |
-| **H** | [[#Epic H — A past you can hold]] | The cup's room, the Kept courtesy, one explanatory history, then short pages a party can find. The world book stays put | Med | next · H.1 |
+| **H** | [[#Epic H — A past you can hold]] | The Long-Lived memory circle, how the Kept houses treat people with a Condition, one history in ordinary sentences, then short pages a party can find. The world book stays put | Med | next · H.1 |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -1239,73 +1239,73 @@ Read the whole chapter. Leave a sentence that already sounds like a person talki
 
 **Skill:** `moral-parallax` · `belief-systems` · `systemic-worldbuilding` · `prose-style` · then `oblique-worldbuilding` · **Status:** next. **H.1** is the open story. **Blast radius:** Med.
 
-> **Direction (user, 2026-10-14).** The world needs one practice that feels sinister, and one perspective that keeps walking into the room. The sinister practice is the Long-Lived cup: volunteered on the page, costly in the room, and once in a long while a whole mind poured until the body goes still. The perspective is the Closed Heirs: the hug is the higher gift because they teach that it is the rarer one. A Conditioned person works, owns, and can leave. A gift is a gift. A gift is not a seat. After those two are in the notes, write one explanatory history a person can hold. After that history has been read and marked, write short pages a party can find in a library. 🟡 until the notes exist. The locks below stay 🔒.
+> **Direction (user, 2026-10-14; speech corrected 2026-10-15).** The world needs one practice that can frighten people, and one group whose attitude keeps showing up in ordinary life. The practice is the Long-Lived circle. The record says the person chose to give years of memory. The offer around that choice is hard to refuse. Once in a long while they give up every memory they have, and they die. The group is the Closed Heirs. They teach that a hug, with no colour, is the better result, because they say it is the rarer one. A person who received a Condition still works, can own property, and can leave. They lose the heir's place. After those two are written into the notes, write one history in ordinary sentences. After that history has been read and corrected, write short pages a party can find in a library. 🟡 until the notes exist. The locks below stay 🔒. Write every note in this epic in the speech in [[Conventions#Plain prose]].
 
-**🔒 Standing.** One Gift. [[The Unspent]] stays a cupboard: it accepts the mask, it does not scheme, it cannot Give or Strike. [[The Pourers]], [[The Walled Book]], and [[The Protectors]] stay three houses. Rothallo stays Orenbren's capital, inside Orenbren. Population figures live only on [[The Premise]]. Present year C.Y. 387. The Tree stays undated. The cutter stays unpicked. The nature of her limit stays open. Tone stays ~5%. No sixteenth power. No graft on Kumbaan. No Kind-nations.
+**🔒 Standing.** There is one Phoenix Gift. [[The Unspent]] is a small household presence that stores the memories it is given. It lets the circle describe it. It does not make plans. It cannot Give a Condition, and it cannot Strike someone into one. [[The Pourers]], [[The Walled Book]], and [[The Protectors]] stay three separate groups. Rothallo stays the capital of [[Orenbren]], inside Orenbren. Population figures live only on [[The Premise]]. The present year is Cut-year 387. The Tree has no date. Nobody has been named as the person who made the First Cut. What the Leaf-Mother's limit is stays open. The frightening part of the world stays about five percent. Do not add a sixteenth power. Do not put a graft on Kumbaan. Ancestries are not nations.
 
-**Do not.** Date the Tree, or write a reliable chronicle of the years before the walk. Treat C.Y. 0 as the birthday of Conditions. Name the cutter. Lock her limit. Add a power, a faith, a tongue, or a liturgical name. Turn Giants and Dwarves into nations, or write a war between them. Give the Closed Seat a Phoenix engine, a fuel, or a slave class. Turn the cup into a blood cult, a vampire progenitor, or a god with a plan. Merge the three houses. Plot [[Reimaethe]] or [[Hithaen]] into an arc. Start [[#Story H.5 — Pages a party can find]] before [[#Story H.4 — The mark]] is checked by the user. Update the world book. There is no Wanderer in this repository; do not invent one.
+**Do not.** Date the Tree, or write a year-by-year chronicle of the age before the walk. Treat Cut-year 0 as the day Conditions began. Name the person who made the First Cut. Decide what the Leaf-Mother's limit is. Add a power, a faith, a tongue, or a liturgical name. Turn Giants and Dwarves into nations, or write a war between them. Give the old Closed Seat a store of Phoenix fire, a war machine, or a slave class. Make the circle feed on blood, make them the origin of vampires, or give [[The Unspent]] a secret plan. Fold the three groups into one. Turn [[Reimaethe]] or [[Hithaen]] into a plotted story. Start [[#Story H.5 — Pages a party can find]] before the user has checked [[#Story H.4 — Wait for a reading]]. Update the world book. Let a picture stand in for a fact. There is no Wanderer in this repository. Do not invent one.
 
 ### Where the ask lands
 
-| The ask | Story | Already written — deepen, do not replace |
+| The ask | Story | Already written — add to these notes, and leave the rest of each note in place |
 |---|---|---|
-| The cup should be able to frighten | **H.1** | [[The Pourers]] · [[The Unspent]] · [[Long-Lived]] · [[Movements]] |
-| The Kept houses should be a perspective, with clean hands | **H.2** | [[The Walled Book]] · [[Rothallo]] · [[The Closing]] · [[The Premise]] |
-| One history, plain voice, thick enough to remember | **H.3** | [[The Ages of the Turning]] · [[The Other Count]] · [[02 - History]] |
-| Stop until the history has been read | **H.4** | — |
-| Short pages for a shelf | **H.5** | libraries and long-houses already in the notes |
+| A Long-Lived circle that can frighten | **H.1** | [[The Pourers]] · [[The Unspent]] · [[Long-Lived]] · [[Movements]] |
+| Kept houses who look down on people with a Condition | **H.2** | [[The Walled Book]] · [[Rothallo]] · [[The Closing]] · [[The Premise]] |
+| One history, in ordinary sentences | **H.3** | [[The Ages of the Turning]] · [[The Other Count]] · [[02 - History]] |
+| Stop until that history has been read | **H.4** | — |
+| Short pages for a library | **H.5** | libraries and long-houses already in the notes |
 
-### Story H.1 — The shelf that keeps a winter
+### Story H.1 — Years given to the cup
 
-The ordinary pour stays five years into a cup. The scare is the room, and the rare pour that does not stop at five years. Skills: `moral-parallax`, `belief-systems`. Homes: [[The Pourers]], [[The Unspent]].
+Most of the time a Long-Lived gives five years of memory into a cup, and the record says they chose to. The frightening part is the offer that comes with that choice, and the rare time they give up every memory they have. Skills: `moral-parallax`, `belief-systems`. Homes: [[The Pourers]], [[The Unspent]]. Speech: [[Conventions#Plain prose]].
 
-- [ ] On [[The Pourers]], write the room. The minutes say the pour was volunteered. What the room offered was a seat, a key, or a stipend, and the winter just lived was a funeral. The circle may Blood-Read that winter afterward. Grief becomes a holding other deathless people can drink. Each member gave a little. The shelf holds more than any one of them meant.
-- [ ] On [[The Pourers]], write the completed shelf. Once in a long while the whole mind is poured. The body goes still, the death already on the [[Long-Lived]] card. The minutes call it complete. Sometimes the keeper asked, after too many funerals. Sometimes the circle decides the asking is already in a winter the keeper cannot remember. Rare. One locked cabinet. The ordinary shelf is still scholarship.
-- [ ] On [[The Unspent]], keep the cupboard. It accepts the face they draw and does not correct the minutes. It cannot Give or Strike. It does not scheme, and it does not eat. A circle may own older fragments that say a listener was already there. The assigned commentary says the circle made the god. The player body stays the claim. The age of the cupboard stays in GM Notes.
-- [ ] Set the tone on both notes. ~5%. Sad, vain, and predatory in the room. The three houses stay distinct. A pour is still not a classification, and it is still not a caught fire.
-- [ ] Point [[Long-Lived]] and [[Movements]] at the new practice in a sentence each. Leave [[Reimaethe]] a seed. Do not update the world book.
+- [ ] On [[The Pourers]], write what happens when someone gives those years. The minutes say the person volunteered. After a death in the family, the circle offered a place in the house, a key, or a stipend, if the memories of those years went into the cup. Afterward the others may use Blood-Read on the cup and see the funeral. Each person gave only their own years. Together the cup holds more of a life than any one of them meant to take.
+- [ ] On [[The Pourers]], write the rare full giving. Once in a long while a Long-Lived gives up every memory they have. They then die the way the [[Long-Lived]] card already says they die when memory runs out: the memories are gone, and the person dies. The minutes call this finished. Sometimes the person asked, after burying too many people they loved. Sometimes the circle says the person already asked, during a year the person can no longer remember. This is rare. The ordinary shelves are still books. One cabinet is locked.
+- [ ] On [[The Unspent]], say what it is. It is a small household presence that stores the memories it is given. It lets the circle describe it however they like, and it does not correct their minutes. It cannot Give a Condition or Strike someone into one. It does not make plans, and it does not feed on people. The circle may keep older pages that say something was already listening. The commentary they give students says the circle created their god. What a player can read is that claim. The truth, that this presence is older than the name, stays in GM Notes.
+- [ ] Set the tone on both notes. About five percent frightening. The practice looks sad and a little vain, and the harm is that the offer is hard to refuse. The three groups stay separate. Giving years of memory is separate from the Walled Book's ranking, and separate from the Protectors catching Phoenix fire.
+- [ ] Point [[Long-Lived]] and [[Movements]] at the new practice in one sentence each. Leave [[Reimaethe]] as a person who wants to stop. Do not update the world book.
 
-### Story H.2 — A gift is not a seat
+### Story H.2 — How the Kept houses treat a Condition
 
-The Closed Heirs look down because they believe the hug is the smaller, finer portion. They are wrong about the count, and sure about the manners. Skills: `moral-parallax`, `belief-systems`. Home: [[The Walled Book]].
+The Closed Heirs look down on people who received a Condition. They teach that a hug, with no colour, is rarer, and therefore better. The count on [[The Premise]] says a hug is common. They keep the manners anyway. Skills: `moral-parallax`, `belief-systems`. Home: [[The Walled Book]]. Speech: [[Conventions#Plain prose]].
 
-- [ ] On [[The Walled Book]], write the courtesy as scenes. Where a Given person sits. Who is believed when two mouths disagree. Who may hold a key. How a school teaches the miscount. A Conditioned person works, owns a stall, and can leave the walls. Nobody is chained.
-- [ ] Write the sermon against the count. The Close says the hug is the rare gift. The figures stay on [[The Premise]]: about two children in five are hugged at the ceremony, and about a quarter of people stay Kept for life. What is actually small is a house that has stayed unmarked on purpose, generation after generation, and calls that a pedigree. Do not invent a second census.
-- [ ] Keep the labour-line a duty of residence, the way a town keeps a watch. A person may leave. The book does not assign a body the way a master assigns one.
-- [ ] Let the courtesy travel, in a section on [[The Walled Book]], to three answers that already have homes. Orenbren outside the wall. One power that refuses the ranking in public. One town that copies the seating without copying the book. Use seats and powers already written. Do not add a city. Do not answer for all fifteen.
-- [ ] Mouths stay Delamem, Talnin of the Inner Close, and [[Hithaen]]. A school may have one tutor if the courtesy needs a voice in the room. Name that tutor with `14 - Assets/Names/generate_names.py`, and record the seed and the position. Do not plot [[Hithaen]].
-- [ ] Add one sentence to [[The Closing]]: the manners walked out with the book. Do not redate the war. Do not make [[Hildal]] a villain-king. Do not move [[Rothallo]]. Do not add a sixteenth flag. Do not update the world book.
+- [ ] On [[The Walled Book]], write the manners as things a visitor can see. Where a person who received a Condition is asked to sit. Whose word is taken when two people disagree. Who may hold a key. What a school tells children about how rare a hug is. A person with a Condition works, can own a stall, and can leave the city. They are not slaves.
+- [ ] Write the lesson next to the real count. The Close says a hug is rare. The figures stay on [[The Premise]]: about two children in five are hugged at the ceremony, and about a quarter of people stay Kept for life. The thing that is actually small is a family that has stayed without a Condition on purpose, generation after generation, and treats that record as a birthright. Do not invent a second set of population numbers.
+- [ ] Keep the labour list as a duty of living inside the walls, the way a town expects people to take a turn on the watch. A person may leave. The book does not hand a person over the way an owner hands over a worker.
+- [ ] Show this attitude in three places that already exist, in a section on [[The Walled Book]]. Orenbren outside the wall. One power that says in public that it rejects the ranking. One town that copies who sits where, without keeping a copy of the book. Use seats and powers already written. Do not add a city. Do not write an answer for all fifteen powers.
+- [ ] The people already named stay Delamem, Talnin of the Inner Close, and [[Hithaen]]. A school may have one teacher if the lesson needs someone to say it aloud. Name that teacher with `14 - Assets/Names/generate_names.py`, and record the seed and the position. Do not turn [[Hithaen]] into a plotted story.
+- [ ] Add one sentence to [[The Closing]]: after the retreat, the same manners continued wherever the book went. Do not change the dates of the war. Do not make [[Hildal]] a villain-king. Do not move [[Rothallo]]. Do not add a sixteenth power. Do not update the world book.
 
-### Story H.3 — The reading history
+### Story H.3 — A history in ordinary sentences
 
-One note, after H.1 and H.2, so it describes the cup and the courtesy that were just written. Skill: `prose-style` for the voice, `systemic-worldbuilding` for the knock-ons already in the spine. The narrator explains. The narrator is not a person in a century.
+One note, written after H.1 and H.2, so it can describe the memory circle and the Kept houses as they were just written. The narrator explains the world to a person who will play here. The narrator is not a character from a past century. Speech: [[Conventions#Plain prose]]. The baseline is the Turning Tree chapter.
 
-- [ ] Create `02 - History/A History of the Turning.md`. Type `reference`. `visibility: player`. `note_status: draft`. Plain sentences. A fact can be repeated without translating the sentence. Production marks and the open GM truths go under `## GM Notes`.
-- [ ] Write the undated preface and the Walking Years thick enough to remember. One Tree. The road. The graves. The gate that decided who might stand under it. No start year. C.Y. 0 is the first graft that took.
-- [ ] Write the First Cut, the generation of argument, the Closing, the Retreat, and the courtesy after it, through C.Y. 387. Rothallo stays inside Orenbren. The idea outlives the sitting.
-- [ ] Write the graft wave in the locked bands. Maiethorn first. Strandoren by sea. Heskoren still arriving. Kumbaan never.
-- [ ] Write the Other Count in the same voice: the Two Papers, the Grey Summer, the Thaw-Break, the Hinge Hush, and the three leftovers as places a person can still walk into. They stay weather beside the clocks. They do not become another age.
-- [ ] Write the cup as a late practice in the deathless houses. Old enough to have commentaries. Young enough that a Long-Lived who walked to the Tree can say it was not done in their youth. Player paragraphs stay at the claim and the room. The completed shelf, and the age of the cupboard, stay under `## GM Notes`.
-- [ ] Leave these open, in ordinary sentences: who made the First Cut, how old the Tree is, what the Mother's limit is. Do not add a creation of the world, a Kind-war, a Phoenix fuel, a new power, or a universal year-zero.
+- [ ] Create `02 - History/A History of the Turning.md`. Type `reference`. `visibility: player`. `note_status: draft`. Ordinary sentences, per [[Conventions#Plain prose]]. A reader can say the fact back without translating the sentence. Production marks and GM-only truths go under `## GM Notes`.
+- [ ] Write the age before anyone counted years, and the years when children walked to the one Tree, with enough detail to remember. There was one Tree. People died on the road. A gate at the grove decided who was allowed to stand under it. Do not give that age a start year. Cut-year 0 is the first graft that took.
+- [ ] Write the First Cut, the years people argued about it, the Closing, the retreat, and the manners that continued afterward, through Cut-year 387. Rothallo stays inside Orenbren. The attitude lasts longer than the old gate.
+- [ ] Write how the grafts spread, in the bands already locked. Maiethorn first. Strandoren by sea. Heskoren is still receiving them. Kumbaan never took one.
+- [ ] Write the other dated events in the same ordinary sentences: the Two Papers, the Grey Summer, the Thaw-Break, the Hinge Hush, and the three old sites as places a person can still walk into. They sit beside the history of the Trees. They are not another age of the world.
+- [ ] Write the memory cup as a late practice among the Long-Lived. Old enough that people have written commentaries on it. Recent enough that a Long-Lived who walked to the Tree as a child can say people did not do this when they were young. Paragraphs a player can read describe the claim and the pressure around the offer. A person giving up every memory, and the age of [[The Unspent]], stay under `## GM Notes`.
+- [ ] Leave these unanswered, in ordinary sentences: who made the First Cut, how old the Tree is, and what limit the Leaf-Mother has. Do not add a creation of the world, a war between ancestries, a machine that burns Phoenix fire, a new power, or one starting year for everybody.
 - [ ] Link the note from [[02 - History]] and from [[The Ages of the Turning]]. Do not replace those notes. Do not update the world book.
 
-### Story H.4 — The mark
+### Story H.4 — Wait for a reading
 
-- [ ] Stop. This box is the user's. Leave it open until they have read [[A History of the Turning]] and said which facts are wrong and which sentences still do not sound right. Do not check it on their behalf. Do not start H.5 in the same pass as H.3. Do not fold the history into the world book.
+- [ ] Stop. This box is the user's. Leave it open until they have read [[A History of the Turning]] and said which facts are wrong and which sentences still do not sound like ordinary speech. Do not check it for them. Do not start H.5 in the same pass as H.3. Do not put the history into the world book.
 
 ### Story H.5 — Pages a party can find
 
-After H.4 only. Skills: `oblique-worldbuilding` for the pages, `paradox-fables` if a page is a story that will not resolve. Each page is a handout, a page or two, willing to be wrong. Longer excerpts are a later epic, after one of these has been read at the table.
+Start this only after H.4. Skills: `oblique-worldbuilding` for the pages, `paradox-fables` if a page is a story that will not settle on one moral. Each page is a handout of a page or two, and the page is allowed to be wrong about the world. The note that introduces it still explains, in ordinary sentences, what the page is. Longer excerpts wait for a later epic, after someone has used one of these at the table.
 
-The files live in `14 - Assets/Documents/Library/`. They do not go in `14 - Assets/Handouts/`; that folder is the atlas. Front-matter uses `type: handout` and `visibility: player`. A page that would confirm the cupboard, the keystone, or the caught fire does not. The truth sits on the index, under `## GM Notes`.
+The files live in `14 - Assets/Documents/Library/`. They do not go in `14 - Assets/Handouts/`. That folder is the atlas. Front-matter uses `type: handout` and `visibility: player`. A page does not reveal that [[The Unspent]] is older than the circle, that the Leaf-Mother is real, or how the Protectors catch Phoenix fire. Those truths stay on the index, under `## GM Notes`.
 
-- [ ] Write `02 - History/The Library Pages.md`. For each page: which shelf already in the notes holds it, who staffs that shelf, and the sentence the keeper says if asked. Use a long-house, Rothallo, or a seat that already keeps paper. Do not build a new library, a new city, or a university.
-- [ ] A Rothallo school primer that teaches the miscount. The hug is the rare gift. The page believes itself.
-- [ ] A chronicle page of the Closing that flatters the walls. It does not name the cutter. It does not date the Tree.
-- [ ] A copied minute from a long-house shelf. A funeral winter poured, or a completed shelf, in the circle's own words. The page does not confirm that the cupboard is older than the cup.
-- [ ] A scene from a play: a hugged child and a coloured sibling, and a seat only one of them may take.
-- [ ] A poem. A Long-Lived who is asked will not say it is about the cup.
-- [ ] A road song that counts the Kept the way the Close prefers. A warden who can count can hear the error.
+- [ ] Write `02 - History/The Library Pages.md`. For each page, say which shelf already in the notes holds it, who works there, and the sentence that person says if a visitor asks. Use a long-house, Rothallo, or a seat that already keeps paper. Do not build a new library, a new city, or a university.
+- [ ] A school primer from Rothallo. It teaches children that a hug is rare. The primer means what it says.
+- [ ] A page from a history of the Closing that speaks well of the Closed Seat. It does not name who cut the first graft. It does not date the Tree.
+- [ ] A copy of minutes from a long-house. They record either the years after a funeral going into the cup, or a person giving up every memory. The words are the circle's own. The page does not say that [[The Unspent]] is older than the cup.
+- [ ] A scene from a play. One child was hugged. One child received a colour. Only one of them is allowed to keep the heir's seat.
+- [ ] A poem. If someone asks a Long-Lived whether the poem is about the cup, that person will not say so.
+- [ ] A road song that counts the Kept the way the Close teaches children to count them. A warden who knows the real numbers can hear that the song is wrong.
 - [ ] Point the index from [[02 - History]]. Do not update the world book. Do not paste the pages into the setting book.
 
 ## Progress
@@ -1362,4 +1362,4 @@ The files live in `14 - Assets/Documents/Library/`. They do not go in `14 - Asse
 - [[Revelation Architecture]] · [[Reveal Index]] · [[The Uncoloured Intake]] · [[The Closed Lamp]] — Story 9.1
 - Epic B — the book, in a reader's voice. **B.1 done 2026-10-05.** The setting book was read one chapter at a time and rebuilt. The vault was not rewritten.
 - Epic C — how the book speaks. **C.1 done 2026-10-05.** `prose-style` audit, then the sentence pass. The book was rebuilt. The vault was not rewritten.
-- Epic H — a past you can hold. Opened 2026-10-14. Next story is H.1. The cup, then the Kept courtesy, then [[A History of the Turning]], then the user's mark, then the library pages. World book untouched.
+- Epic H — a past you can hold. Opened 2026-10-14. Speech corrected 2026-10-15, [[Conventions#Plain prose]]. Next story is H.1. The Long-Lived memory circle, then the Kept houses, then [[A History of the Turning]], then the user's reading, then the library pages. World book untouched.

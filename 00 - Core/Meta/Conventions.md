@@ -6,7 +6,7 @@ note_status: draft
 tags: [meta, conventions, schema]
 aliases: [Schema, Front-matter Reference]
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Vault Conventions
@@ -148,7 +148,18 @@ It does not rewrite voice. It does not remove `🔒` / `🟡` from the Roadmap. 
 
 ## Plain prose
 
-Setting notes use ordinary sentences. A reader should be able to repeat the fact without translating the sentence.
+Setting notes, roadmap tasks, and explanations of this world use ordinary sentences. A reader should be able to say the fact back without translating the sentence. Write the way the Turning Tree chapter explains a town: who does what, in words a person would use out loud.
+
+A picture, a nickname, or a metaphor may not stand in for the fact. If the sentence only makes sense after you already know the hidden meaning, rewrite it.
+
+Say the thing:
+
+- A Long-Lived gives five years of memory into a cup. Later the others can read those memories from it.
+- "The circle drinks that winter back" hides that fact. Do not write it.
+- The Unspent is a small household presence that stores the memories it is given. It lets the circle describe it however they like. It does not make plans.
+- "The Unspent stays a cupboard" and "it wears the face they draw" hide that fact. Do not write them as the explanation.
+- "The body goes still" is the Long-Lived death, when the memories are gone and the person dies. Say that.
+- "The room," "a winter" used for a year of memory, "clean hands," "the courtesy travels," and "the manners walked out with the book" are the same habit. Name the people, the offer, the death, the chair, and the years after the war.
 
 People in the world may refuse to explain a habit. Write what they do, then say they will not say why. "On one night, Ndenjoo eats the heel of the loaf first. They will not say why."
 
@@ -156,7 +167,11 @@ Do not label a fact "Inscrutable," "leave it," or "20%." Do not hide a simple fa
 
 A later note must not invent an explanation for a habit left unexplained, and must not turn that habit into a new power, relic, or rite. Put that instruction in ordinary words under `## GM Notes`.
 
-Story P2.2 (2026-10-02). The world book keeps its old wording until someone asks for a rebuild.
+This rule covers an answer to a question about the world, not only a new note. Epic B and Epic C rewrote the setting book into this speech. New writing does not put the old voice back. The baseline is the opening of the Turning Tree chapter in the setting book, and [[How a Place Speaks]].
+
+A poem, a play, a minute-book, or another page written as someone inside the world may use that speaker's words. The note around the page still says what the page is and what a reader is meant to understand. `oblique-worldbuilding` is for those pages. It is not the voice of a reference note, a roadmap task, or an explanation.
+
+Story P2.2 (2026-10-02). Sharpened 2026-10-15 after Epic H came back in the old voice. The world book keeps its old wording until someone asks for a rebuild.
 
 ## Linking & naming
 
