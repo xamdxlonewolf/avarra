@@ -12,7 +12,7 @@ seat: none — a shelf in a long-house; the best-known circle sits a deathless l
 public_face: Long-Lived who keep a cup and say they poured a god into it so the rest of a deathless life can still be walked
 reveals: [the-unspent]
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # The Pourers
@@ -40,6 +40,18 @@ A [[Long-Lived]] with a clean sleeve and a small ordinary cup. They look five ye
 **Molevad** *(mo-LEV-ad)* keeps the minutes of the best-known circle, on a long-house shelf in [[Polity Archetypes|Lestrand]] library country. Worn mouth on an eroded quay. Oldest pourer in the room. They are a hobbyist with a key, not a Hand.
 
 A quieter circle sits in [[Orenbren]] lodging-country, in an upper room that used to sleep the extra mile. Same cup-logic. They do not write to each other for leave.
+
+## The ask
+
+Every [[Long-Lived]] person is asked once to join the Pourers. A member asks them in person. At the long-house shelf in [[Polity Archetypes|Lestrand]], a member of Molevad's circle asks. In the upper room in [[Orenbren]], a member of that circle asks. A Long-Lived person who lives in another town is still asked once, by a member who can reach them. A person who has already been asked says so, and that answer stands.
+
+The invitation is real. The member asks because the circle will accept the person who says yes. A yes makes them a member.
+
+A refusal is not punished. The person keeps their standing. People still consult them, and the work a court, a guild, or an archive already gave them stays theirs. A long-house still seats a person who refused the invitation. Most Long-Lived people are not members. Every Long-Lived person knows the circle exists.
+
+Members keep the library on the long-house shelf in Lestrand. That shelf is the deathless library on the Ledger Coast. They copy [[The Old Tongue]], and they copy the common speech people already use. The copies stay on the shelf. Molevad keeps the minute-book on the same shelf. The circle in the upper room in Orenbren keeps the records of its own meetings. People use the books and the copies. The work is real.
+
+They do not take over medicine. That work stays with [[The Stilled]]. One of the Stilled stops a bleeding wound, holds a patient still through the surgery, and can stop a fight before someone is killed. Towns already call on the Stilled as surgeons, menders, and peacekeepers. [[The Stillers]] licence that work and keep the infirmary.
 
 ## What they actually do
 
@@ -98,12 +110,14 @@ On its face: a memorial committee. Underneath: "we made the listener" is the mas
 - **The presence is already written.** [[The Unspent]]: outside the Five Hands; cannot Give or Strike; accepts the invented mask; a copy remains on withdrawal. Do not rewrite the cupboard. The sect wears the mask.
 - **Belief texture.** Experiential (funerals, fade). Orthopraxic (the pour, not a creed). Congregational circles, no pope. World-affirming: they pour so they can *keep walking*. The schism inside the house is stop / don't-stop, not doctrine.
 - **Tone.** ~5%. Sad and a little vain. The edge is a circle that will not let someone stop — opt-in, later. Do not play a blood cult. Do not play a trapped egregore. Do not play a vampire progenitor.
+- **The ask.** The library is the shelf already in the long-house in Lestrand. The other circle is the upper room in Orenbren. Do not add a library, a city, or a medical house. Medicine stays with the Stilled. The line that a pour is volunteered, and that the circle will not seize a will, stays until the later task that names that line.
 - **Names.** Molevad — seed `20260832`, worn list, mid-bottom. Circle is unnamed on purpose; the long-house is the place.
 - **R.8 seed, do not plot:** [[Reimaethe]] wants out before the fifth year. The thinner return, the unseating, the circle in the door. Not a full arc here.
 - **Hooks.** The five-year mark; the second cup; a mixed Blood-Read; a long-house that will not seat a withdrawer; Threnmaieth asking for the minutes.
 
 ## Links
 - [[The Unspent]] — the presence they wear · [[Long-Lived]] · [[Reimaethe]] — the mouth that wants out
+- [[The Stilled]] · [[The Stillers]] — surgeons, menders, and the infirmary · [[The Old Tongue]] — one language the shelf keeps
 - [[Faiths of the Turning]] — fringe, not a sixth
 - [[The Other Hands]] — not a sixth door (GM)
 - [[The Walled Book]] · [[The Protectors]] — other engines, keep distinct
