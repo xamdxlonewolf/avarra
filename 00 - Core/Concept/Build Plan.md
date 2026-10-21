@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Build Plan
@@ -18,7 +18,7 @@ updated: 2026-10-15
 
 ## Active next
 
-**Epic H — A past you can hold (2026-10-15).** Next work. [[Roadmap#Epic H — A past you can hold]]. H.1 first: [[The Pourers]] ask every Long-Lived, a refusal of membership is real, and an inner circle takes the memories and hard-won understanding that define a life, for a founder who believes it will make them a god. The person can still recognize the loss. The notes do not confirm that crossing, and player-facing text does not call the founder a god. It does not join [[Harrow's Green]]. Then how the Kept houses treat a person who received a Condition, on [[The Walled Book]]. Then one history in ordinary sentences. Short library pages wait until that history has been read and marked. Write it in the speech in [[Conventions#Plain prose]]. The world book stays untouched. The three groups stay three. No new power.
+**Epic H — A past you can hold (2026-10-15).** Next work. [[Roadmap#Epic H — A past you can hold]]. H.1 first: [[The Pourers]] ask every Long-Lived, a refusal of membership is real, and an inner circle takes the memories and hard-won understanding that define a life, for a founder who believes it will make them a god. The person can still recognize the loss. The notes do not confirm that crossing, and player-facing text does not call the founder a god. It does not join [[Harrow's Green]]. H.1 is 2 of 6. **H.2 is done (2026-10-21).** [[The Walled Book]] now says what a visitor sees in Rothallo: the Kept sit nearest the host, a Kept person's account is written as what happened, only the Kept hold the gate keys, and the school teaches that a hug is rare. The count stays on [[The Premise]]: about two children in five are hugged, and about a quarter of people stay Kept for life. What is rare is a Closed house that has struck every Given heir for generations. People with a Condition work for wages, can own a stall, and can leave. The labour list is turns of work owed by people living inside the walls. Outside the walls: inns near the gate, Vaethorn's gift-hall at Eolvaeth rejecting the ranking in public, and Brenthael's supper benches. The teacher is Volnai. [[The Closing]] has one sentence on the manners after the Retreat. Then one history in ordinary sentences, which waits on H.1 and H.2. Short library pages wait until that history has been read and marked. Write it in the speech in [[Conventions#Plain prose]]. The world book stays untouched. The three groups stay three. No new power.
 
 **The Warden's Ear (2026-10-11).** A spoken study for pitching the setting without rereading the book. [[The Wardens Ear]]. The page is `14 - Assets/Documents/The Wardens Ear/index.html`. No new epic. The dated shelf, street-level city memory, and the campaign's close stay where they were.
 
