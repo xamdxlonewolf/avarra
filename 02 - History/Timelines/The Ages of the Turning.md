@@ -9,12 +9,12 @@ aliases: [The Ages, How History Is Counted, The Era Spine, Cut-Years, The Grafti
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-01
+updated: 2026-10-21
 ---
 
 # The Ages of the Turning
 
-> **What this is.** How **The Turning** divides the past — the setting’s era spine. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]]. The hinge event and the spread → [[The First Cut]]. The present as leftover → [[The Years of Hands]] · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]].
+> **What this is.** How **The Turning** divides the past — the setting’s era spine. This is not a chronicle of kings and not a four-age cosmology dump. The load-bearing fact was already banked: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and her reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Lived texture of the road → [[The Walking Years]]. The hinge event and the spread → [[The First Cut]]. The present as leftover → [[The Years of Hands]] · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]]. The whole history told in order, in one page → [[A History of the Turning]].
 
 
 ## The organizing idea: two clocks, not four stacked ages
@@ -120,6 +120,7 @@ The clerk cannot afford to see that the three numbers are three theologies. The 
 - **A creation myth, a first king, a war of the ages.** The Closed Seat was a gate that grew a country, not a first king ([[The Closing]]). Dated non-Tree weather lives in [[The Other Count]] — a war, a split of paper, a fever, a flood, a hush — and does not become a fourth age. The spine is still two clocks.
 
 ## Links
+- [[A History of the Turning]] — the whole history in order, in one page
 - **Eras & the hinge:** [[Before the Walk]] · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
 - [[The Houses and the Years]] — religious-history door. The spine stays here.
 - **The Other Count:** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · leftovers [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
