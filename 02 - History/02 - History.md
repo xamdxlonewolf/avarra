@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc, history, epic-6]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-03
+updated: 2026-10-21
 ---
 
 # 02 - History
@@ -14,6 +14,9 @@ updated: 2026-10-03
 The past as believed and as recorded — eras, events, timelines, and historical figures. The argued stones live on the site notes. One summer's dig is on [[The Low Wall]]. That dig did not found a discipline.
 
 ## Contents
+
+### Start here
+- [[A History of the Turning]] — the whole history in order, from before anyone counted years to Cut-year 387
 
 ### The spine, the lived road, the hinge, and the residues
 - [[The Ages of the Turning]] — two clocks, not four stacked ages; Cut-years; the Grafting as a still-moving wave
