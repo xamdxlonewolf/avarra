@@ -14,7 +14,7 @@ path: Given only
 population: ~2.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-21
 ---
 
 # Long-Lived
@@ -32,7 +32,7 @@ Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a w
 **Colour.** Deep red / wine — folk-known; a neighbour can already read it. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
 **Path.** Given only. No later door. The engine lives on [[The Premise]].
 **How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a chosen keeper: memory fitted to a town that needs a record. [[The Watching]] says the Tree *saw* a mind that would not fade — a witness, not a mother's pick. The square does not get to close the argument.
-**Where next.** Courts, guilds, and archives. Some later pour years into [[The Unspent]]; the circle that wears that cup is [[The Pourers]].
+**Where next.** Courts, guilds, and archives. Every Long-Lived is asked once to join [[The Pourers]], who give five years of memory into a cup they say holds a god they made ([[The Unspent]]); most say no, and a person who says no is received everywhere as before.
 
 ## Daggerheart — Transformation card
 
@@ -65,5 +65,5 @@ Tracker: [[Build Plan]].
 - [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
 - Contrast: [[Two-Bodied]] (the other Given-only core Condition)
 - [[The Walking Years]] — Long-Lived who still say *I walked* (perfect memory; disagreed meaning)
-- [[The Unspent]] — the cupboard some of them pour years into · [[The Pourers]] — the circle that wears it
+- [[The Unspent]] — the presence in the cup some of them give years to · [[The Pourers]] — the group that keeps the cup
 - [[The Watching]] — witness, not Mother

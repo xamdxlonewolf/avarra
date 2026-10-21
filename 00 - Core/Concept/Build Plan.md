@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-10-15
+updated: 2026-10-21
 ---
 
 # Build Plan
@@ -18,7 +18,7 @@ updated: 2026-10-15
 
 ## Active next
 
-**Epic H — A past you can hold (2026-10-15).** Next work. [[Roadmap#Epic H — A past you can hold]]. H.1 first: [[The Pourers]] ask every Long-Lived, a refusal of membership is real, and an inner circle takes the memories and hard-won understanding that define a life, for a founder who believes it will make them a god. The person can still recognize the loss. The notes do not confirm that crossing, and player-facing text does not call the founder a god. It does not join [[Harrow's Green]]. Then how the Kept houses treat a person who received a Condition, on [[The Walled Book]]. Then one history in ordinary sentences. Short library pages wait until that history has been read and marked. Write it in the speech in [[Conventions#Plain prose]]. The world book stays untouched. The three groups stay three. No new power.
+**Epic H — A past you can hold (2026-10-15).** Next work. [[Roadmap#Epic H — A past you can hold]]. H.1 is done (2026-10-21). [[The Pourers]] ask every Long-Lived once, and a refusal is real. Under GM Notes, an inner circle holds or deceives a chosen Long-Lived until they give the memories and understanding that define their life into a second cup. The founder, a Long-Lived person who started the Pourers, reads that cup and believes it will make them a god. The notes record only the belief. The person keeps speech and skills and knows what is gone. It does not join [[Harrow's Green]]. Next is H.2: how the Kept houses treat a person who received a Condition, on [[The Walled Book]]. Then one history in ordinary sentences. Short library pages wait until that history has been read and marked. Write it in the speech in [[Conventions#Plain prose]]. The world book stays untouched. The three groups stay three. No new power.
 
 **The Warden's Ear (2026-10-11).** A spoken study for pitching the setting without rereading the book. [[The Wardens Ear]]. The page is `14 - Assets/Documents/The Wardens Ear/index.html`. No new epic. The dated shelf, street-level city memory, and the campaign's close stay where they were.
 
