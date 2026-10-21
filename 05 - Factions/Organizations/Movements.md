@@ -12,7 +12,7 @@ seat: none — an orchard memory, a passage, a meal in someone else's town
 public_face: three arguments that already existed, each with people who acted on it, two of them still
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-21
 ---
 
 # Movements
@@ -31,7 +31,7 @@ The question they still will not close, what was spent when the Giving came, sta
 
 [[The Pourers]] already argue about stopping. Some will take the next pour. Some have asked to stop. The withdrawers are the people who asked.
 
-They are [[Long-Lived]]. They have already given years into a cup the circle keeps. They want the pour to end, or they want a thinner return, and the circle has told them the cup would thin if they did. A long-house that keeps the circle will not seat them afterward. They are not a second circle. They do not pour anyone else's years. They do not stand the cup in a square. They do not say Mother over it.
+They are [[Long-Lived]]. They have already given years into a cup the circle keeps. They are not people who turned down the invitation; a Long-Lived who never joined is still received everywhere, and they do not all want to stop for the same reason. They want the giving to end, or they want a thinner copy of their years back, and the circle has told them the god would weaken if they took it. A long-house that keeps the circle will not seat them afterward. They are not a second circle. They do not pour anyone else's years. They do not stand the cup in a square. They do not say Mother over it.
 
 [[Reimaethe]] is one of them, in a rise-loft in [[Orentel]], four years already poured, wanting out before the fifth. The fifth year is still ahead of them. Neighbours still call the loft a hobby. The long-house calls it a person they will not seat.
 
@@ -59,5 +59,7 @@ When two of them meet, they do not trade the old house-name. They will not say w
 ## GM Notes
 
 A later note must not explain the standing in the passage, or the refusal to trade the old house-name. It must not turn either habit into a power, a relic, or a rite.
+
+The withdrawers want to stop for different reasons. Some found out about the inner circle's taking ([[The Pourers#The taking]]). Some helped with a taking without knowing what the inner circle was doing. Some believed in the practice until they saw what it did to someone. Do not give them one shared reason in player text.
 
 The pear-graft stays past. It does not return as an army, a third branch of the Watching, or an answer to what the Giving cost. The withdrawers stay the stop side of a schism the Pourers already have. They do not get a new god, a second cup, or a finished plot for Reimaethe. The disinherited stay people the Book's rule made. They do not become a liberation front, a sixteenth power, or a rewrite of the heir-roll. Hithaen is not Talnin. The cutter stays unpicked. The pear-graft does not need a name for the knife.
