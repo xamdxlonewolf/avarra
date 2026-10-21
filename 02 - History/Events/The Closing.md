@@ -11,7 +11,7 @@ era: "[[The Walking Years]] → [[The Years of Hands]]"
 date_in_world: "C.Y. 19–38 (retreat C.Y. 38); present = C.Y. 387"
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-21
 ---
 
 # The Closing
@@ -107,6 +107,7 @@ Hildal cannot afford to see that "we have always struck heir" is the sitting, co
 - **The First Seat does not capture the grove as a throne.** It captures the copy-right. That was already traced. The Closing is why a college could sit *beside* a sitting that had left.
 - **Maiethorn's later six are successors, not ancient kingdoms.** Gift, reckoning, hinge, thaw, dry sowing, and lodging inherit a wreck. [[The Two Papers]] splits the hymn-country twenty-nine summers later.
 - **The monopoly changed hands.** Spreading Trees relocated who decides the next door.
+- After the Retreat, the Closed Heirs kept the same manners wherever the Book went: a Kept person at the head of the table, a Kept person's word taken first, the keys in Kept hands, and a Given heir struck from the roll.
 
 ## GM Notes (what actually happened)
 
