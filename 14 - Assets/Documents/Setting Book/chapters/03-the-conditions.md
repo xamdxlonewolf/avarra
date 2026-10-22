@@ -19,6 +19,8 @@ A becoming has an upkeep. That is a **Tithe**. Its tokens drain or fill on a **l
 | Bound | — | Broken Terms, and the Whisper while a debt is owed |
 | Phoenix | — | Death, and each Rise From Ash |
 
+The share given for each Condition below is the one in the roster table at the end of Kind and Condition. That table is the one count of how many people carry each Condition.
+
 ---
 
 ## Long-Lived
@@ -28,6 +30,8 @@ A becoming has an upkeep. That is a **Tithe**. Its tokens drain or fill on a **l
 Aging simply stops, and nothing witnessed is ever forgotten. They live on what they learn. When they are starved they fade, forget, and finally empty out. What remains of the old blood-hunger is this: a Long-Lived can read a memory in a single drop of blood. By ancient courtesy they will not cross a threshold uninvited.
 
 They keep the archives, judge disputes, and witness records as notaries, and people consult them because they remember what they have witnessed. Courts, guilds, and archives are built around them. Too many deathless people would lock institutions into the shape they already have, so their scarcity is part of the world's shape. People consult them and hold them a little apart from ordinary company.
+
+Every Long-Lived is asked once to join the Pourers, a circle whose members give memory into a cup one year at a time, each year on its own night, and may stop before the next; most Long-Lived say no, and a person who says no is received everywhere as before. The Pourers are described with the other houses in Orders and Houses.
 
 **The old courtesy.** A Long-Lived waits to be asked in, always. It is held as the deepest good manners, a mark of trustworthiness, and no one quite remembers it as anything else. A keeper of records does not intrude. It is old, and it is universal among them. A Long-Lived who is refused the door feels the refusal more than they will say. It is simply how the Long-Lived have always been.
 
@@ -87,7 +91,7 @@ Someone dies with a thing left undone strong enough to hold them, and they get b
 
 The Tithe is a feeling as much as an upkeep. A Returned is only steady while they have a reason. Neglect it and they cool, literally and socially. The living can tell a settling Returned at a touch. The Returned build their lives around their purpose with almost religious care. Their returns are counted: each Refuse to Fall crosses out a Hope slot, so a long-walking Returned is a person whose remaining Hope slots you can count. After a life of refusing rest, they can go out spectacularly on their own terms, including when the last scar would otherwise end them. That death is **Blaze of Glory**.
 
-When the unfinished thing is finally done, the choice is theirs. They may lie down and take the rest they skipped, at last, or lay the Condition aside and live out the rest of their days as a mortal again. Lying down is **Settle**. Laying the Condition aside, they become one of the Kept. Taking up a new Purpose instead keeps them Returned and walking. That is a major character beat, coordinated with the GM.
+When the unfinished thing is finally done, the choice is theirs. They may lie down and take the rest they skipped, at last, or lay the Condition aside and live out the rest of their days as a mortal again. Lying down is **Settle**. Laying the Condition aside, they live on with no Condition. Taking up a new Purpose instead keeps them Returned and walking. That is a major character beat, coordinated with the GM.
 
 ### Rules
 
@@ -96,17 +100,17 @@ When the unfinished thing is finally done, the choice is theirs. They may lie do
 - **Unfinished Business** *(boon):* You have already died once, and death does not hold you the way it holds other people. When you make a **death move**, your options are **Blaze of Glory**, **Risk It All**, and a fourth option this card gives you: **Refuse to Fall.** Avoid Death is the option where you fall unconscious, may take a scar, and come back when an ally clears a Hit Point or the party finishes a long rest. A Returned has already died once, so that option is closed. **Refuse to Fall:** you go down (taken out of the current scene) and pull yourself back together by the next **long rest** (describe how). Coming back leaves a mark: **cross out a Hope slot as a scar.** **If you would cross out your last Hope slot this way, you cannot Refuse to Fall** — the unfinished thing finally lets go, and that death is true and final. You may still choose **Blaze of Glory**, or gamble on **Risk It All** and die if it fails. Refuse to Fall is the *steady* way back, and it is **finite**, counted in scars. You are also **unshaken by the dead and dying**: automatically pass rolls to resist fear, horror, or despair from corpses, gore, and deathly places.
 - **The Tether** *(Tithe):* Name your **Purpose**, the unfinished thing that holds you here (write it on the card). While you can still act toward it, you are steady. If a **long rest** passes in which you did nothing in service of your Purpose, you begin to **settle**: mark a **Stress** that can't be cleared until you next act toward it, and your **touch runs cold**. Living creatures you touch (or that touch you) feel a bone-deep wrongness and mark a Stress, and you have **disadvantage** on rolls to comfort, persuade, or charm the living until you act toward your Purpose again.
 
-**When the Purpose is fulfilled.** Settle, become Kept, or name a new Purpose and keep walking.
+**When the Purpose is fulfilled.** Settle, live on with no Condition, or name a new Purpose and keep walking.
 
 ---
 
 ## Bound
 
-**Folk recognition.** The old tales called them demons. In this world the demon is a contract. **Path.** Struck only. A child cannot consent to a contract. **Share.** About 5 percent. **Standing.** Feared.
+**Folk recognition.** The old tales called them demons. In this world the demon is a contract. **Path.** Struck only. The Tree does not Give a contract. **Share.** About 5 percent, counting the Unbound (about 3.5 percent currently Bound, 1.5 percent Unbound). **Standing.** Feared.
 
 The Bound are the only people with a Condition who chose it. In some extremity they swore a contract with something on the other side, and got power in exchange for the standing obligations written into the contract. Those are the Terms. The horror is the contract: a debt, and the other party, who always watches the ledger. That party is the counterparty. You can be born to Daggerheart's demon-blooded ancestry. That Kind is called Infernis. You swear, and the Condition you acquire is Bound.
 
-Society fears them. The power is real, the terms are binding, and the contract collects from a Bound who falls behind. Society also needs them. A Bound's sworn word is literally binding, and they know a lie when they hear one, so they enforce agreements, keep oaths, witness them, and settle debts. When a treaty absolutely must hold, a Bound swears to it.
+Society fears them. The power is real, the terms are binding, and the contract collects from a Bound who falls behind. Society also needs them. A Bound's sworn word is literally binding, and many can tell a lie when they hear one, so they enforce agreements, keep oaths, witness them, and settle debts. When a treaty absolutely must hold, a Bound swears to it.
 
 The counterparty may be chosen at creation, or left unknown for the Bound to learn later: a named demon or lesser power that bargains; a cosmic-horror intelligence (vast, indifferent, *wrong*); or unknown even to the Bound, who do not know who holds the contract.
 
@@ -156,11 +160,11 @@ A Far-Voiced's voice carries exactly as far, and exactly as true, as the Far-Voi
 
 A Far-Voiced's voice is never drowned out by distance, storm, battle-noise, or water, and it never says less than it means. That is why the signal network runs on them: relay-singers post along coasts, roads, and border-towns to carry warnings, alarms, and orders faster and farther than any horn or drum. Courts and treaties want them as witnesses, because a Far-Voiced's own voice betrays real feeling the moment they are under pressure, so their sworn word is trusted precisely because they are bad at lying under strain. They fill concert halls because emotion, delivered audibly and exactly, is the whole art form. They are revered. A Far-Voiced who cannot keep that voice in hand is a genuine hazard to everyone in earshot, which is exactly why guild training exists.
 
-The two paths read differently. A **Given** Far-Voiced drew the colour at the Awakening and spent childhood guild-trained (breath control, projection, the discipline of venting on purpose), controlled, professional, poised. A **Struck** Far-Voiced nearly drowned. They came up with the voice raw and untrained, the pull of unvented feeling already on them before anyone taught them to vent it. Same Condition, very different person. Onlookers see no leaf-colour and no ceremony. They call it a miracle, or faintly uncanny. A Struck Far-Voiced usually needs a guild's help fast, before they learn in public what happens at zero tokens.
+The two paths read differently. A **Given** Far-Voiced drew the colour at the Awakening and spent childhood guild-trained (breath control, projection, the discipline of venting on purpose), controlled, professional, poised. A **Struck** Far-Voiced survived a drowning. They came up with the voice raw and untrained, the pull of unvented feeling already on them before anyone taught them to vent it. Same Condition, very different person. Onlookers see no leaf-colour and no ceremony. They call it a miracle, or faintly uncanny. A Struck Far-Voiced usually needs a guild's help fast, before they learn in public what happens at zero tokens.
 
 Meeting the Tithe is why the jobs exist. Deliberate, controlled venting (performance, ritual song, relay-calls) is how a working Far-Voiced keeps that upkeep met, so the careers that need a big voice are also the careers that keep one healthy. The guild drilling (breath work, scheduled performance, the discipline of singing it out before a shift ends) exists because an un-vented Far-Voiced is unpleasant to be near, and an un-vented outburst of feeling in a crowded hall or a command tent is a real, documented hazard. That outburst is a Cry.
 
-A Bound detects others' lies. A Far-Voiced betrays their own feeling.
+Many Bound can tell when someone else lies. A Far-Voiced betrays their own feeling.
 
 ### Rules
 
@@ -178,15 +182,15 @@ The Cry costs listeners Stress and costs the Far-Voiced a Stress. Listeners feel
 
 ## The Stilled
 
-**Folk recognition.** The old tales called them gorgons. **Path.** Both Given and Struck. **Share.** About 7 percent. **Standing.** Feared and guild-regulated.
+**Folk recognition.** The old tales called them gorgons. **Path.** Both Given and Struck. **Share.** About 7 percent (~6% Given, ~1% Struck). **Standing.** Feared and guild-regulated.
 
 One of the Stilled can arrest a wound, freeze a fight before it turns lethal, or hold a struggling patient steady under the knife. The danger is that the stillness has to come from somewhere, and if one of the Stilled doesn't keep moving, it starts settling into them.
 
-Their look can hold a moment still. A bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. That look is the Gaze. Peacekeepers want them on a riot line. A stilled brawl is a brawl that didn't turn into a massacre. Surgeons and medics want them in the theatre: a patient held perfectly still is a patient who survives the knife. They are feared and licensed, because the same Gaze that stops a wound bleeding can, misused or lost to anger, hold a person still forever. Licenses, oversight, and a strict code govern who may still and why.
+Their look can hold a moment still. A bleeding wound stops bleeding, a spreading poison stops spreading, a blade already swinging hangs a beat too long. That look is the Gaze. Peacekeepers want them on a riot line. A stilled brawl is a brawl that didn't turn into a massacre. Surgeons and medics want them in the theatre: a patient held perfectly still is a patient who survives the knife. They are feared and licensed, because the same Gaze that stops a wound bleeding can, misused, leave a person helpless in a fight. Licenses, oversight, and a strict code govern who may still and why.
 
 Their hair stirs faintly when something nearby has gone dangerously still (a held breath, a nocked arrow, a predator about to spring). A tell their trade has learned to read.
 
-The two paths read differently. A **Given** Stilled drew the colour at the Awakening and trained young under guild discipline: knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. A **Struck** Stilled actually survived being turned to stone, held rigid and unbreathing for however long it took someone to reverse it, and came back to flesh with the stillness now living inside them, unpracticed, and the stillness comes on more easily. The stone came from another of the Stilled's Gaze, a trap, a curse, or an accident. Onlookers see no leaf-colour and no ceremony. They call it a miracle, a mercy, or a little unnerving, depending on who did the reversing. A Struck member of the Stilled usually needs a guild's help fast, before unmanaged stillness collects in them, counts toward stone, and shows them in public what a seizing feels like. That stillness is the Grey.
+The two paths read differently. A **Given** Stilled drew the colour at the Awakening and trained young under guild discipline: knows exactly how much stillness they can spend and how to keep moving to shed it, composed and professional. A **Struck** Stilled actually survived being turned to stone, held rigid and unbreathing for however long it took someone to reverse it, and came back to flesh with the stillness now living inside them, unpracticed, and the stillness comes on more easily. The stone came from a trap, a curse, or an accident. Onlookers see no leaf-colour and no ceremony. They call it a miracle, a mercy, or a little unnerving, depending on who did the reversing. A Struck member of the Stilled usually needs a guild's help fast, before unmanaged stillness collects in them and shows them in public what a seizing feels like. That collected stillness is the Grey.
 
 The Stilled drill hard, spar often, and stay physically busy almost as a matter of professional identity. Every use of the Gaze adds a little Grey, so the guilds build constant motion into the job itself (patrols, practice bouts, dance as therapy) to work it back out before it settles. An unlicensed or careless one of the Stilled who lets the Grey fill and seize is a real, documented hazard, first to themselves. A doorknob turned to stone is scenery. Their own hand, locked on a weapon, is the limb the seizing takes. The guild's oversight is strict.
 

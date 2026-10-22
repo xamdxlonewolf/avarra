@@ -7,11 +7,11 @@ The Leaf-Fall is the most-attended day of a community's year: kin, neighbours, t
 
 So citizenship in the Turning is **witnessed, not recorded.** You are of a place because that place remembers you. It watched you become who you are.
 
-There is no register of the people. No town, church, or crown keeps a list of everyone and their gift. A list like that would be a record held on people. Belonging is the memory of the people who stood there. The one kingdom that does keep such a list is a notorious exception: Threnmaieth, the Tallied Crown. People find it unsettling, because no one else does it.
+There is no general register of the people. No town or church keeps a list of everyone and their gift. A list like that would be a record held on people. Belonging is the memory of the people who stood there. The Walled Book keeps its own heir-roll inside its walls, but it lists only its own heirs. Two crowns are exceptions and do keep a roll of persons: Threnmaieth, the Tallied Crown, calls its roll holy, and Trenledd, the Worn Count, does not. The rest of the world finds both unsettling.
 
 This is how belonging works in the **Years of Hands**. That is the present age, and a town Tree is the ordinary place to Turn. In the **Walking Years**, people still had to walk to Thaeloren. That is the Awakening Tree. The crowd that saw you Turn was the crowd under it, or no one, if you never arrived. Someone who saw you there, or a word from that someone, can still carry the witness home.
 
-In a village the witness is the whole settlement. In a city it is a **hearth** — a street, a quay-gang, a courtyard, a guild-stair — not twenty thousand mouths pretending to remember one child. The legal fact does not change.
+In a village the witness is the whole settlement. In a city it is a **hearth** — a street, a quay-gang, a courtyard, a guild-stair — not twenty thousand people pretending to remember one child. The legal fact does not change.
 
 ### Turning in a city: the hearth stood
 
@@ -19,13 +19,13 @@ A village of three hundred can remember every child. A salt-city of tens of thou
 
 The Tree is still at the centre. Turning-Week is still the week the town keeps for the rite. The square is still full. The legal fact is that **your hearth stood**. Naming the city only says where that hearth sits.
 
-A hearth is eighty to two hundred mouths who already know the child. They bring their ten-year-olds in a named slot of the week. The warden speaks the colour, saying aloud the leaf's colour and so the Condition, or names the hug. The city as a crowd saw a crowd. The hearth saw a child.
+A hearth is eighty to two hundred people who already know the child. They bring their ten-year-olds in a named slot of the week. The warden speaks the colour, saying aloud the leaf's colour and so the Condition, or names the hug. The city as a crowd saw a crowd. The hearth saw a child.
 
 One **pillar** of that hearth — a Long-Lived, a Bound, or a Far-Voiced who stood — carries the memory when a far desk asks. Kin and neighbours carry it first; the pillar is how that memory travels. An orphan is still brought by kin, by the household that feeds them, or by the warden-hearth. A child no hearth will bring has missed the Turning, the same as in a village.
 
 To prove you are of a city, you **name a hearth** and produce someone of it, or a pillar who stood. The person says, "I am of the third quay." That sentence is citizenship. "I am of Orentel" names a place on the map.
 
-Threnmaieth writes down who stood. That is still the aberration. Everyone else keeps the week's slate as hours: which hearth stands at which bell. The slate does not record the gift.
+Threnmaieth and Trenledd write down who stood. That is still the aberration. Everyone else keeps the week's slate as hours: which hearth stands at which bell. The slate does not record the gift.
 
 ### How you prove who you are: by *people*, not papers
 
@@ -49,7 +49,7 @@ A watch that stops a stranger asks three things: **name, last hearth, who stands
 
 | Custom | What it is | Where it stops |
 |---|---|---|
-| **Road-word** | A named person at origin or last town. You tell the watch, "Ask Halim of the third quay." A Far-Voiced can call; a Bound can send a word; a letter is a token of a mouth. | The word holds while that person lives and will stand. |
+| **Road-word** | A named person at origin or last town. You tell the watch, "Ask Halim of the third quay." A Far-Voiced can call; a Bound can send a word; a letter is a token of the person who vouched. | The word holds while that person lives and will stand. |
 | **Company-vouch** | A party stands for each other. One locally known or ticketed member covers the rest for passage. | You may sleep. You are not of this town. |
 | **Guild-mark** | A stiller's ticket, a Crae journeyman-mark from the element-guilds, a Voice-ticket. Craft marks travel. The mark says you may Gaze, work an element, or Cry in a hall. | Leave for that use, and nothing further. |
 | **House-note** | A note from a deathless house. The Long-Lived who founded it still runs the bank. Credit that also stands for you, lightly. | Most travelers carry none. |
@@ -60,7 +60,7 @@ A person Struck on the road is vouched anew at the next desk that will take them
 
 People still sell a vouch under no name. That sale sits outside the customs in the table. If the bought speaker will not answer when a Far-Voiced calls, the sale fails where everyone can hear it.
 
-Kumbaan, the Sundering Isle, keeps no mainland road-word. You arrive unknown. A road-word, a company's vouch, or a guild-mark still helps you leave a quay on Strandoren. That is the continent across the water. None of those make you known on the hill. On the isle, the right to be a guest is a seat at the table. A second sitting makes you kin of that table. A mainland watch will not take that table as the last hearth you name when they ask where you slept.
+Kumbaan, the Sundering Isle, keeps no mainland road-word. You arrive unknown. A road-word, a company's vouch, or a guild-mark still helps you leave a quay on Strandoren. That is the continent across the water. None of those make you known on the hill. On the isle, the right to be a guest is a seat at the table. Eating at the table a second time makes you kin of that table. A mainland watch will not take that table as the last hearth you name when they ask where you slept.
 
 ### The Struck: those who changed *unwitnessed*
 
@@ -75,11 +75,13 @@ Two facts make that gap harder to close:
 
 Vaethorn's second word for the Struck is *the late-come*: met at a later door. Lestrand's is *the turned*: a fact, said plainly. Threnmaieth's is *the unwitnessed*: suspect until named.
 
+### The hour someone is Struck
+
 The first hour is care. The person has changed, and nobody has a leaf-colour for them yet. The formal words can wait.
 
 On a quay, the crew hauls the person up, counts the breaths, and does not walk them to the Tree that night. If a clerk opens a book over someone who cannot yet refuse a line, whoever is holding the person's head shuts the book. In a devout house, the family takes the person inside and does not take them to the Tree's roots tonight. A sibling who needs to may say "Maieth" over the blanket. Maieth is the short name devout people use for the Leaf-Mother. The person under the blanket is not required to say it. In a waiting town, they get the person dry and, if the person can sit, to the common pot. Nobody names a leaf-colour over the steam. The wet leaf on the town spring is not a sign for this hour. On the Sundering Isle, which is rare, Njunda feeds them. Nobody gives them a test, and nobody tells them the mainland story about the Mother.
 
-If the change came by an oath, take the pen out of the hand until the person can hear the clause they are still agreeing to. If the change came by a death that did not finish, keep them warm, and do not assign the unfinished work that night. Being acknowledged at a Tree, settling their civic standing, or walking them back to an Old Ways door are later days. That door is the older faith's own household rite. If they are still inside their tenth year and Turning-Week is still open, bring them to be welcomed. Do not stand them up as if the Tree were giving them a second life.
+If the change came by an oath, the people with them take the pen out of the hand until the person can hear the clause they are still agreeing to. If the change came by a death that did not finish, they keep the person warm and do not name their Purpose that night. Later, a family that knows them can tell by a touch whether the Purpose is being tended, because a Returned who is settling goes cool. Someone who was turned to stone and came back, or who came out of the deep wild changed, is fed, and nobody brings them to a canopy that night. Being acknowledged at a Tree, settling their civic standing, or walking them back to an Old Ways door are later days. That door is the older faith's own household rite. If they are still inside their tenth year and Turning-Week is still open, they are brought to be welcomed. Nobody stands them under the Tree as if it were giving them a second life.
 
 ### The Inviolate Will
 
@@ -92,7 +94,7 @@ Vaethorn keeps the maxim as *the Mother's own line*, and reads it as scripture. 
 A **Tithe** is the upkeep a Condition requires from the person who carries it.
 
 - **The law has no charge for one Condition seizing another's mind,** because a Condition cannot do it. The Conditioned are charged as neighbours on that ground, and everyone knows the limit.
-- **Harm done with a Condition splits in two.** **Negligent Tithe-lapse** (letting your element vent, your Cry break, your green go to seed) is a regulatory or public-nuisance matter. **Willful weaponizing** (deliberately turning a gift on someone) is ordinary violent crime, no gentler for the instrument. In practice only the Stilled's gaze supports a charge the hearing can speak as "you petrified a citizen." Most of what the law deals with here is negligence. Assault is the smaller share.
+- **Harm done with a Condition splits in two.** **Negligent Tithe-lapse** (letting your element vent, your Cry break, your green go to seed) is a regulatory or public-nuisance matter. **Willful weaponizing** (deliberately turning a gift on someone) is ordinary violent crime, no gentler for the instrument. In practice only the Stilled's gaze supports a charge the hearing can speak as "you held a citizen still." Most of what the law deals with here is negligence. Assault is the smaller share.
 - **A Bound can say, truthfully, "my contract cannot make you do anything."** Whether a given polity listens is where they diverge.
 
 ### The safety-licence: how hazard is regulated (and by whom)
@@ -101,19 +103,19 @@ The law attaches to a particular person in one place: public safety. **A ticket 
 
 Everyday speech calls this leave **the ticket**. In Vaethorn a practitioner asks for *the blessing-to-practice*. In Lestrand they show *the guild-ticket*. In Threnmaieth they show *the crown-warrant*.
 
-The three ticket-Conditions are the Stilled, Far-Voiced, and the Answered (~7 / ~12 / ~10). Together that is **~29% of people, ~39% of the Conditioned**. They can be asked for a ticket if they practice the hazardous use. Those shares are people who can be asked. They are not names on a crown list.
+The three ticket-Conditions are the Stilled, Far-Voiced, and the Answered. Together that is **about three people in ten**; the shares are in *The Conditions*. They can be asked for a ticket if they practise the hazardous use. Those shares are people who can be asked. They are not names on a crown list.
 
 **A ticket names a competence** (stiller, hall-voice, Crae-hand), the work you may do. It does not name the Condition as an identity. Three guilds keep no shared roll. The state watches the charter.
 
 | Who | Ticket names | Who is not on it |
 |---|---|---|
 | **the Stilled — personal Gaze-ticket** | Anyone who Gazes in public: surgeons, riot-lines, demolition. Most stillers hold one, because the vocation is the Gaze. | A Stilled who never Gazes (rare). The guild still wants them in the yard. |
-| **Far-Voiced — Voice-ticket / hall-hour** | Those who Cry in a crowd or keep a scheduled hour: criers, performers, sworn witnesses. Hall-keepers stamp that you are competent and sell you the hour at the same door. | A field-voice who lets the Cry out at the hedge. The hall-slate lists hours. A Far-Voiced who never takes an hour is not on it. |
-| **the Answered — Crae-ticket / yard-leave** | Element used in a shop, a yard, a hull. The Crae stamp the craft. Those are the element-guilds. | An Answered who never works the element in public. |
-| **Bound — a table, not a body-ticket** | No licence. The honest table oversees Terms. The Whisper cannot command. | The Bound's share, about 5% of people, sits at that contract table. It is separate from the licence rate. |
-| **No ticket** | — | Two-Bodied, Long-Lived, Returned, the Taken-In, the Unbound, Phoenix, and all the Kept. About two people in three. They are simply neighbours. |
+| **Far-Voiced — Voice-ticket / hall-hour** | Those who Cry in a crowd or keep a scheduled hour: criers, performers, sworn witnesses. Hall-keepers stamp that you are competent and sell you the hour at the same desk. | A field-voice who lets the Cry out at the hedge. The hall-slate lists hours. A Far-Voiced who never takes an hour is not on it. |
+| **the Answered — shop charter / journeyman-mark** | Those who let an element loose in a crowded yard. The Crae, the element-guilds, charter the shop; journeymen work under that charter. | A Tide-Answered on their own boat under a master's eye. They work under the shop's charter and carry no paper of their own. |
+| **Bound — a table, not a body-ticket** | No licence. The honest table oversees Terms. The Whisper cannot command. | A ticket. A Bound is not counted among the licensed. |
+| **No ticket** | — | Two-Bodied, Long-Lived, Returned, the Taken-In, the Unbound, Phoenix, and all the Kept. Most people hold no ticket. They are simply neighbours. |
 
-Active papers in a working city are smaller than that 29% — perhaps half of it, fewer on the frontier, where a feared Condition is as likely to be hanged as to be licensed at the ticket-stool. That guild seat stamps the paper.
+Active papers in a working city are fewer than the people who could be asked for one, and fewer again on the frontier, where a feared Condition is as likely to be hanged as to be licensed at the ticket-stool, the guild seat that stamps the paper. The share is who might be asked. It is not a census anyone keeps.
 
 Licences are **guild-issued, not state-issued**. A guild knows its own members the way any craft guild does. The roll is a roster of practitioners of a dangerous art, kept by the art's own masters. The state charters the guild and lets it police its own under threat of losing the charter. No single authority holds the Conditioned. Guilds guard monopolies, tickets become property, and an unlicensed practitioner threatens the guild's charter as much as the public's safety.
 
@@ -124,25 +126,29 @@ The Inviolate Will already sorts the charge: **negligent Tithe-lapse** versus **
 1. **Neighbour-word.** Most harm dies on the street. Restitution, apology, a Bound word if they have one. The watch is not called.
 2. **The watch.** Night-watch, ward-watch. Often the Kept, whose nights are not spent on a Tithe, and the Two-Bodied, whose ranging is the Tithe, with a Far-Voiced for the shout. They hold a body until morning. They do not investigate Conditions. They fetch a pillar or a guild.
 3. **Guild-hearing.** Tithe-lapse, unlicensed Gaze, an element let go in a shop. The guild fines, suspends a ticket, binds to apprenticeship. The state is not in the room unless the charter is at risk.
-4. **Open hearing.** Willful harm. Witnesses — especially the three pillars. The charge is the act. The hearing can say "You Gazed a man," and that is assault. "You are Stilled" is not a charge. A Gaze used as a forever-hold is the rare charge the Stillers' own code already names.
+4. **Open hearing.** Willful harm. Witnesses — especially the three pillars. The charge is the act. The hearing can say "You Gazed a man," and that is assault. "You are Stilled" is not a charge. Using the Gaze to hold a person still and leave them helpless is the rare charge the Stillers' own code already names.
 5. **What the hearing can do** without writing you down:
    - Restitution — coin, labor, furnish a Tithe you broke
    - Ticket-stripping — you may not practice the dangerous act
    - A Bound word, or a term
    - **Exile from the hearth** — you become unvouched in your own city. This is the civic death. It does not require a file.
-   - The rope or the wall — murder, and the rare forever-hold. Used more often on the frontier. Rare in the Warm.
+   - The rope or the wall — murder, and the rare Gaze used to hold a person still. Used more often on the frontier. Rare in the Warm.
 
-A Watchful crown writes you down. That crown keeps a census. That extra record is their extra punishment, and it is why a Watchful town feels like a different country.
+The two Watchful crowns write you down. That extra record is their extra punishment, and it is why a Watchful town feels like a different country.
 
-The watch holds you until morning. You sit. In a village the watch is whoever is awake. In Maiethlir, the Tallied Crown's seat, the watch is the Down Gate. In Orentel, the salt-quay, the watch is the night-gate on the quay. In Eolvaeth, the waiting-lands seat, the square watches, and in a year when the town sends its children on, the camp-streets watch instead. Threnmaieth's roll belongs to the clerks. The watch in a Watchful town can be told to hold someone the roll wants. The holding is still until morning unless a clerk comes.
+### The watch and the cohort
 
-A town sends a **cohort** when its own Hand cannot Turn the children this week. The Hand is that town's Turning Tree. The group is kin, the children who are ten, and a warden's word. Eolvaeth has sent one toward Saelvaeth in years when its own wood did not Turn the children that week. The Mill-hold sends its ten-year-olds toward Brenthael when its Tree is unsound. Between sends, the people are at their stalls. A sent cohort from Eolvaeth stops at the thorn outside the vale and eats before they go on, even when the path is clear. They will not say why.
+The watch holds you until morning. You sit. In a village the watch is whoever is awake. In Maiethlir, the Tallied Crown's seat, the watch is the Down Gate and the path along the flood-wall. In Orentel, the salt-quay, the watch is the night-gate on the quay. In Eolvaeth, the waiting-lands seat, the square watches. In a year when a cohort goes out, the camp-streets watch instead, because the people who would have stood watch have gone with the children toward another town's Tree. Threnmaieth's roll belongs to the clerks. The watch in a Watchful town can be told to hold someone the roll wants. The holding is still until morning unless a clerk comes.
 
-The Closing left that wall and a book. The Closing was the war that ended behind Rothallo's wall. The wall is Rothallo, still called the Inner Close. Rothallo is Orenbren's capital. No one kept the riders as a host that could be called again. The Hinge Hush left a rate, a west-water clause, and no named winner. The Hinge Hush is the peace on the Old Crossing. It left no fleet. Dock-bells on the Hinge Shore still pause in Hale-month, then go back to work. Netstrand still keeps hulls for hire. A charter is a crossing with a number on it. The fifteen powers do not keep standing armies.
+A **cohort** is the group a town sends when its own Hand cannot Turn its children this week. The Hand is that town's Turning Tree. The group is kin, the children who are ten, and a warden's word. It is not a company kept under arms. Eolvaeth has sent one toward Saelvaeth in years when its own wood did not Turn the children that week. The children come back Given, or not, or unvouched. Saelid's bread stall feels that winter, because the people who buy bread are the people the cohort takes away. There is no barracks to come back to. When the week is over, the cohort breaks up, and people remember it by the summer it went. The Mill-hold sends its ten-year-olds toward Brenthael when its Tree is unsound, and Talen writes them on the neighbour-slate as one more summer's walk. The children are not soldiers, and the slate is not a muster-roll. Between sends, the people are at their stalls. A power does not keep a cohort in the field as its ordinary year. A sent cohort from Eolvaeth stops at the thorn outside the vale and eats before they go on, even when the path is clear. They will not say why.
 
-*A door-custom, pinned inside a Lestrand night-gate. No crest. The verso is last week's rain.*
+Two old wars left a wall and a rate, and no army. The Closing ran from Cut-year 19 to the Retreat in Cut-year 38. Riders tried to pull up copied wood, and towns hid slips. By the end, Hildal closed a wall and saved a book, and the riders went home. The wall is Rothallo, the walled city inside Orenbren and its capital, still called the Inner Close. The Book still ranks who owes. That is a class rule, not a garrison on the wall. No one kept the riders as a host that could be called again.
 
-> *Name. Last hearth. Who stands. Two will do. None, and you sit the bench until the second bell, or until a mouth comes, or we walk you to the next gate. We do not ask your colour. We do not keep the three answers past dawn. If you are on a walk, say which. If you ate at the bed-house, say so. If you have a ticket, show the stool-mark, not a story. The bench is not a cell. The bench is until morning.*
+The Hinge Hush is the peace on the Old Crossing. From Cut-year 299 to 304, the Hinge Shore and the Ledger Coast tied up each other's hulls over who set the crossing's price. People died. In 304 they made the Hush: a rate, a west-water clause, and no named winner. It left no fleet. Dock-bells on the Hinge Shore still pause in Hale-month, then go back to work. Netstrand still keeps hulls for hire under the west-water clause, and a charter is one crossing at a set price. The fifteen powers do not keep standing armies.
+
+*A door-custom, pinned inside a Lestrand night-gate. No crest. The back of the page is a week-old rain note.*
+
+> *Name. Last hearth. Who stands. Two will do. None, and you sit the bench until the second bell, or until someone comes to stand for you, or we walk you to the next gate. We do not ask your colour. We do not keep the three answers past dawn. If you are on a walk, say which. If you ate at the bed-house, say so. If you have a ticket, show the stool-mark, not a story. The bench is not a cell. The bench is until morning.*
 
 The stool-mark is the stamp from the ticket-stool. The notice is a watch doing the practical work. The three questions are how this gate checks belonging. The writer believes that not asking your colour is what sets this gate apart from Threnmaieth. The gate also does not write the answers down, and that is how a city of tens of thousands still runs on hearths.
 
@@ -158,7 +164,7 @@ Evidence and contract in the Turning are therefore made of people. Memory that d
 
 ### Rights of the Kept
 
-The Kept are the quiet centre of citizenship, and their legal position is **unremarkable.** They were witnessed at their Turning like everyone. They carry no Tithe, need no licence, answer to no guild. In most polities the Kept are the **default legal person**. The rest of the law is drawn around them.
+The Kept are the quiet centre of citizenship, and their legal position is **unremarkable.** They were witnessed at their Turning like everyone. They carry no Tithe, need no licence, answer to no guild. In most polities the Kept are the **default legal person**. The rest of the law is drawn around them. In one surviving compact they are also a ruling class: the Walled Book ranks the tithed and will strike a Closed Heir for taking a colour.
 
 Vaethorn's second word is *the Waited*, or *Mother-kept*: people speak it with pity, as if the Tree passed them over. Lestrand's is *the free*: labor with no Tithe attached, and Lestrand says that with approval. Threnmaieth's is *the unmarked*, or *the passed-over*, and the clerks note it.
 
@@ -188,8 +194,8 @@ Three recurring points on these choices:
 
 **The Warm** *(high theology).* Law flows straight from the Motherfaith's gift-theology: a Condition is a blessing, the Struck are vouched-in graciously as people the Mother met at a later door, licences are framed as helping you tend your gift. Warmest near the Awakening Tree. **Its injustice is soft and hard to name:** everyone is expected to serve their gift, so guild "vocation" shades into pressure, the Kept get pitied for missing out, and to decline your Condition's obvious use reads as ingratitude to the Mother herself.
 
-**The Watchful** *(governance at its extreme: a deliberate aberration).* At the far end of the governance choice sits a crown that breaks the world's norm and does write its people down: a ruler who does not trust living memory and keeps a **roster of every subject and their Condition.** Every polity has guild rolls, notarial acts, and tax ledgers. The aberration is the further record: **a census of persons and their gifts**, a record held on people. Threnmaieth's census calls itself the **Threnhael** *(THREN-hayl)*: *thren* (sacred counting) + *hael* (whole, hale), "the keeping-whole." Clerks say they "keep the realm hale." Subjects are "kept whole." Outsiders hear "the Counting." At home the crown calls it prudence and order. The people who live under it live under surveillance. The unvouched are hunted, the Struck are pursued to be catalogued, Tithe-needs become points of leverage, and the Bound especially are watched far past their real hazard. The Whisper cannot command, and the roster's clerks know it. The extra watch is stigma carried out as safety. A Watchful kingdom that is also devout and Tree-rich is the darkest mix of the three choices.
+**The Watchful** *(governance at its extreme: a deliberate aberration).* At the far end of the governance choice are crowns that break the world's norm and do write their people down. They do not trust living memory, and they keep a **roll of every subject and their Condition.** Every polity has guild rolls, notarial acts, and tax ledgers. The aberration is the further record: **a census of persons and their gifts**, a record held on people. Two crowns do it. Threnmaieth, the Tallied Crown, calls its roll holy. Its census calls itself the **Threnhael** *(THREN-hayl)*: *thren* (sacred counting) + *hael* (whole, hale), "the keeping-whole." Clerks say they "keep the realm hale." Subjects are "kept whole." Outsiders hear "the Counting." Trenledd, the Worn Count, calls its list the roll and does not call it holy. At home each crown calls its roll prudence and order. The people who live under either roll live under surveillance. The unvouched are hunted, the Struck are pursued to be catalogued, Tithe-needs become points of leverage, and the Bound especially are watched far past their real hazard. The Whisper cannot command, and the clerks know it. The extra watch is stigma carried out as safety. Most of the world finds the two rolls chilling because nobody else keeps a roll of everyone. The Walled Book's heir-roll lists only its own heirs. A Watchful kingdom that is also devout and Tree-rich is the darkest mix of the three choices.
 
-**The Frontier** *(low reach).* Far from any healthy Tree, witnessing is thin and custom outruns law. The giving thins where the Trees are thin, so these lands run higher on the Kept and higher on the Struck: more people the rite reached faintly or not at all. No one asks for a licence. The Taken-In, whom cities keep at arm's length, are neighbours here, and they are the backbone of the frontier economy. An unvouched Struck person may have no one to stand for them and no guild to train them, and a feared Condition may meet a rope where a city would have issued a licence. Reach and governance often move together. A thin-reach edge tends to be thinly governed too. A devout frontier and a lightly-governed core both exist.
+**The Frontier** *(low reach).* Far from any healthy Tree, witnessing is thin and custom outruns law. These lands run higher on the Kept and higher on the Struck: more hugs, more later changes, fewer coloured falls. In town that is read as distance and young wood. No one asks for a licence. The Taken-In, whom cities keep at arm's length socially and still employ on the lots, are neighbours here, and they are the backbone of the frontier economy. An unvouched Struck person may have no one to stand for them and no guild to train them, and a feared Condition may meet a rope where a city would have issued a licence. Reach and governance often move together. A thin-reach edge tends to be thinly governed too. A devout frontier and a lightly-governed core both exist.
 
 ---

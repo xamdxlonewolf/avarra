@@ -8,17 +8,17 @@ Follow this page, in this order, when you make a character and when you start pl
 
 Run this once, in this order.
 
-1. **Kind.** Take a stock Daggerheart ancestry, one of the four ancestries written for this world (Kitsune, Selkie, Tengu, Yumboe), or Mixed Ancestry as the SRD allows. Rulings sit in *The Kinds*. A Yumboe needs the GM's leave, and the character is the full Kind.
-2. **Community.** Take a Community as the SRD defines it. A Hearth-Mark records Kind. It does not fill the Community line.
-3. **Class, Experiences, equipment.** Take these as the SRD defines them. Write two Experiences. A Kept character has those same two.
-4. **Turning.** Pick one, and write it on the sheet:
+1. **Kind.** Take a stock Daggerheart ancestry, one of the four ancestries written for this world (Kitsune, Selkie, Tengu, Yumboe), or Mixed Ancestry as the SRD allows. Rulings sit in *The Kinds*. A Yumboe needs the GM's leave, and the character is the full Kind. If both of your ancestry features come from stock ancestries, take a **Hearth-Mark**: name the place that raised you. Once per session, add +2 to a roll that leans on how that place taught you to live. A character with any feature from the four ancestries written for this world takes no Hearth-Mark.
+2. **Community.** Take a Community as the SRD defines it. A Hearth-Mark names a place. It does not fill the Community line.
+3. **Class, Experiences, equipment.** Take these as the SRD defines them. Write two Experiences. A Kept character has those same two and no third.
+4. **Turning.** Pick one, and write it on the sheet. How many people are Given, Struck, and Kept is in *The Conditions*.
    - **Given** — a colour fell at ten. Take one Given-path or Both-path card from *The Conditions*.
-   - **Kept** — the leaves hugged. No Condition card. See below.
-   - **Struck** — a later threshold already happened in the backstory. You died and came back, you swore a contract, or you survived a drowning, the edge of a gaze, or a taking by the green. Take a Struck-path or Both-path card. Someone stood for you again. Say who.
-   - **UnTurned** — you never stood under a Turning Tree. No hug, no colour. You are not Kept. You can still be Struck later. Neighbours will call you Kept. Write the law as UnTurned.
+   - **Kept** — the leaves hugged you at the Tree, with no colour. No Condition card. See below.
+   - **Struck** — a later threshold already happened in the backstory. You died and came back, you swore a contract, you survived a drowning, you survived being turned to stone, or you were lost and dying in the deep wild and the wild took you in. Take a Struck-path or Both-path card. Someone stood for you again. Say who.
+   - **UnTurned** — you never stood under a Turning Tree. No hug, no colour. You are not Kept. You can still be Struck later. Neighbours may call you Kept. The law and your sheet say UnTurned.
 5. **Choices for the whole table.**
    - **Phoenix** — this Condition takes the table's attention. Every other player agrees before anyone plays one. The GM may run a Phoenix as a person in the world instead.
-   - **Hidden Phoenix** — have that talk with the GM apart from the table. It is not a choice you announce with the others.
+   - **Hidden Phoenix** — every other player agrees first, the same as for the open Phoenix. The rest is worked out between that player and the GM.
    - **Yumboe** — the GM's leave. Full Kind only.
    - **the Unbound** — you do not start here. A Bound character becomes Unbound when the term ends, in play, or because the table agrees at the start that the term already ended.
 
@@ -34,11 +34,11 @@ What they have is a legal standing and a free rest. The law treats them as the o
 
 They do not receive a tenth Condition, a bonus Experience, a Hearth-Mark they did not already qualify for, or a Kept ability of their own. An ability that is really a Tithe belongs on a Condition card.
 
-An UnTurned life looks similar: no Tithe, no guild. Only the hug was witnessed. Write an UnTurned character as UnTurned.
+An UnTurned life looks similar: no Tithe, no guild. The difference is that a Kept person's hug was witnessed, and an UnTurned person never stood. An UnTurned character is written as UnTurned, not as Kept.
 
 ### Struck in play
 
-A Kept or UnTurned character can be Struck when the story crosses a threshold this book already names: death (Returned), a sworn contract (Bound), or a survivable drowning, the edge of a gaze, or a taking by the green (Far-Voiced, the Stilled, the Taken-In). Long-Lived, Two-Bodied, Answered, and Phoenix are Given only. Those four cannot be Struck.
+A Kept or UnTurned character can be Struck when the story crosses a threshold this book already names: death (Returned), a sworn contract (Bound), surviving a drowning (Far-Voiced), surviving being turned to stone (the Stilled), or being lost and dying in the deep wild (the Taken-In). Long-Lived, Two-Bodied, Answered, and Phoenix are Given only. Those four cannot be Struck.
 
 The player agrees to take the card. The GM does not hand out a becoming to punish a failed roll. A Tithe never takes the character over. Becoming is not a moment where the player loses the character.
 
@@ -81,21 +81,21 @@ Use these when you cannot open *The Turning Tree*:
 
 ## Starting situations
 
-Start in one of these places. Stay with the one job the old walk left on that street. After a town has its own Tree, that job is one of three. **Devotion:** people keep a walk they no longer need, either as an extra mile or as a wait at a Tree that may not speak. **Prestige:** a household pays for a winter, or a berth, for a walk they do not need. **Necessity:** the local Tree is missing, young, or sick, or the week cannot hold the mouths, so people use a neighbour's standing, water, or bed. Give the place one of those jobs. A guest may bring a second into the same week. The second is not the place's theme.
+Start in one of these places. Stay with the one job the old walk left on that street. After a town has its own Tree, that job is one of three. **Devotion:** people keep a walk they no longer need, either as an extra mile or as a wait at a Tree that may not speak. **Prestige:** a household pays for a winter, or a berth, for a walk they do not need. **Necessity:** the local Tree is missing, young, or sick, or the week cannot hold everyone who comes, so people use a neighbour's standing, water, or bed. Give the place one of those jobs. A guest may bring a second into the same week. The second is not the place's theme.
 
-**Eolvaeth.** People come here to wait, and the wait is the job. Vaethod will not invent a colour. Vaethod is the town-warden. Saelid's stall has to feed the winter mouths. A stranger in the gift-hall has no list to stand on. Some years the wood says send the children on. The gospel in the vale says stay.
+**Eolvaeth.** People come here to wait, and the wait is the job. Vaethod will not invent a colour. Vaethod is the town-warden. Saelid's stall keeps feeding its winter guests. A stranger in the gift-hall has no list to stand on. Some years the wood says send the children on. The gospel in the vale says stay.
 
 **Orentel.** The quay sells a winter to households who can pay for a walk they do not need, and that sale is the job. The Eolthael berths are empty because they are held. A prestige winter takes all three, at three desks: a White Note term for the paper, a Night-Shore hull for the ship, and an Orentel hold for the berth. Tesara works the stillers' shed, and the shed does not face the street. Two streets off the third quay, a person too poor to meet a Tithe fades while the city steps around them.
 
 **Maiethlir.** Start the week before Leaf-Fall, when the thaw is loud. Rithim will not give the clerk the line. Rithim is the Speaker. The wardens have recut a chapel, and a Watching room is under it. The crown keeps a counted channel for a Far-Voiced hour and for the city's green. That channel can be shut. The extra mile is still walked here. The roll writes on top of that walk, and the walk remains.
 
-**Harrow's Green.** Start in Hale-month. The year is Cut-year 387. That is the 387th summer counted from the First Cut. The job is a neighbour's week that can still be walked home. The stone has to move so the crowd can stand, and the water is still on it. The upper room has extra mouths. Children here Turn under this Tree. The hamlets can see the canopy and are still sending theirs.
+**Harrow's Green.** Start in Hale-month. The year is Cut-year 387. That is the 387th summer counted from the First Cut. The job is a neighbour's week that can still be walked home. The stone has to move so the crowd can stand, and the water is still on it. The upper room has extra guests. Children here Turn under this Tree. The hamlets can see the canopy and are still sending theirs.
 
 **Ornsael.** The well is dropping, and the job is water. The share is chalked on the lip. Pilgrims from the core arrive expecting a holiday walk. A wet knot sits below last year's water-line.
 
 **the Three Hamlets.** Play the same week as Harrow's Green. The canopy is a dark on the far slope. Brenod sends the child. Vaelun may refuse the walk. Ornath may take the other road. The job is the neighbour's week.
 
-**the Third Hearth.** Thilim has made Seine's bed and left it made. The extra mile is optional, and the house still keeps the bed. That is the job. Meirim wants the stone taken down. Meirim is Brenthael's warden. Mouths will be here at dark. Seine's name is on the lintel. The stone at the road is the day's water.
+**the Third Hearth.** Thilim has made Seine's bed and left it made. The extra mile is optional, and the house still keeps the bed. That is the job. Meirim wants the stone taken down. Meirim is Brenthael's warden. Seine's name is on the lintel. The pot needs the stone's water at dark, and the stone at the road is the day's water.
 
 **Ndenjoo.** Play the hall's hospitality, and play the storm-wall as the weather. A wreck has walked uphill. The extra place is already set. A guest is loud at noon, when the hall sleeps. There is no Tree. Seat the wreck, keep kin who will not leave, and let someone want a crossing out. Leave what the Trees are unproved.
 
@@ -103,7 +103,7 @@ Start in one of these places. Stay with the one job the old walk left on that st
 
 Play neighbours, colleagues, and family. The Tithe is where the danger sits. Leaf-Fall is a warm week. Keep dread out of the Tree. When you need one moment of wrongness, use the weather, a host still keeping a guest from a week that ended, a week that already closed, or a person who missed the standing.
 
-The Conditions are already the people in the world. Do not add a second vampire, a cursed wolf-kin, or a hungry dead who is not a Returned.
+The Conditions are already the people in the world. There is no second vampire, no cursed wolf-kin, and no hungry dead who is not a Returned.
 
 ## Sample frames
 
@@ -115,9 +115,9 @@ Use one of these for a run of sessions. In each mainland frame, some people Turn
 
 **An origin town with a roll.** Maiethlir. The extra mile is still walked, and the clerks write on top of it. Rithim will not copy the clerk's line. A Watcher will describe what they saw. The First Seat is in the wood beside the city, and can refuse what the city asks.
 
-**The hall on the isle.** Ndenjoo. Hospitality is the rite: an extra place, a second night, a guest who can sleep the day. The storm-wall is the weather. Play kin and a wreck. Do not spend the session proving what the Trees are.
+**The hall on the isle.** Ndenjoo. Hospitality is the rite: an extra place, a second night, a guest who can sleep the day. The storm-wall is the weather. Play kin and a wreck. The session is not spent proving what the Trees are.
 
-A campaign opening with a remnant-walker, a helper on the inside, and a white-fire fall kept apart from the town belongs to the GM. It is not one of the starts above.
+The first campaign has its own opening, in the GM's chapter. It is not one of the starts above.
 
 ## Dangers on the road
 
@@ -133,9 +133,11 @@ Start battle points from the SRD: `[(3 × PCs) + 2]`. Spend: Minion group 1 · S
 | **Spent-Week Walker** | T2 Standard | Long Mile, west-road, live-front tracks | To finish a week that already closed |
 | **Colourless Host** | T2 Support | Dead pots, unsound grafts, waiting ground | To Give. It cannot. |
 
-None of these are Conditions. A walker may *be* Conditioned the way anyone is.
+None of these are Conditions. A walker may *be* Conditioned the way anyone is. The card they carry is not this stat block.
 
-**Mile-gap** (T1 Traversal, Difficulty 12). The day's walk between two stones. The place will stretch the day, hide the next stone, offer a false bed, or make a Tithe expensive. Travel rolls to find the next shrine are Difficulty 12. Failure with Fear ends the day in the gap.
+The Spent-Week Walker and the Colourless Host are Tier 2 blocks. In a Tier 1 scene, use the Tier 1 Difficulty, thresholds, and attack bonus from the benchmarks above in place of theirs.
+
+**Mile-gap** (T1 Traversal, Difficulty 12). The day's walk between two stones. The place will stretch the day, hide the next stone, offer a false bed, or make a Tithe expensive. A Taken-In who cannot touch living green, or a Long-Lived with nothing new, feels the gap, but their next long rest runs the card's check as usual and the gap adds no extra tick. Travel rolls to find the next shrine are Difficulty 12. Failure with Fear ends the day in the gap.
 
 **Thaw-gate** (T1 Traversal, Difficulty 13). A shelf-gate or the Noon Pass in a thaw-week. Crossing without a guide is Difficulty 13. On a failure, someone is swept, or a cart is lost. One roll does not do both.
 
@@ -143,6 +145,6 @@ None of these are Conditions. A walker may *be* Conditioned the way anyone is.
 
 **Night-berth** (T1 Exploration, Difficulty 12). A Chart-run or West Water quay at first dark. Hulls that do not arrive are local weather.
 
-Pair a place with one danger. On the Long Mile inland, use a mile-gap and a Gap-Cat. On the Long Mile where a house still keeps a bed from a week that ended, use an empty road-house and a Bed-Keeper. On the Rain-Wall, use a thaw-gate, and let the weather be enough. On the Chart-run, use a night-berth and a Chart-Crew. At a dead pot on the live front, use one Colourless Host as Support. Do not add a second Host. Near a town on the Near Mile, use what that town already sends into a scene. The storm-wall belongs with the isle, in *Other Places*. It is not one of these road dangers.
+Pair a place with one danger. On the Long Mile inland, use a mile-gap and a Gap-Cat. On the Long Mile where a house still keeps a bed from a week that ended, use an empty road-house and a Bed-Keeper. On the Rain-Wall, use a thaw-gate, and let the weather be enough. On the Chart-run or at Netstrand, use a night-berth and a Chart-Crew. At a dead pot on the live front, use one Colourless Host as Support, with walkers or a Gap-Cat, and never a second Host. Near a town on the Near Mile, use what that town already sends into a scene. The storm-wall belongs with the isle, in *Other Places*. It is not one of these road dangers.
 
 Use a Colourless Host when a planting has gone wrong, or a pot never took. Skeptics and believers can both be loud. This book does not decide between them.

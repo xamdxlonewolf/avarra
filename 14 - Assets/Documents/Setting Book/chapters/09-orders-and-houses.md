@@ -115,7 +115,7 @@ Road-hands walk the consequence. They plant what they were given leave to plant.
 
 - **Towns house and feed the warden-hearth.** A civic stipend in kind: bread, wood, a place on the square. Not a tax on Conditions.
 - **Turning-Week is the festival share.** Markets, reunion, the year's namings. The warden eats from the fair like any other needed office.
-- **Cutting-leave has a fee.** The Seat frames it as the cost of carrying-earth and a Road-hand's year. At the edge, people experience it as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll. The fee is how the Seat came to hold a cutting-practice that began without a desk. People still argue about the First Cut. That argument lasted a generation. The paper does not name who cut the wood. The queue is the Seat's hold on who may take the next cutting.
+- **Cutting-leave has a fee.** The Seat frames it as the cost of carrying-earth and a Road-hand's year. At the edge, people experience it as the price of a future Tree. Lestrand will broker it. Vaethorn will call it an offering. Threnmaieth will want it on the roll. Historically, this is how the Seat took over a practice that began without a fee.
 - **Pilgrimage keeps the Seat.** Offerings, lodging, the devout who settle in the Motherwood. The college is rich in *proximity*, not in a Condition-tithe.
 
 Venting-halls, greens, ranging-commons, and the safety-guilds belong to other houses. A child just received a Condition at Leaf-Fall. Wardens *point* that new **Given** at a guild. They do not licence the Stilled.
@@ -126,7 +126,7 @@ First Seat hand, carried north in the same earth as the scion. The verso is trav
 
 > *The wood will take at Harrow's green. It will not take this year at the three hamlets past the ford. The soil is thin there, and the carrying-earth is needed for the first. Cut from a healthy hand, not from the First, and married with the watering-words. If the scion sickens, send to the Seat; do not cut a second without leave. The Mother does not reach twice by chance, and neither do we.*
 
-On its face: competent horticulture, a little cold, the Tender's blessing used as a shipping line. Underneath, the note is the queue. The Seat has chosen Harrow's green and left the three hamlets waiting. Those hamlets will run Kept-heavy, and they will call that weather.
+The leave is competent and a little cold. It reuses the Tender's blessing as a shipping clause. The clerk writes that the soil is thin at the three hamlets, and the three hamlets will run Kept-heavy and call it weather.
 
 ---
 
@@ -140,16 +140,16 @@ Everyday, everywhere they are known: **Watchers.** Liturgical: **the Nethoren** 
 
 ### Shape of the order
 
-- **They have no seat.** The Watching has no college in the Motherwood. Their oldest rooms sit under older chapels, or in houses that never took a warden's lintel. Those rooms are the belief they keep: the Watching was already here. A Watcher who wants a mother-church has already become something else.
+- **They have no seat.** The Watching has no college in the Motherwood. Their oldest rooms sit under older chapels, or in houses that never took a warden's mark. Those rooms are the belief they keep: the Watching was already here. A Watcher who wants a mother-church has already become something else.
 - **Two acts.** The **Night Watch** is what the house *does*. The Watching calls itself Haelthael. Anyone of that name may keep the night. A town asks someone to sit beside the warden when a fall is rare, mixed, or argued. That reputation is the **Second Reading**. There is no Speaker with the last word, no Road-hand circuit, and no Cutting-leave desk. Those jobs belong to a faith that has a Tree to carry.
 - **A town does not keep a Watcher the way it keeps a warden.** The wood still wants watering. What a Watcher is for is accurate speech, and a night of matching the Tree's attention with their own. Lestrand can live without that. Threnmaieth cannot stop counting it.
 - **They withhold the Mother-name.** They do not correct it in the street.
 
 ### If you meet one
 
-A Watcher looks like a neighbour. Baker, weaver, a Long-Lived who copies texts, a Kept who sits a quiet hearth. They do not wear a lintel-mark. That mark belongs to the warden. You know them because a neighbour said "ask the old room," or "send for the one who sat last year's mixed fall," or because you saw them under the Tree the night before Turning-Week with no lamp and no blessing.
+A Watcher looks like a neighbour. Baker, weaver, a Long-Lived who copies texts, a Kept who sits a quiet hearth. They do not wear a warden's mark. That mark belongs to the warden. You know them because a neighbour said "ask the old room," or "send for the one who sat last year's mixed fall," or because you saw them under the Tree the night before Turning-Week with no lamp and no blessing.
 
-They are useful the way a second opinion is useful. A town can live without them. A family that does not trust a single mouth on a strange leaf cannot.
+They are useful the way a second opinion is useful. A town can live without them. A family that does not trust a single speaker on a strange leaf cannot.
 
 ### Who knocks, and when
 
@@ -172,7 +172,7 @@ Eleven months they are not "on duty." They bake, copy, range, keep a stall. The 
 
 ### The Night Watch
 
-The night before Turning-Week, the eve of Eolthael in a town that keeps the clergy's year. Watchers keep a silent vigil at the town Tree. No blessing. No colour-reading. No lamps if they can help it. The point is to *be seen seeing*.
+The night before Turning-Week, the eve of Eolthael in a town that keeps the clergy's year. Watchers keep a silent vigil at the town Tree. No blessing. No colour-reading. No lamps if they can help it. The point is to be seen keeping the night.
 
 This is not an office you are appointed to. A household that speaks the withheld blessing is expected to send someone. A town with three Watcher families may have six people under the boughs and no one in charge. A town with one old room under the chapel may have a single Long-Lived who has kept the same night for eighty years. Both are the order, such as it is.
 
@@ -189,7 +189,7 @@ How the hour actually runs:
 1. The child is still under the boughs, or has just been walked to the warden-hearth. The town is still there. The warden Speaks. The warden might say "storm-grey."
 2. If a household asked, or if the fall was mixed enough that the square muttered, the Watcher is already standing to the side. They do not interrupt the Speaking.
 3. They say what they saw, in the square or afterward in the old room. Stem, serration, the turn, the flinch or the lack of one. They will use colour-words. They will resist Condition-names if the leaf was not one colour.
-4. Most years the town nods at both mouths and goes to the fair. The child is Two-Bodied because the warden Spoke it, and also someone in the square said "there was amber at the edge," and that sentence lives in the family.
+4. Most years the town nods at both accounts and goes to the fair. The child is Two-Bodied because the warden Spoke it, and also someone in the square said "there was amber at the edge," and that sentence lives in the family.
 
 A Second-reader is just the Watcher three streets will send for when the fall is argumentative. No diploma. No Seat confirmation.
 
@@ -197,18 +197,18 @@ In Threnmaieth they are a known column on the Threnhael. The second reading is t
 
 ### What they carry
 
-Almost nothing that looks like clergy. A scrap for the description (plain paper, not a book; a book would be a Settler's tool). A coat that lives in the old room and smells of last year's eve. In a Bare Tree household, no Mother-mark on the lintel; in a Masked one, the warden's mark *and* a second, older scratch underneath that a clerk can miss.
+Almost nothing that looks like clergy. A scrap for the description (plain paper, not a book; a book would be a Settler's tool). A coat that lives in the old room and smells of last year's eve. In a Bare Tree household, no Mother-mark on the door-frame; in a Masked one, the warden's mark *and* a second, older scratch underneath that a clerk can miss.
 
 They have no stamp, no Cutting-leave, no ticket. They cannot licence a Stilled. They cannot plant a Tree.
 
 ### What they refuse
 
 - They will not **Speak**. If a town has no warden that year, they will still only describe. A civic confirmation from a Watcher is the house breaking itself.
-- They will not take a warden's lintel. They keep houses that never put that beam up, and rooms under chapels.
+- They will not take a warden's mark. Their oldest rooms are in houses that never took one, and under chapels.
 - They will not police the Mother-name in the street. They withhold it.
 - They will not travel as a circuit. A Watcher in another town is a cousin visiting.
 
-There is no chapter-house circuit. The order meets, when it meets, because Turning-Week gathers people who already keep the same night. From the outside that can look organised. What gathers is the building: the house that never took a warden's lintel; the beam that was turned to the stone when the chapel was re-floored; the room under the nave where the Night Watch leaves its coats. The First Seat knows those rooms exist. It grew over them. It does not inventory them, except in Threnmaieth, where the crown inventories as a matter of course.
+There is no chapter-house circuit. The order meets, when it meets, because Turning-Week gathers people who already keep the same night. From the outside that can look organised. What gathers is the building: the house that never took a warden's mark; the beam that was turned to the stone when the chapel was re-floored; the room under the nave where the Night Watch leaves its coats. The First Seat knows those rooms exist. It grew over them. It does not inventory them, except in Threnmaieth, where the crown inventories as a matter of course.
 
 ### Who may keep the watch
 
@@ -224,7 +224,7 @@ There is no chapter-house circuit. The order meets, when it meets, because Turni
 |---|---|---|---|
 | Night Watch | anyone of the house | the night does not care what you carry | the Kept, who were seen as whole; the Struck, who were seen at a harder door |
 | Second Reading | Long-Lived | incorruptible memory of how a rare fall looked *last time* | a sharp Kept; a Stilled who will describe without flinching; a Wide-Hand Struck who has seen a threshold-colour from the other side |
-| Keeping an old room | families that never took a lintel | the room under the chapel is inherited | a new household that refuses the warden's mark |
+| Keeping an old room | families that never took a warden's mark | the room under the chapel is inherited | a new household that refuses the warden's mark |
 
 The feared-licensed are not barred. A Stilled Second-reader is a civic comfort (the gaze holds a room still for accurate speech) and a pilgrimage fright; they are rarer at the sacred centre than in an old district that never stopped being Haelthael. A Phoenix is not clergy here either. They are a seeing no one in the square is ready to describe twice.
 
@@ -236,24 +236,24 @@ Struck Watchers must still be vouched anew like any Struck. The old rooms do not
 |---|---|---|
 | the Tree-Wardens | Same Tree, two blessings. Second reading alongside, not over. | Threnmaieth wants one name on the Threnhael. A Speaker who lets the withheld line stand is a column the crown can count. Two authoritative Speakers in one square is a fight. |
 | the Fair Hand | Rarely share a square. A Settler hears "what falls, was seen" as a clause with no number. | Almost none, until a Bound wants a second reading of an oath-day and a Watcher will not call it a signing. |
-| the Old Ways | Two old memories, opposite edges. A Watcher remembers a Before at the Tree. A door-keeper remembers a Before without one. | The two Befores stay two memories. |
+| the Old Ways | Two old memories, opposite edges. A Watcher remembers a Before at the Tree. A door-keeper remembers a Before without one. | They will not agree, and the argument can leave the table. The First Bowl, the guest-grove, is the ordinary room for it. A meal refused, a Night Watch held in an old green, and a Road-hand arriving in the middle are how it starts. |
 | the Open Table | Almost no contact. A Watcher who crossed the storm-wall would be a guest at supper, and would find the night already kept, for a different reason. | None that matters. There is no Night Watch on Kumbaan. |
 
 ### How they live in the three corners
 
 - **Vaethorn (the night-kin).** Cousin-dissent. Thin reach, hot faith: a Watcher household is unusual and not hunted. The Night Watch looks, from a Hands-folk hearth, like extra piety. The withheld Mother-name is the only sting, and a Guest-reading town has larger fights (the grove) than this one.
 - **Lestrand (vigil-folk, when named).** Rarely met. A Watcher on the docks is a scholar or a migrant from the core. The signing-watch does not need a second reading; the book is the second reading. Faith worn light enough that a withheld blessing is just another quay-sentence.
-- **Threnmaieth (the second column).** This is where the pressure is heaviest. They are a known column on the roll, the Grown-Over, counted. The crown does not hunt the households. The Night Watch is a festival-eve custom the crown can schedule. The second reading is tolerated until it contradicts the Speaker the Threnhael has already named. A Long-Lived who still has a lintel-copy that was never turned to the stone is a person this house keeps.
+- **Threnmaieth (the second column).** This is where the pressure is heaviest. They are a known column on the roll, the Grown-Over, counted. The crown does not hunt the households. The Night Watch is a festival-eve custom the crown can schedule. The second reading is tolerated until it contradicts the Speaker the Threnhael has already named. A Long-Lived who still has a copy of the beam from before it was recut is a person this house keeps. The pressure is a tolerated column on the roll, not a hunt.
 
-### The recut lintel
+### The recut beam
 
-They remember a cost, and they have no institution that can keep a lintel from being turned to the stone.
+They remember a cost, and they have no institution that can keep a beam from being turned to the stone.
 
 The First Seat did not steal a throne from them. There was no throne. What was lost is quieter: a beam recut, a room under a chapel that is now a vestry, a second reading that remains *alongside* because the civic word was given to the warden when the Mother-name grew over the Seeing. All of that can be described as history. It is also a choice, still being made, about whose speech counts in the square.
 
-A kind Mother, if she is there, would not give the Watching a seat, and would not make the Grown-Over column kind. They have hold of the Before and the cost. They do not have the last word on a colour.
+A second reading does not buy a seat. The Grown-Over column stays a column. They have hold of the Before and the cost. They do not have the last word on a colour. A settled Mother-name would not promote them.
 
-They do not walk a scion-queue. That queue is the Orenhael's grievance. Theirs is the recut beam: whose speech counts in the square.
+They do not walk a scion-queue. That grievance is the Orenhael's. Theirs is the recut beam: whose speech counts in the square.
 
 ### Economy of the house
 
@@ -261,7 +261,7 @@ The house has almost no money of its own.
 
 - **Households keep the night.** Bread from the same table. No stipend, no Cutting-leave, no pilgrimage-share.
 - **A Second-reader eats as a neighbour.** Some old districts leave a plate at the room under the chapel during Turning-Week. That is courtesy, not a wage.
-- **Threnmaieth pays for the column.** Being a column can become a living if a crown-clerk pays for a copied lintel or a listed name. A Watcher who takes that coin has not left the house. They have let the roll furnish it. The Bare Tree branch will not eat with them. The Masked will, and argue after.
+- **Threnmaieth pays for the column.** Being a column can become a living if a crown-clerk pays for a copied beam or a listed name. A Watcher who takes that coin has not left the house. They have let the roll furnish it. The Bare Tree branch will not eat with them. The Masked will, and argue after.
 
 They point no one at a licence. They describe a fall. Venting-halls, greens, and the safety-guilds are other houses' work.
 
@@ -271,7 +271,7 @@ Written in a Watcher's own hand the morning after a mixed fall, and filed by a T
 
 > *Storm-grey at the stem, lamp-amber at the serration, and the child did not flinch when the leaf turned. I will not say Two-Bodied. I will not say Answered. I will say what I saw: the Tree looked twice and did not choose the easier colour. The warden Spoke storm-grey. I sat beside and said the amber. Both were seen. File me as the second column if you must. Do not file the amber as an error.*
 
-On its face: a careful witness, a little stubborn, useful to a clerk who needs a dissent-name. The Speaker who filed it "alongside" was keeping the peace. The roll that kept the slip counted that second description as a faith the crown can name.
+The writer is a careful witness, a little stubborn, and useful to a clerk who needs a name for dissent. The slip's whole case is that seeing something is not the same as choosing it. The Speaker who filed it "alongside" was keeping the peace between the warden and the Watcher.
 
 ---
 
@@ -384,7 +384,8 @@ Struck Book-hands must still be vouched anew. Civic settling is how the house he
 | the Tree-Wardens | Leaf-Fall as festival *and* signing-watch. On Lestrand they share a square and ignore each other's sentences. | The warden calls the Condition a gift. The Book-hand calls it a debt. A Bound warden lives in both sentences. A Bound Book-hand is the house at home. |
 | the Watchers | Rarely share a square. "What falls, was seen" sounds, to a Settler, like a clause with no number. | A Bound who wants a second reading of an oath-day and a Watcher who will not call it a signing. |
 | the Old Ways | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first, kin or payable year. Two courtesies, not a trial. |
-| the Open Table | A Settler who sits a moon-feast twice has been called kin in a language with no book. | "No one is a stranger twice" does not become a contract. There is no Leddoren mission on Kumbaan. |
+| the Open Table | A Settler who sits a moon-feast twice has been called kin in a language with no book. | "No one is a stranger twice" is not a term in any book. There is no Leddoren mission on Kumbaan. |
+| the Holding Desk | Upstairs and downstairs. A Settler who marked *owing* has made a customer. | A clerk who follows a customer down the stair has started a case. The honest stamp and the hold do not share a docket, and a personhood case can start there. |
 
 ### How they live in the three corners
 
@@ -394,11 +395,11 @@ Struck Book-hands must still be vouched anew. Civic settling is how the house he
 
 ### The book that will not close
 
-A closed book is their grace: a year marked paid. That is the house's kindness, and its cruelty.
+The house settles a person's year and closes the book. That is its kindness, and its cruelty.
 
-Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around.
+Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. A settled Mother-name would not make the fading kind, and would not turn a Bound's clause into a clerk's draft.
 
-Their other hard case is the Bound they cannot help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That is honesty's cost. The shadow economy still exists; the lived face of illicit Tithe-supply is the Slide. They do not stamp, and they do not rewrite Terms.
+Their other hard case is the Bound they cannot help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That cellar is the Holding Desk. The refusal to rewrite is still honest, and it is no reason the clerk cannot follow. The lived face of illicit Tithe-supply is the Slide. Sold vouching is the Standing Trade. Book-hands do not stamp those books either.
 
 ### Economy of the house
 
@@ -414,7 +415,7 @@ Lestrand quay-hand, written the week after a drowning came back Far-Voiced and c
 
 > *Grant: the voice, already carried. Old term: a hall that is not here. New term: one honest outlet each seventh day at the release-house in Greyhull, passage stamped, warrant by M. Senn the hull-clerk. If the seventh day is missed, the book is owing, not broken. Walk, if you can walk. If you cannot, the quay will not call it a gift.*
 
-On its face: the house's kindness, a storm-year's terms rewritten so a person can live. Underneath, the note admits the fade. The line "The quay will not call it a gift" is honest, and it is also the step-around made holy. Greyhull's release-house will take the seventh day. The eighth week the passage-money fails, the slip will still be fair, and the person will still be a book that would not close.
+The slip is the house's kindness: a storm-year's terms rewritten so a person can live. "The quay will not call it a gift" is honest, and it is also how the quay steps around the person. Greyhull's release-house will take the seventh day. The eighth week the passage-money fails, the slip will still be fair, and the person will still owe a book that does not close.
 
 ---
 
@@ -424,12 +425,12 @@ The working people of the Old Ways. They have no seat because the land is the se
 
 Everyday: **door-keepers**, also **Kin-speakers.** Liturgical: **the Vaelbren** (VAYL-bren). Vaethorn's local name is **the door-folk**, or **Before-speakers** when the fight is hot. Lestrand's is **grove-talkers**, a frontier curiosity. Threnmaieth files them with the house as **the Unreached**.
 
-**In one sentence:** they are the person three valleys walk to when someone needs to know which drowning-pool still returns, which grove still takes people in, and the mouth that names a Struck *kin* at the door that made them, instead of walking them to a Tree to be filed as late.
+**In one sentence:** they are the person three valleys walk to when someone needs to know which drowning-pool still returns, which grove still takes people in, and the person who names a Struck *kin* at the door that made them, instead of walking them to a Tree to be filed as late.
 
 ### Shape of the order
 
 - **The land is the seat.** The Old Ways cannot have a mother-church. A hill, a drowning-stone, a grove, an oath-rock: these are the offices. A person is of the house when three valleys will walk to them, not when a college confirms them.
-- **Two jobs, often one mouth.** A **door-keeper** knows which doors still open and will walk them at the year's hinges. A **Kin-speaker** speaks at ancestor-meals and names a Struck *kin* at the door that made them. In a thin-reach district this is one tired person. In a Guest-reading town that finally got a Tree, the two jobs may split for a generation and fold again when the old one dies.
+- **Two jobs, often one person.** A **door-keeper** knows which doors still open and will walk them at the year's hinges. A **Kin-speaker** speaks at ancestor-meals and names a Struck *kin* at the door that made them. In a thin-reach district this is one tired person. In a Guest-reading town that finally got a Tree, the two jobs may split for a generation and fold again when the old one dies.
 - **They do not carry the wood.** They do not carry scions. They do not confirm colours. They do not authorise a cut. When a graft sickens in an old green, they argue who is host of the wood. The Road-hands already walk the carrying.
 - **A land-and-kin house.** They do not police the Mother-name. Many also bring a child to a healthy graft.
 
@@ -447,7 +448,7 @@ They are useful the way a midwife is useful. The becoming they attend comes late
 | A household at an ancestor-meal | Someone must know the names and keep the empty place | Speak the names. Set the place. Not let a guest sit in it. Eat. Argue Guest/First after the dishes if they argue. | Will not treat the empty place as a Returned's chair. Different door. Will not make this a chapel service. |
 | A Struck, or the people who found them | They Changed at a river, a grove, an oath-stone, a death; the town wants them vouched or gone | Take them back to the door that made them, if it can be found, and **name them kin**. Feed them. Walk with them if the town will not house them. | Will not walk them to a Tree to be acknowledged as Given (the warden may do that the same week; the fight is which name goes first). Will not settle a civic year (that is a Book-hand). Cannot *be* a civic pillar unless they themselves are Long-Lived, Bound, or Far-Voiced. |
 | A warden or a Road-hand | A graft in an old green is sickening; someone has Cutting-leave | Tend the wood as host or as keeper of a guest. Demand the meal before a second cut. | Will not carry the next scion up the road. Will not sell a cut. Will not call the Struck "unreached." |
-| A scholar, a Lestrand clerk, a curious pilgrim | They want the older sense of *vael*, or a drowning-stone found | Show the door. Use the old word for a harvest and a returned child. | Will not give them a map of every door. Some doors are walked, not published. |
+| A scholar, a Lestrand clerk, a curious pilgrim | They want the older sense of *vael*, or a drowning-stone found | They show the door and use the old word for a harvest and a returned child. | Will not give them a map of every door. Some doors are walked, not published. |
 
 ### An ordinary season
 
@@ -511,9 +512,9 @@ Struck door-keepers must still be vouched anew. Naming them kin is courtesy. It 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
 | the Tree-Wardens | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the doors. Vaethorn's Hands-folk find the missing seat infuriating and, in a dry year, quietly useful. | A sickening Tree in an old grove: who is host. A Narrow-Hand preacher calling the Struck "not hers" is who they will not eat with. |
-| the Watchers | Two old memories, opposite edges. A Before at the Tree, and a Before without one. | The two Befores stay two memories. |
+| the Watchers | Two old memories, opposite edges. A Before at the Tree, and a Before without one. | They will not agree on the Before, and neither will give way. The First Bowl, the guest-grove, is the ordinary room for it. It escalates with a meal refused, a Night Watch held in the green, or a Road-hand arriving in the middle. |
 | the Book-Hands | Kin-name and rewritten terms, sometimes the same Struck, same month. | Which name goes first. Two courtesies, not a trial. |
-| the Open Table | Ancestor-meals set a place for the dead who stayed in the ground. A traveller can mistake that place for the Open Table's extra seat. The dead in the ground are not the hands that fetch and pour. | The isle is not a grove. There is no Vaeloren mission on Kumbaan. |
+| the Open Table | Ancestor-meals set a place for the dead who stayed in the ground. A traveller can mistake that place for the Open Table's extra seat. The dead in the ground are not the hands that fetch and pour. | The Door-Keepers walk no doors on Kumbaan. There is no Vaeloren mission on Kumbaan. |
 
 ### How they live in the three corners
 
@@ -527,7 +528,7 @@ Someone decides whether a sickening graft is a *guest in the grove* or a *Tree t
 
 The Road-hand arrives with leave and a case about the soil. The door-keeper arrives with grandparents and food. Both can be right about the wood. The years the grove spends arguing are years children walk to a neighbour's canopy, Kept-heavy, Struck-heavy, which the frontier already knows as weather, and which Vaethorn will sanctify as unworthiness if no one says otherwise.
 
-The Seat's scion-queue is the Orenhael's grievance. The door-keepers' grievance is who is host, and who will stand for the Struck the town will not. A kind Mother, if she is there, would not make the grafts first, and would not make a closed door a slight. The grievance stays. The grafts are late, and the Motherfaith did talk as if becoming were new.
+The Seat's scion-queue is the Orenhael's grievance. The door-keepers' grievance is who is host, and who will stand for the Struck the town will not. A healthy Tree in the grove would not change which wood came first, and would not make a closed door a slight. The grievance stays. The grafts are late, and the Motherfaith did talk as if becoming were new.
 
 ### Economy of the house
 
@@ -543,7 +544,7 @@ In an old Taken-In green, the week a Road-hand's cart was seen at the ford. Two 
 
 > *The tree is young. The grove is not. We have fed it as a guest and we will feed it still. If you have come with leave, come to the meal first. If you have come with a second cut in mind, know that the hill already yielded a child this year and does not owe you a colour. We will not let either wood pretend it was first.*
 
-On its face: frontier courtesy, a little barbed, the old door-saying written on a trunk. The Road-hand who eats first will plant as a guest. The one who cuts without the meal will be remembered as a claiming, and the wood may still take.
+The writer is polite and a little barbed, and the note reuses the drowning-stone saying on a trunk. The house's case is that becoming happens at doors with no healthy Tree. The Road-hand who eats first will plant as a guest. The one who cuts without the meal will be remembered as a claiming, and the wood may still take.
 
 ---
 
@@ -578,7 +579,7 @@ They are useful the way a host is useful. They do not water Trees, stamp books, 
 | A stranger who crossed the storm-wall | They have already been through drowning-water; they need a seat | First night: guest (already sacred). Feed them. Learn a name if they offer one. Second night: say *no one is a stranger twice* and treat them as of the table. | Will not make them Turn. Will not ask what they *are*. Will not sell the sentence as a proverb. |
 | Anyone at an ordinary supper | The extra place is every meal that matters, not only the feast | Set it. A poor house still sets it. The hands make the extra possible. | Will not count the household as the bodies you can see. That is the one impiety. |
 | A guest on the mainland (attic) | They heard of a Moon-Feast; they are hungry; they are curious | Same two sittings, smaller room. Feed them. Say the sentence on the second night. Treat them as kin *inside the room*. | Will not walk them to a warden to be filed as belonging. Will not stamp a book. Will not collect for a hall across the water. |
-| A rare Struck on the isle | A drowning, a death, a green taking, uncommon enough to be family news | Feed them. Keep them in the household. Do not make a class of them. | Will not invent a mainland receiving-rite. Will not send them to a Tree that is not there. |
+| A rare Struck on the isle | A drowning, a death, a green taking, uncommon enough to be family news | Feed them. Keep them in the household. They are not treated as a class apart. | Will not invent a mainland receiving-rite. Will not send them to a Tree that is not there. |
 | A warden, a Book-hand, a Watcher who crossed | Courtesy, curiosity | They are a guest. First night, second night. The host will find their noon-faith *loud*. | Will not give them a Tree to tend, a book to stamp, or a Night Watch to keep. There is nothing here for those jobs. |
 
 ### A bright night on Kumbaan
@@ -647,8 +648,8 @@ Struck table-keepers on the mainland must still be vouched anew if they want to 
 |---|---|---|
 | the Tree-Wardens | Almost no contact. A warden who crosses the storm-wall is a guest at supper. There is no Tree to tend. | No mission-chapter on Kumbaan. No moon-warden on the mainland. |
 | the Watchers | A Watcher who crossed would find the night already kept, for a different reason. | No Night Watch on the isle. |
-| the Book-Hands | A Settler who sits twice has been called kin in a language with no book. | Do not turn the sentence into a term. |
-| the Door-Keepers | Ancestor-meals set a place for the dead who stayed in the ground. A traveller can mistake that place for the extra seat. The dead in the ground are not the hands that fetch and pour. | The isle is not a grove. |
+| the Book-Hands | A Settler who sits twice has been called kin in a language with no book. | The sentence is a courtesy, not a term. |
+| the Door-Keepers | Ancestor-meals set a place for the dead who stayed in the ground. A traveller can mistake that place for the extra seat. The dead in the ground are not the hands that fetch and pour. | The Door-Keepers walk no doors on Kumbaan. |
 | the Shore-Sitters | Sister house. They sit the storm-beach. A living wreck they walk uphill; they do not seat on the sand. | A Table-Keeper does not go down to wait. The sand decides *alive*; the hall decides *kin*. |
 
 ### How they live in the three corners (and off the map)
@@ -664,9 +665,9 @@ Vaethorn, Lestrand, and Threnmaieth barely reach this house.
 
 On Kumbaan, the second sitting is how you belong. On the mainland, you belong because a town watched you Turn.
 
-A table-keeper abroad who treats the second supper as kin-making is keeping Ndeyaan. The warden, the clerk, and the Book-hand who smile and file them as a guest are keeping their own rule for belonging. The sentence does not cross the storm-wall intact. Their claim stays. They say, "We were never lacking," and they hold that a Tree on the isle would not have turned wanting into a gift the good people had missed. The injustice a table can meet now is smaller and sharper: hospitality that is nearly law on one side of the water is a proverb on the other, and romanticizing the Moon-Feast is itself a slight.
+A table-keeper abroad who treats the second supper as kin-making is keeping Ndeyaan. The warden, the clerk, and the Book-hand who smile and file them as a guest are keeping their own rule for belonging. The sentence does not cross the storm-wall intact. The hardest case is Turning-Week: a child of the table, a host who will not walk them to a Tree, a neighbour who will, and a door that shuts on the last day of Eolthael.
 
-They do not keep the wardens' scion-queue, the Book-hands' year that fades when the poor cannot pay, or the Watchers' recut beam. An attic-host is one person and one supper, with no authority outside the room.
+Hospitality that is nearly law on one side of the water is a proverb on the other, and romanticizing the Moon-Feast is itself a slight. They have no scion-queue and no mission. An attic-host is one person and one supper, with no authority outside the room.
 
 ### Economy of the house
 
@@ -680,7 +681,7 @@ Badly copied by a Strandor sailor who did come back, and sold on a Lestrand quay
 
 > *We have counted you. Sit. If you have a name we have not learned it yet; if you have a colour we have no tree to read it. The moon is enough light. Eat, and be the household. And if you sit again, you are not a stranger. This is not a proverb. Do not sell it as one.*
 
-On its face: hospitality, almost twee, already half-ruined by the quay-copy. The last two lines are the table-keeper's, added when she saw him copy the blessing; he sold them anyway. The card is how Lestrand files the Njaalo: a Moon-Feast story, lucky if you eat twice. The woman in the attic still sets the place.
+The card is a hospitality blessing, half-ruined by the quay copy. The sailor thought it was a grace. On the isle it is a legal sentence in all but parchment. The last two lines were added by the table-keeper when she saw him copy the blessing, and he sold them anyway. Lestrand files the Njaalo as a Moon-Feast story, lucky if you eat twice. The woman in the attic still sets the place.
 
 ---
 
@@ -721,13 +722,13 @@ The night before he was walked uphill. Copied later as a quay-story, badly.
 
 > *We did not fetch you. The wall does not owe you a hand. Sit until you can walk. If you walk, there is a hall. If you do not, we will still take you off the sand. Do not thank the sea. It was not kind. We were only here.*
 
-On its face: cold courtesy. The sailor heard a rescue. It was a wait.
+The sitter sounds cold, and the message is plain: they did not fetch the sailor, the wall owes nobody a hand, and what he got was a wait, not a rescue. They do not say the crossing was a gift or a pilgrimage the Mother arranged.
 
 ---
 
 ## The Slide
 
-The lived face of illicit Tithe-supply. They are not clergy, and they are not one of the five faiths. They are the house for the week you cannot pay. They do not help you pay a Tithe. They keep you at the moment you start to fail, and they make that failure useful.
+The lived face of illicit Tithe-supply. They are not clergy, and they are not one of the five faiths. They are the house for the week you cannot pay. They do not help a person pay a Tithe. They step in when a person starts to fail, and they make the failing last.
 
 Everyday: **the Slide**, also **week-keepers.** Cant: **the Vaethledd** (VAYTH-led). Vaethorn says **the last pot** (or *gift-credit*, when the commons have run out). Lestrand says **week-rent** the way it says landlord. Threnmaieth files nothing; the roll already has a counted hall. A clerk who knows will say **the late week**.
 
@@ -740,7 +741,7 @@ They do not rewrite Bound Terms, steal scions, or sell a false Turning-witness.
 - **A practice with a key.** There is no seat, no colour, no roster, no cellar liturgy. You are of the Slide when someone comes back next week. Reputation. When they die, the book of weeks goes to whoever still has a pot, a room, or a key.
 - **One job.** Furnish just enough Tithe-supply that the person does not become a public hazard, and never enough that they recover. The product is the week. The price is remaining theirs.
 - **They call it rent.** They extend. They keep a book. They will tell you, "I kept someone whole." A kind face, a real key, a measured withhold later.
-- **They are not the official halls.** They do not stamp books, Speak colours, walk old doors, or open a hill-hall. They do not run the town greenhouse, the counted ael-hall, or a licence-guild. Those are the doors that make a person wait. The guilds will pretend not to know these people. That pretending is already part of the town.
+- **They are not the official halls.** They do not stamp books, Speak colours, walk old doors, or open a hill-hall. They do not run the town greenhouse, the counted ael-hall, or a licence-guild. Those are the doors that make a person wait. On ordinary days the guilds pretend not to know these people. When an official gate closes on purpose, the pretence is over, because the guild and the Slide are then serving the same street.
 
 ### If you meet one
 
@@ -757,7 +758,7 @@ They are useful the way a week is useful. They do not stamp a book, Speak a colo
 | A Taken-In cut off from land | The greens-queue is longer than the wilt | Rent a pot, a strip, a night on living dirt. Extend if the week cannot be paid. | Will not give them a commons-share that lasts. Will not walk them to a warden to be filed as housed. |
 | A Far-Voiced who lost a stage | Isolated posting, dull labor, nowhere to vent. A feeling is about to break into everyone in earshot. That is the Cry. | A room, an hour, a door that shuts. One outlet. The next week is the same week. | Will not find them honest work. Will not let the Cry happen in the street. That brings the watch, and ruins the book. |
 | A Long-Lived whose novelty has thinned | The endowment is late; the fade has started | A page, a letter, a gossip that is *new enough*. Rationed. | Will not endow a library. Will not be their deathless patron in public. |
-| An Unbound losing warmth | Company costs; the hole is getting loud | Sit with them. Be known, a little. Charge the sitting. | Will not be family. Will not sign them a new Bargain. That is another table. |
+| An Unbound losing warmth | Company costs; the hole is getting loud | Sit with them. Be known, a little. Charge for the company. | Will not be family. Will not sign them a new Bargain. That is another table. |
 | A Bound behind on *civic* coin | Rent, a guild fee, a year that will not close | Hold the debt. Extend. Use the hold. | **Will not rewrite Terms.** Money, not a clause. Will not sell a cellar-easing. |
 | A Returned whose Purpose pays nothing | The work the dead want is not a trade | A week of keep so they can keep walking. | Will not furnish the Purpose. Will not send them to a plague-ward unless the ward pays *them*. |
 | A family, before the town sees | A child or a parent is sliding; they will pay so the square does not | Take the week. Take the family's coin. Keep the person *quiet*. | Will not tell the warden. Will not make the slide a sermon. |
@@ -781,13 +782,13 @@ A key. A pot, a spare room, a stack of pages that are new enough. A book of week
 - They will not pretend to be clergy. No colour, no book-stamp, no door-walk, no extra place.
 - They will not rewrite a Bound's Terms. They may hold a Bound's *rent*. That is money.
 - They will not steal a scion or sell *I watched you Turn.*
-- They will not push someone over the scary edge on purpose. A corpse, a public Cry, a wilt the town can see: a ruined week and a ruined name.
+- They prefer not to push someone over the scary edge. A corpse, a public Cry, a wilt the town can see: a ruined week and a ruined name. Nothing stops a keeper who is losing the book from withholding too far, and a measured week can miss.
 - They will not run a mission, a cellar-church, or a Kumbaan export. There is almost no Tithe on the isle to own.
 - They will not call the week a gift. They will also not call it a cruelty. They call it a week.
 
 ### Who may keep a week
 
-**Whoever has the pot and the book.** A human, a Kitsune, a Selkie, or a Tengu who has a pot and a book can be of the Slide. A Yumboe abroad who charges for the extra place has broken the Open Table's rule. That breach stays the table's impiety. It does not make them a week-keeper.
+**Whoever has the pot and the book.** A human, a Kitsune, a Selkie, or a Tengu who has a pot and a book can be of the Slide. A Yumboe abroad who has started charging for the extra place has committed a different sin, one that belongs to the Table-Keepers' argument and not to the Slide.
 
 **By practice first.** You are of the Slide when someone comes back next week, and you still have the key. There is no apprenticeship confirmed by anyone. A cousin who extended once and then let the person recover was kind. They are not of this house.
 
@@ -800,7 +801,7 @@ A key. A pot, a spare room, a stack of pages that are new enough. A book of week
 | A page that is new enough | a Long-Lived clerk, a junior at a deathless house | novelty is already what their year runs on | anyone who can still find a rumour the fade has not heard |
 | The book of weeks itself | whoever can read a late face | the house is the count, not the crop | a Kept broker, unencumbered, can move, can carry the book to the next town |
 
-The feared-licensed are not barred. A Stilled who rents stillness-hours is rare and tightly watched. A Bound who holds civic debt is money, not a Counterparty.
+The feared-licensed are not barred. A Stilled who rents stillness-hours is rare and tightly watched. A Bound who holds civic debt is dealing in money, not in a Counterparty's Terms.
 
 ### How they live with the other houses
 
@@ -811,14 +812,14 @@ The feared-licensed are not barred. A Stilled who rents stillness-hours is rare 
 | the Book-Hands | A Settler who marked *owing* has just made a customer. The clerk will watch them walk down the quay. | The Slide does not stamp. The clerk does not furnish. The Bound they cannot help is still not this house's Terms to rewrite. |
 | the Door-Keepers | A Struck named *kin* at a door still has a Tithe. Kinship is not green. | A drowning-stone is not a rented lot. |
 | the Table-Keepers | No contact that matters. The second sitting is not a week. | They do not charge for the extra place. That is a different faith's one impiety. |
-| Official halls and greens | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | The same halls are called a public good, the crown's channel, or the posted market, depending on the land. The Slide is the house they pretend not to know. |
+| Official halls and greens | The official hall, the counted green, the licence. The town is glad someone "takes the late ones." | The pretence ends when the official gate closes on purpose. The worst case is a public wilt or Cry that the gate caused. |
 
 ### How they live in the three corners (and off the map)
 
 - **Vaethorn (the last pot).** This is where the pious version lives. The commons ran out. A cousin still has a pot. They will say they are tending a gift. The quiet obligation is the week: you are helped, and you are theirs. Public help here already shades toward service you cannot refuse. The last pot is that pressure, kept private.
 - **Lestrand (week-rent).** Ordinary. Posted, almost. A leaf-lot by the season is already the honest market. The Slide is the lot that will still open after the season-fee failed, at a price that is the next season. No sermon. A landlord.
 - **Threnmaieth (the late week).** The crown already holds Tithe. The Slide does not compete with the counted hall on ordinary days. They sell the week the hall is late, the extra green the roll does not cover, the novelty the archive will not release. They look like a clerk. The crown's count is cold and precise. The Slide is the week that count cannot write down without admitting the channel failed. The roll pretends not to know.
-- **Kumbaan.** Almost no Given Tithes. A wreck walked uphill is a guest. The hall does not make them a debtor.
+- **Kumbaan.** The Slide has no work there, because the isle has no Tree and almost nobody on it carries a Given Tithe. A wreck walked uphill is a guest, not a debtor.
 
 ### The week that will not end
 
@@ -826,9 +827,9 @@ Whoever supplies a Tithe that someone else depends on holds power over that pers
 
 The town is glad. A person who is quietly almost falling is not a Cry in the market. A devout neighbour can say the gift is still being tended. A crown clerk can say the channel held. The quay can say the owing was marked and someone took them in.
 
-A kind Mother, if she is there, does **not** make the week fair. The need is the Tithe. People built the book of weeks.
+The Motherfaith says she gave the need. The book of weeks is people's work, and nobody in a town expects the Tree to make the week fair.
 
-They do not keep a scion-queue, a rewritten civic year, or a sentence that fails at the storm-wall. This house's limit is the measured week: one key, one person, and no authority except the hold the Tithe gives them.
+The house has no queue of scions, no refinancing, and no authority except the one the Tithe gives its keepers: one key and a measured week.
 
 Adding a Term to a Bound, and selling a person who will swear they watched a Turning, are other trades. The Slide does not do either. Those trades are the Holding Desk and the Standing Trade.
 
@@ -845,7 +846,7 @@ Lestrand leaf-lot, pinned inside a door that still opens after the season-fee ha
 
 > *One week of the lot. Extended. Do not let the pot dry. If you cannot come, send a child. The week is the same week. We do not call this a gift. We do not call it a debt. Come before the leaves turn. If you have already turned, come anyway.*
 
-On its face: a landlord being practical, almost kind. Underneath, the product is not falling. They think they refused the Mother's word. They also refused the word "debt," which is how the book stays a book of weeks and never quite closes. The line "If you have already turned, come anyway" is the house's whole case: becoming did not save you from needing them. The child who carries water is learning the trade.
+The slip is a landlord's, practical and almost kind. The product is not falling, and the slip never calls the week a debt, which is how the book stays a book of weeks and never closes. "If you have already turned, come anyway" is the house's whole case: becoming did not save anyone from needing them. The child who carries water is learning the trade.
 
 ---
 
@@ -869,15 +870,15 @@ Everyday: **the Standing Trade**. A buyer asks for "a standing." A seller says "
 
 They are not the Slide. They do not rent a week. They are not the Holding Desk. They do not write a Term. The product is a person who will stand and say they watched.
 
-**Nomele of the Hinge** *(no-MEL-eh)* works the Old Crossing face — the Hinge Shore more often than Orentel, because a hinge has two sides and a standing has to travel. They do not sell paper. They sell who will walk with you to the next Tree.
+**Nomele of the Hinge** *(no-MEL-eh)* works the Old Crossing face — the Hinge Shore more often than Orentel, because the Old Crossing has two shores and a standing has to travel between them. They do not sell paper. They sell who will walk with you to the next Tree.
 
-The market fails in public when a voice still reaches a bought witness and they will not answer that Far-Voiced call, or when an honest Long-Lived is asked to Blood-Read the seller. They taste one drop of blood and see a true memory.
+The market fails in public when an honest Long-Lived is asked to Blood-Read the seller. They taste one drop of blood and see a true memory, and if the memory is the sale, every standing that seller has sold dies with it. It also fails when a Far-Voiced sells a feeling of belonging and a Cry in the same square spreads that false feeling to everyone in earshot.
 
 ## The Reckoned Offices
 
 Everyday: **the Reckoned Offices**, or just **the tablet offices**. They are four jobs the Tallied Crown already had, now with names a traveller can ask for at the hall. Naming them did not found a church, and it did not found a country. They sit in the tablet-hall at Maiethlir. The grove and the First Seat are other buildings. Rithim is still town Speaker. These offices speak for the roll. They do not replace Rithim. The fight is the space between a colour Spoken in the square and a name written down.
 
-| Mouth | Job | What they want |
+| Who | Job | What they want |
 |---|---|---|
 | **Menirein** *(men-EE-rayn)* | registrar | the roll complete. An unlisted child is a child the crown cannot keep hale. |
 | **Tarvae** *(TAR-vay)* | Reckoned Speaker | Speaking and filing to stay one act. A colour Spoken and not written is a seeing that can be stolen. |
@@ -888,34 +889,147 @@ They recruit by office and practice, not by Kind. Long-Lived memory is common at
 
 ## The Pourers
 
-Everyday: **the Pourers**, also **the Cup Circle**. Neighbours say **the five-year cup** with the smile you use for a rich uncle's hobby. The Motherfaith calls it private tending. The Fair Hand will not stamp it — there is no Counterparty they can see.
+Everyday: **the Pourers**, also **the Cup Circle**. Neighbours call the practice **the five-year cup**, because five years is what the circle asks of a member in all, and they smile when they say it, the way people smile about a rich uncle's hobby. The Motherfaith calls it a private devotion. The Fair Hand will not stamp it, because they cannot see anyone on the other side of the deal. The Watching counts it as one more cost of a long life, and says it has nothing to do with the Mother. The Old Ways do not treat it as a sacred place or a door. The Open Table has no use for it.
 
-They are Long-Lived who keep a cup and say they poured years into it so the rest of a deathless life can still be walked. No colour falls. No warden Speaks it. The cup is not a Leaf-Fall, and they are not one of the five lived faiths.
+They are Long-Lived who give years of memory into a cup, one year at a time, so they can keep living without carrying everything. They say the cup holds a god they made. That claim is the centre of the practice. It is not a Turning. No leaf falls, and no warden Speaks a colour. It is not one of the five lived faiths.
 
-**Molevad** *(mo-LEV-ad)* keeps the minutes of the best-known circle, on a long-house shelf in Lestrand library country. They look five years emptier and still themselves. They will tell you, "We invented the listener." The face they say that listener wears changes from decade to decade. The clause does not. Years go in. Knowledge is kept. The cup does not Give a leaf and does not catch a death.
+### If you meet one
 
-Reimaethe on the rise in Orentel poured four years into a cup and wants to stop before the fifth. Neighbours call it a hobby. That is the public fact.
+You meet a Long-Lived person with a small, ordinary cup. They have given some of their years of memory away, one year at a time, up to five. They are missing those years, and they are still recognizably the same person. They will tell you they invented the god on the other side of the cup. They will describe how their circle pictures it this decade: as a librarian, a quiet guest, or a child who never left home. The picture changes. The rule does not. Members give years. The cup keeps what they gave. The cup cannot Give a Condition, and it cannot save anyone from death.
+
+**Molevad** *(mo-LEV-ad)* keeps the minutes of the best-known circle, on a long-house shelf in Lestrand. Molevad comes from an old quay that the sea has worn down, and is the oldest member in the room. Molevad keeps the book and the key to the shelf. Molevad is not a priest.
+
+A second, quieter circle meets in Orenbren, in an upper room of a lodging-house that once slept travellers. It keeps the same practice. It does not ask Molevad's circle for permission, and the two circles do not write to each other.
+
+### The ask
+
+Every Long-Lived person is asked once to join the Pourers. A member asks them in person. At the long-house shelf in Lestrand, a member of Molevad's circle asks. In the upper room in Orenbren, a member of that circle asks. A Long-Lived person who lives in another town is still asked once, by a member who can reach them. A person who has already been asked says so, and that answer stands.
+
+The invitation is real. The member asks because the circle will accept the person who says yes. A yes makes them a member.
+
+A refusal is not punished. The person keeps their standing. People still consult them, and the work a court, a guild, or an archive already gave them stays theirs. A long-house still seats a person who refused. Most Long-Lived people are not members. Every Long-Lived person knows the circle exists.
+
+### The gift
+
+A member gives **one year** into the cup. Each year is its own night, with its own minutes, and the member may stop before the next one. Five years is what the circle asks of a member in all. Members say they give "the memories that year held, and the year itself." Each year given means three things.
+
+- **The memory goes into the cup.** The member puts a single drop of their own blood in the cup, because Long-Lived already read memory from blood. Afterward the member no longer has the memories of that year. They still need to keep learning, as every Long-Lived does. What changes is that they no longer carry that year of other people's funerals.
+- **The papers go onto the shelf.** The member also gives the long-house shelf everything they wrote or kept in that year: letters, account books, diaries, and court notes. The papers are not put in the cup. They are filed on the shelf under the member's name. Other members can read them, and so can a visitor Molevad allows to read them. Letters name other people, and those people were not asked before their letters went onto the shelf.
+- **The long-house counts the member one year younger.** At a long-house that keeps the circle, a Long-Lived person's age and standing are counted only in the years they still remember. A member who has given three years is seated as if they were three years younger. Among the Long-Lived, age decides who speaks first, who judges a hard case, and who keeps a key, so every year given costs a member rank inside those long-houses. Courts, guilds, banks, and Long-Lived who are not members keep counting the ordinary way. The same person can be a bank's most senior clerk and sit below a younger member at the long-house.
+
+Members can read the cup the way a Long-Lived reads a drop of blood. What they read is true. It is also mixed: one reading can hold memories of the same year from more than one member. The oldest member writes down who gave which year, how the circle described the god that decade, and whether anyone asked to stop.
+
+### Leaving
+
+A member may stop before the next year, or leave the circle. The years already given stay in the cup. The circle gives back the papers from those years. It does not give back the memory. Members call the returned papers a **thinner copy** of what was given.
+
+The real cost is social. The circle treats the person as someone who weakened the god. Other Pourers will not read blood with them. A long-house that keeps the circle will not give them a seat. They are free to go, and they will be alone among the other people who do not age.
+
+**Reimaethe** *(RYE-may-theh)* lives in a rise-loft in Orentel. They have given four years, one at a time, and want to stop before the fifth. They want their papers back, thin as that copy is, because the papers are all the circle returns. Neighbours still call the loft a hobby.
+
+The members who have asked to stop are called the withdrawers. They have each given one or more years. They do not all want to stop for the same reason. They are not a second circle, and they keep no minutes. When a circle meets, a withdrawer stands in the passage and does not go in. They will not say why they stand there instead of going home.
+
+### The work
+
+Members keep the library on the long-house shelf in Lestrand. That shelf is the deathless library on the Ledger Coast. They copy the Old Tongue, and they copy the common speech people already use. The copies stay on the shelf, beside the papers members have given with their years. Molevad keeps the minute-book on the same shelf. The circle in the upper room in Orenbren keeps the records of its own meetings. People use the books and the copies. The work is real.
+
+They do not take over medicine. That work stays with the Stilled. Towns already call on the Stilled as surgeons, menders, and peacekeepers.
+
+### What the circle says it made
+
+The circle calls the presence in the cup the Cup We Made. On a quay people call it the Poured God. Its name is **the Unspent**. It is a small household presence that stores the memories it is given, and the circle says they made it. It does not make plans. It cannot Give a Condition or Strike anyone into one, and it cannot make anyone Long-Lived. If a member asks the cup for more years, a second Condition, or a rescue from death, the cup only keeps what it already holds.
+
+In Lestrand the Pourers are an ordinary hobby that happens to have a library key. In Vaethorn a preacher who needs a sin may call the cup an insult to the Mother's gift, and most households will not notice. Threnmaieth wants the minutes on its roll. Molevad's circle files nothing the crown could use.
+
+### From the minutes
+
+On the Lestrand long-house shelf, in Molevad's hand. Someone drew a face in the margin and scratched it out twice.
+
+> *One year from S. into the Cup We Made. Face this decade: the quiet guest. Blood as record. The circle read a year that was not only S.'s. We do not write which. If S. asks the years back, the return is thinner and the copy stays. If S. asks the cup for a leaf, the cup keeps what it already has. We made the listener. We will not stand it in a square. We will not say Mother. We will say the shelf.*
+
+These are the circle's own words. They record a member, S., giving one year. They say that a reading of the cup held memories of a year that belonged to more than one person. They say what happens if S. asks for the years back: the papers come back, and the memory stays in the cup. The scratched-out face in the margin is the circle changing its mind about how to picture the god.
 
 ## The Walled Book and the Inner Close
 
-Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. The place: **Rothallo** *(roh-THAL-oh)*, Orenbren's walled capital, one day's walk from the Motherwood. People still say **the Inner Close**, and **the Close**. The walls answer to those names. It is the same city. It stays inside Orenbren, and it is not a realm of its own. Orenbren treats the walls as a guest-compact that never opened. Threnmaieth treats them as a roll that will not share ink. The First Seat stays in the wood. Rothallo is not the college.
+Everyday: **the Walled Book**. The class that keeps it: **the Closed Heirs**. The place: **Rothallo** *(roh-THAL-oh)*, Orenbren's walled capital, one day's walk from the Motherwood. People still say **the Inner Close**, and **the Close**. The walls answer to those names. It is the same city. It stays inside Orenbren, and it is not a realm of its own. Orenbren calls the arrangement a guest-compact: its inns lodge anyone outside the wall, and the Book rules inside it. Threnmaieth treats the Book as a rival roll, because the Book will not let Threnmaieth's clerks copy its pages. The First Seat stays in the wood. Rothallo is not the college.
 
-This is political class rule. They do not Speak colours. They classify. Folk still say there was an older empire of the untithed, and that it sat on the grove. The part of that saying that holds is a gate that grew into a country. The everyday historical name is **the Closed Seat.** The walls are what is left.
+This is political class rule, not a church. They do not Speak colours. They classify. Folk still say there was an older empire of the untithed, and that it sat on the grove. They are right. The everyday historical name for it is **the Closed Seat.** The walls are what is left of it. How the Closed Seat broke is the history of the Closing. The Book is present tense.
 
-**Delamem** *(del-AH-mem)* keeps the Book of Tithes. They will tell you, "The Book is housekeeping." The page that assigns labour is in the same hand as the page that assigns a hearth-tax. **Talnin of the Inner Close** *(TAL-nin)* is a Closed Heir of the present generation. The name is on the heir-roll. Talnin's tenth year, the Leaf-Fall year, is not finished.
+### If you meet one
 
-A Closed child Given at the next Leaf-Fall is the house's fear. Threnmaieth copying the Book onto the Threnhael is the other.
+They look like lodging-gentry who never took a Tithe. They do not take the heavy turns of work inside the walls. Each one carries a key to a gate in the wall, and a person with a Condition may not carry that key. You would miss them as clergy. You would find them if you asked who still decides what a Given owes besides the Tithe they already carry.
+
+**Delamem** *(del-AH-mem)* keeps the Book of Tithes. Delamem will tell you the Book is housekeeping. The page that assigns labour is in the same hand as the page that assigns a hearth-tax. **Talnin of the Inner Close** *(TAL-nin)* is a Closed Heir of the present generation. The name is on the heir-roll. Talnin's tenth year, the Leaf-Fall year, is not finished. Delamem has already drafted the turns of work for the case where the leaf is not a hug.
+
+A Closed child Given at the next Leaf-Fall is the house's fear. Threnmaieth copying the Book onto the Threnhael is the other. The third is Orenbren deciding the guest-compact is a bed-tax.
+
+### What a visitor sees
+
+A visitor to Rothallo does not need to read the Book to see the rank. It shows in four places.
+
+- **Where a person sits.** At a meal in a Closed house, the Kept sit at the end of the table nearest the host. A guest who received a Condition is shown to the far end, past the last Kept guest. When the Book is read aloud in the Book's house, the Kept sit on the front benches and everyone else sits behind them. Nobody is turned away from the table. The host says where each guest sits, and the guest is expected to sit there.
+- **Whose word is taken.** When two people disagree in front of a clerk of the Book, over a debt, a boundary, or a broken pot, and one of them is Kept and the other has a Condition, the clerk writes the Kept person's account as what happened. The other account is written underneath it as "also said." The person with a Condition can still win. To win, they need a second Kept person to say the same thing they said.
+- **Who holds a key.** Only a Kept person may hold a key to a gate in the wall, to the Book's house, to a cistern, or to a granary. A person with a Condition holds the key to their own door and to their own stall, and no others.
+- **What the school teaches.** The children of the Closed houses learn their letters at a school beside the Book's house. Other families inside the walls may send a child if they pay. The teacher, **Volnai** *(VOL-nai)*, tells the children that a hug is rare, and that a child the Tree hugged was kept back for something better than a colour. Volnai believes this and teaches it every year.
+
+A person with a Condition who lives inside the walls works for wages, keeps what they earn, owns their tools and their household goods, marries whom they choose, and can own a stall. The Book writes a licence for that stall. A Kept stall-keeper needs no licence. A person with a Condition can walk out of the gate on any day it is open and live somewhere else. Nobody owns them. They are not slaves. What they cannot have inside the walls is the heir's place, a gate key, a vote in the Close's compact, or the first word in front of a clerk.
+
+### The lesson and the count
+
+The Close teaches that a hug is rare. It is not. Most towns have Kept neighbours, and the real shares are the ones given with the Conditions. Most Kept people have never heard of the heir-roll.
+
+What is actually rare is a family that has stayed without a Condition on purpose, generation after generation, and treats that record as a birthright. The Closed houses do it in two ways. An heir who receives a colour is struck from the heir-roll, so the roll only ever lists people who were hugged. An heir also does not swear the kind of oath that can Strike a person, and stays away from the other ways a person can be Struck where they can. After enough generations, every name on the roll belongs to a hugged person. A family like that is rare. Being hugged is common.
+
+Delamem and the other clerks of the Book can read the count. The school does not teach it. If a visitor brings the count to the Close, a clerk will say the count is someone else's record and does not bind the Close, and the school teaches the same lesson the next year.
+
+### The Book of Tithes
+
+The Book is a roster, not a hymn.
+
+- **Taxes.** Coin, board, and a cut of self-paying labour. An Answered shop inside the walls pays a craft-due the Ember-yard on the quay does not. A Two-Bodied ranging-week is scheduled as owed work before it is a ranging.
+- **Restrictions.** Where a person with a Condition may hold a key, a stall, or a vote in the Close's compact. The Kept hold those. A Given who keeps a stall does it as a licensed exception, written down.
+- **Turns of work.** Everyone who lives inside the walls owes the Close turns of work, the way a town expects each household to take a turn on the watch. The Book keeps the list of turns: green, hall, wall, road, and the beds outside the gate. A Kept household's turns are mostly the watch on the wall and the keeping of keys. A household with a Condition is given the heavier turns, and more of them, and the Book picks the turn by the Condition. The turns are not the Tithe. A person with a Condition owes the turns in addition to their Tithe. A person who does not want the turns can leave the city. The Book's list has no claim on anyone who lives outside the walls. The Book does not sell a person, lend a person to an employer, or hand a person over the way an owner hands over a worker. It cannot send for someone who has left.
+
+A Closed Heir who is **Given** at Leaf-Fall loses the heir's place. The hug keeps the name on the heir-roll. The colour takes it off. The person is still a person, and no longer a Closed Heir. The Book already has turns of work written for what they have become. A Closed Heir who is **Struck** later, by a drowning, an oath, or a death, is treated the same way. The Book strikes the name from the heir-roll when the clerks learn of it.
+
+The heir-roll lists only the Close's own heirs. Threnmaieth's Threnhael writes everyone and keeps them. The Book ranks people by whether they carry a Tithe, and will strike an heir for receiving a gift. Orenbren's sleep-line at the gate records who slept in a bed. The Book records who owes turns of work. Neither lets the other copy its page.
+
+### Outside the walls
+
+The Book stays inside Rothallo. The habit of ranking a hug above a colour does not. Three places show how far it reaches and where it stops.
+
+- **Orenbren, outside the wall.** The lodging-guilds do not ask a guest's colour, and the sleep-line at the gate does not record it. Near the gate it is different. An inn that wants the Closed houses' business keeps its best table for Kept guests on the nights a Closed house dines there, and moves a guest with a Condition to another table if the Closed house asks. The guild does not forbid this. In Turning-Week, when the Close will not lodge a Given pilgrim, the inns outside the wall take that pilgrim in. Some of them charge more for it.
+- **Vaethorn, which rejects the ranking in public.** At Eolvaeth, the gift-hall teaches that a colour is the Mother's gift and a hug is the Mother keeping a child as they are, and that neither makes a person better than the other. The gift-hall says out loud, in its Eolthael preaching, that the Close's teaching is wrong. A Given person who has left the Close can eat at the gift-hall without being asked for a house. That is why **Hithaen** *(hith-AYN)* walked there. The Waiting Lands have their own unkindness, the other way round: a hugged child there is sometimes pitied as passed over by the Mother. The two teachings disagree with each other. Neither one matches the count.
+- **Brenthael, which copies the seating.** Brenthael is the town with its own Tree a day's walk past the Third Hearth on the Near Mile. At its Turning-Week supper in the square, Kept people sit on the benches nearest the Tree, and people with a Condition sit on the outer benches, even when that splits a family. A child who has just received a colour gets up from an inner bench and moves to an outer one before the food is served. Brenthael has no copy of the Book, no heir-roll, and no list of turns. Nobody in the town can say when the seating started. They keep it because it is how the supper has always been laid out.
+
+### A leaf from the Book of Tithes
+
+Inner Close, Delamem's hand. The line for heirs and the line for turns of work share a fold.
+
+> *Talnin, Closed, heir. If the fall is a colour, strike heir. Enter labour under the colour as the page already holds. The hug keeps the line. We do not file this as a slight. We file it as a house. Orenbren may lodge who they witness. They may not lodge who we rank. The Threnhael may count who they can see from the river. They may not copy this page. A gift is a gift. A gift is not a seat.*
+
+This is a page from the Book of Tithes. It records an heir, says the Book will strike the name if the Tree gives a colour, and tells Orenbren and Threnmaieth that neither may copy it. Delamem writes that the Book does not mean the striking as a slight, and that is how a child learns that a leaf can take a name.
 
 ## The Protectors (as the square knows them)
 
 Everyday, when anyone speaks of them: **the Protectors**. The building the world is allowed to know: **the Care**. A hospice-endowment. Old money. A closed court. The story that travels is that the one Phoenix is being kept safe, and that is why no town has seen them in a generation.
 
-Doctrine says there cannot be two. The Care still "holds the Phoenix." A white-fire fall Spoken far away is filed as a mis-Speaking or a hush.
+The Care says it holds the Phoenix, and says there is only one. They worship the one. They do not hold the worship in a square.
 
-**Vimein** *(vih-MAYN)* keeps the outer book of the Care. They will say the Phoenix is in care. They will not produce them. They will offer a viewing of the closed court, a hymn that does not name a Mother, and a request that you not carry a story back to a square that has finally gone quiet.
+**Vimein** *(vih-MAYN)* keeps the outer book of the Care. Vimein speaks quietly and says little. They will say the Phoenix is in care. They will not produce them. They will offer a viewing of the closed court, a hymn that does not name a Mother, and a request that you not carry a story back to a square that has finally gone quiet.
 
-You would take them for a hospice clerk. You would be right about the building.
+You would take them for a hospice clerk, and the building is a hospice.
 
-What a neighbour can see: a hospice that endows its own heat and light; letters from wardens that do not come back answered; a generation of squares that speak of the Phoenix as already gone and as still in care, in the same breath.
+What a neighbour can see: a hospice with old money and a closed court, and a generation of squares that speak of the Phoenix in the past tense and the present tense in the same sentence.
 
-How the Care stays warm is not told here.
+What they admit to refusing: they will not parade the Phoenix, because they say every square was staring at the one and the Care ended that. They will not open the inner court to a relic-hunter or to a Speaker who wants a colour-copy. They will not work a Kumbaan wreck. They will not stamp a ticket or rent a week.
+
+### A visitor's slip
+
+The Care, Vimein's hand. The inner court is not on the slip.
+
+> *The one is in care. The stories may rest. We do not produce a person for a square that has already decided what they mean. If you have come to worship, the hymn is said in the closed court and not in the street. If you have come to hunt, you will find a hospice. We keep the one. We keep the quiet.*
+
+These are the Care's own words to a visitor. They say the Phoenix is in care, that nobody will be shown them, and that the Care would like the story left alone.
+
+What happens in the inner court is not told here.

@@ -10,13 +10,13 @@ You are born with the shape of a body and a bloodline. That is **Kind**. Human, 
 
 There are two paths, and which path a person took is the main division in society.
 
-Children gather with their families around a **Turning Tree** for the **Leaf-Fall**. That is a child's tenth-year solstice. A living cutting of the origin Tree stands in every town. That is a **scion**. Leaves fall and wrap around each ten-year-old. A colour falls, and a Condition is **Given**; the leaf-colour names which one. It is ceremonial, expected, proper. A Given child grows up already knowing what they will become, and is trained and guilded for it. No colour, but the leaves hug the child. That child is one of **the Kept**. The Tree keeps them as they are. That hug is a blessing in its own right. The Kept are wanted and special.
+Children gather with their families around a **Turning Tree** for the **Leaf-Fall**. That is a child's tenth-year solstice. Most towns have a living cutting of the origin Tree. That is a **scion**. A town that is too new, too remote, or has lost its Tree sends its children to a neighbour's Tree. Leaves fall and wrap around each ten-year-old. A colour falls, and a Condition is **Given**; the leaf-colour names which one. It is ceremonial, expected, proper. A Given child grows up already knowing what they will become, and is trained and guilded for it. No colour, but the leaves hug the child. That child is one of **the Kept**. The Tree keeps them as they are. That hug is a blessing in its own right. The Kept are wanted and special.
 
 Later, some people are **Struck**. Some Conditions cannot be Given to a child. A ten-year-old cannot die and walk back. A child cannot consent to a contract. These arrive only when a person crosses a threshold later in life, and the threshold they cross decides what they become. No leaf, no ceremony. Onlookers call it tragic, miraculous, or a little suspect. Some of the Kept are Struck later.
 
-The sorting is simple. Conditions that need no act from the child are Given only: the Long-Lived (vampire), the Two-Bodied (werewolf), the Answered (djinn), and the Phoenix. Things a child physically cannot have done are Struck only: the Returned (death), the Bound (a sworn pact). A near-death a person can survive can be foreseen by the Tree or walked into by accident, and those Conditions come both ways: the Far-Voiced (siren), the Stilled (gorgon), and the Taken-In (leshy). A Given Far-Voiced (blue leaf at ten, guild-trained) and a Struck Far-Voiced (drowned at thirty) are the same becoming and very different people.
+The sorting is simple. Conditions that need no act from the child are Given only: the Long-Lived (vampire), the Two-Bodied (werewolf), the Answered (djinn), and the Phoenix. Things a child physically cannot have done are Struck only: the Returned (death), the Bound (a sworn pact). A near-death a person can survive can be foreseen by the Tree or walked into by accident, and those Conditions come both ways: the Far-Voiced (siren), the Stilled (gorgon), and the Taken-In (leshy). A Given Far-Voiced (blue leaf at ten, guild-trained) and a Struck Far-Voiced (survived a drowning at thirty) are the same becoming and very different people.
 
-Of the whole population, over a lifetime: about **60 percent Given** at the Tree, about **15 percent Struck** later, about **25 percent Kept for life**. The Given and the Struck together are the three-quarters who carry a Condition. At the ceremony itself, about 40 percent of children receive no colour; about a third of those will still be Struck someday.
+Of the whole population, over a lifetime: about **60 percent Given** at the Tree, about **15 percent Struck** later, about **25 percent Kept for life**. The Given and the Struck together are the three-quarters who carry a Condition. At the ceremony itself, about 40 percent of children are hugged and receive no colour; a little over a third of those children will still be Struck someday.
 
 ## The Tithe
 
@@ -45,14 +45,14 @@ Conditions are Daggerheart **Transformation cards**. Each card has a flavor line
 | Long-Lived | vampire | Given | ~2.5% | rare / revered |
 | Two-Bodied | werewolf | Given | ~18% | common |
 | Returned | zombie | Struck | ~7% | normal / quietly respected |
-| Bound | demon (by contract) | Struck | ~5% (includes the Unbound) | feared |
+| Bound | demon (by contract) | Struck | ~5%, counting the Unbound (about 3.5% currently Bound, 1.5% Unbound) | feared |
 | The Unbound *(the Hollow)* | the price of a contract | Struck, chains off Bound only | ~1.5%, *inside* Bound's ~5% | pitied / uneasy |
 | Far-Voiced | siren | Both | ~12% | revered |
 | The Stilled | gorgon | Both | ~7% | feared / guild-regulated |
-| The Answered | djinn | Given | ~10% | no single standing |
+| The Answered | djinn | Given | ~10% | wildcard (no single standing) |
 | The Taken-In | leshy | Both | ~13% | respected-but-looked-down / frontier |
 | Phoenix | phoenix | Given | <0.1% (one at a time) | legendary |
 
-The Kept are not on this table. They are the ordinary ~25 percent who receive no Condition. The Tree hugged them. They are wanted in their own right.
+The Kept are not on this table. They are the ~25 percent who carry no Condition for life. The Tree hugged them at the ceremony. They are wanted in their own right.
 
 ---

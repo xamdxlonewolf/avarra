@@ -6,13 +6,13 @@ You can walk into three places nobody dated: the Low Wall, the Seeing-Ring, and 
 
 The Low Wall stands in Orenbren lodging-country, in the first days out from the Motherwood. Rothallo is the capital, and people still say the Inner Close for that city. The stone is shoulder-high. Three gaps are used as gates. The name-stone is blank. A garden-end sits against an inn's back wall. The stone is a different quarry from Rothallo. The Close's claim that it is the same wall stays a claim. People found the wall already standing. It has no date.
 
-**Enter** by the cart-gap, the person-gap Rothallo still assigns labour walks through, the socket-gap an Old Ways first-meal uses, a crawl under the name-stone, or the garden-end loft.
+**Enter** by the cart-gap, the person-gap the Close's list of turns sometimes sends a walk through, the socket-gap an Old Ways first-meal uses, a crawl under the name-stone, or the garden-end loft.
 
-**Pressure.** The Book wants a chip that files as Rothallo's quarry. Watchers block a chisel. The lodging-guild wants climbers off before Eolthael.
+**Pressure.** The Book wants a chip that files as Rothallo's quarry. Watchers block a chisel. The lodging-guild wants climbers off before Eolthael, and the Close's walkers off the garden now.
 
-**Discovery.** A wrong quarry chip is still under the fill put down in Hale-month of C.Y. 381. The chip is the other quarry. It has no year on it. Rothallo's stone is the city's own. There is a pot-ring. A knife-ribbon was left in error. A Near-Mile kitchen knife on a ribbon marks a Closing summer in a house. The wall carries no date. The Tree carries no date. The fill names no enemy. The chip leaves the question open.
+**Discovery.** A wrong quarry chip is still under the fill put down in Hale-month of Cut-year 381. The chip is the other quarry. It has no year on it. Rothallo's stone is the city's own. There is a pot-ring. A knife-ribbon was left in error. A Near-Mile kitchen knife on a ribbon marks a Closing summer in a house. The wall carries no date. The Tree carries no date. The fill names no enemy. The chip leaves the question open.
 
-**Actors.** Delamem, of the Close, wants the chip filed as Rothallo's quarry. Thuda keeps the inn at the garden-end and wants the climbers off the wall. A Watcher at the panel blocks a chisel. An Orenbren guild runner brings the lodging-guild's complaint.
+**Actors.** Delamem, of the Close, wants the chip filed as Rothallo's quarry. Thuda keeps the inn at the garden-end and wants the climbers off the wall. A Watcher at the panel blocks a chisel. An Orenbren guild runner brings the lodging-guild's complaint. **Nurreith** *(NUR-rayth)* dug the name-stone's bed that summer for the lodging-guild, and will finish the afternoon if the bed is opened again.
 
 ## The Seeing-Ring
 
@@ -32,7 +32,7 @@ In the Saelthael Rain-Shadow, the Dry Stair is a rise above its own well-town. O
 
 **Enter** by the flight (skip the broken step), the door-stone threshold, or a crawl to a second dry basin.
 
-**Pressure.** The warden wants another pot. A clerk wants riser-scratches. A missed child needs overnight at the slab.
+**Pressure.** The warden wants another pot. A clerk wants riser-scratches. A child who missed Eolthael is unTurned, and the town will not call them Kept. Someone will ask you to sit the door-stone with them overnight.
 
 **Discovery.** A salt-white ring is there, mineral or brush-ash. The steps end at the door-stone and the dry basin. A later warden planted a slip in the upper basin. The slip died. What is left is a thumb of dead wood in a crack at the lip. The wood stays dead. People say the stair refused a mother. The rock was dry, and the slip died of that.
 
@@ -46,7 +46,7 @@ Ndenjoo is a hill-hall on Kumbaan. The own-name is *nden-JOH*, and sailors say *
 
 This hill has no Tree, and a mainland Turning does not run here. What the hill carries from the wall is people who arrived and did not leave, and people who want to leave and cannot book a thinning.
 
-Life is under the hill. You walk into a Pap and come out at a board. The extra place is set slightly back, every meal that matters. To omit it is the one impiety. Daylight is a Sabbath of sleep. A mainlander loud at noon is a problem the hall can feel in its teeth. On one night of the moon sailors call Yoltal, the heel of the loaf is eaten first. Ndenjoo will not say why. A guest who asks is given more bread.
+Life is under the hill. You walk into a Pap and come out at a board. The extra place is set slightly back, every meal that matters. To omit it is the one impiety. Daylight is a Sabbath of sleep. A mainlander loud at noon is a problem the whole hall feels. On one night of the moon sailors call Yoltal, the heel of the loaf is eaten first. Ndenjoo will not say why. A guest who asks is given more bread.
 
 **Getting there.** You cannot book a passage to Ndenjoo. You are on the sand or you are not. Soonke, who sits the storm-beach, decides whether you are alive. Njunda, who keeps the hall, decides whether you are kin. The second sitting is how you belong on the isle. A mainland watch keeps its own papers. A road-word still helps you leave a Strandoren quay before you sail. It is the mainland custom of being vouched for. On the hill, nobody asks for it. The shore-sitters leave the arrived where the beach put them.
 
@@ -54,7 +54,7 @@ An extra place is already laid. Nolas is off the ship because the hall counts th
 
 What can come up the hill is a wreck walked uphill tonight, the hands stopping, noon-noise, or a hull rumour.
 
-*Said to the extra place before the hands arrive, a bright night. A second line added in Njunda's mouth after Nolas sat twice.*
+*Said to the extra place before the hands arrive, a bright night. A second line was added by Njunda after Nolas sat twice.*
 
 > *We have counted you. Sit. If you have a name we have not learned it yet; if you have a colour we have no tree to read it.*
 >
@@ -62,11 +62,11 @@ What can come up the hill is a wreck walked uphill tonight, the hands stopping, 
 
 ## The Mill-hold
 
-The Mill-hold is the sick-Tree town. Everyday speech says *the Mill-hold*. Travellers who only saw the drain say *the culvert*. It stands in Orenbren lodging-country, two days past Brenthael on the Near Mile, six days out from the grove in the count the road already uses. Rothallo is the capital. Brenthael is the neighbour Hand, back toward the grove. A few hundred hearths sit around one mill-race and one canopy.
+The Mill-hold is the sick-Tree town. Everyday speech says *the Mill-hold*. Travellers who only saw the drain say *the culvert*. It stands in Orenbren lodging-country, two days past Brenthael on the Near Mile, six days out from the grove in the count the road already uses. Rothallo is the capital. Brenthael is the neighbour Hand, two days back toward the grove. Its Tree is sound. A few hundred hearths sit around one mill-race and one canopy.
 
 For a generation they Turned at home. In this Liren the culvert choked. It keeps spring-water off the roots. The mill-race stayed full. The Hand stood in it. Root blight is waterlogged soil, crowded roots, a drain someone assumed someone else cleared. It is this year. Unsound wood spends the week. The children walk in, toward Brenthael, because a warden who stands them under wood that cannot Turn has made them unTurned. A later summer does not repair this week.
 
-**Talen** *(TAH-len)* is town-warden. They will not stand a child under unsound wood, and they want the mill to still turn through Harvest. The same water is bread. **Milsun** *(MIL-sun)* is Taken-In and keeps the drain and a planting above the race. **Thurrei** *(thur-RAY)* is the Road-hand, here for the wood. The children are Talen's charge. The neighbour-slate is chalked on the mill-door: this year's ten-year-olds, and which Brenthael mouth has room.
+**Talen** *(TAH-len)* is town-warden. They will not stand a child under unsound wood, and they want the mill to still turn through Harvest. The same water is bread. **Milsun** *(MIL-sun)* is Taken-In and keeps the drain and a planting above the race. **Thurrei** *(thur-RAY)* is the Road-hand, here for the wood. The children are Talen's charge. The neighbour-slate is chalked on the mill-door: this year's ten-year-olds, and which Brenthael household has room.
 
 Mill-foam on the drain-lip keeps last Eolthael's colour a day longer than the water does. Milsun will not say why. Talen moves the foam with a stick. Thurrei wipes it off a pot-wrap and does not write it down.
 
@@ -84,11 +84,13 @@ The first-meal bread is always a little sour. Delvor says that is how you know t
 
 ## Nelath
 
-Nelath *(NEL-ath)* is where a side road stops. It is the road-end. People on the Near Mile say "the spur" and mean the road, then use the town's name once they are in it. It is a Tree-town in Orenbren's lodging-country, one square at the end of a side trip off the Near Mile. The junction is a day short of the Third Hearth, so the spur leaves the Mile before Thilim's road-house and before the Mill-hold's culvert. From the junction the spur is one more day, and then the canopy. Rothallo is the capital. Brenthael is the neighbour Hand on the main Mile. Harrow's Green is the grove-town in Saelvaeth's march. The First Seat stays in the wood.
+Nelath *(NEL-ath)* is where a side road stops. It is the road-end. People on the Near Mile say "the spur" and mean the road, then use the town's name once they are in it. It is a Tree-town in Orenbren's lodging-country, one square at the end of a side trip off the Near Mile. The junction is a day short of the Third Hearth, so the spur leaves the Mile before Thilim's road-house and before the Mill-hold's culvert. From the junction the spur is one more day, and then the canopy. Rothallo is the capital. Brenthael is the neighbour Hand on the main Mile, and the Mile goes on past it. Harrow's Green is the grove-town in Saelvaeth's march. The First Seat stays in the wood.
 
 The main Mile still goes on. This track leaves it and ends. When Hands made the origin-walk optional, this town brought the next stone in. Beyond the boughs there is a scar: a ditch, thorns, and the width of a road that is no longer a road. The spur ends with that scar, without a ford and without a neighbour's canopy.
 
-**Raetoth** *(RAY-toth)* is town-warden. They Speak the fall at home and want the stone left in the square and the scar left closed. **Lithsur** *(LITH-sur)* wants the stone back on the scar so a cut name is a day's mark again, and will bring a rope in Eolthael. The cistern is the day's drink. A notch on the stone still holds a little rain after the square has dried. A name is cut into the lintel over the upper room. Nelath will not say why the notch stays wet, or whose name that is.
+**Raetoth** *(RAY-toth)* is town-warden. They Speak the fall at home and want the stone left in the square and the scar left closed. **Lithsur** *(LITH-sur)* wants the stone back on the scar so a cut name is a day's mark again, and will bring a rope in Eolthael. The cistern is the day's drink. A notch on the stone still holds a little rain after the square has dried. A name is cut over the door of the upper room. Nelath will not say why the notch stays wet, or whose name that is.
+
+Hugs are less common on a sound Motherland Hand than elsewhere, but not rare. A family that needs a neighbour's Tree walks back to the Mile.
 
 The road-mend stops at the boughs. The thorns stay, and the spur stops with them.
 

@@ -2,7 +2,7 @@
 
 A Turning Tree is a broad, slow, long-lived hardwood. Its canopy is like a great oak or beech, but it is its own kind. It stands at the ceremonial heart of a town, usually in a square, a green, or a walled temple-yard kept for it. Out of season it looks like an unusually grand old tree, and townsfolk treat it as one: children climb the low boughs, courts and markets convene in its shade, lovers leave the bark uncarved, and to cut a mark in it is taboo. In the tenth-year solstice week it turns. The canopy shifts through colours no ordinary tree wears, and a leaf falls for a child, or the leaves close around them.
 
-People say **Turning Tree** for what it does at the solstice. It *turns*, and it *turns children into what they'll become*. The devout call each one **a Hand of the Mother**. In liturgy they call that wood **motherwood**. In the old liturgical tongue people call the Tree **Thaeloren** *(thae-LOR-en)*. *thael* is Tree and *oren* is to witness, and the name says the Tree witnesses. People shorten **Thaeloren** to **the Thallow**.
+People say **Turning Tree** for what it does at the solstice. It *turns*, and it *turns children into what they'll become*. The devout call each one **a Hand of the Mother**. In liturgy they call that wood **motherwood**. In the old liturgical tongue the Awakening Tree's own name is **Thaeloren** *(THAEL-or-en)*. *thael* is Tree and *oren* is to witness, and the name says the Tree witnesses. People shorten **Thaeloren** to **the Thallow**.
 
 ### The Awakening Tree
 
@@ -39,17 +39,18 @@ Two outcomes:
 - **A colour falls, and a Condition is Given.** One or more leaves of a telling colour drift down and settle on the child. The colour names the Condition. This is expected, "proper," celebrated. The child grows up already knowing what they'll become, and is trained and guilded toward it.
 - **The leaves hug, no colour, and the child is Kept.** Instead of a coloured fall, the ordinary leaves *gather and wrap the child*, a green embrace with no naming colour. This marks one of **the Kept**. The child is kept whole, and wanted in their own right. The faith holds the hug as a chosen kindness. The schism argues over that reading.
 
-The feel of the hour is a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again, or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. The **Tithe** is where the dread lives. A Condition must meet that upkeep.
+The feel of the hour is a held breath, a whole town watching a single child, a parent who was themselves Given the same colour weeping when it falls again, or a parent who quietly hoped for the hug. The Leaf-Fall itself is warm, weighty, and communal. Most of what is frightening in this world comes later, from the **Tithe**, the upkeep every Condition must meet. The rite has a shadow too, and it is human: a wrong word, a missed week.
 
 ### Turning-Week in a city
 
-A Gift can still be given only in that **one week**. The Tree is still at the centre. A city of tens of thousands keeps that one Tree and that one week. It **nests** the witness. The watching is split into smaller circles.
+A Gift can still be given only in that **one week**. The Tree is still at the centre. A city of tens of thousands keeps that one Tree and that one week. It does not grow a second rite. The city splits the witnesses into hearths.
 
-- **Stands are by hearth.** The neighbours who already know the child take named slots of the week. A festival schedule, like who has the square for the fair.
+- **Stands are by hearth.** A quay-gang, a courtyard, a guild-stair: eighty to two hundred people who already know the child take a named slot of the week, morning, afternoon, or eve. The week-slate says which hearth stands at which bell. It is a festival schedule, like who has the square for the fair.
 - **The warden says the colour or the hug aloud.** The colours are not written in a roll.
-- **The crowd in the square saw a crowd. The hearth saw the child.** That is the legal fact. A Long-Lived, a Bound, or a Far-Voiced who stood there carries that memory when a distant office asks. That person is a pillar of the hearth.
+- **A crowd does not witness a child. A hearth does.** That is the legal fact. A Long-Lived, a Bound, or a Far-Voiced who stood there carries that memory when a distant office asks. That person is a pillar of the hearth.
+- **Threnmaieth writes the stand down.** No one else does. A clerk who copies colours off a week-slate is starting a register of Conditions, which the hearths do not keep.
 
-A village still watches as one circle. The size of the square is not solved by writing down who received which gift.
+A village still watches as one circle.
 
 ### Reading the colours
 
@@ -84,7 +85,7 @@ What a warden answers, when the week is already going wrong:
 | **We missed the week.** Fever, a shut pass, a boat that did not come. | They are **unTurned**. The child never stood. Their week for a Gift is over. Next summer they may visit the square; they do not stand for a Gift. A Struck threshold can still come later. The costly mercy is the old one: house a nine-year-old through the winter near a sound Tree. | Call them Kept. A Kept child was hugged while the town watched. |
 | **We will not stand.** The Old Ways kept their own rites before the grafts arrived. The Isle keeps the Open Table as its own faith. Some refuse from fear, or from a quarrel. | The Tree does not chase them. Same legal result as a miss: **unTurned**, and the week for a Gift is over. A warden may ask once. They do not put a rope on a child to make a Gift. | Treat refusal as a failure of the wood. |
 | **Who brings an orphan?** | The town is the family. Kin first; then the household that feeds them; then the **warden-hearth**. That is the warden's house on the square. An orphan who stands is witnessed like anyone. An orphan no one brings is a miss. | A second leaf as consolation. |
-| **An adult who never Turned.** | They stay **unTurned**. They do not stand for a Gift at thirty. They can be vouched as the person the town raised. They can still be Struck. | A late appointment. |
+| **An adult who never Turned.** | They stay **unTurned**. They do not stand for a Gift at thirty. They can be vouched as the person the town raised. They can still be Struck. Some hearths file them as Kept to be kind. That kindness is sloppy law. | A late appointment. |
 | **Can they stand again?** Wrong colour wanted. Hug regretted. | **No.** A completed standing — colour *or* hug, under a Tree the warden called sound — is once. You may correct a **Speaking**. That is the colour or the hug as the warden said it. You may not rerun a fall. | Offer a second Leaf-Fall. The wood has never answered one. |
 | **Our Tree is sick this week.** | Do not stand them under unsound wood. Borrow a neighbour's canopy *this same week*. A warden who lets a cohort stand under a Tree they know cannot Turn has spent the week. Those children are unTurned. | Next year as a repair. |
 | **White-fire fell. Or someone wants to say it did.** | A town-warden does not guess Phoenix. They send to the First Seat by runner. Naming white-fire is history, and a problem. | Guess from a book in the square. |

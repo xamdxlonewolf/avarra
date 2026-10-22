@@ -12,6 +12,8 @@ The faith begins from the Conditions the world received, and from the gifts that
 
 The Motherfaith is the dominant faith in the Turning lands. Other religions are lived beside it. To the people who hold her, she is their Mother.
 
+The houses share no picture of her. The picture is the wood. A pressed leaf kept in a chest is common, and it is only a leaf. Some hearths keep no image at all. The faith does not picture her at a drowning, at an oath, or in the deep wild, because it argues about whether she is there.
+
 ### Doctrine (as the faithful hold it)
 
 **The Giving.** In the beginning, the faithful say, a person was only what they were born. They say that was their Kind, and nothing more. They say her gift was **becoming**, and that a person could be given something beyond birth, a Condition the world would need. They say she first reached down at the Awakening Tree. Someone plants a cutting of that Tree in new ground. That is a **graft**, and every town Tree is one. The faithful call each one a Hand of the Mother, so that no child is too far for her to reach.
@@ -38,7 +40,7 @@ The town keeps the **warden-hearth**. That is the warden's house on the square. 
 
 The faith holds more than one reading. The central argument is sincere on every side, and no one has settled it. That open argument is why the faith endures. It turns on three questions the doctrine does not prove.
 
-**1. The Kept: spared, or slighted?** If the Mother blesses everyone, why are about a quarter Given no colour at all?
+**1. The Kept: spared, or slighted?** If the Mother blesses everyone, why does the Tree hug so many children and give them no colour at all?
 
 - **The Tender reading** is the majority, and the faith's usual teaching. The Kept are given wholeness, a real gift, chosen for them. To be Kept is to be trusted to need nothing added.
 - **The Wanting reading** is the minority. The Kept were passed over, loved, but not chosen, and the doctrine of "wholeness" is a kindness the faithful tell them. This reading quietly stings, and shapes how some Kept feel about the festival.
@@ -55,7 +57,7 @@ The faith holds more than one reading. The central argument is sincere on every 
 
 Because you belong by the rite you keep, a skeptic who tends their Tithe and brings their children to the Tree is a good member of the Motherfaith. Belief in the Mother is honoured, and no one is made to hold it. A skeptic may speak their doubt and remain that member.
 
-Each branch is held in good faith.
+Each branch is held in good faith. No house is a villain. Being a skeptic costs nothing day to day, because the practice is what binds. The questions stay open because no one in the square can close them.
 
 ### Two sayings
 
@@ -63,7 +65,7 @@ Each branch is held in good faith.
 
 > *"What falls to you, wear well. What is kept from you, keep. The Hand that reaches is the Mother's own, and the Mother does not reach twice by chance."*
 
-The blessing comforts the child, and it says to tend the gift. It also says the fall was intended. Skeptics do not grant that intention.
+The blessing comforts the child, and it says to tend the gift. Believers hear intent in it. Skeptics hear a proverb about not asking the wood twice. Both can say the words.
 
 **A Kept-child's saying** (folk, half-consoling, half-barbed):
 

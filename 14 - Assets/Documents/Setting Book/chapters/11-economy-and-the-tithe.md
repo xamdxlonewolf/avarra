@@ -9,16 +9,16 @@ Most of the Conditioned pay the Tithe by working: the need and the job are the s
 
 ### Who actually buys provision
 
-The figures below are shares of work and of custom.
+The share of people with each Condition is given in *The Conditions*. This table sorts the Conditions by how they pay the Tithe and gives no numbers of its own.
 
-| Who | About | What "provision" is |
+| Who | Conditions | What "provision" is |
 |---|---|---|
-| **Self-paying by vocation** | the Answered ~10 · Two-Bodied ~18 · the Stilled ~7 → **~35%** | Work is the Tithe. They are a labor market. |
-| **If the work fits** | Far-Voiced ~12 · Returned ~7 → **~19%** | Self-pay if the job fits. Buy a hall-hour or carry the need unpaid when it does not. The hour is booked for a Far-Voiced voice. |
-| **Provided-for** | the Taken-In ~13 · Long-Lived ~2.5 · the Unbound ~1.5 · Bound Terms ~3.5 → **~20%** | Green, novelty, warmth, whatever the clause set. |
-| **The Kept** | **~25%** | No Tithe. They buy bread. They do not buy a lot-hour. That is an hour on the city's green. |
+| **Self-paying by vocation** | the Answered · Two-Bodied · the Stilled | Work is the Tithe. They are a labor market. |
+| **If the work fits** | Far-Voiced · Returned | Self-pay if the job fits. Buy a hall-hour or carry the need unpaid when it does not. The hour is booked for a Far-Voiced voice. |
+| **Provided-for** | the Taken-In · Long-Lived · the Unbound · Bound Terms | Green, novelty, warmth, whatever the clause set. |
+| **The Kept** | no Condition | No Tithe. They buy bread. They do not buy a lot-hour. That is an hour on the city's green. |
 
-Green is free on a farm. Most Taken-In live where it is free. The **purchased or civic customer base** — urban Taken-In, hall-users without a stage, novelty-seekers, warmth that money can only approximate — is on the order of **a seventh of the people**, concentrated in stone towns. The queues are real. A city fights over lot-hours and hall-bells the way it fights over wells: a wilt or a Cry in the square is a public problem. Tithe-goods do not move in the grain carts.
+Green is free on a farm. Most Taken-In live where it is free. The **purchased or civic customer base** — urban Taken-In, hall-users without a stage, novelty-seekers, warmth that money can only approximate — is a minority of the people, concentrated in stone towns. The queues are real. A city fights over lot-hours and hall-bells the way it fights over wells: a wilt or a Cry in the square is a public problem. Tithe-goods do not move in the grain carts.
 
 ### Self-paying vs provided-for Tithes
 
@@ -62,19 +62,19 @@ Who pays for Tithe-provision is the political question, and polities answer it d
 
 ### Labor: who does what
 
-The Tithe and the vocation are usually the same shape. The Condition is the job:
+The Tithe and the vocation are usually the same shape. The Condition is the job. How large each workforce is, is given in *The Conditions*; this list is about the work.
 
-- **Two-Bodied (~18%, the plurality).** The versatile backbone of physical labor: herding, haulage, rescue, courier, scouting, war. Runs in bloodlines (whole "wolf-folk" / "hawk-folk" families), so the family trade and the family Condition are one inheritance.
-- **the Taken-In (~13%).** The food-and-timber base: farmers, foresters, herders, wardens. The frontier economy runs on them, because they thrive on living land. Cities need their grain and keep a working minority of them. Arm's length is how the city treats them. It is not an empty workplace.
-- **Far-Voiced (~12%).** Coordination and trust at a distance: the relay of criers posted on coasts, roads, and borders, plus performers, negotiators, and sworn court witnesses. Criers posted along those roads give the country a live signal from coast to border.
-- **the Answered (~10%).** The elemental crafts, guilded by element: Ember (smiths, glasswrights), Tide (shipwrights, dyers), Root (masons, potters), Gale (sailmakers, millers); plus firefighting and rescue rotations.
-- **Returned (~7%).** The work that kills the living, done by those death can't take twice: plague wards, mine and cave-in recovery, deep and dangerous salvage, and tending the dead.
-- **the Stilled (~7%).** Precision stillness: surgeons and medics, peacekeepers on riot-lines, controlled demolition and stonework. Licensed and guild-disciplined.
-- **Long-Lived (~2.5%).** The memory professions: archivists, notaries, judges, scholars, and **bankers**. They are few. If many more people never died, those professions and the banks would lock up around them.
-- **Bound (~5%).** The enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding. The Unbound sit inside this same contract work. A released Bound goes back to whatever they did before, and needs connection to keep at it. They are not a separate workforce.
+- **Two-Bodied (the plurality).** The versatile backbone of physical labor: herding, haulage, rescue, courier, scouting, war. Runs in bloodlines (whole "wolf-folk" / "hawk-folk" families), so the family trade and the family Condition are one inheritance.
+- **the Taken-In.** The food-and-timber base: farmers, foresters, herders, wardens. The frontier economy runs on them, because they thrive on living land. Cities need their grain and keep a working minority of them. Arm's length is how the city treats them. It is not an empty workplace.
+- **Far-Voiced.** Coordination and trust at a distance: the relay of criers posted on coasts, roads, and borders, plus performers, negotiators, and sworn court witnesses. Criers posted along those roads give the country a live signal from coast to border.
+- **the Answered.** The elemental crafts, guilded by element: Ember (smiths, glasswrights), Tide (shipwrights, dyers), Root (masons, potters), Gale (sailmakers, millers); plus firefighting and rescue rotations.
+- **Returned.** The work that kills the living, done by those death can't take twice: plague wards, mine and cave-in recovery, deep and dangerous salvage, and tending the dead.
+- **the Stilled.** Precision stillness: surgeons and medics, peacekeepers on riot-lines, controlled demolition and stonework. Licensed and guild-disciplined.
+- **Long-Lived.** The memory professions: archivists, notaries, judges, scholars, and **bankers**. They are few. If many more people never died, those professions and the banks would lock up around them.
+- **Bound.** The enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding. The Unbound sit inside this same contract work. A released Bound goes back to whatever they did before, and needs connection to keep at it. They are not a separate workforce.
 - **Phoenix (a trace).** No characteristic trade. A political symbol.
 
-**And the Kept (~25%).** The Kept carry no Tithe, so they have no upkeep cost, and no Condition, so they have no built-in trade. Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where the faithful pity the Kept for missing a gift, they are still the least encumbered people in the world.
+**And the Kept.** The Kept carry no Tithe, so they have no upkeep cost, and no Condition, so they have no built-in trade. Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where the faithful pity the Kept for missing a gift, they are still the least encumbered people in the world.
 
 ### Why Taken-In live in stone cities
 
@@ -88,7 +88,7 @@ They are in the city because:
 4. **The door can open in a city's old green.** Lost and dying in a deep wild is the Struck path that makes a Taken-In. A walled grove, a lot at night, a river-garden after a flood can open the same door. It is rare, and it is enough.
 5. **They cannot afford to leave.** Green-poverty is a trap: you need the lot to stay whole, the lot is gated, you work for lot-hours, you never save the cart-fare home. That trap is the city's green trade inside the Slide. That is the illicit market in Tithe-goods. Week-keepers sell it, and the green is what they sell when the gate will not.
 
-World share is still ~13%. A stone city runs **lower** — a twentieth to a twelfth of its adults, concentrated on lots, orchards, river-gardens, and the week-keeper's pot. That private pot of green is what the same trade rents by the week. Enough for a queue. Enough for a wilt two streets off. Enough for a customer at that pot. The frontier still has the density and the honour. The city has the gate.
+The Taken-In share of the world is given in *The Conditions*. A stone city runs **lower** than that, with its Taken-In concentrated on lots, orchards, river-gardens, and the week-keeper's pot. That private pot of green is what the same trade rents by the week. Enough for a queue. Enough for a wilt two streets off. Enough for a customer at that pot. The frontier still has the density and the honour. The city has the gate.
 
 ### Banking and the deathless houses
 
@@ -96,15 +96,15 @@ World share is still ~13%. A stone city runs **lower** — a twentieth to a twel
 
 - **The trusted note.** A note issued by a deathless house is trusted almost as coin, because everyone knows the banker cannot forget a debt, cannot be quietly succeeded by a defaulting heir, and will personally answer for it in fifty years. Their paper circulates further and holds value better than any crown's. Other paper is trusted by how close it comes to the word of a house that will not die.
 - **The long instrument.** Deathless houses lend and endow on horizons no mortal lender would risk: century loans, multi-generation trusts, the patient financing of cathedrals, canals, and universities. The instruments are letters of credit and endowments. The world has no stock exchange and no joint-stock company.
-- **The concentration risk.** Wealth that never passes to an heir never disperses through inheritance. The scattering that a death forces on every other fortune never happens here. Even at ~2.5% of the population, the deathless can slowly gather an outsized share of standing capital. Their small numbers are what keep that share from becoming the whole of standing capital, and the economy never fully resolves the gathering. An endowment sends the coin out and keeps the steering of it, so influence concentrates even while the cash flows into the institutions they still direct.
+- **The concentration risk.** Wealth that never passes to an heir never disperses through inheritance. The scattering that a death forces on every other fortune never happens here. Even though there are few of them, the deathless can slowly gather an outsized share of standing capital. Their small numbers are what keep that share from becoming the whole of standing capital, and the economy never fully resolves the gathering. An endowment sends the coin out and keeps the steering of it, so influence concentrates even while the cash flows into the institutions they still direct.
 
 Many houses began as **road-houses** in the Walking Years: inns, beds, and century-credit for that road. In that age, families still had to walk to Thaeloren. That is the Awakening Tree. When the core no longer required the walk, the same Long-Lived still remembered every debtor, and the paper outlived the pilgrimage season. The houses became banks. Two of them are still standing, on opposite errands. The White Note House collects on the old paper. The Third Hearth still makes the bed. The trusted note is an instrument from the Walking Years that outlived its road.
 
 ### Inheritance and the problem of not dying
 
-Inheritance law is bent by the deathless. A Long-Lived's children **do not inherit the Condition**. They age and die while the parent does not. So a deathless person outlives every heir, and their estate never enters the inheritance stream at all. A fortune that is never passed down still has to go somewhere.
+Inheritance law is bent by the deathless. A Long-Lived's children are **not guaranteed to inherit the Condition**. Most age and die while the parent does not. So a deathless person outlives most heirs, and their estate never enters the inheritance stream at all. A fortune that is never passed down still has to go somewhere.
 
-The characteristic answer: **the deathless endow.** Having no heirs, and needing for their own Tithe a steady supply of novelty (new books, new scholarship, new things to learn), a Long-Lived characteristically funds the institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. It is also how they grieve: an endowment in the name of a child who died a century ago. **An endowment is coin converted into permanent, directed patronage.** The founder does not die, so they keep the chair, name the scholars, and steer the institution for centuries. The fortune has not been let go. Endowment eases the coin concentration, because liquid wealth flows out into public works, and deepens the influence concentration, because the same few deathless hands still guide the universities, courts, and archives their money built. Keeping the Long-Lived few does not end that lock-up. The lock-up changes shape, from hoarded coin to patronage that does not step down.
+The characteristic answer: **the deathless endow.** Outliving most of their heirs, and needing for their own Tithe a steady supply of novelty (new books, new scholarship, new things to learn), a Long-Lived characteristically funds the institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. It is also how they grieve: an endowment in the name of a child who died a century ago. **An endowment is coin converted into permanent, directed patronage.** The founder does not die, so they keep the chair, name the scholars, and steer the institution for centuries. The fortune has not been let go. Endowment eases the coin concentration, because liquid wealth flows out into public works, and deepens the influence concentration, because the same few deathless hands still guide the universities, courts, and archives their money built. Keeping the Long-Lived few does not end that lock-up. The lock-up changes shape, from hoarded coin to patronage that does not step down.
 
 For everyone else inheritance is ordinary, except the **Two-Bodied bloodlines**, where the Condition, the family animal, and often the family trade descend together, so a guild place and a Condition can be a single inheritance. And the law's sharpest open question is economic at root: the **Given-Over**. A Bound contracted away so much of themselves that the counterparty effectively owns the person. That is the ultimate inheritance failure: an estate, and a self, absorbed by a creditor.
 
@@ -131,7 +131,7 @@ Who pays, and who is left to pay alone, is a political choice. It runs on the sa
 
 **The Warm** *(high theology).* Treats **Tithe-provision as a public good**: town greenhouses, endowed venting-halls and libraries, ranging-commons held in common. The Conditioned are kept whole at civic expense because a whole populace is a safe and productive one, and because the faith says tend every gift. **Its economic injustice is soft:** the same provision comes with expectation. You are helped to tend your gift, and quietly obligated to spend it as the community sees fit. The subsidy can harden into a requirement.
 
-**The Watchful** *(governance at its extreme).* The crown that writes its people down turns **Tithe-need into leverage.** It provides, efficiently, even generously, and it holds what it provides: the green, the outlet, the novelty, all furnished through channels the crown controls and can withhold. Its deathless-house finance is superb and centuries-deep. **Its injustice is cold and precise:** a population whose upkeep runs through the state is a population that cannot afford to refuse it. The crown calls that care. It is the most complete control in the world.
+**The Watchful** *(governance at its extreme).* A crown that writes its people down, as the Tallied Crown and the Worn Count do, turns **Tithe-need into leverage.** It provides, efficiently, even generously, and it holds what it provides: the green, the outlet, the novelty, all furnished through channels the crown controls and can withhold. Its deathless-house finance is superb and centuries-deep. **Its injustice is cold and precise:** a population whose upkeep runs through the state is a population that cannot afford to refuse it. The crown calls that care. It is the most complete control in the world.
 
 **The Frontier** *(low reach).* Little formal Tithe-infrastructure and few specialists. People improvise their own provision or go without. There is no guild monopoly, and no crown holding the Tithe. The Taken-In are neighbours, not curiosities. The provided-for who cannot pay their Tithe slide with no net, and untrained Struck people manage dangerous Conditions alone. At the edges the economy runs on barter and favors: cash-poor and land-rich.
 

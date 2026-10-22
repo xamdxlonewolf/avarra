@@ -1,6 +1,6 @@
 # Climate, Ecology, and Travel
 
-This chapter names the water and the stone, says how a week feels in each band, and says how long a walk takes. Say the everyday name. A devout speaker keeps the *th* in the land-names around the water. On a dock, that *th* wears off. Clerks enjoy the long old form. Cut-years are written C.Y. and counted from the First Cut. The Ages chapter keeps that count.
+This chapter names the water and the stone, says how a week feels in each band, and says how long a walk takes. Say the everyday name. A devout speaker keeps the *th* in the land-names around the water. On a dock, that *th* wears off. Clerks enjoy the long old form. Dates here are in Cut-years, counted from the First Cut. The Ages chapter keeps that count.
 
 ## Named water, range, and rivers
 
@@ -9,22 +9,22 @@ This chapter names the water and the stone, says how a week feels in each band, 
 | **the Old Crossing** | the busy water between Maiethorn and Strandoren | Lestrand: *the crossing.* Vaethorn: *the waiting-water.* Sailors: *the Crossing.* |
 | **the West Water** | the wider sea between Strandoren and Heskoren | the Night Shore's own name for this sea |
 | **the Rain-Wall** | Maiethorn's central range | Lirorn-folk: *the Thaw-Wall.* Clerks: *the Divide.* |
-| **the Noon Pass** | the old high road over the Rain-Wall (lost its stone in C.Y. 233) | the courier's *noon-pass* |
+| **the Noon Pass** | the old high road over the Rain-Wall (lost its stone in Cut-year 233) | the courier's *noon-pass* |
 | **the Shelf-gate** | the pass taken after the Break | Threnmaieth named *the new one*; Lirorn charges **Break-rate** |
 | **the Core-thaw** | the river Maiethlir sits on | clerks: *snowmelt.* Watchers will not. |
 | **the Well-wash** | Rain-Shadow seasonal water | dry most years; silt in a bad thaw |
 | **the Rise-water** | the stream from Harrow's Green to the hamlets' ford | the Seat says *the ford* |
 | **the Chart-run** | Strandoren's interior river to Orentel's estuary | Lestrand: the inland run that brings goods to the salt quay |
 
-**the Old Crossing.** The oldest trade route in the world. Narrow enough that a fair-weather hull does it in a handful of days, and busy enough that a late storm in Hale-month can still keep a child from the Turning. The Hinge Shore is Maiethorn's face. Orentel is Strandoren's face. The Salt Walk was the way Strandoren reached a Turning: this water, then the Near Mile inland on Maiethorn. Maiethorn and Strandoren are the Old World pair because this water joins them. The Grey Summer (C.Y. 171) tied the quays. The Hinge Hush (C.Y. 304) is the peace still charged as the **Hush-rate**.
+**the Old Crossing.** The oldest trade route in the world. Narrow enough that a fair-weather hull does it in a handful of days, and busy enough that a late storm in Hale-month can make a family miss Turning-Week, and then their child stays UnTurned. The Hinge Shore is Maiethorn's face. Orentel is Strandoren's face. The Salt Walk was the way Strandoren reached a Turning: this water, then the Near Mile inland on Maiethorn. Maiethorn and Strandoren are the Old World pair because this water joins them. The Grey Summer (Cut-year 171) tied the quays. The Hinge Hush (Cut-year 304) is the peace still charged as the **Hush-rate**.
 
-**the West Water.** Wider than the Crossing. This sea is the water-leg of the Long Mile from Heskoren toward a Tree, and that road takes weeks. A pot of cuttings has a harder berth here than on the Old Crossing. The Night Shore faces this water and sells the far run. Heskoren's frontier coast faces the same water back toward Strandoren. Beyond the last capes is the storm-wall. No house on this water sells a passage to Kumbaan. Sailors tell of a pot that went into the storm and was wrecked. No graft took.
+**the West Water.** Wider than the Crossing. This sea is the water-leg of the Long Mile from Heskoren toward a Tree, and that road takes weeks. A pot of cuttings has a harder berth here than on the Old Crossing. The Night Shore faces this water and sells the far run. Heskoren's frontier coast, its east coast, faces the same water back toward Strandoren. Heskoren's west coast, the slate-shore, faces the last capes, and beyond them the storm-wall. No house on this water sells a passage to Kumbaan. Sailors tell of a pot that went into the storm and was wrecked. No graft took.
 
 **the Rain-Wall.** A highland spine down Maiethorn's middle. West-face weather is wet and four-seasoned; the leeward east is the Rain-Shadow. The range is why Saelthael sows at wells. The range is why Lirorn can levy a thaw. Fox-of-the-Snows and Tengu hearths sit densest on the high snow. Heskoren's highland spines are a different weather. The Rain-Wall is Maiethorn's range.
 
-Two passes cross the range. The **Noon Pass** is the old high road. It lost its stone in C.Y. 233, and the Thaw-Break left a water-line over the ribbon-notch. The **Shelf-gate** is the pass taken after the Break, and it is the road people use now.
+Two passes cross the range. The **Noon Pass** is the old high road. It lost its stone in Cut-year 233, and the Thaw-Break left a water-line over the ribbon-notch. The **Shelf-gate** is the pass taken after the Break, and it is the road people use now.
 
-**Four rivers.** The **Core-thaw** is snowmelt off the Rain-Wall's west face, running toward the Old Crossing. Maiethlir sat down where the water slowed enough to hold a Turning Tree. Seinbrun stands off that water. In a high Liren the lodging-road meets a near branch of the same water. The **Well-wash** is a seasonal run east of the range: a river in a kind Liren and a silt-line in a cruel one. **Larbril** is where the west road meets that wash, short of the pass. **Ornsael** drinks a well, farther into the dry, with open country between it and Larbril. The town sits inland. The wash is why the well matters. The **Rise-water** is a low stream off Harrow's rise. Downstream it becomes the hamlets' ford, the crossing of Brenod, Vaelun, and Ornath. The Seat calls that crossing the ford. **Natai**, the march-town, stands on other ground, west of Harrow's Green, between Sanbreo and that grove. The **Chart-run** is Strandoren's interior river-plain, running to Orentel's estuary. Lunbra sits on the wealthy stretch of it. The coasts received the wood by sea. Inland towns waited on a cart and on this river.
+**Four rivers.** The **Core-thaw** is snowmelt off the Rain-Wall's west face, running toward the Old Crossing. Maiethlir sat down where the water slowed enough to hold a Turning Tree. Seinbrun stands off that water, down the river and north of Maiethlir on the atlas, more than a day from Maiethlir. In a high Liren the lodging-road meets a near branch of the same water. The **Well-wash** is a seasonal run east of the range: a river in a kind Liren and a silt-line in a cruel one. **Larbril** is where the west road meets that wash, short of the pass. **Ornsael** drinks a well, farther into the dry, with open country between it and Larbril. The town sits inland. The wash is why the well matters. The **Rise-water** is a low stream off Harrow's rise. Downstream it becomes the hamlets' ford, the crossing of Brenod, Vaelun, and Ornath. The Seat calls that crossing the ford. **Natai**, the march-town, stands on other ground, west of Harrow's Green, between Sanbreo and that grove. The **Chart-run** is Strandoren's interior river-plain, running to Orentel's estuary. Lunbra sits on the wealthy stretch of it. The coasts received the wood by sea. Inland towns waited on a cart and on this river.
 
 ## Climate bands
 
@@ -63,7 +63,7 @@ A Hale-month storm on the Old Crossing can turn a Salt Walk into a missed year. 
 
 Cooler, wilder, harder winters. Civilization is a map of surviving Trees. Young grafts face wind, thin soil, and a queue written in the Motherwood. A Taken-In Tithe is the land itself, honoured, until a bad winter. Two-Bodied range against gap-cats and against the weather. Returned work the far sheds. Stilled medicine is one tired stiller or a rope.
 
-The live front is Saelvaeth's luck. **Harrow's Green** is the grove the neighbours can see. The **Rise-water** runs from that rise to the hamlets' ford. **Natai** is the march-town west of Harrow's Green, between Sanbreo and that grove, on its own ground. The hamlets' ford is the crossing of Brenod, Vaelun, and Ornath. Harrow's square is that grove-town's own ground. The canopy the hamlets can see is Harrow's. A complaint can name Natai. Vaethorn waits in a vale with no view of that canopy, and the people there wait without looking for it. Ornled has the same thin wood and keeps no congregation. Sanbreo keeps the slate on that shore. Vaelhesk is old greens. The land is the seat. There is no city on it. Between mile-shrines the next stone is a rumour. Empty road-houses still make a bed. Some of the people still on that road did not go home.
+The live front is Saelvaeth's luck. **Harrow's Green** is the grove the neighbours can see. The **Rise-water** runs from that rise to the hamlets' ford. **Natai** is the march-town west of Harrow's Green, between Sanbreo and that grove, on its own ground. The hamlets' ford is the crossing of Brenod, Vaelun, and Ornath. Harrow's square is that grove-town's own ground. The canopy the hamlets can see is Harrow's. A complaint can name Natai. Vaethorn waits in a vale with no view of that canopy, and the people there wait without looking for it. Ornled has the same thin wood and keeps no congregation. Sanbreo keeps the slate on the slate-shore, Heskoren's west coast. Vaelhesk is old greens. The land is the seat. There is no city on it. Between mile-shrines the next stone is a rumour. Empty road-houses still make a bed. Some of the people still on that road did not go home.
 
 ## Kumbaan
 
@@ -102,7 +102,16 @@ Kumbaan is listed below with no count of days. No walk crossed the storm-wall.
 | Eolvaeth | Harrow's Green | live-front roads | **2–3 weeks** |
 | Harrow's Green | the Three Hamlets Past the Ford | the Rise-water | **hours to 1 day** |
 | Vaelun | the First Bowl | vale track into the Yield, away from Harrow's | **1–2 days** |
+| Harrow's Green | Natai | west, between Harrow's Green and Sanbreo; not on the ford | **not recorded** |
+| Maiethlir | Seinbrun | off the Down-Bank; north of Maiethlir on the atlas | **more than 1 day** (the first day below the Down Gate does not reach it); the rest is **not recorded** |
+| Thaeloren | Tasain | the west road, below the Shelf-gate; south of Thaeloren on the atlas | **not recorded** |
+| Tasain | Larbril | the west road over the Shelf-gate, to the dry side east of the Rain-Wall | **not recorded** |
+| Maiethlir | the Seeing-Ring | a hill in the old Watching country, north-east of Maiethlir | **not recorded**; the climb up the hill takes a morning |
+| Orentel | Raitin | the road inland; south-west of Orentel on the atlas | **not recorded** |
+| Orentel | Naenor | coasting; south-west of Orentel and south of Raitin on the atlas | **not recorded** |
 | Any mainland quay | Kumbaan | storm-wall | **no fair-weather number** |
+
+Where a row says **not recorded**, the place and its direction are known, and the time is not.
 
 A Hale-month storm on the Old Crossing can turn a Salt Walk into a missed year. A thaw-week on the Rain-Wall can turn the Shelf-gate into a lake. These times are fair weather. A storm rewrites them.
 

@@ -9,7 +9,7 @@ Each of these people already stands where the work is. The seats stay the seats 
 | Name | Where they stand | The job |
 |---|---|---|
 | **Haelin** | Harrow's Green | warden who sends on the live front |
-| **Tora** | Brenod / Harrow's | the mouth that walks a neighbour-fall home |
+| **Tora** | Brenod / Harrow's | the witness who walks a neighbour-fall home |
 | **Thilim** | the Third Hearth | innkeeper of the Held bed |
 | **Ledan** | White Note quay-desk, Orentel | clerk who copies |
 | **Mataero** | White Note inland loft, Orentel | files the beds as occupancy |
@@ -25,7 +25,7 @@ These six matter because of the office they already hold.
 
 ### Vaethod — Eolvaeth
 
-**Vaethod** *(VAYTH-od)* is town-warden of Eolvaeth. They decide whether the hinge happened, whether the Speaking week is over, and some years whether a cohort walks toward Saelvaeth's luck. They name a colour only when it fell. What they want is **Saelid**'s baker's stall on the camp-streets — winter mouths buy bread, and a send-year takes those mouths away. They tell themselves that speaking truly means they have not chosen. They have sent people toward Haelin's live front without meeting them.
+**Vaethod** *(VAYTH-od)* is town-warden of Eolvaeth. They decide whether the hinge happened, whether the Speaking week is over, and some years whether a cohort walks toward Saelvaeth's luck. They name a colour only when it fell. What they want is **Saelid**'s baker's stall on the camp-streets. The winter customers who buy bread are the same households a sent cohort takes away. They tell themselves that speaking truly means they have not chosen. They have sent people toward Haelin's live front without meeting them.
 
 ### Rithim — Maiethlir
 
@@ -37,7 +37,7 @@ These six matter because of the office they already hold.
 
 ### Thilim — the Third Hearth
 
-**Thilim** *(THIL-im)* keeps the Third Hearth. It is the third lodging out from the Motherwood on the Near Mile. Thilim is Long-Lived. The hearth is inland, the notes are smaller than the White Note's, and the shrine is larger. They walked the mile as the inn until the stretch was optional and kept making the bed anyway. What they want is the stone's water still feeding the pot when it is dark; Seine's bed is still made. They hold that mouths at dark matter more than paper. Brenthael's warden wants the stone moved. Thilim keeps the name where it is. The name is also a well.
+**Thilim** *(THIL-im)* keeps the Third Hearth. It is the third lodging out from the Motherwood on the Near Mile. Thilim is Long-Lived. The hearth is inland, the notes are smaller than the White Note's, and the shrine is larger. They walked the mile as the inn until the stretch was optional and kept making the bed anyway. What they want is the stone's water still feeding the pot when it is dark; Seine's bed is still made. They hold that who is fed at dark matters more than paper. Brenthael's warden wants the stone moved. Thilim keeps the name where it is. The name is also a well.
 
 ### Laevila — Maiethlir
 
@@ -45,13 +45,13 @@ These six matter because of the office they already hold.
 
 ### Tesara — Orentel
 
-**Tesara** *(teh-SAH-rah)* sits the stillers' shed off the street. A key is kept off the slate, and success is measured in silence. Struck years back, they remember the door from their own catching-week. What they want is **Valen** stamped with a real ticket. The paper in the way is a burned slip. They believe a quiet week means they saved someone. The paying floor wants the master back. Mataero will need a loft if Valen lives without a ticket.
+**Tesara** *(teh-SAH-rah)* sits the stillers' shed off the street. A key is kept off the slate. If the week goes well, nobody hears of it. Struck years back, they remember the door from their own catching-week. What they want is **Valen** stamped with a real ticket. The paper in the way is a burned slip. They believe a quiet week means they saved someone. The paying floor wants the master back. Mataero will need a loft if Valen lives without a ticket.
 
 ## Named wants in the three seats
 
 Wants sit on people. An institution can furnish a bed, a pot, or a paper, or withhold them. The want stays with the person.
 
-**Eolvaeth.** Vaethod wants Saelid's stall to keep its winter mouths. **Nedaen** *(neh-DAYN)*, Taken-In, wants the gift-hall pot to feed their child through Ledger-month. **Heiral** *(HAY-ral)*, Kept, wants a marriage witnessed without being pitied as Mother-kept. **Daron** *(DAR-on)*, Returned, wants a specific corpse named so a grain-debt dies with it.
+**Eolvaeth.** Vaethod wants Saelid's stall to keep its winter customers. **Nedaen** *(neh-DAYN)*, Taken-In, wants the gift-hall pot to feed their child through Ledger-month. **Heiral** *(HAY-ral)*, Kept, wants a marriage witnessed without being pitied as Mother-kept. **Daron** *(DAR-on)*, Returned, wants a specific corpse named so a grain-debt dies with it.
 
 **Orentel.** Mataero wants Sorel off the century-paper. **Sorim** wants berths 1–4 held through Hale-month. Tesara wants Valen stamped. **Lasole** *(lah-SO-leh)* rents a leaf-lot and wants the credit extended one season. **Didel** *(dih-DEL)* of Hallowquay, Selkie, wants a kin-berth for a skin-kin wedding in Eolthael; Sorim has held 1–4 for a First-Hand year.
 
@@ -61,7 +61,7 @@ How the squares touch: paper, beds, pots, and one week in Eolthael. A household 
 
 ## Other people of note
 
-These are second mouths in places that already have one.
+These are the second people in places that already have one.
 
 | Person | Square | The job | The want |
 |---|---|---|---|
@@ -69,17 +69,21 @@ These are second mouths in places that already have one.
 | **Ledan** | the White Note House | quay-desk | founding-name spoken once |
 | **Theisva · Lesna · Bovaer** | Ornsael | Theisva keeps the share; Lesna the planting; Bovaer the west road | a share that lasts Hale-month |
 | **Tora · Nethiro · Baelon** | the Three Hamlets | three kitchens | Tora of Brenod sends the child home; Nethiro of Vaelun may refuse the neighbour's week; Baelon of Ornath stays off the other road |
-| **Meirim** | Brenthael | neighbour-warden | the Third Hearth's stone down |
+| **Meirim** | Brenthael | neighbour-warden | the Third Hearth's stone down; room for the Mill-hold's week |
+| **Talen · Milsun · Thurrei** | the Mill-hold | drain and slate | a mill that still turns; a week that still has room |
+| **Delvor · Vilraet · Brudu** | the First Bowl | bowl, Speaking, old planting | sit before colour; a Struck housed; morning water |
+| **Raetoth · Lithsur** | Nelath | stone and scar | the mile stays in the square; the name goes back on the day |
+| **Nurreith** | the Low Wall | one summer's shovel | the labour off the garden; the chip was the other quarry |
 | **Soonke · Saalo** | Ndenjoo sand / valley | Soonke sits the beach; Saalo wants the way out | wreck off the hill; Waandi found |
 | **Thuda** | the Low Wall garden-end | innkeep | labour off the garden |
 
 **Haelin** *(HAY-lin)* wants the stone moved before Leaf-Fall so the crowd can stand, and water still on it until then. They name a colour only when they are sure of it. **Tora** *(TOR-ah)* of Brenod is here because last year's Brenod child was seen under the canopy and is still owed the walk home.
 
-**Reimaethe** *(RYE-may-theh)* is a Long-Lived on the rise in Orentel who poured four years into a cup and wants to stop before the fifth. Neighbours call it a rich uncle's hobby. They pay a rise-loft on time. Mataero writes *let*. The reason stays off the slate.
+**Reimaethe** *(RYE-may-theh)* is a Long-Lived on the rise in Orentel. They joined the Pourers when they were asked, and have given four years of memory into the cup, one year at a time. They want to stop before the fifth, and they want their papers back. Neighbours call it a rich uncle's hobby. They pay a rise-loft on time. They want Mataero to keep writing *let* and not *why*.
 
-**Hithaen** *(hith-AYN)* arrived in Eolvaeth's gift-hall this Hale-month with no list behind them. They are Given. They used to be heir to a house that counts the Kept as the line that may rule. The leaf took that. They want a life off the wall-pass. Vaethod has not decided if this mouth came to wait or to be counted.
+**Hithaen** *(hith-AYN)* arrived in Eolvaeth's gift-hall this Hale-month with no list behind them. They are Given. They used to be heir to a house that counts the Kept as the line that may rule. The leaf took that. They want a life that is not a wall-pass. They are not Talnin, the Close's heir whose tenth year is unfinished, and they are not Methei. Vaethod has not decided if Hithaen came to wait or to be counted.
 
-**Taeren** *(TAY-ren)* is of Brenod. Harrow's Green is the grove-town where they are standing. Last Eolthael they stood at the neighbour's canopy at Harrow's Green; something white happened, and a colour outside the civic list has no home-walk as a witnessing, so they are still in the square when Hale-month extra mouths arrive. Heat in the hands they do not show. They ask ordinary questions.
+**Taeren** *(TAY-ren)* is of Brenod. Harrow's Green is the grove-town where they are standing. Last Eolthael they stood at the neighbour's canopy at Harrow's Green; something white happened, and a colour outside the civic list has no home-walk as a witnessing, so they are still in the square when the Hale-month crowds arrive. Heat in the hands they do not show. They ask ordinary questions.
 
 **Rosire** *(ro-SEER-eh)* is of Orentel. They are infirmary-tired. They used to bring water at Tesara's shed; this Hale-month they are in an upper room at Harrow's Green. Travel stays out of their talk. They want the person they walked inland with kept out of a story, and no one sent to fetch them.
 

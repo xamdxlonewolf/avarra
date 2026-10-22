@@ -30,7 +30,7 @@ Everyday people say **the furnishing**, or just **the greens and the halls.** Th
 
 | Ticket | Condition | Lived house | Why a ticket at all |
 |---|---|---|---|
-| strictest | the Stilled | the Stillers | the Gaze can hold a person forever. That is their stilling look |
+| strictest | the Stilled | the Stillers | the stilling look, the Gaze, can leave a person helpless in a fight |
 | heavy, training-first | Far-Voiced | the Hall-Keepers, in the same building as the outlet | a Cry in a crowded hall. Feeling got out, and everyone in earshot took it |
 | heavy, training-first | the Answered | the Element-Guilds | an untended element in a workshop |
 | *not a body-ticket* | Bound | a table, not a guild-yard | the Whisper cannot command another person; the hazard is the contract, heard at a table |
@@ -45,7 +45,7 @@ You are of a fellowship when you have kept the thing through a season and someon
 
 The **mill-share** will say whose race this is. At the Mill-hold the share is still taken when the culvert is opened. When the race is drawn down, they leave one measure of last year's grain on the lip until the water comes back. They will not say why.
 
-The **hull-wrights** know whether a hull will take water. They do not classify the cargo, set the Hush-rate, or sell a mouth that will say *I was there*. Before a new hull takes water, they walk it once empty, from stem to stern, and do not speak. They will not say why.
+The **hull-wrights** know whether a hull will take water. They do not classify the cargo, set the Hush-rate, or sell a witness who will say *I was there*. Before a new hull takes water, they walk it once empty, from stem to stern, and do not speak. They will not say why.
 
 The **road-mend** fills a hole, clears a ford, and shores a culvert. They are not Road-hands. A Road-hand carries living wood. A mender carries a shovel. At Nelath the mend stops with the road. They do not cut the thorns back. At the first ford after a town, they leave the shovel standing in the bank overnight after a mend. They will not say why.
 
@@ -57,7 +57,7 @@ At Leaf-Fall a warden speaks the colour. That sentence is the Spoken colour. Hop
 
 ### The long-house (novelty without a new order)
 
-A Long-Lived house that has endowed a library is already Tithe-infrastructure. The founder is still alive. They still name the scholars. They still sit the chair. The money went out. The choice of scholars stayed.
+A Long-Lived house that has endowed a library is already Tithe-infrastructure. A deathless member of the house still sits the chair and names the scholars. The money went out. The choice of scholars stayed. The Pourers keep one such shelf, in Lestrand.
 
 Staff are clerks, often the Kept, unencumbered, able to fetch a book the founder has not read. A junior Long-Lived copies. There is no liturgical name and no college of librarians.
 
@@ -82,9 +82,9 @@ The Slide's measured week is a different shape. The guilds keep the commons. The
 - **Lestrand (the provision).** Posted. A leaf-lot by the season. A release-house that is also the playhouse. Guild-tickets as master's papers. You can be priced out of staying whole. After the season-fee failed, they call the Slide week-rent.
 - **Threnmaieth (the counted channel).** The crown furnishes, efficiently, even generously, and *holds* what it furnishes. A counted hall. A tended green. A crown-warrant. The crown can close that channel, and it calls the closing care. They call the Slide the late week the channel will not admit failed.
 
-**Kumbaan.** Almost no Given Tithes. There is no exported greenhouse or ael-hall. A wreck walked uphill is a guest.
+**Kumbaan.** The sector has no greenhouse or ael-hall there. A wreck walked uphill is a guest.
 
-A bed-list is plants. A hall-slate is hours. A guild-roll is practitioners of a dangerous art. The one kingdom that writes *persons and gifts* is still only Threnmaieth. Road-hands carry living wood. Greens-keepers keep soil. Hall-keepers keep an hour. The ticket-houses keep a licence.
+A bed-list is plants. A hall-slate is hours. A guild-roll is practitioners of a dangerous art. Only two crowns write *persons and gifts*: Threnmaieth, which calls its roll holy, and Trenledd, which does not. Road-hands carry living wood. Greens-keepers keep soil. Hall-keepers keep an hour. The ticket-houses keep a licence.
 
 ---
 
@@ -94,7 +94,7 @@ Greens-keepers keep the garden-commons, the greens, and a leaf-lot. They furnish
 
 Everyday people say **greens-keepers**, or **lot-keepers.** In liturgy they say **the Saelhael** (SAYL-hayl). *sael* is sowing, the first green, and *hael* is whole. The name says they keep you hale by putting you back on growing ground. Vaethorn's second word is **Mother's-green hands**. Lestrand's is **lot-keepers**. That is ordinary, like saying *gardener*. Threnmaieth files them as **the Tended**.
 
-**In one sentence:** they keep the lot, and they will not follow you home.
+**In one sentence:** they keep the lot, and they do not go looking for anyone who is not at the gate.
 
 ### Shape of the house
 
@@ -163,7 +163,7 @@ Lestrand leaf-lot, nailed inside the gate. The verso is last season's slate, the
 
 > *Beds 1-12: taken through the next moon. 13-16: beans, do not lie here. 17 is tired; it will take next year. Share is one night or one hour at open sky, then the gate. If you cannot come, send no one. A bed is not a letter. We do not walk the rooms. If you have already wilted, the lot is still the lot. Come when we open. If you cannot wait, we do not know a pot.*
 
-On its face: competent gardening, a little cold, a commons keeping itself honest. The sentence "we do not know a pot" is the lie on the slate. The child who carries water can name the cousin. The slate cannot.
+The slate is competent gardening, a little cold, a commons keeping itself honest. The keepers do know a cousin's pot. The slate says they do not, so that the lot is not blamed for what the pot does. The child who carries water can name the cousin. The slate cannot.
 
 ---
 
@@ -171,7 +171,7 @@ On its face: competent gardening, a little cold, a commons keeping itself honest
 
 Hall-keepers keep the official outlet and the Far-Voiced ticket in the same building. A Far-Voiced person needs both the scheduled hour and the licence. In the ael-hall they empty a voice on that schedule. That hall is the town's playhouse. They furnish *enough* voice that a person can walk until tomorrow. After the lamps, the Slide keeps you in a room and never quite empties you.
 
-Everyday people say **hall-keepers**, or **ael-hands,** in every register. A crossed-out roster may still show *Aeloren*. No current hall uses it as a title. Vaethorn's second word is **gift-hall folk**. Lestrand's is **release-hands**. That is ordinary, like saying *box-office*. Threnmaieth files them as **counted-hall clerks**.
+Everyday people say **hall-keepers**, or **ael-hands,** in every register. Vaethorn's second word is **gift-hall folk**. Lestrand's is **release-hands**. That is ordinary, like saying *box-office*. Threnmaieth files them as **counted-hall clerks**.
 
 **In one sentence:** they sell you an hour in which you may feel in earnest, and they will not open after the lamps.
 
@@ -195,7 +195,7 @@ A town with Far-Voiced and no hall has a Book-hand writing *owing* and a watch w
 | A Given Far-Voiced child, after the colour | The voice must be trained before it is a hazard | Apprentice them: breath, projection, venting on purpose. The ticket comes when the town can stand next to them. | Will not Speak the colour. The warden did that. Will not call the voice a gift on Lestrand. |
 | A working Far-Voiced (performer, crier, witness) | The vocation *is* the vent: self-paying | Give them the stage, the relay-post, the stand. Stamp the year if the ticket is due. | Will not invent a crisis so they can vent off-slate. |
 | A Far-Voiced who lost the honest stage | Isolated posting, dull labor; the Undertow is close | Sell or grant a **scheduled hour**. Empty them. Send them out. | Will not open after the lamps. Will not keep them half-full so they return tonight. |
-| A Struck Far-Voiced, raw (the drowning-door) | The voice came back untrained | Hand them to the Intake. Sit the first hour *with* Intake if the Cry is already in the room. | Will not stamp a ticket on a raw throat. Will not leave them in the market. |
+| A Struck Far-Voiced, raw (the drowning-door) | The voice came back untrained | Hand them to the Intake. Sit the first hour *with* Intake if the Cry is already in the room. | Will not stamp a ticket on a raw Struck Far-Voiced. Will not leave them in the market. |
 | A Book-hand with a settling | The term *assumes* a seventh-day hour | Honour it if the slate has a hole. Mark *full* if it does not. | Will not pretend Greyhull has a bench when Greyhull is full. |
 | Anyone who came for a play | The hall is also the playhouse | Sell a bench. Take the coin. Let the working voices pay their Tithe *as* the show. | Will not stop a performance to process a ticket. The show *is* the Tithe for the people on the boards. |
 
@@ -217,11 +217,11 @@ They will not stamp a raw Struck. That is the Intake. They will not rewrite a Bo
 
 **By practice first.** You are of the house when the town still comes to your hour, and when you have pulled a child off a Cry before it landed.
 
-The boards, the relay, the stand often go to Far-Voiced whose vocation *is* the vent. The ticket-stool to a Given Far-Voiced who trained young, or a sharp Kept, or a Long-Lived who remembers last century's Cry. The first hour with a raw throat to whoever will sit it. Intake borrows this room.
+The boards, the relay, the stand often go to Far-Voiced whose vocation *is* the vent. The ticket-stool to a Given Far-Voiced who trained young, or a sharp Kept, or a Long-Lived who remembers last century's Cry. The first hour with a raw Struck Far-Voiced to whoever will sit it. Intake borrows this room.
 
 ### How they live in the three corners
 
-- **Vaethorn (gift-hall folk).** A barn, a festival, a blessing said over the first note. Almost no ticket-stool. A Struck throat is a late gift and a hazard the valley will stand around, singing, until someone who has been to a real hall arrives. You were given the hour, so the valley expects you to spend the voice as it asks: crier, witness, hymn.
+- **Vaethorn (gift-hall folk).** A barn, a festival, a blessing said over the first note. Almost no ticket-stool. A Struck Far-Voiced is a late gift and a hazard the valley will stand around, singing, until someone who has been to a real hall arrives. You were given the hour, so the valley expects you to spend the voice as it asks: crier, witness, hymn.
 - **Lestrand (release-hands).** The playhouse *is* the hall. Posted hours. Guild-ticket as master's papers. A voice without coin for a bench still has a labour-hour at the back if they will sweep. A voice without even that goes to week-rent.
 - **Threnmaieth (counted-hall clerks).** The crown furnishes the counted hall and can withhold the hour. Tickets are crown-warrants in all but the stamp. A Cry off-slate is a column. The hall looks like a festival. What the crown can withhold is the hour.
 - **Kumbaan.** No ael-hall.
@@ -242,9 +242,9 @@ The first Cry's bench stays unswept. That is how the hall remembers.
 
 Lestrand release-house, chalked on the door beside tonight's bill. The verso is yesterday's slate, not washed.
 
-> *Third hour: the boards (paid). Fifth: relay-drill, apprentices. Sixth: open hour, two benches, no coin if you sweep. After the lamps: the house is shut. A missed hour is a missed hour. We do not keep a throat half-full. If you have already cried in the street, this is still the house. Come at open, not now. If you cannot wait, we do not know a room.*
+> *Third hour: the boards (paid). Fifth: relay-drill, apprentices. Sixth: open hour, two benches, no coin if you sweep. After the lamps: the house is shut. A missed hour is a missed hour. We do not keep a voice half-full. If you have already cried in the street, this is still the house. Come at open, not now. If you cannot wait, we do not know a room.*
 
-On its face: a playhouse being practical, almost kind (the sweep-hour). The sentence "we do not know a room" is the same lie the greens tell. The first Cry's bench is not on the slate. Everyone knows which one it is.
+The slate is a playhouse being practical, almost kind (the sweep-hour). The keepers do know a room that still shuts. The slate says they do not, the same way the greens' slate does, so that the hall is not blamed for it. The first Cry's bench is not on the slate. Everyone knows which one it is.
 
 ---
 
@@ -273,12 +273,12 @@ They are useful the way a surgeon is useful. A town without one makes do with a 
 
 | Who | Why they come | What the stiller does | What they will not do |
 |---|---|---|---|
-| A Given Stilled child, after pale stone | The Gaze must be trained before it is a forever | Apprentice them. Drill. Theatre. The ticket when they can still a wound and not a person. | Will not Speak the colour. Will not put them on a riot-line in the first year. |
+| A Given Stilled child, after pale stone | The Gaze must be trained before it is turned on a person | Apprentice them. Drill. Theatre. The ticket when they can still a wound and not a person. | Will not Speak the colour. Will not put them on a riot-line in the first year. |
 | A patient | Bleeding, poison, a knife that needs a still field | Hold the moment. Work fast. Walk to the yard after and burn the Grey. | Will not hold a will. Cannot. Will not still a person as punishment. |
-| The watch, or a street that is turning | A brawl about to become a pile of bodies | Stand the line. Still the swing, not the person, if they can help it. | Will not become the town's executioner. A forever-hold is a crime the code names. |
+| The watch, or a street that is turning | A brawl about to become a pile of bodies | Stand the line. Still the swing, not the person, if they can help it. | Will not become the town's executioner. Using the Gaze to hold a person helpless is a crime the code names. |
 | A Struck Stilled, raw (they were stone) | The Grey is already in them, unpracticed | Hand them to the Intake. Sit the first drill *with* Intake. Reverse what can still be reversed. | Will not stamp a ticket on a raw Gaze. Will not leave them in the square. |
 | A charter-clerk | Someone unlicensed stills in public | Protect the charter: take them in, or swear they were not of the house | Will not write the town's people down. The guild-roll names stillers. The Threnhael is a different list. That is Threnmaieth's census of persons and their gifts. |
-| Anyone who wants the Gaze as a weapon | no honest errand | Refuse. The code is the ticket. | Will not sell a forever. Anyone who does is not of this house. |
+| Anyone who wants the Gaze as a weapon | no honest errand | Refuse. The code is the ticket. | Will not sell the Gaze to hold a person. Anyone who does is not of this house. |
 
 ### An ordinary week
 
@@ -319,7 +319,7 @@ It is a hospital that runs on its staff's Tithe.
 
 The ticket-as-property argument (Lestrand, leaking elsewhere) is the second face: competence lives in a person; the chair can start to live in the guild.
 
-Having the Gaze does not make the drill optional. A gaze costs. People wrote the roster.
+The Motherfaith says she gave a gaze that costs. The roster is people's work, and nobody expects the Tree to make the drill optional.
 
 Intake is badly paid. The raw Struck who most need a week in the shed are the week the floor can least spare. The paying floor treats that week as a loss.
 
@@ -329,7 +329,7 @@ Core infirmary, chalked on the yard wall. The verso is yesterday's, washed badly
 
 > *After third theatre: spar, full glass. After the line: the long run, no Gaze. Apprentices: the knob first, always. A Grey that stays overnight is a Grey we file as lapse, not as rest. The shed is not on this wall. If you were stone last week, you are not on this wall. Come to the door that does not face the street. We do not write that door. We do not still a person to close a day. Touch the knob. Then look.*
 
-On its face: a college keeping its people hale, the code in a work-order. The paying floor will not write Intake's door on this wall. "A Grey we file as lapse" makes a tired surgeon a charter problem. The person may need a longer run. They will not say why the knob comes first.
+The roster is a college keeping its people hale, with the code written as a work-order. It also shows the paying floor refusing to write down the door to the Intake. "A Grey we file as lapse" makes a tired surgeon a charter problem. The person may need a longer run. They will not say why the knob comes first.
 
 ---
 
@@ -363,14 +363,14 @@ A town already needed smiths and masons. The Condition made those guilds necessa
 | An Answered who lost the shop | Grief, a wrecked yard, a lord who benched them | Find earnest use *now*: a crew, a demolition, a night at the bellows. | Will not rent them a week of "just enough spark." That rented spark is the Slide. |
 | A Struck Answered, raw | A threshold let an element in later, untrained | The Intake. The right door, not the nearest fire. | Will not stamp a ticket on a raw Reach. Will not put them on a hull the same day. |
 | Anyone who wants a thing made | A hull, a glass, a wall, a sail | Make it. Charge as a craft charges. | Will not let an unlicensed cousin "just coax the stone" in the street. The charter is the street's safety *and* the shop's monopoly. |
-| A Road-hand needing carrying-earth | Root can coax living earth to travel | Sell the earth. Do not walk the scion. | Walking the wood stays with the Road-hands. Their liturgical name is the Thaelvaeth. |
+| A Road-hand needing carrying-earth | Root can coax living earth to travel | Sell the earth. The guild does not carry the scion. | Walking the wood stays with the Road-hands. Their liturgical name is the Thaelvaeth. |
 
 ### Four doors
 
 | Door | The work | The shop-rule you notice | If left idle |
 |---|---|---|---|
 | **Ember** | smith, glass, fire-crew | they never let the last coal go dark | heat finds a place to be |
-| **Tide** | hull, dye, anything wet | a cup of yesterday's water on the lintel | water finds a place to be |
+| **Tide** | hull, dye, anything wet | a cup of yesterday's water over the door | water finds a place to be |
 | **Root** | mason, potter, carrying-earth | clay under the nails they will not wash on a work-day | stone and soil find a place to be |
 | **Gale** | sail, mill, instrument | a window that is never fully shut | wind finds a place to be |
 
@@ -405,7 +405,7 @@ Self-paying holds until you want to stop. The Tithe does not care that you burie
 
 So the guild's kindness, a shop, a crew, a rotation, is also how the guild holds you. Leaving is a Tithe-crisis. Vaethorn calls that a vocation. Lestrand calls that a contract. Threnmaieth calls that a channel.
 
-A year away from the shop is not safe. An element answered. People built the shop-rule.
+A year away from the shop is not safe. The Motherfaith says she answered. The shop-rule is people's work.
 
 The last coal, the cup of yesterday, the unwashed clay, the window that will not shut: those are how each door remembers.
 
@@ -415,7 +415,7 @@ Ember-house, Lestrand glass-yard, nailed above the last coal. The verso is a Tid
 
 > *The last coal stays. A Reach used in play is not a Reach used in earnest: the ticket will not have it, and the room will. If you cannot work, you will still work: the fire-crew, the night bellows, the watch. We do not bench. We do not rent a spark. The shed is not this door; raw hands go to the door that does not face the street. If you have already let go, this is still the house. Come to the coal, not to the square. Gale will not take you. Tide will not take you. The coal will.*
 
-On its face: a craft keeping its people steady, a little fierce, a monopoly wearing safety. "We do not bench" also means you may not leave. The Tide-rule on the verso says the same thing about a cup of water. The two houses did not copy each other. They did not have to.
+The rule is a craft keeping its people steady, a little fierce. "We do not bench" also means "you may not leave." The Tide-rule on the verso says the same thing about a cup of water. The two houses did not copy each other.
 
 ---
 
@@ -430,7 +430,7 @@ Everyday people say **the Intake**, or **the raw-desk**, or **the shed.** In gui
 ### Shape of the office
 
 - **The Struck is brought to the shed.** A runner arrives, or a master is pulled off the paying floor. When they travel, the nearest ticket-house is three days away and a rope is already in someone's hand. That is distance. Road-hands already walk the long road. Intake does not.
-- **Three ticket-houses, one shed.** A raw Gaze goes to the Stillers. A raw throat goes to the Hall-Keepers. A raw Reach goes to the Element-Guilds, to the right element. The wrong house is how a Cry gets stilled quiet, or an Ember is put on a bench to sing. The shed is shared. Each hazard still has its own door.
+- **Three ticket-houses, one shed.** A raw Gaze goes to the Stillers. A raw Far-Voiced goes to the Hall-Keepers. A raw Reach goes to the Element-Guilds, to the right element. The wrong house is how a Cry gets stilled quiet, or an Ember is put on a bench to sing. The shed is shared. Each hazard still has its own door.
 - **They catch, they steady, and they hand the person to the apprenticeship.**
 - **Success is silence.** Guild leadership is indifferent, and on a bad week hostile. A quiet catching-year is a week the floor lost. A loud one is a charter hearing. Nobody changes the guild's mind about the shed. A grudging extra pair of hands is the most the yard will grant, and they will take them back.
 
@@ -451,7 +451,7 @@ They are who a town has when a becoming has already happened, and the town may p
 
 | Who | Why they come | What Intake does | What they will not do |
 |---|---|---|---|
-| A raw Stilled (they were stone) | Grey already filling; a rope in the square | Get them off the square. First drill. Reverse what can still be reversed. Sit the Gaze until it is a wound-hold, not a forever. | Will not stamp a ticket. Will not still the crowd as a lesson. |
+| A raw Stilled (they were stone) | Grey already filling; a rope in the square | Get them off the square. First drill. Reverse what can still be reversed. Sit with them until the Gaze holds a wound and not a person. | Will not stamp a ticket. Will not still the crowd as a lesson. |
 | A raw Far-Voiced (they drowned) | Undertow already pulling; a Cry in the market | Get them into the hall's back room. First hour *with* a hall-keeper if one will sit. Vent on purpose before it vents them. | Will not open after the lamps as policy. Will not keep them half-full. |
 | A raw Answered | An element let go later, untrained | Right door. Earnest use *now* that is not the crowded shop. | Will not put them on a hull the same day. Will not bench them. |
 | A family, or a door-keeper, or a Book-hand | Someone must stand; someone wrote *owing* | Take the person. Ask who will stand for them *as what they are now*. | Will not sell a vouch. Will not call them Given. |
@@ -462,11 +462,11 @@ They are who a town has when a becoming has already happened, and the town may p
 
 There is no ordinary week. There is a week.
 
-1. Get them off the square, out of the water, away from the shop that is already wrong.
-2. Name what is already true: *you carry a Gaze; you carry a voice; you carry a Reach.* Do not name a Mother unless the person does.
-3. Find the first honest payment of the Tithe that is not a public hazard: a drill, an hour, a coal that is not the public forge.
-4. Find someone who will stand for them *anew*. Intake does not take the place of that vouch.
-5. At week's end: still raw, beginning to be safe, handed to the real apprenticeship, or gone. Gone, they meet the rope, the road, or a week-keeper who will not make them safe.
+1. They get the person off the square, out of the water, away from the shop that is already wrong.
+2. They name what is already true: *you carry a Gaze; you carry a voice; you carry a Reach.* They name no Mother unless the person does.
+3. They help the person make a first honest payment of the Tithe that is not a public hazard: a drill, an hour, a coal that is not the public forge.
+4. They find someone who will stand for the person *anew*. Intake does not take the place of that vouch.
+5. At the end of the week the person is still raw and beginning to be safe, handed to the real apprenticeship, or gone. Gone, they meet the rope, the road, or a week-keeper who will not make them safe.
 
 They write the catching-year on the **inside** of a ticket-blank, not on the face. The face stays empty until a real ticket is earned. A first-year who writes on the face is made to strike it.
 
@@ -480,7 +480,7 @@ The first drill / hour / coal to a ticket-holder of *that* hazard. The sitting, 
 
 ### How they live with the other houses
 
-The parent houses pretend the shed is not on the wall. Success is silence. A raw Taken-In goes to a lot, for dirt. If the week fails, a week-keeper may take the overflow. Intake wants them safe enough to leave. The Slide wants them not-fallen enough to stay. A quiet receiving-rite may happen the same week as a warden's. Civic settling may send them here. A door-keeper names the Struck kin at the door that made them. That naming is kinship. The ticket is still unstamped. The naming and the catching-week are two courtesies in the same week. A Watcher's second mouth may describe the threshold. The guild's stamp is a separate act.
+The parent houses pretend the shed is not on the wall. Success is silence. A raw Taken-In goes to a lot, for dirt. If the week fails, a week-keeper may take the overflow. Intake wants them safe enough to leave. The Slide wants them not-fallen enough to stay. A quiet receiving-rite may happen the same week as a warden's. Civic settling may send them here. A door-keeper names the Struck kin at the door that made them. That naming is kinship. The ticket is still unstamped. The naming and the catching-week are two courtesies in the same week. A Watcher's second reading may describe the threshold. The guild's stamp is a separate act.
 
 ### How they live in the three corners
 
@@ -501,9 +501,9 @@ Badly paid, out of what the parent house has left after the paying floor: the sh
 
 Written on the inside of a blank ticket, stillers' shed, core town. The face is empty.
 
-> *Inside only. Gaze, raw. Came from stone on the third night. Stood for by the sister and by N. who will not give a family name. First drill held. No forever. No ticket. If the week ends quiet, burn this. If it does not, the charter already knows. We do not face the street. We do not write the wall. If they have already been a rope-story, this is still the shed. Come if they will come. If they will not, we cannot make a town take them. The Mother does not reach twice by chance. Neither do we. That line is the wardens'. Strike it if you must. I have not.*
+> *Inside only. Gaze, raw. Came from stone on the third night. Stood for by the sister and by N. who will not give a family name. First drill held. Nobody held still. No ticket. If the week ends quiet, burn this. If it does not, the charter already knows. We do not face the street. We do not write the wall. If they have already been a rope-story, this is still the shed. Come if they will come. If they will not, we cannot make a town take them. The Mother does not reach twice by chance. Neither do we. That line is the wardens'. Strike it if you must. I have not.*
 
-On its face: a competent catching, a little desperate, a college's shame in a folded paper. The empty face is the point. The writer kept the wardens' line on the slip. "Burn this" is how a quiet week becomes the guild's ordinary story, and the Struck's becoming stays unwitnessed a second time. The sister stood. N. would not be named. Both are someone standing for the Struck.
+The slip is a competent catching, a little desperate, written on a folded paper the college would rather not keep. The empty face of the blank is deliberate. The writer kept the wardens' line on the slip. When the slip is burned, the success becomes the guild's ordinary story, and the person's becoming is never written down in public. The sister stood. N. would not be named. Both are someone standing for the Struck.
 
 ---
 
@@ -517,7 +517,7 @@ These three lands are set so that each pair matches on one choice and differs on
 |---|:---:|:---:|:---:|---|
 | **Vaethorn** *(the Waiting Lands)* | high | low | low | Ardent faith, thin Trees, almost no state: a warm, poor, half-lawless pilgrim edge |
 | **Lestrand** *(the Ledger Coast)* | low | high | low | Faith worn lightly, dense Trees, guilds not crowns: a rich, cool, transactional merchant power |
-| **Threnmaieth** *(the Tallied Crown)* | high | high | high | Sacred *and* surveilled: a wealthy, pious core where the census is a holy duty (the darkest corner) |
+| **Threnmaieth** *(the Tallied Crown)* | high | high | high | Sacred *and* surveilled: a wealthy, pious core where the census is a holy duty |
 
 - Vaethorn and Lestrand share **low governance**: same light-touch state, opposite everything else. Warm-poor-faithful against rich-cool-secular.
 - Vaethorn and Threnmaieth share **high theology**: same ardent faith, wildly different circumstances. Devotion at the starving edge against devotion in the sanctified, watched core.
@@ -561,22 +561,22 @@ A dense, Tree-rich merchant power where the Trees are mature and many, the Given
 
 **Its injustice.** The coolest of the three. Nothing is *policed*. Your marriage, your gift, your faith are your own. Everything is *priced*, and a person who cannot pay slides with a whole rich city stepping around them. Lestrand will never file you or conscript you. It will simply let you fade if you run out of coin, and feel that it owed you nothing.
 
-**The seat.** **Orentel** *(or-EN-tel)*. That is a salt-quay city on the inner sea. The White Note House sits on the third quay, north side. It keeps terms. It does not govern the coast.
+**The seat.** **Orentel** *(or-EN-tel)*. That is a salt-quay city on the Old Crossing. The White Note House sits on the third quay, north side. It keeps terms. It does not govern the coast.
 
 ---
 
 ### Threnmaieth: the Tallied Crown
 
-*(THREN-my-eth · devotion high · many healthy Trees · the state reaches the person; the darkest corner)*
+*(THREN-my-eth · devotion high · many healthy Trees · the state reaches the person)*
 
-A pious, Tree-rich core kingdom, and the one crown that keeps a census of persons and their Conditions. Set that census in the wealthiest, most devout, most Tree-dense land, and the roster is kept as a holy duty: the Mother's gifts are precious and must be accounted for. This is what makes it the darkest of the three. The other two have injustices you can name and resent. This one puts its injustice in the two things the world most trusts, faith and plenty.
+A pious, Tree-rich core kingdom that keeps a census of persons and their Conditions, in the wealthiest, most devout, most Tree-dense land. Here the roll is kept as a holy duty: the Mother's gifts are precious and must be accounted for. That makes it the hardest of the three to resist. The other two have injustices you can name and resent. This one puts its injustice in the two things the world most trusts, faith and plenty.
 
-**Law here.** Alone among polities, the Tallied Crown keeps **a record held on people**. Every subject and their gift is written down, not as guild rolls or tax ledgers (everyone has those) but as a **census of persons**. At home they frame that census as reverent stewardship of the Mother's blessings. People experience it as surveillance. They call that census the **Threnhael**. Because reach is high, there is a great deal to count. The Given are dense, and the crown calls them *the marked*. The guilds are dense. Long-Lived memory is abundant, and the crown distrusts it, because that memory is not the crown's. What gives Threnmaieth away is this: it will not rely on the three pillars the rest of the world runs on, because living memory answers to itself and a ledger answers to the crown. The unvouched are hunted and the Struck pursued to be catalogued. They file that pursuit as *the unwitnessed*. The Bound are watched far past their real hazard. The roster's own clerks know the Inviolate Will means the Whisper cannot command. The watching is stigma, kept as if it were safety. Devotion supplies the justification a census without faith would lack. A steward will say, "You would not hide a gift from the Mother, so why hide it from her stewards?" They call standing-for *the naming*. You are named to the crown. They call the ticket *the crown-warrant*. They call the Inviolate Will *the crown's assurance*. They call the Motherfaith *the Reckoned Faith*. They file Watchers as *the Grown-Over*. That is a column on the roll. They file book-hands as *the Uncounted Book*. They file door-keepers as *the Unreached*. The Open Table is off the map.
+**Law here.** The Tallied Crown keeps **a record held on people**. Every subject and their gift is written down, not as guild rolls or tax ledgers (everyone has those) but as a **census of persons**. At home they frame that census as reverent stewardship of the Mother's blessings. Elsewhere it is felt as surveillance. They call that census the **Threnhael**. Trenledd keeps a roll of persons too. The difference is that the Tallied Crown calls its roll holy, and Trenledd does not. Because reach is high, there is a great deal to count. The Given are dense, and the crown calls them *the marked*. The guilds are dense. Long-Lived memory is abundant, and the crown distrusts it, because that memory is not the crown's. What gives Threnmaieth away is this: it will not rely on the three pillars the rest of the world runs on, because living memory answers to itself and a ledger answers to the crown. The unvouched are hunted and the Struck pursued to be catalogued. They file that pursuit as *the unwitnessed*. The Bound are watched far past their real hazard. The roster's own clerks know the Inviolate Will means the Whisper cannot command. The watching is stigma, kept as if it were safety. Devotion supplies the justification a census without faith would lack. A steward will say, "You would not hide a gift from the Mother, so why hide it from her stewards?" They call standing-for *the naming*. You are named to the crown. They call the ticket *the crown-warrant*. They call the Inviolate Will *the crown's assurance*. They call the Motherfaith *the Reckoned Faith*. They file Watchers as *the Grown-Over*. That is a column on the roll. They file book-hands as *the Uncounted Book*. They file door-keepers as *the Unreached*. The Open Table is off the map.
 
 **Economy here.** Tithe-need turned to leverage, and consecrated. The crown provides Tithe-upkeep **efficiently, even generously** (a pious, rich state can afford to), but *holds* what it provides. It holds the green, and calls that green *the tended green*. It holds the novelty, and calls that *the crown archive*. It holds the outlets, and calls those *the counted hall*. It holds the Stilled medicine. All of that runs through channels the crown controls and can withhold. A population whose staying-whole runs through the state is a population that **cannot afford to refuse it**, the most complete control in the world. To receive your Tithe-provision is to receive the Mother's bounty through her appointed hands, and to be cut off is framed as *your* lapse, not the crown's lever. Its deathless-house finance is superb and centuries-deep, but the Long-Lived here are courtiers and crown-archivists as much as bankers, their incorruptible memory bent to the census rather than free to check it. A Two-Bodied spends time as the animal on the ranging. The crown files that land as *the ranging-roll*. They call the furnishing *the counted channel*. They call the Slide *the late week*. That is the leak the roll cannot file without admitting the channel failed. The roll pretends not to know.
 
 **Daily life here.** The sacrament and the census fused. A child's Turning is a **joyous holy day that is also a state registration**. The colour that falls is celebrated with a hymn *and* recorded by a clerk. Marriages of heritable Conditions (Two-Bodied bloodlines especially) are *noticed*, encouraged or discouraged, filed. The medicine that furnishes a Tithe is excellent and runs through the crown's channels. A household whose **bloodline and upkeep are both on file** cannot easily refuse the crown anything. That is domestic surveillance with a blessing said over it. The Kept are pitied here the way a devout land pities them, and recorded the way this crown records them. The roll says *the unmarked*, or *the passed-over*. They were passed over by the Mother, and the crown notes them as such. They file tree-wardens as *the Reckoned Hands*. The First Seat stands in the same Sacred Core. The crown wants wardens named to the Threnhael as officers of the Reckoned Faith. Some Speakers cooperate. Some refuse: the Tree witnessed; a ledger is a second, lesser seeing. Nearness to the Seat is pressure on the college. The crown does not own the Seat. The college can refuse the roll, and some Speakers don't. A Yumboe in the Sacred Core is a diplomatic incident of manners. The crown cannot file a people who were never at a Tree, so a Yumboe is not a column on the roll. That is a relief and a slight at once.
 
-**Its injustice.** The worst of high devotion and a state that reaches every person, each excusing the other. The devotion makes the surveillance feel like reverence: it is piety to be counted. The surveillance enforces the devotion: to refuse the count is impiety. A wealthy, faithful, orderly people genuinely believe that accounting for the Mother's gifts is the highest form of tending them, and that belief makes the control almost impossible to resist. It reads as chilling because **no other polity keeps such a list**. This census is this one crown's invention, and the faith is what lets it feel like grace.
+**Its injustice.** The worst of high devotion and a state that reaches every person, each excusing the other. The devotion makes the surveillance feel like reverence: it is piety to be counted. The surveillance enforces the devotion: to refuse the count is impiety. A wealthy, faithful, orderly people genuinely believe that accounting for the Mother's gifts is the highest form of tending them, and that belief makes the control almost impossible to resist. Elsewhere the roll reads as chilling, because **only two crowns keep one**, and here the faith is what lets it feel like grace.
 
-**The seat.** **Maiethlir** *(my-eth-LEER)* stands on a thaw river in the Sacred Core. Its children can Turn at its own Tree. That is a Hand. People who already have that Tree still walk the extra mile. The Threnhael keeps the census over that older walk. The First Seat of the wardens sits in the Motherwood beside the town. The crown does not own Thaeloren.
+**The seat.** **Maiethlir** *(my-eth-LEER)* stands on a thaw river in the Sacred Core. Its children can Turn at its own Tree. That is a Hand. Pilgrims still walk on from here to the Awakening Tree, and the crown's roll, the Threnhael, is kept here. The First Seat of the wardens sits in the Motherwood beside the town. The crown does not own Thaeloren.

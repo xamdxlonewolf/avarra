@@ -34,7 +34,7 @@ The Leaf-Fall runs through **Turning-Week**, the week bracketing the High Solsti
 The calendar counts like this:
 
 - **Twelve months** tied to the moon's cycle, in **four seasons of three months** each, hinged on the two solstices (and the two equinoxes between them as lesser markers).
-- **Weeks** as the working unit of the burgher world: guild-weeks, market-days, the mechanical clock-towers of the trade cities striking the hours. There is no printing press, so clergy and clerks keep the calendars. That is one reason the tree-wardens and the Tallied Crown's clerks hold quiet power: they keep the dates.
+- **Weeks** as the working unit of the guild towns: guild-weeks, market-days, the mechanical clock-towers of the trade cities striking the hours. There is no printing press, so clergy and clerks keep the calendars. That is one reason the tree-wardens and the Tallied Crown's clerks hold quiet power: they keep the dates.
 
 #### The twelve Maiethren months
 
@@ -72,7 +72,8 @@ The Yumboe of Kumbaan keep **twelve named moons**. The count is lunar:
 Months name a season. **Years have no universal number.** The count written on a debt is a theology, the same argument as which day opens the year. The Ages chapter keeps the full count.
 
 - **First Seat / devout clerks** count **Cut-years** from the First Cut (liturgical: the *Eoloren-count*). Present: **Cut-year 387**.
-- **Lestrand and the deathless houses** count from a house-founding or a note-issue. A clerk of the White Note will write "the 200th summer of the White Note."
+- **Lestrand and the deathless houses** count from a house-founding or a note-issue. A clerk of the White Note writes the present year as "the 307th summer of the White Note."
+- **Threnmaieth** writes Cut-years and also a crown-count from the Two Papers, in Cut-year 67. The present is **Crown-year 320**.
 - **Vaethorn** counts from the year the local graft took. People there say, "the year our graft took."
 - **The Watching** refuse the Cut-count. **Kumbaan** keeps moons and owes the ages nothing.
 
@@ -82,10 +83,10 @@ The Awakening Tree is old beyond reliable dating. There is no year the world beg
 
 The count is the same sky on the mainland: one sun, one moon, two solstices. People live that count differently as the wood thins.
 
-- **Maiethorn** (full reach): Turning-Week is a near-certainty and a vast institution. Dense healthy Trees, nearly every child Given, the pilgrimage to Thaeloren cresting at the High Solstice. When that walk was required, it was the Walking Years. The Near Mile is the inland trip on Maiethorn, days to a couple of weeks. The Ages chapter tells those years.
+- **Maiethorn** (full reach): Turning-Week is a near-certainty and a vast institution. Dense healthy Trees, a core that runs higher on the Given than the world as a whole, the pilgrimage to Thaeloren cresting at the High Solstice. When that walk was required, it was the Walking Years. The Near Mile is the inland trip on Maiethorn, days to a couple of weeks. The Ages chapter tells those years.
 - **Strandoren** (high reach): the solstice is kept as a sacred date and as a commercial one. Fairs, contract-terms, and the deathless houses' reckoning all hang on it.
 - **Heskoren** (thin reach): Turning-Week is a hard-won event of a decade. A child may travel days to the nearest Turning Tree, or wait years for a graft to take. The solstice still arrives. The gift may not fall. Whole districts still walk the Long Mile, weeks or months to a Tree that can Turn them.
-- **Kumbaan** (almost no Trees): the Yumboes keep the moon. The reckoning is nocturnal and lunar, and they have no Trees to time it to. Devout mainlanders say, "The Leaf-Mother never touched this calendar." A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time. The hall will not correct the chart.
+- **Kumbaan** (no reach): the Yumboes keep the moon, not the solstice. The reckoning is nocturnal and lunar, and it owes nothing to the Trees, because Kumbaan has none. Theirs is the one calendar in the world with no Leaf-Fall in it. A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time. The hall will not correct the chart.
 
 ### What the year feels like
 

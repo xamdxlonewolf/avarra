@@ -2,9 +2,9 @@
 
 The map of the Turning shows how far the origin Tree's wood has spread. That distance is its reach.
 
-Nearest that wood, the old sacred country is dense with Trees. The merchant coasts beyond it still have many. The frontier is thin. Past the last capes, a storm-walled isle has almost none.
+Nearest that wood, the old sacred country is dense with Trees. The merchant coasts beyond it still have many. The frontier is thin. Past the last capes, a storm-walled isle has none.
 
-There is one Awakening Tree, **Thaeloren**. Every town Tree is a living **graft** of it, planted in new ground so a child can Turn under it. People call that planted Tree a Turning Tree. The further a land sits from the deep, old, densely-grafted core, the thinner its reach tends to run: fewer, younger, more fragile Trees. More children are left among the Kept. More people are Struck later and alone. How far a land sits from Thaeloren is also how long ago the wood arrived. The Ages chapter tells that history.
+There is one Awakening Tree, **Thaeloren**. Every town Tree is a living **graft** of it, planted in new ground so a child can Turn under it. People call that planted Tree a Turning Tree. The further a land sits from the deep, old, densely-grafted core, the thinner its reach tends to run: fewer, younger, more fragile Trees. More children are hugged at the Tree and stay Kept. More children miss a Tree and stay UnTurned. More people are Struck later and alone. How far a land sits from Thaeloren is also how long ago the wood arrived. The Ages chapter tells that history.
 
 Names keep the old *th* nearest the Tree. A frontier town softens it. A dock town sands it off. You can hear how far a land sits from the grove in how people say the same word.
 
@@ -14,8 +14,8 @@ The names on the map are old words glued together. Here is what they are saying 
 
 | Name | Says | Means |
 |---|---|---|
-| **Thaeloren** | thae-LOR-en | the Tree that witnesses. Everyday: **the Thallow**. The Awakening Tree. |
-| **Maiethorn** | mah-YETH-orn | the Mother's Land |
+| **Thaeloren** | THAEL-or-en | the Tree that witnesses. Everyday: **the Thallow**. The Awakening Tree. |
+| **Maiethorn** | MAI-eth-orn | the Mother's Land |
 | **Strandoren** | stran-DOR-en | the Witnessed Shore. Everyday: **Strandor** |
 | **Heskoren** | hesk-OR-en | the Outer Land. Everyday: **Heskorn**. *Hesk-* is a frontier word for the far edge; the old rite is older than this grafting. |
 | **Kumbaan** | koom-BAHN | the hidden home, in the Yumboes' own tongue. Sailors say **the Sundering Isle**, or **the Sunder**, for the water that walls it off. |
@@ -24,9 +24,9 @@ Each of the three large continents has one famous corner, named by gluing two ol
 
 | Name | Says | Means |
 |---|---|---|
-| **Threnmaieth** | THREN-my-eth | the Mother's Reckoning. Keeps the full old sound. |
-| **Lestrand** | leh-STRAND | the Reckoning Coast. The *th* is gone. |
-| **Vaethorn** | vay-THORN | the Waiting Land. Everyday: **Wethorn**. |
+| **Threnmaieth** | THREN-mai-eth | the Mother's Reckoning. Keeps the full old sound. |
+| **Lestrand** | LES-trand | the Reckoning Coast. The *th* is gone. |
+| **Vaethorn** | VAETH-orn | the Waiting Land. Spoken: **Wetorn**. |
 
 The other named powers on each continent are built from the same old words. You will meet them as you go. **Language and Naming** will let you hear one as it appears, or make another.
 
@@ -37,7 +37,7 @@ Reading the world roughly **east to west**, as the wood thins:
 - **Maiethorn** anchors the **east**, where the land is oldest and most settled and the Awakening Tree still stands. Everything the world calls "the center" is here.
 - **Strandoren** lies **west across the Old Crossing**, close enough to Maiethorn for constant, ancient trade (the two are the "Old World" pair), its long indented coasts facing the crossing. The Old Crossing — the inner sea, in older talk — is the busiest water in the world.
 - **Heskoren** sprawls **further west and south**, beyond Strandoren's far coast, reached late, grafted late, the edge of the settled world. Between Strandoren and Heskoren the sea widens and the reach thins. This is where the frontier begins.
-- **The Sundering Isle** sits **alone in the far west (or deep south) ocean**, past Heskoren's last capes, walled off by the **storm-wall**. Killing weather, currents, and reef have wrecked most who tried the crossing. The wood never reached it. The isle is near-Treeless and seldom reached, and its people are mythic-rare on all three other continents.
+- **The Sundering Isle** sits **alone in the far west (or deep south) ocean**, past Heskoren's last capes, walled off by the **storm-wall**. Killing weather, currents, and reef have wrecked most who tried the crossing. The isle has no Tree, and the grafts never crossed to it. It is seldom reached, and its people are mythic-rare on all three other continents.
 
 Maiethorn and Strandoren are close and old. Heskoren is far and thin. The Isle is sundered beyond.
 
@@ -60,7 +60,7 @@ The Motherfaith is one faith among several. The Watching, the Fair Hand, and the
 
 *(mah-YETH-orn.)*
 
-Maiethorn is the world's **old heart**: the continent people mean when they say "the center." It is long-settled and deeply grafted: every hill with its Tree, and every Tree with its centuries. This is where the Motherfaith began, and where the Awakening Tree grows. A child's Turning is ordinary here because it is almost certain. The Trees are so healthy that nearly every child is Given, and being Kept is rare enough to be an event. Deathless houses here are centuries old. Stilled infirmaries stand open. Far-Voiced work on every court and quay.
+Maiethorn is the world's **old heart**: the continent people mean when they say "the center." It is long-settled and deeply grafted: every hill with its Tree, and every Tree with its centuries. This is where the Motherfaith began, and where the Awakening Tree grows. A child's Turning is ordinary here because it is almost certain. The Trees are so healthy that more children are Given here than in the world as a whole, so a hug at the Tree is less common here than elsewhere. It is not rare, and every Maiethorn school has Kept children. The Conditions chapter gives the shares. Deathless houses here are centuries old. Stilled infirmaries stand open. Far-Voiced work on every court and quay.
 
 Devotion here is the heaviest in the world, because the Awakening Tree stands on this continent. It runs through institutions and through politics. The faith is old and contested. Threnmaieth counts its people and calls the count sacred. A stubborn heartland heresy claims the same center.
 
@@ -70,26 +70,26 @@ Devotion here is the heaviest in the world, because the Awakening Tree stands on
 
 **The Motherwood.** Vast old-growth forest of motherwood and its wild kin rings the core. Here are the healthiest Trees, and the graft-nurseries from which the cuttings travel to the whole world. The First Seat and the faith's institutions cluster in the wood's clearings.
 
-**A central range** divides the continent's watersheds. Temperate, seasonal climate: four true seasons, real winters that make the solstice-timed Leaf-Fall meaningful. Old roads and river-trade knit it together. Tengu hearths and Fox-of-the-Snows country sit on the high snows. The range is also why the east is dry.
+**The Rain-Wall**, a central range that Lirorn calls the Thaw-Wall, divides the continent's watersheds. Temperate, seasonal climate: four true seasons, real winters that make the solstice-timed Leaf-Fall meaningful. Old roads and river-trade knit it together. Tengu hearths and Fox-of-the-Snows country sit on the high snows. The range is also why the east is dry.
 
-**The Rain-Shadow.** East of the central range, on the leeward side away from the inner sea, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn: the same Trees, the same old *th*, and the same pilgrimage west toward Thaeloren. The weather here is the dry one. Towns here cluster at wells and at whatever graft will take in thin soil. **Larbril** is where the west road meets the Well-wash, short of the pass. **Ornsael** is the smaller well-town farther into the dry, where people sow at a well. Open sand-country lies between it and Larbril, and the town sits inland. Children in the sacred core could already Turn at a Turning Tree while families here were still walking west to Thaeloren.
+**The Rain-Shadow.** East of the Rain-Wall, on the leeward side away from the Old Crossing, the land falls into **dry hills and sand-country**, the one true dry reach in the known world. This is the hearth of the Fox of the Sands. It is still Maiethorn: the same Trees, the same old *th*, and the same pilgrimage west toward Thaeloren. The weather here is the dry one. Towns here cluster at wells and at whatever graft will take in thin soil. **Larbril** is where the west road meets the Well-wash, short of the pass. **Ornsael** is the smaller well-town farther into the dry, where people sow at a well. Open sand-country lies between it and Larbril, and the town sits inland. Children in the sacred core could already Turn at a Turning Tree while families here were still walking west to Thaeloren.
 
 **The western coast** faces the busy **Old Crossing** toward Strandoren, the oldest trade route in the world, the "Old World" crossing. Ports here are ancient and rich, if less frantic than Strandoren's. Selkie families are common on these quays, as they are on any old water.
 
 ### Reach
 
-**Full.** This is the densest, healthiest grafting anywhere. Nearly every child is Given. Long-Lived memory, Bound word, and Far-Voiced feeling are thick on the ground. The Kept are genuinely uncommon and, in the more fervent districts, quietly pitied as passed-over. Nowhere else are so many children Given, or so many of those three gifts at work.
+**Full.** This is the densest, healthiest grafting anywhere. The core runs higher on the Given than the world as a whole. Long-Lived memory, Bound word, and Far-Voiced feeling are thick on the ground. The Kept are fewer than elsewhere, but there are Kept children in every town, and in the more fervent districts they are quietly pitied as passed-over. The Walled Book, behind Rothallo's walls, teaches that a hug is rare. That is the Walled Book's lesson, not the count. Nowhere else are so many children Given, or so many of those three gifts at work.
 
 The wood arrived with the First Cut. The years since that first successful planting are Cut-years. Maiethorn filled in Cut-years 0–80, origin-towns first. A cutting could travel about a day while the wood was still alive, and then it had to be planted. The **Rain-Shadow was slower**: the same continent, thin soil, and wells. Towns in the sacred core had Turning Trees, and their children stopped walking to Thaeloren, while sand-country families were still walking west. The ground set that pace. The Ages chapter has the years.
 
 ### Powers
 
 - **Threnmaieth, the Tallied Crown** (theology high · reach high · governance high). The wealthy, pious, surveilled core kingdom, near the sacred center. Its census, the **Threnhael**, sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is why Threnmaieth has so much to count. Its seat is **Maiethlir**, a town on the thaw-river with its own Turning Tree. The grove of Thaeloren stands outside the crown's rule.
-- **Maiethvael**, the Gift-Realm, is devout and rich, and it keeps no census. Its capital is **Seinbrun**, a large city in the warm core, off the thaw-river where Maiethlir sits. People furnish a hall, a green, and medicine. The Down-Bank is the road below Maiethlir's Down Gate. Gift-folk live along that road. Seinbrun is farther on.
+- **Maiethvael**, the Gift-Realm, is devout and rich, and it keeps no census. Its capital is **Seinbrun**, a large city in the warm core, off the thaw-river where Maiethlir sits. People furnish a hall, a green, and medicine. The Down-Bank is the road below Maiethlir's Down Gate. Gift-folk live along that road. Seinbrun is farther on, down the Core-thaw and north of Maiethlir on the atlas, more than a day from Maiethlir. The rest of that walk is not recorded.
 - **Orenbren**, the Witness-Hearths, is the lodging on the roads to the grove. Pilgrims sleep in its inns, and that lodging is the power. The Awakening Tree stands outside its rule. Its capital is **Rothallo**, a walled city one day's walk from the wood, inside Orenbren. People still say the Inner Close. They mean this city. The First Seat is in the wood. The Third Hearth is a road-house on the same pilgrim road.
-- **Saelthael**, the Sown Tree, is the Rain-Shadow. Families here still walk west to a healthier canopy to Turn. Its city is **Larbril**, where the west road meets the Well-wash, short of the pass. **Ornsael** is the well-town farther into the dry, where people sow at the well.
+- **Saelthael**, the Sown Tree, is the Rain-Shadow. Families here still walk west to a healthier canopy to Turn. Its city is **Larbril**, east of the Rain-Wall on the dry side, where the west road meets the Well-wash, short of the pass. **Ornsael** is the well-town farther into the dry, where people sow at the well.
 - **The Hinge Shore** is Maiethorn's coast on the Old Crossing. Before a hull is priced across the water, this shore says whether it carries pilgrims, a cutting in a pot, a person, or cargo. Its port is **Votaer**. Orentel is the city on the far shore. Votaer is the port on this one.
-- **Lirorn**, the Thaw-Land, holds the central range and the snowmelt that feeds the lowlands. Its walled town is **Tasain**, in the valley below the Shelf-gate.
+- **Lirorn**, the Thaw-Land, holds the Rain-Wall and the snowmelt that feeds the lowlands. Its walled town is **Tasain**, in the valley below the Shelf-gate, on the west road south of Thaeloren on the atlas. Larbril is on the far side of that pass. The days between them are not recorded.
 
 Tengu, Fox, and Selkie live in hearths inside these six powers.
 
@@ -97,7 +97,7 @@ Tengu, Fox, and Selkie live in hearths inside these six powers.
 
 The Motherfaith's birthplace and stronghold. Its institutions, its pilgrimage, and its authoritative tree-wardens all seat here. The sacred center is contested.
 
-**The heartland heresy: the Watching.** An older Tree-faith the Motherfaith grew over persists in Maiethorn's oldest districts. The argument lives in those districts. They keep the Tree as witness (*Haelthael*) and refuse the Mother-name. Because it is old, it claims to remember what the world believed before the Trees were understood as the Mother's hands.
+**The heartland heresy: the Watching.** An older Tree-faith the Motherfaith grew over persists in Maiethorn's oldest districts. The argument lives in those districts. They keep the Tree as witness (*Haelthael*) and refuse the Mother-name. Because it is old, it claims to remember what the world believed before the Trees were understood as the Mother's hands. Watchers keep a night at the **Seeing-Ring**, a ring of old stones on a hill in the old Watching country, north-east of Maiethlir. They will not call it a temple.
 
 In the Walking Years, a Maiethorn child Turned by walking to Thaeloren. That inland trip is the Near Mile: days to a couple of weeks. The pilgrimage to Thaeloren still brings people from everywhere. The Ages chapter tells those years.
 
@@ -117,7 +117,7 @@ It is free, prosperous, and cool. Nothing here is policed (your faith, your gift
 
 **The Old Crossing** (east): the narrow, crowded, ancient water between Strandoren and Maiethorn. Everyday name everywhere. Older talk still says *the inner sea*. The busiest crossing in the world, the "Old World" trade artery. The Hush-rate is still charged on this water.
 
-**The open ocean** (west and south): where the coast faces the widening sea toward Heskoren and, far beyond, the Sundering Isle. Strandoren's boldest merchant-houses run the frontier trade to Heskoren. Almost none have crossed the storm-wall to the Isle (those who claim to are the tellers of the Yumboe stories).
+**The West Water** (west and south): where the coast faces the widening sea toward Heskoren and, far beyond, the Sundering Isle. Strandoren's boldest merchant-houses run the frontier trade to Heskoren. Almost none have crossed the storm-wall to the Isle (those who claim to are the tellers of the Yumboe stories).
 
 **Interior:** fertile lowlands and river-plains feeding the port-cities; mild maritime climate, wet and temperate. Mature grafted Trees stand thick along the wealthy coasts and thin only in the deep interior.
 
@@ -130,8 +130,8 @@ The wood arrived by sea in Cut-years 40–160, wealthy coasts first. A ship outr
 ### Powers
 
 - **Lestrand, the Ledger Coast** (theology low · reach high · governance low). The premier merchant power: guild self-rule carried as far as it goes, deathless-house finance at scale. Here the upkeep is a private market: you buy your green, your novelty, your outlet, and you fade if you cannot pay. The richest and coolest corner of the world. Its seat is **Orentel**, on the Salt Quay. The White Note House keeps its office on that quay and keeps the old notes. The guilds govern the city.
-- **Brenledd**, the Hearth-League, is many charter-towns under one compact. Each town keeps its own Tree and its own vouching. The throne-city is **Raitin**, a river-city where the council sits and the shared notes clear. Six charter-towns sit around it, each with its own hearth. Raitin is where they meet.
-- **Leddvael**, the Reckoned Gift, keeps the Fair Hand as the city's own rite. Leaf-Fall here is a festival and a signing-watch. Its port is **Naenor**. The Book-Hands stamp a signing and recite. They work on this water and keep no hall of their own.
+- **Brenledd**, the Hearth-League, is many charter-towns under one compact. Each town keeps its own Tree and its own vouching. The throne-city is **Raitin**, a river-city inland, south-west of Orentel on the atlas, where the council sits and the shared notes clear. Six charter-towns sit around it, each with its own hearth. Raitin is where they meet.
+- **Leddvael**, the Reckoned Gift, keeps the Fair Hand as the city's own rite. Leaf-Fall here is a festival and a signing-watch. Its port is **Naenor**, down the coast south-west of Orentel and south of Raitin on the atlas. The Book-Hands stamp a signing and recite. They work on this water and keep no hall of their own.
 - **Trenledd**, the Worn Count, writes its people on a roll of tax and hazard. The count carries no hymn. Its city is **Lunbra**, on the Chart-run, where the roll is kept and the money is shown.
 - **Netstrand**, the Night Shore, faces the open ocean and runs the trade to Heskoren. Its harbour is **Braetu**. One berth on that quay stays unlit, and no house is attached to it.
 
@@ -149,7 +149,7 @@ The Salt Walk was Strandoren's way to a Turning: a ship across the Old Crossing,
 
 *(hesk-OR-en. Everyday **Heskorn**.)*
 
-Heskoren is the **edge of the world that the Trees reached last**. The land is young in wood, thin, and waiting: a broad, rugged, half-settled country where the grafts came recently, take poorly, and sicken often. Whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the Kept and the Struck. It is where the Motherfaith burns hottest. Scarcity of the gift has heated devotion: pilgrimage, longing, and a theology of waiting. In the Walking Years the same pattern was distance. The Long Mile from this continent to Thaeloren took weeks or months, and it cost more than most families could spend. Some districts still send children that far, or to a neighbour's Tree. The distance is what kept them from the gift.
+Heskoren is the **edge of the world that the Trees reached last**. The land is young in wood, thin, and waiting: a broad, rugged, half-settled country where the grafts came recently, take poorly, and sicken often. Whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs high on the Kept, the children the leaves hugged, and on the Struck, people who changed later, alone, with no one to witness it. It also has many UnTurned children, who reached no healthy Tree at ten. It is where the Motherfaith burns hottest. Scarcity of the gift has heated devotion: pilgrimage, longing, and a theology of waiting. In the Walking Years the same pattern was distance. The Long Mile from this continent to Thaeloren took weeks or months, and it cost more than most families could spend. Some districts still send children that far, or to a neighbour's Tree. The distance is what kept them from the gift.
 
 It is warm, poor, and self-reliant: the kindest place in the world to a whole neighbour and the loneliest to an unvouched one. The danger is a **lapsing Condition with no infirmary to reach**, and a faith that consoles what it cannot cure. Scarcity of the gift shades into a doctrine of unworthiness.
 
@@ -159,22 +159,24 @@ It is warm, poor, and self-reliant: the kindest place in the world to a whole ne
 
 **The grafted pockets.** Settlement clusters wherever a graft has taken. A healthy Tree is the seed of a town, and the map of Heskoren's civilization is a map of its surviving Trees. Between them: wild with no polity, thinly-held marches, and long roads between Tree and Tree.
 
-**The frontier coast** faces the open ocean back toward Strandoren (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides the Sundering Isle. Heskoren's westernmost capes are the closest settled land to the Isle, and the source of many who've seen the storm-wall even if they never crossed it.
+**The frontier coast** is Heskoren's east coast. It faces the West Water back toward Strandoren, the lifeline of trade and new grafts. Eolvaeth is a vale behind this coast.
+
+**The slate-shore** is Heskoren's west coast, in Ornled. Its beaches face the last capes and, far beyond them, the storm-wall that hides the Sundering Isle. A hull that wants a beach here comes round the capes. Heskoren's westernmost capes are the closest settled land to the Isle, and the source of many who've seen the storm-wall even if they never crossed it.
 
 **Climate:** cooler, wetter, wilder than Maiethorn and Strandoren. A land where the solstice-timed Leaf-Fall is a hard-won event of a decade.
 
 ### Reach
 
-**Thin.** The grafts are young, scattered, and prone to sickening. The three pillars are stretched thin (few Long-Lived to remember, few Bound to vouch), so citizenship-by-witness is fragile and the **unvouched Struck** are a constant, aching problem met with faith where there is little machinery. Kept and Struck are both common. Specialist care is scarce. Heskoren is where the wood is still arriving. The Ages chapter calls that unfinished carrying the Grafting.
+**Thin.** The grafts are young, scattered, and prone to sickening. The three pillars are stretched thin (few Long-Lived to remember, few Bound to vouch), so citizenship-by-witness is fragile and the **unvouched Struck** are a constant, aching problem met with faith where there is little machinery. Kept and Struck are both common, and many children stay UnTurned. Specialist care is scarce. Heskoren is where the wood is still arriving. The Ages chapter calls that unfinished carrying the Grafting.
 
 The wood reached Heskoren in Cut-years 200–387, and the work is unfinished. After Strandoren's coasts, cuttings died on the Long Mile. Each new Turning Tree had to grow up before it could supply the next town. The queue planted the town that could pay. That gap is the late wood. In Vaethorn, priests say the wait means the people were unworthy. The years record a late planting. Where the Old Ways hold a planting, the first meal is the host-right. A planting without that meal is a claiming. **Harrow's Green** is a grove whose canopy the neighbours can see and use. The Three Hamlets Past the Ford — Brenod, Vaelun, and Ornath — still walk their children to a Tree this year.
 
 ### Powers
 
 - **Vaethorn, the Waiting Lands** (theology high · reach low · governance low). Ardent faith, thin Trees, almost no state: a warm, poor, half-lawless pilgrim edge whose ruling mood is waiting for a graft to take, for a gift that may not come. Its injustice is a **guilt**: scarcity read as unworthiness. Its seat is **Eolvaeth**, a vale on the pilgrim edge, inland of the coast that faces Strandoren. People walk here to wait. Saelvaeth's march lies on another road.
-- **Ornled**, the Outer Ledger, is the secular frontier: the same thin Trees as the waiting country, and no congregation to tend them. Its town is **Sanbreo**, on the brink of a small city, where the slate is kept.
+- **Ornled**, the Outer Ledger, is the secular frontier: the same thin Trees as the waiting country, and no congregation to tend them. Its town is **Sanbreo**, on the slate-shore of Heskoren's west coast, its beach facing the last capes and the storm-wall. It is on the brink of a small city, and the slate is kept there.
 - **Vaelhesk**, the Far Yield, keeps the Old Ways' host-rights. The first meal at a planting is the law they keep. The land itself is the seat. There is no city. The First Bowl is the guest-grove, where a stranger is fed.
-- **Saelvaeth**, the Sown Waiting, is the march on the live edge, where new grafts are taking. Its town is **Natai**, west of Harrow's Green, in the country between Sanbreo and that grove. **Harrow's Green** is a grove-town in this march's country. People Turn under its canopy. The hamlets' ford is the crossing Brenod, Vaelun, and Ornath use. The march is seated at Natai.
+- **Saelvaeth**, the Sown Waiting, is the march on the live edge, where new grafts are taking. Its town is **Natai**, west of Harrow's Green, in the country between Sanbreo and that grove. The days to either are not recorded. **Harrow's Green** is a grove-town in this march's country. People Turn under its canopy. The hamlets' ford is the crossing Brenod, Vaelun, and Ornath use. The march is seated at Natai.
 
 The four powers are fewer, poorer, and scattered. Wild country with no power of its own fills the space between them.
 
@@ -191,15 +193,13 @@ Two faiths in tension, and the friction is the frontier's own:
 
 *(koom-BAHN, "the hidden home." Sailors say **the Sundering Isle** or **the Sunder**. Outsiders name the barrier. The Yumboes name the hearth.)*
 
-The Sundering Isle is the one land the grafts never reached, or never held. Where Heskoren is thin, the Isle is empty of the Trees the rest of the world is built around, and its people become what they are by **their own path**, outside the Leaf-Fall altogether. The storm-wall has wrecked most who tried the crossing, so that in Maiethorn, Strandoren, and Heskoren alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired. Sailors say "the good people from across the drowning sea." Some of the stories are even true.
+The Sundering Isle is the one land the grafts never reached. Dead wood is not a Tree. Where Heskoren is thin, the Isle is empty of the Trees the rest of the world is built around, and its people become what they are by **their own path**, outside the Leaf-Fall altogether. The storm-wall has wrecked most who tried the crossing, so that in Maiethorn, Strandoren, and Heskoren alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired. Sailors say "the good people from across the drowning sea." Some of the stories are even true.
 
-Kumbaan is an ordinary home, warm and hospitable, that happens to be nearly impossible to reach. The strangeness is the distance. The Yumboes are not strange to themselves, only to a world that has never met them.
-
-Kumbaan keeps a table, a moon, and a storm-wall. The Isle is a people at home.
+Kumbaan is an ordinary home, warm and hospitable, that happens to be nearly impossible to reach. The Yumboes are not strange to themselves, only to a world that has never met them. They are a hill-people who love a feast, served by hands you cannot see, and the rest of the world thinks they are a legend.
 
 ### Geography and climate
 
-**The storm-wall.** A near-permanent girdle of violent weather, treacherous currents, and reef rings the Isle. That is why the Isle remains sundered. Ships that try the crossing are wrecked, turned back, or simply never return. People still argue whether a season comes when the wall thins, or whether any way through exists. The question is open.
+**The storm-wall.** A near-permanent girdle of violent weather, treacherous currents, and reef rings the Isle. That is why the Isle remains sundered. Ships that try the crossing are wrecked, turned back, or simply never return. There may be a season, or a way, when the wall thins. Nobody knows.
 
 **The Paps: the hill country.** The Isle's defining landform: rolling green **hills honeycombed beneath** with the Yumboes' true dwellings. They live within the hills, coming out by moonlight. The surface is pasture, terrace, and standing-stone. The life is below.
 
@@ -209,7 +209,7 @@ Kumbaan keeps a table, a moon, and a storm-wall. The Isle is a people at home.
 
 ### Reach
 
-**Near-none.** Few or no healthy Trees. The grafts never crossed the storm-wall. Kumbaan never took a graft. The count for this isle, in the First Cut's years, is never. Sailors tell of pots that went into the water. Those pots were dead wood. They never took as Trees. The Yumboes do not Turn at a Tree. They become what they are by their own path.
+**Near-none.** There is no Tree on the Isle, and there never was a graft. The grafts never crossed the storm-wall. The count for this isle, in the First Cut's years, is never. Sailors tell of pots that went into the water. Those pots were dead wood. They never took as Trees. The Yumboes do not Turn at a Tree. They become what they are by their own path.
 
 ### People: the Yumboes
 
@@ -221,6 +221,6 @@ The Isle is the homeland of the **Yumboes** ("Bakhna Rakhna," *the good people*)
 
 ### Faith
 
-**The Open Table** (*Ndeyaan*): the Yumboes' own cosmology, grown in isolation and owing nothing to the Motherfaith. Their old accounts frame the good people as bound up with the ancestors and the dead (the Yumboes are called "the spirits of the dead"). What is lived is a faith of hill, moon, hospitality, and the staying-kin. The Table-Keepers keep the hall. The Shore-Sitters keep the sand.
+**The Open Table** (*Ndeyaan*): the Yumboes' own cosmology, grown in isolation and owing nothing to the Motherfaith. Their old accounts bind the good people up with the ancestors and the dead, and the mainland tales call them "the spirits of the dead." They are a living people with a faith of hill, moon, hospitality, and the staying-kin. They are not ghosts. The Table-Keepers keep the hall. The Shore-Sitters keep the sand.
 
 ---

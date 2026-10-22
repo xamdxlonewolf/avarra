@@ -21,7 +21,7 @@ Continent and region names wait for **The Four Continents**, where the map is. T
 
 A byname is *of a town*, *of a Tree*, *called such for a deed*, or *of the house you actually sleep in* when that house is not a list. The road, the live front, the waiting towns, and every power that names people by witness use this. A fox-born broker on a witness quay: **Raki of Hallowquay**. The human at the next desk: **Valen of Hallowquay**. Same street, same civic name, different first sound.
 
-A house-name is inherited. Children wear it. A neighbour says the given name. A clerk says the **house first**, then the given name. The house-word is that place's own drift, often an old given name that stuck to a line. Threnmaieth files that house-name. In Trenledd the column may file a person under the house that pays. In Rothallo, which people still call the Inner Close, the line can cast a person out and keep the house on them. A filing house on a quay files the house-name while the paper is open. Shut the paper, and the quay goes back to the witness way. *Closed* on a roster is a rank.
+A house-name is inherited. Children wear it. A neighbour says the given name. A clerk says the **house first**, then the given name. The house-word is that place's own drift, often an old given name that stuck to a line. Two crowns keep a roll of persons. Threnmaieth calls its roll holy and files the house-name on it. Trenledd keeps its roll without calling it holy, and the column may file a person under the house that pays. In Rothallo, which people still call the Inner Close, the line can cast a person out and keep the house on them. The Walled Book there keeps an heir-roll, and it lists only its own heirs. A filing house on a quay files the house-name while the paper is open. Shut the paper, and the quay goes back to the witness way. *Closed* on a roster is a rank.
 
 | Who is asking | What you give |
 |---|---|
@@ -36,9 +36,9 @@ A Tengu's byname is often a perch or a pass: **Teku of Highgate**, **Hosen of th
 
 Yumboes are the exception. They are too rare on the mainland to have grown a local second name. They keep one name, and it sounds foreign the moment it is spoken.
 
-### Before you lock it
+### Keep the cast distinct
 
-- Do not put **Raki** and **Ranyu** in the same party. Do not put **Teku** and **Kukra** in as twins unless they are.
+- **Raki** and **Ranyu** in the same party are easy to mix up. **Teku** and **Kukra** sound like twins, so they belong together only if they are twins.
 - A Selkie named **Wishi**, or a Tengu named **Maethaem**, was raised away, adopted, or passing.
 - Place-names already on the map are reserved. No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. The same goes for church and house names (Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd), the squares Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's, and the seats Eolvaeth, Orentel, Maiethlir.
 
@@ -46,7 +46,7 @@ Yumboes are the exception. They are too rare on the mainland to have grown a loc
 
 ## Names by Place
 
-Everyday names are the Old Tongue worn down to something you can shout across a yard. Soft *th*, long vowels, liquids. Stress usually sits on the second beat.
+Everyday names are the Old Tongue worn down to something you can shout across a yard. Soft *th*, long vowels, liquids. Stress follows the Old Tongue rule under **How to Say It**, and the stress marked on first use wins.
 
 A town in any Tree-touched land uses these sounds, worn the way that land wears them. The isle of Kumbaan is the exception. It already has its own speech.
 
@@ -81,13 +81,13 @@ Each of these places also has one phrase it says whole. In a devout square, some
 
 | Raised in | How the name sounds | Pick from |
 |---|---|---|
-| **Threnmaieth**, pious Maiethorn | The old church sound, kept whole. You hear the *th*. | **Maethaem** (MY-eth-aym), **Reimaethe** (ray-MY-eth-eh), **Thilim** (THIL-im), **Rithnali** (rith-NAH-lee), **Valein** (vah-LAYN) |
+| **Threnmaieth**, pious Maiethorn | The old church sound, kept whole. You hear the *th*. | **Maethaem** (MAY-thaym), **Reimaethe** (RYE-may-theh), **Thilim** (THIL-im), **Rithnali** (rith-NAH-lee), **Valein** (vah-LAYN) |
 | **Vaethorn**, Heskoren folk | Worn. The *th* is still there, softer. Endings simplify. | **Nathdo** (NATH-doh), **Saelid** (SAY-lid), **Tora**, **Seine** (SAY-neh), **Nethiro** (neth-EE-ro) |
 | **Lestrand**, Strandoren docks | Clipped. The *th* has gone to t or d, or dropped. | **Valen**, **Tilim**, **Mataero** (mah-TAY-ro), **Ledan**, **Sorel** |
 
 Devout places keep the old *th*. Dock towns turn it to t or d, or drop it. A name that still has the *th* comes from a devout place. A name that has dropped it comes from a dock.
 
-To make a new common-tongue name, start from one of the lists above and keep those sounds. Do not invent a new set of sounds. Vaelhesk keeps older *vael* and frontier *hesk-*. It is this same speech, worn further.
+To make a new common-tongue name, start from one of the lists above and keep those sounds. There are three drifts and no fourth human language. Vaelhesk keeps older *vael* and frontier *hesk-*. It is this same speech, worn further.
 
 ---
 
@@ -103,19 +103,19 @@ A Kitsune hearth-name sounds light, slipping, and a little hissy.
 
 **Pick from:** Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan.
 
-The hearth-name is the one they answer to when someone is trying to pin them down. They consider this funny. A fox raised devout in Threnmaieth may still be Raki at home and Raki Maethaem on the roll.
+The hearth-name is the one they answer to when someone is trying to pin them down. They consider this funny. A fox raised devout in Threnmaieth may still be Raki at home and Maethaem, Raki on the roll.
 
-**To make another:** two or three short beats. Use k, s, sh, n, r, m, t, w, y, f, h, and the vowels a, i, u, e, o, plus *ai* as in *eye*. You can end on n, m, or r. Do not put a *th* in it. That is church-speech. Do not start with *kr* or *gr*. That is Tengu. Do not use *mb* or *nd*. That is Yumboe.
+**To make another:** two or three short beats. Use k, s, sh, n, r, m, t, w, y, f, h, and the vowels a, i, u, e, o, plus *ai* as in *eye*. You can end on n, m, or r. No *th*: that is church-speech. No *kr* or *gr* at the start: that is Tengu. No *mb* or *nd*: that is Yumboe.
 
 ### Selkie: Sakoa (sah-KOH-ah)
 
-A Selkie hearth-name sounds liquid, rounded, and coastal. You can say it with cold air in your mouth.
+A Selkie hearth-name sounds liquid, rounded, and coastal. You can say it on a breath of cold air.
 
 **Pick from:** Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea.
 
 The day a child is first given the run of their own skin is when the hearth-name is spoken to the water. The civic byname comes later, from the town that watched them Turn. Two homes, two names.
 
-**To make another:** two or three beats. Use l, r, n, m, s, v, f, d, b, k, w, and the vowels o, u, a, i, e, plus *ea* and *oa*. Do not use *th*, *sh*, *kr*, *gr*, or *mb* / *nd*.
+**To make another:** two or three beats. Use l, r, n, m, s, v, f, d, b, k, w, and the vowels o, u, a, i, e, plus *ea* and *oa*. No *th*, *sh*, *kr*, *gr*, or *mb* / *nd*.
 
 ### Tengu: Gonan (GO-nan)
 
@@ -125,7 +125,7 @@ A Tengu hearth-name is clipped, windy, and high-country. The names are short, wi
 
 Gonan is also the people-name. Reusing it as a given name is a hearth-honor, like naming a child after the ridge.
 
-**To make another:** prefer two beats. Use k, t, g, n, r, h, s, b, d. *Kr*, *gr*, and *hr* at the front are at home here. Vowels a, o, u, e. Few *i*. That vowel lives with the foxes. Do not use *th*, *sh*, *mb* / *nd*, or long *ai* / *ea* / *oa*.
+**To make another:** prefer two beats. Use k, t, g, n, r, h, s, b, d. *Kr*, *gr*, and *hr* at the front are at home here. Vowels a, o, u, e. Few *i*. That vowel lives with the foxes. No *th*, *sh*, *mb* / *nd*, or long *ai* / *ea* / *oa*.
 
 ### Yumboe
 
@@ -135,7 +135,7 @@ They call themselves **Bakhna Rakhna**. That is the good people. Their home is *
 
 **Pick from:** Ambaa, Njeela, Kumbo, Ndeya, Mbaraan, Njunda, Rakhilo, Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.
 
-**To make another:** keep the open vowels and the *mb* / *nd* / *nk* / *nj*. Do not put a *th* in it. Do not clip it down to a Lestrand dock-name. They keep the one register on the mainland. No *of Hallowquay* unless the story is that they have decided to stay.
+**To make another:** keep the open vowels and the *mb* / *nd* / *nk* / *nj*. No *th*, and no clipping it down to a Lestrand dock-name. They keep the one register on the mainland. No *of Hallowquay* unless the story is that they have decided to stay.
 
 ---
 
@@ -144,19 +144,19 @@ They call themselves **Bakhna Rakhna**. That is the good people. Their home is *
 CAPS is the stressed beat. Mark it the first time, then drop it.
 
 - **ae** = "ay" as in *day*
-- **ei** = "eye"
+- **ai** and **ei** = "eye"
 - **eo** = an "ay-oh" glide
 - **a** as in *father* · **e** as in *bed* · **i** as in *machine* · **o** as in *go* · **u** as in *moon*
 - **th** as in *thin*, never as in *the*
-- Stress usually falls on the **second beat** of a two- or three-beat word: thae-LOR-en, ma-YETH. Short compounds stress the root.
+- A simple root keeps its own stress. A name glued from two old words stresses the **first word**, with a lighter beat on the second: THAEL-or-en, VAETH-orn. Old church forms and personal names can keep a stress of their own. The stress marked the first time a name appears is the one to use.
 
-The Old Tongue is warm and weighty. No harsh piles of consonants. If you cannot say it at the table, it is the wrong name.
+The Old Tongue is warm and weighty. It keeps a few old consonant clusters at the front of a word (*br*, *kr*, *st*, *str*, *thr*) and no harsh piles beyond them. If you cannot say it at the table, it is the wrong name.
 
 ---
 
 ## How to Name a Place or a Hall
 
-The Old Tongue is **Maiethren** (mah-YETH-ren). That is Mother-speech. It is the church language of the Awakening Tree. Nobody grows up speaking it at the market. Place-names, crowns, and old offices are built from it. Everyday talk uses plain compounds. People say *the Kept*, *the ranging*, and *tree-wardens*.
+The Old Tongue is **Maiethren** (MAI-eth-ren). That is Mother-speech. It is the church language of the Awakening Tree. Nobody grows up speaking it at the market. Place-names, crowns, and old offices are built from it. Everyday talk uses plain compounds. People say *the Kept*, *the ranging*, and *tree-wardens*.
 
 To name something old or official:
 
@@ -195,28 +195,28 @@ These are the blocks names are built from. Each old word has the meaning it had 
 | **crae** | kray | craft; the working of an element. The Answered shops as a sector. |
 | **hesk** | hesk | far, outer edge. Frontier coinage, not in the old rite. Heskoren, Vaelhesk. |
 
-The Awakening Tree's church-name is **Thaeloren** (thae-LOR-en). That is the Tree that witnesses. Everyday, people say **the Thallow**. A person belongs by being witnessed, and Thaeloren names that.
+The Awakening Tree's church-name is **Thaeloren** (THAEL-or-en). That is the Tree that witnesses. Everyday, people say **the Thallow**. A person belongs by being witnessed, and Thaeloren names that.
 
 Vaethorn, Lestrand, and Threnmaieth are named by gluing two old words and wearing them down. Closer to the Tree, the old sound stays. Farther out, the *th* wears away:
 
-- **Vaethorn** (vay-THORN) is *vaeth* + *orn*. That is the Waiting Land. It keeps the *th*. Everyday people say **Wethorn**. They say Vaethorn-folk, or the Waiting.
-- **Lestrand** (leh-STRAND) is *ledd* + *strand*, worn smooth. That is the Reckoning Coast. The *th* is gone. People say Lestrand-folk or Strandmen.
-- **Threnmaieth** (THREN-my-eth) is *thren* + *maieth*. That is the Mother's Reckoning. It keeps the full old sound. People say Threnmaieth-folk. The crown styles itself the Mother's Reckoning.
+- **Vaethorn** (VAETH-orn) is *vaeth* + *orn*. That is the Waiting Land. Careful writing and prayer keep the *th*. Everyday speech wears it to *t* and says **Wetorn**. People say the Waiting Lands, or the Waiting.
+- **Lestrand** (LES-trand) is *ledd* + *strand*, worn smooth. That is the Reckoning Coast. It is the most worn of the three names. People say the Ledger Coast. Formal records keep *Lestrand*.
+- **Threnmaieth** (THREN-mai-eth) is *thren* + *maieth*. That is the Mother's Reckoning. It keeps the full old sound. People say the Tallied Crown. The crown writes *Threnmaieth*.
 
 Further from the Tree, the old words keep wearing down. In Trenledd, *thren* is worn down to *Tren*. In Maiethvael, *maieth* names the gift. On Heskoren, Vaelhesk is named from *vael* and Vaethorn is named from *vaeth*.
 
 Faiths are named from the same blocks, so a faith sounds like the land that keeps it:
 
-- **Haelthael** (hayl-THALE) is *hael* + *thael*. That is the Tree kept whole. The Watching keeps it as its own name. Its people are the Watchers.
-- **Leddoren** (led-OR-en) is *ledd* + *oren*. That is the witnessed account. The Fair Hand keeps it as its own name. Its people are the Book-hands.
-- **Vaeloren** (vay-LOR-en) is *vael* + *oren* in the older sense. That is the land's witnessing. The Old Ways keep it. Its people are the door-keepers and the Kin-speakers.
+- **Haelthael** (HAEL-thael) is *hael* + *thael*. That is the Tree kept whole. The Watching keeps it as its own name. Its people are the Watchers.
+- **Leddoren** (LEDD-or-en) is *ledd* + *oren*. That is the witnessed account. The Fair Hand keeps it as its own name. Its people are the Book-hands.
+- **Vaeloren** (VAEL-or-en) is *vael* + *oren* in the older sense. That is the land's witnessing. The Old Ways keep it. Its people are the door-keepers and the Kin-speakers.
 - **Ndeyaan** (ndey-AHN) is said in the Open Table's speech. That is the Open Table's own name. Its people are the table-keepers and the hill-hosts.
 
-If you need a new church or guild name, glue two old words and wear them for the land. Do not collide with a name already on the map. The church-names already in use:
+The church and guild names are settled, and no new ones are being made. These are the church-names in use:
 
-Tree-wardens keep **Orenhael** (or-EN-hayl). That is witness and whole. Road-hands keep **Thaelvaeth** (THALE-vayth). That is the Tree gone to the waiting. Watchers keep **Nethoren** (neth-OR-en). That is night-witnesses. Book-hands keep **Leddhael** (LED-hayl). That is the accounted-whole. Door-keepers keep **Vaelbren** (VAYL-bren). That is the yield-hearth. The table-keepers and the hill-hosts keep **Njaalo** (NJAH-lo). The shore-sitters keep **Njawaal** (njah-WAHL). Both names are Yumboe. The Slide keeps **Vaethledd** (VAYTH-led). That is the waiting reckoned. Greens-keepers keep **Saelhael** (SAYL-hayl). That is the sown-whole. Hall-keepers have no current liturgical form. *Aeloren* is retired. Stillers keep **Stelhael** (stel-HAYL). That is the held-whole. The element-guilds keep **the Crae** (kray). That is craft. The Intake has no church-name.
+Tree-wardens keep **Orenhael** (OREN-hael). That is witness and whole. Road-hands keep **Thaelvaeth** (THAEL-vaeth). That is the Tree gone to the waiting. Watchers keep **Nethoren** (NETH-or-en). That is night-witnesses. Book-hands keep **Leddhael** (LEDD-hael). That is the accounted-whole. Door-keepers keep **Vaelbren** (VAEL-bren). That is the yield-hearth. The table-keepers and the hill-hosts keep **Njaalo** (NJAH-lo). The shore-sitters keep **Njawaal** (njah-WAHL). Both names are Yumboe. The Slide keeps **Vaethledd** (VAETH-ledd). That is the waiting reckoned. Greens-keepers keep **Saelhael** (SAEL-hael). That is the sown-whole. Hall-keepers have no current liturgical form. *Aeloren* is retired. Stillers keep **Stelhael** (STEL-hael). That is the held-whole. The element-guilds keep **the Crae** (kray). That is craft. The Intake has no church-name.
 
-Era-names come from the same old words. **Brenvaeth** (bren-VAYTH) is the Walking Years. **Eoloren** (ay-ohl-OR-en) is the First Cut. **Ornthael** (orn-THALE) is the Years of Hands. A road-house's cant is **brenhael** (bren-HAYL). That is the hearth kept whole.
+Era-names come from the same old words. **Brenvaeth** (BREN-vaeth) is the Walking Years. **Eoloren** (EOL-or-en) is the First Cut. **Ornthael** (ORN-thael) is the Years of Hands. A road-house's cant is **brenhael** (BREN-hael). That is the hearth kept whole.
 
 ---
 
@@ -232,7 +232,7 @@ Use the **common tongue** column unless you need the local word. Use the local w
 |---|---|---|---|---|
 | proof-by-people (vouching) | **standing-for** | *the speaking* (vouched at worship) | *warranting* (a commercial guarantee) | *the naming* (you are named to the crown) |
 | the safety-licence | **the ticket** | *the blessing-to-practice* | *the guild-ticket* | *the crown-warrant* |
-| a census of persons | *(none; no one else keeps one)* | *(none; the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
+| a census of persons | *(no common name; only two crowns keep one: Trenledd's **roll**, and Threnmaieth's Threnhael)* | *(none; the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
 
 Threnmaieth's census calls itself the **Threnhael**. That is *thren* + *hael*, the keeping-whole. It sounds like care. It is total surveillance. Its clerks say they keep the realm hale. Its subjects are kept whole. Outsiders hear "the Counting."
@@ -248,7 +248,7 @@ Threnmaieth's census calls itself the **Threnhael**. That is *thren* + *hael*, t
 
 ### The people
 
-The three life-outcomes of the Leaf-Fall keep their plain names **everywhere**: *the Given*, *the Struck*, *the Kept*. Each land's second word is how it feels about them.
+The three standing-terms keep their plain names **everywhere**: *the Given*, *the Struck*, *the Kept*. Each land's second word is how it feels about them.
 
 | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|

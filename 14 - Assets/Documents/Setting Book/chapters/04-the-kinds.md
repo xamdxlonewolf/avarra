@@ -15,7 +15,7 @@ Yumboes are rare off Kumbaan because of the storm-wall, the distance. On the isl
 | Layer | What it tells you | Where the rest of a person lives |
 |---|---|---|
 | **Kind** | Birth-shape; sometimes a hearth (coast, ridge, wood, isle) | Loyalty, faith, legal standing, and country are decided apart from the body |
-| **Condition** | What they became (~75%); the Tithe (the upkeep of a becoming); guild or licence | The birth-body stays the Kind |
+| **Condition** | What they became (most people carry one); the Tithe (the upkeep of a becoming); guild or licence | The birth-body stays the Kind |
 | **Place** | The local speech they use (their drift), the institution-names they use, the country that stood witness for them | Ears, wings, and tails stay the Kind |
 
 A Kitsune clerk works the Lestrand docks. A Tengu pilgrim walks in Threnmaieth. A Selkie stands as a witness for someone in Vaethorn. Each of those is an ordinary life. The life that matters is the Kind, the Condition, and the place together.
@@ -29,24 +29,24 @@ A Tithe belongs to a Condition.
 | Fox | Hearth | Where on the map |
 |---|---|---|
 | **Wilds** (red / forest) | tangled wood, hedgerow, Motherwood | densest in Maiethorn's Motherwood and Heskoren's deep forests |
-| **Snows** (white / high cold) | high snow, pale open country | densest on Maiethorn's central range and Heskoren's highland spines |
-| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in Maiethorn's Rain-Shadow: the leeward east of the central range, the one true dry country in the known world |
+| **Snows** (white / high cold) | high snow, pale open country | densest on Maiethorn's Rain-Wall and Heskoren's highland spines |
+| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in Maiethorn's Rain-Shadow: the leeward east of the Rain-Wall, the one true dry country in the known world |
 
 A Fox of the Sands in a wet Strandoren harbour has simply moved, the way people do. A town in the Rain-Shadow with no fox-born at all is the thing worth asking about.
 
 Old Kitsune hearths still have a word for a fourth fox no one is born as anymore. People still say the word. No one is born that Fox. A grandmother will say the word and will not say why.
 
-**Selkie: the coasts.** Selkies belong to two homes at once, so their hearth is the line between: strand, estuary, cold harbour, the towns that face water. Densest on Strandoren's indented coasts (the continent is almost all shoreline). Common in Maiethorn's western ports on the inner sea. Present on Heskoren's wild coast, thinner inland. Kumbaan has no native Selkies. A Selkie who makes that crossing is one person's story.
+**Selkie: the coasts.** Selkies belong to two homes at once, so their hearth is the line between: strand, estuary, cold harbour, the towns that face water. Densest on Strandoren's indented coasts (the continent is almost all shoreline). Common in Maiethorn's western ports on the Old Crossing. Present on Heskoren's wild coast, thinner inland. Kumbaan has no native Selkies. A Selkie who makes that crossing is one person's story.
 
 Inland Selkies exist. The skin Anchors: they always know the way back to wherever they left it, and they can always find their way back to water. They are simply fewer, and they miss whichever home they are away from, which they consider normal.
 
-**Tengu: the ridges.** Tengu hearths are peaks, cliff-shelves, and the wind that lives there. Densest on Maiethorn's central range and Heskoren's highland spines, the two continents that actually have killing height. Rare as a settled people on low Strandoren. The ones you meet there are usually sky-couriers: a family, a perch on a clock-tower, a run over the inner sea.
+**Tengu: the ridges.** Tengu hearths are peaks, cliff-shelves, and the wind that lives there. Densest on Maiethorn's Rain-Wall and Heskoren's highland spines, the two continents that actually have killing height. Rare as a settled people on low Strandoren. The ones you meet there are usually sky-couriers: a family, a perch on a clock-tower, a run over the Old Crossing.
 
 Tengu settlements cling to crags and are reached by wing or by rope. A lowlander arriving on foot is a guest who climbed. That is the courtesy.
 
 They keep a running, half-teasing rivalry with the Selkies. Sky-folk and sea-folk each remain convinced their element is the one worth belonging to. The rivalry stays a tease between neighbours.
 
-**Yumboe: the isle.** Kumbaan, and almost nowhere else. Mythic-rare off the isle; on it, ordinary. Kumbaan has no Leaf-Fall, so no child there is Given a Condition. A Struck Condition can still happen, and it is rare. Their ancestry is their own, and so is the feast they keep. A Yumboe on the mainland is usually the only one anyone in that town has ever seen. They have no mainland hearth. The storm-wall is the distribution.
+**Yumboe: the isle.** Kumbaan, and almost nowhere else. Mythic-rare off the isle; on it, ordinary. Kumbaan has no Leaf-Fall, so no child there is Given a Condition. A Struck Condition can still happen, and it is rare. Their ancestry is their own, and so is the feast they keep. A Yumboe on the mainland is usually the only one anyone in that town has ever seen. They have no mainland hearth: the storm-wall keeps them on the isle.
 
 ### Stock ancestries
 
@@ -80,7 +80,7 @@ Factions recruit by Condition, by guild, and by faith. A settlement may have a h
 
 ### Hearth-Mark
 
-Stock Daggerheart ancestries grant two features. Each custom Kind grants three. The customs were balanced against each other.
+Stock Daggerheart ancestries grant two features. Each custom Kind grants three. Beside them, a stock ancestry with two features looks weak.
 
 A character whose two ancestry features are **both from stock ancestries** — a single stock Kind, or a stock-and-stock mix — takes a **Hearth-Mark** at character creation. A character who takes **any custom-Kind feature** does not take a Hearth-Mark. The third feature *is* the hearth written into the body.
 
@@ -134,9 +134,9 @@ Kitsune are slight and quick-eyed, fox-born, with a fox's ears and a brush of ta
 
 Foxfire is common to every Kitsune: the ghost-light that leads travelers off the mountain path, the pale fire that hides the sacred white fox, the flame the old nine-tails were said to carry. Each kind of fox bends the same fire a different way.
 
-Just as the world holds arctic, desert, and forest foxes, the fox-born come in kinds shaped by the country they were born to. The **Fox of the Wilds** is red-and-russet, a forest and hedgerow fox. The **Fox of the Snows** is white-coated, born to the cold north and the high snows. The **Fox of the Sands** is pale and huge-eared, born to the deserts and dry country. All are Kitsune. All share the same slipperiness and the same foxfire, and marry and mingle freely; a child takes after one parent's line or the other. Each carries a gift bred into it by its home ground, and turns its foxfire to a different old fox-story: the will-o'-wisp that leads a hunter astray, the pale flame that swallows the white fox from sight, the ward-fire of the fox that always knows what's coming.
+Just as the world holds arctic, desert, and forest foxes, the fox-born come in kinds shaped by the country they were born to. The **Fox of the Wilds** is red-and-russet, a forest and hedgerow fox. The **Fox of the Snows** is white-coated, born to the cold north and the high snows. The **Fox of the Sands** is pale and huge-eared, born to the dry country. All are Kitsune. All share the same slipperiness and the same foxfire, and marry and mingle freely; a child takes after one parent's line or the other. Each carries a gift bred into it by its home ground, and turns its foxfire to a different old fox-story: the will-o'-wisp that leads a hunter astray, the pale flame that swallows the white fox from sight, the ward-fire of the fox that always knows what's coming.
 
-Three of every four people acquire a Condition. Kitsune are a Kind who never quite stay where you left them. Their reputation is honest misdirection. They slip a trap and leave the trap sitting in plain view.
+A Kitsune is not changed into anything. A Kitsune is known for never quite being where you left them. Their reputation is misdirection without deceit. They slip a trap, and they do not lie about the trap being there.
 
 ### Values
 
@@ -181,7 +181,7 @@ Selkies value belonging without being bound: deep loyalty freely given, resented
 
 Because they can't be kept down and can't be kept out, Selkies work as rescue swimmers, cold-water divers and salvors, and go-betweens: the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony. Where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters.
 
-Death by drowning is the threshold that Strikes the Far-Voiced. Selkies live in that water, and the stories about them and that drowning are many.
+Surviving a drowning is the threshold that Strikes the Far-Voiced. Selkies live in that water, and the stories about them and that drowning are many.
 
 ### Daggerheart ancestry features
 
@@ -196,7 +196,7 @@ Selkies are at home in water (long breath-hold, ignore cold and deep, swim advan
 
 Hearth-register **Sakoa**, said sah-KOH-ah. The sound is liquid, rounded, coastal. Daily speech is the local Maiethren drift. Given names include Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea.
 
-The hearth-name is spoken to the water the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn. Two homes, two names. They treat that as ordinary.
+The hearth-name is spoken to the water the day a child is first given the run of their skin; the second name, a byname or a house-name, comes from the town that watched them Turn. Two homes, two names. They treat that as ordinary.
 
 ---
 
@@ -224,9 +224,9 @@ Because they can go where footpaths can't and read the mountain's mood before it
 
 ### Naming
 
-Hearth-register **Gonan**, said GO-nan, sounds clipped, windy, and high-country. It is a different mouth from Kusawe. Daily speech is the local Maiethren drift. Given names include Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Gonan names the people too. Giving it to a child honors the hearth, as naming a child after the ridge does.
+Hearth-register **Gonan**, said GO-nan, sounds clipped, windy, and high-country. It does not sound like Kusawe. Daily speech is the local Maiethren drift. Given names include Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Gonan names the people too. Giving it to a child honors the hearth, as naming a child after the ridge does.
 
-Bynames are often a perch or a pass (Teku of Highgate, Hosen of the White Stair). A harbour-name belongs to the coast.
+The second name is often a byname that is a perch or a pass (Teku of Highgate, Hosen of the White Stair), or a house-name where a list keeps them. A harbour-name belongs to the coast.
 
 ---
 
@@ -236,7 +236,7 @@ Yumboes are the small, moon-waked hill-folk of the far isle of Kumbaan. In their
 
 Unlike Kitsune, Selkie, and Tengu, who are native to the mainland and unremarkable there, a Yumboe is mythic-rare off their far isle. Most people of Maiethorn, Strandoren, and Heskoren have only heard stories of the pearly, silver-haired good people from across the drowning sea.
 
-On the isle they are an ordinary, warm, whole people who happen to live somewhere almost no one can reach, so their strangeness is distance. On the isle they are ordinary to themselves. They are a legend to a world that has never had them to supper. A small, generous hill-people who love a feast and the moon; underneath, the hands with no bodies, and a whole people the mainland files under fairy-tale.
+On the isle they are an ordinary, warm, whole people who happen to live somewhere almost no one can reach, so their strangeness is distance. On the isle they are ordinary to themselves. They are a legend to a world that has never had them to supper. The mainland files them, and the hands with no bodies, under fairy-tale.
 
 A Yumboe reads as a Yumboe at a glance, which is exactly why they are remarked on the moment they leave their isle. The "two-foot good people" of the oldest tellings are the deep-hill kin of legend. The ones at the table are the waist-high people.
 

@@ -18,6 +18,6 @@ There is one origin Tree, the **Awakening Tree**, called Thaeloren, on Maiethorn
 
 Ordinary life is late-medieval. Towns are chartered, and people keep guild halls, markets, letters of credit, mills, and universities. No printing press. No gunpowder. The one step past that life comes from Condition-labor, paid for by Tithes, concentrated where those Conditions live.
 
-It is the **Years of Hands**, **Cut-year 387**. That is the age of the town Trees. Years are numbered from the First Cut. That number is a Cut-year. Town Trees stand in most squares. The walk to the origin is no longer required, except where the wood is still travelling, or has failed. On Heskoren the planting is not finished. Kumbaan has never Turned. It is the storm-walled isle.
+It is the **Years of Hands**, **Cut-year 387**. That is the age of the town Trees. Years are numbered from the First Cut. That number is a Cut-year. Town Trees stand in most squares. The walk to the origin is no longer required, except where the wood is still travelling, or has failed. On Heskoren the planting is not finished. Kumbaan, the storm-walled isle, has no Tree, and no graft has ever crossed to it.
 
 This book is the world as it stands.
