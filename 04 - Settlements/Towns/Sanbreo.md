@@ -11,7 +11,7 @@ region: "[[Ornled]]"
 population: a town on the brink of a small city
 reveals: [keystone-adjacent]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Sanbreo
@@ -31,7 +31,7 @@ updated: 2026-10-03
 
 ## Overview
 
-Sanbreo is a town on [[Heskoren]]'s slate-shore, in [[Ornled]]. The frontier coast faces [[Named Ground|the West Water]]. Beyond the last capes is the storm-wall. This town is the pocket that kept the slate, and the beach where a hull can pay.
+Sanbreo is a town on [[Heskoren]]'s slate-shore, the west coast, in [[Ornled]]. Its beach faces west, toward the last capes and the storm-wall beyond them. The frontier coast that faces [[Named Ground|the West Water]] is on the east side of Heskoren. A hull that wants Sanbreo's beach comes round the capes. This town is the pocket that kept the slate, and the beach where a hull can pay.
 
 It is on the brink of a small city. The roofs have filled the pocket. A walk that used to pass left stones and upper rooms, and people still sleep in them. The brink did not grow a congregation or a counted hall. Custom outruns law because there is almost no law and almost no hymn.
 

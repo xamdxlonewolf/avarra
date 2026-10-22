@@ -109,8 +109,8 @@ def main() -> None:
         (460, 830, "The town gate", T, 700, 720),
     ])
     label("Sanbreo-Plan-Atlas.png", "Sanbreo-Plan-Atlas-Labeled.png", [
-        (680, 540, "The shore gate", T, 860, 650),
-        (680, 430, "The slate", T, 840, 590),
+        (472, 540, "The shore gate", T, 292, 650),
+        (472, 430, "The slate", T, 312, 590),
     ])
     label("Natai-Plan-Atlas.png", "Natai-Plan-Atlas-Labeled.png", [
         (320, 220, "The Tree", T, 520, 340),

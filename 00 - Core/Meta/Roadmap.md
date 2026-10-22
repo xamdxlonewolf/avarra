@@ -50,7 +50,7 @@ updated: 2026-10-22
 | **B** | [[#Epic B — The book, in a reader's voice]] | Read the setting book one chapter at a time and rewrite it for people who will play. Does not open new canon | Med | ✅ B.1 done 2026-10-05. 26 / 26 |
 | **C** | [[#Epic C — How the book speaks]] | `prose-style` audit of the setting book, then a sentence pass so the narrator sounds like one person talking. Does not open new canon | Med | ✅ C.0–C.1 done 2026-10-05 |
 | **H** | [[#Epic H — A past you can hold]] | The Long-Lived memory circle, how the Kept houses treat people with a Condition, one history in ordinary sentences, then short pages a party can find. The world book stays put | Med | ✅ H.1–H.6 done 2026-10-22 |
-| **V** | [[#Epic V — Read the whole vault]] | A whole-vault audit by several readers: holes, tone, and retired phrases that are still there. Findings first, fixes after the user reads them | High | V.0–V.2 ✅ 2026-10-22 · next V.3 (the user's reading) |
+| **V** | [[#Epic V — Read the whole vault]] | A whole-vault audit by several readers: holes, tone, and retired phrases that are still there. Findings first, fixes after the user reads them | High | V.0–V.3 ✅ 2026-10-22 · next V.4 wave 1 ([[V.4 Fix Prompt]]) |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -1337,7 +1337,7 @@ The user chose the meaning on 2026-10-22. The phrase means two things, both ordi
 
 ## Epic V — Read the whole vault
 
-**Skill:** `story-sense` (router) · `worldbuilding` · `prose-style` · `voice-analysis` · `blind-spot-detective` · `shared-world` (canon status and the contradictions log only) · then `revision` for the fix order · **Status:** V.0, V.1, and V.2 done 2026-10-22. V.3 waits on the user's reading of [[Vault Audit 2026-10-22]]. **Blast radius:** High for the read, none for canon until V.4.
+**Skill:** `story-sense` (router) · `worldbuilding` · `prose-style` · `voice-analysis` · `blind-spot-detective` · `shared-world` (canon status and the contradictions log only) · then `revision` for the fix order · **Status:** V.0 to V.3 done 2026-10-22. V.4 is decomposed into three waves and is next; the prompt is [[V.4 Fix Prompt]]. **Blast radius:** High for the read, none for canon until V.4.
 
 > **Direction (user, 2026-10-22).** Run a complete audit. Fan out several subagents so every note in the vault is read by someone. Find holes, find places where the tone is off, and find phrases we already tried to remove that are still there. Make sure things are good.
 
@@ -1376,28 +1376,56 @@ One reader per group. Each reads every note in its group all the way through and
 
 > **V.2 recorded decisions (2026-10-22).** The report is [[Vault Audit 2026-10-22]]. It sorts the findings into five kinds: facts that break a lock or disagree, GM secrets in player text, design scaffolding in player text, the old voice, and holes and stale trackers. Fifteen disagreements are logged on [[Contradictions]] as C-10 to C-24, each with a proposed winner. C-19 (Sanbreo's coast) and C-21 (Reimaethe's gift) wait on the user. C-01, C-04, and C-07 stay resolved as decisions; their leftover lines go into the V.4 fixes. The report ends with nine questions for the user.
 
-### Story V.3 — Wait for a reading
+### Story V.3 — Wait for a reading ✅ **DONE (2026-10-22)**
 
-- [ ] Stop. This box is the user's. Leave it open until they have read the report and said which findings to fix, which to leave, and which are wrong.
+- [x] Stop. This box is the user's. Leave it open until they have read the report and said which findings to fix, which to leave, and which are wrong.
 
-### Story V.4 — Fix (proposed)
+> **V.3 recorded decisions (user, 2026-10-22).** Fix the findings. These answers settle the report's questions. They are the canon every V.4 reader works from.
+>
+> 1. **The Pourers give one year at a time (C-21).** [[Reimaethe]] is right, and the notes that say "five years at one time" change. A Long-Lived is asked once to join. A member then gives one year into the cup at a time, each on its own night with its own minutes, and may stop before the next. Five years is what the circle asks of a member in all. For each year given, that year's papers go onto the shelf and the circle counts the member one year younger. When a member leaves, the years already given stay in the cup, and the papers are what come back. The ask, the refusal, the founder, and the taking under GM Notes do not change. [[Minutes of a Gift]] becomes the minutes of one year, K.'s fifth, and ends "From tonight K. is seated one year younger, five in all." No date or month is given for the nights.
+> 2. **Maiethorn may run higher on the Given (C-10).** Maiethorn has more Given children than the world as a whole, so a hug at the Tree is less common there than elsewhere. It is not rare, and every Maiethorn school has Kept children. "Nearly every child is Given" and "being Kept is rare" are what [[The Walled Book]] teaches, and a reference note says so as the Close's lesson, not as the count. No new number is written; the shares stay on [[The Premise]].
+> 3. **Sanbreo is on the west coast (C-19).** The user let the agent pick, using the atlas sheets. [[Sanbreo]] is on Heskoren's slate-shore, the west coast, with its beach facing the last capes and the storm-wall. The West Water is off Heskoren's east coast. This matches [[Ornled]], [[The Known Map]], and the Heskoren sheet. The note was corrected and the two Sanbreo town sheets were mirrored so their sea is west, on 2026-10-22.
+> 4. **Sweep "mouth" and "C.Y."** In every setting note, player text and GM Notes, a person is never a "mouth" or a "throat"; say person, speaker, or who speaks for whom. "C.Y." becomes "Cut-year" (for example "Cut-year 387"). Leave alone: the retired-form examples in [[Conventions]], the audit notes and Findings, `99 - Archive`, the Roadmap's dated recorded decisions, and the world book.
+>
+> Questions 5 to 9 were not answered. The agent's defaults, which the user may overrule: the Condition cards and [[Turning Tree]] point at the [[Conditions]] hub for shares, not at the GM-only Premise, and the hub keeps the share table it already has. The bread heel, the empty bowl, and the turned chair stay as they are, so no habit changes. The [[Build Plan]]'s "Active next" is trimmed to a short paragraph per epic, because the history is already on this Roadmap. The world book is not rebuilt; V.4h stays the user's box.
 
-Proposed in V.2, in `revision` order: fix the facts before the sentences, so a sentence pass does not polish a line that a fact fix then deletes. Not checked. The user's answers in V.3 may cut, merge, or reorder these. Each story is decomposed to tasks when V.3 is done.
+### Story V.4 — Fix
 
-- [ ] V.4a — Facts and locks. C-10 to C-24 on [[Contradictions]].
-- [ ] V.4b — Leaks and `reveals` tags. The Leaf-Mother's limit and household, the Other Hands, the keystone by name, and the Protectors' fire in player bodies. Move Links lists that sit after the GM wall.
-- [ ] V.4c — Scaffolding. 🔒 and 🟡, story numbers, skill names, "Do not…" orders, "cannot afford to see" and "On its face… Underneath…" paragraphs, "Leftover job on this street", "Clock 1 / Clock 2", the "~5% dial", and "The fresh angle". Move behind the GM wall or delete.
-- [ ] V.4d — The old voice. "Mouth" and "throat" for a person, "lintel", "sitting", "seen seeing", the "A kind Tree would not…" riddle, and "C.Y.", by the user's answers.
-- [ ] V.4e — Holes. Placement rows in [[Named Ground]] for the newer seats, the seven broken links, the [[Reveal Index]], the C-01, C-04, and C-07 leftovers, and the cards' link to [[The Premise]].
-- [ ] V.4f — Trackers. The Roadmap spine and "Next" lines, the [[Build Plan]], the folder tree in [[Conventions]], and the old audit notes.
-- [ ] V.4g — The rest. The remaining medium and low findings, one folder at a time.
-- [ ] V.4h — The world book. The user decides whether to rebuild it.
+**How it runs.** The plan and the prompt for the orchestrating agent are in [[V.4 Fix Prompt]]. Readers are Claude Sonnet 5.5 subagents. Each reader in a wave owns a set of folders and edits only those, so no two readers edit one file. Inside its folders, a reader works in `revision` order: facts, then leaks, then scaffolding, then voice, then the rest, so a sentence pass does not polish a line that a fact fix then deletes. Readers do not commit; the orchestrator commits after each wave. The orchestrator owns this Roadmap, [[Contradictions]], and the audit folder.
+
+**Wave 1 — fix by folder.** One reader per group. Each fixes, on its own files: the C-10 to C-24 items and the V.3 decisions, then the GM leaks and `reveals` tags (and moves any `## Links` that sits after `## GM Notes` above it), then the design scaffolding, then the old voice, then every remaining medium and low finding in its Findings note.
+
+- [ ] `00 - Core`, without this Roadmap. Includes trimming the Build Plan, the folder tree in Conventions, and the stale lines in [[Condition Audit]] and [[Epic 2 Audit Guide]]
+- [ ] `01 - World`, `06 - Magic`, `10 - Items`, `13 - Game`. Includes the placement rows in [[Named Ground]] for Seinbrun, Naenor, Raitin, Natai, Tasain, Larbril, and the Seeing-Ring, read from the seat notes and the atlas sheets
+- [ ] `02 - History`, `11 - Secrets`, without [[Contradictions]] and [[Reveal Index]]
+- [ ] `03 - Cultures`
+- [ ] `04 - Settlements`
+- [ ] `05 - Factions`
+- [ ] `07 - Religion`, `09 - Creatures`. Includes pointing the cards at the Conditions hub for shares
+- [ ] `08 - People`, `12 - Campaigns`, `14 - Assets` (not the world book and not the Vault Audit 2026-10-22 folder). Includes the stale status lines in the two earlier audit notes. `99 - Archive` is read only
+
+**Wave 2 — across the vault.** After wave 1 is committed.
+
+- [ ] Rebuild [[Reveal Index]] from the `reveals:` and `reveal_tag` keys as they stand after wave 1
+- [ ] Fix the broken links the scan lists, and any wave 1 made
+- [ ] Check the C-01, C-04, and C-07 leftovers are gone from the notes those entries name
+
+**Wave 3 — check.**
+
+- [ ] Rerun `mechanical_scan.py` and compare it with `mechanical-scan.txt`. Every remaining hit of "mouth", "C.Y.", 🔒, 🟡, a story number, "Clock 1/2", "Leftover", or a percentage in a player body is either allowed (an Old Ways door, a Condition card's own share) or fixed
+- [ ] One reader per wave 1 group rereads its folders, without editing, against its Findings note and the V.3 decisions, and lists what is still wrong. The orchestrator fixes that list
+- [ ] Move C-10 to C-24 to a "Resolved in Epic V" table on [[Contradictions]], each with its resolution
+- [ ] Update the trackers: the spine row, Progress, the stale "Next: P2.1" lines in the Epic 2 and Epic 8 Progress entries, and the Epic V entry on the Build Plan
+
+**Left to the user.**
+
+- [ ] V.4h — The world book. The user decides whether to rebuild it. Do not touch it until they say so.
 
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic V — Read the whole vault:** 12 / 13 tasks of V.0–V.3 (92%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, and V.2 is 3 / 3 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]. V.3 is 0 / 1, the user's reading. V.4 is proposed as eight stories and is not counted until V.3 decomposes it. Nothing in the vault was fixed. World book untouched.
+- **Epic V — Read the whole vault:** 13 / 29 tasks (45%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, V.2 is 3 / 3 ✅, and V.3 is 1 / 1 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]; C-19 (Sanbreo is on the west coast) is fixed. The user's answers are the V.3 recorded decisions. V.4 is 0 / 16: wave 1 is 0 / 8, wave 2 is 0 / 3, wave 3 is 0 / 4, and the world book box is the user's. World book untouched.
 - **Epic H — A past you can hold:** 35 / 35 tasks (100%) ✅ **2026-10-22. Epic H complete.** H.6 is 6 / 6 ✅ **2026-10-22.** "The years themselves" means the papers go onto the shelf and the circle stops counting the years; the thinner copy is the papers. H.1 is 6 / 6 ✅ **2026-10-21.** The ask and the taking are on [[The Pourers]]; the taking is under GM Notes. [[The Unspent]] records the founder's belief under GM Notes. [[Long-Lived]] and [[Movements]] point at the practice. H.2 is 6 / 6 ✅ **2026-10-21.** The manners, the lesson beside the count, the turns of work, and three places outside the walls are on [[The Walled Book]]. The teacher is Volnai. [[The Closing]] has one sentence on the manners after the Retreat. H.3 is 8 / 8 ✅ **2026-10-21.** [[A History of the Turning]] tells the history in order in ordinary sentences, with the taking, the founder's belief, and the age of [[The Unspent]] under GM Notes. It is linked from [[02 - History]] and [[The Ages of the Turning]]. H.4 is 1 / 1 ✅ **2026-10-21.** At the user's request the history was audited against its source notes and read sentence by sentence; the fixes are in the H.4 recorded decisions. H.5 is 8 / 8 ✅ **2026-10-21.** [[The Library Pages]] lists six pages in `14 - Assets/Documents/Library/`: a primer and a road song from Rothallo's school, a history of the Closing from the Book's house, and minutes of a willing gift, a play scene, and a poem from Molevad's long-house shelf in Lestrand. The three truths no page reveals are under its GM Notes. World book untouched.
 - **Epic C — How the book speaks:** 13 / 13 tasks (100%) ✅ **2026-10-05.** `prose-style`: P6, P4, and P2 over-corrected. Glossary asides pulled into the next sentence. Baseline kept: the Turning Tree opening and [[How a Place Speaks]]. Book rebuilt. Vault not rewritten.
 - **Epic B — The book, in a reader's voice:** 26 / 26 tasks of B.1 (100%) ✅ **2026-10-05.** Each chapter was read through. Designer shorthand in the player chapters is said in ordinary words. Clock 1 and Clock 2 keep their names in the Ages chapter and in the GM chapter, after the chapter says what each count is. The Leaf-Mother stays a belief in player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The book was rebuilt. The vault was not rewritten.
@@ -1449,4 +1477,4 @@ Proposed in V.2, in `revision` order: fix the facts before the sentences, so a s
 - Epic B — the book, in a reader's voice. **B.1 done 2026-10-05.** The setting book was read one chapter at a time and rebuilt. The vault was not rewritten.
 - Epic C — how the book speaks. **C.1 done 2026-10-05.** `prose-style` audit, then the sentence pass. The book was rebuilt. The vault was not rewritten.
 - Epic H — a past you can hold. Opened 2026-10-14. Speech corrected 2026-10-15, [[Conventions#Plain prose]]. Direction corrected the same day after the lore check: [[The Pourers]] ask, a refusal of membership is real, an inner circle takes the memories and hard-won understanding that define a life, and the founder's godhood stays a belief. Not joined to [[Harrow's Green]]. H.1 done 2026-10-21. H.2 done 2026-10-21 → [[The Walled Book]] (what a visitor sees, the lesson beside the count, turns of work, outside the walls) · one sentence on [[The Closing]]. H.3 done 2026-10-21 → [[A History of the Turning]]. Next is H.4, the user's reading of that history, then the library pages. World book untouched.
-- Epic V — read the whole vault. Opened 2026-10-22. V.0 to V.2 done 2026-10-22 → [[Vault Audit 2026-10-22]] · C-10 to C-24 on [[Contradictions]]. Next is V.3, the user's reading. Nothing fixed yet. World book untouched.
+- Epic V — read the whole vault. Opened 2026-10-22. V.0 to V.3 done 2026-10-22 → [[Vault Audit 2026-10-22]] · C-10 to C-24 on [[Contradictions]] · the user's answers in the V.3 recorded decisions. Next is V.4, run from [[V.4 Fix Prompt]]. World book untouched.

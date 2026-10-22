@@ -112,6 +112,8 @@ C-01 (P2.1) moved this behind the GM wall in history, faction, settlement, and M
 
 ## Questions for the user (Story V.3)
 
+> **Answered 2026-10-22.** 1: one year at a time, so Reimaethe is right and the Pourers notes change. 2: yes, Maiethorn may run higher on the Given. 3: the agent picked from the atlas sheets; Sanbreo is on the west coast, and the note and both town sheets were corrected. 4: yes, sweep "mouth" and "C.Y." Questions 5 to 9 take the defaults in the Roadmap's V.3 recorded decisions. The fixes run from [[V.4 Fix Prompt]].
+
 1. **Reimaethe's gift.** Does a Pourer give five years at one time, as the Pourers note says, or a year at a time, as Reimaethe's note says? The proposal is five at one time, and Reimaethe has given once and is being asked again.
 2. **Maiethorn.** Is any regional drift allowed, so that Maiethorn has somewhat more Given than the world mix? Or does every region match the world count? The proposal is "somewhat more Given than the world mix, and still about two in five hugged at the Tree".
 3. **Sanbreo.** Which coast is Sanbreo on? The proposal is to follow [[The Known Map]].
