@@ -61,7 +61,7 @@ Linguists have names for things everyone already does with speech. Here they are
 | **Vernacular / common tongue** | What people actually say day to day. Worn-down Old Tongue. *The Kept*, *the ranging*, *tree-wardens*. |
 | **Daughter language / drift** | When one language splits into regional versions. Spanish, French, and Italian all come from Latin. Threnmaieth, Vaethorn, and Lestrand all come from Maiethren. They did not invent new tongues. They wore the same one differently. |
 | **Conservative** | A drift that kept the old sounds. Threnmaieth still says *th*. |
-| **Worn** | A drift that softened them. Vaethorn still has *th*, but it is gentler, and endings simplify. Everyday **Wethorn**. |
+| **Worn** | A drift that wore them down. In ordinary speech *th* after a vowel becomes *t*, and endings simplify. Written Vaethorn is spoken **Wetorn**. Careful prayer keeps the *th*. |
 | **Eroded** | A drift that sanded sounds off. Lestrand dropped *th* to t or d, or dropped it. |
 | **Sound-change** | A regular swap, not a one-off. If *th* becomes *t* on the docks, it does that in every word, not just one. That is why you can push any old word through the same rule and it will still sound like Lestrand. |
 
@@ -88,13 +88,13 @@ The sound-changes are regular. Push any old word through the same rule.
 | Drift | Land | What happens to the sounds | How it feels |
 |---|---|---|---|
 | **Conservative** | Threnmaieth, pious Maiethorn | Almost nothing. *Th* and long vowels kept whole. | Archaic, formal, holy. Sounds like the rite because it barely moved from it. |
-| **Worn** | Vaethorn, Heskoren folk | *Th* stays but softens (Vaethorn → Wethorn). Endings simplify. Vowels flatten. | Rough-warm folk-speech that still reaches for the old holy words. |
+| **Worn** | Vaethorn, Heskoren folk | *Th* after a vowel becomes *t* in speech (Vaethorn → Wetorn). Endings simplify. Unstressed vowels flatten. Careful prayer keeps the *th*. | Rough-warm folk-speech that still reaches for the old holy words. |
 | **Eroded** | Lestrand, Strandoren docks | *Th* becomes t or d, or drops. Long vowels clip. Word-ends wear off. Trade-words sneak in. | Smooth, clipped, mercantile. The most worn name belongs to the least-devout place. |
 
 Worked examples of the same rule:
 
 - *thael* + *oren* kept whole is **Thaeloren**. That is the Awakening Tree. Worn everyday: **the Thallow**.
-- *vaeth* + *orn* kept with *th* is **Vaethorn**. Everyday **Wethorn**.
+- *vaeth* + *orn* kept with *th* is **Vaethorn**. Spoken **Wetorn**.
 - *ledd* + *strand* with the *th* already gone is **Lestrand**.
 - *thren* + *maieth* kept whole is **Threnmaieth**. The same *thren* worn to *Tren* is **Trenledd**: the sacred count with the sacred sanded off.
 - *oren* + *thael* with the *th* dropped is **Orentel**. That is the salt-quay seat.

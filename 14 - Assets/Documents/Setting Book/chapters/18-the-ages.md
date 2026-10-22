@@ -15,10 +15,10 @@ The Walking Years were a logistics problem that killed children on the road. The
 | | Everyday | Liturgical | Says | What it is |
 |---|---|---|---|---|
 | Preface | **Before the Walk** | *(mostly unnamed)* · the Watching keep **the Before** | *(none)* | The Tree already stood. Kinds, doors, and seeing without a mother's name. No count of it has a start. |
-| How you Turned, old default | **the Walking Years** | **Brenvaeth** *(bren-VAYTH)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed UnTurned for want of the trip. Far lands ran heavy on the UnTurned and the Struck. |
-| The hinge | **the First Cut** | **Eoloren** *(ay-ohl-OR-en)* | "the witnessed hinge" | Someone cut living wood and it *took*. Who is argued. The taking is the part every telling grants. |
+| How you Turned, old default | **the Walking Years** | **Brenvaeth** *(BREN-vayth)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed UnTurned for want of the trip. Far lands ran heavy on the UnTurned and the Struck. |
+| The hinge | **the First Cut** | **Eoloren** *(EOL-or-en)* | "the witnessed hinge" | Someone cut living wood and it *took*. Who is argued. The taking is the part every telling grants. |
 | Where the wood has reached | **the Grafting** | *(still moving through the present)* | *(none)* | The carrying of hands. Still unfinished at the Sundered Reach. Never crossed the storm-wall. |
-| How you Turned, new default | **the Years of Hands** | **Ornthael** *(orn-THALE)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains as devotion, prestige, or necessity where a graft has failed. |
+| How you Turned, new default | **the Years of Hands** | **Ornthael** *(ORN-thale)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains as devotion, prestige, or necessity where a graft has failed. |
 
 The liturgical pair inverts the Road-hands' own name. **Thaelvaeth** is the Tree gone to the waiting. That is wood carried *out*. **Brenvaeth** is the hearth gone to the waiting. That is people walking *in*. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths.
 
@@ -271,7 +271,7 @@ None of this is dated. A later chronicle that writes a first king, a first war, 
 
 ## The Walking Years
 
-Once there was only the Awakening Tree, and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed UnTurned for want of it** (folk called them Kept), so the far reaches ran heavy on the UnTurned and the Struck as the ordinary count. People call them **the Walking Years**. The liturgical name is **Brenvaeth** *(bren-VAYTH)*. That is the hearth gone to the waiting.
+Once there was only the Awakening Tree, and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed UnTurned for want of it** (folk called them Kept), so the far reaches ran heavy on the UnTurned and the Struck as the ordinary count. People call them **the Walking Years**. The liturgical name is **Brenvaeth** *(BREN-vayth)*. That is the hearth gone to the waiting.
 
 In these years the Leaf-Fall happened in one grove, on Maiethorn, under Thaeloren. A tenth summer was a journey, or it was no Leaf-Fall at all, because you were not there.
 
@@ -436,7 +436,7 @@ The cutting in the pot is not a First Cut. It is a man who missed his green.
 
 ## The First Cut
 
-Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the Near Mile Turned, a generation later, under a canopy that was not the origin. People call it **the First Cut**. The liturgical name is **Eoloren** *(ay-ohl-OR-en)*. That is the witnessed hinge. The clerical count of years starts here.
+Someone cut living wood from Thaeloren (or from a branch that came away in a hand), carried it a day's earth, married it to new ground, and it *took*. A town on the Near Mile Turned, a generation later, under a canopy that was not the origin. People call it **the First Cut**. The liturgical name is **Eoloren** *(EOL-or-en)*. That is the witnessed hinge. The clerical count of years starts here.
 
 Everyone agrees *a first successful town-graft occurred.* It happened within a day's living-earth of Thaeloren, close enough that a cut could still be green when it met new ground. That is horticulture. No two houses agree whose story the cut is.
 
@@ -622,7 +622,7 @@ Folk who keep the nameless knife think this paper is a confession. The Seat thin
 
 ## The Years of Hands
 
-A town Turning Tree is the ordinary way to Turn *where the wood has taken.* People call them **the Years of Hands**, and also *Since the Hands*. The liturgical name is **Ornthael** *(orn-THALE)*. That is Tree-land. The Grafting is still moving through the present.
+A town Turning Tree is the ordinary way to Turn *where the wood has taken.* People call them **the Years of Hands**, and also *Since the Hands*. The liturgical name is **Ornthael** *(ORN-thale)*. That is Tree-land. The Grafting is still moving through the present.
 
 This is the era the rest of the world lives in without naming it. Town Trees. Local Leaf-Fall. Citizenship because *this* town watched you. The pilgrimage to Thaeloren as an extra, not the only door.
 

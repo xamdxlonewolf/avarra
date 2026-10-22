@@ -4,7 +4,7 @@
 
 The working clergy of the Motherfaith. A **warden** tends a town's Turning Tree, speaks the colour when a leaf falls, and belongs to one order with several offices. They recruit by the office, by the work, and sometimes by the Condition a person carries.
 
-Everyday, everywhere: **tree-wardens**, or just **wardens**. Liturgical: **the Orenhael** (or-EN-hayl). The three lands keep local names for them. Vaethorn says **Hands-folk**. Lestrand says **tree-tenders**. Threnmaieth files them as **the Reckoned Hands.**
+Everyday, everywhere: **tree-wardens**, or just **wardens**. Liturgical: **the Orenhael** (OREN-hayl). The three lands keep local names for them. Vaethorn says **Hands-folk**. Lestrand says **tree-tenders**. Threnmaieth files them as **the Reckoned Hands.**
 
 ### Shape of the order
 

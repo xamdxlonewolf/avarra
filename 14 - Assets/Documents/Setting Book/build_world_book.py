@@ -526,7 +526,34 @@ def build_pdf(html_path: Path) -> Path | None:
         if not OUT_PDF.exists():
             raise
         print("Chrome timed out after writing PDF; continuing.", file=sys.stderr)
+    compress_pdf(OUT_PDF)
     return OUT_PDF
+
+
+def compress_pdf(pdf: Path) -> None:
+    """Chrome's PDF is ~100 MB, over GitHub's file limit; Ghostscript brings it to ~15 MB."""
+    from shutil import which
+
+    gs = which("gs")
+    if not gs:
+        print("Ghostscript not found; PDF left uncompressed.", file=sys.stderr)
+        return
+    tmp = pdf.with_suffix(".gs.pdf")
+    subprocess.check_call(
+        [
+            gs,
+            "-q",
+            "-dNOPAUSE",
+            "-dBATCH",
+            "-dSAFER",
+            "-sDEVICE=pdfwrite",
+            "-dCompatibilityLevel=1.7",
+            "-dPDFSETTINGS=/printer",
+            f"-sOutputFile={tmp}",
+            str(pdf),
+        ]
+    )
+    tmp.replace(pdf)
 
 
 def main() -> None:

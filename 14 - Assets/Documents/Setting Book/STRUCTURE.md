@@ -54,18 +54,29 @@ These stay where they are. Do not promote them to new chapters unless the spine 
 - **What the names mean** (ch. 14) — first-read gloss of the continents, the Awakening Tree, the Isle, and the three corners.
 - **Hearth-Mark / Mixed Ancestry** (ch. 04) — stock compensation and SRD mix; Yumboe GM-leave, full Kind.
 - **Turning-Week in a city / Questions a warden gets asked** (ch. 06) — nested hearths; unTurned is not Kept.
-- **The sentence at the mainland lintel** (ch. 08) — Open Table vs witnessed citizenship.
+- **Two suppers, or a Turning-witness** (ch. 08) — Open Table vs witnessed citizenship. Formerly "The sentence at the mainland lintel".
 - **Houses after the Slide** (ch. 09) — Holding Desk, Standing Trade, Reckoned Offices, Pourers, Walled Book / Inner Close; Protectors as public rumour.
+- **The Pourers: the ask, the gift, leaving, the work, what the circle says it made, from the minutes** (ch. 09) — one year at a time, five in all; papers and the long-house count. Player side only.
+- **The Walled Book: what a visitor sees, the lesson and the count, the Book of Tithes, outside the walls** (ch. 09) — the Close's manners. "A hug is rare" is the Close's lesson, not the count.
 - **Named water and travel** (ch. 16) — Old Crossing, West Water, Rain-Wall, four rivers, travel table. Deep forage ecology stays thin.
 - **The Other Count** (ch. 18) — Closing, Two Papers, Grey Summer, Thaw-Break, Hinge Hush; Closed Seat as origin-gate.
+- **A history in order** (ch. 18) — the whole history told once, in order, after "The ages at a glance". Points to the later sections for detail.
+- **Who was let through** (ch. 18, under The Walking Years) — the gate and grove-leave.
+- **Pages a party can find** (ch. 18) — the six library pages: what each is, its shelf, and who keeps it. The handout texts stay in the vault.
+- **What the Walk left behind** (ch. 18) — formerly "the older job of the ground".
 - **Secrets and reveals** (ch. 24) — when the fire is caught; hidden Phoenix agency; Isolated Fall opening at Harrow's Green.
+- **The Pourers, the Unspent, and the Walled Book** (ch. 24, under GM only: Society and Faiths) — the taking, the unnamed founder and the founder's belief, the Unspent's age, the papers. Three groups, kept apart.
+- **If confirmation lands** (ch. 24, under The Leaf-Mother).
+- **The Old Tongue's sounds / Why the drifts sit where they sit / The four Kind registers** (ch. 24, Language) — formerly titled with "mouth".
 - **How a place speaks / the second name** (ch. 05) — four tones; byname or house-name.
+- **Keep the cast distinct** (ch. 05) — formerly "Before you lock it".
 - **Stock kitchens** (ch. 04) — glances. Not Kind-nations.
-- **The hour someone is Struck / the watch and the cohort** (ch. 10) — care before the argument; a bench until morning; a send, not an army.
+- **The hour someone is Struck / the watch and the cohort** (ch. 10) — care before the argument; a bench until morning; a cohort is a group, not a company kept under arms.
 - **Fellowships, and the work** (ch. 13) — mill, hull, road. Not a fourth ticket. A domain is a job.
 - **Burial, the guest-meal, what a house keeps** (ch. 12).
 - **What the year feels like / the sky from the ground** (ch. 15) — one ground. This world has no planes.
 - **The twelve seats** (ch. 19 and ch. 20) — named, or refused. Rothallo is the Inner Close.
+- **Two lists of the same fifteen** (ch. 19) — formerly "Two mouths, same fifteen".
 - **The Mill-hold, the First Bowl, Nelath** (ch. 21) — sick-Tree, guest-grove, road-end.
 - **Known Map and overlays** (ch. 17) — the labeled paintings. Vaelhesk has no settlement dot. The schematic drawing is not the picture.
 

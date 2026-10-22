@@ -315,7 +315,7 @@ The gospel will hear the notice as a slight even if it is only a week.
 
 ### Orentel (Lestrand's seat)
 
-Orentel *(or-EN-tel)* is the capital of Lestrand. It is a salt-city. In the name, *th* has worn to *t*. People say *Orentel*. Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. Notes and berths meet here. The White Note House is on the third quay, north side. It is a desk in the city. **Sorim** *(SOR-im)* is the factor who charters berths and files occupancy. Tens of thousands live here. The Tree-town is the smaller half.
+Orentel *(OREN-tel)* is the capital of Lestrand. It is a salt-city. In the name, *th* has worn to *t*. People say *Orentel*. Lestrand-folk will say **the Salt Quay** and mean the city the way they say *the bed-house* and mean the bank. Notes and berths meet here. The White Note House is on the third quay, north side. It is a desk in the city. **Sorim** *(SOR-im)* is the factor who charters berths and files occupancy. Tens of thousands live here. The Tree-town is the smaller half.
 
 An inner-sea estuary on Strandoren, facing Maiethorn across the oldest water in the world. The Salt Walk used to land here. When the walk stopped being required on this coast, the berths did not empty. They changed jobs. Adaptive reuse at city scale: a Tree-town that grew a quay, then a second quay, then a leap-frog of warehouses along the tide, until the nucleated square was the smaller half of a salt-city.
 

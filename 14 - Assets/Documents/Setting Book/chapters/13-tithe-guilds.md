@@ -252,7 +252,7 @@ The slate is a playhouse being practical, almost kind (the sweep-hour). The keep
 
 The Stillers licence the Stilled and run the infirmaries. The guild issues the ticket. The state watches the guild. It does not keep a list of every Stilled person.
 
-Everyday people say **stillers**, or **the Stillers' Guild.** In liturgy they say **the Stelhael** (stel-HAYL). *stel* is to still, to hold from moving, and *hael* is whole. The name says they keep you hale by holding you still. Vaethorn's second word is **blessing-surgeons**. Lestrand's is **ticket-surgeons**. Threnmaieth files them as **crown-stillers**.
+Everyday people say **stillers**, or **the Stillers' Guild.** In liturgy they say **the Stelhael** (STEL-hayl). *stel* is to still, to hold from moving, and *hael* is whole. The name says they keep you hale by holding you still. Vaethorn's second word is **blessing-surgeons**. Lestrand's is **ticket-surgeons**. Threnmaieth files them as **crown-stillers**.
 
 **In one sentence:** they will save you on the table, and they will make you drill until the Grey is gone. When they use the Gaze, stillness collects. That stillness is the Grey. Left unpaid, it locks a limb toward stone. The ticket marks competence. The infirmary's pace follows the surgeon's Grey.
 
@@ -531,7 +531,7 @@ The name a polity gives a shared institution reveals its stance. A devout land's
 
 ### Vaethorn: the Waiting Lands
 
-*(vay-THORN · devotion high · few healthy Trees · the state barely reaches a person)*
+*(VAETH-orn · devotion high · few healthy Trees · the state barely reaches a person)*
 
 A broad, thinly-peopled land at the world's Tree-poor margin, where the faith burns hottest *because* the Trees are scarce, and where the ruling mood is *waiting*: for a graft to take, for a distant Tree to be reached, for a gift that may never fall. This is a frontier where devotion runs at its hottest. The two facts feed each other. Where the Trees are few and young, more children come away Kept, more people are Struck later and alone, and the Motherfaith answers that scarcity with more devotion: pilgrimage, longing, and a theology built around waiting for a gift that may not come.
 
@@ -561,7 +561,7 @@ A dense, Tree-rich merchant power where the Trees are mature and many, the Given
 
 **Its injustice.** The coolest of the three. Nothing is *policed*. Your marriage, your gift, your faith are your own. Everything is *priced*, and a person who cannot pay slides with a whole rich city stepping around them. Lestrand will never file you or conscript you. It will simply let you fade if you run out of coin, and feel that it owed you nothing.
 
-**The seat.** **Orentel** *(or-EN-tel)*. That is a salt-quay city on the Old Crossing. The White Note House sits on the third quay, north side. It keeps terms. It does not govern the coast.
+**The seat.** **Orentel** *(OREN-tel)*. That is a salt-quay city on the Old Crossing. The White Note House sits on the third quay, north side. It keeps terms. It does not govern the coast.
 
 ---
 

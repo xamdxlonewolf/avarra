@@ -107,11 +107,11 @@ Lestrand is a dense, Tree-rich merchant power. The Trees are mature and many, th
 
 **Its injustice.** The coolest of the three. Nothing is *policed*. Your marriage, your gift, your faith are your own. Everything is *priced*, and a person who cannot pay slides with a whole rich city stepping around them. The Coast will never file you or conscript you. It will let you fade if you run out of coin, and feel that it owed you nothing.
 
-**The seat.** Orentel *(or-EN-tel)* is on the Old Crossing. It is a salt-quay city. The White Note House sits on the third quay, north side, and writes the terms. Orentel holds the seat.
+**The seat.** Orentel *(OREN-tel)* is on the Old Crossing. It is a salt-quay city. The White Note House sits on the third quay, north side, and writes the terms. Orentel holds the seat.
 
 ### Vaethorn: the Waiting Lands
 
-*(vay-THORN · vaeth "the waiting" + orn "land" = "the Waiting Land." Everyday *Wethorn*. Theology high · reach low · governance low)*
+*(VAETH-orn · vaeth "the waiting" + orn "land" = "the Waiting Land." Everyday *Wetorn*. Theology high · reach low · governance low)*
 
 Vaethorn is a broad, thinly-peopled land at the world's Tree-poor margin. The faith burns hottest *because* the Trees are scarce. The ruling mood is *waiting*: for a graft to take, a distant Tree to be reached, a gift that may never fall. Where the Trees are few and young, more children come away Kept, more people are Struck later and alone, and the Motherfaith answers that scarcity with *more* devotion, not less: pilgrimage, longing, and a theology built around waiting for a gift that may not come.
 
