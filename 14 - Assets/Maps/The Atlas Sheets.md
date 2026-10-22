@@ -468,7 +468,7 @@ A walled town in the valley. The town gate is in the frame. The Shelf-gate stays
 
 ![[Sanbreo-Atlas.png]]
 
-A town on the brink of a small city. The shore gate, the slate on the wall inside it, and the beach. The sea is east. Rebuild with `label_sanbreo.py`.
+A town on the brink of a small city. The shore gate, the slate on the wall inside it, and the beach. The sea is west, on the slate-shore. Rebuild with `label_sanbreo.py`.
 
 ![[Sanbreo-Atlas-Labeled.png]]
 
@@ -502,7 +502,7 @@ A march-town. The town gate is on the road. A young Hand. Rebuild with `label_na
 
 **Tasain.** `Tasain-Atlas-Labeled.png` is a Pillow overlay on `Tasain-Atlas.png`. West is left. The frame is the town, not the shelf. **The town gate** is the wall in the valley. **The Tree** is the Hand inside. The Shelf-gate stays off the sheet. Narol is not labeled. No capital star. Script: `label_tasain.py`.
 
-**Sanbreo.** `Sanbreo-Atlas-Labeled.png` is a Pillow overlay on `Sanbreo-Atlas.png`. West is left. The sea is on the right. **The shore gate** meets the beach. **The slate** is on the wall inside the gate. The line is not written on it. No civic Hand is the subject. Not a harbour city. No capital star. Script: `label_sanbreo.py`.
+**Sanbreo.** `Sanbreo-Atlas-Labeled.png` is a Pillow overlay on `Sanbreo-Atlas.png`. West is left. The sea is on the left, as on the Heskoren sheet, where Sanbreo is on the west coast. The town sheet and the plan were mirrored on 2026-10-22 so the sea is west (C-19). **The shore gate** meets the beach. **The slate** is on the wall inside the gate. The line is not written on it. No civic Hand is the subject. Not a harbour city. No capital star. Script: `label_sanbreo.py`.
 
 **Natai.** `Natai-Atlas-Labeled.png` is a Pillow overlay on `Natai-Atlas.png`. West is left. The frame is the town. **The town gate** is on the road. **The Tree** is a young Hand. Harrow's Green, the ford, and the three hamlets are not drawn. Dumu is not labeled. No capital star. Script: `label_natai.py`.
 

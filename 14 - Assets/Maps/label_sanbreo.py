@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Label the Sanbreo town sheet.\n\nThe shore gate, and the slate on the wall inside it. The sea is\neast. The image model was not asked to write.
+"""Label the Sanbreo town sheet.\n\nThe shore gate, and the slate on the wall inside it. The sea is\nwest, on the slate-shore. The image model was not asked to write.
 
     python3 "14 - Assets/Maps/label_sanbreo.py"
 """
@@ -44,10 +44,10 @@ def build() -> Image.Image:
     canvas = base.copy()
     ink = ImageDraw.Draw(canvas)
     place = font(SERIF_BOLD, 20)
-    leader(ink, (680, 430), (840, 590))
-    halo_text(ink, (680, 430), "The slate", place, TYPE)
-    leader(ink, (680, 540), (860, 650))
-    halo_text(ink, (680, 540), "The shore gate", place, TYPE)
+    leader(ink, (472, 430), (312, 590))
+    halo_text(ink, (472, 430), "The slate", place, TYPE)
+    leader(ink, (472, 540), (292, 650))
+    halo_text(ink, (472, 540), "The shore gate", place, TYPE)
     return canvas.convert("RGB")
 
 

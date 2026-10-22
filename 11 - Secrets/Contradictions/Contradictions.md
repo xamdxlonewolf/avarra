@@ -8,7 +8,7 @@ tags: [secret, contradiction, pass-two, moc]
 aliases: [Conflicts Log, Contradiction Log, Pass Two Log]
 category: contradiction
 created: 2026-08-31
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # Contradictions
@@ -21,7 +21,27 @@ updated: 2026-10-05
 
 ## Open
 
-*None.*
+Found by [[Vault Audit 2026-10-22]] (Epic V). The user answered the report in Story V.3. C-19 is fixed. The rest are fixed in Story V.4 and then move to a resolved table. Line numbers are from 2026-10-22.
+
+| ID | What | Notes that disagree | Proposed winner |
+|---|---|---|---|
+| **C-10** | The Kept counted as rare. "Nearly every child is Given" is the Walled Book's false lesson, written as fact | [[Maiethorn]] 26, 42, 64 · [[The World Frame]] 58 · [[The Reckoning of the Year]] 93 · [[Maiethvael]] 42 · [[The Leaf-Mother]] 59 ("~25%" for the hug share) — against [[The Premise]] and [[The Walled Book]] 57 | The Premise. **The user allowed regional drift (2026-10-22):** Maiethorn has more Given than the world as a whole, and a hug there is less common, not rare |
+| **C-11** | A child who missed the Tree called Kept | [[Heskoren]] 26 · [[Named Ground]] 42 — against [[Turning Tree]] and [[At the Table]] | Turning Tree: that child is UnTurned |
+| **C-12** | Kumbaan still "near-Treeless", "no healthy Trees". A leftover of C-06 | [[The World Frame]] 52, 61 · [[The Sundering Isle]] 18, 40 — against [[Climate of Kumbaan]] and C-06 | Climate of Kumbaan: no Tree, no graft ever crossed |
+| **C-13** | "Only one crown keeps a list of persons" | [[Law and Citizenship]] 28 · [[Polity Archetypes]] 94 · [[Naming in the Turning]] 59 — against [[Trenledd]] and [[How a Place Speaks]] 111 | Trenledd and How a Place Speaks |
+| **C-14** | A second population table with its own totals | [[Economy and the Tithe]] 34–37 — against [[The Premise]] (sole census, Story R.1) | The Premise. Replace the table with a link |
+| **C-15** | Long-Lived children "do not inherit" | [[Economy and the Tithe]] 122 — against [[Daily Life]] 30 and the [[Build Plan]] lock | The lock: none are guaranteed to inherit |
+| **C-16** | Death by drowning Strikes the Far-Voiced | [[Selkie]] 35 — against [[Far-Voiced]] | Far-Voiced: surviving a drowning. Dying is the Returned threshold |
+| **C-17** | The Stilled "petrify" | [[Law and Citizenship]] 102 — against [[The Stilled]] and [[Daily Life]] 44 | The Stilled: the gaze does not petrify and does not harm |
+| **C-18** | Narol of the Pass alive and levying | [[Lirorn]] 38 — against [[Narol of the Pass]] and [[Tasain]] 39 | Narol's note: Narol is dead, and the household still levies |
+| **C-19** | Sanbreo on the West Water coast | [[Sanbreo]] 36 — against [[The Known Map]] 28 (Ornled on the west, by the last capes) | **Fixed 2026-10-22.** The user let the agent pick from the atlas sheets. Sanbreo is on the west coast, the slate-shore, facing the last capes and the storm-wall, as on the Heskoren sheet, [[Ornled]], and The Known Map. The note was corrected and both Sanbreo town sheets were mirrored so their sea is west |
+| **C-20** | Two-Bodied given a Struck path | [[Far-Voiced]] 64 — against [[Two-Bodied]] 36 | Two-Bodied: Given only |
+| **C-21** | Reimaethe gives years one at a time | [[Reimaethe]] 22, 26 — against [[The Pourers]], [[The Unspent]], [[Long-Lived]] (asked once, five years at one time) | **Decided 2026-10-22: Reimaethe wins.** The user said a member gives one year at a time. The Pourers, the Unspent, Long-Lived, the Library pages, and the history change in V.4 (see the V.3 recorded decisions on [[Roadmap#Epic V — Read the whole vault]]) |
+| **C-22** | Methei held to the beds | [[Methei]] 21 — against [[The Walled Book]] 53, 127 (a person with a Condition can walk out; the turns of work are owed by people who live inside the walls) | The Walled Book |
+| **C-23** | The Yumboe called a nation | [[Yumboe]] 25 — against the lock that Kinds are not nations and [[Kinds of the Turning]] | Kinds of the Turning |
+| **C-24** | The guest-grove called Vaelun's | [[The Watchers]] 36, 147 · [[The Door-Keepers]] 126 · [[05 - Factions]] 22 · [[The Tree-Wardens]] 178 — against [[The First Bowl]] and [[The Three Hamlets Past the Ford]] | The First Bowl |
+
+**Resolved entries with leftovers.** C-01 (scaffolding in player bodies), C-04 (house-name markers), and C-07 (Rothallo called a town) were closed, but the audit found hits still in the notes they name. They stay resolved as decisions. The leftover lines are in the V.4 fix list, not reopened here.
 
 ## Resolved in the sweep after L, S, and M (2026-10-05)
 
@@ -78,7 +98,7 @@ Checked, and not a conflict: the new seats' habit counts and people match the gr
 - A reason to name the cutter, date the Tree, or add a sixteenth power.
 
 ## Links
-- [[Epic R Completion Gate 2026-08-31]]
+- [[Epic R Completion Gate 2026-08-31]] · [[Vault Audit 2026-10-22]]
 - [[The Opening]] · [[The Isolated Fall]]
 - [[Is the Leaf-Mother Real]] · [[11 - Secrets]]
 - [[Roadmap]] · [[Build Plan]] · [[Conventions]]
