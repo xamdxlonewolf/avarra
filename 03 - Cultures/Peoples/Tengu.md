@@ -11,7 +11,7 @@ language: Gonan (hearth-register); daily speech is the local Maiethren drift
 homeland: the ridges — [[Maiethorn]] [[Named Ground|Rain-Wall]] and [[Heskoren]] highland spines (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-16
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Tengu
@@ -22,7 +22,7 @@ updated: 2026-08-31
 
 Tengu are the crow-born of the high country: lean, sharp-featured people with dark feathers through their hair and down their arms, black bright eyes, and broad wings that carry them off any cliff or updraft. They are the folk of the **peaks and the wind** — born where the air is thin and the weather turns in a heartbeat, and utterly unbothered by either. Where lowlanders see a killing drop and a coming storm, a Tengu reads a launch point and a rising thermal. They fly, yes — but the deeper truth of a Tengu is that **the mountain never surprises them.** They feel the rockfall before it slides and the squall before it breaks.
 
-**The fresh angle:** the trope tengu is a trickster demon or a swordsmanship-obsessed mountain hermit. Here they're neither aloof nor uncanny-menacing — they're the **people who belong to the high wild** the way Selkies belong to the sea: at home in the exact place that kills everyone else. In a world of four custom Kinds, the fox-born move unseen through *society*, the sea-born move freely through *water*, the crow-born move freely through *the sky and the heights,* and the good people keep *the hill and the night.*
+Tengu are **the people who belong to the high wild**, the way Selkies belong to the sea: at home in the exact place that kills everyone else. The fox-born move unseen through *society*, the sea-born move freely through *water*, the crow-born move freely through *the sky and the heights,* and the good people keep *the hill and the night.*
 
 ## Values & Worldview
 
@@ -37,17 +37,17 @@ Because they can go where footpaths can't and read the mountain's mood before it
 Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Caller · Hearth (not mixed) = The Mountain's Mood. Full custom package takes no [[Kind Heritage|Hearth-Mark]].
 
 - **Wind-Winged** — You can fly. While flying, you can mark a **Stress** to fold your wings and **dive** on a target within Close range: treat it as a **Finesse** attack dealing **d8** physical damage using your Proficiency, and end the dive anywhere within **Very Close** range of that target.
-- **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands. *(This is the only Kind feature that uses that phrase. It does not cover a person stepping from a doorway.)*
+- **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands. *(It does not cover a person stepping from a doorway.)*
 - **Wind-Caller** — You command the mountain wind the way the old fan-bearers did. Mark a **Stress** to call a sudden gust and choose one: **shove** a target within **Far** range a step closer or farther and knock it **Vulnerable**; **carry** yourself or a willing ally an extra move on the wind (a great leap, a saving glide down from a height, a boost across a gap); or **sweep** an area within Close range clear of smoke, gas, fog, or loose airborne projectiles until the start of your next turn.
 
 ## Naming & tongue
 
-Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
+Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. It does not sound like [[Kitsune|Kusawe]]. The full inventory is in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. The second name is often a byname that is a perch or a pass, not a harbour, or a house-name where a list keeps them.
 
 Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
 
 ## Links
-- [[The Premise]] — the two-layer (Kind + Condition) model
+- [[Conditions]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Selkie]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
@@ -55,7 +55,7 @@ Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
 ## GM Notes
 
 - **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
-- **Register.** *Gonan* seed `20260825`. Do not collapse it into [[Kitsune|Kusawe]].
+- **Register.** *Gonan* seed `20260825`. Two folklore-Japanese Kinds must not collapse into one sound, so do not collapse it into [[Kitsune|Kusawe]].
 - **Flight.** At-will flight; dive is Stress-gated only (no per-scene cap). Offensive dive, not Faerie evasion.
 - **"Cannot be caught off guard"** lives **here only**, on The Mountain's Mood, and only against environmental hazards and terrain ambushes. Do not put the phrase back on Seal-Kin or Hollow-Hill.
 - **Wind-Caller** is the fan/wind lane: shove, carry, sweep. Not disguise, not escape.

@@ -11,7 +11,7 @@ foreshadowed_by:
   - "[[The Other Chip]]"
 revealed_in:
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Name-Stone Bed
@@ -22,11 +22,11 @@ An afternoon at [[The Low Wall]]. Not the keystone. Not [[The Opening]].
 
 Someone wants the bed under the blank name-stone opened again. Delamem, for [[The Walled Book]], will pay for a chip that can be filed as the Close's quarry. A Watcher will stand in the cut and keep a chisel off the panel. Nurreith wants the labour back on guest-beds, and wants the day not to be called a waste. Thuda wants the person-gap empty by dark and the garden's evening left alone.
 
-The party can be hired by any of those mouths. They can open the bed, refuse, or stand where the Watcher stands.
+The party can be hired by any of those people. They can open the bed, refuse, or stand where the Watcher stands.
 
 ## What is true
 
-The chip under the C.Y. 381 fill is the wall's quarry, not the Close's. The fill dates that quarrel. It does not date the wall, the Tree, or the Before. [[The Other Chip]] is the object, if they lift it. [[The Low Wall]] already has the discoveries and the solves that must not be handed over.
+The chip under the Cut-year 381 fill is the wall's quarry, not the Close's. That answer is already public: [[The Low Wall]] and [[A History of the Turning]] both say the chip did not match. The play is the quarrel over what it means and who files it, not a hidden answer. The fill dates that quarrel. It does not date the wall, the Tree, or the Before. [[The Other Chip]] is the object, if they lift it. [[The Low Wall]] already has the discoveries and the solves that must not be handed over.
 
 ## Where to stop
 

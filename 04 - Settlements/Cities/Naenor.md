@@ -11,7 +11,7 @@ region: "[[Leddvael]]"
 population: a large port, slightly smaller than Orentel
 reveals: [keystone-adjacent]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Naenor
@@ -23,7 +23,7 @@ updated: 2026-10-03
 | | |
 |---|---|
 | **Want** | A term that closes on this water. A colour that is not priced as a failure. |
-| **Have** | The signing-watch, a book-table, a Hand in the same wind, one mouth. |
+| **Have** | The signing-watch, a book-table, a Hand off the signing-square, one named person. |
 | **Fear** | A gift-reading house filed as a bad debtor. A berth that only the Ledger Coast can hold. |
 | **Live conflict** | The term is won here. The berth is still lost there. |
 | **Enters a scene** | Wax warmed in a closed hand. A page turned with the left hand. A chair set with its back to the Tree. |
@@ -31,17 +31,17 @@ updated: 2026-10-03
 
 ## Overview
 
-Naenor is a port city on [[Strandoren]], on its own stretch of indented coast, with enough water to keep its own houses. Towns and villages along the rest of that coast stay unnamed. The city is large, and slightly smaller than Orentel.
+Naenor is a port city on [[Strandoren]], down the coast south-west of Orentel and south of Raitin on the atlas (this note does not record the days), with enough water to keep its own houses. Towns and villages along the rest of that coast stay unnamed. The city is large, and slightly smaller than Orentel.
 
-[[Leddvael]] took [[The Fair Hand]] from a dockside theology and made it a civic rite. Leaf-Fall in Naenor is a festival and a signing-watch. A Tithe is a term serviced. The [[Bound]] are employed here as the shape of honesty: a word that still closed in [[The Grey Summer]], when the witnesses had died. The city will file a contract. It will not copy [[Polity Archetypes|Threnmaieth]]'s list, and it will not become a census of souls.
+[[Leddvael]] took [[The Fair Hand]] from a dockside theology and made it a civic rite. Leaf-Fall in Naenor is a festival and a signing-watch. A Tithe is a term serviced. The [[Bound]] are employed here to witness a term, because a Bound's word still closed in [[The Grey Summer]], when the other witnesses had died. The city will file a contract. It will not copy [[Polity Archetypes|Threnmaieth]]'s list, and it will not become a census of souls.
 
 It competes with the Ledger Coast. It wins the signing. A term can close on this quay while Orentel is still pricing the hold. It loses the berth, the [[The White Note House|White Note]], and the scale of the deathless houses on the Old Crossing. A First-Hand year is not this city's product. Empty prestige berths are Orentel's. Naenor has working berths. The work the city is for is the watch.
 
-The [[The Book-Hands|Book-Hands]] stamp and recite in this wind, as they do on other signing-quays. They have no seat of their own here. They do not rewrite Terms.
+The [[The Book-Hands|Book-Hands]] stamp and recite on this quay, as they do on other signing-quays. They have no seat of their own here. They do not rewrite Terms.
 
-A Hand stands off the signing-square. Motherfaith tree-tenders and Fair Hand clerks share that wind. Gift-reading families live in the city. They are the minority that sounds devout, and the statute reads them as a credit risk.
+A Hand stands off the signing-square. Motherfaith tree-tenders and Fair Hand clerks share that square. Gift-reading families live in the city. They are the minority that sounds devout, and the statute reads them as a credit risk.
 
-**Leftover job on this street: the signing.** Devotion, if it lands, is a hymn the festival will schedule. Necessity is a household that still calls the colour a gift.
+The city's daily work is the signing. Devotion, if it lands, is a hymn the festival will schedule. Necessity is a household that still calls the colour a gift.
 
 ## Ways in
 
@@ -55,7 +55,7 @@ Water for the city is rain, casks, and a paid well off the salt. Food is the coa
 
 The work happens at the **signing-watch**, on the book-table in the square.
 
-[[Derdil]] stands the watch. A neighbour says Derdil. A stranger hears Derdil of Naenor. There is no house to put first. The Reckoned Gift does not keep a person-list. The Book-Hands are in the wind. They are not this mouth, and they are not a seat.
+[[Derdil]] stands the watch. A neighbour says Derdil. A stranger hears Derdil of Naenor. There is no house to put first. The Reckoned Gift does not keep a person-list. Book-Hands also work on this quay, without a seat. They are not Derdil, and they are not a seat.
 
 ## One tension
 
@@ -71,9 +71,16 @@ At Leaf-Fall the square sets the Bound witness's chair with its back to the Tree
 
 ## People
 
-One mouth. Not a court. Not a Book-Hand seat.
+One person. Not a court. Not a Book-Hand seat.
 
 - **[[Derdil]]** — stands the signing-watch.
+
+## Links
+- [[Leddvael]] · [[Powers of the Turning]] · [[Strandoren]]
+- [[The Fair Hand]] · [[The Book-Hands]] · [[Bound]] · [[The Grey Summer]]
+- [[Orentel]] · [[The White Note House]] · [[Lunbra]] · [[Braetu]]
+- [[Derdil]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]]
 
 ## GM Notes
 
@@ -84,10 +91,3 @@ One mouth. Not a court. Not a Book-Hand seat.
 - **Habits.** Three. The count is full. A later note must not explain them, and must not turn them into a power, a relic, or a rite. The chair at Leaf-Fall is a habit. It is not a new Term.
 - **One tension.** The statute wins, the berth loses, and a gift is priced as debt. Do not add a ward-grid. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.
-
-## Links
-- [[Leddvael]] · [[Powers of the Turning]] · [[Strandoren]]
-- [[The Fair Hand]] · [[The Book-Hands]] · [[Bound]] · [[The Grey Summer]]
-- [[Orentel]] · [[The White Note House]] · [[Lunbra]] · [[Braetu]]
-- [[Derdil]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]]

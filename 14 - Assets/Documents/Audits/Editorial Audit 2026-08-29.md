@@ -3,14 +3,16 @@ title: Editorial Audit 2026-08-29
 type: reference
 visibility: gm
 note_status: draft
-status: active
+status: superseded
 tags: [meta, audit, editorial, review]
 aliases: [The Full Audit, Editorial Audit]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-10-22
 ---
 
 # The Turning — Full Editorial Audit
+
+> **Status, updated 2026-10-22.** Superseded. [[Epic R Completion Gate 2026-08-31]] closed every finding in this report, and [[Vault Audit 2026-10-22]] is the later full read.
 
 > An honest, end-to-end reading of everything built so far, what to refine, what doesn't hold up, and where to go next.
 >

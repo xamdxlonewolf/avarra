@@ -9,22 +9,22 @@ reveal_tag: the-other-hands
 category: truth
 foreshadowed_by:
   - "[[Is the Leaf-Mother Real]] — sits under; never fire first"
-  - "[[The Uncoloured Intake]] — Struck mouths that will not sit under one stamp (handout)"
+  - "[[The Uncoloured Intake]] — Struck people who will not sit under one stamp (handout)"
   - "[[The Child at Four Doors]] — four keepers; last lines disagree; not a roster"
   - "[[The Leaf-Mother]] — Wide-Hand / Narrow-Hand split (both half-right)"
   - "[[Faiths of the Turning]] — each rival holds a piece"
-  - "[[The Watching]] · [[The Watchers]] · [[Laevila]] — lintel / Before / a household not yet named Mother"
+  - "[[The Watching]] · [[The Watchers]] · [[Laevila]] — the Before, and a household not yet named Mother"
   - "[[The Fair Hand]] · [[The Book-Hands]] — Counterparty real for Bound; faces disagree, clauses do not"
   - "[[The Old Ways]] · [[The Door-Keepers]] — land-doors as guests she authorized"
   - "[[The Open Table]] · [[Yumboe]] · [[The Sundering Isle]] — control: almost no Struck, no Given"
 revealed_in:
 created: 2026-08-23
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # The Other Hands
 
-> **The household elaboration (🟡 Proposed 2026-08-23 — structure from the user's taste call; names polishable).** This sits *under* the locked keystone, it does not replace it. [[Is the Leaf-Mother Real|She is real, benevolent, bounded, and costly]]. This note answers the door that keystone left open: **she is not the only such power.** She is the **first and greatest of a household**. She **Gives**. She does **not** Strike. The Struck are the work of **the Other Hands** — lesser gods of her household, each with a restricted door and her allowance to reach through it.
+> **The household elaboration (2026-08-23 — structure locked; names open).** This sits *under* the locked keystone, it does not replace it. [[Is the Leaf-Mother Real|She is real, benevolent, bounded, and costly]]. This note answers the door that keystone left open: **she is not the only such power.** She is the **first and greatest of a household**. She **Gives**. She does **not** Strike. The Struck are the work of **the Other Hands** — lesser gods of her household, each with a restricted door and her allowance to reach through it.
 
 > **Do not put this in a player-facing note.** The world still holds her as belief. The other faiths already describe these powers as *they* understand them. Confirmation is a late beat, and it should land as *the household was always there*, not as a gotcha pantheon dump.
 
@@ -56,9 +56,11 @@ Not a D&D twelve. Five Hands, five doors, five Conditions that can arrive withou
 | survived being turned to stone | [[The Stilled]] (Struck path) | **the Holding** | *Ornhael* (orn-HAYL) — "the whole-ground" | **A pause someone walks out of.** Stillness that saves, then lets go. | Not a curse-god. The ground that holds you still and lets you walk out. |
 | lost and dying in the deep wild | [[The Taken-In]] (Struck path) | **the Taking** | *Vaelorn* (VAYL-orn) — "the yield-land" | **That no one die unmade in the wild.** The lost taken in, not eaten. | Not a hungry forest. The land that will not let you die unmade — *vael* in the Old Ways' older sense. |
 
+**Name collisions.** *Eloren* (ay-LOR-en) sits one letter from *Eoloren*, the liturgical name of the First Cut. *Ornhael* (orn-HAYL) sits close to *Ornthael*, the liturgical name of the Years of Hands. Both stay as they are and nothing new is coined. Say them with the stress given so a table does not hear one for the other.
+
 Collective everyday name: **the Other Hands** (she is the First Hand; they are the rest). They do not have temples of their own on the mainland as a set — the Motherfaith grew over that memory. The rival faiths kept pieces.
 
-**Not a sixth Hand.** [[The Unspent]] (everyday *the Poured God*) sits in the household as furniture, not a door. Long-Lived fringe will dress it and claim they made it. It cannot Give, cannot Strike, cannot catch at a threshold. Do not add it to this table. Do not let a circle pour someone into Long-Lived.
+**Not a sixth Hand.** [[The Unspent]] (everyday *the Poured God*) is in the household but is not a door, and it existed before the Pourers named it. Long-Lived fringe will dress it and claim they made it. It cannot Give, cannot Strike, cannot catch at a threshold. Do not add it to this table. Do not let a circle pour someone into Long-Lived.
 
 ### Allowance and purchase
 
@@ -141,10 +143,10 @@ The Isle remains the sharpest experiment: a people outside her Giving, barely in
 
 Keep this *behind* the keystone's own clue-ladder. Do not lead with a pantheon.
 
-1. **Struck testimony splits.** Some felt a mother. Some felt a clerk, a term, a deep, a holding, a green. The Motherfaith files all of it as "she caught them." The Old Ways and the Fair Hand file it as their own doors. Both filings are half-true. Handout: [[The Uncoloured Intake]] — one stamp, mouths that will not sit under it. Do not complete the roster from the page.
+1. **Struck testimony splits.** Some felt a mother. Some felt a clerk, a term, a deep, a holding, a green. The Motherfaith files all of it as "she caught them." The Old Ways and the Fair Hand file it as their own doors. Both filings are half-true. Handout: [[The Uncoloured Intake]] — one stamp, and Struck people who will not sit under it. Do not complete the roster from the page.
 2. **A Returned who settles** sometimes speaks of a book closing — not a lap. Threnvaeth, if you are listening.
 3. **Bound faces disagree and the terms do not.** Demon, vast, unknown — the *clause* is the same shape. Orledd wearing masks.
-4. **The Watching's lintel** ("we kept the watch before the name") is about a *household*, not only a nameless Tree.
+4. **The Watching's saying** ("we kept the watch before the name") is about a *household*, not only a nameless Tree.
 5. **Kumbaan as control.** Almost no Struck; no Given. If the household needed only doors, the isle would be full of them. Purchase matters. The storm-wall is a reach-edge *and* a name-edge.
 6. **The confirming beat (late, GM's to place).** If the campaign ever names the Other Hands, it should feel like *the family was always in the next room* — warmth with an ache, not a lore dump. Pair it with the keystone's own confirming beat or let it land after. Never first.
 

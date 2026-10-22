@@ -3,14 +3,16 @@ title: Epic R Completion Gate 2026-08-31
 type: reference
 visibility: gm
 note_status: fleshed
-status: active
+status: closed
 tags: [meta, audit, editorial, epic-r, completion-gate]
 aliases: [Epic R Gate, Completion Gate]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Epic R Completion Gate (2026-08-31)
+
+> **Status, updated 2026-10-22.** Closed. The pass-two residual P2.1 was resolved on 2026-08-31, and the world book was rebuilt on 2026-08-31 and 2026-10-05, so the world-book lines below describe the book as it stood on 2026-08-31.
 
 > **What this is.** The six-box close of [[Roadmap#Epic R: Editorial repair and table readiness|Epic R]]. Source findings: [[Editorial Audit 2026-08-29]]. Stories R.1–R.13 are the work. This note is the map, the fresh scans, the table test, and the residuals that pass-two owns. **No canon engines were rebuilt. The world book was not touched.**
 
@@ -112,9 +114,9 @@ Strip rule: [[Conventions#Player-safe export]]. Simulated on all `visibility: pl
 
 **Keystone confirmation — pass.** `she is real` / `Confirming she is real` / `GM — why this matters` do not appear in exported player bodies. Those sentences live in `## GM Notes`, `visibility: gm` notes, the audit itself, or the **compiled world book** (stale; not the vault export). `reveals: [leaf-mother-is-real]` is **zero** on player notes. Clue notes use `keystone-adjacent`. Phoenix player text that people *treat* a Phoenix as proof is in-world social reaction, not GM confirmation.
 
-**Production scaffolding — residual, not silent.** R.13 and this gate cleared the worst class on Kind cards, the People hub seed, and the Tree's "Names 🟡" line. Remaining in player bodies of *working* notes (history, factions, some settlements, MOCs): Story numbers in Links, 🟡 on liturgical names, "Canon status" blockquotes, some "Do not clone / Do not rebuild." That is **P2.1**. It is not a keystone leak and it is not closed by pretending the export is clean.
+**Production scaffolding — residual, not silent.** R.13 and this gate cleared the worst class on Kind cards, the People hub seed, and the Tree's "Names 🟡" line. Remaining in player bodies of *working* notes (history, factions, some settlements, MOCs): Story numbers in Links, 🟡 on liturgical names, "Canon status" blockquotes, some "Do not clone / Do not rebuild." That is **P2.1**. It is not a keystone leak and it is not closed by pretending the export is clean. *Resolved by P2.1 on 2026-08-31.*
 
-**World book.** Still carries *Eolstrand*, *Aeloren*, and "Confirming she is real" guild lines. Vault is source of truth. Rebuild only when asked.
+**World book.** Still carries *Eolstrand*, *Aeloren*, and "Confirming she is real" guild lines. Vault is source of truth. Rebuild only when asked. *Update 2026-10-22: the rebuilds of 2026-08-31 and 2026-10-05 cleared these.*
 
 ---
 
@@ -152,16 +154,18 @@ Missing procedure that would have failed this test: Infernis + Bound. Written th
 
 ## 6 · Recorded decisions (this gate)
 
-1. **Remaining scaffolding is P2.1, not a silent close.** Keystone confirmation is closed. A vault-wide strip of Story numbers / 🟡 / "Do not clone" from every working note is a polish story, not a hidden fifth pass of R.13.
+1. **Remaining scaffolding is P2.1, not a silent close.** *Resolved 2026-08-31.* Keystone confirmation is closed. A vault-wide strip of Story numbers / 🟡 / "Do not clone" from every working note is a polish story, not a hidden fifth pass of R.13.
 2. **Infernis + Bound stack.** Kind is born; Condition is the contract. Written on [[At the Table]] and [[Bound]].
 3. **Thuda stays an on-page mouth.** No NPC note. Matches [[People of the Turning]] / [[08 - People]].
 4. **Haelin is an alias of [[Harrow's Green]].** The live-front warden does not need a second note.
-5. **World book stays stale** until an explicit rebuild. *Eolstrand* / *Aeloren* / "Confirming she is real" in chapters are not vault leaks.
+5. **World book stays stale** until an explicit rebuild. *Eolstrand* / *Aeloren* / "Confirming she is real" in chapters are not vault leaks. *Update 2026-10-22: the book was rebuilt on 2026-08-31 and 2026-10-05.*
 6. **Locked engines stand.** Two clocks. Tree undated. Cutter unpicked. No sixteenth power. No Kumbaan graft. Given-door one week. One Gift. Tithe never seizes the PC.
 
 ---
 
 ## Pass-two residual P2.1
+
+**Status:** resolved 2026-08-31.
 
 Owned by [[Roadmap#Pass two — verification|Pass two]]. Do not treat as Epic R unfinished.
 

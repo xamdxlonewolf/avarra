@@ -4,19 +4,19 @@ type: village
 visibility: player
 note_status: fleshed
 status: active
-tags: [settlement, village, kumbaan, yumboe, open-table, epic-r, story-r-11]
+tags: [settlement, village, kumbaan, yumboe, open-table]
 aliases: [The Feeding Hill, the Hill that Feeds, Ndenjoo-hall]
 world: The Turning
 region: "[[The Sundering Isle]]"
 population: a valley — a few dozen hearths under one Pap, who come to one hall
-reveals: [keystone-adjacent]
+reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-31
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Ndenjoo
 
-> **A hill-hall on [[The Sundering Isle|Kumbaan]].** *(nden-JOH.)* Own-name from the isle register; sailors say **the Feeding Hill.** The valley comes here on the bright nights. There is no [[Turning Tree|Tree]]. There is a table. Fleshed so a session can sit down without treating the isle as a reveal being guarded.
+> **A hill-hall on [[The Sundering Isle|Kumbaan]].** *(nden-JOH.)* Own-name from the isle register; sailors say **the Feeding Hill.** The valley comes here on the bright nights. There is no [[Turning Tree|Tree]]. There is a table.
 
 ## At the table
 
@@ -27,7 +27,7 @@ updated: 2026-10-01
 | **Fear** | A wreck that becomes a crowd. A kin who will not leave. A noon that will not stay quiet. |
 | **Live conflict** | Njunda seats; Soonke only decides alive; Saalo wants a crossing out; Nolas has sat twice. |
 | **Enters a scene** | A wreck walked uphill tonight; the hands stop; a guest loud at noon; a hull rumour. |
-| **How this square talks** | A second sitting. Not a warden, not a notice, not a maybe-Tree. |
+| **How this place talks** | A second night at the table. There is no warden, no notice, and no Tree. |
 
 ## Overview
 
@@ -37,7 +37,7 @@ The storm-beach is a walk down, not a quay. **Soonke** *(SOON-keh)* sits that st
 
 This is an ordinary home that happens to be nearly impossible to reach. The uncanniness is the distance, and the hands you can see without bodies. It is not a paradise and not a monster-haunt. Mainland noon-faiths are *loud* here the way a guest who will not sit is loud.
 
-**There is no leftover job of the walk.** Kumbaan is off the clocks. The leftover is the wall: people who arrived and did not leave; people who want to leave and cannot book a thinning.
+Kumbaan never had the pilgrim walk and never had a Tree. What is left here is the wall: people who arrived and did not leave, and people who want to leave and cannot book a thinning.
 
 ## Site
 
@@ -55,7 +55,7 @@ Life is under the hill. You do not walk *through* a town. You walk into a Pap an
 
 - **The table** — civic and sacred heart. The rite *is* supper. Extra place slightly back, not at the end. Unseen hands fetch and pour. Songs. No colour-reading. No terms recited.
 - **The extra place** — every meal that matters, not only the feast. To omit it is the one impiety. A child of the house learns the work by carrying dishes and by being told not to sit there.
-- **The day-rooms** — cool, for sleep when the moon is down. Daylight is a Sabbath of sleep, not a fallen hour. A mainlander who is loud at noon is a problem the hall can feel in its teeth.
+- **The day-rooms** — cool, for sleep when the moon is down. Daylight is a Sabbath of sleep, not a fallen hour. A mainlander who is loud at noon is a problem the whole hall feels.
 - **The path to the sand** — Soonke's stretch. A hooded lamp that does not call ships. Living go up. Dead go above the tide.
 - **The standing-stone** — a dare, not a mile-shrine. No ribbons. Visitors from the core will try to climb it as if it owed them a leftover. It does not.
 
@@ -88,42 +88,42 @@ A thinning is a moon the sitters know, not a ferry. Most hulls wreck, turn, or d
 - **Noon-noise.** Nolas will not sleep the day. Mainland loud. The hill feels it.
 - **A hull rumour.** Someone on the sand saw a sail. Soonke will not swim. Saalo will want to go down. Njunda will want the hall kept.
 
-## Named wants (not a reveal)
+## Named wants
 
-These are session wants. None of them are "prove what the Trees are."
+These are what each person wants this season.
 
 1. **Njunda** — Nolas leaves as kin, not as a slight, and the extra place stays laid.
 2. **Soonke** — this wreck off the hill before the next loud night; the lamp still hooded.
 3. **Saalo** — a crossing toward Waandi, or a word that Waandi sat a second night somewhere that is not here.
 4. **Nolas** — the hall as hearth. They have been counted. They will not be a passenger again.
 
-A warden guest, if one ever washes up, is still a guest. There is no Tree to tend. The fight about a tenth-year week lives on the mainland lintel ([[The Open Table]]), not as this valley's plot.
+A warden guest, if one ever washes up, is still a guest. There is no Tree to tend. The argument about a tenth-year week belongs to the mainland ([[The Open Table]]), not to this valley.
 
 ## In-world text
 
-*Said to the extra place before the hands arrive, Ndenjoo, a bright night. Taught to children. A second line added in Njunda's mouth after Nolas sat twice. `oblique-worldbuilding`.*
+*Said to the extra place before the hands arrive, Ndenjoo, a bright night. Taught to children. A second line was added by Njunda after Nolas sat twice.*
 
 > *We have counted you. Sit. If you have a name we have not learned it yet; if you have a colour we have no tree to read it.*
 >
 > *If you have sat twice, you are of the table. The table is not a ship. Sleep when the moon is down. The sand does not owe you a second hull.*
 
-On its face: hospitality, almost a grace. Underneath: kin-making has a room. The sailor who copies only the first two sentences will sell a proverb on a quay. The valley is still doing the dishes.
-
-## GM Notes
-
-- **Commit, not a gate (Story R.11).** This square is for play. Do not run it as a keystone vault. The isle remains the cleanest control; confirmation stays late and stays off this table.
-- **No Tree. No graft. No mile-shrine.** A later story that "finds an old scion" here breaks the isolate and [[The Open Table]]. Dead wood is not a Tree.
-- **Do not gloss the heel.** The folk sentence about the crust is not an answer. Do not make that night a ward, a liturgy, or a Leaf-Fall in disguise.
-- **Not of her household.** Staying-kin are not [[The Other Hands]]. Rare Struck stay family news ([[Yumboe]]).
-- **Not a sixteenth power.** A valley, not a flag. Kumbaan is not a mainland polity.
-- **Hospitality is the ~5% dial at its gentlest — until the hall overflows.** Do not turn the Open Table into a trap-cult or a geas. The scare, when you need one, is a wreck, a guest who will not leave, a week of mouths, a noon that will not sleep.
-- **Soonke and Njunda are two jobs.** The sand decides alive. The hall decides kin. If they start doing each other's work, that is a thin year, not a merger of houses.
-- **Yumboe PC:** GM leave; full Kind; never a mix ([[Kind Heritage]]).
-- **Hooks.** Nolas at noon; hands that stop; Saalo and a sail; a warden guest with no Tree; pairing a mainland lintel session ([[The Open Table#The sentence at the mainland lintel]]) *after* someone has sat here, so the sentence fails in public later.
+It is a grace said over a meal. Sitting twice makes a guest kin, and that is why the hall fills. A sailor who copies only the first two sentences will sell them on a quay as a proverb.
 
 ## Links
 - [[The Sundering Isle]] — crossing · [[The Open Table]] · [[The Table-Keepers]] · [[The Shore-Sitters]]
 - [[Yumboe]] · [[Njunda]] · [[Naming People in the Turning]]
 - [[The Reckoning of the Year]] — moons, not solstices
 - [[Netstrand]] — hulls that try
-- [[Kind Heritage]] · [[04 - Settlements]] · [[Roadmap]] (Story R.11)
+- [[Kind Heritage]] · [[04 - Settlements]]
+
+## GM Notes
+
+- **For play, not a reveal.** Do not run it as a keystone vault. The isle remains the cleanest control; confirmation stays late and stays off this table.
+- **No Tree. No graft. No mile-shrine.** A later story that "finds an old scion" here breaks the isolate and [[The Open Table]]. Dead wood is not a Tree.
+- **Do not gloss the heel.** The folk sentence about the crust is not an answer. Do not make that night a ward, a liturgy, or a Leaf-Fall in disguise.
+- **Not of her household.** Staying-kin are not [[The Other Hands]]. Rare Struck stay family news ([[Yumboe]]).
+- **Not a sixteenth power.** A valley, not a flag. Kumbaan is not a mainland polity.
+- **Hospitality is the ~5% dial at its gentlest — until the hall overflows.** Do not turn the Open Table into a trap-cult or a geas. The scare, when you need one, is a wreck, a guest who will not leave, a week of extra guests, a noon that will not sleep.
+- **Soonke and Njunda are two jobs.** The sand decides alive. The hall decides kin. If they start doing each other's work, that is a thin year, not a merger of houses.
+- **Yumboe PC:** GM leave; full Kind; never a mix ([[Kind Heritage]]).
+- **Hooks.** Nolas at noon; hands that stop; Saalo and a sail; a warden guest with no Tree; pairing a mainland session ([[The Open Table#Two suppers, or a Turning-witness]]) *after* someone has sat here, so the sentence fails in public later.

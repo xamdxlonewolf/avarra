@@ -13,7 +13,7 @@ location: "[[The Three Hamlets Past the Ford|Brenod]]; last fall at [[Harrow's G
 role: a hush; a child the stories are not about
 reveals: [when-the-fire-is-caught]
 created: 2026-08-30
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Taeren
@@ -36,17 +36,23 @@ Quiet in the way of a person who has been told not to be a story. Heat in the ha
 
 ## How they reach a table
 
-- [[Harrow's Green]], Hale-month: still in the square because the witness-walk never happened. Tora of Brenod wants a mouth. Haelin will not name the colour.
-- [[Rosire]], if the party already has that mouth — not as a reunion scripted on this page, as a door that was opened.
-- If a PC occupies this seat, do not run this person as an NPC beside them.
+- [[Harrow's Green]], Hale-month: still in the square because the witness-walk never happened. Tora of Brenod wants someone to say what the colour was. Haelin will not name it.
+- [[Rosire]], if the party has already met them. It is not a reunion scripted on this page. It is a door that was opened.
 
-Do not walk them into a capital and wait for a crowd. Isolation is the leftover square, not a missing town.
+Taeren is far from anyone who knows them, and that costs them. It does not mean a town is missing from the map.
 
-## What this note does not do
-
-Does not add a second Gift. Does not write a hidden-Phoenix PC sheet. Does not confirm the Leaf-Mother in player text to explain the slot. Does not make them of Harrow's.
+## Links
+- [[People of the Turning]] · [[Rosire]]
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
+- [[Phoenix]] · [[A Hidden Phoenix]]
+- [[Turning Tree]]
+- [[08 - People]]
 
 ## GM Notes
+
+- **Links:** [[The Protectors]] · [[The Opening]]
+- If a PC occupies this seat, do not run this person as an NPC beside them.
+- **Not in this note:** a second Gift, a hidden-Phoenix PC sheet, the Leaf-Mother confirmed in player text to explain the slot, or Taeren made a child of Harrow's. Taeren is of Brenod.
 
 - **Engine is already locked.** [[When the Fire Is Caught]]: never two Gifts. What can look like two is leftover fire next to a new Gift. Taeren is the new leaf if no PC occupies the seat. The walker from the sanctuary is the remnant. Two Gifts at once is not legal.
 - **Opening sits at [[Harrow's Green]].** Kit: [[The Opening]]. This child is of Brenod; the fall was the neighbour's week. Collision with the old "thin Tree off the live front" line: [[Contradictions|C-05]].
@@ -54,10 +60,3 @@ Does not add a second Gift. Does not write a hidden-Phoenix PC sheet. Does not c
 - **PC in this seat.** Whole-table consent: [[A Hidden Phoenix]] (unseen leaf). Do not staple the PC to this name. Do not run Taeren beside them.
 - **Do not** lead with a second bird. Do not sit them next to [[Reimaethe]] or [[Hithaen]] to make a crew. Do not walk them into [[Eolvaeth]] / [[Orentel]] / [[Maiethlir]] for a festival.
 - **Hope scars** belong to the captive / remnant, not automatically to Taeren. If this child is the new Gift they may have few or none yet.
-
-## Links
-- [[People of the Turning]] · [[Rosire]] · [[The Protectors]]
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Opening]]
-- [[Phoenix]] · [[When the Fire Is Caught]] · [[A Hidden Phoenix]]
-- [[Turning Tree]] — white-fire row
-- [[08 - People]]

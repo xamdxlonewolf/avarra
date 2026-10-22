@@ -3,10 +3,10 @@ title: 04 - Settlements
 type: moc
 visibility: player
 note_status: draft
-tags: [moc, settlements, epic-6, epic-7]
+tags: [moc, settlements]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # 04 - Settlements
@@ -18,9 +18,9 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 ## Contents
 
 ### Seeds
-- [[Settlement Seeds]] — leftover *types*; the fleshed squares and seats are recorded there
+- [[Settlement Seeds]] — the kinds of place the Years of Hands left behind
 
-### Playable squares
+### Towns and villages
 - [[Harrow's Green]] — live-front Tree-town; stone-moving day; Tora of Brenod
 - [[The Three Hamlets Past the Ford]] — waiting cluster (Brenod · Vaelun · Ornath); three named kitchens
 - [[The Third Hearth]] — Near-Mile hearth; Seine's bed; Meirim wants the stone
@@ -28,7 +28,7 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The Mill-hold]] — sick-Tree Hands-town; neighbour-slate and a shovel
 - [[The First Bowl]] — guest-grove (*Lonasir*); two settings of one bowl
 
-### Archetype seats
+### Capitals
 - [[Eolvaeth]] — Vaethorn's pilgrim-edge; a town; the conflict walks in
 - [[Orentel]] — Lestrand's salt-quay; crane and hold; the Drop is the hill between them
 - [[Maiethlir]] — Threnmaieth's counted river-seat; the Loft Row is the tension
@@ -64,11 +64,11 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 ### Placed site
 - [[The White Note House]] — walkable desk and loft; [[Ledan]] in the room
 
-### Kumbaan (committed for play)
-- [[Ndenjoo]] — the Feeding Hill; table-at-the-centre; no Tree · [[Njunda]]
+### Kumbaan
+- [[Ndenjoo]] — the Feeding Hill; a hall built around a table; no Tree · [[Njunda]]
 
-### Pre-Walk leftovers
-- [[The Low Wall]] — three gaps, the C.Y. 381 opening of the name-stone bed, Thuda at the garden-end
+### Sites from before the Walk
+- [[The Low Wall]] — three gaps, the Cut-year 381 opening of the name-stone bed, Thuda at the garden-end
 - [[The Seeing-Ring]] — under-ring crawl; Tithsael keeps the night
 - [[The Dry Stair]] — crawl behind the basin; not Ornsael's hill
 
@@ -76,4 +76,4 @@ Continents live in `01 - World`. Powers live in `05 - Factions/Governments/` ([[
 - [[The Years of Hands]] · [[Daily Life]] (Tree-at-the-centre grammar) · [[The World Frame]] · [[Named Ground]]
 - [[Powers of the Turning]] · [[People of the Turning]] — seats have named wants now
 - [[The Sundering Isle]] — crossing · [[The Other Count]] — dated years · [[The Known Map]]
-- [[Roadmap]] · [[Dangers of the Turning]] · [[At the Table]]
+- [[Dangers of the Turning]] · [[At the Table]]

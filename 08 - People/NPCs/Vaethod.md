@@ -10,10 +10,10 @@ world: The Turning
 culture: Vaethorn / Heskoren worn-drift
 faction: "[[The Tree-Wardens]]"
 location: "[[Eolvaeth]]"
-role: town-warden who sends
+role: town-warden who sometimes sends a cohort
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Vaethod
@@ -30,7 +30,7 @@ updated: 2026-10-01
 | **Have** | the week's Speaking; the right to send or not send |
 | **Fear** | a thin year that empties the camp-streets and the stall with them |
 | **Live conflict** | the gospel says wait; horticulture, some years, says send |
-| **Hooks** | a week that will not speak; a letter from the Seat; Saelid's flour running out; a mouth in the gift-hall who is not a pilgrim |
+| **Hooks** | a week that will not speak; a letter from the Seat; Saelid's flour running out; a person in the gift-hall who is not a pilgrim |
 
 ## Summary
 
@@ -40,7 +40,7 @@ They were Given at this Tree — a Hands-child, not a walker. Practice-first, no
 
 ## Appearance & Demeanor
 
-Fortyish, salt in the hair already. Hands cracked from spring-water and gift-hall pots. Chalk on a cuff more weeks than not. They speak short, and they look at mouths before they look at papers.
+Fortyish, salt in the hair already. Hands cracked from spring-water and gift-hall pots. Chalk on a cuff more weeks than not. They speak short, and they look at faces before they look at papers.
 
 They will feed you. They will not let you name the spring as a clerk's list.
 
@@ -48,30 +48,30 @@ They will feed you. They will not let you name the spring as a clerk's list.
 
 **Leverage:** the Speaking is civic fact in a town with almost no other office. A visiting clerk who wants the hinge tidy has to go through them. A cohort that goes toward Saelvaeth goes because they said the week was over and the wood had not done its work.
 
-They cannot stamp a Cutting-leave. They cannot make the Tree speak. They can keep a colour off a lintel, and they can tell a hundred people to walk toward a luckier Hand.
+They cannot stamp a Cutting-leave. They cannot make the Tree speak. They can refuse to write a colour that did not happen, and they can tell a hundred people to walk toward a luckier Hand.
 
 ## Role & Relationships
 
-- **[[Saelid]]** *(SAY-lid)* — younger sibling. Baker on the camp-streets. Taken-In green in the stall-pots, ordinary flour in the rest. The winter mouths that buy bread are the same mouths a send-year takes away. Vaethod has not told the square this is why they wait until the week is over.
+- **[[Saelid]]** *(SAY-lid)* — younger sibling. Baker on the camp-streets. Taken-In green in the stall-pots, ordinary flour in the rest. The winter customers who buy bread are the same households a sent cohort takes away. Vaethod has not told the square this is why they wait until the week is over.
 - **The camp-streets** — some years the witness is local. Some years it has to walk home from a luckier Hand. Vaethod sleeps badly those years.
 - **[[Harrow's Green|Haelin]]** — the live front. Vaethod has sent people into that orbit. They have not met. A pot going that way is a Road-hand's job.
 - **[[Nedaen]] · [[Heiral]] · [[Daron]]** — other wants on this square. See [[People of the Turning]].
-- **[[Hithaen]]** — arrived this Hale-month with no list. Vaethod has not decided if they are a mouth that came to wait.
+- **[[Hithaen]]** — arrived this Hale-month with no list. Vaethod has not decided if they came to wait.
 
-The gift-hall notice from Eolthael C.Y. 387 is still on the lintel ([[Eolvaeth#In-world text]]). It does not mention Saelid.
-
-## GM Notes
-
-- **Pattern:** Threshold Guardian. A technical call (did a colour happen; is the week over) becomes the gospel's politics without their consent.
-- **Arc (positive).** *Lie:* if I speak truly and never invent a colour, I have not chosen. *Ghost:* a send-year that took a household Saelid still asks after. *Need:* admit that sending is a choice that costs people they love. *Catalyst:* another thin week, and a Seat letter, and the stall's flour counted in days.
-- **Lock-in:** skill + moral. They are the only Speaking the vale will take this year. Stopping would leave the hinge to a clerk.
-- **Competing interests:** the gospel (stay); the Seat's horticulture (send); Saelid (keep the mouths); a visiting Reckoning clerk (name the spring); the unvouched Struck in the gift-hall (faith or fear).
-- **Clock:** Hands-child, did not walk. Not the live front. Points at it.
-- **Do not** let them assert the mind of the Tree. "The soil was never quite right here" is horticulture. Confirming she is kind does not make the wait a virtue.
-- **Do not** make them the First Seat's local pope.
+The gift-hall notice from Eolthael Cut-year 387 is still chalked on the gift-hall door-beam ([[Eolvaeth#In-world text]]). It does not mention Saelid.
 
 ## Links
 - [[Eolvaeth]] · [[People of the Turning]]
 - [[The Tree-Wardens]] · [[Turning Tree]]
 - [[Harrow's Green]] · [[Saelvaeth]] · [[Hithaen]]
 - [[08 - People]]
+
+## GM Notes
+
+- **Pattern:** Threshold Guardian. A technical call (did a colour happen; is the week over) becomes the gospel's politics without their consent.
+- **Arc (positive).** *Lie:* if I speak truly and never invent a colour, I have not chosen. *Ghost:* a year they sent a cohort away, and it took a household Saelid still asks after. *Need:* admit that sending is a choice that costs people they love. *Catalyst:* another thin week, and a Seat letter, and the stall's flour counted in days.
+- **Lock-in:** skill + moral. They are the only Speaking the vale will take this year. Stopping would leave the hinge to a clerk.
+- **Competing interests:** the gospel (stay); the Seat's horticulture (send); Saelid (keep the customers); a visiting Reckoning clerk (name the spring); the unvouched Struck in the gift-hall (faith or fear).
+- **Where they stand.** Hands-child, did not walk. Not the live front. Points at it.
+- **Do not** let them assert the mind of the Tree. "The soil was never quite right here" is horticulture. Confirming she is kind does not make the wait a virtue.
+- **Do not** make them the First Seat's local pope.

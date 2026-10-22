@@ -9,7 +9,7 @@ aliases: [Other Planes, No Other Ground]
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Planes
@@ -20,8 +20,11 @@ There is one ground, one sun, and one mainland moon. [[The Sundering Isle|Kumbaa
 
 No spirit-world opens beside the gift-hall. No second map waits under a square. Travel is walks, sails, and the storm-wall's refusal. What a faith calls a door is a practice, a meal, a return, or a hymn. It is not another plane with its own geography.
 
-The empty folder was a hole in the shelf. It is not a hole in the world.
 
+## Links
+- [[The World Frame]] · [[The Reckoning of the Year]] · [[The Sky from the Ground]]
+- [[The Sundering Isle]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
+- [[01 - World]]
 
 ## GM Notes
 
@@ -29,8 +32,3 @@ The empty folder was a hole in the shelf. It is not a hole in the world.
 - **The storm-wall stays weather.** Do not set a power in it. Do not put a graft on Kumbaan. Do not make the bright night a portal.
 - **Conditions are not extradimensional.** A becoming is this world's person. Do not invent a fourth body-licence or a plane-touched Kind to explain one.
 - **Archaeology is not a plane either.** The three stones are arguments on this ground. They are not layers of another world.
-
-## Links
-- [[The World Frame]] · [[The Reckoning of the Year]] · [[The Sky from the Ground]]
-- [[The Sundering Isle]] · [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
-- [[01 - World]]

@@ -4,19 +4,18 @@ type: site
 visibility: player
 note_status: fleshed
 status: active
-tags: [site, deathless, bank, road-house, epic-6, epic-7, orentel, epic-r, story-r-11]
+tags: [site, deathless, bank, road-house, orentel]
 aliases: [The White Note, White Note, Ledan's House]
 world: The Turning
 region: "[[Strandoren]]"
-stratum:
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The White Note House
 
-> **A road-house that became a desk, and is still a house you can walk.** A [[Economy and the Tithe|deathless house]] of the trusted note. **[[Ledan]]** — [[Long-Lived]] — writes at the quay-desk. [[Mataero]] *(mah-TAY-ro)* lets the loft and is still junior to that same mouth. Everyday *the White Note*; Lestrand still says *the bed-house* and means the bank. Founding ≈ C.Y. 80. **Present house-year 307** (C.Y. 387). The conversion-query that headers as the 200th summer is **archival, C.Y. 280**. Placed on [[Orentel]]'s third quay, north side; inland loft in the rise behind. The desk is not the crown.
+> **A road-house that became a desk, and is still a house you can walk.** A [[Economy and the Tithe|deathless house]] of the trusted note. **[[Ledan]]** — [[Long-Lived]] — writes at the quay-desk. [[Mataero]] *(mah-TAY-ro)* lets the loft and is still junior to Ledan. Everyday *the White Note*; Lestrand still says *the bed-house* and means the bank. Founding about Cut-year 80. **Present house-year 307** (Cut-year 387). The conversion query headed "the 200th summer" is **archival, from Cut-year 280**. Placed on [[Orentel]]'s third quay, north side; inland loft in the rise behind. The desk is not the crown.
 
 ## At the table
 
@@ -33,15 +32,15 @@ updated: 2026-08-31
 
 The same fortune as [[The Third Hearth]], later. In Brenvaeth the house was beds, porridge, and credit for a walk you could not miss twice. When the walk stopped being required in the core, the Long-Lived still remembered every debtor, and the paper outlived the pilgrimage-season. The desk sat down on [[Orentel]]'s third quay because that is where notes now move. The inland upper room is occupancy — twelve beds in the rise behind the salt, looking at a Tree that still Turns for free.
 
-**What it sells now:** century instruments, trusted paper, **the terms** on a First-Hand year (credit for a winter you do not need), loft-terms to wool through Hale-month, and — still — the old kind of note for a necessity-family: eat now, pay on the home-walk. Same paper, two jobs.
+**What it sells now:** century instruments, trusted paper, **the terms** on a First-Hand year (credit for a First-Hand year you do not need), loft-terms to wool through Hale-month, and — still — the old kind of note for a necessity-family: eat now, pay on the home-walk. Same paper, two jobs.
 
 The house does **not** hold the berth and does not own the hull. A Coast origin-winter is one product with three desks: [[Netstrand]] supplies the ship → this house writes the term → [[Orentel|Sorim]] holds the first-quay berth. [[Orenbren]] takes the sleep at the far end. Ledan will convert the year. They will not tell the crane which berth is empty.
 
-**The north bed** is how a bank proves it used to be an inn. Empty is not a shrine, Mataero says. Empty is a bed they are not charging for. Ledan says the house is the same mouth. The founding-book has a name. Thilim, inland, still holds a far-cape name the White Note does not.
+**The north bed** is how a bank proves it used to be an inn. Empty is not a shrine, Mataero says. Empty is a bed they are not charging for. Ledan says the house is the house it always was. The founding-book has a name. Thilim, inland, still holds a far-cape name the White Note does not.
 
 ## How you walk it
 
-Two lintels, one house. You can do both in a morning if the rise is not wet.
+Two doors, one house. You can do both in a morning if the rise is not wet.
 
 ### The quay-desk (third quay, north side)
 
@@ -49,8 +48,8 @@ A street door on the salt. No chapel-front. A counting-room that smells of ink a
 
 What happens in an hour:
 
-1. A mouth comes with a walk, a wool-season, a grandchild's debt, or a court-slip.
-2. Ledan asks which count the mouth wants written: house-year, Cut-year, or a third date a Lestrand court invented last generation. They can convert. They will make you say which.
+1. A customer comes with a walk, a wool-season, a grandchild's debt, or a court-slip.
+2. Ledan asks which count the customer wants written: house-year, Cut-year, or a third date a Lestrand court invented last generation. They can convert. They will make you say which.
 3. If the paper is a First-Hand year, the term is written here and the berth is **not**. Ledan will send you to Sorim for the hold and will not walk you there.
 4. If the paper is a necessity-note, the verso still says *eat now*. The recto says a house-year. Mataero may already have the bed.
 
@@ -58,7 +57,7 @@ A smell of earth out of season means a pot, not a child, is the passenger on the
 
 ### The inland loft (the rise behind the salt)
 
-A walk up from the third quay, not a secret stair. Twelve beds. Eight let. Four open for Eolthael. **North bed not to let.** The window on that bed looks at the Tree on the rise. Mataero's slate hangs on the inland door: *let / open / not to let.*
+A walk up from the third quay, not a secret stair. Twelve beds. Eight let. Four open, and the north bed is one of the four. Three of them are for Eolthael, and **the north bed is not to let.** The window on that bed looks at the Tree on the rise. Mataero's slate hangs on the inland door: *let / open / not to let.*
 
 What happens in an hour:
 
@@ -68,7 +67,7 @@ What happens in an hour:
 
 Lestrand will only count this house as success. Orentel's charter-council will only count it as one ticket among many.
 
-## A day's work (C.Y. 387, a usable afternoon)
+## A day's work (Cut-year 387, a usable afternoon)
 
 **Morning at the desk.** Ledan converts a Hale-month loft-term to a Cut-year because a court on the rise asked. Mataero brings the occupancy numbers and does not sit. A necessity-family from a thin year [[Vaethod]] sent is already in a bed; their grandchild cannot point to the ford on the verso.
 
@@ -86,7 +85,7 @@ Lestrand will only count this house as success. Orentel's charter-council will o
 | You brought | Ledan writes | You still need |
 |---|---|---|
 | Coin, a house-year, a walk you do not need | a First-Hand term | Sorim's hold; a Netstrand hull if you want the water |
-| Hunger, a last hearth, a mouth who will pay on the home-walk | a necessity-note | a loft-bed if Mataero has one; guest-right if they do not |
+| Hunger, a last hearth, someone who will pay on the home-walk | a necessity-note | a loft-bed if Mataero has one; guest-right if they do not |
 | A court-slip, a Cut-year, a demand to convert | the same debt in the count they asked | the court. The house does not sit it. |
 | A question about the north bed | nothing | to leave the desk, or to say the founding-name if you have it |
 
@@ -94,33 +93,23 @@ You do not need a clergy. You do not need a colour. A [[Long-Lived]] memory of a
 
 ## People
 
-- **[[Ledan]]** — the writing-mouth. Same person as the C.Y. 280 query. Wants the founding-name on the north bed spoken once, aloud, so they can stop being the only memory.
+- **[[Ledan]]** — the clerk at the desk. Same person as the Cut-year 280 query. Wants the founding-name on the north bed spoken once, aloud, so they can stop being the only memory.
 - **[[Mataero]]** — occupancy. Wants [[Sorel]] off the century-note.
 - **[[Sorel]]** — still on the paper. Still alive. Not a clerk.
 - **[[Sorim]]** — not of this house. First-quay holds. Will not convert house-years.
-- **[[Thilim]]** — not of this house. The other fate. Do not move them here.
+- **[[Thilim]]** — not of this house. The other fate.
 
 ## In-world text
 
-*A term, half-written, quay-desk, a Ledger-month afternoon, C.Y. 387. Ledan's hand. The verso is blank because the mouth has not said which count. `oblique-worldbuilding`.*
+*A term, half-written, quay-desk, a Ledger-month afternoon, Cut-year 387. Ledan's hand. The verso is blank because the customer has not said which count.*
 
 > *House-year 307, or Cut-year 387, or the court's third date — say one. I will not invent the hold. I will not invent the hull. I will write the winter.*
 >
 > *Loft: ask the junior. North bed: not a line on this paper.*
 >
-> *If you came about a ford your grandparent walked, I remember it. If you came to hear the name in the founding-book, you did not bring a mouth that may say it. Sit or go. The tide-bell is not a liturgy.*
+> *If you came about a ford your grandparent walked, I remember it. If you came to hear the name in the founding-book, you did not bring someone who may say it. Sit or go. The tide-bell is not a liturgy.*
 
 Ledan is doing a conversion. Mataero, if they see the blank verso, will hear a junior's chance. Sorim will not be in the room unless the term needs a berth it cannot have.
-
-## GM Notes
-
-- **Usable place, not a cross-reference ledger.** Play the rooms. Play an afternoon. The prestige-walk chain stays: Netstrand hulls → White Note terms → Orentel holds. Orenbren houses the origin-winter. Do not let "we sell the First-Hand year" mean all three desks at once.
-- **Road-past as un-auditable credit.** No mortal court can check a Long-Lived's memory of a ford two hundred summers back. That is why the note holds. It is also why a grandchild can owe a walk they cannot point to.
-- **Ledan is Long-Lived.** The C.Y. 280 query is the same writing-mouth Mataero is still junior to. Do not invent a second Ledan as a title unless play wants the house-name reused; the deathless reading is the load-bearing one.
-- **Mataero's blindness is the document.** Position: junior who must believe the house is a bank that happens to have rooms. Need: the conversion is competence. Lens: occupancy. Blindness: house custom *is* the credit. Do not have Ledan "explain" this unless play wants the older mouth to say it.
-- **Do not kill the Held name to tidy the ledger.** Do not move Thilim into this house. Two fates, two lintels.
-- **Do not make this house Orentel's government.** The Salt Quay is a charter-council. The White Note is a mouth.
-- **Hooks.** A due note this afternoon; the north bed occupied; Sorel's paper; a First-Hand year and a neighbour's week in the same loft; a Bound signing-watch as prestige; a pot-term that smells of earth; a court that wants a Cut-year; pairing a session with [[The Third Hearth]] so the two fates share a week.
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Third Hearth]] · [[The Ages of the Turning]] · [[The Other Count]]
@@ -129,4 +118,14 @@ Ledan is doing a conversion. Mataero, if they see the blank verso, will hear a j
 - [[Economy and the Tithe]] · [[Long-Lived]]
 - [[The Walking Years]] — the inn in the act
 - [[Ledan]] · [[Mataero]] · [[Sorel]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.3; R.8; R.11)
+- [[04 - Settlements]] · [[Roadmap]]
+
+## GM Notes
+
+- **Usable place, not a cross-reference ledger.** Play the rooms. Play an afternoon. The prestige-walk chain stays: Netstrand hulls → White Note terms → Orentel holds. Orenbren houses the origin-winter. Do not let "we sell the First-Hand year" mean all three desks at once.
+- **Road-past as un-auditable credit.** No mortal court can check a Long-Lived's memory of a ford two hundred summers back. That is why the note holds. It is also why a grandchild can owe a walk they cannot point to.
+- **Ledan is Long-Lived.** The Cut-year 280 query is the same clerk Mataero is still junior to. Do not invent a second Ledan as a title unless play wants the house-name reused; the deathless reading is the one to keep.
+- **Mataero's blindness is the document.** Position: junior who must believe the house is a bank that happens to have rooms. Need: the conversion is competence. Lens: occupancy. Blindness: house custom *is* the credit. Do not have Ledan "explain" this unless play wants the older clerk to say it.
+- **Do not kill the Held name to tidy the ledger.** Do not move Thilim into this house. Two fates, two doors.
+- **Do not make this house Orentel's government.** The Salt Quay is a charter-council. The White Note is a desk.
+- **Hooks.** A due note this afternoon; the north bed occupied; Sorel's paper; a First-Hand year and a neighbour's week in the same loft; a Bound signing-watch as prestige; a pot-term that smells of earth; a court that wants a Cut-year; pairing a session with [[The Third Hearth]] so the two fates share a week.

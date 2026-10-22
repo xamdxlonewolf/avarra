@@ -10,7 +10,7 @@ category: artifact
 owner: "a thumb of dead wood in the lip of the basin at [[The Dry Stair]]"
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Dry Slip
@@ -26,7 +26,7 @@ People say the stair refused a mother. The rock was dry, the pecking was wrong f
 ## Links
 
 - [[The Dry Stair]] · [[Saelthael]] · [[The Taken-In]] · [[Turning Tree]]
-- [[The Spent Leaf]] — a different remainder; do not braid
+- [[The Spent Leaf]] — a different remainder
 - [[10 - Items]]
 
 ## GM Notes

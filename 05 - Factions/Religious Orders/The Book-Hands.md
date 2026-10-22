@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: fleshed
 status: active
-tags: [faction, religious-order, clergy, book-hands, fair-hand, leddoren, epic-5]
+tags: [faction, religious-order, clergy, book-hands, fair-hand, leddoren]
 aliases: [Book-Hands, Book-hands, The Leddhael, Leddhael, Settlers, The Settling-Hands]
 world: The Turning
 category: religious-order
@@ -12,13 +12,12 @@ seat: none — guild-rooms and quay-shrines; a "high house" is just the oldest b
 public_face: notaries who are also theologians — they witness signings, teach children how to keep a book, and settle a Struck's *civic* year; they do not rewrite a Bound's Terms
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # The Book-Hands
 
-> **What this is.** The working people of [[The Fair Hand]] (*Leddoren*) — the Book-hands sketched on that faith note, now built as a faction. They have **no seat** and **many tables**. On [[Polity Archetypes|Lestrand]] they are often the same people as commercial clerks; the faith *is* the profession, worn lightly.
-
+The Book-Hands are the working people of [[The Fair Hand]] (*Leddoren*). They have no seat and many tables. On [[Polity Archetypes|Lestrand]] they are often the same people as commercial clerks, and the faith is the profession, worn lightly.
 
 *(Everyday: **Book-hands**, or **Settlers.** Liturgical: **the Leddhael** — LEDD-hael — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* The Waiting Lands say **Bargainers' clerks**; the Ledger Coast says **the Settling-hands**; the Tallied Crown files them as **the Uncounted Book**.)*
 
@@ -39,11 +38,11 @@ updated: 2026-08-30
 - **No seat, many tables.** The Fair Hand has guild-rooms and quay-shrines, not a college in anyone's sacred wood. A "high house" in a rich port is the oldest book-room — age, not authority. The next quay has its own table and does not write to the first for leave.
 - **The faith is the profession.** A Book-hand witnesses a signing, teaches a child to keep a book, and helps a Struck settle a year that can actually be lived — a hall, a warrant, a neighbour who will stand. On Lestrand the same person may stamp a hull before noon and recite a Bound's oath-day after. Doctrine is the ethic of the stamp: *fair terms, then walk.* They copy a Bound's Terms. They do not author them.
 - **No membership roll.** A roll of Book-hands would be a Threnhael in a clerk's pocket. What makes you of the house is that you keep accounts honestly and will die to keep a crown-clerk out of a personal book. The house's one shared fury with every other faith is that subject.
-- **A settling-religion's clerks, not contract-paladins.** They do not ride. They do not hunt hidden terms as a knightly order. They sit at tables. The ~5% dial stays at the book that will not close — not at a devil's advocate in vestments.
+- **A settling-religion's clerks, not contract-paladins.** They do not ride. They do not hunt hidden terms as a knightly order. They sit at tables. The pressure they meet is the book that will not close, not a devil's advocate in vestments.
 
 ## What they actually do
 
-The faith already named the rites ([[The Fair Hand#Practice]]). This is the *desk* — who sits down, what gets written, what they refuse.
+The faith already named the rites ([[The Fair Hand#Marks you can see|The Fair Hand]]). This is the *desk* — who sits down, what gets written, what they refuse.
 
 ### If you meet one
 
@@ -138,9 +137,9 @@ Struck Book-hands must still be **vouched anew**. Civic settling is how the hous
 |---|---|---|
 | [[The Tree-Wardens]] | Leaf-Fall as festival *and* signing-watch. On Lestrand they share a square and ignore each other's sentences. | Gift-language vs. debt-language over the same Bound soul. A Bound warden is the seam; a Bound Book-hand is the house at home. |
 | [[The Watchers]] | Rarely share a square. "What falls, was seen" sounds, to a Settler, like a clause with no number. | A Bound who wants a second reading of an oath-day and a Watcher who will not call it a signing. |
-| [[The Old Ways]] | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first — kin, or payable year. Play as two courtesies, not a trial. |
-| [[The Open Table]] | A Settler who sits a moon-feast twice has been called kin in a language with no book. | Do not turn "no one is a stranger twice" into a term. That is this house leaking onto the isle. There is no Leddoren mission on [[The Sundering Isle\|Kumbaan]]. |
-| [[The Holding Desk]] | Upstairs / downstairs. A Settler who marked *owing* has made a customer. | **Unlock.** Follow them down. The honest stamp and the hold do not share a docket. A personhood case can start in this stair. |
+| [[The Old Ways]] | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first — kin, or payable year. It is two courtesies, not a trial. |
+| [[The Open Table]] | A Settler who sits a moon-feast twice has been called kin in a language with no book. | "No one is a stranger twice" is not a term in any book. There is no Leddoren mission on [[The Sundering Isle\|Kumbaan]]. |
+| [[The Holding Desk]] | Upstairs / downstairs. A Settler who marked *owing* has made a customer. | A clerk who follows a customer down the stair has started a case. The honest stamp and the hold do not share a docket, and a personhood case can start there. |
 
 ## How they live in the three corners
 
@@ -150,13 +149,13 @@ Struck Book-hands must still be **vouched anew**. Civic settling is how the hous
 
 ## The book that will not close (the order's injustice)
 
-Grace is a closed book. That is the house's kindness, and its cruelty.
+The house settles a person's year and closes the book. That is its kindness, and its cruelty.
 
-Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. A settled Mother-name would not make the fading kind, and would not convert a Bound's clause into a clerk's draft. The Fair Hand reads a cost as a price; the Leddhael are that reading *at a desk*, helping — except where the desk has no right to write.
+Every civic settling that saves a Struck who can pay is paid for, somewhere, by the Struck who cannot. The Book-hand sees one table. The quay sees a step-around. A settled Mother-name would not make the fading kind, and would not convert a Bound's clause into a clerk's draft. The Fair Hand reads a cost as a price. The Book-hands are that reading at a desk, helping, except where the desk has no right to write.
 
 Their other exposed edge is the Bound they *cannot* help. A clerk who will not rewrite Terms will watch someone walk down the quay looking for a cellar that will lie to them. That cellar has a face now: [[The Holding Desk]]. The refusal to rewrite remains honest; it is no longer a reason the clerk cannot follow. The lived face of illicit Tithe-supply remains [[The Slide]]. Sold vouching is [[The Standing Trade]]. They do not stamp those books either.
 
-This is not a hunt and not a queue. The Road-hands already walk the scion they were given leave to plant. Book-hands do not need a travelling underdog.
+This is not a hunt and not a queue. The Road-hands already walk the scion they were given leave to plant.
 
 ## Economy of the house
 
@@ -168,11 +167,11 @@ They are **not** the Tithe-infrastructure sector and **not** a safety-guild. The
 
 ## In-world text
 
-*A civic settling, Lestrand quay-hand, written the week after a drowning came back Far-Voiced and could not pay a singer's Tithe in a town that had no ael-hall. The verso has the old storm-terms of *the year*, struck through — not a Bound's clause. `oblique-worldbuilding`.*
+*A civic settling, Lestrand quay-hand, written the week after a drowning came back Far-Voiced and could not pay a singer's Tithe in a town that had no ael-hall. The verso has the old storm-terms of *the year*, struck through — not a Bound's clause.*
 
 > *Grant: the voice, already carried. Old term: a hall that is not here. New term: one honest outlet each seventh day at the release-house in Greyhull, passage stamped, warrant by M. Senn the hull-clerk. If the seventh day is missed, the book is owing, not broken. Walk, if you can walk. If you cannot, the quay will not call it a gift.*
 
-On its face: the house's kindness — a storm-book rewritten so a person can live. Underneath: the house's whole case against the Mother, and the fade confessing itself. "The quay will not call it a gift" is honest and is also the step-around, sacralized. Greyhull's release-house will take the seventh day. The eighth week the passage-money fails, the slip will still be fair, and the person will still be a book that would not close.
+The slip is the house's kindness: a storm-book rewritten so a person can live. "The quay will not call it a gift" is honest, and it is also how the quay steps around the person. Greyhull's release-house will take the seventh day. The eighth week the passage-money fails, the slip will still be fair, and the person will still owe a book that does not close.
 
 ## Links
 - [[The Fair Hand]] — the faith this house keeps · [[Faiths of the Turning]]
@@ -181,36 +180,24 @@ On its face: the house's kindness — a storm-book rewritten so a person can liv
 - [[Tithe-Infrastructure]] · [[The Hall-Keepers]] · [[The Greens-Keepers]] — the hall and share a settling may assume
 - [[Strandoren]] · [[Polity Archetypes|Lestrand]] · [[Naming in the Turning]] (the Uncounted Book)
 - [[The Old Tongue]] (Leddhael) · [[Kinds of the Turning]]
-- [[The Child at Four Doors]] · [[Roadmap]] · [[05 - Factions]]
+- [[The Child at Four Doors]] · [[05 - Factions]]
 
 ## GM Notes
 
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- > **What this is.** The working people of [[The Fair Hand]] (*Leddoren*) — the Book-hands sketched on that faith note, now built as a faction. They have **no seat** and **many tables**. On [[Polity Archetypes|Lestrand]] they are often the same people as commercial clerks; the faith *is* the profession, worn lightly. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.2]]. The faith itself is done; this note does not rebuild it.
-- > **Canon status.** 🟡 **Proposed** (the liturgical name, whether the oldest book-room is first-among-equals or just old, whether they refuse any membership roll). 🔒 **Locked upstream:** Book-hands exist; they witness signings; personal books are not the [[Naming in the Turning|Threnhael]]; they recruit by faith / office / Condition-lean, never by [[Kinds of the Turning|Kind]]. 🔒 **Taste call 2026-08-23:** they do **not** rewrite a [[Bound]]'s Terms. That clause belongs to the Counterparty. They may *witness an ask*; they do not dictate.
-- - [[The Child at Four Doors]] · [[Roadmap]] (Epic 5, Story 5.2) · [[05 - Factions]]
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
-
+- **What this is.** The Book-hands have no seat and many tables. The faith itself is on [[The Fair Hand]]; this note does not rebuild it.
+- **Canon.** Book-hands exist. They witness signings. Personal books are not the [[Naming in the Turning|Threnhael]]. They recruit by faith, office, and Condition-lean, never by [[Kinds of the Turning|Kind]]. They do **not** rewrite a [[Bound]]'s Terms. That clause belongs to the Counterparty. They may *witness an ask*; they do not dictate.
+- **The slip's last turn, read by the GM.** The house's whole case against the Mother is in it, and so is the fade confessing itself: "the quay will not call it a gift" is honest, and it is also the step-around, sacralized.
 - **Wrong about the verb, right about the ache — now wearing a stamp.** Per the keystone, Leaf-Fall is a gift, not a signing. Per [[The Other Hands]], *Orledd* answers sworn asks; the Fair Hand is right about that door and wrong that every becoming is a bargain. Do not let a Book-hand retcon a Given child into a debtor. **Do not let a Book-hand rewrite Orledd's clause.** A petition-watch is *keeping the door* (purchase); it is not acolyte-authority. Do not play them as devil-worship, devil-acolytes, or capitalism-cosplay. They are as sincere as the Orenhael.
 - **The Slide is the lived shadow house.** They own a Tithe-week, not a stamp. Do not give anyone a magic stamp that authors Terms. Do not fold sold-vouching or Bound-easing into either desk.
 - **Name collision to avoid.** *Orledd* (the Counterparty) is already *oren* + *ledd* in reverse. This house's liturgical name is **Leddhael**, not *Orenledd*. If you swap the coinage, do not land on Orledd's roots.
-- **The injustice is the closed book of the rich and the owing of the poor.** Causal + social distance: the Book-hand sees one table; the quay sees a step-around; Lestrand's "the free" for the Kept is the same market wearing a theology. A Tithe-poor Settler is still a person the city steps around.
-- **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins or Orledd-acolytes. If you need an underdog, do not send Book-hands up the pilgrim road with a scion. Their exposed edge is civic settling — and the Bound they cannot help. Tithe-infra is [[Tithe-Infrastructure]]; the underdog there is [[The Intake]].
-- **Taste still open (do not treat as locked).**
+- **The injustice is the closed book of the rich and the owing of the poor.** The Book-hand sees one table; the quay sees a step-around; Lestrand's "the free" for the Kept is the same market wearing a theology. A Tithe-poor Settler is still a person the city steps around.
+- **Do not clone the Orenhael.** No seat, no four offices, no Road-hand circuit, no graft-cart. Do not invent contract-paladins or Orledd-acolytes. Do not send Book-hands up the pilgrim road with a scion or give them a travelling underdog. Their exposed edge is civic settling — and the Bound they cannot help. Tithe-infrastructure is [[Tithe-Infrastructure]]; the underdog there is [[The Intake]].
+- **Taste still open.**
   1. **The name *Leddhael.*** Everyday *Book-hands* / *Settlers* is already in canon. Swap or drop the coinage. Not *Orenledd*.
-  2. **No membership roll.** Proposed — a roll would be a Threnhael. The other clean option: the oldest book-room in a port keeps a *table-list* of who may stamp that quay, and nowhere else.
-  3. **High house = age, not authority.** Proposed. First-among-equals (a yearly settling at the oldest room) is a later polish if play needs a face. Do not grow a High Notary pope.
-  4. **Civic settling as kindness and cruelty in one motion.** Load-bearing for non-Bound Struck. Bound Terms stay with the Counterparty.
-  5. **Not Orledd's acolytes.** Load-bearing unless you reopen it. A petition-watch is the closest honest tie. Dictating terms would make them a devil-church and flatten the Book Alone branch.
+  2. **No membership roll.** A roll would be a Threnhael. The other clean option: the oldest book-room in a port keeps a *table-list* of who may stamp that quay, and nowhere else.
+  3. **High house = age, not authority.** First-among-equals (a yearly settling at the oldest room) is a later option if play needs a face. Do not grow a High Notary pope.
+  4. **Civic settling as kindness and cruelty in one motion.** Bound Terms stay with the Counterparty.
+  5. **Not Orledd's acolytes.** A petition-watch is the closest honest tie. Dictating terms would make them a devil-church and flatten the Book Alone branch.
 - **Do not invent a Kumbaan counting-house or a Kind-notary.**
+- **Names.** The liturgical form *Leddhael* — LEDD-hael — is [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who keep the account fair enough that you can walk. The Waiting Lands say *Bargainers' clerks*; the Ledger Coast says *the Settling-hands*; the Tallied Crown files them as *the Uncounted Book*.
 - **Hooks.** A personal book the crown wants copied; a civic settling the party is asked to warrant; a Bound who wants the clause changed and is sent down the quay; a petition-watch that answers (or does not); a high house that will not take Tithe-poor closings; Greyhull's seventh day coming due on the road.
-
-#### Taste-open markers (P2.1)
-
-The names and other taste calls remain open; only their editorial markers moved out of player text:
-
-- *(Everyday: **Book-hands**, or **Settlers.** Liturgical, 🟡: **the Leddhael** — LEDD-hael — [[The Old Tongue|ledd]] "to reckon" + [[The Old Tongue|hael]] "whole": those who *keep the account fair enough that you can walk.* The Waiting Lands say **Bargainers' clerks**; the Ledger Coast says **the Settling-hands**; the Tallied Crown files them as **the Uncounted Book**.)*
-- - [[The Old Tongue]] (Leddhael 🟡) · [[Kinds of the Turning]]

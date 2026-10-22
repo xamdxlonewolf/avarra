@@ -9,7 +9,7 @@ campaign: "[[The Isolated Fall]]"
 world: The Turning
 reveals: [when-the-fire-is-caught]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Opening
@@ -18,16 +18,16 @@ updated: 2026-08-31
 
 | | |
 |---|---|
-| **Sits** | [[Harrow's Green]], Hale-month, C.Y. 387. Next week is Eolthael ([[The Reckoning of the Year]]). |
+| **Sits** | [[Harrow's Green]], Hale-month, Cut-year 387. Next week is Eolthael ([[The Reckoning of the Year]]). |
 | **On-screen** | The walker · [[Rosire]] · the new Gift ([[Taeren]] *or* a PC in that seat) · Haelin · Tora of Brenod |
 | **Offstage** | [[Reimaethe]] · [[Hithaen]] · Vimein · Tesara's week · the Care as a place you can walk into |
 | **Do not** | Invent a Protector fortress. Lead with a second bird. Confirm her. Name the cutter. Date the Tree. Coin liturgy. Add a sixteenth power. Resume the old Epic 8 roster. |
 
 ## Where it sits
 
-**One existing square: [[Harrow's Green]].** Live front, not a seat. The leftover job is still necessity — room for the crowd, water on the stone, a neighbour's week that can walk home. Session one happens *during that day*, not instead of it.
+**One existing square: [[Harrow's Green]].** Live front, not a seat. The square's own job is still necessity — room for the crowd, water on the stone, a neighbour's week that can walk home. Session one happens *during that day*, not instead of it.
 
-The isolated fall is last Eolthael's neighbour's week, not a new Tree. [[Taeren]] is of Brenod, not of Harrow's. They Turned at the canopy the hamlets can see. Haelin did not Speak white-fire. The witness never walked home. That is why the child is still in the square when Hale-month extra mouths arrive.
+The isolated fall is last Eolthael's neighbour's week, not a new Tree. [[Taeren]] is of Brenod, not of Harrow's. They Turned at the canopy the hamlets can see. Haelin did not Speak white-fire. The witness never walked home. That is why the child is still in the square when the Hale-month visitors arrive.
 
 [[Rosire]] is of [[Orentel]]. They are not on Tesara's water this week. They walked the Long Mile with someone who burns, and they took an upper-room bed Haelin will not always name. A pot is not a pilgrim. A pilgrim is not a pot. These two are the thing the notice will not say.
 
@@ -49,13 +49,13 @@ If the table wants a **walker-PC who can still Rise**, that PC *is* the Gift and
 
 ## Opening situation
 
-Hale-month. Dust. Extra mouths. The stone is still the day's drink and still in the way of the crowd that Eolthael will need. Haelin's cistern-notice is up. Tora of Brenod is here because the next column still drinks there, and because last year's Brenod child was seen under the canopy and has not been walked home.
+Hale-month. Dust. Extra visitors. The stone is still the day's drink and still in the way of the crowd that Eolthael will need. Haelin's cistern-notice is up. Tora of Brenod is here because the next column still drinks there, and because last year's Brenod child was seen under the canopy and has not been walked home.
 
 Under the boughs: heat that is not the season. A hymn that uses a name the child does not own. Haelin Speaks slowly. The hearth still keeps Nathdo's letter ([[The Wrong Green]]). White-fire is the loud cousin of that wound. They will not make history in a square that already had to say a second word.
 
 Upstairs: a guest with more crossed lives than they can tell, and a ticket-hand who brings water and does not talk about travel. A closed travelling-lamp that should have gone cold.
 
-The square talks about the Phoenix in two tenses in the same sentence. The one is in care. Nobody here has seen them. Leaf-Fall is next month. Someone will ask if the one is coming. Haelin has a Tree. They do not have a legend.
+The square talks about the Phoenix in two tenses in the same sentence. The one is in care. Nobody here has seen them. Leaf-Fall comes inside Eolthael, which begins next week. Someone will ask if the one is coming. Haelin has a Tree. They do not have a legend.
 
 That is the situation. It does not tell the party what to want.
 
@@ -66,7 +66,7 @@ Keep this list in front of you. If it is not on this list, do not volunteer it.
 - A live-front square doing a necessity-day: ropes, water, Hale-dust, hamlets visible down the slope.
 - Civic talk: the Phoenix *should* exist; the one is in care; no town has seen them in a generation.
 - A Brenod child (or the PC in that seat) whose hands hold heat, who asks ordinary questions, who has been told not to be a story.
-- Haelin will not name last Eolthael's colour. Tora needs a mouth that will walk a witnessing home. Those two wants collide in the square without being a Phoenix plot.
+- Haelin will not name last Eolthael's colour. Tora needs someone who will walk a witnessing home. Those two wants collide in the square without being a Phoenix plot.
 - An upper-room guest who burns like a story and cannot account for their scars. Wings furled. They pass, until they don't.
 - Rosire's flinch at a room that has been cleared and laid with sand. Grey under the nails. Water. No travel-talk.
 - A closed lamp that leans toward the new Gift, and still knows an old name.
@@ -105,11 +105,11 @@ Someone asks, as civic talk, whether the one is coming for Leaf-Fall. A neighbou
 
 **What changes:** the table notices the world *knows* a Phoenix should exist and has stopped seeing one.
 
-**Bridge:** the same mouths will argue the stone. Let the necessity-day keep running while the hole sits there.
+**Bridge:** the same people will argue the stone. Let the necessity-day keep running while the hole sits there.
 
 ### 2. White that nobody Spoke
 
-**Wonder — initial encounter.** The isolated fall, met in the leftover of it.
+**Wonder — initial encounter.** The isolated fall, met after it has happened.
 
 Last Eolthael, a Brenod child stood at Harrow's Tree. Something white. Haelin did not Speak it. The child is still here because a colour that is not civic cannot be walked home as a witnessing. Heat in the hands they do not show in a gift-hall. They ask: is there bread. Why does that hymn use a name I do not own.
 
@@ -133,7 +133,7 @@ Rosire brings water. They do not explain the guest.
 
 **What changes:** the table has two burning facts that do not fit one story — a child the hymns are not about, and a legend who cannot account for their count.
 
-### 4. The lamp that knows two mouths
+### 4. The lamp that answers two people
 
 **Wrongness glimpse (~5%) / mystery — pattern.** Harvested fire answering the new Gift.
 
@@ -176,7 +176,7 @@ A cleared room. Sand. They flinch. A visitor's slip from a hospice that will not
 
 ## Voices
 
-Each mouth does more than one job. Do not let them all explain the Phoenix. Cover the tags: you should still know who spoke.
+Each speaker does more than one job. Do not let them all explain the Phoenix. Cover the tags: you should still know who spoke.
 
 ### Haelin *(HAY-lin)* — town-warden
 
@@ -191,7 +191,7 @@ Each mouth does more than one job. Do not let them all explain the Phoenix. Cove
 
 ### Tora *(TOR-ah)* of Brenod
 
-- **Want they will say:** a mouth that was *there* walks the witnessing home. Water stays on the stone.
+- **Want they will say:** someone who was *there* walks the witnessing home. Water stays on the stone.
 - **Avoid:** Harrow's luck-talk. Calling the child a story.
 - **Hidden:** none about fire. They are not in that plot. Haelin's hush is starving a kitchen, and that is enough.
 - **Rhythm:** longer than Haelin when the subject is the ford. Duty, not gospel.
@@ -231,14 +231,14 @@ Do not give them a byname this session to make the guest-book tidy. Haelin's not
 
 ## How the party is here (pick one; do not stack a crew)
 
-The square is already doing a day. The party is extra mouths, not a summoned fellowship.
+The square is already doing a day. The party is extra visitors, not a summoned fellowship.
 
 1. **Hands on the stone.** Haelin needs ropes and backs. Wages in bread and a bed upstairs.
-2. **A mouth for Brenod.** Tora will take anyone who stood under the canopy and will walk home. They will not take a sermon.
+2. **A witness for Brenod.** Tora will take anyone who stood under the canopy and will walk home. They will not take a sermon.
 3. **Hale-month beds.** The upper room opens for the neighbour's week and for dust-season overflow. You were vouched enough to sleep.
 4. **A letter that was not for you.** A hush-colour, a pot-chain, a Road-hand's ask. You carried it to the live front. You were not hired to find a Phoenix.
 
-Do not start with Vaethod sending the party as a plot. A send from [[Eolvaeth]] can be *one* of these if a PC already has that tie. Vaethod does not arrive. [[Tesara]] does not arrive. The White Note does not file this square.
+Do not start with Vaethod sending the party as a plot. Someone Vaethod sent from [[Eolvaeth]] can be *one* of these if a PC already has that tie. Vaethod does not arrive. [[Tesara]] does not arrive. The White Note does not file this square.
 
 Road-word is enough to be here: name, last hearth, who stands. Two will do ([[At the Table]]).
 

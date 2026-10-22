@@ -11,7 +11,7 @@ region: "[[Netstrand]]"
 population: a harbour city, smaller than Orentel
 reveals: [keystone-adjacent]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Braetu
@@ -23,7 +23,7 @@ updated: 2026-10-03
 | | |
 |---|---|
 | **Want** | A far crossing quoted in the open. A lamp on a name. The unlit berth left without a house. |
-| **Have** | The quote-desk, the dark book, one unlit berth, one mouth. |
+| **Have** | The quote-desk, the dark book, one unlit berth, one named person. |
 | **Fear** | A house attached to the dark berth. A First-Hand year crowned on this quay. |
 | **Live conflict** | The lamp is a charge. One berth stays dark, and nobody is billed for it. |
 | **Enters a scene** | A spill from the cook-fire. A figure blotted and written again. A hand on a ring, and no line hung. |
@@ -43,7 +43,7 @@ They keep a **dark book**: quoted crossings that did not come back. Houses pay t
 
 Faith is mixed and worn light. Quay-charms stay off the charter. A Hand stands back from the working water. Trees along this edge are mature. The harbour's worry is a hull past the last forecast anyone trusted.
 
-**Leftover job on this street: the quoted far.** The origin-winter is not this city's to crown. A lamp on a name that will not come back is charged as watch.
+Braetu sells far crossings and paid lamps. It does not sell First-Hand years; the origin-winter is not this city's to crown. A lamp on a name that will not come back is charged as watch.
 
 ## Ways in
 
@@ -73,9 +73,16 @@ People leaving the harbour touch the unlit berth's ring, and do not hang a line 
 
 ## People
 
-One mouth. Not a court. Not a house on the dark berth.
+One person. Not a court. Not a house on the dark berth.
 
 - **[[Mursur]]** — quotes the far crossing, and keeps a lamp on a name.
+
+## Links
+- [[Netstrand]] · [[Powers of the Turning]] · [[Strandoren]] · [[Named Ground]]
+- [[Orentel]] · [[The White Note House]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[The Hinge Hush]] · [[The First Cut]] · [[Selkie]] · [[Kinds of the Turning]] · [[Lirorn]]
+- [[Mursur]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]]
 
 ## GM Notes
 
@@ -87,10 +94,3 @@ One mouth. Not a court. Not a house on the dark berth.
 - **Habits.** Three. The count is full. A later note must not explain them, and must not turn them into a power, a relic, or a rite. The hand on the ring does not attach a house.
 - **One tension.** A paid lamp, and one berth with no one to bill. Do not add a ward-grid. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.
-
-## Links
-- [[Netstrand]] · [[Powers of the Turning]] · [[Strandoren]] · [[Named Ground]]
-- [[Orentel]] · [[The White Note House]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[The Hinge Hush]] · [[The First Cut]] · [[Selkie]] · [[Kinds of the Turning]] · [[Lirorn]]
-- [[Mursur]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]]

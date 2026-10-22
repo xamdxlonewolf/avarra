@@ -13,7 +13,7 @@ location: "[[Seinbrun]]"
 role: carrier of the furnished medicine
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Raermu
@@ -50,12 +50,12 @@ A covered basket, the latch thumbed open while they are still in the lane. Quiet
 - **[[Breillai]]** — a step the stock may not cross. Raermu has not decided what their hands will do if they are already holding the basket.
 - **[[Seinbrun]]** — the work of medicine, beside the hall. Not a second office.
 
+## Links
+- [[Seinbrun]] · [[Maiethvael]] · [[Vuthbraen]] · [[Breillai]]
+- [[The Stillers]] · [[People of the Turning]] · [[08 - People]]
+
 ## GM Notes
 
 - **Not a licence.** The Stillers, the Element-Guilds, and the Intake stay the body-licences. Raermu is a guild basket in a city with no crown channel.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — position 56.
 - **The latch is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-
-## Links
-- [[Seinbrun]] · [[Maiethvael]] · [[Vuthbraen]] · [[Breillai]]
-- [[The Stillers]] · [[People of the Turning]] · [[08 - People]]

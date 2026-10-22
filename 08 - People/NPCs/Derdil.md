@@ -13,7 +13,7 @@ location: "[[Naenor]]"
 role: the signing-watch
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Derdil
@@ -42,7 +42,7 @@ A household that calls a colour a gift is still, in this statute, a credit the c
 
 ## Appearance & Demeanor
 
-Wax under a nail. They face the speaker, not the Tree, when the page is open. They use a given name. A house, offered to sound important, is sent back as the wrong mouth.
+Wax under a nail. They face the speaker, not the Tree, when the page is open. They use a given name. A house, offered to sound important, is sent back as the wrong name.
 
 ## Role & Relationships
 
@@ -51,12 +51,12 @@ Wax under a nail. They face the speaker, not the Tree, when the page is open. Th
 - **[[Orentel]]** — wins the berth this city does not hold. A First-Hand year is not Derdil's product.
 - **[[The Fair Hand]]** — the reading the city made civic. Derdil services the term. They are not a prophet.
 
-## GM Notes
-
-- **Not a Book-Hand seat.** One mouth at Naenor. Do not rewrite Bound Terms. Do not invent a house. Do not put a Kind-name in the civic slot.
-- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261019 --register eroded --count 80` — position 60. Full throwback list on [[Naenor]].
-- **The warmed stamp is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-
 ## Links
 - [[Naenor]] · [[Leddvael]] · [[The Fair Hand]] · [[The Book-Hands]] · [[Bound]]
 - [[Orentel]] · [[People of the Turning]] · [[08 - People]]
+
+## GM Notes
+
+- **Not a Book-Hand seat.** One person at Naenor. Do not rewrite Bound Terms. Do not invent a house. Do not put a Kind-name in the civic slot.
+- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261019 --register eroded --count 80` — position 60. Full throwback list on [[Naenor]].
+- **The warmed stamp is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.

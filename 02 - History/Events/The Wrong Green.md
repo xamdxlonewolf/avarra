@@ -7,15 +7,15 @@ tags: [event, history, religion, leaf-fall, speaking, harrow]
 aliases: [The Harrow Mis-Speaking, The Hug That Was Named, Nathdo's Green]
 world: The Turning
 era: "[[The Years of Hands]]"
-date_in_world: C.Y. 248
+date_in_world: Cut-year 248
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # The Wrong Green
 
-> **The shadow the rite still carries.** In C.Y. 248, at [[Harrow's Green]], a warden named a hug as copper-green. The child was sent to the garden-common. The green did not take, because there was no Tithe to pay. Speakers still cite the year when they teach a town-hearth not to Speak what the town wishes it had. Full Leaf-Fall procedure: [[Turning Tree#Questions a warden gets asked]].
+> **The shadow the rite still carries.** In Cut-year 248, at [[Harrow's Green]], a warden named a hug as copper-green. The child was sent to the garden-common. The green did not take, because there was no Tithe to pay. Speakers still cite the year when they teach a town-hearth not to Speak what the town wishes it had. Full Leaf-Fall procedure: [[Turning Tree#Questions a warden gets asked]].
 
 
 ## What happened (as the square tells it)
@@ -26,7 +26,7 @@ updated: 2026-10-01
 
 Two summers later a visiting Speaker — sent because a garden-common cannot teach a child who will not root — walks the same boughs, asks who saw the fall, and says the green was the Tree's own. Ordinary summer-green. A hug. One of the [[The Premise|Kept]]. There had never been a Tithe.
 
-Nathdo does not recant the first summer. Recanting a Speaking is a civic tear: guilds opened, a neighbour's week already told, a child already called *green-hand* at the cistern. The Seat letter that arrives in C.Y. 250 does not ask for a second Leaf-Fall. It asks for a second *word*.
+Nathdo does not recant the first summer. Recanting a Speaking is a civic tear: guilds opened, a neighbour's week already told, a child already called *green-hand* at the cistern. The Seat letter that arrives in Cut-year 250 does not ask for a second Leaf-Fall. It asks for a second *word*.
 
 The child lives. They are not a ghost story. They are a person who spent two years trying to tend a gift they had not been given, in a town that needed the gift more than it needed to be careful.
 
@@ -41,7 +41,7 @@ Vaethorn tells it as pride. Lestrand tells it as a bad ticket. The Watching, if 
 
 ## In-world text
 
-*A First Seat correction, carried north in C.Y. 250 with a Road-hand who had other wood to plant. The verso is a packing list. The recto is the whole case. `oblique-worldbuilding`.*
+*A First Seat correction, carried north in Cut-year 250 with a Road-hand who had other wood to plant. The verso is a packing list. The recto is the whole case.*
 
 > *Harrow's green, Eolthael 248. The fall was gathered leaves, no naming colour. The Speaking said copper-green. The child was set to the common. The common could not teach them. Do not stand them again. Speak the hug, and let the neighbour's week hear the second word as well as the first. A town may want a green-hand. A Tree does not take instruction from a want. If the soil is thin, write for carrying-earth. Do not write a colour onto a child to thicken it.*
 
@@ -49,7 +49,7 @@ The clerk who wrote it can see horticulture and a queue. They cannot see the two
 
 ## Links
 - [[Turning Tree]] — the rite and the warden questions · [[The Tree-Wardens]] — why the Speaking is civic
-- [[The Houses and the Years]] — door. The case stays here.
+- [[The Houses and the Years]] — the religious history of these years. The case stays here.
 - [[Harrow's Green]] · [[The Years of Hands]] · [[The Reckoning of the Year]]
 - [[The Taken-In]] · [[The Premise]] · [[The Leaf-Mother]]
 - [[02 - History]] · [[07 - Religion]]

@@ -11,7 +11,7 @@ region: "[[The Hinge Shore]]"
 population: one of the largest cities, because the crossing is why the people are there
 reveals: [keystone-adjacent]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Votaer
@@ -23,11 +23,11 @@ updated: 2026-10-03
 | | |
 |---|---|
 | **Want** | One docket for a hull that is also a pilgrim. A rate that is not called a victory. |
-| **Have** | The classification quay, the Hush-rate, a healthy Hand back from the water, two mouths. |
+| **Have** | The classification quay, the Hush-rate, a healthy Hand back from the water, two named people. |
 | **Fear** | A hymn and a category in the same breath, and a household that needed a third word. Lestrand's price arriving as if it had been written here. |
 | **Live conflict** | They bless as they file. |
 | **Enters a scene** | A chalk mark under the waterline. A last coin taken back out of the box. A bell for a sail that is not in sight. |
-| **How this city talks** | Two mouths on one quay. The docket is not a family. |
+| **How this city talks** | Two people work one quay, one writing the hull and one charging the rate. The docket is not a family. |
 
 ## Overview
 
@@ -41,7 +41,7 @@ Trees on this shore are healthy. This is still the Motherland. Faith is worn thi
 
 [[Selkie]] families work these quays, as they do on any old water. The docket does not belong to a hearth.
 
-**Leftover job on this street: the class of the hull.** Pilgrimage and cargo share a bell. The rate is old custom from [[The Hinge Hush]]. They will not call it a victory.
+The city's daily work is deciding the class of each hull. Pilgrimage and cargo share a bell. The rate is old custom from [[The Hinge Hush]]. They will not call it a victory.
 
 ## Ways in
 
@@ -55,7 +55,7 @@ Water for the city is rain and the casks a quay keeps. Food is the shore's catch
 
 The work happens on the **classification quay**.
 
-[[Tumair]] writes the hull: pilgrim, pot, person, or cargo. [[Lertho]] charges the Hush-rate on the same water. A neighbour says the given name. A stranger hears *of Votaer*. The quay does not file a family. There is no house to put first. [[Taerso]] spoke the Hush for the hinge-houses. Taerso is a desk in the memory of the rate, not a living clerk, and not either of these two.
+[[Tumair]] writes the hull: pilgrim, pot, person, or cargo. [[Lertho]] charges the Hush-rate on the same water. A neighbour says the given name. A stranger hears *of Votaer*. The quay does not file a family. There is no house to put first. [[Taerso]] spoke the Hush for the hinge-houses. Taerso is dead. Taerso spoke the Hush in Cut-year 304, and the rate is remembered as Taerso's. Taerso is not a living clerk and not either of these two.
 
 [[The Standing Trade]] uses this face more often than Orentel, because a standing has to travel and a hinge has two sides. That trade is not the city's office.
 
@@ -75,10 +75,17 @@ A dry net hangs on the blessing-rail on days when no one asks for a hymn. The qu
 
 ## People
 
-Two mouths. Not a court. Not a hearth-flag.
+Two people. Not a court. Not a hearth-flag.
 
 - **[[Tumair]]** — writes the class of the hull.
 - **[[Lertho]]** — charges the Hush-rate.
+
+## Links
+- [[The Hinge Shore]] · [[Powers of the Turning]] · [[Maiethorn]] · [[Named Ground]]
+- [[Orentel]] · [[The Down-Bank]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Standing Trade]]
+- [[Taerso]] · [[Selkie]] · [[Kinds of the Turning]]
+- [[Tumair]] · [[Lertho]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]]
 
 ## GM Notes
 
@@ -88,10 +95,3 @@ Two mouths. Not a court. Not a hearth-flag.
 - **Habits.** Four. The count is full. A later note must not explain them, and must not turn them into a power, a relic, or a rite.
 - **One tension.** Category and blessing in one breath. Do not add a ward-grid. Do not give the city the White Note or a price. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.
-
-## Links
-- [[The Hinge Shore]] · [[Powers of the Turning]] · [[Maiethorn]] · [[Named Ground]]
-- [[Orentel]] · [[The Down-Bank]] · [[The Hinge Hush]] · [[The Grey Summer]] · [[The Standing Trade]]
-- [[Taerso]] · [[Selkie]] · [[Kinds of the Turning]]
-- [[Tumair]] · [[Lertho]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]]

@@ -10,7 +10,7 @@ aliases: [Sundering Isle Climate, Kumbaan Weather, Climate of the Sundering Isle
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Climate of Kumbaan
@@ -25,7 +25,7 @@ There is no Tree here. No graft crossed. Dead wood is not a Tree, and a wrecked 
 |---|---|
 | **Weather this week** | Mild rain under low cloud; one bright moonlit night; reef thunder without local wind; then a wall-squall that closes the shallows and soaks the peat stacks. |
 | **What you can eat** | Barley broth, oats, beans, peas, cabbage, turnips, onions, goat milk or cheese; mussels, limpets, fish, seaweed, berries, mushrooms, and hazel nuts in season. |
-| **What can enter a scene** | A terrace wall slumping; unseen hands bringing wet baskets in; shellfish sickness after a storm; a peat fire smoking through a day-room; a wreck adding mouths to a hall; goats loose above the turf. |
+| **What can enter a scene** | A terrace wall slumping; unseen hands bringing wet baskets in; shellfish sickness after a storm; a peat fire smoking through a day-room; a wreck adding guests to a hall; goats loose above the turf. |
 
 ## Moons are dates; weather is what happened
 

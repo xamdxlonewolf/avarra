@@ -3,12 +3,12 @@ title: The Child Who Climbed the Stone
 type: myth
 visibility: player
 note_status: fleshed
-tags: [myth, religion, paradox-fable, teaching-story, epic-6, hands, residues]
+tags: [myth, religion, paradox-fable, teaching-story, hands, residues]
 aliases: [The Stone in the Square, How a Grave Learned to Be a Step, The Climbing Child]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Child Who Climbed the Stone
@@ -45,6 +45,12 @@ Afterward they put it back. Sometimes in the same socket.
 - Past the ford, children play without a centre stone. **Here** stands where the canopy can be seen. No one agrees whether that is mockery.
 - Adults tell the game as a story only after they have forgotten how to lose it.
 
+## Links
+- [[The Years of Hands]] · [[The Ages of the Turning]] · [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child at Four Doors]]
+- [[The Walking Years]] · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
+- [[Turning Tree]] · [[The Tree-Wardens]] · [[The Old Ways]] · [[The Watching]]
+- [[07 - Religion]]
+
 ## GM Notes (the buried truth)
 
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
@@ -52,9 +58,3 @@ Afterward they put it back. Sometimes in the same socket.
 - **The paradox is enacted, not explained.** The marker is obsolete enough to obstruct a cart and current enough to stop the game when walkers arrive. Moving it and restoring it are both ordinary acts, not rival morals.
 - **Use it in a scene.** Let a chase cut through the line, let a PC be assigned Here, or let a walking family arrive while the party is listening. The square supplies voices without an NPC reciting doctrine.
 - **No official ending.** The physical interruption is the ending. Do not add a verdict from the Mother, the Seat, or the GM.
-
-## Links
-- [[The Years of Hands]] · [[The Ages of the Turning]] · [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child at Four Doors]]
-- [[The Walking Years]] · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
-- [[Turning Tree]] · [[The Tree-Wardens]] · [[The Old Ways]] · [[The Watching]]
-- [[07 - Religion]] · [[Roadmap]] (Story 6.4)

@@ -9,7 +9,7 @@ aliases: [The Hour Someone Is Struck, The Struck Hour, When a Person Changes]
 world: The Turning
 reveals: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # When Someone Is Struck
@@ -20,7 +20,7 @@ updated: 2026-10-01
 
 [[Orentel]], under the pilings, on a tide that should have been ordinary. They haul a person up who went in as one of the gang and comes up with a voice that does not fit the chest, or with a calm the morning did not have. The gang does not have the word yet. They will.
 
-The hour is shoulders, water, a coat. Count the breaths. Do not walk them to Tallo. Do not ask which story the voice belongs to. A book-hand who opens a book over a person who cannot yet refuse a line is told to shut it by whoever is holding the head. Tomorrow, if they can refuse. The civic settling, if there is one, is a daylight errand.
+The hour is shoulders, water, a coat. They count the breaths. They do not walk them to Tallo, and they do not ask which story the voice belongs to. A book-hand who opens a book over a person who cannot yet refuse a line is told to shut it by whoever is holding the head. Tomorrow, if they can refuse. The civic settling, if there is one, is a daylight errand.
 
 Someone will say **Struck** before the coat is fastened. Someone will say the old rite reached. Someone will say a term opened in a storm. The person in the coat is still coughing. The argument can have the morning. The Uncoloured slips a hall writes afterward are [[The Uncoloured Intake]]. They are not this hour.
 
@@ -38,9 +38,9 @@ Rare, and the hall treats it as family news once there is a name for it. [[Njund
 
 ## The same hour, other doors
 
-An oath in a back room: take the pen out of the hand until the person can hear the clause they are still saying yes to. A death that did not finish: keep them warm, and do not assign the unfinished work tonight. A family that knows them can already tell, later, by an embrace, whether that work is being tended ([[Daily Life]]). A person the ground held and then released, or a person who came out of the trees changed: feed them, and do not bring them to a canopy tonight.
+An oath in a back room: they take the pen out of the hand until the person can hear the clause they are still saying yes to. A death that did not finish: they keep them warm and do not name their Purpose tonight. A family that knows them can tell, later, by a touch, whether the Purpose is being tended, because a Returned who is settling goes cool ([[Daily Life]]). Someone who was turned to stone and came back, or someone who came out of the deep wild changed: feed them, and do not bring them to a canopy tonight.
 
-The tenth year, if they are still inside it, is a different problem and a short one. Bring them to be welcomed if the week is still open. Do not stand them for a second life. The row for an already-Struck child is on [[Turning Tree]].
+The tenth year, if they are still inside it, is a different problem and a short one. They bring them to be welcomed if the week is still open. They do not stand them for a second life. The row for an already-Struck child is on [[Turning Tree]].
 
 ## Links
 

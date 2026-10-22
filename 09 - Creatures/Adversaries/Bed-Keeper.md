@@ -8,17 +8,17 @@ tags: [adversary, leader, travel, long-mile, daggerheart]
 aliases: [The Bed That Will Not Empty, Road-house keeper]
 world: The Turning
 category: people
-habitat: leftover road-houses on the Long Mile
+habitat: road-houses still open on the Long Mile
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Bed-Keeper
 
-Tier 1 Leader. Someone who still makes the bed after the walk ended. Hospitality as a hold. They want the upper room occupied. They will feed you. They will not like the door.
+Tier 1 Leader. Someone who still makes the bed after the walk ended. They keep guests from leaving by feeding them and holding them to guest-right, and they get angry when a guest goes. They want the upper room occupied.
 
-**Motives & Tactics:** seat you · ask which walk · fill the slate · call a walker to the lintel · never start with a knife
+**Motives & Tactics:** seat you · ask which walk · fill the slate · call a walker to the door · never start with a knife
 
 **Difficulty:** 12 | **Thresholds:** 8/14 | **HP:** 5 | **Stress:** 4
 **ATK:** +1 | **Poker and pan:** Melee | 1d6+2 phy
@@ -42,6 +42,6 @@ Tier 1 Leader. Someone who still makes the bed after the walk ended. Hospitality
 
 ## GM Notes
 
-- Orthogonal to bandits: they want occupancy, not your purse. Thilim's Held bed is a *kind* version of this job; do not restock the Third Hearth as this block. This keeper is the road-house that did not become a deathless house or a hearth — it became a mouth that cannot stop hosting.
+- Orthogonal to bandits: they want occupancy, not your purse. Thilim's Held bed is a *kind* version of this job; do not restock the Third Hearth as this block. This keeper is the road-house that did not become a deathless house or a hearth — it became a host who cannot stop.
 - Defeat can be a door closed, a slate washed, or a Bound word that the week is over. Killing the host is legal and ugly; the next shrine will hear it.
 - Do not give them a Condition that is the plot. They may be Kept, Given, or Struck like anyone. The stat block is the hold, not a Tithe.

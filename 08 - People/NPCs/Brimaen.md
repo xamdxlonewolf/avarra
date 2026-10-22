@@ -13,7 +13,7 @@ location: "[[Rothallo]]"
 role: stall inside the walls
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Brimaen
@@ -49,12 +49,12 @@ Apron, chalk, a key that is not the gate's key. They answer to Brimaen unless th
 - **[[Breolnir]]** — the gate. A sleep-line and a stall-licence are different ink.
 - **[[Methei]]** — assigned outside. Brimaen can see the wall-stone from the stall and does not trade places.
 
-## GM Notes
-
-- **Not a court.** A stall. Delamem and Talnin stay the Book's mouths. Do not promote Brimaen into a third officer of the heir-roll.
-- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261015 --register conservative --count 80` — given **Brimaen** position 39, house **Lanbru** position 36. Neighbour: given name. Clerk: house first. No Kind-name in the civic slot.
-- **The loaf on the board is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-
 ## Links
 - [[Rothallo]] · [[Orenbren]] · [[The Walled Book]]
 - [[Breolnir]] · [[Methei]] · [[People of the Turning]] · [[08 - People]]
+
+## GM Notes
+
+- **Not a court.** A stall. Delamem and Talnin stay the Book's named officers. Do not promote Brimaen into a third officer of the heir-roll.
+- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261015 --register conservative --count 80` — given **Brimaen** position 39, house **Lanbru** position 36. Neighbour: given name. Clerk: house first. No Kind-name in the civic slot.
+- **The loaf on the board is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.

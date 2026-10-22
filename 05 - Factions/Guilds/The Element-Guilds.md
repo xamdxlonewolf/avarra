@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: fleshed
 status: active
-tags: [faction, guild, answered, element, licence, epic-5]
+tags: [faction, guild, answered, element, licence]
 aliases: [The Element-Guilds, The Crae, Crae, Ember-House, Tide-House, Root-House, Gale-House]
 world: The Turning
 category: guild
@@ -12,12 +12,12 @@ seat: none — four craft-houses; a town may have one yard or four doors on one 
 public_face: the craft guilds that channel the Answered — Ember, Tide, Root, Gale — so the element is used in earnest and does not let go in a crowded room
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Element-Guilds
 
-> **Four ordinary craft charters sharing one safety rule.** Ember, Tide, Root, and Gale keep separate fees, masters, and work. They share a ticket standard because an idle [[The Answered|Answered]] is a workshop hazard before they are a theological question.
+Ember, Tide, Root, and Gale are four ordinary craft charters that share one safety rule. They keep separate fees, masters, and work. They share a ticket standard because an idle [[The Answered|Answered]] is a workshop hazard before they are a theological question.
 
 *(Everyday: **the element-guilds**, or the **Ember-house**, **Tide-house**, **Root-house**, **Gale-house.** Umbrella: **the Crae** — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. [[Polity Archetypes|Vaethorn]]'s second word is **gift-shops**; [[Polity Archetypes|Lestrand]]'s is **the craft-houses**; [[Polity Archetypes|Threnmaieth]] files **the Reckoned Craes**.)*
 
@@ -36,7 +36,7 @@ The common name is **the element-guilds**. *The Crae* survives mainly in formal 
 ## Charter summary
 
 - **Four doors, one ticket standard.** Ember (smiths, glass, firefighting). Tide (hulls, dyers, anything that wants water to behave). Root (masons, potters, the carrying-earth a Road-hand may buy). Gale (sails, mills, instruments). An Ember-master does not set Tide's fees. The **shop is chartered**; journeymen sit under a door. That is not a census of every lamp-amber in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]]. The mill-share, the hull-wrights, and the road-mend are [[Craft Fellowships]]. They keep the season of work. They do not stamp this ticket.
-- **Self-paying until you leave.** Earnest work slakes the Tithe. The guild is therefore the upkeep. That is why the monopoly has metaphysical teeth: a benched Answered is not merely unemployed.
+- **Self-paying until you leave.** Earnest work slakes the Tithe. The guild is therefore the upkeep. That is why the monopoly has teeth: a benched Answered is not merely unemployed.
 - **The paperwork is boring on purpose.** Apprenticeship term, supervised Reach, crowded-yard endorsement, night rotation, transfer. The danger enters when one of those boxes conceals grief, coercion, or a master protecting a fee.
 - **One Condition does not make one temperament.** An even-tempered Root potter and a short-fused Ember smith share a ticket standard and almost nothing else.
 
@@ -57,14 +57,14 @@ They are useful the way a craft guild is useful. A late-medieval town already ne
 | An Answered who lost the shop | Grief, a wrecked yard, a lord who benched them | Find earnest use *now* — a crew, a demolition, a night at the bellows. | Will not rent them a week of "just enough spark." That is a Slide-shaped lie. |
 | A Struck Answered, raw | A threshold let an element in later, untrained | [[The Intake]]. The right door, not the nearest fire. | Will not stamp a ticket on a raw Reach. Will not put them on a hull the same day. |
 | Anyone who wants a thing made | A hull, a glass, a wall, a sail | Make it. Charge as a craft charges. | Will not let an unlicensed cousin "just coax the stone" in the street. The charter is the street's safety *and* the shop's monopoly. |
-| A Road-hand needing carrying-earth | Root can coax living earth to travel | Sell the earth. Do not walk the scion. | Will not become Thaelvaeth. Different cart. |
+| A Road-hand needing carrying-earth | Root can coax living earth to travel | Sell the earth. The guild does not carry the scion. | Will not become Thaelvaeth. Different cart. |
 
 ### Four work floors
 
 | Door | The work | The shop-rule you notice | If left idle |
 |---|---|---|---|
 | **Ember** | smith, glass, fire-crew | they never let the last coal go dark | heat finds a place to be |
-| **Tide** | hull, dye, anything wet | a cup of yesterday's water on the lintel | water finds a place to be |
+| **Tide** | hull, dye, anything wet | a cup of yesterday's water over the door | water finds a place to be |
 | **Root** | mason, potter, carrying-earth | clay under the nails they will not wash on a work-day | stone and soil find a place to be |
 | **Gale** | sail, mill, instrument | a window that is never fully shut | wind finds a place to be |
 
@@ -104,18 +104,18 @@ When a master is pulled to Intake, the paying floor loses a Reach for a week. Em
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
 | [[The Stillers]] · [[The Hall-Keepers]] | Sister tickets. Shared Intake. | An untended element is not a Gaze and not a Cry. Right shed. |
-| [[The Greens-Keepers]] | Root and Taken-In share dirt, not a lintel. | A lot is not a mason's yard. |
-| [[The Tree-Wardens]] | Lamp-amber is pointed at a door. Road-hands *buy* carrying-earth. | Do not let Root become a graft-cart. |
-| [[The Book-Hands]] | Hulls want a stamp *and* a Tide-ticket. | Two stools. Do not merge them. |
+| [[The Greens-Keepers]] | Root and Taken-In share dirt, not a roof. | A lot is not a mason's yard. |
+| [[The Tree-Wardens]] | Lamp-amber is pointed at a door. Road-hands *buy* carrying-earth. | Root sells earth. It does not carry the scion. |
+| [[The Book-Hands]] | Hulls want a stamp *and* a Tide-ticket. | Two stools, two tickets. |
 | [[The Door-Keepers]] | A green door is not Root's shop. | Guest-rights are not a craft-ticket. |
-| [[The Slide]] | An idle Answered is a customer if the shop benched them. | The Crae must not become a week of spark. |
+| [[The Slide]] | An idle Answered is a customer if the shop benched them. | The guild does not rent out a week of spark. |
 
 ## Regional charter variations
 
 - **[[Polity Archetypes|Vaethorn]] (gift-shops).** One mixed yard, four tools, a blessing-to-practice. Soft injustice: you were answered, you will spend the element as the valley asks — the mill, the wall, the fire-line. Idle is rare because the valley will not let a gift sit.
 - **[[Polity Archetypes|Lestrand]] (the craft-houses).** Deep shops, posted tickets, monopoly-teeth. You can be priced out of the *chair* and still need the work, which is how a person slides from self-paying to exposed overnight. The charter is money and safety in one paper.
 - **[[Polity Archetypes|Threnmaieth]] (the Reckoned Craes).** The crown wants element and person on the same column. Workshops are channels. A benched Answered is a withheld Reach. The shop looks like a gift-works. The leash is the fire, the slip, the stone, the wind.
-- **[[The Sundering Isle|Kumbaan]].** A wrecked Tide-Answered is a guest. Do not plant a Tide-house on the sand.
+- **[[The Sundering Isle|Kumbaan]].** A wrecked Tide-Answered is a guest. The guild keeps no Tide-house on the sand.
 
 ## Exit grievance
 
@@ -123,11 +123,11 @@ Self-paying is an economist's miracle until you want to stop. The Tithe does not
 
 So the guild's kindness (a shop, a crew, a rotation) is also the leash. Leaving is a Tithe-crisis. The Warm calls that vocation. The quay calls that a contract. The crown calls that a channel.
 
-The Motherfaith says she answered. The shop-rule is people's work. A kind Tree would not make a rest-year safe.
+The Motherfaith says she answered. The shop-rule is people's work.
 
-This injustice is *exit*. The constraint is the element itself — analog shop, local charter, no authority to make another town take your idle journeyman.
+The complaint is exit. The constraint is the element itself: a local charter with no authority to make another town take an idle journeyman.
 
-The last coal, the cup of yesterday, the unwashed clay, the window that will not shut — those are how each door remembers. Do not explain them as theology.
+The last coal, the cup of yesterday, the unwashed clay, the window that will not shut — those are how each door remembers.
 
 ## Accounts
 
@@ -137,11 +137,11 @@ The last coal, the cup of yesterday, the unwashed clay, the window that will not
 
 ## Posted rule
 
-*A shop-rule, Ember-house, Lestrand glass-yard, nailed above the last coal. The verso is a Tide-house rule from the next quay, used as backing. `oblique-worldbuilding`.*
+*A shop-rule, Ember-house, Lestrand glass-yard, nailed above the last coal. The verso is a Tide-house rule from the next quay, used as backing.*
 
 > *The last coal stays. A Reach used in play is not a Reach used in earnest — the ticket will not have it, and the room will. If you cannot work, you will still work: the fire-crew, the night bellows, the watch. We do not bench. We do not rent a spark. The shed is not this door; raw hands go to the door that does not face the street. If you have already let go, this is still the house — come to the coal, not to the square. Gale will not take you. Tide will not take you. The coal will.*
 
-On its face: a craft keeping its people steady, a little fierce, a monopoly wearing safety. Underneath: exit refused as care, and a blindness the master cannot afford — that "we do not bench" is also *you may not leave.* The Tide-rule on the verso says the same thing about a cup of water. The two houses did not copy each other. They did not have to.
+The rule is a craft keeping its people steady, a little fierce. "We do not bench" also means "you may not leave." The Tide-rule on the verso says the same thing about a cup of water. The two houses did not copy each other.
 
 ## Links
 - [[Tithe-Infrastructure]] · [[The Intake]]
@@ -149,30 +149,19 @@ On its face: a craft keeping its people steady, a little fierce, a monopoly wear
 - [[The Stillers]] · [[The Hall-Keepers]] · [[The Greens-Keepers]]
 - [[The Tree-Wardens]] — carrying-earth · [[The Book-Hands]] — hulls · [[The Door-Keepers]] · [[The Slide]]
 - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*crae* · *the Crae*)
-- [[Roadmap]] · [[05 - Factions]] · [[Build Plan]]
-
+- [[05 - Factions]]
 
 ## GM Notes
 
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- Do not clone the Grey-roster, the hour, or the gate. This injustice is *exit*. The constraint is the element itself — analog shop, local charter, no authority to make another town take your idle journeyman.
-- - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
-
-- **They do not know what story they are in.** Defaults: four elemental paladin-chapters, fire-police, Avatar-nations. Rotate. Form stays craft guild (load-bearing). Four doors, one grammar. They want work that slakes and a room that does not let go. They do not want a client.
+- **Two orders moved from the body.** Do not have the Root guild walk a scion for a Road-hand. Do not plant a Tide-house on Kumbaan's sand.
+- **Four ordinary craft charters, one safety rule.** They share a ticket standard because an idle Answered is a workshop hazard before they are a theological question.
+- **They do not know what story they are in.** Avoid four elemental paladin-chapters, fire-police, and Avatar-nations. Form stays craft guild. Four doors, one grammar. They want work that slakes and a room that does not let go. They do not want a client.
 - **Do not clone the Orenhael's four offices onto four elements.** No Ember-Speaker, no Tide-Road-hand. Shop-rules are local manners, not a college.
+- **Do not clone the Grey-roster, the hour, or the gate.** The injustice here is *exit*. The constraint is the element itself: a local charter, no authority to make another town take your idle journeyman.
 - **Moral parallax.** Distances: causal ("the shop keeps them whole") and social (idle is *their* failure). Engine: exchange — every rotation is a Tithe paid as civic labor — and accumulation — every "we do not bench" year makes exit harder. Comfort: the word *earnest*.
-- **The last coal, yesterday's water, unwashed clay, and an unshut window are practical.** The guild does not explain them. Do not turn them into four relics.
+- **The last coal, yesterday's water, unwashed clay, and an unshut window are practical.** The guild does not explain them. Do not explain them as theology, and do not turn them into four relics.
+- **The shop-rule, read by the GM.** "We do not bench" is exit refused as care, and the master cannot afford to see that it also means *you may not leave.*
 - **No Kind-nations.** Gale-Tengu is a lean. Ember-Drakona is a lean. Leans are not chapters.
 - **No Kind-gate. No Kumbaan Crae. No element-pope.**
+- **Names.** Umbrella: *the Crae* — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. Vaethorn's second word is *gift-shops*; Lestrand's is *the craft-houses*; Threnmaieth files *the Reckoned Craes*. The umbrella name is not settled.
 - **Hooks.** A benched Ember in a dry month; a Road-hand buying carrying-earth from a Root who wants to walk the scion; a hull that needs Tide and a Book-hand's stamp and only has one; a crown column that wants element *and* person; Intake pulling the only Tide-master off a mid-bend; a PC who wants to leave the shop.
-
-#### Taste-open markers (P2.1)
-
-The names and other taste calls remain open; only their editorial markers moved out of player text:
-
-- *(Everyday: **the element-guilds**, or the **Ember-house**, **Tide-house**, **Root-house**, **Gale-house.** Umbrella, 🟡: **the Crae** — kray — [[The Old Tongue|crae]] "craft; the working of an element." A single Answered is *of the Crae*; they are *of Ember* if you need the door. [[Polity Archetypes|Vaethorn]]'s second word is **gift-shops**; [[Polity Archetypes|Lestrand]]'s is **the craft-houses**; [[Polity Archetypes|Threnmaieth]] files **the Reckoned Craes**.)*
-- - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*crae* · *the Crae* 🟡)

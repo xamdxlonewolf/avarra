@@ -10,7 +10,7 @@ aliases: [Food and Disease of the Turning, Living Ground, Tithe-Ecology]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Ecology of the Turning
@@ -25,7 +25,7 @@ This is enough ecology to feed a week, threaten a harvest, and know who a town n
 2. **Food is still food.** Grain, beans, roots, greens, orchard fruit, herds, and fish feed the world. Tithe-provision is important civic work, not a second staple crop.
 3. **Work and upkeep often coincide.** The Taken-In rest among living plants; the Stilled work Grey out through exertion; Far-Voiced need an honest outlet; Returned need Purpose; Two-Bodied need time in the other self; the Answered must use what answered; Long-Lived need genuine learning.
 4. **Disease follows bodies and water.** Quays, camp-streets, wells, flood silt, winter rooms, and armies matter more than curses. [[The Grey Summer]] was a fever, not a Condition and not a punishment.
-5. **Beasts are livelihoods before they are encounters.** A goat is milk, dung, hide, and a mouth at the well. A pack pony is a road made possible. Wilderness adversaries stay on [[Dangers of the Turning]].
+5. **Beasts are livelihoods before they are encounters.** A goat is milk, dung, hide, and a drinker at the well. A pack pony is a road made possible. Wilderness adversaries stay on [[Dangers of the Turning]].
 
 ## The ordinary larder
 
@@ -106,9 +106,9 @@ The Turning has no single supernatural disease ecology. Most sickness is familia
 | **Winter lung** | Peat smoke, wet bedding, cold halls, long indoor seasons | Dry bedding, clear smoke, open rooms when weather permits | Hearth-keepers, roofers, Stilled when breathing fails |
 | **Wound-rot** | Field cuts, animal bites, surgery without clean water, long wet journeys | Wash, cut away dead tissue, honey or clean dressings, rest | Stilled surgeons; Returned where the wound or place kills the living |
 | **Marsh ague** | Warm standing water, wet lowlands, bog-edge camps | Move beds, drain near dwellings, cover water jars, burn smoke against biting insects | Taken-In ground-readers and ordinary ditch crews |
-| **Root blight** | Waterlogged soil, salt, damaged bark, crowded roots, dirty tools | Drain, prune, isolate cuttings, clean knives, stop carrying sick wood | Tree-wardens and Taken-In tenders; Root-Answered for drains, not a miraculous cure. Playable Hands-un-Hands: [[The Mill-hold]] |
+| **Root blight** | Waterlogged soil, salt, damaged bark, crowded roots, dirty tools | Drain, prune, isolate cuttings, clean knives, stop carrying sick wood | Tree-wardens and Taken-In tenders; Root-Answered for drains, not a miraculous cure. Seated example of a sick town Tree: [[The Mill-hold]] |
 
-[[The Grey Summer]] in C.Y. 171 remains the epidemic everyone cites on the Old Crossing. It began as a cough in packed holds, tied ships, killed across Given, Struck, and Kept, and left grafts unwatered when their tenders fell. Later fevers may resemble it. They are not "another Grey Summer" unless people are making a fearful comparison.
+[[The Grey Summer]] in Cut-year 171 remains the epidemic everyone cites on the Old Crossing. It began as a cough in packed holds, tied ships, killed across Given, Struck, and Kept, and left grafts unwatered when their tenders fell. Later fevers may resemble it. They are not "another Grey Summer" unless people are making a fearful comparison.
 
 ### A disease week at the table
 

@@ -2,35 +2,35 @@
 title: The Leaf-Mother
 type: faith
 visibility: player
-note_status: draft
+note_status: fleshed
 status: active
-tags: [religion, faith, leaf-mother, turning-tree, belief-systems, schism]
+tags: [religion, faith, leaf-mother, turning-tree, schism]
 aliases: [Leaf-Mother, The Mother, Motherfaith, The Faith of the Turning, The Giving]
-world:
+world: The Turning
 domain: becoming, gifts, the Turning, the tended life
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-19
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # The Leaf-Mother
 
-> **The faith built around the [[Turning Tree]].** Some hold that the **Leaf-Mother** blessed the world with the Conditions, and that the Turning Trees are her hands reaching down to *choose* — each Leaf-Fall an act of a mother's love. This is **a belief held by many, not confirmed cosmology**: skeptics are sincere and full members of society, and the faith itself is built to make room for them. This note fixes the doctrine, the practice, the clergy, and the live schism. Who they mean by the name, as a presence, is [[Maieth]]. The rite's object lives in [[Turning Tree]]; the engine it enacts is locked in [[The Premise]]. The felt week and the hours beside it are [[What the Year Feels Like]].
+> **The faith built around the [[Turning Tree]].** Some hold that the **Leaf-Mother** blessed the world with the Conditions, and that the Turning Trees are her hands reaching down to *choose* — each Leaf-Fall an act of a mother's love. This is **a belief held by many, not confirmed cosmology**: skeptics are sincere and full members of society, and the faith itself is built to make room for them. This note covers the doctrine, the practice, the clergy, and the live schism. Who they mean by the name, as a presence, is [[Maieth]]. The rite's object is the [[Turning Tree]]; the Conditions it gives are on [[Conditions]]. The felt week and the hours beside it are [[What the Year Feels Like]].
 
 ## Shape of the faith (at a glance)
 
 - **A gift-religion, not a salvation-religion.** No one is being *rescued* from a fallen state. The founding fact is that the world received *gifts* (the Conditions) and goes on receiving them each solstice. The faith is a long answer to *how do you live worthy of a gift?*
 - **Orthopraxy over orthodoxy.** What makes you of the Motherfaith is what you **do** — you bring your children to the Tree, you tend your Tithe honestly, you keep the festival — far more than what you privately believe about *who* does the choosing. This is the structural reason a devout believer and a quiet skeptic can stand at the same Leaf-Fall and both belong. **Right practice binds; right belief is argued about.**
 - **Divine character: a mother.** Benevolent, attentive, generous, and *quiet* — she does not thunder, command, or demand worship. She gives, and (the faithful say) she watches. The maternal frame is the whole tone: you don't fear the Mother, you try not to waste what she hands you.
-- **One faith among several (🔒, built 2026-08-23).** The Motherfaith is the dominant faith of the Turning lands but **not the only religion**. The others — and how they coexist, compete, and syncretize — live in [[Faiths of the Turning]]. The Leaf-Mother is not written as the universe's sole power; she is *this* people's Mother.
+- **One faith among several.** The Motherfaith is the dominant faith of the Turning lands but **not the only religion**. The others — and how they coexist, compete, and syncretize — live in [[Faiths of the Turning]]. The Leaf-Mother is not written as the universe's sole power; she is *this* people's Mother.
 
 ## Cosmology & doctrine (as believed)
 
-*Presented as the faithful hold it — player-facing, unproven in-world. The GM-layer truth is [[Is the Leaf-Mother Real]].*
+*Presented as the faithful hold it. Nobody in the world has proved it.*
 
 - **The Giving.** In the beginning (the faithful say) the world was only ever *born into* — people were their Kind and nothing more. The Leaf-Mother's gift was **becoming**: the capacity to be given something beyond your birth, a Condition the world would need. The first Tree, the [[Turning Tree#The Awakening Tree|Awakening Tree]], is where she first reached down; every town Tree is a grafted **Hand of the Mother**, so that no child is too far from her reach.
 - **She chooses, and she chooses well.** Doctrine holds that the colour a child receives is *chosen* — looked-at, intended, fitted to the child and to the town's need. The gifts "fit too well" to be accident (believers point to this; skeptics call it hindsight — see the schism).
-- **The Tithe is the weight of a gift, not a punishment.** Every Condition costs upkeep (locked in [[The Premise]]). The faith reads this as *honest weight*: a real gift has a real charge to carry, and tending it well is the ordinary devotion of a lifetime. **"Tend what you're given"** is the closest thing the faith has to a first commandment.
+- **The Tithe is the weight of a gift, not a punishment.** Every Condition costs upkeep (see [[Conditions]]). The faith reads this as *honest weight*: a real gift has a real charge to carry, and tending it well is the ordinary devotion of a lifetime. **"Tend what you're given"** is the closest thing the faith has to a first commandment.
 - **The Kept are given wholeness.** To be Kept — hugged by the leaves, no colour (see [[Turning Tree]]) — is doctrinally a *gift of being left whole*, not an oversight. (This is where the schism bites hardest; see below.)
 - **She has no throne to visit and no voice that answers on demand.** Accessibility is *mediated and quiet*: she is met at the Tree, in the turning of a life, in the fittingness of things — never summoned. This quietness is doctrinally *intended* (a mother lets her children live), and is exactly what leaves room for honest doubt.
 
@@ -40,13 +40,13 @@ Religion is lived, not just believed. The Motherfaith is dense with practice —
 
 - **The Leaf-Fall** — the central rite, a child's tenth-year solstice Turning. Full staging and the questions a warden actually gets (missed week, refusal, orphans, whether anyone stands twice) in [[Turning Tree]]. It is at once sacrament, coming-of-age, and the town's great festival. The rite's cited shadow is [[The Wrong Green]].
 - **The Tending** — the ongoing, private devotion of *paying your Tithe well*. Framed religiously: to tend your Condition honestly is to honour the gift. A Two-Bodied who runs their other self, a Long-Lived who keeps their vigils — the faith calls this worship-by-living, not just upkeep.
-- **The Turning-week festival** — the solstice week around the Leaf-Falls: markets, feasts, the reunion of families, the naming of the year's new Given and new Kept. The emotional high point of the calendar (reckoning locked in [[The Reckoning of the Year]] — High Solstice / Turning-Week).
-- **Threshold rites for the Struck** — because the Struck receive a Condition *away* from the Tree (a drowning survived, an oath sworn, a death crossed — see [[The Premise]]), the faith has grown **quiet rites to receive them back**: a Struck person is brought to the Tree *after* the fact, not to be Turned (the Tree doesn't Strike) but to be **acknowledged** — folded into the community of the Given rather than left as an anomaly. How warmly this is done is itself contested (schism, below).
+- **The Turning-week festival** — the solstice week around the Leaf-Falls: markets, feasts, the reunion of families, the naming of the year's new Given and new Kept. The emotional high point of the calendar (see [[The Reckoning of the Year]] — High Solstice / Turning-Week).
+- **Threshold rites for the Struck** — because the Struck receive a Condition *away* from the Tree (a drowning survived, an oath sworn, a death crossed — see [[Conditions]]), the faith has grown **quiet rites to receive them back**: a Struck person is brought to the Tree *after* the fact, not to be Turned (the Tree doesn't Strike) but to be **acknowledged** — folded into the community of the Given rather than left as an anomaly. How warmly this is done is itself contested (schism, below).
 - **Tree-tending** — the civic-sacred care of the town's Turning Tree (watering rites, warding against blight, the graft-rites when a new scion is planted). Handled by the **tree-wardens** (clergy, below).
 
 ## Clergy & institutions
 
-Full faction: [[The Tree-Wardens]] (Epic 5, Story 5.1). Names 🟡. The load-bearing shape:
+The working house is [[The Tree-Wardens]]. In outline:
 
 - **Tree-wardens** — the working clergy, one order with offices (not rival chapters). They tend the town Tree, officiate the Leaf-Fall, and hold the **authoritative reading of the colours** (see [[Turning Tree]]: common colours are folk-known, but wardens confirm them and rule on the rare/subtle/mixed falls). This gives the clergy a *needed civic function*, not just a devotional one — a concrete reason society organizes around them.
 - **The First Seat** — a *college*, not a throne, in the Motherwood about the Awakening Tree. Destination of pilgrimage; authorizes graft-scions (cuts may come from the origin *or* a healthy town Tree acting on its behalf). It confirms Road-hands and Speakers; it does not appoint every town-warden.
@@ -56,32 +56,43 @@ Full faction: [[The Tree-Wardens]] (Epic 5, Story 5.1). Names 🟡. The load-bea
 
 The faith is **not monolithic** — its central argument is a genuine, good-faith one that no one can settle, which is exactly why it endures. It turns on three questions the doctrine can't prove:
 
-1. **The Kept — spared, or slighted?** If the Mother blesses everyone, why are ~25% Given no colour at all?
+1. **The Kept — spared, or slighted?** If the Mother blesses everyone, why does the Tree hug so many children and give them no colour at all?
    - **The Tender reading (majority/orthodox):** the Kept are *given wholeness* — a real gift, chosen for them. To be Kept is to be trusted to need nothing added.
    - **The Wanting reading (minority):** the Kept were *passed over* — loved, but not chosen, and the doctrine of "wholeness" is a kindness the faithful tell them. This reading quietly stings, and shapes how some Kept feel about the festival.
 2. **The Struck — still hers, or not?** The Struck receive a Condition the Tree never handed out. Did the Mother reach through the threshold too, or did *something else* give the gift?
    - **The Wide-Hand reading:** she meets people at every door — the drowning, the oath, the death — the Tree is only her *ordinary* hand. The Struck are fully hers.
-   - **The Narrow-Hand reading:** she gives only at the Tree; the Struck received their Condition by *some other means*, which is why the Struck are "a little suspect" (see [[The Premise]]). This reading is the seed of real social friction toward the Struck.
+   - **The Narrow-Hand reading:** she gives only at the Tree; the Struck received their Condition by *some other means*, which is why the Struck are "a little suspect." This reading is the seed of real social friction toward the Struck.
 3. **Does a mind choose at all?** — the believer/skeptic line proper.
    - **Believers:** the fittingness of the gifts, the care of the Kept, the way the Struck feel *received* — these add up to a Someone.
    - **Skeptics:** "it's just what the Trees do." Biology, or a phenomenon so old it wears a face we gave it. The grafting is observable horticulture; the *choosing mind* is an inference they decline to make.
-   - **The faith's own genius:** because it is **orthopraxic**, a skeptic who tends their Tithe and brings their children to the Tree is a *good member of the Motherfaith* — belief in the Mother is honoured but not policed. This keeps the skeptic sincere and un-persecuted, and keeps the setting ~5%-scary rather than inquisitorial.
+   - **The faith's own genius:** because it is **orthopraxic**, a skeptic who tends their Tithe and brings their children to the Tree is a *good member of the Motherfaith* — belief in the Mother is honoured but not policed. This keeps the skeptic sincere and un-persecuted.
 
 Every branch above is a *good-faith* position. No house is a villain-theology. Being a skeptic costs nothing day to day: right practice binds. The questions stay live because no one in the square can close them.
 
-## In-world texts (doctrine that also seeds a reveal)
+## Two sayings
 
-*Authored per `oblique-worldbuilding`: each carries doctrine on its face **and** quietly points at the keystone.*
+Two sayings the faithful use.
 
 - **The Tender's blessing, spoken over each child at the Leaf-Fall:**
   > *"What falls to you, wear well. What is kept from you, keep. The Hand that reaches is the Mother's own — and the Mother does not reach twice by chance."*
 
-  On its face: comfort and the "tend your gift" ethic. Underneath, believers hear **intent**. Skeptics hear a proverb about not asking the wood twice. Both can say the words.
+  It is comfort, and it carries the "tend your gift" ethic. Believers hear **intent** in it. Skeptics hear a proverb about not asking the wood twice. Both can say the words.
 
 - **A Kept-child's saying (folk, half-consoling, half-barbed):**
   > *"The Tree that gives to all its neighbours held me instead. I have decided that is not the same as being forgotten."*
 
-  On its face: the Tender reading of the Kept, made personal and a little defiant. Underneath: *"I have decided"* is a choice made against doubt, not a certainty. The schism lives in that verb.
+  It is the Tender reading of the Kept, made personal and a little defiant. *"I have decided"* is a choice made against doubt, not a certainty.
+
+## Links
+- [[Maieth]] — the presence, as belief · [[What the Year Feels Like]] — the felt year
+- [[Turning Tree]] — the object and rite this faith is built around · [[The Wrong Green]] — the cited mis-Speaking
+- [[The Tree-Wardens]] — the working clergy
+- [[Faiths of the Turning]] — the other faiths, and how this one lives beside them
+- [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Child at Four Doors]]
+- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
+- [[The Unspent]]
+- [[Conditions]] — the gifts themselves, and how many people carry each
+- [[07 - Religion]]
 
 ## GM Notes
 
@@ -90,17 +101,8 @@ Every branch above is a *good-faith* position. No house is a villain-theology. B
 - **The two texts.** The Tender's blessing is, unknowingly, a true statement of intent. The Kept-child's saying seeds the warm answer (the embrace was a choice *for some*; they were not forgotten) without sorting which Kept. Do not let either quote close the keystone in a player's ear.
 - **The schism is the reusable engine.** The three questions above are the faith's inexhaustible fuel for NPCs, factions, and family drama (a Kept sibling, a Struck spouse, a skeptic parent). Reach for them whenever a scene needs belief-shaped conflict. Per [[The Other Hands]], Narrow-Hand is right that she does not Strike, and Wide-Hand is right that the catch is still hers (her household, her allowance). Do not let a player-facing scene award the win to either branch.
 - **Keyed tags.** `keystone-adjacent` (clue and doctrine, no confirmation in the body) · `the-other-hands` (this wall names the household).
-- **Clergy orders:** built as [[The Tree-Wardens]] (Story 5.1, names 🟡). The other four houses: [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] (Story 5.2). The sacred calendar is locked ([[The Reckoning of the Year]]); the faith's Tithe-economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
-
-## Links
-- [[Maieth]] — the presence, as belief · [[What the Year Feels Like]] — the felt year
-- [[Turning Tree]] — the object and rite this faith is built around · [[The Wrong Green]] — the cited mis-Speaking
-- [[The Tree-Wardens]] — the working clergy (Story 5.1)
-- [[Faiths of the Turning]] — the other faiths, and how this one lives beside them
-- [[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]] · [[The Child at Four Doors]]
-- [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]
-- [[The Premise]] — the locked engine (Given / Struck / Kept, the Tithe, population math)
-- [[Is the Leaf-Mother Real]] — the GM keystone truth this faith points at
-- [[The Spent Leaf]] · [[The Remainder]] · [[The Unspent]]
-- [[Conditions]] — the gifts themselves · [[Build Plan]] · [[Roadmap]]
-- [[07 - Religion]]
+- **Clergy orders:** built as [[The Tree-Wardens]] (names are still open). The other four houses: [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]]. The sacred calendar is locked ([[The Reckoning of the Year]]); the faith's Tithe-economy lives in [[Economy and the Tithe]]; the *other* religions are built — see [[Faiths of the Turning]]. Fixed here: gift-not-salvation, orthopraxy-over-orthodoxy, the maternal/quiet divine character, the practice set, the tree-warden clergy, and the three-branch schism.
+- **The two sayings, read underneath.** Authored per `oblique-worldbuilding`. Each carries doctrine on its face and quietly points at the keystone. The Tender's blessing: on its face it is comfort; underneath, believers hear intent. The Kept-child's saying: underneath, *"I have decided"* is a choice made against doubt. Point at the keystone only through [[Is the Leaf-Mother Real]]; the player body does not.
+- **Pointers moved out of the body.** The doctrine section used to say "the GM-layer truth is [[Is the Leaf-Mother Real]]". The player text does not tell the reader that a hidden answer exists.
+- **The Premise.** The shares and the Tithe are on [[The Premise]]. The player body quotes no number for the Kept. The share hugged at the ceremony and the share Kept for life are two different figures, and both are on The Premise. Do not put either back in this note; point to [[Conditions]].
+- **Links (GM).** [[The Premise]] — the locked engine. [[Is the Leaf-Mother Real]] — the keystone truth this faith points at. [[The Spent Leaf]] · [[The Remainder]]. [[Build Plan]] · [[Roadmap]].

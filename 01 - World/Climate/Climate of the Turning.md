@@ -10,7 +10,7 @@ aliases: [Weather of the Turning, The Eight Climate Bands, Playable Weather]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Climate of the Turning
@@ -40,7 +40,7 @@ A month tells people what work should be possible. A season tells them what the 
 
 These are mainland expectations, not a law of the sky. Kumbaan does not translate its twelve moons into this table. A mainlander who says a Kumbaan moon is "really Seed-month" is usually wrong before the rain has finished.
 
-## The eight bands, one playable week each
+## The eight bands, one week of weather each
 
 Choose the band, read the month, then let the weather turn once during the week. A whole week of identical weather should feel notable.
 
@@ -107,7 +107,7 @@ A town Tree is grafted motherwood, not a weather-proof relic. It wants living ea
 2. **Second order:** towns keep drains, windbreaks, cistern shares, and watering turns around the Tree. Taken-In labour and ordinary horticulture matter. A square can have grain in store and still fear for its Hand.
 3. **Third order:** weather becomes citizenship. A sick canopy sends children onto a neighbour's road; that road needs beds, witnesses, and a same-week decision. A dead Tree means a fresh graft and another generation of waiting.
 
-This does not prove why the reach thins. In common sight, the pattern is young, sick, or few grafts; distance; soil; weather; and the history of who received living wood.
+What people see is young, sick, or few grafts at a distance from the core, poorer soil, harder weather, and a history of who received living wood.
 
 ## Running a weather week
 

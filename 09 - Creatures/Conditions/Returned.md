@@ -6,15 +6,15 @@ note_status: canon
 status: active
 tags: [condition, becoming, struck, zombie]
 aliases: [The Returned, Zombie, Reanimated, The Unfinished]
-world:
+world: The Turning
 category: Condition
 monster: zombie
 standing: normal / respected
 path: Struck only
 population: ~7%
-reveals: [the-other-hands]
+reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Returned
@@ -23,12 +23,12 @@ updated: 2026-08-31
 
 ## The take
 
-The Returned are **Struck only** — you cannot be Given this at age 10, because it *requires death*. Someone dies with a thing left undone strong enough to hold them, and they get back up. Standing is **normal and quietly respected** (~7% of all people; share from [[The Premise]]): solemn, dependable, the people you send where the living can't safely go. They are unshaken by gore and death, and death itself struggles to keep them.
+The Returned are **Struck only** — you cannot be Given this at age 10, because it *requires death*. Someone dies with a thing left undone strong enough to hold them, and they get back up. Standing is **normal and quietly respected** (~7% of all people): solemn, dependable, the people you send where the living can't safely go. They are unshaken by gore and death, and death itself struggles to keep them.
 
 ## Away from the Tree
 
 **Colour.** None. The Tree never Strikes. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Struck only — death with something unfinished. The engine lives on [[The Premise]].
+**Path.** Struck only — death with something unfinished. The engine is on [[Turning Tree]].
 **How the square reads it.** [[The Leaf-Mother|Motherfaith]] brings them to the Tree after the fact for acknowledgment, not a Gift: Wide-Hand says she met them at the death-door; Narrow-Hand is uneasy. [[The Watching]] says the threshold was always a place of seeing. [[The Old Ways]] name kin at the door that made them, not a late gift. No faith in the square can close it.
 **Where next.** Purpose, not a guild. Plague wards, mortuaries, the work that kills the living: [[Daily Life]]. [[Tithe-Infrastructure]] cannot furnish a Purpose; there is no desk for it.
 
@@ -43,13 +43,18 @@ The Returned are **Struck only** — you cannot be Given this at age 10, because
 
 When the unfinished thing is finally **done**, you have a choice death denied you:
 - **Settle** — lie down and take the rest you skipped, at last; or
-- **Become one of the [[Conditions|Kept]]** — lay the Condition aside and live out the rest of your days as a mortal again.
+- **Live on with no Condition** — lay the Condition aside and live out the rest of your days as a mortal again.
 
 Taking up a **new** Purpose instead keeps you Returned and walking. *(A major character beat — coordinate with the GM.)*
 
 ## The Tithe, in the world
 
-The Tither is emotional as much as mechanical: a Returned is only steady while they have a reason. Neglect it and they cool — literally and socially — which is why the living can tell a "settling" Returned at a touch, and why the Returned build their lives around their purpose with almost religious care. Their returns are **counted** — each Refuse to Fall burns a Hope slot, so a long-walking Returned is a person you can see running out of comebacks — and **Blaze of Glory** remains the death they can *choose*: after a life of refusing rest, going out spectacularly on their own terms rather than on the last scar.
+The Tithe is emotional as much as mechanical: a Returned is only steady while they have a reason. Neglect it and they cool — literally and socially — which is why the living can tell a "settling" Returned at a touch, and why the Returned build their lives around their purpose with almost religious care. Their returns are **counted** — each Refuse to Fall burns a Hope slot, so a long-walking Returned is a person you can see running out of comebacks — and **Blaze of Glory** remains the death they can *choose*: after a life of refusing rest, going out spectacularly on their own terms rather than on the last scar.
+
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Bound]] (another Struck-only Condition) · [[Long-Lived]] (deathless-but-Given, vs. died-and-Struck)
+- [[Daily Life]] — plague-work, the dead · [[The Watching]] · [[The Old Ways]]
 
 ## GM Notes
 
@@ -58,8 +63,3 @@ The Tither is emotional as much as mechanical: a Returned is only steady while t
 **Whose hand.** Per [[The Other Hands]], a Returned is Struck by **the Quiet Tally** (*Threnvaeth*) — the household clerk of leftover purpose — under the Leaf-Mother's allowance. She does not Give this at the Tree; she authorizes the catch. Do not put that in player-facing text. The unfinished business is still *theirs*; Threnvaeth does not puppet the Purpose.
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Bound]] (the other Struck-only Condition) · [[Long-Lived]] (deathless-but-Given, vs. died-and-Struck)
-- [[Daily Life]] — plague-work, the dead · [[The Watching]] · [[The Old Ways]]

@@ -9,19 +9,19 @@ aliases: [Mechanics Home]
 world: The Turning
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Mechanics
 
-Clocks, marks, and the one Phoenix gift already live on [[At the Table]], [[Kind Heritage]], and [[A Hidden Phoenix]]. A road roll lives on [[Dangers of the Turning]].
+The Tithe clocks live on [[Conditions]] and each Condition card. Marks and the one Phoenix gift live on [[At the Table]], [[Kind Heritage]], and [[A Hidden Phoenix]]. A road roll lives on [[Dangers of the Turning]].
 
-This folder does not add a second mechanics text.
-
-## GM Notes
-
-This folder stays a pointer. A later note must not move those four notes here, and must not invent a clock to fill the shelf.
+There is one text for each of these, and no other.
 
 ## Links
 
-- [[At the Table]] · [[Kind Heritage]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[13 - Game]]
+- [[Conditions]] · [[At the Table]] · [[Kind Heritage]] · [[Dangers of the Turning]] · [[A Hidden Phoenix]] · [[13 - Game]]
+
+## GM Notes
+
+This section stays a pointer. A later note must not move those four notes here, and must not invent a clock to fill the shelf.

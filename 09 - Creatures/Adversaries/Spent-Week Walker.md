@@ -11,14 +11,14 @@ category: people
 habitat: Long Mile, west-road, Heskoren live-front tracks
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Spent-Week Walker
 
 Tier 2 Standard. A person who was sent, or who sent themselves, for a tenth-year week that closed without them. They are still on the road. UnTurned, not Kept. They want the door that will not reopen. Not undead. Not a [[Returned]] unless the fiction already made them one — then use the Condition, not this block.
 
-**Motives & Tactics:** ask the date · follow anyone heading toward a Tree · spend the last of a Tithe on one more day · break when told the week is gone
+**Motives & Tactics:** ask the date · follow anyone heading toward a Tree · spend the last of the food on one more day · break when told the week is gone
 
 **Difficulty:** 14 | **Thresholds:** 10/18 | **HP:** 6 | **Stress:** 4
 **ATK:** +2 | **Staff and pack-iron:** Melee | 2d6+2 phy
@@ -35,12 +35,12 @@ Tier 2 Standard. A person who was sent, or who sent themselves, for a tenth-year
 
 ## Links
 - [[Dangers of the Turning]] · [[Turning Tree#Questions a warden gets asked]]
-- [[The Walking Years]] · [[Eolvaeth]] — a sent cohort that *returns* is a settlement scene, not this block
+- [[The Walking Years]] · [[Eolvaeth]] — a cohort that was sent to another Tree that *returns* is a settlement scene, not this block
 - [[The Intake]] · [[09 - Creatures]]
 
 ## GM Notes
 
-- UnTurned is the legal fact. They missed, or the wood was unsound, or the send spent the week. Do not give them a late leaf to make the fight kind. Struck doors still exist; that is a player-consent becoming, not a drop.
+- UnTurned is the legal fact. They missed, or the wood was unsound, or the trip they were sent on spent the week. Do not give them a late leaf to make the fight kind. Struck doors still exist; that is a player-consent becoming, not a drop.
 - Vaethod's returning cohort is Eolvaeth's "enters a scene." Use this block when the week is already gone and the walking did not stop.
-- They may carry a Tithe like anyone. Do not make the Tithe the attack. The attack is the unfinished week.
+- They carry no Tithe unless a later Condition gave them one. Do not make a Tithe the attack. The attack is the unfinished week.
 - Tone: aching, not haunted. A person. The 5% is that they will hurt you to make the calendar untrue.

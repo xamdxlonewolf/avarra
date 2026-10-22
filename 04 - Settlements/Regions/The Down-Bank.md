@@ -9,12 +9,12 @@ aliases: [the down-bank, the lower Core-thaw]
 world: The Turning
 reveals: []
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # The Down-Bank
 
-> **The blank between two places a traveler already crosses.** Downstream of [[Maiethlir]], on [[Named Ground|the Core-thaw]], before [[The Hinge Shore]] asks what a hull is. Not a power. Not a seat. Not a city. The first day below the Down Gate can still be [[Maiethvael]]'s argument. The seat is [[Seinbrun]], and it is not on this bank. This note does not list the people.
+> **The blank between two places a traveler already crosses.** Downstream of [[Maiethlir]], on [[Named Ground|the Core-thaw]], before [[The Hinge Shore]] asks what a hull is. Not a power. Not a seat. Not a city. Maiethvael's people live along the first day below the Down Gate. The seat is [[Seinbrun]], and it is not on this bank. This note does not list the people.
 
 ## What you are in
 
@@ -28,7 +28,7 @@ The Near Mile is a different road. [[Nelath]]'s spur leaves that one. You do not
 
 Recognizable: a river road, orchards, a bed, mud in Liren, dust in a dry Gift-month. Inferrable: two paperwork habits have both stopped, and the city's loud week is behind you. The hinge is still ahead, several days in fair weather — the grove-to-quay walk is eight to twelve days, and the city has already taken the first one or two ([[Named Ground#Travel times]]).
 
-Posts along the bank have a notch that is not a mile-shrine and not a ribbon. People touch them in passing. The crown did not put them there. The hinge did not put them there. The bank will not say what the notch is for. Do not turn the notches into a second shrine-road.
+Posts along the bank have a notch that is not a mile-shrine and not a ribbon. People touch them in passing. The crown did not put them there. The hinge did not put them there. Nobody on the bank says what the notch is for.
 
 No Tree in this note is a seat. Hands along the bank Turn at their own hearths when they have them. That is ordinary Motherland reach, not a new capital and not the First Seat.
 
@@ -42,3 +42,7 @@ No Tree in this note is a seat. Hands along the bank Turn at their own hearths w
 - [[Maiethlir]] · [[The Hinge Shore]] · [[Maiethvael]] · [[Seinbrun]] · [[Named Ground]]
 - [[Regions]] · [[Orenbren]] · [[Nelath]]
 - [[04 - Settlements]] · [[Climate of Maiethorn]]
+
+## GM Notes
+
+- Do not turn the notches into a second shrine-road.

@@ -3,11 +3,11 @@ title: The Day-Road Count
 type: handout
 visibility: player
 note_status: draft
-tags: [handout, library, rothallo, song, kept, epic-h]
+tags: [handout, library, rothallo, song, kept]
 aliases: [The Close Counting Song]
 reveals: []
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 *A walking song that the school beside the Book's house teaches for the day's road from Rothallo to the wood. Written out on the back of an old sleep-line sheet at the gate, for pilgrims who ask for the words.*

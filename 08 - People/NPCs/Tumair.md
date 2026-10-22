@@ -13,7 +13,7 @@ location: "[[Votaer]]"
 role: classifier of hulls
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Tumair
@@ -51,13 +51,13 @@ Chalk in a pocket that the spray finds. They look at the hold before they look a
 - **[[The Standing Trade]]** — uses this face because a standing travels. Tumair can write a person. They do not sell the standing.
 - **[[Orentel]]** — across the Crossing, three to five days in fair weather. The price is theirs.
 
+## Links
+- [[Votaer]] · [[The Hinge Shore]] · [[Lertho]] · [[Orentel]]
+- [[The Standing Trade]] · [[Taerso]] · [[People of the Turning]] · [[08 - People]]
+
 ## GM Notes
 
 - **Not a Selkie office.** The civic name is Tumair of Votaer. Do not put a hearth-name in the slot. Selkie families work the quay as they work any old water.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261017 --register conservative --count 80` — **Tumair** position 33.
 - **The chalk under the waterline is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
 - **Do not** give them the White Note, a price, or Taerso's life.
-
-## Links
-- [[Votaer]] · [[The Hinge Shore]] · [[Lertho]] · [[Orentel]]
-- [[The Standing Trade]] · [[Taerso]] · [[People of the Turning]] · [[08 - People]]

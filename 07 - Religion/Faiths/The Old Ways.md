@@ -4,20 +4,18 @@ type: faith
 visibility: player
 note_status: fleshed
 status: active
-tags: [religion, faith, heskoren, animism, ancestors, vaeloren, belief-systems]
+tags: [religion, faith, heskoren, animism, ancestors, vaeloren]
 aliases: [Vaeloren, The Before-Faith, The Green Kin, The Unreached, The First Kin]
 world: The Turning
 domain: the land's doors, ancestors, the Struck, the Taken-In
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-10-22
 ---
 
 # The Old Ways
 
-> **The ancestor-and-land faith of [[Heskoren]].** It predates the grafts. It says the Mother's reach is new here, and the land was already making children of its own — the [[The Premise|Struck]], the [[The Taken-In|Taken-In]] — at rivers, drowning-pools, oath-stones, and groves. The Trees are *guests*, not the source. Built with `belief-systems` for [[Roadmap|Story 1.4]]; seeded on [[Heskoren]] and [[The World Frame]].
-
-> **Canon status.** 🔒 **Name locked** (*Vaeloren* / the Old Ways) 2026-08-23. Texture 🟡. The *placement* (pre-graft frontier faith; reveres Struck and Taken-In; real grievance) is 🔒 locked in the geography notes.
+> **The ancestor-and-land faith of [[Heskoren]].** It predates the grafts. It says the Mother's reach is new here, and the land was already making children of its own — the [[Conditions|Struck]], the [[The Taken-In|Taken-In]] — at rivers, drowning-pools, oath-stones, and groves. The Trees are *guests*, not the source.
 
 *(Everyday — and their own common name: **the Old Ways.** Liturgical: **Vaeloren** — vay-LOR-en — *vael* + *oren*. They use **vael** in an older sense: not "a Condition Given" but **what the land yields**. The Motherfaith, they say, *narrowed* the word to a leaf-colour. Vaethorn-pious speech calls them **the Before-Faith**; the Taken-In among them say **the Green Kin**.)*
 
@@ -45,9 +43,9 @@ updated: 2026-08-23
 
 ## Clergy & institutions
 
-Full faction: [[The Door-Keepers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
+The working house is [[The Door-Keepers]]. In outline:
 
-- **Door-keepers** (also **Kin-speakers**) — they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when they can. Not a hierarchy; a reputation. A famous door-keeper is just the one three valleys will walk to. Two jobs, often one mouth.
+- **Door-keepers** (also **Kin-speakers**) — they know which doors still open, they speak at ancestor-meals, they stand for the unvouched Struck when they can. Not a hierarchy; a reputation. A famous door-keeper is just the one three valleys will walk to. Two jobs, often one person.
 - **No seat.** The Old Ways cannot have a mother-church. The land is the seat. Vaethorn's [[The Tree-Wardens|tree-wardens]] find this infuriating and, in a dry year, quietly useful. They walk doors; they do not carry scions.
 
 ## The live schism (the faith arguing with itself)
@@ -59,22 +57,25 @@ Both branches revere the Struck and the Taken-In. That is the load-bearing court
 
 ## In-world text
 
-*Said at a drowning-stone on Heskoren's wet margin, the year after a graft sickened and a child came back from the river Changed. `oblique-worldbuilding` / `paradox-fables`.*
+*Said at a drowning-stone on Heskoren's wet margin, the year after a graft sickened and a child came back from the river Changed.*
 
 > *The tree is young. The water is not. If a mother sent the water she sent it before she sent the leaf, and she has not told the wardens. We will feed both. We will not let either pretend it was first.*
 
-On its face: frontier courtesy, a little barbed. Underneath: the Old Ways' whole case — and the seam they cannot see. They have correctly felt that becoming happens at doors with no healthy Tree. They have not asked whether a hand was in the water too, at the end of its reach.
+It is frontier courtesy, a little barbed. It is the Old Ways' whole case: they have correctly felt that becoming happens at doors with no healthy Tree.
 
 ## Links
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the latecomer · [[What the Year Feels Like]]
-- [[Heskoren]] · [[The Taken-In]] · [[The Premise]] (the Struck) · [[The Child at Four Doors]]
+- [[Heskoren]] · [[The Taken-In]] · [[Conditions]] (the Struck) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Vaethorn]] · [[The Old Tongue]] (the older sense of *vael*)
-- [[The Door-Keepers]] — the working house (Story 5.2)
-- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
+- [[The Door-Keepers]] — the working house
+- [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
+- **Canon status.** The name Vaeloren / the Old Ways is locked (2026-08-23). The texture is still open. The placement (a pre-graft frontier faith that reveres the Struck and the Taken-In, with a real grievance) is locked in the geography notes.
+- **The drowning-stone saying, read underneath.** Authored per `oblique-worldbuilding` / `paradox-fables`. Underneath the courtesy is the Old Ways' whole case, and the seam they cannot see. They have correctly felt that becoming happens at doors with no healthy Tree. They have not asked whether a hand was in the water too, at the end of its reach.
+- **Links (GM).** [[Is the Leaf-Mother Real]] · [[The Other Hands]].
 - **Half-right at the edge.** Per [[The Other Hands]] the land-doors are real (Vaelorn, Ornhael, Eloren) and she does not walk them herself — she authorizes them. The Old Ways have built a whole religion on the part she does not do in person. Keep their grievance real (the grafts *are* late; the Motherfaith *did* talk as if becoming were new). Keep their miss intact: the guests came with her leave.
 - **Frontier mirror of the Watching.** Two old faiths, opposite edges of the world, both remembering something the Motherfaith smooths over. The Watching remembers a Before *at the Tree*. The Old Ways remember a Before *without* one. If a campaign triangulates the keystone, these two plus [[The Open Table]] are the corners. Do not let them agree too easily — they would not.
 - **Vaethorn's guilt-theology is the enemy, not the warden.** The injustice on this continent is scarcity read as unworthiness. The Old Ways refuse that reading (a closed door is weather). A Guest-reading Kin-speaker and a Tender-reading warden can share a dying grove in good faith. A Narrow-Hand preacher calling the Struck "not hers" is who the Old Ways will not eat with.

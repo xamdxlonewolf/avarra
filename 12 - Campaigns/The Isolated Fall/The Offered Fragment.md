@@ -9,12 +9,12 @@ campaign: "[[The Isolated Fall]]"
 world: The Turning
 reveals: [when-the-fire-is-caught]
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # The Offered Fragment
 
-> **GM kit, not a novel.** Still the live front. Hale-month going over into Eolthael, C.Y. 387. Four key moments. One fragment, if they are in the room for it. The house breathes as a sentence the square already owns. It does not arrive.
+> **GM kit, not a novel.** Still the live front. Hale-month going over into Eolthael, Cut-year 387. Four key moments. One fragment, if they are in the room for it. The house breathes as a sentence the square already owns. It does not arrive.
 
 | | |
 |---|---|
@@ -43,11 +43,11 @@ The lamp is in the room. It is not the first thing you describe.
 
 ## What the table can see
 
-- A square between dust and the next month. Fewer extra mouths. The stone still there.
+- A square between dust and the next month. Fewer extra visitors. The stone still there.
 - Rosire with water, grey under the nails, bad at the question *where did you sit before*.
 - The walker, if they are in the room: wings furled, scars they cannot list, a window they prefer to a door.
 - The closed lamp. It leans only if the Gift is near and you have earned the quiet. It is not a parade.
-- The slip's sentence, in a neighbour's mouth or in the drawer if they already found it. Not a new policy.
+- The slip's sentence, said by a neighbour or in the drawer if they already found it. Not a new policy.
 - One fragment on offer: a count, a layout, a name the fire still answers, or a face on a scar. Facts. The player chooses.
 
 ## What stays player choice

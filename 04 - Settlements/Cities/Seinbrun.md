@@ -11,7 +11,7 @@ region: "[[Maiethvael]]"
 population: a large city, with smaller towns and villages around it
 reveals: [keystone-adjacent]
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Seinbrun
@@ -23,9 +23,9 @@ updated: 2026-10-03
 | | |
 |---|---|
 | **Want** | The hall still open to a house that left the hymn. A green that does not have to be earned twice. |
-| **Have** | A furnished hall, a green beside it, medicine, a Hand, three mouths. |
+| **Have** | A furnished hall, a green beside it, medicine, a Hand, three named people. |
 | **Fear** | A household outside the net with nowhere to appeal. A clerk from the river with a tablet. |
-| **Live conflict** | Warmth is real. The bill is piety. |
+| **Live conflict** | Warmth is real, and the price is staying inside the hymn. |
 | **Enters a scene** | A bowl set for someone who is not in the hymn. Pots stacked in the lane. A Kept child pitied at the medicine basket. |
 | **How this city talks** | A hall and a neighbour. No roll. |
 
@@ -35,17 +35,17 @@ Seinbrun is a large city in the warm core of [[Maiethorn]], the capital of [[Mai
 
 The city furnishes greens, a hall, and medicine by congregation and guild. Citizenship is witnessed the way the Motherland witnesses it. There is no [[Naming in the Turning|Threnhael]] here. Counting persons is treated as a failure of trust. The hymns are the same ones [[Polity Archetypes|Threnmaieth]] sings. The paper is not.
 
-It is not [[Maiethlir]]. It is not [[The Down-Bank]]. A traveler can spend the first day below Maiethlir's Down Gate among Gift-folk and still not have arrived. That day is the argument. The bank goes on toward [[The Hinge Shore]]. Seinbrun stands off that water.
+It is not [[Maiethlir]]. It is not [[The Down-Bank]]. Seinbrun is more than a day from Maiethlir, down the Core-thaw and north of Maiethlir on the atlas. This note does not record how much more. A traveler spends the first day below Maiethlir's Down Gate on the Down-Bank among Gift-folk and has still not arrived. The bank goes on toward [[The Hinge Shore]]. Seinbrun stands off that water.
 
 [[Orenbren]] houses the people who are still walking toward the grove. Seinbrun can see that season. It is not an inn on the Near Mile, and it is not coiled on the wood. The [[The Tree-Wardens|First Seat]] stays in the Motherwood. This city does not crown it.
 
 A Hand stands beside the furnished hall. Leaf-Fall is kept there. The colour is Spoken. Nobody copies it onto a roll.
 
-**Leftover job on this street: hospitality.** The extra mile arrives as a meal and a bed, not as a line. Devotion is the hymn. Necessity is a neighbour who has already left it.
+Hospitality is the city's daily work. The extra mile arrives as a meal and a bed, not as a line. The hymn is the devotion. A person who has already left the hymn can still be given a bowl.
 
 ## Ways in
 
-- **From [[Maiethlir]].** Leave the counted river. The Down Gate opens onto [[The Down-Bank]], and the bank is not this seat. Gift-folk use that first day. The city is off the water, a day's argument from the tallied seat, where the hall is.
+- **From [[Maiethlir]].** Leave the counted river. The Down Gate opens onto [[The Down-Bank]], and the bank is not this seat. Gift-folk use that first day. The city is off the water, more than a day from Maiethlir (this note does not record how much more), where the hall is.
 - **From the Near Mile.** The pilgrimage season is visible from here. The beds on that road belong to Orenbren. Seinbrun's door is a hall, not an upper room.
 - **From the grove.** The wood is in sight of the season. It is not inside the city. A pilgrim who asks for the college is pointed at the clearings.
 
@@ -83,13 +83,20 @@ A lamp in the hall window is lit through the afternoon and put out while the pil
 
 ## People
 
-Three mouths. Not a court. Not a roll.
+Three people. Not a court. Not a roll.
 
 - **[[Vuthbraen]]** — keeps the furnished hall. A neighbour says Vuthbraen. A stranger hears Vuthbraen of Seinbrun.
 - **[[Breillai]]** — left the hymn. The green went with it. Still in the city.
 - **[[Raermu]]** — carries the medicine the guild furnishes.
 
 [[Maiethlir]]'s clerks, [[Orenbren]]'s beds, and the college in the wood are other powers. They are not a staff for this hall.
+
+## Links
+- [[Maiethvael]] · [[Powers of the Turning]] · [[Maiethorn]]
+- [[Maiethlir]] · [[The Down-Bank]] · [[Orenbren]] · [[Rothallo]]
+- [[The Tree-Wardens]] · [[Turning Tree]] · [[Law and Citizenship]] · [[The Leaf-Mother]]
+- [[Vuthbraen]] · [[Breillai]] · [[Raermu]] · [[People of the Turning]]
+- [[04 - Settlements]] · [[Roadmap]]
 
 ## GM Notes
 
@@ -100,10 +107,3 @@ Three mouths. Not a court. Not a roll.
 - **Do not** capture the First Seat. Do not date the Tree. Do not name the cutter. Do not make this the kind foil to Threnmaieth. Piety can still price belonging.
 - **One tension.** The net leaves with the hymn. Do not add a second city-problem. Do not draw a ward-grid. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.
-
-## Links
-- [[Maiethvael]] · [[Powers of the Turning]] · [[Maiethorn]]
-- [[Maiethlir]] · [[The Down-Bank]] · [[Orenbren]] · [[Rothallo]]
-- [[The Tree-Wardens]] · [[Turning Tree]] · [[Law and Citizenship]] · [[The Leaf-Mother]]
-- [[Vuthbraen]] · [[Breillai]] · [[Raermu]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]]

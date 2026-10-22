@@ -6,7 +6,7 @@ note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # 01 - World
@@ -29,7 +29,6 @@ The physical setting as its inhabitants understand it — geography, climate, ec
 ## Related
 - [[The Premise]] (world scale & register) · [[Turning Tree]] · [[The Old Tongue]] · [[Polity Archetypes]] · [[Powers of the Turning]] · [[Kinds of the Turning]]
 - [[The Ages of the Turning]] — the era spine the map is a date of
-- [[Roadmap]]
 
 ## GM Notes
 
@@ -37,6 +36,6 @@ The physical setting as its inhabitants understand it — geography, climate, ec
 
 Moved from the player-facing body during residual export polish:
 
-- - **[[Named Ground]]** — waters, the Rain-Wall, four rivers, travel times (Story R.10)
-- - **Powers:** [[Powers of the Turning]] — the fifteen (Story 7.1)
-- - [[Roadmap]] (Epic 3 — The World Frame; Story R.10)
+- **[[Named Ground]]** — waters, the Rain-Wall, four rivers, travel times (Story R.10)
+- **Powers:** [[Powers of the Turning]] — the fifteen (Story 7.1)
+- [[Roadmap]] (Epic 3 — The World Frame; Story R.10)

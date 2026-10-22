@@ -13,7 +13,7 @@ location: "[[Rothallo]]"
 role: gate clerk of the sleep-line
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Breolnir
@@ -51,13 +51,13 @@ Ink on the side of the hand that holds the sand. They ask for a house when the s
 - **[[Brimaen]]** — inside, on a licence. A different page.
 - **[[Maiethlir]]** — clerks with empty tablets. Breolnir does not hand them the Book, and does not hand them the sleep-line either if the sleep-line would become a roll.
 
+## Links
+- [[Rothallo]] · [[Orenbren]] · [[The Walled Book]]
+- [[Brimaen]] · [[Methei]] · [[People of the Turning]] · [[08 - People]]
+
 ## GM Notes
 
 - **Not Delamem.** Do not merge the sleep-line and the Book into one clerk. The disagreement is the tension.
 - **Not the First Seat.** The college is in the wood. Breolnir does not Speak.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261015 --register conservative --count 80` — given **Breolnir** position 30, house **Tethnae** position 63. Clerk: house first.
 - **The sanded line is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-
-## Links
-- [[Rothallo]] · [[Orenbren]] · [[The Walled Book]]
-- [[Brimaen]] · [[Methei]] · [[People of the Turning]] · [[08 - People]]

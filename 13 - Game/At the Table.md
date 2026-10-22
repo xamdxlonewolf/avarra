@@ -9,14 +9,14 @@ aliases: [Table Procedures, Session Zero, Character Creation]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # At the Table
 
 > **What this is.** The session-facing procedures for **The Turning**. Character creation, the Kept deal, Struck-in-play, stacking, advancement, travel, city witnessing, crime, and Leaf-Fall edge cases — in one place a GM can open without hunting six notes. Fiction and law stay on their home notes. This page is the order of operations.
 
-> **Tone.** Neighbours and colleagues. A real obstacle underneath. A Tithe never seizes the PC. ~5% scary.
+> **Tone.** Neighbours and colleagues. Mostly ordinary, with a real danger underneath. A Tithe never seizes the PC.
 
 ## Character creation (order)
 
@@ -38,7 +38,7 @@ Run this once, in this order. Do not invent a second engine.
 
 Kind and Condition **stack**. A Selkie can be Given Two-Bodied. A stock Human can be Struck Returned. Mixed heritage Turns, or is Kept, or is Struck, like anyone else.
 
-They stack even when the fiction rhymes. An **Infernis** who swears a contract is [[Bound]] like anyone else. The born blood is Kind; the contract is Condition. They do not merge, cancel, or become Given-Over by default. Infernis features stay the ancestry's; the Granted Power stays the contract's. The card already says Bound is acquired, never born.
+They stack even when the fiction rhymes. An **Infernis** who swears a contract is [[Bound]] like anyone else. The born blood is Kind; the contract is Condition. They do not merge, cancel, or become Given-Over by default. Infernis features stay the ancestry's; the Granted Power stays the contract's. Bound is acquired, never born.
 
 ## The Kept deal
 
@@ -105,7 +105,7 @@ Tickets name a hazardous *use* (Gaze, Cry, element in a yard), not a Condition. 
 
 Open [[Turning Tree#Questions a warden gets asked]] and read the row. Do not invent a third Tree-outcome or a second-chance year.
 
-The load-bearing sentences, for when you cannot open the table:
+The short version, for when you cannot open the table:
 
 - The Given-door is **one week** in the tenth year.
 - A completed standing (colour or hug, sound wood) is **once**.
@@ -134,10 +134,10 @@ If a scene has a thing that keeps working with no person in it, open [[A Made Th
 | Wilderness danger, a roll on the road | [[Dangers of the Turning]] |
 | A domain card, a Spoken colour | [[How the Work Is Done]] |
 | A made thing | [[A Made Thing]] |
-| Population shares, Given / Struck / Both | [[The Premise]] |
+| Population shares, Given / Struck / Both | [[Conditions]] |
 
 ## Links
-- [[Kind Heritage]] · [[Conditions]] · [[The Premise]] · [[How the Work Is Done]] · [[A Made Thing]]
+- [[Kind Heritage]] · [[Conditions]] · [[How the Work Is Done]] · [[A Made Thing]]
 - [[Law and Citizenship]] · [[Turning Tree]] · [[Named Ground]]
 - [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[13 - Game]]

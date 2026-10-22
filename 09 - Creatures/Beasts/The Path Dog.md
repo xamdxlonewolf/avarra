@@ -10,7 +10,7 @@ category: beast
 habitat: farms, quays, halls, and road-houses
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Path Dog
@@ -21,7 +21,7 @@ The dog is afraid of floodwater. It refuses a flooded path. Handlers who know th
 
 A granary cat, on the same livelihood table, marks spoilage. That is a different animal. This note is the dog.
 
-A [[Two-Bodied]] person in a dog's body is a person. This animal is a dog. The five adversaries on [[Dangers of the Turning]] stay the list for a fight. A dog on a quay is not that list.
+A [[Two-Bodied]] person in a dog's body is a person. This animal is a dog.
 
 ## Links
 

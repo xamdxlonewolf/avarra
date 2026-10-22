@@ -13,7 +13,7 @@ location: "[[Braetu]]"
 role: quotes the far crossing
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Mursur
@@ -51,12 +51,12 @@ Salt on the cuff that is nearest the book. They say the figure, blot it, and say
 - **[[The White Note House]]** — the terms. Not this book.
 - **The unlit berth** — one berth. No house. Not Mursur's to assign.
 
-## GM Notes
-
-- **Not a second Orentel.** One mouth at Braetu. Do not attach a house to the unlit berth. Do not solve the berth. The dark book stays a dark book. Do not put a Kind-name in the civic slot. Selkie stay common and stay off the flag.
-- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261021 --register eroded --count 80` — position 35. Full throwback list on [[Braetu]].
-- **The spill from the cook-fire is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-
 ## Links
 - [[Braetu]] · [[Netstrand]] · [[Orentel]] · [[The White Note House]]
 - [[Selkie]] · [[People of the Turning]] · [[08 - People]]
+
+## GM Notes
+
+- **Not a second Orentel.** One person at Braetu. Do not attach a house to the unlit berth. Do not solve the berth. The dark book stays a dark book. Do not put a Kind-name in the civic slot. Selkie stay common and stay off the flag.
+- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261021 --register eroded --count 80` — position 35. Full throwback list on [[Braetu]].
+- **The spill from the cook-fire is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.

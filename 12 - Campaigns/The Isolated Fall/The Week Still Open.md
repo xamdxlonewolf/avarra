@@ -9,12 +9,12 @@ campaign: "[[The Isolated Fall]]"
 world: The Turning
 reveals: [when-the-fire-is-caught]
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # The Week Still Open
 
-> **GM kit, not a novel.** Early Eolthael, C.Y. 387. The month after Hale. Leaf-Fall is still ahead, and it is not this session. Four key moments. The default fragment is none. The campaign does not close.
+> **GM kit, not a novel.** Early Eolthael, Cut-year 387. The month after Hale. Leaf-Fall is still ahead, and it is not this session. Four key moments. The default fragment is none. The campaign does not close.
 
 | | |
 |---|---|
@@ -25,7 +25,7 @@ updated: 2026-10-05
 
 ## Where it sits
 
-[[The Opening]] was Hale-month. [[The Walk Home]] and [[The Offered Fragment]] used the days after. This kit is the first of Eolthael: fewer dust-mouths, the same stone, the same hush. High Solstice is not on this page. Do not skip to it because the fire has been patient.
+[[The Opening]] was Hale-month. [[The Walk Home]] and [[The Offered Fragment]] used the days after. This kit is the first of Eolthael: fewer dust-season visitors, the same stone, the same hush. High Solstice is not on this page. Do not skip to it because the fire has been patient.
 
 If the table has already walked the witness, Tora may be gone. If they have not, the kitchen is still waiting, and that wait is allowed to be boring. Boring is a civic fact. Do not punish it with a raid.
 
@@ -39,7 +39,7 @@ Eolthael's first mornings are cooler. The cistern-notice is still a notice. Hael
 
 Someone in the square is telling the Phoenix in two tenses again. The telling may now include a child, or a guest, or neither, depending on what the party fed. You do not add a verse.
 
-No new mouth arrives from a far power. The six pivots stay pointed at this front. They do not come to check the work.
+No new person arrives from a far power. The six pivots stay pointed at this front. They do not come to check the work.
 
 ## What the table can see
 
@@ -74,7 +74,7 @@ Haelin counts beds against a Leaf-Fall that is not here yet. A neighbour wants t
 
 ### 2. What travelled
 
-**Mystery — pattern, in other people's mouths.**
+**Mystery — pattern, as other people say it.**
 
 Repeat back, as gossip, only what the party actually did. A walked colour. A guest who burns. A lamp, if they showed it. If they showed nothing, the gossip is the old two tenses and the child who asks for bread. Do not invent a witness who saw the harvest.
 
@@ -136,7 +136,7 @@ Still open, unless they closed it in play:
 
 ## Voices
 
-Use the mouths still in the square. Do not import a new one to deliver theme.
+Use the people still in the square. Do not import a new one to deliver theme.
 
 ### Haelin
 

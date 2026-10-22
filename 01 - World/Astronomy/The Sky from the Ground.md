@@ -10,18 +10,18 @@ aliases: [The Sky, What the Sky Looks Like]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Sky from the Ground
 
-What a person sees. The count of months, the two solstices, and the twelve moon-names are on [[The Reckoning of the Year]]. This note does not list stars.
+What a person sees. The count of months, the two solstices, and the twelve moon-names are on [[The Reckoning of the Year]].
 
 One sun. One moon on the mainland, on a familiar monthly round, enough for nights and for tides. [[The Sundering Isle|Kumbaan]] keeps twelve named moons and does not owe that round a translation.
 
 ## The High Solstice
 
-The longest day. In a square at noon the Tree's shadow sits almost on its own roots. Supper happens in light that should have been gone. Turning-Week is that week of light. Weather does not extend it. A storm can soak the crowd. It cannot move the door.
+The longest day. In a square at noon the Tree's shadow sits almost on its own roots. Supper happens in light that should have been gone. Turning-Week is that week of light. Weather does not extend it. A storm can soak the crowd. It cannot move Turning-Week.
 
 On [[Named Ground|the Rain-Wall]] the sun clears a shelf it does not clear in the Deep, and the snow-line looks further off than it is. On the Old Crossing the day is long and a Hale-month squall can still take the sail. On [[Heskoren]] the same long light falls on a canopy, a bog, or neither, depending on the fold. People argue about what the light did. They are not arguing about a map of stars.
 
@@ -29,7 +29,7 @@ Believers say the Mother timed her choosing to the year's hinge. Skeptics say a 
 
 ## The Deep Solstice
 
-The longest night. The sun is a guest: late, low, and soon gone. Work moves to the hearth. The mainland moon is the light you actually use, when cloud allows. Deathless houses finish their account-closing in this dark. Roads shorten to daylight. Nothing in that is a catalog. A clear Deep night shows the moon and a great many unnamed lights. People do not farm by those lights. They farm by the months.
+The longest night. The sun is a guest: late, low, and soon gone. Work moves to the hearth. The mainland moon is the light you actually use, when cloud allows. Deathless houses finish their account-closing in this dark. Roads shorten to daylight. A clear Deep night shows the moon and a great many unnamed lights. People do not farm by those lights. They farm by the months.
 
 ## Kumbaan's moons
 

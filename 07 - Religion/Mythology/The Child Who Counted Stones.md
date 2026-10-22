@@ -3,12 +3,12 @@ title: The Child Who Counted Stones
 type: myth
 visibility: player
 note_status: fleshed
-tags: [myth, religion, paradox-fable, teaching-story, epic-6, walking]
+tags: [myth, religion, paradox-fable, teaching-story, walking]
 aliases: [The Stone-Count, How Far Is a Ribbon, The Counting Child]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Child Who Counted Stones
@@ -49,6 +49,11 @@ This time the line answers: **Then carry it.**
 - Quay crews count tides instead of stones and leave long silences where the inland line expects a number.
 - Hands-town children use it for skipping games. Walkers dislike this until they hear which numbers the children omit.
 
+## Links
+- [[The Walking Years]] · [[The Ages of the Turning]] · [[The Child at Four Doors]] · [[The Branch That Came Away]] · [[The Child Who Climbed the Stone]]
+- [[Turning Tree]] · [[The Leaf-Mother]] · [[The Old Ways]] · [[The Watching]]
+- [[07 - Religion]]
+
 ## GM Notes (the buried truth)
 
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
@@ -56,8 +61,3 @@ This time the line answers: **Then carry it.**
 - **The paradox sits in the omissions.** The road needs a reliable count; mourning breaks and repairs it. A name can become navigation without ceasing to be a name.
 - **No official ribbon-colour.** A copper-green rag is not a Taken-In. If a warden "reads" mile-shrine ribbons as leaf-colours, they are doing Hands-era overlay on Walking-era rag. Useful as a wrong NPC; do not make it doctrine.
 - **Use it under movement.** Change a verse when the party passes a marked stone. Let an NPC refuse to explain a missing number until camp. This song should cost breath.
-
-## Links
-- [[The Walking Years]] · [[The Ages of the Turning]] · [[The Child at Four Doors]] · [[The Branch That Came Away]] · [[The Child Who Climbed the Stone]]
-- [[Turning Tree]] · [[The Leaf-Mother]] · [[The Old Ways]] · [[The Watching]]
-- [[07 - Religion]] · [[Roadmap]] (Story 6.2)

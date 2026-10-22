@@ -10,46 +10,44 @@ aliases: [Named Terrain, Rivers and the Rain-Wall, Travel Times]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Named Ground
 
-> **What this is.** The physical names the settlements and the Other Count were already using as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks that already existed. Everyday first. No new liturgy. The labelled picture is [[The Known Map]]. How to *draw* a map lives in `14 - Assets/Maps/` — not here. Paintings are not a second gazetteer.
-
-> This list does not add a sixteenth power, date the Tree, or put a graft on [[The Sundering Isle|Kumbaan]] — dead wood is not a Tree.
+> **What this is.** The physical names the settlements and the Other Count use as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks. The labelled picture is [[The Known Map]].
 
 ## How to say it at the table
 
-Speak the common-tongue name. The liturgical reconstruction, if anyone bothers, is a later clerk's hobby. Stance still shows: a devout mouth keeps *th* in the land-names around the name; a dock mouth does not.
+Speak the common-tongue name. The liturgical reconstruction, if anyone bothers, is a later clerk's hobby. Stance still shows: a devout speaker keeps *th* in the land-names around the name; a dock worker does not.
 
 | Everyday | What it is | Who says something else |
 |---|---|---|
 | **the Old Crossing** | the busy water between [[Maiethorn]] and [[Strandoren]] | Lestrand: *the crossing.* Vaethorn: *the waiting-water.* Sailors: *the Crossing.* Threnmaieth wants it on a roll. |
 | **the West Water** | the wider sea between Strandoren and [[Heskoren]] | already the Night Shore's word; the Hush's west clause lives here |
 | **the Rain-Wall** | Maiethorn's central range | [[Lirorn]]-folk: *the Thaw-Wall.* Clerks: *the Divide.* |
-| **the Noon Pass** | the old high road over the Rain-Wall (lost its stone in C.Y. 233) | the courier's *noon-pass*; the water-line is still on the stone |
+| **the Noon Pass** | the old high road over the Rain-Wall (lost its stone in Cut-year 233) | the courier's *noon-pass*; the water-line is still on the stone |
 | **the Shelf-gate** | the pass Narol took after the Break | Threnmaieth named *the new one*; Lirorn charges **Break-rate** |
 | **the Core-thaw** | the river [[Maiethlir]] sits on | clerks: *snowmelt.* Watchers will not. |
 | **the Well-wash** | Rain-Shadow seasonal water | dry most years; silt in a bad thaw |
 | **the Rise-water** | the stream from [[Harrow's Green]] to the hamlets' ford | the Seat still says *the ford* |
 | **the Chart-run** | Strandoren's interior river to [[Orentel]]'s estuary | Lestrand files it as inland tickets reaching salt |
 
-**the Noon Pass** and **the West Water** were already in the mouth; this list locks them beside the rest.
+**the Noon Pass** and **the West Water** were already in everyday use; this list puts them beside the rest.
 
 ## The Old Crossing
 
-The oldest trade route in the world. Narrow enough that a fair-weather hull does it in a handful of days; busy enough that a late storm in Hale-month is still a Kept child. [[The Hinge Shore]] is the Motherland face. [[Orentel]] is the Shore-lands face. The Salt Walk was this water, then the Near Mile.
+The oldest trade route in the world. Narrow enough that a fair-weather hull does it in a handful of days; busy enough that a late storm in Hale-month can make a family miss Turning-Week, and then their child stays UnTurned. [[The Hinge Shore]] is the Motherland face. [[Orentel]] is the Shore-lands face. The Salt Walk was this water, then the Near Mile.
 
 It is not "inner" because a cartographer said so. It is **old** and **close**. The two continents are the Old World pair because this water made them one argument.
 
-What happened on it, dated: [[The Grey Summer]] (C.Y. 171) tied the quays. [[The Hinge Hush]] (C.Y. 304) is the peace still charged as the **Hush-rate**.
+What happened on it, dated: [[The Grey Summer]] (Cut-year 171) tied the quays. [[The Hinge Hush]] (Cut-year 304) is the peace still charged as the **Hush-rate**.
 
 ## The West Water
 
-Wider than the Crossing. This is the Long Mile's sea-leg, the graft-pot's worse berth, [[Netstrand]]'s leftover. [[Braetu]] is the harbour where that crossing is quoted. Heskoren's frontier coast faces it back toward Strandoren. Beyond the last capes, the storm-wall. The Hush's west-water clause lives here: Netstrand quotes the far; Saelvaeth may take a pot without a waiting-due; Vaethorn may bless and may not levy; Ornled is a beach-fee.
+Wider than the Crossing. This is the Long Mile's sea-leg and the worse berth for a graft-pot. [[Netstrand]] quotes the far crossing on this water. [[Braetu]] is the harbour where that crossing is quoted. Heskoren's frontier coast faces it back toward Strandoren. Beyond the last capes, the storm-wall. The Hush's west-water clause lives here: Netstrand quotes the far; Saelvaeth may take a pot without a waiting-due; Vaethorn may bless and may not levy; Ornled is a beach-fee.
 
-Do not book [[The Sundering Isle|Kumbaan]] on this water. A wrecked pot in a sailor's story is allowed. A taking is not.
+[[The Sundering Isle|Kumbaan]] is not on this water. A wrecked pot in a sailor's story is allowed. A taking is not.
 
 ## The Rain-Wall (Lirorn: the Thaw-Wall)
 
@@ -62,7 +60,7 @@ Two passes a table needs:
 - **the Noon Pass** — the old high road. [[The Thaw-Break]] put a water-line over the ribbon-notch. Children rub it. The road to it was gone for two summers.
 - **the Shelf-gate** — the road that was left. Narol of the Pass took the toll when the old stone sat under the water-line. Threnmaieth wanted the new one counted. Lirorn charged them for the water anyway.
 
-Heskoren's highland spines are a *different* weather. Do not hang the Rain-Wall on the frontier.
+Heskoren's highland spines are a *different* weather. They are not the Rain-Wall.
 
 ## Four rivers
 
@@ -70,11 +68,11 @@ Heskoren's highland spines are a *different* weather. Do not hang the Rain-Wall 
 
 Snowmelt off the Rain-Wall's west face. Runs toward the Old Crossing. [[Maiethlir]] sat down where the water slowed enough to hold a Hand — a day's living-earth from the Motherwood, on the *river road*, not [[Orenbren]]'s Near Mile.
 
-The extra mile used to come through with this thaw. Clerks file the spring rise as snowmelt. The Core-thaw runs louder the week before Leaf-Fall. That fact already sits on [[Maiethlir]]. Watchers do not file it. Rithim Speaks over it.
+Clerks file the spring rise as snowmelt. The Core-thaw runs louder the week before Leaf-Fall, and [[Maiethlir]] is where that is known. Watchers do not file it. At Maiethlir the Speaker, [[Rithim]], raises their voice over the river.
 
-In a high Liren the lodging-road meets a near branch of the same water. Thilim's slate — *the summer the ford ran high* — is this river in a bad year, not a fifth name. Below [[Maiethlir]], the same water is [[The Down-Bank]]: the days a traveler already spends before [[The Hinge Shore]] classifies a hull. Not a second river.
+In a high Liren the lodging-road meets a near branch of the same water. The line in [[The Walking Years]], "Eolthael, the summer the ford ran high," is this river in a bad year. It is not a fifth river. Below [[Maiethlir]], the same water is [[The Down-Bank]]: the days a traveller already spends on the way to [[The Hinge Shore]], where the shore inspects the hull. It is not a second river.
 
-[[The Thaw-Break]] (C.Y. 233) is what happens when the Rain-Wall does not thaw as it usually thaws. The Core-thaw took a month in seven days.
+[[The Thaw-Break]] (Cut-year 233) is what happens when the Rain-Wall does not thaw as it usually thaws. The Core-thaw took a month in seven days.
 
 ### the Well-wash
 
@@ -90,7 +88,7 @@ A low stream off Harrow's rise. Downstream it is the ford the Seat used as a geo
 
 ## Climate bands (compact)
 
-For playable week-weather in these bands, see [[Climate of the Turning]]. For forage, crops, disease, Tithe-ecology, and working beasts, see [[Ecology of the Turning]].
+For week-by-week weather in these bands, see [[Climate of the Turning]]. For forage, crops, disease, Tithe-ecology, and working beasts, see [[Ecology of the Turning]].
 
 | Band | Where | Weather |
 |---|---|---|
@@ -141,16 +139,25 @@ The three walks, converted:
 | Eolvaeth | [[Harrow's Green]] | live-front roads | **2–3 weeks** (Eolvaeth cannot see Harrow's, and does not want to) |
 | Harrow's Green | [[Tunral]] | live-front road, coastward, no sightline | **about a week** |
 | Harrow's Green | [[The Three Hamlets Past the Ford]] | the Rise-water | **hours to 1 day** (the canopy is a dark on the far slope) |
+| Harrow's Green | [[Natai]] | west, between Harrow's Green and [[Sanbreo]]; not on the ford | **not recorded** |
 | Vaelun | [[The First Bowl]] | vale track into the Yield, *away* from Harrow's | **1–2 days** |
+| [[Maiethlir]] | [[Seinbrun]] | off the Down-Bank; north of Maiethlir on the atlas | **more than 1 day** (the first day below the Down Gate does not reach it); the rest is **not recorded** |
+| Thaeloren | [[Tasain]] | the west road, below the Shelf-gate; south of Thaeloren on the atlas | **not recorded** |
+| Tasain | [[Larbril]] | the west road over the Shelf-gate; Larbril is east of the Rain-Wall, on the dry side | **not recorded** |
+| Maiethlir | [[The Seeing-Ring]] | a hill in the old Watching country, north-east of Maiethlir on the Known Map (the atlas sheets do not mark it) | **not recorded**; the climb up the hill takes a morning |
+| Orentel | [[Raitin]] | the road inland; south-west of Orentel on the atlas | **not recorded** |
+| Orentel | [[Naenor]] | coasting; south-west of Orentel and south of Raitin on the atlas | **not recorded** |
 | Any mainland quay | Kumbaan | storm-wall | **not a timetable** |
+
+Where the Fair weather column says **not recorded**, the seat note gives a place and a direction but no time. The directions come from the atlas sheets and [[The Known Map]].
 
 A Hale-month storm on the Old Crossing can turn a Salt Walk into a missed year. A thaw-week on the Rain-Wall can turn the Shelf-gate into a lake ([[The Thaw-Break]] closed roads **two summers**). The table is weather, not a promise.
 
-## The remnant stays where the sitting was
+## Rothallo is in Orenbren, not on the Hinge Shore
 
-The surviving Kept regime is **not** a sixteenth flag and **not** a replacement of [[The Hinge Shore]].
+Rothallo and the Walled Book are not a sixteenth flag, and they do not replace [[The Hinge Shore]].
 
-The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retreat closed walls **one day's walk from the Motherwood**, inside [[Orenbren]] lodging-country. That place is [[Rothallo]], still called the Inner Close. The Book is [[The Walled Book]]. A shore-flag cannot carry a remnant that sat the *grove*. The Hinge Shore is the hinge of a different war ([[The Hinge Hush]]). Leave both jobs where they are.
+The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retreat closed walls **one day's walk from the Motherwood**, inside [[Orenbren]] lodging-country. That place is [[Rothallo]], still called the Inner Close. The Book is [[The Walled Book]]. The Walled Book belongs to the grove's country, not to the shore. The Hinge Shore is the hinge of a different war ([[The Hinge Hush]]).
 
 ## Links
 - [[The Known Map]] — the labelled picture · [[The World Frame]] — the reach-gradient
@@ -173,4 +180,4 @@ The Closed Seat was an origin-gate on the grove ([[The Closing]]). Hildal's Retr
 - **Kumbaan never.** Align every later sentence with [[The First Cut]]: wrecked pots allowed; a taking is not.
 - **Rothallo stays in Orenbren.** People still say the Inner Close. The geography pass is closed. Do not move the walls. Do not make a sixteenth power. Do not move the Book to the Hinge Shore to tidy a stub. The First Seat stays in the wood.
 - **The Core-thaw's loud week is already on Maiethlir, and that note does not explain it.** Do not explain it here.
-- **Hooks.** A Hush-rate on a necessity-family; a Shelf-gate closed in Liren; a Rise-water cup the Seat will not name; a Chart-run delay that makes a Grey-verso due; a Well-wash year that looks like Clock 2 at the origin.
+- **Hooks.** A Hush-rate on a necessity-family; a Shelf-gate closed in Liren; a Rise-water cup the Seat will not name; a Chart-run delay that makes a Grey-verso due; a Well-wash year that looks like the thin reach showing up at the origin.

@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, struck, unbound, hollow, contract]
 aliases: [The Unbound, Unbound, The Hollow, Hollow, The Hollowed, The Pledged]
-world:
+world: The Turning
 category: Condition
 monster: (the price of a contract)
 standing: pitied / uneasy
@@ -14,12 +14,12 @@ path: Struck only (chains off Bound)
 population: ~1.5% (inside Bound ~5%)
 reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Unbound
 
-> **What a term-limited [[Bound]] contract leaves behind.** When the term ends, the counterparty releases the person and collects the **Pledge** — the part of themselves they named at signing — and they walk away **unbound**: free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. **Struck only**; it chains off Bound. Rare (~1.5% of all people, counted *inside* Bound's ~5% contract-lane; share from [[The Premise]] — only the subset of Bound whose contracts were term-limited, rather than open-ended). Colloquially still called **the Hollow**, for the absence the freedom cost.
+> **What a term-limited [[Bound]] contract leaves behind.** When the term ends, the counterparty releases the person and collects the **Pledge** — the part of themselves they named at signing — and they walk away **unbound**: free of the contract at last, but left with a hole where a piece of them used to be, exactly as agreed. **Struck only**; it chains off Bound. Rare (~1.5% of all people, counted *inside* Bound's ~5% contract-lane — only the subset of Bound whose contracts were term-limited, rather than open-ended). Colloquially still called **the Hollow**, for the absence the freedom cost.
 
 > **On the name.** The Condition is titled for the *release* — the contract is over, they are **unbound** — but the common tongue fixes on the *cost* and calls them **the Hollow**. Both are true: a freedom, and an absence. The note uses "the Unbound" for the state and "the Hollow" as the lived-in nickname.
 
@@ -30,9 +30,9 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 ## Away from the Tree
 
 **Colour.** None — it chains off Bound; the Tree never named them. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Struck only, and only through Bound. You cannot start here. The engine lives on [[The Premise]]; the cause is [[Bound]].
-**How the square reads it.** [[The Leaf-Mother|Motherfaith]] pities a person who paid; the hug they never got. [[The Fair Hand]] hears a closed book — paid, even, walk. [[The Watching]] names a seeing of an absence. [[The Old Ways]] still count them as kin of the oath-door, not a leftover the Tree refused.
-**Where next.** Chains off [[Bound]] only. No colour, no college, no warmth-guild. Family, an attic, a paid sitting. The [[The Book-Hands|Book-Hands]] settled the year they were Bound; they do not furnish the hole.
+**Path.** Struck only, and only through Bound. You cannot start here. The engine is on [[Turning Tree]]; the cause is [[Bound]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] pities a person who paid with part of themselves. [[The Fair Hand]] hears a closed account: paid in full, so they walk away. [[The Watching]] names a seeing of what is missing. [[The Old Ways]] still count them as kin of the oath-door, not something the Tree refused.
+**Where next.** Chains off [[Bound]] only. No colour, no guild, no school. Family, or a hired companion, keeps an Unbound person company through a long rest. The [[The Book-Hands|Book-Hands]] settled the contract the year the person was Bound, and they do not help with the loss afterwards.
 
 ## Daggerheart — Transformation card
 
@@ -48,6 +48,11 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 
 **A player cannot simply choose the Unbound at character creation.** It is a *downstream* state: you become Unbound only after playing through (or arranging at session zero, with the GM) an actual [[Bound]] contract — establishing **what the contract was, what you Pledged, and the moment the term came due and it was collected.** The Absence must be a specific, agreed loss with real weight, not a free immunity. Talk it through with the GM first.
 
+## Links
+- [[Conditions]] · [[Bound]] (the cause) · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Long-Lived]] (kept whole by *learning*; the Unbound by *connection*)
+- [[The Fair Hand]] · [[The Book-Hands]] · [[The Watching]] · [[The Old Ways]]
+
 ## GM Notes
 
 The Quiet is a **temptation engine**, not a compulsion — keep every "reach for the bargain" beat refusable at a Stress cost. The tragedy to play toward: an Unbound who stops connecting gets loud inside, signs again to quiet it, pays another Pledge, and slides toward the **Given-Over** (see [[Bound]]). Warmth is the only thing that actually fills the hole; contracts only mute it.
@@ -55,8 +60,3 @@ The Quiet is a **temptation engine**, not a compulsion — keep every "reach for
 **Keep the three lanes apart.** Absence stops Stress (or Fear) through the pledged hole. Quiet spends a token to act *anyway*. [[Returned]] unshaken is corpses, gore, and deathly places, and only they get it. If a table is auto-passing every fear roll on both cards, pull it back to those lines.
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[Bound]] (the cause) · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Long-Lived]] (kept whole by *learning*; the Unbound by *connection*)
-- [[The Fair Hand]] · [[The Book-Hands]] · [[The Watching]] · [[The Old Ways]]

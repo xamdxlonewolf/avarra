@@ -6,16 +6,16 @@ note_status: stub
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-11
+updated: 2026-10-22
 ---
 
 # 00 - Core
 
-The spine of the vault. **Canon** = what is actually true. **Cosmology** = how reality works. **Themes** = what the setting explores. **Meta** = how the vault is organized. Much of Core is `visibility: gm`.
+The spine of the vault. **Canon** = what is actually true. **Cosmology** = how reality works. **Themes** = what the setting explores. **Meta** = how the vault is organized. All of Core is `visibility: gm`.
 
 ## Contents
 - **Concept** — [[The Premise]] (the integrated-"monsters" two-layer world) · [[Build Plan]] (fast brief) *(GM)*
-- **Meta** — [[Conventions]] (schema, front-matter, player-export strip rule) · [[Roadmap]] (Epic → Story → Task tracker) · [[The Wardens Ear]] (spoken study for the pitch) · Templates in `00 - Core/Meta/Templates/`
+- **Meta** — [[Conventions]] (schema, front-matter, player-export strip rule) · [[Roadmap]] (Epic → Story → Task tracker) · [[The Wardens Ear]] (spoken study for the pitch) · [[Condition Audit]] (balance review of the ten Conditions) · [[Flight in this World]] (who flies and what each cannot do) · [[Epic 2 Audit Guide]] (history of the society audit) · Templates in `00 - Core/Meta/Templates/`
 - **Canon, Cosmology, Themes** — unused shelf. Nothing has decided an essay for any of the three. The folders stay empty.
 
 ## Related

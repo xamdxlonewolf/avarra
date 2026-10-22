@@ -4,11 +4,11 @@ type: map
 visibility: gm
 note_status: draft
 status: active
-tags: [asset, map, atlas, epic-r, story-r10, epic-a]
+tags: [asset, map, atlas]
 aliases: [Atlas Gallery, Generated Maps, Continent Paintings]
 world: The Turning
 created: 2026-08-30
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # The Atlas Sheets
@@ -563,6 +563,6 @@ Captions, epithets, and the survey footer are off the overlays. Each painted nam
 
 ## Links
 - [[Map Generation Tooling]] — prompts · [[The Known Map]] — labelled schematic
-- [[Atlas Prototype Review]] — selected Prototype 3 and retained alternatives
+- [[Atlas Prototype Review]] — selected Prototype 3. The rejected alternatives were archived on 2026-10-03 and are in [[99 - Archive]] under `Atlas/`
 - [[Named Ground]] · [[The World Frame]]
-- [[14 - Assets]] · [[Roadmap]] (Story R.10 · Epic A · Story M.1 · Story M.2 · Story M.3 · Story M.4 · Story M.5)
+- [[14 - Assets]] · [[Roadmap]]

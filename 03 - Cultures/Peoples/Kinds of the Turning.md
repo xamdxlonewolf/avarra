@@ -4,25 +4,23 @@ type: reference
 visibility: player
 note_status: fleshed
 status: active
-tags: [culture, ancestry, kind, distribution, epic-4]
+tags: [culture, ancestry, kind, distribution]
 aliases: [Kind Distribution, Ancestry Map, The Hearths, Where Kinds Live]
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Kinds of the Turning
 
-> **What this is.** How **Kinds** (born ancestries) sit on the map of **The Turning**. This is the load-bearing [[Roadmap|Story 4.2]] note: it fixes the *distribution rule* so later settlements and casts don't accidentally turn each Kind into a country. Naming — how a person *sounds* — lives in [[Naming People in the Turning]]. Table rulings (Hearth-Mark, Mixed Ancestry, the one surprise keyword) live in [[Kind Heritage]]. The four custom ancestries themselves are already locked ([[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]); this note does not rebuild them.
-
-> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. **Story R.3 (2026-08-30):** the other kitchen; Mixed Ancestry allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind. **Story L.6 (2026-10-02):** stock hearth-glances — where a group is dense, one kitchen, what they do not own. No new features. No Kind-nations. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). A thicker stock pocket is a town fact. Table rulings → [[Kind Heritage]].
+> **What this is.** How **Kinds** (born ancestries) sit on the map of **The Turning**. It fixes the *distribution rule*: no Kind is a country. Naming — how a person *sounds* — lives in [[Naming People in the Turning]]. Table rulings (Hearth-Mark, Mixed Ancestry, the one surprise keyword) live in [[Kind Heritage]]. The four custom ancestries have their own notes ([[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]).
 
 ## The rule
 
 **You are raised by a place, not by your ears.**
 
-A Kind is a birth-shape. Nobody blinks at a fox-tail in a [[Maiethorn]] market or wings on a [[Heskoren]] ridge. Conditions are the becoming the world organizes around; Kinds are the body you brought to the [[Turning Tree|Tree]]. So **there are no Kitsune kingdoms, no Selkie thalassocracies, no Tengu mountain-empires.** Those would be a planet-of-hats, and they would fight the two-layer model.
+A Kind is a birth-shape. Nobody blinks at a fox-tail in a [[Maiethorn]] market or wings on a [[Heskoren]] ridge. Conditions are the becoming the world organizes around; Kinds are the body you brought to the [[Turning Tree|Tree]]. So **there are no Kitsune kingdoms, no Selkie thalassocracies, no Tengu mountain-empires.** Those would make a whole people into one country, and that is not how Kinds work here.
 
 What the customs *do* have are **hearths** — terrain they were born to, where they are *densest*, not exclusive. A hearth is a forest, a coast, a ridge, a dry country, an isle. It is not a flag.
 
@@ -33,7 +31,7 @@ The one exception that proves the rule is the [[Yumboe|Yumboes]]: they are rare 
 | Layer | What it tells you | What it does not |
 |---|---|---|
 | **Kind** | Birth-shape; sometimes a *hearth* (coast, ridge, wood, isle) | Loyalty, faith, legal standing, "which country" |
-| **Condition** | What they became (~75%); Tithe; guild/licence | Ancestry |
+| **Condition** | What they became (most people carry one; shares on [[Conditions]]); Tithe; guild/licence | Ancestry |
 | **Place** | The [[The Old Tongue|drift]] they speak, the institution-names they use, the polity that vouched them, and whether the second name is a byname or a house-name ([[Naming People in the Turning]]) | What ears they have |
 
 A [[Kitsune]] clerk on the [[Polity Archetypes|Lestrand]] docks, a [[Tengu]] pilgrim in [[Polity Archetypes|Threnmaieth]], a [[Selkie]] vouching-witness in [[Polity Archetypes|Vaethorn]] — none of those is a category-error. The interesting collision is always Kind × Condition × *place*.
@@ -48,7 +46,7 @@ The fox-born already come in three Foxes ([[Kitsune#Daggerheart (ancestry featur
 |---|---|---|
 | **Wilds** (red / forest) | tangled wood, hedgerow, Motherwood | densest in [[Maiethorn]]'s Motherwood and [[Heskoren]]'s deep forests |
 | **Snows** (white / high cold) | high snow, pale open country | densest on [[Maiethorn]]'s [[Named Ground|Rain-Wall]] and [[Heskoren]]'s highland spines |
-| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in **[[Maiethorn#The Rain-Shadow|Maiethorn's Rain-Shadow]]** — the leeward east of the Rain-Wall, the one true dry country in the known world |
+| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in **[[Maiethorn|Maiethorn's Rain-Shadow]]** — the leeward east of the Rain-Wall, the one true dry country in the known world |
 
 A Fox of the Sands in a wet [[Strandoren]] harbour is unremarkable (people move). A town in the Rain-Shadow with *no* fox-born at all would be the thing worth asking about.
 
@@ -68,11 +66,11 @@ Tengu settlements cling to crags and are reached by wing or by rope. A lowlander
 
 They keep a running, half-teasing rivalry with the Selkies — sky-folk and sea-folk each convinced their element is the one worth belonging to. That rivalry is cultural colour, not a border.
 
-### [[Yumboe]] — the isle (locked)
+### [[Yumboe]] — the isle
 
-**Kumbaan, and almost nowhere else.** Locked in the ancestry note and in [[The Sundering Isle]]: mythic-rare off the isle; on it, ordinary. No Leaf-Fall, no Given Conditions; Struck possible but rare. Their Kind and their table are their own. A Yumboe on the mainland is usually the only one anyone in that town has ever seen.
+**Kumbaan, and almost nowhere else.** As the ancestry note and [[The Sundering Isle]] say: mythic-rare off the isle; on it, ordinary. No Leaf-Fall, no Given Conditions; Struck possible but rare. Their Kind and their table are their own. A Yumboe on the mainland is usually the only one anyone in that town has ever seen.
 
-Do not give them a mainland hearth. The storm-wall *is* the distribution.
+They have no mainland hearth: the storm-wall keeps them on the isle.
 
 ## How a hearth travels
 
@@ -89,7 +87,7 @@ The civic year happens at home: the drift, the byname, the town that will watch 
 | [[Tengu]] | a season at the **other perch** | a visiting ridge, or a sky-courier family carrying a child over the Old Crossing. First solo flight may be off a crag that is not the home one |
 | [[Yumboe]] | the **hill-feast** | they do not run a diaspora season. The isle *is* the hearth. A Yumboe on the mainland keeps the one register by being the only one in the room |
 
-Families who cannot send still teach at home. Poverty, a sick Tree-year, a war, a child needed on the boat — the register survives those. What the other kitchen does is keep a *dispersed* Kind from thinning into twenty private dialects. A fox-born child who has never left Hallowquay still answers to a Kusawe name because someone who *had* left came through with a market and a mouth.
+Families who cannot send still teach at home. Poverty, a sick Tree-year, a war, a child needed on the boat — the register survives those. What the other kitchen does is keep a *dispersed* Kind from thinning into twenty private dialects. A fox-born child who has never left Hallowquay still answers to a Kusawe name because someone who *had* left came through to trade and talk.
 
 What travels instead of a flag:
 
@@ -120,7 +118,7 @@ Condition arrives on its own clock. A mixed-Kind child Turns, or is Kept, or is 
 
 ## Stock ancestries (the other eighteen)
 
-Daggerheart's stock ancestries ([[Build Plan|Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah]]) live **everywhere the Trees do**. They are not given continents. A few of them are more common in some kinds of country. That is a tendency, not a law. The sections below name those tendencies. They also name the ancestries that did not have one yet.
+Daggerheart's stock ancestries (Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah) live **everywhere the Trees do**. They are not given continents. A few of them are more common in some kinds of country. That is a tendency, not a law. The sections below name those tendencies. They also name the ancestries that did not have one yet.
 
 **You are raised by a place, not by your ears.** The tendencies are not rules. A Ribbet judge in inland [[Polity Archetypes|Threnmaieth]] is ordinary. A Giant on a [[Polity Archetypes|Lestrand]] dock is ordinary. A Giant who works as a Lestrand banker is ordinary too. If a town has more of one ancestry, that is a fact about the town. [[Raillath]], [[Denlad]], and [[Tunral]] do not belong to any ancestry. [[Maiethlir]] and [[Orentel]] do not belong to any ancestry.
 
@@ -220,28 +218,28 @@ Infernis are born with demon blood. They are not [[Bound]]. The blood and the co
 
 **What they do not own.** The contract, Bound, or a homeland.
 
-## What this does to later work
-
-- **[[Roadmap|Epic 5]] factions** recruit by Condition, guild, and faith, not by Kind. A tree-warden order that was "Kitsune-only" would be a smell.
-- **[[Roadmap|Epic 7]] settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind. [[Ornsael]] is the worked example: fox-market by the well, mixed Kinds, no gate. A stock pocket is the same kind of fact: a creek, a street, a crew. The town stays mixed. The pocket does not become a seat, a guild, or a feature.
-- **[[Roadmap|Epic 8]] people** get a Kind (including a mainland mix), a Condition or Kept, and a *place*. The place names them; see [[Naming People in the Turning]]. A mixed-Kind childhood is a kitchen question, not a tragic half-blood plot. [[Yumboe]] stay GM-leave and whole.
-- **Table rules** for feature count, Mixed Ancestry, and the Hearth-Mark → [[Kind Heritage]].
+Table rules for feature count, Mixed Ancestry, and the Hearth-Mark are in [[Kind Heritage]].
 
 ## Links
-- [[The Premise]] — Kind + Condition · [[Build Plan]] — stock roster
+- [[Conditions]] — what sits on top of a Kind
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[Maiethorn]] (Rain-Shadow, Motherwood, Rain-Wall) · [[Strandoren]] (Selkie coasts) · [[Heskoren]] (ridges, wild woods) · [[The Sundering Isle]] · [[Named Ground]]
 - [[Naming People in the Turning]] · [[Naming in the Turning]] · [[Daily Life]]
 - [[Kind Heritage]] — Hearth-Mark, Mixed Ancestry, one surprise keyword
 - [[Ecology of the Turning]] — the larder these kitchens use · [[The Element-Guilds]] · [[Bound]] · [[At the Table]]
-- [[Roadmap]] (Story 4.2; Story R.3; Story L.6) · [[03 - Cultures]]
+- [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
 - **Distribution is a reach-tell only for the Yumboes.** Mainland Kind-hearths are mundane geography (foxes in woods, seals on coasts, crows on ridges). Kumbaan's isolation is the one Kind-fact that *also* maps the [[Is the Leaf-Mother Real|keystone edge]]: no Tree, no Gift, a people who are themselves without her. Don't let a player-facing read treat "Yumboes have no Conditions" as a racial immunity — it is a *place* fact ([[The Other Hands]]).
-- **Do not grow Kind-nations later.** If Epic 7 wants a "fox principality," make it a Rain-Shadow *polity* that happens to be Fox-dense, running on the same theology/reach/governance axes as everyone else. The moment a government is *for* a Kind, the two-layer model has started to rot.
+- **Do not grow Kind-nations later.** If a later note wants a "fox principality," make it a Rain-Shadow *polity* that happens to be Fox-dense, running on the same theology/reach/governance axes as everyone else. The moment a government is *for* a Kind, the two-layer model has started to rot.
 - **The lost fourth Fox is a grandmother's word.** If you ever use it, use it as folklore that stayed when a hearth died (a vanished dry-lake, a wood that was cut). Do not turn it into a secret ancestry feature. The Fungril spoonful is the same kind of habit. Do not turn that into a feature either.
 - **The other kitchen is not a faction.** If a later pass builds "the fox-summer office," it has become a Kind-nation in a summer hat. Keep it families, couriers, and a grandmother who does the summers.
 - **L.6 glances stay in this note.** Nine groups, not eighteen countries. Do not file a Kind-nation note beside them. Do not charter the warm bench. Infernis stay born, and stay off any Bound homeland. A Ribbet inland and a Giant on a Lestrand dock stay ordinary. Do not move Hearth-Mark, Mixed Ancestry, or the surprise keyword off [[Kind Heritage]].
 - **Mainland Mixed Ancestry is the SRD rule.** Do not walk it back to one-Kind-unless-asked. [[Yumboe]] stay GM-leave and the full Kind; do not invent a blood-purity sermon to justify it.
+- **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): hearths, not nations; the four custom hearths; stock ancestries lean. **Story R.3 (2026-08-30):** the other kitchen; Mixed Ancestry allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind. **Story L.6 (2026-10-02):** stock hearth-glances — where a group is dense, one kitchen, what they do not own. No new features. No Kind-nations. Resting on earlier locks: Kind is mundane and stacks with Condition ([[The Premise]]); the four customs are locked; [[Yumboe|Yumboes]] are native to [[The Sundering Isle|Kumbaan]] and mythic-rare off it; polities are corners of theology / reach / governance, not blood ([[Polity Archetypes]]). A thicker stock pocket is a town fact. Table rulings → [[Kind Heritage]].
+- **For later notes.**
+    - **Factions** recruit by Condition, guild, and faith, not by Kind. A tree-warden order that was "Kitsune-only" would be a smell.
+    - **Settlements** can have a hearth-neighbourhood (a Selkie quay, a Tengu perch, a Rain-Shadow fox-market) without the town *being* that Kind. [[Ornsael]] is the worked example: fox-market by the well, mixed Kinds, no gate. A stock pocket is the same kind of fact: a creek, a street, a crew. The town stays mixed. The pocket does not become a seat, a guild, or a feature.
+    - **People** get a Kind (including a mainland mix), a Condition or Kept, and a *place*. The place names them; see [[Naming People in the Turning]]. A mixed-Kind childhood is a kitchen question, not a tragic half-blood plot. [[Yumboe]] stay GM-leave and whole.

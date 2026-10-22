@@ -10,22 +10,22 @@ aliases: [The Sundered Reach, The Frontier, The Far Lands, Heskorn, The Waiting 
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Heskoren
 
-> **What this is.** The **Sundered Reach** — the frontier continent of [[The World Frame|the world]], sprawling west and south beyond [[Strandoren]]'s far coast. Reached late, grafted late: **thin reach**, Tree-poor margins running heavy on the [[Law and Citizenship|Kept and the Struck]], custom outrunning written law. The edge of the settled world. Home of **[[Polity Archetypes|Vaethorn]]** (the Waiting Lands). Built with `systemic-worldbuilding` for [[Roadmap|Epic 3]].
+> **What this is.** The **Sundered Reach** — the frontier continent of [[The World Frame|the world]], sprawling west and south beyond [[Strandoren]]'s far coast. Reached late, grafted late: **thin reach**, Tree-poor margins running high on the [[Law and Citizenship|Kept and the Struck]], custom outrunning written law. The edge of the settled world. Home of **[[Polity Archetypes|Vaethorn]]** (the Waiting Lands).
 
-> **Canon status.** 🟡 Proposed. 🔒 bones: thin reach; the Waiting Lands sit here ([[Polity Archetypes]]); the *worn* [[The Old Tongue|Old-Tongue drift]] — rough-warm folk-speech that wears written *Vaethorn* to spoken **Wetorn** and restores the thorn in prayer.
+The speech here is the *worn* [[The Old Tongue|Old-Tongue drift]]: rough, warm folk-speech that wears written *Vaethorn* to spoken **Wetorn** and restores the thorn in prayer.
 
 *(worn to **Heskorn** in daily speech · coined root **hesk-** "far/outer edge" + [[The Old Tongue|orn]] "land" = "the Outer Land." A frontier coinage; the root doesn't appear in the old liturgy because the liturgy is older than the frontier's grafting.)*
 
 ## Overview
 
-Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiethorn]] is old and full and [[Strandoren]] is rich and connected, Heskoren is *young, thin, and waiting* — a broad, rugged, half-settled land where the grafts came recently, take poorly, and sicken often, so that whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs heavy on the [[Law and Citizenship|Kept]] (children who reached no healthy Tree at ten) and the [[The Premise|Struck]] (people who changed later, alone, unwitnessed) — and it is the continent where the [[The Leaf-Mother|Motherfaith]] burns *hottest*, because scarcity of the gift answers not with less devotion but with more: pilgrimage, longing, and a whole theology of *waiting*. In [[The Walking Years]] that pattern was the *rule* of distance (the Long Mile); some districts are still on it. Do not let history agree with Vaethorn's guilt-theology — distance did this, not unworthiness.
+Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiethorn]] is old and full and [[Strandoren]] is rich and connected, Heskoren is *young, thin, and waiting* — a broad, rugged, half-settled land where the grafts came recently, take poorly, and sicken often, so that whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs high on the [[Law and Citizenship|Kept]] (children the leaves hugged) and the [[Law and Citizenship|Struck]] (people who changed later, alone, unwitnessed), and it has many UnTurned children (who reached no healthy Tree at ten). It is also the continent where the [[The Leaf-Mother|Motherfaith]] burns *hottest*, because scarcity of the gift answers not with less devotion but with more: pilgrimage, longing, and a whole theology of *waiting*. In [[The Walking Years]] that pattern was the *rule* of distance (the Long Mile); some districts are still on it. Distance and history did this, not unworthiness.
 
-**The fresh angle:** the fantasy frontier is usually lawless-and-brutal or noble-savage-pristine. Heskoren is neither — it is *warm, poor, and self-reliant*, the kindest place in the world to a whole neighbour and the loneliest to an unvouched one, where the danger isn't raiders but a **lapsing Condition with no infirmary to reach** and a faith that consoles what it cannot cure. Its cruelty is quiet and theological: scarcity of the gift shading into a doctrine of *unworthiness*.
+Heskoren is warm, poor, and self-reliant. It is the kindest place in the world to a whole neighbour and the loneliest to an unvouched one. The danger is seldom raiders. It is a **lapsing Condition with no infirmary to reach**, and a faith that consoles what it cannot cure. The cruelty is quiet and theological: scarcity of the gift shading into a doctrine of *unworthiness*.
 
 ## Geography & Climate
 
@@ -34,25 +34,25 @@ Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiet
 - **The frontier coast** faces **[[Named Ground|the West Water]]** back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it. [[Eolvaeth]] is a vale *behind* this coast, not a live-front luck.
 - **Climate**: cooler, wetter, wilder than Maiethorn/Strandoren; a land where the solstice-timed [[Turning Tree|Leaf-Fall]] is a hard-won event of a decade, not a yearly certainty.
 
-Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Heskoren]].
+Week-by-week weather, crops, sickness, and livelihood ecology: [[Climate of Heskoren]].
 
 ## Reach
 
-**Thin — the ground-level face of the [[Is the Leaf-Mother Real|keystone edge]].** Grafts young, scattered, and prone to sickening; the [[Law and Citizenship|three pillars]] stretched thin (few [[Long-Lived]] to remember, few [[Bound]] to vouch), so citizenship-by-witness is *fragile* and the **unvouched Struck** are a constant, aching problem met with faith rather than machinery. High Kept, high Struck, low specialist infrastructure. In-world this reads as plain distance-and-history ([[The Ages of the Turning]] — Heskoren is the Grafting *this decade*, not a closed age); the deeper cause stays GM-side.
+**Thin.** Grafts young, scattered, and prone to sickening; the [[Law and Citizenship|three pillars]] stretched thin (few [[Long-Lived]] to remember, few [[Bound]] to vouch), so citizenship-by-witness is *fragile* and the **unvouched Struck** are a constant, aching problem met with faith rather than machinery. High Kept, high Struck, low specialist infrastructure. People put it down to distance and history ([[The Ages of the Turning]] — Heskoren is the Grafting *this decade*, not a closed age).
 
-How the wood got here is [[The First Cut]]: C.Y. 200–387, still incomplete. The gap after Strandoren's coasts is **dead wood on the Long Mile**, a chain of Hands that had to grow up, and a queue that preferred a paying next — not unworthiness. Vaethorn will preach otherwise. History does not agree. Old Ways host-rights start at the planting: the first meal, or a claiming. Lived front, present tense: [[The Years of Hands]] — [[Harrow's Green]] as the neighbour's canopy; [[The Three Hamlets Past the Ford]] still walking this year (Brenod · Vaelun · Ornath).
+How the wood got here is [[The First Cut]]: Cut-year 200–387, still incomplete. The gap after Strandoren's coasts is **dead wood on the Long Mile**, a chain of Hands that had to grow up, and a queue that preferred a paying next — not unworthiness. Vaethorn will preach otherwise. History does not agree. Old Ways host-rights start at the planting: the first meal, or a claiming. Lived front, present tense: [[The Years of Hands]] — [[Harrow's Green]] as the neighbour's canopy; [[The Three Hamlets Past the Ford]] still walking this year (Brenod · Vaelun · Ornath).
 
 ## Powers & Polities
 
 - **[[Polity Archetypes|Vaethorn]] — the Waiting Lands** *(theology high · reach low · governance low)*. The frontier touchstone with the theology knob turned all the way up: ardent faith, thin Trees, almost no state — a warm, poor, half-lawless pilgrim edge whose ruling mood is *waiting* for a graft to take, for a gift that may not come. Its injustice is a **guilt** (scarcity read as unworthiness), not a boot. Seat: [[Eolvaeth]] (pilgrim-edge vale; not [[Saelvaeth]]'s march).
-- **The other three (named-stubs → [[Powers of the Turning]]).** [[Ornled]] (the Outer Ledger — **secular frontier**, required corner; the slate is kept at [[Sanbreo]]) · [[Vaelhesk]] (the Far Yield — Old Ways host-rights; the land is the seat) · [[Saelvaeth]] (the Sown Waiting — live front as a march; the march-voice stands at [[Natai]]; [[Harrow's Green]] in its orbit, not as that seat; fleshed Story 7.2). Fewer, poorer, scattered; un-polity'd wild still fills the space between.
+- **The other three ([[Powers of the Turning]]).** [[Ornled]] (the Outer Ledger — **secular frontier**, required corner; the slate is kept at [[Sanbreo]]) · [[Vaelhesk]] (the Far Yield — Old Ways host-rights; the land is the seat) · [[Saelvaeth]] (the Sown Waiting — live front as a march; the march-voice stands at [[Natai]]; [[Harrow's Green]] in its orbit, not as that seat). Fewer, poorer, scattered; un-polity'd wild still fills the space between.
 
 ## Faith
 
 Two faiths in tension, and the friction is the frontier's own:
 
 - The **[[The Leaf-Mother|Motherfaith]]** burns hottest here (see Vaethorn) — a theology of longing and pilgrimage grown around the scarce gift.
-- **[[The Old Ways]]** (*Vaeloren*). An **animist / ancestor faith** that *predates the grafts*: **"the Mother's reach is new here — we had our own ways before her Trees came."** It reveres the [[The Premise|Struck]] and the [[The Taken-In|Taken-In]] as the land's own children, and resents the Motherfaith as a latecomer. Real theological standing, real grievance. Full build: [[The Old Ways]] · map: [[Faiths of the Turning]]. *(A keystone-adjacent faith — see GM Notes.)*
+- **[[The Old Ways]]** (*Vaeloren*). An **animist / ancestor faith** that *predates the grafts*: **"the Mother's reach is new here — we had our own ways before her Trees came."** It reveres the [[Law and Citizenship|Struck]] and the [[The Taken-In|Taken-In]] as the land's own children, and resents the Motherfaith as a latecomer. Real theological standing, real grievance. Full build: [[The Old Ways]] · map: [[Faiths of the Turning]].
 
 ## Story hooks
 
@@ -67,13 +67,16 @@ The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To dr
 ## Links
 - [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · [[Climate of Heskoren]] · neighbours: [[Maiethorn]] · [[Strandoren]] · [[The Sundering Isle]]
 - [[Polity Archetypes]] (Vaethorn; seat [[Eolvaeth]]) · [[Powers of the Turning]] · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] · [[The Old Ways]] · [[The Old Tongue]] (worn drift) · [[Law and Citizenship]] (the unvouched Struck)
-- [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]] · [[Is the Leaf-Mother Real]] (the reach-edge)
+- [[The Taken-In]] · [[Turning Tree]] (grafts that sicken) · [[The Premise]]
 - [[Kinds of the Turning]] · [[Tengu]] · [[Kitsune]] · [[Selkie]]
-- [[Roadmap]] (Epic 3; Epic 6 complete) · [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[01 - World]]
+- [[The Ages of the Turning]] · [[The Walking Years]] · [[The First Cut]] · [[The Years of Hands]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **Heskoren is the sharpest in-world test of the keystone edge — protect it.** Per [[Polity Archetypes]], the Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer ([[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]]) is exactly the answer that would land hardest and cruellest here — it would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is *young/sick/scarce grafts* (true as far as it goes) and history ([[The Ages of the Turning]] — Clock 2 still moving). The gap between "true as far as it goes" and the whole truth is where the play lives.
-- **The old ways may be half-right for the wrong reasons.** [[The Old Ways]] revere the Struck and Taken-In as *the land's own, made without the Tree* — and on a near-Treeless frontier, people genuinely do become things without a healthy Tree nearby. That's a live thread: they are the frontier mirror of [[The Watching]] — two old faiths, at opposite edges of the world, both remembering something the Motherfaith smooths over. Whether they're *right* about the Mother stays keystone-gated.
-- **This is where the "secular frontier" corner lives.** [[Ornled]] (Story 7.1). Low theology · low reach · low governance — a harder, colder Vaethorn with the faith burned out instead of up. Do not rebuild it into a Wild West.
+- **Status and build.** Built with `systemic-worldbuilding` for Epic 3 ([[Roadmap]]). Proposed, with these bones locked: thin reach; the Waiting Lands sit here ([[Polity Archetypes]]); the worn Old-Tongue drift.
+- **Do not let history agree with Vaethorn's guilt-theology.** Distance did this, not unworthiness. The frontier is neither lawless-and-brutal nor pristine; its cruelty is quiet.
+
+- **Heskoren is the sharpest in-world test of the keystone edge — protect it.** Per [[Polity Archetypes]], the Waiting Lands are *the place a devout population most wants an explanation for the thin gift.* The true answer ([[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]]) is exactly the answer that would land hardest and cruellest here — it would confirm the guilt-theology's worst fear. Never let a player-facing note assert it. In-world the thin reach is *young/sick/scarce grafts* (true as far as it goes) and history ([[The Ages of the Turning]] — the grafting is still spreading on Heskoren). The gap between "true as far as it goes" and the whole truth is where the play lives.
+- **The old ways may be half-right for the wrong reasons.** [[The Old Ways]] revere the Struck and Taken-In as *the land's own, made without the Tree* — and on a Tree-poor frontier, people genuinely do become things without a healthy Tree nearby. That's a live thread: they are the frontier mirror of [[The Watching]] — two old faiths, at opposite edges of the world, both remembering something the Motherfaith smooths over. Whether they're *right* about the Mother stays keystone-gated.
+- **This is where the "secular frontier" corner lives.** [[Ornled]]. Low theology · low reach · low governance — a harder, colder Vaethorn with the faith burned out instead of up. Do not rebuild it into a Wild West.

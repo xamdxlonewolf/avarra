@@ -3,17 +3,17 @@ title: The Child at Four Doors
 type: myth
 visibility: player
 note_status: fleshed
-tags: [myth, religion, paradox-fable, teaching-story, epic-1]
+tags: [myth, religion, paradox-fable, teaching-story]
 aliases: [The Four Doors, The Child Who Waited, The Shared Fable]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-23
+updated: 2026-10-22
 ---
 
 # The Child at Four Doors
 
-> **A teaching-story told in every house.** The bones stay the same; the last line does not. Built as a `paradox-fable` for [[Roadmap|Story 1.4]] — the argument of [[Faiths of the Turning]] in a form that will not resolve. Children hear their own ending first. Travellers hear the others and do not sleep well.
+> **A teaching-story told in every house.** The bones stay the same; the last line does not. This is the argument of [[Faiths of the Turning]] in a form that will not resolve. Children hear their own ending first. Travellers hear the others and do not sleep well.
 
 ## The story (as told)
 
@@ -49,7 +49,7 @@ Skeptics of every faith tell a seventh ending, which is not kind and is very sho
 
 ## Variants
 
-- On [[Maiethorn]] the four doors are carved on the underside of old lintels; wardens call it decoration.
+- On [[Maiethorn]] the four doors are carved on the underside of old door-beams; wardens call it decoration.
 - On [[Strandoren]] it is a quay-song with a chorus the Bound like: *name the term or get up.*
 - On [[Heskoren]] the river-stone door is told first, and the Tree is the third, and some tellers omit the book entirely.
 - On [[The Sundering Isle|Kumbaan]] there is only the table. The other doors are "mainland verses," told as a curiosity after the dishes, if a guest insists.

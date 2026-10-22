@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: stub
 status: active
-tags: [faction, government, polity, heskoren, old-ways, epic-7]
+tags: [faction, government, polity, heskoren, old-ways]
 aliases: [The Far Yield, Vaelhesk-folk, the Host-Lands]
 world: The Turning
 category: government
@@ -12,12 +12,12 @@ seat: unnamed — the land is the seat
 public_face: old greens that keep host-rights — the first meal before anyone's leave
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Vaelhesk
 
-> **The Far Yield.** *(formal *Vaelhesk*, VAEL-hesk · [[The Old Tongue|vael]] in the older sense, "what the land yields" + *hesk-* "far/outer edge.")* Worn frontier coinage. Theology **mid** on the Motherfaith knob, high as Old Ways practice. Reach low · governance low.
+> **The Far Yield.** *(formal *Vaelhesk*, VAEL-hesk · [[The Old Tongue|vael]] in the older sense, "what the land yields" + *hesk-* "far/outer edge.")* Worn frontier coinage. Devotion to the Motherfaith is middling; devotion to the Old Ways is high. Reach is low and the government is light.
 
 People say **the Far Yield** and **the Yield**. Charters and learned maps write *Vaelhesk*. This keeps the spoken name clear of *Vaethorn*.
 
@@ -27,9 +27,9 @@ Pre-graft host-lands on [[Heskoren]]: old greens, ancestor-doors, first meals. T
 
 Struck and [[The Taken-In]] are read as the land's own children. A neighbour's week to a Motherfaith Tree can be refused on purpose — the child is already the hill's. Vaethorn reads those children as Kept-for-want. That disagreement decides whether a child travels.
 
-**Site.** Heskoren's old greens, not only the live front. Leftover: **guest-grove**, seated as [[The First Bowl]] (folk *Lonasir*). Play with the Door-Keepers and with Nethiro at Vaelun. Not a capital. The land is the seat. There is no new city and no new name. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door. The First Bowl stays the guest-grove it already is.
+**Site.** Heskoren's old greens, not only the live front. Its guest-grove is [[The First Bowl]] (folk *Lonasir*). It is not a capital. The land is the seat. There is no new city and no new name. Villages and hamlets stay on the old greens. A traveler who asks for the seat is pointed at a door. The First Bowl stays the guest-grove it already is.
 
-**How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (C.Y. 200–387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal. [[The Thaw-Break]] moved wet guests to high doors. [[The Hinge Hush]] does not write them: a first meal is not a landing-due. Netstrand crews who skip it learn this without a treaty.
+**How it formed.** Animist/ancestor polities that predate the wave. When grafts arrived (Cut-year 200 to 387, still arriving), some districts became Vaethorn. These kept the door. Low state because the land does not need a clerk to be owed a meal. [[The Thaw-Break]] moved wet guests to high doors. [[The Hinge Hush]] does not write them: a first meal is not a landing-due. Netstrand crews who skip it learn this without a treaty.
 
 **What they remember.** Host-rights older than a Cut-year; a waiting-gospel that called refusal deprivation. Chronicle: [[The Other Count]].
 
@@ -43,15 +43,17 @@ Feed the first meal. Name a Struck at the door that made them. Treat a warden wi
 
 **Its injustice.** **Host-rights as a claim that can shun.** Refuse the meal, take the wood, and you are not a neighbour. A Road-hand on a clock can become a trespasser for following a Seat sentence. Kindness with a threshold. The injustice is local and real; it is not holy war.
 
+## Links
+- [[Powers of the Turning]] · [[Heskoren]] · [[The Old Ways]] · [[The Door-Keepers]]
+- [[Polity Archetypes]] · [[The First Cut]] · [[Settlement Seeds]]
+- [[The Three Hamlets Past the Ford]] · [[The First Bowl]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
+
 ## GM Notes
 
-- **Production (R.13).** Moved off the player body:
-- Named-stub for [[Roadmap|Story 7.1]].
+- Play the guest-grove with the Door-Keepers and with Nethiro at Vaelun.
 - Do not flesh districts.
 - Do not make a Taken-In nation.
 - Do not clone a second Harrow.
-- **Canon status.** 🟡 **Named stub.** The seat stays a refusal (S.3).
-- Seed `20260827`.
 - The land is the seat. Do not name a city to tidy it. Do not write a new place-note. Do not give the refusal a person. Villages and hamlets stay on the old greens. A traveler is pointed at a door.
 - Do not clone [[Harrow's Green]].
 
@@ -59,9 +61,3 @@ Feed the first meal. Name a Struck at the door that made them. Treat a warden wi
 - **Hearths, not nations.** Taken-In honoured. Mixed Kinds.
 - **The vael/vaeth pair.** Yield vs waiting. Same continent, opposite first syllable. A scholar may notice; Vaethorn and Vaelhesk already *feel* it.
 - **Hooks.** A first meal before a Cutting-leave at [[The First Bowl]]; a refused neighbour's week; do not sicken that guest to merge types — the sick-Tree is [[The Mill-hold]]. Three hamlets past the ford with an Old Ways hearth among Motherfaith ones.
-
-## Links
-- [[Powers of the Turning]] · [[Heskoren]] · [[The Old Ways]] · [[The Door-Keepers]]
-- [[Polity Archetypes]] · [[The First Cut]] · [[Settlement Seeds]]
-- [[The Three Hamlets Past the Ford]] · [[The First Bowl]] · [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
-- [[Roadmap]] (Story 7.1; history R.9)

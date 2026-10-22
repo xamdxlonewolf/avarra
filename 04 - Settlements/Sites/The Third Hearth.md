@@ -4,14 +4,13 @@ type: site
 visibility: player
 note_status: fleshed
 status: active
-tags: [site, road-house, near-mile, epic-7, story-7-2, deathless, orenbren]
+tags: [site, road-house, near-mile, deathless, orenbren]
 aliases: [Thilim's House, The Third Hearth on the Near Mile, Seine's Bed, Brenthael]
 world: The Turning
-region: "[[Maiethorn]]"
-stratum:
+region: "[[Orenbren]]"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # The Third Hearth
@@ -35,92 +34,86 @@ updated: 2026-10-03
 
 An old Near-Mile house on [[Maiethorn]], three days' walk out from [[Turning Tree|Thaeloren]] toward the approach-country. Beds, porridge, a dry room, a green-lot, a shed. In Brenvaeth it sold the walk you could not miss twice. In Ornthael it still opens for Eolthael.
 
-It sits in [[Orenbren]]'s lodging-country — civic beds within a week's walk of the grove — and is a seed of that type, not the compact's throne. The inns grew a country. This is one mouth.
+It sits in [[Orenbren]]'s lodging-country — civic beds within a week's walk of the grove — and is a seed of that type, not the compact's throne. The inns grew a country. This is one house.
 
-**Leftover job on this street: devotion** — the extra mile as civic season. The loft still sleeps necessity and, rarely, prestige; Thilim can tell who is which. They will not always tell you. Do not make all three the house's *theme.* The White Note sells the First-Hand year. This house makes the bed.
+The house's older work is devotion: the extra mile as civic season. The loft still sleeps necessity and, rarely, prestige; Thilim can tell who is which. They will not always tell you. The White Note sells the First-Hand year. This house makes the bed.
 
-The Ledger Coast calls this a bed-house that failed to become a bank. Thilim asks which mouths will be here at dark. One description prices the building; the other decides whether supper is enough.
+The Ledger Coast calls this a bed-house that failed to become a bank. Thilim asks who will be here at dark. One description prices the building; the other decides whether supper is enough.
 
 ## Site
 
 The Near Mile is a week's door to the origin. Counted from the grove outward: first hearth a day out, second, **third**. Pilgrims walking *in* hit the neighbour-town first.
 
-**Brenthael** stands a day's walk further from the grove than the inn — a Hands-town that grew around a graft planted beside the road. The pilgrim-way now **ends at Brenthael's Tree**. Beyond the boughs: mill, timber, the rest of Maiethorn. Children there are told the road goes to the Motherwood. It does, if they keep walking past the inn, two more hearths, and the wood. Most Hands-children do not.
+**Brenthael** stands a day's walk further from the grove than the inn — a Hands-town that grew around a graft planted beside the road. Brenthael's own children Turn at home, under that Tree, and the Mile goes on past it: [[Raillath]], then [[The Mill-hold]], then the rest of Maiethorn. Children there are told the road goes to the Motherwood. It does, if they keep walking past the inn, two more hearths, and the wood. Most Hands-children do not.
 
-The Third Hearth kept the older job: beds for people still going in. Water is a well in the yard and the **stone** at the lintel-road — a day's-walk shrine that never got pulled into Brenthael's square because the inn refused to let the town have it. Thilim uses it for water and will not join the argument about pulling it down. Brenthael's warden wants it moved. The stone is in the way of a crowd that is not this house's crowd.
+The Third Hearth kept the older job: beds for people still going in. Water is a well in the yard and the **stone** by the road — a day's-walk shrine that never got pulled into Brenthael's square because the inn refused to let the town have it. Thilim uses it for water and will not join the argument about pulling it down. Brenthael's warden wants it moved. The stone is in the way of a crowd that is not this house's crowd.
 
 Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The shed is still a shed.
 
 ## Features
 
-- **The upper room** — still too many beds; not converted. Opens in Hale-month. Quiet in Ledger-month. A devotion-column, a necessity-family, and a Road-hand going the other way with a pot can sleep in it in the same week. That passing is the two clocks in one afternoon. A prestige household that did not book the White Note's winter is rare and conspicuous.
+- **The upper room** — still too many beds; not converted. Opens in Hale-month. Quiet in Ledger-month. A devotion-column, a necessity-family, and a Road-hand going the other way with a pot can sleep in it in the same week. That is two kinds of need in one afternoon. A prestige household that did not book the White Note's winter is rare and conspicuous.
 - **Seine's bed** — Held. Seine of the far cape, tenth summer, not come. The mother said next year. Next year was last year — and has been, for a length of time Thilim will not convert into Cut-years. Not a shrine Thilim will admit. A shrine everyone else can see.
 - **The slate** — still kept. Verso still does not match recto. Full text in [[The Walking Years]].
-- **The stone** — at the lintel-road, not in Brenthael's square. Climbing-scuff anyway. Road-hands still aim for the water. Brenthael wants it down so the extra mile does not look like a requirement on their approach. Thilim will not move a name.
+- **The stone** — by the road, not in Brenthael's square. Climbing-scuff anyway. Road-hands still aim for the water. Brenthael wants it down so the extra mile does not look like a requirement on their approach. Thilim will not move a name.
 - **Green-lot and shed** — still a pot and a shed, not Tithe-infrastructure. A cutting in the pot that is still not a Tree (Thilim missed a green, once; it is not the First Cut).
-- **Brenthael's square** *(neighbour, not a second type)* — Tree at the centre; road ends at the boughs; Leaf-Fall as civic season; lodging-guild pressure from Orenbren without a throne. Mixed Kinds. No Kind-quarters. The town's leftover is the extra mile as holiday. They can see the inn's stone from the last house and resent it as a grave that is also an advertisement.
+- **Brenthael's square** *(neighbour, not a second type)* — Tree at the centre; the Mile goes on past the boughs; Leaf-Fall as civic season; lodging-guild pressure from Orenbren without a throne. Mixed Kinds live there. The town's own version of the extra mile is a holiday. They can see the inn's stone from the last house and resent it as a grave that is also an advertisement.
 
-## The leftover, visible
+## What the house still does
 
-**Clock 1:** Brenthael Turns at home. The Near Mile is optional. Orenbren houses the people who still want the origin.
+Brenthael Turns at home. The Near Mile is optional, and Orenbren houses the people who still want the origin. The stone still waters a mile, Seine's name is still cut over the door, and a necessity-family from thinner soil still pays on the home-walk. A Hand can fail: [[The Mill-hold]], two days past Brenthael, put a Hands-town back on the neighbour's week this year. Brenthael's Tree has not sickened. Thilim does not say the age is over.
 
-**Clock 2:** the stone still waters a mile; Seine's name is still on a lintel; a necessity-family from thinner soil still pays on the home-walk. Hands can un-Hands — [[The Mill-hold]], two days past Brenthael, put a Hands-town back on the neighbour's week this year. Brenthael's Tree has not sickened. Thilim does not narrate the age as over.
+The two fates of the same origin still stand. The White Note collected, on a [[Strandoren]] quay. The Third Hearth kept making the bed. Mataero sees this house only as a warning.
 
-The two fates of the same origin still stand. The White Note collected, on a [[Strandoren]] quay. The Third Hearth kept making the bed. Play both. Mataero cannot see this house except as a warning.
-
-At dark, Thilim sets the yard-broom across the lintel and steps over it. They will not say why.
+At dark, Thilim sets the yard-broom across the doorway and steps over it. They will not say why.
 
 ## People & Powers
 
-[[Thilim]] is a person now ([[People of the Turning]]). Do not add a court around the inn.
+[[Thilim]] is a person now ([[People of the Turning]]).
 
-- **[[Thilim]]** — the four [[The Walking Years|Long-Lived *I walked*]] jobs, inland and tired. Blood-Read will give a true fragment. It will not tell you which job they are doing when they make the bed. They want the stone's water for the pot at dark. The document of this house is **Seine's bed**, made. Not a notice.
+- **[[Thilim]]** — Long-Lived, inland and tired. When Thilim says *I walked*, the phrase can mean four different things ([[The Walking Years|the four meanings]]). Blood-Read will give a true fragment of a walk. It will not tell you which meaning Thilim intends when they make the bed. They want the stone's water for the pot at dark. The document of this house is **Seine's bed**, made. Not a notice.
 - **Meirim** *(may-REEM)* — Brenthael's town-warden. Wants the stone. Practice-first. Speaks a fall in a square that used to be a road. This Hale-month they also have a necessity-column walking *in* from [[The Mill-hold]]. The chalked complaint under the lip is theirs.
-- **Orenbren lodging-custom** — hospitality as rent in Eolthael; Thilim charges less and is called a failure for it. The compact does not own this mouth.
+- **Orenbren lodging-custom** — hospitality as rent in Eolthael; Thilim charges less and is called a failure for it. The compact does not own this house.
 - **The First Seat** sits in the Motherwood *beside* this country and is not its crown. A pilgrim who asks Thilim where the college is will be pointed at the wood, not the inn.
 
 ## What can enter a scene
 
-- **A living guest this week.** Devotion-column, necessity-family, or a prestige household that missed the White Note. Thilim can tell which. They will not always tell you. The loft is one afternoon of two clocks.
-- **Meirim at the lintel**, wanting the stone down before the extra mile looks like a requirement on Brenthael's approach.
+- **A living guest this week.** Devotion-column, necessity-family, or a prestige household that missed the White Note. Thilim can tell which. They will not always tell you. The loft is one afternoon of two kinds of need.
+- **Meirim at the door**, wanting the stone down before the extra mile looks like a requirement on Brenthael's approach.
 - **A note-collector** from the White Note's kind of paper, looking at empty beds and calling them failure.
 - **A name at the door** that is not Seine and thinks it is, or is, and Thilim has to decide if the bed is still Held.
 
 ## In-world text
 
-*A chalked complaint from Meirim's warden-hearth, carried to the third lintel and left under the stone's lip. C.Y. 387, after Hale-month. Thilim has not answered on paper. `oblique-worldbuilding`.*
+*A chalked complaint from Meirim's warden-hearth, carried to the Third Hearth and left under the stone's lip. Cut-year 387, after Hale-month. Thilim has not answered on paper.*
 
-> *The crowd will need the approach. Your stone is a mile that is no longer owed. Water we have. Names we can keep on a ribbon in the square, which is where a leftover belongs.*
+> *The crowd will need the approach. Your stone is a mile that is no longer owed. Water we have. Names we can keep on a ribbon in the square, which is where a remembered name belongs.*
 >
 > *You house the extra mile. We Turn at home. If you make a shrine of a bed, that is a house matter. A stone in the road is a town matter.*
 >
 > *We are not pulling a grave. We are pulling a requirement that has ended.*
 
-Thilim cannot afford to see that Brenthael is telling a Hands truth, or that "a ribbon in the square" is how a town files a name it no longer has to drink from. The Held bed is made. If Seine comes, the stone will still be in the way of a crowd that is not hers.
+The complaint shows that Brenthael wants the stone out of its crowd's way and offers a ribbon in the square for the name. The Held bed is made. If Seine comes, the stone will still be in the way of a crowd that is not hers.
 
-
-## GM Notes
-
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The shed is still a shed. Do not clone [[The Greens-Keepers]] onto the yard.
-
-- **Production (R.13).** Canon status 🟡 playable site. Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
-- **Two fates of the same origin.** The White Note collected. The Third Hearth kept making the bed. Do not have Thilim "lose" because the paper went to the coast.
-- **One leftover job on the street.** Devotion / extra mile. Necessity in the loft is Thilim's eye, not a second town-theme. Prestige that lands here is the household that missed the White Note — use it as friction, not as Orenbren's brand.
-- **Do not clone a deathless house as the state.** Orenbren is many hearths. Brenthael is a neighbour square, not a capital. The three archetype seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — do not retcon Brenthael into [[Maiethlir]].
-- **Thilim's four jobs** stay disagreed. Do not pick which sermon they are.
-- **Mataero's blindness stands.** Do not correct the junior in Thilim's voice unless play wants the collision.
-- **Keystone:** do not let the stone assert the mind. It is a day's water and a name.
-- **Habit (S.1).** One, and the count is full. The broom on the lintel. A later note must not explain it, and must not turn it into a power, a relic, or a rite. Do not add a person. Thilim stays the mouth.
-- **Hooks.** Seine's name on a lintel; Brenthael wanting the stone down; a First-Hand year and a neighbour's week in the same loft; a note that outlived a family; Thilim asked to convert a house-year to a Cut-year for a court; a cutting in the pot that is still not a Tree; a pilgrim who thought Orenbren *was* the Seat; wool-merchants from the White Note's loft looking at empty beds and calling them failure; Meirim hosting [[The Mill-hold]]'s cohort while still wanting this stone down.
-- **Do not sicken Brenthael** to tidy the sick-Tree type. That square is [[The Mill-hold]].
 
 ## Links
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[The Walking Years]] · [[The White Note House]] · [[Orenbren]] · [[The Mill-hold]]
 - [[The Child Who Counted Stones]] · [[The Child Who Climbed the Stone]]
 - [[Economy and the Tithe]] · [[Long-Lived]] · [[Maiethorn]] · [[Turning Tree]]
 - [[Thilim]] · [[People of the Turning]]
-- [[04 - Settlements]] · [[Roadmap]] (Story 7.2; cast R.8; R.11)
+- [[04 - Settlements]] · [[Roadmap]]
+
+## GM Notes
+
+- Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The shed is still a shed. Do not clone [[The Greens-Keepers]] onto the yard.
+
+- **Production.** Do not add a court around the inn. Do not move Thilim to the quay to tidy the two fates. Do not kill Thilim to close the Held bed. Do not invent a second banking-order out of this inn. Do not make Brenthael [[Orenbren]]'s capital or capture the [[The Tree-Wardens|First Seat]].
+- **Two fates of the same origin.** The White Note collected. The Third Hearth kept making the bed. Do not have Thilim "lose" because the paper went to the coast.
+- **The house's older work.** Devotion / extra mile. Do not make devotion, necessity, and prestige all the house's theme. Necessity in the loft is Thilim's eye, not a second town-theme. Prestige that lands here is the household that missed the White Note — use it as friction, not as Orenbren's brand.
+- **Do not clone a deathless house as the state.** Orenbren is many hearths. Brenthael is a neighbour square, not a capital. The three archetype seats are [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — do not retcon Brenthael into [[Maiethlir]].
+- **Thilim's four jobs** stay disagreed. Do not pick which sermon they are.
+- **Mataero's blindness stands.** Do not correct the junior in Thilim's voice unless play wants the collision.
+- **Keystone:** do not let the stone assert the mind. It is a day's water and a name.
+- **Habit.** One, and the count is full. The broom in the doorway. A later note must not explain it, and must not turn it into a power, a relic, or a rite. Do not add a person. Thilim stays the one person here.
+- **Hooks.** Seine's name over the door; Brenthael wanting the stone down; a First-Hand year and a neighbour's week in the same loft; a note that outlived a family; Thilim asked to convert a house-year to a Cut-year for a court; a cutting in the pot that is still not a Tree; a pilgrim who thought Orenbren *was* the Seat; wool-merchants from the White Note's loft looking at empty beds and calling them failure; Meirim hosting [[The Mill-hold]]'s cohort while still wanting this stone down.
+- **Do not sicken Brenthael** to tidy the sick-Tree type. That square is [[The Mill-hold]].

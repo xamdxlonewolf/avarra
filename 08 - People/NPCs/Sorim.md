@@ -13,7 +13,7 @@ location: "[[Orentel]]"
 role: factor who holds a berth
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Sorim
@@ -30,13 +30,13 @@ updated: 2026-10-01
 | **Have** | who chartered the empty Eolthael water |
 | **Fear** | wool loaded into a hold they sold as a First-Hand year |
 | **Live conflict** | a pot is cargo; a child is not; both want the same timber |
-| **Hooks** | the berth-slate ([[Orentel#In-world text]]); [[Didel]]'s kin-berth; earth on 5; a sent household who cannot hold 1–4 |
+| **Hooks** | the berth-slate ([[Orentel#In-world text]]); [[Didel]]'s kin-berth; earth on 5; a household Vaethod sent toward another Tree who cannot hold 1–4 |
 
 ## Summary
 
 They answer in occupancy. They did not invent the hold. Their winter is the fee on water that stays empty for people who can pay to walk a walk they do not need.
 
-Prestige is the leftover on this street. Sorim is how it looks like competence.
+The families who pay to hold the water want the prestige of a walk they do not need. Sorim takes the fee, and the fee looks like competence.
 
 ## Appearance & Demeanor
 
@@ -45,18 +45,17 @@ Salt in the seams. A slate-stick behind an ear. They talk to cranes the way othe
 ## Role & Relationships
 
 - **The charter-council** — watches the guild, never the person. Sorim is a house-agent, one ticket among many.
-- **[[Mataero]]** — inland loft. Hears beds. Sorim hears water. Same city, different leftover.
+- **[[Mataero]]** — inland loft. Hears beds. Sorim hears water. Same city, different job.
 - **[[Didel]]** of Hallowquay — wants a kin-berth. Cannot hold 1–4. Sorim did not invent that either.
-- **[[Vaethod]]** — does not know this mouth. A household they sent may be the family who wanted berth 5 for a child.
-
-Not a sixth pivot. A want with a berth attached. If the party only meets Ledan, they have not met Orentel. If they only meet Sorim, they have not met the loft.
-
-## GM Notes
-
-- **No full arc required.** Competence as injustice is enough. If you want a lie: *I did not invent the hold* (true as market, false as innocence).
-- **Do not** let them assert the mind of the Tree. Salt on the roots is not theirs to schedule.
-- **Do not** make them the White Note.
+- **[[Vaethod]]** — does not know Sorim. A household they sent may be the family who wanted berth 5 for a child.
 
 ## Links
 - [[Orentel]] · [[People of the Turning]] · [[Mataero]] · [[Didel]]
 - [[The White Note House]] · [[08 - People]]
+
+## GM Notes
+
+- Sorim is a want with a berth attached. If the party only meets Ledan, they have not met Orentel. If they only meet Sorim, they have not met the loft.
+- **No full arc required.** Competence as injustice is enough. If you want a lie: *I did not invent the hold* (true as market, false as innocence).
+- **Do not** let them assert the mind of the Tree. Salt on the roots is not theirs to schedule.
+- **Do not** make them the White Note.

@@ -11,7 +11,7 @@ language: Sakoa (hearth-register); daily speech is the local Maiethren drift
 homeland: the coasts — densest on [[Strandoren]] (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Selkie
@@ -24,7 +24,7 @@ Selkies are the sea-born, the skin-kin: sleek, cool-skinned people who carry a *
 
 Out of the skin, a Selkie reads as an ordinary person with a few quiet tells — **cool, faintly sleek skin, large dark eyes, and sometimes a little webbing at the fingers.** Nobody stares; the seal-blood shows the way any other Kind's does. The real transformation lives in the skin, not the face.
 
-**The fresh angle:** the old story is theft and grief — steal a selkie's skin and you own her; she pines for a sea she can't return to. Here the melancholy is reframed as the defining *strength*: a Selkie belongs fully to **two homes at once**, shore and sea, and so they are the people who move easily between worlds that don't understand each other. The removable skin is a private, tender thing (loaning it, or having it taken, is a real intimacy and a real violation — handled in story, never as a mechanical gotcha), not a leash.
+A Selkie belongs fully to **two homes at once**, shore and sea, and so Selkies move easily between worlds that don't understand each other. The removable skin is a private, tender thing, not a leash. Loaning it is a real intimacy, and having it taken is a real violation. Both are matters of story and trust, never a mechanical penalty.
 
 ## Values & Worldview
 
@@ -32,7 +32,7 @@ Selkies value **belonging without being bound** — deep loyalty freely given, r
 
 ## Customs & Daily Life
 
-Because they can't be kept down and can't be kept out, Selkies are the world's **rescue swimmers, cold-water divers and salvors, and go-betweens** — the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony: where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters. Kin from **another strand** often come for those skin-days, or the child spends a summer on a second coast — how a quay-born Selkie still sounds like the sea ([[Kinds of the Turning]]). (Note: **death by drowning is the threshold that Strikes the [[Far-Voiced]]** — Selkies, being so at home in the water, have a complicated, storied relationship with that door.)
+Because they can't be kept down and can't be kept out, Selkies are the world's **rescue swimmers, cold-water divers and salvors, and go-betweens** — the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony: where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters. Kin from **another strand** often come for those skin-days, or the child spends a summer on a second coast — how a quay-born Selkie still sounds like the sea ([[Kinds of the Turning]]). (Note: **surviving a drowning is the threshold that Strikes the [[Far-Voiced]]** — Selkies, being so at home in the water, have a complicated, storied relationship with that door.)
 
 ## Daggerheart (ancestry features)
 
@@ -41,22 +41,23 @@ Every Selkie has all three. **SRD mix:** Top = Second Skin · Bottom = Slip the 
 - **Second Skin** — You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than anyone should, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
   - *Anchored.* Your skin is your fixed point in the world. Wherever you leave it stashed, you always know the direction and distance to it and can find your way back to it unerringly, however far you've travelled or however turned-around you are. (Loaning your skin, or having it taken, is a matter of story and trust — never a mechanical penalty.)
 - **Slip the Hold** — When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
-- **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. *(A warning and a help — not an immunity. The phrase "cannot be caught off guard" lives on [[Tengu|The Mountain's Mood]] only.)*
+- **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. *(A warning and a help — not an immunity.)*
 
 ## Naming & tongue
 
-Hearth-register **Sakoa** (sah-KOH-ah) 🔒 — liquid, rounded, coastal; seed `20260824`. Full inventory and the two-name pattern live in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn.
+Hearth-register **Sakoa** (sah-KOH-ah) — liquid, rounded, coastal. The full inventory and the two-name pattern are in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the second name, a byname or a house-name, comes from the town that watched them Turn.
 
 Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 
 ## Links
-- [[The Premise]] — the two-layer (Kind + Condition) model
+- [[Conditions]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
 
 ## GM Notes
 
+- **Seed.** The Sakoa list was drawn at seed `20260824`.
 - **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
 - **Skin.** *Anchored* is an upside (find the stashed skin). No "skin stolen" penalty. Loaning/losing it is a story beat, not a Tithe.
 - **Not Ribbet.** At home in water, not a true underwater breather.

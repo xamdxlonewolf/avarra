@@ -6,7 +6,7 @@ note_status: draft
 tags: [meta, conventions, schema]
 aliases: [Schema, Front-matter Reference]
 created: 2026-08-11
-updated: 2026-10-15
+updated: 2026-10-22
 ---
 
 # Vault Conventions
@@ -18,14 +18,14 @@ How this vault is organized and how every note is tagged. This is the contract a
 - **World = what exists.** The persistent setting (sections 01–10). The source of truth.
 - **Campaign = what happened.** What the players did to the world (12 - Campaigns), kept separate so player actions never force a rewrite of the setting.
 - **Secrets = what the GM knows.** The revelation architecture (11 - Secrets) + GM sections of otherwise-public notes.
-- **Canon = what is actually true.** The settled truth (00 - Core/Canon, Cosmology), regardless of what any in-world source believes.
+- **Canon = what is actually true.** The settled truth, regardless of what any in-world source believes. It lives in `11 - Secrets/GM Truth`. The `Canon`, `Cosmology`, and `Themes` folders in `00 - Core` are empty and stay empty.
 
 ## Folder tree
 
 Top-level folders use **numeric prefixes** to force reading order in the sidebar. Each has an index MOC named after it.
 
 ```
-00 - Core         Canon · Cosmology · Themes · Meta
+00 - Core         Concept · Meta   (Canon · Cosmology · Themes exist but are empty)
 01 - World        Geography · Climate · Ecology · Astronomy · Planes · Phenomena
 02 - History      Eras · Events · Timelines · Historical Figures · Archaeology
 03 - Cultures     Peoples · Languages · Customs · Traditions · Social Structures · Naming
@@ -89,7 +89,7 @@ reveals: []   # secret reveal_tags this note exposes, e.g. [the-big-secret]
 
 > **`reveals`:** the machine-filterable link between public notes and the secrets they'd spoil. Lets you later query "what is safe to hand out by session 20" by excluding notes that reveal not-yet-revealed `reveal_tag`s. Every secret note declares a `reveal_tag`; public notes list the tags they touch in `reveals: []`.
 
-> **Reveal-tag vocabulary (Story R.5).** `leaf-mother-is-real` = this note's player *body* would confirm the Leaf-Mother, or it is the keystone's own `reveal_tag`. `keystone-adjacent` = clue, doctrine, Tree, or reach-pattern without confirmation — use this so clue-bearing notes can be found without treating the vault as one spoiler. `the-other-hands` = the note exposes the household (usually in `## GM Notes`). `the-unspent` = the lesser household presence the Long-Lived fringe named. `when-the-fire-is-caught` = the Phoenix slot. Index and examples: [[11 - Secrets]].
+> **Reveal-tag vocabulary (Story R.5).** `leaf-mother-is-real` = this note's player *body* would confirm the Leaf-Mother, or it is the keystone's own `reveal_tag`. `keystone-adjacent` = clue, doctrine, Tree, or reach-pattern without confirmation — use this so clue-bearing notes can be found without treating the vault as one spoiler. `the-other-hands` = the note exposes the household (usually in `## GM Notes`). `the-unspent` = the small presence the Pourers named. `when-the-fire-is-caught` = the Phoenix slot. Index and examples: [[11 - Secrets]].
 
 ### `type` vocabulary
 `moc`, `reference`, `lore`, `cosmology`, `theme`,
@@ -122,7 +122,7 @@ On each `visibility: player` note, remove every ATX heading (`#` through `######
 
 The stripped span runs from that heading through **the next heading of equal or higher rank**, or through end of file if none follows. Nested headings of lower rank go with the section. A blockquote, list, or table that sits inside that span is already gone.
 
-Usual vault shape is `## GM Notes` near the end. If `## Links` follows it, Links survive (same rank). If Links sit *inside* the GM section, they go with it. Prefer Links before or after the wall, not under it.
+Usual vault shape is `## GM Notes` near the end. If `## Links` follows it, Links survive (same rank). If Links sit *inside* the GM section, they go with it. Put `## Links` above `## GM Notes`.
 
 ### 3. Strip unmarked GM blockquotes
 
@@ -154,7 +154,7 @@ A picture, a nickname, or a metaphor may not stand in for the fact. If the sente
 
 Say the thing:
 
-- A Long-Lived gives five years of memory into a cup. Later the others can read those memories from it.
+- A Long-Lived gives one year of memory into a cup at a time. Later the others can read those memories from it.
 - "The circle drinks that winter back" hides that fact. Do not write it.
 - The Unspent is a small household presence that stores the memories it is given. It lets the circle describe it however they like. It does not make plans.
 - "The Unspent stays a cupboard" and "it wears the face they draw" hide that fact. Do not write them as the explanation.
@@ -171,7 +171,7 @@ This rule covers an answer to a question about the world, not only a new note. E
 
 A poem, a play, a minute-book, or another page written as someone inside the world may use that speaker's words. The note around the page still says what the page is and what a reader is meant to understand. `oblique-worldbuilding` is for those pages. It is not the voice of a reference note, a roadmap task, or an explanation.
 
-Story P2.2 (2026-10-02). Sharpened 2026-10-15 after Epic H came back in the old voice. The world book keeps its old wording until someone asks for a rebuild.
+Story P2.2 (2026-10-02). Sharpened 2026-10-15 after Epic H came back in the old voice. The world book is rebuilt only when the user asks.
 
 ## Linking & naming
 

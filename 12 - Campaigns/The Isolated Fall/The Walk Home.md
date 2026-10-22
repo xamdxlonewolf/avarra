@@ -9,27 +9,27 @@ campaign: "[[The Isolated Fall]]"
 world: The Turning
 reveals: [when-the-fire-is-caught]
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # The Walk Home
 
-> **GM kit, not a novel.** The days after [[The Opening]]. Still Hale-month, C.Y. 387. Four key moments, not a plot. The square still has a day. A walk to Brenod is a choice. One fragment may be offered. Zero is legal.
+> **GM kit, not a novel.** The days after [[The Opening]]. Still Hale-month, Cut-year 387. Four key moments, not a plot. The square still has a day. A walk to Brenod is a choice. One fragment may be offered. Zero is legal.
 
 | | |
 |---|---|
-| **Sits** | [[Harrow's Green]], then the cart-track and the ford, if they go. Hale-month, C.Y. 387. Not a new town. Not [[Natai]]. Not a capital. |
+| **Sits** | [[Harrow's Green]], then the cart-track and the ford, if they go. Hale-month, Cut-year 387. Not a new town. Not [[Natai]]. Not a capital. |
 | **On-screen** | Haelin · Tora of Brenod · the new Gift ([[Taeren]] *or* a PC in that seat) · the walker, if they come down · [[Rosire]], if someone asks for water |
 | **Offstage** | [[Reimaethe]] · [[Hithaen]] · Vimein · the six pivots · [[Dumu]] · the Care as a place you can walk into |
-| **Do not** | Open on the lamp, or on two people burning. Invent a Protector fortress. Confirm her. Fire the remnant-to-ash. Name the walker. Explain the cup. Resume the old Epic 8 roster. |
+| **Do not** | Open on the lamp, or on two people burning. Invent a Protector fortress. Confirm her. Fire the remnant-to-ash. Name the walker. Explain the hamlets' cup ([[The Three Hamlets Past the Ford]]). Resume the old Epic 8 roster. |
 
 ## Where it sits
 
-Session one already happened. The stone is still in the square. The witness has still not walked home, unless the table walked it in the last hour and you are only catching the road. Next week is still Eolthael. Leaf-Fall is still a month out. Do not play the solstice.
+Session one already happened. The stone is still in the square. The witness has still not walked home, unless the table walked it in the last hour and you are only catching the road. Eolthael still begins next week, and Leaf-Fall comes inside it. Do not play the solstice.
 
 [[Harrow's Green]] stays a square in [[Saelvaeth]]'s orbit. It is not the march's seat. If the party wants a door that can be blamed, that door is [[Natai]], and it is not this week. Do not send them there to use a new town.
 
-The ford is down the slope. Brenod is the first kitchen past it. Vaelun and Ornath are further on the same water. Their mouths stay on [[The Three Hamlets Past the Ford]]. Do not collect them into a crew. Do not walk anyone to [[The First Bowl]] or to [[Sanbreo]] to give the day a destination.
+The ford is down the slope. Brenod is the first kitchen past it. Vaelun and Ornath are further on the same water. Their people stay on [[The Three Hamlets Past the Ford]]. Do not collect them into a crew. Do not walk anyone to [[The First Bowl]] or to [[Sanbreo]] to give the day a destination.
 
 ## Which seats are on-screen
 
@@ -39,7 +39,7 @@ If the table never took the unseen-leaf seat and Taeren is the child, the child 
 
 ## Opening situation
 
-Dust. The cistern-notice is still up. Haelin still wants the stone moved before the crowd, and the stone is still the day's drink. Tora is still here, or is about to go, because a colour that was not Spoken cannot be breakfast in Brenod until a mouth that was *there* walks it.
+Dust. The cistern-notice is still up. Haelin still wants the stone moved before the crowd, and the stone is still the day's drink. Tora is still here, or is about to go, because a colour that was not Spoken cannot be breakfast in Brenod until someone who was *there* walks it.
 
 The upper room is as session one left it. The lamp is closed. Do not start there.
 
@@ -94,7 +94,7 @@ If **Taeren** is the child, they ask an ordinary question: how far is breakfast.
 
 **What changes:** the isolated fall is a distance, not a sermon.
 
-**Do not:** confirm the Leaf-Mother. If a neighbour on the track says *she Gave*, that is a neighbour. Do not put the cup on the rock. This is not the night before the neighbour's week. Do not explain why a cup is ever there.
+**Do not:** confirm the Leaf-Mother. If a neighbour on the track says *she Gave*, that is a neighbour. Do not put the hamlets' cup ([[The Three Hamlets Past the Ford]]) on the rock. This is not the night before the neighbour's week. Do not explain why the hamlets' cup is ever there.
 
 ### 3. Sand, if they meet it
 
@@ -112,7 +112,7 @@ On the walk, or at the upper-room door if they never left: the walker, or the Gi
 
 **Mystery — progressive, not crystallized.** A witnessing is a sentence a kitchen can use. It is not a verdict.
 
-If they walk in: Tora puts bread down. They want the colour said the way a neighbour says weather, and then they want the child to be a child at the table. A Brenod mouth who was not under the boughs may ask if the one is coming. Tora will not let that become the child's name.
+If they walk in: Tora puts bread down. They want the colour said the way a neighbour says weather, and then they want the child to be a child at the table. A Brenod neighbour who was not under the boughs may ask if the one is coming. Tora will not let that become the child's name.
 
 If they do not walk: Haelin pays the ropes in bread. The witness is still unwalked. Brenod will have weather at breakfast. That is allowed to stand.
 
@@ -141,7 +141,7 @@ If they do not walk: Haelin pays the ropes in bread. The witness is still unwalk
 
 ## Voices
 
-Cover the tags. Do not let every mouth explain the Phoenix.
+Cover the tags. Do not let every speaker explain the Phoenix.
 
 ### Haelin *(HAY-lin)*
 
@@ -153,7 +153,7 @@ Cover the tags. Do not let every mouth explain the Phoenix.
 
 ### Tora *(TOR-ah)* of Brenod
 
-- **Want they will say:** a mouth that was there, walking. Then breakfast.
+- **Want they will say:** someone who was there, walking. Then breakfast.
 - **Avoid:** Harrow's luck. The public name for the child.
 - **Rhythm:** longer on the road. Duty. They count hills, not hymns.
 

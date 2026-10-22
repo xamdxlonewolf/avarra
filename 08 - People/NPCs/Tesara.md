@@ -13,12 +13,12 @@ location: "[[Orentel]]"
 role: Intake clerk; catching-year
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Tesara
 
-> Sits the stillers' shed that does not face the street. A key the slate does not name. Success is silence. They will not stamp a ticket this week.
+> Sits the stillers' shed that does not face the street. A key the slate does not name. If the week goes well, nobody hears of it. They will not stamp a ticket this week.
 
 *(teh-SAH-rah.)* Eroded drift. Of Orentel. A neighbour says Tesara. A stranger gets Tesara of Orentel. The shed is the week, not a house. A list gets of Orentel and no family. On Kumbaan the name is Tesara. The floor will say *emergency ticket* if they say anything.
 
@@ -36,7 +36,7 @@ updated: 2026-10-01
 
 Struck themselves, years back — a Gaze, raw, a week somebody else sat. The floor does not write that. Tesara remembers the door. That is why they are the one who can be spared.
 
-They think they are in a first-aid story. Catch. Steady. Hand to the year. They do not think they are in a redemption-play. The ~5% stays at the rope and the live Tithe.
+Tesara thinks the work is first aid: catch the person, steady them, and hand them on to the year. They do not think they are the hero of a story. If it fails, the person goes to the rope or the Slide, and the Tithe is still live.
 
 [[Valen]] is not a client. Valen is the person who was stone on the third night, stood for by a sister, and by an N. who would not give a family name. The week is almost over. The face of the ticket is still empty.
 
@@ -58,8 +58,14 @@ Lestrand prices the emergency. A raw Struck who cannot stamp a fee is still take
 - **The paying floor** — wants the master back. A quiet catching-year is a week the theatre lost.
 - **[[Rosire]]** — used to bring water downwind. Not on the floor this Hale-month. Tesara has not been told why.
 - **[[Mataero]]** — if Valen lives and has no ticket, they will need a loft. Occupancy will not say *Struck*.
-- **[[The Slide]]** — overflow if the week fails. Tesara wants Valen *safe enough to leave.* A week-keeper wants them *not-fallen enough to stay.* Do not clone.
+- **[[The Slide]]** — overflow if the week fails. Tesara wants Valen *safe enough to leave.* A week-keeper wants them *not-fallen enough to stay.*
 - **[[Didel]]** — has hauled a person to this door once. Will not haul a rope.
+
+## Links
+- [[The Intake]] · [[Orentel]] · [[People of the Turning]]
+- [[The Stillers]] · [[The Slide]] · [[The Stilled]]
+- [[Mataero]] · [[Rosire]] · [[Didel]]
+- [[08 - People]]
 
 ## GM Notes
 
@@ -67,13 +73,7 @@ Lestrand prices the emergency. A raw Struck who cannot stamp a fee is still take
 - **Arc (positive).** *Lie:* if the week is quiet, we saved them. *Ghost:* their own catching-year, burned, and a ticket that arrived late enough to feel like weather. *Need:* a witnessed week — someone writes the becoming *as* a becoming. *Catalyst:* burn-or-keep on Valen's slip, and the master called back.
 - **Lock-in:** skill + moral. They are the spare who remembers the door. Walking away is a rope.
 - **Competing interests:** the floor (silence); the watch (gone); Valen's sister (a person she can stand next to); the house (a debt); the Slide (a week); Mataero (a bed that does not say why).
-- **Clock:** Struck later. Did not walk. Does not think the wave is over; thinks the next raw is three days out.
+- **Struck later.** Did not walk. Does not think the wave is over; thinks the next raw is three days out.
 - **Do not** make Intake a circuit or a nicer Slide. Do not stamp the ticket this week unless the story has earned a house breaking its own rule — and then make it cost the charter.
 - **Rosire is not here this Hale-month.** Opening sits at [[Harrow's Green]] ([[The Opening]]). Valen's week is still Tesara's want. Do not pull Tesara to the live front to tidy the infirmary-hand.
 - **Wrong office:** Bound, Taken-In, Returned, Two-Bodied, Long-Lived. Valen is a Gaze. Keep it.
-
-## Links
-- [[The Intake]] · [[Orentel]] · [[People of the Turning]]
-- [[The Stillers]] · [[The Slide]] · [[The Stilled]]
-- [[Mataero]] · [[Rosire]] · [[Didel]]
-- [[08 - People]]

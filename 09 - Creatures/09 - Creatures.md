@@ -6,16 +6,16 @@ note_status: fleshed
 tags: [moc, creatures, conditions, adversaries]
 aliases: [Creatures, Beasts, Adversaries]
 created: 2026-08-11
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # 09 - Creatures
 
-Beasts, leftover wood, and the people the road still has — plus the Condition cards, which are *becomings*, not a menagerie. The world's recognizable "monsters" live on [[Conditions]]. Wilderness rolls live on [[Dangers of the Turning]].
+This folder holds the Condition cards, which are *becomings*, not a menagerie; a few road adversaries; and the working animals people live beside. The world's recognizable "monsters" live on [[Conditions]]. Wilderness rolls live on [[Dangers of the Turning]].
 
 ## Conditions (the roster)
 
-Nine selectable becomings and one downstream state. Hub and cards are `visibility: player` so a player-safe export keeps the mechanics.
+Nine selectable becomings and one downstream state.
 
 - [[Conditions]] — index, rest clocks, no-level-scaling rule
 - **Given only:** [[Long-Lived]] · [[Two-Bodied]] · [[The Answered]] · [[Phoenix]]
@@ -36,8 +36,6 @@ A small Daggerheart layer. Not a second monster taxonomy.
 - [[Colourless Host]] — T2 Support (dead wood that still wants to Give)
 
 Settlement scene-dangers (cohort, crane, well-mouth) stay on the settlement notes. Pre-Walk sites: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]].
-
-The five adversaries stay the five. Working animals are not a sixth.
 
 ## Beasts (livelihoods)
 
@@ -60,7 +58,7 @@ Promoted from the table on [[Ecology of the Turning]]. Each has a use and a fear
 [[Monsters]] — there is no bestiary. Conditions stay in this section. [[Unique]] — there is no quota. Neither folder holds a creature note.
 
 ## Related
-- [[The Premise]] — two-layer model
+- [[Conditions]] — the two-layer model: a Kind is what you are born, a Condition is what you become
 - [[13 - Game]] — table rulings
 - [[Named Ground]] — travel times
 - [[Turning Tree]] — colours (canonical palette); unsound wood is a miss, not a third outcome

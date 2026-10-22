@@ -9,14 +9,14 @@ aliases: [World Map, The Turning Map, Canonical Map]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # The Known Map
 
-> **The labelled picture.** East is the old heart. West is the wave's front, then the wall. Names: [[Named Ground]]. The idea the picture is *of*: [[The World Frame]]. How to *draw* it lives in `14 - Assets/Maps/` and is not this note.
+> **The labelled picture.** East is the old heart. West is the wave's front, then the wall. Names: [[Named Ground]]. The idea the picture is *of*: [[The World Frame]].
 
-> Physical names, power seats, climate bands, and travel relationships are on the drawing. Coastlines are schematic, not a survey. Flip the compass if a later campaign wants the gradient on another axis; the **relative** positions stay.
+> Physical names, power seats, climate bands, and travel relationships are on the drawing. Coastlines are schematic, not a survey.
 
 Reading **west → east** (left to right on the drawing) is the reach-gradient run *backward*: storm-wall → thin → high → full.
 
@@ -25,19 +25,19 @@ Kumbaan  ~storm-wall~  HESKOREN  ==West Water==  STRANDOREN  ==Old Crossing==  M
  (none)                 thin                      high                         full
 ```
 
-The SVG is the **labelled schematic** — placement only, light on terrain. The selected label-free paintings live in `14 - Assets/Maps/` ([[The Atlas Sheets]]; Prototype 3). Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey; add names from this schematic and [[Named Ground]] rather than inventing them from visual texture. A 2026-09-01 Heskoren overlay (`Heskoren-Atlas-Labeled.png`) is a table aid on that painting, not a replacement for this schematic. On that sheet, west is left (last capes · Ornled · storm-wall) and the sea on the right is **the West Water** (to Strandoren), matching this drawing. A 2026-09-03 world overlay (`The-Turning-World-Atlas-Labeled.png`) puts the same west-to-east line on the Prototype 3 world master: Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall. Extra painted isles stay unnamed.
+The drawing is a labelled schematic: it shows placement and little terrain. Regional sheets for Maiethorn, Strandoren, Heskoren, and Kumbaan, and a world sheet, carry the same four landmasses.
 
 ![[14 - Assets/Maps/The-Turning-Known-Map.svg]]
 
-## What the drawing is allowed to show
+## What the drawing shows
 
-- Four landmasses in the locked relative places.
+- Four landmasses in their fixed relative places.
 - The **Old Crossing**, the **West Water**, the **Rain-Wall**, four rivers, the Noon Pass / Shelf-gate.
 - The fifteen as *regions*, not surveyed borders. [[Rothallo]], still called the Inner Close, as a mark *inside* Orenbren, not a sixteenth colour.
-- The playable squares and the seats. Capitals, large cities, and important towns are marked (Story M.4, 2026-10-05). [[Rothallo]] is the mark inside Orenbren. People still say the Inner Close. [[Maiethlir]] and [[Orentel]] stay the marks they were. [[Vaelhesk]] is the land, not a dot.
+- The towns and the seats. Capitals, large cities, and important towns are marked. [[Rothallo]] is the mark inside Orenbren. People still say the Inner Close. [[Maiethlir]] and [[Orentel]] stay the marks they were. [[Vaelhesk]] is the land, not a dot.
 - The three pre-Walk leftovers as small marks ([[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]).
 
-## What it is not allowed to show
+## What the drawing does not show
 
 - A graft on Kumbaan.
 - A Kind-nation colour.
@@ -49,16 +49,20 @@ The SVG is the **labelled schematic** — placement only, light on terrain. The 
 
 Travel times: [[Named Ground#Travel times]]. A day's walk is a mile-shrine. The Salt Walk is the Old Crossing plus the Near Mile. The Long Mile is the West Water plus Heskoren mud.
 
+## Links
+- [[Named Ground]] · [[The World Frame]] · [[Powers of the Turning]]
+- [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[The Other Count]] · [[The Walking Years]]
+- [[01 - World]] · [[14 - Assets]]
+
 ## GM Notes
+
+- **Map production.** The SVG is the **labelled schematic** — placement only, light on terrain. The selected label-free paintings live in `14 - Assets/Maps/` ([[The Atlas Sheets]]; Prototype 3). Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey; add names from this schematic and [[Named Ground]] rather than inventing them from visual texture. A 2026-09-01 Heskoren overlay (`Heskoren-Atlas-Labeled.png`) is a table aid on that painting, not a replacement for this schematic. On that sheet, west is left (last capes · Ornled · storm-wall) and the sea on the right is **the West Water** (to Strandoren), matching this drawing. A 2026-09-03 world overlay (`The-Turning-World-Atlas-Labeled.png`) puts the same west-to-east line on the Prototype 3 world master: Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall. Extra painted isles stay unnamed.
+- **Story M.4 (2026-10-05).** Capitals, large cities, and important towns were marked on the drawing.
+- **Flipping the compass.** A later campaign may put the gradient on another axis. The relative positions stay.
 
 The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], between [[Sanbreo]] and the square, and not on the ford. The Heskoren overlay and the world overlay now put the dot there. The paintings were not redrawn.
 
 [[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square. They were not redrawn to city scale. No capital star. The city plate is the city.
 
 [[Larbril]] is where the west road meets the Well-wash, short of the pass. [[Ornsael]] is farther into the dry, at a well, not the next roof and not the coast. The rain-shadow sheet and the Maiethorn sheet use that same gap. The paintings were not redrawn.
-
-## Links
-- [[Named Ground]] · [[The World Frame]] · [[Powers of the Turning]]
-- [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[The Other Count]] · [[The Walking Years]]
-- [[01 - World]] · [[14 - Assets]]

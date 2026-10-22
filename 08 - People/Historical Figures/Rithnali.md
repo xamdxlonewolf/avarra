@@ -13,7 +13,7 @@ location: "[[The Tree-Wardens|the First Seat]]"
 role: the minute
 reveals: [keystone-adjacent]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 
 # Rithnali
@@ -37,11 +37,11 @@ The minute is on [[The First Cut]]. Later clerks file it as Cut-year 19, the sum
 
 They wanted the next pot not to die of a dry mile. The verso of the minute is a list of pots that did die, which no one read aloud. Folk who keep the nameless knife think the recto is a confession. The Seat thinks it is competence. Both can hold the same copy. The name is how you ask for that page. It is not a grave you can point at.
 
-Speakers who will not say *first* will still not add Rithnali's hand to the story of the knife. The minute says *Tree*. Later Cutting-leave says *Mother*. Do not correct the page. The five ways of telling the Cut stay five jobs. This Speaker is the minute those jobs argue over. They are not the hand any of the five is protecting.
+Speakers who will not say *first* will still not add Rithnali's hand to the story of the knife. The minute says *Tree*. Later Cutting-leave says *Mother*. The five ways of telling the Cut stay five jobs. This Speaker is the minute those jobs argue over. They are not the hand any of the five is protecting.
 
 ## Appearance & Demeanor
 
-Remembered as a person who would not point. No tomb-portrait has been allowed to settle. In the Seat's mouth the name is an attribution, said the way you say a filing word. In a Near-Mile kitchen it is said more slowly, as if the page might answer.
+Remembered as a person who would not point. No tomb-portrait has been allowed to settle. Where the Seat says it, the name is an attribution, said the way you say a filing word. In a Near-Mile kitchen it is said more slowly, as if the page might answer.
 
 ## Role & Relationships
 
@@ -54,6 +54,12 @@ Remembered as a person who would not point. No tomb-portrait has been allowed to
 
 The five attributions stay jobs: a stolen branch, a warden ahead of a college, a branch that came away, a pear-graft and an overlay, a guest the land received. None of them is Rithnali's name on a handle.
 
+## Links
+- [[The First Cut]] · [[The Walking Years]] · [[The Closing]] · [[The Other Count]]
+- [[The Tree-Wardens]] · [[Turning Tree]] · [[The Branch That Came Away]]
+- [[Monseoth]] · [[Sedrad]]
+- [[08 - People]] · [[02 - History]]
+
 ## GM Notes
 
 - **Memory: still argued.** Past layer only. Dead. Not a present antagonist. The minute, not the cutter. Do not collapse the five attributions into this Speaker, or into anyone.
@@ -61,9 +67,3 @@ The five attributions stay jobs: a stolen branch, a warden ahead of a college, a
 - **Arc, if you need one.** *Want:* the next scion lives. *Lie:* "we will not write who" is restraint, and "the soil is thin" is only horticulture. *Need:* to see that the refusal to write who is the capture, and that the verso of dead pots is the argument the recto pretends to have closed. They did not take it. The queue did.
 - **Says *Tree*, not *Mother*.** The early paper has not finished the overlay. Do not correct the minute in play.
 - **Do not** build a tomb that puts a name on the knife. Do not date the Tree from Cut-year 19. Do not give Rithnali a house-name. The Seat wrote how, not a line. Do not make them the warden who cut.
-
-## Links
-- [[The First Cut]] · [[The Walking Years]] · [[The Closing]] · [[The Other Count]]
-- [[The Tree-Wardens]] · [[Turning Tree]] · [[The Branch That Came Away]]
-- [[Monseoth]] · [[Sedrad]]
-- [[08 - People]] · [[02 - History]]

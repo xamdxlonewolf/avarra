@@ -3,11 +3,11 @@ title: The Heir's Seat
 type: handout
 visibility: player
 note_status: draft
-tags: [handout, library, lestrand, play, walled-book, kept, epic-h]
+tags: [handout, library, lestrand, play, walled-book, kept]
 aliases: [The Heir's Seat (A Scene)]
 reveals: []
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 *A scene from* The Heir's Seat, *in the common-speech copy kept on the long-house shelf in Lestrand. The copy is played from as it stands, in a yard or a hall, with a table, a tall chair, and a lantern. The writer is not named.*

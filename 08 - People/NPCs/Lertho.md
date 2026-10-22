@@ -13,7 +13,7 @@ location: "[[Votaer]]"
 role: collector of the Hush-rate
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Lertho
@@ -38,7 +38,7 @@ Lertho charges the Hush-rate on Votaer's water. The rate is the peace from [[The
 
 They count the rate aloud, set the last coin in, and take it out once before it stays. They will not say why.
 
-[[Tumair]] has usually already written what the hull is. The blessing, if a mouth wants one, happens where Lertho can hear it. A household can be classed, charged, and blessed before anyone has asked whether they can pay for the week inland. That is the quay's injustice, and it is Lertho's hour as much as Tumair's.
+[[Tumair]] has usually already written what the hull is. The blessing, if someone wants one, happens where Lertho can hear it. A household can be classed, charged, and blessed before anyone has asked whether they can pay for the week inland. That is the quay's injustice, and it is Lertho's hour as much as Tumair's.
 
 ## Appearance & Demeanor
 
@@ -46,10 +46,14 @@ A box with a worn lip. They speak the count the way a person speaks a measure, n
 
 ## Role & Relationships
 
-- **[[Tumair]]** — the docket first, or beside. Two mouths. Not a hierarchy with a throne on top.
+- **[[Tumair]]** — the docket first, or beside. They work side by side, and neither is the other's superior.
 - **[[Votaer]]** — the rate's home. Other shore towns are not named, and they do not collect a second Hush.
-- **[[Taerso]]** — the historical mouth. Not a partner. Not a ghost at the box.
+- **[[Taerso]]** — the historical figure. Not a partner. Not a ghost at the box.
 - **[[Orentel]]** — will price what this rate already sorted. Lertho does not set that price.
+
+## Links
+- [[Votaer]] · [[The Hinge Shore]] · [[The Hinge Hush]] · [[Tumair]]
+- [[Taerso]] · [[Orentel]] · [[People of the Turning]] · [[08 - People]]
 
 ## GM Notes
 
@@ -57,7 +61,3 @@ A box with a worn lip. They speak the count the way a person speaks a measure, n
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261017 --register conservative --count 80` — **Lertho** position 50.
 - **The last coin is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
 - **Do not** make the rate a victory in a later note, and do not move it off Votaer.
-
-## Links
-- [[Votaer]] · [[The Hinge Shore]] · [[The Hinge Hush]] · [[Tumair]]
-- [[Taerso]] · [[Orentel]] · [[People of the Turning]] · [[08 - People]]

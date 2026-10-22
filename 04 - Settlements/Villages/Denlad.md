@@ -11,14 +11,14 @@ region: "[[Strandoren]]"
 population: a cove — one post, one Tree, not a quay-city
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Denlad
 
 > **A cove on the Salt Walk.** *(DEN-lad.)* On the Strandoren shore of the Old Crossing, about a day's sail short of [[Orentel]]'s estuary, in a side inlet the city's berths do not count. Ships from [[The Hinge Shore]] can tie here and still not be in the city. Not the Salt Quay. Not [[The White Note House]]. Not a hold.
 
-> Mouth: *Relmun*. A neighbour says the given name. A stranger hears *Relmun of Denlad*. No house-name. This is not [[Trenledd]] and not a filing house.
+> Keeper of the post: *Relmun*. A neighbour says the given name. A stranger hears *Relmun of Denlad*. No house-name. This is not [[Trenledd]] and not a filing house.
 
 ## At the table
 
@@ -37,7 +37,7 @@ The Salt Walk is a sail and then the inland days. Most of the sail aims at [[Ore
 
 The Tree Turns the cove's own children. It does not Turn the Crossing. A family from the [[The Hinge Shore|other shore]] who missed the fair wind can sit here and watch the week happen somewhere they cannot see.
 
-**This street's job is the missed tide.** Prestige is Orentel's hold. Devotion, if it lands, is a hymn the city will schedule. Necessity is a child who is ten and a squall that does not care. Do not make the cove a second capital and do not make the post a berth.
+**Denlad's work is the missed tide.** Prestige is Orentel's hold. Devotion, if it lands, is a hymn the city will schedule. Necessity is a child who is ten and a squall that does not care.
 
 ## The street
 
@@ -55,23 +55,24 @@ Chalk will not stick to the wet post. Relmun says the name aloud and does not wr
 
 ## In-world text
 
-*A tide-slate, cove post, Hale-month. Relmun. The city's berths are not on it. `oblique-worldbuilding`.*
+*A tide-slate, cove post, Hale-month. Relmun. The city's berths are not on it.*
 
 > *Child is ten. The post is not a berth. If the squall holds, the week is missed here. I will not call that a hold, and I will not send the city a fee to make it one.*
 >
 > *The Tree on the rise is ours. It is not their witness. Say the name. The post will not keep the chalk.*
 
-Relmun cannot afford to see that a missed week is the Salt Walk's whole cruelty in one cove. The family cannot afford to see a village Hand as the wrong door. The tide does not file either of them.
+The slate shows a missed week at one cove, which is the whole cost of the Salt Walk. A family that misses the tide is told by the post that a village Hand is also a door.
 
+
+## Links
+- [[Orentel]] · [[Named Ground]] · [[The Hinge Shore]] · [[Strandoren]]
+- [[Settlement Seeds]] · [[Climate of the Turning]] · [[04 - Settlements]]
 
 ## GM Notes
 
+- **Do not make the cove a second capital, and do not make the post a berth.**
 - **A village on a road that already exists.** The Salt Walk's sea-leg. Not a gazetteer of coves.
 - **Not Orentel.** Berths 1–4, the Drop, the White Note, and the rise-salt stay in the city. Do not explain that salt by copying it here. This Tree is simply above the inlet.
 - **Not a list-land.** No house-name. Lestrand prices; it does not enroll this kitchen.
 - **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register eroded --count 40` — **Denlad** position 4, **Relmun** position 10.
 - **Keystone:** a missed sail is weather and a door that does not move. Do not make the wet chalk a sign.
-
-## Links
-- [[Orentel]] · [[Named Ground]] · [[The Hinge Shore]] · [[Strandoren]]
-- [[Settlement Seeds]] · [[Climate of the Turning]] · [[04 - Settlements]]

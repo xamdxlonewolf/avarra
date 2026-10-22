@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, given, struck, leshy]
 aliases: [The Taken-In, Leshy, Wood-Wardens, The Green-Given]
-world:
+world: The Turning
 category: Condition
 monster: leshy
 standing: respected-but-looked-down / frontier
@@ -14,7 +14,7 @@ path: Both
 population: ~13%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Taken-In
@@ -23,15 +23,15 @@ updated: 2026-08-31
 
 ## The take
 
-One of the Taken-In can coax growth, read the wild, and move through it unseen and unlost. That's why the frontier runs on them: a Taken-In steward makes thin soil yield, keeps a herd through a bad winter, walks a forest without ever losing north, and knows a day out which way the weather turns. **Respected but looked-down** (~13% of all people; share from [[The Premise]]) — the cities and their guilds *need* the grain, timber, and wardens the Taken-In provide, and eat well because of them, but one of the Taken-In is dirt-handed, backcountry, and no longer quite human to look at (the bark and antler unsettle people who've never left the paved districts). Prosperous farm-country reveres them; polite city society finds them a little coarse, a little uncanny, and keeps them at arm's length.
+One of the Taken-In can coax growth, read the wild, and move through it unseen and unlost. That's why the frontier runs on them: a Taken-In steward makes thin soil yield, keeps a herd through a bad winter, walks a forest without ever losing north, and knows a day out which way the weather turns. **Respected but looked-down** (~13% of all people) — the cities and their guilds *need* the grain, timber, and wardens the Taken-In provide, and eat well because of them, but one of the Taken-In is dirt-handed, backcountry, and no longer quite human to look at (the bark and antler unsettle people who've never left the paved districts). Prosperous farm-country reveres them; polite city society finds them a little coarse, a little uncanny, and keeps them at arm's length.
 
 **Both paths, and they read differently.** About twelve parts in thirteen are **Given**: they drew the copper-green / verdigris at the Awakening and grew up in it — a farm or forest child comfortable in their half-wild skin, the change coming on gentle and known. About one part in thirteen is **Struck**: they got **lost and dying in the deep wild** — days without a path, ready to lie down — and the wild *took them in* rather than let them die, remaking them partway to keep them. They come back more uncanny, more overgrown, and quietly unsure whether they walked out a person or something the forest sent.
 
 ## At the Tree
 
 **Colour.** Copper-green / verdigris — folk-known *if you know not to confuse it with the hug*. This green is metallic, not the Tree's own summer-green. A Struck Taken-In has no leaf. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Both — most Given, a few Struck by being lost and dying in the deep wild. The engine lives on [[The Premise]].
-**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a gift of green, a little coarse in city mouths. [[The Old Ways]] say the grove's own children — the land making its own, Tree or no — and a Struck Taken-In is, to them, the oldest door, not a late embarrassment. [[The Watching]] names a seeing, not a taking-in by a mother.
+**Path.** Both — most Given, a few Struck by being lost and dying in the deep wild. The engine is on [[Turning Tree]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a gift of green, which city people call a little coarse. [[The Old Ways]] say the grove's own children — the land making its own, Tree or no — and a Struck Taken-In is, to them, the oldest door, not a late embarrassment. [[The Watching]] names a seeing, not a taking-in by a mother.
 **Where next.** [[Tithe-Infrastructure]] — greens as civic utility, not a college. [[The Greens-Keepers]] hire the skill for the lot; they will not sit them at the high table.
 
 ## Daggerheart — Transformation card
@@ -53,16 +53,16 @@ One of the Taken-In can coax growth, read the wild, and move through it unseen a
 
 The pleasant version is why the Taken-In live where they do: their work *is* their upkeep — a life spent on soil, among growing things, under open sky keeps the green in them fed without a thought. The Tithe only bites when one of the Taken-In is pulled off the land: a long sea voyage, a stretch in a stone gaol, a season stuck in a walled city on a lord's business. Old frontier custom is to send them home before they wilt, and city hosts who must keep one indoors learn to fill the room with potted green and open windows — a courtesy that doubles as keeping their guest from going to seed on the parlour floor.
 
-**They also live in the city.** Not as a contradiction. A copper-green leaf falls at a city Tree; family and a hearth-witness keep them. Grain-hands winter on the quay. [[The Greens-Keepers]] hire green-skill for the lot, then will not sit them at the high table. A rare Struck door opens in a walled grove. Green-poverty is a trap: lot-hours pay for staying whole, not for leaving. Polite districts keep them at arm's length (bark, antler, dirt). The lots are not empty. Fuller economy: [[Economy and the Tithe#Why Taken-In live in stone cities]]. World share stays ~13%; a stone city runs lower, concentrated on the greens. Enough for a queue. Enough for [[The Slide]].
+**They also live in the city.** Not as a contradiction. A copper-green leaf falls at a city Tree; family and a hearth-witness keep them. Grain-hands winter on the quay. [[The Greens-Keepers]] hire green-skill for the lot, then will not sit them at the high table. A rare Struck door opens in a walled grove. City pay covers the cost of keeping their Tithe but not the cost of leaving, and that makes them easy marks for [[The Slide]]. Polite districts keep them at arm's length (bark, antler, dirt). Fuller economy: [[Economy and the Tithe#Why Taken-In live in stone cities]]. Their share of the world is ~13%; a stone city has fewer of them, and most of those work on the greens.
+
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- [[Economy and the Tithe]] — urban green · [[The Greens-Keepers]] · [[The Slide]] · [[Tithe-Infrastructure]]
+- Contrast: [[Far-Voiced]] · [[The Stilled]] (the other Both-path Conditions) · [[Returned]] (another Condition remade by a threshold close to death — died-and-walked vs. lost-and-taken-in)
+- [[The Old Ways]] — grove's own children · [[The Watching]] — witness, not Mother
 
 ## GM Notes
 
 Keep the go-to-seed strictly environmental — growth bursting from ground and structures, never roots seizing another creature or forcing an action. A Struck Taken-In's uncertainty ("did I walk out, or was I sent?") is rich long-game material — play it as quiet identity dread, not a hidden puppet-string; the wild in them is *part of them*, not a master. One of the Taken-In dragged deep into a dungeon, a ship's hold, or a stone keep and left to wilt is a slow-building set-piece, not a gotcha.
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- [[Economy and the Tithe]] — urban green · [[The Greens-Keepers]] · [[The Slide]] · [[Tithe-Infrastructure]]
-- Contrast: [[Far-Voiced]] · [[The Stilled]] (the other Both-path Conditions) · [[Returned]] (the other Condition remade by a near-death threshold — died-and-walked vs. lost-and-taken-in)
-- [[The Old Ways]] — grove's own children · [[The Watching]] — witness, not Mother

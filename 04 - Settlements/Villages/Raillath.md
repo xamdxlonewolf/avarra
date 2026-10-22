@@ -11,14 +11,14 @@ region: "[[Orenbren]]"
 population: a halt — kitchens along one shrine, not a town
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Raillath
 
 > **A halt on the Near Mile.** *(RAY-lath.)* Between Brenthael and [[The Mill-hold]], where the two days already were. The mile-shrine is still **on the road**. It has not been pulled into a square. Not [[Nelath]]. Not an inn-bank. Not a sick Hand.
 
-> Mouth: *Lonteith*. A neighbour says the given name. A stranger hears *Lonteith of Raillath*. No house-name.
+> Keeper of the post: *Lonteith*. A neighbour says the given name. A stranger hears *Lonteith of Raillath*. No house-name.
 
 ## At the table
 
@@ -37,7 +37,7 @@ The Near Mile still has days in it. [[The Third Hearth]] lodges. Brenthael hosts
 
 There is a Hand. It is a village Hand, sound, and not a seat. Leaf-Fall for these hearths is small. The Mile's crowds do not stop for it. They stop to drink.
 
-**This street's job is the halt.** Not the stopped walk ([[Nelath]] did that, on a spur). Not the neighbour's week (Brenthael and the hold are already arguing that). Not a deathless note.
+**Raillath's work is being a halt.** Not the stopped walk ([[Nelath]] did that, on a spur). Not the neighbour's week (Brenthael and the hold are already arguing that). Not a deathless note.
 
 ## The street
 
@@ -51,29 +51,29 @@ Someone ties an undyed ribbon here. It is not a leaf-colour. Lonteith will not n
 
 ## What can enter a scene
 
-- **The column at the cistern.** Mill-hold children, or the walk back. They drink. They do not stay. Someone asks to, and the kitchen is already full of its own mouths.
+- **The column at the cistern.** Mill-hold children, or the walk back. They drink. They do not stay. Someone asks to, and the kitchen is already full of its own people.
 - **A cart that thought this was the inn.** It is a day early, or a day late. The shrine is not Thilim's stone and not Meirim's crowd.
 - **The ribbon on the cup.** Lonteith moves it. A child ties it back. Nobody calls it a colour.
 
 ## In-world text
 
-*Chalk on the shrine's road-side, Hale-month. Lonteith. `oblique-worldbuilding`.*
+*Chalk on the shrine's road-side, Hale-month. Lonteith.*
 
 > *Drink. Do not stay the week. Brenthael is grove-ward. The hold is the other way, and their wood is not this post.*
 >
 > *The ribbon is not a colour. Do not copy it. If you need a bed you have already passed one, or you have not come to it yet.*
 
-Lonteith cannot afford to see that "do not stay" is the Mile's hospitality said as a kindness. The column cannot afford to see a halt as a refusal. The cup does not care which.
+"Do not stay" is how this halt is hospitable to a column that has to keep moving. The chalk is meant as a kindness and can be read as a refusal.
 
-
-## GM Notes
-
-- **A village, not a gazetteer entry.** One street, one job, one mouth. Do not grow wards.
-- **Not Nelath.** The shrine is still a day's mark on a through-road. The spur is a different road, and it stops.
-- **Not the Third Hearth, Brenthael, or the Mill-hold.** No Held bed. No extra-mile crowd. No culvert. The column's dust is texture, not a second necessity-theme.
-- **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Raillath** position 25, **Lonteith** position 22. Given names. No house.
-- **Keystone:** do not let the undyed ribbon be a message from the wood.
 
 ## Links
 - [[Named Ground]] · [[Orenbren]] · [[The Third Hearth]] · [[The Mill-hold]] · [[Nelath]]
 - [[Settlement Seeds]] · [[The Years of Hands]] · [[04 - Settlements]]
+
+## GM Notes
+
+- **A village, not a gazetteer entry.** One street, one job, one keeper. Do not grow wards.
+- **Not Nelath.** The shrine is still a day's mark on a through-road. The spur is a different road, and it stops.
+- **Not the Third Hearth, Brenthael, or the Mill-hold.** No Held bed. No extra-mile crowd. No culvert. The column's dust is texture, not a second necessity-theme.
+- **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Raillath** position 25, **Lonteith** position 22. Given names. No house.
+- **Keystone:** do not let the undyed ribbon be a message from the wood.
