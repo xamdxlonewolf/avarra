@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: stub
 status: active
-tags: [faction, government, polity, maiethorn, epic-7]
+tags: [faction, government, polity, maiethorn]
 aliases: [The Gift-Realm, the Mother's Gift, Maiethvael-folk]
 world: The Turning
 category: government
@@ -12,12 +12,12 @@ seat: "[[Seinbrun]]"
 public_face: the old gift-country that shares the Mother and will not keep a list
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Maiethvael
 
-> **The Gift-Realm.** *(formal *Maiethvael*, MAI-eth-vael · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift.")* Conservative drift. The un-built **warm rich core** — theology high · reach high · governance **low**.
+> **The Gift-Realm.** *(formal *Maiethvael*, MAI-eth-vael · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift.")* Conservative drift. A rich, devout country with a very light government.
 
 People say **the Gift-Realm** and **Gift-folk**. Charters and learned maps write *Maiethvael*.
 
@@ -25,11 +25,11 @@ People say **the Gift-Realm** and **Gift-folk**. Charters and learned maps write
 
 An old, Tree-dense Motherland realm that treats Tithe-provision as **public tending** — greens, halls, and medicine furnished by congregation and guild, not by a crown channel. Citizenship is witnessed in the world's warm default. There is no [[Naming in the Turning|Threnhael]] here; they will tell you counting persons is a failure of trust in the [[Law and Citizenship|three pillars]]. The hymns are the same ones [[Polity Archetypes|Threnmaieth]] sings. The paper is not.
 
-**Site.** Full-reach [[Maiethorn]] country in sight of the pilgrimage weather, not coiled on the grove. Leftover: origin pilgrimage-country that *furnishes* — the extra mile as hospitality, not as a roll-line.
+**Site.** Full-reach [[Maiethorn]] country, in sight of the pilgrimage weather but not built around the grove. It is the old pilgrimage country, and it *furnishes*: the extra mile is hospitality, not a line on a roll.
 
-**Seat.** [[Seinbrun]] is the capital, a large city off the [[Named Ground|Core-thaw]], a day's argument from [[Maiethlir]]. Not Maiethlir. Not [[The Down-Bank]]. Smaller towns and villages around it stay unnamed. The hall furnishes. The city does not keep a list.
+**Seat.** [[Seinbrun]] is the capital, a large city off the [[Named Ground|Core-thaw]], more than a day from [[Maiethlir]], past the first day below the Down Gate where Maiethvael's people live. Not Maiethlir. Not [[The Down-Bank]]. Smaller towns and villages around it stay unnamed. The hall furnishes. The city does not keep a list.
 
-**How it formed.** Gift-integration that never accepted a census. [[The Two Papers]] (C.Y. 67) is the year: **Manril** would not be named to Limrae's roll. Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. Light state on purpose. The gap is filled by faith and guild, not by a clerk.
+**How it formed.** Gift-integration that never accepted a census. [[The Two Papers]] (Cut-year 67) is the year: **Manril** would not be named to Limrae's roll. Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. The state is light on purpose. Faith and guild do the work a clerk would do elsewhere.
 
 **What they remember.** Same hymn, opposite paper. Threnmaieth's crown-count is a river-habit they will not convert. The Close's Book is someone else's rank. Chronicle: [[The Other Count]].
 
@@ -39,26 +39,23 @@ Guild self-rule under ardent practice. Recruits by office, faith, Condition-lean
 
 ## Goals & Methods
 
-Keep the gift hale without writing the gifted down. Furnish generously. Pity the [[Law and Citizenship|Kept]] in a land where almost no child is Kept — the slight with no thin-Tree excuse.
+Keep the gift hale without writing the gifted down. Furnish generously. Pity the [[Law and Citizenship|Kept]] in a land that teaches a hug at the Tree is rare. The pity is a slight, and it has no thin-Tree excuse.
 
 **Its injustice.** Not a boot. A **social tax of piety**. Warmth is real and so is the bill: fall out of congregation and the net goes with it, and there is no crown to appeal to. The Kept here are pitied in *plenty*. Threnmaieth at least files them; Maiethvael loves them and cannot stop measuring what they missed.
 
+## Links
+
+- [[Powers of the Turning]] · [[Polity Archetypes]] · [[Maiethorn]] · [[Seinbrun]]
+- [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Leaf-Mother]] · [[The Watching]]
+- [[The Two Papers]] · [[The Other Count]] · [[Settlement Seeds]]
+
 ## GM Notes
 
-- **Production (R.13).** Moved off the player body:
-- Named-stub for [[Roadmap|Story 7.1]].
 - Do not flesh districts.
 - Seat is [[Seinbrun]]. Do not move it onto Maiethlir or the Down-Bank. Do not census the towns around it.
 - Do not make this the kind foil to [[Polity Archetypes|Threnmaieth]].
-- **Canon status.** 🟡 **Named stub, seated.**
-- Seed `20260827`.
 - The three corner seats stay [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. Seinbrun is this power's capital, not a fourth corner.
 
 - **Not the good kingdom.** Congregation-welfare can still price belonging through piety.
 - **Name-pair with Threnmaieth.** Same *maieth*; gift vs reckoning. A scholar may notice. Do not gloss it.
 - **Hooks.** A Kept child in full-reach plenty; a Tithe-poor household that left the hymn and lost the green; Threnmaieth clerks who want this realm *named* to the roll; a Watcher family and a Motherfaith guild sharing a Tree and not a list.
-
-## Links
-- [[Powers of the Turning]] · [[Polity Archetypes]] · [[Maiethorn]] · [[Seinbrun]]
-- [[Law and Citizenship]] · [[Economy and the Tithe]] · [[The Leaf-Mother]] · [[The Watching]]
-- [[The Two Papers]] · [[The Other Count]] · [[Settlement Seeds]] · [[Roadmap]] (Story 7.1; history R.9)

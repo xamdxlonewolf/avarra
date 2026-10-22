@@ -13,12 +13,12 @@ location: "[[Trenledd]]"
 role: desk
 reveals: []
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 
 # Dirrol
 
-> The desk that added a column for who was still alive. [[The Grey Summer]], C.Y. 171. Dead. Not a founder.
+> The desk that added a column for who was still alive. [[The Grey Summer]], Cut-year 171. Dead. Not a founder.
 
 *(DEER-rol.)* The name on the back of the stones is Dirrol. **Memory: still argued.**
 
@@ -33,7 +33,7 @@ updated: 2026-09-29
 
 ## Summary
 
-[[Trenledd]] already had columns for hazard and debt. In the Salt-Grey, Dirrol added one for the person who could still be found. There was no hymn in it. A desk had lost too many mouths and did not trust the square to restock itself.
+[[Trenledd]] already had columns for hazard and debt. In the Salt-Grey, Dirrol added one for the person who could still be found. There was no hymn in it. A desk had lost too many people and did not trust the square to restock itself.
 
 The Worn Count is that summer's child. [[Polity Archetypes|Threnmaieth]] at least claims to keep you hale. Trenledd learned, in a plague-year, that it wanted you findable. Dirrol is the hand on that first person-column. The stiller on the quay had asked for water. Inland, this desk invented the box.
 
@@ -51,17 +51,17 @@ Remembered as a column, not a body. No portrait has held. When the Worn Count sp
 - **[[Trenledd]]** — the count that grew from the column. The living list is not this clerk, returned.
 - **[[Brenledd]]** — the compact. Nidtol's name, recited. Later overlay. Not Dirrol's house.
 - **[[The Stillers]]** — the hour-slate that had no box for a street. This desk built a different box, too late for that quay.
-- **[[The White Note House]]** — notes outlived mouths in the same summer. A different fortune. Ledan is not Dirrol's heir.
+- **[[The White Note House]]** — notes outlived people in the same summer. A different fortune. Ledan is not Dirrol's heir.
+
+## Links
+- [[The Grey Summer]] · [[The Other Count]] · [[Trenledd]] · [[Brenledd]]
+- [[The Stillers]] · [[The Hinge Shore]] · [[The White Note House]]
+- [[08 - People]] · [[02 - History]]
 
 ## GM Notes
 
 - **Memory: still argued.** Past layer only. Dead. Not a present antagonist. A desk, not a founder. Do not seat them as a clerk-king.
 - **Positional.** Accidental historian. Routine columns became the only way a coast could find the living. Their competence at the desk made them essential to a count that did not exist when they sat down. They could not unwrite the row.
 - **Arc, if you need one.** *Want:* find the living. *Lie:* a name in a column is as good as a witness in a square. *Need:* the water the stiller asked for, which a row cannot pour. They did not take it. The count took the column.
-- **Nidtol stays the later overlay** already on [[The Grey Summer]]. Do not give Nidtol a note, a throat's biography, or a founding-day.
+- **Nidtol stays the later overlay** already on [[The Grey Summer]]. Do not give Nidtol a note, a biography, or a founding-day.
 - **Do not** give Dirrol a house-name. A house would be the founder the stones refused. The name the year uses is Dirrol. The fever is not a Condition and not a punishment.
-
-## Links
-- [[The Grey Summer]] · [[The Other Count]] · [[Trenledd]] · [[Brenledd]]
-- [[The Stillers]] · [[The Hinge Shore]] · [[The White Note House]]
-- [[08 - People]] · [[02 - History]]

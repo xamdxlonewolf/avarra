@@ -27,7 +27,7 @@ updated: 2026-10-22
 | **Fear** | An unvouched Struck with nothing to put on the slate. A hymn offered as if it were a net. |
 | **Live conflict** | A hull can pay. A person who cannot barter still slides. |
 | **Enters a scene** | A coin left on the sill. A hull at the beach. A line recopied on newer wood. |
-| **How this town talks** | The slate and the gate. No new mouth. |
+| **How this town talks** | The slate and the gate. No new named person. |
 
 ## Overview
 
@@ -39,7 +39,7 @@ Villages and hamlets in the pockets around Sanbreo stay unnamed. They are not th
 
 [[Netstrand]] can quote a far crossing at [[Braetu]]. The fee here is a beach, not that quote. [[Polity Archetypes|Vaethorn]] may bless a landing and may not levy it. Ornled was written into the Hush as a beach-fee. They were not asked. They take the fee anyway, because a hull that wants the beach is a hull, and a hymn is not what they sell.
 
-**Leftover job on this street: the slate.** Necessity, not devotion. The same stones a walk used. The job that stayed is a line on a wall.
+The town's daily work is the slate. It records the beach-fees and the town's refusal to wait with a hymn. Necessity, not devotion. The same stones a walk used.
 
 ## The gate
 
@@ -51,11 +51,11 @@ The last capes lie further out, toward the storm-wall. This note does not name t
 
 The work is the **slate**, kept on the wall inside the gate.
 
-The first line is still the sentence **Vathne** cut, after a waited pot drowned in someone else's thaw: the town will not wait with a hymn for a stick that drowned. The wood of the wall is newer than the words. Someone recopied the line onto it. Vathne is that line. Vathne is not a mouth in the room.
+The first line is still the sentence **Vathne** cut, after the Thaw-Break, when a graft pot the town had waited for drowned in a flood from someone else's thaw. The line says the town will not wait with a hymn for a stick that drowned. The wood of the wall is newer than the words. Someone recopied the line onto it. Vathne cut that line. Vathne is not a person you meet here. The line is what the town keeps.
 
 When a hull arrives, the beach-fee is cut on the same slate. Barter, favor, and the wall are the Tithe. An unvouched Struck is met with a rope, a deal, or a neighbour. There is no blessing queued behind the fee.
 
-No new person is seated here.
+A hull deals with whoever is on the shore gate that day, and that person cuts the fee on the slate. This note does not name them.
 
 ## One tension
 
@@ -67,21 +67,21 @@ When a hull has paid, the coin stays on the slate's sill until the hull is gone.
 
 ## People
 
-No new person. The wall keeps the sentence. A neighbour does not introduce a keeper of it.
+No new named person. The wall keeps the sentence, and whoever is on the shore gate cuts the fee. A neighbour does not introduce a keeper of the slate.
 
 Vathne stays the line on the slate. There is no house to put first. The Outer Ledger does not keep a person-list.
-
-## GM Notes
-
-- **S.3 seat.** Ornled's town on the slate-shore, on the brink of a small city. The slate is kept here. A beach-fee can be paid when a hull arrives. Villages and hamlets in the pockets stay unnamed. The town is the seat. It is still a town.
-- **No new person.** Do not invent a slate-keeper to sit the wall. Vathne stays the slate. Do not write Vathne a person-note. Do not make Vathne the prophet of secularism. Do not move [[Narol of the Pass]] here.
-- **Not a harbour city.** The fee is a beach. [[Braetu]] keeps the far quote. Do not give Sanbreo Orentel's berths, a signing-watch, or a congregation-net.
-- **Habits.** One. The count is full. A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-- **One tension.** A hull can pay, and a person can still slide. Do not add a ward-grid. Do not census the pockets. The sheet, if it is drawn, is Epic M.
-- **World book.** Do not fold this note into the book unless asked.
 
 ## Links
 - [[Ornled]] · [[Powers of the Turning]] · [[Heskoren]] · [[Named Ground]]
 - [[The Thaw-Break]] · [[The Hinge Hush]] · [[The Other Count]]
 - [[Netstrand]] · [[Braetu]] · [[Eolvaeth]] · [[Polity Archetypes]]
 - [[04 - Settlements]] · [[Roadmap]]
+
+## GM Notes
+
+- **S.3 seat.** Ornled's town on the slate-shore, on the brink of a small city. The slate is kept here. A beach-fee can be paid when a hull arrives. Villages and hamlets in the pockets stay unnamed. The town is the seat. It is still a town.
+- **No new named person.** The person on the gate stays unnamed. Do not invent a named slate-keeper to sit the wall. Vathne stays the slate. Do not write Vathne a person-note. Do not make Vathne the prophet of secularism. Do not move [[Narol of the Pass]] here.
+- **Not a harbour city.** The fee is a beach. [[Braetu]] keeps the far quote. Do not give Sanbreo Orentel's berths, a signing-watch, or a congregation-net.
+- **Habits.** One. The count is full. A later note must not explain it, and must not turn it into a power, a relic, or a rite.
+- **One tension.** A hull can pay, and a person can still slide. Do not add a ward-grid. Do not census the pockets. The sheet, if it is drawn, is Epic M.
+- **World book.** Do not fold this note into the book unless asked.

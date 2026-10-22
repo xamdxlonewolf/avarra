@@ -9,7 +9,7 @@ aliases: [Heroes Folder]
 world: The Turning
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Heroes
@@ -18,10 +18,10 @@ Praised, condemned, and still argued share one index: [[Heroes and Villains]]. T
 
 This folder does not split the praised off into a list of their own.
 
-## GM Notes
-
-Do not write a second heroes index here. Do not add a campaign hero to fill the folder.
-
 ## Links
 
 - [[Heroes and Villains]] · [[08 - People]] · [[Villains]]
+
+## GM Notes
+
+Do not write a second heroes index here. Do not add a campaign hero to fill the folder.

@@ -13,7 +13,7 @@ location: "[[Raitin]]"
 role: a person the next hearth does not know
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Nubo
@@ -47,14 +47,14 @@ The thread is the only mark. They speak the given name, and they flinch when a c
 - **[[Raitin]]** — home, and the hall that cleared them. Not a guarantee.
 - **[[Turvo]]** — wrote the note. Cannot carry it.
 - **[[Sulnu]]** — can take a ticket to the stair. The next hearth is not the stair.
-- **The next hearth** — did not stand them. Nubo will not say which town. The hall will not send a mouth to settle it.
-
-## GM Notes
-
-- **Not a court.** One of three mouths at Raitin. The gap is the tension. Do not name the refusing hearth. Do not give that town a habit or a person. Do not invent a house for Nubo.
-- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261018 --register eroded --count 80` — position 27. Full throwback list on [[Raitin]].
-- **The thread is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
+- **The next hearth** — did not stand them. Nubo will not say which town. The hall will not send anyone to settle it.
 
 ## Links
 - [[Raitin]] · [[Brenledd]] · [[Turvo]] · [[Sulnu]]
 - [[People of the Turning]] · [[08 - People]]
+
+## GM Notes
+
+- **Not a court.** One of three people at Raitin. The gap is the tension. Do not name the refusing hearth. Do not give that town a habit or a person. Do not invent a house for Nubo.
+- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261018 --register eroded --count 80` — position 27. Full throwback list on [[Raitin]].
+- **The thread is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.

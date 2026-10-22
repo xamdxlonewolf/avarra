@@ -9,14 +9,14 @@ aliases: [Table Procedures, Session Zero, Character Creation]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # At the Table
 
 > **What this is.** The session-facing procedures for **The Turning**. Character creation, the Kept deal, Struck-in-play, stacking, advancement, travel, city witnessing, crime, and Leaf-Fall edge cases — in one place a GM can open without hunting six notes. Fiction and law stay on their home notes. This page is the order of operations.
 
-> **Tone.** Neighbours and colleagues. A real obstacle underneath. A Tithe never seizes the PC. ~5% scary.
+> **Tone.** Neighbours and colleagues. Mostly ordinary, with a real danger underneath. A Tithe never seizes the PC.
 
 ## Character creation (order)
 
@@ -134,10 +134,10 @@ If a scene has a thing that keeps working with no person in it, open [[A Made Th
 | Wilderness danger, a roll on the road | [[Dangers of the Turning]] |
 | A domain card, a Spoken colour | [[How the Work Is Done]] |
 | A made thing | [[A Made Thing]] |
-| Population shares, Given / Struck / Both | [[The Premise]] |
+| Population shares, Given / Struck / Both | [[Conditions]] |
 
 ## Links
-- [[Kind Heritage]] · [[Conditions]] · [[The Premise]] · [[How the Work Is Done]] · [[A Made Thing]]
+- [[Kind Heritage]] · [[Conditions]] · [[How the Work Is Done]] · [[A Made Thing]]
 - [[Law and Citizenship]] · [[Turning Tree]] · [[Named Ground]]
 - [[A Hidden Phoenix]] · [[Dangers of the Turning]]
 - [[13 - Game]]

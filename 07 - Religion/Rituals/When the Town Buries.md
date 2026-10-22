@@ -9,7 +9,7 @@ aliases: [A Funeral, The Burial Hour, When a Town Buries]
 world: The Turning
 reveals: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # When the Town Buries
@@ -28,19 +28,19 @@ A Long-Lived who loved the dead waits on the step until someone says come in. Th
 
 A mixed house is the usual house.
 
-A Motherfaith sibling says Maieth over their own bowl and means the life. A Watcher sibling says what the dead were like at the stall in Gift-month — the coat, the argument, the way they counted change — and does not thank a giver. If the dead kept a book, a Settler closes it on the table where the room can see the last line, and does not write a new one. A kin-speaker puts a little of the meal at the threshold. If the dead were of a door, the rest of that food goes to the door when the street is finished. They do not hold the argument about which name comes first while the bowls are still full. The argument can have the dishes.
+A Motherfaith sibling says Maieth over their own bowl and means the life. A Watcher sibling says what the dead were like at the stall in Gift-month — the coat, the argument, the way they counted change — and does not thank a giver. If the dead kept a book, a Settler closes it on the table where the room can see the last line, and does not write a new one. A kin-speaker puts a little of the meal at the threshold. If the dead kept the Old Ways, the rest of that food goes to the door when the street is finished. They do not hold the argument about which name comes first while the bowls are still full. The argument can have the dishes.
 
 Nobody Speaks a fall. A neighbour who tries is walked outside by whoever is nearest the pot.
 
 ## On a dock
 
-If the dead worked the water at [[Orentel]], the gang carries along the quay. The box does not go under Tallo to be read. Some of the gang say *fair wind, fair term* over it, because that is the sentence their mouth has for a leaving. Some will not, because they keep that sentence for a hull that is still going out. Both happen in the same hour, and the gang does not stop to settle it.
+If the dead worked the water at [[Orentel]], the gang carries along the quay. The box does not go under Tallo to be read. Some of the gang say *fair wind, fair term* over it, because that is the sentence they have for a leaving. Some will not, because they keep that sentence for a hull that is still going out. Both happen in the same hour, and the gang does not stop to settle it.
 
 A book, if there is one, is closed where the gang can see. The salt on the roots is not part of this hour ([[Orentel]]).
 
 ## In a waiting town
 
-[[Eolvaeth]] does not send to a luckier Hand for a warden. If the warden is in the vale, they may walk. If the summer was a send, the town buries with the people who stayed. The pot is the gift-hall's. Food goes to the door the person kept. The wet leaf on the spring is the spring's business. It is not a funeral token ([[Eolvaeth]]).
+[[Eolvaeth]] does not send to a luckier Hand for a warden. If the warden is in the vale, they may walk. If the town sent its children elsewhere to Turn that summer, the town buries with the people who stayed. The pot is the gift-hall's. Food goes to the door the person kept. The wet leaf on the spring is the spring's business. It is not a funeral token ([[Eolvaeth]]).
 
 ## At the hill
 

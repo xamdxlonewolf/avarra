@@ -1395,14 +1395,14 @@ One reader per group. Each reads every note in its group all the way through and
 
 **Wave 1 — fix by folder.** One reader per group. Each fixes, on its own files: the C-10 to C-24 items and the V.3 decisions, then the GM leaks and `reveals` tags (and moves any `## Links` that sits after `## GM Notes` above it), then the design scaffolding, then the old voice, then every remaining medium and low finding in its Findings note.
 
-- [ ] `00 - Core`, without this Roadmap. Includes trimming the Build Plan, the folder tree in Conventions, and the stale lines in [[Condition Audit]] and [[Epic 2 Audit Guide]]
-- [ ] `01 - World`, `06 - Magic`, `10 - Items`, `13 - Game`. Includes the placement rows in [[Named Ground]] for Seinbrun, Naenor, Raitin, Natai, Tasain, Larbril, and the Seeing-Ring, read from the seat notes and the atlas sheets
-- [ ] `02 - History`, `11 - Secrets`, without [[Contradictions]] and [[Reveal Index]]
-- [ ] `03 - Cultures`
-- [ ] `04 - Settlements`
-- [ ] `05 - Factions`
-- [ ] `07 - Religion`, `09 - Creatures`. Includes pointing the cards at the Conditions hub for shares
-- [ ] `08 - People`, `12 - Campaigns`, `14 - Assets` (not the world book and not the Vault Audit 2026-10-22 folder). Includes the stale status lines in the two earlier audit notes. `99 - Archive` is read only
+- [x] `00 - Core`, without this Roadmap. Includes trimming the Build Plan, the folder tree in Conventions, and the stale lines in [[Condition Audit]] and [[Epic 2 Audit Guide]]
+- [x] `01 - World`, `06 - Magic`, `10 - Items`, `13 - Game`. Includes the placement rows in [[Named Ground]] for Seinbrun, Naenor, Raitin, Natai, Tasain, Larbril, and the Seeing-Ring, read from the seat notes and the atlas sheets
+- [x] `02 - History`, `11 - Secrets`, without [[Contradictions]] and [[Reveal Index]]
+- [x] `03 - Cultures`
+- [x] `04 - Settlements`
+- [x] `05 - Factions`
+- [x] `07 - Religion`, `09 - Creatures`. Includes pointing the cards at the Conditions hub for shares
+- [x] `08 - People`, `12 - Campaigns`, `14 - Assets` (not the world book and not the Vault Audit 2026-10-22 folder). Includes the stale status lines in the two earlier audit notes. `99 - Archive` is read only
 
 **Wave 2 — across the vault.** After wave 1 is committed.
 
@@ -1425,7 +1425,7 @@ One reader per group. Each reads every note in its group all the way through and
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic V — Read the whole vault:** 13 / 29 tasks (45%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, V.2 is 3 / 3 ✅, and V.3 is 1 / 1 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]; C-19 (Sanbreo is on the west coast) is fixed. The user's answers are the V.3 recorded decisions. V.4 is 0 / 16: wave 1 is 0 / 8, wave 2 is 0 / 3, wave 3 is 0 / 4, and the world book box is the user's. World book untouched.
+- **Epic V — Read the whole vault:** 21 / 29 tasks (72%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, V.2 is 3 / 3 ✅, and V.3 is 1 / 1 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]; C-19 (Sanbreo is on the west coast) is fixed. The user's answers are the V.3 recorded decisions. V.4 is 8 / 16: wave 1 is 8 / 8 ✅ **2026-10-22**, wave 2 is 0 / 3, wave 3 is 0 / 4, and the world book box is the user's. World book untouched.
 - **Epic H — A past you can hold:** 35 / 35 tasks (100%) ✅ **2026-10-22. Epic H complete.** H.6 is 6 / 6 ✅ **2026-10-22.** "The years themselves" means the papers go onto the shelf and the circle stops counting the years; the thinner copy is the papers. H.1 is 6 / 6 ✅ **2026-10-21.** The ask and the taking are on [[The Pourers]]; the taking is under GM Notes. [[The Unspent]] records the founder's belief under GM Notes. [[Long-Lived]] and [[Movements]] point at the practice. H.2 is 6 / 6 ✅ **2026-10-21.** The manners, the lesson beside the count, the turns of work, and three places outside the walls are on [[The Walled Book]]. The teacher is Volnai. [[The Closing]] has one sentence on the manners after the Retreat. H.3 is 8 / 8 ✅ **2026-10-21.** [[A History of the Turning]] tells the history in order in ordinary sentences, with the taking, the founder's belief, and the age of [[The Unspent]] under GM Notes. It is linked from [[02 - History]] and [[The Ages of the Turning]]. H.4 is 1 / 1 ✅ **2026-10-21.** At the user's request the history was audited against its source notes and read sentence by sentence; the fixes are in the H.4 recorded decisions. H.5 is 8 / 8 ✅ **2026-10-21.** [[The Library Pages]] lists six pages in `14 - Assets/Documents/Library/`: a primer and a road song from Rothallo's school, a history of the Closing from the Book's house, and minutes of a willing gift, a play scene, and a poem from Molevad's long-house shelf in Lestrand. The three truths no page reveals are under its GM Notes. World book untouched.
 - **Epic C — How the book speaks:** 13 / 13 tasks (100%) ✅ **2026-10-05.** `prose-style`: P6, P4, and P2 over-corrected. Glossary asides pulled into the next sentence. Baseline kept: the Turning Tree opening and [[How a Place Speaks]]. Book rebuilt. Vault not rewritten.
 - **Epic B — The book, in a reader's voice:** 26 / 26 tasks of B.1 (100%) ✅ **2026-10-05.** Each chapter was read through. Designer shorthand in the player chapters is said in ordinary words. Clock 1 and Clock 2 keep their names in the Ages chapter and in the GM chapter, after the chapter says what each count is. The Leaf-Mother stays a belief in player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The book was rebuilt. The vault was not rewritten.

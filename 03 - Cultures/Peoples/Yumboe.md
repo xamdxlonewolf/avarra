@@ -11,7 +11,7 @@ language: the Yumboe tongue (non-Maiethren)
 homeland: "[[The Sundering Isle]] (Kumbaan)"
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-22
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Yumboe
@@ -22,7 +22,7 @@ updated: 2026-08-31
 
 Yumboes are the **good people** — *Bakhna Rakhna* in their own tongue — the small, moon-waked hill-folk of the far isle of [[The Sundering Isle|Kumbaan]]. They stand about waist-high to a mainlander, with **pearl-pale skin that catches the light, hair like spun silver, and wide dark eyes made for the night.** They live *within* the green hills of their home — a warren of hearths and long feast-halls hollowed under the turf — and come up by moonlight, for they keep the night the way other folk keep the day. And they are **famously, defiantly hospitable**: a Yumboe's table is open to native and stranger alike, laid with more than a small people should be able to carry, and waited on by **hands and feet you can plainly see and bodies you cannot** — the unseen servants that are the good people's oldest wonder.
 
-**The fresh angle:** the "lost island of little folk" is usually a twee paradise or a hidden menace. The Yumboes are neither — they are an ordinary, warm, *whole* people who happen to live somewhere almost no one can reach, so their strangeness is entirely a matter of **distance, not nature.** They are not strange to themselves; they are only a legend to a world that has never had them to supper. Familiar surface (a small, generous hill-people who love a feast and the moon), uncanny underneath (the hands with no bodies; a whole living nation the mainland files under *fairy-tale*).
+The Yumboes are an ordinary, warm, whole people who live somewhere almost no one can reach, so their strangeness is a matter of **distance, not nature.** They are not strange to themselves; they are only a legend to a world that has never had them to supper. The mainland files them, and the hands with no bodies, under fairy-tale.
 
 ## Values & Worldview
 
@@ -44,13 +44,12 @@ Every Yumboe has all three: **Hollow-Hill**, **Moon-Waked**, and **The Unseen Ha
 
 ## Naming & tongue
 
-The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]] — the one language in the setting that owes *nothing* to the Leaf-Mother's liturgy, because the [[Turning Tree|Trees]] never crossed the storm-wall. Its sound is **open-voweled and warm, with soft pre-nasal clusters** (*mb, nd, nk, nj*) and a lilting, drum-like rhythm — Wolof/Senegambian in flavour, deliberately distinct from the whole Maiethren world so a Yumboe name *sounds* foreign the instant it's spoken.
+The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]] — the one language in the setting that owes *nothing* to the Leaf-Mother's liturgy, because the [[Turning Tree|Trees]] never crossed the storm-wall. Its sound is **open-voweled and warm, with soft pre-nasal clusters** (*mb, nd, nk, nj*) and a lilting, drum-like rhythm — deliberately distinct from the whole Maiethren world, so a Yumboe name *sounds* foreign the instant it's spoken.
 
 - **Their name for themselves:** *Bakhna Rakhna* — "the good people."
 - **Their homeland:** *Kumbaan* (koom-BAHN) — "the hidden home." (Mainlanders call it [[The Sundering Isle]].)
-- **Sample given names** *(working set, seed `20260826` — add from the same inventory, pick deep in the list):* Ambaa, Njeela, Kumbo, Sambanka, Ndeya, Mbaraan, Njunda, Rakhilo, Sonkaa, Mbindaa, Yumbaka, Ndoolu, **Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.**
+- **Sample given names** *(working set; add from the same inventory, picking deep in the list):* Ambaa, Njeela, Kumbo, Sambanka, Ndeya, Mbaraan, Njunda, Rakhilo, Sonkaa, Mbindaa, Yumbaka, Ndoolu, **Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.**
 - Full person-naming rules (two-name pattern, collision, how they stay a *single* register on the mainland): [[Naming People in the Turning]]. Distribution: [[Kinds of the Turning]].
-- The Isle's **Azgaar name base** (places) lives in `14 - Assets/Maps/Map Generation Tooling.md` §③b — production aid, not terrain.
 
 ## Links
 - [[The Premise]] — the two-layer (Kind + Condition) model
@@ -62,6 +61,7 @@ The Yumboes speak **their own tongue**, unrelated to [[The Old Tongue|Maiethren]
 ## GM Notes
 
 - **The isle is a reach-edge, not a racial immunity.** Per [[The Other Hands]]: her Giving does not cross the storm-wall; they do not keep her household's doors, so purchase is thin; Struck are rare because the doors are barely a concept, not because Yumboes are refused. A Yumboe under a mainland Tree *could* be Given. Do not write a Kind-ban. Do not confirm the household in the body.
+- **Seed and map tooling.** New Yumboe given names were drawn at seed `20260826`. The isle's Azgaar name base (places) lives in `14 - Assets/Maps/Map Generation Tooling.md` §③b; it is a production aid, not terrain.
 - **Keyed tags.** `keystone-adjacent` · `the-other-hands`.
 - **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. Tremor-sense is not "cannot be caught off guard."
 - **Folklore check (2026-08-22).** Wolof/Senegambian *Yumboe* (Keightley): pearly/silver, hill-dwellers, moon-waked, unseen hands, hospitality, *Bakhna Rakhna*. Ancestral flavour lives on [[The Open Table]], not as literal ghosts.

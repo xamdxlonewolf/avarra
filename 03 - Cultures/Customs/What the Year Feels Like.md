@@ -9,20 +9,20 @@ aliases: [The Felt Year, How the Year Feels]
 world: The Turning
 reveals: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # What the Year Feels Like
 
 > **How to use this.** [[Daily Life]] is the household: marriage, medicine, the way a town is built. This note is the year's weather on a street. The festival week is [[How the Week Is Kept]]. A burial, a stranger's bowl, and the hour a person changes are [[When the Town Buries]], [[The Guest-Meal]], and [[When Someone Is Struck]]. Kind-kitchens stay on [[Kinds of the Turning]]. Nothing here is a second doctrine. The faiths keep their own essays.
 
-The year is kept by **stance**, and argued by **faith**. A Watcher can eat on a dock. A Settler can stand in a pious square. The street decides the length of the sentence. The faith in the room decides which next thing a person will not do.
+The year is kept by **stance**, and argued by **faith**. A Watcher can eat on a dock. A Settler, a follower of [[The Fair Hand]], can stand in a pious square. A place sets how long people talk and what they repeat. A person's faith sets which words they will not say.
 
 ## A devout square
 
 [[Maiethlir]], and any square that puts the name back when a sentence dropped it. The year they feel opens in [[The Reckoning of the Year|Eolthael]], whatever a tablet started earlier.
 
-On an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. The wood is the wood. A Settler passing through will not wait. The square notices. Nobody stops them. That is a whole year's peace, and its whole grudge, done with feet.
+On an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. The wood is the wood. A Settler passing through will not wait. The square notices. Nobody stops them. The square keeps its whole year's peace and its whole grudge in that stopping and not stopping.
 
 They say **Maieth** and **the Mother's Hand** the way [[How a Place Speaks]] already has. A clerk in this city may be copying a slate of bells in the same hour. The hymn is still first when [[Rithim]] can make it first.
 
@@ -30,7 +30,7 @@ They say **Maieth** and **the Mother's Hand** the way [[How a Place Speaks]] alr
 
 [[Orentel]], and any quay that lets the thorn go. The year the books feel opens at the Deep, when the notes close. Turning-month is a fair set down on top of that. It is not the start of the quay's own count.
 
-All year, a **clear** is someone a crane can take. They say it the way they say a berth. Even a house that never kept a book will count coins into the other person's hand, not onto the barrel, when the one they owe is watching. A book-hand calls that worship. The gang calls it how you fail to start a fight. Both of them are on the same landing in [[The Reckoning of the Year|Ledger-month]], borrowing ink, and they only collide when a tenth year is in the room.
+All year, a **clear** is someone a crane can take. They say it the way they say a berth. Even a house that never kept a book will count coins into the other person's hand, not onto the barrel, when the one they owe is watching. A book-hand calls that worship. The gang calls it how you fail to start a fight. Both of them are on the same landing in [[The Reckoning of the Year|Ledger-month]], borrowing ink, and they only collide when a child in the tenth year is present.
 
 ## A waiting town
 

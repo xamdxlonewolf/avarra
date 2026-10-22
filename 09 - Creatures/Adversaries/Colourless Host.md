@@ -11,12 +11,12 @@ category: unique
 habitat: dead pots, unsound grafts, waiting ground on the live front
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Colourless Host
 
-Tier 2 Support. A graft that never took, or wood that sickened, still dropping leaves with no colour. It wants to Give. It cannot. People who stand under it too long start to act as if a week were happening. Not a Tree. Not a third outcome. Dead wood is not a Tree.
+Tier 2 Support. A graft that never took, or wood that sickened, still dropping leaves with no colour. It wants to Give. It cannot. People who stand under it too long start to act as if a week were happening. This is dead graft wood, not a Turning Tree.
 
 **Motives & Tactics:** gather a circle · drop a leaf that names nothing · make a warden guess · thin a Tithe · fold when someone names it unsound and walks
 

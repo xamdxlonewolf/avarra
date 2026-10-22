@@ -6,12 +6,12 @@ note_status: fleshed
 tags: [moc, rules, daggerheart]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # 13 - Game
 
-Session procedure already has four homes. The folders under this section point at them.
+These notes hold the session procedure. The folders under this section point at them.
 
 ## Contents
 - [[At the Table]] — creation, Kept deal, Struck-in-play, travel, city, crime, Leaf-Fall, domain cards, a made thing

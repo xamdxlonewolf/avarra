@@ -10,7 +10,7 @@ aliases: [Maiethorn Weather, Motherland Climate]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Climate of Maiethorn
@@ -82,7 +82,7 @@ Mature Trees survive because generations have built around their needs.
 - Grazing animals are kept off exposed roots.
 - After gale or snow, Root-Answered brace soil and limbs; they do not make dead wood live.
 
-Age hides risk. An old culvert can choke. A rich square can assume someone else watered. [[The Mill-hold]] is that sentence this year: the mill-race stayed full and the Hand stood in the overflow. During the Grey Summer, some coastal Hands sickened after their human watering-hands died. Stored grain did not solve that. A choked drain is not another Grey Summer.
+Age hides risk. An old culvert can choke. A rich square can assume someone else watered. [[The Mill-hold]] is a town like that this year: the mill-race stayed full and the Hand stood in the overflow. During the Grey Summer, some coastal Hands sickened after their human watering-hands died. Stored grain did not solve that. A choked drain is not another Grey Summer.
 
 ### Sickness
 
@@ -115,7 +115,7 @@ Cold and wet produce damaged feet, lung sickness, falls, and wound-rot. A Stille
 1. Snowfall fixes how much water is stored.
 2. The thaw fixes pass-days, flood risk, and valley water.
 3. Pass-days fix tolls, seed arrival, witnesses, and whether a same-week cohort can cross.
-4. Those delays decide which towns host extra mouths and which children miss.
+4. Those delays decide which towns host extra people and which children miss.
 
 Lirorn can levy a road because weather has made the road scarce. The injustice is not that the water is unreal. It is that a household controls the notch everyone must use.
 
@@ -138,7 +138,7 @@ Useful forage is brief after rain: herbs, greens, small fruit, snails. Most dry-
 
 ### Wells, Trees, and Tithes
 
-At a well-town, the civic drink has several mouths:
+At a well-town, the civic drink has several claims on it:
 
 - people first, in most shares;
 - animals and terrace crops, because next month also needs food;
@@ -146,7 +146,7 @@ At a well-town, the civic drink has several mouths:
 - Taken-In plantings and potted green, which feed both people and a Tithe;
 - travellers, whose right varies by custom and scarcity.
 
-A town can have a sound Hand and a failing well. [[Ornsael]] is that playable square. The Well-wash is not its drinking water.
+A town can have a sound Hand and a failing well. [[Ornsael]] is a town like that. The Well-wash is not its drinking water.
 
 Flux follows dirty ropes, cracked cisterns, and flood silt. Dust worsens coughs. Summer wounds foul quickly when washing water is rationed. Returned work stays downwind and downhill from the drink. A travelling Stilled is a pass-story, so ordinary midwives, bone-setters, and clean-handed healers do most care.
 
@@ -175,9 +175,9 @@ Gap-cats and road dangers belong on [[Dangers of the Turning]]. The animals abov
 
 ## The one thing the weather does not explain
 
-The [[Named Ground|Core-thaw]] runs louder the week before Leaf-Fall at [[Maiethlir]]. Clerks file snowmelt. Watchers do not. The river does not wait for either account, and no one in this note settles it.
+The [[Named Ground|Core-thaw]] runs louder the week before Leaf-Fall at [[Maiethlir]]. Clerks file snowmelt. Watchers do not. The river does not wait for either account, and no one on the river settles it.
 
-At the table, make it practical first: a Speaker raising their voice, a tablet moved above the step, a child unable to hear their name. Let the explanation remain where the water left it.
+At the table, make it practical first: a Speaker raising their voice, a tablet moved above the step, a child unable to hear their name.
 
 ## Links
 - [[Climate of the Turning]] — the mainland year and all eight bands

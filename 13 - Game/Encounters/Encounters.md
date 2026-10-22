@@ -9,7 +9,7 @@ aliases: [Encounters Home]
 world: The Turning
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Encounters
@@ -18,10 +18,10 @@ A fight on the road is [[Dangers of the Turning]]. The five adversaries stay on 
 
 This folder does not stock encounters.
 
-## GM Notes
-
-This folder stays a pointer. A later note must not restock the five, and must not add a sixth adversary here.
-
 ## Links
 
 - [[Dangers of the Turning]] · [[At the Table]] · [[09 - Creatures]] · [[13 - Game]]
+
+## GM Notes
+
+This folder stays a pointer. A later note must not restock the five, and must not add a sixth adversary here.

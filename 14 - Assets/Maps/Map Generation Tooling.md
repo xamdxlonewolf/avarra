@@ -8,7 +8,7 @@ tags: [asset, map, tooling, azgaar, production]
 aliases: [Azgaar Assets, Map Prompts, Heightmap Template, Atlas Prompts]
 world: The Turning
 created: 2026-08-22
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # Map Generation Tooling
@@ -598,8 +598,6 @@ Suggested first labels, not a new gazetteer:
 
 ## ② Azgaar heightmap template — the four continents
 
-## ② Azgaar heightmap template — the four continents
-
 Paste into Azgaar's Fantasy Map Generator: **Tools → Configure world / Template Editor → New template**, paste, and run. Encodes our layout — three large landmasses (east-old, west-trade, far-frontier) plus the small storm-walled isle far west. Coordinates are `X-range Y-range` on a 0–100 canvas (X: 0=west, 100=east; Y: 0=north, 100=south).
 
 ```
@@ -629,7 +627,7 @@ Add 5 20-100 0-100
 So Azgaar auto-generates burgs/states that sound like our world. **Menu → Options → Configure → (Cultures / Names) → Add name base**, name it `Maiethren`, and paste this comma-separated list into the names field. Built from the [[The Old Tongue|Old Tongue]] phonology (liquids + nasals + soft *th*, long vowels, roots *oren / thael / maieth / vael / vaeth / hael / thren / ledd / orn*):
 
 ```
-Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Orenvael,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Vaeloren,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Hinge Shore,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth,Eolvaeth,Orentel,Maiethlir
+Maiethorn,Thaeloren,Vaethorn,Lestrand,Threnmaieth,Threnhael,Maieth,Thallow,Haelorn,Vaelthren,Strandor,Ledloren,Maiethren,Orenthael,Vaethael,Threnorn,Haelmaieth,Ledstrand,Thaelvael,Orenmaieth,Vaethorn,Maiorn,Threnvael,Haelstrand,Ledoren,Vaelmaieth,Thaelorn,Orenhael,Maiethael,Strandoren,Vaethren,Ledmaieth,Thaelstrand,Orenvaeth,Haeloren,Threnstrand,Vaelthael,Maiethren,Ledhael,Orenstrand,Thaelmaieth,Vaethaloren,Haelvael,Threnloren,Maiethvael,Orenbren,Saelthael,Hinge Shore,Lirorn,Brenledd,Leddvael,Trenledd,Netstrand,Ornled,Vaelhesk,Saelvaeth,Eolvaeth,Orentel,Maiethlir
 ```
 *Tuning:* set the name base's **"double-word" / min-max length** to taste; the roots above recombine into plausible Old-Tongue names.
 
@@ -640,7 +638,7 @@ Do not treat Azgaar's auto-names as new canon. Named ground lives in [[Named Gro
 A **separate** base for [[The Sundering Isle]] — do not mix it with Maiethren. Open vowels, pre-nasal `mb` / `nd` / `nk` / `nj`, Wolof/Senegambian flavour, from the [[Yumboe]] register (seed `20260826` plus the locked own-names). **Menu → Options → Configure → (Cultures / Names) → Add name base**, name it `Kumbaan`:
 
 ```
-Kumbaan,Bakhna,Rakhna,Ndeyaan,Ambaa,Njeela,Kumbo,Sambanka,Ndeya,Mbaraan,Njunda,Rakhilo,Sonkaa,Mbindaa,Yumbaka,Ndoolu,Sambiyo,Lunji,Yaaba,Saalo,Mbela,Soonke,Njili,Yendo,Waandi,Koriwaa,Mbaloolaa,Njunjo,Ndenjoo,Loowaa,Sindo,Nkusu,Bandoo,Lunkaa,Njaanjaa,Roondoo,Yaarose,Bundoke,Kanku,Lasoo,Nkiseke,Ndibi,Njuke,Nkoosa,Kumbili,Waandi,Yabuko
+Kumbaan,Bakhna,Rakhna,Ndeyaan,Ambaa,Njeela,Kumbo,Sambanka,Ndeya,Mbaraan,Njunda,Rakhilo,Sonkaa,Mbindaa,Yumbaka,Ndoolu,Sambiyo,Lunji,Yaaba,Saalo,Mbela,Soonke,Njili,Yendo,Waandi,Koriwaa,Mbaloolaa,Njunjo,Ndenjoo,Loowaa,Sindo,Nkusu,Bandoo,Lunkaa,Njaanjaa,Roondoo,Yaarose,Bundoke,Kanku,Lasoo,Nkiseke,Ndibi,Njuke,Nkoosa,Kumbili,Yabuko
 ```
 
 Person-names vs place-names: the short open words (Yaaba, Lunji, Saalo) work as people; the longer prenasal compounds (Mbaloolaa, Ndenjoo, Njaanjaa) read as hills and halls. Full rules in [[Naming People in the Turning]].

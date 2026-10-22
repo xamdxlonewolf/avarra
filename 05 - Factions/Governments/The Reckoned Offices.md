@@ -9,17 +9,17 @@ aliases: [Reckoned Instruments, The Tablet Offices, Crown Instruments of the Thr
 world: The Turning
 category: government
 seat: the tablet-hall at [[Maiethlir]] — not the grove, not the First Seat
-public_face: the named mouths of [[Polity Archetypes|Threnmaieth]]'s roll — registrar, Reckoned Speaker, channel-clerk, warrant-hand
+public_face: the named officers of [[Polity Archetypes|Threnmaieth]]'s roll — registrar, Reckoned Speaker, channel-clerk, warrant-hand
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # The Reckoned Offices
 
 Everyday: **the Reckoned Offices**, or just **the tablet offices**. They are not a church and not a sixteenth power. They are four jobs the Tallied Crown already had, now with names a party can find.
 
-[[Maiethlir]] still has **Rithim** *(RITH-im)* as town Speaker. These offices are the roll's mouths. They are not a replacement for the hearth. The gap is the play.
+[[Maiethlir]] still has **Rithim** *(RITH-im)* as town Speaker. These offices speak for the roll. They are not a replacement for the hearth. The gap is the play.
 
 ## At the table
 
@@ -31,7 +31,7 @@ Everyday: **the Reckoned Offices**, or just **the tablet offices**. They are not
 | **Live conflict** | Tarvae wants the colour filed in the same breath as the Speaking. Rithim sometimes will not. Menirein wants the name anyway. Videm needs the channel to match the name. Sirtal will withhold the green until it does. |
 | **Hooks** | An unlisted child at Leaf-Fall; a copy delayed in the square; a counted hour cut off; a warrant on a Taken-In two streets from the lot; clerks at the Inner Close gate. |
 
-## The four mouths
+## The four offices
 
 They recruit by office and practice, not by Kind. Long-Lived memory is common at the tablet and is bent to the census rather than free to check it. That is already the corner's weather.
 
@@ -41,15 +41,15 @@ They recruit by office and practice, not by Kind. Long-Lived memory is common at
 
 They do not Speak. They copy. If Rithim will not let the copy happen in the same breath, Menirein will wait in the square until the water quiets, then write what they heard.
 
-Good-faith agenda: *no one unmarked.* The injustice is the same sentence.
+Good-faith agenda: *no one unmarked.* The harm comes from the same wish.
 
 ### Tarvae — Reckoned Speaker
 
-**Tarvae** *(TAR-vay)* is the crown's preferred mouth on a mixed or argumentative fall. They want **Speaking and filing to stay one act**. A colour Spoken and not written is, to them, a seeing that can be stolen. They will stand beside the town-warden. They will not always wait for Rithim's breath.
+**Tarvae** *(TAR-vay)* is the crown's preferred Speaker on a mixed or argumentative fall. They want **Speaking and filing to stay one act**. A colour Spoken and not written is, to them, a seeing that can be stolen. They will stand beside the town-warden. They will not always wait for Rithim's breath.
 
 They are still a Speaker. They still name the fall truly when they can. The roll is the second, lesser seeing they refuse to call lesser.
 
-Good-faith agenda: *one name, one breath.* The fight with Rithim is the live one. Do not replace Rithim. Do not make Tarvae a villain who lies about colours. They lie about *when the copy is allowed.*
+Good-faith agenda: *one name, one breath.* The fight with Rithim is the live one. Tarvae does not lie about colours. The dispute is over *when the copy is allowed.*
 
 ### Videm — channel-clerk
 
@@ -83,13 +83,13 @@ Menirein wants you listed. Tarvae wants your colour copied. Videm wants you on a
 
 | House | Everyday | The fight |
 |---|---|---|
-| [[Maiethlir\|Rithim]] | Town Speaker. Sometimes one breath, sometimes not. | Unlock: Tarvae in the square the summer Rithim will not copy. Let it happen on-screen. |
+| [[Maiethlir\|Rithim]] | Town Speaker. Sometimes one breath, sometimes not. | Tarvae stands in the square the summer Rithim will not copy. |
 | [[The Watchers]] | The second column. Counted dissent. | A second reading that contradicts the name Tarvae already filed. |
-| [[The Walled Book]] | Two lists, one country away. | Clerks at the Inner Close gate. Do not merge the books. |
-| [[Tithe-Infrastructure]] | The counted hall and tended green *are* the channel. | Videm late on purpose vs a lot that still has beds. Unlock: a wilt the channel will not walk to. |
-| [[The Slide]] | The late week the channel will not admit. | Pretending not to know is over. Videm knows. Sirtal files the leak as the person's lapse. |
+| [[The Walled Book]] | Two lists, one country away. | Clerks at the Inner Close gate. The two books stay separate. |
+| [[Tithe-Infrastructure]] | The counted hall and tended green *are* the channel. | Videm late on purpose against a lot that still has beds, and a wilt the channel will not walk to. |
+| [[The Slide]] | The late week the channel will not admit. | The channel can no longer pretend not to know the Slide. Videm knows. Sirtal files the leak as the person's lapse. |
 | [[The Holding Desk]] | A private Term is a second seeing. | Menirein wants the name. The desk wants the name off this roll. |
-| [[Maiethvael]] | Same hymns, opposite paper. | A registrar sending clerks into gift-country. Let them go. |
+| [[Maiethvael]] | Same hymns, opposite paper. | A registrar sending clerks into gift-country. |
 
 ## In-world text
 
@@ -101,16 +101,7 @@ Menirein wants you listed. Tarvae wants your colour copied. Videm wants you on a
 > *Sirtal: no green until the name sits. A share to an unlisted bed is how a channel fails.*
 > *Rithim (verso, not a Reckoned mark): I Spoke. I did not copy. The water was loud. The Tree was enough.*
 
-On its face: competence. Underneath: four cares that cannot all be true in the same hour, and Rithim's verso is the gap the offices exist to close.
-
-## GM Notes
-
-- **Antagonists can stay good-faith and still knock.** That was the point of naming them. Do not make a dark tetrarchy. Do not make them a party-shaped squad.
-- **Do not capture the First Seat.** Do not replace Rithim. Tarvae is pressure. Rithim is the incomplete refusal already on [[Maiethlir]].
-- **Not an opposition engine.** These are the Tallied Crown's instruments. The three engines are [[The Pourers]], [[The Walled Book]], [[The Protectors]]. Threnmaieth's injustice stays the sacred census. Do not let the Walled Book become "Threnmaieth's inner court."
-- **Names.** Menirein, Tarvae, Videm, Sirtal — seed `20260830`, conservative list, mid-bottom. Distinct initials (M/T/V/S) against Rithim. Common-tongue offices. No new liturgy.
-- **R.8:** these are instruments, not positional pivots. Do not grow full arcs here. The later capital-cast pass may pick one.
-- **Hooks.** The unmarked child; the delayed copy; the late hour; the withheld green; clerks in Maiethvael; clerks at the Close; Tarvae and Rithim in one square.
+The four marks are competent, and they are four different cares that cannot all be met in the same hour. Rithim's verso is the gap the offices exist to close.
 
 ## Links
 - [[Maiethlir]] · [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]]
@@ -118,3 +109,12 @@ On its face: competence. Underneath: four cares that cannot all be true in the s
 - [[The Walled Book]] · [[The Standing Trade]] · [[The Holding Desk]] · [[The Slide]]
 - [[Maiethvael]] · [[Orenbren]]
 - [[05 - Factions]]
+
+## GM Notes
+
+- **Antagonists can stay good-faith and still knock.** That was the point of naming them. Do not make a dark tetrarchy. Do not make them a party-shaped squad.
+- **Do not capture the First Seat.** Do not replace Rithim, and do not make Tarvae a villain. Tarvae is pressure. Rithim is the incomplete refusal already on [[Maiethlir]].
+- **Not an opposition group.** These are the Tallied Crown's instruments. The three opposition groups are [[The Pourers]], [[The Walled Book]], and [[The Protectors]]. Threnmaieth's injustice stays the sacred census. Do not let the Walled Book become "Threnmaieth's inner court."
+- **Names.** Menirein, Tarvae, Videm, Sirtal — seed `20260830`, conservative list, mid-bottom. Distinct initials (M/T/V/S) against Rithim. Common-tongue offices. No new liturgy.
+- **Instruments, not pivots.** These are instruments, not positional pivots. Do not grow full arcs here. The later capital-cast pass may pick one.
+- **Hooks.** The unmarked child; the delayed copy; the late hour; the withheld green; clerks in Maiethvael; clerks at the Close; Tarvae and Rithim in one square.

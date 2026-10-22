@@ -10,7 +10,7 @@ aliases: [Strandoren Weather, Shore-Lands Climate]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Climate of Strandoren
@@ -163,7 +163,7 @@ The same network that makes Strandoren rich makes infection fast.
 | Wound-rot | Rope burns, fish cuts, crane crushes | Wash, dress, operate when needed | A licensed Stilled may be available only to a chartered household |
 | Marsh ague | Repeating fever near standing water | Drain near beds, cover jars, move camp | The poorest live on the low ground being drained last |
 
-[[The Grey Summer]] in C.Y. 171 is the named epidemic: a hold cough, then streets and quay-gangs; no respect for Given, Struck, or Kept; tied ships; dead tenders; notes that outlived debtors. A later fever is not a second Grey Summer. People call it "Grey" when they are frightened, and clerks decide whether the comparison changes a rate.
+[[The Grey Summer]] in Cut-year 171 is the named epidemic: a hold cough, then streets and quay-gangs; no respect for Given, Struck, or Kept; tied ships; dead tenders; notes that outlived debtors. A later fever is not a second Grey Summer. People call it "Grey" when they are frightened, and clerks decide whether the comparison changes a rate.
 
 Stilled surgeons hold harm and operate. Returned do plague and dead work. Far-Voiced warn without carrying their bodies street to street. Tide- and Ember-Answered improve water and boiling. None of them replaces clean bedding, separation, food, or trust.
 

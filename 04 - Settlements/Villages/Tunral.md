@@ -11,14 +11,14 @@ region: "[[Heskoren]]"
 population: a night's kitchen on the live-front road — not a Tree-town
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Tunral
 
 > **A kitchen on the live-front road.** *(TUN-ral.)* About a week short of [[Harrow's Green]], on the way a traveler already walks between the frontier coast and that canopy. You cannot see the green from here. Not the three hamlets. Not [[Eolvaeth]]. Not a march-seat.
 
-> Mouth: *Huval*. A neighbour says the given name. A stranger hears *Huval of Tunral*. No house-name. [[Polity Archetypes|Vaethorn]] is a different road and does not get a person-list here.
+> Keeper of the post: *Huval*. A neighbour says the given name. A stranger hears *Huval of Tunral*. No house-name. [[Polity Archetypes|Vaethorn]] is a different road and does not get a person-list here.
 
 ## At the table
 
@@ -43,9 +43,9 @@ People sleep here because the next dry ground is not guaranteed. **Huval** *(HOO
 
 The post, the kitchen, a yard that takes a cart if the cart is small. The road comes from the coastward country and goes on toward the rise. No square, because there is no canopy to square. No stone pulled in from a further day. The post is a post. Huval sets a bowl outside at dusk on the side away from Harrow's and will not say why. It is not a first meal and not a shrine. A [[The Door-Keepers|Door-Keeper]] who tried to officiate would be in the wrong valley. [[The First Bowl]] is the other direction from the hamlets, not this road.
 
-Food is oats, a smoked fish if the coastward week was kind, and the pot. No stiller. A [[Two-Bodied]] on the road is a traveler, not a quarter. Mixed Kinds in the sense that a frontier road is mixed. Do not found a people here.
+Food is oats, a smoked fish if the coastward week was kind, and the pot. No stiller. A [[Two-Bodied]] on the road is a traveler, not a quarter. Mixed Kinds in the sense that a frontier road is mixed.
 
-A bowl sits on the wrong side of the kitchen. Huval will not say why. A pilgrim who calls it the Mother's portion has already preached. A clerk who calls it a due has already charged for it.
+A pilgrim who calls the bowl the Mother's portion has already preached. A clerk who calls it a due has already charged for it.
 
 ## What can enter a scene
 
@@ -55,24 +55,25 @@ A bowl sits on the wrong side of the kitchen. Huval will not say why. A pilgrim 
 
 ## In-world text
 
-*Said over the pot, not chalked. Huval, Hale-month. `oblique-worldbuilding`.*
+*Said over the pot, not chalked. Huval, Hale-month.*
 
 > *Supper is the kitchen. The green is a week if the bog allows. I have not seen it this month. I will not draw it on the post.*
 >
 > *If you are ten, you are ten here too. I am not a warden and this is not a Tree. Eat. The other bowl is not for you. Do not ask me whose it is.*
 
-Huval cannot afford to see that a week of bog is the march's queue in one yard. The child cannot afford to see a kitchen as the place the gift failed. The post stays blank.
+A week of bog is the march's queue in one yard. The child is not told the kitchen is where the gift failed, and the post stays blank.
 
+
+## Links
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[Eolvaeth]] · [[Saelvaeth]] · [[Heskoren]]
+- [[Named Ground]] · [[Climate of the Turning]] · [[Settlement Seeds]] · [[04 - Settlements]]
 
 ## GM Notes
 
+- **Do not found a people here.**
 - **Not a new settlement type.** A village on the live-front road. The catalog does not gain a seventh job.
 - **Not Harrow's, not the hamlets, not Eolvaeth.** No sightline. One kitchen, not Brenod, Vaelun, and Ornath. No wet leaf, no gift-hall, no capital.
 - **Do not plant a Tree here to finish the map.** A young graft would become a second live front. The absence is the halt.
 - **No Waiting Lands person-list.** No house-name. No surname.
 - **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register worn --count 40` — **Tunral** position 7, **Huval** position 2.
 - **Keystone:** distance, bog, and no Hand. Do not let the bowl confirm a mind.
-
-## Links
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[Eolvaeth]] · [[Saelvaeth]] · [[Heskoren]]
-- [[Named Ground]] · [[Climate of the Turning]] · [[Settlement Seeds]] · [[04 - Settlements]]

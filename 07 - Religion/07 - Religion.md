@@ -2,11 +2,11 @@
 title: 07 - Religion
 type: moc
 visibility: player
-note_status: draft
+note_status: fleshed
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # 07 - Religion
@@ -21,7 +21,7 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[The Watching]] — heartland Tree-faith that will not say the Mother-name · [[The Watchers]]
 - [[The Fair Hand]] — contract and the closed book · [[The Book-Hands]]
 - [[The Old Ways]] — land, doors, the Struck · [[The Door-Keepers]]
-- [[The Open Table]] — the hill's table; the mainland lintel · [[The Table-Keepers]] · [[The Shore-Sitters]]
+- [[The Open Table]] — the hill's table; the mainland quarrel over belonging · [[The Table-Keepers]] · [[The Shore-Sitters]]
 
 ### Deities
 - [[Maieth]] — the presence the devout name; belief, beside the faith essay
@@ -46,21 +46,12 @@ Deities, faiths, mythology, rituals, and religious history.
 - [[Turning Tree]] — the sacred object and the Leaf-Fall
 - [[The Tree-Wardens]] — working clergy
 - [[The Remainder]] — First Seat side-yard desk; keeps [[The Spent Leaf]]
-- [[The Uncoloured Intake]] — gift-hall slips; mouths that will not sit under one line
+- [[The Uncoloured Intake]] — gift-hall slips from people who changed later and would not agree on what happened
 
 ## Related
-- [[The Premise]] · [[Conditions]] — roster and derived colour table · [[Is the Leaf-Mother Real]] (GM) · [[The Spent Leaf]] · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Roadmap]]
+- [[Conditions]] — the roster, the shares, and the colour table · [[The Spent Leaf]] · [[The World Frame]] · [[The Walking Years]] · [[The First Cut]] · [[The Branch That Came Away]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]]
 
 ## GM Notes
 
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- - [[Faiths of the Turning]] — Story 1.4 hub: five lived faiths, coexistence, what this pass does not lock
-- ### The Motherfaith (Epic 1 — the world's central faith)
-- - [[The Tree-Wardens]] — working clergy (Story 5.1; lives in `05 - Factions`; names 🟡)
-- ### The other faiths (Story 1.4) and their houses (Story 5.2)
-- - [[The Child Who Counted Stones]] — the road's paradox-fable (Story 6.2; romance and graves in the same count)
-- - [[The Branch That Came Away]] — the Cut's paradox-fable (Story 6.3; sharing a Hand wounds a Hand)
-- - [[The Child Who Climbed the Stone]] — the leftover's paradox-fable (Story 6.4; the square and the ford in the same count)
+- Production notes: the story and epic numbers were moved out of the player body during residual export polish. [[Faiths of the Turning]] is the faith hub; [[The Tree-Wardens]] is the Motherfaith's working clergy (names still open); the three paradox-fables are [[The Child Who Counted Stones]], [[The Branch That Came Away]], and [[The Child Who Climbed the Stone]].
+- Links (GM): [[The Premise]] · [[Is the Leaf-Mother Real]] · [[Roadmap]].

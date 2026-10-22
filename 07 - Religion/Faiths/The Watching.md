@@ -4,20 +4,18 @@ type: faith
 visibility: player
 note_status: fleshed
 status: active
-tags: [religion, faith, heresy, maiethorn, watching, haelthael, belief-systems]
+tags: [religion, faith, heresy, maiethorn, watching, haelthael]
 aliases: [Haelthael, The First Watching, The Grown-Over, The Unmothered, The Heartland Heresy]
 world: The Turning
 domain: witnessing, the Tree before it was named Mother, the Before
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Watching
 
-> **The heartland heresy of [[Maiethorn]].** An older Tree-faith the [[The Leaf-Mother|Motherfaith]] grew over — not a frontier dissent, a *centre* one. They keep the Tree and refuse the Mother-name. They say the colours fall because the Tree *sees*, not because a she *chooses*. Built with `belief-systems` for [[Roadmap|Story 1.4]]; seeded on [[Maiethorn]] and [[The World Frame]].
-
-> **Canon status.** 🔒 **Name locked** (*Haelthael* / the Watching) 2026-08-23. Texture 🟡. The *placement* (old faith at the sacred centre; keystone-adjacent memory) is 🔒 locked in the geography notes.
+> **The heartland heresy of [[Maiethorn]].** An older Tree-faith the [[The Leaf-Mother|Motherfaith]] grew over — not a frontier dissent, a *centre* one. They keep the Tree and refuse the Mother-name. They say the colours fall because the Tree *sees*, not because a she *chooses*.
 
 *(Everyday: **the Watching.** Their own name: **Haelthael** — hayl-THALE — *hael* + *thael*, "the Tree kept whole." They mean the Tree before anyone split it into a Mother and her hands. The Motherfaith's soft name is **the First Watching**; [[Polity Archetypes|Threnmaieth]]'s file-name is **the Grown-Over**.)*
 
@@ -38,7 +36,7 @@ updated: 2026-10-02
 
 ## Practice
 
-- **The Night Watch.** The night before [[The Reckoning of the Year|Turning-Week]], Watchers keep a silent vigil at the town Tree. No blessing. No colour-reading. The point is to *be seen seeing* — to match the Tree's attention with their own.
+- **The Night Watch.** The night before [[The Reckoning of the Year|Turning-Week]], Watchers keep a silent vigil at the town Tree. No blessing. No colour-reading. They keep watch on the Tree all night, as they believe it watches the town.
 - **The withheld blessing.** They attend the Leaf-Fall (orthopraxy; their children Turn). When the warden says the Tender's line, a Watcher household speaks their own, quietly:
 
   > *"What falls, was seen. What is kept, was seen. The Tree does not reach twice by chance."*
@@ -49,10 +47,10 @@ updated: 2026-10-02
 
 ## Clergy & institutions
 
-Full faction: [[The Watchers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing shape:
+The working house is [[The Watchers]]. In outline:
 
 - **Watchers** — not priests. They keep the Night Watch, teach the withheld blessing, and (where a town will have it) offer a second reading of a rare or mixed fall: not authoritative over the [[The Tree-Wardens|tree-warden]], a *witness alongside*. In Threnmaieth they are a known column on the roll.
-- **No mother-church.** The Watching has no seat in the Awakening Tree's shadow — that seat was grown-over by the [[The Tree-Wardens|First Seat]]. Their oldest rooms are under older chapels, or in houses that never took a warden's lintel. The archaeology is the theology. Two acts, not four offices.
+- **No mother-church.** The Watching has no seat in the Awakening Tree's shadow — that seat was grown-over by the [[The Tree-Wardens|First Seat]]. Their oldest rooms are under older chapels, or in houses that never took a warden's blessing on the door. Watchers do two things: they keep the Night Watch and they teach the withheld blessing. They have no offices beyond that.
 
 ## The live schism (the faith arguing with itself)
 
@@ -62,25 +60,28 @@ Full faction: [[The Watchers]] (Epic 5, Story 5.2). Names 🟡. The load-bearing
 
 ## In-world text
 
-*A lintel-inscription, recut, found when a warden-chapel on Maiethorn was re-floored — the new beam faces the Tree; this face was turned to the stone. `oblique-worldbuilding`.*
+*An inscription on a door-beam, recut and found when a warden-chapel on Maiethorn was re-floored. The new beam faces the Tree; this face was turned to the stone.*
 
 > *We kept the watch before the name. The wood was already looking. If a mother came after, she came to a work begun. Do not thank the latecomer for the seeing.*
 
-On its face: heresy, stubborn, local. Underneath: a claim that the Tree *predates the Mother-name* — which is exactly the memory the sacred centre cannot afford to be curious about. A scholar who copies the lintel is already walking toward the keystone, and does not know it.
+It reads as heresy, stubborn and local. It claims that the Tree is older than the Mother-name.
 
 ## Links
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — the faith that grew over this one · [[What the Year Feels Like]]
 - [[Maiethorn]] · [[Turning Tree]] (Thaeloren) · [[The Child at Four Doors]]
 - [[Polity Archetypes|Threnmaieth]] · [[Naming in the Turning]] (the Grown-Over as a file-name)
-- [[The Watchers]] — the working house (Story 5.2)
+- [[The Watchers]] — the working house
 - [[Movements]] — the pear-graft, past; the Masked and the Bare Tree stay on this page
 - [[Before the Walk]] — the unnamed preface they keep as *the Before* · [[The Ages of the Turning]]
-- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
+- [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
+- **Canon status.** The name Haelthael / the Watching is locked (2026-08-23). The texture is still open. The placement (an old faith at the sacred centre, with keystone-adjacent memory) is locked in the geography notes.
+- **The inscription, read underneath.** Authored per `oblique-worldbuilding`. On its face it is a stubborn local heresy. Underneath, it claims the Tree predates the Mother-name, which is exactly the memory the sacred centre cannot afford to be curious about. A scholar who copies the inscription is already walking toward the keystone, and does not know it.
+- **Links (GM).** [[Is the Leaf-Mother Real]] · [[The Other Hands]].
 - **The keystone keeper at the centre.** Placed on Maiethorn so old memory sits next to the Awakening Tree, not out on the frontier. They are the natural in-world source that could corroborate the keystone from an unexpected direction — not the skeptics, not the devout: the *heretics*. They have hold of the Before, the cost, and (per [[The Other Hands]]) a household that was not yet named Mother. They miss that the seeing *is* hers.
-- **Do not confirm their metaphysics.** "What she is" stays open ([[Is the Leaf-Mother Real]]). The Masked reading (she is a later face) and the Bare Tree reading (there was never a she) are both playable. Neither is the locked answer. The lintel is a clue, not a verdict.
+- **Do not confirm their metaphysics.** "What she is" stays open ([[Is the Leaf-Mother Real]]). The Masked reading (she is a later face) and the Bare Tree reading (there was never a she) are both playable. Neither is the locked answer. The inscription is a clue, not a verdict.
 - **The cost they remember is still open.** That giving costs her is locked. *What* was spent is the open nature of the limit. Story 6.1 showed the edge *moving with wood* and did not pick a cause. Let Watchers argue; do not let a note decide.
-- **Threnmaieth's tell.** Filing them as the Grown-Over is the census doing theology. A Long-Lived crown-archivist who still has the un-recut lintel-copy is the positional character this faith wants (`positional-revelation` later, Epic 8).
+- **Threnmaieth's tell.** Filing them as the Grown-Over is the census doing theology. A Long-Lived crown-archivist who still has a copy of the un-recut inscription is the kind of character this faith wants.

@@ -4,17 +4,17 @@ type: moc
 visibility: player
 note_status: draft
 status: active
-tags: [moc, settlements, epic-6, epic-7, residues]
+tags: [moc, settlements, residues]
 aliases: [Place Seeds, Leftover Towns, What Inherits]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Settlement Seeds
 
-> **What this is.** The leftover *kinds of place* [[The Years of Hands]] put on the ground. Not cities. A catalog of settlement-types that already have a past, so towns do not feel designed last week. The ~15 powers are named in [[Powers of the Turning]]. The lead road-end is seated: [[Nelath]].
+> **What this is.** The kinds of place that [[The Years of Hands]] left on the ground. They are not cities. Each town below already has a past, so none of them feels designed last week. The powers are named in [[Powers of the Turning]]. Kinds are hearths, not nations ([[Kinds of the Turning]]), so no town has a Kind-quarter.
 
 ## What every Turning-place already inherits
 
@@ -22,9 +22,43 @@ From [[Daily Life]], unchanged: **the Tree at the centre** (or the neighbour's T
 
 From [[The Years of Hands]], layered on top: a road that used to go further; a stone that used to be a day's walk; an upper room that used to be a pilgrim-dorm; a house that used to be an inn. Adaptive reuse is how Ornthael looks like a present.
 
-Kumbaan was not in this catalog on purpose — isle places are a different leftover (storm-wall, moons, Open Table), not a mile-shrine type. Still no Tree. Still not a thirteenth mainland power.
+Kumbaan has no towns of this kind. Its places have a different past (the storm-wall, the moons, the Open Table), not a mile-shrine. It has no Tree and is not a mainland power. Its one hall is [[Ndenjoo]].
 
-## Types (pick from these; do not invent a seventh job for the walk)
+## Towns, villages, and sites
+
+- [[Harrow's Green]] — a Tree-town on [[Heskoren]], next to the live front.
+- [[The Three Hamlets Past the Ford]] — three hamlets that can see Harrow's Green but have no Tree of their own (Brenod, Vaelun, Ornath).
+- [[The Third Hearth]] — the third hearth on the Near Mile; neighbour of Brenthael.
+- [[The White Note House]] — the house on [[Orentel]]'s third quay where a First-Hand year is written down.
+- [[Ornsael]] — a walk-hold in the dry hills of [[Saelthael]].
+- [[The Mill-hold]] — a Tree-town on [[Orenbren]]'s Near Mile whose Tree is sick.
+- [[The First Bowl]] — a guest-grove in [[Vaelhesk]] (folk name *Lonasir*).
+- [[Nelath]] — a Tree-town at the end of a spur road off the Near Mile.
+
+## Capitals
+
+- [[Eolvaeth]] — capital of [[Polity Archetypes|Vaethorn]]; a poor land's capital is a congregation that waits.
+- [[Orentel]] — capital of [[Polity Archetypes|Lestrand]]; a rich coast's capital is berths and a desk, not a throne.
+- [[Maiethlir]] — capital of [[Polity Archetypes|Threnmaieth]]; the census sits on the pilgrim road, and the First Seat stays beside it.
+
+## Links
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — archetype seats
+- [[The Years of Hands]] · [[The Walking Years]] · [[The First Cut]] · [[The Ages of the Turning]]
+- [[The Child Who Climbed the Stone]]
+- [[Daily Life]] — Tree-at-the-centre grammar · [[Economy and the Tithe]] · [[Law and Citizenship]]
+- [[Heskoren]] · [[Maiethorn]] · [[Strandoren]] · [[The Tree-Wardens]] · [[The Door-Keepers]]
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
+- [[The Mill-hold]] · [[The First Bowl]] · [[Nelath]]
+- [[Raillath]] · [[Denlad]] · [[Tunral]] — villages on roads that already existed
+- [[The Down-Bank]] — the stretch between Maiethlir and the Hinge Shore
+- [[Ndenjoo]] — Kumbaan hall (not a mile-shrine type)
+- [[04 - Settlements]] · [[Powers of the Turning]]
+
+## GM Notes
+
+This note is a design catalogue. The tables below are why each town has the job it has.
+
+### Types (pick from these; do not invent a seventh job for the walk)
 
 | Type | What it is | Layered leftover | Where it lives | Named stub |
 |---|---|---|---|---|
@@ -40,14 +74,14 @@ Kumbaan was not in this catalog on purpose — isle places are a different lefto
 
 Do not invent Kind-quarters ([[Kinds of the Turning|hearths, not nations]]).
 
-## How to use this catalog
+### How to use this catalog
 
 1. **Pick a type, then a square** — geography first ([[The World Frame]]), leftover second, polity-face third ([[Powers of the Turning]]).
 2. **Keep the two clocks visible** — a road-end Tree-town that never mentions the stone is a backdrop. A waiting cluster written as "frontier flavour" is a stacked age.
 3. **One leftover job per street, not all of them** — devotion, prestige, and necessity can share an inn; they should not all be the town's *theme*.
 4. **Name squares from leftover types, against [[Powers of the Turning]].** The catalog's types are seated. [[Nelath]] closed the road-end lead. Do not invent a further type to fill a folder.
 
-## Playable squares
+### Playable squares
 
 Tree at the centre; two clocks visible; one leftover job per street. Early squares used seed `20260828`. Sick-Tree and guest-grove used seed `20260901` (common-tongue first; no new liturgy).
 
@@ -63,18 +97,7 @@ Tree at the centre; two clocks visible; one leftover job per street. Early squar
 
 [[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated. Sick-Tree and guest-grove are seated. The road-end lead is seated at [[Nelath]]. Do not invent Kind-quarters.
 
-## Named and placed squares
-
-- [[Harrow's Green]] — live-front Tree-town on [[Heskoren]] ✅
-- [[The Three Hamlets Past the Ford]] — waiting cluster that can see Harrow's ✅ (Brenod · Vaelun · Ornath)
-- [[The Third Hearth]] — third hearth on the Near Mile; Thilim; Seine's bed; neighbour Brenthael ✅
-- [[The White Note House]] — deathless house; Ledan; Mataero's loft
-- [[Ornsael]] — Rain-Shadow walk-hold on [[Saelthael]] ✅
-- [[The Mill-hold]] — sick-Tree Hands-town on [[Orenbren]]'s Near Mile ✅
-- [[The First Bowl]] — guest-grove in [[Vaelhesk]] (folk *Lonasir*) ✅
-- [[Nelath]] — road-end Tree-town on an Orenbren spur ✅ (the walk stopped; not a through-road)
-
-## Archetype seats
+### Archetype seats
 
 Three corners as *places*, not only axes. Tree at the centre; two clocks visible; one leftover job per street.
 
@@ -84,43 +107,14 @@ Three corners as *places*, not only axes. Tree at the centre; two clocks visible
 | [[Orentel]] | salt quay | [[Polity Archetypes\|Lestrand]] capital; White Note placed, **not** crowned | prestige (First-Hand year as product) | a rich coast's capital is berths, not a desk-throne |
 | [[Maiethlir]] | origin pilgrimage-town *under* a roll | [[Polity Archetypes\|Threnmaieth]] capital; **not** the grove | devotion (extra mile), layered | the census sits on a leftover; the First Seat stays beside |
 
-## Links
-- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — archetype seats
-- [[The Years of Hands]] · [[The Walking Years]] · [[The First Cut]] · [[The Ages of the Turning]]
-- [[The Child Who Climbed the Stone]]
-- [[Daily Life]] — Tree-at-the-centre grammar · [[Economy and the Tithe]] · [[Law and Citizenship]]
-- [[Heskoren]] · [[Maiethorn]] · [[Strandoren]] · [[The Tree-Wardens]] · [[The Door-Keepers]]
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
-- [[The Mill-hold]] · [[The First Bowl]] · [[Nelath]]
-- [[Raillath]] · [[Denlad]] · [[Tunral]] — villages on roads that already existed
-- [[The Down-Bank]] — the stretch between Maiethlir and the Hinge Shore
-- [[Ndenjoo]] — Kumbaan hall (not a mile-shrine type)
-- [[04 - Settlements]] · [[Powers of the Turning]] · [[Roadmap]]
+### The lead is seated
 
-## GM Notes
+[[Nelath]] is the road-end Tree-town. Do not seat it again. Do not relabel [[Harrow's Green]], Brenthael, or [[The Mill-hold]] into Nelath. Guest-grove is seated at [[The First Bowl]]; do not clone a second Harrow onto Vaelun.
 
-### L.5 — the lead is seated
+### Production notes
 
-The player body is current. [[Nelath]] is the road-end Tree-town. Lines below that say the type "still waits" are the 2026-08-31 record, kept as the pass that left the lead open. Do not seat it again. Do not relabel [[Harrow's Green]], Brenthael, or [[The Mill-hold]] into Nelath.
-
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- aliases: [Place Seeds, Leftover Towns, What Epic 7 Inherits]
-
-
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- Kumbaan was not in this catalog on purpose — isle places are a different leftover (storm-wall, moons, Open Table), not a mile-shrine type. **Story R.11 opened one hall:** [[Ndenjoo]]. Still no Tree. Still not a thirteenth mainland power.
-- Guest-grove is seated: [[The First Bowl]]. Do not clone a second Harrow onto Vaelun.
-- 4. **Name squares from leftover types, against [[Powers of the Turning]]** — the ~12 stubs are Story 7.1 (done). 7.2 picked four types. 7.3 seated the three archetype capitals. Sick-Tree and guest-grove seated 2026-08-31. The road-end lead was still open on that date; Story L.5 seated it at [[Nelath]].
-- [[The White Note House]] is placed on [[Orentel]]'s third quay (desk fate; not the crown). Salt quay, origin-capital, and pilgrim-edge wait-as-destination are seated (7.3). Sick-Tree → [[The Mill-hold]]; guest-grove → [[The First Bowl]]. Road-end → [[Nelath]]. Do not clone Road-hands or [[The Slide]] as a district. Do not invent Kind-quarters.
-- **Seeds are a blast-radius brake.** 7.2 fleshed four squares; 7.3 seated three capitals; leftover seating added Mill-hold and First Bowl without rebuilding the seats. L.5 added Nelath, three villages, and city layout without rebuilding the seats.
+- Do not invent Kind-quarters. Do not clone Road-hands or [[The Slide]] as a district.
+- **Seeds are a blast-radius brake.** Each pass added squares or seats without rebuilding the seats already placed.
 - **Write the job, not the postcard.** A pretty road-end town whose leftover is only picturesque launders the graves. A waiting cluster whose only note is "poor and faithful" agrees with Vaethorn guilt.
 - **Keystone:** thin/sick/few grafts stay the player-facing cause. Do not let a seed-note assert the mind.
-- **Kumbaan stayed off this list on purpose.** R.11 opened [[Ndenjoo]] as a table-at-the-centre hall, not a mile-shrine type and not a thirteenth power. Do not add a Tree to complete the catalog.
-
-- **P2.1 tracker move.** Additional moved labels: Stories 6.4, 7.2, 7.3, and R.11 on unused types, placed squares, and Ndenjoo.
+- **Kumbaan stays off this list.** [[Ndenjoo]] is a table-at-the-centre hall, not a mile-shrine type and not a mainland power. Do not add a Tree to complete the catalogue.

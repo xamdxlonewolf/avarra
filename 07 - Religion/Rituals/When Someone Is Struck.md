@@ -9,7 +9,7 @@ aliases: [The Hour Someone Is Struck, The Struck Hour, When a Person Changes]
 world: The Turning
 reveals: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # When Someone Is Struck
@@ -38,7 +38,7 @@ Rare, and the hall treats it as family news once there is a name for it. [[Njund
 
 ## The same hour, other doors
 
-An oath in a back room: take the pen out of the hand until the person can hear the clause they are still saying yes to. A death that did not finish: keep them warm, and do not assign the unfinished work tonight. A family that knows them can already tell, later, by an embrace, whether that work is being tended ([[Daily Life]]). A person the ground held and then released, or a person who came out of the trees changed: feed them, and do not bring them to a canopy tonight.
+An oath in a back room: take the pen out of the hand until the person can hear the clause they are still saying yes to. A death that did not finish: keep them warm, and do not assign the unfinished work tonight. A family that knows them can already tell, later, by an embrace, whether that work is being tended ([[Daily Life]]). Someone who was turned to stone and came back, or someone who came out of the deep wild changed: feed them, and do not bring them to a canopy tonight.
 
 The tenth year, if they are still inside it, is a different problem and a short one. Bring them to be welcomed if the week is still open. Do not stand them for a second life. The row for an already-Struck child is on [[Turning Tree]].
 

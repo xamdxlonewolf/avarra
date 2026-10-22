@@ -7,22 +7,22 @@ status: active
 tags: [language, voice, speech, drift]
 aliases: [How Places Speak, Place Speech, Drift Voice]
 world: The Turning
-speakers: common speech in the three Maiethren drifts, and Kumbaan's own mouth
+speakers: common speech in the three Maiethren drifts, and Kumbaan's own language
 descends_from: "[[The Old Tongue]] (the three drifts). Kumbaan does not descend from it."
 reveals: []
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # How a Place Speaks
 
-> **How to use this.** This is a mouth, for play. The sounds and the old written names stay in [[The Old Tongue]]. Person-names and the second name stay in [[Naming People in the Turning]]. Here is what a place says out loud for six ordinary things, and four tones a player can actually keep up for a scene. Speak the common word. A rite, a charter, or a scholar's copy still carries the long written name.
+> **How to use this.** This is how people talk, for play. The sounds and the old written names stay in [[The Old Tongue]]. Person-names and the second name stay in [[Naming People in the Turning]]. Here is what a place says out loud for six ordinary things, and four tones a player can actually keep up for a scene. Speak the common word. A rite, a charter, or a scholar's copy still carries the long written name.
 
-A traveller can say **Turning Tree**, **the Mother**, **a hug**, **a colour**, **a tree-warden**, and **a graft**, and be understood on every mainland road. The table below is what the place says when it is being itself. The core keeps the thorn. Waiting speech tires it. A dock lets it go. [[The Sundering Isle|Kumbaan]] speaks in its own mouth. The old liturgical tongue is a mainland box, and the hill was never in it.
+A traveller can say **Turning Tree**, **the Mother**, **a hug**, **a colour**, **a tree-warden**, and **a graft**, and be understood on every mainland road. The table below is what the place says when it is being itself. The core keeps the *th* sound, which is called the thorn below. Waiting towns soften it to *t*. Docks drop it. [[The Sundering Isle|Kumbaan]] speaks its own language. The old liturgical tongue belongs to the mainland, and the hill was never part of it.
 
 ## What they call the six things
 
-Common speech only. These handles are already in the mouth, worn by the drift. The long written compounds stay on paper.
+Common speech only. These handles are already in everyday speech, worn by the drift. The long written compounds stay on paper.
 
 | | **Conservative** — pious core | **Worn** — waiting lands, live front | **Eroded** — the docks | **Kumbaan** — the hill |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ Common speech only. These handles are already in the mouth, worn by the drift. T
 
 **Waiting speech, and the live front.** Careful prayer puts the thorn back, and **Maieth** returns for as long as the prayer is open. The kitchen says **Mait**. **The Thallow** is the Tree. A colour is **the gift**; a no-colour is still **a hug**, and they do not dress it as a prize. Young wood on the road is **a carried Thallow**. On the live front, until it can Turn, people say **the wood**.
 
-**The docks.** **Tallo** is how a quay says *the Thallow* once the thorn is gone. Say it on the water. Leave it off the charter. The written name stays the Turning Tree, or the old liturgical name when the paper is a rite. They call her **the old rite**, and they call a no-colour **a clear** — the child came up clear, free to be hired. A warden is **a tree-tender**. A scion in the hold is **a carrying**. [[Trenledd]] is this mouth with a list: the gate asks the house, and the gate will not put the thorn back to be polite.
+**The docks.** **Tallo** is how a quay says *the Thallow* once the thorn is gone. Say it on the water. Leave it off the charter. The written name stays the Turning Tree, or the old liturgical name when the paper is a rite. They call her **the old rite**, and they call a no-colour **a clear** — the child came up clear, free to be hired. A warden is **a tree-tender**. A scion in the hold is **a carrying**. [[Trenledd]] is this speech with a list: the gate asks the house, and the gate will not put the thorn back to be polite.
 
 **The hill.** [[Ndenjoo]] has a table. It has no Tree and no graft, and it does not grow a word that would put one in the valley. **The far tree** and **their cutting** are mainland things, said of someone else's country. **The loud story** is what they call the Mother when a guest brings her up: a tale about being chosen, told at noon-volume. **The place** is what they offer where a mainlander expects a hug. **A test** is a colour, and they will not use one on a guest. A warden who climbs the hill is **the loud guest**, and is still fed.
 
 ## Tones a player can use
 
-Four tones. Sentence length, the thing they say again, and the thing they will not say while the room is mixed. Each mainland drift still has one phrase it says whole. The hill has its own. Nobody stops to translate them.
+Four tones. Sentence length, the thing they say again, and the thing they will not say while mixed company is present. Each mainland drift still has one phrase it says whole. The hill has its own. Nobody stops to translate them.
 
 ### Devout core
 
@@ -108,7 +108,7 @@ The second name is locked. The rule, and the worked rows for what you say when a
 | **A witness-town, and you are a stranger** | the given name, and *of the place* |
 | **Kumbaan** | the given name |
 
-The list-lands are **Threnmaieth**, **Trenledd**, **the Inner Close**, and **a filing house while the paper is open**. Shut the paper, and the quay goes back to the witness way. A house-name is a local drift-word, often an old given name that stuck to a line. It is that mouth's word. It is not an English surname.
+The list-lands are **Threnmaieth**, **Trenledd**, **the Inner Close**, and **a filing house while the paper is open**. Shut the paper, and the quay goes back to the witness way. A house-name is a local drift-word, often an old given name that stuck to a line. It is that place's word. It is not an English surname.
 
 A witness-town asks *of where?* because the name that stands for you is the place that saw you. A given name with no place has not been stood for. Leading with a house sounds like a column, and that town does not keep the column.
 

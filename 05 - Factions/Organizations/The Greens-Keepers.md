@@ -9,17 +9,17 @@ aliases: [Greens-Keepers, Greens Keepers, The Saelhael, Saelhael, Lot-Keepers, T
 world: The Turning
 category: organization
 seat: none — the town lot; filed under [[Tithe-Infrastructure]]
-public_face: the people who keep living land in a stone town so the Taken-In do not go to seed on a parlour floor
-reveals: [keystone-adjacent]
+public_face: the people who keep living land in a stone town so the Taken-In do not wilt on a parlour floor
+reveals: []
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # The Greens-Keepers
 
-Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael*. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].
+Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael*. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin's pot they do not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].
 
-**In one sentence:** they keep the lot — and they will not follow you home.
+**In one sentence:** they keep the lot, and they do not go looking for anyone who is not at the gate.
 
 ## At the table
 
@@ -28,7 +28,7 @@ Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael*. This is
 | **Want** | A living lot. A wilt on the beds is a ruined commons. |
 | **Have** | A key, a slate of rows, last year's leaf buried under a new bed. |
 | **Fear** | A queue longer than the wilt, and a crown channel that matches beds they do not have. |
-| **Live conflict** | The gate closes. Someone is going to seed three streets off. Videm's channel says the green held. |
+| **Live conflict** | The gate closes. Someone three streets off is wilting. Videm's channel says the green held. |
 | **Hooks** | A slate that says *we do not know a pot* and a child who does; a Book-hand's share-term on a full lot; a wilt the keepers will not walk to. |
 
 The share is enough, then the gate. A private pot after the share fails is [[The Slide]]. A bed-slate is plants; names get on it because a person is *on* a bed. In [[Polity Archetypes|Threnmaieth]] the crown already has another list.
@@ -44,9 +44,3 @@ They recruit by practice, not Kind. They do not steal a scion. They do not expor
 
 - Folded as a jurisdiction, not a faction-clone. Texture (buried leaf, "we do not know a pot") stays playable on the sector note. Do not grow a Green Seat in a later polish.
 - A PC who digs up the buried leaf has been rude. They have not found how the world works.
-
-#### Taste-open markers (P2.1)
-
-The names and other taste calls remain open; only their editorial markers moved out of player text:
-
-- Everyday: **greens-keepers**, or **lot-keepers.** Liturgical *Saelhael* 🟡. This is a **jurisdiction of [[Tithe-Infrastructure]]**, not a house with its own college. The lot, the gate, the bed-slate, and the cousin they will not name live on that note. Why Taken-In stay in stone towns: [[Economy and the Tithe#Why Taken-In live in stone cities]].

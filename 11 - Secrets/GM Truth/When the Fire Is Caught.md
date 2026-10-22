@@ -10,7 +10,7 @@ category: truth
 foreshadowed_by:
   - "[[The Opening]] — remnant + unseen leaf already on-screen; fire plot without the keystone"
   - "[[The Isolated Fall]] — campaign hub"
-  - "[[The Closed Lamp]] — fire that answers two mouths (object; not a leaf)"
+  - "[[The Closed Lamp]] — fire that answers two people (object; not a leaf)"
   - "[[The Protectors]] — sanctuary that will not produce the one"
   - "[[A Hidden Phoenix]] — Hope scars without memories; leftover is not this card"
   - "[[Taeren]] — hush; unseen-leaf seat if no PC holds it"
@@ -19,7 +19,7 @@ foreshadowed_by:
   - "[[The Wrong Green]] — white-fire's quiet cousin (Speaking vs Gift)"
 revealed_in:
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # When the Fire Is Caught
@@ -58,7 +58,7 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 - [[The Protectors]] catch the fire. They use this engine; they do not rewrite it.
 - A hidden Phoenix PC: [[A Hidden Phoenix]]. If that PC still has a Rise left, they *are* the one Gift. A second leaf waits. If the opening needs an apparent two, the walker from the sanctuary is the remnant.
 - **Opening picked:** [[The Opening]] sits remnant-walker + unseen leaf at [[Harrow's Green]]. Taeren *or* a PC occupies the new-Gift seat, not both. Two Gifts at once is not. The walker-PC-who-can-still-Rise shape remains legal as a *different* opening; do not run it on top of this kit.
-- [[Taeren]] (Brenod hush at the neighbour's canopy) and [[Rosire]] (door that opened; Harrow's upper room this Hale-month) are mouths. Plot lives on the opening kit, not on those notes.
+- [[Taeren]] (Brenod hush at the neighbour's canopy) and [[Rosire]] (door that opened; Harrow's upper room this Hale-month) are witnesses. Plot lives on the opening kit, not on those notes.
 
 ## How It Surfaces (clues, in order)
 
@@ -67,7 +67,7 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 1. **Hope scars without memories.** A Phoenix (or something that burns like one) has more crossed slots than lives they can name.
 2. **A sanctuary that will not produce the Phoenix.** The world is told the one is being kept safe. No town has seen them in a generation.
 3. **A white-fire fall that was never Spoken.** A far warden's letter, a hush, a runner who did not arrive.
-4. **Fire that answers a child and an old name at once.** The stored fire knows both. That is the tell, not a second Gift. Object: [[The Closed Lamp]] — lean, two mouths, then tea. Not a leaf. Not [[The Spent Leaf]].
+4. **Fire that answers a child and an old name at once.** The stored fire knows both. That is the tell, not a second Gift. Object: [[The Closed Lamp]] — lean, two people, then tea. Not a leaf. Not [[The Spent Leaf]].
 5. **The confirming beat (late, GM's to place).** The remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. Warmth with a theft under it. Not a harvest-god reveal. Do not fire this in session one. The plot does not need it. The plot does not need the keystone.
 
 ## Player Misreadings
@@ -84,7 +84,7 @@ The slot is empty from the true death. The leaf may fall. The wider world does n
 - [[Is the Leaf-Mother Real]] — do not confirm her in player text to explain the slot
 - [[The Other Hands]] — Phoenix is hers only; no Other Hand Gives it
 - [[The Protectors]] — the harvesters · [[A Hidden Phoenix]] — PC agency · [[The Opening]] — the opening
-- [[Taeren]] · [[Rosire]] — mouths, not the house
+- [[Taeren]] · [[Rosire]] — witnesses, not the house
 - [[The Closed Lamp]] — plot object · [[The Spent Leaf]] — do not braid
 - [[Revelation Architecture]] — fire plot may run without the keystone · [[Reveal Index]]
 - [[11 - Secrets]]

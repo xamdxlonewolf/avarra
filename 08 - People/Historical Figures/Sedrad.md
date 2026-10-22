@@ -13,7 +13,7 @@ location: "[[The Walking Years|the Salt Walk]]"
 role: the folk blame
 reveals: [keystone-adjacent]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 
 # Sedrad
@@ -35,9 +35,9 @@ updated: 2026-09-29
 
 They worked a berth on the [[The Walking Years|Salt Walk]], in a summer the quay does not file as a Cut-year. The last fair tide of a season was the one that still made [[The Reckoning of the Year|Turning-Week]]. The note on the hull was not a clear. Sedrad held.
 
-The mouths on that hull missed the week. The door does not reopen for a late ship. The songs kept the hold and dropped the reason. On the salt, Sedrad means a clerk who would not sign, and a tenth summer that missed the canopy because the paper was unfinished. That is the blame. It has not softened into a joke the way a quay-joke does. People say the name the way they say a berth that failed.
+The people on that hull missed the week. The door does not reopen for a late ship. The songs kept the hold and dropped the reason. On the salt, Sedrad means a clerk who would not sign, and a tenth summer that missed the canopy because the paper was unfinished. That is the blame. It has not softened into a joke the way a quay-joke does. People say the name the way they say a berth that failed.
 
-The quay's own telling is shorter, and it does not acquit them where the songs can hear. Hale-month weather has missed more weeks than one clerk. A squall, a late crossing, a note that was never going to be good: the salt already knew those. The songs do not want the weather. They want a mouth. Sedrad is the mouth they kept.
+The quay's own telling is shorter, and it does not acquit them where the songs can hear. Hale-month weather has missed more weeks than one clerk. A squall, a late crossing, a note that was never going to be good: the salt already knew those. The songs do not want the weather. They want a person to blame. Sedrad is the person they kept.
 
 What they said, as the quay still copies it when it is training someone not to be them:
 
@@ -49,7 +49,7 @@ One hull. One tide. They are not why the far waited, and they are not the hand t
 
 ## Appearance & Demeanor
 
-Remembered as a delay. Quay-ink. A hull still tied. No coat of office. Dock-mouths say the name in one breath with the berth, and they do not put a hymn after it. If someone starts a speech, the quay lets it go and says the name again, shorter.
+Remembered as a delay. Quay-ink. A hull still tied. No coat of office. Dockhands say the name in one breath with the berth, and they do not put a hymn after it. If someone starts a speech, the quay lets it go and says the name again, shorter.
 
 ## Role & Relationships
 
@@ -62,6 +62,12 @@ Remembered as a delay. Quay-ink. A hull still tied. No coat of office. Dock-mout
 
 [[Trenledd]]'s person-column is a fever's child, long after this tide. It did not file Sedrad, and it does not get to invent a house for them now.
 
+## Links
+- [[The Walking Years]] · [[The First Cut]] · [[Named Ground]]
+- [[The Reckoning of the Year]] · [[Monseoth]] · [[Rithnali]]
+- [[Orentel]] · [[The White Note House]] · [[Sorim]]
+- [[Naming People in the Turning]] · [[08 - People]] · [[02 - History]]
+
 ## GM Notes
 
 - **Memory: condemned.** The past villain on this layer is a song, not a campaign. Dead. Not a present antagonist. Do not bring them back to be arrested, forgiven in a scene, or revealed as the cutter.
@@ -69,9 +75,3 @@ Remembered as a delay. Quay-ink. A hull still tied. No coat of office. Dock-mout
 - **Positional.** Transaction facilitator at the last berth. Their clear was the lock on the hull. Holding for a note was competence at the quay and a shut week for the people in the hold. They could not open the door once the solstice had passed. The songs cannot unknow the name.
 - **Arc, if you need one (small, negative).** *Want:* a clear note and a tide that still made the week. *Lie:* a note that will be paid is the same mercy as a child who arrives. *Temptation:* hold. *Point of no return:* the tide they did not take. *Consequence:* the name. The salt did not reform because one clerk died. Do not let play destroy "missed weeks" by punishing this ghost.
 - **Do not** make them the gap before Heskoren, a Selkie war, Orentel's founder, or a Grey Summer patient. Do not put a graft on the hull. The one-week door stays shut; do not invent a second-chance year to acquit the song.
-
-## Links
-- [[The Walking Years]] · [[The First Cut]] · [[Named Ground]]
-- [[The Reckoning of the Year]] · [[Monseoth]] · [[Rithnali]]
-- [[Orentel]] · [[The White Note House]] · [[Sorim]]
-- [[Naming People in the Turning]] · [[08 - People]] · [[02 - History]]

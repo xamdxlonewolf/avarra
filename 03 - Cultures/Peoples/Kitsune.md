@@ -11,7 +11,7 @@ language: Kusawe (hearth-register); daily speech is the local Maiethren drift
 homeland: three hearths — Wilds / Snows / Sands (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Kitsune
@@ -24,9 +24,9 @@ Kitsune are the fox-born: slight, quick-eyed people with a fox's ears and a brus
 
 Foxfire is the thread that runs through all of them — the ghost-light that leads travelers off the mountain path, the pale fire that hides the sacred white fox, the flame the old nine-tails were said to carry. Each kind of fox bends the same fire a different way.
 
-**Not one fox but many.** Just as the world holds arctic, desert, and forest foxes, the fox-born come in kinds shaped by the country they were born to — the **Fox of the Wilds** (red-and-russet, the forest and hedgerow fox), the **Fox of the Snows** (white-coated, born to the cold north and the high snows), and the **Fox of the Sands** (pale and huge-eared, born to the deserts and dry country). All are Kitsune, share the same slipperiness and the same foxfire, and marry and mingle freely; a child takes after one parent's line or the other. Each carries a gift bred into it by its home ground, and turns its foxfire to a different old fox-story — the will-o'-wisp that leads a hunter astray, the pale flame that swallows the white fox from sight, the ward-fire of the fox that always knows what's coming.
+**Not one fox but many.** Just as the world holds arctic, desert, and forest foxes, the fox-born come in kinds shaped by the country they were born to — the **Fox of the Wilds** (red-and-russet, the forest and hedgerow fox), the **Fox of the Snows** (white-coated, born to the cold north and the high snows), and the **Fox of the Sands** (pale and huge-eared, born to the dry country). All are Kitsune, share the same slipperiness and the same foxfire, and marry and mingle freely; a child takes after one parent's line or the other. Each carries a gift bred into it by its home ground, and turns its foxfire to a different old fox-story — the will-o'-wisp that leads a hunter astray, the pale flame that swallows the white fox from sight, the ward-fire of the fox that always knows what's coming.
 
-**The fresh angle:** in a world where three of every four people acquire a [[Conditions|Condition]], the Kitsune are a Kind defined not by *changing* but by *never quite being where you left them.* Their whole reputation is misdirection-without-deceit — the fox slips the trap, it doesn't lie about the trap being there.
+A Kitsune is not changed into anything. A Kitsune is known for *never quite being where you left them.* Their reputation is misdirection without deceit: the fox slips the trap, but it doesn't lie about the trap being there.
 
 ## Values & Worldview
 
@@ -49,7 +49,7 @@ Every Kitsune has **Slip the Frame** and **Fox's Glamour**, **and** chooses one 
 
 ## Naming & tongue
 
-Hearth-register **Kusawe** (koo-SAH-way) 🔒 — light, slipping, sibilant; seed `20260823`. Full inventory, collision rules, and the two-name pattern (hearth-given + place-byname) live in [[Naming People in the Turning]]. Working given names: Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan. Daily speech is the local [[The Old Tongue|Maiethren drift]]; the fox-name is what they answer to when someone is trying to pin them down.
+Hearth-register **Kusawe** (koo-SAH-way) — light, slipping, sibilant. The full inventory, collision rules, and the two-name pattern (a hearth-given name, then the place's second name, a byname or a house-name) are in [[Naming People in the Turning]]. Working given names: Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan. Daily speech is the local [[The Old Tongue|Maiethren drift]]; the fox-name is what they answer to when someone is trying to pin them down.
 
 Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 
@@ -61,6 +61,7 @@ Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 
 ## GM Notes
 
+- **Seed.** The Kusawe list was drawn at seed `20260823`.
 - **Package locked.** Three features: Slip the Frame + Fox's Glamour + your Fox (Wilds / Snows / Sands). Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]]. Mixed Ancestry never takes Your Fox.
 - **Folklore check (2026-08-16).** Hits 6 of 7 iconic kitsune traits. Fox's Glamour is illusion/disguise, not [[Two-Bodied]] flesh-change. Fills the cut-Doppelganger niche.
 - **Fox's Glamour scope.** Veil + small illusions at will; once/scene "wear another face" (seen person, concentration). Illusion, not flesh. Never mind-control.

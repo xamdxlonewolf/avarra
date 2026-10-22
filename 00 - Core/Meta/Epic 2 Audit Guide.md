@@ -2,21 +2,21 @@
 title: Epic 2 Audit Guide
 type: reference
 visibility: gm
-note_status: draft
-status: active
+note_status: fleshed
+status: closed
 tags: [meta, audit, epic-2, review, handoff]
 aliases: [Epic 2 Review, Society Audit]
 created: 2026-08-21
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # Epic 2 Audit Guide
 
 > **Purpose.** A **fresh-context read-through** companion. The user wants to walk through everything built in Epic 2 so far, read each note together, and audit it against intent — *does it sound like what they want?* This note is the map: what to read, in what order, and what to pressure-test. Start here, then open each artifact in the listed order.
 
-> **✅ AUDIT COMPLETE (2026-08-21).** Walked all four artifacts with the user in dependency order; every checkpoint confirmed or resolved in place. **Resolutions:** (1) **Frame** — reframed "~15 polities" as the *great powers* (top tier), with smaller states/free-cities/frontier beneath; named one continent the **motherland** (origin of the Awakening Tree) and corrected the reach model per user — *reach travels with the grafts*, so thin reach = Tree-poor places today; the old distance-gradient (one Tree, pilgrimage, far-flung stayed Kept) is banked as an **Epic 6 history seed** ("The Grafting"). (2) **Keystone** — added a nod in clue #3 that the reach has *grown* with the grafts (better evidence of a hand than a static edge). (3) **2.1 polity stances** — rewrote from a 3-type menu into **three independent axes** (theology / reach / governance) with Warm/Watchful/Frontier kept as illustrative touchstones; the Watchful's precise sin tightened to *"a census of persons and their Conditions"* (not "keeping records at all"). (4) **2.2 self-paying/provided-for** — reframed as a **spectrum with a named seam**; **Far-Voiced and Returned** moved to an explicit seam table (self-pay by vocation, else provided-for); folded in that self-paying buys *a living, not ease* (Stilled/Answered self-pay yet are the most-licensed). (5) **2.2 banking** — reconciled concentrate-vs-endow: endowment converts *coin* to *directed patronage*, so influence concentrates even as liquid wealth flows out. All edits on branch `worktree-epic-2-society`.
+> **✅ AUDIT COMPLETE (2026-08-21).** Walked all four artifacts with the user in dependency order; every checkpoint confirmed or resolved in place. **Resolutions:** (1) **Frame** — reframed "~15 polities" as the *great powers* (top tier), with smaller states/free-cities/frontier beneath; named one continent the **motherland** (origin of the Awakening Tree) and corrected the reach model per user — *reach travels with the grafts*, so thin reach = Tree-poor places today; the old distance-gradient (one Tree, pilgrimage, far-flung stayed Kept) is banked as an **Epic 6 history seed** ("The Grafting"). (2) **Keystone** — added a nod in clue #3 that the reach has *grown* with the grafts (better evidence of a hand than a static edge). (3) **2.1 polity stances** — rewrote from a 3-type menu into **three independent axes** (theology / reach / governance) with Warm/Watchful/Frontier kept as illustrative touchstones; the Watchful's precise sin tightened to *"a census of persons and their Conditions"* (not "keeping records at all"). (4) **2.2 self-paying/provided-for** — reframed as a **spectrum with a named seam**; **Far-Voiced and Returned** moved to an explicit seam table (self-pay by vocation, else provided-for); folded in that self-paying buys *a living, not ease* (Stilled/Answered self-pay yet are the most-licensed). (5) **2.2 banking** — reconciled concentrate-vs-endow: endowment converts *coin* to *directed patronage*, so influence concentrates even as liquid wealth flows out. Those edits have since merged.
 
-> **Where the work lives.** Branch `worktree-epic-2-society`, **draft PR #7** (pushed, not merged — awaiting this audit). Not on `master` yet except the keystone-edge salvage.
+> **Where the work lives.** History: the audit's edits were made on a working branch and have since merged. The notes named below are on the main line.
 
 ## How to run the audit (suggested)
 
@@ -53,7 +53,7 @@ The salvaged refinement: she's real & benevolent **but bounded, and giving costs
 ### 4. Story 2.2 — `03 - Cultures/Social Structures/Economy and the Tithe.md`
 Built on 2.1. The load-bearing ideas the user flagged for review:
 - [x] **Thesis: the Tithe is the engine** — upkeep for 75% = a whole provisioning sector ("why society organizes around the Conditioned"). — *Does this framing land?*
-- [x] **Self-paying vs provided-for Tithes** — work-is-payment (Answered/Two-Bodied/Stilled/Returned) vs pure-cost (Taken-In/Long-Lived/Far-Voiced/Unbound/Bound). **This is the structural key — check it hardest.** — *Does the split hold? Are the assignments right?*
+- [x] **Self-paying vs provided-for Tithes** — work-is-payment (Answered/Two-Bodied/Stilled/Returned) vs pure-cost (Taken-In/Long-Lived/Far-Voiced/Unbound/Bound). (Resolved: Far-Voiced and Returned sit on the seam; see [[Economy and the Tithe]].) **This is the structural key — check it hardest.** — *Does the split hold? Are the assignments right?*
 - [x] **Tithe-poverty** — "too poor to stay whole" → slides toward the scary edge; the welfare question. — *Right kind of stakes?*
 - [x] **Whoever furnishes a provided-for Tithe holds power** — coercion with a friendly face (the R2 lever). — *Is this the injustice you want mechanized?*
 - [x] **Labor by Condition** — Tithe and vocation are the same shape; **the Kept = free generalist labor** (freedom under the slight). — *Like the inversion?*
@@ -62,13 +62,13 @@ Built on 2.1. The load-bearing ideas the user flagged for review:
 
 ---
 
-## Known open threads (already tracked — not audit failures)
-- **Naming pass** — all Epic 2 institution names are provisional; in-world names + regional/language variants come after the polity archetypes + language sketches exist (Epic 2 tail → Epic 4). *(User directive.)*
-- **Story 2.3 — Daily life** (marriage/family across stacked Kind+Condition, medicine, city design) — **not yet built.** Next up after this audit.
-- **2–3 polity archetypes** — named/built at the end of Epic 2; will make the naming pass possible.
-- The keystone-edge salvage commit is on local `master` (unpushed) *and* on this branch.
+## Known open threads at the time of the audit (history)
+- **Naming pass** (since done) — all Epic 2 institution names were provisional; in-world names + regional/language variants come after the polity archetypes + language sketches exist (Epic 2 tail → Epic 4). *(User directive.)*
+- **Story 2.3 — Daily life** (marriage/family across stacked Kind+Condition, medicine, city design) — built after this audit.
+- **2–3 polity archetypes** — built at the end of Epic 2; they made the naming pass possible.
+- The keystone-edge salvage is on the main line.
 
-## Questions the user specifically wanted to sit with
+## Questions the user wanted to sit with (answered in the audit above)
 1. Do the **self-paying vs provided-for** split and **Tithe-poverty** feel right before Daily Life builds on them?
 2. Is the **witnessed-not-recorded** citizenship foundation solid, or are there holes?
 3. Overall: does Epic 2 so far **sound like what they want** — right tone, right depth, right register?

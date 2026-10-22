@@ -10,19 +10,19 @@ created: 2026-10-21
 updated: 2026-10-22
 ---
 
-*One meeting, copied from the minute-book on the long-house shelf in Lestrand, in Molevad's hand. Copied with K.'s leave.*
+*The minutes of one night, copied from the minute-book on the long-house shelf in Lestrand, in Molevad's hand. They record the fifth year K. gave. Copied with K.'s leave.*
 
 ---
 
-**Hale-month. The circle met at the shelf.**
+**The circle met at the shelf.**
 
 Nine at the table. One stood in the passage and did not come in. The minutes do not write that one's name.
 
-**The asking.** K. asked, in front of the circle, to give five years. K. named the years: from the second marriage to the second year after the husband's death. K. said the reason aloud. K. is tired of carrying that funeral.
+**The year.** K. was asked once to join the circle, and said yes. The circle asks five years of a member in all. A member gives them one at a time, each on its own night, and each night has its own minutes. K.'s first four years are in the earlier minutes in this book. Tonight is the fifth. K. named the year: the second year after the husband's death. K. said the reason aloud. K. is tired of carrying that funeral.
 
-We asked K. three times whether the gift was K.'s own wish, as we always ask. K. said yes three times. Nobody at the table spoke against it.
+**The asking.** As before every year, we asked K. three times whether the gift was K.'s own wish. K. said yes three times. We told K. that K. may stop tonight, as K. could have stopped before any of the five, and that the years already given would stay in the cup. Nobody at the table spoke against the gift.
 
-**The gift.** K. gave the five years into the Cup We Made, with one drop of K.'s own blood. Afterward we asked K. what the husband's name was. K. knew the name and the face from before the marriage. K. could not tell us anything that happened in the five years. K. said they felt lighter, and then said that was a foolish thing to say. K.'s papers from the five years went onto the shelf: letters, two account books, and a diary. From tonight K. is seated five years younger.
+**The gift.** K. gave the year into the Cup We Made, with one drop of K.'s own blood. Afterward we asked K. what the husband's name was. K. knew the name and the face from before the marriage. K. could tell us nothing that happened in this year, and nothing that happened in the four before it. K. said they felt lighter, and then said that was a foolish thing to say. K.'s papers from this year went onto the shelf: letters, an account book, and the pages of a diary.
 
 **The face this decade.** We are to describe the god as a librarian. Two members asked to keep the quiet guest. That was not agreed. These minutes call it the librarian until the next decade.
 
@@ -30,8 +30,8 @@ We asked K. three times whether the gift was K.'s own wish, as we always ask. K.
 
 **Asked to stop.** Nobody at the table.
 
-**Next gift due.** Molevad, at the next meeting.
+**Next year due.** Molevad's, at the next meeting.
 
 **The circle's words, read aloud at the close as always.** Every gift is freely given. We made the god we give to. It keeps what we gave it. It does not give back a leaf, and it does not save anyone from dying. We will not set it up in a square. We will not call it the Mother.
 
-*— Molevad, for the circle*
+From tonight K. is seated one year younger, five in all.

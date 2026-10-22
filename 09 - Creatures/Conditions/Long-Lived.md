@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, given, vampire]
 aliases: [The Long-Lived, Vampire, Keepers, Ageless]
-world:
+world: The Turning
 category: Condition
 monster: vampire
 standing: rare / revered
@@ -14,7 +14,7 @@ path: Given only
 population: ~2.5%
 reveals: []
 created: 2026-08-14
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Long-Lived
@@ -23,16 +23,16 @@ updated: 2026-10-21
 
 ## The take
 
-Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a walking, incorruptible record — which is exactly why courts, guilds, and archives are built around them. Their scarcity (~2.5%, **Given only** at the Awakening — a rare deep-red / wine leaf; share from [[The Premise]]) is deliberate: a world with too many deathless people would ossify. They are revered, consulted, and a little apart.
+Aging simply stops, and nothing witnessed is ever forgotten. A Long-Lived is a walking, incorruptible record — which is exactly why courts, guilds, and archives are built around them. Their scarcity (~2.5%, **Given only** at the Awakening — a rare deep-red / wine leaf; the shares for every Condition are on [[Conditions]]) is deliberate: a world with too many deathless people would ossify. They are revered, consulted, and a little apart.
 
 **The old courtesy.** A Long-Lived will not cross the threshold of another's home uninvited — they wait to be asked in, always. It is held as the deepest good manners, a mark of their trustworthiness (a keeper of records does not intrude), and no one quite remembers it as anything else — but it is old, and it is universal among them, and a Long-Lived who is *refused* the door feels the refusal more than they will say. It reads, faintly, as the last shadow of the thing the folklore vampire was: the one who could not enter unbidden. Nobody calls it that. It's simply how the Long-Lived have always been.
 
 ## At the Tree
 
 **Colour.** Deep red / wine — folk-known; a neighbour can already read it. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Given only. No later door. The engine lives on [[The Premise]].
+**Path.** Given only. No later door. The engine is on [[Turning Tree]].
 **How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a chosen keeper: memory fitted to a town that needs a record. [[The Watching]] says the Tree *saw* a mind that would not fade — a witness, not a mother's pick. The square does not get to close the argument.
-**Where next.** Courts, guilds, and archives. Every Long-Lived is asked once to join [[The Pourers]], who give five years of memory into a cup they say holds a god they made ([[The Unspent]]); most say no, and a person who says no is received everywhere as before.
+**Where next.** Courts, guilds, and archives. Every Long-Lived is asked once to join [[The Pourers]], who give memory into a cup they say holds a god they made ([[The Unspent]]). A member gives one year at a time, each on its own night, and may stop before the next; five years is what the circle asks of a member in all. For each year given, that year's papers go onto the long-house shelf and the circle counts the member one year younger. When a member leaves, the years already given stay in the cup, and the papers are what come back. Most Long-Lived say no to the ask, and a person who says no is received everywhere as before.
 
 ## Daggerheart — Transformation card
 
@@ -53,6 +53,13 @@ The pleasant version of the Tithe is why they hold the jobs they do: a Long-Live
 
 Long-Lived **can** have children and families, but **none are guaranteed** to inherit the Condition (most don't). They watch spouses and children grow old and die, then either **stop** — live on alone with the memory — or **begin again** and outlive that family too. This is the deepest Tithe, beneath the mechanical one: the cost of the Long-Lived is measured in funerals. They are **deathless, not unkillable** — violence, accident, or a failed Tithe still ends them — which keeps their numbers stable across centuries.
 
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Two-Bodied]] (another Given-only Condition)
+- [[The Walking Years]] — Long-Lived who still say *I walked* (perfect memory; disagreed meaning)
+- [[The Pourers]] — the group that keeps the cup
+- [[The Watching]] — witness, not Mother
+
 ## GM Notes
 
 The "go still" death is intentionally not a death move — it's a slow, tragic off-ramp the player can see coming across long rests (Stress, then a Hit Point, then still), not a sudden kill and not an unclearable HP spiral. Use it as story pressure (a Long-Lived NPC found statue-still in a sealed archive), not a gotcha. The fade is a thinning mind, not a global curse on every roll.
@@ -61,9 +68,4 @@ The "go still" death is intentionally not a death move — it's a slow, tragic o
 
 Tracker: [[Build Plan]].
 
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Two-Bodied]] (the other Given-only core Condition)
-- [[The Walking Years]] — Long-Lived who still say *I walked* (perfect memory; disagreed meaning)
-- [[The Unspent]] — the presence in the cup some of them give years to · [[The Pourers]] — the group that keeps the cup
-- [[The Watching]] — witness, not Mother
+- **Links (GM):** [[The Unspent]]

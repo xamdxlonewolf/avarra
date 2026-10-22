@@ -4,22 +4,20 @@ type: reference
 visibility: player
 note_status: fleshed
 status: active
-tags: [naming, language, kinds, conventions, epic-4]
+tags: [naming, language, kinds, conventions]
 aliases: [Person Names, Kind Registers, How People Are Named, The Four Registers]
 world: The Turning
 reveals: []
 created: 2026-08-23
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Naming People in the Turning
 
-> **How to use this.** To name a person: (1) where were they raised, (2) are they Kitsune / Selkie / Tengu / Yumboe, (3) pick a given name from the matching list, (4) add the **second name that place uses** — a byname, or a house-name. Never from the Kind. Mark stress (CAPS) on first use. The lists and recipes are below. Locked lever:
+> **How to use this.** To name a person: (1) where were they raised, (2) are they Kitsune / Selkie / Tengu / Yumboe, (3) pick a given name from the matching list, (4) add the **second name that place uses** — a byname, or a house-name. Never from the Kind. Mark stress (CAPS) on first use. The lists and recipes are below. One rule governs them:
 
 > ## **A person is named by the place that raised them. A custom Kind may also keep a hearth-name.**
 > Stock ancestries have no private tongue. The four custom Kinds do — a *register* for given names, kin-names, and in-group talk — and they still wear the local [[The Old Tongue|Maiethren drift]] on the street. You can often hear both homes in one introduction. The place also decides whether the second name is a byname or a house-name.
-
-> **Canon status.** 🔒 **Locked 2026-08-23** (user-approved): named-by-place; hearth-registers *Kusawe / Sakoa / Gonan*; two-name pattern. **Amended 2026-09-28** (user): the second name is a byname where people are witnessed, and a house-name — said the way our surnames are said — where a list has to find them again. Individual sample names stay a working list (draw from the seeds). Deep grammar is still deferred (only if spoken dialogue is ever needed). The other great powers use the same roots and the right drift ([[Powers of the Turning]]); no new grammars.
 
 ## The two-name pattern
 
@@ -67,29 +65,26 @@ A mixed mainland child answers to **one register** if either side is custom — 
 
 Everyday names are worn [[The Old Tongue]]: liquids, nasals, soft *th*, long vowels. Push them through the three drifts the same way institution-names are pushed.
 
-| Drift | Place | What happens to a person-name | Examples *(seed 20260821; pick from the middle of a list, never the first thought)* |
+| Drift | Place | What happens to a person-name | Examples *(pick from the middle of a list, never the first thought)* |
 |---|---|---|---|
 | **Conservative** | [[Polity Archetypes|Threnmaieth]], pious [[Maiethorn]] | *th* and long vowels kept | **Maethaem** (MAY-thaym), **Reimaethe** (RYE-may-theh), **Thilim** (THIL-im), **Rithnali** (rith-NAH-lee), **Valein** (vah-LAYN) |
 | **Worn** | [[Polity Archetypes|Vaethorn]], [[Heskoren]] folk-speech | *th* softens; endings simplify | **Nathdo** (NATH-doh), **Saelid** (SAY-lid), **Tora**, **Seine** (SAY-neh), **Nethiro** (neth-EE-ro) |
 | **Eroded** | [[Polity Archetypes|Lestrand]], [[Strandoren]] docks | *th* → t/d or drops; clipped | **Valen**, **Tilim**, **Mataero** (mah-TAY-ro), **Ledan**, **Sorel** |
 
-**Stress:** CAPS on first use; usually the second syllable, as in the Old Tongue.
+**Stress:** CAPS on first use. Stress follows the Old Tongue rule in [[The Old Tongue]]: a compound stresses its first root.
 
-Do not invent a fourth "human language." This *is* the person-language of the Tree-touched world. A named power uses the same roots and the right drift ([[Powers of the Turning]]); it does not get a new mouth unless it refused the Tree. [[Vaelhesk]] keeps older *vael* and frontier *hesk-*. [[The Sundering Isle|Kumbaan]] already has its own register.
+Do not invent a fourth "human language." This *is* the person-language of the Tree-touched world. A named power uses the same roots and the right drift ([[Powers of the Turning]]); it does not get a new language unless it refused the Tree. [[Vaelhesk]] keeps older *vael* and frontier *hesk-*. [[The Sundering Isle|Kumbaan]] already has its own register.
 
 ## The four hearth-registers
 
-Each custom Kind's register is a **naming-language**: a mouth, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are settled. The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay.
+Each custom Kind's register is a **naming-language**: a sound, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are settled. The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay.
 
-The listed names are the surviving working sets from the original seeded pass. The original generator was not stored, so a seed by itself cannot reconstruct them. Future draws use the versioned LCG in `14 - Assets/Names/generate_names.py`; record the full command and candidate position, not only a seed. Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*.
+### [[Kitsune]] — *Kusawe* (koo-SAH-way)
 
-### [[Kitsune]] — *Kusawe* (koo-SAH-way) 🔒
-
-**Feel:** light, slipping, a little sibilant — a mouth that leaves a corner in the sentence. **Not** a Japanese-median list (no Kenji / Akiko / Yuki cluster).
+**Feel:** light, slipping, a little sibilant — names that slip round the corner of a sentence. **Not** a Japanese-median list (no Kenji / Akiko / Yuki cluster).
 
 | | |
 |---|---|
-| **Seed** | `20260823` |
 | **Consonants** | k s sh n r m t w y f h |
 | **Vowels** | a i u e o ai |
 | **Syllables** | CV · CVF (F = n/m/r) · 2–3 syllables |
@@ -97,15 +92,14 @@ The listed names are the surviving working sets from the original seeded pass. T
 
 **Given names (working set):** Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan.
 
-A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Raki Maethaem* on the roll. The hearth-name is the one they answer to when someone is trying to pin them down; they consider this funny.
+A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Maethaem, Raki* on the roll. The hearth-name is the one they answer to when someone is trying to pin them down; they consider this funny.
 
-### [[Selkie]] — *Sakoa* (sah-KOH-ah) 🔒
+### [[Selkie]] — *Sakoa* (sah-KOH-ah)
 
 **Feel:** liquid, rounded, coastal — names you can say with cold air in your mouth. **Not** a Celtic-median list (no Morag / Finn / Siobhan cluster).
 
 | | |
 |---|---|
-| **Seed** | `20260824` |
 | **Consonants** | l r n m s v f d b k w |
 | **Vowels** | o u a ea oa i e |
 | **Syllables** | CV · CVC · 2–3 syllables |
@@ -115,13 +109,12 @@ A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Raki Mae
 
 The day a child is first given the run of their own skin is when the hearth-name is spoken *to the water*. The civic second name comes later, from the town that watched them Turn: a byname, or a house-name if that town writes people down. Two homes, two names; they do not consider this a conflict.
 
-### [[Tengu]] — *Gonan* (GO-nan) 🔒
+### [[Tengu]] — *Gonan* (GO-nan)
 
-**Feel:** clipped, windy, high-country — shorter names, hard onsets, said as if the wind might take the end. **Not** the same mouth as Kitsune (that is the trap: two folklore-Japanese Kinds collapsing into one sound). Ridge-speech, not court-speech.
+**Feel:** clipped, windy, high-country — shorter names, hard onsets, said as if the wind might take the end. **Not** the same sound as Kitsune (that is the trap: two folklore-Japanese Kinds collapsing into one sound). Ridge-speech, not court-speech.
 
 | | |
 |---|---|
-| **Seed** | `20260825` |
 | **Consonants** | k t g n r h s b d · onsets kr gr hr |
 | **Vowels** | a o u e *(few i — that vowel lives in Kusawe)* |
 | **Syllables** | CVC · CV · 1–3 syllables, prefer 2 |
@@ -131,13 +124,13 @@ The day a child is first given the run of their own skin is when the hearth-name
 
 A Tengu raised where people are witnessed often takes a **perch** or a **pass** as the byname (*Teku of Highgate*, *Hosen of the White Stair*), not a harbour. Raised on a roll, they wear the house-name like anyone else; the perch stays the name the ridge uses.
 
-### [[Yumboe]] — already seeded
+### [[Yumboe]] — register in the ancestry note
 
-Full register in the ancestry note: open vowels, pre-nasal *mb nd nk nj*, Wolof/Senegambian flavour, own-name **Bakhna Rakhna**, homeland **Kumbaan**. Seed for *new* draws: `20260826`.
+Full register in the ancestry note: open vowels, pre-nasal *mb nd nk nj*, own-name **Bakhna Rakhna**, homeland **Kumbaan**.
 
 **Added given names** (same inventory, deeper in the list): Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.
 
-The Isle's Azgaar name base — places, not people — lives in `14 - Assets/Maps/Map Generation Tooling.md` §③b and is repeated under [[Yumboe#Naming & tongue]].
+The isle's place-names are in [[Yumboe#Naming & tongue]].
 
 ## Collision rules (keep the cast distinct)
 
@@ -145,16 +138,8 @@ Before locking a new PC/NPC name, check:
 
 - **Initial + cadence.** Do not seat *Raki* and *Ranyu* in the same party; do not seat *Teku* and *Kukra* as twins unless they *are*.
 - **Register bleed.** A Selkie named *Wishi* or a Tengu named *Maethaem* is a tell (raised away; adopted; passing). Use it on purpose or not at all.
-- **Locked place-names are reserved.** No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. Clergy and house coinages (*Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd*) stay off the person-list too. Story 7.2 squares (*Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's*), Story 7.3 seats (*Eolvaeth, Orentel, Maiethlir*), and the R.11 hall (*Ndenjoo*) likewise.
-- **Median-hop test.** If the name would be the first one an un-seeded list produced for "fox / seal / crow," throw it back.
-
-## How to coin more
-
-1. Pick the **register** (Maiethren drift, or one of the four hearths).
-2. Run `14 - Assets/Names/generate_names.py` with the register, seed, and count; record the full command and chosen position. Pick for fit from the field, not automatically from the top.
-3. Give **pronunciation** (CAPS = stress) on first use.
-4. Add the **second name the raising-place uses**: a byname, or a house-name from that drift if the place writes people down. Not from the Kind. Do not coin an English surname.
-5. If you need a name for a new *power* (Epic 7), do not steal a hearth-register. Either drift Maiethren further, or cut a new inventory with a recorded seed.
+- **Locked place-names are reserved.** No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. Clergy and house coinages (*Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd*) stay off the person-list too. The squares (*Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's*), the seats (*Eolvaeth, Orentel, Maiethlir*), and the hall *Ndenjoo* are reserved the same way.
+- **Median-hop test.** If the name is the first one that comes to mind for "fox / seal / crow," throw it back.
 
 ## Links
 - [[Naming in the Turning]] — institutions; "the name reveals the stance"
@@ -164,7 +149,7 @@ Before locking a new PC/NPC name, check:
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[The Reckoning of the Year]] — month-names from the same Maiethren roots
 - [[Naming Tools]] — reproducible generator, algorithm, and collision gate
-- [[Roadmap]] (Story 4.2) · [[03 - Cultures]]
+- [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export.)*
@@ -174,8 +159,17 @@ Before locking a new PC/NPC name, check:
 - **House-names (2026-09-28).** User amended the 2026-08-23 byname-only line. Witness-lands stay bynames. Threnmaieth, Trenledd, the Inner Close, and filing houses use an inherited name in the surname slot. Do not rename the cast in this note; Story L.4 does that. Do not give Maiethvael, the Waiting Lands, or Kumbaan a person-list. Dirrol's column on [[Trenledd]] is the historical seed; do not biograph it here. *Closed* on a Walled Book minute is rank, not a surname.
 - **Textbook names, not cast (2026-09-29).** `python3 "14 - Assets/Names/generate_names.py" --seed 20260929 --register conservative --count 12` — **Volir** position 9, **Vonsumur** position 5, paired as the Inner Close example. `python3 "14 - Assets/Names/generate_names.py" --seed 20260929 --register eroded --count 12` — **Vonti** position 6, paired with the existing sample given name **Tilim**. **Raki Maethaem**, **Foaro**, **Tora of Brenod**, **Thilim of the Held bed**, and **Njunda** were already in the notes. Do not seat Volir, Vonsumur, Vonti, or Tilim as people.
 - **L.4 cast, seated (2026-10-01).** `python3 "14 - Assets/Names/generate_names.py" --seed 20261001 --register conservative --count 40` — **Thalonve** position 27, house of [[Laevila]] and [[Senithi]]. **Rairtei** position 26, house of [[Baerith]]. **Nirsei** position 32, house of [[Rithim]]; [[Valein]] lives in it and is not written. **Brethlumal** position 15, the Inner Close line still on [[Hithaen]], unsaid in Eolvaeth. Thrown back from that field: Tervi (22, heard as English Terry), Mermil (16, heard as Merrill), Theolvo (24) and Leobrai (38) and the *-theo* draws (English Theo / Leo), Maithvoro (25) and Meirleth (7) (Maieth in the civic slot), Brathru (30), Runnaeth (33), Muleonmen (12), and Simulsai (28) (English or Latin stems), Natul (11, edit distance 2 of Narol), Lertae (14, too near Limrae). Witness-lands, Orentel, the Third Hearth, and Kumbaan took no new house-word. Thilim stays of the Held bed. Njunda stays the given name. Textbook rows stay textbook, including Valen of Hallowquay; the Orentel [[Valen]] is not that row. The White Note is a desk only while the paper is open. Do not redraw these four.
-- **L.2 mouths, seated (2026-09-29).** `python3 "14 - Assets/Names/generate_names.py" --seed 20260930 --register conservative --count 40` — **Monseoth** position 11, [[Monseoth]] of the Near Mile. `python3 "14 - Assets/Names/generate_names.py" --seed 20260930 --register eroded --count 40` — **Sedrad** position 22, [[Sedrad]] of the Salt Walk. Bynames only. The year-mouths Hildal, Limrae, Dirrol, Narol, Taerso, and the minute Rithnali already had names; they were not redrawn.
-- **S.1 mouths, seated (2026-10-03).** Witness-lands took given names only. Rothallo, still called the Inner Close, took a house and a given; a neighbour says the given name, and a clerk says the house first. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — **Vuthbraen** 31, **Breillai** 43, **Raermu** 56, at [[Seinbrun]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261015 --register conservative --count 80` — **Breolnir** 30, house **Tethnae** 63; **Brimaen** 39, house **Lanbru** 36; **Methei** 70, house **Sithlaen** 76, at [[Rothallo]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261016 --register conservative --count 80` — **Brormei** 69, at [[Larbril]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261017 --register conservative --count 80` — **Tumair** 33, **Lertho** 50, at [[Votaer]]. [[Tasain]] took no new person. Thrown back: English stems and th-stacks, and names beside Rothallo, Seinbrun, Maieth, Nelath, Nirsei, Natai, Raitin, Maethaem, Volnae. Full lists on the seat notes. Do not redraw these nine. Do not give Maiethvael, Saelthael, the Hinge Shore, or Lirorn a person-list from this pass.
-- **S.2 mouths, seated (2026-10-03).** Strandoren docks took the eroded register. Brenledd, Leddvael, and the Night Shore took given names only. Trenledd took a house and a given; a neighbour says the given name, and a clerk says the house first. `python3 "14 - Assets/Names/generate_names.py" --seed 20261018 --register eroded --count 80` — **Nubo** 27, **Turvo** 42, **Sulnu** 60, at [[Raitin]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261019 --register eroded --count 80` — **Derdil** 60, at [[Naenor]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261020 --register eroded --count 80` — **Vamar** 33, house **Melro** 76, at [[Lunbra]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261021 --register eroded --count 80` — **Mursur** 35, at [[Braetu]]. [[Orentel]] took no new person. Thrown back: English stems (son, sun, run, sir, nun, mul, mol, sin, mort, roman, valid, norse, night), and names beside Volnae, Nidtol, Vonti, Talnin, Naenor, Lunbra, Votaer, Tasain, Valen, Natai, Sedrad, Lanbru, Larbril. Full lists on the seat notes. Do not redraw these six. Do not give Brenledd, Leddvael, or the Night Shore a person-list. Do not make Vamar the governing throat.
-- **S.3 mouth, seated (2026-10-03).** Heskoren is witnessed speech. The worn register. A neighbour gets the given name. [[Sanbreo]] and [[Vaelhesk]] took no new person. `python3 "14 - Assets/Names/generate_names.py" --seed 20261022 --register worn --count 80` — **Dumu** 46, at [[Natai]]. Thrown back: English stems and th-stacks, and names beside Volnae, Haelin, Brudu, Delvor, Vathne, Sorel, Meirim, Derdil, Nelath. Full list on [[Natai]]. Do not redraw this one. Do not give Ornled, Vaelhesk, or Saelvaeth a person-list. Do not make Dumu a warden of Harrow's Green.
+- **L.2 people, seated (2026-09-29).** `python3 "14 - Assets/Names/generate_names.py" --seed 20260930 --register conservative --count 40` — **Monseoth** position 11, [[Monseoth]] of the Near Mile. `python3 "14 - Assets/Names/generate_names.py" --seed 20260930 --register eroded --count 40` — **Sedrad** position 22, [[Sedrad]] of the Salt Walk. Bynames only. The people who speak for the years (Hildal, Limrae, Dirrol, Narol, Taerso) and the minute-writer Rithnali already had names; they were not redrawn.
+- **S.1 people, seated (2026-10-03).** Witness-lands took given names only. Rothallo, still called the Inner Close, took a house and a given; a neighbour says the given name, and a clerk says the house first. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — **Vuthbraen** 31, **Breillai** 43, **Raermu** 56, at [[Seinbrun]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261015 --register conservative --count 80` — **Breolnir** 30, house **Tethnae** 63; **Brimaen** 39, house **Lanbru** 36; **Methei** 70, house **Sithlaen** 76, at [[Rothallo]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261016 --register conservative --count 80` — **Brormei** 69, at [[Larbril]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261017 --register conservative --count 80` — **Tumair** 33, **Lertho** 50, at [[Votaer]]. [[Tasain]] took no new person. Thrown back: English stems and th-stacks, and names beside Rothallo, Seinbrun, Maieth, Nelath, Nirsei, Natai, Raitin, Maethaem, Volnae. Full lists on the seat notes. Do not redraw these nine. Do not give Maiethvael, Saelthael, the Hinge Shore, or Lirorn a person-list from this pass.
+- **S.2 people, seated (2026-10-03).** Strandoren docks took the eroded register. Brenledd, Leddvael, and the Night Shore took given names only. Trenledd took a house and a given; a neighbour says the given name, and a clerk says the house first. `python3 "14 - Assets/Names/generate_names.py" --seed 20261018 --register eroded --count 80` — **Nubo** 27, **Turvo** 42, **Sulnu** 60, at [[Raitin]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261019 --register eroded --count 80` — **Derdil** 60, at [[Naenor]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261020 --register eroded --count 80` — **Vamar** 33, house **Melro** 76, at [[Lunbra]]. `python3 "14 - Assets/Names/generate_names.py" --seed 20261021 --register eroded --count 80` — **Mursur** 35, at [[Braetu]]. [[Orentel]] took no new person. Thrown back: English stems (son, sun, run, sir, nun, mul, mol, sin, mort, roman, valid, norse, night), and names beside Volnae, Nidtol, Vonti, Talnin, Naenor, Lunbra, Votaer, Tasain, Valen, Natai, Sedrad, Lanbru, Larbril. Full lists on the seat notes. Do not redraw these six. Do not give Brenledd, Leddvael, or the Night Shore a person-list. Do not make Vamar the head of Trenledd.
+- **S.3 person, seated (2026-10-03).** Heskoren is witnessed speech. The worn register. A neighbour gets the given name. [[Sanbreo]] and [[Vaelhesk]] took no new person. `python3 "14 - Assets/Names/generate_names.py" --seed 20261022 --register worn --count 80` — **Dumu** 46, at [[Natai]]. Thrown back: English stems and th-stacks, and names beside Volnae, Haelin, Brudu, Delvor, Vathne, Sorel, Meirim, Derdil, Nelath. Full list on [[Natai]]. Do not redraw this one. Do not give Ornled, Vaelhesk, or Saelvaeth a person-list. Do not make Dumu a warden of Harrow's Green.
 - **No deep grammar.** Do not write "sentences" in Kusawe or Gonan. If a scene needs an in-group word, coin *one word* from the inventory and gloss it.
+- **Canon status (kept from the player body).** 🔒 **Locked 2026-08-23** (user-approved): named-by-place; hearth-registers *Kusawe / Sakoa / Gonan*; two-name pattern. **Amended 2026-09-28** (user): the second name is a byname where people are witnessed, and a house-name — said the way our surnames are said — where a list has to find them again. Individual sample names stay a working list (draw from the seeds). Deep grammar is still deferred (only if spoken dialogue is ever needed). The other great powers use the same roots and the right drift ([[Powers of the Turning]]); no new grammars.
+- **Generator and seeds.** The listed names are the surviving working sets from the original seeded pass. The original generator was not stored, so a seed by itself cannot reconstruct them. Future draws use the versioned LCG in `14 - Assets/Names/generate_names.py`; record the full command and candidate position, not only a seed. Do not "think of" a fox-name; that is how every Kitsune becomes *Yuki*. Seeds for the registers: Maiethren drift list 20260821, Kusawe 20260823, Sakoa 20260824, Gonan 20260825, Yumboe 20260826 (new draws).
+- **Map tooling.** The isle's Azgaar name base (places, not people) is in `14 - Assets/Maps/Map Generation Tooling.md` §③b.
+- **How to coin more.**
+    1. Pick the **register** (Maiethren drift, or one of the four hearths).
+    2. Run `14 - Assets/Names/generate_names.py` with the register, seed, and count; record the full command and chosen position. Pick for fit from the field, not automatically from the top.
+    3. Give **pronunciation** (CAPS = stress) on first use.
+    4. Add the **second name the raising-place uses**: a byname, or a house-name from that drift if the place writes people down. Not from the Kind. Do not coin an English surname.
+    5. If you need a name for something that has no register of its own, do not steal a hearth-register. Either drift Maiethren further, or cut a new inventory with a recorded seed.

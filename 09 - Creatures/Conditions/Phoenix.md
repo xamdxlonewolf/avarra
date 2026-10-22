@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, given, phoenix, legendary]
 aliases: [The Phoenix, Ash-Born, The Cyclical, Ember-Souled]
-world:
+world: The Turning
 category: Condition
 monster: phoenix
 standing: legendary
@@ -14,7 +14,7 @@ path: Given only
 population: <0.1% (trace)
 reveals: []
 created: 2026-08-15
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Phoenix
@@ -39,7 +39,7 @@ They cannot hide in a crowd — a Phoenix is *the* Phoenix, and everyone has hea
 
 **What the other four get.** A living legend in the party. Towns that already have an opinion. A Hope-slot countdown everyone can see. Factions that come to *them*, not only to the Phoenix.
 
-**What they give up.** Stealth as a party default. Ordinary-job openings. A share of spotlight the Phoenix player must *pass* — they are the weather, not the only weather. If the Phoenix player will not pass the scene, do not take the card.
+**What they give up.** Stealth as a party default. Ordinary-job openings. A share of spotlight the Phoenix player must *pass* — they must share the spotlight. If the Phoenix player will not pass the scene, do not take the card.
 
 **What the fire package is.** Full fire immunity, flaming flight, a Hope-cost attack, and a fourth death move. It is strong on purpose. The tax is social and finite. If the table wants the myth without that tax, they do not want this card.
 
@@ -48,8 +48,8 @@ A hidden or captive Phoenix is a different seat. Player-agency rules: [[A Hidden
 ## At the Tree
 
 **Colour.** White-fire / opal — clergy-known from texts. Almost no living town has seen it fall. A warden who names it at a ceremony has just made history, and a problem. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Given only. No threshold can Strike one into being. The engine lives on [[The Premise]].
-**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a living miracle — proof, heresy, hunt, or hate, depending on the mouth. [[The Watching]] will describe the same fall as a seeing, not a mother's pick, and still send the runner. The square cannot confirm a cosmology; it can only watch.
+**Path.** Given only. No threshold can Strike one into being. The engine is on [[Turning Tree]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a living miracle — proof, heresy, hunt, or hate, depending on who is talking. [[The Watching]] will describe the same fall as a seeing, not a mother's pick, and still send the runner. The square cannot confirm a cosmology; it can only watch.
 **Where next.** A town-warden does not guess. They send to the First Seat by runner ([[The Tree-Wardens]]). The child, if the Seat agrees, cannot hide.
 
 ## Daggerheart — Transformation card
@@ -73,6 +73,12 @@ A hidden or captive Phoenix is a different seat. Player-agency rules: [[A Hidden
 
 The mechanical Tithe is light — a Phoenix pays **nothing day to day** (no hunger, no rooting, no venting), and spends its whole cost at death, in *self*: a little less memory, one fewer life. The **real** upkeep is social and unrelenting: being the only one. A Phoenix cannot walk a market unrecognized, cannot refuse the meaning others pour into them, cannot stop the worshippers or the hunters from finding them, and cannot grieve a rebirth in private. The stories are heavy with loss for a reason — Phoenixes who rose so many times they forgot their own children, who ended not by a hunter's hand but by simply *choosing* to stay dead rather than come back as still less of themselves. A Phoenix late in their cycle is a person made mostly of legend, with almost none of their first life left inside.
 
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Long-Lived]] (deathless and ageless vs. dies-and-returns-finitely) · [[Returned]] (refuses to stay down, one Purpose, no memory cost vs. true death + rebirth + memory cost) · both are the setting's other answers to "cheating death" — the Phoenix is the one that still, eventually, loses.
+- [[A Hidden Phoenix]] — the other seat · [[The Tree-Wardens]] — First Seat, the runner
+- [[The Watching]] — witness, not Mother
+
 ## GM Notes
 
 Two engines, run them together: (1) the **count** — let everyone watch the Hope slots go, and make each rising cost something the *player* feels (the face of someone they loved, the reason they started adventuring), not just a mechanical slot; (2) the **fishbowl** — the Phoenix is never anonymous, so seed every town with those who revere, worship, hunt, and hate them, often the same crowd. **Never force a Rise** on a PC — it's always the player's death-move choice alongside the standard three; a Phoenix may choose Blaze of Glory and end if the story earns it. Fire immunity stays full (a Phoenix *is* fire; that call is closed). The rest of the package pays: Evasion is once per rest, and Rise is a new body, not a full reset. As a legendary NPC, a Phoenix's rebirths make superb era-markers and long-campaign mysteries (the same soul, met three times, remembering the party less each time).
@@ -80,9 +86,3 @@ Two engines, run them together: (1) the **count** — let everyone watch the Hop
 **One Gift.** There is never a second living Phoenix Condition while this one can still Rise. If play needs an apparent two, the leftover is not a Phoenix. See [[When the Fire Is Caught]]. The house that catches the fire is [[The Protectors]].
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Long-Lived]] (deathless and ageless vs. dies-and-returns-finitely) · [[Returned]] (refuses to stay down, one Purpose, no memory cost vs. true death + rebirth + memory cost) · both are the setting's other answers to "cheating death" — the Phoenix is the one that still, eventually, loses.
-- [[A Hidden Phoenix]] — the other seat · [[The Tree-Wardens]] — First Seat, the runner
-- [[The Watching]] — witness, not Mother

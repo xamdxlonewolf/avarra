@@ -19,15 +19,15 @@ foreshadowed_by:
   - "[[The Spent Leaf]] — firing pin"
   - "[[The Remainder]] — the desk that has the box"
   - "[[The Wrong Green]] — the rite does not take instruction from a want"
-  - "[[The Uncoloured Intake]] — Struck mouths filed as one catch (deniable; household stays behind)"
+  - "[[The Uncoloured Intake]] — Struck people filed as one catch (deniable; household stays behind)"
 revealed_in:
 created: 2026-08-19
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Is the Leaf-Mother Real
 
-> **The keystone GM secret (LOCKED 2026-08-19; edge added 2026-08-20).** This is the canon-layer answer — *what is actually true*, regardless of what anyone in the world believes. Epic 1 (the Turning Tree & the Leaf-Mother religion) and the setting's theme all aim at this. It is decided, not fleshed: the one-line truth below is load-bearing; the texture grows around it. **Do not re-litigate.**
+> **The keystone GM secret (LOCKED 2026-08-19; edge added 2026-08-20).** This is the canon-layer answer — *what is actually true*, regardless of what anyone in the world believes. Epic 1 (the Turning Tree & the Leaf-Mother religion) and the setting's theme all aim at this. It is decided: the one-line truth below is load-bearing; the texture grows around it. **Do not re-litigate.**
 
 ## The Secret (GM truth)
 
@@ -51,8 +51,8 @@ Locking "she is real and kind" does **not** flatten the mystery. The world keeps
 - **What she is** (a goddess? the Trees' shared soul? something older wearing a mother's face for our comfort?) — undecided; the *maternal, benevolent intent* is what's locked, not her metaphysical species.
 - **What she wants**, beyond giving good gifts — undecided. She is kind; her larger purpose (if any) is unwritten.
 - **Where she is / whether she can be reached** — undecided. Revelation is deliberately quiet; there is no throne to visit.
-- **The *nature* of her limit** — **locked that it exists, open on what it is.** *That* her reach has an edge and giving costs her is now canon (see the constraint above); *why* — is she finite by nature, spent from some old wound, rationing a power that could run out, holding something back to hold something else up? — is deliberately unwritten, live design space for later History stories (6.3 showed the edge *moving with wood* and did not pick a cause; 6.4 may not either) and any leftover pantheon texture. Lock the ache, not its cause.
-- **Whether she is the only such power** — **closed 2026-08-23 (structure 🔒; names 🟡).** She is **not** exclusive. She is the first and greatest of a household. She Gives; the Other Hands Strike, by her allowance, each at one door. Full roster and the Kumbaan lock: [[The Other Hands]] (`reveal_tag: the-other-hands`). Player-facing notes still do not confirm this. The *nature* of her limit (why she is bounded; why Giving costs) remains open — Stories 6.1–6.3 showed the edge *moving with wood* and did not pick a cause.
+- **The *nature* of her limit** — **locked that it exists, open on what it is.** *That* her reach has an edge and giving costs her is now canon (see the constraint above); *why* — is she finite by nature, spent from some old wound, rationing a power that could run out, holding something back to hold something else up? — is deliberately unwritten, live design space. The history notes show the edge *moving with wood* and do not pick a cause. Lock the ache, not its cause.
+- **Whether she is the only such power** — **closed 2026-08-23 (structure 🔒; names 🟡).** She is **not** exclusive. She is the first and greatest of a household. She Gives; the Other Hands Strike, by her allowance, each at one door. Full roster and the Kumbaan lock: [[The Other Hands]] (`reveal_tag: the-other-hands`). Player-facing notes still do not confirm this. The *nature* of her limit (why she is bounded; why Giving costs) remains open — The history notes show the edge *moving with wood* and do not pick a cause.
 
 ## How It Surfaces (clues, in order)
 
@@ -95,10 +95,10 @@ If the Seat **buries** the leaf instead: business as usual; rungs 1–5 still wo
 
 ## Consequences for build (what this constrains downstream)
 
-- **Epic 1 notes** ([[Turning Tree]], the Leaf-Mother faith note) are player-facing and must **stay reverent-but-unproven**: present doctrine and skepticism even-handedly, never wink that she's confirmed. Player bodies that only *clue* carry `reveals: [keystone-adjacent]`. The tag `leaf-mother-is-real` is this note's `reveal_tag` — use it on a public note only if the *body* (not `## GM Notes`) would confirm her. Household exposure is a separate tag: `the-other-hands`.
+- **The Turning Tree and Leaf-Mother faith notes** ([[Turning Tree]], [[The Leaf-Mother]]) are player-facing and must **stay reverent-but-unproven**: present doctrine and skepticism even-handedly, never wink that she's confirmed. Player bodies that only *clue* carry `reveals: [keystone-adjacent]`. The tag `leaf-mother-is-real` is this note's `reveal_tag` — use it on a public note only if the *body* (not `## GM Notes`) would confirm her. Household exposure is a separate tag: `the-other-hands`.
 - **The Tithes** are honest costs, not divine leverage — this reinforces the existing per-Condition rule that a Tithe never seizes the PC (see [[The Premise]]).
 - **The schism** stays a *good-faith* disagreement, and the constraint makes it *two-sided*: believers hold the hand, skeptics hold the edge, neither holds the whole. Better long-term fuel — no faction is secretly correct-and-evil, and no faction is simply wrong.
-- **The reach-edge feeds geography & the frontier.** The constraint predicts a real pattern for [[Roadmap|Epic 3]] (World Frame) and Epic 7 (Settlements): the giving *thins at the margins* — remote and Tree-poor places run higher on the Kept and the Struck. This is a gift to build with, not a retcon risk. Keep it consistent when placing the Awakening Tree and the frontier.
+- **The reach-edge feeds geography & the frontier.** The constraint predicts a real pattern for [[The World Frame]] and the settlement notes: the giving *thins at the margins* — remote and Tree-poor places run higher on the Kept and the Struck. This is a gift to build with, not a retcon risk. Keep it consistent when placing the frontier.
 ### Social guard: kindness does not launder injustice
 
 **Her benevolence is cosmological, not social.** The floor being sound at the *divine* layer does **not** make the *social* layer kind. People build genuinely unjust things *on top of* true gifts that she never authored and her kindness does not excuse: Struck stigma and legal suspicion, Tithe-infrastructure that becomes economic leverage over the Conditioned, guild conscription of the Given, communities that treat their Kept as spare labour or their feared Conditions as things to be managed. These are not misreadings that confirmation dissolves. The keystone answers *is anyone there and do they mean well* (yes); it does not answer *is the society people built around her just* (often no). This is the one authoritative statement of the social guard; other notes should show their particular injustice rather than repeat the formula.

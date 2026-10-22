@@ -13,7 +13,7 @@ location: "[[Seinbrun]]"
 role: keeper of the furnished hall
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Vuthbraen
@@ -44,18 +44,18 @@ Flour on a cuff. A key to the hall's side door, worn on a cord, not as a rank. T
 
 ## Role & Relationships
 
-- **[[Seinbrun]]** — the hall is the work. The city is the capital. Vuthbraen is one mouth in it.
+- **[[Seinbrun]]** — the hall is the work. The city is the capital. Vuthbraen is one person in it.
 - **[[Breillai]]** — left the hymn. Vuthbraen still knows the bowl. The net did not stay for them.
 - **[[Raermu]]** — the medicine basket. Same morning, some days. They do not share a key.
 - **[[Maiethlir]]** — a day's argument off, on the river. A clerk from that hall is a guest Vuthbraen will feed and will not write down.
 
-## GM Notes
-
-- **Not a court.** One of three mouths at Seinbrun. No person-list. Do not invent a house.
-- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — position 31. Full throwback list on [[Seinbrun]].
-- **The threshold bread is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
-- **Do not** make them a Speaker, a crown, or the First Seat's messenger.
-
 ## Links
 - [[Seinbrun]] · [[Maiethvael]] · [[Breillai]] · [[Raermu]]
 - [[People of the Turning]] · [[08 - People]]
+
+## GM Notes
+
+- **Not a court.** One of three people at Seinbrun. No person-list. Do not invent a house.
+- **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — position 31. Full throwback list on [[Seinbrun]].
+- **The threshold bread is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
+- **Do not** make them a Speaker, a crown, or the First Seat's messenger.

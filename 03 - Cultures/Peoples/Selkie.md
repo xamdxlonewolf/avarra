@@ -11,7 +11,7 @@ language: Sakoa (hearth-register); daily speech is the local Maiethren drift
 homeland: the coasts — densest on [[Strandoren]] (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Selkie
@@ -24,7 +24,7 @@ Selkies are the sea-born, the skin-kin: sleek, cool-skinned people who carry a *
 
 Out of the skin, a Selkie reads as an ordinary person with a few quiet tells — **cool, faintly sleek skin, large dark eyes, and sometimes a little webbing at the fingers.** Nobody stares; the seal-blood shows the way any other Kind's does. The real transformation lives in the skin, not the face.
 
-**The fresh angle:** the old story is theft and grief — steal a selkie's skin and you own her; she pines for a sea she can't return to. Here the melancholy is reframed as the defining *strength*: a Selkie belongs fully to **two homes at once**, shore and sea, and so they are the people who move easily between worlds that don't understand each other. The removable skin is a private, tender thing (loaning it, or having it taken, is a real intimacy and a real violation — handled in story, never as a mechanical gotcha), not a leash.
+A Selkie belongs fully to **two homes at once**, shore and sea, and so Selkies move easily between worlds that don't understand each other. The removable skin is a private, tender thing, not a leash. Loaning it is a real intimacy, and having it taken is a real violation. Both are matters of story and trust, never a mechanical penalty.
 
 ## Values & Worldview
 
@@ -32,7 +32,7 @@ Selkies value **belonging without being bound** — deep loyalty freely given, r
 
 ## Customs & Daily Life
 
-Because they can't be kept down and can't be kept out, Selkies are the world's **rescue swimmers, cold-water divers and salvors, and go-betweens** — the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony: where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters. Kin from **another strand** often come for those skin-days, or the child spends a summer on a second coast — how a quay-born Selkie still sounds like the sea ([[Kinds of the Turning]]). (Note: **death by drowning is the threshold that Strikes the [[Far-Voiced]]** — Selkies, being so at home in the water, have a complicated, storied relationship with that door.)
+Because they can't be kept down and can't be kept out, Selkies are the world's **rescue swimmers, cold-water divers and salvors, and go-betweens** — the ones sent into the surf after the drowning, down to the wreck, or across the water to a community the shore-folk can't talk to. Escape-artistry makes them trusted couriers for anything that mustn't be seized in transit. The sealskin is treated with real ceremony: where a Selkie keeps their skin, who they'd ever let hold it, and the day a child is first given the run of their own skin are all significant, private matters. Kin from **another strand** often come for those skin-days, or the child spends a summer on a second coast — how a quay-born Selkie still sounds like the sea ([[Kinds of the Turning]]). (Note: **surviving a drowning is the threshold that Strikes the [[Far-Voiced]]** — Selkies, being so at home in the water, have a complicated, storied relationship with that door.)
 
 ## Daggerheart (ancestry features)
 
@@ -45,7 +45,7 @@ Every Selkie has all three. **SRD mix:** Top = Second Skin · Bottom = Slip the 
 
 ## Naming & tongue
 
-Hearth-register **Sakoa** (sah-KOH-ah) 🔒 — liquid, rounded, coastal; seed `20260824`. Full inventory and the two-name pattern live in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the civic byname comes from the town that watched them Turn.
+Hearth-register **Sakoa** (sah-KOH-ah) — liquid, rounded, coastal. The full inventory and the two-name pattern are in [[Naming People in the Turning]]. Working given names: Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea. The hearth-name is spoken *to the water* the day a child is first given the run of their skin; the second name, a byname or a house-name, comes from the town that watched them Turn.
 
 Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 
@@ -57,6 +57,7 @@ Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 
 ## GM Notes
 
+- **Seed.** The Sakoa list was drawn at seed `20260824`.
 - **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
 - **Skin.** *Anchored* is an upside (find the stashed skin). No "skin stolen" penalty. Loaning/losing it is a story beat, not a Tithe.
 - **Not Ribbet.** At home in water, not a true underwater breather.

@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: fleshed
 status: active
-tags: [faction, guild, stillers, licence, the-stilled, epic-5]
+tags: [faction, guild, stillers, licence, the-stilled]
 aliases: [The Stillers, Stillers' Guild, The Stelhael, Stelhael, Ticket-Surgeons]
 world: The Turning
 category: guild
@@ -12,13 +12,12 @@ seat: the guild-yard beside the infirmary — a town has one if it has stillers;
 public_face: the surgeon's college that also stands a riot-line — they stamp the strictest ticket in the world because the same gaze that stops a wound can hold a person forever
 reveals: [keystone-adjacent]
 created: 2026-08-23
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # The Stillers
 
-> **What this is.** The model **safety-guild** from [[Law and Citizenship]] — guild-issued tickets, the state watching the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police.
-
+The Stillers are the model safety-guild from [[Law and Citizenship]]: the guild issues the tickets, and the state watches the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police.
 
 *(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
 
@@ -38,7 +37,7 @@ updated: 2026-08-30
 
 - **The model the others imitate.** If you understand this guild, you understand a Voice-ticket and an element-ticket. A roster of practitioners of a dangerous art. Not a list of a people. The ticketable pool is large; this roll is stillers who Gaze, not every pale-stone in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
 - **Two rooms, one clock.** The infirmary (wonder) and the yard (spar, patrol, the riot-line). Using the Gaze *fills* the Grey. The yard empties it. The guild's best work creates the guild's Tithe. That is not a paradox they have solved. It is the job.
-- **They think they are in a surgeon's-college story.** Apprentices, a code, a ticket like a master's papers. They do not call themselves keepers of monsters. The ~5% dial stays at the gaze that saves you — and at the unlicensed Struck the town will meet with a rope.
+- **A surgeon's college.** They see themselves as apprentices, a code, and a ticket like a master's papers. They do not call themselves keepers of monsters. The frightening part is the Gaze that saves you, and the unlicensed Struck the town will meet with a rope.
 - **No Stillers' pope.** A rich core infirmary is rich. A frontier stiller is one tired person. The charter is local. The state watches the charter.
 
 ## What they actually do
@@ -105,9 +104,9 @@ Skeptics are welcome. The Gaze does not require a Mother. Believers in Vaethorn 
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
-| [[The Hall-Keepers]] · [[The Element-Guilds]] | Sister tickets. Shared Intake. | A Cry is not a Gaze. Do not send a throat to the yard to be stilled quiet. |
+| [[The Hall-Keepers]] · [[The Element-Guilds]] | Sister tickets. Shared Intake. | A Cry is not a Gaze. A Far-Voiced person is not sent to the yard to be stilled quiet. |
 | [[The Greens-Keepers]] | A Taken-In stiller still needs dirt. | The infirmary is not a lot. |
-| [[The Slide]] | A stiller who needs green or novelty is a person, not a week. Contact happens when the infirmary closes a bed. | A ticket that becomes a week-rent has left the yard. Let the doors meet; do not merge them. |
+| [[The Slide]] | A stiller who needs green or novelty is a person, not a week. Contact happens when the infirmary closes a bed. | A ticket that becomes a week-rent has left the yard. The two houses meet, but they do not merge. |
 | [[The Tree-Wardens]] | Pale stone is pointed here. | The warden Speaks. The guild trains. |
 | [[The Book-Hands]] | A settling may assume an infirmary. | A frontier with no stiller is an *owing*, not a miracle. |
 | [[The Watchers]] | A second reading may say *pale stone, not storm-grey.* | Description is not a stamp. |
@@ -127,9 +126,9 @@ That is not a scion-queue. That is not a week. That is a hospital that runs on i
 
 The ticket-as-property argument (Lestrand, leaking elsewhere) is the second face: competence lives in a person; the chair can start to live in the guild.
 
-The Motherfaith says she gave a gaze that costs. The roster is people's work. A kind Tree would not make the drill optional.
+The Motherfaith says she gave a gaze that costs. The roster is people's work, and nobody expects the Tree to make the drill optional.
 
-Do not convert the guild at the end of a story. A grudging extra drill-master is the most they will grant. The paying floor still comes first.
+A grudging extra drill-master is the most the guild will grant at the end of any story. The paying floor still comes first.
 
 ## Economy of the house
 
@@ -139,11 +138,11 @@ Do not convert the guild at the end of a story. A grudging extra drill-master is
 
 ## In-world text
 
-*A Grey-drill roster, core infirmary, chalked on the yard wall. The verso is yesterday's, washed badly. `oblique-worldbuilding`.*
+*A Grey-drill roster, core infirmary, chalked on the yard wall. The verso is yesterday's, washed badly.*
 
 > *After third theatre: spar, full glass. After the line: the long run, no Gaze. Apprentices: the knob first, always. A Grey that stays overnight is a Grey we file as lapse, not as rest. The shed is not on this wall. If you were stone last week, you are not on this wall. Come to the door that does not face the street. We do not write that door. We do not still a person to close a day. Touch the knob. Then look.*
 
-On its face: a college keeping its people hale, the code in a work-order. Underneath: the paying floor confessing that Intake is a door they will not write, and a blindness the master cannot afford — that "a Grey we file as lapse" is how a tired surgeon becomes a charter problem instead of a person who needs a longer run. The knob is not explained. It does not need to be.
+The roster is a college keeping its people hale, with the code written as a work-order. It also shows the paying floor refusing to write down the door to the Intake. "A Grey we file as lapse" is how a tired surgeon becomes a charter problem instead of a person who needs a longer run. The knob is not explained.
 
 ## Links
 - [[Tithe-Infrastructure]] · [[The Intake]] — the unwritten door
@@ -151,31 +150,19 @@ On its face: a college keeping its people hale, the code in a work-order. Undern
 - [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Greens-Keepers]]
 - [[The Tree-Wardens]] · [[The Book-Hands]] · [[The Watchers]] · [[The Slide]]
 - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*stel* · *Stelhael*)
-- [[Roadmap]] · [[05 - Factions]] · [[Build Plan]]
+- [[05 - Factions]]
 
 ## GM Notes
 
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- > **What this is.** The model **safety-guild** from [[Law and Citizenship]] — guild-issued tickets, the state watching the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police. Built with `governance-systems` and `moral-parallax` for [[Roadmap|Epic 5, Story 5.3]].
-- > **Canon status.** 🟡 **Proposed** (the liturgical name, whether a ticket can be held as guild-property). 🔒 **Locked upstream:** the Stilled are the strictest licence; Given train young; Struck arrive raw (survived stone); the Gaze never seizes a will; Grey is burned off by exertion. Recruits by practice / office / Condition-lean, **not Kind**.
-- - [[Roadmap]] (Epic 5, Story 5.3) · [[05 - Factions]] · [[Build Plan]]
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
-
-- **They do not know what story they are in.** Defaults: monster-police, medusa-cult, superhero registry. Rotate. Form stays surgeon's college (load-bearing). They want a street that does not seize and a patient who lives. They do not want a register of the feared.
+- **What this is.** The model safety-guild from [[Law and Citizenship]]. Do not turn it into a census or monster-police.
+- **Canon.** The Stilled are the strictest licence. Given Stilled train young; Struck Stilled arrive raw (they survived stone). The Gaze never seizes a will. Grey is burned off by exertion. Recruits by practice, office, and Condition-lean, **not Kind**. Whether a ticket can be held as guild-property, and the liturgical name, are not settled.
+- **They do not know what story they are in.** Avoid monster-police, a medusa-cult, and a superhero registry. Form stays surgeon's college. They want a street that does not seize and a patient who lives. They do not want a register of the feared.
 - **Moral parallax.** Distances: causal ("the yard is for their own good") and social (the raw Struck is not *our* apprentice). Engine: exchange — every theatre-hour is Grey someone must then burn — and inheritance — Given children inherit a drill the Struck never had. Comfort: the words *ticket* and *code*.
 - **A still doorknob is a practical tell.** Do not turn it into a relic.
-- **Ticket-as-property is taste-open.** Proposed as Lestrand's live argument, not world-law. Do not let it become a census by another name.
-- **Do not clone Intake as a travelling stiller-circuit.** The underdog sits in the shed. Road-hands already walk.
+- **Ticket-as-property is open.** It is Lestrand's live argument, not world-law. Do not let it become a census by another name.
+- **Do not clone Intake as a travelling stiller-circuit.** The underdog sits in the shed. Road-hands already walk. Do not convert the guild at the end of a story.
+- **The Slide.** A ticket that becomes a week-rent has left the yard. The doors can meet; do not merge them.
 - **Inviolate Will is load-bearing.** No mind-control charges. Forever-hold of a *person* is ordinary violent crime, the code's one named horror.
 - **No Kind-gate. No Kumbaan college. No Stillers' pope.**
+- **Names.** Liturgical: *the Stelhael* — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who keep you hale by holding you still. The Waiting Lands say *blessing-surgeons*; the Ledger Coast says *ticket-surgeons*; the Tallied Crown files them as *crown-stillers*. The liturgical name is not settled.
 - **Hooks.** A raw Struck in a frontier square and a rope already in the hand; a Grey-roster that filed a person as lapse; a crown-clerk who wants the guild-roll copied onto the Threnhael; a ticket-chair that outlived the stiller; a PC who forgets the knob; Intake week pulling the only master off a plague theatre.
-
-#### Taste-open markers (P2.1)
-
-The names and other taste calls remain open; only their editorial markers moved out of player text:
-
-- *(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical, 🟡: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
-- - [[Polity Archetypes]] · [[Naming in the Turning]] · [[The Old Tongue]] (*stel* · *Stelhael* 🟡)

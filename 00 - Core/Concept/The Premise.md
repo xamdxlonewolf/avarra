@@ -7,7 +7,7 @@ status: active
 tags: [core, premise, concept, design-hub]
 aliases: [The Concept, The Pitch, The Two-Layer World]
 created: 2026-08-14
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # The Premise
@@ -34,7 +34,7 @@ This fuses three ideas into one: Conditions-not-curses (they're managed states w
 There are **two paths** to a Condition, and the split is the central social fault line of the world:
 
 ### Given — at the Awakening (the Leaf-Fall)
-In their **10th year, on the solstice**, children gather with their families around a **Turning Tree** (a scion stands in every town). Leaves fall and wrap around each 10-year-old:
+In their **10th year, on the solstice**, children gather with their families around a **Turning Tree** (most towns have a scion; a town that is too new, too remote, or Tree-bereaved sends its children to a neighbour's Tree). Leaves fall and wrap around each 10-year-old:
 - **A colour falls → a Condition is *Given*.** The leaf-colour names which one. Ceremonial, expected, "proper" — you grow up already knowing what you'll become and are trained/guilded for it.
 - **No colour, but the leaves *hug* the child → they are one of the Kept.** The Tree keeps them as they are: a blessing in its own right, explicitly *wanted and special*, not a failure or a lack.
 
@@ -84,11 +84,11 @@ Given column ~2.5 + 18 + 10 + 11 + 6 + 12 = 59.5, plus Phoenix trace. Struck col
 
 ## The Leaf-Mother (a religion — belief, not confirmed cosmology)
 
-Some hold that the **Leaf-Mother** blessed the world with the Conditions, and the **Turning Tree** is how she reaches down — the town scions are her hands, the Leaf-Fall is her *choosing*. This is **a belief held by some**, not locked cosmology. It hands us built-in friction: **believers** (the Conditioned are *chosen*), **skeptics** (it's just what the Trees do — biology, not benediction), and a live theological schism — *if she blesses everyone, why are 25% Given nothing? Are the Kept unblessed, or spared? And what does it mean that the Struck receive a Condition she never handed out?*
+Some hold that the **Leaf-Mother** blessed the world with the Conditions, and the **Turning Tree** is how she reaches down — the town scions are her hands, the Leaf-Fall is her *choosing*. This is **a belief held by some**, not locked cosmology. It hands us built-in friction: **believers** (the Conditioned are *chosen*), **skeptics** (it's just what the Trees do — biology, not benediction), and a live theological schism — *if she blesses everyone, why does the Tree hug about two children in five instead of giving them a colour, and why do about a quarter of people stay Kept for life? Are the Kept unblessed, or spared? And what does it mean that the Struck receive a Condition she never handed out?*
 
 > **Built out (Epic 1, 2026-08-19; Story 1.4, 2026-08-23; clergy Story 5.1, 2026-08-23):** the faith is now concrete — [[The Leaf-Mother]] (doctrine, practice, the three-branch schism, in-world texts), [[Turning Tree]] (the object & the Leaf-Fall rite; **one Awakening Tree**, town Trees are **living grafts** of it — a Tree nearby *and* a pilgrimage), and [[The Tree-Wardens]] (working clergy; names 🟡). The Motherfaith is *one faith among several*; the others are mapped in [[Faiths of the Turning]] ([[The Watching]] · [[The Fair Hand]] · [[The Old Ways]] · [[The Open Table]]). **GM household (2026-08-23):** she is first of a real pantheon — she **Gives**, she does not Strike; the Struck are the Other Hands under her allowance. See [[The Other Hands]]. Player-facing notes do not confirm this.
 >
-> **Keystone locked (GM):** underneath the belief, [[Is the Leaf-Mother Real|she is real and benevolent]] — the gifts are real gifts, the skeptics sincere and wrong. Player-facing notes keep her unproven; the confirmation is the GM's to place, and lands as *warmth*, not horror.
+> **Keystone locked (GM):** underneath the belief, [[Is the Leaf-Mother Real|she is real and benevolent, limited, and giving costs her]] — the gifts are real gifts, the skeptics sincere and wrong. Player-facing notes keep her unproven; the confirmation is the GM's to place, and lands as *warmth*, not horror.
 
 ## Tone
 
@@ -138,7 +138,7 @@ Each is a recognizable monster given a fresh, integrated take. Standing spans re
 
 **The downstream 10th — [[The Unbound]]** *(colloq. the Hollow).* The price of a contract. Struck, chains off Bound only. Counted *inside* Bound's contract-lane, not added to it. Pitied / uneasy: released, missing the Pledge they paid. Not selectable at creation.
 
-**The Kept** are the quarter the Tree hugged and left as they are. Wanted and special in their own right, not an unconditioned lack.
+**The Kept** are the children the Tree hugged and left as they are. The Tree hugs about two children in five; about a quarter of people stay Kept for life, because some hugged children are Struck later. Wanted and special in their own right, not an unconditioned lack.
 
 **Design notes carried forward:** the vampire **sink** is emotional + demographic — Long-Lived *can* have children but **none are guaranteed** to inherit it; they outlive spouses/children and either stop or begin a new family and outlive that one too (this is their deepest Tithe, under the vitality one). They die by violence/accident/failed-Tithe — deathless, not unkillable. Phoenix's distinct hook (vs. Returned/Long-Lived) is **cyclical rebirth**, not one-time return or agelessness.
 

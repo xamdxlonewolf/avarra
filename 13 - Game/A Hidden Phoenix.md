@@ -9,12 +9,14 @@ aliases: [Hidden Phoenix, Captive Phoenix, Phoenix PC Agency]
 world: The Turning
 reveals: [when-the-fire-is-caught]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # A Hidden Phoenix
 
-> **What this is.** Player-agency rules for a Phoenix who is **not** the public legend. The open-card Phoenix is a fishbowl: everyone knows, towns already have an opinion. This page is the other seat — scars you cannot name, a world that thinks the one is in care, a fire that answers more than one mouth. The Transformation card is still [[Phoenix]]. This page does not change the card.
+> **What this is.** Player-agency rules for a Phoenix who is **not** the public legend. The open-card Phoenix is a fishbowl: everyone knows, towns already have an opinion. This page is the other seat — scars you cannot name, a world that thinks the one is in care, a fire that still answers to an older name. The Transformation card is still [[Phoenix]]. This page does not change the card.
+
+> **Who reads this.** This page is a handout for the hidden-Phoenix player and the GM. It describes prepared deaths and stored fire, so other players read it only if the table agrees.
 
 > **Whole table.** Same consent rule as the public card. If anyone does not want a campaign that will keep arriving at fire, pick another Condition or run the Phoenix as an NPC.
 
@@ -29,7 +31,7 @@ There is still **one Gift**. These are two ways to sit in that slot. They are no
 
 Session zero picks the shape. Do not pair this sheet to a named NPC as if the road were already walked.
 
-If you cannot Rise (last Hope slot already gone), you are not a Phoenix PC. That leftover is not this card.
+If your next Rise would cross out your last Hope slot, you cannot Rise, and you are not a Phoenix PC on this card.
 
 ## Starting Hope scars
 
@@ -105,7 +107,7 @@ The other players committed to a campaign that will arrive at fire. They did not
 ## What this page is not
 
 - A second Transformation card. Use [[Phoenix]].
-- Permission for two living Gifts. Apparent two is leftover fire next to a Gift. The leftover is not a PC on this card.
+- Permission for two living Gifts. There is one Gift.
 - The campaign opening. This page still does not staple you to a named NPC.
 - A licence to confirm the Leaf-Mother in play to explain a scar.
 
@@ -117,6 +119,7 @@ The other players committed to a campaign that will arrive at fire. They did not
 
 ## GM Notes
 
+- **Apparent two.** An apparent second Gift is leftover fire next to a Gift. The leftover is not a PC on this card.
 - **Engine is [[When the Fire Is Caught]].** One Gift. Original self ends at the death they cannot Rise from. Harvested fire can force a Rise on a *captive* and take that death's memory; it can keep a remnant walking after the Gift ends. **A PC is never forced to Rise.** If this PC can still Rise, they *are* the one Gift. A remnant in the same campaign is leftover fire, not a second card. Two Gifts at once is not legal.
 - **Stored fire = facts, not meaning.** Use the list in the body. Do not let banked fire lecture. Do not let it confirm her. Do not let it name [[The Protectors]]' harvest in player-facing narration until the table is ready for that fight; the public sentence is still "the one is in care."
 - **Walker vs unseen leaf.** Both legal. **This opening uses unseen leaf + remnant walker.** Kit: [[The Opening]], at [[Harrow's Green]]. [[Taeren]] holds the new-Gift seat *or* a PC does, not both. The walker on-screen is leftover fire, not a PC on this card. Do not staple the PC to Taeren's name. Do not run a walker-PC who can still Rise on top of Taeren as a second Gift. That shape remains a different opening.

@@ -10,22 +10,22 @@ aliases: [The Shore-lands, The Trade Continent, The Crossroads, Strandor]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-22
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Strandoren
 
-> **What this is.** The **Shore-lands** — the great trade continent of [[The World Frame|the world]], lying west of [[Maiethorn]] across **[[Named Ground|the Old Crossing]]**. Long indented coasts, mature and abundant [[Turning Tree|Trees]] (**high reach**), and faith worn thin by commerce. The crossroads where the [[Economy and the Tithe|Condition-economy]] runs at full commercial flower. Home of **[[Polity Archetypes|Lestrand]]** (the Ledger Coast). Built with `systemic-worldbuilding` for [[Roadmap|Epic 3]].
+> **What this is.** The **Shore-lands** — the great trade continent of [[The World Frame|the world]], lying west of [[Maiethorn]] across **[[Named Ground|the Old Crossing]]**. Long indented coasts, mature and abundant [[Turning Tree|Trees]] (**high reach**), and faith worn thin by commerce. The crossroads where the [[Economy and the Tithe|Condition-economy]] runs at full commercial flower. Home of **[[Polity Archetypes|Lestrand]]** (the Ledger Coast).
 
-> **Canon status.** 🟡 Proposed. 🔒 bones: high reach; Lestrand sits here ([[Polity Archetypes]]); the *eroded* [[The Old Tongue|Old-Tongue drift]] dominates (the *th* dropped, ends clipped — the most-drifted sound = the least-devout land).
+The speech here is the *eroded* [[The Old Tongue|Old-Tongue drift]]: the *th* is dropped and word-ends are clipped. It is the most-drifted speech in the world, and the least devout land.
 
 *(worn to **Strandor** in daily speech · [[The Old Tongue|strand]] "shore" + [[The Old Tongue|oren]] = "the Witnessed Shore," eroded smooth. The name itself shows the drift: a sacred root worn down by the docks.)*
 
 ## Overview
 
-Strandoren is the **crossroads of the known world** — a continent of harbours, its long coastline so deeply indented with bays, sounds, and peninsulas that no point sits far from saltwater. If [[Maiethorn]] is the old cathedral heart, Strandoren is the **market that grew up facing it**: the [[The Premise|Bruges/Florence register]] taken to its logical end, all charter-towns, guild halls, banking houses, and quays. The [[Turning Tree|Trees]] here are mature and many — reach is high, the Given are dense — but the *faith* is worn light, folded into commerce until a child's [[Turning Tree|Turning]] is watched less as a sacrament than as a question of *which guild the colour opens.* This is where [[Economy and the Tithe|deathless banking]] reaches full flower and Condition-labor buys the world's most advanced public works.
+Strandoren is the **crossroads of the known world** — a continent of harbours, its long coastline so deeply indented with bays, sounds, and peninsulas that no point sits far from saltwater. If [[Maiethorn]] is the old cathedral heart, Strandoren is the **market that grew up facing it**: a burgher world of charter-towns, guild halls, banking houses, and quays. The [[Turning Tree|Trees]] here are mature and many — reach is high, the Given are dense — but the *faith* is worn light, folded into commerce until a child's [[Turning Tree|Turning]] is watched less as a sacrament than as a question of *which guild the colour opens.* This is where [[Economy and the Tithe|deathless banking]] reaches full flower and Condition-labor buys the world's most advanced public works.
 
-**The fresh angle:** the "merchant coast" is usually either a den of greedy villains or a plucky free republic. Strandoren is neither caricature — it is genuinely *free and prosperous and cool*: nothing here is policed (your faith, your gift, your marriage are your own), but everything is *priced*, and the injustice is the market's — a person who cannot pay simply fades while a rich continent steps politely around them. Warmth is not its virtue; liberty is.
+Strandoren is free, prosperous, and cool. Nothing here is policed: your faith, your gift, and your marriage are your own. But everything is *priced*, and the injustice is the market's. A person who cannot pay fades while a rich continent steps politely around them. Warmth is not its virtue; liberty is.
 
 ## Geography & Climate
 
@@ -40,7 +40,7 @@ Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Str
 
 **High.** Grafts mature and abundant, especially coastal; the Given are dense and the [[Law and Citizenship|three pillars]] are pure **infrastructure** here — not reverence but the machinery a huge commercial society runs on ([[Long-Lived]] notaries, [[Bound]] whose word closes contracts, [[Far-Voiced]] on every dock and in every court). The [[Law and Citizenship|Struck]] are vouched-in *briskly and efficiently* — an unvouched person is a transaction that can't clear.
 
-How the wood got here is [[The First Cut]]: C.Y. 40–160, **by sea**, wealthy coasts first. A ship is faster than filling every inland hamlet, and a coast could pay a Cutting-leave while a Near-Mile village was still on the list. Interior river-days came later. The Fair Hand files this as *the carrying* — a bill of lading, not a wound in wood.
+How the wood got here is [[The First Cut]]: Cut-year 40–160, **by sea**, wealthy coasts first. A ship is faster than filling every inland hamlet, and a coast could pay a Cutting-leave while a Near-Mile village was still on the list. Interior river-days came later. The Fair Hand files this as *the carrying* — a bill of lading, not a wound in wood.
 
 ## Powers & Polities
 
@@ -58,7 +58,7 @@ A mercantile theology that reads Conditions not as *gifts given* (the [[The Leaf
 ## Story hooks
 
 - A [[Economy and the Tithe|deathless house]] calling a century-old debt; a Tithe-poor family fading while the rich city steps around them.
-- The [[Economy and the Tithe|shadow economy]] at its biggest — smuggled green, black-market novelty, sold vouching, off-book [[Bound|contracts]] feeding the [[The Unbound|Given-Over]].
+- The [[Economy and the Tithe|shadow economy]] at its biggest — smuggled green, black-market novelty, sold vouching, off-book [[Bound|contracts]] feeding the [[Bound|Given-Over]].
 - The fortune-and-contract cult vs. the Motherfaith as a live theological feud in a port city — two doctrines competing for the same [[Bound]] souls.
 - The rare merchant-adventurer who claims to have crossed to [[The Sundering Isle]] and back — true, embellished, or fraud?
 
@@ -69,10 +69,12 @@ The labelled picture: [[The Known Map]]. Names and days: [[Named Ground]]. To dr
 - [[Polity Archetypes]] (Lestrand; seat [[Orentel]]) · [[Powers of the Turning]] · [[Brenledd]] · [[Leddvael]] · [[Trenledd]] · [[Netstrand]] · [[The Fair Hand]] · [[Economy and the Tithe]] (deathless banking, the shadow economy) · [[The Old Tongue]] (eroded drift)
 - [[Law and Citizenship]] (the three pillars as infrastructure) · [[Bound]] · [[Long-Lived]] · [[Far-Voiced]] · [[The Premise]]
 - [[Kinds of the Turning]] · [[Selkie]] (coastal hearth) · [[Naming People in the Turning]]
-- [[Roadmap]] (Epic 3; Epic 6 Stories 6.2–6.3) · [[The Walking Years]] — the Salt Walk · [[The First Cut]] — by sea, coasts first · [[01 - World]]
+- [[The Walking Years]] — the Salt Walk · [[The First Cut]] — by sea, coasts first · [[01 - World]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
+
+- **Status and build.** Built with `systemic-worldbuilding` for Epic 3 ([[Roadmap]]). Proposed, with these bones locked: high reach; Lestrand sits here ([[Polity Archetypes]]); the eroded Old-Tongue drift dominates.
 
 - **High reach, low faith — the pairing that proves theology and reach are independent.** Strandoren has Trees as healthy as [[Maiethorn]]'s but wears the faith lightly: the reason the Given are dense here is the same as anywhere (healthy grafts), and the reason the *faith* is thin is purely social (commerce erodes devotion). Keep those two facts separate in-world; don't let the cool faith read as thin reach or vice versa. The [[The Old Tongue|eroded language drift]] is the tell — smooth because secular, not because Tree-poor.
 - **The fortune-and-contract cult is a rival *reading* of the true gifts, not a false one.** Per [[Is the Leaf-Mother Real|the keystone]], the Conditions are real gifts — the cult calls them bargains, the Motherfaith calls them blessings, and *both* are interpretations laid over the same real thing. Neither is confirmed by any reveal. The cult is wrong about *who* (no bargain was struck), but its adherents are as sincere as the Motherfaith's. Don't play it as villain-theology.

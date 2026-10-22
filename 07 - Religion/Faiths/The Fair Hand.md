@@ -4,13 +4,13 @@ type: faith
 visibility: player
 note_status: fleshed
 status: active
-tags: [religion, faith, strandoren, contract, bound, leddoren, belief-systems]
+tags: [religion, faith, strandoren, contract, bound, leddoren]
 aliases: [Leddoren, The Settling, The Bargainers, The Closed Book, The Fortune-and-Contract Cult]
 world: The Turning
 domain: bargains, fair terms, the closed book, the Bound
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-08-23
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Fair Hand
@@ -77,22 +77,24 @@ What unites the inks is practical fury at a hidden term. That is why Settlers ca
 
 ## A page still in use
 
-*Preamble copied from a Bound's working contract, the form-words a Lestrand book-hand uses when the grant is ordinary and the Terms are not. `oblique-worldbuilding`.*
+*Preamble copied from a Bound's working contract, the form-words a Lestrand book-hand uses when the grant is ordinary and the Terms are not.*
 
 > *I was not given. I asked, and I was answered, and I named what I would pay. If a mother had wanted me she would have sent a leaf, not a clause. I prefer the clause. I can read it.*
 
-On its face: a Bound's pride, a little cold. Underneath: the Fair Hand's whole case against gift-doctrine — and a blindness the document cannot afford: that a clause you can read is not the same as a love you cannot price. The Bound who prefers the clause is sincere. They have felt the cost and named it a price.
+It is a Bound's pride, a little cold. It is the Fair Hand's whole case against gift-doctrine. The Bound who prefers the clause is sincere. They have felt the cost and named it a price.
 
 ## Links
 - [[Faiths of the Turning]] — the map · [[The Leaf-Mother]] — gift-doctrine's rival · [[What the Year Feels Like]]
 - [[Strandoren]] · [[Bound]] · [[The Unbound]] · [[Economy and the Tithe]]
 - [[Polity Archetypes|Lestrand]] · [[The Child at Four Doors]]
-- [[The Book-Hands]] — the working house (Story 5.2)
-- [[Is the Leaf-Mother Real]] · [[The Other Hands]] (GM) · [[07 - Religion]]
+- [[The Book-Hands]] — the working house
+- [[07 - Religion]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent, the-other-hands]`.)*
 
+- **The page still in use, read underneath.** Authored per `oblique-worldbuilding`. Underneath the pride is the Fair Hand's whole case against gift-doctrine, and a blindness the document cannot afford: a clause you can read is not the same as a love you cannot price.
+- **Links (GM).** [[Is the Leaf-Mother Real]] · [[The Other Hands]].
 - **Wrong about the verb, right about the ache.** Per the keystone, Conditions are real *gifts*; no bargain was struck at the Leaf-Fall. The Fair Hand misreads a cost as a price. They have correctly felt that giving is not free (her constraint). Do not play them as devil-worship or capitalism-cosplay. They are as sincere as the Motherfaith.
 - **The Counterparty is real for Bound — not for every becoming.** Per [[The Other Hands]], *Orledd* answers sworn asks; the face a Bound names (demon / vast / unknown) is a mask. The Fair Hand is *right* about that door and *wrong* that Leaf-Fall is a signing. Do not let this faith retcon Mother's Gifts into bargains. Do not play Orledd as a devil.
 - **The Ledger Coast's injustice wearing vestments.** Calling the Kept "the free" and the fading "a book that would not close" sacralizes the market-fade from [[Polity Archetypes]]. A Tithe-poor Settler who cannot close the book is still a person the rich city steps around.

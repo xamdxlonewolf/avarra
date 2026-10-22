@@ -1,48 +1,48 @@
 ---
 title: Economy and the Tithe
-type: custom
+type: reference
 visibility: player
 note_status: fleshed
 status: active
-tags: [society, economy, tithe, labor, banking, epic-2, social-structure]
+tags: [society, economy, tithe, labor, banking, social-structure]
 aliases: [The Tithe Economy, Condition Economy, Economy of the Turning]
 reveals: [keystone-adjacent]
 created: 2026-08-20
-updated: 2026-08-30
+updated: 2026-10-22
 ---
 
 # Economy and the Tithe
 
-> **What this is.** The *universal economic grammar* of **The Turning** — how a late-medieval economy works when **3 of 4 people carry a [[The Premise|Condition]]**, and each Condition carries a **Tithe** (a permanent upkeep). This is the portable layer; how the ~15 polities vary is the last section. Built with `economic-systems` for [[Roadmap|Epic 2, Story 2.2]], on the frame from [[The Premise]] (late-medieval; advances only from Condition-labor) and the legal grammar from [[Law and Citizenship]].
+> **What this is.** How a late-medieval economy works when **3 of 4 people carry a [[The Premise|Condition]]**, and each Condition carries a **Tithe** (a permanent upkeep). It rests on [[The Premise]] (late-medieval; advances only from Condition-labor) and on [[Law and Citizenship]]. The last section says how the ~15 polities vary.
 
-> **📖 Names: descriptive here, in-world names now exist.** Institutions keep **plain descriptive terms** in the body for legibility, but the [[The Old Tongue|naming pass]] is done (2026-08-21) — each has a settled common-tongue name + three stance-revealing polity variants in [[Naming in the Turning]]; the root language is [[The Old Tongue]]. Good working canon, open to a later polish pass.
+> **Names.** Institutions use plain descriptive terms here. Each has a common-tongue name, and each polity says it its own way, in [[Naming in the Turning]]. The root language is [[The Old Tongue]].
 
-## The thesis: the Tithe is the engine
+## The Tithe shapes the economy
 
-In our world, an economy is organized around producing what people *want*. In The Turning it is also organized around a thing no other world has: **keeping three of every four people able to carry what they've become.** Every [[The Premise|Condition]] has a **Tithe** — an ongoing need that must be met or the "scary edge" shows. Multiply that by ~75% of the population and it stops being a private matter.
+In our world, an economy is organized around producing what people *want*. In The Turning it is also organized around **keeping three of every four people able to carry what they've become.** Every [[The Premise|Condition]] has a **Tithe** — an ongoing need that must be met or the Condition's dangerous side shows. With three in four people carrying one, it stops being a private matter.
 
 **Tithe-provision is a permanent civic utility**, like wells and roads: visible in every town, fought over, load-bearing for the people who need it. It is **not** the size of grain. Grain feeds everyone, every day. The greens and halls keep an exposed minority from sliding, and keep their neighbours from living next to a slide. That is enough to organize a sector. It is not food.
 
-This is still the plain answer to *why society organizes around the Conditioned*: not reverence, not fear, but **vocation-shape plus a net.** Most Conditioned *pay by working* (the Tithe and the job are the same act). A smaller share must be furnished. The ones who furnish, and the ones who need furnishing, are often the same people — and whoever holds the gate holds power.
+That is why society organizes around the Conditioned: not reverence, not fear, but **work that fits the Tithe, plus a net.** Most Conditioned *pay by working* (the Tithe and the job are the same act). A smaller share must be furnished. The ones who furnish, and the ones who need furnishing, are often the same people — and whoever holds the gate holds power.
 
 ### Who actually buys provision
 
-Shares from [[The Premise]]. This is volume, not a second census.
+The shares for each Condition are on [[The Premise]]. This table sorts them by how they pay and gives no numbers of its own.
 
-| Who | About | What "provision" is |
+| Who | Conditions | What "provision" is |
 |---|---|---|
-| **Self-paying by vocation** | [[The Answered]] ~10 · [[Two-Bodied]] ~18 · [[The Stilled]] ~7 → **~35%** | Work *is* the Tithe. They do not buy a sector. They *are* a labor market. |
-| **On the seam** | [[Far-Voiced]] ~12 · [[Returned]] ~7 → **~19%** | Self-pay if the job fits. Buy a hall-hour, or walk unpaid, when it does not. |
-| **Provided-for** | [[The Taken-In]] ~13 · [[Long-Lived]] ~2.5 · [[The Unbound]] ~1.5 · [[Bound]] Terms ~3.5 → **~20%** | Green, novelty, warmth, whatever the clause set. |
-| **The Kept** | **~25%** | No Tithe. They buy bread, not a lot-hour. |
+| **Self-paying by vocation** | [[The Answered]] · [[Two-Bodied]] · [[The Stilled]] | Work *is* the Tithe. They do not buy a sector. They *are* a labor market. |
+| **On the seam** | [[Far-Voiced]] · [[Returned]] | Self-pay if the job fits. Buy a hall-hour, or walk unpaid, when it does not. |
+| **Provided-for** | [[The Taken-In]] · [[Long-Lived]] · [[The Unbound]] · [[Bound]] Terms | Green, novelty, warmth, whatever the clause set. |
+| **The Kept** | no Condition | No Tithe. They buy bread, not a lot-hour. |
 
-Green is free on a farm. Most Taken-In live where it is free. The **purchased or civic customer base** — urban Taken-In, hall-users without a stage, novelty-seekers, warmth that money can only approximate — is on the order of **a seventh of the people**, concentrated in stone towns. Real traffic. Real queues. Not granaries. A city fights over lot-hours and hall-bells the way it fights over wells: because a wilt or a Cry in the square is a public problem, not because Tithe-goods rival bread by the cartload.
+Green is free on a farm. Most Taken-In live where it is free. The **purchased or civic customer base** — urban Taken-In, hall-users without a stage, novelty-seekers, warmth that money can only approximate — is a minority of the people, concentrated in stone towns. Real traffic. Real queues. Not granaries. A city fights over lot-hours and hall-bells the way it fights over wells: because a wilt or a Cry in the square is a public problem, not because Tithe-goods rival bread by the cartload.
 
 ## The structural key: self-paying vs provided-for Tithes
 
 The single most important economic fact is that **not all Tithes cost the same to pay — and some don't cost anything at all, because paying them *is* doing useful work.** This sorts the Conditioned along a spectrum from *self-paying* to *provided-for*, and almost everything else follows from where a Condition sits on it. It is a **spectrum, not a wall** — the most interesting cases sit on the seam, and *which side a person lands on can depend on their vocation, not just their Condition* (see Far-Voiced and the Returned below).
 
-**Self-paying Tithes — the work is the payment.** For several Conditions, the upkeep is discharged *by doing exactly the labor society needs.* These people are an economist's miracle: their maintenance cost and their productive output are the same act.
+**Self-paying Tithes — the work is the payment.** For several Conditions, the upkeep is discharged *by doing exactly the labor society needs.* For these people the cost of keeping up the Condition and the work they produce are the same act.
 
 | Condition | The Tithe | ...paid by doing |
 |---|---|---|
@@ -91,11 +91,11 @@ Systematizing the roster's per-Condition roles, the striking thing is how **the 
 - **[[Bound]]** — the enforcement and contract class: oath-keepers, debt-arbiters, treaty-swearers, witnesses whose word is literally binding. The [[The Unbound]] sit inside this same contract-lane (a released Bound, not a second workforce); they return to whatever they did before, needing connection to keep at it.
 - **[[Phoenix]] (trace)** — no characteristic sector. A political symbol, not a worker.
 
-**And the Kept (the untithed quarter)** — here is the quiet inversion. The Kept carry *no Tithe* (no upkeep cost) and *no Condition* (no built-in trade). Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where the faithful *pity* the Kept for missing a gift (see [[Law and Citizenship]]), the ledger tells a different story — the Kept are the least *encumbered* people in the world. A real economic freedom hiding under a social slight.
+**And the Kept (the untithed quarter)** — here is the quiet inversion. The Kept carry *no Tithe* (no upkeep cost) and *no Condition* (no built-in trade). Economically that makes them the **free generalist labor**: unburdened by any Tithe-need, unclaimed by any Condition-guild, able to take any ordinary work and move where they like. Where some of the faithful *pity* the Kept for missing a gift (see [[Law and Citizenship]]), the ledger tells a different story — the Kept are the least *encumbered* people in the world. A real economic freedom hiding under a social slight.
 
 ## Why Taken-In live in stone cities
 
-The same note used to say two things at once: green is an expense in a stone city, and cities keep the Taken-In at arm's length because they thrive on the frontier. Both can be true. **Arm's length is how polite districts stand toward bark and antler. It is not an empty lot.**
+Green is an expense in a stone city, and cities keep the Taken-In at arm's length because the Taken-In thrive on the frontier. Both are true. **Arm's length is how polite districts stand toward bark and antler. It is not an empty lot.**
 
 They are in the city because:
 
@@ -105,7 +105,7 @@ They are in the city because:
 4. **The door can open in a city's old green.** Lost and dying in a deep wild is the Struck path. A walled grove, a lot at night, a river-garden after a flood — rare, and enough.
 5. **They cannot afford to leave.** Green-poverty is a trap: you need the lot to stay whole, the lot is gated, you work for lot-hours, you never save the cart-fare home. That trap *is* [[The Slide]]'s urban book.
 
-World share is still ~13% ([[The Premise]]). A stone city runs **lower** — a twentieth to a twelfth of its adults, concentrated on lots, orchards, river-gardens, and the week-keeper's pot. Enough for a queue. Enough for a wilt two streets off. Enough for the Slide's customer. The frontier still has the density and the honour. The city has the gate.
+The Taken-In share of the world is on [[The Premise]]. A stone city runs **lower** than that, with the Taken-In concentrated on lots, orchards, river-gardens, and the week-keeper's pot. Enough for a queue. Enough for a wilt two streets off. Enough for the Slide's customer. The frontier still has the density and the honour. The city has the gate.
 
 ## Banking and the deathless houses
 
@@ -113,19 +113,19 @@ The headline financial fact of The Turning is that **its banks do not die.** A [
 
 - **The trusted note.** A note issued by a deathless house is trusted almost as coin, because everyone knows the banker *cannot forget a debt, cannot be quietly succeeded by a defaulting heir, and will personally answer for it in fifty years.* Their paper circulates further and holds value better than any crown's — the nearest thing this world has to a gold standard is *the word of a house that won't die.*
 - **The long instrument.** Deathless houses lend and endow on horizons no mortal lender would risk — century loans, multi-generation trusts, the patient financing of cathedrals, canals, and universities. (Match to the register: this is *longer* medieval banking, not *modern* banking — letters of credit and endowments, **not** stock exchanges or joint-stock companies, which this world does not have.)
-- **The concentration risk.** Wealth that never passes to an heir never disperses *through inheritance* — the great scattering that mortal death forces on every other fortune simply never happens here. Even at their locked rarity ([[The Premise|the deathless share]]), the deathless can slowly gather an outsized share of standing capital — which is precisely the ossification the vampire's rarity is *meant* to cap, and a live tension the economy never fully resolves. (This is not undone by their habit of endowing — see below: an endowment moves the *coin* out but keeps the *steering*, so influence concentrates even as liquid wealth flows into the institutions they still direct.)
+- **The concentration risk.** Wealth that never passes to an heir never disperses *through inheritance* — the great scattering that mortal death forces on every other fortune simply never happens here. Even though there are few of them ([[The Premise|the deathless share]]), the deathless can slowly gather an outsized share of standing capital. That is the ossification their small number is supposed to limit, and the economy never fully resolves it. (This is not undone by their habit of endowing — see below: an endowment moves the *coin* out but keeps the *steering*, so influence concentrates even as liquid wealth flows into the institutions they still direct.)
 
-**Where the houses came from.** Many began as **road-houses** in [[The Walking Years]] — inns, beds, and century-credit for families who had to walk to Thaeloren. Lived: the house in the *act* of being an inn (*brenhael* 🟡; the Held bed; a note you pay on the home-walk). When the walk stopped being required in the core, the same Long-Lived still remembered every debtor on the road, and the paper outlived the pilgrimage-season. They became banks. Present tense of that memory: [[The Years of Hands]] — two fates still standing ([[The White Note House]] collected; [[The Third Hearth]] kept making the bed). The trusted note is a Walking-era instrument that outlived its road. Do not invent a second banking-order.
+**Where the houses came from.** Many began as **road-houses** in [[The Walking Years]] — inns, beds, and century-credit for families who had to walk to Thaeloren. Lived: the house in the *act* of being an inn (*brenhael*; the Held bed; a note you pay on the home-walk). When the walk stopped being required in the core, the same Long-Lived still remembered every debtor on the road, and the paper outlived the pilgrimage-season. They became banks. Present tense of that memory: [[The Years of Hands]] — two fates still standing ([[The White Note House]] collected; [[The Third Hearth]] kept making the bed). The trusted note is a Walking-era instrument that outlived its road.
 
 ## Inheritance and the problem of not dying
 
-Inheritance law is warped by the deathless, and in a poignant direction. A [[Long-Lived]]'s children **do not inherit the Condition** — they age and die while the parent does not. So a deathless person **outlives every heir**, and their estate never enters the inheritance stream at all. What becomes of a fortune that is never passed down?
+Inheritance law is warped by the deathless, and in a poignant direction. A [[Long-Lived]]'s children are **not guaranteed to inherit the Condition**. Most age and die while the parent does not. So a deathless person **outlives most heirs**, and their estate never enters the inheritance stream at all. What becomes of a fortune that is never passed down?
 
-The characteristic answer closes a beautiful loop: **the deathless endow.** Having no heirs and needing, for their own Tithe, a steady supply of *novelty* — new books, new scholarship, new things to learn — a Long-Lived characteristically funds the very institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. (It is also how they grieve: an endowment in the name of a child who died a century ago.) **This is not the same as letting the fortune go.** An endowment is coin converted into *permanent, directed patronage* — the founder does not die, so they keep the chair, name the scholars, and steer the institution for centuries. So endowment eases the *coin* concentration (liquid wealth flows out into public works) while quietly deepening the *influence* concentration (the same few deathless hands still guide the universities, courts, and archives their money built). The ossification the rarity-cap fights doesn't vanish; it changes shape from hoarded gold to entrenched patronage.
+The usual answer is that **the deathless endow.** Having no heirs and needing, for their own Tithe, a steady supply of *novelty* — new books, new scholarship, new things to learn — a Long-Lived characteristically funds the very institutions that generate knowledge: libraries, universities, archives. The deathless banker becomes the deathless patron, and pays their own Tithe by building the places that feed it. (It is also how they grieve: an endowment in the name of a child who died a century ago.) **This is not the same as letting the fortune go.** An endowment is coin converted into *permanent, directed patronage* — the founder does not die, so they keep the chair, name the scholars, and steer the institution for centuries. So endowment eases the *coin* concentration (liquid wealth flows out into public works) while quietly deepening the *influence* concentration (the same few deathless hands still guide the universities, courts, and archives their money built). The ossification the rarity-cap fights doesn't vanish; it changes shape from hoarded gold to entrenched patronage.
 
 For everyone else inheritance is ordinary — *except* the **[[Two-Bodied]] bloodlines**, where the Condition, the family animal, and often the family trade descend together, so a guild place and a Condition can be a single inheritance. And the law's sharpest open question, from [[Law and Citizenship]], is economic at root: the **Given-Over** — a [[Bound]] who contracted away so much of themselves that the counterparty effectively *owns the person*. That is the ultimate inheritance failure: an estate, and a self, absorbed by a creditor.
 
-## Center and periphery: the reach-edge shapes the map
+## Center and periphery
 
 The economy is not evenly spread, and the reason is the same one that shapes the law. Near the mature Trees (the core), Conditions are dense, guilds are strong, and specialized Condition-labor and its goods are the great export. Out at the margins (the frontier), **the giving thins** — more of the population are generalist [[Law and Citizenship|Kept]] or untrained Struck, fewer are Given specialists. So:
 
@@ -135,21 +135,21 @@ The economy is not evenly spread, and the reason is the same one that shapes the
 ## The shadow economy
 
 Every gate breeds a black market, and this economy's gates are **Tithe-provision** and **vouching**:
-- **Illicit Tithe-supply.** Where legitimate provision is rationed, gated, or unaffordable, a shadow market fills it: smuggled green for a Taken-In cut off from land (the urban book — city-Given, winter-stayers, the lot-hour trap), unlicensed venting-rooms, black-market novelty (rare texts, forbidden knowledge) for a starving Long-Lived. The desperate customer is someone sliding toward their scary edge — which makes this trade both lucrative and cruel. Lived face: [[The Slide]] (Story 5.2).
+- **Illicit Tithe-supply.** Where legitimate provision is rationed, gated, or unaffordable, a shadow market fills it: smuggled green for a Taken-In cut off from land (the urban book — city-Given, winter-stayers, the lot-hour trap), unlicensed venting-rooms, black-market novelty (rare texts, forbidden knowledge) for a starving Long-Lived. The desperate customer is someone sliding toward their scary edge — which makes this trade both lucrative and cruel. Lived face: [[The Slide]].
 - **Off-book contracts.** The [[Bound]]'s whole domain has an underside: contracts sworn outside the honest tables, unregistered terms, and the predatory brokers who arrange them — the pipeline that feeds the Given-Over. Lived face: [[The Holding Desk]] (not the Slide).
 - **Sold vouching.** Since citizenship runs on [[Law and Citizenship|vouching]], the unvouched will *buy* a voucher — and a market exists in dubious character-witnesses (the one thing that *can't* be faked is a Long-Lived's memory, which is exactly why their honest vouch is priceless and their corrupt one catastrophic). Lived face: [[The Standing Trade]] (not the Slide).
 
 ## How polities vary
 
-The grammar is universal; the *distribution* is political — and varies the way a real world's does. It runs on the same **independent axes** as the law (see [[Law and Citizenship#How polities vary]] — theology, reach, governance), each with a sharp economic face, so a polity's economy is the *combination* of its settings, not one of three fixed types. The three touchstone points have these economic faces:
+The grammar is the same everywhere; who gets what is political. It follows the same three axes as the law (see [[Law and Citizenship#How polities vary]]: theology, reach, governance), each with an economic face. Three recurring stances:
 
 **The Warm** *(high theology).* Treats **Tithe-provision as a public good** — town greenhouses, endowed venting-halls and libraries, ranging-commons held in common. The Conditioned are kept whole at civic expense because a whole populace is a safe and productive one (and because the faith says tend every gift). **Its economic injustice is soft:** the same provision comes with *expectation* — you are helped to tend your gift, and quietly obligated to spend it as the community sees fit. Subsidy shades into conscription.
 
-**The Watchful** *(governance at its extreme).* The crown that writes its people down (see [[Law and Citizenship]]) turns **Tithe-need into leverage.** It provides — efficiently, even generously — but *holds* what it provides: the green, the outlet, the novelty, all furnished through channels the crown controls and can withhold. Its deathless-house finance is superb and centuries-deep. **Its injustice is cold and precise:** a population whose upkeep runs through the state is a population that cannot afford to refuse it — the most complete control in the world, dressed as care.
+**The Watchful** *(governance at its extreme).* A crown that writes its people down (the Tallied Crown and the Worn Count; see [[Law and Citizenship]]) turns **Tithe-need into leverage.** It provides — efficiently, even generously — but *holds* what it provides: the green, the outlet, the novelty, all furnished through channels the crown controls and can withhold. Its deathless-house finance is superb and centuries-deep. **Its injustice is cold and precise:** a population whose upkeep runs through the state is a population that cannot afford to refuse it — the most complete control in the world, dressed as care.
 
 **The Frontier** *(low reach).* Little formal Tithe-infrastructure and few specialists; people improvise their own provision or do without. Freer (no guild monopoly, no crown's leash; the Taken-In are neighbours, not curiosities) and harsher (the provided-for Tithe-poor slide with no net, untrained Struck manage dangerous Conditions alone). A barter-and-favor economy at the edges, cash-poor and land-rich.
 
-**But mind the combinations** — the economic texture is set by *where a polity sits on all three axes at once.* A devout frontier runs commons-minded charity with almost no infrastructure to fund it; a secular Tree-rich republic has deep markets and thin welfare; a Watchful-and-pious core turns generous provision into the tightest leash in the world. The touchstones above are corners, not a census of the world's economies.
+A polity's economy is set by where it sits on all three axes at once. A devout frontier runs commons-minded charity with almost no infrastructure to fund it; a secular Tree-rich republic has deep markets and thin welfare; a Watchful-and-pious core turns generous provision into the tightest leash in the world.
 
 ## Links
 - [[The Premise]] — world scale & register (late-medieval; Condition-labor advances) · [[Law and Citizenship]] — the legal grammar this rests on
@@ -158,15 +158,15 @@ The grammar is universal; the *distribution* is political — and varies the way
 - [[The Slide]] — illicit Tithe-supply · [[The Holding Desk]] — Given-Over pipeline · [[The Standing Trade]] — sold vouching
 - [[Tithe-Infrastructure]] — official furnishing · [[The Greens-Keepers]] · [[The Hall-Keepers]] — jurisdictions · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]]
 - [[The Ages of the Turning]] — road-houses → banks · [[The Walking Years]] — the inn in the act · [[The Years of Hands]] — road-past as credit
-- [[The White Note House]] · [[The Third Hearth]] · [[Orentel]] · [[Netstrand]] — prestige-walk desks (Story R.6)
-- [[Roadmap]] (Epic 2, Story 2.2; Story R.6) · [[03 - Cultures]]
+- [[The White Note House]] · [[The Third Hearth]] · [[Orentel]] · [[Netstrand]] — prestige-walk desks
+- [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Keep the economy mechanical.** Control green, outlets, novelty, or terms and you gain leverage over the person who needs them. Guild conscription, deathless concentration, illicit provision, and the Given-Over each need a price, an actor, and a transaction the party can interrupt.
 - **The single sharpest economic lever for play:** whoever furnishes a provided-for Tithe holds power over its bearer. A PC Taken-In whose only green is the guild's; a Long-Lived whose patron rations the novelty they need to not fade; a Bound whose counterparty is their employer. This is coercion with a friendly face — the ~5%-scary edge in economic form.
-- **Story R.6 — volume and urban green (2026-08-30).** Softened the food-or-fuel claim on purpose. Self-paying vocation is ~35%; the purchased/civic Tithe sector serves about a seventh, concentrated in stone towns. That is a real utility, not a second staple. Urban Taken-In stay in the city for five ordinary reasons (Given here, harvest-hands, lot labor, rare city-doors, the lot-hour trap). Arm's length is manners, not an empty map. Do not invent a grain-sized Tithe market to make the old sentence true. Lived faces for sold vouching and the Given-Over live on [[The Standing Trade]] and [[The Holding Desk]] (R.7).
+- **Story R.6 — volume and urban green (2026-08-30).** Softened the food-or-fuel claim on purpose. The purchased/civic Tithe sector serves about a seventh of the people, concentrated in stone towns (a twentieth to a twelfth of a stone city's adults are Taken-In). These are GM estimates, not census figures; the shares are on The Premise. That is a real utility, not a second staple. Urban Taken-In stay in the city for five ordinary reasons (Given here, harvest-hands, lot labor, rare city-doors, the lot-hour trap). Arm's length is manners, not an empty map. Do not invent a grain-sized Tithe market to make the old sentence true. Lived faces for sold vouching and the Given-Over live on [[The Standing Trade]] and [[The Holding Desk]].
 - **The reach-edge (core vs frontier distribution) has a GM-side *cause*.** The thinning at the margins reads in-world as plain distance-and-biology; the real reason — [[Is the Leaf-Mother Real|her reach is bounded]] — stays GM-side. Don't let a player-facing note assert the cause.
-- **Naming is done (2026-08-21).** In-world names for every institution term here live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility. Remaining deep-language work is [[Roadmap|Epic 4]].
+- **Naming is done (2026-08-21).** In-world names for every institution term here live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility.
 - **Hooks.** A Tithe-supply monopoly to break; a deathless house calling in a century-old debt; an endowment with strings; a smuggling ring in green or novelty; a frontier town with no net when its Struck can't cope; the Watchful crown's Tithe-channels as a control system to escape or sabotage. Lived official faces: [[Tithe-Infrastructure]]. Lived illicit faces: [[The Slide]] · [[The Holding Desk]] · [[The Standing Trade]].

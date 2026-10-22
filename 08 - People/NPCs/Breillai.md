@@ -13,7 +13,7 @@ location: "[[Seinbrun]]"
 role: a household outside the hymn
 reveals: []
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Breillai
@@ -50,12 +50,12 @@ Hands that still look like hall-work. A coat mended past the congregation's thre
 - **[[Raermu]]** — the basket opens for the congregation's sick. Breillai's household is the question on the step.
 - **[[Seinbrun]]** — the tension, lived by one house. Not a faction of the exited. Do not grow one.
 
+## Links
+- [[Seinbrun]] · [[Maiethvael]] · [[Vuthbraen]] · [[Raermu]]
+- [[People of the Turning]] · [[08 - People]]
+
 ## GM Notes
 
 - **Not a movement.** One household. The withdrawers and the disinherited are other schisms. Do not fold Breillai into them.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — position 43.
 - **The stacked pots are a habit.** A later note must not explain them, and must not turn them into a power, a relic, or a rite.
-
-## Links
-- [[Seinbrun]] · [[Maiethvael]] · [[Vuthbraen]] · [[Raermu]]
-- [[People of the Turning]] · [[08 - People]]

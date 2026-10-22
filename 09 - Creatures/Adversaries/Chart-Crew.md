@@ -11,12 +11,12 @@ category: people
 habitat: Chart-run, Netstrand quays, West Water wrecks
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Chart-Crew
 
-Tier 1 Horde. Night-Shore hands who wait for hulls that do not arrive, then take what the water gives. Grief with a hook. Not a pirate flag. Not [[The Standing Trade]] — they sell wreck-right, not a mouth.
+Tier 1 Horde. Night-Shore hands who wait for hulls that do not arrive, then take what the water gives. They are grieving, and they carry hooks. Not a pirate flag. Not [[The Standing Trade]]: they claim wrecks; they do not sell vouches.
 
 **Motives & Tactics:** claim the wash · keep the slate empty · drive a stranger off a berth · fold when a known clerk stamps
 

@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, given, werewolf, shifter]
 aliases: [The Two-Bodied, Werewolf, Animal-Shifters, The Other Self]
-world:
+world: The Turning
 category: Condition
 monster: werewolf
 standing: common
@@ -14,7 +14,7 @@ path: Given only
 population: ~18%
 reveals: []
 created: 2026-08-14
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Two-Bodied
@@ -23,7 +23,7 @@ updated: 2026-08-31
 
 ## The take
 
-A Two-Bodied has two bodies: their born shape and a specific real **animal**. Shifting is voluntary and clean. This makes them the setting's most common and versatile labor force (~18%, **Given only** — a storm-grey leaf; share from [[The Premise]]) — rescue, herding, wild-work, war, courier and scout work. Utility over spectacle: a second body suited to a job.
+A Two-Bodied has two bodies: their born shape and a specific real **animal**. Shifting is voluntary and clean. This makes them the setting's most common and versatile labor force (~18%, **Given only** — a storm-grey leaf) — rescue, herding, wild-work, war, courier and scout work. Utility over spectacle: a second body suited to a job.
 
 **The other self has a voice.** The animal shape is not an empty suit you climb into — it carries its **own personality, temperament and inner voice**, distinct from your born self, and you *converse with it*. Not aloud as a person (the animal mouth can't form human speech) but **in your own head**: a running second opinion — the wolf that wants to run the scent *now*, the hawk that trusts height over talk, the otter that finds the whole meeting tedious. It is named, it is known ("that's Bramble, her otter"), and townsfolk and players alike come to recognize its moods. **It never takes the wheel** — the change and every action stay yours to command (see the Tithe and GM Notes). What it does is *nag, want, and color* — a live companion you happen to be, giving the second body a real character and voice at the table.
 
@@ -34,7 +34,7 @@ A Two-Bodied has two bodies: their born shape and a specific real **animal**. Sh
 ## At the Tree
 
 **Colour.** Storm-grey — folk-known, already proverbial. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Given only. The engine lives on [[The Premise]].
+**Path.** Given only. The engine is on [[Turning Tree]].
 **How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears the common gift: a second body the town can put to work. [[The Watching]] says the Tree *saw* two selves and made the seeing visible — a witness, not a mother's pick.
 **Where next.** Un-guilded ranging: herding, rescue, courier, scout. No ticket, no college. Civic land and ranging-commons live on [[Economy and the Tithe]] and [[Daily Life]]. What they range *against*: [[Dangers of the Turning]].
 
@@ -62,7 +62,13 @@ Roll damage dice equal to your **Proficiency**, as with any other weapon. You do
 
 ## The Tithe, in the world
 
-Because the upkeep is simply *being your animal sometimes*, most Two-Bodied satisfy it without thinking — their jobs demand the animal form anyway. The restless forced-shift is the ~5%-scary edge: it strikes at the worst narrative moment (mid-negotiation, mid-stealth), costs a Stress, but never takes the wheel.
+Because the upkeep is simply *being your animal sometimes*, most Two-Bodied satisfy it without thinking — their jobs demand the animal form anyway. The restless forced-shift is the risk: it strikes at the worst narrative moment (mid-negotiation, mid-stealth), costs a Stress, but never takes the wheel.
+
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Long-Lived]] (another Given-only Condition)
+- [[Economy and the Tithe]] · [[Daily Life]] · [[Dangers of the Turning]] — ranging, no ticket
+- [[The Watching]] — witness, not Mother
 
 ## GM Notes
 
@@ -73,9 +79,3 @@ Keep the forced shift about *timing and inconvenience*, never control. It's a nu
 **On the free, at-will shift and the natural weapon:** these are deliberate — this is the *commonest* Condition (~18%) and it was the thinnest to play, so the boon is meant to be genuinely worth using in a scene, not a novelty. The guardrail is **not** clipping what the animal naturally does (a hawk really flies, an otter really swims) — it's **size/no-myth** plus the fact that the animal form has **no hands, no person's mind, no speech, no tools**. That's what keeps it from eclipsing a Tengu (a *person* aloft) or the Answered (a tool-user in the water): the Two-Bodied out-*animals* them but can't out-*person* them. Hold that line when a player pitches an edge-case animal. Capability count is the other guardrail — **one signature, second only ever by story milestone** (see Growth), so a veteran doesn't stack scout + tracker + bruiser into one body. The natural weapon is a real Primary with its own trait, die, burden, and feature. It does not stack with a wielded weapon (you're one or the other). Its die does not rise with character level; Proficiency does.
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Long-Lived]] (the other Given-only core Condition)
-- [[Economy and the Tithe]] · [[Daily Life]] · [[Dangers of the Turning]] — ranging, no ticket
-- [[The Watching]] — witness, not Mother

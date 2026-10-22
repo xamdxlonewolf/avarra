@@ -5,7 +5,7 @@ visibility: player
 note_status: fleshed
 status: alive
 tags: [npc, orentel, white-note, long-lived]
-aliases: [Ledan of the White Note, the writing-mouth]
+aliases: [Ledan of the White Note, the clerk who wrote it down]
 world: The Turning
 culture: Lestrand / eroded Strandoren
 faction: "[[The White Note House]]"
@@ -13,14 +13,14 @@ location: "[[Orentel]]"
 role: quay-desk
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Ledan
 
-> Writes the quay-desk of [[The White Note House]]. [[Long-Lived]]. The C.Y. 280 conversion-query is the same mouth.
+> Writes the quay-desk of [[The White Note House]]. [[Long-Lived]]. The Cut-year 280 conversion-query is theirs.
 
-*(LED-an.)* Eroded drift. Of the third quay, north side. A neighbour on the quay says Ledan. A stranger gets Ledan of Orentel. While the paper is open a clerk may write White Note, Ledan, and it is the desk. Shut the paper and the name is Ledan of the third quay. There is no family. On Kumbaan the name is Ledan. They are the desk's mouth, not a seventh pivot.
+*(LED-an.)* Eroded drift. Of the third quay, north side. A neighbour on the quay says Ledan. A stranger gets Ledan of Orentel. While the paper is open a clerk may write White Note, Ledan, and it is the desk. Shut the paper and the name is Ledan of the third quay. There is no family. On Kumbaan the name is Ledan. They are the clerk at the desk, not a seventh pivot.
 
 ## At a glance
 
@@ -29,7 +29,7 @@ updated: 2026-10-01
 | **Want** | the founding-name on the north bed spoken once, aloud |
 | **Have** | the founding-book; three dates for one summer; every debtor they have ever fed |
 | **Fear** | a junior who lets the north bed; a court that wants Held names as a performance |
-| **Live conflict** | the house is one mouth; the loft is trying to be a bank |
+| **Live conflict** | the house answers as one desk; the loft is trying to become a bank |
 | **Hooks** | a due note this afternoon; a blank verso; Mataero at the inland door; a ford no grandchild can point to |
 
 ## Summary
@@ -40,7 +40,7 @@ If play needs them in the room: they want the founding-name spoken so they can s
 
 ## Appearance & Demeanor
 
-Not young. Not performing age. Ink. Tide in the door. They answer in conversions even when you asked about a bed. They stay until the tide-bell. They do not like to be asked if they *walked*. They will say the house did.
+Not young. Not performing age. Ink on the hands, and the door left open to the quay. They answer in conversions even when you asked about a bed. They stay until the tide-bell. They do not like to be asked if they *walked*. They will say the house did.
 
 ## The job
 
@@ -55,13 +55,13 @@ They are junior to no one in the house. Mataero is junior to them. That is not a
 - **[[Sorim]]** — first-quay factor. Will not convert house-years. Ledan will not send conversions to the crane.
 - **[[Thilim]]** — the other fate. A far-cape name this house does not hold. Ledan will not tidy that by taking the name.
 
+## Links
+- [[The White Note House]] · [[Orentel]] · [[Mataero]] · [[Sorel]]
+- [[People of the Turning]] · [[Long-Lived]] · [[08 - People]]
+
 ## GM Notes
 
 - **Not a seventh pivot.** The six remain the six. Ledan is the desk a session can sit at.
 - **Do not** invent a second Ledan as a title. Do not explain the north bed in the first scene. Do not make this house Orentel's government.
-- **Clock:** they walked, in the house's sense — the inn did. They will not pick which of Thilim's four jobs that is.
+- **Walked.** They walked, in the house's sense — the inn did. They will not pick which of Thilim's four jobs that is.
 - **Arc if you need one (flat, default).** *Truth:* the house is still an inn when it is kind, and a desk when it is not. The world wants only the desk. They keep the north bed empty anyway. *Negative fork:* they let the name be read as a performance, and the house becomes only paper.
-
-## Links
-- [[The White Note House]] · [[Orentel]] · [[Mataero]] · [[Sorel]]
-- [[People of the Turning]] · [[Long-Lived]] · [[08 - People]]

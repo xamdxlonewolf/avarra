@@ -10,7 +10,7 @@ category: spirit
 habitat: an old door, a drowning-stone, a threshold where the Old Ways already walk; a Returned person's work among the dead
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Kin at the Door
@@ -27,11 +27,11 @@ Ancestors in that rite are kin who remained. They are not a creature with a stat
 
 A return is a Returned person. They have a card, a Purpose, and a neighbour's life. Towns send them where the living die of the work. You do not summon one. You ask, or you meet them at the ward, the collapse, or the door they kept.
 
-[[When the Town Buries]] already puts a little of the meal at the threshold. If the dead were of a door, the rest of that food goes to the door when the street is finished. That is a funeral. It is not a calling.
+[[When the Town Buries]] already puts a little of the meal at the threshold. If the dead kept the Old Ways, the rest of that food goes to the door when the street is finished. That is a funeral. It is not a calling.
 
 ## What the other faiths do not add
 
-[[The Watching]] keeps the Tree as the Tree. [[Maieth]] is a belief beside [[The Leaf-Mother]]. [[The Open Table]] keeps a table. The list is the door and the return.
+[[The Watching]] keeps the Tree as the Tree. [[Maieth]] is a belief beside [[The Leaf-Mother]]. [[The Open Table]] keeps a table. Those two are the only spirit-like things the faiths describe.
 
 ## Links
 

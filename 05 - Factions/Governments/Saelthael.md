@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: stub
 status: active
-tags: [faction, government, polity, maiethorn, rain-shadow, epic-7]
+tags: [faction, government, polity, maiethorn, rain-shadow]
 aliases: [The Sown Tree, the Rain-Shadow Realm, Saelthael-folk]
 world: The Turning
 category: government
@@ -12,12 +12,12 @@ seat: "[[Larbril]]"
 public_face: dry-country Tree-seats that still walk west after the core stopped
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # Saelthael
 
-> **The Sown Tree.** *(formal *Saelthael*, SAEL-thael · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree.")* Conservative drift. Theology high · reach **mid-low** (wells, not woods) · governance low.
+> **The Sown Tree.** *(formal *Saelthael*, SAEL-thael · [[The Old Tongue|sael]] "sowing" + [[The Old Tongue|thael]] "Tree.")* Conservative drift. Strong devotion, thinner reach (wells, not woods), and a light government.
 
 People say **the Sown Tree** and **Sown-folk**. Charters and learned maps write *Saelthael*. The shared *sael* with [[Saelvaeth|the Sown Waiting]] remains visible in writing; speech keeps the two powers apart.
 
@@ -27,11 +27,11 @@ People say **the Sown Tree** and **Sown-folk**. Charters and learned maps write 
 
 [[Kitsune|Fox of the Sands]] hearths are densest here. That is terrain, not a flag ([[Kinds of the Turning]]). A town with *no* fox-born would be the thing worth asking about.
 
-**Site.** Maiethorn's dry east. Leftover: **Rain-Shadow walk-hold**. West-road after the core stopped. Proves Ornthael is unfinished even at the origin-continent. Fleshed square: [[Ornsael]] (the sown-ground, a well-town still walking west).
+**Site.** Maiethorn's dry east. It is a Rain-Shadow walk-hold on the west-road, which the core stopped walking. Proves Ornthael is unfinished even at the origin-continent. Fleshed square: [[Ornsael]] (the sown-ground, a well-town still walking west).
 
 **Seat.** [[Larbril]] is the city, medium, where the west road meets [[Named Ground|the Well-wash]], short of the pass. Ornsael stays the smaller well-town, farther into the dry. [[The Dry Stair]] is not the reason for the city.
 
-**How it formed.** Tree-seats that formed around wells and slow grafts (C.Y. 0–80 was slower here — dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow. [[The Thaw-Break]] cut the west-road two summers; children went later, or missed. The Given-door did not loosen.
+**How it formed.** Tree-seats that formed around wells and slow grafts (Cut-year 0 to 80 was slower here — dirt, not a different gospel). When origin-squares became Hands-country, sand-country kept the habit of going to a healthier canopy. The habit grew a polity: the people who still sow. [[The Thaw-Break]] cut the west-road two summers; children went later, or missed. The Given-door did not loosen.
 
 **What they remember.** The core calls waiting soil. [[The Dry Stair]] is the local dare that is *not* a Tree — they climb it so they know the difference, then they walk west. Chronicle: [[The Other Count]].
 
@@ -45,24 +45,19 @@ Keep grafts alive in thin soil. Keep the west-road open. Refuse the core's story
 
 **Its injustice.** The motherland treats their waiting as a **local soil-problem** (true as far as it goes) and as a slight against the origin. Plenty next door; pilgrimage as a leftover they cannot retire. Vaethorn-guilt imported to sand that never asked for it.
 
+## Links
+- [[Powers of the Turning]] · [[Maiethorn]] · [[Larbril]] · [[Kinds of the Turning]] · [[Kitsune]]
+- [[Saelvaeth]] · [[Ornsael]] · [[The Dry Stair]] · [[The Thaw-Break]] · [[The Other Count]]
+- [[Settlement Seeds]] · [[The Years of Hands]] · [[The First Cut]]
+
 ## GM Notes
 
-- **Production (R.13).** Moved off the player body:
-- Named-stub for [[Roadmap|Story 7.1]].
 - Do not flesh districts.
 - Do not make a Fox kingdom.
-- Playable square: [[Ornsael]] (Story 7.2). It stays the well-town. It is not the seat.
-- **Canon status.** 🟡 **Named stub, seated.**
-- Seed `20260827`.
+- Playable square: [[Ornsael]] It stays the well-town. It is not the seat.
 - Seat is [[Larbril]]. Do not rename Ornsael into it. The Dry Stair is not the city's reason.
 
 - **Not a Kitsune nation.** Sands-Fox densest. Mixed Kinds. Do not put ears on the flag.
 - **Pair with Saelvaeth.** Same root, two clocks' worth of planting. Do not narrate Saelthael as "history" and Saelvaeth as "frontier flavour."
 - **Keystone:** thin take in dry soil stays horticulture in player text.
 - **Hooks.** A west-road cohort out of [[Ornsael]]; a well-graft that sickens; a core pilgrim who is shocked to find the neighbour's week *on Maiethorn*; a Sands-Fox warden who is tired of being asked if this is a fox-country. Pair with [[Harrow's Green]] so both clocks are visible in one campaign week.
-
-## Links
-- [[Powers of the Turning]] · [[Maiethorn]] · [[Larbril]] · [[Kinds of the Turning]] · [[Kitsune]]
-- [[Saelvaeth]] · [[Ornsael]] · [[The Dry Stair]] · [[The Thaw-Break]] · [[The Other Count]]
-- [[Settlement Seeds]] · [[The Years of Hands]] · [[The First Cut]]
-- [[Roadmap]] (Story 7.2; history R.9)

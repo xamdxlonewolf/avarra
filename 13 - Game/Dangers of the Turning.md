@@ -9,14 +9,14 @@ aliases: [Wilderness Dangers, Travel Dangers, The Road's Teeth]
 world: The Turning
 reveals: []
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Dangers of the Turning
 
-> **What this is.** A small Daggerheart layer for the road: what you can *roll* on the Long Mile, in Heskoren's wild, and on the named waters. Settlements already have things that enter a scene (a cohort, a crane, a well-mouth). This page is the country between those doors. Distances: [[Named Ground#Travel times]].
+> **What this is.** A small Daggerheart layer for the road: what you can *roll* on the Long Mile, in Heskoren's wild, and on the named waters. Settlements already have things that enter a scene (a cohort, a crane, a well-mouth). This page is the country between settlements. Distances: [[Named Ground#Travel times]].
 
-> **The monsters are already people.** Conditions are neighbours. Do not stock this layer with a second vampire, a cursed wolf-kin, or a hungry dead that is not a [[Returned]]. Beasts are beasts. Weather is weather. The leftover walk is people who did not go home. The ~5% is a real obstacle under ordinary travel, not a menagerie.
+> **The monsters are already people.** Conditions are neighbours, and this layer has no second vampire, no cursed wolf-kin, and no hungry dead that is not a [[Returned]]. Beasts are beasts. Weather is weather. The road danger is people who missed their week, beasts, and weather. It is a real obstacle under ordinary travel, not a menagerie.
 
 ## When to open this
 
@@ -44,6 +44,8 @@ Start from `[(3 × PCs) + 2]`. Spend: Minion group 1 · Support/Social 1 · Hord
 
 None of these are Conditions. A walker may *be* Conditioned the way anyone is. The card they carry is not this stat block.
 
+The Spent-Week Walker and the Colourless Host are Tier 2 blocks. In a Tier 1 scene, use the Tier 1 Difficulty, thresholds, and attack bonus from the benchmarks above in place of theirs.
+
 ## Environments
 
 Use these as the scene. Drop one adversary table-row into them. Impulses are what the place does when you spend Fear or when someone fails a travel roll.
@@ -61,9 +63,9 @@ The day's walk between two stones. The next shrine is weather, not a promise.
 | Feature | Type | Effect |
 |---|---|---|
 | **The next stone is a rumour** | Passive | Travel rolls to find the next mile-shrine are Difficulty 12. On a failure with Fear, the day ends in the gap. Mark a Stress or spend the night here. |
-| **Tithe at a distance** | Passive | A [[The Taken-In\|Taken-In]] who cannot touch living green, a [[Long-Lived]] with nothing new, a [[Far-Voiced]] with no outlet: their rest clock ticks as if the gap were a long rest they did not meet. Others are only tired. |
+| **Tithe at a distance** | Passive | A [[The Taken-In\|Taken-In]] who cannot touch living green, or a [[Long-Lived]] with nothing new, feels it. Their next long rest runs the card's check as usual, and the gap adds no extra tick. A [[Far-Voiced]] is not on this feature, because that clock is triggered by a scene. Others are only tired. |
 | **A bed that is not a shrine** | Action | Spend a Fear to put an occupied road-house in Very Far range — fire in a window, a voice that knows the walk-custom. It may be a [[Bed-Keeper]]. It may be empty and still have a fire. |
-| **Weather on the stones** | Action | Spend a Fear: hail, a wash-out, or a night with no moon. Everyone marks a Stress or takes 1d6+2 physical from cold and going over. A [[Two-Bodied]] in a form that can take weather may reduce it by their armor thresholds as usual. |
+| **Weather on the stones** | Action | Spend a Fear: hail, a wash-out, or a night with no moon. Everyone marks a Stress or takes 1d6+2 physical from cold and going over. A [[Two-Bodied]] in a form that can take weather may mark an Armor Slot as usual. |
 
 ### Thaw-gate — Tier 1 Traversal
 
@@ -78,7 +80,7 @@ The day's walk between two stones. The next shrine is weather, not a promise.
 | Feature | Type | Effect |
 |---|---|---|
 | **The cut is a lake** | Passive | Crossing without a guide is Difficulty 13. Failure: swept to Close range of the next rock and 1d8+2 physical, or lose a pack-animal / cart (GM's call, not both on one roll). |
-| **Two summers** | Passive | Anyone who lived the Thaw-Break (C.Y. 233) has Advantage on the next travel roll here if they say what they remember. Anyone who did not has to trust a mouth. |
+| **Two summers** | Passive | Anyone who lived the Thaw-Break (Cut-year 233) has Advantage on the next travel roll here if they say what they remember. Anyone who did not has to trust someone who did. |
 | **The pass takes a day** | Action | Spend a Fear to hold the party until the next thaw-bell. A watch, a guest-right, or a cohort sharing the rock becomes the scene. Name, last hearth, who stands. |
 | **Undercut** | Reaction | When a PC succeeds on a crossing roll, you may spend a Fear to collapse the path behind them. Allies still on the far side must roll again or find another cut. |
 
@@ -116,12 +118,12 @@ A Chart-run or West Water quay at first dark. Hulls that do not arrive are a loc
 | **Coasting weather** | Action | Spend a Fear: the next day's sail is cancelled or the last one is missing. Travel table on [[Named Ground]] becomes "not a promise." Anyone who needed that hull for a walk-custom is now unvouched at this quay. |
 | **We were here first** | Reaction | When a PC claims wreck-right or a berth, mark a Stress on a Chart-Crew (if present) to have them contest it as a standard attack, or start a social scene at Difficulty 13 if you would rather not roll damage yet. |
 
-## Pairing (do not overfill)
+## Pairing
 
 | Route | Environment | First adversary | Add if the table wants teeth |
 |---|---|---|---|
 | Long Mile inland | Mile-gap | Gap-Cat | Spent-Week Walker |
-| Long Mile leftover | Empty road-house | Bed-Keeper | Spent-Week Walker |
+| Long Mile, empty houses | Empty road-house | Bed-Keeper | Spent-Week Walker |
 | Rain-Wall / Shelf-gate | Thaw-gate | Gap-Cat | — (weather is enough) |
 | Chart-run / Netstrand | Night-berth | Chart-Crew | — |
 | Heskoren live front, dead pot | Mile-gap or a grove | Colourless Host | Spent-Week Walker |
@@ -150,4 +152,4 @@ A Colourless Host is a Support: it makes the *place* worse. Pair it with walkers
 - **Cliche pass.** Not wolves-as-werewolves, not quay-pirates with flags, not undead. Bed-Keepers want occupancy. Chart-Crews want the hull that grief already priced. Walkers want a week the wood will not reopen. The Host wants to Give and cannot — that is the 5%, and it is not a third Tree-outcome.
 - **Do not confirm her.** A Colourless Host is horticulture gone wrong, or a pot that never took. Skeptics and believers can both be loud. The player body does not settle it.
 - **Settlement layer stays R.11.** Do not restock Eolvaeth's cohort or Ornsael's well as these blocks. If a sent cohort is the danger, that is Vaethod's notice, not a Spent-Week Walker — unless the cohort *missed* their week and kept walking.
-- **Battle-point math is the SRD's.** A Bed-Keeper (Leader, 3) plus a Chart-Crew (Horde, 2) plus two Gap-Cats (Skulk, 2 each) is a full table for four PCs. Most travel scenes want one environment feature and one adversary.
+- **Battle-point math is the SRD's.** A Bed-Keeper (Leader, 3) plus a Chart-Crew (Horde, 2) plus two Gap-Cats (Skulk, 2 each) is 9 points, a light fight for four PCs, whose budget is 14. Most travel scenes want one environment feature and one adversary.

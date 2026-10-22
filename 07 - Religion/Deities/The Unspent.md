@@ -7,7 +7,7 @@ status: worshipped
 tags: [deity, religion, long-lived, household, fringe]
 aliases: [The Poured God, The Cup We Made, The Made Cup, The After-Cup]
 world: The Turning
-domain: memory given away by the Long-Lived, the five-year gift, the store the Pourers read
+domain: memory given away by the Long-Lived one year at a time, the store the Pourers read
 faith: "[[The Pourers]] (Long-Lived fringe)"
 reveal_tag: the-unspent
 reveals: [the-unspent]
@@ -17,9 +17,9 @@ updated: 2026-10-22
 
 # The Unspent
 
-> **People call it the Poured God.** Some [[Long-Lived]] keep a cup and say they made a god by giving it five years of their memory. They also give the papers from those years to the long-house shelf, and the circle stops counting those years in their age ([[The Pourers]]). They do it so they can keep living without carrying everything. Neighbours call it a memorial with airs. The Motherfaith calls it a private devotion. Nobody sets the cup up in a public square.
+> **People call it the Poured God.** Some [[Long-Lived]] keep a cup and say they made a god by giving it their memory, one year at a time. A member is asked once to join, and the circle asks five years of a member in all. For each year a member gives, that year's papers go onto the long-house shelf, and the circle counts the member one year younger ([[The Pourers]]). They do it so they can keep living without carrying everything. Neighbours call it a memorial with airs. The Motherfaith calls it a private devotion. Nobody sets the cup up in a public square.
 
-This note is about the presence in the cup. The group that keeps the cup is [[The Pourers]]. Members give five years of memory of their own accord, read the shared store through blood, and believe they created the god they give to. A member may leave, and leaving costs them their friends and their seat.
+This note is about the presence in the cup. The group that keeps the cup is [[The Pourers]]. Members say they give their memory of their own accord, one year at a time, each on its own night, and a member may stop before the next year. They read the shared store through blood, and they believe they created the god they give to. A member may leave, and leaving costs them their friends and their seat.
 
 ## Overview
 
@@ -27,18 +27,25 @@ This note is about the presence in the cup. The group that keeps the cup is [[Th
 
 They do not agree on that name. Among themselves they say **the Cup We Made**. On a quay people say **the Poured God**, with the smile they use for a rich uncle's hobby. No town Tree is involved. No leaf falls, and no warden Speaks a colour.
 
-What a neighbour can see: a cup or a small bowl, usually ordinary ware; one drop of the giver's blood in it, because Long-Lived already read memory from blood; and a person who has given five years away and is still recognizably themselves. They will tell you they invented whatever is on the other side of the cup. That claim is the centre of the practice.
+What a neighbour can see: a cup or a small bowl, usually ordinary ware; one drop of the giver's blood in it, because Long-Lived already read memory from blood; and a person who has given years away and is still recognizably themselves. They will tell you they invented whatever is on the other side of the cup. That claim is the centre of the practice.
 
 ## Worship and what people see
 
-- **No temple.** A shelf. Sometimes a second cup sits beside the first. The cost of asking for your years back is written on [[The Pourers]].
+- **No temple.** A shelf. Sometimes a second cup sits beside the first. The cost of leaving is written on [[The Pourers]]. The years a member already gave stay in the cup, and the papers are what come back.
 - **No priests.** The oldest member of a circle keeps the minutes. That person is a member with a book, not a Hand.
-- **How they picture it.** Each circle describes the god in its own way: a librarian, a quiet guest, a child who never left home. The picture changes from circle to circle. The rule does not change. Members give years. The cup keeps what they gave. The cup cannot Give a Condition, and it cannot save anyone from death.
+- **How they picture it.** Each circle describes the god in its own way: a librarian, a quiet guest, a child who never left home. The picture changes from circle to circle. The rule does not change. Members give years, one at a time. The cup keeps what they gave. The cup cannot Give a Condition, and it cannot save anyone from death.
 - **What the other faiths say.** The Motherfaith says it is a Long-Lived Tithe dressed up as a rite. The Watching says it is one more cost, and not the Mother. The Fair Hand says it is a contract with nobody on the other side to stamp. The Old Ways say it is not a sacred place or a door. The Open Table says it is a mainland need they do not share.
 
 ## What this is not
 
-It is not a sixth Turning. It cannot make anyone Long-Lived. It is not [[Returned|Threnvaeth]]'s record of the unfinished work of the dead. It is not [[Bound|Orledd]]'s bargain, because nobody asks it for help in a desperate moment. It is not a Tree cult, and it is not one of the five lived faiths.
+It cannot make anyone Long-Lived. It is not a record of the unfinished work of the dead, and nobody asks it for help in a desperate moment. It is not a Tree cult, and it is not one of the five lived faiths.
+
+## Links
+- [[Long-Lived]] — the Condition whose funerals this practice answers
+- [[Reimaethe]] — a member who wants out (seed; the group is [[The Pourers]])
+- [[The Pourers]] — the group that keeps the cup
+- [[The Leaf-Mother]] · [[Maieth]] · [[Faiths of the Turning]] · [[The Houses and the Years]]
+- [[07 - Religion]]
 
 ## GM Notes
 
@@ -47,17 +54,10 @@ It is not a sixth Turning. It cannot make anyone Long-Lived. It is not [[Returne
 - **What it takes in.** Memory only. The papers from the years a member gives go onto the long-house shelf, not into the cup, and the circle's count of a member's years is a long-house custom. Neither has anything to do with this presence. Reading the cup is how the circle looks things up. It is not feeding. The presence does not feed on people and does not need worship to live.
 - **The taking.** The presence stores whatever is put in a cup. It does not know or care whether the person chose to give it. When the inner circle of [[The Pourers]] forces a Long-Lived to give, the memory goes into the second cup, and the founder reads it. The founder is a Long-Lived person who started the Pourers. The founder is not this presence. Do not name the founder in this note. The details are on [[The Pourers#The taking]].
 - **The founder's belief.** The founder believes that the knowledge stored in the second cup will carry them into godhood. The founder also believes the attempt could ruin the very things they want to keep safe, and has accepted that risk. The notes record the belief. They do not say the crossing can happen, and they do not say the world could end. Player-facing text does not call the founder a god, a forgotten deity, or a threat that will end the world. What a player can read is the circle's claim that they made the presence.
-- **What it will not do.** Take over a person's will on its own. Sort the Kept. Confirm the Leaf-Mother. Name the Other Hands. Take Phoenix fire. Give back a gift as a Condition. A member who leaves gets their papers back, which members call a thinner copy. The memory stays in the cup.
-- **Tone.** About five percent frightening. A deathless person putting five years of memory on a shelf is sad and a little vain. It is not a blood cult. The frightening part is the inner circle, and it stays hidden underneath ordinary courtesy and real scholarship.
+- **What it is not, by name.** It is not a sixth Turning. It is not [[Returned|Threnvaeth]]'s record of the unfinished work of the dead. It is not [[Bound|Orledd]]'s bargain, because nobody asks it for help in a desperate moment. The player body leaves the Hands' names out.
+- **What it will not do.** Take over a person's will on its own. Sort the Kept. Confirm the Leaf-Mother. Name the Other Hands. Take Phoenix fire. Give back a gift as a Condition. A member who leaves gets their papers back, which members call a thinner copy. The years already given stay in the cup.
+- **Tone.** About five percent frightening. A deathless person giving up a year of memory at a time, and putting that year's papers on a shelf, is sad and a little vain. It is not a blood cult. The frightening part is the inner circle, and it stays hidden underneath ordinary courtesy and real scholarship.
 - **Reveal tag.** `the-unspent`. The player section describes the practice and the circle's claim. The fact that the presence existed before the Pourers named it stays in GM Notes.
 - **Keep the groups apart.** This is not [[The Protectors]] and not [[The Walled Book]]. The Pourers picture this presence as a god. It does not become a Hand.
-- **[[Reimaethe]] is a seed.** They want to stop before their fifth year. The group is [[The Pourers]]. Do not build the circle around Reimaethe on this page.
-
-## Links
-- [[Long-Lived]] — the Condition whose funerals this practice answers
-- [[Reimaethe]] — a member who wants out (seed; the group is [[The Pourers]])
-- [[The Other Hands]] — the five doors; this is not a sixth
-- [[The Leaf-Mother]] · [[Maieth]] · [[Faiths of the Turning]] · [[The Houses and the Years]]
-- [[Is the Leaf-Mother Real]] — do not confirm the Leaf-Mother through the cup
-- [[The Pourers]] — the group that keeps the cup
-- [[07 - Religion]] · [[11 - Secrets]]
+- **[[Reimaethe]] is a seed.** They want to stop before the fifth year. The group is [[The Pourers]]. Do not build the circle around Reimaethe on this page.
+- **Links (GM).** [[The Other Hands]] — the structure behind this presence; it is not a sixth Hand. [[Is the Leaf-Mother Real]] — do not confirm the Leaf-Mother through the cup. [[11 - Secrets]].

@@ -11,7 +11,7 @@ language: Gonan (hearth-register); daily speech is the local Maiethren drift
 homeland: the ridges — [[Maiethorn]] [[Named Ground|Rain-Wall]] and [[Heskoren]] highland spines (see [[Kinds of the Turning]])
 reveals: []
 created: 2026-08-16
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Tengu
@@ -22,7 +22,7 @@ updated: 2026-08-31
 
 Tengu are the crow-born of the high country: lean, sharp-featured people with dark feathers through their hair and down their arms, black bright eyes, and broad wings that carry them off any cliff or updraft. They are the folk of the **peaks and the wind** — born where the air is thin and the weather turns in a heartbeat, and utterly unbothered by either. Where lowlanders see a killing drop and a coming storm, a Tengu reads a launch point and a rising thermal. They fly, yes — but the deeper truth of a Tengu is that **the mountain never surprises them.** They feel the rockfall before it slides and the squall before it breaks.
 
-**The fresh angle:** the trope tengu is a trickster demon or a swordsmanship-obsessed mountain hermit. Here they're neither aloof nor uncanny-menacing — they're the **people who belong to the high wild** the way Selkies belong to the sea: at home in the exact place that kills everyone else. In a world of four custom Kinds, the fox-born move unseen through *society*, the sea-born move freely through *water*, the crow-born move freely through *the sky and the heights,* and the good people keep *the hill and the night.*
+Tengu are **the people who belong to the high wild**, the way Selkies belong to the sea: at home in the exact place that kills everyone else. The fox-born move unseen through *society*, the sea-born move freely through *water*, the crow-born move freely through *the sky and the heights,* and the good people keep *the hill and the night.*
 
 ## Values & Worldview
 
@@ -42,7 +42,7 @@ Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Calle
 
 ## Naming & tongue
 
-Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. Deliberately *not* the same mouth as [[Kitsune|Kusawe]] (two folklore-Japanese Kinds must not collapse into one sound). Full inventory lives in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. Bynames are often a perch or a pass, not a harbour.
+Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. It does not sound like [[Kitsune|Kusawe]]. The full inventory is in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. The second name is often a byname that is a perch or a pass, not a harbour, or a house-name where a list keeps them.
 
 Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
 
@@ -55,7 +55,7 @@ Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
 ## GM Notes
 
 - **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
-- **Register.** *Gonan* seed `20260825`. Do not collapse it into [[Kitsune|Kusawe]].
+- **Register.** *Gonan* seed `20260825`. Two folklore-Japanese Kinds must not collapse into one sound, so do not collapse it into [[Kitsune|Kusawe]].
 - **Flight.** At-will flight; dive is Stress-gated only (no per-scene cap). Offensive dive, not Faerie evasion.
 - **"Cannot be caught off guard"** lives **here only**, on The Mountain's Mood, and only against environmental hazards and terrain ambushes. Do not put the phrase back on Seal-Kin or Hollow-Hill.
 - **Wind-Caller** is the fan/wind lane: shove, carry, sweep. Not disguise, not escape.

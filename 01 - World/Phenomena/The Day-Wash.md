@@ -10,14 +10,14 @@ aliases: [The False River]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Day-Wash
 
-East of [[Named Ground|the Rain-Wall]], [[Named Ground|the Well-wash]] is a river in a kind Liren and a silt-line in a cruel one. The day-wash is the cruel kindness in between: water enough to look like a camp, for one afternoon.
+East of [[Named Ground|the Rain-Wall]], [[Named Ground|the Well-wash]] is a river in a kind Liren and a silt-line in a cruel one. The day-wash is what shows between those two: water enough to look like a camp, for one afternoon.
 
-A traveler from the core sees a silver in the dust and treats it as a ford. By morning it is a stain. The drink was never going to stay. [[Saelthael]] towns already know this, which is why they cluster at wells. [[Ornsael]]'s problem is a well dropping, not this shine. [[The Dry Stair]] is a different rise and Gives nothing. Do not camp the day-wash and call it either of those.
+A traveler from the core sees a silver in the dust and treats it as a ford. By morning it is a stain. The drink was never going to stay. [[Saelthael]] towns already know this, which is why they cluster at wells. [[Ornsael]]'s problem is a well dropping, not this shine. [[The Dry Stair]] is a different rise and Gives nothing. The day-wash is neither Ornsael's well nor the Dry Stair, and a camp made on it is gone by morning.
 
 [[Climate of the Turning|Rain-Shadow]] weeks already include a hard shower, a dust blow, or no change at all. A shower can make the wash run and still leave no civic drink. Animals cut the bank. A cart bogs in silt that was a road at noon. Taken-In ground that was watered by the shine is dry again before the leaves notice, except where someone spent the night bucket on a planting and not on the shine.
 

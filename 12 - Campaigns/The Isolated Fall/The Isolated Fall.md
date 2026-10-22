@@ -10,7 +10,7 @@ campaign: "[[The Isolated Fall]]"
 world: The Turning
 reveals: [when-the-fire-is-caught]
 created: 2026-08-31
-updated: 2026-10-05
+updated: 2026-10-22
 ---
 
 # The Isolated Fall
@@ -19,7 +19,7 @@ updated: 2026-10-05
 
 ## Premise
 
-A world that still talks about **the Phoenix** has not seen one in a generation. The public sentence is that the one is in care. Last Turning-Week, at the neighbour's canopy, something white happened and was not Spoken. Someone who burns like a legend walked out of a prepared room. The lamp they kept still knows more than one mouth.
+A world that still talks about **the Phoenix** has not seen one in a generation. The public sentence is that the one is in care. Last Turning-Week, at the neighbour's canopy, something white happened and was not Spoken. Someone who burns like a legend walked out of a prepared room. The lamp they kept still carries fire that answers to more than one person.
 
 There is still **one Gift**. Apparent two is leftover fire standing next to it. Engine: [[When the Fire Is Caught]]. Player agency: [[A Hidden Phoenix]].
 
@@ -33,7 +33,7 @@ Special seat, whole table: if anyone takes the hidden Phoenix, they sit in the *
 
 | | |
 |---|---|
-| **Square** | [[Harrow's Green]] — Hale-month, C.Y. 387. Not a new town. Not a capital. Not a fortress. |
+| **Square** | [[Harrow's Green]] — Hale-month, Cut-year 387. Not a new town. Not a capital. Not a fortress. |
 | **On-screen** | The walker (escaped remnant) · [[Rosire]] · the new Gift ([[Taeren]] *or* a PC in that seat) |
 | **Offstage** | [[Reimaethe]] · [[Hithaen]] · Vimein · the Care as a building · the six pivots |
 | **Kit** | [[The Opening]] |

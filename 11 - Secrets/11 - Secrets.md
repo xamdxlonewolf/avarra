@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # 11 - Secrets
@@ -47,12 +47,12 @@ Clue-bearing notes are listed on each secret's `foreshadowed_by`. Exact player-e
 ### Clue objects (player notes; confirmation stays in GM walls)
 - [[The Spent Leaf]] — colourless remainder of a Giving (keystone pin)
 - [[The Remainder]] — First Seat side-yard desk that keeps the box
-- [[The Closed Lamp]] — travelling-coal that answers two mouths (fire-plot object; not a leaf)
-- [[The Uncoloured Intake]] — gift-hall slips; one stamp, mouths that will not agree (household clue)
+- [[The Closed Lamp]] — travelling-coal that answers two people (fire-plot object; not a leaf)
+- [[The Uncoloured Intake]] — gift-hall slips; one stamp, and people who will not agree (household clue)
 - Six foreshadowing texts: [[The Leaf-Mother]] (Tender's blessing; Kept-child's saying) · [[The Child at Four Doors]] · [[The Child Who Counted Stones]] · [[The Branch That Came Away]] · [[The Child Who Climbed the Stone]]
 
 ### Contradictions (pass-two log)
-- [[Contradictions]] — residuals, conflicts, and quality gaps. Opened at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. C-05 resolved in passing with the campaign opening. **Open: none.** Do not reopen C-01–C-05.
+- [[Contradictions]] — residuals, conflicts, and quality gaps. Opened at the [[Epic R Completion Gate 2026-08-31|Epic R gate]]. C-01 to C-09 are resolved. C-10 to C-24 were found by [[Vault Audit 2026-10-22]] and sit in the Open table until Epic V fixes them. Do not reopen C-01 to C-09 beyond the leftovers the audit lists.
 
 ### Campaign (fires clues; does not rewrite the engine)
 - [[The Isolated Fall]] · [[The Opening]] — session one at [[Harrow's Green]]; remnant + unseen leaf; `when-the-fire-is-caught`. No Leaf-Mother proof. No Spent Leaf required.

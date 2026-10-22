@@ -10,7 +10,7 @@ aliases: [Heskoren Weather, Sundered Upland Climate]
 world: The Turning
 reveals: [keystone-adjacent]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Climate of Heskoren
@@ -24,7 +24,7 @@ The continent is not empty wilderness. It is a patchwork of worked pockets aroun
 | Ask | Use this |
 |---|---|
 | **Weather this week** | Cold rain in the vale, sleet on the ridge, one brilliant dry day, then a hard frost. On the west coast, add a long swell and wind that keeps the next hull outside. |
-| **What you can eat** | Oat mash, rye bread, peas, cabbage, turnips, hard cheese, smoked fish; berries, hazel nuts, nettles, sorrel, and mushrooms in season. A first-meal bread at [[The First Bowl]] is a little sour; do not explain it. |
+| **What you can eat** | Oat mash, rye bread, peas, cabbage, turnips, hard cheese, smoked fish; berries, hazel nuts, nettles, sorrel, and mushrooms in season. A first-meal bread at [[The First Bowl]] is a little sour. |
 | **What can enter a scene** | A Long Mile cart taking shelter; hay cut before the next rain; a wind-burned young graft; a camp fever at Eolvaeth; a pony mired between mile-shrines; a neighbour cohort with one dry day left; the bowl set out at [[The First Bowl]]. |
 
 ## Reading the short kind season
@@ -207,6 +207,7 @@ Packed earth, drainage, buried stone, or a tender's morning walk can explain any
 
 ## GM Notes
 
+- **The sour first-meal bread at The First Bowl.** Do not explain it.
 - **The player-facing cause remains distance and history expressed through horticulture:** young, sick, or scarce grafts; long carrying chains; wind, soil, water, and delayed care. The real edge stays unconfirmed.
 - **The old-road melt is the one habit this note does not explain.** It shows where wood came from. It does not show where wood should go. Do not turn it into a compass, a prophecy, or a voice.
 - **Kind-hearth discipline:** foxes in woods and snow, crows on ridges, seals on coasts. Terrain can make a hearth dense. It never makes a Kind-government.

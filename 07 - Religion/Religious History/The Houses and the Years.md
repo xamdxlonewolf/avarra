@@ -9,12 +9,12 @@ aliases: [Religious History, How the Houses Count]
 world: The Turning
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # The Houses and the Years
 
-> **A door.** The ages, the cut, and the year a square still cites already have their notes. So do the faiths. This page says which door to open. It does not retell them.
+> **This page points to the notes that hold the ages and the faiths.** The ages, the cut, and the year a square still cites already have their notes. So do the faiths. This page does not retell them.
 
 ## What they count
 
@@ -22,7 +22,7 @@ updated: 2026-10-01
 
 [[The First Cut]] is the hinge a Seat and a devout clerk count from. The note keeps five attributions and does not pick a hand. This page does not pick one either.
 
-[[The Wrong Green]] is the cited mis-Speaking, Harrow's, C.Y. 248. Wardens still use it when they teach a town not to name a fall the square wishes it had. It is case-law for a rite. It is not an age.
+[[The Wrong Green]] is the cited mis-Speaking, Harrow's, Cut-year 248. Wardens still use it when they teach a town not to name a fall the square wishes it had. It is case-law for a rite. It is not an age.
 
 What a clerical count starts, and what that start does not make into a first becoming, is said on [[The Ages of the Turning]] and [[Before the Walk]]. Nothing on this page adds a year before the cut, or a year for the wood.
 
@@ -30,9 +30,9 @@ A Watcher will not start history at the cut. The Old Ways start at a door. The F
 
 ## What is kept off the square
 
-[[The Unspent]] is a cup some [[Long-Lived]] keep, and [[The Pourers]] are the people who wear it. Neighbours call it a memorial with airs. It does not stand in a square, and it is not one of the five faiths.
+[[The Unspent]] is a cup some [[Long-Lived]] keep, and [[The Pourers]] are the people who keep the cup. Neighbours call it a memorial with airs. It does not stand in a square, and it is not one of the five faiths.
 
-[[The Uncoloured Intake]] is a gift-hall's working copy: mouths that would not sit under one line. It is paper. It is not a roster of powers.
+[[The Uncoloured Intake]] is a gift-hall's working copy: slips from people who would not agree to one explanation. It is paper. It is not a roster of powers.
 
 [[The Leaf-Mother]] holds the argument about a threshold — still hers, or not — as belief. [[Maieth]] is the presence the devout name. The other faiths keep their own verbs for the same hour. The map is [[Faiths of the Turning]].
 

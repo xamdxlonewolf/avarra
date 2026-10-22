@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, given, struck, siren]
 aliases: [The Far-Voiced, Siren, Carriers, Chorus-Trained]
-world:
+world: The Turning
 category: Condition
 monster: siren
 standing: revered
@@ -14,7 +14,7 @@ path: Both
 population: ~12%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Far-Voiced
@@ -23,16 +23,16 @@ updated: 2026-08-31
 
 ## The take
 
-A Far-Voiced's voice is never drowned out — by distance, by storm, by battle-noise, by water — and it never says less than it means. This is why the **signal network** runs on them (relay-singers post along coasts, roads, and border-towns to carry warnings, alarms, and orders faster and farther than any horn or drum), why courts and treaties want them as **witnesses** (a Far-Voiced's own voice betrays real feeling the moment they're under pressure, so their sworn word is trusted precisely because they're bad at lying under strain), and why they fill **concert halls** (emotion, delivered audibly and exactly, is the whole art form). Revered (~12% of all people; share from [[The Premise]]) rather than feared — but a Far-Voiced who can't master the channel is a genuine hazard to everyone in earshot, which is exactly why guild training exists.
+A Far-Voiced's voice is never drowned out — by distance, by storm, by battle-noise, by water — and it never says less than it means. This is why the **signal network** runs on them (relay-singers post along coasts, roads, and border-towns to carry warnings, alarms, and orders faster and farther than any horn or drum), why courts and treaties want them as **witnesses** (a Far-Voiced's own voice betrays real feeling the moment they're under pressure, so their sworn word is trusted precisely because they're bad at lying under strain), and why they fill **concert halls** (emotion, delivered audibly and exactly, is the whole art form). Revered (~12% of all people) rather than feared — but a Far-Voiced who can't master the channel is a genuine hazard to everyone in earshot, which is exactly why guild training exists.
 
 **Both paths, and they read differently.** About eleven parts in twelve are **Given**: they drew the sea-blue at the Awakening and spent childhood guild-trained (breath control, projection, the discipline of venting on purpose) — controlled, professional, poised. About one part in twelve is **Struck**: they nearly drowned — the door is *surviving drowning* — and came up with the voice raw and untrained, the undertow already pulling before anyone taught them to swim it. Same Condition, very different person at the table.
 
 ## At the Tree
 
 **Colour.** Sea-blue — folk-known when it falls. A Struck Far-Voiced has no leaf at all. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Both — most Given, a few Struck by surviving drowning. The engine lives on [[The Premise]].
-**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a gift of voice; if they came up from water instead, a quiet receiving-rite after the fact (Wide-Hand says she met them there; Narrow-Hand is uneasy). [[The Watching]] says the Tree — or the threshold — *saw* a throat that would carry. [[The Old Ways]] name drowning-door kin, not a late gift.
-**Where next.** [[The Hall-Keepers]] stamp the Voice-ticket at the hall lintel. A raw throat goes to [[The Intake]] before the town uses a rope.
+**Path.** Both — most Given, a few Struck by surviving drowning. The engine is on [[Turning Tree]].
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears a gift of voice; if they came up from water instead, a quiet receiving-rite after the fact (Wide-Hand says she met them there; Narrow-Hand is uneasy). [[The Watching]] says the Tree — or the threshold — *saw* a voice that would carry. [[The Old Ways]] name drowning-door kin, not a late gift.
+**Where next.** [[The Hall-Keepers]] stamp the Voice-ticket that lets a Far-Voiced work a hall. A newly Struck Far-Voiced is sent to [[The Intake]] for help before anyone has to restrain them.
 
 ## Daggerheart — Transformation card
 
@@ -48,20 +48,20 @@ A Far-Voiced's voice is never drowned out — by distance, by storm, by battle-n
 
 ## The Tithe, in the world
 
-The pleasant version is why the jobs exist: deliberate, controlled venting — performance, ritual song, relay-calls — is how a working Far-Voiced manages the channel, so the careers that need a big voice are also the careers that keep one healthy. The guild drilling (breath work, scheduled performance, the discipline of "singing it out" before a shift ends) exists because an un-vented Far-Voiced isn't just unpleasant to be near — a Cry in a crowded hall or a command tent is a real, documented hazard, which is exactly the ~5%-scary edge under the revered surface.
+The pleasant version is why the jobs exist: deliberate, controlled venting — performance, ritual song, relay-calls — is how a working Far-Voiced manages the channel, so the careers that need a big voice are also the careers that keep one healthy. The guild drilling (breath work, scheduled performance, the discipline of "singing it out" before a shift ends) exists because an un-vented Far-Voiced isn't just unpleasant to be near — a Cry in a crowded hall or a command tent is a real, documented hazard, which is exactly the risk under the revered surface.
 
 ## Getting Struck
 
 The door is **surviving drowning** — pulled under, breath and voice both stopped, and both came back changed. No leaf, no ceremony: it reads to onlookers as a miracle, or as faintly uncanny, depending on who's watching. A Struck Far-Voiced usually needs a guild's help fast, before they learn the hard way what happens at 0 tokens in public.
+
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Bound]] (detects *others'* lies vs. betrays the Far-Voiced's *own* feeling) · [[Two-Bodied]] (a common Condition, Given only)
+- [[The Hall-Keepers]] — Voice-ticket · [[The Intake]] — where a newly Struck Far-Voiced goes
+- [[The Watching]] · [[The Old Ways]]
 
 ## GM Notes
 
 Keep the Cry strictly a **feeling landing on listeners**, never a compulsion — Stress, not a forced action or belief. Use a Struck Far-Voiced's raw, untrained Undertow as onboarding drama (their first Cry, pre-guild, is a formative story beat, not a punishment). A Given Far-Voiced in deep Tithe-debt (0 tokens, on duty, in a courtroom or relay tower) is a slow-building GM set-piece, not a surprise gotcha.
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Bound]] (detects *others'* lies vs. betrays the Far-Voiced's *own* feeling) · [[Two-Bodied]] (the other common, revered-ish Given/Struck-mixed Condition)
-- [[The Hall-Keepers]] — Voice-ticket · [[The Intake]] — a raw Struck throat
-- [[The Watching]] · [[The Old Ways]]

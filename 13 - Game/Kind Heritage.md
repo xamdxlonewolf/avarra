@@ -9,18 +9,18 @@ aliases: [Hearth-Mark, Mixed Ancestry, Custom Kind Features]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # Kind Heritage
 
 > **What this is.** The table rulings for Kind (born ancestry) in **The Turning**. How the four custom Kinds sit next to Daggerheart's stock two-feature ancestries; how Mixed Ancestry works when a custom package has three features; which Kind keeps the "cannot be caught off guard" keyword. Fiction of hearths and mixed children lives on [[Kinds of the Turning]]. Condition cards, the Kept deal, and Struck-in-play timing live on [[At the Table]].
 
-> Keep the three-feature packages; stock takes a Hearth-Mark; Mixed Ancestry is allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind, never a mix; "cannot be caught off guard" is issued once, on [[Tengu]]. This does not reopen the two-layer model or hearths-not-nations. The Mark's exact once-per-session +2 is the working number (safe to retune if play finds stock thin).
+> Keep the three-feature packages; stock takes a Hearth-Mark; Mixed Ancestry is allowed as the SRD allows it; [[Yumboe]] PCs need GM leave and are always the full Kind, never a mix; "cannot be caught off guard" is issued once, on [[Tengu]]. The Mark is once per session, +2.
 
 ## The power band
 
-Stock Daggerheart ancestries grant **two** features. Each custom Kind grants **three**. The customs were balanced against each other; that made the stock roster a trap.
+Stock Daggerheart ancestries grant **two** features. Each custom Kind grants **three**. Beside them, a stock ancestry with two features looks weak.
 
 **Decision:** keep the four locked three-feature packages. Compensate at the *place* layer, not by cutting a Fox, a skin, a wing, or the unseen hands.
 
@@ -106,6 +106,7 @@ The other three customs keep their fiction without that phrase:
 ## GM Notes
 *(Stripped on player-safe export.)*
 
+- **The Mark's number.** The once-per-session +2 is the working number, safe to retune if play finds stock thin. This ruling does not reopen the two-layer model or hearths-not-nations.
 - **Why not trim.** The four three-feature packages are locked ancestry design. Story R.3 offered trim *or* a stock hearth benefit. Trimming would have been a locked-package change; the Mark is the other door. It is deliberately weaker than a third feature (once per session, +2, fiction-gated). If play finds stock still feel thin, raise the Mark's uses or write a second worked example — do not start cutting Foxes.
 - **Do not let the Mark clone a Community.** If a player writes *Seaborne but free*, ask for the quay's name.
 - **Mixed Ancestry is the SRD rule, on purpose.** Do not walk it back to "one Kind unless someone asks." Mainland mixes are ordinary at the table. The two-layer model still holds: Kind is born (including born-mixed); Condition is becoming.

@@ -60,7 +60,7 @@ What the page leaves out is the cost. It does not say that children walked the w
 
 **What Molevad says if a visitor asks:** "This is one meeting. K. said it could be read. The rest of the book stays shut."
 
-**What a reader is meant to understand:** these are the circle's own minutes of one willing gift. A Long-Lived member called K. asks to give five years of memory, names which years they are, and says why: K. is tired of carrying a husband's death. The circle asks three times whether the gift is K.'s own wish. K. gives the years into the cup with one drop of blood. Afterward K. still knows the husband's name and face from before the marriage and remembers nothing from those five years. K.'s papers from those years go onto the shelf, and from that night the long-house seats K. as five years younger. The minutes record how the circle will describe its god this decade, that one reading held two members' memories of the same summer, and that nobody asked to stop. They end with the circle's claim that every gift is freely given and that the circle made the god it gives to.
+**What a reader is meant to understand:** these are the circle's own minutes of one willing gift: one year, the fifth that a Long-Lived member called K. gives. The circle asks five years of a member in all, one year on each night, and K. is on the last. K. asks to give that year, names it, and says why: K. is tired of carrying a husband's death. The circle asks three times whether the gift is K.'s own wish. K. gives the year into the cup with one drop of blood. Afterward K. still knows the husband's name and face from before the marriage and remembers nothing from that year. K.'s papers from that year go onto the shelf, and the minutes end with the long-house seating K. one year younger, five in all. The minutes record how the circle will describe its god this decade, that one reading held two members' memories of the same summer, and that nobody asked to stop. They end with the circle's claim that every gift is freely given and that the circle made the god it gives to.
 
 That claim is the circle's belief. These minutes do not settle whether it is true.
 
@@ -88,7 +88,7 @@ The scene does not say which cousin got the better life. The hugged cousin keeps
 
 **What Molevad says if a visitor asks:** "One of us wrote it. Read it."
 
-**What a reader is meant to understand:** the poem is about a person who has five summers they no longer remember, and a room they walk past and do not open. People who read it often ask whether it is about the cup, where [[The Pourers]] give five years of memory away. If anyone asks Molevad, or any other Long-Lived person at the shelf, whether the poem is about the cup, that person will not say whether it is. This note records that they refuse to answer. It does not answer the question for them.
+**What a reader is meant to understand:** the poem is about a person who has five summers they no longer remember, and a room they walk past and do not open. People who read it often ask whether it is about the cup, where [[The Pourers]] give years of memory away, one year at a time. If anyone asks Molevad, or any other Long-Lived person at the shelf, whether the poem is about the cup, that person will not say whether it is. This note records that they refuse to answer. It does not answer the question for them.
 
 ## A road song
 
@@ -128,7 +128,7 @@ These three facts are true. No page in the library says them, and no page should
 - The minutes record a willing gift. They do not show the inner circle's taking, and the taking does not go through Molevad's minute-book ([[The Pourers#The taking]]). No page mentions the second cup.
 - The founder of the Pourers is not named and does not appear on any page. No page calls the founder a god or says the founder can become one.
 - The Long-Lived houses that pay for the long-house in Lestrand are not the founder. Whoever endowed it is a different person.
-- The minutes do not use the phrase "and the years themselves." Story H.6 settled what it means: the member's papers from those years go onto the shelf, and the long-houses that keep the circle stop counting those years in the member's age ([[The Pourers]]). The minutes record both for K. in one line.
+- The minutes do not use the phrase "and the years themselves." Story H.6 settled what it means: the member's papers from that year go onto the shelf, and the long-houses that keep the circle stop counting that year in the member's age ([[The Pourers]]). The minutes record both for K. in one line. A member gives one year at a time, each on its own night with its own minutes, and may stop before the next. These minutes are one such night. No date or month is given for the nights.
 - The member who stands in the passage in the minutes is a withdrawer ([[Movements]]). The page does not say why they stand there. Do not explain it.
 - The poem's refusal is only a refusal. Long-Lived people will not say whether the poem is about the cup. Do not decide the answer, and do not turn the refusal into a power, a relic, or a rite.
 - [[The Pourers]], [[The Walled Book]], and [[The Protectors]] stay three separate groups. No page connects them.

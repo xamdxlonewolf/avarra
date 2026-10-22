@@ -4,12 +4,12 @@ type: moc
 visibility: player
 note_status: fleshed
 status: active
-tags: [moc, people, npc, capitals, epic-r, story-r-8]
+tags: [moc, people, npc, capitals]
 aliases: [The Cast, Capital Casts, Positional Pivots]
 world: The Turning
 reveals: []
 created: 2026-08-30
-updated: 2026-10-03
+updated: 2026-10-22
 ---
 
 # People of the Turning
@@ -22,14 +22,14 @@ Recruits not by Kind. Given names below are what a neighbour says. The second na
 
 | Person | Square | The job | The want that is not a Tree |
 |---|---|---|---|
-| [[Vaethod]] | [[Eolvaeth]] | warden who sends | [[Saelid]] keeps the baker's stall through winter |
+| [[Vaethod]] | [[Eolvaeth]] | town-warden who sometimes sends a cohort to another Tree | [[Saelid]] keeps the baker's stall through winter |
 | [[Rithim]] | [[Maiethlir]] | Speaker who will not say the line | [[Valein]] stays unmarked on the tablet |
 | [[Mataero]] | [[The White Note House]] loft, [[Orentel]] | occupancy | buy [[Sorel]] out of a century-note |
 | [[Thilim]] | [[The Third Hearth]] | innkeeper of the Held bed | the stone's water still feeds the pot at dark |
-| [[Laevila]] | recut chapel, Maiethlir | Grown-Over Watcher; un-recut lintel-copy | [[Senithi]]'s name is good for a marriage |
+| [[Laevila]] | recut chapel, Maiethlir | Watcher; keeps a copy of the chapel beam's hidden face | [[Senithi]]'s name is good for a marriage |
 | [[Tesara]] | stillers' shed, Orentel | Intake catching-year | [[Valen]] gets a ticket, not a quiet week |
 
-Two clocks in the cast: [[Thilim]] and [[Laevila]] still say *I walked*, and they do not mean the same walk. [[Mataero]] files the age as occupancy and thinks the wave is over. [[Vaethod]] sends toward a luck they cannot see; the live front is [[Harrow's Green|Haelin]]'s square, not theirs.
+[[Thilim]] and [[Laevila]] both say *I walked*, and they do not mean the same walk. [[Mataero]] files the age as occupancy and thinks the wave is over. [[Vaethod]] sends people toward a luck they cannot see; the live front is [[Harrow's Green|Haelin]]'s square, not theirs.
 
 ## Named wants in the three seats
 
@@ -37,7 +37,7 @@ Wants sit on people. An institution can furnish or refuse. It cannot *want*.
 
 ### [[Eolvaeth]]
 
-1. **[[Vaethod]]** wants [[Saelid]]'s stall to keep its winter mouths. A send-year empties the camp-streets that buy bread.
+1. **[[Vaethod]]** wants [[Saelid]]'s stall to keep its winter customers. In a year when Vaethod sends a cohort away, the camp-streets that buy bread empty.
 2. **[[Nedaen]]** *(neh-DAYN)*, [[The Taken-In|Taken-In]], commons around the Tree, wants the gift-hall pot to feed their child through Ledger-month. Mother's green is enough until it is not.
 3. **[[Heiral]]** *(HAY-ral)*, Kept, camp-street, wants a marriage witnessed without being pitied as Mother-kept. They will take a neighbour's word. They will not take a sermon.
 4. **[[Daron]]** *(DAR-on)*, [[Returned]], far shed, wants a specific corpse named so a grain-debt dies with it. The family will not come downwind to do it.
@@ -63,16 +63,16 @@ Not a party. Paper, beds, pots, and one week in Eolthael.
 
 - A household [[Vaethod]] sent last thin year sometimes eats now on a White Note necessity-note. [[Mataero]] files the loft. [[Vaethod]] does not know the house-year.
 - [[Sorim]]'s berth 5 is earth. The pot is going toward a luckier Hand. [[Harrow's Green|Haelin]] will sleep the Road-hand if the wood arrives. That is the live front, not a reunion.
-- [[Rithim]] Speaks; [[Laevila]] describes the other colour in the same square, the same morning. They already share a street. They do not share a mouth.
+- [[Rithim]] Speaks; [[Laevila]] describes the other colour in the same square, the same morning. They already share a street. They do not say the same thing.
 - [[Tesara]]'s week, if it is not burned, becomes a person who later needs a loft or a berth. [[Mataero]] will hear occupancy. [[Sorim]] will hear a hold they cannot invent.
 - [[Thilim]] still holds a far-cape name the White Note does not. A court that wants a Cut-year on a house-year writes inland and to the quay. The two answers will not match. They do not travel to deliver them.
-- [[Reimaethe]] pours years in a rise-room [[Mataero]] lets. That is occupancy. It is also a later house.
-- [[Hithaen]] arrived in the gift-hall with no list behind them. [[Vaethod]] can tell a mouth that came to wait from a clerk. They have not yet decided which this is.
+- [[Reimaethe]] lives in a rise-room [[Mataero]] lets. They have given four years into [[The Pourers]]' cup, one year at a time, and want to stop before the fifth.
+- [[Hithaen]] arrived in the gift-hall with no list behind them. [[Vaethod]] can tell a person who came to wait from a clerk. They have not yet decided which this is.
 - [[Rosire]] works a ticket-infirmary downwind of [[Tesara]]'s shed when they are in [[Orentel]]. This Hale-month they are not. Tesara has not been told why.
 
-[[Ledan]] still writes the quay-desk. They are a mouth, not a seventh pivot. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the mouth that walks the witness home.
+[[Ledan]] still writes the quay-desk. They are a clerk, not a seventh pivot. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the one who walks the witness home.
 
-## Other mouths on the ground
+## Others on the ground
 
 Not a second court. Squares that needed a second shape.
 
@@ -93,9 +93,9 @@ Not a second court. Squares that needed a second shape.
 | Soonke · Saalo | [[Ndenjoo]] sand / valley | sit / leave | wreck off the hill; Waandi found |
 | Thuda | [[The Low Wall]] garden-end | innkeep | labour off the garden |
 
-## Maiethorn's seated mouths
+## Maiethorn's seat leaders
 
-Mouths at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Rothallo]] a clerk says the house first. [[Tasain]] has [[Narol of the Pass]] on the levy, and no one new.
+People at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Rothallo]] a clerk says the house first. [[Tasain]] has [[Narol of the Pass]] on the levy, and no one new.
 
 | Person | Square | The job | The want that is not a Tree |
 |---|---|---|---|
@@ -104,16 +104,16 @@ Mouths at the seats, with a want that is not a Tree. A neighbour says the given 
 | [[Raermu]] | [[Seinbrun]] | the medicine basket | a stiller's hour for a Kept child |
 | [[Brimaen]] | [[Rothallo]] | a stall inside the walls | the key through Turning-Week. House Lanbru. |
 | [[Breolnir]] | [[Rothallo]] | the sleep-line at the gate | a Given pilgrim written as sleep. House Tethnae. |
-| [[Methei]] | [[Rothallo]] | labour on the outer beds | the assignment ends at dark. House Sithlaen. |
+| [[Methei]] | [[Rothallo]] | a turn of work on the outer beds | the turn ends at dark and is not set again. House Sithlaen. |
 | [[Brormei]] | [[Larbril]] | the meeting of road and wash | the west road still a road when the wash is silt |
 | [[Tumair]] | [[Votaer]] | the hull's docket | one class for a hull that is also a pilgrim |
 | [[Lertho]] | [[Votaer]] | the Hush-rate | the rate taken as a rate |
 
-Delamem and Talnin remain the Book's mouths, on [[The Walled Book]]. [[Hithaen]] is another Given heir, already in [[Eolvaeth]].
+Delamem and Talnin stay on [[The Walled Book]]. [[Hithaen]] is another Given heir, already in [[Eolvaeth]].
 
-## Strandoren's seated mouths
+## Strandoren's seat leaders
 
-Mouths at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Lunbra]] a clerk says the house first. [[Orentel]] was already seated. [[Denlad]] stays Relmun. The White Note stays [[Ledan]].
+People at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Lunbra]] a clerk says the house first. [[Orentel]] was already seated. [[Denlad]] stays Relmun. The White Note stays [[Ledan]].
 
 | Person | Square | The job | The want that is not a Tree |
 |---|---|---|---|
@@ -124,23 +124,23 @@ Mouths at the seats, with a want that is not a Tree. A neighbour says the given 
 | [[Vamar]] | [[Lunbra]] | a column of the roll | the row under the house that was said. House Melro. Not the crown. |
 | [[Mursur]] | [[Braetu]] | the far quote, and a lamp | the dark berth left without a house |
 
-## Heskoren's seated mouth
+## Heskoren's seat leader
 
-One mouth. [[Sanbreo]] has no new person. [[Vaelhesk]] has no new person. The land stays the seat. A neighbour says the given name.
+One person. [[Sanbreo]] has no new person. [[Vaelhesk]] has no new person. The land stays the seat. A neighbour says the given name.
 
 | Person | Square | The job | The want that is not a Tree |
 |---|---|---|---|
 | [[Dumu]] | [[Natai]] | the march-voice | a shout that lands at that gate, and not on Haelin's square |
 
-## Four campaign seeds
+## Four people a campaign can start from
 
-The houses exist. Do not grow the four into a crew.
+They are four separate people. They are not a crew.
 
-| Seed | Person | What they want now | Where they stand |
+| Who | Person | What they want now | Where they stand |
 |---|---|---|---|
-| Volunteer who wants out | [[Reimaethe]] | stop before the fifth year | a rise-loft, Orentel |
+| A member of the Pourers who wants to stop | [[Reimaethe]] | stop before the fifth year | a rise-loft, Orentel |
 | Disinherited Given heir | [[Hithaen]] | a life that is not a wall-pass | Eolvaeth gift-hall |
-| Hidden second fire | [[Taeren]] | not to be seen as a story | of Brenod; still at [[Harrow's Green]] after last Turning-Week |
+| A child the stories are not about | [[Taeren]] | not to be seen as a story | of Brenod; still at [[Harrow's Green]] after last Turning-Week |
 | The one who opened a door | [[Rosire]] | the child gone, themselves forgotten | of Orentel; Harrow's upper room this Hale-month |
 
 ## Names in the room
@@ -154,24 +154,6 @@ A neighbour still gets the given name. Raetoth, Lithsur, Lonteith, Relmun, Huval
 [[Orentel]] asks *of where?* The quay does not file a family. [[The White Note House|The White Note]] is a house only while the paper is open, and then it is the desk. [[Valen]] is of Orentel. [[Didel]] is of Hallowquay.
 
 [[Thilim]] is of the Held bed. [[Taeren]] is of Brenod. [[Njunda]] is the given name.
-
-## GM Notes
-
-### Production notes (P2.1)
-
-Moved from the player-facing body during residual export polish:
-
-- ## Other mouths this pass put on the ground (Story R.11)
-
-- **Names.** Seed `20260830`, middle of the list, plus unused names already on that working set. Do not re-roll the six.
-- **Positional, not destined.** Involvement is the job. Do not give any of the six a prophecy, a Kind-champion speech, or a First Seat that answers mail.
-- **Constellation, not a party.** Intersections are structural (same week, same paper, same square). If the table has them all sit down together you have built a crew. Don't.
-- **Non-Tree wants are load-bearing.** The audit's hole was a world where nobody wanted money, love, revenge, or a stall. If a session only asks them about the wood, you are running the old furniture.
-- **Two clocks.** Someone who walked ([[Thilim]] as the inn; [[Laevila]] as a child under Thaeloren). Someone who did not. Someone who thinks the wave is over ([[Mataero]]). Someone still sending ([[Vaethod]]). The live front is Haelin's, pointed at, not cloned into a seventh pivot.
-- **Seeds stay seeds.** [[Reimaethe]] is a mouth of [[The Pourers]], not the house. [[Hithaen]] is a mouth of [[The Walled Book]], not the Book. [[Taeren]] and [[Rosire]] sit under [[The Protectors]] and [[When the Fire Is Caught]]. Opening kit: [[The Opening]] — those two on-screen at Harrow's; Reimaethe and Hithaen stay in their squares. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. This page still does not grow four mouths into a crew.
-- **Do not add a Given-Over broker here.** That face is [[The Holding Desk]]. Sold vouching is [[The Standing Trade]] — an alley [[Didel]] has heard of, not a seventh pivot.
-- **Threnmaieth instruments** live on [[The Reckoned Offices]] (Menirein · Tarvae · Videm · Sirtal). [[Rithim]] is already the local Speaker. Do not invent a second registrar to tidy them. Do not give those four a person-note or a house from this page.
-- **L.4 houses, one draw.** `python3 "14 - Assets/Names/generate_names.py" --seed 20261001 --register conservative --count 40` — Thalonve position 27, Nirsei position 32, Rairtei position 26, Brethlumal position 15. English-adjacent and Maieth-adjacent candidates in that field were thrown back. Full record: [[Naming People in the Turning#GM Notes]] and [[Roadmap#Epic L — The lived world]].
 
 ## Links
 - [[Vaethod]] · [[Rithim]] · [[Mataero]] · [[Thilim]] · [[Laevila]] · [[Tesara]]
@@ -187,6 +169,18 @@ Moved from the player-facing body during residual export polish:
 - [[Ndenjoo]] · [[Njunda]] · [[Ledan]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[The Pourers]] · [[The Walled Book]] · [[The Protectors]] · [[The Reckoned Offices]]
-- [[When the Fire Is Caught]] — engine under [[Taeren]] / [[Rosire]], GM
 - [[The Opening]] · [[The Isolated Fall]]
 - [[Naming People in the Turning]] · [[Leaders]] · [[Heroes and Villains]] · [[08 - People]] · [[Roadmap]]
+
+## GM Notes
+
+- **Taeren's row.** The row used to say "hidden second fire." Taeren is the new leaf if no player character holds the seat, and the walker from the sanctuary is the remnant. That stays in [[Taeren]]'s GM Notes and in [[When the Fire Is Caught]]. Do not put it back in the table.
+- **Names.** Seed `20260830`, middle of the list, plus unused names already on that working set. Do not re-roll the six.
+- **Positional, not destined.** Involvement is the job. Do not give any of the six a prophecy, a Kind-champion speech, or a First Seat that answers mail.
+- **Constellation, not a party.** Intersections are structural (same week, same paper, same square). If the table has them all sit down together you have built a crew. Don't.
+- **Non-Tree wants are load-bearing.** The audit's hole was a world where nobody wanted money, love, revenge, or a stall. If a session only asks them about the wood, you are running the old furniture.
+- **Two walks.** Someone who walked ([[Thilim]] as the inn; [[Laevila]] as a child under Thaeloren). Someone who did not. Someone who thinks the wave is over ([[Mataero]]). Someone still sending ([[Vaethod]]). The live front is Haelin's, pointed at, not cloned into a seventh pivot.
+- **Seeds stay seeds.** [[Reimaethe]] is a member of [[The Pourers]], not the circle. [[Hithaen]] is a Given heir of [[The Walled Book]]'s Close, not the Book. [[Taeren]] and [[Rosire]] sit under [[The Protectors]] and [[When the Fire Is Caught]]. Opening kit: [[The Opening]] — those two on-screen at Harrow's; Reimaethe and Hithaen stay in their squares. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. This page does not turn the four into a crew.
+- **Do not add a Given-Over broker here.** That face is [[The Holding Desk]]. Sold vouching is [[The Standing Trade]] — an alley [[Didel]] has heard of, not a seventh pivot.
+- **Threnmaieth instruments** live on [[The Reckoned Offices]] (Menirein · Tarvae · Videm · Sirtal). [[Rithim]] is already the local Speaker. Do not invent a second registrar to tidy them. Do not give those four a person-note or a house from this page.
+- **L.4 houses, one draw.** `python3 "14 - Assets/Names/generate_names.py" --seed 20261001 --register conservative --count 40` — Thalonve position 27, Nirsei position 32, Rairtei position 26, Brethlumal position 15. English-adjacent and Maieth-adjacent candidates in that field were thrown back. Full record: [[Naming People in the Turning#GM Notes]] and [[Roadmap#Epic L — The lived world]].

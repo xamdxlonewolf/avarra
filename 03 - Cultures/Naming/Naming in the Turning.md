@@ -4,21 +4,21 @@ type: reference
 visibility: player
 note_status: fleshed
 status: active
-tags: [naming, language, conventions, institutions, epic-2, epic-4, moc]
+tags: [naming, language, conventions, institutions, moc]
 aliases: [Naming Conventions, Institution Names, The Name Reveals the Stance, Naming Pass]
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 
 # Naming in the Turning
 
 > **How to use this.** Same building, three names. Find the thing in the dictionary, then the column for the land you are in. **Speak the common name; write the liturgical name.** A traveller asks for the *hall-keepers* or sails to *the Night Shore*. A rite, charter, learned map, or scholar may write *Orenhael* or *Netstrand*. The common handle comes first at the table.
 
-> **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions the [[Roadmap|Epic 2]] social-structure notes first wrote as plain descriptive placeholders. The governing principle — the reason this pass waited until the [[Polity Archetypes|polity archetypes]] existed — is one lever:
+> **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions that [[Law and Citizenship]], [[Economy and the Tithe]], and [[Daily Life]] describe in plain words. One rule governs them:
 
 > ## **The name a polity gives a shared thing reveals its stance.**
-> Every polity has the same institutions (they flow from the [[Turning Tree|Trees]] and the Conditions, which are universal). But **what each calls them** is set by where it sits on the [[Polity Archetypes|theology / reach / governance axes]]. A [[The Leaf-Mother|devout]] land calls the release-hall a *gift-hall*; a merchant coast calls it a *release-house*; a surveillance-crown calls it a *counted hall*. Same building, three worldviews. This note is the working dictionary of that.
+> Every polity has the same institutions (they flow from the [[Turning Tree|Trees]] and the Conditions, which are universal). But **what each calls them** is set by where it sits on the [[Polity Archetypes|theology / reach / governance axes]]. A [[The Leaf-Mother|devout]] land calls the release-hall a *gift-hall*; a merchant coast calls it a *release-house*; a surveillance-crown calls it a *counted hall*. Same building, three worldviews. This note is the dictionary of those names.
 
 ## How names are built
 
@@ -38,11 +38,11 @@ Full derivations in [[The Old Tongue#The fifteen polities, named]]. In short:
 | **the Ledger Coast** | *Lestrand* | LES-trand | "the Reckoning Coast" | most-eroded name = most secular of the original three |
 | **the Tallied Crown** | *Threnmaieth* | THREN-mai-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
 
-The other twelve (Story 7.1, 🔒) live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
+The other twelve live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
 
 ## The institution dictionary
 
-The universal grammar's institutions, with the **common-tongue** name and the three polity variants where stance diverges. Names remain lightly held — good working canon, open to a polish pass with the wider naming of Epic 4.
+The universal grammar's institutions, with the **common-tongue** name and the three polity variants where stance diverges.
 
 ### Citizenship & law (from [[Law and Citizenship]])
 
@@ -56,10 +56,10 @@ The universal grammar's institutions, with the **common-tongue** name and the th
 | night hold | **the watch** | *the night-blessing* (a rope if they must) | *the gate* (three questions) | *the counted watch* |
 | public harm hearing | **open hearing** | *the speaking in square* | *the factor's hearing* | *the named hearing* |
 | the safety-licence | **the ticket** | *the blessing-to-practice* | *the guild-ticket* | *the crown-warrant* |
-| a census of persons | *(none — no one else keeps one)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
+| a census of persons | *(no common name; only two crowns keep one: Trenledd's **roll**, and Threnmaieth's Threnhael)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
 
-> **The darkest coinage.** Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name is the [[Polity Archetypes|sanctified-surveillance]] thesis in a single word. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands do not do this. → [[Naming People in the Turning#House-names — where a list outlives the witness]]
+> **The darkest coinage.** Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name shows how the crown sees its roll: as sanctified care. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands do not do this. → [[Naming People in the Turning#House-names — where a list outlives the witness]]
 
 ### Tithe-provision (civic infrastructure, from [[Economy and the Tithe]] / [[Daily Life]])
 
@@ -80,11 +80,11 @@ The three life-outcomes of the [[Turning Tree|Leaf-Fall]] keep their plain commo
 | **the Struck** (turned later, alone) | *the late-come* (met at a later door) | *the turned* (neutral, a fact) | *the unwitnessed* (suspect until named) |
 | **the Kept** (untithed, whole) | *the Waited* / *Mother-kept* (pitied — passed over) | *the free* (**approving** — unencumbered labor) | *the unmarked* / *the passed-over* (noted as such) |
 
-> **Read across a single row and you have the whole setting.** The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied-as-free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained). One kind of person; three societies' worth of judgment. This row *is* the [[Polity Archetypes|"name reveals stance"]] lever in miniature.
+> The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied as free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained).
 
-### Clergy (from [[The Tree-Wardens]], Story 5.1 · the other four houses, Story 5.2)
+### Clergy (from [[The Tree-Wardens]] and the other four houses)
 
-Names 🟡 — everyday words are already in the faith notes; the liturgical / own-name coinages are proposed.
+Everyday words are already in the faith notes. This table adds the liturgical and own names.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ Names 🟡 — everyday words are already in the faith notes; the liturgical / o
 | [[The Shore-Sitters]] (isle flavor) | **shore-sitters** (own *Njawaal*) | *(a sailor's tale)* | *(the wreck-waiters)* | *(off the map)* |
 | [[The Slide]] (shadow house) | **the Slide** / **week-keepers** (cant *Vaethledd*) | *the last pot* / *gift-credit* | *week-rent* | *(the late week — unfiled)* |
 
-### Tithe-infrastructure & tickets (from [[Tithe-Infrastructure]], Story 5.3)
+### Tithe-infrastructure & tickets (from [[Tithe-Infrastructure]])
 
-Names 🟡 — everyday words are already in the economy/law notes; the liturgical / umbrella coinages are proposed.
+Everyday words are already in the economy and law notes. This table adds the liturgical and umbrella names.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -124,9 +124,9 @@ Same lever, now for religions. The common-tongue name is what a traveller says; 
 | [[The Old Ways]] | the Old Ways | *Vaeloren* | *the Before-Faith* (live fight) | *(a frontier curiosity)* | *the Unreached* |
 | [[The Open Table]] | the Open Table | *Ndeyaan* | *(a sailor's tale)* | *the Moon-Feast* (quay-story) | *(not on the roll — off the map)* |
 
-### Eras & dating (from [[The Ages of the Turning]], Story 6.1)
+### Eras & dating (from [[The Ages of the Turning]])
 
-Same lever, on history itself. There is no universal year-zero. Names 🔒 (user-approved 2026-08-24).
+Same lever, on history itself. There is no universal year-zero.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -138,9 +138,9 @@ Same lever, on history itself. There is no universal year-zero. Names 🔒 (user
 
 [[Before the Walk]] stays mostly unnamed. [[The Watching]] keep **the Before**. [[The Sundering Isle|Kumbaan]] keeps moons.
 
-### The road (from [[The Walking Years]], Story 6.2)
+### The road (from [[The Walking Years]])
 
-Lived names of Brenvaeth. Everyday first; liturgical / cant 🟡. Do not rebuild the era spine.
+Lived names of Brenvaeth. The everyday name comes first, then the liturgical or cant one.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -151,9 +151,9 @@ Lived names of Brenvaeth. Everyday first; liturgical / cant 🟡. Do not rebuild
 | a day's stone | **mile-shrine** | *ribbon-stone* | *the mile-mark* | *the unfiled stone* |
 | the tenth-year week at the origin | **the one-week door** *(descriptive)* | *the only hug* | *the appointment* | *the uncounted week* |
 
-### The Cut and the spread (from [[The First Cut]], Story 6.3)
+### The Cut and the spread (from [[The First Cut]])
 
-Lived names of Eoloren. Everyday first; objects 🟡. Do not pick a cutter. Do not rebuild the era spine.
+Lived names of Eoloren. The everyday name comes first. The cutter is unnamed.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -162,9 +162,9 @@ Lived names of Eoloren. Everyday first; objects 🟡. Do not pick a cutter. Do n
 | Seat quarrel before the paper | **the generation of argument** | *the unblessed years* | *the first unlicensed carrying* | *the uncounted cuts* |
 | Old Ways courtesy at a planting | **the first meal** | *(suspect — a guest-word)* | *(a frontier courtesy)* | *(unfiled)* |
 
-### Residues (from [[The Years of Hands]], Story 6.4)
+### Residues (from [[The Years of Hands]])
 
-Lived names of Ornthael. Everyday first; jobs 🟡. Do not narrate this as post-history. Do not rebuild the spine, the road, or the Cut.
+Lived names of Ornthael. The everyday name comes first.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -175,7 +175,30 @@ Lived names of Ornthael. Everyday first; jobs 🟡. Do not narrate this as post-
 | unused pilgrim dorm | **the upper room** | *the waiting-beds* | *merchant-loft* (when let) | *the uncounted loft* |
 | bed never let | **the Held bed** | *the kept-place* | *the unlet* (house custom) | *(wants it on the roll)* |
 
-## How to coin more (for later notes)
+## Links
+- [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
+- [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
+- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
+- [[Naming People in the Turning]] — person-names and the four Kind hearth-registers
+- [[How a Place Speaks]] — the same drifts, as speech: handles, tones, and what a place asks you
+- [[Naming Tools]] — reproducible candidate streams and collision checks
+- [[Kinds of the Turning]] — hearths, not nations
+- [[The Ages of the Turning]] — era-names and Cut-years
+- [[The Walking Years]] — the three walks · *brenhael*
+- [[The First Cut]] — the nameless knife · the generation of argument
+- [[The Years of Hands]] — the extra mile · the neighbour's week · the First-Hand year
+- [[Powers of the Turning]] — the fifteen named powers
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
+- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — the three seats
+
+## GM Notes
+*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
+
+- **A polity's vocabulary is self-justification, not a verdict.** Threnmaieth's "keeping-whole" calls surveillance care; the Ledger Coast's "free" turns a social slight into market praise; the Waiting Lands' "Waited" wraps pity in reverence. The words tell you what each polity needs its practice to mean.
+- **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
+- **The names are settled, and coinage is frozen.** The twelve power-names are settled with the rest. There is no sixteenth power. If a later note needs another institution variant, coin it by the rules in "How to coin more" below rather than retrofitting these.
+
+### How to coin more (for later notes)
 
 New liturgical names are frozen. If play creates a need that common speech cannot meet:
 
@@ -184,26 +207,3 @@ New liturgical names are frozen. If play creates a need that common speech canno
 3. **Run the collision gate.** Use [[Naming Tools]] and reject closed families, near-homophones, and cross-category confusion.
 4. **Push through one established drift.** Do not invent a fourth mainland language.
 5. **Give the common spoken handle at the same time.** Mark pronunciation on first formal use. The handle must work without an etymology lesson.
-
-## Links
-- [[The Old Tongue]] — the root language, phonology, drifts, and polity derivations
-- [[Polity Archetypes]] — the three stances these names express · [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]]
-- [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael 🟡) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
-- [[Naming People in the Turning]] — person-names and the four Kind hearth-registers (Story 4.2)
-- [[How a Place Speaks]] — the same drifts, as a mouth: handles, tones, and what a place asks you
-- [[Naming Tools]] — reproducible candidate streams and collision checks
-- [[Kinds of the Turning]] — hearths, not nations
-- [[The Ages of the Turning]] — era-names and Cut-years (Story 6.1)
-- [[The Walking Years]] — the three walks · *brenhael* (Story 6.2)
-- [[The First Cut]] — the nameless knife · the generation of argument (Story 6.3)
-- [[The Years of Hands]] — the extra mile · the neighbour's week · the First-Hand year (Story 6.4)
-- [[Powers of the Turning]] — the fifteen named powers (Story 7.1)
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]] — Story 7.2
-- [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] — Story 7.3 seats
-
-## GM Notes
-*(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
-
-- **A polity's vocabulary is self-justification, not a verdict.** Threnmaieth's "keeping-whole" calls surveillance care; the Ledger Coast's "free" turns a social slight into market praise; the Waiting Lands' "Waited" wraps pity in reverence. The words tell you what each polity needs its practice to mean.
-- **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
-- **Names are working canon, not frozen.** Good enough to build on now; the twelve new power-names are 🟡 with the rest of Story 7.1. If a later note needs a fifteenth polity's *institution* variant, coin it by the rules above rather than retrofitting these.

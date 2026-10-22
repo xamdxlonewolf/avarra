@@ -6,7 +6,7 @@ note_status: canon
 status: active
 tags: [condition, becoming, given, djinn]
 aliases: [The Answered, Djinn, Jinni, Answerers]
-world:
+world: The Turning
 category: Condition
 monster: djinn / jinni
 standing: wildcard
@@ -14,7 +14,7 @@ path: Given only
 population: ~10%
 reveals: []
 created: 2026-08-15
-updated: 2026-08-31
+updated: 2026-10-22
 ---
 
 # The Answered
@@ -25,14 +25,14 @@ updated: 2026-08-31
 
 At the Awakening, an Answered child's lamp-amber / brass leaf doesn't just mark them Given — its **shade** names which element answered: **Ember** (fire), **Tide** (water), **Root** (earth and stone), or **Gale** (air). From that day the element is *theirs to speak to*, not summon or command — coaxed like clay, never conjured like a spirit. This is why the Answered run the craft guilds built around their element: **Ember-Answered** glasswrights and smiths who don't need a furnace at full heat; **Tide-Answered** shipwrights and dyers who can bend a hull's planks or set a colour without steam or mordant; **Root-Answered** masons and potters who coax stone and clay without chisel or wheel; **Gale-Answered** sailmakers and instrument-makers who cut and voice their work with the wind's own help.
 
-**"Wildcard" standing (~10%; share from [[The Premise]])** because the Answered are never one thing. Which element answers, and what temperament came with it, is different every time — an even-tempered Root-Answered potter and a short-fused Ember-Answered smith have nothing in common but the name. Some guilds prize them above any other artisan; some households are wary of hosting one whose element runs hot. No leaf-colour tells you which kind you're getting until you meet them.
+**"Wildcard" standing (~10%)** because the Answered are never one thing. Which element answers, and what temperament came with it, is different every time — an even-tempered Root-Answered potter and a short-fused Ember-Answered smith have nothing in common but the name. Some guilds prize them above any other artisan; some households are wary of hosting one whose element runs hot. No leaf-colour tells you which kind you're getting until you meet them.
 
 ## At the Tree
 
 **Colour.** Lamp-amber / brass — folk-known. The *shade* of that amber names Ember, Tide, Root, or Gale; no leaf tells you the temperament until you meet them. Canonical palette: [[Turning Tree#Reading the colours (colour → Condition)]].
-**Path.** Given only. The engine lives on [[The Premise]].
+**Path.** Given only. The engine is on [[Turning Tree]].
 **How the square reads it.** [[The Leaf-Mother|Motherfaith]] hears an element that answered because the gift fitted a craft. [[The Watching]] says the Tree *saw* which medium would talk back — a witness, not a mother's pick.
-**Where next.** [[The Element-Guilds]] — four doors, one ticket standard, so the work is used in earnest and does not let go in a crowded room.
+**Where next.** The four [[The Element-Guilds|element-guilds]] license the Answered to one standard and give them steady work, so their element does not break loose in public.
 
 ## Daggerheart — Transformation card
 
@@ -57,14 +57,14 @@ Choose your **element** at creation — **Ember**, **Tide**, **Root**, or **Gale
 
 The pleasant version is why the guilds are shaped the way they are: real, purposeful use of your element keeps you steady, so the Answered's apprenticeships run long and workshops (and, just as often, watch rotations, escort work, and firefighting crews) exist to give them a steady outlet. The scary edge is exactly why "wildcard" sticks as a label — one of the Answered kept idle, grieving, or benched too long is a genuine hazard to be near, and every guild hall has a story about the time someone's untended element finally let go in a crowded room.
 
+## Links
+- [[Conditions]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
+- Contrast: [[Long-Lived]] (another Given-only Condition with no Struck door) · [[Bound]] (a sworn contract with a counterparty vs. an element that simply answered, no bargain struck)
+- [[The Element-Guilds]] — four craft-houses, one ticket
+- [[The Watching]] — witness, not Mother
+
 ## GM Notes
 
 Keep every consequence self-contained to the Answered and their immediate surroundings — never a forced effect on another creature's body, action, or will. Let the chosen element define the character's whole voice at the table (an Ember-Answered feels nothing like a Root-Answered in a fight or a quiet scene). **Spoken, not commanded** is the djinn inversion: they ask, they do not own a servant, and no one else is the master. One of the Answered deep in Tithe-debt walking into a crowded hall, a ship's hold, or a dry archive is a slow-building set-piece, not a gotcha.
 
 Tracker: [[Build Plan]].
-
-## Links
-- [[Conditions]] · [[The Premise]] · [[At the Table]] · [[Turning Tree]] · [[The Leaf-Mother]]
-- Contrast: [[Long-Lived]] (the other Given-only Condition with no Struck door) · [[Bound]] (a sworn contract with a counterparty vs. an element that simply answered, no bargain struck)
-- [[The Element-Guilds]] — four craft-houses, one ticket
-- [[The Watching]] — witness, not Mother

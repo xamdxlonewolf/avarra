@@ -7,22 +7,22 @@ status: residual
 tags: [era, history, epic-6, pilgrimage, walking, road]
 aliases: [The Walking, Brenvaeth, The Old Road, The Pilgrimage Era, The Near Mile, The Salt Walk, The Long Mile]
 world: The Turning
-spans: uncounted start → default ended at [[The First Cut]] (C.Y. 0); residues continue wherever a town still walks
+spans: uncounted start → default ended at [[The First Cut]] (Cut-year 0); residues continue wherever a town still walks
 preceded_by: "[[Before the Walk]]"
 followed_by: "[[The Years of Hands]]"
 reveals: [keystone-adjacent]
 created: 2026-08-24
-updated: 2026-09-29
+updated: 2026-10-22
 ---
 
 # The Walking Years
 
-> **Clock 1, old default — now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the far reaches ran heavy on the Kept and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical 🔒: **Brenvaeth** *(BREN-vaeth)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life. Do not write it as a golden age.
+> **The old default way to Turn, now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the far reaches ran heavy on the Kept and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical name: **Brenvaeth** *(BREN-vaeth)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life.
 
 
 ## Overview
 
-In these years the divine was not local. The Leaf-Fall happened in one grove, on [[Maiethorn]], under Thaeloren. A tenth summer was a journey or it was a hug you never received because you were not there to be hugged.
+In these years the Leaf-Fall happened in one place: one grove, on [[Maiethorn]], under Thaeloren. A tenth summer was a journey or it was a hug you never received because you were not there to be hugged.
 
 The far-flung who stayed home were not "skipped by a goddess" in any way a town could prove. They were **children who did not walk.** Some were later Struck at a drowning, an oath, a death — unwitnessed, because the only crowd that counted was a continent away. Some stayed Kept for life, wanted or not, because want-of-a-trip is not a theology, it is a distance.
 
@@ -30,7 +30,7 @@ This is the historical origin of today's pattern, stated mundanely: **thin reach
 
 The pilgrimage **did not vanish** when grafts began. It changed jobs. In [[The Years of Hands]] the devout still walk to the origin; the poor and the Tree-bereaved still walk to a neighbour. The Walking Years are the time when *everyone who Turned as Given had walked, or had been carried.*
 
-The later romance of the old mile is a Hands-era feeling laid on Walking-era graves. Keep both in the same sentence.
+The later romance of the old mile is a Hands-era feeling laid on Walking-era graves.
 
 ## The walk (what it actually was)
 
@@ -58,7 +58,7 @@ People did not say *Brenvaeth* on the road. They said *we are on the Long Mile*,
 
 **Timing against the year.** Near-Mile families left in **Haelren** or early **Eolthael** and were home by **Vaelorn**. Salt-Walk households watched the Old Crossing from **Saelorn**; a late storm in Hale-month was a Kept child. Long-Mile columns left in **Liren** or **Saelorn** — the thaw, the first green — and hoped the High Solstice had not happened without them. Some arrived in **Leddorn** with a ten-year-old who had already missed. The road-houses knew that silence. They did not charge extra for it. They also did not refund the note.
 
-[[The Sundering Isle|Kumbaan]] is not on this table. No walk crossed the storm-wall. Do not smuggle one.
+[[The Sundering Isle|Kumbaan]] is not on this table. No walk crossed the storm-wall.
 
 ### Who could afford it
 
@@ -74,11 +74,11 @@ The Long Mile sorted by **whether you could lose a year.** Food, shoes, a second
 
 ### Who was let through
 
-Distance and coin were not the only sorters. A class of the untithed — **the Closed Seat**, folk **the Grove-Sitters** — sat on Thaeloren and decided who might stand under it. A family could have shoes and a Salt-Walk berth and still fail the lintel. **Grove-leave** was paper you carried to a gate.
+Distance and coin were not the only sorters. A class of the untithed — **the Closed Seat**, folk **the Grove-Sitters** — sat on Thaeloren and decided who might stand under it. A family could have shoes and a Salt-Walk berth and still be turned away at the gate. **Grove-leave** was paper you carried to a gate.
 
 Far lands ran heavy on the Kept because some children did not walk, and because some children walked and were turned. Both fill a kitchen. The later romance of the old mile prefers the first cause. Folk songs remember the second.
 
-The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the lintel was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. The road was already a life. The gate was a third cruelty on it.
+The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the gate was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. The road was already a life. The gate was a third cruelty on it.
 
 ### Who died
 
@@ -86,7 +86,7 @@ Children died on the road. So did the adults who carried them. River-crossings i
 
 The graves are mostly unmarked at first. Then someone sets a stone at a day's walk, because the next column needs to know the water, and because a name should sit somewhere. A ribbon goes on the stone the year after. A later column uses the stone as a mile-mark. The romance and the graves are the same object seen at two hours of the day.
 
-A child who dies on the way to be witnessed may **Strike as [[Returned]]** on the road — a becoming with no crowd, on the way to the only crowd that counted. Rare. Remembered. The ~5% edge lives here, not in the Leaf-Fall waiting at the end of the walk. Do not make it common. Do not make it a joke.
+A child who dies on the way to be witnessed may **Strike as [[Returned]]** on the road — a becoming with no crowd, on the way to the only crowd that counted. Rare. Remembered.
 
 The origin also filled with **children who arrived and had no one to walk home with.** Road-houses took some in (a bed that became a life). Origin-towns took some. A Given child with no one to carry the witness home is the other half of the grave: they lived, and belonging still had to be invented for them.
 
@@ -98,7 +98,7 @@ In Brenvaeth, a land far from Thaeloren was **Kept-heavy and Struck-heavy becaus
 - **Kept** were the default far childhood: whole, untithed, unwitnessed-as-Given. Some were wanted that way. Some were the price of a summer the family could not raise. Some were Old Ways children the Motherfaith had misfiled.
 - **Struck** were the far lands' other door, and always had been. Drownings, oaths, deaths. No leaf. No origin-crowd. The unease that follows the Struck is older than the grafts; the walk only made it louder, because the Given in the same town *had* been seen, a continent away.
 
-When the wood later travelled, this pattern *relocated*. A Tree-poor pocket next to a dying scion reads the same on a census and is not far on a map. Clock 2. Do not narrate today's Heskoren as a re-enactment of Brenvaeth. Some of it still *is* Brenvaeth, this year, for this cohort. Some of it is a neighbour's canopy and a queue. Both can be true on the same road.
+When the wood later travelled, this pattern *relocated*. A Tree-poor pocket next to a dying scion reads the same on a census and is not far on a map. Some of it still *is* Brenvaeth, this year, for this cohort. Some of it is a neighbour's canopy and a queue. Both can be true on the same road.
 
 ## Institutions of the road
 
@@ -125,7 +125,7 @@ What a road-house actually sold:
 - **A little Tithe-furnishing**, improvised, not a guild. A green-lot behind the house for a Taken-In parent. A shed where a Far-Voiced can cry without taking the dormitory with them. The road itself is novelty enough that a Long-Lived innkeeper's own Tithe stays fed — which is why the deathless *stayed* in the trade, and why the same people later endow libraries: the hunger that kept them on the mile is the hunger that built the archive. The greens-keepers and hall-keepers are Hands-era gates. Brenvaeth had a pot and a shed.
 - **A held bed.** A family said they would come. They did not. The innkeeper keeps the bed a year, then two, then as a habit that looks like hospitality and functions as a shrine. See the slate below.
 
-The White Note's founding-summer is a house-year, not a Cut-year. In the Walking Years that house was a hearth with too many boots by the door. Do not invent a second banking-order. This is the same fortune, earlier.
+The White Note's founding-summer is a house-year, not a Cut-year. In the Walking Years that house was a hearth with too many boots by the door. This is the same fortune, earlier.
 
 ### Summer traffic
 
@@ -139,18 +139,18 @@ There were no pilgrim-knights and no official convoy-guild. People walked with w
 
 Consequences, lived:
 
-- **Going home did not bring the crowd with you.** Your village had not watched. Belonging at home required someone who *had* been under the boughs to stand for you: a parent, a neighbour from the column, a Long-Lived who keeps origin-falls the way they later keep town-falls. **Vouching-at-a-distance was invented to carry the origin's witness home.** The three pillars (Long-Lived memory, Bound word, Far-Voiced feeling) are older than the grafts; the *job* of carrying a far Turning is Walking-era. Hands-era travelers still move on that job: the **road-word**, company-vouch, guest-right ([[Law and Citizenship#How a traveler stays vouched]]). Do not invent a second invention.
+- **Going home did not bring the crowd with you.** Your village had not watched. Belonging at home required someone who *had* been under the boughs to stand for you: a parent, a neighbour from the column, a Long-Lived who keeps origin-falls the way they later keep town-falls. **Vouching-at-a-distance was invented to carry the origin's witness home.** The three pillars (Long-Lived memory, Bound word, Far-Voiced feeling) are older than the grafts; the *job* of carrying a far Turning is Walking-era. Hands-era travelers still move on that job: the **road-word**, company-vouch, guest-right ([[Law and Citizenship#How a traveler stays vouched]]).
 - **A Given child with no surviving witness** is legally thin in the place they grew up. Origin-orphans, road-house children, a Bound stranger who will swear the colour they did not see (and cannot cheaply lie). The unvouched are older than the Struck-stigma, and include people the Tree *did* Give.
-- **Struck on the road** are a double unease: unwitnessed becoming, *on the way* to the witnessing. A Returned child walking the last Near-Mile days beside the parent who has not yet forgiven the threshold. Play it quiet.
+- **Struck on the road** are a double unease: unwitnessed becoming, *on the way* to the witnessing. A Returned child walking the last Near-Mile days beside the parent who has not yet forgiven the threshold.
 - **Staying home** meant you were never Given-witnessed. You were still of your town, because your town had watched you be a child. Kept-by-distance is not "unmarked on a roll." It is a hug that happened without you, a continent away.
 
 The origin-crowd was enormous in Eolthael and ordinary the rest of the year. Speakers of the origin-hearth named colours until their voices went. Folk-known colours still were; the warden's word made them *count* for people who would have to carry that word home.
 
 ## Long-Lived who still say *I walked*
 
-A [[Long-Lived]] who says *I walked* is dating the room. Memory is perfect. **Meaning is not.** Do not give the table "the" Long-Lived account.
+A [[Long-Lived]] who says *I walked* is saying when they were young. Memory is perfect. **Meaning is not.**
 
-At present (C.Y. 387) the sentence does at least four jobs, and they argue:
+At present (Cut-year 387) the sentence does at least four jobs, and they argue:
 
 - **I walked as a child, under Thaeloren, before my town had wood.** A Maiethorn deathless Given in the late Walking (the last core cohorts, before Maiethorn filled in the first Cut-years) is speaking of a summer most of the room has only as a ribbon. A Heskoren deathless may mean *last decade.* Same words. Different clocks.
 - **I walked the mile as the inn.** A road-house Long-Lived may never have stood under the canopy as a pilgrim. They walked the same stretch every summer for two hundred years. They remember every debtor. They will not always tell you which children came back.
@@ -173,17 +173,17 @@ They also disagree with Seat chronicles that start at [[The First Cut]]. A Long-
 
 ## In-world text
 
-*A Turning-Week slate from the third hearth on the Near Mile, kept by Thilim, who is Long-Lived and has kept this house since before the Cut, as later clerks would say. The verso is knife-scored with tally-marks that do not match the recto. `oblique-worldbuilding`.*
+*A Turning-Week slate from the third hearth on the Near Mile, kept by Thilim, who is Long-Lived and has kept this house since before the Cut, as later clerks would say. The verso is knife-scored with tally-marks that do not match the recto.*
 
 > *Eolthael, the summer the ford ran high.*
 >
-> *Beds: forty-and-two spoken for. Notes out: Tora of the long cape, two mouths, pay on the home-walk. Valein of the salt, one mouth, paid at the quay. The Held: Seine of the far cape — tenth summer, not come. Hold the bed. The mother said next year. Next year was last year.*
+> *Beds: forty-and-two spoken for. Notes out: Tora of the long cape, two people, pay on the home-walk. Valein of the salt, one person, paid at the quay. The Held: Seine of the far cape — tenth summer, not come. Hold the bed. The mother said next year. Next year was last year.*
 >
 > *Porridge: enough. Shed: the blue-leaf girl from the second column cried the rafters quiet; no charge; we needed the quiet. Green-lot: used. The Taken-In man from the long cape left a cutting. I put it in the pot. It is not a Tree.*
 >
-> *I do not ask which summer was holy. I ask which mouths will be here at dark. The Held bed is made. If Seine comes I will not have to remember I made it for nothing.*
+> *I do not ask which summer was holy. I ask which people will be here at dark. The Held bed is made. If Seine comes I will not have to remember I made it for nothing.*
 
-Thilim cannot afford to see that the Held bed is already a shrine, or that the house's fortune is the farness the wood will later abolish. The cutting in the pot is not a First Cut. It is a man who missed his green. The knife that was is [[The First Cut]].
+The cutting in the pot is not a First Cut. It is a man who missed his green. The knife that was is [[The First Cut]].
 
 ## Folklore
 
@@ -191,9 +191,18 @@ The teaching-story of the road is [[The Child Who Counted Stones]] — romance a
 
 ## Key Events
 
-The era has no dated start (it grows out of [[Before the Walk]] when the trip becomes *the* way to Turn). It has a dated hinge: [[The First Cut]] (C.Y. 0). After that the Walking Years cease to be the *default* in lands the wood has reached, and remain the default in lands it has not. [[Heskoren]] is still, in places, *in* this era. That is not a metaphor.
+The era has no dated start (it grows out of [[Before the Walk]] when the trip becomes *the* way to Turn). It has a dated hinge: [[The First Cut]] (Cut-year 0). After that the Walking Years cease to be the *default* in lands the wood has reached, and remain the default in lands it has not. [[Heskoren]] is still, in places, *in* this era. That is not a metaphor.
 
-Do not pick a cutter here. Do not date the Tree.
+## Links
+- [[Monseoth]] · [[Sedrad]]
+- [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Closing]] · [[The Years of Hands]]
+- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — the leftover's
+- [[The Third Hearth]] — Thilim still making the bed · [[The White Note House]] — the same fortune, later
+- [[Turning Tree]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
+- [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] · [[The Reckoning of the Year]]
+- [[The Tree-Wardens]] · [[The Old Ways]] · [[Long-Lived]] · [[Returned]] · [[Far-Voiced]] · [[The Taken-In]]
+- [[The Old Tongue]] · [[Naming in the Turning]]
+- [[02 - History]]
 
 ## GM Notes
 
@@ -202,7 +211,7 @@ Do not pick a cutter here. Do not date the Tree.
 Moved from the player-facing body during residual export polish:
 
 - > **Canon status.** 🔒 **The requirement is locked** (banked seed). 🔒 **Name locked 2026-08-24** (*the Walking Years* / *Brenvaeth*). 🟡 **Lived texture (Story 6.2):** the three walks, the one-week door, the split household, mile-shrines, road-houses in the act of being inns, witness-at-origin. Names of the walks and the road-house cant *brenhael* are working coinages — polish later; do not rebuild the spine.
-- The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the lintel was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. Do not rebuild the road around a throne. The road was already a life. The gate was a third cruelty on it.
+- The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the gate was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. Do not rebuild the road around a throne. The road was already a life. The gate was a third cruelty on it.
 - - **A little Tithe-furnishing**, improvised, not a guild. A green-lot behind the house for a Taken-In parent. A shed where a Far-Voiced can cry without taking the dormitory with them. The road itself is novelty enough that a Long-Lived innkeeper's own Tithe stays fed — which is why the deathless *stayed* in the trade, and why the same people later endow libraries: the hunger that kept them on the mile is the hunger that built the archive. Do not clone [[Tithe-Infrastructure]] onto the road. The greens-keepers and hall-keepers are Hands-era gates. Brenvaeth had a pot and a shed.
 - Story 6.3 is done: how the wave moved, and how the Seat captured the copy-right → [[The First Cut]]. Do not pick a cutter here. Do not date the Tree.
 
@@ -215,16 +224,18 @@ Moved from the player-facing body during residual export polish:
 - **Colonial trap, again.** "We walked because we were faithful" is the Near-Mile sermon. The Long Mile was poorer, later, and full of people who stayed home without being worse. The Salt Walk was a berth. Do not let the hymn outrank the quay.
 - **Hooks.** A Held bed with a name; a sibling Given/Kept pair and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.
 
-## Links
-- [[Monseoth]] · [[Sedrad]]
-- [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Closing]] · [[The Years of Hands]]
-- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — the leftover's
-- [[The Third Hearth]] — Thilim still making the bed · [[The White Note House]] — the same fortune, later
-- [[Turning Tree]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] · [[The Reckoning of the Year]]
-- [[The Tree-Wardens]] · [[The Old Ways]] · [[Long-Lived]] · [[Returned]] · [[Far-Voiced]] · [[The Taken-In]]
-- [[The Old Tongue]] · [[Naming in the Turning]]
-- [[02 - History]] · [[Roadmap]] (Story 6.2; residues → 6.4)
+### What the player body leaves out
+
+- Do not write the era as a golden age.
+- The road-deaths that Strike a child as Returned stay rare and remembered. Keep the edge at about 5% frightening. Do not make it common, and do not make it a joke.
+- Do not add a walk that crosses the storm-wall to Kumbaan.
+- Do not invent a second banking-order. The White Note's house was a hearth with too many boots by the door, the same fortune earlier.
+- Do not invent a second way to vouch for a person. The road-word, company-vouch, and guest-right already carry the origin's witness home.
+- A Returned child walking the last days beside a parent who has not yet forgiven the threshold is played quietly.
+- Do not narrate today's Heskoren as a re-enactment of the Walking Years. Some of it is still the Walking Years this year, for this cohort. Some of it is a neighbour's canopy and a queue. Both are true on the same road.
+- A Long-Lived who says "I walked" is saying when they were young. Do not give the table "the" Long-Lived account.
+- Do not pick a cutter and do not date the Tree.
+- Thilim cannot see that the held bed is already a shrine, or that the house's fortune is the farness the wood will later abolish. The cutting in the pot is not a First Cut. It is a man who missed his green.
 
 #### Taste-open markers (P2.1)
 

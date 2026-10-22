@@ -11,7 +11,7 @@ domain: becoming, the tended life
 faith: "[[The Leaf-Mother]]"
 reveals: [keystone-adjacent, the-other-hands]
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Maieth
@@ -30,9 +30,16 @@ They give her no throne, and no sentence that answers on demand. They meet her, 
 
 There is no face the houses share. The picture is the wood. A pressed leaf in a chest is common, and it is a leaf. It does not speak. Some hearths keep no image at all.
 
-She is not drawn as a drowning, a signature, or a wild. Those are other faiths' doors. The Motherfaith's own fight about them stays on the faith note. The cup some deathless people keep is [[The Unspent]]. A warden's sill is not where that cup sits.
+The Motherfaith does not picture her at a drowning, an oath, or in the deep wild, because the faith argues about whether she is there. That argument stays on the faith note. The cup some deathless people keep is [[The Unspent]]. A warden's sill is not where that cup sits.
 
 What a year feels like when people act — the week, the burial, the guest, the hour someone changes — is [[What the Year Feels Like]]. The blessing spoken over a child stays on [[The Leaf-Mother]]. It is not copied here.
+
+## Links
+
+- [[The Leaf-Mother]] — the faith
+- [[Faiths of the Turning]] · [[Turning Tree]] · [[The Tree-Wardens]]
+- [[What the Year Feels Like]] · [[How the Week Is Kept]]
+- [[07 - Religion]]
 
 ## GM Notes (the reality)
 
@@ -40,10 +47,4 @@ What a year feels like when people act — the week, the burial, the guest, the 
 - [[The Other Hands]] stays in its own note. Do not name those doors here, and do not add a power to this presence.
 - Do not date her. Do not lock the nature of her limit. The schism, the rite, and the clergy remain [[The Leaf-Mother]] and [[The Tree-Wardens]].
 
-## Links
-
-- [[The Leaf-Mother]] — the faith
-- [[Faiths of the Turning]] · [[Turning Tree]] · [[The Tree-Wardens]]
-- [[The Unspent]] — a different presence, a cup, not this name
-- [[What the Year Feels Like]] · [[How the Week Is Kept]]
-- [[07 - Religion]]
+- **Links (GM):** [[The Unspent]]

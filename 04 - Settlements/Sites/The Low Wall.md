@@ -4,19 +4,19 @@ type: site
 visibility: player
 note_status: fleshed
 status: ruined
-tags: [site, archaeology, pre-walk, epic-r, story-r9, orenbren]
+tags: [site, archaeology, pre-walk, orenbren]
 aliases: [The Wall Against No One, The Other Stone, The Uncounted Wall]
 world: The Turning
 region: "[[Orenbren]] lodging-country, Near Mile — first days' walk from the Motherwood, not inside the Inner Close"
 stratum: uncounted — older stone than the Close; no honest start
 reveals: [keystone-adjacent]
 created: 2026-08-30
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Low Wall
 
-> **A wall that does not know its enemy.** In [[Orenbren]] lodging-country, off the present Near Mile and not inside the [[The Walled Book|Inner Close]], a low run of stone walks a fold of ground and stops. Everyday name: **the Low Wall.** Folk: **the Wall Against No One.** The Close will tell you it is theirs. It is a different colour. Chronicle leftovers: [[The Other Count]].
+> **A wall that does not know its enemy.** In [[Orenbren]] lodging-country, off the present Near Mile and not inside the [[Rothallo|Inner Close]], a low run of stone walks a fold of ground and stops. Everyday name: **the Low Wall.** Folk: **the Wall Against No One.** The Close will tell you it is theirs. It is a different colour. Chronicle leftovers: [[The Other Count]].
 
 > Pre-Walk stone. Undated. Not a date for the Tree. Not the Inner Close.
 
@@ -41,24 +41,24 @@ No one living built it. [[Before the Walk]] has no start, and this stone is of t
 
 ## Features
 
-- **The three gaps.** Folk use them as gates. One gap has a socket that might have held a post. One has been widened for a cart. One is only wide enough for a person, and the Close's labour-roster sometimes "assigns" a walk through it as owed work, which is how a Book learns it cannot own an uncounted stone.
+- **The three gaps.** Folk use them as gates. One gap has a socket that might have held a post. One has been widened for a cart. One is only wide enough for a person, and the Close's labour-roster sometimes "assigns" a walk through it as owed work. The Book cannot make that walk count as owning the stone.
 - **The inward step.** On the field side, the footing is built as if someone expected to stand *behind* the wall and look out. There is no walkway left. There is a habit of standing there anyway.
 - **The blank name-stone.** Mid-run, a slab with a panel that held letters. The letters are gone. Not worn — taken off. Watchers say that is correct. A Closed Heir says the panel was theirs. A lodging-guild says a later pilgrim stole a luck-name.
-- **The garden end.** The wall dives into the back of a hearth that still lets beds. Thilim's type, not Thilim's house. The innkeep waters the last course as if it were a pot-ring. It is not.
+- **The garden end.** The wall dives into the back of a hearth that still lets beds. It is a road-house of the same kind as [[The Third Hearth]], not Thilim's house. The innkeep waters the last course as if it were a pot-ring. It is not.
 
 ## Who argues
 
-| Mouth | What they need it to be | What they cannot afford to see |
+| Who | What they need it to be | What they will not admit |
 |---|---|---|
 | Inner Close | An outer ring they forgot to staff | The quarry is wrong |
-| Orenbren lodging-guild | A nuisance that draws climbers in Eolthael | A guest-compact that never opened is already a wall |
-| Watchers | The Before, kept as stone | That "seeing" does not require a wall |
+| Orenbren lodging-guild | A nuisance that draws climbers in Eolthael | That its own guest-compact never opened to guests, which is a wall of its own |
+| Watchers | The Before, kept as stone | That watching does not need a wall |
 | Old Ways hearths on the Mile | A guest-mark, or a door that is not a Tree | That a meal will not make it a grove |
 | Tree-wardens | A climb they want stopped | That a ribbon here is not a colour, and the children already know |
 
 ## Who dug
 
-One summer, not a school. In Hale-month of C.Y. 381, **Nurreith** *(NUR-rayth)* and three lodging-guild hands opened the name-stone's bed. [[Delamem]] had paid for a chip that could be filed as the Close's quarry. A Watcher stood in the cut and would not let a chisel touch the panel. **Thuda** wanted the gang off the garden by dark and pulled them.
+One summer, not a school. In Hale-month of Cut-year 381, **Nurreith** *(NUR-rayth)* and three lodging-guild hands opened the name-stone's bed. [[The Walled Book|Delamem]] had paid for a chip that could be filed as the Close's quarry. A Watcher stood in the cut and would not let a chisel touch the panel. **Thuda** wanted the gang off the garden by dark and pulled them.
 
 What they fought over was the chip, and under the chip the right to call the wall a page. Delamem needed the quarry to match. Nurreith needed the labour back on guest-beds, and also needed the chip to be worth the afternoon or the guild would call the day a waste. The Watcher needed no Cut-year on the stone. Thuda needed the person-gap empty and the last course left as a pot-ring, which it is not.
 
@@ -80,51 +80,47 @@ Nurreith is a given name. A neighbour says it. A stranger hears *Nurreith of the
 - **A Watcher** will not let a Cut-year touch the panel. They will stand in the chisel's way.
 - **The lodging-guild** wants climbers off the high dip before Eolthael, and labour off the garden now.
 - **Thuda** wants the person-gap empty by dark. They will feed you. They will not call the stone a shrine.
-- **Time.** Hale-month mouths climb. Ledger-month is quieter and meaner about who hired you.
+- **Time.** Hale-month crowds climb. Ledger-month is quieter and meaner about who hired you.
 
 ## Discoveries (still no year)
 
-You might find: a different quarry's chip in the name-stone's bed ([[The Other Chip]]); the C.Y. 381 fill on top of that chip, which dates a quarrel and not the wall; a pot-ring that is not motherwood; a knife-ribbon someone left because they thought this was the nameless knife's first house (it is not); a second footing behind the inward step that never got a walkway; scratch-wear on the person-gap that is newer than the Close's claim.
+You might find: a different quarry's chip in the name-stone's bed ([[The Other Chip]]); the Cut-year 381 fill on top of that chip, which dates a quarrel and not the wall; a pot-ring that is not motherwood; a knife-ribbon someone left because they thought this was the nameless knife's first house (it is not); a second footing behind the inward step that never got a walkway; scratch-wear on the person-gap that is newer than the Close's claim.
 
-You must not be handed: a year that starts the Tree, a first enemy with a flag, a gospel in the panel, "it was the Close's outer ring all along" as a solve.
-
-A visitor can see a ruined wall, a climb, and an inn's back garden. They can guess two quarries, a claim, and a Book that assigns a walk. The note does not say who the wall was against, or whether "against" is the right word.
+A visitor can see a ruined wall, a climb, and an inn's back garden. They can guess two quarries, a claim, and a Book that assigns a walk. Nobody knows who the wall was against, or whether "against" is the right word.
 
 ## Current actors
 
-| Mouth | In a scene | Will pay you to |
+| Who | In a scene | Will pay you to |
 |---|---|---|
 | Delamem (Close) | at the blank panel, or assigning the person-gap | "confirm" the quarry |
-| A Watcher (unnamed, or Tithsael's cousin if you need a link) | standing the chisel off | stop a year |
+| A Watcher (unnamed) | standing the chisel off | stop a year |
 | **Thuda** | garden-end, watering the last course | pull labour; fetch a child |
-| Orenbren lodging-guild runner | with a complaint already written | make the climb stop looking like a leftover |
+| Orenbren lodging-guild runner | with a complaint already written | make the climb stop looking like a mile-shrine |
 | **Nurreith** | the guild's shovel, if the bed is open again | finish an afternoon, or be stopped |
 
 ## Archaeology and play
 
 You can walk it in an afternoon. You can sleep in the garden-end loft. You can be asked to fetch a child off the high dip. You can be hired by the Close to "confirm" it is theirs, or by a Watcher to stop a clerk from dating it, or by Thuda to pull a labour-gang out of the person-gap.
 
-Pair with [[The Third Hearth]] as *type*-neighbour, not this garden. Pair with [[The Seeing-Ring]] if a party wants two uncounted stones in one week.
-
 ## In-world text
 
-*A lodging-guild complaint, unsigned, nailed to the garden-end for a summer and then taken in. `oblique-worldbuilding`.*
+*A lodging-guild complaint, unsigned, nailed to the garden-end for a summer and then taken in.*
 
 > *The Close sent three Conditioned to walk the person-gap as owed work. They are not our beds and they are not the Close's wall. The children will climb whether we complain. If a Speaker asks, it is not a shrine. If Delamem asks, it is not a page. If a Watcher asks, we did not scratch a year. Pull your labour off our garden. The stone was here when the beds were full, and it will be here when the notes are.*
 
-The innkeep cannot afford to see that "when the beds were full" is already a house-year. Delamem cannot afford to see that a gap is not a row. Both can stand on the inward step.
+The complaint dates the stone by "when the beds were full", which already counts years. Delamem would treat a gap in the wall as a row in the Book, and a gap is not a row. Both can stand on the inward step.
+
+## Links
+- [[The Other Count]] · [[Before the Walk]] · [[The Closing]] · [[The Walled Book]] · [[Orenbren]]
+- [[The Seeing-Ring]] · [[The Dry Stair]] — the other two sites
+- [[The Third Hearth]] — type-neighbour, not this garden
+- [[The Watching]] · [[The Old Ways]]
+- [[04 - Settlements]] · [[02 - History]] · [[Roadmap]]
 
 ## GM Notes
 
 - **Uncounted on purpose.** This is the Before, kept thin, and you can walk it. Do not add a first king, a first war, or a first enemy-nation. A forgotten flood-bank, a forgotten raid, a forgotten watching: play may lean. The note does not pick.
 - **Keystone-adjacent, not confirming.** An old wall near the grove is compatible with "people organized around a Tree that was already there" and with "people organize around anything tall." Do not use it to decide what she is.
-- **R.11 added the crawl, the pressures, Thuda.** Still do not solve the wall.
-- **L.5 added one dig, not a discipline.** C.Y. 381. Nurreith opened the bed. Delamem wanted a quarry-match. A Watcher refused a year. Thuda pulled the labour. The chip was the other stone. Do not found a school of diggers, a method, or a pre-Cut chronicle on the back of that week. Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Nurreith** position 14. Given name. No house.
+- **Do not solve the wall.** Do not hand the table a year that starts the Tree, a first enemy with a flag, a gospel in the panel, or "it was the Close's outer ring all along" as an answer. A Watcher can be unnamed, or Tithsael's cousin if a link is needed. Pair with [[The Third Hearth]] as a road-house of the same kind, not this garden. Pair with [[The Seeing-Ring]] if a party wants two uncounted stones in one week.
+- **One dig, not a discipline.** Cut-year 381. Nurreith opened the bed. Delamem wanted a quarry-match. A Watcher refused a year. Thuda pulled the labour. The chip was the other stone. Do not found a school of diggers, a method, or a pre-Cut chronicle on the back of that week. Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register conservative --count 40` — **Nurreith** position 14. Given name. No house.
 - **Hooks.** Confirm-or-refuse the Close's claim; get a child down; a labour-walk through the person-gap; a Watcher and a clerk at the blank panel; a knife-ribbon left in error; the name-stone bed; the 381 fill opened again.
-
-## Links
-- [[The Other Count]] · [[Before the Walk]] · [[The Closing]] · [[The Walled Book]] · [[Orenbren]]
-- [[The Seeing-Ring]] · [[The Dry Stair]] — the other two leftovers
-- [[The Third Hearth]] — type-neighbour, not this garden
-- [[The Watching]] · [[The Old Ways]]
-- [[04 - Settlements]] · [[02 - History]] · [[Roadmap]] (Story R.9; R.11)

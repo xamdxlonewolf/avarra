@@ -4,7 +4,7 @@ type: faction
 visibility: player
 note_status: fleshed
 status: active
-tags: [faction, guild, fellowship, craft, epic-l, story-l7]
+tags: [faction, guild, fellowship, craft]
 aliases: [The Mill-Share, Mill-Share, The Hull-Wrights, Hull-Wrights, The Road-Mend, Road-Mend]
 world: The Turning
 category: guild
@@ -12,7 +12,7 @@ seat: none — a race, a crane, a ford; no college over other towns
 public_face: people who keep a mill, a hull, or a road, and who do not stamp a body
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # Craft Fellowships
@@ -29,21 +29,21 @@ You are of a fellowship when you have kept the thing through a season and someon
 
 Everyday speech is **the mill-share**. A miller takes a share of grain. The fellowship is the people who will say whose race this is and whose share is owed.
 
-At [[The Mill-hold]] the miller is not the mouth the square turns on. The share is still taken. When the culvert is opened to keep water off the Hand, the race drops, and a mill-hand is already there with a count of lost turns. They do not Speak a colour. They do not carry a scion. That cart belongs to a [[The Tree-Wardens|Road-hand]].
+At [[The Mill-hold]] the miller is not the person the square turns to. The share is still taken. When the culvert is opened to keep water off the Hand, the race drops, and a mill-hand is already there with a count of lost turns. They do not Speak a colour. They do not carry a scion. That cart belongs to a [[The Tree-Wardens|Road-hand]].
 
 A Gale-house may coax the wind at a mill. If the person is Answered and lets the element speak, the coaxing is a ticket. The stones, the sacks, and the share belong to this fellowship even when nobody in the mill is Answered.
 
 When the race is drawn down, the mill-share sets the stones and leaves one measure of last year's grain on the lip until the water comes back. They will not say why.
 
-[[Polity Archetypes|Threnmaieth]] would like that measure on a roll of persons. The mill-share keeps it with the grain. [[The Walled Book]] may assign a body to a mill as labour. The assignment is the Book. It is not a share.
+[[Polity Archetypes|Threnmaieth]] would like that measure on a roll of persons. The mill-share keeps it with the grain. [[The Walled Book]] gives turns of work to people who live inside its walls, and a turn at a mill is the Book's assignment. It is not a share.
 
 ## The hull-wrights
 
 Everyday speech is **the hull-wrights**. They know whether a hull will take water. They look at the bend, the caulk, and the line.
 
-[[The Hinge Shore]] decides whether a hull is a pilgrim, a pot, or cargo. [[The Book-Hands]] stamp the paper. A Tide-Answered may work the bend under an element-guild ticket. The hull-wrights do not classify the cargo, set the [[The Hinge Hush|Hush-rate]], or sell a mouth that will say *I was there*. [[The Standing Trade]] sells that mouth. This fellowship sells a hull that floats.
+[[The Hinge Shore]] decides whether a hull is a pilgrim, a pot, or cargo. [[The Book-Hands]] stamp the paper. A Tide-Answered may work the bend under an element-guild ticket. The hull-wrights do not classify the cargo, set the [[The Hinge Hush|Hush-rate]], or sell a witness who will say *I was there*. [[The Standing Trade]] sells that witness. This fellowship sells a hull that floats.
 
-On the [[The Down-Bank]] there is no hull yet. A traveler who rehearses a hull-class at an inn is early. A wright who starts the classification there has left the craft and begun the Hinge Shore's job. At [[Denlad]] a tied hull is weather. The wright will not call it a hold and will not charge a house-share for the tying. At [[Orentel]] the fellowship sits under the crane. It is not [[The White Note House]], and it does not keep the berth.
+On the [[The Down-Bank]] there is no hull yet. A traveler who rehearses a hull-class at an inn is early. A wright who starts the classification there has left the craft and begun the Hinge Shore's job. At [[Denlad]] a tied hull is a hull waiting out weather. The wright will not call it a hold and will not charge a house-share for the tying. At [[Orentel]] the fellowship sits under the crane. It is not [[The White Note House]], and it does not keep the berth.
 
 [[Netstrand]] charters hulls. The charter is a crossing. The wright is the person who will still walk the hull after the quote is written.
 
@@ -57,7 +57,7 @@ They are not Road-hands. A Road-hand carries living wood. A mender carries a sho
 
 A person on a named walk is still vouched as a walker by the road. The mend is why the road is still there to walk. At Nelath the road ends at the boughs. The mend stops with it. They do not cut the thorns back to make the spur go on. The town already decided where the road ends.
 
-[[The Walled Book]] can assign road-labour inside the Close. A mender on that page still knows the work. The page is the Book's.
+[[The Walled Book]] can give a turn on the road to a person who lives inside its walls. A mender on that page still knows the work, but the assignment is the Book's.
 
 At the first ford after a town, they leave the shovel standing in the bank overnight after a mend. They will not say why.
 

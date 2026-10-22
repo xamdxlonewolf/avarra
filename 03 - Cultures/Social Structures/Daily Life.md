@@ -1,21 +1,21 @@
 ---
 title: Daily Life
-type: custom
+type: reference
 visibility: player
 note_status: fleshed
 status: active
-tags: [society, daily-life, family, marriage, medicine, city, epic-2, social-structure]
+tags: [society, daily-life, family, marriage, medicine, city, social-structure]
 aliases: [Daily Life in the Turning, Family and Medicine, Living in the Turning, Everyday Life]
 reveals: [keystone-adjacent]
 created: 2026-08-21
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # Daily Life
 
-> **What this is.** The *universal grammar of everyday life* in **The Turning** — what it is to marry, raise children, fall ill, and live in a town when **3 of 4 people carry a [[The Premise|Condition]]**. This is where the setting's **~5%-scary** dial is set at eye level: almost everything is warm, ordinary, and lived-in, with a real ache underneath in the specific cases. Built for [[Roadmap|Epic 2, Story 2.3]], on [[Law and Citizenship]] (the legal grammar) and [[Economy and the Tithe]] (the economic one). How the ~15 polities vary is the last section; concrete cities come in [[Roadmap|Epic 7]].
+> **What this is.** What it is to marry, raise children, fall ill, and live in a town when **3 of 4 people carry a [[The Premise|Condition]]**. Almost everything is warm, ordinary, and lived-in, with a real ache underneath in some cases. It rests on [[Law and Citizenship]] and [[Economy and the Tithe]]. The last section says how the ~15 polities vary.
 
-> **📖 Names: descriptive here, in-world names now exist.** Institutions and customs keep **plain descriptive terms** in the body for legibility, but the [[The Old Tongue|naming pass]] is done (2026-08-21) — each has a settled common-tongue name + three stance-revealing polity variants in [[Naming in the Turning]]; the root language is [[The Old Tongue]]. Good working canon, open to a later polish pass.
+> **Names.** Institutions and customs use plain descriptive terms here. Each has a common-tongue name, and each polity says it its own way, in [[Naming in the Turning]]. The root language is [[The Old Tongue]].
 
 ## Marriage & family — the whole spectrum, from mundane to aching
 
@@ -27,7 +27,7 @@ So family life spreads along a spectrum, and the spread itself is the point:
 
 **In the middle**, the Tithe becomes a shared family labor. Where a Condition is provided-for (see [[Economy and the Tithe]]), keeping a family member whole is a household expense and a household duty: the green for the Taken-In, the books for the [[Long-Lived]], the outlet for the Far-Voiced. Families organize around it the way ours organize around a member's chronic need — mostly without drama, sometimes with strain, and with the quiet knowledge that **to let a loved one's Tithe lapse is to watch them slide toward the scary edge.** A family too poor to furnish a Tithe carries a particular grief: they can see exactly what their kin needs and cannot buy it.
 
-**At the aching end** sits the marriage the whole setting is quietly organized around: **loving someone whose becoming and yours don't share a timespan.** Chief among these is marrying a **[[Long-Lived]].** Their aging simply stops; their spouse's does not. A Long-Lived can have children and a full family, but the Condition is **not reliably inherited** — most children age and die like anyone — so a Long-Lived does not build a deathless dynasty; they **outlive it.** They watch a spouse grow old across a marriage that stays, on one side, unchanged. They bury their children. The old saying is that *the cost of the Long-Lived is measured in funerals*, and it is a cost paid inside the family, at the dinner table, over decades. A Long-Lived who has done this once faces the choice their whole existence turns on: **stop** — live on alone, keep no more households — or **begin again**, marry again, love again, and outlive that family too. Neither choice is cowardly and neither is free. This is the setting's deepest, quietest ache, and it lives in the most ordinary place there is: a marriage.
+**At the aching end** sits the hardest marriage: **loving someone whose becoming and yours don't share a timespan.** Chief among these is marrying a **[[Long-Lived]].** Their aging simply stops; their spouse's does not. A Long-Lived can have children and a full family, but the Condition is **not reliably inherited** — most children age and die like anyone — so a Long-Lived does not build a deathless dynasty; they **outlive it.** They watch a spouse grow old across a marriage that stays, on one side, unchanged. They bury their children. The old saying is that *the cost of the Long-Lived is measured in funerals*, and it is a cost paid inside the family, at the dinner table, over decades. A Long-Lived who has done this once faces the choice their whole existence turns on: **stop** — live on alone, keep no more households — or **begin again**, marry again, love again, and outlive that family too. Neither choice is cowardly and neither is free. It is a grief that lives in the most ordinary place there is: a marriage.
 
 A few threads worth pulling:
 
@@ -49,29 +49,27 @@ Medicine in The Turning is genuinely astonishing for a [[The Premise|late-mediev
 
 ## Living in a Turning town — the shape a city takes
 
-*(Design principles, not places. Concrete settlements — quarters, named cities — are [[Roadmap|Epic 7]]; this section hands that epic the pressures a Turning-city bends around.)*
-
 A city here is shaped by a fact no other world's city faces: **most of its adults have an upkeep, and some of those upkeeps are dangerous or expensive to meet.** So the town builds around the Tithe the way ours build around water and waste — as **civic infrastructure, visible and load-bearing:**
 
-- **The Tree at the centre.** Every town is *organized around* its [[Turning Tree]] — it is the civic and sacred heart, the site of the year's most-attended week, the thing the oldest quarter grew up around. A town's age and standing can be read in its Tree (a mature grafted Tree = an old, reach-rich town; a young Tree or none = a new or frontier settlement). Geography and civic layout both point back to it. [[The Years of Hands|Residues]] layer this: a stone in the square, an upper room, a road that ends at the boughs. Playable squares → [[Settlement Seeds]] / [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. Archetype seats → [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]].
+- **The Tree at the centre.** Every town is *organized around* its [[Turning Tree]] — it is the civic and sacred heart, the site of the year's most-attended week, the thing the oldest quarter grew up around. A town's age and standing can be read in its Tree (a mature grafted Tree = an old, reach-rich town; a young Tree or none = a new or frontier settlement). Geography and civic layout both point back to it. [[The Years of Hands|Residues]] layer this: a stone in the square, an upper room, a road that ends at the boughs. Towns you can visit: [[Settlement Seeds]] / [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. Seats of the three archetype polities: [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]].
 - **City Turning is by hearth.** A village watches as one circle. A city of tens of thousands does not pretend to. Turning-Week is still the civic festival; the legal witness is the street, the quay-gang, the courtyard that brought the child ([[Law and Citizenship#Turning in a city — the hearth stood]] · [[Turning Tree#Turning-Week in a city]]). The square is full. The memory is nested.
 - **Tithe-provision as civic utility.** Where the polity treats provision as a public good (see below), the town furnishes it in the open: **venting-halls** for the [[Far-Voiced]] (part concert hall, part release valve — often doubling as the town's performance venue), **potted groves and garden-commons** so the [[The Taken-In|Taken-In]] who *live here* don't "go to seed" indoors, **endowed libraries** feeding the [[Long-Lived]]'s novelty-Tithe (and, per [[Economy and the Tithe|the endow loop]], often *built* by a Long-Lived), and **ranging-commons** at the town edge where the [[Two-Bodied]] can be their other selves. These are as normal a part of the streetscape as a well or a market cross — **wells, not granaries.** Grain still feeds the city. The lots and halls keep a minority whole and a Cry out of the market ([[Economy and the Tithe#Who actually buys provision]]).
 - **The watch on the street.** Night-watch, ward-watch: a hold until morning, three questions at a gate (name, last hearth, who stands). Not Condition-police. Procedure: [[Law and Citizenship#Harm, the watch, and the hearing]].
 - **The dangerous trades on the edges.** The work that carries a bystander hazard sits where such work always sits — at the margins and the edges. Stilled infirmaries and Answered element-workshops (fire, forge, tide) are guild-quartered and set slightly apart; the [[Returned]]'s mortuaries and plague-work sit at the town's edge, near the dead. Not from disgust — from the same logic that puts a tannery downwind.
 - **Homes that accommodate becomings.** Ordinary domestic architecture quietly bends to the Conditions: windows that open and rooms kept green for a Taken-In guest, a household's evening rhythm built around a Far-Voiced's vent, a threshold a Long-Lived waits to be asked across. A Turning home is legibly a home *for becomings.*
-- **The reach-edge writes the map, again.** Dense, Tree-rich core towns are thick with all this infrastructure; frontier settlements have little of it and improvise (see [[Economy and the Tithe]] and [How polities vary](#How%20polities%20vary)). You can read a town's place in the world off how much of its Tithe-infrastructure is public, private, or simply absent.
+- **Reach shapes the map, again.** Dense, Tree-rich core towns are thick with all this infrastructure; frontier settlements have little of it and improvise (see [[Economy and the Tithe]] and [How polities vary](#How%20polities%20vary)). You can read a town's place in the world off how much of its Tithe-infrastructure is public, private, or simply absent.
 
 ## How polities vary
 
-As with law and economy, everyday life varies the way a real world's does — along the same **independent axes** ([[Law and Citizenship#How polities vary]]: theology, reach, governance), so a place's daily texture is the *combination* of its settings, not one of three fixed types. The three touchstone points have these domestic faces:
+Everyday life varies along the same three axes as law and economy ([[Law and Citizenship#How polities vary]]: theology, reach, governance). Three recurring stances:
 
 **The Warm** *(high theology).* Family, medicine, and civic life all carry the gift-theology: a child's Turning is a joyous sacrament, mixed households are blessings compounded, Tithe-provision is a public good offered in the open, and the sick are tended as people whose gifts must be kept whole. **Its soft injustice reaches the hearth:** the Kept child is *pitied* for being passed over, marrying "beneath your gift" is quietly frowned on, and a family is expected to spend its members' Conditions as the community sees fit — love and pressure wearing the same warm face.
 
-**The Watchful** *(governance at its extreme).* The register-keeping crown (see [[Law and Citizenship]]) reaches into the family: marriages of heritable Conditions may be *noticed* and encouraged or discouraged, a child's Turning is an event the state records, and the medicine that furnishes a Tithe runs through channels the crown controls. **Its cold injustice is domestic surveillance** — a household whose upkeep and bloodline are both on file is a household that cannot easily refuse the crown anything.
+**The Watchful** *(governance at its extreme).* A crown that keeps a roll of persons (the Tallied Crown and the Worn Count; see [[Law and Citizenship]]) reaches into the family: marriages of heritable Conditions may be *noticed* and encouraged or discouraged, a child's Turning is an event the state records, and the medicine that furnishes a Tithe runs through channels the crown controls. **Its cold injustice is domestic surveillance** — a household whose upkeep and bloodline are both on file is a household that cannot easily refuse the crown anything.
 
 **The Frontier** *(low reach).* Thin infrastructure, thin medicine, thin ceremony. Families improvise their own Tithe-provision or do without; a travelling stiller is a rare blessing; the [[The Taken-In|Taken-In]] whom core cities keep at social arm's length are *neighbours and kin* here, the backbone of the place. Freer (no one polices your marriage or your gift) and harsher (a lapsing Condition with no infirmary to reach, an untrained Struck child with no guild to catch them). Warmer in feeling, poorer in safety-net.
 
-**Mind the combinations.** A devout frontier holds joyous Turnings with almost no infirmary behind them; a secular Tree-rich republic has superb medicine and a marriage market that shrugs at theology; a Watchful-and-pious core turns the sacrament of a child's Turning into a state census with a hymn over it. The touchstones are corners of the space, not a catalogue of it.
+A place's daily texture is set by all three axes at once. A devout frontier holds joyous Turnings with almost no infirmary behind them; a secular Tree-rich republic has superb medicine and a marriage market that shrugs at theology; a Watchful-and-pious core turns the sacrament of a child's Turning into a state census with a hymn over it.
 
 ## Links
 - [[Law and Citizenship]] — the legal grammar (witnessed citizenship, the Inviolate Will) · [[Economy and the Tithe]] — the economic grammar (Tithe-provision, deathless inheritance) this rests on
@@ -79,19 +77,18 @@ As with law and economy, everyday life varies the way a real world's does — al
 - [[What the Year Feels Like]] — the felt year. This note stays the household.
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Returned]] · [[The Stilled]] · [[Two-Bodied]] · [[Far-Voiced]] · [[The Taken-In]]
 - [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its domestic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
-- [[Tithe-Infrastructure]] — the civic utilities named above, now with lived houses (Story 5.3)
-- [[Law and Citizenship]] — hearth-stand, road-word, the watch (Story R.6)
+- [[Tithe-Infrastructure]] — the civic utilities named above, with their lived houses
 - [[The Walking Years]] — the split household as a Walking-era family fact
 - [[The Years of Hands]] — residues on the square · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]
 - [[Kinds of the Turning]] — mixed-Kind children, the other kitchen · [[Kind Heritage]]
-- [[Roadmap]] (Epic 2, Story 2.3; Epic 6 complete; Story 7.2) · [[03 - Cultures]]
+- [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
 - **Keep the domestic pressures concrete.** A Kept child is pitied at their own table; a family is pressed to spend one member's gift; medicine clusters where money is; a crown files bloodlines; a marriage is valued for what a child might receive. Play the person doing the pressing, not a general moral.
-- **The Long-Lived marriage is the setting's quietest, most reusable ache.** Loving someone you will outlive and bury — a spouse, a child — is the deepest emotional Tithe in the world and it plays at the table without any monster in the room. Reserve it for weight. (It also seeds NPCs: the deathless widower who has stopped; the one who keeps beginning again.)
+- **The Long-Lived marriage is a quiet, reusable ache.** Loving someone you will outlive and bury — a spouse, a child — is the deepest emotional Tithe in the world and it plays at the table without any monster in the room. Reserve it for weight. (It also seeds NPCs: the deathless widower who has stopped; the one who keeps beginning again.)
 - **The "cold embrace" is a diagnostic and a hook.** A Returned's family can feel a lapsing Purpose at a touch. A loved one who has "run cold" is a quiet family crisis — and a ready adventure seed (what unfinished thing is slipping? can the party help meet it before the Returned settles or turns cold to everyone?).
 - **The reach-edge (medicine and infrastructure clustering in the core) has a GM-side *cause*.** In-world the frontier's thin medicine reads as plain distance-and-poverty; the deeper reason — [[Is the Leaf-Mother Real|her reach is bounded and thins where the Trees are thin]] — stays GM-side. Don't let a player-facing note assert the cause.
-- **Naming is done (2026-08-21).** In-world names for the customs and institution terms here (venting-hall, ranging-commons, garden-commons, etc.) live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility. Remaining deep-language work is [[Roadmap|Epic 4]].
-- **Hooks.** A Long-Lived asked to marry into a mortal family and the grief everyone can see coming; a Returned whose embrace has gone cold and the race to find their unfinished thing; a Tithe-poor family watching a child slide for want of green or novelty; a Watchful clerk recording a Turning that a family wanted kept private; a frontier town with no stiller when a birth goes wrong; a Kept child made to feel a failure at their own Leaf-Fall. Feed to [[Roadmap|Epic 5 (Factions)]] and Epic 7 (Settlements).
+- **Naming is done (2026-08-21).** In-world names for the customs and institution terms here (venting-hall, ranging-commons, garden-commons, etc.) live in [[Naming in the Turning]] (common-tongue + three stance-variants), built on [[The Old Tongue]]. Body keeps plain descriptors for legibility.
+- **Hooks.** A Long-Lived asked to marry into a mortal family and the grief everyone can see coming; a Returned whose embrace has gone cold and the race to find their unfinished thing; a Tithe-poor family watching a child slide for want of green or novelty; a Watchful crown's clerk recording a Turning that a family wanted kept private; a frontier town with no stiller when a birth goes wrong; a Kept child made to feel a failure at their own Leaf-Fall.
