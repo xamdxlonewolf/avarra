@@ -98,7 +98,7 @@ A road that "ends" is what a Tree-town says. The necessity-family from the next 
 
 - Empty Salt-Walk berths in Eolthael, except the expensive ones and the holds that smell of wet earth out of season.
 - A Far-Voiced ridge-cry in an old pattern: *the ford is wrong.* No column answers. A Road-hand does. Birds do.
-- A sibling-pair, one Given, one Kept, who will not walk the same side of a road — a split household's grandchildren keeping a courtesy they cannot date.
+- A sibling-pair who will not walk the same side of a road: one Given, one UnTurned. Folk still call the second one Kept. They are a split household's grandchildren, keeping a courtesy they cannot date.
 - Markets that still swell at an old mile-mark in Hale-month, then vanish, even when no column comes. Habit outlasts the road.
 - A kitchen-knife on a ribbon in a Near-Mile house that will not name a saint ([[The First Cut|the nameless knife]], still not a museum piece).
 

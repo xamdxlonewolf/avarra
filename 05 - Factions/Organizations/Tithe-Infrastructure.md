@@ -53,7 +53,7 @@ Official means **enough**, not a week. A commons-share, a scheduled hour, a libr
 
 | Ticket | Condition | Yard | Why a ticket |
 |---|---|---|---|
-| Strictest | [[The Stilled]] | [[The Stillers]] | the Gaze can hold a person forever |
+| Strictest | [[The Stilled]] | [[The Stillers]] | the Gaze can, misused, hold a person helpless in a fight |
 | Heavy | [[Far-Voiced]] | the hall | a Cry in a crowded room |
 | Heavy | [[The Answered]] | [[The Element-Guilds]] | an untended element in a shop |
 | Not a body-ticket | [[Bound]] | a table | a person whose Terms are a legal contract |

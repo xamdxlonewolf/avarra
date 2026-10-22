@@ -45,6 +45,8 @@ Found by [[Vault Audit 2026-10-22]]. The user answered the report in Story V.3, 
 | **C-23** | [[Yumboe]] called a nation | Now "people". Kinds are not nations |
 | **C-24** | [[The Watchers]], [[The Door-Keepers]], [[05 - Factions]], and [[The Tree-Wardens]] called the guest-grove Vaelun's | The guest-grove is [[The First Bowl]] in every note |
 
+**Leftovers closed while refreshing the world book (2026-10-22).** C-17 still said the Gaze could hold a person forever, in [[The Stillers]], [[Tithe-Infrastructure]], [[The Intake]], [[Law and Citizenship]], [[Valen]], and [[Tesara]]. Those lines now follow the card: misused, the Gaze can leave a person helpless in a fight, and the charge is holding a citizen still. C-11 still had the narrator call a child who never stood under a Tree Kept, in [[Daily Life]], [[The Walking Years]], and [[The Years of Hands]]. The narrator now says UnTurned. Folk may still say Kept. [[The Mill-hold]] said the pilgrim road ended at its boughs the way it ends at Brenthael. [[The Third Hearth]] and the hold's own notes say the Mile goes on past both. The player lines now say that. [[Heskoren]] put the West Water and the storm-wall on one coast. The frontier coast is the east coast, facing the West Water. The west coast is the slate-shore, where [[Sanbreo]] faces the last capes and the storm-wall.
+
 **C-01, C-04, and C-07 leftovers.** The audit found lines that these resolved entries had missed. They were fixed in Story V.4: scaffolding and GM orders moved out of the player bodies, no house-name marker is left in player text, and Rothallo is a walled city in every note outside the paintings and the map prompts. The entries stay as they were.
 
 ## Resolved in the sweep after L, S, and M (2026-10-05)

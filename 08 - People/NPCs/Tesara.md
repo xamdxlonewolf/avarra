@@ -54,7 +54,7 @@ Lestrand prices the emergency. A raw Struck who cannot stamp a fee is still take
 
 ## Role & Relationships
 
-- **[[Valen]]** — raw [[The Stilled|Stilled]]. Sister stood. First drill held. No forever. No ticket. Tesara wants the year, not the silence. The job wants the silence.
+- **[[Valen]]** — raw [[The Stilled|Stilled]]. Sister stood. First drill held. The hold does not last. No ticket. Tesara wants the year, not the silence. The job wants the silence.
 - **The paying floor** — wants the master back. A quiet catching-year is a week the theatre lost.
 - **[[Rosire]]** — used to bring water downwind. Not on the floor this Hale-month. Tesara has not been told why.
 - **[[Mataero]]** — if Valen lives and has no ticket, they will need a loft. Occupancy will not say *Struck*.

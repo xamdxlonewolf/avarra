@@ -9,7 +9,7 @@ aliases: [The Stillers, Stillers' Guild, The Stelhael, Stelhael, Ticket-Surgeons
 world: The Turning
 category: guild
 seat: the guild-yard beside the infirmary — a town has one if it has stillers; there is no Stillers' Seat over other towns
-public_face: the surgeon's college that also stands a riot-line — they stamp the strictest ticket in the world because the same gaze that stops a wound can hold a person forever
+public_face: the surgeon's college that also stands a riot-line — they stamp the strictest ticket in the world because the same gaze that stops a wound can, misused, hold a person helpless in a fight
 reveals: [keystone-adjacent]
 created: 2026-08-23
 updated: 2026-10-22
@@ -27,10 +27,10 @@ The Stillers are the model safety-guild from [[Law and Citizenship]]: the guild 
 
 | | |
 |---|---|
-| **Want** | A Gaze that holds a wound and not a person forever. A quiet infirmary. |
+| **Want** | A Gaze that holds a wound and does not hold a person helpless. A quiet infirmary. |
 | **Have** | The strictest ticket, a yard beside the theatre, a Grey-clock. |
 | **Fear** | A raw Stilled in the square and no Intake for three days. A ticket held as guild-property. |
-| **Live conflict** | The paying theatre wants the master. The shed has a stone person. The charter wants no headlines. |
+| **Live conflict** | The paying theatre wants the master. The shed has a raw Struck who survived being stone. The charter wants no headlines. |
 | **Hooks** | A riot-line and a surgery in the same hour; a Grey that will not burn off; a crown-stiller who will not release a bed. |
 
 ## Shape of the house (at a glance)
@@ -52,12 +52,12 @@ They are useful the way a surgeon is useful. A town without one makes do with a 
 
 | Who | Why they come | What the stiller does | What they will not do |
 |---|---|---|---|
-| A Given [[The Stilled\|Stilled]] child, after pale stone | The Gaze must be trained before it is a forever | Apprentice them. Drill. Theatre. The ticket when they can still a wound and not a person. | Will not Speak the colour. Will not put them on a riot-line in the first year. |
+| A Given [[The Stilled\|Stilled]] child, after pale stone | The Gaze must be trained before a misuse leaves someone helpless | Apprentice them. Drill. Theatre. The ticket when they can still a wound and not a person. | Will not Speak the colour. Will not put them on a riot-line in the first year. |
 | A patient | Bleeding, poison, a knife that needs a still field | Hold the moment. Work fast. Walk to the yard after and burn the Grey. | Will not hold a will. Cannot. Will not still a person as punishment. |
-| The watch, or a street that is turning | A brawl about to become a pile of bodies | Stand the line. Still the swing, not the person, if they can help it. | Will not become the town's executioner. A forever-hold is a crime the code names. |
+| The watch, or a street that is turning | A brawl about to become a pile of bodies | Stand the line. Still the swing, not the person, if they can help it. | Will not become the town's executioner. Holding a person still is a crime the code names. |
 | A Struck Stilled, raw (they were stone) | The Grey is already in them, unpracticed | Hand them to [[The Intake]]. Sit the first drill *with* Intake. Reverse what can still be reversed. | Will not stamp a ticket on a raw Gaze. Will not leave them in the square. |
 | A charter-clerk | Someone unlicensed stills in public | Protect the charter: take them in, or swear they were not of the house | Will not write the town's people down. A guild-roll is not a Threnhael. |
-| Anyone who wants the Gaze as a weapon | — | Refuse. The code is the ticket. | Will not sell a forever. Anyone who does is not of this house. |
+| Anyone who wants the Gaze as a weapon | — | Refuse. The code is the ticket. | Will not sell a hold on a person. Anyone who does is not of this house. |
 
 ### An ordinary week (the job you can miss)
 
@@ -162,7 +162,7 @@ The roster is a college keeping its people hale, with the code written as a work
 - **Ticket-as-property is open.** It is Lestrand's live argument, not world-law. Do not let it become a census by another name.
 - **Do not clone Intake as a travelling stiller-circuit.** The underdog sits in the shed. Road-hands already walk. Do not convert the guild at the end of a story.
 - **The Slide.** A ticket that becomes a week-rent has left the yard. The doors can meet; do not merge them.
-- **Inviolate Will is load-bearing.** No mind-control charges. Forever-hold of a *person* is ordinary violent crime, the code's one named horror.
+- **Inviolate Will is load-bearing.** No mind-control charges. Holding a person still is ordinary violent crime, the code's one named horror. The Gaze can leave someone helpless in a fight. It does not hold them past the scene, and it does not turn them to stone.
 - **No Kind-gate. No Kumbaan college. No Stillers' pope.**
 - **Names.** Liturgical: *the Stelhael* — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who keep you hale by holding you still. The Waiting Lands say *blessing-surgeons*; the Ledger Coast says *ticket-surgeons*; the Tallied Crown files them as *crown-stillers*. The liturgical name is not settled.
 - **Hooks.** A raw Struck in a frontier square and a rope already in the hand; a Grey-roster that filed a person as lapse; a crown-clerk who wants the guild-roll copied onto the Threnhael; a ticket-chair that outlived the stiller; a PC who forgets the knob; Intake week pulling the only master off a plague theatre.

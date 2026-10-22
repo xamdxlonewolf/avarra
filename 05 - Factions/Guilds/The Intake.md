@@ -52,7 +52,7 @@ The slip is written on the **inside** of a ticket-blank, and the face of the bla
 
 | Who | Where they go | What the Intake will not do |
 |---|---|---|
-| Raw [[The Stilled\|Stilled]] | First drill. No promise of forever. | Stamp a ticket. Still a crowd as a lesson. |
+| Raw [[The Stilled\|Stilled]] | First drill. The hold does not outlast the scene. | Stamp a ticket. Still a crowd as a lesson. |
 | Raw [[Far-Voiced]] | The back room of the hall, to vent on purpose. | Open the room after the lamps as a policy. |
 | Raw [[The Answered\|Answered]] | The right element door, for earnest use that is not the crowded shop. | Put them on a hull the same day. |
 | Family, door-keeper, or Book-hand | The Intake takes the person and asks who will stand for them. | Sell a vouch. Call the person Given. |
@@ -88,7 +88,7 @@ The floor needs the master. The town needs the hazard gone. The Struck needs a y
 
 ## Slip (inside of a blank ticket)
 
-> *Inside only. Gaze, raw. Third night. Stood for by the sister and by N. who will not give a family name. First drill held. No forever. No ticket. If the week ends quiet, burn this. If it does not, the charter already knows. We do not face the street. If they will not come, we cannot make a town take them.*
+> *Inside only. Gaze, raw. Third night. Stood for by the sister and by N. who will not give a family name. First drill held. The hold does not last. No ticket. If the week ends quiet, burn this. If it does not, the charter already knows. We do not face the street. If they will not come, we cannot make a town take them.*
 
 The empty face of the blank is deliberate. When the slip is burned, the success becomes the guild's ordinary story, and the person's becoming was never written down in public.
 

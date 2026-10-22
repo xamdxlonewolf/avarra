@@ -414,7 +414,7 @@ They also disagree with Seat chronicles that start at the First Cut. A Long-Live
 - A mile-shrine with a ribbon and a climbing-scuff, and a Hands-child who does not know it was a grave.
 - An inn's upper room with too many beds for the present trade. The house still dates its notes from a founding-summer the beds were full.
 - A Held bed that has not been let in anyone's living mortal memory. The innkeeper can tell you the name. They will not tell you they think the child is dead, or Kept, or Old Ways, or never born.
-- A sibling-pair, one Given, one Kept, who will not walk the same side of a road.
+- A sibling-pair who will not walk the same side of a road: one Given, and one who never stood under a Tree. That second child is UnTurned. Folk still call them Kept.
 - A Far-Voiced calls from a ridge, in an old pattern, "The ford is wrong." No column answers. Birds do.
 - Someone at a table says, "I walked," and the room sorts itself by who goes quiet.
 
@@ -698,7 +698,7 @@ For that town, the road ends at the Tree, and the children Turn at home. The fam
 
 - Empty Salt-Walk berths in Eolthael, except the expensive ones and the holds that smell of wet earth out of season.
 - A Far-Voiced calls from a ridge, in an old pattern, "The ford is wrong." No column answers. A Road-hand does. Birds do.
-- A sibling-pair, one Given, one Kept, who will not walk the same side of a road. A split household's grandchildren keeping a courtesy they cannot date.
+- A sibling-pair who will not walk the same side of a road: one Given, one UnTurned. Folk still call the second one Kept. They are a split household's grandchildren, keeping a courtesy they cannot date.
 - Markets that still swell at an old mile-mark in Hale-month, then vanish, even when no column comes. The habit outlasted the road.
 - A kitchen-knife on a ribbon in a Near-Mile house that will not name a saint. That is the nameless knife, and it is still not a museum piece.
 

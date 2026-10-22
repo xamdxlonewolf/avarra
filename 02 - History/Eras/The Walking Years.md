@@ -167,7 +167,7 @@ They also disagree with Seat chronicles that start at [[The First Cut]]. A Long-
 - A mile-shrine with a ribbon and a climbing-scuff, and a Hands-child who does not know it was a grave.
 - An inn's upper room with too many beds for the present trade. The house still dates its notes from a founding-summer the beds were full.
 - A Held bed that has not been let in anyone's living mortal memory. The innkeeper can tell you the name. They will not tell you they think the child is dead, or Kept, or Old Ways, or never born.
-- A sibling-pair, one Given, one Kept, who will not walk the same side of a road.
+- A sibling-pair who will not walk the same side of a road: one Given, and one who never stood under a Tree. That second child is UnTurned. Folk still call them Kept.
 - A Far-Voiced ridge-cry in an old pattern: *the ford is wrong.* No column answers. Birds do.
 - Someone at a table saying *I walked*, and the room sorting itself by who goes quiet.
 
@@ -222,7 +222,7 @@ Moved from the player-facing body during residual export polish:
 - **Do not clone Epic 5 onto the road.** No travelling greens-keepers, no Slide-on-the-mile as a second house, no Road-hands-as-pilgrim-guards. Road-hands carry *wood*, later. Tithe on the road is a pot and a shed. The deathless house is an inn. What the Walk left behind became: [[The Years of Hands]].
 - **Keystone-adjacent, not confirming.** The walk killed children because the Given-door was in one grove. Skeptics: that is how a tree works, and how a road works. Believers: she waited in one place, and waiting is a kindness that had a cost. GM truth: her reach is bounded; carrying wood later moved the edge; *why she needed the wood carried* stays open. Do not smuggle a wound-cause into a grave.
 - **Colonial trap, again.** "We walked because we were faithful" is the Near-Mile sermon. The Long Mile was poorer, later, and full of people who stayed home without being worse. The Salt Walk was a berth. Do not let the hymn outrank the quay.
-- **Hooks.** A Held bed with a name; a sibling Given/Kept pair and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.
+- **Hooks.** A Held bed with a name; a sibling pair, one Given and one UnTurned, and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.
 
 ### What the player body leaves out
 

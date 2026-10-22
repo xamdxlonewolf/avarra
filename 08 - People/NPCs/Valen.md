@@ -18,7 +18,7 @@ updated: 2026-10-22
 
 # Valen
 
-Raw [[The Stilled|Stilled]]. Of [[Orentel]]. Stone on the third night. Sister stood. An N. would not give a family name. First drill held. No forever. No ticket. A neighbour says Valen. A stranger gets Valen of Orentel. There is no family to give. On Kumbaan the name is Valen.
+Raw [[The Stilled|Stilled]]. Of [[Orentel]]. Stone on the third night. Sister stood. An N. would not give a family name. First drill held. The hold does not last. No ticket. A neighbour says Valen. A stranger gets Valen of Orentel. There is no family to give. On Kumbaan the name is Valen.
 
 **Want:** to leave the shed as a person the quay will stand next to. Does not know the house will remember a debt.
 

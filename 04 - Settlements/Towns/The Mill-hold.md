@@ -31,7 +31,7 @@ updated: 2026-10-22
 
 ## Overview
 
-West of the Rain-Wall, on [[Maiethorn]]'s four-season core, a mill-town grew around a graft that took beside a race. Bread and a Hand in the same water. For a generation they Turned at home. The pilgrim-way ended at their boughs the way it ends at Brenthael's: children were told the road went to the Motherwood, and most Hands-children did not keep walking.
+West of the Rain-Wall, on [[Maiethorn]]'s four-season core, a mill-town grew around a graft that took beside a race. Bread and a Hand in the same water. For a generation they Turned at home. The Near Mile goes on past Brenthael and past this hold. Children here were told the road went to the Motherwood, and most Hands-children did not keep walking.
 
 This Liren the culvert that keeps spring-water off the roots choked. The mill-race stayed full. The Hand stood in it. [[Ecology of the Turning|Root blight]] is ordinary horticulture: waterlogged soil, crowded roots, a drain someone assumed someone else cleared. It is not a curse and not a sermon. It is this year.
 
@@ -64,7 +64,7 @@ Tithe-provision is core-warm and suddenly thin: the greens still work; the Hand 
 
 ## What the square still does
 
-This is Maiethorn, Hands-country. The town Turned its children at home, and the road ended at the boughs. This year the wood is sick, so the children walk to Brenthael, and a Road-hand is here with earth, not with a colour. A Hand can fail. That is weather, not the end of the age.
+This is Maiethorn, Hands-country. The town Turned its children at home, and most of them did not keep walking past the boughs. The Mile still goes on. This year the wood is sick, so the children walk to Brenthael, and a Road-hand is here with earth, not with a colour. A Hand can fail. That is weather, not the end of the age.
 
 The Seat will call thin soil. The mill will call a race. Talen will call a date in Eolthael. All three are looking at the same square.
 

@@ -145,13 +145,13 @@ The Inviolate Will already sorts the charge: **negligent Tithe-lapse** versus **
 1. **Neighbour-word.** Most harm dies on the street. Restitution, apology, a Bound word if they have one. The watch is not called.
 2. **The watch.** Night-watch, ward-watch. Often Kept (untithed nights) and [[Two-Bodied]] (the ranging *is* the Tithe), with a [[Far-Voiced]] for the shout. They hold a body until morning. They do not investigate Conditions. They fetch a pillar or a guild. "The watch" in other notes means this civic hold, not a secret police — except where a Watchful crown has made it one. Who stands the bench, what a cohort is, and what the two wars left are on [[The Watch and the Cohort]].
 3. **Guild-hearing.** Tithe-lapse, unlicensed Gaze, an element let go in a shop. The guild fines, suspends a ticket, binds to apprenticeship. The state is not in the room unless the charter is at risk.
-4. **Open hearing.** Willful harm. Witnesses — especially the three pillars. The charge is the act. "You Gazed a man" is assault. "You are Stilled" is not a crime. A Gaze used as a forever-hold is the rare charge the Stillers' own code already names.
+4. **Open hearing.** Willful harm. Witnesses — especially the three pillars. The charge is the act. "You Gazed a man" is assault. "You are Stilled" is not a crime. A Gaze used to hold a citizen still is the rare charge the Stillers' own code already names.
 5. **What the hearing can do** without writing you down:
    - Restitution — coin, labor, furnish a Tithe you broke
    - Ticket-stripping — you may not practice the dangerous act
    - A Bound word, or a term
    - **Exile from the hearth** — you become unvouched in your own city. This is the civic death. It does not require a file.
-   - The rope or the wall — murder, and the rare forever-hold. Commoner on the frontier. Rare in the Warm.
+   - The rope or the wall — murder, and the rare hold of a citizen still. Commoner on the frontier. Rare in the Warm.
 
 The two Watchful crowns write you down. That is their extra punishment, and why they feel like a different country.
 
