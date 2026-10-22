@@ -9,7 +9,7 @@ aliases: [The History, History of the Turning, One History]
 world: The Turning
 reveals: [keystone-adjacent, the-unspent]
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # A History of the Turning
@@ -152,11 +152,13 @@ The memory cup is a late practice among the Long-Lived. It began in the Years of
 
 The group that keeps the cup is [[The Pourers]], also called the Cup Circle. Every Long-Lived person is asked to join once, in person, by a member. A person who says no is not punished. They keep their standing, and the long-houses still give them a seat. Most Long-Lived people are not members. All of them know the circle exists.
 
-A member gives five years of their memory into a cup, of their own free will. The gift is the memories from those five years, and the years themselves. The member adds one drop of their own blood, because the Long-Lived read memory from blood. Afterward the member no longer has those memories. They still need to keep learning, as every Long-Lived does. What they lose is five years of remembering, including the deaths of the people they knew in those years.
+A member gives five years of their memory into a cup, of their own free will. The member adds one drop of their own blood, because the Long-Lived read memory from blood. Afterward the member no longer has those memories. They still need to keep learning, as every Long-Lived does. What they lose is five years of remembering, including the deaths of the people they knew in those years.
+
+Members say they give "the memories those years held, and the years themselves." The second part means two things. The member also gives the long-house shelf all the papers they wrote or kept in those five years, such as letters, account books, and diaries. And the long-houses that keep the circle stop counting those years in the member's age, so a member who has given ten years is seated as if ten years younger. Among the Long-Lived, age decides who speaks first and who keeps a key, so each gift costs a member rank in those long-houses. Courts, banks, guilds, and Long-Lived who are not members keep counting the ordinary way.
 
 Members can read the cup the way a Long-Lived reads a drop of blood. What they read is true. One reading can hold several members' memories of the same year. Members also keep books in the Long-Lived library in [[Polity Archetypes|Lestrand]], on the Ledger Coast, and they make copies of books in [[The Old Tongue]] and in the common speech for it. People use those books. Molevad keeps the minutes of the best-known circle in the same library. A second circle meets in an upper room of a lodging-house in Orenbren and does not ask Molevad's circle for permission.
 
-A member may ask for their years back. They get a thinner copy, and a copy stays in the cup. The other members stop reading blood with them, and the long-houses that keep the circle stop giving them a seat.
+A member may ask for their years back. They get their papers back, which members call a thinner copy. The memory stays in the cup. The other members stop reading blood with them, and the long-houses that keep the circle stop giving them a seat.
 
 The circle claims that by giving to the cup they made a god. They call it [[The Unspent|the Poured God]], and among themselves the Cup We Made. They say every gift is freely given. The Pourers are a separate group from the Walled Book and from [[The Protectors]].
 
@@ -228,5 +230,5 @@ The Leaf-Mother is real, kind, limited, and her help has a cost ([[Is the Leaf-M
 - Rothallo stays inside Orenbren. [[The Pourers]], [[The Walled Book]], and [[The Protectors]] stay three separate groups.
 - [[Reimaethe]] and Hithaen stay seeds. Do not plot them from this page.
 - Population figures live only on [[The Premise]]. This page quotes them and does not keep a second set.
-- Story H.4, read 2026-10-21 at the user's request. Every section was checked against its source notes, and the source note was followed where they disagreed. The corrections are listed in the H.4 recorded decisions on [[Roadmap]]. The five-year gift keeps the source's wording, "the memories those years held, and the years themselves," because no note says what the second part means.
+- Story H.4, read 2026-10-21 at the user's request. Every section was checked against its source notes, and the source note was followed where they disagreed. The corrections are listed in the H.4 recorded decisions on [[Roadmap]]. The five-year gift kept the source's wording, "the memories those years held, and the years themselves," because no note said what the second part meant. Story H.6 (2026-10-22) settled it: the papers go onto the shelf, and the circle stops counting the years. The memory-cup section now says so.
 - Do not put this page into the world book until the user asks.

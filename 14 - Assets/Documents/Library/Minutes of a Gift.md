@@ -7,7 +7,7 @@ tags: [handout, library, lestrand, pourers, long-lived, epic-h]
 aliases: [Molevad's Minutes, The Lestrand Minutes]
 reveals: [the-unspent]
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 *One meeting, copied from the minute-book on the long-house shelf in Lestrand, in Molevad's hand. Copied with K.'s leave.*
@@ -22,7 +22,7 @@ Nine at the table. One stood in the passage and did not come in. The minutes do 
 
 We asked K. three times whether the gift was K.'s own wish, as we always ask. K. said yes three times. Nobody at the table spoke against it.
 
-**The gift.** K. gave the five years into the Cup We Made, with one drop of K.'s own blood. Afterward we asked K. what the husband's name was. K. knew the name and the face from before the marriage. K. could not tell us anything that happened in the five years. K. said they felt lighter, and then said that was a foolish thing to say.
+**The gift.** K. gave the five years into the Cup We Made, with one drop of K.'s own blood. Afterward we asked K. what the husband's name was. K. knew the name and the face from before the marriage. K. could not tell us anything that happened in the five years. K. said they felt lighter, and then said that was a foolish thing to say. K.'s papers from the five years went onto the shelf: letters, two account books, and a diary. From tonight K. is seated five years younger.
 
 **The face this decade.** We are to describe the god as a librarian. Two members asked to keep the quiet guest. That was not agreed. These minutes call it the librarian until the next decade.
 
