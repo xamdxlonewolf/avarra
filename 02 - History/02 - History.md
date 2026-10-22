@@ -17,6 +17,7 @@ The past as believed and as recorded — eras, events, timelines, and historical
 
 ### Start here
 - [[A History of the Turning]] — the whole history in order, from before anyone counted years to Cut-year 387
+- [[The Library Pages]] — six short pages a party can find on shelves in Rothallo and Lestrand, each written by someone in the world, and what each one gets right and wrong
 
 ### The spine, the lived road, the hinge, and the residues
 - [[The Ages of the Turning]] — two clocks, not four stacked ages; Cut-years; the Grafting as a still-moving wave
