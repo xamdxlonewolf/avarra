@@ -68,7 +68,7 @@ The Closed Seat's power depended on being the only gate to the only Tree. A town
 
 They failed. Some grafts died. Towns hid cuttings in wells and watered them at night. The lodging-towns around the grove, which made their living housing travellers, would not stop housing them to help the Closed Seat. The First Seat wanted to control who cut, not to destroy trees, and it would not help burn a graft that had already Turned a child. The Closed Seat could not guard every town within a day's walk in every direction. People call this war the Closing. Folk also call it the Uprooting.
 
-In Cut-year 38, Hildal, the last person to speak for the Closed Seat whose name people still use, ordered the Retreat. Hildal was a clerk, not a warlord. The Closed families gave up the grove, moved a day's walk away into a walled town, and took their Book with them. The Book is their record of who owes what. That walled town is [[Rothallo]], which people still call the Inner Close. More detail: [[The Closing]] and [[Hildal]].
+In Cut-year 38, Hildal, the last person to speak for the Closed Seat whose name people still use, ordered the Retreat. Hildal was a clerk, not a warlord. The Closed families gave up the grove, moved a day's walk away into a walled city, and took their Book with them. The Book is their record of who owes what. That walled city is [[Rothallo]], which people still call the Inner Close. More detail: [[The Closing]] and [[Hildal]].
 
 The Closed Seat's power split four ways, and nobody has put it back together:
 

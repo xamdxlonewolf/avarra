@@ -23,7 +23,7 @@ updated: 2026-10-22
 
 Maiethorn is the world's **old heart** — the continent people mean when they say "the center." It is old the way a cathedral town is old: long-settled, deeply grafted, every hill with its Tree and every Tree with its centuries. This is where the [[The Leaf-Mother|Motherfaith]] began, where the [[Turning Tree|Awakening Tree]] grows, and where a child's [[Turning Tree|Turning]] is least remarkable precisely because it is most certain — the Trees here are so healthy that more children are Given here than in the world as a whole, so a hug at the Tree is less common here than elsewhere. It is not rare, and every Maiethorn school has [[Law and Citizenship|Kept]] children. The shares are on [[Conditions]]. The whole [[Economy and the Tithe|Condition-economy]] runs at full depth here: deathless houses centuries old, [[The Stilled|Stilled]] infirmaries, [[Far-Voiced]] on every court and quay. If the rest of the world is the reach-gradient thinning outward, Maiethorn is the thick, bright source it thins *from*.
 
-Maiethorn is the place where devotion is *heaviest*, most institutional, and most political. The faith here is old, layered, and contested, with a sanctified surveillance-crown ([[Polity Archetypes|Threnmaieth]]) and a stubborn [[#The heartland heresy|heartland heresy]] both claiming the sacred center. Living close to the holy brings pressure, not peace.
+Maiethorn is the place where devotion is *heaviest*, most institutional, and most political. The faith here is old, layered, and contested, with a sanctified surveillance-crown ([[Polity Archetypes|Threnmaieth]]) and a stubborn [[The Watching|heartland heresy]] both claiming the sacred center. Living close to the holy brings pressure, not peace.
 
 ## Geography & Climate
 

@@ -62,7 +62,7 @@ They are useful the way a host is useful. They do not water Trees, stamp books, 
 | A stranger who crossed the storm-wall | They have already been through drowning-water; they need a seat | First night: guest (already sacred). Feed them. Learn a name if they offer one. Second night: say *no one is a stranger twice* and treat them as of the table. | Will not make them Turn. Will not ask what they *are*. Will not sell the sentence as a proverb. |
 | Anyone at an ordinary supper | The extra place is every meal that matters, not only the feast | Set it. A poor house still sets it. The hands make the extra possible. | Will not count the household as the bodies you can see. That is the one impiety. |
 | A guest on the mainland (attic) | They heard of a Moon-Feast; they are hungry; they are curious | Same two sittings, smaller room. Feed them. Say the sentence on the second night. Treat them as kin *inside the room*. | Will not walk them to a warden to be filed as belonging. Will not stamp a book. Will not collect for a hall across the water. |
-| A rare Struck on the isle | A drowning, a death, a green taking — uncommon enough to be family news | Feed them. Keep them in the household. Do not make a class of them. | Will not invent a mainland receiving-rite. Will not send them to a Tree that is not there. |
+| A rare Struck on the isle | A drowning, a death, a green taking — uncommon enough to be family news | Feed them. Keep them in the household. They are not treated as a class apart. | Will not invent a mainland receiving-rite. Will not send them to a Tree that is not there. |
 | A warden, a Book-hand, a Watcher who crossed | Courtesy, curiosity, a campaign | They are a guest. First night, second night. The host will find their noon-faith *loud*. | Will not give them a Tree to tend, a book to stamp, or a Night Watch to keep. There is nothing here for those jobs. |
 
 ### A bright night on Kumbaan (the job you can see)
@@ -121,7 +121,7 @@ The extra place is set slightly back from the board, not at the end. A mainlande
 | Attic on the mainland | a Yumboe abroad (by necessity) | they are still keeping Ndeyaan with whatever table they can make | a mainland convert who sat twice; a Kept clerk who likes the night better than the Tree |
 | Laying the extra place | anyone of the table | the one impiety is omitting it | the poor house as much as the deep-hill hall |
 
-The feared-licensed are not barred and almost never arise on the isle. A [[Phoenix]] is not a host the Njaalo have a rite for. A Bound who sits twice is kin; their Terms are not a grace said over the plate. Do not turn the Open Table into the Fair Hand's grammar.
+The feared-licensed are not barred and almost never arise on the isle. A [[Phoenix]] is not a host the Njaalo have a rite for. A Bound who sits twice is kin; their Terms are not a grace said over the plate. The Open Table does not use the Fair Hand's terms and debts.
 
 Struck table-keepers on the mainland must still be **vouched anew** if they want to *stay* in a town. The second supper will not satisfy a Watchful clerk. That collision is the house's weather abroad, not a failure of hospitality.
 
@@ -130,9 +130,9 @@ Struck table-keepers on the mainland must still be **vouched anew** if they want
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
 | [[The Tree-Wardens]] | A warden who crosses the storm-wall is a guest at supper; there is still no Tree to tend. On the mainland they already share landings: a quay, an attic stair, a tenth-year list. | The host will not walk a child of the table to a Tree. The warden will. The Given-door is one week. No mission-chapter on Kumbaan. No moon-warden. The fight is in the port. |
-| [[The Watchers]] | A Watcher who crossed would find the night already kept — for a different reason. | Do not invent a Night Watch on the isle. |
-| [[The Book-Hands]] | A Settler who sits twice has been called kin in a language with no book. | Do not turn the sentence into a term. |
-| [[The Door-Keepers]] | Ancestor-meals and a place set look like cousins to a traveller. They are not. The dead in the ground are not the unseen hands. | Do not fold the isle into a grove. |
+| [[The Watchers]] | A Watcher who crossed would find the night already kept — for a different reason. | There is no Night Watch on the isle. |
+| [[The Book-Hands]] | A Settler who sits twice has been called kin in a language with no book. | The sentence is a courtesy, not a term. |
+| [[The Door-Keepers]] | Ancestor-meals and a place set look like cousins to a traveller. They are not. The dead in the ground are not the unseen hands. | Kumbaan is not part of any grove the Door-Keepers keep. |
 | [[The Shore-Sitters]] | Sister house. They sit the storm-beach. A living wreck they walk uphill; they do not seat on the sand. | A Table-Keeper does not go down to wait. The sand decides *alive*; the hall decides *kin*. |
 
 ## How they live in the three corners (and off the map)
@@ -178,6 +178,7 @@ The card is a hospitality blessing, half-ruined by the quay copy. The sailor tho
 
 ## GM Notes
 
+- **Moved from the body.** Do not make a class of the rare Struck on the isle. Do not turn the Open Table into the Fair Hand's grammar. Do not invent a Night Watch on the isle. Do not turn the sentence into a term. Do not fold the isle into a grove.
 - **What this is.** The Table-Keepers are almost not clergy. The faith itself is on [[The Open Table]]; this note does not rebuild it.
 - **Canon.** The rite *is* supper. No chapel. No Kumbaan mission. Not a Kind-only order — on the isle they are Yumboe because that is who lives there. The names are not settled.
 - **The card, read by the GM.** The house's whole case is that being wanted was never a gift, and the sailor who sold the card could not afford to see that. He thought it was a grace.

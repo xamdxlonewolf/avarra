@@ -89,7 +89,7 @@ Checked, and not a conflict: the new seats' habit counts and people match the gr
 |---|---|---|
 | **R-01** | Infernis + Bound never stacked in procedure | They stack. [[At the Table]] · [[Bound]] |
 | **R-02** | `[[Haelin]]` had no target | Alias of [[Harrow's Green]] |
-| **R-03** | `[[Thuda]]` pointed at a missing note | On-page mouth; wikilink removed |
+| **R-03** | A link to Thuda pointed at a missing note | Thuda is a named person on the page with no note of their own; the link was removed |
 | **R-04** | Kind cards shipped LOCKED banners + "Open questions" in the player body | Moved behind `## GM Notes` |
 
 ## What this log is not

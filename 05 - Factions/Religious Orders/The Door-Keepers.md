@@ -124,7 +124,7 @@ Struck door-keepers must still be **vouched anew**. Naming them kin is the house
 | [[The Tree-Wardens]] | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the doors. Vaethorn's Hands-folk find the missing seat infuriating and, in a dry year, quietly useful. | A sickening Tree in an old grove: who is host. Play as neighbours who both love the wood. A Narrow-Hand preacher calling the Struck "not hers" is who they will not eat with. |
 | [[The Watchers]] | Two old memories, opposite edges. Before *at* the Tree / Before *without* one. | They will not agree on the Before, and neither will give way. The First Bowl, the guest-grove, is the ordinary room for it. It escalates with a meal refused, a Night Watch held in the green, or a Road-hand arriving in the middle. |
 | [[The Book-Hands]] | Kin-name and rewritten terms, sometimes the same Struck, same month. | Which name goes first. Two courtesies, not a trial. |
-| [[The Open Table]] | Ancestor-meals and a place set for staying-kin look, to a traveller, like cousins. They are not. The dead in the ground are not the unseen hands. | Do not fold the isle into a grove. There is no Vaeloren mission on [[The Sundering Isle\|Kumbaan]]. |
+| [[The Open Table]] | Ancestor-meals and a place set for staying-kin look, to a traveller, like cousins. They are not. The dead in the ground are not the unseen hands. | Kumbaan is not part of any grove the Door-Keepers keep. There is no Vaeloren mission on [[The Sundering Isle\|Kumbaan]]. |
 
 ## How they live in the three corners
 
@@ -167,6 +167,7 @@ The writer is polite and a little barbed, and the note reuses the drowning-stone
 
 ## GM Notes
 
+- **Moved from the body.** Do not fold the isle into a grove.
 - **What this is.** The land is the seat, so the Door-Keepers have no hierarchy, only a reputation. The faith itself is on [[The Old Ways]]; this note does not rebuild it.
 - **Canon.** Door-keepers exist. They know the old doors. They stand for the Struck. Grafts are guests. They recruit by faith, practice, and Condition-lean, never by [[Kinds of the Turning|Kind]]. They are not a Kind-nation of the Taken-In.
 - **The injustice.** The Seat's scion-queue is the Orenhael's injustice; do not clone it onto the Vaelbren. Theirs is *who is host*, and *who will stand for the Struck the town will not*. The grievance stays: the grafts *are* late; the Motherfaith *did* talk as if becoming were new.

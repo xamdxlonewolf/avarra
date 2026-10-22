@@ -47,7 +47,7 @@ A later chronicle that "discovers" a first king, a first war, or a first sermon 
 ## Links
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The Watching]] · [[The Old Ways]] · [[Turning Tree]]
 - [[The Houses and the Years]] — door. This preface stays thin.
-- Leftovers (uncounted): [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] · [[The Other Count]]
+- Places from before the count that a party can walk into: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] · [[The Other Count]]
 - [[02 - History]]
 
 ## GM Notes

@@ -126,4 +126,4 @@ It is a grace said over a meal. Sitting twice makes a guest kin, and that is why
 - **Hospitality is the ~5% dial at its gentlest — until the hall overflows.** Do not turn the Open Table into a trap-cult or a geas. The scare, when you need one, is a wreck, a guest who will not leave, a week of extra guests, a noon that will not sleep.
 - **Soonke and Njunda are two jobs.** The sand decides alive. The hall decides kin. If they start doing each other's work, that is a thin year, not a merger of houses.
 - **Yumboe PC:** GM leave; full Kind; never a mix ([[Kind Heritage]]).
-- **Hooks.** Nolas at noon; hands that stop; Saalo and a sail; a warden guest with no Tree; pairing a mainland session ([[The Open Table#The sentence at the mainland lintel]]) *after* someone has sat here, so the sentence fails in public later.
+- **Hooks.** Nolas at noon; hands that stop; Saalo and a sail; a warden guest with no Tree; pairing a mainland session ([[The Open Table#Two suppers, or a Turning-witness]]) *after* someone has sat here, so the sentence fails in public later.

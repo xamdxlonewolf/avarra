@@ -61,7 +61,7 @@ Player bodies never confirm her. Clue notes take `keystone-adjacent`. `leaf-moth
 
 ## What confirmation does not include
 
-Authoritative list lives on [[Is the Leaf-Mother Real#What confirmation does not include]]. Do not recopy. In play, the leaf will not:
+Authoritative list lives on [[Is the Leaf-Mother Real#If confirmation lands]]. Do not recopy. In play, the leaf will not:
 
 - Sort the Kept (chosen vs past-her-edge)
 - Name a Hand, a door, or a Struck

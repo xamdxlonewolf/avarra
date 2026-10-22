@@ -46,7 +46,7 @@ The fox-born already come in three Foxes ([[Kitsune#Daggerheart (ancestry featur
 |---|---|---|
 | **Wilds** (red / forest) | tangled wood, hedgerow, Motherwood | densest in [[Maiethorn]]'s Motherwood and [[Heskoren]]'s deep forests |
 | **Snows** (white / high cold) | high snow, pale open country | densest on [[Maiethorn]]'s [[Named Ground|Rain-Wall]] and [[Heskoren]]'s highland spines |
-| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in **[[Maiethorn#The Rain-Shadow|Maiethorn's Rain-Shadow]]** — the leeward east of the Rain-Wall, the one true dry country in the known world |
+| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in **[[Maiethorn|Maiethorn's Rain-Shadow]]** — the leeward east of the Rain-Wall, the one true dry country in the known world |
 
 A Fox of the Sands in a wet [[Strandoren]] harbour is unremarkable (people move). A town in the Rain-Shadow with *no* fox-born at all would be the thing worth asking about.
 

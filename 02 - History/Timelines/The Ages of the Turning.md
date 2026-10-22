@@ -21,9 +21,9 @@ updated: 2026-10-22
 
 People in this world do not live in "the Fourth Age." They keep **two overlapping clocks**, and which one they glance at tells you where they stand.
 
-**Clock 1 — How you Turned** (personal, generational). Did you walk to [[Maiethorn|Thaeloren]] (or to a neighbour who had already walked), or did you stand under a town graft? Ordinary families date themselves this way: *we are a Hands-house; grandmother still talks of the road.* A [[Long-Lived]] who says *"I walked"* is saying when they were young.
+**The count of how you Turned** (personal, generational). Did you walk to [[Maiethorn|Thaeloren]] (or to a neighbour who had already walked), or did you stand under a town graft? Ordinary families date themselves this way: *we are a Hands-house; grandmother still talks of the road.* A [[Long-Lived]] who says *"I walked"* is saying when they were young.
 
-**Clock 2 — Where the wood has reached** (geographic, unfinished). The **Grafting** is not a closed golden age. It is a *wave of living wood* that started at the origin, filled [[Maiethorn]], crossed to [[Strandoren]] by sea, and is **still arriving** on [[Heskoren]]. [[The Sundering Isle|Kumbaan]] is off the wave entirely. Present-day thin reach is not "history's scar." It is the front of a process that has not finished.
+**The count of where the wood has reached** (geographic, unfinished). The **Grafting** is not a closed golden age. It is a *wave of living wood* that started at the origin, filled [[Maiethorn]], crossed to [[Strandoren]] by sea, and is **still arriving** on [[Heskoren]]. [[The Sundering Isle|Kumbaan]] is off the wave entirely. Present-day thin reach is not "history's scar." It is the front of a process that has not finished.
 
 Both clocks sit on an unnamed preface: [[Before the Walk]]. The Tree was already there. No honest count starts it.
 
@@ -34,10 +34,10 @@ Both clocks sit on an unnamed preface: [[Before the Walk]]. The Tree was already
 | | Everyday | Liturgical | Says | What it *is* |
 |---|---|---|---|---|
 | Preface | **[[Before the Walk]]** | *(mostly unnamed)* · [[The Watching]] keep **the Before** | — | The Tree already stood. Kinds, doors, and seeing without a mother's name. Uncounted on purpose. |
-| Clock 1, old default | **[[The Walking Years]]** | **Brenvaeth** *(BREN-vaeth)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed [[Law and Citizenship\|Kept]] for want of the trip. Far lands ran heavy on the Kept and the [[The Premise\|Struck]]. |
+| Count of how you Turned, old default | **[[The Walking Years]]** | **Brenvaeth** *(BREN-vaeth)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed [[Law and Citizenship\|Kept]] for want of the trip. Far lands ran heavy on the Kept and the [[The Premise\|Struck]]. |
 | The hinge | **[[The First Cut]]** | **Eoloren** *(EOL-or-en)* | "the witnessed hinge" | Someone cut living wood and it *took*. Who, is argued. That it happened, is not. |
-| Clock 2 | **the Grafting** | *(process, not an age you exit)* | — | The carrying of hands. Still unfinished at the [[Heskoren\|Sundered Reach]]. Never crossed the storm-wall. |
-| Clock 1, new default | **[[The Years of Hands]]** | **Ornthael** *(ORN-thael)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains — as devotion, prestige, or necessity where a graft has failed. |
+| Count of where the wood has reached | **the Grafting** | *(process, not an age you exit)* | — | The carrying of hands. Still unfinished at the [[Heskoren\|Sundered Reach]]. Never crossed the storm-wall. |
+| Count of how you Turned, new default | **[[The Years of Hands]]** | **Ornthael** *(ORN-thael)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains — as devotion, prestige, or necessity where a graft has failed. |
 
 The liturgical pair is a deliberate inversion of the [[The Tree-Wardens|Road-hands']] own name. **[[The Old Tongue|Thaelvaeth]]** is "the Tree gone to the waiting" — wood carried *out*. **Brenvaeth** is "the hearth gone to the waiting" — people walking *in*. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths.
 
@@ -93,7 +93,7 @@ These are the lasting effects of the two clocks on law, money, clergy, language,
 
 ## Visibility markers (what a character notices)
 
-- A [[Long-Lived]] who says *I walked*, and a room that goes quiet — Clock 1, spoken as biography.
+- A [[Long-Lived]] who says *I walked*, and a room that goes quiet — the count of how you Turned, spoken as biography.
 - A **mile-shrine** on a road that now ends at a town Tree: a stone for a Turning that no longer has to happen there. The devout still leave a ribbon. The town children climb it.
 - **Empty pilgrim-beds** in an old inn's upper room, let now to merchants. The deathless house that owns the inn still dates its notes from the founding-summer the beds were full.
 - Three dates for one summer, written on one debt: a Cut-year, a house-year, a "year the graft took." A fourth if the note survived [[The Grey Summer]]. See the clerk's query below — it is **archival** (Cut-year 280), and Ledan still writes for the house.

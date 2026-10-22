@@ -41,7 +41,7 @@ A crown or council that writes the roll runs it; who sits on it is not named. Li
 
 ## Goals & Methods
 
-Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that can be shut. Do not argue theology; argue procedure.
+Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that can be shut. When someone objects, its clerks answer with procedure and never with theology.
 
 **Its injustice.** **A census with the halo worn off.** You cannot appeal to piety. You cannot shame them with "the Mother's gifts should not be listed" — they agree, and list you anyway, as cargo and hazard. It is colder than the Tallied Crown.
 
@@ -53,6 +53,7 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 
 ## GM Notes
 
+- Play Trenledd's clerks as arguing procedure. Do not have them argue theology.
 - Do not flesh districts.
 - Do not give them a Threnhael by another name without noticing the difference.
 - Seat is [[Lunbra]]. The ruler stays unnamed. Do not make Vamar, or Dirrol, the ruler. Do not census the filed country.

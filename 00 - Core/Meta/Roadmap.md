@@ -92,7 +92,7 @@ updated: 2026-10-22
 - [x] Settle Leaf-Fall failure and edge-case procedure without confirming the Leaf-Mother in player-facing text
 - [x] Add one restrained point of religious dread, using the Phoenix fall or a historical mis-Speaking without moving the setting above its 5% scary dial → [[The Wrong Green]]
 - [x] Give each Other Hand a positive want; state what Orledd receives in a Bound bargain and what strains or breaks the Leaf-Mother's allowance → [[The Other Hands]] · [[Bound]]
-- [x] Turn the Open Table's sentence-that-will-not-travel into a visible table conflict instead of leaving it buried in an order note → [[The Open Table#The sentence at the mainland lintel]]
+- [x] Turn the Open Table's sentence-that-will-not-travel into a visible table conflict instead of leaving it buried in an order note → [[The Open Table#Two suppers, or a Turning-witness]]
 
 > **R.4 recorded decisions (did not change the locked engine).** The Given-door stays one week in the tenth year ([[The Walking Years]]). A completed standing (colour or hug under sound wood) is once. A miss, refusal, or unsound Tree that spends the week makes a child **unTurned**, not Kept, and does not unlock next year. Struck remains the later mercy. Some Kept are past her reach *this turning*; she does not tell them apart, and a later week is not offered to sort them. Player-facing text does not confirm her. The dread is a human mis-Speaking, not an eerie Tree. Other Hands wants and allowance failure stay GM-only. No Kumbaan mission; the Open Table fight is a mainland lintel.
 
@@ -1406,9 +1406,9 @@ One reader per group. Each reads every note in its group all the way through and
 
 **Wave 2 — across the vault.** After wave 1 is committed.
 
-- [ ] Rebuild [[Reveal Index]] from the `reveals:` and `reveal_tag` keys as they stand after wave 1
-- [ ] Fix the broken links the scan lists, and any wave 1 made
-- [ ] Check the C-01, C-04, and C-07 leftovers are gone from the notes those entries name
+- [x] Rebuild [[Reveal Index]] from the `reveals:` and `reveal_tag` keys as they stand after wave 1
+- [x] Fix the broken links the scan lists, and any wave 1 made
+- [x] Check the C-01, C-04, and C-07 leftovers are gone from the notes those entries name
 
 **Wave 3 — check.**
 
@@ -1425,7 +1425,7 @@ One reader per group. Each reads every note in its group all the way through and
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
-- **Epic V — Read the whole vault:** 21 / 29 tasks (72%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, V.2 is 3 / 3 ✅, and V.3 is 1 / 1 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]; C-19 (Sanbreo is on the west coast) is fixed. The user's answers are the V.3 recorded decisions. V.4 is 8 / 16: wave 1 is 8 / 8 ✅ **2026-10-22**, wave 2 is 0 / 3, wave 3 is 0 / 4, and the world book box is the user's. World book untouched.
+- **Epic V — Read the whole vault:** 24 / 29 tasks (83%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, V.2 is 3 / 3 ✅, and V.3 is 1 / 1 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]; C-19 (Sanbreo is on the west coast) is fixed. The user's answers are the V.3 recorded decisions. V.4 is 11 / 16: wave 1 is 8 / 8 ✅ **2026-10-22**, wave 2 is 3 / 3 ✅ **2026-10-22**, wave 3 is 0 / 4, and the world book box is the user's. World book untouched.
 - **Epic H — A past you can hold:** 35 / 35 tasks (100%) ✅ **2026-10-22. Epic H complete.** H.6 is 6 / 6 ✅ **2026-10-22.** "The years themselves" means the papers go onto the shelf and the circle stops counting the years; the thinner copy is the papers. H.1 is 6 / 6 ✅ **2026-10-21.** The ask and the taking are on [[The Pourers]]; the taking is under GM Notes. [[The Unspent]] records the founder's belief under GM Notes. [[Long-Lived]] and [[Movements]] point at the practice. H.2 is 6 / 6 ✅ **2026-10-21.** The manners, the lesson beside the count, the turns of work, and three places outside the walls are on [[The Walled Book]]. The teacher is Volnai. [[The Closing]] has one sentence on the manners after the Retreat. H.3 is 8 / 8 ✅ **2026-10-21.** [[A History of the Turning]] tells the history in order in ordinary sentences, with the taking, the founder's belief, and the age of [[The Unspent]] under GM Notes. It is linked from [[02 - History]] and [[The Ages of the Turning]]. H.4 is 1 / 1 ✅ **2026-10-21.** At the user's request the history was audited against its source notes and read sentence by sentence; the fixes are in the H.4 recorded decisions. H.5 is 8 / 8 ✅ **2026-10-21.** [[The Library Pages]] lists six pages in `14 - Assets/Documents/Library/`: a primer and a road song from Rothallo's school, a history of the Closing from the Book's house, and minutes of a willing gift, a play scene, and a poem from Molevad's long-house shelf in Lestrand. The three truths no page reveals are under its GM Notes. World book untouched.
 - **Epic C — How the book speaks:** 13 / 13 tasks (100%) ✅ **2026-10-05.** `prose-style`: P6, P4, and P2 over-corrected. Glossary asides pulled into the next sentence. Baseline kept: the Turning Tree opening and [[How a Place Speaks]]. Book rebuilt. Vault not rewritten.
 - **Epic B — The book, in a reader's voice:** 26 / 26 tasks of B.1 (100%) ✅ **2026-10-05.** Each chapter was read through. Designer shorthand in the player chapters is said in ordinary words. Clock 1 and Clock 2 keep their names in the Ages chapter and in the GM chapter, after the chapter says what each count is. The Leaf-Mother stays a belief in player chapters. The four open questions stay open. Two claimants on one green stay unwritten. The book was rebuilt. The vault was not rewritten.

@@ -23,7 +23,7 @@ People say **the Sown Tree** and **Sown-folk**. Charters and learned maps write 
 
 ## Overview (public)
 
-[[Maiethorn#The Rain-Shadow|The Rain-Shadow]]: leeward east of [[Named Ground|the Rain-Wall]], dry hills and sand-country, towns at wells and at whatever graft will take. The seasonal water is **[[Named Ground|the Well-wash]]**. Full-reach continent, **thinner wood**. The core stopped walking. Saelthael did not. Children still go west in the neighbour's week, or further, because a well-Tree is not a certainty.
+[[Maiethorn|The Rain-Shadow]]: leeward east of [[Named Ground|the Rain-Wall]], dry hills and sand-country, towns at wells and at whatever graft will take. The seasonal water is **[[Named Ground|the Well-wash]]**. Full-reach continent, **thinner wood**. The core stopped walking. Saelthael did not. Children still go west in the neighbour's week, or further, because a well-Tree is not a certainty.
 
 [[Kitsune|Fox of the Sands]] hearths are densest here. That is terrain, not a flag ([[Kinds of the Turning]]). A town with *no* fox-born would be the thing worth asking about.
 

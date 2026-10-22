@@ -57,7 +57,7 @@ They are useful the way a craft guild is useful. A late-medieval town already ne
 | An Answered who lost the shop | Grief, a wrecked yard, a lord who benched them | Find earnest use *now* — a crew, a demolition, a night at the bellows. | Will not rent them a week of "just enough spark." That is a Slide-shaped lie. |
 | A Struck Answered, raw | A threshold let an element in later, untrained | [[The Intake]]. The right door, not the nearest fire. | Will not stamp a ticket on a raw Reach. Will not put them on a hull the same day. |
 | Anyone who wants a thing made | A hull, a glass, a wall, a sail | Make it. Charge as a craft charges. | Will not let an unlicensed cousin "just coax the stone" in the street. The charter is the street's safety *and* the shop's monopoly. |
-| A Road-hand needing carrying-earth | Root can coax living earth to travel | Sell the earth. Do not walk the scion. | Will not become Thaelvaeth. Different cart. |
+| A Road-hand needing carrying-earth | Root can coax living earth to travel | Sell the earth. The guild does not carry the scion. | Will not become Thaelvaeth. Different cart. |
 
 ### Four work floors
 
@@ -115,7 +115,7 @@ When a master is pulled to Intake, the paying floor loses a Reach for a week. Em
 - **[[Polity Archetypes|Vaethorn]] (gift-shops).** One mixed yard, four tools, a blessing-to-practice. Soft injustice: you were answered, you will spend the element as the valley asks — the mill, the wall, the fire-line. Idle is rare because the valley will not let a gift sit.
 - **[[Polity Archetypes|Lestrand]] (the craft-houses).** Deep shops, posted tickets, monopoly-teeth. You can be priced out of the *chair* and still need the work, which is how a person slides from self-paying to exposed overnight. The charter is money and safety in one paper.
 - **[[Polity Archetypes|Threnmaieth]] (the Reckoned Craes).** The crown wants element and person on the same column. Workshops are channels. A benched Answered is a withheld Reach. The shop looks like a gift-works. The leash is the fire, the slip, the stone, the wind.
-- **[[The Sundering Isle|Kumbaan]].** A wrecked Tide-Answered is a guest. Do not plant a Tide-house on the sand.
+- **[[The Sundering Isle|Kumbaan]].** A wrecked Tide-Answered is a guest. The guild keeps no Tide-house on the sand.
 
 ## Exit grievance
 
@@ -153,6 +153,7 @@ The rule is a craft keeping its people steady, a little fierce. "We do not bench
 
 ## GM Notes
 
+- **Two orders moved from the body.** Do not have the Root guild walk a scion for a Road-hand. Do not plant a Tide-house on Kumbaan's sand.
 - **Four ordinary craft charters, one safety rule.** They share a ticket standard because an idle Answered is a workshop hazard before they are a theological question.
 - **They do not know what story they are in.** Avoid four elemental paladin-chapters, fire-police, and Avatar-nations. Form stays craft guild. Four doors, one grammar. They want work that slakes and a room that does not let go. They do not want a client.
 - **Do not clone the Orenhael's four offices onto four elements.** No Ember-Speaker, no Tide-Road-hand. Shop-rules are local manners, not a college.

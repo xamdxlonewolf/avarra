@@ -110,7 +110,7 @@ Orthopraxy is the peace. The Orenhael officiates the Leaf-Fall; the other four h
 | [[The Watching]] | Same Tree, two blessings. A Watcher may offer a *second reading* of a rare fall — witness alongside, not over. | Threnmaieth wants one name on the [[Naming in the Turning\|Threnhael]]. A Speaker who lets the withheld blessing stand is a column the crown can count. |
 | [[The Fair Hand]] | Leaf-Fall as festival *and* signing-watch. Book-hands and wardens share a square on Lestrand and ignore each other's sentences. | Gift-language vs. debt-language over the same Bound soul. A Bound warden is the seam. |
 | [[The Old Ways]] | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the old doors. | A sickening Tree in an old grove: who is host — warden or door-keeper. Play as neighbours who both love the wood. |
-| [[The Open Table]] | A warden who crosses the storm-wall is a guest at supper; there is no Tree to tend. On the mainland they already share landings with attic-hosts. | A host who will not walk a child of the table to the Tree. A warden who will. The Given-door is one week. No mission-chapter on [[The Sundering Isle\|Kumbaan]]. Play it on [[The Open Table#The sentence at the mainland lintel]]. |
+| [[The Open Table]] | A warden who crosses the storm-wall is a guest at supper; there is no Tree to tend. On the mainland they already share landings with attic-hosts. | A host who will not walk a child of the table to the Tree. A warden who will. The Given-door is one week. No mission-chapter on [[The Sundering Isle\|Kumbaan]]. Play it on [[The Open Table#Two suppers, or a Turning-witness]]. |
 
 ## How they live in the three corners
 

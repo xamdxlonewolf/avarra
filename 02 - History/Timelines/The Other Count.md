@@ -75,7 +75,7 @@ Borders, guest-compacts, crown-counts, and hull-clauses have *causes* now. They 
 - The five: [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]]
 - Faces: [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Rithnali]] · [[Monseoth]] · [[Sedrad]]
 - Already on the shelf: [[The Wrong Green]] · [[The First Cut]] · [[The Ages of the Turning]]
-- Leftovers: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
+- Places from before the count that a party can walk into: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[The Walled Book]] · [[Powers of the Turning]] · [[The White Note House]]
 - [[The Walking Years]] · [[The Years of Hands]] · [[Before the Walk]]
 - [[02 - History]]

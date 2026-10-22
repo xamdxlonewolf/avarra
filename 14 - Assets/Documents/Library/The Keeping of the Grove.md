@@ -7,7 +7,7 @@ tags: [handout, library, rothallo, walled-book, closing, epic-h]
 aliases: [A History of the Closed Seat, The Closed Heirs' History]
 reveals: []
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 *From* The Keeping of the Grove, *a history of the Closed Seat. The copy kept in the Book's house at Rothallo. The writer's name is not on the copy.*
@@ -40,7 +40,7 @@ The towns hid the cuttings in wells and watered them at night. The lodging-heart
 
 In the thirty-eighth year, Hildal, a clerk of the Seat, wrote the order that ended the gathering. Hildal was not a lord and never pretended to be one. Hildal saw that the grove could only be held by riding into every town within a day's walk, and that the Seat would have to burn more than wood to do it. So Hildal chose the Book over the grove.
 
-Our houses left the grove to the college and left the travellers to the lodging-hearths. They went a day's walk away, into the walled town we now call Rothallo, in the lodging-country that became Orenbren. They took the Book with them.
+Our houses left the grove to the college and left the travellers to the lodging-hearths. They went a day's walk away, into the walled city we now call Rothallo, in the lodging-country that became Orenbren. They took the Book with them.
 
 **Of what was kept**
 

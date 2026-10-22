@@ -42,7 +42,7 @@ The Book-Hands are the working people of [[The Fair Hand]] (*Leddoren*). They ha
 
 ## What they actually do
 
-The faith already named the rites ([[The Fair Hand#Practice]]). This is the *desk* — who sits down, what gets written, what they refuse.
+The faith already named the rites ([[The Fair Hand#Marks you can see|The Fair Hand]]). This is the *desk* — who sits down, what gets written, what they refuse.
 
 ### If you meet one
 
