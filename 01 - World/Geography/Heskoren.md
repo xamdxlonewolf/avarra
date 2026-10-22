@@ -23,7 +23,7 @@ The speech here is the *worn* [[The Old Tongue|Old-Tongue drift]]: rough, warm f
 
 ## Overview
 
-Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiethorn]] is old and full and [[Strandoren]] is rich and connected, Heskoren is *young, thin, and waiting* — a broad, rugged, half-settled land where the grafts came recently, take poorly, and sicken often, so that whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs high on the [[Law and Citizenship|Kept]] (children the leaves hugged) and the [[The Premise|Struck]] (people who changed later, alone, unwitnessed), and it has many UnTurned children (who reached no healthy Tree at ten). It is also the continent where the [[The Leaf-Mother|Motherfaith]] burns *hottest*, because scarcity of the gift answers not with less devotion but with more: pilgrimage, longing, and a whole theology of *waiting*. In [[The Walking Years]] that pattern was the *rule* of distance (the Long Mile); some districts are still on it. Distance and history did this, not unworthiness.
+Heskoren is the **edge of the world that the Trees reached last**. Where [[Maiethorn]] is old and full and [[Strandoren]] is rich and connected, Heskoren is *young, thin, and waiting* — a broad, rugged, half-settled land where the grafts came recently, take poorly, and sicken often, so that whole districts wait on a Tree that hasn't taken and a gift that may never fall. This is the continent that runs high on the [[Law and Citizenship|Kept]] (children the leaves hugged) and the [[Law and Citizenship|Struck]] (people who changed later, alone, unwitnessed), and it has many UnTurned children (who reached no healthy Tree at ten). It is also the continent where the [[The Leaf-Mother|Motherfaith]] burns *hottest*, because scarcity of the gift answers not with less devotion but with more: pilgrimage, longing, and a whole theology of *waiting*. In [[The Walking Years]] that pattern was the *rule* of distance (the Long Mile); some districts are still on it. Distance and history did this, not unworthiness.
 
 Heskoren is warm, poor, and self-reliant. It is the kindest place in the world to a whole neighbour and the loneliest to an unvouched one. The danger is seldom raiders. It is a **lapsing Condition with no infirmary to reach**, and a faith that consoles what it cannot cure. The cruelty is quiet and theological: scarcity of the gift shading into a doctrine of *unworthiness*.
 
@@ -34,7 +34,7 @@ Heskoren is warm, poor, and self-reliant. It is the kindest place in the world t
 - **The frontier coast** faces **[[Named Ground|the West Water]]** back toward [[Strandoren]] (the lifeline of trade and new grafts) and, far beyond the last capes, the storm-band that hides [[The Sundering Isle]]. Heskoren's westernmost capes are the closest *settled* land to the Isle — and the source of many who've *seen the storm-wall* even if they never crossed it. [[Eolvaeth]] is a vale *behind* this coast, not a live-front luck.
 - **Climate**: cooler, wetter, wilder than Maiethorn/Strandoren; a land where the solstice-timed [[Turning Tree|Leaf-Fall]] is a hard-won event of a decade, not a yearly certainty.
 
-Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Heskoren]].
+Week-by-week weather, crops, sickness, and livelihood ecology: [[Climate of Heskoren]].
 
 ## Reach
 
@@ -52,7 +52,7 @@ How the wood got here is [[The First Cut]]: Cut-year 200–387, still incomplete
 Two faiths in tension, and the friction is the frontier's own:
 
 - The **[[The Leaf-Mother|Motherfaith]]** burns hottest here (see Vaethorn) — a theology of longing and pilgrimage grown around the scarce gift.
-- **[[The Old Ways]]** (*Vaeloren*). An **animist / ancestor faith** that *predates the grafts*: **"the Mother's reach is new here — we had our own ways before her Trees came."** It reveres the [[The Premise|Struck]] and the [[The Taken-In|Taken-In]] as the land's own children, and resents the Motherfaith as a latecomer. Real theological standing, real grievance. Full build: [[The Old Ways]] · map: [[Faiths of the Turning]].
+- **[[The Old Ways]]** (*Vaeloren*). An **animist / ancestor faith** that *predates the grafts*: **"the Mother's reach is new here — we had our own ways before her Trees came."** It reveres the [[Law and Citizenship|Struck]] and the [[The Taken-In|Taken-In]] as the land's own children, and resents the Motherfaith as a latecomer. Real theological standing, real grievance. Full build: [[The Old Ways]] · map: [[Faiths of the Turning]].
 
 ## Story hooks
 

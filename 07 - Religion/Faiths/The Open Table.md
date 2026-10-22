@@ -70,13 +70,7 @@ This is the faith's edge on the mainland. It does not need a mission and it does
 
 This is not a Kumbaan crusade. The child is already on the mainland. The storm-wall stayed where it was.
 
-### How to start it at the table
-
-You do not need a council. You need one supper and one square.
-
-1. **Night.** Extra place set slightly back. Second supper, or about to be. The host says the sentence, or refuses to take a ten-year-old down to the Tree in the morning.
-2. **Morning.** A warden, a clerk, or a neighbour is in the street with a list of this year's children, a piece of gossip, or a kind offer.
-3. **The week has days left, or it doesn't.** If you play this in Hale-month, it is manners. If you play it in Eolthael, it is a life.
+When a tenth year is in the house, the extra place is set slightly back, and the host says the sentence or refuses to take the child down to the Tree in the morning. A warden, a clerk, or a neighbour is in the street with a list of this year's children. In Hale-month it is manners. In Eolthael it is a child's life.
 
 **Mbela** *(MBEH-lah)* keeps an attic off a Lestrand salt-stair and will not spend a child's week on a colour. **Sorel** of the quay will not file a second supper as belonging, and will walk a tenth-year neighbour to the Tree if the host will not. They are not enemies. They count belonging differently, and they share a stair.
 
@@ -112,3 +106,4 @@ It reads as hospitality, almost twee. It also says that being wanted never depen
 - **Hospitality is the ~5% dial at its gentlest — until a tenth year is in the room.** A Yumboe host is wonder, not threat. Do not turn the Open Table into a trap-cult or a "eat and you belong forever" fairy-bargain — that is the Fair Hand's grammar leaking in. "No one is a stranger twice" is courtesy with legal weight, not a geas. The scare, when you need one, is the week closing while two good offices argue.
 - **Play the clash.** The sentence against witnessed citizenship, and the host who will not walk a child to a Tree. Do not invent a mission-chapter to make the faith reachable. Mbela and Sorel are scene-faces, not pivots.
 - **The calendar tell.** Kumbaan keeps the moon, not the High Solstice ([[The Reckoning of the Year]]). That is already a keystone tell (a people outside her ordinary hand keep a different sky). Ndeyaan is the faith-face of that fact. Don't over-explain it; let a mainland priest notice that their holiest week is, here, just weather.
+- **Starting it at the table.** You do not need a council, only one supper and one square. Night: the extra place set slightly back, second supper or about to be, and the host says the sentence or will not take a ten-year-old to the Tree. Morning: a warden, a clerk, or a neighbour is in the street with a list, a piece of gossip, or a kind offer. Then ask whether the week has days left. Hale-month plays as manners; Eolthael plays as a life.

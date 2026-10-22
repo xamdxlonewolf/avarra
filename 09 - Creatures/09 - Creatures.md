@@ -15,7 +15,7 @@ This folder holds the Condition cards, which are *becomings*, not a menagerie; a
 
 ## Conditions (the roster)
 
-Nine selectable becomings and one downstream state. Hub and cards are `visibility: player` so a player-safe export keeps the mechanics.
+Nine selectable becomings and one downstream state.
 
 - [[Conditions]] — index, rest clocks, no-level-scaling rule
 - **Given only:** [[Long-Lived]] · [[Two-Bodied]] · [[The Answered]] · [[Phoenix]]
@@ -36,8 +36,6 @@ A small Daggerheart layer. Not a second monster taxonomy.
 - [[Colourless Host]] — T2 Support (dead wood that still wants to Give)
 
 Settlement scene-dangers (cohort, crane, well-mouth) stay on the settlement notes. Pre-Walk sites: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]].
-
-The five adversaries stay the five. Working animals are not a sixth.
 
 ## Beasts (livelihoods)
 

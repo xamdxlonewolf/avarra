@@ -54,7 +54,7 @@ Remembered as a delay. Quay-ink. A hull still tied. No coat of office. Dockhands
 ## Role & Relationships
 
 - **[[The Walking Years]]** — the Salt Walk's sort. Cash, weather, and a week that shuts. Sedrad is one missed last crossing, not the whole road.
-- **[[The First Cut]]** — not their story. The five attributions do not gain a sixth face here.
+- **[[The First Cut]]** — not their story. This note does not add to the five tellings of the Cut.
 - **[[Named Ground|the Old Crossing]]** — the water the hull sat on. Not a city they founded.
 - **[[Rithnali]]** — a minute about wood, inland and later. Does not mention this berth.
 - **[[Monseoth]]** — a sermon on the Near Mile, after a ship has already made the salt. A different mercy, and a different mark.

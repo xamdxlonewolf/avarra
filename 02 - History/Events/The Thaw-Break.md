@@ -25,7 +25,7 @@ updated: 2026-10-22
 
 In 233 the high snow went together. Sky-couriers saw the white break in a week. Valley charters saw the rest. A mile-shrine in a thaw-square stood in water to the ribbon-notch. The name on the stone survived. The road to it did not, for two summers.
 
-People died. So did animals, stores, and one well-town on the leeward side whose cistern took silt instead of snowmelt. [[Saelthael]]'s west-road — the leftover walk after the core stopped — was cut. Children who would have gone west in 233 and 234 went later, or went to a neighbour, or missed. The Given-door is still one week. A flood is not a second-chance year.
+People died. So did animals, stores, and one well-town on the leeward side whose cistern took silt instead of snowmelt. [[Saelthael]]'s west-road — the walk that went on after the core stopped — was cut. Children who would have gone west in 233 and 234 went later, or went to a neighbour, or missed. The Given-door is still one week. A flood is not a second-chance year.
 
 **[[Narol of the Pass]]** *(NAH-rol)* took the thaw-toll when the old pass-holder's stone was under the water-line. Lirorn's mid-state is this fact you can levy: you tax the thaw, the pass, the high road. After the Break, *which* pass was the argument. Narol's house still levies. The valley still drinks. The ridge still pays in isolation. The injustice did not start in 233. The year made it visible as a water-line over a ribbon.
 
@@ -33,7 +33,7 @@ People died. So did animals, stores, and one well-town on the leeward side whose
 
 **[[Saelthael]] kept walking, two years late.** The core called it soil. The west-road called it mud. [[Ornsael]]'s type — a well-town that still sends — learned that weather can put a Motherland square back on the neighbour's week without a sick Tree.
 
-**A waited graft in [[Ornled]] died in the pot.** The cart was late because the range was a lake. **Vathne** *(VATH-neh)* wrote a slate on the wall: *we will not wait with a hymn for a stick that drowned in someone else's thaw.* Vaethorn heard godlessness. Ornled heard a luxury they had just watched die. The secular frontier is older than one pot — Ornled already declined to make scarcity a soul-problem — but this is the year a specific cluster can point at.
+**A waited graft in [[Ornled]] died in the pot.** The cart was late to the quay because the range was a lake. **Vathne** *(VATH-neh)* wrote a slate on the wall: *we will not wait with a hymn for a stick that drowned in someone else's thaw.* Vaethorn heard godlessness. Ornled heard a luxury they had just watched die. The secular frontier is older than one pot — Ornled already declined to make scarcity a soul-problem — but this is the year a specific cluster can point at.
 
 **[[Saelvaeth]]'s neighbour's week climbed worse mud.** The live front was about a dozen years into speaking, in the luckiest squares. A delayed pot is a delayed childhood of wood. The queue did not become fair. The Harrow-sentence had more weather in it.
 

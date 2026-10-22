@@ -42,7 +42,7 @@ Hard frost is less reliable than in Maiethorn's core. That makes winter wet rath
 
 Most settlements lie within reach of tide or estuary. Saltwater is road, food, waste-carrier, and threat. Inland rain can flood a quay under a clear local sky because the Chart-run brings another district's weather downstream.
 
-### A playable week
+### A week of weather
 
 | Day-shape | Weather | What moves |
 |---|---|---|

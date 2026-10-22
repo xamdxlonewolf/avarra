@@ -154,7 +154,7 @@ Missing procedure that would have failed this test: Infernis + Bound. Written th
 
 ## 6 · Recorded decisions (this gate)
 
-1. **Remaining scaffolding is P2.1, not a silent close.** Keystone confirmation is closed. A vault-wide strip of Story numbers / 🟡 / "Do not clone" from every working note is a polish story, not a hidden fifth pass of R.13.
+1. **Remaining scaffolding is P2.1, not a silent close.** *Resolved 2026-08-31.* Keystone confirmation is closed. A vault-wide strip of Story numbers / 🟡 / "Do not clone" from every working note is a polish story, not a hidden fifth pass of R.13.
 2. **Infernis + Bound stack.** Kind is born; Condition is the contract. Written on [[At the Table]] and [[Bound]].
 3. **Thuda stays an on-page mouth.** No NPC note. Matches [[People of the Turning]] / [[08 - People]].
 4. **Haelin is an alias of [[Harrow's Green]].** The live-front warden does not need a second note.

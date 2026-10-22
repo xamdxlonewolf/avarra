@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # Traditions
 
-There is no tradition of magic beside the work people already hire.
+There is no tradition of magic beside the work people hire.
 
 [[How the Work Is Done]] is the one account. A Spoken colour is the warden's sentence on [[Turning Tree]]. It does not open a tradition with its own name.
 

@@ -14,9 +14,9 @@ updated: 2026-10-22
 
 # Armor
 
-A coat on [[What a Place Needed]] is clothing. It keeps weather off. There is no armor list beside that note, and no score that comes from the town that made the coat.
+A coat on [[What a Place Needed]] is clothing. It keeps weather off. There is no separate armor list, and no score that comes from the town that made the coat.
 
-Armor a person fights in, if they are wearing it, is the SRD's armor. This folder does not add a second set.
+Armor a person fights in, if they are wearing it, is the SRD's armor. There is no second set.
 
 ## Links
 

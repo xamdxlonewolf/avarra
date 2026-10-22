@@ -38,19 +38,20 @@ Quiet in the way of a person who has been told not to be a story. Heat in the ha
 
 - [[Harrow's Green]], Hale-month: still in the square because the witness-walk never happened. Tora of Brenod wants someone to say what the colour was. Haelin will not name it.
 - [[Rosire]], if the party has already met them. It is not a reunion scripted on this page. It is a door that was opened.
-- If a PC occupies this seat, do not run this person as an NPC beside them.
 
-Do not walk them into a capital and wait for a crowd. Taeren is far from anyone who knows them, and that costs them. It does not mean a town is missing from the map.
+Taeren is far from anyone who knows them, and that costs them. It does not mean a town is missing from the map.
 
 ## Links
-- [[People of the Turning]] · [[Rosire]] · [[The Protectors]]
-- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Opening]]
+- [[People of the Turning]] · [[Rosire]]
+- [[Harrow's Green]] · [[The Three Hamlets Past the Ford]]
 - [[Phoenix]] · [[A Hidden Phoenix]]
-- [[Turning Tree]] — white-fire row
+- [[Turning Tree]]
 - [[08 - People]]
 
 ## GM Notes
 
+- **Links:** [[The Protectors]] · [[The Opening]]
+- If a PC occupies this seat, do not run this person as an NPC beside them.
 - **Not in this note:** a second Gift, a hidden-Phoenix PC sheet, the Leaf-Mother confirmed in player text to explain the slot, or Taeren made a child of Harrow's. Taeren is of Brenod.
 
 - **Engine is already locked.** [[When the Fire Is Caught]]: never two Gifts. What can look like two is leftover fire next to a new Gift. Taeren is the new leaf if no PC occupies the seat. The walker from the sanctuary is the remnant. Two Gifts at once is not legal.

@@ -112,7 +112,7 @@ The Seat's leave still says *the three hamlets past the ford.* Clerks who learn 
 >
 > *If the cup stays dry I still have to decide. The slate the other way does not ask about soil.*
 
-The argument does not resolve into a proverb. At dawn somebody still decides whether to lift the cup, wake the child, and take the Harrow road.
+The voices disagree and nobody settles it. At dawn someone still decides whether to lift the cup, wake the child, and take the Harrow road.
 
 
 ## Links

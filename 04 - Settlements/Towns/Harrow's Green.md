@@ -37,7 +37,7 @@ A grafted pocket on the Sundered Reach. Settlement clustered where the wood took
 
 It is not the end of the wave. It is a Hand that grew up. The three hamlets can see the green from the ford. The Seat has already written that the wood will take *here* and not, this year, *there.* Harrow's lives inside that sentence whether it asked to or not.
 
-[[Polity Archetypes|Vaethorn]] heat sits on many hearths as gospel, not always as flag — this square lives in [[Saelvaeth]]'s orbit (the live-front march), not as its capital. [[The Old Ways]] are neighbours, not a museum. A first meal at a later planting is a live argument, not a courtesy-card.
+[[Polity Archetypes|Vaethorn]]'s gospel is spoken on many hearths, not always as flag — this square lives in [[Saelvaeth]]'s orbit (the live-front march), not as its capital. [[The Old Ways]] are neighbours, not a museum. A first meal at a later planting is a live argument, not a courtesy-card.
 
 The town's daily work is the neighbour's week. Devotion leaves a ribbon on the stone. Nobody books a winter here.
 

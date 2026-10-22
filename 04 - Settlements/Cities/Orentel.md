@@ -25,7 +25,7 @@ updated: 2026-10-22
 | | |
 |---|---|
 | **Want** | Berths 1–4 held. A term that matches a hold. A kin-berth that is not a First-Hand year. |
-| **Have** | A charter-council, a Tree that Turns for free, three desks on one winter, five named wants. |
+| **Have** | A charter-council, a Tree that Turns for free, three desks on one First-Hand year, five named wants. |
 | **Fear** | A fade the city steps around. A crane that treats a year as cargo. |
 | **Live conflict** | Prestige as product. Necessity in the loft. The quay will only file occupancy. |
 | **Enters a scene** | A crane failing on berth 5; tide in the downwind shed; a hold-fight on 1–4; salt on the roots. |
@@ -81,7 +81,7 @@ Homes accommodate becomings. Mixed Kinds. A Sands-Fox at a desk is unremarkable 
 
 ## What the street still does
 
-The canopy here Turns children at home, and the Salt Walk is optional. Empty Eolthael berths are still shaped like a landing, pots still take a child's space, and a First-Hand year can be booked as a winter. A Hand can fail. If Orentel's Tree sickened, this quay would be the neighbour's week. It has not. The council does not say the age is over. It reports occupancy.
+The canopy here Turns children at home, and the Salt Walk is optional. Empty Eolthael berths are still shaped like a landing, pots still take a child's space, and a First-Hand year can still be booked. A Hand can fail. If Orentel's Tree sickened, this quay would be the neighbour's week. It has not. The council does not say the age is over. It reports occupancy.
 
 The city sells a walk people do not need. That is how a rich coast gets a capital without a crown. A hymn that lands here, the release-house schedules. Necessity in the loft is Mataero's concern, not the city's brand.
 

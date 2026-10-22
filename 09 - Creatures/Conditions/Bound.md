@@ -30,7 +30,7 @@ updated: 2026-10-22
 **Colour.** None. The Tree never Strikes. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
 **Path.** Struck only — a sworn contract in extremity. The engine is on [[Turning Tree]].
 **How the square reads it.** [[The Leaf-Mother|Motherfaith]] fears them and still needs them; they are received back at the Tree for acknowledgment, not a Gift. [[The Fair Hand]] says this is not a special horror — it is the same grammar as every becoming, written large enough to read. [[The Watching]] names a seeing at a harder door. [[The Old Ways]] take them to the oath-stone that heard the vow and name them kin.
-**Where next.** [[The Book-Hands]] witness the signing and recite Terms on oath-day; they do **not** rewrite those Terms. A newly Struck Bound is sent to [[The Intake]] first, before anyone has to restrain them.
+**Where next.** [[The Book-Hands]] witness the signing and recite Terms on oath-day; they do **not** rewrite those Terms. A newly Struck Bound is sent to [[The Intake]] first, to have the contract read and written down.
 
 ## Daggerheart — Transformation card
 

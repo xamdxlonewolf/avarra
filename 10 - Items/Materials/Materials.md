@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # Materials
 
-Wool, wax, goat-hair, and peat, where a place already uses them, are on [[What a Place Needed]]. They are not a catalog, and they are not stock ranked by tier.
+Wool, wax, goat-hair, and peat, where a place uses them, are on [[What a Place Needed]]. They are not a catalog, and they are not stock ranked by tier.
 
 A scion is a warden's cargo. It is not a material on that list. [[The Spent Leaf]] and [[The Closed Lamp]] are not craft stock.
 

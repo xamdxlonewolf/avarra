@@ -70,7 +70,7 @@ Not a party. Paper, beds, pots, and one week in Eolthael.
 - [[Hithaen]] arrived in the gift-hall with no list behind them. [[Vaethod]] can tell a person who came to wait from a clerk. They have not yet decided which this is.
 - [[Rosire]] works a ticket-infirmary downwind of [[Tesara]]'s shed when they are in [[Orentel]]. This Hale-month they are not. Tesara has not been told why.
 
-[[Ledan]] still writes the quay-desk. They are a clerk, not a seventh pivot. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the one who walks the witness home.
+[[Ledan]] still writes the quay-desk. They are a clerk. They have a note now: the founding-name spoken once. [[Haelin]] still wants the stone moved so the crowd can stand. They are the live front this cast points at, not a capital. **Tora** of Brenod is the one who walks the witness home.
 
 ## Others on the ground
 
@@ -95,7 +95,7 @@ Not a second court. Squares that needed a second shape.
 
 ## Maiethorn's seat leaders
 
-People at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Rothallo]] a clerk says the house first. [[Tasain]] has [[Narol of the Pass]] on the levy, and no one new.
+People at the seats, with a want that is not a Tree. A neighbour says the given name. At [[Rothallo]] a clerk says the house first. Tasain's levy is the toll Narol's household still collects. [[Narol of the Pass]] is dead.
 
 | Person | Square | The job | The want that is not a Tree |
 |---|---|---|---|
@@ -169,11 +169,11 @@ A neighbour still gets the given name. Raetoth, Lithsur, Lonteith, Relmun, Huval
 - [[Ndenjoo]] · [[Njunda]] · [[Ledan]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
 - [[The Pourers]] · [[The Walled Book]] · [[The Protectors]] · [[The Reckoned Offices]]
-- [[The Opening]] · [[The Isolated Fall]]
-- [[Naming People in the Turning]] · [[Leaders]] · [[Heroes and Villains]] · [[08 - People]] · [[Roadmap]]
+- [[Naming People in the Turning]] · [[Leaders]] · [[Heroes and Villains]] · [[08 - People]]
 
 ## GM Notes
 
+- **Links:** [[The Opening]] · [[The Isolated Fall]] · [[Roadmap]]
 - **Taeren's row.** The row used to say "hidden second fire." Taeren is the new leaf if no player character holds the seat, and the walker from the sanctuary is the remnant. That stays in [[Taeren]]'s GM Notes and in [[When the Fire Is Caught]]. Do not put it back in the table.
 - **Names.** Seed `20260830`, middle of the list, plus unused names already on that working set. Do not re-roll the six.
 - **Positional, not destined.** Involvement is the job. Do not give any of the six a prophecy, a Kind-champion speech, or a First Seat that answers mail.

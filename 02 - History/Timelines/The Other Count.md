@@ -23,7 +23,7 @@ People still date a life by whether they walked or stood under a town Hand. Geog
 
 The Other Count does not replace that. It sits *beside* it. A clerk who only writes Eoloren-years can still be asked what the Grey Summer did to a note. A Vaethorn hearth that dates from "the year our graft took" can still owe a Hinge-Hush hull-fee. Dating still reveals stance. The years just have more than wood in them.
 
-**What stays undated.** The [[Turning Tree|Awakening Tree]]. [[Before the Walk]] has no start. The three pre-Walk leftovers ([[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]) are *found*, not founded. A chronicle that writes a first king onto the Before is doing the overlay [[The Watching]] warned about.
+**What stays undated.** The [[Turning Tree|Awakening Tree]]. [[Before the Walk]] has no start. The three pre-Walk remains ([[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]) are *found*, not founded. A chronicle that writes a first king onto the Before is doing the overlay [[The Watching]] warned about.
 
 ## The five years (and one Tree-year already on the shelf)
 
@@ -96,7 +96,7 @@ Moved from the player-facing body during residual export polish:
 
 - **Two clocks + a chronicle.** If play starts treating these Cut-year numbers as a fourth age, pull back to Clock 1 / Clock 2. The Other Count is *what happened while the wood travelled*, not a replacement spine.
 - **The Closed Seat is not a dark lord and not a first king.** They rationed the one seeing. The Seat later rationed wood. The Close still ranks. Four different papers preserve four human choices.
-- **Do not date the leftovers.** A party may dig. They may not be handed a year that starts the Tree.
+- **Do not date the remains.** A party may dig. They may not be handed a year that starts the Tree.
 - **Faces (L.2).** [[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] are the remembered persons. Manril stays the argument. Nidtol stays the later overlay. Vathne stays the slate. Sirtol stays the other shore. Tithsael stays the present night on [[The Seeing-Ring]]. Do not promote any of them to a court. Do not write the unnamed speakers as second celebrities.
 - **Fate-shifts already in the past (not proposals).** Closed Seat → remnant Close (fall). Hymn-country → two papers (schism). Quay-fever → Trenledd roll and Brenledd compact (institutional adaptation). Thaw-tolls → new pass-holder (reformation). Hinge War → Hush (absorption of a fight into a rate). Do not collapse any present power here.
 - **What this note does not lock.** Who cut: five attributions stand ([[The First Cut]]), and the Closing is about the copy, not the knife. The nature of the Leaf-Mother's limit: a war over access is people, and it is not a wound-theory. A sixteenth power: [[Rothallo]] is this power's capital and not a second flag. The three sites stay undated. The present year does not slide.

@@ -104,7 +104,7 @@ Tone: warmth with an ache. ~5% scary, and only on purpose. No harvest-god twist.
 - Lock the nature of her limit
 - Add a sixth Hand ([[The Unspent]] is in the household but is not a door, and it existed before the Pourers named it)
 - Date the Tree, name the cutter, graft Kumbaan, coin liturgy, or add a sixteenth power
-- Reopen [[Contradictions]] C-01–C-05
+- Reopen [[Contradictions]] C-01 to C-24, which are resolved
 - Confirm her in any player body
 
 ## Links

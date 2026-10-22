@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 The tables a session uses are on [[At the Table]], [[Kind Heritage]], [[Dangers of the Turning]], and [[A Hidden Phoenix]]. The d6 weather turn is on [[Climate of the Turning]]. The table of warden questions is on [[Turning Tree]].
 
-This folder does not add a generator.
+There is no other generator.
 
 ## Links
 
@@ -24,4 +24,4 @@ This folder does not add a generator.
 
 ## GM Notes
 
-This folder stays a pointer. A later note must not write a random table to fill it.
+This section stays a pointer. A later note must not write a random table to fill it.

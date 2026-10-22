@@ -13,21 +13,21 @@ updated: 2026-10-22
 
 # Law and Citizenship
 
-> **What this is.** How law and citizenship work in a world where **3 of 4 people carry a [[The Premise|Condition]]**. It flows from the [[Turning Tree]] and the Conditions, so it holds, with local accents, across all ~15 polities. The last section says how polities differ on it. [[Polity Archetypes]] shows three of them in full.
+> **What this is.** How law and citizenship work in a world where **3 of 4 people carry a [[Conditions|Condition]]**. It flows from the [[Turning Tree]] and the Conditions, so it holds, with local accents, across all ~15 polities. The last section says how polities differ on it. [[Polity Archetypes]] shows three of them in full.
 
 > **Names.** The institutions below use plain descriptive terms. Each has a common-tongue name, and each polity says it its own way: a devout land's "gift-hall" is a surveillance-crown's "counted hall". The dictionary is [[Naming in the Turning]]; the root language is [[The Old Tongue]].
 
 ## The through-line: you belong because a hearth *saw* you Turn
 
-Everything below rests on one fact already locked in the world: **every child who stands does so in their tenth-year week, under a [[Turning Tree]]**, and **someone who already knows them is there to watch.** The [[Turning Tree|Leaf-Fall]] is still the most-attended week of a community's year — kin, neighbours, the [[The Tree-Wardens|tree-wardens]], all gathered. They *see* the leaf fall on a child, or see the Tree hug them.
+Everything below rests on one fact about the world: **every child who stands does so in their tenth-year week, under a [[Turning Tree]]**, and **someone who already knows them is there to watch.** The [[Turning Tree|Leaf-Fall]] is still the most-attended week of a community's year — kin, neighbours, the [[The Tree-Wardens|tree-wardens]], all gathered. They *see* the leaf fall on a child, or see the Tree hug them.
 
 In a village that someone is the whole settlement. In a city it is a **hearth** — a street, a quay-gang, a courtyard, a guild-stair — not twenty thousand people pretending to remember one child. The legal fact does not change: you are of a place because a living circle *watched you become who you are.* Procedure for the city: [Turning in a city](#Turning%20in%20a%20city%20—%20the%20hearth%20stood). Rite: [[Turning Tree#Turning-Week in a city]].
 
 So citizenship in The Turning is **witnessed, not recorded.** This is the deliberate, warm default of the setting, and it is worth stating plainly what it is *not*:
 
-> **There is no general register of the people.** No town or church keeps a list of everyone and their gift. A warden's week-slate of *which hearths stand at which bell* is a festival schedule. A guild-roll is a roster of a dangerous art. Neither is a census of persons. Belonging is living communal memory — nested to the size of a hearth when the settlement outgrows a single memory. (Two crowns are exceptions and do keep a roll of persons: the Tallied Crown calls its roll holy, and the Worn Count does not. See [How polities vary](#How%20polities%20vary). The rest of the world finds both unsettling.)
+> **There is no general register of the people.** No town or church keeps a list of everyone and their gift. A warden's week-slate of *which hearths stand at which bell* is a festival schedule. A guild-roll is a roster of a dangerous art. Neither is a census of persons. The Walled Book keeps its own heir-roll inside its walls, but that is not a list of everyone. Belonging is living communal memory — nested to the size of a hearth when the settlement outgrows a single memory. (Two crowns are exceptions and do keep a roll of persons: the Tallied Crown calls its roll holy, and the Worn Count does not. See [How polities vary](#How%20polities%20vary). The rest of the world finds both unsettling.)
 
-This gives the world its citizenship engine, its regulatory hook, and its central injustice, all from the same warm root. **It is also a Hands-era default.** In [[The Walking Years]] the crowd that saw you Turn was the crowd under Thaeloren — or no one, if you never arrived. Vouching-at-a-distance exists to *carry that origin-witness home.* The grammar below is how the present works; the road underneath it is [[The Ages of the Turning]] and, lived, [[The Walking Years]] (the one-week door, the split household, origin-orphans).
+This gives the world its citizenship engine, its regulatory hook, and its central injustice, all from the same warm root. **It is also a Hands-era default.** In [[The Walking Years]] the crowd that saw you Turn was the crowd under Thaeloren — or no one, if you never arrived. Vouching-at-a-distance exists to *carry that origin-witness home.* The law below is how the present works; the road underneath it is [[The Ages of the Turning]] and, lived, [[The Walking Years]] (the one-week door, the split household, origin-orphans).
 
 ## Turning in a city — the hearth stood
 
@@ -45,7 +45,7 @@ To prove you are of a city is to **name a hearth** and produce someone of it, or
 
 ## How you prove who you are — by *people*, not papers
 
-If no one is written down, how does a stranger prove citizenship in a far city? The answer is one of the world's quiet [[The Premise|Condition-labor advances]]: **The Turning never needed to invent the papers-and-registers state, because trust runs through people who cannot be faked.**
+If no one is written down, how does a stranger prove citizenship in a far city? The answer is one of the world's quiet [[Conditions|Condition-labor advances]]: **The Turning never needed to invent the papers-and-registers state, because trust runs through people who cannot be faked.**
 
 You are known by **witnesses**, not documents:
 - A **[[Long-Lived]]** remembers you — and their memory is incorruptible and runs back centuries.
@@ -60,7 +60,7 @@ A traveler is not, by default, that person. See [How a traveler stays vouched](#
 
 The unvouched remain the vulnerable class. A legitimate traveler is **on a word**, not on a paper-state. The Hands-era road inherited this from [[The Walking Years|vouching-at-a-distance]]: the origin-witness had to *travel home*. It still does.
 
-A watch that stops a stranger asks three things: **name, last hearth, who stands.** Answer any two and the road continues. Answer none and you are held until dawn, or until someone will stand, or you are walked to the next gate. Routine harassment is for the nameless. A company that can name a last host and show one mark is how this grammar wants people — including a party — to move.
+A watch that stops a stranger asks three things: **name, last hearth, who stands.** Answer any two and the road continues. Answer none and you are held until dawn, or until someone will stand, or you are walked to the next gate. Routine harassment is for the nameless. A company that can name a last host and show one mark is how this law wants people — including a party — to move.
 
 | Custom | What it is | What it is not |
 |---|---|---|
@@ -77,13 +77,13 @@ Sold vouching still exists as a nameless underside ([[Economy and the Tithe]]). 
 
 ### The storm-wall is not a road
 
-[[The Sundering Isle|Kumbaan]] is not a jurisdiction on this grammar. You do not arrive vouched. A road-word, company-vouch, or guild-mark still helps you *leave a Strandoren quay*. It does not file a hill.
+[[The Sundering Isle|Kumbaan]] is not a jurisdiction under this law. You do not arrive vouched. A road-word, company-vouch, or guild-mark still helps you *leave a Strandoren quay*. It does not file a hill.
 
 On the isle, guest-right is the table. Eating at the table a second time makes you kin **there**. It does not become a last-hearth you can spend on a mainland watch. Procedure: [[The Sundering Isle#How a crossing works]]. Playable hall: [[Ndenjoo]]. What happens when a mainland watch meets a sentence from the isle instead of a witness is on [[The Open Table]].
 
 ## The Struck — those who changed *unwitnessed*
 
-Here is the seam the whole shape of Condition-law grows around, and it now has a warmer, truer mechanism than "off the list." **A [[The Premise|Struck]] person acquired their Condition *later, and alone*** — a drowning, a death, a sworn contract, long after their tenth-year Turning. The town watched everyone else become who they are. **No one watched the Struck.** They changed with no witnesses.
+Here is the seam the whole shape of Condition-law grows around, and it now has a warmer, truer mechanism than "off the list." **A [[Conditions|Struck]] person acquired their Condition *later, and alone*** — a drowning, a death, a sworn contract, long after their tenth-year Turning. The town watched everyone else become who they are. **No one watched the Struck.** They changed with no witnesses.
 
 So a Struck person must be **vouched anew** — the community has to re-know them as what they've become, on the word of those who'll stand for them. That is the plain root of the old unease that the Struck are "a little suspect": not (only) prejudice, but the simple fact that *their becoming happened where no one could see it.* A change everyone witnessed is trusted; a change that happened in the dark must be spoken for. Every polity has people whose transformation went unwitnessed, and every polity feels differently about that.
 
@@ -106,7 +106,7 @@ Its consequences are large and load-bearing:
 
 The one place the law *does* attach to individuals is public safety — and it does so narrowly. **A ticket attaches to a hazardous *use*, not to being Conditioned.** The rule of thumb is consistent across the world: **a licence attaches where a practice is *dangerous to others* — never where a gift is merely powerful, and never as a way to keep track of people.** It is the same logic by which any world licenses a few dangerous trades, not a census.
 
-The three ticket-Conditions are [[The Stilled]], [[Far-Voiced]], and [[The Answered]]. Shares live on [[The Premise]] (~7 / ~12 / ~10). Together that is about three people in ten, and a little under half of the Conditioned. They are a large minority who *can* be asked for a ticket if they practise the hazardous use. It is not a third of the world on a crown list.
+The three ticket-Conditions are [[The Stilled]], [[Far-Voiced]], and [[The Answered]]. Together that is about three people in ten (the shares are on [[Conditions]]). They are a large minority who *can* be asked for a ticket if they practise the hazardous use. It is not a third of the world on a crown list.
 
 **The pool is not the roll.** A ticket names a competence (stiller, hall-voice, Crae-hand), not a Condition-ID.
 
@@ -116,7 +116,7 @@ The three ticket-Conditions are [[The Stilled]], [[Far-Voiced]], and [[The Answe
 | **[[Far-Voiced]] — Voice-ticket / hall-hour** | Those who Cry in a crowd or keep a scheduled hour: criers, performers, sworn witnesses. [[The Hall-Keepers]] stamp competence and sell the hour at the same desk. | A field-voice who vents at the hedge. The hall-slate is hours, not a list of every blue-leaf in the city. |
 | **[[The Answered]] — shop charter / journeyman-mark** | Those who let an element speak in a crowded yard. The [[The Element-Guilds\|Crae]] charters the *door*; journeymen sit under it. | A Tide-Answered on their own boat under a master's eye. They are under the shop, not a person-file. |
 | **[[Bound]] — a table, not a body-ticket** | No licence. The honest table oversees Terms. The Whisper cannot command. | A ticket. A Bound is not counted among the licensed. |
-| **No ticket** | — | [[Two-Bodied]], [[Long-Lived]], [[Returned]], [[The Taken-In]], [[The Unbound]], [[Phoenix]], and all the Kept. About two people in three hold no ticket. They are simply neighbours. |
+| **No ticket** | — | [[Two-Bodied]], [[Long-Lived]], [[Returned]], [[The Taken-In]], [[The Unbound]], [[Phoenix]], and all the Kept. Most people hold no ticket. They are simply neighbours. |
 
 Active papers in a working city are fewer than the people who could be asked for one, and fewer again on the frontier, where a feared Condition is still as likely to meet a rope as a stool. The pool is who might be asked, not a supervised census.
 
@@ -125,7 +125,7 @@ Active papers in a working city are fewer than the people who could be asked for
 - **Three guilds. No shared roll.** A stiller cannot ask the Crae for "all Answered." A hall-keeper cannot ask the Stillers for "all pale-stone." There is no union of lists except in [[Polity Archetypes|Threnmaieth]] and [[Trenledd]].
 - **The state watches the charter, not the person.** It can pull a guild's leave. It cannot query "list this city's Far-Voiced."
 - **Slates name hours, plants, and chairs — not gifts.** A bed-slate is rows. A hall-slate is bells. A guild-roll is practitioners of an art. Only the two Watchful crowns write *persons and gifts*.
-- **Most people never hold a paper.** The Kept quarter, the Two-Bodied plurality, the Taken-In, the Returned, the deathless, the Hollow: no ticket. Among the Conditioned, a large minority *can* be asked if they practice. That is a craft world, not a register-world.
+- **Most people never hold a paper.** The Kept, the Two-Bodied plurality, the Taken-In, the Returned, the deathless, the Hollow: no ticket. Among the Conditioned, a large minority *can* be asked if they practice. That is a craft world, not a register-world.
 
 **Who holds the pen matters as much as the rule.** Licences are **guild-issued, not state-issued** — the late-medieval arrangement. A guild *knows its own members* the way any craft guild does. The state *charters* the guild and lets it police its own under threat of losing the charter. This diffuses power (no single authority holds the Conditioned) and breeds its own frictions: guilds guard monopolies, tickets become property, and an unlicensed practitioner threatens the guild's charter as much as the public's safety. Lived houses: [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]]. A mill, a hull, and a road have fellowships that are not these papers: [[Craft Fellowships]].
 
@@ -136,7 +136,7 @@ The deepest fact about Condition-law is that it is not law imposed *on* the Cond
 - **[[Bound]]** — binding word. A Bound's sworn oath is *literally* binding and they hear a lie as it's told, so they are the witnesses, oath-keepers, and debt-arbiters. **When a treaty must truly hold, a Bound swears it.**
 - **[[Far-Voiced]]** — unfakeable feeling. Trusted as sworn witnesses precisely *because* their voice betrays real emotion under strain, so they cannot lie well on the stand.
 
-Evidence and contract in The Turning are therefore *made of people.* Its 1400s reaches trust — perfect memory, lie-heard oaths, unfakeable testimony — that ours needed paper bureaucracies (and centuries) to approximate, because here the machinery is alive and Given. **A world with witnesses like these does not need to write everyone down** — which is exactly why the two crowns that insist on doing so look so strange to everyone else.
+Evidence and contract in The Turning are therefore *made of people.* Here the courts rely on perfect memory, oaths a Bound hears being broken, and testimony that cannot be faked. Those jobs are done by people who were Given or Struck, so the courts do not need a paper bureaucracy to do them. **A world with witnesses like these does not need to write everyone down** — which is exactly why the two crowns that insist on doing so look so strange to everyone else.
 
 ## Harm, the watch, and the hearing
 
@@ -178,24 +178,24 @@ Two wrinkles keep them from being a footnote:
 
 ## How polities vary
 
-The grammar above is universal; the *tone* is not — and the world is as varied as a real one, region to region and culture to culture. Three **independent axes** carry most of the difference, and every polity sets each one separately:
+The rules above hold everywhere; the *tone* does not — and the world is as varied as a real one, region to region and culture to culture. Three things carry most of the difference, and every polity sets each one separately:
 
 - **Theology — how gift-devout is it?** From ardent [[The Leaf-Mother|Motherfaith]] gift-integration (a Condition is a blessing, belonging is a birthright) through worn-lightly civic religion to frank secular pragmatism, and the odd local heresy. Sets how the Struck, the Kept, and the feared Conditions are *read* before the law even speaks.
-- **Reach — Tree-rich core or Tree-poor edge?** Geography, per the [[The Premise|motherland/graft]] model: where healthy Trees stand, reach is full and the Given are dense; where Trees are few, young, or sickening, the population runs higher on the Kept and the Struck.
+- **Reach — Tree-rich core or Tree-poor edge?** Geography, by where the Trees grew from the first one ([[Turning Tree#One Tree, many hands — the graft|the graft]]): where healthy Trees stand, reach is full and the Given are dense; where Trees are few, young, or sickening, the population runs higher on the Kept and the Struck.
 - **Governance — how far does the state reach onto the person?** From light guild self-rule (the world's warm default — the craft polices its own, the crown charters the guild) all the way to a crown that writes its subjects down. Sets how much the safety-hook becomes a surveillance-hook.
 
 The combinations give different places: a devout frontier (ardent faith, thin reach, almost no bureaucracy); a secular Tree-rich merchant republic (dense reach, light governance, faith worn lightly); a pious core kingdom that is also Watchful (surveillance dressed as sacred duty); a cold trade-city with no reverence at all. Each has real supporters and a real cost. Three stances recur. [[Polity Archetypes]] works through three whole polities.
 
-**The Warm** *(high theology).* Law flows straight from the Motherfaith's gift-theology: a Condition is a blessing, the Struck are vouched-in graciously as people the Mother met at a later door, licences are framed as helping you tend your gift rather than policing you. Warmest near the [[Turning Tree|Awakening Tree]]. **Its injustice is soft and hard to name:** everyone is *expected* to serve their gift, so guild "vocation" shades into pressure, the Kept get pitied for missing out, and to decline your Condition's obvious use reads as ingratitude to the Mother herself. (A polity can be Warm *and* frontier, *and* lightly or heavily governed — the theology is one knob, not the whole machine.)
+**The Warm** *(high theology).* Law flows straight from the Motherfaith's gift-theology: a Condition is a blessing, the Struck are vouched-in graciously as people the Mother met at a later door, licences are framed as helping you tend your gift rather than policing you. Warmest near the [[Turning Tree|Awakening Tree]]. **Its injustice is soft and hard to name:** everyone is *expected* to serve their gift, so guild "vocation" shades into pressure, the Kept get pitied for missing out, and to decline your Condition's obvious use reads as ingratitude to the Mother herself. (A polity can be Warm *and* frontier, *and* lightly or heavily governed — theology is one of the three things that vary.)
 
-**The Watchful** *(governance at its extreme).* At the far end of the governance axis are crowns that break the world's norm and *do* write their people down. They do not trust living memory, and they keep a **roll of every subject and their Condition.** What makes this unusual is not that they keep written records, since every polity has guild rolls, notarial acts, and tax ledgers. It is that they keep **a census of persons and their gifts**, a record held *on people*. Two crowns do it: the Tallied Crown ([[Polity Archetypes|Threnmaieth]]) calls its roll holy, and the Worn Count ([[Trenledd]]) calls it the roll and does not. At home the roll is framed as prudence and order; elsewhere it is felt as **surveillance**. The unvouched are hunted, the Struck are pursued to be catalogued, Tithe-needs become points of leverage, and the [[Bound]] especially are watched far past their real hazard, since the Whisper can't command and the clerks know it. Most of the world finds the two rolls chilling because nobody else keeps one.
+**The Watchful** *(governance at its extreme).* At the far end of governance are crowns that break the world's norm and *do* write their people down. They do not trust living memory, and they keep a **roll of every subject and their Condition.** What makes this unusual is not that they keep written records, since every polity has guild rolls, notarial acts, and tax ledgers. It is that they keep **a census of persons and their gifts**, a record held *on people*. Two crowns do it: the Tallied Crown ([[Polity Archetypes|Threnmaieth]]) calls its roll holy, and the Worn Count ([[Trenledd]]) calls it the roll and does not. At home the roll is framed as prudence and order; elsewhere it is felt as **surveillance**. The unvouched are hunted, the Struck are pursued to be catalogued, Tithe-needs become points of leverage, and the [[Bound]] especially are watched far past their real hazard, since the Whisper can't command and the clerks know it. Most of the world finds the two rolls chilling because nobody else keeps a roll of everyone. The Walled Book keeps an heir-roll inside its walls, but it lists only its own heirs.
 
 **The Frontier** *(low reach).* Far from any healthy Tree, where even witnessing is thin and custom outruns law. These lands run **higher on the Kept and higher on the Struck** — more hugs, more later doors, fewer coloured falls. In-town that is read as distance and young wood. Freer in the good sense (no one asks for a licence; the [[The Taken-In]] whom cities keep at *social* arm's length — and still employ on the lots — are simply *neighbours* here, the backbone of the frontier economy) and lawless in the bad (unvouched Struck with no one to stand for them and no guild to train them, feared Conditions met with a rope rather than a licence). Reach and governance often *drift* together — a thin-reach edge tends to be thinly governed too — but they need not: a devout frontier and a lightly-governed core both exist.
 
 ## Links
-- [[The Premise]] — world scale & register (the frame this is built against) · [[Turning Tree]] · [[The Leaf-Mother]]
+- [[Turning Tree]] · [[The Leaf-Mother]]
 - [[Conditions]] — the roster this law regulates · [[The Stilled]] · [[Bound]] · [[Far-Voiced]] · [[Long-Lived]] · [[The Taken-In]] · [[The Unbound]]
-- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes below (Vaethorn · Lestrand · Threnmaieth) · [[The Old Tongue]] — the root language · [[Naming in the Turning]] — in-world names for the institutions here
+- [[Polity Archetypes]] — three worked corners of the theology/reach/governance differences above (Vaethorn · Lestrand · Threnmaieth) · [[The Old Tongue]] — the root language · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Tithe-Infrastructure]] — official furnishing · [[The Stillers]] · [[The Hall-Keepers]] · [[The Element-Guilds]] · [[The Intake]] — the tickets and the raw-Struck desk
 - [[The Ages of the Turning]] — local witness as Hands-era weather · [[The Walking Years]] — witness at the origin, or not at all
 - [[Orentel]] — a city that witnesses by hearth · [[Turning Tree#Turning-Week in a city]]

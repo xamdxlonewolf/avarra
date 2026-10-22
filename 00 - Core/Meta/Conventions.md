@@ -122,7 +122,7 @@ On each `visibility: player` note, remove every ATX heading (`#` through `######
 
 The stripped span runs from that heading through **the next heading of equal or higher rank**, or through end of file if none follows. Nested headings of lower rank go with the section. A blockquote, list, or table that sits inside that span is already gone.
 
-Usual vault shape is `## GM Notes` near the end. If `## Links` follows it, Links survive (same rank). If Links sit *inside* the GM section, they go with it. Prefer Links before or after the wall, not under it.
+Usual vault shape is `## GM Notes` near the end. If `## Links` follows it, Links survive (same rank). If Links sit *inside* the GM section, they go with it. Put `## Links` above `## GM Notes`.
 
 ### 3. Strip unmarked GM blockquotes
 

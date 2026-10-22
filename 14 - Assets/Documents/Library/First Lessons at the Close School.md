@@ -3,11 +3,11 @@ title: First Lessons at the Close School
 type: handout
 visibility: player
 note_status: draft
-tags: [handout, library, rothallo, walled-book, kept, epic-h]
+tags: [handout, library, rothallo, walled-book, kept]
 aliases: [The Close Primer, Volnai's Primer]
 reveals: []
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 *Lessons for the first year, the school beside the Book's house, Rothallo. Copied out by Volnai for the children to say back.*

@@ -41,7 +41,7 @@ Every Selkie has all three. **SRD mix:** Top = Second Skin · Bottom = Slip the 
 - **Second Skin** — You carry a **sealskin**, a second self you can don or shed in a moment. While you wear it, you ignore the effects of cold and deep water, you can hold your breath far longer than anyone should, and you always know which way is up and where the nearest surface or shore lies. You have **advantage** on Agility Rolls to swim, dive, or move through water.
   - *Anchored.* Your skin is your fixed point in the world. Wherever you leave it stashed, you always know the direction and distance to it and can find your way back to it unerringly, however far you've travelled or however turned-around you are. (Loaning your skin, or having it taken, is a matter of story and trust — never a mechanical penalty.)
 - **Slip the Hold** — When a creature grabs or restrains you, or succeeds on an attack against you, you can mark a **Stress** to slip free like a seal from a net: you end any grab or **Restrained** effect on you, ignore any forced movement from that attack, and move up to **Very Close** range out of the creature's reach.
-- **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. *(A warning and a help — not an immunity. The phrase "cannot be caught off guard" lives on [[Tengu|The Mountain's Mood]] only.)*
+- **Seal-Kin** — Seals and the beasts of the sea treat you as kin, not as prey or stranger. You have **advantage** on rolls to calm, read, or call an animal of the sea. Once per scene, while you are in or near water, you can mark a **Stress** to let the sea itself warn you: the GM **names** what is approaching through the water, and until the end of your next turn the nearest seal-kin surfaces to aid you — a distraction that draws a foe's attention, a tow through the current, or a shove that carries you toward shore or safety. You may move up to **Close** range before the named approach arrives. *(A warning and a help — not an immunity.)*
 
 ## Naming & tongue
 
@@ -50,7 +50,7 @@ Hearth-register **Sakoa** (sah-KOH-ah) — liquid, rounded, coastal. The full in
 Distribution (coasts, not a sea-nation): [[Kinds of the Turning]].
 
 ## Links
-- [[The Premise]] — the two-layer (Kind + Condition) model
+- [[Conditions]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]

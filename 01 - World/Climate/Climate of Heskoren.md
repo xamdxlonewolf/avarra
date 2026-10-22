@@ -42,7 +42,7 @@ Heskoren still uses the mainland months. The same date covers several seasons be
 
 The coast faces the West Water back toward [[Strandoren]]. It is the entry for iron, salt, craft goods, specialists, letters, and living grafts—and the exit for timber, wool, hides, fish, and raw staples.
 
-### A playable coast week
+### A week of coast weather
 
 | Day-shape | Weather | Consequence |
 |---|---|---|
@@ -59,7 +59,7 @@ Storms make ordinary shortages stack. A hull may carry a stiller, a page a Long-
 
 Sheltered vales carry the continent's deeper fields: rye, oats, barley, peas, cabbage, turnips, hay, and apples on warm slopes. Cattle and oxen fit broad bottoms; sheep and goats climb; pigs use woodland mast under local rights.
 
-### A playable vale week
+### A week of vale weather
 
 | Season | Weather turn | Put it on |
 |---|---|---|
@@ -74,7 +74,7 @@ Floodwater brings silt and can bring flux. The right response is clean drinking 
 
 The high country is wind, peat, short grass, heather, rock, and snow holding late in shade. This is not Maiethorn's Rain-Wall. It has no Lirorn thaw-levy and no Shelf-gate.
 
-### A playable ridge week
+### A week of ridge weather
 
 | Watch | Weather | Road fact |
 |---|---|---|

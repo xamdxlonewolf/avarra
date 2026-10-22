@@ -17,14 +17,14 @@ updated: 2026-10-22
 
 # The Walking Years
 
-> **The old default way to Turn, now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|Kept]] for want of it**, so the far reaches ran heavy on the Kept and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical name: **Brenvaeth** *(BREN-vaeth)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life.
+> **The old default way to Turn, now lived.** Once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it. Families who could not make the trip **stayed [[Law and Citizenship|UnTurned]] for want of it** (folk called them Kept), so the far reaches ran heavy on the UnTurned and the [[The Premise|Struck]] as the *rule*, not an edge-case. Everyday name: **the Walking Years.** Liturgical name: **Brenvaeth** *(BREN-vaeth)* — "the hearth gone to the waiting." The spine and the two clocks: [[The Ages of the Turning]]. This note is the road as a life.
 
 
 ## Overview
 
-In these years the Leaf-Fall happened in one place: one grove, on [[Maiethorn]], under Thaeloren. A tenth summer was a journey or it was a hug you never received because you were not there to be hugged.
+In these years the Leaf-Fall happened in one place: one grove, on [[Maiethorn]], under Thaeloren. A tenth summer was a journey or it was no Leaf-Fall at all, because you were not there.
 
-The far-flung who stayed home were not "skipped by a goddess" in any way a town could prove. They were **children who did not walk.** Some were later Struck at a drowning, an oath, a death — unwitnessed, because the only crowd that counted was a continent away. Some stayed Kept for life, wanted or not, because want-of-a-trip is not a theology, it is a distance.
+The far-flung who stayed home were not "skipped by a goddess" in any way a town could prove. They were **children who did not walk.** Some were later Struck at a drowning, an oath, a death — unwitnessed, because the only crowd that counted was a continent away. Some stayed UnTurned for life, wanted or not, because want-of-a-trip is not a theology, it is a distance.
 
 This is the historical origin of today's pattern, stated mundanely: **thin reach used to mean far from the one Tree.** After [[The First Cut]], thin reach came to mean *Tree-poor places* — young, sick, or few grafts — which is why a hamlet next-door to a dying scion can be "far" in the old sense without being far on a map.
 
@@ -56,7 +56,7 @@ Named in the common tongue, because the walk was logistics before it was liturgy
 
 People did not say *Brenvaeth* on the road. They said *we are on the Long Mile*, or *we took the salt*. [[Polity Archetypes|Vaethorn]] still calls the whole past *the waiting-road*. [[Polity Archetypes|Lestrand]] files it as *the road-years*. [[Polity Archetypes|Threnmaieth]] wants the miles *on a roll*.
 
-**Timing against the year.** Near-Mile families left in **Haelren** or early **Eolthael** and were home by **Vaelorn**. Salt-Walk households watched the Old Crossing from **Saelorn**; a late storm in Hale-month was a Kept child. Long-Mile columns left in **Liren** or **Saelorn** — the thaw, the first green — and hoped the High Solstice had not happened without them. Some arrived in **Leddorn** with a ten-year-old who had already missed. The road-houses knew that silence. They did not charge extra for it. They also did not refund the note.
+**Timing against the year.** Near-Mile families left in **Haelren** or early **Eolthael** and were home by **Vaelorn**. Salt-Walk households watched the Old Crossing from **Saelorn**; a late storm in Hale-month left an UnTurned child. Long-Mile columns left in **Liren** or **Saelorn** — the thaw, the first green — and hoped the High Solstice had not happened without them. Some arrived in **Leddorn** with a ten-year-old who had already missed. The road-houses knew that silence. They did not charge extra for it. They also did not refund the note.
 
 [[The Sundering Isle|Kumbaan]] is not on this table. No walk crossed the storm-wall.
 
@@ -68,15 +68,15 @@ The Salt Walk sorted by **cash and weather.** Coastal wealth bought berths. Inte
 
 The Long Mile sorted by **whether you could lose a year.** Food, shoes, a second adult if you had one, and the note you signed at the first road-house that would take it. Many could not. Those who could often could not for *every* child.
 
-**The split household** is the era's ordinary cruelty. A family with three children near ten could sometimes walk one. The one who walked might come home Given. The ones who stayed were Kept, or were Struck later at a local door, and grew up in the same kitchen as a sibling the origin had seen. No one needed a theology for this. Distance did it. [[Polity Archetypes|Vaethorn]]'s later guilt (*we wait because we are unworthy*) is a Hands-era reading of that fact. History does not agree with the guilt.
+**The split household** is the era's ordinary cruelty. A family with three children near ten could sometimes walk one. The one who walked might come home Given. The ones who stayed were UnTurned, or were Struck later at a local door, and grew up in the same kitchen as a sibling the origin had seen. No one needed a theology for this. Distance did it. [[Polity Archetypes|Vaethorn]]'s later guilt (*we wait because we are unworthy*) is a Hands-era reading of that fact. History does not agree with the guilt.
 
-[[The Old Ways]] households on Heskoren often **refused the walk** on purpose. Their children were already the land's. Motherfaith neighbours read those children as Kept-for-want, which is a misreading the walk itself cannot correct. The same child can be claimed as already belonging and pitied as passed over; the walk offers no neutral verdict.
+[[The Old Ways]] households on Heskoren often **refused the walk** on purpose. Their children were already the land's. Motherfaith neighbours read those children as UnTurned for want of the trip, which is a misreading the walk itself cannot correct. The same child can be claimed as already belonging and pitied as passed over; the walk offers no neutral verdict.
 
 ### Who was let through
 
 Distance and coin were not the only sorters. A class of the untithed — **the Closed Seat**, folk **the Grove-Sitters** — sat on Thaeloren and decided who might stand under it. A family could have shoes and a Salt-Walk berth and still be turned away at the gate. **Grove-leave** was paper you carried to a gate.
 
-Far lands ran heavy on the Kept because some children did not walk, and because some children walked and were turned. Both fill a kitchen. The later romance of the old mile prefers the first cause. Folk songs remember the second.
+Far lands ran heavy on the UnTurned because some children did not walk, and because some children walked and were turned. Both fill a kitchen. The later romance of the old mile prefers the first cause. Folk songs remember the second.
 
 The Closed Seat was an *origin-gate*, not a world-empire. Strandoren paid the crossing; it was never a province. Heskoren was beyond a gate's ride. When a Near-Mile town Turned under a copy, the gate was no longer the only seeing. The war that tried to make that untrue is [[The Closing]]. The road was already a life. The gate was a third cruelty on it.
 
@@ -92,10 +92,10 @@ The origin also filled with **children who arrived and had no one to walk home w
 
 ## Far reaches as the rule
 
-In Brenvaeth, a land far from Thaeloren was **Kept-heavy and Struck-heavy because most ten-year-olds never stood under the canopy.** That was not a frontier curiosity. It was how the world worked anywhere the walk was too far or too dear.
+In Brenvaeth, a land far from Thaeloren was **UnTurned-heavy and Struck-heavy because most ten-year-olds never stood under the canopy.** That was not a frontier curiosity. It was how the world worked anywhere the walk was too far or too dear.
 
 - **Given** were the ones who had been *there* — a minority that shrank with distance. They came home as specialists the town could not otherwise grow, and as people the town had not seen become.
-- **Kept** were the default far childhood: whole, untithed, unwitnessed-as-Given. Some were wanted that way. Some were the price of a summer the family could not raise. Some were Old Ways children the Motherfaith had misfiled.
+- **UnTurned** were the default far childhood, because they never stood under the Tree: whole, untithed, unwitnessed-as-Given. Folk called them Kept. The few who walked and were hugged were Kept in the strict sense. Some were wanted that way. Some were the price of a summer the family could not raise. Some were Old Ways children the Motherfaith had misfiled.
 - **Struck** were the far lands' other door, and always had been. Drownings, oaths, deaths. No leaf. No origin-crowd. The unease that follows the Struck is older than the grafts; the walk only made it louder, because the Given in the same town *had* been seen, a continent away.
 
 When the wood later travelled, this pattern *relocated*. A Tree-poor pocket next to a dying scion reads the same on a census and is not far on a map. Some of it still *is* Brenvaeth, this year, for this cohort. Some of it is a neighbour's canopy and a queue. Both can be true on the same road.
@@ -142,7 +142,7 @@ Consequences, lived:
 - **Going home did not bring the crowd with you.** Your village had not watched. Belonging at home required someone who *had* been under the boughs to stand for you: a parent, a neighbour from the column, a Long-Lived who keeps origin-falls the way they later keep town-falls. **Vouching-at-a-distance was invented to carry the origin's witness home.** The three pillars (Long-Lived memory, Bound word, Far-Voiced feeling) are older than the grafts; the *job* of carrying a far Turning is Walking-era. Hands-era travelers still move on that job: the **road-word**, company-vouch, guest-right ([[Law and Citizenship#How a traveler stays vouched]]).
 - **A Given child with no surviving witness** is legally thin in the place they grew up. Origin-orphans, road-house children, a Bound stranger who will swear the colour they did not see (and cannot cheaply lie). The unvouched are older than the Struck-stigma, and include people the Tree *did* Give.
 - **Struck on the road** are a double unease: unwitnessed becoming, *on the way* to the witnessing. A Returned child walking the last Near-Mile days beside the parent who has not yet forgiven the threshold.
-- **Staying home** meant you were never Given-witnessed. You were still of your town, because your town had watched you be a child. Kept-by-distance is not "unmarked on a roll." It is a hug that happened without you, a continent away.
+- **Staying home** meant you were never Given-witnessed. You were still of your town, because your town had watched you be a child. An UnTurned child was not "unmarked on a roll." Folk called such children Kept, though no Tree had hugged them.
 
 The origin-crowd was enormous in Eolthael and ordinary the rest of the year. Speakers of the origin-hearth named colours until their voices went. Folk-known colours still were; the warden's word made them *count* for people who would have to carry that word home.
 
@@ -196,7 +196,7 @@ The era has no dated start (it grows out of [[Before the Walk]] when the trip be
 ## Links
 - [[Monseoth]] · [[Sedrad]]
 - [[The Ages of the Turning]] · [[Before the Walk]] · [[The First Cut]] · [[The Closing]] · [[The Years of Hands]]
-- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — the leftover's
+- [[The Child Who Counted Stones]] — the road's paradox-fable · [[The Branch That Came Away]] — the Cut's · [[The Child Who Climbed the Stone]] — what the Walk left behind
 - [[The Third Hearth]] — Thilim still making the bed · [[The White Note House]] — the same fortune, later
 - [[Turning Tree]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Law and Citizenship]] · [[Economy and the Tithe]] · [[Daily Life]] · [[The Reckoning of the Year]]
@@ -219,7 +219,7 @@ Moved from the player-facing body during residual export polish:
 - **Heskoren is not "living in the past."** A hamlet sending this year's ten-year-olds to a neighbour is doing Clock 2, present tense. A hamlet sending them all the way to Thaeloren is doing Clock 1, present tense. Do not narrate either as re-enactment.
 - **Distance is not spiritual deficiency.** Vaethorn's guilt-theology is a Hands-era reading of a Walking-era fact. Old Ways refusal is not "missing the gift"; it is a different door.
 - **The one-week door is the engine's teeth.** If you let eleven-year-olds Turn Given "because they tried," the split household and the held-over year lose their bite. Struck remains the later door. That is enough mercy.
-- **Do not clone Epic 5 onto the road.** No travelling greens-keepers, no Slide-on-the-mile as a second house, no Road-hands-as-pilgrim-guards. Road-hands carry *wood*, later. Tithe on the road is a pot and a shed. The deathless house is an inn. What the leftovers became: [[The Years of Hands]].
+- **Do not clone Epic 5 onto the road.** No travelling greens-keepers, no Slide-on-the-mile as a second house, no Road-hands-as-pilgrim-guards. Road-hands carry *wood*, later. Tithe on the road is a pot and a shed. The deathless house is an inn. What the Walk left behind became: [[The Years of Hands]].
 - **Keystone-adjacent, not confirming.** The walk killed children because the Given-door was in one grove. Skeptics: that is how a tree works, and how a road works. Believers: she waited in one place, and waiting is a kindness that had a cost. GM truth: her reach is bounded; carrying wood later moved the edge; *why she needed the wood carried* stays open. Do not smuggle a wound-cause into a grave.
 - **Colonial trap, again.** "We walked because we were faithful" is the Near-Mile sermon. The Long Mile was poorer, later, and full of people who stayed home without being worse. The Salt Walk was a berth. Do not let the hymn outrank the quay.
 - **Hooks.** A Held bed with a name; a sibling Given/Kept pair and a town that wants the Long-Lived's walk as citizenship; a mile-shrine a Hands-town wants down; a note that outlived the family; a Far-Voiced cry in an old pattern with no column left to hear it; Thilim still alive, still making the bed.

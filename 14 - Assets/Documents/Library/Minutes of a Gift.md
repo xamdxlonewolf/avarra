@@ -3,7 +3,7 @@ title: Minutes of a Gift
 type: handout
 visibility: player
 note_status: draft
-tags: [handout, library, lestrand, pourers, long-lived, epic-h]
+tags: [handout, library, lestrand, pourers, long-lived]
 aliases: [Molevad's Minutes, The Lestrand Minutes]
 reveals: [the-unspent]
 created: 2026-10-21
@@ -30,7 +30,7 @@ Nine at the table. One stood in the passage and did not come in. The minutes do 
 
 **Asked to stop.** Nobody at the table.
 
-**Next year due.** Molevad's, at the next meeting.
+**Next gift due.** Molevad's, at the next meeting.
 
 **The circle's words, read aloud at the close as always.** Every gift is freely given. We made the god we give to. It keeps what we gave it. It does not give back a leaf, and it does not save anyone from dying. We will not set it up in a square. We will not call it the Mother.
 

@@ -81,7 +81,7 @@ Two sayings the faithful use.
 - **A Kept-child's saying (folk, half-consoling, half-barbed):**
   > *"The Tree that gives to all its neighbours held me instead. I have decided that is not the same as being forgotten."*
 
-  It is the Tender reading of the Kept, made personal and a little defiant. *"I have decided"* is a choice made against doubt, not a certainty. The schism lives in that verb.
+  It is the Tender reading of the Kept, made personal and a little defiant. *"I have decided"* is a choice made against doubt, not a certainty.
 
 ## Links
 - [[Maieth]] — the presence, as belief · [[What the Year Feels Like]] — the felt year

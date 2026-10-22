@@ -63,7 +63,7 @@ Food is the pot, the green-lot, whatever the extra mile pays in Hale-month. The 
 
 Brenthael Turns at home. The Near Mile is optional, and Orenbren houses the people who still want the origin. The stone still waters a mile, Seine's name is still cut over the door, and a necessity-family from thinner soil still pays on the home-walk. A Hand can fail: [[The Mill-hold]], two days past Brenthael, put a Hands-town back on the neighbour's week this year. Brenthael's Tree has not sickened. Thilim does not say the age is over.
 
-The two fates of the same origin still stand. The White Note collected, on a [[Strandoren]] quay. The Third Hearth kept making the bed. Play both. Mataero cannot see this house except as a warning.
+The two fates of the same origin still stand. The White Note collected, on a [[Strandoren]] quay. The Third Hearth kept making the bed. Mataero sees this house only as a warning.
 
 At dark, Thilim sets the yard-broom across the doorway and steps over it. They will not say why.
 

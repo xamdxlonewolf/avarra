@@ -80,7 +80,7 @@ Two people are named here. The talk in the square is about the **stone and the s
 - **A Road-hand passing the junction** — sometimes turns down the spur with earth or with nothing, sleeps upstairs, and asks for a road. They are not a chapter here.
 - **Orenbren** — a compact of hearths. This is one of them. It is not the compact's crown. The [[The Tree-Wardens|First Seat]] is in the Motherwood, beside the country, not in this square.
 
-The Kept are uncommon on a sound Motherland Hand, and a missed week still hurts. A family that needs a neighbour's Tree walks back to the Mile. That walk is a repair, not this town's brand.
+Hugs are less common on a sound Motherland Hand than elsewhere, but not rare, and a missed week still hurts. A family that needs a neighbour's Tree walks back to the Mile. That walk is a repair, not this town's brand.
 
 ## What can enter a scene
 

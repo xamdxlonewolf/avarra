@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 ## The count
 
-**Fifteen** on the three large continents. **[[The Sundering Isle|Kumbaan]] is not a thirteenth mainland power** and not a sixteenth: it is an isolate with a table, a moon, and a storm-wall. The Isle is a people at home; it is not a flag on the Seat's list.
+**Fifteen** on the three large continents. **[[The Sundering Isle|Kumbaan]] is not a sixteenth power**: it is an isolate with a table, a moon, and a storm-wall. The Isle is a people at home; it is not a flag on the Seat's list.
 
 Beneath the fifteen the world still swarms — marches, free towns, petty Tree-seats, un-polity'd wild. "~15" names the powers worth naming, not the number of places that exist.
 

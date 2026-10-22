@@ -65,7 +65,7 @@ Homes accommodate becomings. A window that opens. A room kept green. Threshold c
 
 The green was a door before it was a square. Children were already the land's. A neighbour's week to a Motherfaith Tree can be refused on purpose. A guest-Hand Speaks some years. Some ten-year-olds stand here. Some still walk to Harrow's. Some do not walk. The Harrow-sentence is a luck this vale did not ask to inherit; the wood arrived anyway.
 
-Vaethorn heat sits on many tongues as gospel. This square lives in Vaelhesk custom. A waiting-gospel that calls refusal deprivation is the enemy of the meal. History does not agree with it.
+Vaethorn's gospel is spoken on many hearths. This square lives in Vaelhesk custom. A waiting-gospel that calls refusal deprivation is the enemy of the meal. History does not agree with it.
 
 The first-meal bread is always a little sour. Delvor says that is how you know the grove sat down. Vilraet will not eat the heel. Brudu puts a pinch from another hill in the bowl, and will not say which door it came from.
 
@@ -101,7 +101,7 @@ The Seat's leave still says *a later planting in the Far Yield.* Clerks who lear
 >
 > *The week is one week. If the bowl lasts the rain I still have a fall to name. I have a Tree. I did not invent it.*
 
-The argument does not resolve into a proverb. At dawn somebody still decides whether to lift the bowl, wake the child, and take the colour or the door-path first.
+The three voices disagree and nobody settles it. At dawn someone still decides whether to lift the bowl, wake the child, and take the colour or the door-path first.
 
 A third line, if Brudu is there, is only: *The planting drinks at first light. The guest can wait until the bowl.*
 

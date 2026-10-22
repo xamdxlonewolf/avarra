@@ -35,7 +35,7 @@ Tier 2 Standard. A person who was sent, or who sent themselves, for a tenth-year
 
 ## Links
 - [[Dangers of the Turning]] · [[Turning Tree#Questions a warden gets asked]]
-- [[The Walking Years]] · [[Eolvaeth]] — a sent cohort that *returns* is a settlement scene, not this block
+- [[The Walking Years]] · [[Eolvaeth]] — a cohort that was sent to another Tree that *returns* is a settlement scene, not this block
 - [[The Intake]] · [[09 - Creatures]]
 
 ## GM Notes

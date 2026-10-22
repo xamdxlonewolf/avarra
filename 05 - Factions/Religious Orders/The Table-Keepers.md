@@ -32,7 +32,7 @@ The faith's quarrel is on [[The Open Table]]: two sittings against a Turning-wit
 | **Want** | An extra place laid. A second night that makes kin. The sentence kept at the door. |
 | **Have** | A hill-hall, or one mainland attic. Bread. A lamp that faces the table, not the sea. |
 | **Fear** | A witness who wants the supper to travel. A tenth-year week spent on a Tree. |
-| **Live conflict** | Two sittings against a Turning-witness at a mainland door. The Open Table note is where the quarrel is played. |
+| **Live conflict** | Two suppers against a Turning-witness at a mainland door. The Open Table note is where the quarrel is played. |
 | **Hooks** | A guest who will not leave; a sentence that will not travel; a child whose host will not walk them to a Tree; [[Ndenjoo]]'s second sitting. |
 
 ## Shape of the order (at a glance)
@@ -107,7 +107,7 @@ The extra place is set slightly back from the board, not at the end. A mainlande
 
 ## Who may keep a table
 
-**Not by Kind.** This is the order’s load-bearing courtesy, and it is also already the faith: a mainlander who sits once is a guest; who sits twice is kin. A human, a [[Selkie]], a [[Kitsune]] who will lay the extra place is of the Njaalo. A Yumboe who will not is not. Do not invent a good-people-only order. Do not invent a "moon-chapter" of any other Kind.
+**Not by Kind.** This is the order’s load-bearing courtesy, and it is also already the faith: a mainlander who sits once is a guest; who sits twice is kin. A human, a [[Selkie]], a [[Kitsune]] who will lay the extra place is of the Njaalo. A Yumboe who will not is not.
 
 **By practice first.** You are a table-keeper when the valley (or the attic-stair) comes to you, and you set the place. There is no apprenticeship confirmed by a Seat. A child who has carried dishes on the bright nights is being watched. A mainland convert who has sat twice and opened their own room is being watched by whoever they fed.
 
@@ -132,7 +132,7 @@ Struck table-keepers on the mainland must still be **vouched anew** if they want
 | [[The Tree-Wardens]] | A warden who crosses the storm-wall is a guest at supper; there is still no Tree to tend. On the mainland they already share landings: a quay, an attic stair, a tenth-year list. | The host will not walk a child of the table to a Tree. The warden will. The Given-door is one week. No mission-chapter on Kumbaan. No moon-warden. The fight is in the port. |
 | [[The Watchers]] | A Watcher who crossed would find the night already kept — for a different reason. | There is no Night Watch on the isle. |
 | [[The Book-Hands]] | A Settler who sits twice has been called kin in a language with no book. | The sentence is a courtesy, not a term. |
-| [[The Door-Keepers]] | Ancestor-meals and a place set look like cousins to a traveller. They are not. The dead in the ground are not the unseen hands. | Kumbaan is not part of any grove the Door-Keepers keep. |
+| [[The Door-Keepers]] | Ancestor-meals and a place set look like cousins to a traveller. They are not. The dead in the ground are not the unseen hands. | The Door-Keepers walk no doors on Kumbaan. |
 | [[The Shore-Sitters]] | Sister house. They sit the storm-beach. A living wreck they walk uphill; they do not seat on the sand. | A Table-Keeper does not go down to wait. The sand decides *alive*; the hall decides *kin*. |
 
 ## How they live in the three corners (and off the map)
@@ -182,7 +182,7 @@ The card is a hospitality blessing, half-ruined by the quay copy. The sailor tho
 - **What this is.** The Table-Keepers are almost not clergy. The faith itself is on [[The Open Table]]; this note does not rebuild it.
 - **Canon.** The rite *is* supper. No chapel. No Kumbaan mission. Not a Kind-only order — on the isle they are Yumboe because that is who lives there. The names are not settled.
 - **The card, read by the GM.** The house's whole case is that being wanted was never a gift, and the sailor who sold the card could not afford to see that. He thought it was a grace.
-- **Not of her household. Not a Kind-order.** Per [[The Other Hands]] the staying-kin are not *Threnvaeth* or anyone else. Do not absorb Kumbaan. Per [[Kinds of the Turning]], do not invent a Yumboe-only clergy — even though almost every hill-host on the isle *is* Yumboe, because that is who lives there. The attic convert is the proof the rule holds.
+- **Not of her household. Not a Kind-order.** Per [[The Other Hands]] the staying-kin are not *Threnvaeth* or anyone else. Do not absorb Kumbaan. Per [[Kinds of the Turning]], do not invent a good-people-only order or a moon-chapter of any other Kind, and do not invent a Yumboe-only clergy — even though almost every hill-host on the isle *is* Yumboe, because that is who lives there. The attic convert is the proof the rule holds.
 - **Not ghosts, not a geas, not a mission.** The unseen hands are furniture. "No one is a stranger twice" is courtesy with legal weight on the isle, a proverb on the quay. Do not turn the Open Table into a trap-cult or a Fair Hand contract. Do not send table-keepers to plant a hall in Vaethorn. Do not send Road-hands to Kumbaan.
 - **The injustice is the sentence that will not travel.** Belonging-by-supper against belonging-by-witness, and a tenth-year week that can close while both offices mean well. The keystone does not give them a Tree, and does not make their wholeness a missed gift. Play the quarrel on [[The Open Table]]; do not invent a scion-queue of the moon.
 - **One job. No offices. No seat. No travelling circuit.** An attic-host's constraints (one room, a plain supper, no authority outside the door) are enough.

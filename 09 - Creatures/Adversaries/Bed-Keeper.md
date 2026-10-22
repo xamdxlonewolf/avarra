@@ -8,7 +8,7 @@ tags: [adversary, leader, travel, long-mile, daggerheart]
 aliases: [The Bed That Will Not Empty, Road-house keeper]
 world: The Turning
 category: people
-habitat: leftover road-houses on the Long Mile
+habitat: road-houses still open on the Long Mile
 reveals: []
 created: 2026-08-31
 updated: 2026-10-22

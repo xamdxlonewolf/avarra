@@ -35,11 +35,11 @@ Grafts went unwatered where the Taken-In who knew the soil were in the ground. H
 
 **[[Brenledd]] piled a compact.** In Cut-year 174 the lesser hearths that had been priced one at a time through the fever — berth-fees in a summer with no berths, notes called early because a house was frightened — put their charters in one pile. **Nidtol** *(NID-tol)* is the hearth-name the compact still recites when Lestrand offers to simplify them. The league is not a founding-king. It is a refusal that learned to speak together.
 
-**[[Leddvael]] made a signing a civic rite.** Witnesses had died. A Bound's word still closed. The Fair Hand had always been dockside theology. After the Grey, a stretch of water found it cheaper to *establish* the Settling than to argue which square still remembered you. A Given child became a term opened. Leddvael trusted a Bound person's word because so many witnesses had died.
+**[[Leddvael]] made a signing a civic rite.** Witnesses had died. A Bound's word still closed. The Fair Hand had always been dockside theology. After the Grey, a stretch of water found it cheaper to *establish* the Settling than to argue which square still remembered you. Leddvael began witnessing signings in public. Leddvael trusted a Bound person's word because so many witnesses had died.
 
 **[[Netstrand]]'s west trade thinned for a decade.** Hulls that should have gone toward [[Heskoren]] stayed home or stayed buried. The wave's supply-line already preferred a paying next. The Grey is one more reason the far waited. It is not a punishment and not the whole gap.
 
-**[[The Hinge Shore]] learned to step around a person who was fading.** The pious shore watched the Ledger Coast price survival. It learned to let a Tithe-poor person go unsupported while still saying the blessing over them, and it kept the blessing so it would not have to call that a change of faith.
+**[[The Hinge Shore]] kept saying the blessing.** The pious shore watched the Ledger Coast price survival and kept saying the blessing, so it never had to call that a change of faith.
 
 ## What it was not
 

@@ -15,7 +15,7 @@ updated: 2026-10-22
 
 # Named Ground
 
-> **What this is.** The physical names the settlements and the Other Count were already using as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks that already existed. The labelled picture is [[The Known Map]].
+> **What this is.** The physical names the settlements and the Other Count use as common nouns: the water between the Old World pair, the range that makes the dry east, four rivers a GM can point at, and a travel table built from the walks. The labelled picture is [[The Known Map]].
 
 ## How to say it at the table
 
@@ -70,7 +70,7 @@ Snowmelt off the Rain-Wall's west face. Runs toward the Old Crossing. [[Maiethli
 
 Clerks file the spring rise as snowmelt. The Core-thaw runs louder the week before Leaf-Fall, and [[Maiethlir]] is where that is known. Watchers do not file it. At Maiethlir the Speaker, [[Rithim]], raises their voice over the river.
 
-In a high Liren the lodging-road meets a near branch of the same water. The line on Thilim's slate, *Eolthael, the summer the ford ran high* ([[The Walking Years]]), is this river in a bad year. It is not a fifth river. Below [[Maiethlir]], the same water is [[The Down-Bank]]: the days a traveller already spends on the way to [[The Hinge Shore]], where the shore inspects the hull. It is not a second river.
+In a high Liren the lodging-road meets a near branch of the same water. The line in [[The Walking Years]], "Eolthael, the summer the ford ran high," is this river in a bad year. It is not a fifth river. Below [[Maiethlir]], the same water is [[The Down-Bank]]: the days a traveller already spends on the way to [[The Hinge Shore]], where the shore inspects the hull. It is not a second river.
 
 [[The Thaw-Break]] (Cut-year 233) is what happens when the Rain-Wall does not thaw as it usually thaws. The Core-thaw took a month in seven days.
 
@@ -88,7 +88,7 @@ A low stream off Harrow's rise. Downstream it is the ford the Seat used as a geo
 
 ## Climate bands (compact)
 
-For playable week-weather in these bands, see [[Climate of the Turning]]. For forage, crops, disease, Tithe-ecology, and working beasts, see [[Ecology of the Turning]].
+For week-by-week weather in these bands, see [[Climate of the Turning]]. For forage, crops, disease, Tithe-ecology, and working beasts, see [[Ecology of the Turning]].
 
 | Band | Where | Weather |
 |---|---|---|
@@ -142,7 +142,7 @@ The three walks, converted:
 | Harrow's Green | [[Natai]] | west, between Harrow's Green and [[Sanbreo]]; not on the ford | **not recorded** |
 | Vaelun | [[The First Bowl]] | vale track into the Yield, *away* from Harrow's | **1–2 days** |
 | [[Maiethlir]] | [[Seinbrun]] | off the Down-Bank; north of Maiethlir on the atlas | **more than 1 day** (the first day below the Down Gate does not reach it); the rest is **not recorded** |
-| Thaeloren | [[Tasain]] | the west road, below the Shelf-gate; south of Thaeloren on the atlas | **not recorded** (it is on the road to Ornsael, so inside those 10–14 days) |
+| Thaeloren | [[Tasain]] | the west road, below the Shelf-gate; south of Thaeloren on the atlas | **not recorded** |
 | Tasain | [[Larbril]] | the west road over the Shelf-gate; Larbril is east of the Rain-Wall, on the dry side | **not recorded** |
 | Maiethlir | [[The Seeing-Ring]] | a hill in the old Watching country, north-east of Maiethlir on the Known Map (the atlas sheets do not mark it) | **not recorded**; the climb up the hill takes a morning |
 | Orentel | [[Raitin]] | the road inland; south-west of Orentel on the atlas | **not recorded** |

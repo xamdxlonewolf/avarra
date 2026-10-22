@@ -38,7 +38,7 @@ Tier 2 Support. A graft that never took, or wood that sickened, still dropping l
 ## Links
 - [[Dangers of the Turning]] · [[Turning Tree]] — do not stand a child under unsound wood
 - [[The Wrong Green]] — a *Speaking* failure, a different wound
-- [[Harrow's Green]] · [[Ornsael]] — settlement leftovers stay there
+- [[Harrow's Green]] · [[Ornsael]] — settlement scenes stay there
 - [[09 - Creatures]]
 
 ## GM Notes

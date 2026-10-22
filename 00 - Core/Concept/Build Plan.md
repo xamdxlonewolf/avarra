@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 Each paragraph says what the epic built and what is next. The history of each is on [[Roadmap]].
 
-**Epic V — Read the whole vault (V.0–V.3 done 2026-10-22).** A script and eight readers went through every note without editing. The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings, with fifteen disagreements on [[Contradictions]] as C-10 to C-24. The user answered in V.3: the Pourers give one year at a time, so [[Reimaethe]] is right; Maiethorn may run higher on the Given, though a hug there is not rare; [[Sanbreo]] is on Heskoren's west coast. **Next:** V.4, three waves of Claude Sonnet 5.5 subagents, run from [[V.4 Fix Prompt]]. The world book stays untouched until the user says otherwise.
+**Epic V — Read the whole vault (V.0–V.4 done 2026-10-22).** A script and eight readers went through every note. The report is [[Vault Audit 2026-10-22]]. The user answered in V.3: the Pourers give one year at a time, so [[Reimaethe]] is right; Maiethorn may run higher on the Given, though a hug there is not rare; [[Sanbreo]] is on Heskoren's west coast. V.4 fixed the findings in three waves from [[V.4 Fix Prompt]]: by folder, then the [[Reveal Index]] and the links, then a reread. C-10 to C-24 are resolved on [[Contradictions]]. A child who never stood under a Tree is UnTurned in every note, history included. The near-alike name pairs and the travel times for the newer seats were left for the user. **Next:** the user decides whether to rebuild the world book (V.4h). The world book stays untouched until they say so.
 
 **Epic H — A past you can hold ✅ (2026-10-22).** It wrote [[The Pourers]], what a visitor sees at the Walled Book in [[Rothallo]] ([[The Walled Book]]), the ordered history in [[A History of the Turning]], and six pages a party can find in [[The Library Pages]]. The three groups stay three, the founder stays unnamed, and no power was added. **Next:** nothing in this epic. The world book is rebuilt only when the user asks.
 
@@ -34,9 +34,9 @@ Each paragraph says what the epic built and what is next. The history of each is
 
 **Epic S — The other seats ✅ (2026-10-03).** Every one of the twelve seats has a capital, a city, a town, or a written refusal: [[Seinbrun]], [[Rothallo]], [[Larbril]], [[Votaer]], [[Tasain]], [[Raitin]], [[Naenor]], [[Lunbra]], [[Braetu]], [[Sanbreo]], [[Natai]], and [[Vaelhesk]], where the land is the seat. Each has its habits and its few people. **Next:** nothing.
 
-**Epic M — Town sheets and the new seats ✅ (2026-10-05).** It painted town and city sheets for the seats, added plain labels on [[The Known Map]] and the overlays, and dressed the close plates in the house of their band (see [[Map Generation Tooling]]). Vaelhesk has no sheet. **Next:** nothing.
+**Epic M — Town sheets and the new seats ✅ (2026-10-05).** It painted town and city sheets for the seats, added plain labels on [[The Known Map]] and the overlays, and drew the close plates in the map style of their region (see [[Map Generation Tooling]]). Vaelhesk has no sheet. **Next:** nothing.
 
-**Epic L — The lived world ✅ (2026-10-03).** It wrote how a place speaks ([[How a Place Speaks]]), faces on the years, the felt year, names, [[Nelath]] and the street, stock hearth-glances on [[Kinds of the Turning]], the guilds and three criminal houses, the work and the animals, and pointers for empty folders. **Next:** nothing. Canon, Cosmology, Themes, magic Practices, magic Phenomena, Images, and References stay empty.
+**Epic L — The lived world ✅ (2026-10-03).** It wrote how a place speaks ([[How a Place Speaks]]), how years, the seasons of a year, and names are met in a room (details in [[Roadmap]] Epic L), [[Nelath]] and the street, stock hearth-glances on [[Kinds of the Turning]], the guilds and three criminal houses, the work and the animals, and pointers for empty folders. **Next:** nothing. Canon, Cosmology, Themes, magic Practices, magic Phenomena, Images, and References stay empty.
 
 **Epic A — Atlas labels ✅ (2026-10-02).** Each selected painting has one labeled overlay, made by writing the names onto the unlabeled master. The note wins over the painting. Two city sheets were added for [[Maiethlir]] and [[Orentel]]. See [[The Atlas Sheets]]. **Next:** nothing.
 
@@ -59,7 +59,8 @@ Each paragraph says what the epic built and what is next. The history of each is
 - Write a reliable pre-Cut year-chronicle.
 - Set a power in the storm-wall to block the household.
 - Write riddles, label a fact "Inscrutable," or let a picture stand in for the fact. The rule is [[Conventions#Plain prose]].
-- Reopen the map pointers or the close plates, open a new epic for the ordinary house, or redraw a regional master for it.
+- Reopen the map pointers or the close plates, open a new epic for the map style of each region, or redraw a regional master for it.
+- Explain the heel, the salt, the wet leaf, the loud thaw, the fourth-fox word, or the Fungril spoonful. Keep the four open questions open, and leave two claimants on one green unwritten (see [[Roadmap]] Epic B).
 - Turn [[The Other Chip]], [[The Dry Slip]], [[The Ribboned Knife]], [[The Socket Ribbon]], or [[The One Knife]] into a keystone pin or a cutter's name.
 - Stock a construct people or a sixth adversary.
 - Explain the shallow-ford lead or the colour on the socket ribbon.
@@ -70,18 +71,18 @@ Two clocks stand: how you Turned, and where the wood has reached. The cutter is 
 
 Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fresh takes, not horror-movie clichés. Tone **~5% scary**.
 
-**Two-layer model:** **Kind** (born ancestry, mundane) +, for ~75%, a **Condition** (acquired becoming). They stack. *Becoming = Condition; born-that-way = Kind.*
+**Two-layer model:** **Kind** (born ancestry, mundane) +, for most people, a **Condition** (acquired becoming). They stack. *Becoming = Condition; born-that-way = Kind.*
 
-**Acquisition:** **Given** at the tenth-year Leaf-Fall at a town [[Turning Tree]], or **Struck** later. ~60% Given · ~15% Struck · ~25% Kept. Every Condition has a **Tithe** that never seizes the PC.
+**Acquisition:** **Given** at the tenth-year Leaf-Fall at a town [[Turning Tree]], or **Struck** later. The rest are Kept. The shares are on [[The Premise]]. Every Condition has a **Tithe** that never seizes the PC.
 
-**Roster:** **9 selectable Conditions** + [[The Unbound]] downstream of [[Bound]] (inside Bound's ~5%). **4 custom Kinds:** [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]].
+**Roster:** **9 selectable Conditions** + [[The Unbound]] downstream of [[Bound]] (inside Bound's share). **4 custom Kinds:** [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]].
 
 **Leaf-Mother:** a *belief* in player text. GM keystone: she is real, benevolent, bounded, and costly ([[Is the Leaf-Mother Real]]).
 
 ## Locked (do not re-litigate)
 
 - **Name:** _The Turning_. Everyday register; "The Turning Lands" is regional phrasing.
-- **Engine and math:** Given / Struck / Kept as above. Shares live only on [[The Premise]]. Unbound is inside Bound's ~5%. Returned ~7%. Both-path Struck ~1% of all people each.
+- **Engine and math:** Given / Struck / Kept as above. Shares live only on [[The Premise]]. Unbound is inside Bound's share. The Returned and the both-path Struck have their shares there too.
 - **Condition cards do not level.** Tithe clocks tick on a **long rest** unless a card names another trigger. → [[Conditions]]
 - **One Phoenix Gift.** Never two living Phoenix Conditions. Apparent two = leftover fire + a new Gift. Remnant is not a Phoenix. → [[When the Fire Is Caught]]. Fire immunity stays full. Hidden PC agency → [[A Hidden Phoenix]]. Opening → [[The Opening]].
 - **Vampire sink:** Long-Lived can have children; none are guaranteed to inherit. Deathless, not unkillable.
@@ -128,4 +129,4 @@ SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /r
 - Epic L — lived world. L.1 done 2026-09-29 → [[How a Place Speaks]]. L.2 done 2026-09-29 → faces on the years. L.3 done 2026-10-01 → the felt year. L.4 done 2026-10-01 → names in the room. L.5 done 2026-10-02 → [[Nelath]] and the street. L.6 done 2026-10-02 → stock hearth-glances on [[Kinds of the Turning]]. L.7 done 2026-10-02 → [[Craft Fellowships]] · [[The Watch and the Cohort]] · [[Movements]], and the three criminal houses under `05 - Factions/Criminal`. L.8 done 2026-10-02 → [[How the Work Is Done]] · [[A Made Thing]] · [[The Cart-Ox]] · [[The Terrace Goat]] · [[The Path Dog]] · [[Kin at the Door]] · [[What a Place Needed]] · [[The Name-Stone Bed]] · [[A Buyer for the Knife]]. L.9 done 2026-10-03 → sidebar pointers; Prototype 1, Prototype 2, and the label-trial image under `99 - Archive/Atlas/`.
 - Story P2.2 done 2026-10-02 → plain prose, [[Conventions#Plain prose]]. World book not rebuilt.
 - Story P2.3 done 2026-10-05 → [[Contradictions]] C-07, C-08, C-09. No map redrawn. Story P2.4 done 2026-10-05 → nothing the sweep touched was thin. Story 10.2 done 2026-10-05 → [[The Walk Home]] · [[The Offered Fragment]] · [[The Week Still Open]]. Endings stay undecomposed.
-- Epic S — the other seats. S.0 grill recorded 2026-10-03. S.1 done 2026-10-03 → [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]. S.2 done 2026-10-03 → [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]. S.3 done 2026-10-03 → [[Sanbreo]] · [[Vaelhesk]] (the land is the seat) · [[Natai]]. Epic M — town sheets and the new seats. M.1 done 2026-10-03 → Orentel piers · Maiethlir Grove Bank. M.2 done 2026-10-03 → Eolvaeth · Harrow's Green · the Mill-hold · Ornsael · Nelath · Ndenjoo. M.3 done 2026-10-03 → Seinbrun · Rothallo (the Inner Close, and the gate) · Larbril · Votaer · Raitin · Naenor · Lunbra · Braetu (and the quay) · Tasain · Sanbreo · Natai. Vaelhesk has no sheet and no dot. M.4 done 2026-10-05. Pointers on the maps that already exist. M.5 done 2026-10-04. Close plates and plans wear the ordinary house in [[Map Generation Tooling]]. Orentel stays the shore-lands model. Ndenjoo was already the Kumbaan house.
+- Epic S — the other seats. S.0 grill recorded 2026-10-03. S.1 done 2026-10-03 → [[Seinbrun]] · [[Rothallo]] · [[Larbril]] · [[Votaer]] · [[Tasain]]. S.2 done 2026-10-03 → [[Raitin]] · [[Naenor]] · [[Lunbra]] · [[Braetu]]. S.3 done 2026-10-03 → [[Sanbreo]] · [[Vaelhesk]] (the land is the seat) · [[Natai]]. Epic M — town sheets and the new seats. M.1 done 2026-10-03 → Orentel piers · Maiethlir Grove Bank. M.2 done 2026-10-03 → Eolvaeth · Harrow's Green · the Mill-hold · Ornsael · Nelath · Ndenjoo. M.3 done 2026-10-03 → Seinbrun · Rothallo (the Inner Close, and the gate) · Larbril · Votaer · Raitin · Naenor · Lunbra · Braetu (and the quay) · Tasain · Sanbreo · Natai. Vaelhesk has no sheet and no dot. M.4 done 2026-10-05. Pointers on the maps that already exist. M.5 done 2026-10-04. Close plates and plans use the map style of their region in [[Map Generation Tooling]]. Orentel stays the shore-lands model. Ndenjoo was already the Kumbaan house.

@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 There is no second system.
 
-[[How the Work Is Done]] is the hub. It lives beside this folder. [[Conditions]] stay in `09 - Creatures/Conditions`. A domain card stays on the SRD. A card does not Turn anyone.
+[[How the Work Is Done]] is the one account of the work. The Condition cards are described in [[Conditions]]. A domain card stays on the SRD. A card does not Turn anyone.
 
 ## Links
 

@@ -10,7 +10,7 @@ category: beast
 habitat: Rain-Shadow, Heskoren rough ground, Kumbaan terraces
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Terrace Goat
@@ -19,7 +19,7 @@ A goat gives milk, meat, hide, and dung, and it browses scrub other stock will n
 
 The house is afraid of the goat at two places. A terrace wall that gets knocked loose is a season of soil in the wrong yard. A well-share argument starts when the herd comes in and the coping is already crowded. The goat is not afraid of the wall. The goat is doing the job the scrub offered.
 
-A [[Two-Bodied]] person in a goat's body is a person. This animal is a goat. It is not breeding stock for a guild, and it is not a sixth adversary beside the five on [[Dangers of the Turning]].
+A [[Two-Bodied]] person in a goat's body is a person. This animal is a goat. It is not breeding stock for a guild.
 
 ## Links
 

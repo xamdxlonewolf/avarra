@@ -137,7 +137,7 @@ Struck Book-hands must still be **vouched anew**. Civic settling is how the hous
 |---|---|---|
 | [[The Tree-Wardens]] | Leaf-Fall as festival *and* signing-watch. On Lestrand they share a square and ignore each other's sentences. | Gift-language vs. debt-language over the same Bound soul. A Bound warden is the seam; a Bound Book-hand is the house at home. |
 | [[The Watchers]] | Rarely share a square. "What falls, was seen" sounds, to a Settler, like a clause with no number. | A Bound who wants a second reading of an oath-day and a Watcher who will not call it a signing. |
-| [[The Old Ways]] | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first — kin, or payable year. Play as two courtesies, not a trial. |
+| [[The Old Ways]] | A door-keeper names a Struck *kin* at the door that made them; a Book-hand settles the civic year at a table. Sometimes the same week, same person. | Which name goes first — kin, or payable year. It is two courtesies, not a trial. |
 | [[The Open Table]] | A Settler who sits a moon-feast twice has been called kin in a language with no book. | "No one is a stranger twice" is not a term in any book. There is no Leddoren mission on [[The Sundering Isle\|Kumbaan]]. |
 | [[The Holding Desk]] | Upstairs / downstairs. A Settler who marked *owing* has made a customer. | A clerk who follows a customer down the stair has started a case. The honest stamp and the hold do not share a docket, and a personhood case can start there. |
 

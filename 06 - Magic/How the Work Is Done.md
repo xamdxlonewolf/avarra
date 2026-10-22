@@ -10,7 +10,7 @@ category: system
 taboo: false
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # How the Work Is Done
@@ -35,7 +35,7 @@ A licence is still a licence. [[The Stillers]] stamp a Gaze. [[The Hall-Keepers]
 | **Midnight** | A shut door, a night's work, a trade that does not want a square. [[The Slide]] keeps its own note. |
 | **Sage** | Ground, herd, weather, the bark of a young graft. A greens-keeper's eye. [[The Taken-In]] remain their own card. |
 | **Splendor** | The room after harm. Wash, light, a pot, the table once a stiller's gaze is done. Phoenix fire stays on [[Phoenix]]. |
-| **Valor** | Standing a gap. A flood-wall. A child walked to a sound Hand. [[The Watch and the Cohort]] is the civic hold and the send. |
+| **Valor** | Standing a gap. A flood-wall. A child walked to a sound Hand. [[The Watch and the Cohort]] is the civic hold, and the watch that sends a cohort. |
 
 An Answered who also carries an Arcana card has a Tithe and a craft. Idle still means what [[The Answered]] already says. A Kept person with the same card has the craft, and no element that lets go in a crowded room. The town can tell those two people apart by the work, and by whether the workshop has a plan for a day off.
 

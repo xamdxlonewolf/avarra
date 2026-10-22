@@ -30,7 +30,7 @@ updated: 2026-10-22
 | **Have** | the loft-slate; who sleeps; which winter is a product |
 | **Fear** | Ledan reading the north bed onto a term they wrote |
 | **Live conflict** | empty is waste; empty is house custom |
-| **Hooks** | a necessity-note from a sent household; [[Reimaethe]]'s room; the north bed; a court that wants a Cut-year |
+| **Hooks** | a necessity-note from a household Vaethod sent toward another Tree; [[Reimaethe]]'s room; the north bed; a court that wants a Cut-year |
 
 ## Summary
 
@@ -70,6 +70,6 @@ They cannot rewrite Ledan's count. They cannot let the north bed. They can lose 
 - **Pattern:** Competence Trap, with a Structural Innocent's blindness. The job requires believing the conversion.
 - **Arc (forkable, default positive).** *Lie:* the house is a bank that happens to have rooms; if I file occupancy correctly I will be seen. *Ghost:* Sorel's paper, and a childhood of being told the north bed was "not our business." *Need:* see that house custom *is* the credit. *Catalyst:* a court, or Ledan, or a necessity-family who remembers a ford Mataero filed as a term. *Negative fork:* they get the quay-desk by letting the north bed, and become the bank.
 - **Lock-in:** knowledge + skill. They have seen the founding-book's Held names as tokens. They are the only junior who can find a bed this Eolthael without asking the desk.
-- **Competing interests:** Ledan (the house answers as one desk); Sorim (holds, not beds); Sorel (to die off the paper, or to understand it); Thilim (who will be here at dark); a sent household's grandchild (eat now, pay a walk they cannot point to).
+- **Competing interests:** Ledan (the house answers as one desk); Sorim (holds, not beds); Sorel (to die off the paper, or to understand it); Thilim (who will be here at dark); the grandchild of a household Vaethod sent toward another Tree (eat now, pay a walk they cannot point to).
 - **Did not walk.** The wave is over because the bed-house collected. That is the blindness.
 - **Do not** have Ledan explain the north bed in the first scene. Do not move Thilim here. Do not make this house Orentel's government.

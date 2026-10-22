@@ -39,12 +39,13 @@ Infirmary-tired. Grey under the nails from other people's stone. They do not tal
 
 ## Links
 - [[People of the Turning]] · [[Tesara]] · [[Taeren]]
-- [[The Stillers]] · [[The Protectors]] · [[Orentel]] · [[Harrow's Green]]
-- [[Phoenix]] · [[The Opening]] · [[A Hidden Phoenix]]
+- [[The Stillers]] · [[Orentel]] · [[Harrow's Green]]
+- [[A Hidden Phoenix]]
 - [[08 - People]]
 
 ## GM Notes
 
+- **Links:** [[The Protectors]] · [[Phoenix]] · [[The Opening]]
 - **The house is [[The Protectors]].** Rosire had a key to a prepared room in the house that catches Phoenix fire and keeps it hidden. The door they opened let a person walk out of that room. This is one hand with a key they no longer have.
 - **Keep out of the player body:** how fire is caught or stored, Vimein's inner court, and any chosen defector-hero. Do not script a reunion with [[Taeren]].
 - **Tells.** A closed travelling-lamp they will not call a relic. A flinch at a room that has been cleared and laid with sand, and a prepared-room habit they cannot hide from someone who has seen one. They are small tells, and they are not a confession in scene one.

@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 > Writes the quay-desk of [[The White Note House]]. [[Long-Lived]]. The Cut-year 280 conversion-query is theirs.
 
-*(LED-an.)* Eroded drift. Of the third quay, north side. A neighbour on the quay says Ledan. A stranger gets Ledan of Orentel. While the paper is open a clerk may write White Note, Ledan, and it is the desk. Shut the paper and the name is Ledan of the third quay. There is no family. On Kumbaan the name is Ledan. They are the clerk at the desk, not a seventh pivot.
+*(LED-an.)* Eroded drift. Of the third quay, north side. A neighbour on the quay says Ledan. A stranger gets Ledan of Orentel. While the paper is open a clerk may write White Note, Ledan, and it is the desk. Shut the paper and the name is Ledan of the third quay. There is no family. On Kumbaan the name is Ledan. They are a clerk at the desk.
 
 ## At a glance
 

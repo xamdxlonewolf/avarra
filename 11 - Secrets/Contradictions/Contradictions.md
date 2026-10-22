@@ -21,27 +21,31 @@ updated: 2026-10-22
 
 ## Open
 
-Found by [[Vault Audit 2026-10-22]] (Epic V). The user answered the report in Story V.3. C-19 is fixed. The rest are fixed in Story V.4 and then move to a resolved table. Line numbers are from 2026-10-22.
+None. C-10 to C-24, found by [[Vault Audit 2026-10-22]], were fixed in Story V.4 and are in the table below.
 
-| ID | What | Notes that disagree | Proposed winner |
-|---|---|---|---|
-| **C-10** | The Kept counted as rare. "Nearly every child is Given" is the Walled Book's false lesson, written as fact | [[Maiethorn]] 26, 42, 64 · [[The World Frame]] 58 · [[The Reckoning of the Year]] 93 · [[Maiethvael]] 42 · [[The Leaf-Mother]] 59 ("~25%" for the hug share) — against [[The Premise]] and [[The Walled Book]] 57 | The Premise. **The user allowed regional drift (2026-10-22):** Maiethorn has more Given than the world as a whole, and a hug there is less common, not rare |
-| **C-11** | A child who missed the Tree called Kept | [[Heskoren]] 26 · [[Named Ground]] 42 — against [[Turning Tree]] and [[At the Table]] | Turning Tree: that child is UnTurned |
-| **C-12** | Kumbaan still "near-Treeless", "no healthy Trees". A leftover of C-06 | [[The World Frame]] 52, 61 · [[The Sundering Isle]] 18, 40 — against [[Climate of Kumbaan]] and C-06 | Climate of Kumbaan: no Tree, no graft ever crossed |
-| **C-13** | "Only one crown keeps a list of persons" | [[Law and Citizenship]] 28 · [[Polity Archetypes]] 94 · [[Naming in the Turning]] 59 — against [[Trenledd]] and [[How a Place Speaks]] 111 | Trenledd and How a Place Speaks |
-| **C-14** | A second population table with its own totals | [[Economy and the Tithe]] 34–37 — against [[The Premise]] (sole census, Story R.1) | The Premise. Replace the table with a link |
-| **C-15** | Long-Lived children "do not inherit" | [[Economy and the Tithe]] 122 — against [[Daily Life]] 30 and the [[Build Plan]] lock | The lock: none are guaranteed to inherit |
-| **C-16** | Death by drowning Strikes the Far-Voiced | [[Selkie]] 35 — against [[Far-Voiced]] | Far-Voiced: surviving a drowning. Dying is the Returned threshold |
-| **C-17** | The Stilled "petrify" | [[Law and Citizenship]] 102 — against [[The Stilled]] and [[Daily Life]] 44 | The Stilled: the gaze does not petrify and does not harm |
-| **C-18** | Narol of the Pass alive and levying | [[Lirorn]] 38 — against [[Narol of the Pass]] and [[Tasain]] 39 | Narol's note: Narol is dead, and the household still levies |
-| **C-19** | Sanbreo on the West Water coast | [[Sanbreo]] 36 — against [[The Known Map]] 28 (Ornled on the west, by the last capes) | **Fixed 2026-10-22.** The user let the agent pick from the atlas sheets. Sanbreo is on the west coast, the slate-shore, facing the last capes and the storm-wall, as on the Heskoren sheet, [[Ornled]], and The Known Map. The note was corrected and both Sanbreo town sheets were mirrored so their sea is west |
-| **C-20** | Two-Bodied given a Struck path | [[Far-Voiced]] 64 — against [[Two-Bodied]] 36 | Two-Bodied: Given only |
-| **C-21** | Reimaethe gives years one at a time | [[Reimaethe]] 22, 26 — against [[The Pourers]], [[The Unspent]], [[Long-Lived]] (asked once, five years at one time) | **Decided 2026-10-22: Reimaethe wins.** The user said a member gives one year at a time. The Pourers, the Unspent, Long-Lived, the Library pages, and the history change in V.4 (see the V.3 recorded decisions on [[Roadmap#Epic V — Read the whole vault]]) |
-| **C-22** | Methei held to the beds | [[Methei]] 21 — against [[The Walled Book]] 53, 127 (a person with a Condition can walk out; the turns of work are owed by people who live inside the walls) | The Walled Book |
-| **C-23** | The Yumboe called a nation | [[Yumboe]] 25 — against the lock that Kinds are not nations and [[Kinds of the Turning]] | Kinds of the Turning |
-| **C-24** | The guest-grove called Vaelun's | [[The Watchers]] 36, 147 · [[The Door-Keepers]] 126 · [[05 - Factions]] 22 · [[The Tree-Wardens]] 178 — against [[The First Bowl]] and [[The Three Hamlets Past the Ford]] | The First Bowl |
+## Resolved in Epic V (2026-10-22)
 
-**Resolved entries with leftovers.** C-01 (scaffolding in player bodies), C-04 (house-name markers), and C-07 (Rothallo called a town) were closed, but the audit found hits still in the notes they name. They stay resolved as decisions. The leftover lines are in the V.4 fix list, not reopened here.
+Found by [[Vault Audit 2026-10-22]]. The user answered the report in Story V.3, and the fixes were made in Story V.4. The decisions are the V.3 recorded decisions on [[Roadmap#Epic V — Read the whole vault]].
+
+| ID | What | Resolution |
+|---|---|---|
+| **C-10** | [[Maiethorn]], [[The World Frame]], [[The Reckoning of the Year]], [[Maiethvael]], and [[Nelath]] counted the Kept as rare, which is what [[The Walled Book]] teaches. [[The Leaf-Mother]] gave "~25%" for the hug share | The user allowed regional drift. Maiethorn has more Given children than the world as a whole, so a hug is less common there, not rare. "A hug is rare" is now written as the Close's lesson. The Leaf-Mother note has no number; shares stay on [[The Premise]] |
+| **C-11** | [[Heskoren]] and [[Named Ground]] called a child who missed the Tree Kept | Turning Tree wins: that child is UnTurned. The same fix was made in the history notes ([[The Walking Years]], [[A History of the Turning]], [[The Ages of the Turning]], [[The Closing]], [[The Library Pages]], [[02 - History]]) and in [[The Premise]] and [[Is the Leaf-Mother Real]]. Folk may still call such a child Kept; the narrator does not |
+| **C-12** | [[The World Frame]] and [[The Sundering Isle]] still said Kumbaan was "near-Treeless" | Both now say Kumbaan has no Tree and no graft ever crossed. "Near-none" stays only as the reach label |
+| **C-13** | [[Law and Citizenship]], [[Polity Archetypes]], and [[Naming in the Turning]] said only one crown keeps a list of persons | Two crowns keep a roll of persons: the Tallied Crown calls its roll holy, and [[Trenledd]] does not. The Walled Book's heir-roll lists only its own heirs |
+| **C-14** | [[Economy and the Tithe]] kept a second population table with its own totals | The table now lists the buckets by Condition name and points at the share table on [[Conditions]] |
+| **C-15** | [[Economy and the Tithe]] said Long-Lived children do not inherit | Now: not guaranteed to inherit; most age and die |
+| **C-16** | [[Selkie]] said death by drowning Strikes the Far-Voiced | Now: surviving a drowning |
+| **C-17** | [[Law and Citizenship]] said a Stilled could petrify a citizen | The charge is now holding a citizen still. [[The Stilled]] card no longer says the gaze can hold a person "forever"; it can leave a person helpless in a fight |
+| **C-18** | [[Lirorn]] said Narol of the Pass still levies | Narol is dead. The household that inherited the toll still levies. [[Tasain]] and [[People of the Turning]] agree |
+| **C-19** | [[Sanbreo]] on the West Water coast | Fixed in V.3. Sanbreo is on the west coast, the slate-shore, facing the last capes and the storm-wall. The two Sanbreo town sheets were mirrored |
+| **C-20** | The [[Far-Voiced]] caption called Two-Bodied both Given and Struck | Now: a common Condition, Given only |
+| **C-21** | [[Reimaethe]] gave years one at a time; [[The Pourers]], [[The Unspent]], and [[Long-Lived]] said five years at one time | The user decided Reimaethe is right. A Long-Lived is asked once to join. A member gives one year at a time, each on its own night with its own minutes, five in all. [[Minutes of a Gift]] is now the minutes of K.'s fifth year. The history and the Library pages match |
+| **C-22** | [[Methei]] held to the beds | Methei owes a turn on the outer beds and can walk out of the gate on any open day. The Walled Book wins |
+| **C-23** | [[Yumboe]] called a nation | Now "people". Kinds are not nations |
+| **C-24** | [[The Watchers]], [[The Door-Keepers]], [[05 - Factions]], and [[The Tree-Wardens]] called the guest-grove Vaelun's | The guest-grove is [[The First Bowl]] in every note |
+
+**C-01, C-04, and C-07 leftovers.** The audit found lines that these resolved entries had missed. They were fixed in Story V.4: scaffolding and GM orders moved out of the player bodies, no house-name marker is left in player text, and Rothallo is a walled city in every note outside the paintings and the map prompts. The entries stay as they were.
 
 ## Resolved in the sweep after L, S, and M (2026-10-05)
 
@@ -73,7 +77,7 @@ Checked, and not a conflict: the new seats' habit counts and people match the gr
 
 | ID | What | Resolution |
 |---|---|---|
-| **C-05** | Seed geography vs one-square opening | [[Taeren]] said "thin Tree off the live front, not of Harrow's"; [[Rosire]] sat Tesara's shed in [[Orentel]]. Session one needed one existing square, both seeds on-screen, no new town, no Care-fortress. **Sat:** [[Harrow's Green]], Hale-month C.Y. 387. Taeren is of Brenod; the fall was last Eolthael's neighbour's week; they are still in the square because Haelin will not Speak white and the witness never walked home. Rosire left Tesara's floor and lodges the upper room with the walker. Tesara notices the absence and stays in Orentel. [[Reimaethe]] and [[Hithaen]] stay offstage. Kit: [[The Opening]]. |
+| **C-05** | Seed geography vs one-square opening | [[Taeren]] said "thin Tree off the live front, not of Harrow's"; [[Rosire]] sat Tesara's shed in [[Orentel]]. Session one needed one existing square, both seeds on-screen, no new town, no Care-fortress. **Sat:** [[Harrow's Green]], Hale-month Cut-year 387. Taeren is of Brenod; the fall was last Eolthael's neighbour's week; they are still in the square because Haelin will not Speak white and the witness never walked home. Rosire left Tesara's floor and lodges the upper room with the walker. Tesara notices the absence and stays in Orentel. [[Reimaethe]] and [[Hithaen]] stay offstage. Kit: [[The Opening]]. |
 
 ## Resolved in P2.1
 

@@ -51,7 +51,7 @@ The wall is old. It was closed in the Retreat, not raised to make a new kingdom.
 
 The work happens where the **Book of Tithes** is kept, inside the walls.
 
-[[The Walled Book|Delamem]] keeps the Book. The pages assign taxes, restrictions, and labour. The Tithe a person already carries is not the assignment. The assignment sits on top of it. They will not call the Book a scripture. They will not Speak a colour. Talnin is still the heir whose tenth year is not finished. Delamem is the Book's keeper and Talnin is its heir.
+[[The Walled Book|Delamem]] keeps the Book. The pages assign taxes, restrictions, and labour. The Tithe a person already carries is not the assignment. The assignment sits on top of it. They will not call the Book a scripture. They will not Speak a colour. Talnin is still the heir whose tenth year is not finished.
 
 A neighbour in the city says a given name. A clerk says the **house first**, then the given name. *Closed* on a roster is a rank, not a second name. The line can cast a person out and keep the house on them.
 
@@ -77,7 +77,7 @@ A Closed child, the week before the tenth year, leaves one shoe by the Book's st
 
 ## People
 
-Three new people. They are not a replacement for Delamem or Talnin, and not a court beyond them.
+Three people. They are not a replacement for Delamem or Talnin, and not a court beyond them.
 
 - **[[Brimaen]]** — neighbour inside the walls. House **Lanbru**. A neighbour says Brimaen. A clerk says Lanbru, Brimaen.
 - **[[Breolnir]]** — gate clerk. House **Tethnae**. The file is Tethnae, Breolnir. A neighbour still says Breolnir.

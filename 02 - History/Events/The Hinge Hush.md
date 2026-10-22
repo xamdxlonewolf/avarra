@@ -35,7 +35,7 @@ The hush is a rate, a clause, and a refusal to write a winner. The Hinge Shore k
 
 [[Netstrand]] was not a third belligerent. It was the shore that faces the other ocean. The hush includes a clause both signatories needed: **who may quote the far crossing, and who may land it on [[Heskoren]]'s frontier coast.**
 
-- Netstrand keeps the hulls. That is why the prestige-walk's ship is theirs to charter *in* to the Old Crossing, and why the far crossing is their leftover.
+- Netstrand keeps the hulls. That is why the prestige-walk's ship is theirs to charter *in* to the Old Crossing, and why the far crossing is theirs.
 - [[Saelvaeth]] may receive a pot without a Vaethorn blessing-price attached as a landing-due. The march hated that sentence and still uses it.
 - [[Polity Archetypes|Vaethorn]] may bless a landing and may not levy it as if the hush were a gospel.
 - [[Ornled]] is written as *slate-shore*: no hymn-due, no compact-due, a fee if a hull wants a beach. They were not asked. They are on the clause anyway.
@@ -71,7 +71,7 @@ A Saelvaeth town waiting on last year's ship can hold the same copy and still be
 ## Consequences
 
 - **The current Old Crossing border is a rate.** Not a mythic frontier. Not an unnamed eternal peace.
-- **Netstrand's leftover has a clause.** Hulls, not a mystery-badge. The *neth* on the shore stays unsolved ([[Netstrand]]).
+- **Netstrand's share of the peace is a clause about hulls,** not a mystery-badge. The *neth* on the shore stays unsolved ([[Netstrand]]).
 - **Heskoren's four inherit landings, not a conquest.** Bless / pot / slate / meal — four answers to one clause.
 - **Orentel is still not crowned.** The White Note did not sign. Sorim holds a berth the hush made cheaper to keep.
 

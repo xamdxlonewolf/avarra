@@ -37,7 +37,7 @@ Other towns where a graft has taken stay unnamed. Hamlets and waiting clusters b
 
 [[Harrow's Green]] stays the live-front square it already is: the neighbour's canopy, Haelin's stone, the upper room. It is not the march's seat, and it is not a capital. [[The Three Hamlets Past the Ford]] stay the three hamlets. Brenod, Vaelun, and Ornath stay their kitchens. The ford stays the ford.
 
-The Hush lets this march take a pot without a Vaethorn waiting-due. The due that remains is local. Someone has to stand where the queue can be shouted at. Someone has to stand there, and that is why this town has the office.
+The Hush lets this march take a pot without a Vaethorn waiting-due. The due that remains is local. Someone has to stand where the queue can be shouted at, and that is why this town has the office.
 
 Natai's office takes complaints about the queue for grafts: which towns get a pot, and when. The neighbour's week of need still happens at Harrow's. What sits here is the blame.
 
@@ -51,7 +51,7 @@ The gate is not Harrow's square, and it is not the ford. The voice stands at the
 
 The work is the **march-voice**, the office that answers for the queue.
 
-[[Dumu]] stands it. A neighbour says Dumu. A stranger hears Dumu of Natai. There is no house to put first. The Sown Waiting does not keep a person-list. The voice did not exist when the first pots came. It exists so the sentence the Seat already wrote has a person who can be blamed for it. Dumu hears the complaint and answers for the queue to whoever is angry. Dumu cannot decide where a pot goes and cannot move the wood into the next pocket.
+[[Dumu]] stands it. A neighbour says Dumu. A stranger hears Dumu of Natai. There is no house to put first. The Sown Waiting does not keep a person-list. The office did not exist when the first pots came. The Seat's ruling about who gets a pot has no one to answer for it, and the office is that person. Dumu hears the complaint and answers for the queue to whoever is angry. Dumu cannot decide where a pot goes and cannot move the wood into the next pocket.
 
 Haelin keeps Harrow's square. Tora of Brenod keeps the walk from the ford. Dumu keeps this gate.
 

@@ -40,7 +40,7 @@ A book, if there is one, is closed where the gang can see. The salt on the roots
 
 ## In a waiting town
 
-[[Eolvaeth]] does not send to a luckier Hand for a warden. If the warden is in the vale, they may walk. If the town sent its children elsewhere to Turn that summer, the town buries with the people who stayed. The pot is the gift-hall's. Food goes to the door the person kept. The wet leaf on the spring is the spring's business. It is not a funeral token ([[Eolvaeth]]).
+[[Eolvaeth]] does not send to a Tree-town with a warden to spare. If the warden is in the vale, they may walk. If the town sent its children elsewhere to Turn that summer, the town buries with the people who stayed. The pot is the gift-hall's. Food goes to the door the person kept. The wet leaf on the spring is the spring's business. It is not a funeral token ([[Eolvaeth]]).
 
 ## At the hill
 

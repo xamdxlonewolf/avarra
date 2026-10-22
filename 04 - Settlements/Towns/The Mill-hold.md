@@ -53,7 +53,7 @@ Water for people is not the crisis. There is drink. There is too much of it *in 
 - **The culvert** — brick and timber under the square, older than the mill-house's present roof. Climbing-scuff on the lip from children who have heard a stone-story. Shovels. A smell of wet bark. Mill-foam holds on the lip a day after the race is drawn down.
 - **The mill-race** — the town's bread and its name. Opening the culvert to save the Hand lowers the race. Harvest is not theoretical.
 - **The neighbour-slate** — chalked on the mill-door, not on a warden-lath. Names of this year's ten-year-olds, and which Brenthael household has room. Verso is Meirim's marks, when they arrive. Recto is Talen's.
-- **The upper room** — used to sleep the extra mile going *in*. This Hale-month it sleeps the necessity-column going the same way, for a different reason. Not a merchant-loft yet. Not a third theme.
+- **The upper room** — used to sleep the extra mile going *in*. This Hale-month it sleeps the necessity-column going the same way, for a different reason. Not a merchant-loft yet.
 - **The greens** — potted, hauled off the wet. No lush lot. The Taken-In here are neighbours. Milsun's planting sits above the race on purpose.
 - **The ranging** — at the edge, not a quarter. Mixed Kinds. No Kind-flag on the mill.
 - **The far shed** — Returned work downwind of drink and grain. No infirmary.

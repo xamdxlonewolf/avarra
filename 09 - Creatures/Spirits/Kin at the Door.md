@@ -31,7 +31,7 @@ A return is a Returned person. They have a card, a Purpose, and a neighbour's li
 
 ## What the other faiths do not add
 
-[[The Watching]] keeps the Tree as the Tree. [[Maieth]] is a belief beside [[The Leaf-Mother]]. [[The Open Table]] keeps a table. Those two are the only spirit-like things the faiths describe.
+[[The Watching]] keeps the Tree as the Tree. [[Maieth]] is a belief beside [[The Leaf-Mother]]. [[The Open Table]] keeps a table. A door and a return are the only spirit-like things the faiths describe.
 
 ## Links
 

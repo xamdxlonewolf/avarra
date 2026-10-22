@@ -33,7 +33,7 @@ Common speech only. These handles are already in everyday speech, worn by the dr
 | **a warden** | **the Reckoned Hands** | **Hands-folk** | **a tree-tender** | **the loud guest** |
 | **a graft** | **a Hand carried in** | **a carried Thallow** | **a carrying** | **their cutting** |
 
-**The core.** A neighbour in [[Maiethlir]] or the Tallied Crown says **Maieth** in the street, the way another town says *the Mother*. The polity's own street-name is still **the Tallied Crown**. **The Mother's Hand** is the Tree that can already speak a colour. Wood that has been brought and set, and cannot yet Turn, is **a Hand carried in**. At the rite they say **a keeping**. The Tallied Crown's desk has another word for that child, and the square leaves it on the desk. [[Maiethvael]] shares **Maieth** and **the Mother's Hand**, and calls the warden a **tree-warden**. **The Reckoned Hands** is the crown's word.
+**The core.** A neighbour in [[Maiethlir]] or the Tallied Crown says **Maieth** in the street, the way another town says *the Mother*. The polity's own street-name is still **the Tallied Crown**. **The Mother's Hand** is the Tree that can already speak a colour. Wood that has been brought and set, and cannot yet Turn, is **a Hand carried in**. At the rite they say **a keeping**. The Tallied Crown's clerks file that child as *unmarked*; the square does not use that word. [[Maiethvael]] shares **Maieth** and **the Mother's Hand**, and calls the warden a **tree-warden**. **The Reckoned Hands** is the crown's word.
 
 **Waiting speech, and the live front.** Careful prayer puts the thorn back, and **Maieth** returns for as long as the prayer is open. The kitchen says **Mait**. **The Thallow** is the Tree. A colour is **the gift**; a no-colour is still **a hug**, and they do not dress it as a prize. Young wood on the road is **a carried Thallow**. On the live front, until it can Turn, people say **the wood**.
 
@@ -99,7 +99,7 @@ Live front, same length, same phrase, the other repeat:
 
 ## What they ask you
 
-The second name is locked. The rule, and the worked rows for what you say when asked, live in [[Naming People in the Turning#House-names — where a list outlives the witness]]. Those rows stay as they are.
+The rule for the second name, and the worked rows for what you say when asked, are in the house-name section of [[Naming People in the Turning#House-names — where a list outlives the witness]].
 
 | Who is asking | What you give |
 |---|---|
@@ -120,7 +120,7 @@ Kumbaan asks neither. The given name is the name. A mainland house, or a mainlan
 
 - [[The Old Tongue]] — the three drifts, the thorn, the written names
 - [[Naming in the Turning]] — the same thing, three street-words, by stance
-- [[Naming People in the Turning]] — the locked second name; what you say when asked
+- [[Naming People in the Turning]] — the second name (byname or house-name); what you say when asked
 - [[Turning Tree]] — Hand, hug, colour, graft · [[The Leaf-Mother]] · [[The Tree-Wardens]]
 - [[What the Year Feels Like]] — the year those tones spend · [[How the Week Is Kept]]
 - [[Polity Archetypes]] — the Waiting Lands, the Ledger Coast, the Tallied Crown

@@ -13,7 +13,7 @@ updated: 2026-10-22
 
 # Daily Life
 
-> **What this is.** What it is to marry, raise children, fall ill, and live in a town when **3 of 4 people carry a [[The Premise|Condition]]**. Almost everything is warm, ordinary, and lived-in, with a real ache underneath in some cases. It rests on [[Law and Citizenship]] and [[Economy and the Tithe]]. The last section says how the ~15 polities vary.
+> **What this is.** What it is to marry, raise children, fall ill, and live in a town when **3 of 4 people carry a [[Conditions|Condition]]**. Almost everything is warm, ordinary, and lived-in, with a real ache underneath in some cases. It rests on [[Law and Citizenship]] and [[Economy and the Tithe]]. The last section says how the ~15 polities vary.
 
 > **Names.** Institutions and customs use plain descriptive terms here. Each has a common-tongue name, and each polity says it its own way, in [[Naming in the Turning]]. The root language is [[The Old Tongue]].
 
@@ -39,13 +39,13 @@ A few threads worth pulling:
 
 ## Medicine — miraculous, and strange to outside eyes
 
-Medicine in The Turning is genuinely astonishing for a [[The Premise|late-medieval world]], and it is astonishing for one reason: **the [[The Premise|Condition-labor advance]] shows up hardest at the sickbed and the deathbed.** Two Conditions turn medicine into something a world of this technology should not have — and to anyone from outside, a Turning clinic is a deeply *uncanny* place, wonder and wrongness in the same room.
+Medicine in The Turning is genuinely astonishing for a late-medieval world, and it is astonishing for one reason: **the [[Conditions|Condition-labor advance]] shows up hardest at the sickbed and the deathbed.** Two Conditions turn medicine into something a world of this technology should not have — and to anyone from outside, a Turning clinic is a deeply *uncanny* place, wonder and wrongness in the same room.
 
 **The [[The Stilled|Stilled]] are the surgeons.** A stiller's gaze **arrests motion** — it holds a wound from bleeding, slows a poison's spread through the blood, keeps a patient perfectly still under the knife without holding them down. It does not petrify and does not harm; it simply *stops* what is moving for a beat. In a world with no anaesthetic worth the name and no way to halt a hemorrhage, this is the difference between a survivable operation and a death. The best surgeons in the world are Stilled, and a great infirmary is built around them. But sit in that operating room as an outsider and watch what it *is*: a surgeon whose flat, patient gaze freezes the blood in your veins on command, working fast because the Grey is filling in them as they work (their Tithe — using the Gaze fills a clock that, left full, locks *their own* limb to stone). They drill and spar between patients to burn it off. The most gifted healers in the world are also the most tightly **licensed** and quietly **feared** (see [[Law and Citizenship]]) — the same gaze that saves you on the table is the one the law watches hardest. Wonder and dread, one person, one room.
 
 **The [[Returned]] do the work that kills the living.** Plague wards, mine collapses, the recovery of bodies from places the living cannot safely go, and the tending of the dead — this is Returned work, done by those death cannot take a second time until their Purpose is met. A Turning mortuary is staffed by the dead, calmly and well; a plague ward that would empty a town's living physicians is walked by Returned who are unshaken by rot and contagion. To an outsider this is ghoulish. Inside, it is simply **respected** — the Returned are the reason a plague does not take the doctors too, and everyone knows it. There is a real tenderness in it, too: no one speaks for the dead, or tends them, as gently as someone who has been dead.
 
-**The rest of medicine is ordinary — and ordinarily unequal.** Midwives, bonesetters, herbalists, the [[The Answered]]'s craft turned to apothecary and instrument-making — the everyday care of a 1400s town, better staffed than ours because more of the population carries a useful becoming. But the Condition-medicine that makes this world exceptional is **not evenly available.** The great Stilled infirmaries and the deathless-endowed hospitals cluster in the rich, Tree-dense core (see [[Economy and the Tithe|center and periphery]]); the frontier makes do with a travelling stiller if it is lucky and a rope-and-prayer if it is not. And the deepest inequity is the one [[Economy and the Tithe|Tithe-poverty]] already named: **you can be too poor to stay whole,** and the medicine that treats a lapsing Condition is exactly the medicine the poor can least reach. The miracle is real. So is the queue outside it.
+**The rest of medicine is ordinary — and ordinarily unequal.** Midwives, bonesetters, herbalists, the [[The Answered]]'s craft turned to apothecary and instrument-making — the everyday care of a late-medieval town, better staffed than ours because more of the population carries a useful becoming. But the Condition-medicine that makes this world exceptional is **not evenly available.** The great Stilled infirmaries and the deathless-endowed hospitals cluster in the rich, Tree-dense core (see [[Economy and the Tithe|center and periphery]]); the frontier makes do with a travelling stiller if it is lucky and a rope-and-prayer if it is not. And the deepest inequity is the one [[Economy and the Tithe|Tithe-poverty]] already named: **you can be too poor to stay whole,** and the medicine that treats a lapsing Condition is exactly the medicine the poor can least reach. The miracle is real. So is the queue outside it.
 
 ## Living in a Turning town — the shape a city takes
 
@@ -61,7 +61,7 @@ A city here is shaped by a fact no other world's city faces: **most of its adult
 
 ## How polities vary
 
-Everyday life varies along the same three axes as law and economy ([[Law and Citizenship#How polities vary]]: theology, reach, governance). Three recurring stances:
+Everyday life varies on the same three things as law and economy ([[Law and Citizenship#How polities vary]]: theology, reach, governance). Three recurring stances:
 
 **The Warm** *(high theology).* Family, medicine, and civic life all carry the gift-theology: a child's Turning is a joyous sacrament, mixed households are blessings compounded, Tithe-provision is a public good offered in the open, and the sick are tended as people whose gifts must be kept whole. **Its soft injustice reaches the hearth:** the Kept child is *pitied* for being passed over, marrying "beneath your gift" is quietly frowned on, and a family is expected to spend its members' Conditions as the community sees fit — love and pressure wearing the same warm face.
 
@@ -69,14 +69,14 @@ Everyday life varies along the same three axes as law and economy ([[Law and Cit
 
 **The Frontier** *(low reach).* Thin infrastructure, thin medicine, thin ceremony. Families improvise their own Tithe-provision or do without; a travelling stiller is a rare blessing; the [[The Taken-In|Taken-In]] whom core cities keep at social arm's length are *neighbours and kin* here, the backbone of the place. Freer (no one polices your marriage or your gift) and harsher (a lapsing Condition with no infirmary to reach, an untrained Struck child with no guild to catch them). Warmer in feeling, poorer in safety-net.
 
-A place's daily texture is set by all three axes at once. A devout frontier holds joyous Turnings with almost no infirmary behind them; a secular Tree-rich republic has superb medicine and a marriage market that shrugs at theology; a Watchful-and-pious core turns the sacrament of a child's Turning into a state census with a hymn over it.
+A place's daily texture is set by all three at once. A devout frontier holds joyous Turnings with almost no infirmary behind them; a secular Tree-rich republic has superb medicine and a marriage market that shrugs at theology; a Watchful-and-pious core turns the sacrament of a child's Turning into a state census with a hymn over it.
 
 ## Links
-- [[Law and Citizenship]] — the legal grammar (witnessed citizenship, the Inviolate Will) · [[Economy and the Tithe]] — the economic grammar (Tithe-provision, deathless inheritance) this rests on
-- [[The Premise]] — world scale & register · [[Turning Tree]] — the civic/sacred heart every town organizes around · [[The Leaf-Mother]]
+- [[Law and Citizenship]] — the law (witnessed citizenship, the Inviolate Will) · [[Economy and the Tithe]] — the economy (Tithe-provision, deathless inheritance) this rests on
+- [[Turning Tree]] — the civic/sacred heart every town organizes around · [[The Leaf-Mother]]
 - [[What the Year Feels Like]] — the felt year. This note stays the household.
 - [[Conditions]] — the roster · [[Long-Lived]] · [[Returned]] · [[The Stilled]] · [[Two-Bodied]] · [[Far-Voiced]] · [[The Taken-In]]
-- [[Polity Archetypes]] — three worked corners of the theology/reach/governance axes (Vaethorn · Lestrand · Threnmaieth), each with its domestic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
+- [[Polity Archetypes]] — three worked corners of the theology, reach, and governance (Vaethorn · Lestrand · Threnmaieth), each with its domestic face · [[The Old Tongue]] · [[Naming in the Turning]] — in-world names for the institutions here
 - [[Tithe-Infrastructure]] — the civic utilities named above, with their lived houses
 - [[The Walking Years]] — the split household as a Walking-era family fact
 - [[The Years of Hands]] — residues on the square · [[Settlement Seeds]] · [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]

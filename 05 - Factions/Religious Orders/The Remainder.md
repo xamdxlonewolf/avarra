@@ -45,7 +45,7 @@ They are of the [[The Tree-Wardens|Orenhael]] the way a yard is of a temple. Thi
 
 ## Goals & Methods
 
-**Public job.** Keep the yard honest. Do not let blight ride the next Cutting-leave. Do not let a copper-green scrap get filed as a hug.
+**Public job.** Keep the yard honest. They keep blight off the next Cutting-leave and keep a copper-green scrap from being filed as a hug.
 
 **The live fight inside the shed.** Some clerks want [[The Spent Leaf]] to stay a yard-fact — a colourless scrap, logged, locked, not Spoken. Some want it walked to a town that has waited a generation, so the queue cannot be called weather. Both think they are tending the wood.
 

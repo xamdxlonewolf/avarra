@@ -39,7 +39,7 @@ Guild self-rule under ardent practice. Recruits by office, faith, Condition-lean
 
 ## Goals & Methods
 
-Keep the gift hale without writing the gifted down. Furnish generously. Pity the [[Law and Citizenship|Kept]] in a land that teaches a hug at the Tree is rare. The pity is a slight, and it has no thin-Tree excuse.
+Keep the gift hale without writing the gifted down. Furnish generously. Pity the [[Law and Citizenship|Kept]] in a land that teaches that a hug at the Tree is rare. The land is wrong about that, but it teaches it. The pity is a slight, and it has no thin-Tree excuse.
 
 **Its injustice.** Not a boot. A **social tax of piety**. Warmth is real and so is the bill: fall out of congregation and the net goes with it, and there is no crown to appeal to. The Kept here are pitied in *plenty*. Threnmaieth at least files them; Maiethvael loves them and cannot stop measuring what they missed.
 

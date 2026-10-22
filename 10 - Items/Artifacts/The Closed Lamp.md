@@ -25,7 +25,7 @@ Palm-sized. A closed shutter, a short bail, a wrap that was a Road-hand's once a
 
 Held still, it is only a lamp. Held near a person who runs hot, the coal *leans* toward them: not much, but enough that a table notices and then makes tea. If an old name is spoken in the same room, as a habit, a hymn, or a story the square still tells in the present tense, the coal brightens toward that name too. Then it is only a lamp again.
 
-A Bound might file it as a night-light for a term they do not want to sleep through. A remainder-clerk asked if it is a colourless leaf would laugh, or go quiet, depending on which desk they work at.
+A remainder-clerk asked if it is a colourless leaf would laugh, or go quiet, depending on which desk they work at.
 
 ## History & Provenance
 
@@ -43,7 +43,7 @@ What anyone can check:
 
 ## What people do with it
 
-Most hours, nothing. It stays shut. Competence: you do not leave a travelling-coal unattended, and you do not open it for a square.
+Most hours, nothing. It stays shut. Competence: you do not leave a travelling-coal unattended, and you do not open it for a crowd.
 
 A ticket-hand may carry it because the room it came from should not go dark. A guest who runs hot may dislike it and not be able to say why. A child who is not in any hymn may watch it lean and ask for bread anyway.
 

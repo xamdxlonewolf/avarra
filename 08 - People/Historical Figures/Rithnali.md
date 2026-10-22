@@ -37,7 +37,7 @@ The minute is on [[The First Cut]]. Later clerks file it as Cut-year 19, the sum
 
 They wanted the next pot not to die of a dry mile. The verso of the minute is a list of pots that did die, which no one read aloud. Folk who keep the nameless knife think the recto is a confession. The Seat thinks it is competence. Both can hold the same copy. The name is how you ask for that page. It is not a grave you can point at.
 
-Speakers who will not say *first* will still not add Rithnali's hand to the story of the knife. The minute says *Tree*. Later Cutting-leave says *Mother*. Do not correct the page. The five ways of telling the Cut stay five jobs. This Speaker is the minute those jobs argue over. They are not the hand any of the five is protecting.
+Speakers who will not say *first* will still not add Rithnali's hand to the story of the knife. The minute says *Tree*. Later Cutting-leave says *Mother*. The five ways of telling the Cut stay five jobs. This Speaker is the minute those jobs argue over. They are not the hand any of the five is protecting.
 
 ## Appearance & Demeanor
 

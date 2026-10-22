@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # What the Year Feels Like
 
-> **How to use this.** [[Daily Life]] is the household: marriage, medicine, the way a town is built. This note is the year's weather on a street. The festival week is [[How the Week Is Kept]]. A burial, a stranger's bowl, and the hour a person changes are [[When the Town Buries]], [[The Guest-Meal]], and [[When Someone Is Struck]]. Kind-kitchens stay on [[Kinds of the Turning]]. Nothing here is a second doctrine. The faiths keep their own essays.
+> **How to use this.** [[Daily Life]] is the household: marriage, medicine, the way a town is built. This note is the year's weather on a street. The festival week is [[How the Week Is Kept]]. A burial, a stranger's bowl, and the hour a person changes are [[When the Town Buries]], [[The Guest-Meal]], and [[When Someone Is Struck]]. Kind-kitchens stay on [[Kinds of the Turning]]. The faiths keep their own essays.
 
 The year is kept by **stance**, and argued by **faith**. A Watcher can eat on a dock. A Settler, a follower of [[The Fair Hand]], can stand in a pious square. A place sets how long people talk and what they repeat. A person's faith sets which words they will not say.
 
@@ -22,7 +22,7 @@ The year is kept by **stance**, and argued by **faith**. A Watcher can eat on a 
 
 [[Maiethlir]], and any square that puts the name back when a sentence dropped it. The year they feel opens in [[The Reckoning of the Year|Eolthael]], whatever a tablet started earlier.
 
-On an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. The wood is the wood. A Settler passing through will not wait. The square notices. Nobody stops them. The square keeps its whole year's peace and its whole grudge in that stopping and not stopping.
+On an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. The wood is the wood. A Settler passing through will not wait. The square notices. Nobody stops them. The square's peace and its old grudges both show in who waits and who does not.
 
 They say **Maieth** and **the Mother's Hand** the way [[How a Place Speaks]] already has. A clerk in this city may be copying a slate of bells in the same hour. The hymn is still first when [[Rithim]] can make it first.
 

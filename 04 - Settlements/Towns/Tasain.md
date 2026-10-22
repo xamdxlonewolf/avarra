@@ -69,7 +69,7 @@ In a kind year, before the levy is taken, a bowl of shelf-snow is left on the ga
 
 No new named person. The household levies. Narol does not.
 
-- **[[Narol of the Pass]]** — dead. The name is still said at the toll, as Break-rate. Of the Pass. There is no house-name to put first. Lirorn would not be written as a people.
+- **[[Narol of the Pass]]** — dead. The name is still said at the toll, as Break-rate. Of the Pass. There is no house-name to put first. Lirorn is a power, not a people.
 
 ## Links
 - [[Lirorn]] · [[Powers of the Turning]] · [[Maiethorn]] · [[Named Ground]]

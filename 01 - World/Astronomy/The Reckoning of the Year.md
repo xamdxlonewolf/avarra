@@ -15,7 +15,7 @@ updated: 2026-10-22
 
 # The Reckoning of the Year
 
-> **What this is.** How **The Turning** keeps time — the calendar, the sky, and the **solstice** the whole world turns on. The [[Turning Tree|Leaf-Fall]] is solstice-timed, so the year's reckoning fixes *when* children Turn, when the great festival falls, and how a [[The Premise|~1400s]] world with mechanical clocks but no printing press actually counts its days.
+> **What this is.** How **The Turning** keeps time — the calendar, the sky, and the **solstice** the whole world turns on. The [[Turning Tree|Leaf-Fall]] is solstice-timed, so the year's reckoning fixes *when* children Turn, when the great festival falls, and how a world with mechanical clocks and no printing press counts its days.
 
 ## The sky
 
@@ -38,10 +38,10 @@ The Leaf-Fall is not a single day but **Turning-Week** — the week bracketing t
 
 ### Months & weeks
 
-A plainly-countable, ~1400s-legible calendar:
+A plainly countable calendar:
 
 - **Twelve months** tied to the moon's cycle, in **four seasons of three months** each, hinged on the two solstices (and the two equinoxes between them as lesser markers).
-- **Weeks** as the working unit of the burgher world — guild-weeks, market-days, the mechanical clock-towers of the trade cities striking the hours. (No printing press means calendars are clergy- and clerk-kept, not mass-printed — one more reason the [[Turning Tree|tree-wardens]] and the [[Polity Archetypes|Tallied Crown's]] clerks hold quiet power: they *keep the dates.*)
+- **Weeks** as the working unit of the guild towns — guild-weeks, market-days, the mechanical clock-towers of the trade cities striking the hours. (No printing press means calendars are clergy- and clerk-kept, not mass-printed — one more reason the [[Turning Tree|tree-wardens]] and the [[Polity Archetypes|Tallied Crown's]] clerks hold quiet power: they *keep the dates.*)
 
 #### The twelve months
 
@@ -62,7 +62,7 @@ Liturgical names are [[The Old Tongue|Maiethren]]; the common-tongue / [[Polity 
 | 11 | Autumn | **Vaethren** (VAYTH-ren) | "the waiting-speech" | *Vaeren* / **the Wait** | longing toward the dark |
 | 12 | Winter | **Nethorn** (NETH-orn) | "night-land" | *Nethorn* / **Dark-month** | approaching the Deep |
 
-> **When the year starts (the name-reveals-stance lever, on time itself).** The devout and the clergy begin the year at **Eolthael** — the Turning is the hinge that matters. [[Polity Archetypes|Lestrand]] and the deathless houses begin it at **Nethael** — midwinter is when the books close. [[Polity Archetypes|Vaethorn]] follows the clergy in the pulpit and the last *actual* Turning-Week in the fields (a child "turns the year" when the local Tree last managed a fall). Same twelve names; three new-year's days. A disputed date is a campaign lever ([[#GM Notes]]).
+> **When the year starts (the name-reveals-stance lever, on time itself).** The devout and the clergy begin the year at **Eolthael** — the Turning is the hinge that matters. [[Polity Archetypes|Lestrand]] and the deathless houses begin it at **Nethael** — midwinter is when the books close. [[Polity Archetypes|Vaethorn]] follows the clergy in the pulpit and the last *actual* Turning-Week in the fields (a child "turns the year" when the local Tree last managed a fall). Same twelve names; three new-year's days, so any of the three can start a dispute over what year it is.
 
 #### Kumbaan's moons
 

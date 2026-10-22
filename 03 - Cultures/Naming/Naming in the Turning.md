@@ -18,15 +18,15 @@ updated: 2026-10-22
 > **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions that [[Law and Citizenship]], [[Economy and the Tithe]], and [[Daily Life]] describe in plain words. One rule governs them:
 
 > ## **The name a polity gives a shared thing reveals its stance.**
-> Every polity has the same institutions (they flow from the [[Turning Tree|Trees]] and the Conditions, which are universal). But **what each calls them** is set by where it sits on the [[Polity Archetypes|theology / reach / governance axes]]. A [[The Leaf-Mother|devout]] land calls the release-hall a *gift-hall*; a merchant coast calls it a *release-house*; a surveillance-crown calls it a *counted hall*. Same building, three worldviews. This note is the dictionary of those names.
+> Every polity has the same institutions (they flow from the [[Turning Tree|Trees]] and the Conditions, which are universal). But **what each calls them** is set by how it stands on theology, reach, and governance ([[Polity Archetypes]]). A [[The Leaf-Mother|devout]] land calls the release-hall a *gift-hall*; a merchant coast calls it a *release-house*; a surveillance-crown calls it a *counted hall*. Same building, three worldviews. This note is the dictionary of those names.
 
 ## How names are built
 
-- **The root is [[The Old Tongue]]** (Maiethren, the liturgical Mothertongue). Sacred and old things keep their Old-Tongue shape; everyday things wear it down. See that note for the full sound-palette, compound-initial stress, pronunciation key, and closed collision families.
+- **The root is [[The Old Tongue]]** (Maiethren, the liturgical Mothertongue). Sacred and old things keep their Old-Tongue shape; everyday things wear it down. See that note for the full sound-palette, compound-initial stress, and pronunciation key.
 - **Three daughter drifts carry the stance in the *sound* itself:** the pious core (**[[Polity Archetypes|Threnmaieth]]**) conserves the sacred sound; the devout frontier (**[[Polity Archetypes|Vaethorn]]**) wears it rougher; the secular coast (**[[Polity Archetypes|Lestrand]]**) erodes it smooth (the *th* drops, ends clip). *The most-drifted name belongs to the least-devout place.*
 - **The common tongue** — the plainspoken trade-vernacular most people actually speak — is the worn-down middle everyone shares. Its words are the plain compounds already used across the notes (*the Kept*, *venting-hall*), understood as **worn Old-Tongue** rather than a separate language.
 - **The common handle is primary in play.** It is not a translation in parentheses after the "real" name. It is the name spoken at a dock, road, market, and table. Liturgical forms remain real, but belong to writing, ritual, formal self-styling, and deliberate register shifts.
-- **New liturgical coinage is frozen.** A real need must first add a root to [[The Old Tongue]], clear its collision register and the [[Naming Tools|generator's collision gate]], and receive a distinct common handle.
+- **No new liturgical names are being coined.** The names in this note are the settled ones.
 
 ## The three polities
 
@@ -42,7 +42,7 @@ The other twelve live in [[Powers of the Turning]]. Same lever: *thren* worn to 
 
 ## The institution dictionary
 
-The universal grammar's institutions, with the **common-tongue** name and the three polity variants where stance diverges.
+The institutions, with the **common-tongue** name and the three polity variants where stance diverges.
 
 ### Citizenship & law (from [[Law and Citizenship]])
 
@@ -59,7 +59,7 @@ The universal grammar's institutions, with the **common-tongue** name and the th
 | a census of persons | *(no common name; only two crowns keep one: Trenledd's **roll**, and Threnmaieth's Threnhael)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
 
-> **The darkest coinage.** Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name shows how the crown sees its roll: as sanctified care. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands do not do this. → [[Naming People in the Turning#House-names — where a list outlives the witness]]
+> Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name shows how the crown sees its roll: as sanctified care. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands do not do this. → [[Naming People in the Turning#House-names — where a list outlives the witness]]
 
 ### Tithe-provision (civic infrastructure, from [[Economy and the Tithe]] / [[Daily Life]])
 
@@ -72,7 +72,7 @@ The universal grammar's institutions, with the **common-tongue** name and the th
 
 ### The people (the standing-terms, from [[Law and Citizenship]])
 
-The three life-outcomes of the [[Turning Tree|Leaf-Fall]] keep their plain common-tongue names **everywhere** — *the Given*, *the Struck*, *the Kept* are universal. But each polity's *second* word for them betrays how it feels:
+The three standing-terms *the Given*, *the Struck*, and *the Kept* keep their plain names everywhere. But each polity's *second* word for them betrays how it feels:
 
 | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|
@@ -181,7 +181,6 @@ Lived names of Ornthael. The everyday name comes first.
 - [[Turning Tree]] (Thaeloren) · [[The Leaf-Mother]] (Maieth) · [[The Tree-Wardens]] (Orenhael) · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]] · [[The Slide]] · [[Tithe-Infrastructure]] · [[The Greens-Keepers]] · [[The Hall-Keepers]] · [[The Stillers]] · [[The Element-Guilds]] · [[The Intake]] · [[Faiths of the Turning]] · [[Conditions]]
 - [[Naming People in the Turning]] — person-names and the four Kind hearth-registers
 - [[How a Place Speaks]] — the same drifts, as speech: handles, tones, and what a place asks you
-- [[Naming Tools]] — reproducible candidate streams and collision checks
 - [[Kinds of the Turning]] — hearths, not nations
 - [[The Ages of the Turning]] — era-names and Cut-years
 - [[The Walking Years]] — the three walks · *brenhael*
@@ -197,6 +196,8 @@ Lived names of Ornthael. The everyday name comes first.
 - **A polity's vocabulary is self-justification, not a verdict.** Threnmaieth's "keeping-whole" calls surveillance care; the Ledger Coast's "free" turns a social slight into market praise; the Waiting Lands' "Waited" wraps pity in reverence. The words tell you what each polity needs its practice to mean.
 - **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
 - **The names are settled, and coinage is frozen.** The twelve power-names are settled with the rest. There is no sixteenth power. If a later note needs another institution variant, coin it by the rules in "How to coin more" below rather than retrofitting these.
+
+- **Production tools.** [[Naming Tools]] holds the reproducible candidate streams and collision checks. A new root added to [[The Old Tongue]] has to clear the closed collision families and the generator's collision gate before it is used.
 
 ### How to coin more (for later notes)
 

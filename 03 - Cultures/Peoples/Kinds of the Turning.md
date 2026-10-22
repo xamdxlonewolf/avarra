@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 **You are raised by a place, not by your ears.**
 
-A Kind is a birth-shape. Nobody blinks at a fox-tail in a [[Maiethorn]] market or wings on a [[Heskoren]] ridge. Conditions are the becoming the world organizes around; Kinds are the body you brought to the [[Turning Tree|Tree]]. So **there are no Kitsune kingdoms, no Selkie thalassocracies, no Tengu mountain-empires.** Those would be a planet-of-hats, and they would fight the two-layer model.
+A Kind is a birth-shape. Nobody blinks at a fox-tail in a [[Maiethorn]] market or wings on a [[Heskoren]] ridge. Conditions are the becoming the world organizes around; Kinds are the body you brought to the [[Turning Tree|Tree]]. So **there are no Kitsune kingdoms, no Selkie thalassocracies, no Tengu mountain-empires.** Those would make a whole people into one country, and that is not how Kinds work here.
 
 What the customs *do* have are **hearths** — terrain they were born to, where they are *densest*, not exclusive. A hearth is a forest, a coast, a ridge, a dry country, an isle. It is not a flag.
 
@@ -31,7 +31,7 @@ The one exception that proves the rule is the [[Yumboe|Yumboes]]: they are rare 
 | Layer | What it tells you | What it does not |
 |---|---|---|
 | **Kind** | Birth-shape; sometimes a *hearth* (coast, ridge, wood, isle) | Loyalty, faith, legal standing, "which country" |
-| **Condition** | What they became (~75%); Tithe; guild/licence | Ancestry |
+| **Condition** | What they became (most people carry one; shares on [[Conditions]]); Tithe; guild/licence | Ancestry |
 | **Place** | The [[The Old Tongue|drift]] they speak, the institution-names they use, the polity that vouched them, and whether the second name is a byname or a house-name ([[Naming People in the Turning]]) | What ears they have |
 
 A [[Kitsune]] clerk on the [[Polity Archetypes|Lestrand]] docks, a [[Tengu]] pilgrim in [[Polity Archetypes|Threnmaieth]], a [[Selkie]] vouching-witness in [[Polity Archetypes|Vaethorn]] — none of those is a category-error. The interesting collision is always Kind × Condition × *place*.
@@ -66,11 +66,11 @@ Tengu settlements cling to crags and are reached by wing or by rope. A lowlander
 
 They keep a running, half-teasing rivalry with the Selkies — sky-folk and sea-folk each convinced their element is the one worth belonging to. That rivalry is cultural colour, not a border.
 
-### [[Yumboe]] — the isle (locked)
+### [[Yumboe]] — the isle
 
-**Kumbaan, and almost nowhere else.** Locked in the ancestry note and in [[The Sundering Isle]]: mythic-rare off the isle; on it, ordinary. No Leaf-Fall, no Given Conditions; Struck possible but rare. Their Kind and their table are their own. A Yumboe on the mainland is usually the only one anyone in that town has ever seen.
+**Kumbaan, and almost nowhere else.** As the ancestry note and [[The Sundering Isle]] say: mythic-rare off the isle; on it, ordinary. No Leaf-Fall, no Given Conditions; Struck possible but rare. Their Kind and their table are their own. A Yumboe on the mainland is usually the only one anyone in that town has ever seen.
 
-Do not give them a mainland hearth. The storm-wall *is* the distribution.
+They have no mainland hearth: the storm-wall keeps them on the isle.
 
 ## How a hearth travels
 
@@ -118,7 +118,7 @@ Condition arrives on its own clock. A mixed-Kind child Turns, or is Kept, or is 
 
 ## Stock ancestries (the other eighteen)
 
-Daggerheart's stock ancestries ([[Build Plan|Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah]]) live **everywhere the Trees do**. They are not given continents. A few of them are more common in some kinds of country. That is a tendency, not a law. The sections below name those tendencies. They also name the ancestries that did not have one yet.
+Daggerheart's stock ancestries (Clank, Drakona, Dwarf, Elf, Faerie, Faun, Firbolg, Fungril, Galapa, Giant, Goblin, Halfling, Human, Infernis, Katari, Orc, Ribbet, Simiah) live **everywhere the Trees do**. They are not given continents. A few of them are more common in some kinds of country. That is a tendency, not a law. The sections below name those tendencies. They also name the ancestries that did not have one yet.
 
 **You are raised by a place, not by your ears.** The tendencies are not rules. A Ribbet judge in inland [[Polity Archetypes|Threnmaieth]] is ordinary. A Giant on a [[Polity Archetypes|Lestrand]] dock is ordinary. A Giant who works as a Lestrand banker is ordinary too. If a town has more of one ancestry, that is a fact about the town. [[Raillath]], [[Denlad]], and [[Tunral]] do not belong to any ancestry. [[Maiethlir]] and [[Orentel]] do not belong to any ancestry.
 
@@ -221,7 +221,7 @@ Infernis are born with demon blood. They are not [[Bound]]. The blood and the co
 Table rules for feature count, Mixed Ancestry, and the Hearth-Mark are in [[Kind Heritage]].
 
 ## Links
-- [[The Premise]] — Kind + Condition · [[Build Plan]] — stock roster
+- [[Conditions]] — what sits on top of a Kind
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[Maiethorn]] (Rain-Shadow, Motherwood, Rain-Wall) · [[Strandoren]] (Selkie coasts) · [[Heskoren]] (ridges, wild woods) · [[The Sundering Isle]] · [[Named Ground]]
 - [[Naming People in the Turning]] · [[Naming in the Turning]] · [[Daily Life]]

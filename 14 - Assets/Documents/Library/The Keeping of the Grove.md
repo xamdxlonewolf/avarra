@@ -3,7 +3,7 @@ title: The Keeping of the Grove
 type: handout
 visibility: player
 note_status: draft
-tags: [handout, library, rothallo, walled-book, closing, epic-h]
+tags: [handout, library, rothallo, walled-book, closing]
 aliases: [A History of the Closed Seat, The Closed Heirs' History]
 reveals: []
 created: 2026-10-21

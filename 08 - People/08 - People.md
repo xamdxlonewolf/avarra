@@ -76,10 +76,11 @@ Historical figures the years still say. The living cast stays in the lists above
 - [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]] · [[Ndenjoo]]
 - [[The White Note House]] · [[The Third Hearth]] · [[Harrow's Green]]
 - [[The Intake]] · [[The Watchers]] · [[The Unspent]]
-- [[Naming People in the Turning]] · [[Roadmap]]
+- [[Naming People in the Turning]]
 
 ## GM Notes
 
+- **Links:** [[Roadmap]]
 - **Opening:** [[Taeren]] and [[Rosire]] are on-screen in [[The Opening]]. [[Reimaethe]] and [[Hithaen]] stay offstage. Do not grow a crew. The walker is campaign-kit, not a seventh pivot. The Protectors and the fire they catch are behind Taeren and Rosire ([[When the Fire Is Caught]]).
 - **The historical figures** live under Historical Figures. [[Heroes and Villains]] links them. It does not clone them. Do not rename the living cast onto these historical figures.
 - **The names** sit on the NPC notes: a house in Maiethlir and on Hithaen's unsaid line, a byname everywhere people are witnessed, Njunda as the given name, Thilim of the Held bed. The White Note is a desk only while the paper is open. Tora stays on the on-page list above.

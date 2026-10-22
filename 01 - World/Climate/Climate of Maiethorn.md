@@ -15,7 +15,7 @@ updated: 2026-10-22
 
 # Climate of Maiethorn
 
-Maiethorn contains four of the world's eight climate bands: the wet Crossing-shore, the four-season Mother-core, the snowy Rain-Wall or Thaw-Wall, and the dry Rain-Shadow beyond it. A traveller can go from salt drizzle to old forest, lake a mountain pass in thaw-water, and reach a well-town measuring dust—all without leaving the Motherland.
+Maiethorn contains four of the world's eight climate bands: the wet Crossing-shore, the four-season Mother-core, the snowy Rain-Wall or Thaw-Wall, and the dry Rain-Shadow beyond it. A traveller can go from salt drizzle to old forest, cross a mountain pass that floods like a lake in thaw-water, and reach a well-town measuring dust—all without leaving the Motherland.
 
 The deep difference is water. In the core, towns drain it. On the Wall, Lirorn waits to levy it. In the shadow, [[Ornsael]] divides it. Every living graft wants a share.
 
@@ -42,7 +42,7 @@ People speak the month and the slope together. "Hale-month on the Wall" is not t
 
 The Old Crossing face is mild and wet. Rain comes sideways often enough that quays roof rope, salt, and waiting people before they roof the road.
 
-### A playable week
+### A week of weather
 
 | Day-shape | Weather | Consequence |
 |---|---|---|
@@ -59,7 +59,7 @@ Quay cough, wet bedding, and hold fever are ordinary fears. The memory of [[The 
 
 West of the Wall and inland from the salt is the four-season heart: rounded hills, river valleys, old forest, worked fields, and the densest mature grafts in the world.
 
-### A playable week
+### A week of weather
 
 | Season | Week-weather | Put pressure on |
 |---|---|---|
@@ -94,7 +94,7 @@ The core has the best Stilled infirmaries and the most Returned available for pl
 
 The high range stores winter and releases it as law. "Last year's snow" means the depth and hardness already waiting above the road when Liren begins.
 
-### A playable thaw-week
+### A thaw-week of weather
 
 | Watch | What happens | What it means |
 |---|---|---|
@@ -123,7 +123,7 @@ Lirorn can levy a road because weather has made the road scarce. The injustice i
 
 East of the Wall, dry hills and terraces sit around wells. Rain may fall hard and still leave little in the cistern if it runs off before the ground drinks.
 
-### A playable week
+### A week of weather
 
 | Day-shape | Weather | Consequence |
 |---|---|---|

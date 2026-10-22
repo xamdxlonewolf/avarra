@@ -17,7 +17,7 @@ updated: 2026-10-22
 
 # The Years of Hands
 
-> **The ordinary way to Turn now, and the present. Not post-history.** A town [[Turning Tree]] is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical name: **Ornthael** *(ORN-thael)* — "Tree-land." The Grafting is **not** a previous age you exit; it is still moving. Spine: [[The Ages of the Turning]]. How you used to walk: [[The Walking Years]]. How the wave moved: [[The First Cut]]. This note is what the Walking left on the ground, and what this year still is. Settlement types this leftover made: [[Settlement Seeds]].
+> **The ordinary way to Turn now, and the present. Not post-history.** A town [[Turning Tree]] is the ordinary way to Turn *where the wood has taken.* Everyday name: **the Years of Hands** (also *Since the Hands*). Liturgical name: **Ornthael** *(ORN-thael)* — "Tree-land." The Grafting is **not** a previous age you exit; it is still moving. Spine: [[The Ages of the Turning]]. How you used to walk: [[The Walking Years]]. How the wave moved: [[The First Cut]]. This note is what the Walking left on the ground, and what this year still is. Settlement types the Walk left behind: [[Settlement Seeds]].
 
 
 ## Overview
@@ -59,9 +59,9 @@ The one-week door did not loosen. Miss Eolthael and the Given-door has shut, at 
 
 [[The Sundering Isle|Kumbaan]] is not on this table. No extra mile crosses the storm-wall.
 
-## Visible leftovers
+## What the Walk left behind
 
-What the Walking built, the Hands still sleep in. Adaptive reuse, not ruins. A leftover that is only a ruin is a Hands-town telling itself the road is over.
+What the Walking built, the Hands still sleep in. Adaptive reuse, not ruins. A thing the Walk left that is only a ruin is a Hands-town telling itself the road is over.
 
 ### Mile-shrines (the stone in the square)
 
@@ -94,12 +94,12 @@ The pilgrim-road was often the main road. A graft took beside it. The town grew 
 
 A road that "ends" is what a Tree-town says. The necessity-family from the next valley still uses it. Same stones.
 
-### Other leftovers a character notices
+### Other things the Walk left that a character notices
 
 - Empty Salt-Walk berths in Eolthael, except the expensive ones and the holds that smell of wet earth out of season.
 - A Far-Voiced ridge-cry in an old pattern: *the ford is wrong.* No column answers. A Road-hand does. Birds do.
 - A sibling-pair, one Given, one Kept, who will not walk the same side of a road — a split household's grandchildren keeping a courtesy they cannot date.
-- Markets that still swell at an old mile-mark in Hale-month, then vanish, even when no column comes. Habit is a leftover.
+- Markets that still swell at an old mile-mark in Hale-month, then vanish, even when no column comes. Habit outlasts the road.
 - A kitchen-knife on a ribbon in a Near-Mile house that will not name a saint ([[The First Cut|the nameless knife]], still not a museum piece).
 
 ## Deathless houses' road-past as present credit
@@ -117,7 +117,7 @@ The long-house of books is still the deathless paying their own Tithe. The road-
 
 **The prestige-walk is now a product some houses sell.** A held-over winter at the origin — once the frightened far mercy — is a First-Hand year you can book. One commodity, three Coast desks, plus the origin beds:
 
-- **[[Netstrand]]** supplies **berths** — hulls, crews, West Water capacity chartered *in* to the Old Crossing. Their own leftover is the far crossing, not this winter.
+- **[[Netstrand]]** supplies **berths** — hulls, crews, West Water capacity chartered *in* to the Old Crossing. What the Walk left them is the far crossing, not this winter.
 - **[[The White Note House]]** writes the **terms** — credit for a year you do not need. They noticed the upper room was empty in Nethael and full of the wrong people in Eolthael, and they made a term for it. They did not invent the hold.
 - **[[Orentel]]** **holds** — Sorim's first-quay occupancy. Empty Eolthael berths. The city that stages departure toward Maiethorn.
 - **[[Orenbren]]** **houses** the year at the origin. Beds within a week's walk of the grove. Not a fourth seller of the berth.
@@ -140,7 +140,7 @@ Vaethorn will preach that the houses *abandoned the waiting-road*. History's job
 
 Seat narration: *her will is still travelling.* Folk memory: *the cart came late, the soil was called thin, we can see Harrow's green from here.* Vaethorn will preach *we wait because we are unworthy.* History does not agree. They wait because the wood is slow, the road is long, and the list was written in the Motherwood.
 
-The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: leftover waiting after the core stopped. A town where this happens: [[Ornsael]] — the Hand Speaks most years; the well is dropping; the west-road is water. A west-road child after the Sacred Core has stopped walking is the same waiting on the Motherland, which shows Ornthael is not a finished age.
+The Rain-Shadow on [[Maiethorn]] is the same grammar on an older continent: waiting that went on after the core stopped. A town where this happens: [[Ornsael]] — the Hand Speaks most years; the well is dropping; the west-road is water. A west-road child after the Sacred Core has stopped walking is the same waiting on the Motherland, which shows Ornthael is not a finished age.
 
 ## What is strained (the present tense of pressure)
 
@@ -163,7 +163,7 @@ The catalog is [[Settlement Seeds]]. Towns where this happens:
 - [[Ornsael]] — Rain-Shadow walk-hold; the same waiting on the Motherland
 - [[The White Note House]] — a road-house that became a desk
 
-The Tree-at-the-centre grammar in [[Daily Life]] still holds; these leftovers layer on it (stone in the square, upper room, road that ends at the boughs).
+The Tree-at-the-centre grammar in [[Daily Life]] still holds; these remains of the Walk layer on it (stone in the square, upper room, road that ends at the boughs).
 
 ## Visibility markers (what a character notices)
 
@@ -190,11 +190,11 @@ The Tree-at-the-centre grammar in [[Daily Life]] still holds; these leftovers la
 
 ## Folklore
 
-The teaching-story of the leftover is [[The Child Who Climbed the Stone]] — a Hands-child and a waiting-child on the same stone, a last line that will not choose whether the road is over. Tree-town children hear it as why they climb. Waiting children hear it as why they can see the canopy. Innkeepers hear it as the upper room. Speakers hear it as a stone in the way of a crowd.
+The teaching-story of what the Walk left is [[The Child Who Climbed the Stone]] — a Hands-child and a waiting-child on the same stone, a last line that will not choose whether the road is over. Tree-town children hear it as why they climb. Waiting children hear it as why they can see the canopy. Innkeepers hear it as the upper room. Speakers hear it as a stone in the way of a crowd.
 
 ## Key Events
 
-[[The First Cut]] (Cut-year 0) opens the era in clerical count. How the wood travelled is [[The First Cut]]. Everything after that, in this note, is residue — leftover jobs, leftover rooms, a wave that has not finished.
+[[The First Cut]] (Cut-year 0) opens the era in clerical count. How the wood travelled is [[The First Cut]]. Everything after that, in this note, is residue — jobs and rooms the Walk left, a wave that has not finished.
 
 A [[Phoenix]]'s rebirths remain the one era-marker even Hands-towns cannot file.
 
@@ -218,12 +218,12 @@ Moved from the player-facing body during residual export polish:
 - > **Canon status.** 🔒 **Present = Hands where the wood has taken; Walking where it has not.** 🔒 **Name and present Cut-year 387 locked 2026-08-24.** 🟡 **Lived texture (Story 6.4):** the walk's three jobs, mile-shrines and upper rooms now, road-past as credit, Heskoren as live front, fate-pressure noted not rolled. Names *the extra mile / the neighbour's week / the stone in the square / the upper room* are working coinages — polish later; do not rebuild the spine, the lived road, or the Cut.
 - Many [[Economy and the Tithe|deathless houses]] began as **road-houses**. That fate-shift is already in the past: inns → banks, the same Long-Lived, a different fortune. Story 6.4's job is the *present tense of that memory.*
 - Play may later ask what gives. Story 6.4 does not answer. It leaves the pressure on the table. See GM Notes.
-- Epic 7 builds places. Story 7.2 fleshed four leftover types. The catalog: [[Settlement Seeds]]. Squares:
+- The settlement types the Walk left behind are catalogued in [[Settlement Seeds]].
 - Playable squares sit on the ground: [[Harrow's Green]] · [[The Three Hamlets Past the Ford]] · [[The Third Hearth]] · [[Ornsael]]. The unused seed-types are still on the catalog.
 
 - **The present is not post-history.** Especially on Heskoren. Narrating Ornthael as "the modern age after the Grafting" re-creates the stacked-ages cliché the spine refused. Two clocks. The wave is live. A sick Tree in the core puts a Hands-town back on the neighbour's week; that is Clock 1 flipping, not an age ending.
 - **The boots left; the credit remained.** Local Trees changed who is expected to have been seen at ten. Mataero's loft and the three hamlets show the two different debts that survived.
-- **Keystone edge:** Hands-era density on Maiethorn and thinness on Heskoren is the map of a bounded reach. Player-facing, it is young/sick/few grafts, a queue, and leftover waiting in the Rain-Shadow. Keep the mind GM-side. Do not smuggle a cause of her limit into a stone or a bed.
+- **Keystone edge:** Hands-era density on Maiethorn and thinness on Heskoren is the map of a bounded reach. Player-facing, it is young/sick/few grafts, a queue, and waiting that goes on in the Rain-Shadow. Keep the mind GM-side. Do not smuggle a cause of her limit into a stone or a bed.
 - **Fate-pressure — noted, not rolled.** `world-fates` as philosophy for play, not a collapse, not a proposal to apply:
 
 | Entity | State (qualitative) | Why the pressure is already visible | Do not |
@@ -235,7 +235,7 @@ Moved from the player-facing body during residual export polish:
 
   Human approval before any later fate-shift. Story 6.4 tables the pressure. It does not turn the wheel.
 
-- **Two fates of the road-house is the leftover's contradiction.** [[The White Note House]] collected. [[The Third Hearth]] kept making the bed. Both are honest. Lestrand will only count the first as success. Play both. Do not have "the" deathless account of the road.
+- **Two fates of the road-house is the contradiction in what the Walk left.** [[The White Note House]] collected. [[The Third Hearth]] kept making the bed. Both are honest. Lestrand will only count the first as success. Play both. Do not have "the" deathless account of the road.
 - **Prestige-walk chain (Story R.6).** Netstrand berths → White Note terms → Orentel holds. Orenbren houses. Do not triple-book the First-Hand year as three inventions.
 - **Colonial trap, present tense.** Maiethorn visitors on Heskoren will read necessity as devotion (*they still walk, how faithful*). Prestige-walkers will read necessity as poverty-theatre. Vaethorn will read delay as unworthiness. The thing that is happening is shorter: a child needs a canopy this week. Keep all three misreadings available. Do not let GM voice agree with any of them.
 - **Do not rebuild.** The spine, the lived road, and the Cut stay put. This note does not pick a cutter, date the Tree, or close the nature of her limit. Kumbaan remains the control: a wrecked pot in a sailor's story is allowed; a taking is not.
@@ -247,7 +247,7 @@ Moved from the player-facing body during residual export polish:
 - Do not narrate the Years of Hands as "the modern age after the Grafting." The wave is still moving.
 - Do not treat a sick Tree as the age ending. It puts a Hands-town back on the neighbour's week.
 - Do not invent a second banking-order, and do not give novelty a new clergy. Do not let the three Coast desks (Netstrand, the White Note, Orentel) all claim they invented the First-Hand year.
-- Do not design the three archetype capitals here. The Tree-at-the-centre grammar in [[Daily Life]] holds, and the leftovers layer on it: the stone in the square, the upper room, the road that ends at the boughs.
+- Do not design the three archetype capitals here. The Tree-at-the-centre grammar in [[Daily Life]] holds, and what the Walk left layers on it: the stone in the square, the upper room, the road that ends at the boughs.
 - Do not dump [[Ornsael]] onto Heskoren, and do not forget it. A west-road child after the Sacred Core has stopped walking is the same waiting on the Motherland.
 - Do not name historical Phoenixes until a story needs a fishbowl that old.
 - Mataero cannot see that "house custom" is the credit, or that letting the loft to wool is how a road-house finishes becoming a bank in front of a junior who needs the conversion to look like competence. The founding-name they will not copy is the held bed as a bank-token. Thilim, inland, still makes the bed. The wool will still come due.

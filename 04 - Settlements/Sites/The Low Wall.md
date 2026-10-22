@@ -108,7 +108,7 @@ You can walk it in an afternoon. You can sleep in the garden-end loft. You can b
 
 > *The Close sent three Conditioned to walk the person-gap as owed work. They are not our beds and they are not the Close's wall. The children will climb whether we complain. If a Speaker asks, it is not a shrine. If Delamem asks, it is not a page. If a Watcher asks, we did not scratch a year. Pull your labour off our garden. The stone was here when the beds were full, and it will be here when the notes are.*
 
-The complaint dates the stone by "when the beds were full", which already counts years. Delamem would treat a gap in the wall as a row in the Book, and a gap is not a row. Both can stand on the inward step.
+The complaint dates the stone by "when the beds were full", which already counts years. Delamem would treat a gap in the wall as a row in the Book, and a gap is not a row.
 
 ## Links
 - [[The Other Count]] · [[Before the Walk]] · [[The Closing]] · [[The Walled Book]] · [[Orenbren]]

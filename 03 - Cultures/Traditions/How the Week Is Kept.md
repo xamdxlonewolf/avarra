@@ -30,7 +30,7 @@ A follower of [[The Fair Hand]] stands at the edge with a book held shut. They s
 
 Before the fair eats, someone from the road sets a bowl at the root and goes back to the stall. The square lets the bowl sit. It is not the standing.
 
-A guest who keeps a hill-table will not walk a child down to the wood. A neighbour may offer. The week has days left, or it does not. The full quarrel is on [[The Open Table]]: a child kept from the Tree that week is not Given. In this square the quarrel is rarer than on a salt-stair, and the cost is the same when it comes.
+A guest who keeps a hill-table will not walk a child down to the wood. A neighbour may offer. The week has days left, or it does not. The full quarrel is on [[The Open Table]]: a child who misses the Tree that week cannot be Given. In this square the quarrel is rarer than on a salt-stair, and the cost is the same when it comes.
 
 The thaw is louder than it was in Hale-month. The square will not explain it ([[Maiethlir]]).
 
@@ -48,7 +48,7 @@ Salt crusts the roots. The quay will not explain it ([[Orentel]]).
 
 In the same days, book-hands settle where the gang can see. A year's term closed. A Bound's oath-day, if one falls in the week, recited and marked. The warden still Speaks. The quay calls the Mother **the old rite** and does not put the thorn back to be polite. Ink moves between the warden-hearth and the book-room all week. They collide over a tenth year, not over a barrel.
 
-On a salt-stair, a host who keeps the table will not spend a child's week on a colour. A neighbour who did Turn will walk the child if the host will not. [[The Open Table]] already has the two grammars on that landing. The week here smells of salt and pitch either way. Empty berths on the first quay are a different purchase: households who paid to walk a walk they do not need ([[Orentel]]). The city's own children stand at Tallo.
+On a salt-stair, a host who keeps the table will not spend a child's week on a colour. A neighbour who did Turn will walk the child if the host will not. [[The Open Table]] already has both sides of that landing. The week here smells of salt and pitch either way. Empty berths on the first quay are a different purchase: households who paid to walk a walk they do not need ([[Orentel]]). The city's own children stand at Tallo.
 
 ## In a waiting town
 
@@ -56,7 +56,7 @@ On a salt-stair, a host who keeps the table will not spend a child's week on a c
 
 If [[Vaethod]] will call a fall, the town stands small. The gift-hall pot is open. A hug is not dressed as a prize, and a sermon may still pity one. The pity is the Warm face on [[Daily Life]]. The pot does not wait for the sermon to finish.
 
-If the wood will not speak, the sentence in the street is **not this week**. A cohort may be sent toward a luckier Hand. The town remembers which summers were sends. A missed week still shuts the Given-door. That law is on [[Turning Tree]]. The feel is packs on the track, and the people who stay to keep the pot.
+If the wood will not speak, the sentence in the street is **not this week**. A cohort may be sent toward a luckier Hand. The town remembers which summers the children were sent on. A missed week still shuts the Given-door. That law is on [[Turning Tree]]. The feel is packs on the track, and the people who stay to keep the pot.
 
 The spring has a wet leaf, or too many, or none. The town will not explain it ([[Eolvaeth]]).
 

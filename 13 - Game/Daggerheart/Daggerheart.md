@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 The SRD stays the SRD. This vault's rulings are [[At the Table]], [[Kind Heritage]], [[Dangers of the Turning]], and [[A Hidden Phoenix]]. Domain jobs are [[How the Work Is Done]]. Condition cards stay in `09 - Creatures/Conditions`.
 
-This folder does not copy the rules text.
+The rules text is the SRD's and is not copied.
 
 ## Links
 
@@ -25,4 +25,4 @@ This folder does not copy the rules text.
 
 ## GM Notes
 
-This folder stays a pointer. A later note must not paste SRD abilities, ancestries, or equipment into it.
+This section stays a pointer. A later note must not paste SRD abilities, ancestries, or equipment into it.

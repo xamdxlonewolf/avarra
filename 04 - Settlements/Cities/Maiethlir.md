@@ -54,7 +54,7 @@ A wall exists and is old. It was for floods and for a generation of argument, no
 Enough to walk, and enough for a later map. Not a grid. The Core-thaw runs west, toward the Old Crossing. The city sits where that water slowed.
 
 - **The Grove Bank** — the way from [[Turning Tree|Thaeloren]]. One or two days on the river road, which is not the Near Mile. You arrive with the Motherwood as a dark behind you. The First Seat is in that wood. It is not inside this wall.
-- **The Down Gate** — downstream, west, onto [[The Down-Bank]]. The counted conduits thin within a day. The Hinge Shore's quay is still several days of bank, orchard, and mud. [[Maiethvael]]'s people live along the first day down. Their capital, [[Seinbrun]], is about two days from Maiethlir, off the water, and this gate does not lead to it.
+- **The Down Gate** — downstream, west, onto [[The Down-Bank]]. The counted conduits thin within a day. The Hinge Shore's quay is still several days of bank, orchard, and mud. [[Maiethvael]]'s people live along the first day down. Their capital, [[Seinbrun]], is more than a day from Maiethlir, off the water, and this gate does not lead to it. This note does not record how much more.
 - **The Wall Path** — upstream, toward [[Lirorn]] and the snow that feeds the thaw. [[Vehaela]]'s thin-snow winters come this way. It is not the Noon Pass. It is the path the river's source already implies.
 - **The Slow Water** — the ford and the mill-reach inside the wall, where a Hand could be planted because the carrying stopped being a current. The Tree stands on this water.
 - **The Tree** — civic heart, inside the old flood-wall, not the First Hand. Leaf-Fall is in this square.
@@ -102,7 +102,7 @@ Cast: [[People of the Turning]]. [[Rithim]] and [[Laevila]] are people now, not 
 - [[Vehaela]] — an uncounted loft for one winter off [[Lirorn]]'s thin snow
 - [[Baerith]] — the crown stops cutting green on their sister's street
 
-Offices that must exist:
+Offices here:
 
 - **Speaker / town-warden ([[Rithim]])** — Reckoned Hands pressure, practice-first, not Kind. Speaks the fall truly. The copy is a second, lesser witnessing. Some summers they let it happen in the same breath. Some they do not. The crown has not replaced them. The Seat has not recalled them.
 - **The tablet-clerks** — Long-Lived among them, memory bent to the census rather than free to check it. Named instruments of the roll live on [[The Reckoned Offices]] (Menirein, Tarvae, Videm, Sirtal). They are not a replacement for this hearth. Rithim is still the town Speaker.

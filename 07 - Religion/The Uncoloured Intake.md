@@ -19,7 +19,7 @@ Found among last Hale-month's papers at a Heskoren gift-hall that still takes th
 
 ## Covering note
 
-> *Three uncoloured this season who will take the pot. I have written Mother's catch on each, as the charter requires. The four will not keep still under that line. Feed them anyway. Do not send them to the grove until they ask. Narrow-Hand will call this a leak. The pot does not have a theology. If the Seat wants a colour on these people they may send wood. We have soup.*
+> *Three uncoloured this season who will take the pot. I have written Mother's catch on each, as the charter requires. They will not keep still under that line. Feed them anyway. Do not send them to the grove until they ask. Narrow-Hand will call this a leak. The pot does not have a theology. If the Seat wants a colour on these people they may send wood. We have soup.*
 
 ## The slips
 

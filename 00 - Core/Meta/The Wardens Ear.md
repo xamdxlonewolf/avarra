@@ -16,7 +16,7 @@ A spoken drill for learning **The Turning** well enough to pitch it. The setting
 
 `14 - Assets/Documents/The Wardens Ear/index.html`
 
-Say the scene out loud before you reveal the line. Mark a card cold only when the words were already yours. The marks stay in that browser. Eighty scenes, ten sittings, and twelve sentences on the first screen for the night of the pitch.
+Say the scene out loud before you reveal the line. Mark a card cold only when the words were already yours. The marks stay in that browser. Eighty scenes, ten numbered parts, and twelve sentences on the first screen for the night of the pitch.
 
 If a sentence on the page and a vault note disagree, the note wins. The page adds no canon. The world book stays as it is.
 
@@ -45,7 +45,7 @@ This pass did not build more world. The holes below are real. They stay for a la
 
 **Factions and guilds are already built.** The orders, the three criminal houses, the mill, the hull, the road, the watch, and the Tithe houses have a present: a want, a fear, and a dispute that can reach the table. What they lack is the memory of a house, the crises it survived. That is worth doing later, and only for the houses that will be on screen.
 
-Also still unwritten, and already tracked: the campaign's close, two claimants on one green, and the four open questions. Those questions stay open.
+Also still unwritten, and already tracked: the campaign's close, two claimants on one green, and the four open questions (see [[Roadmap]] Epic B). Those questions stay open.
 
 ## Links
 
@@ -56,4 +56,4 @@ Also still unwritten, and already tracked: the campaign's close, two claimants o
 
 ## GM Notes
 
-Sitting 9 states the keystone, the Other Hands, and the Phoenix harvest. The file is GM study. Do not hand the page to players. Player-facing procedure stays on [[At the Table]].
+Part 9 states the keystone, the Other Hands, and the Phoenix harvest. The file is GM study. Do not hand the page to players. Player-facing procedure stays on [[At the Table]].

@@ -24,7 +24,7 @@ updated: 2026-10-22
 
 ## Summary
 
-They outlived a family and did what a few of the deathless have started doing. They joined [[The Pourers]] and gave away years they could not keep carrying. A member gives one year at a time, each on its own night, with a drop of blood as the record. The year goes into the cup and is gone from the member's memory. The member's papers from that year go onto the shelf, and the circle counts the member one year younger. The circle says the cup holds a god it made. [[The Unspent]] is the presence in it, and it stores what it is given. The circle asks five years of a member in all, and Reimaethe has given four. A member may stop before any year, and the years already given stay in the cup.
+They outlived a family and did what a few of the deathless have started doing. Every Long-Lived person is asked once to join [[The Pourers]], and Reimaethe said yes. They gave away years they could not keep carrying. A member gives one year at a time, each on its own night, with a drop of blood as the record. The year goes into the cup and is gone from the member's memory. The member's papers from that year go onto the shelf, and the circle counts the member one year younger. The circle says the cup holds a god it made. [[The Unspent]] is the presence in it, and it stores what it is given. The circle asks five years of a member in all, and Reimaethe has given four. A member may stop before any year, and the years already given stay in the cup.
 
 They want to stop. They want their papers back, thin as that copy is, because the papers are all the circle returns. They want [[Mataero]] to keep writing *let* and not *why*.
 
@@ -32,7 +32,7 @@ This is one person, one shelf, one loft. The circle around them is [[The Pourers
 
 ## Appearance & Demeanor
 
-Deathless and recently emptied. They forget the ordinary way a person forgets a decade they sold. They wait to be asked in. They smile when someone says *Poured God* the quay-way, and the smile does not reach the year they are trying not to start.
+Deathless and recently emptied. They forget the ordinary way a person forgets the four years they gave. They wait to be asked in. They smile when someone says *Poured God* the quay-way, and the smile does not reach the year they are trying not to start.
 
 A second cup sits next to the first. They have not asked to drink from it. Asking would already cost them something with the circle.
 

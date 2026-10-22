@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 > Arrived in [[Eolvaeth]]'s gift-hall this Hale-month with no list behind them and a name they will not put on a wall. Given. Used to be an heir of a house that counts the Kept as the line that may rule. The leaf took that.
 
-*(hith-AYN.)* Conservative given-name. House **Brethlumal** *(breth-LU-mal)*. The line cast them out and kept the name on them. They will not say it. They will not take *of Eolvaeth*. A neighbour in the vale says Hithaen. A clerk behind the wall would say Brethlumal, Hithaen. A letter that still uses the house has not been opened. On Kumbaan the name is Hithaen. Seed, not a plot.
+*(hith-AYN.)* Conservative given-name. House **Brethlumal** *(breth-LU-mal)*. The line cast them out and kept the name on them. They will not say it. They will not take *of Eolvaeth*. A neighbour in the vale says Hithaen. A clerk behind the wall would say Brethlumal, Hithaen. A letter that still uses the house has not been opened. On Kumbaan the name is Hithaen.
 
 ## Summary
 
@@ -28,7 +28,7 @@ Somewhere behind surviving walls, families that have stayed Kept for generations
 
 They want a life that is not a wall-pass. They also want, on worse nights, the name back. Those are not the same want. [[Vaethod]] has not decided if Hithaen came to wait or to be counted.
 
-The remnant is [[The Walled Book]] — Inner Close inside [[Orenbren]], not a sixteenth flag. This is one person eating alms in a vale that has no list, which is why they walked here.
+The remnant is [[The Walled Book]], the Inner Close inside [[Orenbren]]. This is one person eating alms in a vale that has no list, which is why they walked here.
 
 ## Appearance & Demeanor
 
@@ -44,10 +44,11 @@ Young. Clothes that were good last year and are wrong for a camp-street. They fl
 - [[People of the Turning]] · [[Eolvaeth]] · [[Vaethod]]
 - [[The Walled Book]] · [[Orenbren]]
 - [[Law and Citizenship]] — witnessed standing
-- [[08 - People]] · [[Roadmap]]
+- [[08 - People]]
 
 ## GM Notes
 
+- **Links:** [[Roadmap]]
 - **Not in this note:** the Book of Tithes written out, or Hithaen as a chosen exile.
 - **Seed only.** The remnant is [[The Walled Book]] (political class rule, not another church). The Inner Close is in Orenbren, and it is not a sixteenth power. Hithaen is the disinherited Given. Do not name Talnin as this person. Do not write the war.
 - **Arc (if play picks them up).** *Lie:* if I get the name back I get myself back. *Need:* a standing that is witnessed for the person who Turned, not the line that lost them. *Want:* bread, a stall, or a wall-pass — they will not admit which.

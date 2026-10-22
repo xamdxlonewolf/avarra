@@ -22,13 +22,13 @@ The past as believed and as recorded — eras, events, timelines, and historical
 ### The spine, the lived road, the hinge, and the residues
 - [[The Ages of the Turning]] — two clocks, not four stacked ages; Cut-years; the Grafting as a still-moving wave
 - [[Before the Walk]] — unnamed preface; the Tree already stood
-- [[The Walking Years]] — only Thaeloren; you walked or you stayed Kept; the road as a life (three walks, inns, graves)
+- [[The Walking Years]] — only Thaeloren; you walked or you stayed UnTurned; the road as a life (three walks, inns, graves)
 - [[The Child Who Counted Stones]] — the road's paradox-fable *(lives in `07 - Religion`)*
 - [[The First Cut]] — the hinge and the spread; who cut is contested; Cutting-leave as captured copy-right
-- People from the years of the Walk and the Cut, not the knife: [[Monseoth]] · [[Rithnali]] · [[Sedrad]]
+- People named in the years of the Walk and the Cut (none of them is the cutter): [[Monseoth]] · [[Rithnali]] · [[Sedrad]]
 - [[The Branch That Came Away]] — the Cut's paradox-fable *(lives in `07 - Religion`)*
 - [[The Years of Hands]] — town Trees as the default; the walk's three jobs; Heskoren still the wave's front
-- [[The Child Who Climbed the Stone]] — the leftover's paradox-fable *(lives in `07 - Religion`)*
+- [[The Child Who Climbed the Stone]] — the paradox-fable of what the Walk left *(lives in `07 - Religion`)*
 - [[The Wrong Green]] — Cut-year 248; a hug announced as copper-green at [[Harrow's Green]]
 - [[Settlement Seeds]] — the places left by the old roads *(lives in `04 - Settlements`)*
 

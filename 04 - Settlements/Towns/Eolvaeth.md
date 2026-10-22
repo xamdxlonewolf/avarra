@@ -99,8 +99,6 @@ The unvouched Struck are the ache this seat was built to meet with faith rather 
 
 ## What can enter a scene
 
-The town's older work is devotion. The danger is not a sermon.
-
 - **A sent cohort walking back in.** Some Given at a luckier Hand. Some not. One unvouched. They arrive in the gift-hall while Vaethod is still chalking this year's notice. Saelid's stall feels it by evening.
 - **A camp-street fire.** Hale-month crush, tents that learned to winter, one lamp. The spring is the drink, not the bucket-line you wanted.
 - **An unvouched Struck in the gift-hall.** Faith or fear. Daron may already be downwind with a different body.

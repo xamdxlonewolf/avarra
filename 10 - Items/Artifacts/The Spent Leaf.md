@@ -3,7 +3,7 @@ title: The Spent Leaf
 type: item
 visibility: player
 note_status: fleshed
-tags: [item, artifact, turning-tree, keystone, remainder]
+tags: [item, artifact, turning-tree, remainder]
 aliases: [The Colourless, The Uncounted Fall, The Side-Yard Leaf]
 world: The Turning
 category: artifact

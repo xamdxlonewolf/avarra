@@ -37,7 +37,7 @@ updated: 2026-10-22
 
 People sleep here because the next dry ground is not guaranteed. **Huval** *(HOO-val)* feeds the night. Worn speech. They will point toward Harrow's and will not draw the canopy on the post. They have not seen it this month. The bog, or a flood, or a simple fold of hill, is enough. Weather on the Sundered upland already does this. The village did not invent a marvel.
 
-**This street's job is a night on a road that already exists.** Not the neighbour's week (that is Harrow's, for kitchens that can walk home). Not the wait as a destination (that is Eolvaeth, and Eolvaeth cannot see Harrow's and does not want to). Not a guest-grove. One kitchen is not a cluster.
+**Tunral's work is a night on a road that already exists.** Not the neighbour's week (that is Harrow's, for kitchens that can walk home). Not the wait as a destination (that is Eolvaeth, and Eolvaeth cannot see Harrow's and does not want to). Not a guest-grove. One kitchen is not a cluster.
 
 ## The street
 

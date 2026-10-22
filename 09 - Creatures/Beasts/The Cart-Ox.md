@@ -10,7 +10,7 @@ category: beast
 habitat: core farms, the Chart-run plain, broad Heskoren vales
 reveals: []
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-22
 ---
 
 # The Cart-Ox
@@ -21,7 +21,7 @@ The ox will not take a ford when the water is over the axle. It stops. A driver 
 
 On a ford that is already shallow, the driver still gets down and leads. They will not say why.
 
-A [[Two-Bodied]] person in an ox's body is a person. This animal is an ox. It is not on a guild roll, and it is not one of the five adversaries on [[Dangers of the Turning]].
+A [[Two-Bodied]] person in an ox's body is a person. This animal is an ox. It is not on a guild roll.
 
 ## Links
 

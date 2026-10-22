@@ -14,9 +14,9 @@ updated: 2026-10-22
 
 # Rules
 
-Table procedure already has four homes.
+Table procedure is in four notes.
 
-[[At the Table]] is the session note. [[Kind Heritage]] is the Kind ruling. [[Dangers of the Turning]] is the road. [[A Hidden Phoenix]] is the Phoenix a player can keep hidden. This folder does not reprint them.
+[[At the Table]] is the session note. [[Kind Heritage]] is the Kind ruling. [[Dangers of the Turning]] is the road. [[A Hidden Phoenix]] is the Phoenix a player can keep hidden.
 
 ## Links
 
@@ -24,4 +24,4 @@ Table procedure already has four homes.
 
 ## GM Notes
 
-This folder stays a pointer. A later note must not paste a second rules text here. The SRD stays the SRD.
+This section stays a pointer. A later note must not paste a second rules text here. The SRD stays the SRD.

@@ -35,7 +35,7 @@ No one agrees which pot was the first they failed to pull. Naming that town woul
 
 ## The Closed Seat (what they thought they were)
 
-They were not a dark lord and not a first king. They were a class that had grown a country around a job: **the one Tree cannot stand a world at once.** Someone must choose the road. A hug you never received because you were not let through is a Kept child with a different cause than want-of-a-trip. Both causes filled the far lands. [[Polity Archetypes|Vaethorn]]'s later guilt wants the denied to have been unworthy. The songs do not agree.
+They were not a dark lord and not a first king. They were a class that had grown a country around a job: **the one Tree cannot stand a world at once.** Someone must choose the road. A child turned away at the gate is UnTurned, for a different reason than want of the trip. Both causes filled the far lands. [[Polity Archetypes|Vaethorn]]'s later guilt wants the denied to have been unworthy. The songs do not agree.
 
 Lived:
 

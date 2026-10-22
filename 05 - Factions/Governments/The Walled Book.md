@@ -54,7 +54,7 @@ A person with a Condition who lives inside the walls works for wages, keeps what
 
 ## The lesson and the count
 
-The Close teaches that a hug is rare. It is not. The world count lives on [[The Premise]]: about two children in five are hugged at the Leaf-Fall, and about a quarter of all people stay Kept for their whole lives. Every town in the Turning has Kept neighbours, and most Kept people have never heard of the heir-roll.
+The Close teaches that a hug is rare. It is not. Most towns have Kept neighbours, and the shares are on [[Conditions]]. Most Kept people have never heard of the heir-roll.
 
 What is actually rare is a family that has stayed without a Condition on purpose, generation after generation, and treats that record as a birthright. The Closed houses do it in two ways. An heir who receives a colour is struck from the heir-roll, so the roll only ever lists people who were hugged. An heir also does not swear the kind of oath that can Strike a person, and stays away from the other ways a person can be Struck where they can. After enough generations, every name on the roll belongs to a hugged person. A family like that is rare. Being hugged is common.
 
@@ -65,7 +65,7 @@ Delamem and the other clerks of the Book can read the count. The school does not
 Not a hymn. A roster.
 
 - **Taxes** — coin, board, and a cut of self-paying labour. An [[The Answered|Answered]] shop inside the walls pays a craft-due the Ember-yard on the quay does not. A [[Two-Bodied]] ranging-week is scheduled as *owed work* before it is a ranging.
-- **Restrictions** — where a Conditioned person may hold a key, a stall, a vote in the Close's compact. The [[The Premise|Kept]] hold those. A Given who keeps a stall does it as a licensed exception, written.
+- **Restrictions** — where a Conditioned person may hold a key, a stall, a vote in the Close's compact. The [[Conditions|Kept]] hold those. A Given who keeps a stall does it as a licensed exception, written.
 - **Labour** — everyone who lives inside the walls owes the Close turns of work, the way a town expects each household to take a turn on the watch. The Book keeps the list of turns: green, hall, wall, road, and the beds outside the gate. A Kept household's turns are mostly the watch on the wall and the keeping of keys. A household with a Condition is given the heavier turns, and more of them, and the Book picks the turn by the Condition. The turns are not the Tithe. A person with a Condition owes the turns in addition to their Tithe. A person who does not want the turns can leave the city. The Book's list has no claim on anyone who lives outside the walls. The Book does not sell a person, lend a person to an employer, or hand a person over the way an owner hands over a worker. It cannot send for someone who has left.
 
 A Closed Heir who is **Given** at Leaf-Fall **loses status**. The Gift is a disinheritance. The hug keeps the name on the heir-roll. The colour takes it off. The person is still a person. They are not a Closed Heir. The Book already has turns of work written for what they have become.
@@ -81,7 +81,7 @@ Orenbren's sleep-line at the gate records who slept in a bed. The Close's Book r
 - They will not call the Book a scripture. A preacher who calls it scripture is bringing the Motherfaith into it, or doing the Close a kindness it did not ask for.
 - They will not Speak a colour or officiate a Leaf-Fall. A warden may come in for Turning-Week. The copy after the Speaking is *their* copy, not the Seat's and not the Threnhael's.
 - They will not pour years into a cup. [[The Pourers]] are a deathless hobby. A Closed Heir who is Long-Lived may pour. The Book does not care.
-- They will not hide a [[Phoenix]]. A white-fire fall inside the walls would be a problem for the Book to rank, and the Book would not hide it.
+- They will not hide a [[Phoenix]]. A white-fire fall inside the walls would be a problem for the Book to rank.
 - They will not add a sixteenth flag. Rothallo is Orenbren's capital. People still say the Inner Close. The fifteen already include Orenbren.
 
 ## How they reach a party
@@ -121,8 +121,8 @@ This is a page from the Book of Tithes. It records an heir, says the Book will s
 - [[Polity Archetypes|Threnmaieth]] · [[The Reckoned Offices]] — the other list
 - [[Law and Citizenship]] — the Kept as default legal person, here elevated to rule
 - [[The Tree-Wardens]] · [[The First Cut]] — hinge · [[The Closing]] — the war · [[The Low Wall]] — not these walls
-- [[The Pourers]] · [[The Protectors]] — other engines
-- [[Movements]] — the disinherited will not copy the turns of work onto the next town's slate
+- [[The Pourers]] · [[The Protectors]] — the two other groups, kept separate
+- [[Movements]] — disinherited people who will not take the Book's turns of work to the next town
 - [[Maiethlir]] · [[The Third Hearth]] · [[Hithaen]] — the person who lost the line
 - [[05 - Factions]]
 

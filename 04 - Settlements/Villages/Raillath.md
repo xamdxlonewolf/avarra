@@ -37,7 +37,7 @@ The Near Mile still has days in it. [[The Third Hearth]] lodges. Brenthael hosts
 
 There is a Hand. It is a village Hand, sound, and not a seat. Leaf-Fall for these hearths is small. The Mile's crowds do not stop for it. They stop to drink.
 
-**This street's job is the halt.** Not the stopped walk ([[Nelath]] did that, on a spur). Not the neighbour's week (Brenthael and the hold are already arguing that). Not a deathless note.
+**Raillath's work is being a halt.** Not the stopped walk ([[Nelath]] did that, on a spur). Not the neighbour's week (Brenthael and the hold are already arguing that). Not a deathless note.
 
 ## The street
 

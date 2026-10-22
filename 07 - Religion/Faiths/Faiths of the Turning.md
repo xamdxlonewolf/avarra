@@ -59,7 +59,7 @@ No faith is a villain-theology. Each is a good-faith answer to a real seam (the 
 | Motherfaith + Watching | Same Tree, two blessings; families inherit which words they use | Threnmaieth's roll wants one name for what you are |
 | Motherfaith + Fair Hand | Leaf-Fall as festival *and* signing-watch; Tithe paid as both tending and settling | Gift-language vs. debt-language over the same Bound soul |
 | Motherfaith + Old Ways | Pilgrimage to a graft *and* threshold-walking the old doors | Who tends a sickening Tree — warden or door-keeper |
-| Any mainland + Open Table | A rare shared supper; "no one is a stranger twice" | On the mainland a person belongs because a town watched them Turn. The Open Table says a person belongs after two suppers. A child of the table in Eolthael. |
+| Any mainland + Open Table | A rare shared supper; "no one is a stranger twice" | On the mainland a person belongs because a town watched them Turn. The Open Table says a person belongs after two suppers. A child of the table who reaches Turning-Week in Eolthael is the hard case. |
 
 A shared teaching-story — [[The Child at Four Doors]] — is told in all five houses with a different last line. That is how the world argues without a council.
 
@@ -68,7 +68,7 @@ A shared teaching-story — [[The Child at Four Doors]] — is told in all five 
 - Clergy: [[The Tree-Wardens]] · [[The Watchers]] · [[The Book-Hands]] · [[The Door-Keepers]] · [[The Table-Keepers]] · [[The Shore-Sitters]]
 - Shadow (not clergy): [[The Slide]]
 - The shared story: [[The Child at Four Doors]]
-- The felt year: [[What the Year Feels Like]] · [[The Houses and the Years]] · [[Maieth]] · [[The Unspent]]
+- The felt year: [[What the Year Feels Like]] · [[The Houses and the Years]] · [[Maieth]]
 - Placed on: [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
 - [[Turning Tree]] · [[The Wrong Green]] · [[The Old Tongue]] · [[Naming in the Turning]]
 - [[The Unspent]] · [[The Pourers]] — a fringe, not a sixth faith

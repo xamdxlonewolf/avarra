@@ -57,7 +57,7 @@ They cannot make Seine arrive. They cannot make the White Note fail. They can fe
 - **Seine** of the far cape — tenth summer, not come. The mother said next year. Next year was last year, and has been. Not a shrine Thilim will admit.
 - **Brenthael's warden** — unnamed, wants the stone. The chalked complaint is still under the lip ([[The Third Hearth#In-world text]]). Thilim has not answered on paper.
 - **[[Mataero]]** — will hear this house as a warning. Has not been here. A court letter may reach both.
-- **[[Vaethod]]** — a sent household has eaten here on the way toward a luck they did not have. Thilim did not take a White Note's rate.
+- **[[Vaethod]]** — a household Vaethod sent toward another Tree has eaten here, on the way toward a luck they did not have. Thilim did not take a White Note's rate.
 - **Orenbren lodging-custom** — hospitality as rent in Eolthael. Thilim charges less and is called a failure for it. The compact does not own this custom.
 
 No court of staff. A pot-boy in Hale-month. A shed. A cutting in the pot that is still not a Tree.

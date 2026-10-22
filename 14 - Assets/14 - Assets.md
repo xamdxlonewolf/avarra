@@ -16,14 +16,10 @@ Maps, images, handouts, documents, and references.
 ## Contents
 - **Maps:**
   - [[The Known Map]] — labelled schematic (SVG)
-  - `Maps/The Atlas Sheets.md` — label-free paintings (GM)
-  - `Maps/Map Generation Tooling.md` — prompts to regenerate; Azgaar (GM)
-  - [[The Selected Handouts]] — the unlabeled Prototype 3 sheets are the handouts. They stay in Maps.
 - **Library pages** — `Documents/Library/`: six short in-world pages a party can find and read, each written by someone inside the world. Index: [[The Library Pages]].
   - [[First Lessons at the Close School]] · [[The Keeping of the Grove]] · [[The Heir's Seat]] · [[A Room I Do Not Go Into]] · [[The Day-Road Count]] · [[Minutes of a Gift]]
-- **Audits (GM)** — `Documents/Audits/`: review notes, kept as a record. [[Vault Audit 2026-10-22]] is the latest. [[Editorial Audit 2026-08-29]] and [[Epic R Completion Gate 2026-08-31]] are earlier and closed.
 - **Images** and **References** — unused shelf. The paintings, and the reference painting, stay under Maps. Nothing has decided a second library.
-- **The Turning — World Book** (compiled reading copy; do not update unless asked):
+- **The Turning — World Book** (compiled reading copy):
   - `Documents/Setting Book/The-Turning-World-Book.html`
   - `Documents/Setting Book/The-Turning-World-Book.pdf`
   - `Documents/Setting Book/STRUCTURE.md` — chapter map
@@ -36,6 +32,12 @@ The vault notes remain the working source of truth.
 - [[Named Ground]] · [[The World Frame]] · [[01 - World]]
 
 ## GM Notes
+
+- **Maps (GM):**
+  - `Maps/The Atlas Sheets.md` — label-free paintings
+  - `Maps/Map Generation Tooling.md` — prompts to regenerate; Azgaar
+  - [[The Selected Handouts]] — the unlabeled Prototype 3 sheets are the handouts. They stay in Maps.
+- **Audits (GM)** — `Documents/Audits/`: review notes, kept as a record. [[Vault Audit 2026-10-22]] is the latest. [[Editorial Audit 2026-08-29]] and [[Epic R Completion Gate 2026-08-31]] are earlier and closed.
 
 ### The Warden's Ear (2026-10-11)
 

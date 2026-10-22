@@ -21,7 +21,7 @@ People mean a single blade that made the first copy of living wood. Hearths keep
 
 No house has produced the one blade. No dig has turned it up. A buyer who offers coin for it is buying a story. Paying does not finish the search.
 
-A person cannot hold this knife. It is not in a room. It has no SRD line. Nobody has named who made the First Cut. People who are serious about the question will not name a house, because a house would pick a hand.
+A person cannot hold this knife. It is not in a room. It has no SRD line. People who are serious about the question will not name a house, because a house would pick a hand.
 
 ## Links
 

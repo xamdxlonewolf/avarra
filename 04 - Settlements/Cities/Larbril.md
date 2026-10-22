@@ -69,7 +69,7 @@ A cart bound west is held while the driver sets a pebble on the dry line. Larbri
 
 ## People
 
-One new person. Not a court. [[Ornsael]] keeps Theisva, Lesna, and Bovaer. They are not moved here.
+One person. Not a court. [[Ornsael]] keeps Theisva, Lesna, and Bovaer. They are not moved here.
 
 - **[[Brormei]]** — stands at the meeting. Given name. Of Larbril if you are not from the road.
 

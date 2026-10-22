@@ -31,7 +31,7 @@ updated: 2026-10-22
 
 ## Overview
 
-Raitin is a river-city on [[Strandoren]], behind and between the premier coast, and one of the largest cities on that shore. It is the throne-city of [[Brenledd]]. Six charter-towns sit around it. This note does not name them. Villages and hamlets along the same water are not on the shared list.
+Raitin is a river-city on [[Strandoren]], inland of the Ledger Coast, and one of the largest cities on that shore. It is the throne-city of [[Brenledd]]. Six charter-towns sit around it. This note does not name them. Villages and hamlets along the same water are not on the shared list.
 
 The shared list is seven hearths. Raitin is one. People still recite Nidtol when [[Polity Archetypes|Lestrand]] offers to deal with one ruler instead of seven hearths. Nidtol is the hearth that made the league's first shared refusal in Cut-year 174, after the Grey Summer, and the name is recited for that. It is not this city, and it is not a person in this hall.
 
@@ -43,7 +43,7 @@ Raitin's daily work is clearing shared notes between hearths. Necessity is a per
 
 ## Ways in
 
-- **From the Ledger Coast.** The road comes inland from [[Orentel]] and the premier quays, inland and south-west of Orentel on the atlas (this note does not record the days), the coast this league got tired of meeting as the other party on a note. The city is not that estuary, and it does not hold a First-Hand year.
+- **From the Ledger Coast.** The coast this league got tired of meeting as the other party on a note is the Ledger Coast. The road to Raitin comes inland from [[Orentel]] and the premier quays, south-west of Orentel on the atlas. This note does not record the days. The city is not that estuary, and it does not hold a First-Hand year.
 - **By the river.** Barges and the lesser boat-traffic tie at the stair under the hall. This water is not the [[Named Ground|Chart-run]]. That run is [[Lunbra]]'s, four to eight days upriver of Orentel.
 - **From the charter-towns.** Six hearths sit around the city, each with its own Tree and its own vouching. Their names are not written here. A hamlet on the towpath is not a seventh name on the list.
 
@@ -71,7 +71,7 @@ A note can clear in this hall and still die in the next hearth. The fade sits in
 
 The hall sets one cup at the end of the table and does not fill it. Raitin will not say why.
 
-Bread for a sitting is broken at the river door. The heel stays on the sill until the sitting ends. They will not say why.
+Bread for a council meeting is broken at the river door. The heel stays on the sill until the meeting ends. They will not say why.
 
 On the morning a note is due, the river-stairs are swept from the water up toward the hall. The stair will not say why.
 

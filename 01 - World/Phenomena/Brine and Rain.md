@@ -15,7 +15,7 @@ updated: 2026-10-22
 
 # Brine and Rain
 
-On the Shore-lands a leaf-lot can be burned by brine and drenched by estuary rain in the same month. [[Climate of the Turning]] already says so. This is what it looks like from the lot.
+On the Shore-lands a leaf-lot can be burned by brine and drenched by estuary rain in the same month. This is what it looks like from the lot.
 
 A west wind lays salt on leaves that were green at dawn. A Chart-run rise, or a squall off the Old Crossing, then soaks the same leaves with fresh water until the paths flood. The plants taste both. A [[The Taken-In|Taken-In]] who rests in that lot feels the scald and the rot as one week, while the granary uphill still has bread. Tithe and staple come apart. That split is ordinary ecology, not a curse.
 

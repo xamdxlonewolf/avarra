@@ -19,7 +19,7 @@ East of [[Named Ground|the Rain-Wall]], [[Named Ground|the Well-wash]] is a rive
 
 A traveler from the core sees a silver in the dust and treats it as a ford. By morning it is a stain. The drink was never going to stay. [[Saelthael]] towns already know this, which is why they cluster at wells. [[Ornsael]]'s problem is a well dropping, not this shine. [[The Dry Stair]] is a different rise and Gives nothing. The day-wash is neither Ornsael's well nor the Dry Stair, and a camp made on it is gone by morning.
 
-[[Climate of the Turning|Rain-Shadow]] weeks already include a hard shower, a dust blow, or no change at all. A shower can make the wash run and still leave no civic drink. Animals cut the bank. A cart bogs in silt that was a road at noon. Taken-In ground that was watered by the shine is dry again before the leaves notice, except where someone spent the night bucket on a planting and not on the shine.
+[[Climate of the Turning|Rain-Shadow]] weeks include a hard shower, a dust blow, or no change at all. A shower can make the wash run and still leave no civic drink. Animals cut the bank. A cart bogs in silt that was a road at noon. Taken-In ground that was watered by the shine is dry again before the leaves notice, except where someone spent the night bucket on a planting and not on the shine.
 
 Sometimes a bright thread of water runs uphill of the last rain, lasts an hour, and is gone. Well-keepers say the rock remembers a wet year. Core travelers say the map is wrong. Nobody on the bank will say which of those is true.
 

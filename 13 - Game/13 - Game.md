@@ -11,7 +11,7 @@ updated: 2026-10-22
 
 # 13 - Game
 
-These notes hold the session procedure. The folders under this section point at them.
+The session procedure is in the notes below.
 
 ## Contents
 - [[At the Table]] — creation, Kept deal, Struck-in-play, travel, city, crime, Leaf-Fall, domain cards, a made thing
@@ -20,9 +20,13 @@ These notes hold the session procedure. The folders under this section point at 
 - [[A Hidden Phoenix]] — player-agency for a Phoenix who is not the public legend
 - [[Dangers of the Turning]] — wilderness adversaries and travel environments
 - [[Conditions]] — Transformation cards (hub in `09 - Creatures`)
-- [[Rules]] · [[Mechanics]] · [[Encounters]] · [[Tables]] · [[Daggerheart]] — pointers. The text stays on the four procedure notes. The SRD stays the SRD.
+- [[Rules]] · [[Mechanics]] · [[Encounters]] · [[Tables]] · [[Daggerheart]] — where each is covered: the text is on the four procedure notes above, and the rules text is the SRD's.
 
-## Related
+## Links
 - [[Kinds of the Turning]] · [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
-- [[The Premise]] · [[Law and Citizenship]] · [[Turning Tree]] · [[Named Ground]]
-- [[09 - Creatures]] · [[Conventions]]
+- [[Law and Citizenship]] · [[Turning Tree]] · [[Named Ground]]
+- [[09 - Creatures]]
+
+## GM Notes
+
+- [[The Premise]] · [[Conventions]]

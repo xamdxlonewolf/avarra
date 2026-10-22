@@ -9,7 +9,7 @@ aliases: [A Guest-Meal, The Stranger's Bowl, When a Guest Eats]
 world: The Turning
 reveals: []
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 ---
 
 # The Guest-Meal
@@ -34,11 +34,11 @@ If a filing house has a paper open, the house-name comes before the chair. The s
 
 The guest in [[Eolvaeth]] is often the other way around: a core clerk who came to see a week and found a pot. They are fed from the gift-hall if the house is thin. Nobody promises that the wood will speak. If the clerk asks about the leaf on the spring, someone passes the bread. The leaf stays unexplained ([[Eolvaeth]]).
 
-A walker who came in with a sent cohort eats with the cohort. The town does not make a separate table for people who stood somewhere else this summer.
+A walker who came in with a cohort that was sent to another Tree eats with the cohort. The town does not make a separate table for people who stood somewhere else this summer.
 
 ## At the hill
 
-First night at [[Ndenjoo]], the guest does not serve and does not sit the place that is set back from the board. Second night, a plate is put in their hands to carry, and someone says the sentence the hall already lives by. The words and the legal weight of a second sitting are on [[The Open Table]]. This page only has the plate.
+First night at [[Ndenjoo]], the guest does not serve and does not sit the place that is set back from the board. Second night, a plate is put in their hands to carry, and someone says the sentence the hall already lives by. The words and the legal weight of a second supper are on [[The Open Table]]. This page only has the plate.
 
 A guest who asks why the heel was eaten first, on the one night that happens, is given more bread. That is the whole answer ([[Ndenjoo]]).
 
@@ -58,5 +58,5 @@ Someone asks what the guest *is* before the bowl is down. The room goes quiet. T
 ## GM Notes
 *(Stripped on player-safe export.)*
 
-- **Courtesy with a street attached.** Do not turn a second sitting into a geas, and do not turn the first bowl into a test. The Open Table's scare, when a tenth year is in the room, is already on that note.
+- **Courtesy with a street attached.** Do not turn a second supper into a geas, and do not turn the first bowl into a test. The Open Table's scare, when a tenth year is in the room, is already on that note.
 - **Do not** coin a grace. The hill's place-setting words stay on [[Ndenjoo]] and [[The Open Table]]. Do not explain the heel, the leaf, the salt, or the thaw. World book untouched.

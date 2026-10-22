@@ -19,7 +19,7 @@ updated: 2026-10-22
 
 > **People call it the Poured God.** Some [[Long-Lived]] keep a cup and say they made a god by giving it their memory, one year at a time. A member is asked once to join, and the circle asks five years of a member in all. For each year a member gives, that year's papers go onto the long-house shelf, and the circle counts the member one year younger ([[The Pourers]]). They do it so they can keep living without carrying everything. Neighbours call it a memorial with airs. The Motherfaith calls it a private devotion. Nobody sets the cup up in a public square.
 
-This note is about the presence in the cup. The group that keeps the cup is [[The Pourers]]. Members say they give their memory of their own accord, one year at a time, each on its own night, and a member may stop before the next year. They read the shared store through blood, and they believe they created the god they give to. A member may leave, and leaving costs them their friends and their seat.
+This note is about the presence in the cup. The group that keeps the cup is [[The Pourers]]. Members say they give their memory of their own accord, one year at a time, each on its own night, with its own minutes, and a member may stop before the next year. They read the shared store through blood, and they believe they created the god they give to. A member may leave, and leaving costs them their friends and their seat.
 
 ## Overview
 
@@ -38,7 +38,7 @@ What a neighbour can see: a cup or a small bowl, usually ordinary ware; one drop
 
 ## What this is not
 
-It cannot make anyone Long-Lived. It is not a record of the unfinished work of the dead, and nobody asks it for help in a desperate moment. It is not a Tree cult, and it is not one of the five lived faiths.
+It cannot make anyone Long-Lived. It is not a Tree cult, and it is not one of the five lived faiths.
 
 ## Links
 - [[Long-Lived]] — the Condition whose funerals this practice answers

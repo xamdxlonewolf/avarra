@@ -48,7 +48,7 @@ Hands that still look like hall-work. A coat mended past the congregation's thre
 
 - **[[Vuthbraen]]** — can set a bowl. Cannot put Breillai back inside the hymn by setting it.
 - **[[Raermu]]** — the basket opens for the congregation's sick. Breillai's household is the question on the step.
-- **[[Seinbrun]]** — the tension, lived by one house. Not a faction of the exited. Do not grow one.
+- **[[Seinbrun]]** — the tension, lived by one house.
 
 ## Links
 - [[Seinbrun]] · [[Maiethvael]] · [[Vuthbraen]] · [[Raermu]]

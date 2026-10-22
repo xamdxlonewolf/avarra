@@ -37,7 +37,7 @@ Because they can go where footpaths can't and read the mountain's mood before it
 Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Caller · Hearth (not mixed) = The Mountain's Mood. Full custom package takes no [[Kind Heritage|Hearth-Mark]].
 
 - **Wind-Winged** — You can fly. While flying, you can mark a **Stress** to fold your wings and **dive** on a target within Close range: treat it as a **Finesse** attack dealing **d8** physical damage using your Proficiency, and end the dive anywhere within **Very Close** range of that target.
-- **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands. *(This is the only Kind feature that uses that phrase. It does not cover a person stepping from a doorway.)*
+- **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands. *(It does not cover a person stepping from a doorway.)*
 - **Wind-Caller** — You command the mountain wind the way the old fan-bearers did. Mark a **Stress** to call a sudden gust and choose one: **shove** a target within **Far** range a step closer or farther and knock it **Vulnerable**; **carry** yourself or a willing ally an extra move on the wind (a great leap, a saving glide down from a height, a boost across a gap); or **sweep** an area within Close range clear of smoke, gas, fog, or loose airborne projectiles until the start of your next turn.
 
 ## Naming & tongue
@@ -47,7 +47,7 @@ Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. It does not
 Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
 
 ## Links
-- [[The Premise]] — the two-layer (Kind + Condition) model
+- [[Conditions]] — the two-layer (Kind + Condition) model
 - [[Kitsune]] · [[Selkie]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]

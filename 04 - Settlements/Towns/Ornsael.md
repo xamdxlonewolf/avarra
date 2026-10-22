@@ -27,7 +27,7 @@ updated: 2026-10-22
 | **Fear** | The rope's next knot. A week of extra people on a falling drink. |
 | **Live conflict** | Theisva's share vs Lesna's planting vs Bovaer's column. |
 | **Enters a scene** | The well-mouth, a thirst-crowd, a cistern-fight, a west-road leaving at dusk. |
-| **How this square talks** | A well-share, not a warden's notice. Three working people. The mystery is a wet knot below the water. |
+| **How this square talks** | A well-share, not a warden's notice. Three working people. A knot stays wet below the water, and the town will not say why. |
 
 ## Overview
 
@@ -65,7 +65,7 @@ Homes bend to becomings: north-side cool rooms, green pots beside the doors, shu
 
 This is Maiethorn, the Motherland, Hands-country in the core. The extra mile is supposed to be optional, and this canopy Turns at home. The well is dropping. Children and Hale-month guests still go west, and the road that used to go further still does. The word *sael* is the same as in [[Saelvaeth]] on the live front: sowing, on two continents. If the wood sickened, a Hand could fail. It has not. The drink has.
 
-Vaethorn-guilt imported to sand that never asked for it is still an injustice, and it is the wrong sermon for this square. Waiting read as unworthiness was about a colour. This year the town empties itself for water. A core hymn about thin soil will be heard as a man who has never drawn a bucket.
+Vaethorn-guilt imported to sand that never asked for it is still an injustice, and it is the wrong sermon for this square. Waiting read as unworthiness was about a colour. This year the town empties itself for water. A core hymn about thin soil will be heard as someone who has never drawn a bucket.
 
 The well-rope is knotted at last year's water-line. This year's knot is wet even when the water stands below it. Ornsael will not say why. Theisva moves the knot. Lesna says the planting tastes the same when it is wet. Bovaer puts sand in a west-facing shoe and does not call that a rite.
 

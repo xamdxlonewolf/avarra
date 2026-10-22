@@ -55,7 +55,7 @@ They do not Speak a colour. They do not vouch a Struck in the mainland sense. Th
 - **Soonke** — shore-sitter on this stretch. Hands uphill. Will not seat on the sand. Wants this wreck off the hill before the next loud night. Same faith, other job.
 - **Saalo** — of the valley. Wants a crossing out to find Waandi. Will ask Njunda to treat a hull-rumour as a supper. Njunda will feed Saalo and will not promise a sea.
 - **Nolas** — sat twice. Of the table. Will not go back to a ship. The want that will not fit.
-- **Mbela** — attic on a Lestrand salt-stair. Same house, other water. They have not met. A party that has sat both rooms should not make them a circuit.
+- **Mbela** — attic on a Lestrand salt-stair. Same house, other water. They have not met.
 
 ## Links
 - [[Ndenjoo]] · [[The Table-Keepers]] · [[The Open Table]] · [[The Shore-Sitters]]

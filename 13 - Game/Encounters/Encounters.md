@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 A fight on the road is [[Dangers of the Turning]]. The five adversaries stay on their own notes under `09 - Creatures/Adversaries`. A scene in a town stays on that town's note.
 
-This folder does not stock encounters.
+There are no stocked encounters beyond those.
 
 ## Links
 
@@ -24,4 +24,4 @@ This folder does not stock encounters.
 
 ## GM Notes
 
-This folder stays a pointer. A later note must not restock the five, and must not add a sixth adversary here.
+This section stays a pointer. A later note must not restock the five, and must not add a sixth adversary here.

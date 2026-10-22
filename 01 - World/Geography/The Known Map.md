@@ -31,7 +31,7 @@ The drawing is a labelled schematic: it shows placement and little terrain. Regi
 
 ## What the drawing shows
 
-- Four landmasses in the locked relative places.
+- Four landmasses in their fixed relative places.
 - The **Old Crossing**, the **West Water**, the **Rain-Wall**, four rivers, the Noon Pass / Shelf-gate.
 - The fifteen as *regions*, not surveyed borders. [[Rothallo]], still called the Inner Close, as a mark *inside* Orenbren, not a sixteenth colour.
 - The towns and the seats. Capitals, large cities, and important towns are marked. [[Rothallo]] is the mark inside Orenbren. People still say the Inner Close. [[Maiethlir]] and [[Orentel]] stay the marks they were. [[Vaelhesk]] is the land, not a dot.

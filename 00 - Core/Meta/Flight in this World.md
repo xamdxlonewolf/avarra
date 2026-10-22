@@ -7,7 +7,7 @@ status: active
 tags: [meta, design-note, flight, condition, kind, balance]
 aliases: [Flight, Who Can Fly, Flight Tiering]
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-10-22
 ---
 
 # Flight in this World
@@ -23,9 +23,9 @@ updated: 2026-08-19
 | Flier | Who / how rare | What kind of flight | The lane-line — what they *can't* do |
 |---|---|---|---|
 | **[[Tengu]]** (Kind) | a whole ancestry; the sky-folk | **At-will, person-flight** — hands, mind, voice, tools, all aloft. Faerie sets the SRD precedent for at-will flight on a Kind. | Nothing missing — this is *the* flight fantasy. Everyone else is defined against it. |
-| **[[Two-Bodied]]** (avian) | common Condition (~18%), but a bird is one animal-choice among many | **Real animal flight** — a hawk genuinely flies. | **No hands, no person's mind, no speech, no tools** while aloft. A superb scout/courier; *not* a person in the air. Out-*animals* a Tengu, can't out-*person* one. |
-| **[[Phoenix]]** | exactly **one alive in the world** (<0.1%) | **Flaming flight** — wings of living fire. | Can't hide it — the moment they fly, everyone watching knows *what* they are. Singular and self-marking; not a build anyone can plan for. |
-| **[[Bound]]** (contracted) | slice of ~5% who choose Bound, and only if they contract *for* flight — uncommon | **A rare, marked bargain** — true flight is a GM's call, priced with heavier Terms + a Pledge. | The wings (or stranger tell) are **visible and can't be furled** — a flying Bound reads as plainly marked, like a Phoenix. Most are steered to gliding/slow-fall instead. Deliberately *not* one of Bound's ordinary hide-in-a-crowd boons. |
+| **[[Two-Bodied]]** (avian) | the commonest Condition, but a bird is one animal-choice among many | **Real animal flight** — a hawk genuinely flies. | **No hands, no person's mind, no speech, no tools** while aloft. A superb scout/courier; *not* a person in the air. Out-*animals* a Tengu, can't out-*person* one. |
+| **[[Phoenix]]** | exactly **one alive in the world** | **Flaming flight** — wings of living fire. | Can't hide it — the moment they fly, everyone watching knows *what* they are. Singular and self-marking; not a build anyone can plan for. |
+| **[[Bound]]** (contracted) | a few who contract for flight — uncommon | **A rare, marked bargain** — true flight is a GM's call, priced with heavier Terms + a Pledge. | The wings (or stranger tell) are **visible and can't be furled** — a flying Bound reads as plainly marked, like a Phoenix. Most are steered to gliding/slow-fall instead. Deliberately *not* one of Bound's ordinary hide-in-a-crowd boons. |
 
 ## Why it's fine at this density
 

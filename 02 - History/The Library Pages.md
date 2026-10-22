@@ -48,7 +48,7 @@ The primer is wrong about the hug. About two children in five are hugged at the 
 
 The facts on the page match the other notes. The war ran from Cut-year 19 to Cut-year 38. The writer counts those years from the cutting and calls them the nineteenth and the thirty-eighth year. The page does not name who made the First Cut, and it does not put a year on the Tree.
 
-What the page leaves out is the cost. It does not say that children walked the whole Long Mile and went home Kept because the gate refused them, or that people died on the roads ([[A History of the Turning]]). It calls a child sent home Kept "whole," as if that were no loss.
+What the page leaves out is the cost. It does not say that children walked the whole Long Mile and went home UnTurned because the gate refused them, or that people died on the roads ([[A History of the Turning]]). It calls a child sent home "Kept" and "whole," as if that were no loss.
 
 ## Minutes from the long-house
 

@@ -37,7 +37,7 @@ The Salt Walk is a sail and then the inland days. Most of the sail aims at [[Ore
 
 The Tree Turns the cove's own children. It does not Turn the Crossing. A family from the [[The Hinge Shore|other shore]] who missed the fair wind can sit here and watch the week happen somewhere they cannot see.
 
-**This street's job is the missed tide.** Prestige is Orentel's hold. Devotion, if it lands, is a hymn the city will schedule. Necessity is a child who is ten and a squall that does not care.
+**Denlad's work is the missed tide.** Prestige is Orentel's hold. Devotion, if it lands, is a hymn the city will schedule. Necessity is a child who is ten and a squall that does not care.
 
 ## The street
 

@@ -54,7 +54,7 @@ Hearth-register **Kusawe** (koo-SAH-way) — light, slipping, sibilant. The full
 Distribution (three hearths, not a fox-country): [[Kinds of the Turning]].
 
 ## Links
-- [[The Premise]] — the two-layer (Kind + Condition) model
+- [[Conditions]] — the two-layer (Kind + Condition) model
 - [[Selkie]] · [[Tengu]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]

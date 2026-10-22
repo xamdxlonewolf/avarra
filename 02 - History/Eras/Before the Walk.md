@@ -42,11 +42,11 @@ None dated. That is the point.
 
 A later chronicle that "discovers" a first king, a first war, or a first sermon in this era is doing the overlay [[The Watching]] warned about.
 
-**Physical leftovers (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play through entrances, pressures, and current actors. They do not start a year.
+**Physical remains (uncounted, walkable):** [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]. They support archaeology and play through entrances, pressures, and current actors. They do not start a year.
 
 ## Links
 - [[The Ages of the Turning]] · [[The Walking Years]] · [[The Watching]] · [[The Old Ways]] · [[Turning Tree]]
-- [[The Houses and the Years]] — door. This preface stays thin.
+- [[The Houses and the Years]] — the religious history of these years. This preface stays thin.
 - Places from before the count that a party can walk into: [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] · [[The Other Count]]
 - [[02 - History]]
 
@@ -61,8 +61,8 @@ Moved from the player-facing body during residual export polish:
 - **Do not fill this era in.** [[The Watching]] and [[The Old Ways]] already hold the two memories people can use (seeing without a mother; doors without a graft). A third "true prehistory" would flatten both.
 - **Keystone-adjacent, not keystone-confirming.** The Tree standing before it was called Hers is compatible with [[Is the Leaf-Mother Real|she is real]] *and* with "the Mother-name is later." Do not use this note to decide what she is. The *maternal intent* is locked; her metaphysical species is not.
 - **Nature of the limit:** a wound-in-the-deep-past is *one* available cause among several. Story 6.1 does not pick it. If a later epic wants "she is spent from something Before," that is a taste call, not a smuggled fact.
-- **The count is not the birthday of Conditions (settled 2026-10-01).** Cut-year 0 is a copy of wood. The Giving, and the organized walk, are older than that shelf and have no start year. Becoming at a door is older than the walk. Kinds are older than both. Do not build a second official calendar of reliable pre-Cut years. Pages older than the Cut may exist, and they are local and lossy: a grove-leave, a shrine name, a house note. Person-rolls are late. Past the oldest page a living keeper will stand behind, the record blurs — stones, the three leftovers, Kumbaan memory, Watchers who will not chisel a year. [[Long-Lived]] are Given only. They can remember a walk they witnessed. They are not a library of centuries from before the Giving. A clean switch at Cut-year 0 — she appeared when the chronicle starts, and before that there were no Conditions — is the overlay this note refuses.
+- **The count is not the birthday of Conditions (settled 2026-10-01).** Cut-year 0 is a copy of wood. The Giving, and the organized walk, are older than that shelf and have no start year. Becoming at a door is older than the walk. Kinds are older than both. Do not build a second official calendar of reliable pre-Cut years. Pages older than the Cut may exist, and they are local and lossy: a grove-leave, a shrine name, a house note. Person-rolls are late. Past the oldest page a living keeper will stand behind, the record blurs — stones, the three physical remains, Kumbaan memory, Watchers who will not chisel a year. [[Long-Lived]] are Given only. They can remember a walk they witnessed. They are not a library of centuries from before the Giving. A clean switch at Cut-year 0 — she appeared when the chronicle starts, and before that there were no Conditions — is the overlay this note refuses.
 
 - **Named figures.** Put named figures in the Hands and the Other Count, and only if they can survive a Watcher asking "seen by whom?" This era is kept thin on purpose.
-- **Do not date the Tree** from the three physical leftovers.
+- **Do not date the Tree** from the three physical remains.
 - **P2.1 tracker move.** Additional moved label: R.11 adventure-site depth.

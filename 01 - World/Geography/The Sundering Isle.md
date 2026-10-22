@@ -21,7 +21,7 @@ updated: 2026-10-22
 
 ## Overview
 
-The Sundering Isle is **off the edge of the reach-gradient entirely** — the one land the grafts never reached. Dead wood is not a Tree. Where [[Heskoren]] is thin, the Isle is *empty* of the [[Turning Tree|Trees]] the rest of the world is built around, and its people become what they are by **their own path**, outside the [[Turning Tree|Leaf-Fall]] altogether (how they become it is left open in the [[Yumboe]] note). It is walled off by a permanent band of storm, current, and reef — **the storm-wall** — that has wrecked most who tried the crossing, so that in [[Maiethorn]], [[Strandoren]], and [[Heskoren]] alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired, *"the good people from across the drowning sea."* Some of the stories are even true.
+The Sundering Isle is **off the edge of the reach-gradient entirely** — the one land the grafts never reached. Dead wood is not a Tree. Where [[Heskoren]] is thin, the Isle is *empty* of the [[Turning Tree|Trees]] the rest of the world is built around, and its people become what they are by **their own path**, outside the [[Turning Tree|Leaf-Fall]] altogether (nobody on the mainland knows how they become it). It is walled off by a permanent band of storm, current, and reef — **the storm-wall** — that has wrecked most who tried the crossing, so that in [[Maiethorn]], [[Strandoren]], and [[Heskoren]] alike a Yumboe is a figure from a sailor's tale: pearly-skinned, silver-haired, *"the good people from across the drowning sea."* Some of the stories are even true.
 
 Kumbaan is an ordinary *home*, warm and hospitable, that happens to be nearly impossible to reach. The Yumboes are not strange to themselves, only to a world that has never met them. They are a hill-people who love a feast, served by hands you cannot see, and the rest of the world thinks they are a legend.
 
@@ -32,7 +32,7 @@ Kumbaan is an ordinary *home*, warm and hospitable, that happens to be nearly im
 - **Mild, wet, moonlit.** A temperate maritime island climate under the storm-wall's cloud — but the Isle is famous (in its own tellings) for its **bright nights**: the people are nocturnal, and moonlight is their daylight.
 - **Small.** The one small continent of the four — an island-continent, not a sprawl; walkable, known-in-full by its people, the opposite of Heskoren's trackless vastness.
 
-Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Kumbaan]].
+Week-by-week weather, crops, sickness, and livelihood ecology: [[Climate of Kumbaan]].
 
 ## Reach
 
@@ -62,7 +62,7 @@ The storm-wall is not shut for good, and it is not a ferry route. The [[Named Gr
 2. A [[The Shore-Sitters|shore-sitter]] decides *alive*. Water, a blanket, no questions about Kind or colour. Dead go above the tide.
 3. The living are walked **uphill**. First night as *guest* starts at a hall, not on the sand.
 4. A [[The Table-Keepers|table-keeper]] decides *kin*. At the second meal the guest is told: *no one is a stranger twice.* That belonging is **on the isle**.
-5. Being called kin does not travel back to a mainland watch. [[Law and Citizenship|Road-word]] still works on a [[Strandoren]] quay *before* you sail. Here the three questions are not asked.
+5. Being called kin does not travel back to a mainland watch. [[Law and Citizenship|Road-word]] still works on a [[Strandoren]] quay *before* you sail. Here the watch's three questions (your name, your last hearth, who stands for you) are not asked.
 
 **A thinning** is a moon the sitters know — wreck-moons, the weeks after a crossing rumour. It is not a scheduled door.
 
@@ -82,7 +82,7 @@ A hall to start from: [[Ndenjoo]] (the Feeding Hill). Shore on that stretch: Soo
 - **[[Ndenjoo]]** — a hall that has to seat a wreck, a kin who will not leave, a sibling who wants out.
 - A mainland scholar (or heretic — cf. [[The Watching]], [[The Old Ways]]) who believes Kumbaan holds the answer to what the Trees really are.
 
-The labelled picture: [[The Known Map]]. Days: there are none that count. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on the wall.
+The labelled picture: [[The Known Map]]. No timetable exists. To draw another picture, use `14 - Assets/Maps/` — it is not an authority on the wall.
 
 ## Links
 - [[The World Frame]] — the four-continent frame · [[Named Ground]] · [[The Known Map]] · [[Climate of Kumbaan]] · neighbours (all distant): [[Heskoren]] (nearest settled land) · [[Strandoren]] (whence expeditions launch) · [[Maiethorn]]

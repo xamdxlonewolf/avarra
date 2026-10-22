@@ -31,7 +31,7 @@ The Pledge was **chosen up front**, at the signing — you knew what you would o
 
 **Colour.** None — it chains off Bound; the Tree never named them. Canonical palette (and the "no colour" rule): [[Turning Tree#Reading the colours (colour → Condition)]].
 **Path.** Struck only, and only through Bound. You cannot start here. The engine is on [[Turning Tree]]; the cause is [[Bound]].
-**How the square reads it.** [[The Leaf-Mother|Motherfaith]] pities a person who paid with part of themselves. [[The Fair Hand]] hears a closed account: paid in full, so they walk away. [[The Watching]] names a seeing of what is missing. [[The Old Ways]] still count them as kin of the oath-door, not a leftover the Tree refused.
+**How the square reads it.** [[The Leaf-Mother|Motherfaith]] pities a person who paid with part of themselves. [[The Fair Hand]] hears a closed account: paid in full, so they walk away. [[The Watching]] names a seeing of what is missing. [[The Old Ways]] still count them as kin of the oath-door, not something the Tree refused.
 **Where next.** Chains off [[Bound]] only. No colour, no guild, no school. Family, or a hired companion, keeps an Unbound person company through a long rest. The [[The Book-Hands|Book-Hands]] settled the contract the year the person was Bound, and they do not help with the loss afterwards.
 
 ## Daggerheart — Transformation card

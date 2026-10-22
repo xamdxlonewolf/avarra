@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 > **What this is.** The root language of **The Turning** — the old **liturgical tongue of the [[Turning Tree|Awakening Tree]]**, in which the [[The Leaf-Mother|Motherfaith]] says its rites. Every place-name, institution, and polity-name on the mainland derives from it. In-world it is called **Maiethren** *(MAI-eth-ren, "Mother-speech")* by the devout, or just **the Old Tongue** by everyone else. It is this world's **Latin**: nobody's mother-tongue on the street anymore, but the ancestor of every tongue that is, and still the language of the Tree, the rite, and the law's oldest words.
 
-> **In short.** One Tree, grafts carried out. One old tongue, names wearing down as they travel. Devout lands keep the *th*. Dock towns sand it off. How a written name sounds is how it sits toward the Tree, and that is why a polity's name for a thing shows its stance ([[Polity Archetypes]]). No new liturgical compounds are made; the crowded families in [[#Collision register]] are closed.
+> **In short.** One Tree, grafts carried out. One old tongue, names wearing down as they travel. Devout lands keep the *th*. Dock towns sand it off. How a written name sounds is how it sits toward the Tree, and that is why a polity's name for a thing shows its stance ([[Polity Archetypes]]). No new liturgical names are being made.
 
 ## Phonology & feel
 
@@ -48,7 +48,7 @@ The old words the setting's names are built from. The meaning is what the word m
 | **ren** | ren | speech, tongue | As a suffix, "the speech of —" (Maieth-**ren** = Mother-speech). |
 | **thael** | thayl | the Tree; sacred motherwood | The [[Turning Tree]] itself. |
 | **maieth** | MY-eth | the Mother | The [[The Leaf-Mother]]. |
-| **vael** | vayl | gift; *older:* what the land yields | A [[The Premise|Condition Given]] — a blessing handed down. [[The Old Ways]] claim this is a *narrowing*: the frontier still uses *vael* for harvest, a child returned from water, a person the hill kept. |
+| **vael** | vayl | gift; *older:* what the land yields | A [[Conditions|Condition Given]] — a blessing handed down. [[The Old Ways]] claim this is a *narrowing*: the frontier still uses *vael* for harvest, a child returned from water, a person the hill kept. |
 | **vaeth** | vayth | the waiting; the longing | The state of awaiting a gift (the [[Law and Citizenship|Kept]]; the pilgrim's longing). |
 | **hael** | hayl | whole, hale, sound | Untithed wholeness / health / being kept-whole. |
 | **thren** | thren | to count, to tally, to number | *Sacred* counting — stewardship, accounting-before-the-Mother. (Contrast **ledd**.) |
@@ -65,13 +65,7 @@ The old words the setting's names are built from. The meaning is what the word m
 | **hesk** | hesk | far/outer edge | Frontier coinage, not in the old liturgy (the liturgy is older than this grafting). [[Heskoren]], [[Vaelhesk]]. |
 | **strand** | strand | shore, strand, landing-coast | An old coastal loan naturalized before the daughter drifts; retained in [[Strandoren]], [[Polity Archetypes\|Lestrand]], and [[Netstrand]]. |
 
-### Root reserve and closed families
-
-The lexicon is intentionally small, but small must not mean endlessly recycling the same six sounds.
-
-- **Closed for new compounds:** *eol-, sael-, vael-/vaeth-, bren-, maieth-/thren-, -oren,* and *-hael*. Existing words remain; these families take no new members.
-- **Available but use sparingly:** *orn, lir, neth, ledd, hesk, strand, stel,* and *crae*. A use must still pass a spoken-collision check.
-- **Adding a root:** define its sound, old meaning, historical layer, and at least one reason existing roots cannot do the job. Add the root before the name, not afterward as an invented etymology.
+The word list is small and settled. No new roots are being added, and the names built on the old roots stay as they are.
 
 **A name that carries the whole setting:** the Awakening Tree's own liturgical name is **Thaeloren** *(THAEL-or-en)* — **thael** (Tree) + **oren** (to witness): *"the Tree that witnesses."* The world's entire [[Law and Citizenship|citizenship-by-witness]] system is folded into the name of the Tree itself. (Everyday worn form: **"the Thallow."**)
 
@@ -185,19 +179,6 @@ Full one-line derivations of the original three remain:
 
 **Named ground:** no new roots. Everyday first: **the Old Crossing** · **the West Water** · **the Rain-Wall** (Lirorn: *the Thaw-Wall*) · **the Noon Pass** · **the Shelf-gate** · **the Core-thaw** · **the Well-wash** · **the Rise-water** · **the Chart-run**. Gazetteer: [[Named Ground]]. These stay in the common tongue.
 
-## Collision register
-
-This is a stop-list, not another source of names.
-
-| Family | Existing words that remain | Ruling |
-|---|---|---|
-| **eol-** | Eolthael · Eoloren · Eolvaeth | Closed. *Eolstrand* retired in favour of **the Hinge Shore**. |
-| **sael-** | Saelthael · Saelvaeth · Saelorn · Saelhael · Ornsael | Closed. Use common handles in speech. |
-| **vael-/vaeth-** | Vaethorn · Vaelhesk · Vaeloren · Vaelbren · Vaelun · Vaethledd · Maiethvael · Leddvael · Thaelvaeth · Brenvaeth | Closed. The final thorn is too slight a spoken distinction to carry another category. |
-| **-oren** | Thaeloren · Vaeloren · Leddoren · Eoloren · Nethoren · Orenhael · Orenbren · Orentel · Heskoren · Strandoren | Closed. *Aeloren* retired. |
-| **bren-** | Brenvaeth · Brenorn · brenhael · Brenthael · Brenledd · Brenod | Closed. |
-| **maieth-/thren-** | Maiethren · Maiethorn · Maiethvael · Maiethlir · Threnmaieth · Trenledd · Threnhael | Closed. |
-
 ## Links
 - [[Polity Archetypes]] — the three corners · [[Powers of the Turning]] — all fifteen · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
 - [[Faiths of the Turning]] — Haelthael · Leddoren · Vaeloren · Ndeyaan
@@ -227,3 +208,24 @@ This is a stop-list, not another source of names.
 - **Coinage freeze.** Do not make another liturgical compound merely because two familiar roots fit. The crowded families in the collision register are closed. A genuinely necessary coinage must first add a root here, pass the collision check in `14 - Assets/Names/generate_names.py`, and earn a common spoken handle. The collision data and deterministic generators live in `14 - Assets/Names/`; existing names are not regenerated.
 - **Unused cants (do not flesh).** *Orenvaeth* and *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is not the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
 - **Seed.** The twelve other powers' names were drawn at seed `20260827`.
+
+### Root reserve and closed families
+
+The lexicon is intentionally small, but small must not mean endlessly recycling the same six sounds.
+
+- **Closed for new compounds:** *eol-, sael-, vael-/vaeth-, bren-, maieth-/thren-, -oren,* and *-hael*. Existing words remain; these families take no new members.
+- **Available but use sparingly:** *orn, lir, neth, ledd, hesk, strand, stel,* and *crae*. A use must still pass a spoken-collision check.
+- **Adding a root:** define its sound, old meaning, historical layer, and at least one reason existing roots cannot do the job. Add the root before the name, not afterward as an invented etymology.
+
+### Collision register
+
+This is a stop-list, not another source of names.
+
+| Family | Existing words that remain | Ruling |
+|---|---|---|
+| **eol-** | Eolthael · Eoloren · Eolvaeth | Closed. *Eolstrand* retired in favour of **the Hinge Shore**. |
+| **sael-** | Saelthael · Saelvaeth · Saelorn · Saelhael · Ornsael | Closed. Use common handles in speech. |
+| **vael-/vaeth-** | Vaethorn · Vaelhesk · Vaeloren · Vaelbren · Vaelun · Vaethledd · Maiethvael · Leddvael · Thaelvaeth · Brenvaeth | Closed. The final thorn is too slight a spoken distinction to carry another category. |
+| **-oren** | Thaeloren · Vaeloren · Leddoren · Eoloren · Nethoren · Orenhael · Orenbren · Orentel · Heskoren · Strandoren | Closed. *Aeloren* retired. |
+| **bren-** | Brenvaeth · Brenorn · brenhael · Brenthael · Brenledd · Brenod | Closed. |
+| **maieth-/thren-** | Maiethren · Maiethorn · Maiethvael · Maiethlir · Threnmaieth · Trenledd · Threnhael | Closed. |

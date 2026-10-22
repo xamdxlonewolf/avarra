@@ -26,7 +26,7 @@ Offices that already have a holder. The life stays on the person's page, or on t
 | [[Thilim]] | the Held bed | [[The Third Hearth]] |
 | [[Sorim]] | first-quay factor | [[Orentel]]. A house-agent. The charter-council is the many tickets behind them |
 | [[Tesara]] | the catching-year, this week | the stillers' shed, [[Orentel]]. The paying floor's master is not Tesara |
-| Haelin | town-warden | [[Harrow's Green]], and the square in [[The Opening]] |
+| Haelin | town-warden | [[Harrow's Green]], and the square at Harrow's Green |
 | Menirein · Tarvae · Videm · Sirtal | registrar, Reckoned Speaker, channel-clerk, warrant-hand | [[The Reckoned Offices]] |
 
 [[Njunda]] keeps the hill-hall at [[Ndenjoo]] by reputation. That note calls it a table, not an office.
@@ -38,7 +38,7 @@ Tora of Brenod, who walks the witness home, is on [[08 - People]]. Meirim is the
 ## Links
 
 - [[Vaethod]] · [[Rithim]] · [[Ledan]] · [[Thilim]] · [[Sorim]] · [[Tesara]] · [[Njunda]]
-- [[Harrow's Green]] · [[The Opening]] · [[The Reckoned Offices]]
+- [[Harrow's Green]] · [[The Reckoned Offices]]
 - [[People of the Turning]] · [[08 - People]] · [[Heroes and Villains]]
 - [[Eolvaeth]] · [[Maiethlir]] · [[Orentel]] · [[The Third Hearth]] · [[Ndenjoo]]
 

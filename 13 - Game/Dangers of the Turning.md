@@ -135,7 +135,7 @@ A Colourless Host is a Support: it makes the *place* worse. Pair it with walkers
 ## What this layer is not
 
 - A Condition bestiary. Two-Bodied range against Gap-Cats, not against "werewolves."
-- Adventure-site depth. [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] already have entrances.
+- Adventure-site depth. [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]] have their own notes.
 - A sixteenth power, a Kumbaan graft, or a haunted Tree. Dead wood is dead wood.
 - Permission to make the Leaf-Fall eerie. The scary edge on the road is weather, leftover hospitality, and people who missed a week.
 

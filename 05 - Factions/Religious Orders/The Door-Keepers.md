@@ -58,7 +58,7 @@ They are useful the way a midwife is useful, except the birth they attend is a l
 | A household at an ancestor-meal | Someone must know the names and keep the empty place | Speak the names. Set the place. Not let a guest sit in it. Eat. Argue Guest/First after the dishes if they argue. | Will not treat the empty place as a Returned's chair. Different door. Will not make this a chapel service. |
 | A Struck, or the people who found them | They Changed at a river, a grove, an oath-stone, a death; the town wants them vouched or gone | Take them back to the door that made them — if it can be found — and **name them kin**. Feed them. Walk with them if the town will not house them. | Will not walk them to a Tree to be acknowledged as Given (the warden may do that the same week; the fight is which name goes first). Will not settle a civic year (that is a Book-hand). Cannot *be* a civic pillar unless they themselves are Long-Lived, Bound, or Far-Voiced. |
 | A warden or a Road-hand | A graft in an old green is sickening; someone has Cutting-leave | Tend the wood as host or as keeper of a guest. Demand the meal before a second cut. | Will not carry the next scion up the road. Will not sell a cut. Will not call the Struck "unreached." |
-| A scholar, a Lestrand clerk, a curious pilgrim | They want the older sense of *vael*, or a drowning-stone found | Show the door. Use the old word for a harvest and a returned child. | Will not give them a map of every door. Some doors are walked, not published. |
+| A scholar, a Lestrand clerk, a curious pilgrim | They want the older sense of *vael*, or a drowning-stone found | They show the door and use the old word for a harvest and a returned child. | Will not give them a map of every door. Some doors are walked, not published. |
 
 ### An ordinary season (the walk is the job)
 
@@ -68,7 +68,7 @@ They are useful the way a midwife is useful, except the birth they attend is a l
 
 **The meal.** A place at the board for the ones in the ground. Quiet, domestic. The Kin-speaker is the one who knows the names. In a thin-reach district this is the same tired person who walked the ford at dawn.
 
-**When someone Changed later.** They do not start at the Tree. They start at the door — the river if it was water, the grove if it was green, the oath-stone if it was a vow, the death-place if it was unfinished work. They name the person *kin*. The Motherfaith's quiet receiving-rite may happen the same week. A Book-hand's novation may happen the same month. Play as three courtesies, not a trial. The exposed edge is the Struck the *town* will not house: the door-keeper has a name to give and not a pillar. They may spend a season walking with one person. They may not be able to.
+**When someone Changed later.** They do not start at the Tree. They start at the door — the river if it was water, the grove if it was green, the oath-stone if it was a vow, the death-place if it was unfinished work. They name the person *kin*. The Motherfaith's quiet receiving-rite may happen the same week. A Book-hand's novation may happen the same month. It is three courtesies, not a trial. The exposed edge is the Struck the *town* will not house: the door-keeper has a name to give and not a pillar. They may spend a season walking with one person. They may not be able to.
 
 They tend a healthy graft as a *guest in the grove* if the town has one. They may Turn under it. They may not pretend it invented becoming.
 
@@ -81,7 +81,7 @@ They tend a healthy graft as a *guest in the grove* if the town has one. They ma
 
 ### The contested grove (when the job collides with a warden)
 
-An ailing graft in an old Taken-In green is the signature fight: warden vs. door-keeper, guest vs. host, pilgrimage-scarcity vs. "we had ways." Play it as neighbours who both love the wood.
+An ailing graft in an old Taken-In green is the signature fight: warden vs. door-keeper, guest vs. host, pilgrimage-scarcity vs. "we had ways." Both are neighbours who love the wood.
 
 What they *do* with their hands is the same as the warden for an hour: water, watch blight, sit up with mortal wood. The argument is not horticulture. It is whether this Tree is a guest in the grove or a Tree the town failed. A **Guest-reading** Kin-speaker will pilgrimage *and* walk the doors, and will tend a dying graft as kin. A **First-reading** door-keeper will tend the same graft as a *guest in their house* and still refuse the Tender's blessing. Both revere the Struck and the Taken-In. A reading that starts pitying them as "unreached" has already become Motherfaith.
 
@@ -121,10 +121,10 @@ Struck door-keepers must still be **vouched anew**. Naming them kin is the house
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
-| [[The Tree-Wardens]] | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the doors. Vaethorn's Hands-folk find the missing seat infuriating and, in a dry year, quietly useful. | A sickening Tree in an old grove: who is host. Play as neighbours who both love the wood. A Narrow-Hand preacher calling the Struck "not hers" is who they will not eat with. |
+| [[The Tree-Wardens]] | A healthy graft is a guest. Guest-reading Kin-speakers pilgrimage *and* walk the doors. Vaethorn's Hands-folk find the missing seat infuriating and, in a dry year, quietly useful. | A sickening Tree in an old grove: who is host. Both are neighbours who love the wood. A Narrow-Hand preacher calling the Struck "not hers" is who they will not eat with. |
 | [[The Watchers]] | Two old memories, opposite edges. Before *at* the Tree / Before *without* one. | They will not agree on the Before, and neither will give way. The First Bowl, the guest-grove, is the ordinary room for it. It escalates with a meal refused, a Night Watch held in the green, or a Road-hand arriving in the middle. |
 | [[The Book-Hands]] | Kin-name and rewritten terms, sometimes the same Struck, same month. | Which name goes first. Two courtesies, not a trial. |
-| [[The Open Table]] | Ancestor-meals and a place set for staying-kin look, to a traveller, like cousins. They are not. The dead in the ground are not the unseen hands. | Kumbaan is not part of any grove the Door-Keepers keep. There is no Vaeloren mission on [[The Sundering Isle\|Kumbaan]]. |
+| [[The Open Table]] | Ancestor-meals and a place set for staying-kin look, to a traveller, like cousins. They are not. The dead in the ground are not the unseen hands. | The Door-Keepers walk no doors on Kumbaan. There is no Vaeloren mission on [[The Sundering Isle\|Kumbaan]]. |
 
 ## How they live in the three corners
 

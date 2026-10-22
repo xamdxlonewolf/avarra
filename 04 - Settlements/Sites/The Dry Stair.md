@@ -98,7 +98,7 @@ You can climb it in a quarter-hour. You can dare the last step. You can be hired
 
 > *One, the broken. Two, the thumb-name. Three, the laugh. I am not to say the last number because the last step is the dare. At the top there is a door that does not keep you in. There is a bowl that does not keep water. We go west for the week. We come here so we know the difference. If a warden plants again I will water it, and I will not call the death a slight. If a clerk writes a year I will rub it. If you are from the core, this is not your mile-shrine. We climb those too. They have ribbons. This has a dare.*
 
-The count shows that the town climbs the Stair to know the difference between a dare and a mile-shrine. The Road-hand who copied it wrote a dare down as if it were a mile. Both can skip the broken step.
+The count shows that the town climbs the Stair to know the difference between a dare and a mile-shrine. The Road-hand who copied it wrote a dare down as if it were a mile.
 
 ## Links
 - [[The Other Count]] · [[Before the Walk]] · [[Saelthael]] · [[Ornsael]]

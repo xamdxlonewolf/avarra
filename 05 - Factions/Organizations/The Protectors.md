@@ -29,7 +29,7 @@ They worship the one. They do not hold the worship in a square.
 |---|---|
 | **Want** | The one kept safe, and the stories kept pointed at an old name. |
 | **Have** | A closed hospice, a public clerk, a sanctuary that will not produce the Phoenix, and a generation of towns that have stopped looking. |
-| **Fear** | A guest who gets past the outer book. A clerk who walks someone out. |
+| **Fear** | A guest who gets past the outer book. |
 | **Live conflict** | Vimein will show a closed court and a kind sentence. A runner from a far warden is in the yard with a letter and is waiting to be let in. |
 | **Hooks** | A sanctuary that will not produce the one; a guest turned away from the inner court; a runner who waits in the yard. |
 
@@ -68,14 +68,15 @@ The party is asked to carry a letter to the Care and is not let in. A town wants
 These are the Care's own words to a visitor. They say the Phoenix is in care, that nobody will be shown them, and that the Care would like the story left alone.
 
 ## Links
-- [[Phoenix]] — the card · [[When the Fire Is Caught]] — the engine · [[Taeren]] · [[Rosire]]
+- [[Phoenix]] — the card
 - [[The Opening]] — session one; the Care stays off the map
 - [[Turning Tree]] — white-fire row
 - [[The Remainder]] — not this desk · [[The Pourers]] · [[The Walled Book]]
-- [[11 - Secrets]] · [[05 - Factions]]
+- [[05 - Factions]]
 
 ## GM Notes
 
+- **Links.** [[When the Fire Is Caught]] — the engine · [[Taeren]] · [[Rosire]] · [[11 - Secrets]]
 - **Worship used to hide coercive extraction.** The Protectors are the third of three groups that can look alike. They remove each Phoenix from public life. They cause **controlled deaths**. They **harvest Phoenix Fire**. They take the memory of those deaths with the forced Rise. They turn the bank into institutional power — heat, light, a remnant that still walks, a hush that holds. They think they are caring for a relic. They cannot afford to see that they are harvesting a person.
 - **What the player body leaves out.** The Care keeps a store of fire taken from the dying, and it stays warm when the street is not. It hushes a second white-fire on purpose: a white-fire fall Spoken far away is filed as a mis-Speaking or a hush, a far graft with no Speaker never enters the record, and a letter about such a leaf does not come back answered. The doctrine "there cannot be two" is how a new leaf is made into a hush. The Care fears a Spoken white-fire while it still "holds" the old name, the one dying in the inner court while a guest waits, and a remnant going to ash in front of a guest. A child Spoken white-fire in a far town needs a runner, and the runner does not arrive. Vimein hires quiet people to keep a hush, and a guest who got to the inner door comes out with a kind sentence and a missing hour.
 - **Use the locked engine. Do not rewrite it.** [[When the Fire Is Caught]]: one Gift; original self ends at the death they cannot Rise from; banked fire forces a Rise (memory of that death taken; Hope still scars) while the Gift lasts; after the Gift ends, the bank keeps a remnant, not a Phoenix; a new leaf may fall unseen because the remnant is still *called* the Phoenix. A PC Phoenix is never forced to Rise. That rule stays.

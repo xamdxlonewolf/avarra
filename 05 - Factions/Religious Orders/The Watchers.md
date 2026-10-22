@@ -98,7 +98,7 @@ In [[Polity Archetypes|Threnmaieth]] they are a known column on the [[Naming in 
 
 ### What they carry
 
-Almost nothing that looks like clergy. A scrap for the description (plain paper, not a book — a book would be a Settler's tool). A coat that lives in the old room and smells of last year's eve. In a Bare Tree household, no Mother-mark on the door-lintel; in a Masked one, the warden's mark *and* a second, older scratch underneath that a clerk can miss.
+Almost nothing that looks like clergy. A scrap for the description (plain paper, not a book — a book would be a Settler's tool). A coat that lives in the old room and smells of last year's eve. In a Bare Tree household, no Mother-mark on the door-frame; in a Masked one, the warden's mark *and* a second, older scratch underneath that a clerk can miss.
 
 They have no stamp, no Cutting-leave, no ticket. They cannot licence a Stilled. They cannot plant a Tree.
 

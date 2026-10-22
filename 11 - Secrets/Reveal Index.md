@@ -82,7 +82,7 @@ Grouped by home folder. This is a find-list, not a reading order. The rungs of t
 **Religion (faiths, myth, deities, rites)**
 [[Maieth]] · [[Faiths of the Turning]] · [[The Fair Hand]] · [[The Leaf-Mother]] · [[The Old Ways]] · [[The Open Table]] · [[The Watching]] · [[The Houses and the Years]] · [[The Uncoloured Intake]]
 
-[[Laevila]] holds the un-recut lintel copy, which is a Watching clue. Its GM wall does not name the Hands, so `keystone-adjacent` alone is correct there.
+[[Laevila]] holds the copy of the recut beam's hidden face, which is a Watching clue. Its GM wall does not name the Hands, so `keystone-adjacent` alone is correct there.
 
 ## `the-unspent`
 
@@ -107,7 +107,7 @@ Grouped by home folder. This is a find-list, not a reading order. The rungs of t
 **Library**
 [[Minutes of a Gift]]
 
-[[Reimaethe]] is a Pourer who gives years each night. Her player body states only the practice, and her GM Notes tell the GM not to say in player text that the Unspent was in the household before the circle named it.
+[[Reimaethe]] is a Pourer who gives one year at a time. Their player body states only the practice, and their GM Notes tell the GM not to say in player text that the Unspent was in the household before the circle named it.
 
 ## `when-the-fire-is-caught`
 

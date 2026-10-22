@@ -23,7 +23,7 @@ The speech here is the *eroded* [[The Old Tongue|Old-Tongue drift]]: the *th* is
 
 ## Overview
 
-Strandoren is the **crossroads of the known world** — a continent of harbours, its long coastline so deeply indented with bays, sounds, and peninsulas that no point sits far from saltwater. If [[Maiethorn]] is the old cathedral heart, Strandoren is the **market that grew up facing it**: a burgher world of charter-towns, guild halls, banking houses, and quays. The [[Turning Tree|Trees]] here are mature and many — reach is high, the Given are dense — but the *faith* is worn light, folded into commerce until a child's [[Turning Tree|Turning]] is watched less as a sacrament than as a question of *which guild the colour opens.* This is where [[Economy and the Tithe|deathless banking]] reaches full flower and Condition-labor buys the world's most advanced public works.
+Strandoren is the **crossroads of the known world** — a continent of harbours, its long coastline so deeply indented with bays, sounds, and peninsulas that no point sits far from saltwater. If [[Maiethorn]] is the old cathedral heart, Strandoren is the **market that grew up facing it**: a land of charter-towns, guild halls, banking houses, and quays. The [[Turning Tree|Trees]] here are mature and many — reach is high, the Given are dense — but the *faith* is worn light, folded into commerce until a child's [[Turning Tree|Turning]] is watched less as a sacrament than as a question of *which guild the colour opens.* This is where [[Economy and the Tithe|deathless banking]] reaches full flower and Condition-labor buys the world's most advanced public works.
 
 Strandoren is free, prosperous, and cool. Nothing here is policed: your faith, your gift, and your marriage are your own. But everything is *priced*, and the injustice is the market's. A person who cannot pay fades while a rich continent steps politely around them. Warmth is not its virtue; liberty is.
 
@@ -34,7 +34,7 @@ Strandoren is free, prosperous, and cool. Nothing here is policed: your faith, y
 - **[[Named Ground|the West Water]]** (west/south) — the wider sea toward [[Heskoren]] and, far beyond, [[The Sundering Isle]]. [[Netstrand]] faces it. Strandoren's boldest houses run the frontier trade; almost none have crossed the storm-wall (those who claim to are the tellers of the Yumboe stories).
 - **Interior**: fertile lowlands along **[[Named Ground|the Chart-run]]**, feeding the port-cities; mild maritime climate, wet and temperate. Mature grafted Trees stand thick along the wealthy coasts. [[Trenledd]] sits on the stretch that got filed. The First Cut's inland "river-days" are this run.
 
-Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Strandoren]].
+Week-by-week weather, crops, sickness, and livelihood ecology: [[Climate of Strandoren]].
 
 ## Reach
 

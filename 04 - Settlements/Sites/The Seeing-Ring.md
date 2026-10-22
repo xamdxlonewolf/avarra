@@ -7,7 +7,7 @@ status: active
 tags: [site, archaeology, pre-walk, watching]
 aliases: [The High Stones, The Before-Keep, The Over-Built Watch]
 world: The Turning
-region: "[[Maiethorn]] hymn-country — a hill in old [[The Watching]] districts, not the grove, not Maiethlir"
+region: "[[Maiethorn]] hymn-country — a hill in the old [[The Watching]] country, north-east of Maiethlir"
 stratum: two builds — uncounted ring below; later shrine-work above, now emptied
 reveals: [keystone-adjacent]
 created: 2026-08-30

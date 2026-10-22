@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # The Ages of the Turning
 
-> **What this is.** How **The Turning** divides the past — the setting’s era spine. This is not a chronicle of kings and not a four-age cosmology dump. The starting fact is this: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and the devout say the Mother's reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Life on the road → [[The Walking Years]]. The hinge event and the spread → [[The First Cut]]. The present as leftover → [[The Years of Hands]] · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]]. The whole history told in order, in one page → [[A History of the Turning]].
+> **What this is.** How **The Turning** divides the past — the setting’s era spine. This is not a chronicle of kings and not a four-age cosmology dump. The starting fact is this: once there was only the [[Turning Tree|Awakening Tree]], and a child's tenth-year Turning meant a *walk* to it; then grafts travelled, and the devout say the Mother's reach travelled with them. This note names the ages, how years are counted, and what that fact *did* to law, money, language, and the map. Life on the road → [[The Walking Years]]. The hinge event and the spread → [[The First Cut]]. The present, with what the Walk left behind → [[The Years of Hands]] · [[Settlement Seeds]]. Dated years that were not wood → [[The Other Count]]. The whole history told in order, in one page → [[A History of the Turning]].
 
 
 ## The organizing idea: two clocks, not four stacked ages
@@ -34,7 +34,7 @@ Both clocks sit on an unnamed preface: [[Before the Walk]]. The Tree was already
 | | Everyday | Liturgical | Says | What it *is* |
 |---|---|---|---|---|
 | Preface | **[[Before the Walk]]** | *(mostly unnamed)* · [[The Watching]] keep **the Before** | — | The Tree already stood. Kinds, doors, and seeing without a mother's name. Uncounted on purpose. |
-| Count of how you Turned, old default | **[[The Walking Years]]** | **Brenvaeth** *(BREN-vaeth)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed [[Law and Citizenship\|Kept]] for want of the trip. Far lands ran heavy on the Kept and the [[The Premise\|Struck]]. |
+| Count of how you Turned, old default | **[[The Walking Years]]** | **Brenvaeth** *(BREN-vaeth)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed [[Law and Citizenship\|UnTurned]] for want of the trip. Far lands ran heavy on the UnTurned and the [[The Premise\|Struck]]. |
 | The hinge | **[[The First Cut]]** | **Eoloren** *(EOL-or-en)* | "the witnessed hinge" | Someone cut living wood and it *took*. Who, is argued. That it happened, is not. |
 | Count of where the wood has reached | **the Grafting** | *(process, not an age you exit)* | — | The carrying of hands. Still unfinished at the [[Heskoren\|Sundered Reach]]. Never crossed the storm-wall. |
 | Count of how you Turned, new default | **[[The Years of Hands]]** | **Ornthael** *(ORN-thael)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains — as devotion, prestige, or necessity where a graft has failed. |
@@ -57,7 +57,7 @@ There is **no universal year-zero.** Same twelve months; three new-year's days (
 
 **Present:** **Cut-year 387** — the 387th summer since the First Cut.
 
-**What nobody can date.** The [[Turning Tree|Awakening Tree]] is **older than any reliable dating.** [[Before the Walk]] has no start. Who made the First Cut is contested ([[The First Cut]]). Believers do not agree on what limits [[The Leaf-Mother|the Leaf-Mother]], and skeptics say there is no Leaf-Mother.
+**What nobody can date.** The [[Turning Tree|Awakening Tree]] is **older than any reliable dating.** [[Before the Walk]] has no start. Who made the First Cut is contested ([[The First Cut]]). Believers ask why her Trees reached the far lands late, and skeptics say there is no Leaf-Mother.
 
 **Cut-year 0 is a graft.** It is the first witnessed copy of living wood. It is not the first Condition, not the first Giving, and not the Tree's birthday. The Giving and the walk sit in [[Before the Walk]] and [[The Walking Years]] with no start year on this shelf. Becoming at a door is older than the walk. Being born a Kind is older than both.
 
@@ -79,7 +79,7 @@ A freshly planted scion still takes **a generation** to hold a Leaf-Fall ([[Turn
 
 These are the lasting effects of the two clocks on law, money, clergy, language, and the map.
 
-**Law.** [[Law and Citizenship|Citizenship-by-local-witness]] is a **Hands-era default.** In the Walking Years the town that *saw you Turn* was the crowd under Thaeloren — or no one, if you never arrived. Far children who stayed Kept were not "unmarked on a roll"; they were **unwitnessed as Given because they did not make the trip.** Vouching-at-a-distance (a [[Long-Lived]] who remembers the origin-fall, a [[Bound]] word, a [[Far-Voiced]] feeling) was invented to *carry the origin's witness home.* The unvouched Struck are older than the grafts: a becoming on a far threshold was always unwitnessed. The Grafting did not invent that unease. It *localized* who is expected to have been seen.
+**Law.** [[Law and Citizenship|Citizenship-by-local-witness]] is a **Hands-era default.** In the Walking Years the town that *saw you Turn* was the crowd under Thaeloren — or no one, if you never arrived. Far children who stayed UnTurned were not "unmarked on a roll"; they were **unwitnessed as Given because they did not make the trip.** Vouching-at-a-distance (a [[Long-Lived]] who remembers the origin-fall, a [[Bound]] word, a [[Far-Voiced]] feeling) was invented to *carry the origin's witness home.* The unvouched Struck are older than the grafts: a becoming on a far threshold was always unwitnessed. The Grafting did not invent that unease. It *localized* who is expected to have been seen.
 
 **Money.** Many [[Economy and the Tithe|deathless houses]] began as **road-houses** — inns, endowments, and century-credit for families who had to walk. When the walk stopped being required in the core, the houses still had Long-Lived memory of every debtor on the road, and paper that outlived the pilgrimage-season. They became banks. The endow-not-inherit loop is older than the Hands; the *trusted note* is a Walking-era instrument that outlived its road. The same houses survive with a different business, and present banking is old.
 
@@ -120,8 +120,8 @@ In Cut-year 387 the house is in its **307th** summer, and Ledan still asks which
 ## Links
 - [[A History of the Turning]] — the whole history in order, in one page
 - **Eras & the hinge:** [[Before the Walk]] · [[The Walking Years]] · [[The Child Who Counted Stones]] · [[The First Cut]] · [[The Years of Hands]] · [[The Child Who Climbed the Stone]] · [[Settlement Seeds]]
-- [[The Houses and the Years]] — religious-history door. The spine stays here.
-- **The Other Count:** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · leftovers [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
+- [[The Houses and the Years]] — the religious history of these years. The spine stays here.
+- **The Other Count:** [[The Closing]] · [[The Two Papers]] · [[The Grey Summer]] · [[The Thaw-Break]] · [[The Hinge Hush]] · remains [[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
 - [[The Reckoning of the Year]] — months, solstice, three new-year's days; Cut-years live there too
 - [[Turning Tree]] · [[The Tree-Wardens]] · [[The Leaf-Mother]]
 - [[The World Frame]] · [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]

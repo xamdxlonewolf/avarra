@@ -15,7 +15,7 @@ updated: 2026-10-22
 
 # The World Frame
 
-> **What this is.** The top-level geography of **The Turning** — the four continents, how they sit relative to one another, and the single idea that organizes the whole map: a **reach-gradient**, from the sacred, Tree-dense origin outward to the thin frontier and the storm-walled isle beyond. Every region, polity, and settlement hangs off it. Fifteen great powers sit across three large continents and one small one, and the three [[Polity Archetypes|worked polities]] each have a place on it.
+> **What this is.** The top-level geography of **The Turning** — the four continents, how they sit relative to one another, and the single idea that organizes the whole map: a **reach-gradient**, from the sacred, Tree-dense origin outward to the thin frontier and the storm-walled isle beyond. Every region, polity, and settlement hangs off it. Fifteen great powers sit across the three large continents, and the three [[Polity Archetypes|worked polities]] each have a place on it.
 
 ## The organizing idea: a reach-gradient
 
@@ -23,9 +23,9 @@ The map is not a random scatter of lands — it is a **gradient of the [[Turning
 
 **sacred-dense origin → mercantile middle → thin frontier → storm-walled isle beyond**
 
-There is **one [[Turning Tree|Awakening Tree]] (Thaeloren)**, and every town Tree is a living graft carried outward from it. So the further a land sits from the deep, old, densely-grafted core, the *thinner* its reach tends to run — fewer, younger, more fragile Trees, more children hugged ([[Law and Citizenship|Kept]]), more who miss a Tree and stay UnTurned, more people [[The Premise|Struck]] alone and later. The physical map and the cosmological map are the **same map**.
+There is **one [[Turning Tree|Awakening Tree]] (Thaeloren)**, and every town Tree is a living graft carried outward from it. So the further a land sits from the deep, old, densely-grafted core, the *thinner* its reach tends to run — fewer, younger, more fragile Trees, more children hugged ([[Law and Citizenship|Kept]]), more who miss a Tree and stay UnTurned, more people [[Law and Citizenship|Struck]] alone and later.
 
-This also mirrors the [[The Old Tongue|language]]: the [[The Old Tongue|Old Tongue drifts]] furthest from the sacred sound exactly where the Trees are thinnest — the *conservative* drift in the core, *worn* on the frontier, *eroded* on the trade coast. **How a land sounds, how it Turns, and where it sits are one fact seen three ways.**
+The [[The Old Tongue|Old Tongue]] drifts along the same gradient: *conservative* in the core, *worn* on the frontier, *eroded* on the trade coast.
 
 ## The four continents at a glance
 
@@ -36,9 +36,9 @@ This also mirrors the [[The Old Tongue|language]]: the [[The Old Tongue|Old Tong
 | **③** | **[[Heskoren]]** *(the Sundered Reach)* | ●○○ thin | The frontier; newest-grafted, half-wild | **[[Polity Archetypes|Vaethorn]]** · [[Ornled]] · [[Vaelhesk]] · [[Saelvaeth]] | [[The Old Ways]] |
 | **④** | **[[The Sundering Isle]]** *(the Yumboe homeland)* | ○○○ near-none | The storm-walled remote isle; mythic-rare people | *(not a mainland power)* | [[The Open Table]] |
 
-Playable seasons and week-weather across the four: [[Climate of the Turning]].
+Seasons and week-by-week weather across the four: [[Climate of the Turning]].
 
-The three [[Polity Archetypes|archetype polities]] deliberately land on **three different continents** — so they are not neighbours. Each of the three large continents also carries **several of the ~15 [[The Premise|great powers]]** (named in [[Powers of the Turning]]); the archetype is only the most-worked example on each.
+The three [[Polity Archetypes|archetype polities]] deliberately land on **three different continents** — so they are not neighbours. Each of the three large continents also carries **several of the ~15 great powers** (named in [[Powers of the Turning]]); the archetype is only the most-worked example on each.
 
 ## How they sit (relative geography)
 

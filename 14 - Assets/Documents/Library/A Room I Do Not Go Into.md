@@ -3,11 +3,11 @@ title: A Room I Do Not Go Into
 type: handout
 visibility: player
 note_status: draft
-tags: [handout, library, lestrand, poem, long-lived, epic-h]
+tags: [handout, library, lestrand, poem, long-lived]
 aliases: [The Room Poem]
 reveals: []
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 *A poem by a Long-Lived writer. The copy kept on the long-house shelf in Lestrand. No name is on the copy.*

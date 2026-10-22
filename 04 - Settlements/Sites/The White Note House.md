@@ -32,7 +32,7 @@ updated: 2026-10-22
 
 The same fortune as [[The Third Hearth]], later. In Brenvaeth the house was beds, porridge, and credit for a walk you could not miss twice. When the walk stopped being required in the core, the Long-Lived still remembered every debtor, and the paper outlived the pilgrimage-season. The desk sat down on [[Orentel]]'s third quay because that is where notes now move. The inland upper room is occupancy — twelve beds in the rise behind the salt, looking at a Tree that still Turns for free.
 
-**What it sells now:** century instruments, trusted paper, **the terms** on a First-Hand year (credit for a winter you do not need), loft-terms to wool through Hale-month, and — still — the old kind of note for a necessity-family: eat now, pay on the home-walk. Same paper, two jobs.
+**What it sells now:** century instruments, trusted paper, **the terms** on a First-Hand year (credit for a First-Hand year you do not need), loft-terms to wool through Hale-month, and — still — the old kind of note for a necessity-family: eat now, pay on the home-walk. Same paper, two jobs.
 
 The house does **not** hold the berth and does not own the hull. A Coast origin-winter is one product with three desks: [[Netstrand]] supplies the ship → this house writes the term → [[Orentel|Sorim]] holds the first-quay berth. [[Orenbren]] takes the sleep at the far end. Ledan will convert the year. They will not tell the crane which berth is empty.
 

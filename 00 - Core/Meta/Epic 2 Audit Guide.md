@@ -12,17 +12,17 @@ updated: 2026-10-22
 
 # Epic 2 Audit Guide
 
-> **Purpose.** A **fresh-context read-through** companion. The user wants to walk through everything built in Epic 2 so far, read each note together, and audit it against intent — *does it sound like what they want?* This note is the map: what to read, in what order, and what to pressure-test. Start here, then open each artifact in the listed order.
+> **Purpose (history; the audit is closed).** A **fresh-context read-through** companion. The user wants to walk through everything built in Epic 2 so far, read each note together, and audit it against intent — *does it sound like what they want?* This note was the map: what to read, in what order, and what to pressure-test. It is kept as a record of how the audit ran.
 
 > **✅ AUDIT COMPLETE (2026-08-21).** Walked all four artifacts with the user in dependency order; every checkpoint confirmed or resolved in place. **Resolutions:** (1) **Frame** — reframed "~15 polities" as the *great powers* (top tier), with smaller states/free-cities/frontier beneath; named one continent the **motherland** (origin of the Awakening Tree) and corrected the reach model per user — *reach travels with the grafts*, so thin reach = Tree-poor places today; the old distance-gradient (one Tree, pilgrimage, far-flung stayed Kept) is banked as an **Epic 6 history seed** ("The Grafting"). (2) **Keystone** — added a nod in clue #3 that the reach has *grown* with the grafts (better evidence of a hand than a static edge). (3) **2.1 polity stances** — rewrote from a 3-type menu into **three independent axes** (theology / reach / governance) with Warm/Watchful/Frontier kept as illustrative touchstones; the Watchful's precise sin tightened to *"a census of persons and their Conditions"* (not "keeping records at all"). (4) **2.2 self-paying/provided-for** — reframed as a **spectrum with a named seam**; **Far-Voiced and Returned** moved to an explicit seam table (self-pay by vocation, else provided-for); folded in that self-paying buys *a living, not ease* (Stilled/Answered self-pay yet are the most-licensed). (5) **2.2 banking** — reconciled concentrate-vs-endow: endowment converts *coin* to *directed patronage*, so influence concentrates even as liquid wealth flows out. Those edits have since merged.
 
 > **Where the work lives.** History: the audit's edits were made on a working branch and have since merged. The notes named below are on the main line.
 
-## How to run the audit (suggested)
+## How the audit was run (history)
 
-Read in **dependency order** (each note leans on the one above it). For each: read it aloud/together, then check it against the *intent checkpoints* listed. Flag anything that feels off → route through `story-sense` if it's unclear *why* it feels off. Adjust in place; re-commit. Nothing here is locked past the frame — the notes are `fleshed`, not `canon`.
+The audit read in **dependency order** (each note leans on the one above it). For each: read it aloud/together, then check it against the *intent checkpoints* listed. Flag anything that feels off → route through `story-sense` if it's unclear *why* it feels off. Edits were made in place. Nothing here is locked past the frame — the notes are `fleshed`, not `canon`.
 
-**Tone north star for the whole audit:** **~5% scary** — mostly warm, mundane, integrated; a real dangerous obstacle underneath. If anything reads as *baseline* grim/dystopian/invasive, that's a flag (the user already caught one such case — see 2.1).
+**Tone north star for the whole audit (history; shares are on [[The Premise]]):** **~5% scary** — mostly warm, mundane, integrated; a real dangerous obstacle underneath. If anything reads as *baseline* grim/dystopian/invasive, that's a flag (the user already caught one such case — see 2.1).
 
 ---
 
@@ -43,8 +43,8 @@ The salvaged refinement: she's real & benevolent **but bounded, and giving costs
 - [x] **Witnessed citizenship** — you belong because your town *saw you Turn*; no register. — *Warm enough? Un-invasive enough?*
 - [x] **Proof by vouching people** (Long-Lived memory / Bound binding word / Far-Voiced unfakeable feeling), not papers; the vulnerable are the *unvouched*. — *Does this feel like a clever Condition-labor advance or a stretch?*
 - [x] **The Struck** = those who changed *unwitnessed* (later, alone) → must be vouched anew. — *Is "a little suspect" now earned rather than prejudiced?*
-- [x] **The Inviolate Will** — no Condition compels a will; the legal floor under ~5%-scary. — *Good as constitutional bedrock?*
-- [x] **Guild safety-licence** — only the ~3 hazardous Conditions; held by the person; ~90% carry nothing. — *Narrow enough to not feel like surveillance?* **Later (Story R.6, 2026-08-30):** the ~90% line was false. Ticketable pool is ~29% of people; a ticket names a use, not a Condition; three guilds, no shared roll. See [[Law and Citizenship]].
+- [x] **The Inviolate Will** — no Condition compels a will; the legal floor under ~5%-scary (history; shares are on [[The Premise]]). — *Good as constitutional bedrock?*
+- [x] **Guild safety-licence** — only the ~3 hazardous Conditions; held by the person; ~90% carry nothing (history; shares are on [[The Premise]]). — *Narrow enough to not feel like surveillance?* **Later (Story R.6, 2026-08-30):** the ~90% line was false. Ticketable pool is ~29% of people (history; shares are on [[The Premise]]); a ticket names a use, not a Condition; three guilds, no shared roll. See [[Law and Citizenship]].
 - [x] **The three pillars** (Long-Lived/Bound/Far-Voiced *are* the legal apparatus). — *Love it or too neat?*
 - [x] **Rights of the Kept** — default legal person; still-Struck-later; pitied where reverence runs hot.
 - [x] **Three polity stances:** Warm / **Watchful** (the one register-keeping kingdom — the dictator idea) / Frontier. — *Do these three read as good-faith + distinct? Is the Watchful the right "creepy exception"?*

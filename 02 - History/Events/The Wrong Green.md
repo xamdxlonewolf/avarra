@@ -49,7 +49,7 @@ The clerk who wrote it can see horticulture and a queue. They cannot see the two
 
 ## Links
 - [[Turning Tree]] — the rite and the warden questions · [[The Tree-Wardens]] — why the Speaking is civic
-- [[The Houses and the Years]] — door. The case stays here.
+- [[The Houses and the Years]] — the religious history of these years. The case stays here.
 - [[Harrow's Green]] · [[The Years of Hands]] · [[The Reckoning of the Year]]
 - [[The Taken-In]] · [[The Premise]] · [[The Leaf-Mother]]
 - [[02 - History]] · [[07 - Religion]]

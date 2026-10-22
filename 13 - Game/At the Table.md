@@ -38,7 +38,7 @@ Run this once, in this order. Do not invent a second engine.
 
 Kind and Condition **stack**. A Selkie can be Given Two-Bodied. A stock Human can be Struck Returned. Mixed heritage Turns, or is Kept, or is Struck, like anyone else.
 
-They stack even when the fiction rhymes. An **Infernis** who swears a contract is [[Bound]] like anyone else. The born blood is Kind; the contract is Condition. They do not merge, cancel, or become Given-Over by default. Infernis features stay the ancestry's; the Granted Power stays the contract's. The card already says Bound is acquired, never born.
+They stack even when the fiction rhymes. An **Infernis** who swears a contract is [[Bound]] like anyone else. The born blood is Kind; the contract is Condition. They do not merge, cancel, or become Given-Over by default. Infernis features stay the ancestry's; the Granted Power stays the contract's. Bound is acquired, never born.
 
 ## The Kept deal
 
@@ -105,7 +105,7 @@ Tickets name a hazardous *use* (Gaze, Cry, element in a yard), not a Condition. 
 
 Open [[Turning Tree#Questions a warden gets asked]] and read the row. Do not invent a third Tree-outcome or a second-chance year.
 
-The load-bearing sentences, for when you cannot open the table:
+The short version, for when you cannot open the table:
 
 - The Given-door is **one week** in the tenth year.
 - A completed standing (colour or hug, sound wood) is **once**.

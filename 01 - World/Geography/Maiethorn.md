@@ -17,7 +17,7 @@ updated: 2026-10-22
 
 > **What this is.** The **Motherland** — the sacred origin of **The Turning**, and the eastern anchor of [[The World Frame|the world]]. Here the [[Turning Tree|Awakening Tree (Thaeloren)]] still stands; from here every graft in the world was carried out. The oldest, most densely-Treed, most devout of the four continents — **full reach**, and the baseline the [[Polity Archetypes|universal social physics]] was written against. Home of **[[Polity Archetypes|Threnmaieth]]** (the Tallied Crown).
 
-*(mah-YETH-orn · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|orn]] "land" = "the Mother's Land." The conservative drift, spoken almost unchanged from the liturgy.)*
+*(MAI-eth-orn · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|orn]] "land" = "the Mother's Land." The conservative drift, spoken almost unchanged from the liturgy.)*
 
 ## Overview
 
@@ -29,11 +29,11 @@ Maiethorn is the place where devotion is *heaviest*, most institutional, and mos
 
 - **The Sacred Core.** At Maiethorn's heart stands **Thaeloren, the [[Turning Tree|Awakening Tree]]** — the First Hand, in a deep old grove that is the destination of the world's great pilgrimage. The land around it is the most densely-grafted on earth: an old, gentle country of rounded hills, river valleys, and Tree-crowned towns, worn smooth by long settlement.
 - **The Motherwood.** Vast old-growth forest of [[Turning Tree|motherwood]] and its wild kin rings the core — the healthiest Trees, the graft-nurseries from which scions travel to the whole world. The [[The Tree-Wardens|First Seat]] and the faith's institutions cluster in the wood's clearings. [[Rothallo]] sits a day's walk out, still called the Inner Close, inside [[Orenbren]], not as a sixteenth flag.
-- **[[Named Ground|the Rain-Wall]]** (Lirorn: *the Thaw-Wall*) divides the continent's watersheds. Temperate, seasonal climate (the [[The Premise|~1400s]] burgher world's — four true seasons, real winters that make the **solstice-timed** Leaf-Fall meaningful). [[Tengu]] hearths and Fox-of-the-Snows country sit on the high snows. Passes: the **Noon Pass** (water-line over the ribbon) and the **Shelf-gate** (Narol's road after [[The Thaw-Break]]). The west-running river is **[[Named Ground|the Core-thaw]]** — [[Maiethlir]] sits where it slows.
+- **[[Named Ground|the Rain-Wall]]** (Lirorn: *the Thaw-Wall*) divides the continent's watersheds. Temperate, seasonal climate (four true seasons, guild towns, mechanical clocks, no printing press, and real winters that make the **solstice-timed** Leaf-Fall meaningful). [[Tengu]] hearths and Fox-of-the-Snows country sit on the high snows. Passes: the **Noon Pass** (water-line over the ribbon) and the **Shelf-gate** (Narol's road after [[The Thaw-Break]]). The west-running river is **[[Named Ground|the Core-thaw]]** — [[Maiethlir]] sits where it slows.
 - **The Rain-Shadow.** East of the Rain-Wall, on the leeward side away from the Old Crossing, the land falls into **dry hills and sand-country** — the one true dry reach in the known world. **[[Named Ground|the Well-wash]]** is a river in a kind Liren and a silt-line in a cruel one. This is the hearth of the [[Kitsune|Fox of the Sands]]. It is still Maiethorn (same Trees, same conservative tongue, same pilgrimage-pull westward toward Thaeloren); it is simply the Motherland's *other weather*. Towns here cluster at wells. A town like that is [[Ornsael]] (the sown-ground; west-road after the core stopped).
 - **The western coast** faces **[[Named Ground|the Old Crossing]]** toward [[Strandoren]] — the oldest trade route in the world. Ports here are ancient and rich, if less frantic than Strandoren's. [[The Hinge Shore]] classifies the crossing. [[Selkie]] families are common on these quays, as they are on any old water.
 
-Playable week-weather, crops, sickness, and livelihood ecology: [[Climate of Maiethorn]].
+Week-by-week weather, crops, sickness, and livelihood ecology: [[Climate of Maiethorn]].
 
 ## Reach
 
@@ -44,7 +44,7 @@ How the wood got here is [[The First Cut]]: Cut-year 0–80, origin-towns first,
 ## Powers & Polities
 
 - **[[Polity Archetypes|Threnmaieth]] — the Tallied Crown** *(the darkest corner: theology high · reach high · governance high)*. The wealthy, pious, surveilled core kingdom, coiled near the sacred center. Its census — the **[[Naming in the Turning|Threnhael]]** — sanctifies surveillance as reverent stewardship of the Mother's gifts. Maiethorn's full reach is *why* Threnmaieth has so much to count. Seat: [[Maiethlir]] (Core-thaw Hand; does **not** own the grove).
-- **The other five ([[Powers of the Turning]]).** [[Maiethvael|the Gift-Realm]] (devout, rich, no list; capital [[Seinbrun]]) · [[Orenbren|the Witness-Hearths]] (lodging as power; does not own the Tree; capital [[Rothallo]], still called the Inner Close; squares: [[The Third Hearth]], [[The Mill-hold]], [[Nelath]]) · [[Saelthael|the Sown Tree]] (Rain-Shadow still walking; city [[Larbril]]; square: [[Ornsael]]) · [[The Hinge Shore]] (Old Crossing face; port [[Votaer]]) · [[Lirorn|the Thaw-Land]] (Rain-Wall and snowmelt; town [[Tasain]]). Hearths, not Kind-nations. Threnmaieth's capital is [[Maiethlir]]. Strandoren's seats are [[Raitin]], [[Naenor]], [[Lunbra]], and [[Braetu]]. Heskoren's seats are [[Sanbreo]], the land of [[Vaelhesk]], and [[Natai]].
+- **The other five ([[Powers of the Turning]]).** [[Maiethvael|the Gift-Realm]] (devout, rich, no list; capital [[Seinbrun]]) · [[Orenbren|the Witness-Hearths]] (lodging as power; does not own the Tree; capital [[Rothallo]], still called the Inner Close; squares: [[The Third Hearth]], [[The Mill-hold]], [[Nelath]]) · [[Saelthael|the Sown Tree]] (Rain-Shadow still walking; city [[Larbril]]; square: [[Ornsael]]) · [[The Hinge Shore]] (Old Crossing face; port [[Votaer]]) · [[Lirorn|the Thaw-Land]] (Rain-Wall and snowmelt; town [[Tasain]]). Hearths, not Kind-nations. Threnmaieth's capital is [[Maiethlir]]. Strandoren's seats are [[Raitin]], [[Naenor]], [[Lunbra]], and [[Braetu]]. Heskoren's other seats are [[Eolvaeth]], [[Sanbreo]], the land of [[Vaelhesk]], and [[Natai]].
 
 ## Faith
 

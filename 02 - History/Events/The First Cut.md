@@ -138,7 +138,7 @@ The Near Mile becomes unnecessary as *requirement* in the core, town by town, as
 
 Seat narration: *her hands filled the Motherland.* Folk memory: *we stopped burying children on the Near Mile where the wood took, and we did not stop where it didn't.* Both sentences can be said in the same market.
 
-By Cut-year 80 the Motherland is **old Hands** in the core and **still waiting** in pockets. That leftover waiting is not Heskoren's story yet. It is why a Maiethorn hamlet can still send this year's ten-year-olds to a neighbour without being "historical."
+By Cut-year 80 the Motherland is **old Hands** in the core and **still waiting** in pockets. That waiting that went on is not Heskoren's story yet. It is why a Maiethorn hamlet can still send this year's ten-year-olds to a neighbour without being "historical."
 
 ### [[Strandoren]] — Cut-year 40–160, by sea (wealthy coasts first, interior later)
 
@@ -174,7 +174,7 @@ Seat narration: *her will is still travelling.* Folk memory: *the cart came late
 
 ### [[The Sundering Isle|Kumbaan]] — never
 
-No graft crossed the storm-wall. Road-hands do not bring the Mother over drowning sea. Sailors tell of pots that went into the water. Dead wood is not a Tree. No old scion has ever been found on the Isle. [[The Open Table]] owes Eoloren nothing. Moons, not Cut-years.
+No graft crossed the storm-wall. Road-hands do not carry a Tree over drowning sea. Sailors tell of pots that went into the water. Dead wood is not a Tree. No old scion has ever been found on the Isle. [[The Open Table]] owes Eoloren nothing. Moons, not Cut-years.
 
 ## Seat narration vs folk memory
 
@@ -225,7 +225,7 @@ The teaching-story of the Cut is [[The Branch That Came Away]] — five tellings
 - **Where the wood has taken, a town Tree becomes the default.** Turning under a town canopy is the ordinary way. The pilgrimage remains, with a new job (devotion, prestige, or necessity when a graft fails).
 - **The Seat gains a bottleneck.** Cutting-leave and the scion-queue are how an institution absorbed a heresy and called it horticulture.
 - **The clerical epoch.** Cut-years begin. Other people do not have to care ([[The Ages of the Turning#How years are numbered (the name-reveals-stance lever, on history itself)|dating reveals stance]]).
-- **Language and money, already traced.** Local Trees let daughters grow in place; the road's conserving pull eases ([[The Old Tongue]]). Road-houses in the core lose pilgrim-seasons and keep the notes ([[Economy and the Tithe]]). Lived leftovers of both → [[The Years of Hands]] (two fates of the road-house; the walk's three jobs).
+- **Language and money, already traced.** Local Trees let daughters grow in place; the road's conserving pull eases ([[The Old Tongue]]). Road-houses in the core lose pilgrim-seasons and keep the notes ([[Economy and the Tithe]]). What both left behind → [[The Years of Hands]] (two fates of the road-house; the walk's three jobs).
 
 ## Links
 - [[Rithnali]] · [[Monseoth]] · [[Sedrad]]

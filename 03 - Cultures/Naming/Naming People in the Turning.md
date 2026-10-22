@@ -65,7 +65,7 @@ A mixed mainland child answers to **one register** if either side is custom — 
 
 Everyday names are worn [[The Old Tongue]]: liquids, nasals, soft *th*, long vowels. Push them through the three drifts the same way institution-names are pushed.
 
-| Drift | Place | What happens to a person-name | Examples *(pick from the middle of a list, never the first thought)* |
+| Drift | Place | What happens to a person-name | Examples |
 |---|---|---|---|
 | **Conservative** | [[Polity Archetypes|Threnmaieth]], pious [[Maiethorn]] | *th* and long vowels kept | **Maethaem** (MAY-thaym), **Reimaethe** (RYE-may-theh), **Thilim** (THIL-im), **Rithnali** (rith-NAH-lee), **Valein** (vah-LAYN) |
 | **Worn** | [[Polity Archetypes|Vaethorn]], [[Heskoren]] folk-speech | *th* softens; endings simplify | **Nathdo** (NATH-doh), **Saelid** (SAY-lid), **Tora**, **Seine** (SAY-neh), **Nethiro** (neth-EE-ro) |
@@ -73,15 +73,15 @@ Everyday names are worn [[The Old Tongue]]: liquids, nasals, soft *th*, long vow
 
 **Stress:** CAPS on first use. Stress follows the Old Tongue rule in [[The Old Tongue]]: a compound stresses its first root.
 
-Do not invent a fourth "human language." This *is* the person-language of the Tree-touched world. A named power uses the same roots and the right drift ([[Powers of the Turning]]); it does not get a new language unless it refused the Tree. [[Vaelhesk]] keeps older *vael* and frontier *hesk-*. [[The Sundering Isle|Kumbaan]] already has its own register.
+There are three drifts and no fourth human language. This *is* the person-language of the Tree-touched world. A named power uses the same roots and the right drift ([[Powers of the Turning]]); it does not get a new language unless it refused the Tree. [[Vaelhesk]] keeps older *vael* and frontier *hesk-*. [[The Sundering Isle|Kumbaan]] already has its own register.
 
 ## The four hearth-registers
 
-Each custom Kind's register is a **naming-language**: a sound, a short recipe, and a working list. Not a grammar. Own-names for the people themselves are settled. The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay.
+Each custom Kind's register is a **naming-language**: a sound, a short recipe, and a list of names. Not a grammar. Own-names for the people themselves are settled. The common-tongue names ([[Kitsune]], [[Selkie]], [[Tengu]], [[Yumboe]]) stay.
 
 ### [[Kitsune]] — *Kusawe* (koo-SAH-way)
 
-**Feel:** light, slipping, a little sibilant — names that slip round the corner of a sentence. **Not** a Japanese-median list (no Kenji / Akiko / Yuki cluster).
+**Feel:** light, slipping, a little sibilant — names that slip round the corner of a sentence.
 
 | | |
 |---|---|
@@ -90,13 +90,13 @@ Each custom Kind's register is a **naming-language**: a sound, a short recipe, a
 | **Syllables** | CV · CVF (F = n/m/r) · 2–3 syllables |
 | **Forbidden** | *th* (Maiethren sacred), prenasals *mb/nd/nj* (Yumboe), *kr/gr* (Tengu) |
 
-**Given names (working set):** Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan.
+**Given names:** Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan.
 
 A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Maethaem, Raki* on the roll. The hearth-name is the one they answer to when someone is trying to pin them down; they consider this funny.
 
 ### [[Selkie]] — *Sakoa* (sah-KOH-ah)
 
-**Feel:** liquid, rounded, coastal — names you can say with cold air in your mouth. **Not** a Celtic-median list (no Morag / Finn / Siobhan cluster).
+**Feel:** liquid, rounded, coastal — names you can say with cold air in your mouth.
 
 | | |
 |---|---|
@@ -105,13 +105,13 @@ A Kitsune raised devout in Threnmaieth may still be *Raki* at home and *Maethaem
 | **Syllables** | CV · CVC · 2–3 syllables |
 | **Forbidden** | *th*, *sh*, *kr/gr*, prenasals |
 
-**Given names (working set):** Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea.
+**Given names:** Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea.
 
 The day a child is first given the run of their own skin is when the hearth-name is spoken *to the water*. The civic second name comes later, from the town that watched them Turn: a byname, or a house-name if that town writes people down. Two homes, two names; they do not consider this a conflict.
 
 ### [[Tengu]] — *Gonan* (GO-nan)
 
-**Feel:** clipped, windy, high-country — shorter names, hard onsets, said as if the wind might take the end. **Not** the same sound as Kitsune (that is the trap: two folklore-Japanese Kinds collapsing into one sound). Ridge-speech, not court-speech.
+**Feel:** clipped, windy, high-country — shorter names, hard onsets, said as if the wind might take the end. It does not sound like Kusawe. Ridge-speech, not court-speech.
 
 | | |
 |---|---|
@@ -120,7 +120,7 @@ The day a child is first given the run of their own skin is when the hearth-name
 | **Syllables** | CVC · CV · 1–3 syllables, prefer 2 |
 | **Forbidden** | *th*, *sh*, prenasals, long *ai/ea/oa* diphthongs |
 
-**Given names (working set):** Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan *(Gonan is also the people-name; reuse as a given name is a hearth-honor, like naming a child after the ridge).*
+**Given names:** Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan *(Gonan is also the people-name; reuse as a given name is a hearth-honor, like naming a child after the ridge).*
 
 A Tengu raised where people are witnessed often takes a **perch** or a **pass** as the byname (*Teku of Highgate*, *Hosen of the White Stair*), not a harbour. Raised on a roll, they wear the house-name like anyone else; the perch stays the name the ridge uses.
 
@@ -128,7 +128,7 @@ A Tengu raised where people are witnessed often takes a **perch** or a **pass** 
 
 Full register in the ancestry note: open vowels, pre-nasal *mb nd nk nj*, own-name **Bakhna Rakhna**, homeland **Kumbaan**.
 
-**Added given names** (same inventory, deeper in the list): Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.
+**Added given names** (same sounds as the ancestry note's register): Sambiyo, Lunji, Yaaba, Saalo, Mbela, Soonke, Njili, Yendo, Waandi, Koriwaa.
 
 The isle's place-names are in [[Yumboe#Naming & tongue]].
 
@@ -138,8 +138,6 @@ Before locking a new PC/NPC name, check:
 
 - **Initial + cadence.** Do not seat *Raki* and *Ranyu* in the same party; do not seat *Teku* and *Kukra* as twins unless they *are*.
 - **Register bleed.** A Selkie named *Wishi* or a Tengu named *Maethaem* is a tell (raised away; adopted; passing). Use it on purpose or not at all.
-- **Locked place-names are reserved.** No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. Clergy and house coinages (*Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd*) stay off the person-list too. The squares (*Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's*), the seats (*Eolvaeth, Orentel, Maiethlir*), and the hall *Ndenjoo* are reserved the same way.
-- **Median-hop test.** If the name is the first one that comes to mind for "fox / seal / crow," throw it back.
 
 ## Links
 - [[Naming in the Turning]] — institutions; "the name reveals the stance"
@@ -148,12 +146,14 @@ Before locking a new PC/NPC name, check:
 - [[Kinds of the Turning]] — hearths, not nations · [[Kind Heritage]] — table rulings
 - [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]]
 - [[The Reckoning of the Year]] — month-names from the same Maiethren roots
-- [[Naming Tools]] — reproducible generator, algorithm, and collision gate
 - [[03 - Cultures]]
 
 ## GM Notes
 *(Stripped on player-safe export.)*
 
+- **Locked place-names are reserved.** No person is called Vaethorn, Lestrand, Threnmaieth, Thaeloren, Maieth, Kumbaan, Ndeyaan, Haelthael, Leddoren, or Vaeloren. Clergy and house coinages (*Orenhael, Thaelvaeth, Nethoren, Leddhael, Vaelbren, Njaalo, Njawaal, Vaethledd*) stay off the person-list too. The squares (*Ornsael, Brenthael, Brenod, Vaelun, Ornath, Harrow's*), the seats (*Eolvaeth, Orentel, Maiethlir*), and the hall *Ndenjoo* are reserved the same way.
+- **Median-hop test.** If the name is the first one that comes to mind for "fox / seal / crow," throw it back. Do not build the Kitsune list from Japanese-median names or the Selkie list from Celtic-median names, and keep Gonan from sounding like Kusawe.
+- **Tools.** [[Naming Tools]] holds the reproducible generator, the algorithm, and the collision gate.
 - **Own-names are locked.** *Kusawe / Sakoa / Gonan* were approved 2026-08-23. Individual *person* names stay a working list — draw from the seeds, don't swap the endonyms for Japanese/Gaelic medians.
 - **Two names is a Kind×place tell, not a secret identity.** Players should hear it in ordinary introductions. A few smaller things stay unexplained: the lost fourth Fox-word ([[Kinds of the Turning]]), a Yumboe who *does* take a mainland second name (they have decided to stay), a Threnmaieth clerk who refuses to record hearth-names (the roll wants the house, not the kitchen).
 - **House-names (2026-09-28).** User amended the 2026-08-23 byname-only line. Witness-lands stay bynames. Threnmaieth, Trenledd, the Inner Close, and filing houses use an inherited name in the surname slot. Do not rename the cast in this note; Story L.4 does that. Do not give Maiethvael, the Waiting Lands, or Kumbaan a person-list. Dirrol's column on [[Trenledd]] is the historical seed; do not biograph it here. *Closed* on a Walled Book minute is rank, not a surname.

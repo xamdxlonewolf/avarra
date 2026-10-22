@@ -238,7 +238,7 @@ The square is already doing a day. The party is extra visitors, not a summoned f
 3. **Hale-month beds.** The upper room opens for the neighbour's week and for dust-season overflow. You were vouched enough to sleep.
 4. **A letter that was not for you.** A hush-colour, a pot-chain, a Road-hand's ask. You carried it to the live front. You were not hired to find a Phoenix.
 
-Do not start with Vaethod sending the party as a plot. A send from [[Eolvaeth]] can be *one* of these if a PC already has that tie. Vaethod does not arrive. [[Tesara]] does not arrive. The White Note does not file this square.
+Do not start with Vaethod sending the party as a plot. Someone Vaethod sent from [[Eolvaeth]] can be *one* of these if a PC already has that tie. Vaethod does not arrive. [[Tesara]] does not arrive. The White Note does not file this square.
 
 Road-word is enough to be here: name, last hearth, who stands. Two will do ([[At the Table]]).
 

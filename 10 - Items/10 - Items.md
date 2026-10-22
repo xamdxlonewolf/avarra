@@ -19,7 +19,7 @@ Weapons, armor, equipment, artifacts, and materials. Canonical home for items (M
 ### Artifacts
 - [[The Spent Leaf]] — a colourless leaf kept by the Remainder
 - [[The Closed Lamp]] — a shut travelling-lamp whose coal stays warm
-- [[The Other Chip]] — true; the other quarry, under the 381 fill
+- [[The Other Chip]] — true; the other quarry, under the Cut-year 381 fill
 - [[The Dry Slip]] — true; dead wood in a dry basin
 - [[The Ribboned Knife]] — embellished; a Closing summer's kitchen knife
 - [[The Socket Ribbon]] — embellished; cloth on the Seeing-Ring
@@ -27,7 +27,7 @@ Weapons, armor, equipment, artifacts, and materials. Canonical home for items (M
 
 ### Weapons, coats, materials
 - [[What a Place Needed]] — the short list. No ladder.
-- [[Weapons]] · [[Armor]] · [[Equipment]] · [[Materials]] — pointers. The things stay on that note. Magic artifacts stay in this section, and [[Artifacts]] under `06 - Magic` only points here.
+- [[Weapons]] · [[Armor]] · [[Equipment]] · [[Materials]] — where weapons, coats, tools, and materials are covered: all of it is on [[What a Place Needed]]. Magic artifacts are described in the Artifacts section above; [[Artifacts]] in the Magic section links here.
 
 ## Related
 - [[The Remainder]] — the desk that keeps the box · [[Turning Tree]]
@@ -35,6 +35,7 @@ Weapons, armor, equipment, artifacts, and materials. Canonical home for items (M
 
 ## GM Notes
 
+- **This section is a pointer.** The weapon, armor, equipment, and materials notes link to [[What a Place Needed]] and hold no lists of their own. A later note must not add one.
 - **The Spent Leaf** is the keystone's firing pin. It is the confirmable artifact for [[Is the Leaf-Mother Real]]. Confirmation is in its GM Notes; the player body stays deniable.
 - **The Closed Lamp** is a fire-plot object, not a leaf. It belongs to [[When the Fire Is Caught]] and the session opening, [[The Opening]].
 
