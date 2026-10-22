@@ -9,7 +9,7 @@ aliases: [Library Pages, Pages a Party Can Find]
 world: The Turning
 reveals: [keystone-adjacent, the-unspent, when-the-fire-is-caught]
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # The Library Pages
@@ -60,7 +60,7 @@ What the page leaves out is the cost. It does not say that children walked the w
 
 **What Molevad says if a visitor asks:** "This is one meeting. K. said it could be read. The rest of the book stays shut."
 
-**What a reader is meant to understand:** these are the circle's own minutes of one willing gift. A Long-Lived member called K. asks to give five years of memory, names which years they are, and says why: K. is tired of carrying a husband's death. The circle asks three times whether the gift is K.'s own wish. K. gives the years into the cup with one drop of blood. Afterward K. still knows the husband's name and face from before the marriage and remembers nothing from those five years. The minutes record how the circle will describe its god this decade, that one reading held two members' memories of the same summer, and that nobody asked to stop. They end with the circle's claim that every gift is freely given and that the circle made the god it gives to.
+**What a reader is meant to understand:** these are the circle's own minutes of one willing gift. A Long-Lived member called K. asks to give five years of memory, names which years they are, and says why: K. is tired of carrying a husband's death. The circle asks three times whether the gift is K.'s own wish. K. gives the years into the cup with one drop of blood. Afterward K. still knows the husband's name and face from before the marriage and remembers nothing from those five years. K.'s papers from those years go onto the shelf, and from that night the long-house seats K. as five years younger. The minutes record how the circle will describe its god this decade, that one reading held two members' memories of the same summer, and that nobody asked to stop. They end with the circle's claim that every gift is freely given and that the circle made the god it gives to.
 
 That claim is the circle's belief. These minutes do not settle whether it is true.
 
@@ -128,7 +128,7 @@ These three facts are true. No page in the library says them, and no page should
 - The minutes record a willing gift. They do not show the inner circle's taking, and the taking does not go through Molevad's minute-book ([[The Pourers#The taking]]). No page mentions the second cup.
 - The founder of the Pourers is not named and does not appear on any page. No page calls the founder a god or says the founder can become one.
 - The Long-Lived houses that pay for the long-house in Lestrand are not the founder. Whoever endowed it is a different person.
-- The minutes avoid the phrase "and the years themselves." The H.4 recorded decisions on [[Roadmap]] note that no note yet says what that part of the gift means. The page says only that K. gave five years of memory and no longer has them.
+- The minutes do not use the phrase "and the years themselves." Story H.6 settled what it means: the member's papers from those years go onto the shelf, and the long-houses that keep the circle stop counting those years in the member's age ([[The Pourers]]). The minutes record both for K. in one line.
 - The member who stands in the passage in the minutes is a withdrawer ([[Movements]]). The page does not say why they stand there. Do not explain it.
 - The poem's refusal is only a refusal. Long-Lived people will not say whether the poem is about the cup. Do not decide the answer, and do not turn the refusal into a power, a relic, or a rite.
 - [[The Pourers]], [[The Walled Book]], and [[The Protectors]] stay three separate groups. No page connects them.

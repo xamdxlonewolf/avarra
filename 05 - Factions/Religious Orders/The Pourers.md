@@ -12,7 +12,7 @@ seat: none — a shelf in a long-house; the best-known circle meets at the death
 public_face: Long-Lived who give five years of memory into a cup and say they made the presence that keeps it
 reveals: [the-unspent]
 created: 2026-08-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # The Pourers
@@ -49,19 +49,23 @@ The invitation is real. The member asks because the circle will accept the perso
 
 A refusal is not punished. The person keeps their standing. People still consult them, and the work a court, a guild, or an archive already gave them stays theirs. A long-house still seats a person who refused the invitation. Most Long-Lived people are not members. Every Long-Lived person knows the circle exists.
 
-Members keep the library on the long-house shelf in Lestrand. That shelf is the deathless library on the Ledger Coast. They copy [[The Old Tongue]], and they copy the common speech people already use. The copies stay on the shelf. Molevad keeps the minute-book on the same shelf. The circle in the upper room in Orenbren keeps the records of its own meetings. People use the books and the copies. The work is real.
+Members keep the library on the long-house shelf in Lestrand. That shelf is the deathless library on the Ledger Coast. They copy [[The Old Tongue]], and they copy the common speech people already use. The copies stay on the shelf, beside the papers members have given with their years. Molevad keeps the minute-book on the same shelf. The circle in the upper room in Orenbren keeps the records of its own meetings. People use the books and the copies. The work is real.
 
 They do not take over medicine. That work stays with [[The Stilled]]. One of the Stilled stops a bleeding wound, holds a patient still through the surgery, and can stop a fight before someone is killed. Towns already call on the Stilled as surgeons, menders, and peacekeepers. [[The Stillers]] licence that work and keep the infirmary.
 
 ## What they do
 
-**The gift.** A member gives **five years** into the cup: the memories those years held, and the years themselves. The member puts one drop of their own blood in the cup, because Long-Lived already read memory from blood. Afterward the member no longer has those memories. The member still needs to keep learning, as every Long-Lived does. What changes is that they no longer carry five years of other people's funerals.
+**The gift.** A member gives **five years** into the cup. Members say they give "the memories those years held, and the years themselves." That means three things.
+
+- **The memory goes into the cup.** The member puts one drop of their own blood in the cup, because Long-Lived already read memory from blood. Afterward the member no longer has the memories of those five years. The member still needs to keep learning, as every Long-Lived does. What changes is that they no longer carry five years of other people's funerals.
+- **The papers go onto the shelf.** The member also gives the long-house shelf everything they wrote or kept in those five years: letters, account books, diaries, and court notes. The papers are not put in the cup. They are filed on the shelf under the member's name. Other members can read them, and so can a visitor Molevad allows to. That is one reason the shelf in Lestrand holds so much. Letters name other people, and those people were not asked before their letters went onto the shelf.
+- **The circle stops counting the years.** At a long-house that keeps the circle, a Long-Lived person's age and standing are counted only in the years they still remember. A member who has given ten years is seated as if they were ten years younger. Among the Long-Lived, age decides who speaks first, who judges a hard case, and who keeps a key, so every gift costs a member rank inside those long-houses. Courts, guilds, banks, and Long-Lived who are not members keep counting the ordinary way. The same person can be a bank's most senior clerk and sit below a younger member at the long-house.
 
 **The shared store.** Members can read the cup the way a Long-Lived reads a drop of blood. What they read is true. It is also mixed: one reading can hold memories of the same year from more than one member. The circle values that. They say the knowledge goes to the god they made. In practice, the cup is where the memories are kept, and the circle is the group that reads them.
 
 **The minutes.** The oldest member writes down who gave, how the circle described the god that decade, and whether anyone asked to stop. There are no priests. There is one member who has kept the book for so long that the circle cannot imagine meeting without them.
 
-**Leaving.** A member may ask for their years back. They receive a **thinner copy** of what they gave, not the years themselves, and a copy stays in the cup. The real cost is social. The circle treats the person as someone who weakened the god. Other Pourers will not read blood with them. Long-Lived houses that pay for the long-house will not give them a seat. They are free to go, and they will be alone among the other people who do not age.
+**Leaving.** A member may ask for their years back. The circle gives back their papers from those years. It does not give back the memory, which stays in the cup. Members call the papers a **thinner copy** of what was given. The real cost is social. The circle treats the person as someone who weakened the god. Other Pourers will not read blood with them. Long-Lived houses that pay for the long-house will not give them a seat. They are free to go, and they will be alone among the other people who do not age.
 
 | Who | Why they give | What the circle will not do |
 |---|---|---|
@@ -119,6 +123,16 @@ The taken memory does not go into the shared store. It goes into a second cup, t
 The founder believes that with enough of this knowledge, they will become a god. The founder also believes the attempt could ruin the very things they want to keep safe, and has accepted that risk. The notes record that belief. They do not say the founder can become a god, and they do not say the world could end. Player-facing text never calls the founder a god, a forgotten deity, or a threat that will end the world.
 
 Ordinary members still give five years of their own accord. That is still what most of the Pourers do. The line "They say every gift is freely given" in the player section is the circle's claim. It is true of the ordinary members.
+
+### The papers and the count
+
+A gift has three parts: the memory goes into the cup, the papers go onto the shelf, and the circle stops counting the years. The papers are not in the cup and are not part of [[The Unspent]]. They are ordinary paper on an ordinary shelf.
+
+The papers are how a party can learn about a gift without reading the cup. A member's letters, account books, and court notes from the five years they gave are filed under their name, and Molevad can let a visitor read them. A person named in one of those letters may want it back. The circle's answer is that the letter was the member's to give. That is a real argument a party can be hired into.
+
+The taking is different. It still does not go through Molevad's minute-book, and the papers of a person the inner circle took from do not go onto the open shelf. Where those papers go is not written.
+
+The count is a long-house custom, not a power. It changes where a member sits and who speaks first. It does not change their body, their Tithe, or anything on the [[Long-Lived]] card.
 
 ### How a party meets it
 

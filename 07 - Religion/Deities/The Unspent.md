@@ -12,12 +12,12 @@ faith: "[[The Pourers]] (Long-Lived fringe)"
 reveal_tag: the-unspent
 reveals: [the-unspent]
 created: 2026-08-30
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # The Unspent
 
-> **People call it the Poured God.** Some [[Long-Lived]] keep a cup and say they made a god by giving it five years of their memory: the memories those years held, and the years themselves. They do it so they can keep living without carrying everything. Neighbours call it a memorial with airs. The Motherfaith calls it a private devotion. Nobody sets the cup up in a public square.
+> **People call it the Poured God.** Some [[Long-Lived]] keep a cup and say they made a god by giving it five years of their memory. They also give the papers from those years to the long-house shelf, and the circle stops counting those years in their age ([[The Pourers]]). They do it so they can keep living without carrying everything. Neighbours call it a memorial with airs. The Motherfaith calls it a private devotion. Nobody sets the cup up in a public square.
 
 This note is about the presence in the cup. The group that keeps the cup is [[The Pourers]]. Members give five years of memory of their own accord, read the shared store through blood, and believe they created the god they give to. A member may leave, and leaving costs them their friends and their seat.
 
@@ -44,10 +44,10 @@ It is not a sixth Turning. It cannot make anyone Long-Lived. It is not [[Returne
 
 - **What it is.** The Unspent is a small household presence that stores the memories it is given. It does not make plans. It is not one of the Five Hands. It cannot Give a Condition, and it cannot Strike someone into one. It cannot make anyone [[Long-Lived]]; only the Leaf-Mother Gives that. It cannot save anyone at a threshold, and it cannot Give at a Tree. If a circle asks the cup for more years, a second Condition, or a rescue from death, the cup only keeps what it already holds. Asking for a Gift gets nothing. The structure is on [[The Other Hands]].
 - **It is older than the name.** The Pourers say they made it. They did not. This presence has always taken in the memories that deathless people could not keep carrying. It had no public face. The Long-Lived gave it a name, gave memory into the name, and decided that naming it had made it. It lets them say so and does not correct them. Do not play it as a spirit the circle trapped, and do not play it as the origin of vampires.
-- **What it takes in.** Memory, and the years that memory belonged to. Reading the cup is how the circle looks things up. It is not feeding. The presence does not feed on people and does not need worship to live.
+- **What it takes in.** Memory only. The papers from the years a member gives go onto the long-house shelf, not into the cup, and the circle's count of a member's years is a long-house custom. Neither has anything to do with this presence. Reading the cup is how the circle looks things up. It is not feeding. The presence does not feed on people and does not need worship to live.
 - **The taking.** The presence stores whatever is put in a cup. It does not know or care whether the person chose to give it. When the inner circle of [[The Pourers]] forces a Long-Lived to give, the memory goes into the second cup, and the founder reads it. The founder is a Long-Lived person who started the Pourers. The founder is not this presence. Do not name the founder in this note. The details are on [[The Pourers#The taking]].
 - **The founder's belief.** The founder believes that the knowledge stored in the second cup will carry them into godhood. The founder also believes the attempt could ruin the very things they want to keep safe, and has accepted that risk. The notes record the belief. They do not say the crossing can happen, and they do not say the world could end. Player-facing text does not call the founder a god, a forgotten deity, or a threat that will end the world. What a player can read is the circle's claim that they made the presence.
-- **What it will not do.** Take over a person's will on its own. Sort the Kept. Confirm the Leaf-Mother. Name the Other Hands. Take Phoenix fire. Give back a gift as a Condition. A member who leaves gets a thinner copy of what they gave, and a copy stays in the cup.
+- **What it will not do.** Take over a person's will on its own. Sort the Kept. Confirm the Leaf-Mother. Name the Other Hands. Take Phoenix fire. Give back a gift as a Condition. A member who leaves gets their papers back, which members call a thinner copy. The memory stays in the cup.
 - **Tone.** About five percent frightening. A deathless person putting five years of memory on a shelf is sad and a little vain. It is not a blood cult. The frightening part is the inner circle, and it stays hidden underneath ordinary courtesy and real scholarship.
 - **Reveal tag.** `the-unspent`. The player section describes the practice and the circle's claim. The fact that the presence existed before the Pourers named it stays in GM Notes.
 - **Keep the groups apart.** This is not [[The Protectors]] and not [[The Walled Book]]. The Pourers picture this presence as a god. It does not become a Hand.
