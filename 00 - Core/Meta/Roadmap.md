@@ -50,7 +50,8 @@ updated: 2026-10-22
 | **B** | [[#Epic B — The book, in a reader's voice]] | Read the setting book one chapter at a time and rewrite it for people who will play. Does not open new canon | Med | ✅ B.1 done 2026-10-05. 26 / 26 |
 | **C** | [[#Epic C — How the book speaks]] | `prose-style` audit of the setting book, then a sentence pass so the narrator sounds like one person talking. Does not open new canon | Med | ✅ C.0–C.1 done 2026-10-05 |
 | **H** | [[#Epic H — A past you can hold]] | The Long-Lived memory circle, how the Kept houses treat people with a Condition, one history in ordinary sentences, then short pages a party can find. The world book stays put | Med | ✅ H.1–H.6 done 2026-10-22 |
-| **V** | [[#Epic V — Read the whole vault]] | A whole-vault audit by several readers: holes, tone, and retired phrases that are still there. Findings first, fixes after the user reads them | High | V.0–V.4 ✅ 2026-10-22 · V.4h (world book) is the user's |
+| **V** | [[#Epic V — Read the whole vault]] | A whole-vault audit by several readers: holes, tone, and retired phrases that are still there. Findings first, fixes after the user reads them | High | V.0–V.4 ✅ 2026-10-22 · V.4h (world book) moves to T.1 |
+| **T** | [[#Epic T — Books for the table]] | Refresh the world book from the vault, then write a player primer, a GM cheat sheet, and a GM primer of 20 pages or fewer. Does not open new canon | Med | ⬜ set up 2026-10-22, not started |
 
 > **Two deliberate departures from the old [[Build Plan]] order:** (1) the **Turning Tree / Leaf-Mother** is promoted *above* the custom ancestries — it's the single highest-leverage anchor, so society/religion/geography get a fixed point to build against. (2) An explicit **"lock the keystone secret"** task sits in Epic 0 — we don't flesh it, just *decide the answer*, because the theme and every reveal need to point somewhere.
 
@@ -1421,12 +1422,71 @@ One reader per group. Each reads every note in its group all the way through and
 
 **Left to the user.**
 
-- [ ] V.4h — The world book. The user decides whether to rebuild it. Do not touch it until they say so.
+- [ ] V.4h — The world book. The user decides whether to rebuild it. Do not touch it until they say so. **The user said to rebuild it on 2026-10-22; the work is [[#Story T.1 — Refresh the world book|Story T.1]]. Check this box when T.1 is done.**
+
+## Epic T — Books for the table
+
+**Skill:** `story-sense` (router) · `prose-style` (after the facts are in) · `table-tone` (the cheat sheet and the GM primer) · **Status:** set up 2026-10-22. Not started; the user will start it in a new session. **Blast radius:** Medium for the world book, none for canon.
+
+> **Direction (user, 2026-10-22).** "Let's get a new epic started with three tasks. World setting book refresh, player primer, and GM cheat sheet. Also, let's create a to-the-point, no weird language, max 20 page GM primer that explains the world in a less wordy way but still gets it all in there, so it's understandable and gives an overview of the world." The user wants help becoming an expert on the setting. Set up only; do not do the work in the session that wrote this epic.
+
+**How it works.** The vault is the source of truth. T.1 brings the world book up to date first, because the book was last rebuilt 2026-10-06 and Epic H and Epic V came after. T.2, T.3, and T.4 are new short books written from the vault, and they may lean on the refreshed book. They summarise what the notes already say. Nothing in this epic adds a fact, a name, a place, or a number.
+
+**The rules for every book in this epic.**
+
+- Plain speech, as in CLAUDE.md and [[Conventions#Plain prose]]. Say who does what. No picture, nickname, or metaphor in place of a fact. No "mouth" or "throat" for a person. "Cut-year", not "C.Y.".
+- No scaffolding: no 🔒 or 🟡, no epic or story numbers, no "Clock 1/2" without saying what the count is, no "Leftover", no "Do not…" orders, no "why we chose this."
+- Player books carry no GM secret. The Leaf-Mother is a belief. The Protectors catching Phoenix fire, the Pourers' taking, the founder's belief, and anything under a note's `## GM Notes` stay out. Check against [[Reveal Index]].
+- Keep the locks: Kind is born and a Condition is become, and they stack. Given, Struck, and Kept, with the shares as written on [[The Premise]] and the [[Conditions]] hub. Kept means hugged at the Tree; a child who never stood under a Tree is UnTurned. The Pourers, the Walled Book, and the Protectors are three groups. The founder and the cutter stay unnamed, the Tree stays undated, and her limit stays open. The present is Cut-year 387. Kumbaan has no Tree. Kinds are not nations. There are fifteen powers. About 5% frightening.
+- Each new book is a vault note with front-matter (`visibility` set from birth) and a compiled HTML and PDF reading copy. Reuse the world book's CSS and Chrome print step from `build_world_book.py`; a small build script beside the books is fine. Proposed home: `14 - Assets/Documents/Primers/`.
+
+### Story T.1 — Refresh the world book
+
+The rules for the book are in CLAUDE.md under "The world book." Work inside the locked spine in `14 - Assets/Documents/Setting Book/STRUCTURE.md`. Do not rename a chapter file, add a chapter number, or reorder the spine.
+
+- [ ] List what changed in the vault since the book was last built (2026-10-06): Epic H and Epic V, from this Roadmap's recorded decisions and `git log`. Map each change to the chapter that holds it.
+- [ ] Fold Epic H into the chapters: [[The Pourers]] (the ask, one year at a time, five in all), what a visitor sees at [[The Walled Book]] in [[Rothallo]], [[A History of the Turning]] in the Ages chapter, and [[The Library Pages]]. GM-only material goes only in the GM chapter (`24-gm-canon.md`).
+- [ ] Fold Epic V into the chapters: the V.3 decisions (one year at a time, Maiethorn may run higher on the Given, Sanbreo on Heskoren's west coast), Kept and UnTurned, "Cut-year", no "mouth" for a person, and the retitled vault sections.
+- [ ] Read each chapter against its vault notes for anything else that drifted, and fix it. Fill a "Not yet written." block only from what the vault already says.
+- [ ] Update the stale heading notes in `STRUCTURE.md` (for example the ch. 08 lintel heading, now "Two suppers, or a Turning-witness" in the vault, and "a send, not an army" in ch. 10).
+- [ ] Rebuild: `python3 "14 - Assets/Documents/Setting Book/build_world_book.py"`. Open the PDF and check that it built, the GM chapter is walled, and no scaffolding shows.
+- [ ] Check V.4h.
+
+### Story T.2 — Player primer
+
+A short book a new player reads before the first session. Player-safe only (`visibility: player`). Length is the user's call; propose one before writing (a default of about eight pages).
+
+- [ ] Outline it from the player chapters of the refreshed book: what the world is, Kind and Condition, the Leaf-Fall and the Turning Tree, the ten Conditions and their Tithes in a line each, the four custom ancestries, the faiths in a line each, the lands at a glance, daily life, and how to make a character who fits.
+- [ ] Write it in plain speech. One idea per paragraph.
+- [ ] Check it against [[Reveal Index]] and the GM Notes of every note it draws on. Nothing secret.
+- [ ] Build the HTML and PDF.
+
+### Story T.3 — GM cheat sheet
+
+One or two pages a GM keeps open at the table (`visibility: gm`).
+
+- [ ] Pick what a GM needs mid-session: the two layers, the three ways to get a Condition, the ten Conditions with their Tithe in one line each, the fifteen powers with seat and one line, the five faiths and the three groups, the calendar and the present year, the main secrets in one line each, and a few names ready to use.
+- [ ] Lay it out as tables and short lines. It must fit on two printed pages.
+- [ ] Build the HTML and PDF and check the page count.
+
+### Story T.4 — GM primer (20 pages or fewer)
+
+A to-the-point overview of the whole world, secrets included, for a GM who wants to understand it without reading the full book (`visibility: gm`). Less wordy than the world book, but nothing important left out.
+
+- [ ] Outline it so every part of the world has a home: the premise and the two layers, the Tree and the Leaf-Mother, Conditions and Kinds, the faiths and the groups, law and money and daily life, the lands and the fifteen powers, the history in order, the main people, the secrets and how they come out, and how to run it at the table.
+- [ ] Write it in plain speech: short sentences, no ornament, every term said in ordinary words the first time it appears.
+- [ ] Check every fact against its vault note. Nothing new.
+- [ ] Build the HTML and PDF. It must be 20 printed pages or fewer; cut words, not topics.
+
+### Story T.5 — Close the epic
+
+- [ ] Update the trackers: the spine row, Progress, the Build Plan, and the [[14 - Assets]] index, so it lists the new books.
 
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
 
+- **Epic T — Books for the table:** 0 / 19 tasks (0%). Set up 2026-10-22; not started. T.1 is 0 / 7, T.2 is 0 / 4, T.3 is 0 / 3, T.4 is 0 / 4, and T.5 is 0 / 1.
 - **Epic V — Read the whole vault:** 28 / 29 tasks (97%). V.0 is 1 / 1 ✅, V.1 is 8 / 8 ✅, V.2 is 3 / 3 ✅, and V.3 is 1 / 1 ✅ **2026-10-22.** The report is [[Vault Audit 2026-10-22]]: 44 high, 307 medium, and 213 low findings. C-10 to C-24 are on [[Contradictions]]; C-19 (Sanbreo is on the west coast) is fixed. The user's answers are the V.3 recorded decisions. V.4 is 15 / 16: wave 1 is 8 / 8, wave 2 is 3 / 3, and wave 3 is 4 / 4 ✅ **2026-10-22**. C-10 to C-24 are resolved. The world book box (V.4h) is the user's. World book untouched.
 - **Epic H — A past you can hold:** 35 / 35 tasks (100%) ✅ **2026-10-22. Epic H complete.** H.6 is 6 / 6 ✅ **2026-10-22.** "The years themselves" means the papers go onto the shelf and the circle stops counting the years; the thinner copy is the papers. H.1 is 6 / 6 ✅ **2026-10-21.** The ask and the taking are on [[The Pourers]]; the taking is under GM Notes. [[The Unspent]] records the founder's belief under GM Notes. [[Long-Lived]] and [[Movements]] point at the practice. H.2 is 6 / 6 ✅ **2026-10-21.** The manners, the lesson beside the count, the turns of work, and three places outside the walls are on [[The Walled Book]]. The teacher is Volnai. [[The Closing]] has one sentence on the manners after the Retreat. H.3 is 8 / 8 ✅ **2026-10-21.** [[A History of the Turning]] tells the history in order in ordinary sentences, with the taking, the founder's belief, and the age of [[The Unspent]] under GM Notes. It is linked from [[02 - History]] and [[The Ages of the Turning]]. H.4 is 1 / 1 ✅ **2026-10-21.** At the user's request the history was audited against its source notes and read sentence by sentence; the fixes are in the H.4 recorded decisions. H.5 is 8 / 8 ✅ **2026-10-21.** [[The Library Pages]] lists six pages in `14 - Assets/Documents/Library/`: a primer and a road song from Rothallo's school, a history of the Closing from the Book's house, and minutes of a willing gift, a play scene, and a poem from Molevad's long-house shelf in Lestrand. The three truths no page reveals are under its GM Notes. World book untouched.
 - **Epic C — How the book speaks:** 13 / 13 tasks (100%) ✅ **2026-10-05.** `prose-style`: P6, P4, and P2 over-corrected. Glossary asides pulled into the next sentence. Baseline kept: the Turning Tree opening and [[How a Place Speaks]]. Book rebuilt. Vault not rewritten.
@@ -1480,3 +1540,4 @@ One reader per group. Each reads every note in its group all the way through and
 - Epic C — how the book speaks. **C.1 done 2026-10-05.** `prose-style` audit, then the sentence pass. The book was rebuilt. The vault was not rewritten.
 - Epic H — a past you can hold. Opened 2026-10-14. Speech corrected 2026-10-15, [[Conventions#Plain prose]]. Direction corrected the same day after the lore check: [[The Pourers]] ask, a refusal of membership is real, an inner circle takes the memories and hard-won understanding that define a life, and the founder's godhood stays a belief. Not joined to [[Harrow's Green]]. H.1 done 2026-10-21. H.2 done 2026-10-21 → [[The Walled Book]] (what a visitor sees, the lesson beside the count, turns of work, outside the walls) · one sentence on [[The Closing]]. H.3 done 2026-10-21 → [[A History of the Turning]]. Next is H.4, the user's reading of that history, then the library pages. World book untouched.
 - Epic V — read the whole vault. Opened 2026-10-22. V.0 to V.3 done 2026-10-22 → [[Vault Audit 2026-10-22]] · C-10 to C-24 on [[Contradictions]] · the user's answers in the V.3 recorded decisions. V.4 done 2026-10-22 (three waves, from [[V.4 Fix Prompt]]); C-10 to C-24 resolved. V.4h, the world book, waits on the user.
+- Epic T — books for the table. Set up 2026-10-22, not started. T.1 refreshes the world book and closes V.4h. T.2 is a player primer, T.3 a GM cheat sheet, and T.4 a GM primer of 20 pages or fewer.
