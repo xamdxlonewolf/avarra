@@ -86,6 +86,7 @@ A suite of fiction/worldbuilding skills is installed (from `jwynia/agent-skills`
 - *Character & story:* `character-arc`, `character-naming` (use its entropy approach — don't let names cluster), `positional-revelation` (ordinary-job characters who become structural pivots), `perspectival-constellation` (interlocking POVs), `underdog-unit` (David-vs-Goliath / institutional-outcast), `moral-parallax` (harm-exporting systems, complicity without clean villains), `key-moments` (build around emotional beats — wonder, mystery, etc.), `endings` (stick the finale).
 - *Table voice:* `joke-engineering` (sparingly, with `dialogue`), `dialogue` (session/gameplay writing), `table-tone` (GM narration calibration).
 - *Sentences:* `prose-style` (when the facts are in and the sentences still do not sound like someone talking). Diagnose first. Do not treat its variety rules as a license to gloss every term, to ornament a reference chapter, or to replace a plain fact with a picture. Plain speech is the rule above.
+- *Audit:* `voice-analysis` (find where notes drift from the baseline voice), `blind-spot-detective` (find what is missing; built for non-fiction, which a reference note is), `revision` (order a large edit pass so fixes do not cascade). Use them with `story-sense` for a whole-vault review. Added 2026-10-22 for Epic V.
 
 **Scripts caveat:** several skills ship Deno `.ts` helpers. They're optional — the frameworks work without running them, and Deno may not be installed. Prefer applying the method directly.
 

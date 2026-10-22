@@ -1334,6 +1334,51 @@ The user chose the meaning on 2026-10-22. The phrase means two things, both ordi
 
 > **H.6 recorded decisions (2026-10-22).** The user chose ideas 2 and 3 from four offered: the count and the papers. Idea 1 (the phrase is only talk) and idea 4 (a member can no longer testify about the given years) were not chosen. [[The Pourers]] now says the gift has three parts. The memory goes into the cup. The papers go onto the long-house shelf, filed under the member's name, where members and visitors Molevad allows can read them, and the people named in letters were not asked. The long-houses that keep the circle stop counting the years, and a member who has given ten years is seated as if ten years younger. Leaving returns the papers, which members call the thinner copy, and the memory stays in the cup. Under GM Notes, the papers are how a party can learn about a gift without reading the cup, a person named in a letter may want it back, and the papers of a person the inner circle took from do not go onto the open shelf. The count changes seating and who speaks first, not the [[Long-Lived]] card. [[The Unspent]] takes in memory only. [[A History of the Turning]], [[The Library Pages]], and [[Minutes of a Gift]] agree. [[A Room I Do Not Go Into]] was not changed, and nobody says whether it is about the cup. [[Movements]] and [[Reimaethe]] already agree and were not changed. No power, relic, rite, oath, or building was added. The founder is not named. The three groups stay three. The world book was not touched.
 
+## Epic V — Read the whole vault
+
+**Skill:** `story-sense` (router) · `worldbuilding` · `prose-style` · `voice-analysis` · `blind-spot-detective` · `shared-world` (canon status and the contradictions log only) · then `revision` for the fix order · **Status:** V.0 done 2026-10-22. V.1 and V.2 are next. **Blast radius:** High for the read, none for canon until V.4.
+
+> **Direction (user, 2026-10-22).** Run a complete audit. Fan out several subagents so every note in the vault is read by someone. Find holes, find places where the tone is off, and find phrases we already tried to remove that are still there. Make sure things are good.
+
+**How it works.** The read changes nothing. V.0 to V.2 only produce findings and a report. The user reads the report in V.3. Fixes happen in V.4, in an order `revision` sets, so a fix to a fact does not undo a fix to a sentence. The world book is out of scope; the vault is the source of truth. When V.4 is done, the user decides whether to rebuild the book.
+
+**What counts as a finding.** A note breaks a locked decision. Two notes disagree about a fact. A GM secret sits in a player body. A picture, a nickname, or a metaphor stands in for a fact. A person is called a "mouth." A designer label ("Clock 2," "Leftover," "Playable square," a story number, 🔒 or 🟡) sits in player text. A population figure is kept somewhere other than [[The Premise]]. A note promises something no note delivers. A link is broken. A status line, a "next," or a tally is out of date. The front-matter is wrong.
+
+**Do not.** Change canon during the read. Re-litigate a locked decision. Explain a habit the notes leave unexplained. Name the cutter, date the Tree, decide the Leaf-Mother's limit, or name the founder. Touch the world book.
+
+### Story V.0 — Mechanical scan ✅ **DONE (2026-10-22)**
+
+- [x] Script the checks a reader should not have to do by eye: front-matter keys and values, broken wikilinks, retired phrases in player bodies (GM Notes stripped by the export rule), and percentages in player bodies outside [[The Premise]].
+
+> **V.0 recorded decisions (2026-10-22).** 295 notes were scanned. The skill copies in `.agents/` and `.claude/` and the note templates were left out. The world book chapters were left out. Seven broken links. No note is missing front-matter. In player bodies: "mouth" for a person about 290 times, "C.Y." about 120, story numbers about 105, "Clock 1" or "Clock 2" about 50, 🔒 and 🟡 about 80, "Leftover" about 35, and about 55 lines with a percentage outside The Premise. Many hits are allowed (an Old Ways door is a real term; a Condition card may quote its share). The readers in V.1 sort them. `voice-analysis`, `blind-spot-detective`, and `revision` were installed from the same skill library.
+
+### Story V.1 — Fan out and read
+
+One reader per group. Each reads every note in its group all the way through and writes its findings, with file, line, a short quote, and a plain fix. No reader edits a note.
+
+- [ ] `00 - Core` (Concept, Meta, the Roadmap's open lines and status lines, the Build Plan)
+- [ ] `01 - World`, `06 - Magic`, `10 - Items`, `13 - Game`
+- [ ] `02 - History`, `11 - Secrets`
+- [ ] `03 - Cultures`
+- [ ] `04 - Settlements`
+- [ ] `05 - Factions`
+- [ ] `07 - Religion`, `09 - Creatures`
+- [ ] `08 - People`, `12 - Campaigns`, `14 - Assets` (not the world book), `99 - Archive`
+
+### Story V.2 — The report
+
+- [ ] Merge the findings into one report in `14 - Assets/Documents/Audits/`, `visibility: gm`. Lead with what is wrong, sorted by how much it matters. Group repeated problems into patterns. Say what is strong and should be protected.
+- [ ] Log every real disagreement between notes on [[Contradictions]], with both notes named.
+- [ ] Propose the V.4 fix stories in `revision` order. Do not check them.
+
+### Story V.3 — Wait for a reading
+
+- [ ] Stop. This box is the user's. Leave it open until they have read the report and said which findings to fix, which to leave, and which are wrong.
+
+### Story V.4 — Fix
+
+Decomposed after V.3, from the user's answers.
+
 ## Progress
 
 > Manual tally — update when checking boxes. (Story/Task counts, not epics.)
