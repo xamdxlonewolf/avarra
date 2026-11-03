@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 # 14 - Assets
@@ -19,6 +19,11 @@ Maps, images, handouts, documents, and references.
 - **Library pages** — `Documents/Library/`: six short in-world pages a party can find and read, each written by someone inside the world. Index: [[The Library Pages]].
   - [[First Lessons at the Close School]] · [[The Keeping of the Grove]] · [[The Heir's Seat]] · [[A Room I Do Not Go Into]] · [[The Day-Road Count]] · [[Minutes of a Gift]]
 - **Images** and **References** — unused shelf. The paintings, and the reference painting, stay under Maps. Nothing has decided a second library.
+- **The Turning — Player Primer** (a short book to read before the first session):
+  - [[Player Primer]] — the vault note
+  - `Documents/Primers/The-Turning-Player-Primer.html`
+  - `Documents/Primers/The-Turning-Player-Primer.pdf`
+  - `Documents/Primers/build_player_primer.py` — rebuilds the HTML and PDF
 - **The Turning — World Book** (compiled reading copy):
   - `Documents/Setting Book/The-Turning-World-Book.html`
   - `Documents/Setting Book/The-Turning-World-Book.pdf`

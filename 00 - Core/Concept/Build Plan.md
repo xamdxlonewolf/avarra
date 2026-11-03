@@ -7,7 +7,7 @@ status: active
 tags: [meta, build-plan, handoff]
 aliases: [Handoff Brief]
 created: 2026-08-14
-updated: 2026-10-22
+updated: 2026-11-02
 ---
 
 # Build Plan
@@ -20,7 +20,7 @@ updated: 2026-10-22
 
 Each paragraph says what the epic built and what is next. The history of each is on [[Roadmap]].
 
-**Epic T — Books for the table (T.1 done 2026-10-22).** The user asked for four books: a refresh of the world book from the vault, a player primer, a GM cheat sheet, and a GM primer of 20 pages or fewer that explains the whole world in plain words. Nothing in the epic adds canon. T.1 rebuilt the world book from the vault after Epic H and Epic V, and closed V.4h. **Next:** Story T.2, the player primer. Propose a length before writing. A default of about eight pages is on [[Roadmap]].
+**Epic T — Books for the table (T.2 done 2026-11-02).** The user asked for four books: a refresh of the world book from the vault, a player primer, a GM cheat sheet, and a GM primer of 20 pages or fewer that explains the whole world in plain words. Nothing in the epic adds canon. T.1 rebuilt the world book from the vault after Epic H and Epic V, and closed V.4h. T.2 wrote [[Player Primer]], about eight pages, player-safe, from the player chapters. The reading copy is 7 letter pages. **Next:** Story T.3, the GM cheat sheet, one or two printed pages.
 
 **Epic V — Read the whole vault ✅ (V.0–V.4h done 2026-10-22).** A script and eight readers went through every note. The report is [[Vault Audit 2026-10-22]]. The user answered in V.3: the Pourers give one year at a time, so [[Reimaethe]] is right; Maiethorn may run higher on the Given, though a hug there is not rare; [[Sanbreo]] is on Heskoren's west coast. V.4 fixed the findings in three waves from [[V.4 Fix Prompt]]: by folder, then the [[Reveal Index]] and the links, then a reread. C-10 to C-24 are resolved on [[Contradictions]]. A child who never stood under a Tree is UnTurned in every note, history included. The near-alike name pairs and the travel times for the newer seats were left for the user. **Next:** nothing. The world book was rebuilt in Story T.1.
 
