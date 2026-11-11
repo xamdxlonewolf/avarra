@@ -14,7 +14,7 @@ updated: 2026-10-02
 
 # Continents
 
-The four continents have one home: `01 - World/Geography`. This folder only points. It does not move the notes and it does not repeat them.
+The four continents already have their notes, and the home of those notes is `01 - World/Geography`. This folder only points at them. It does not move the notes into the settlements section, and it does not repeat what the notes say.
 
 | Everyday | Note |
 |---|---|
@@ -23,7 +23,7 @@ The four continents have one home: `01 - World/Geography`. This folder only poin
 | the Sundered Reach | [[Heskoren]] |
 | the Sundering Isle, Kumbaan | [[The Sundering Isle]] |
 
-How they sit on the reach, and why there are four, is [[The World Frame]]. Waters, the Rain-Wall, the rivers, and the walks are [[Named Ground]].
+How the four sit on the reach, and why there are four of them, is [[The World Frame]]. The waters, the Rain-Wall, the rivers, and the walks are [[Named Ground]].
 
 ## Links
 - [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]

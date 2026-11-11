@@ -14,9 +14,9 @@ updated: 2026-10-22
 
 # Regions
 
-An index. The ground's names live on [[Named Ground]]. The fifteen powers live on [[Powers of the Turning]]. This page points at both and adds one stretch that was only a duration: [[The Down-Bank]], between [[Maiethlir]] and [[The Hinge Shore]].
+This page is an index. The names of the ground live on [[Named Ground]], and the fifteen powers live on [[Powers of the Turning]]. The page points at both of those, and it adds one stretch the other notes had treated only as a duration: [[The Down-Bank]], the bank between [[Maiethlir]] and [[The Hinge Shore]].
 
-Maiethorn's seats, Strandoren's seats, and Heskoren's seats are named or refused. [[Eolvaeth]] was already Vaethorn's town. [[Vaelhesk]] has no town-note. The land is the seat. [[Nelath]] is a town on a spur road. It is not a seat. This index does not staff a court.
+Maiethorn's seats, Strandoren's seats, and Heskoren's seats are either named here or refused. [[Eolvaeth]] was already Vaethorn's town. [[Vaelhesk]] has no town-note, because the land is the seat. [[Nelath]] is a town on a spur road, and it is not a seat. This index does not staff a court.
 
 ## Named ground
 
@@ -34,7 +34,7 @@ Maiethorn's seats, Strandoren's seats, and Heskoren's seats are named or refused
 
 ## The fifteen
 
-A square in a power's orbit is not that power's crown.
+A square that sits in a power's orbit is not that power's crown.
 
 | Power | Continent | Seat |
 |---|---|---|
@@ -54,13 +54,13 @@ A square in a power's orbit is not that power's crown.
 | [[Vaelhesk]] | Heskoren | the land is the seat. [[The First Bowl]] is not a capital |
 | [[Saelvaeth]] | Heskoren | [[Natai]]. [[Harrow's Green]] is not this seat |
 
-[[The Sundering Isle|Kumbaan]] is not a sixteenth power. It has no graft and no seat on this list.
+[[The Sundering Isle|Kumbaan]] is not a sixteenth power. It has no graft, and it has no seat on this list.
 
 ## The one new stretch
 
-[[The Down-Bank]] — the Core-thaw after Maiethlir's Down Gate and before a Hinge Shore quay classifies a hull. Travelers already walk or float it. It is not a power, not a seat, and not [[Maiethvael]]'s capital.
+[[The Down-Bank]] is the Core-thaw after Maiethlir's Down Gate and before a Hinge Shore quay classifies a hull. Travelers already walk it, or float it. It is not a power, it is not a seat, and it is not [[Maiethvael]]'s capital.
 
-[[Eolvaeth]] is a town: a Tree, a spring, a gift-hall, camp-streets. Those streets are not wards. [[Maiethlir]] and [[Orentel]] are the cities with enough layout for a later map. This index does not draw one.
+[[Eolvaeth]] is a town, with a Tree, a spring, a gift-hall, and camp-streets, and those streets are not wards. [[Maiethlir]] and [[Orentel]] are the cities with enough of a layout that a later map could be drawn from them. This index does not draw that map.
 
 ## Links
 - [[Named Ground]] · [[Powers of the Turning]] · [[The Down-Bank]]
