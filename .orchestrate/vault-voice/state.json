@@ -472,12 +472,12 @@
       "agentId": "bc-49b0114d-6f84-4e46-a666-21499c6136f8",
       "runId": "run-c2d035f3-62e3-43a7-a825-5d99f5ac15d7",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/factions-edges.md",
       "startedAt": "2026-11-11T06:02:23.573Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:38.500Z",
+      "finishedAt": "2026-11-11T06:19:24.148Z",
+      "lastUpdate": "2026-11-11T06:19:24.148Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -609,13 +609,13 @@
       "handoffPath": "handoffs/people-npcs-minor.md",
       "startedAt": "2026-11-11T06:02:57.428Z",
       "finishedAt": "2026-11-11T06:19:18.613Z",
-      "lastUpdate": "2026-11-11T06:19:18.613Z",
+      "lastUpdate": "2026-11-11T06:19:19.629Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "people-cast",
@@ -1565,6 +1565,10 @@
     {
       "at": "2026-11-11T06:19:15.866Z",
       "message": "factions-orders-seat: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:19.629Z",
+      "message": "people-npcs-minor: verification self-reported (not-verified)"
     }
   ]
 }
