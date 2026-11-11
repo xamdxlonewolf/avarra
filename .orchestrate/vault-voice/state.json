@@ -81,13 +81,13 @@
       "handoffPath": "handoffs/world-climate.md",
       "startedAt": "2026-11-11T06:00:58.709Z",
       "finishedAt": "2026-11-11T06:16:26.136Z",
-      "lastUpdate": "2026-11-11T06:16:26.137Z",
+      "lastUpdate": "2026-11-11T06:16:27.185Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "world-life",
@@ -626,12 +626,12 @@
       "agentId": "bc-2b376815-098a-415c-aba7-e7597b27afa1",
       "runId": "run-0d9d9863-60a9-43a3-869d-f143f8f2714e",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/people-cast.md",
       "startedAt": "2026-11-11T06:03:00.220Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:03:02.635Z",
+      "finishedAt": "2026-11-11T06:17:06.446Z",
+      "lastUpdate": "2026-11-11T06:17:06.446Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1513,6 +1513,10 @@
     {
       "at": "2026-11-11T06:05:19.073Z",
       "message": "verify-voice-rules: spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously."
+    },
+    {
+      "at": "2026-11-11T06:16:27.186Z",
+      "message": "world-climate: verification self-reported (not-verified)"
     }
   ]
 }
