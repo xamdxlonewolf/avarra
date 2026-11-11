@@ -1834,12 +1834,12 @@
       "handoffPath": "handoffs/merge-book.md",
       "startedAt": "2026-11-11T07:05:55.081Z",
       "finishedAt": "2026-11-11T07:07:17.833Z",
-      "lastUpdate": "2026-11-11T07:07:17.833Z",
+      "lastUpdate": "2026-11-11T07:07:19.155Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
+      "verification": "not-verified",
       "attempts": 1
     },
     {
@@ -1853,17 +1853,18 @@
       "agentId": null,
       "runId": null,
       "parentAgentId": null,
-      "status": "pending",
+      "status": "running",
       "resultStatus": null,
       "handoffPath": null,
-      "startedAt": null,
+      "startedAt": "2026-11-11T07:07:28.614Z",
       "finishedAt": null,
-      "lastUpdate": null,
+      "lastUpdate": "2026-11-11T07:07:28.614Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": null,
+      "attempts": 1
     }
   ],
   "attention": [
@@ -2094,6 +2095,10 @@
     {
       "at": "2026-11-11T07:05:54.867Z",
       "message": "book-powers: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T07:07:19.157Z",
+      "message": "merge-book: verification self-reported (not-verified)"
     }
   ]
 }
