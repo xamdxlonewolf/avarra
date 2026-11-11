@@ -169,13 +169,13 @@
       "handoffPath": "handoffs/history-record.md",
       "startedAt": "2026-11-11T06:01:21.667Z",
       "finishedAt": "2026-11-11T06:23:26.060Z",
-      "lastUpdate": "2026-11-11T06:23:26.060Z",
+      "lastUpdate": "2026-11-11T06:23:27.152Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "cultures-peoples",
@@ -670,17 +670,17 @@
       "agentId": null,
       "runId": null,
       "parentAgentId": null,
-      "status": "error",
+      "status": "pending",
       "resultStatus": null,
       "handoffPath": null,
-      "startedAt": "2026-11-11T06:03:14.518Z",
+      "startedAt": null,
       "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:03:15.177Z",
-      "note": "spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously.",
+      "lastUpdate": "2026-11-11T06:24:43.853Z",
+      "note": "respawned by self-planner (was error; attempts=1)",
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
-      "failureMode": "unknown",
+      "failureMode": null,
       "verification": null
     },
     {
@@ -1625,6 +1625,14 @@
     {
       "at": "2026-11-11T06:23:08.326Z",
       "message": "religion-faiths: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:23:27.153Z",
+      "message": "history-record: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:23:35.880Z",
+      "message": "merge-notes: unreachable — blocked on campaigns (error), game (error). Fix the upstream and rerun, or `kill merge-notes` to abandon."
     }
   ]
 }
