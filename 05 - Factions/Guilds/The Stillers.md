@@ -17,34 +17,34 @@ updated: 2026-10-22
 
 # The Stillers
 
-The Stillers are the model safety-guild from [[Law and Citizenship]]: the guild issues the tickets, and the state watches the guild, not the person. They licence [[The Stilled]]. They run the infirmaries [[Daily Life]] already named. They are not a census and not monster-police.
+The Stillers are the model safety-guild from [[Law and Citizenship]]. The guild issues the tickets, and the state watches the guild, not the person. They licence [[The Stilled]], the people whose gaze can hold a moment still, and they run the infirmaries [[Daily Life]] already named. They are not a census of those people, and they are not monster-police.
 
-*(Everyday: **stillers**, or **the Stillers' Guild.** Liturgical: **the Stelhael** — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**; the Ledger Coast says **ticket-surgeons**; the Tallied Crown files them as **crown-stillers**.)*
+Everyday speech is **stillers**, or **the Stillers' Guild**. The liturgical name is **the Stelhael** (STEL-hael), from [[The Old Tongue|stel]], "to still; to hold from moving," and [[The Old Tongue|hael]], "whole": those who *keep you hale by holding you still.* The Waiting Lands say **blessing-surgeons**. The Ledger Coast says **ticket-surgeons**. The Tallied Crown files them as **crown-stillers**.
 
-**In one sentence:** they will save you on the table, and they will make you drill until the Grey is gone — the ticket is competence, and the clock in the surgeon is the hospital's clock.
+They will save you on the table, and they will make you drill until the Grey is gone — the ticket is competence, and the clock in the surgeon is the hospital's clock. The Grey is the stillness that collects in the surgeon each time the gaze is used, and it has to be worked back out.
 
 ## At the table
 
 | | |
 |---|---|
-| **Want** | A Gaze that holds a wound and does not hold a person helpless. A quiet infirmary. |
-| **Have** | The strictest ticket, a yard beside the theatre, a Grey-clock. |
-| **Fear** | A raw Stilled in the square and no Intake for three days. A ticket held as guild-property. |
-| **Live conflict** | The paying theatre wants the master. The shed has a raw Struck who survived being stone. The charter wants no headlines. |
+| **Want** | A Gaze that holds a wound and does not hold a person helpless, and a quiet infirmary. |
+| **Have** | The strictest ticket, a yard beside the theatre, and a Grey-clock. |
+| **Fear** | A raw Stilled person in the square, with no Intake for three days, and a ticket held as guild-property. |
+| **Live conflict** | The paying theatre wants the master. The shed has a raw Struck person who survived being stone. The charter wants no headlines. |
 | **Hooks** | A riot-line and a surgery in the same hour; a Grey that will not burn off; a crown-stiller who will not release a bed. |
 
 ## Shape of the house (at a glance)
 
-- **The model the others imitate.** If you understand this guild, you understand a Voice-ticket and an element-ticket. A roster of practitioners of a dangerous art. Not a list of a people. The ticketable pool is large; this roll is stillers who Gaze, not every pale-stone in the city. [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
-- **Two rooms, one clock.** The infirmary (wonder) and the yard (spar, patrol, the riot-line). Using the Gaze *fills* the Grey. The yard empties it. The guild's best work creates the guild's Tithe. That is not a paradox they have solved. It is the job.
-- **A surgeon's college.** They see themselves as apprentices, a code, and a ticket like a master's papers. They do not call themselves keepers of monsters. The frightening part is the Gaze that saves you, and the unlicensed Struck the town will meet with a rope.
-- **No Stillers' pope.** A rich core infirmary is rich. A frontier stiller is one tired person. The charter is local. The state watches the charter.
+- **The model the others imitate.** If you understand this guild, you understand a Voice-ticket and an element-ticket, because both are the same shape of licence. What the house keeps is a roster of practitioners of a dangerous art, not a list of a people. The ticketable pool is large. This roll is stillers who Gaze, not every pale-stone person in the city, pale stone being the leaf a Given Stilled child draws. The rule is [[Law and Citizenship#The safety-licence — how hazard is regulated (and by whom)]].
+- **Two rooms, one clock.** The infirmary is the wonder, and the yard is the spar, the patrol, and the riot-line. Using the Gaze *fills* the Grey. The yard empties it. The guild's best work creates the guild's Tithe, the upkeep the stillness demands. That is not a paradox they have solved. It is the job.
+- **A surgeon's college.** They see themselves as apprentices, a code, and a ticket like a master's papers. They do not call themselves keepers of monsters. The frightening part is the Gaze that saves you, and the unlicensed Struck person the town will meet with a rope.
+- **No Stillers' pope.** A rich infirmary in the core is rich, and a frontier stiller is one tired person. The charter is local. The state watches the charter, not the body of the person who holds the ticket.
 
 ## What they actually do
 
 ### If you meet one
 
-Calm. Flat-eyed when they are working. Hair that stirs when something nearby has gone too still. You meet them in an infirmary, on a drill-floor, or on a line that has not yet become a massacre. You would not know which hour was "guild" unless you already needed a ticket.
+You meet a calm person, flat-eyed when they are working, whose hair stirs when something nearby has gone too still. You meet them in an infirmary, on a drill-floor, or on a line that has not yet become a massacre. You would not know which hour was "guild" unless you already needed a ticket.
 
 They are useful the way a surgeon is useful. A town without one makes do with a rope-and-prayer, as [[Daily Life]] said.
 
@@ -52,79 +52,75 @@ They are useful the way a surgeon is useful. A town without one makes do with a 
 
 | Who | Why they come | What the stiller does | What they will not do |
 |---|---|---|---|
-| A Given [[The Stilled\|Stilled]] child, after pale stone | The Gaze must be trained before a misuse leaves someone helpless | Apprentice them. Drill. Theatre. The ticket when they can still a wound and not a person. | Will not Speak the colour. Will not put them on a riot-line in the first year. |
-| A patient | Bleeding, poison, a knife that needs a still field | Hold the moment. Work fast. Walk to the yard after and burn the Grey. | Will not hold a will. Cannot. Will not still a person as punishment. |
-| The watch, or a street that is turning | A brawl about to become a pile of bodies | Stand the line. Still the swing, not the person, if they can help it. | Will not become the town's executioner. Holding a person still is a crime the code names. |
-| A Struck Stilled, raw (they were stone) | The Grey is already in them, unpracticed | Hand them to [[The Intake]]. Sit the first drill *with* Intake. Reverse what can still be reversed. | Will not stamp a ticket on a raw Gaze. Will not leave them in the square. |
-| A charter-clerk | Someone unlicensed stills in public | Protect the charter: take them in, or swear they were not of the house | Will not write the town's people down. A guild-roll is not a Threnhael. |
-| Anyone who wants the Gaze as a weapon | — | Refuse. The code is the ticket. | Will not sell a hold on a person. Anyone who does is not of this house. |
+| A Given [[The Stilled\|Stilled]] child, after pale stone | The Gaze must be trained before a misuse leaves someone helpless | Apprentice them, drill them, put them in the theatre, and give the ticket when they can still a wound and not a person | They will not Speak the colour, and they will not put the child on a riot-line in the first year |
+| A patient | Bleeding, poison, or a knife that needs a still field | Hold the moment, work fast, and walk to the yard afterward to burn the Grey | They will not hold a will. They cannot. They will not still a person as punishment |
+| The watch, or a street that is turning | A brawl about to become a pile of bodies | Stand the line, and still the swing rather than the person, if they can help it | They will not become the town's executioner. Holding a person still is a crime the code names |
+| A Struck Stilled person, raw, who was stone | The Grey is already in them, and it is unpracticed | Hand them to [[The Intake]], sit the first drill *with* Intake, and reverse what can still be reversed | They will not stamp a ticket on a raw Gaze, and they will not leave the person in the square |
+| A charter-clerk | Someone unlicensed is stilling in public | Protect the charter, either by taking the person in or by swearing they were not of the house | They will not write the town's people down. A guild-roll is not a Threnhael, the crown's roll of persons |
+| Anyone who wants the Gaze as a weapon | — | Refuse. The code is the ticket | They will not sell a hold on a person. Anyone who does is not of this house |
 
 ### An ordinary week (the job you can miss)
 
-**Theatre.** The pleasant horror outsiders remember: a gaze that stops blood, a surgeon who must then go and *move*. Between patients they drill. They spar. They dance, badly, because dance works the Grey out. No one calls this therapy in the core; they call it the job.
+In the theatre, which is the pleasant horror outsiders remember, a gaze stops blood, and the surgeon then has to go and *move*. Between patients they drill, they spar, and they dance, badly, because dance works the Grey out. No one calls this therapy in the core; they call it the job.
 
-**The doorknob.** They touch a doorknob before they look at a patient. If the knob has gone still under an unwatched Gaze, the room is already wrong. A first-year who forgets is sent back to the yard.
+They touch a doorknob before they look at a patient. If the knob has gone still under an unwatched Gaze, the room is already wrong. A first-year who forgets is sent back to the yard.
 
-**The yard.** Exertion on purpose. The Tithe paid as professional identity, as [[The Stilled]] already said.
+The yard is exertion on purpose. The Tithe is paid as professional identity, as [[The Stilled]] already said, the stillness worked back out of the body that spent it.
 
-**The ticket-stool.** A master's mark. Held by the person. The guild *knows its members* the way any craft does. In Lestrand the ticket can start to behave like property — a place, a chair, a name on a door. That is the house's live argument, not a locked rule.
+The ticket-stool is a master's mark, and the person holds it. The guild *knows its members* the way any craft does. In Lestrand the ticket can start to behave like property, a place and a chair and a name on a door. That is the house's live argument, not a locked rule of the world.
 
-When a raw Struck arrives, the paying floor loses a master for a week. The guild is not grateful. That week is [[The Intake]].
+When a raw Struck person arrives, the paying floor loses a master for a week, and the guild is not grateful. That week is [[The Intake]].
 
 ### What they carry
 
-A ticket. A code (spoken; this world is late-medieval). Chalk for the Grey-drill roster. Hands that have learned to keep moving. No census. No book of weeks.
+They carry a ticket, and a code that is spoken, because this world is late-medieval. They carry chalk for the Grey-drill roster, and hands that have learned to keep moving. They do not carry a census, and they do not keep a book of weeks.
 
 ### What they refuse (the job's edge)
 
-- They will not still a will. They cannot. They will not pretend they can to frighten a street.
-- They will not stamp a raw Struck. Intake.
-- They will not let the Grey run to a public seize if they can still drag the person to the yard. A seize on the floor is a ruined charter.
-- They will not become Threnmaieth's register. A roll of *stillers* is not a roll of *the Stilled*.
-- They will not export a college across the storm-wall.
+They will not still a will. They cannot, and they will not pretend they can in order to frighten a street. They will not stamp a raw Struck person, who goes to Intake instead. They will not let the Grey run to a public seize if they can still drag the person to the yard, because a seize on the floor is a ruined charter. They will not become Threnmaieth's register, because a roll of stillers is not a roll of the Stilled. They will not export a college across the storm-wall.
 
 ## Who may hold a ticket
 
-**Not by Kind.** The Gaze does not care what you were born. A stock-ancestry child and a [[Kitsune]] apprentice in the same yard.
+The ticket is not by Kind. The Gaze does not care what you were born, so a stock-ancestry child, born to one of the common peoples, and a [[Kitsune]] apprentice can stand in the same yard.
 
-**By practice first.** You are of the house when you can still a wound and then *move*, and when the town has watched you do both.
+By practice first, you are of the house when you can still a wound and then *move*, and when the town has watched you do both.
 
-**Condition leans, not Condition-gates.**
+The house keeps Condition leans and does not keep Condition-gates.
 
 | Act | Often | Why | Also, and welcome |
 |---|---|---|---|
 | Theatre, the line | [[The Stilled]] | the Tithe and the vocation are the same shape | — |
-| The yard, the roster | anyone who will make them *move* | Grey is a body problem | a Kept drill-master; a [[Two-Bodied]] who will run them |
-| The ticket-stool | a Given Stilled who trained young | rare-colour memory helps, is not required | a Long-Lived Speaker's cousin who copies the code |
-| Intake week | the master who can be spared (often the one the floor can least spare) | raw Gaze is a live hazard | a Struck who remembers stone and will sit the first drill |
+| The yard, the roster | anyone who will make them *move* | Grey is a body problem | a Kept drill-master, who carries no Condition; a [[Two-Bodied]] person who will run them |
+| The ticket-stool | a Given Stilled person who trained young | rare-colour memory helps, and is not required | a Long-Lived Speaker's cousin who copies the code |
+| Intake week | the master who can be spared, often the one the floor can least spare | a raw Gaze is a live hazard | a Struck person who remembers stone and will sit the first drill |
 
-Skeptics are welcome. The Gaze does not require a Mother. Believers in Vaethorn will still say a blessing-to-practice. Both can hold the same ticket.
+Skeptics are welcome. The Gaze does not require a Mother, while believers in Vaethorn will still say a blessing-to-practice, and both can hold the same ticket.
 
 ## How they live with the other houses
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
-| [[The Hall-Keepers]] · [[The Element-Guilds]] | Sister tickets. Shared Intake. | A Cry is not a Gaze. A Far-Voiced person is not sent to the yard to be stilled quiet. |
-| [[The Greens-Keepers]] | A Taken-In stiller still needs dirt. | The infirmary is not a lot. |
-| [[The Slide]] | A stiller who needs green or novelty is a person, not a week. Contact happens when the infirmary closes a bed. | A ticket that becomes a week-rent has left the yard. The two houses meet, but they do not merge. |
-| [[The Tree-Wardens]] | Pale stone is pointed here. | The warden Speaks. The guild trains. |
-| [[The Book-Hands]] | A settling may assume an infirmary. | A frontier with no stiller is an *owing*, not a miracle. |
-| [[The Watchers]] | A second reading may say *pale stone, not storm-grey.* | Description is not a stamp. |
+| [[The Hall-Keepers]] · [[The Element-Guilds]] | They are sister tickets, and they share the Intake. | A Cry is not a Gaze. A Far-Voiced person is not sent to the yard to be stilled quiet. |
+| [[The Greens-Keepers]] | A Taken-In stiller still needs dirt, living ground, the way any Taken-In person does. | The infirmary is not a lot. |
+| [[The Slide]] | A stiller who needs green or novelty is a person, not a week for rent. Contact happens when the infirmary closes a bed. | A ticket that becomes a week-rent has left the yard. The two houses meet, and they do not merge. |
+| [[The Tree-Wardens]] | Pale stone is pointed here, the warden sending the child to this yard. | The warden Speaks the colour. The guild trains the gaze. |
+| [[The Book-Hands]] | A settling may assume an infirmary will be there to receive someone. | A frontier with no stiller is an *owing*, a debt the settling still records, and not a miracle. |
+| [[The Watchers]] | A second reading may say the leaf was pale stone, not storm-grey. | Description is not a stamp. The Watcher does not licence anyone. |
 
 ## How they live in the three corners (and off the map)
 
-- **[[Polity Archetypes|Vaethorn]] (blessing-surgeons).** One tired stiller, a blessing-to-practice, a riot-line that is also the only theatre. Almost no college. Soft injustice: you were trained, you will stand every line the valley has. The rope is still how a raw Struck is met if the stiller is three valleys away.
-- **[[Polity Archetypes|Lestrand]] (ticket-surgeons).** Superb infirmaries. Guild-ticket as property-adjacent. You can be priced out of the chair. The charter is a commercial good. Unlicensed practice threatens the charter as much as the street.
-- **[[Polity Archetypes|Threnmaieth]] (crown-stillers).** The crown wants the ticket as a crown-warrant and the roll as a column. Some masters cooperate (stewardship). Some refuse: a guild-roll is not a Threnhael. The Gaze that saves you runs through a channel that can be withheld from a household the crown dislikes. The darkest infirmary in the world, still a real infirmary.
+- **[[Polity Archetypes|Vaethorn]] (blessing-surgeons).** One tired stiller, a blessing-to-practice, and a riot-line that is also the only theatre. There is almost no college. The soft injustice is that you were trained, so you will stand every line the valley has. The rope is still how a raw Struck person is met if the stiller is three valleys away.
+- **[[Polity Archetypes|Lestrand]] (ticket-surgeons).** The infirmaries are superb, and the guild-ticket sits next to property. You can be priced out of the chair. The charter is a commercial good, and unlicensed practice threatens the charter as much as it threatens the street.
+- **[[Polity Archetypes|Threnmaieth]] (crown-stillers).** The crown wants the ticket as a crown-warrant and the roll as a column. Some masters cooperate and call it stewardship. Some refuse, because a guild-roll is not a Threnhael. The Gaze that saves you can run through a channel that withholds the bed from a household the crown dislikes. It is the darkest infirmary in the world, still a real infirmary.
 - **[[The Sundering Isle|Kumbaan]].** A travelling stiller is a guest, not a chapter.
 
 ## The Grey as labor (the house's injustice)
 
-The guild's best work *fills* the clock that will lock a limb if they do not then labor. So the house needs them on the table and in the yard. The charter needs them never to lapse in public. The infirmary's pace is set by the surgeon's Grey, not only by the patient.
+The guild's best work *fills* the clock that will lock a limb if the surgeon does not then labor. So the house needs them on the table and in the yard, and the charter needs them never to lapse in public. The infirmary's pace is set by the surgeon's Grey, not only by the patient.
 
-That is not a scion-queue. That is not a week. That is a hospital that runs on its staff's Tithe.
+That arrangement is not a scion-queue, the waiting line for a living Tree, and it is not a week rented from the Slide. It is a hospital that runs on its staff's Tithe.
 
-The ticket-as-property argument (Lestrand, leaking elsewhere) is the second face: competence lives in a person; the chair can start to live in the guild.
+The argument about the ticket as property, which is Lestrand's and which leaks into other towns, is the second face of the same house. Competence lives in a person. The chair can start to live in the guild.
 
 The Motherfaith says she gave a gaze that costs. The roster is people's work, and nobody expects the Tree to make the drill optional.
 
@@ -132,13 +128,11 @@ A grudging extra drill-master is the most the guild will grant at the end of any
 
 ## Economy of the house
 
-- **Theatre and tickets are the living.** Civic infirmary stipends, paid surgeries, charter-fees.
-- **Intake is badly paid.** The raw Struck who most need a week in the shed are the week the floor can least spare. That is why Intake is the underdog, not a prestige rotation.
-- **They are not Tithe-furnishers of green or novelty.** A stiller who is also Taken-In uses the lot like anyone.
+Theatre and tickets are the living: civic infirmary stipends, paid surgeries, and charter-fees. Intake is badly paid. The raw Struck people who most need a week in the shed are the week the floor can least spare, and that mismatch is why Intake is the underdog rather than a prestige rotation. The stillers are not furnishers of green or of novelty. A stiller who is also Taken-In uses the lot like anyone else.
 
 ## In-world text
 
-*A Grey-drill roster, core infirmary, chalked on the yard wall. The verso is yesterday's, washed badly.*
+*What follows is a Grey-drill roster from a core infirmary, chalked on the yard wall. The back of the wall is yesterday's roster, washed badly.*
 
 > *After third theatre: spar, full glass. After the line: the long run, no Gaze. Apprentices: the knob first, always. A Grey that stays overnight is a Grey we file as lapse, not as rest. The shed is not on this wall. If you were stone last week, you are not on this wall. Come to the door that does not face the street. We do not write that door. We do not still a person to close a day. Touch the knob. Then look.*
 
@@ -154,15 +148,16 @@ The roster is a college keeping its people hale, with the code written as a work
 
 ## GM Notes
 
-- **What this is.** The model safety-guild from [[Law and Citizenship]]. Do not turn it into a census or monster-police.
-- **Canon.** The Stilled are the strictest licence. Given Stilled train young; Struck Stilled arrive raw (they survived stone). The Gaze never seizes a will. Grey is burned off by exertion. Recruits by practice, office, and Condition-lean, **not Kind**. Whether a ticket can be held as guild-property, and the liturgical name, are not settled.
-- **They do not know what story they are in.** Avoid monster-police, a medusa-cult, and a superhero registry. Form stays surgeon's college. They want a street that does not seize and a patient who lives. They do not want a register of the feared.
-- **Moral parallax.** Distances: causal ("the yard is for their own good") and social (the raw Struck is not *our* apprentice). Engine: exchange — every theatre-hour is Grey someone must then burn — and inheritance — Given children inherit a drill the Struck never had. Comfort: the words *ticket* and *code*.
-- **A still doorknob is a practical tell.** Do not turn it into a relic.
-- **Ticket-as-property is open.** It is Lestrand's live argument, not world-law. Do not let it become a census by another name.
-- **Do not clone Intake as a travelling stiller-circuit.** The underdog sits in the shed. Road-hands already walk. Do not convert the guild at the end of a story.
-- **The Slide.** A ticket that becomes a week-rent has left the yard. The doors can meet; do not merge them.
-- **Inviolate Will is load-bearing.** No mind-control charges. Holding a person still is ordinary violent crime, the code's one named horror. The Gaze can leave someone helpless in a fight. It does not hold them past the scene, and it does not turn them to stone.
-- **No Kind-gate. No Kumbaan college. No Stillers' pope.**
-- **Names.** Liturgical: *the Stelhael* — STEL-hael — [[The Old Tongue|stel]] "to still; to hold from moving" + [[The Old Tongue|hael]] "whole": those who keep you hale by holding you still. The Waiting Lands say *blessing-surgeons*; the Ledger Coast says *ticket-surgeons*; the Tallied Crown files them as *crown-stillers*. The liturgical name is not settled.
-- **Hooks.** A raw Struck in a frontier square and a rope already in the hand; a Grey-roster that filed a person as lapse; a crown-clerk who wants the guild-roll copied onto the Threnhael; a ticket-chair that outlived the stiller; a PC who forgets the knob; Intake week pulling the only master off a plague theatre.
+This is the model safety-guild from [[Law and Citizenship]], and you should not turn it into a census or into monster-police. The canon stays as it is. The Stilled are the strictest licence, Given Stilled train young, Struck Stilled arrive raw because they survived being stone, the Gaze never seizes a will, and Grey is burned off by exertion. The house recruits by practice, by office, and by a Condition-lean, not by Kind. Whether a ticket can be held as guild-property, and what the liturgical name settles to, are not settled.
+
+They do not know what story they are in, so avoid monster-police, a medusa-cult, and a superhero registry. The form stays a surgeon's college. They want a street that does not seize and a patient who lives, and they do not want a register of the feared.
+
+The distances that make the injustice comfortable are causal, the claim that the yard is for their own good, and social, the claim that the raw Struck person is not our apprentice. The engine is exchange, because every theatre-hour is Grey someone must then burn, and inheritance, because Given children inherit a drill the Struck never had. The comfort words are *ticket* and *code*.
+
+A still doorknob is a practical tell, so do not turn it into a relic. The question of a ticket as property is open. It is Lestrand's live argument, not world-law, and you should not let it become a census by another name. Do not clone Intake as a travelling stiller-circuit, because the underdog sits in the shed and the Road-hands already walk. Do not convert the guild into something larger at the end of a story.
+
+On the Slide, a ticket that becomes a week-rent has left the yard. The doors can meet, and you should not merge them. Inviolate Will is load-bearing, so there are no mind-control charges. Holding a person still is ordinary violent crime, the code's one named horror. The Gaze can leave someone helpless in a fight, and it does not hold them past the scene, and it does not turn them to stone.
+
+There is no Kind-gate, no Kumbaan college, and no Stillers' pope. The liturgical name is *the Stelhael* (STEL-hael), from [[The Old Tongue|stel]], "to still; to hold from moving," and [[The Old Tongue|hael]], "whole": those who keep you hale by holding you still. The Waiting Lands say *blessing-surgeons*, the Ledger Coast says *ticket-surgeons*, and the Tallied Crown files them as *crown-stillers*. The liturgical name is not settled.
+
+The scenes that come out of this house are a raw Struck person in a frontier square with a rope already in the hand, a Grey-roster that filed a person as lapse, a crown-clerk who wants the guild-roll copied onto the Threnhael, a ticket-chair that outlived the stiller, a player character who forgets the knob, and an Intake week that pulls the only master off a plague theatre.
