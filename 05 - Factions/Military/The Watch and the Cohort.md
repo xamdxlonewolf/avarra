@@ -17,51 +17,51 @@ updated: 2026-10-22
 
 # The Watch and the Cohort
 
-A town keeps a watch. In a bad year it sends a cohort down the road. Two old wars left a wall and a rate. A power's ordinary year is a bench until morning, and a cohort only in the year a Hand cannot do the week.
+A town keeps a watch for the night, and in a bad year it sends a cohort down the road with the children who still have to be Turned. Two old wars are finished. What they left behind, and what a power still collects, is a wall and a rate. In an ordinary year the work is a bench until morning. A cohort goes out only in the year a town's own Hand, the local wood that should Turn its children, cannot do the week.
 
-The harm ladder is already written on [[Law and Citizenship]]. The middle of that ladder is a watch. The walk, when a Hand fails a week, is a cohort. What [[The Closing]] and [[The Hinge Hush]] still collect is a wall and a rate.
+The harm ladder is already written on [[Law and Citizenship]], and most of that ladder never leaves the neighbours. The middle of it is a watch, and the walk, when a Hand fails a week, is a cohort. What [[The Closing]] and [[The Hinge Hush]] still collect, long after the fighting stopped, is that wall and that rate.
 
 ## The watch
 
-Most harm dies as neighbour-word. Restitution, an apology, a Bound word if someone has one. The watch is not called.
+Most harm dies as neighbour-word before anyone is fetched. Someone pays back what they took, or they apologize, or a Bound, a person whose sworn word holds, gives that word if the street has one to give. The watch is not called for that.
 
-When it is called, it is a night-watch or a ward-watch. The people on it are often Kept, because the night has no Tithe, and often [[Two-Bodied]], because the ranging is the Tithe. A [[Far-Voiced]] stands with them for the shout. They hold a body until morning. They do not investigate a Condition. In the morning they fetch a pillar or a guild if the charge needs one. A guild-hearing is the guild's room. An open hearing is for willful harm. The watch does not become either room.
+When it is called, it is a night-watch or a ward-watch. The people on it are often Kept, who carry no Condition and so no Tithe, no upkeep the night can collect, and often [[Two-Bodied]], because the ranging they already owe is the Tithe. A [[Far-Voiced]] stands with them so the shout will carry. They hold a body until morning. They do not investigate a Condition, the becoming a person carries, which is a different question from whether someone was harmed tonight. In the morning they fetch a pillar, someone whose witness the law will take, or a guild if the charge needs one. A guild-hearing is the guild's own room, an open hearing is for willful harm, harm someone meant, and the watch does not become either room.
 
-At a gate they ask three things: name, last hearth, who stands. Two answers and the road goes on. No answer, and the person sits a bench until the second bell, until someone comes to stand for them, or until the watch walks them to the next gate. The bench is not a cell. They do not keep the three answers past dawn.
+At a gate they ask three things: your name, your last hearth, and who stands for you. Two answers, and the road goes on. No answer, and the person sits a bench until the second bell, until someone comes to stand for them, or until the watch walks them to the next gate. The bench is not a cell, and they do not keep the three answers past dawn.
 
 In a village the watch is whoever is awake. In [[Maiethlir]] it is the Down Gate and the path along the flood-wall. In [[Orentel]] it is the night-gate on the quay. In [[Eolvaeth]] the square watches, and in a year when a cohort goes out the camp-streets watch instead, because the people who would have stood have gone toward a luckier Hand.
 
-[[Polity Archetypes|Threnmaieth]] writes persons and gifts. That writing belongs to [[The Reckoned Offices]]. The watch in a Watchful town can be told to hold someone the roll wants. The holding is still until morning unless a clerk comes. The roll is the clerk's. Other notes that say "the watch" mean this civic hold.
+[[Polity Archetypes|Threnmaieth]], the Tallied Crown, writes persons and gifts down. That writing belongs to [[The Reckoned Offices]], and not to the people on the bench. The watch in a Watchful town, one that keeps such a roll, can be told to hold someone the roll wants. The holding is still until morning unless a clerk comes, and the roll stays the clerk's. When another note says "the watch," it means this civic hold.
 
 ## The cohort
 
-A cohort is the group a town sends when its own Hand cannot Turn them this week. It is kin, children who are ten, and a warden's word. It is not a company kept under arms.
+A cohort is the group a town sends when its own Hand cannot Turn them this week. The group is kin, the children who are ten, and a warden's word, and it is not a company kept under arms.
 
-[[Vaethod]] at [[Eolvaeth]] has sent one toward [[Saelvaeth]] in years when the wood did not do the week's work. The gospel in that town says wait. The children are ten now, and the Given-door is one week. They go. They come back Given, or not, or unvouched. One unvouched arrival in the gift-hall is a year the town still argues. [[Saelid]]'s stall feels the winter, because the people who buy bread are the people the cohort takes away. There is no barracks to return to. When the week is over, the cohort breaks up, and people remember it by the summer it went.
+[[Vaethod]] at [[Eolvaeth]] has sent one toward [[Saelvaeth]] in years when the wood did not do the week's work. The gospel in that town says wait, but the children are ten now, and the Given-door, the one week in which the wood can give them what it gives, is that week, so they go. They come back Given, carrying what the wood gave, or not, or unvouched, with no one who watched the standing. One unvouched arrival in the gift-hall is a year the town still argues. [[Saelid]]'s stall feels the winter, because the people who buy bread are the people the cohort takes away. There is no barracks to return to, so when the week is over the cohort breaks up, and people remember it by the summer it went.
 
 [[The Mill-hold]] sends its ten-year-olds toward Brenthael when the Hand is unsound. Talen writes them on the neighbour-slate. That walk is the same kind of cohort. A bed-guild in [[Orenbren]] may take it for a town that failed. Talen writes it down as one more summer's walk. The children are not soldiers, and the slate is not a muster-roll.
 
-Between sends, the people are at their stalls and their races. A power does not keep a cohort in the field as its ordinary year.
+Between those sends, the people are at their stalls and their races. A power does not keep a cohort in the field as its ordinary year.
 
 A sent cohort from Eolvaeth stops at the thorn outside the vale and eats before they go on, even when the path is clear. They will not say why.
 
 ## What the Closing left
 
-[[The Closing]] ran from Cut-year 19 to the Retreat in Cut-year 38. Riders tried to pull up copied wood. Towns hid slips. Lodging-hearths would not starve their beds. By the end, [[Hildal]] closed a wall and saved a book. The riders went home.
+[[The Closing]] ran from Cut-year 19 to the Retreat in Cut-year 38, in the year-count the chronicles use. Riders tried to pull up copied wood, trees towns had grown as copies of a Tree, the towns hid the slips, the cuttings those copies were grown from, and lodging-hearths would not starve their beds. By the end [[Hildal]] closed a wall and saved a book, and the riders went home.
 
-The wall is the [[The Walled Book|Inner Close]], the walled city inside [[Orenbren]]. The Book still ranks who owes. That is a class rule. It is not a garrison on the wall. Nobody kept the riders as a host that could be called again.
+The wall is the [[The Walled Book|Inner Close]], the walled city inside [[Orenbren]]. The Book still ranks who owes, and that ranking is a class rule rather than a garrison on the wall. Nobody kept the riders as a host that could be called again.
 
-A Near-Mile house may still hang a kitchen-knife on a ribbon beside a scorch on an old pot-ring ([[The Ribboned Knife]]). People know which summer that was. They do not turn out for it. [[The Low Wall]] is another stone, from another dig. A person who says the two walls are one wall is making a claim about the past. They are not raising a company.
+A house on the Near Mile may still hang a kitchen-knife on a ribbon beside a scorch on an old pot-ring ([[The Ribboned Knife]]). People know which summer that was, and they do not turn out for it. [[The Low Wall]] is another stone, from another dig. A person who says the two walls are one wall is making a claim about the past. They are not raising a company.
 
 ## What the Hinge Hush left
 
-From Cut-year 299 to 304, [[The Hinge Shore]] and the Ledger Coast tied each other's hulls over who set the crossing's price. People died. It was a fight about a toll. In Cut-year 304 they hushed. The hush is a rate, a west-water clause, and a refusal to name a winner.
+From Cut-year 299 to 304, [[The Hinge Shore]] and the Ledger Coast tied each other's hulls over who set the crossing's price. People died in a fight about a toll, and in Cut-year 304 they hushed. The hush is a rate, a west-water clause, and a refusal to name a winner.
 
-[[Taerso]] spoke for the hinge-houses. Sirtol spoke for a charter-pile on the Coast. Both could stop a berth. Neither sat a throne, and neither left an admiral's fleet behind. The quays went back to cargo.
+[[Taerso]] spoke for the hinge-houses, and Sirtol spoke for a charter-pile on the Coast. Both could stop a berth, though neither sat a throne and neither left an admiral's fleet behind, and when the hush held, the quays went back to cargo.
 
-Dock-bells on the Hinge Shore still pause in Hale-month, then go back to work. The pause is that fifth summer. [[Netstrand]] still keeps hulls for hire under the west-water clause. A charter is a crossing with a number on it. [[Orentel]] holds berths the hush made easier to keep. The [[The White Note House|White Note]] did not sign, and it does not keep ships.
+Dock-bells on the Hinge Shore still pause in Hale-month, then go back to work, and the pause is that fifth summer. [[Netstrand]] still keeps hulls for hire under the west-water clause, and a charter is a crossing with a number on it. [[Orentel]] holds berths the hush made easier to keep. The [[The White Note House|White Note]] did not sign, and it does not keep ships.
 
-The rate is still charged. A necessity-family pays it and is not told which summer made the number. A landing that argues the clause is the old peace still doing the job it was written for. The present year is Cut-year 387. The bells pause, and then they load.
+The rate is still charged. A necessity-family, people who have to make the crossing, pays it and is not told which summer made the number. A landing that argues the clause is the old peace still doing the job it was written for. The present year is Cut-year 387. The bells pause, and then they load.
 
 ## Links
 
@@ -78,4 +78,4 @@ A later note must not explain the meal at the thorn. It must not turn that habit
 
 The fifteen powers do not gain standing armies here. The cohort stays a group of people whose Hand cannot Turn them, the one [[Vaethod]] already sends and the one the Mill-hold already walks to Brenthael. The watch stays a hold until morning. Threnmaieth's roster stays with the Reckoned Offices.
 
-The Closing and the Hinge Hush stay finished. The west-water clause can be argued at a landing. That argument is not a new war and not a fleet. [[The Protectors]] stay a public care. The harvest stays behind the wall. They are not a watch, a cohort, or a street gang.
+The Closing and the Hinge Hush stay finished, and the west-water clause can be argued at a landing without that argument becoming a new war or a fleet. [[The Protectors]] stay a public care, the harvest stays behind the wall, and they are not a watch, a cohort, or a street gang.
