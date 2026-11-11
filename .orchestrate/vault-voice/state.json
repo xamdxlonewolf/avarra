@@ -186,12 +186,12 @@
       "agentId": "bc-bd637829-4a6f-4a5f-927b-37abebdb6faa",
       "runId": "run-9c579411-1064-41cd-be4c-9cb3421e17ce",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/cultures-peoples.md",
       "startedAt": "2026-11-11T06:01:24.451Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:28.436Z",
+      "finishedAt": "2026-11-11T06:19:13.623Z",
+      "lastUpdate": "2026-11-11T06:19:13.623Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -455,13 +455,13 @@
       "handoffPath": "handoffs/factions-guilds.md",
       "startedAt": "2026-11-11T06:02:20.675Z",
       "finishedAt": "2026-11-11T06:19:10.065Z",
-      "lastUpdate": "2026-11-11T06:19:10.065Z",
+      "lastUpdate": "2026-11-11T06:19:11.091Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "factions-edges",
@@ -1553,6 +1553,10 @@
     {
       "at": "2026-11-11T06:18:38.698Z",
       "message": "creatures-rest: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:11.092Z",
+      "message": "factions-guilds: verification self-reported (not-verified)"
     }
   ]
 }
