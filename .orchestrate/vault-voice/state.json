@@ -37,13 +37,13 @@
       "handoffPath": "handoffs/core-concept.md",
       "startedAt": "2026-11-11T06:00:48.841Z",
       "finishedAt": "2026-11-11T06:19:46.029Z",
-      "lastUpdate": "2026-11-11T06:19:46.029Z",
+      "lastUpdate": "2026-11-11T06:19:47.070Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "world-geography",
@@ -340,12 +340,12 @@
       "agentId": "bc-a602aa77-339c-4b78-b033-546123fddf1c",
       "runId": "run-e9824cd4-ebf4-4c17-b74c-4167b89de60e",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/settlements-sites.md",
       "startedAt": "2026-11-11T06:01:59.135Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:04.064Z",
+      "finishedAt": "2026-11-11T06:19:49.892Z",
+      "lastUpdate": "2026-11-11T06:19:49.892Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1581,6 +1581,10 @@
     {
       "at": "2026-11-11T06:19:45.660Z",
       "message": "secrets: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:47.070Z",
+      "message": "core-concept: verification self-reported (not-verified)"
     }
   ]
 }
