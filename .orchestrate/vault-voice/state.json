@@ -235,13 +235,13 @@
       "handoffPath": "handoffs/cultures-law.md",
       "startedAt": "2026-11-11T06:01:38.237Z",
       "finishedAt": "2026-11-11T06:20:31.689Z",
-      "lastUpdate": "2026-11-11T06:20:31.690Z",
+      "lastUpdate": "2026-11-11T06:20:32.860Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "cultures-daily",
@@ -538,12 +538,12 @@
       "agentId": "bc-ec4deeb7-a81e-4d4c-b84e-f3ec3ee403ae",
       "runId": "run-4fa93803-d601-4c79-945b-415bf34e39ec",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/creatures-conditions.md",
       "startedAt": "2026-11-11T06:02:45.913Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:49.587Z",
+      "finishedAt": "2026-11-11T06:20:42.788Z",
+      "lastUpdate": "2026-11-11T06:20:42.788Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1601,6 +1601,10 @@
     {
       "at": "2026-11-11T06:20:12.230Z",
       "message": "religion-practice: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:20:32.860Z",
+      "message": "cultures-law: verification self-reported (not-verified)"
     }
   ]
 }
