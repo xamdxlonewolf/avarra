@@ -16,25 +16,25 @@ updated: 2026-10-22
 
 # Tengu
 
-> **A custom born-ancestry (Kind), not a Condition.** One of four born-ancestries unique to this world (with [[Kitsune]], [[Selkie]], and [[Yumboe]]) — the **mountain-born**. You are *born* Tengu. Three features: **Wind-Winged**, **The Mountain's Mood**, **Wind-Caller**.
+> **A custom born-ancestry (Kind), not a Condition.** Tengu are one of four ancestries unique to this world, with the [[Kitsune]], the [[Selkie]], and the [[Yumboe]], and they are the **mountain-born**. They are born with the wings already on them, and a Condition is a change that comes later, so the feathers are not something they became. Three features come with that birth: **Wind-Winged**, **The Mountain's Mood**, and **Wind-Caller**.
 
 ## Overview
 
-Tengu are the crow-born of the high country: lean, sharp-featured people with dark feathers through their hair and down their arms, black bright eyes, and broad wings that carry them off any cliff or updraft. They are the folk of the **peaks and the wind** — born where the air is thin and the weather turns in a heartbeat, and utterly unbothered by either. Where lowlanders see a killing drop and a coming storm, a Tengu reads a launch point and a rising thermal. They fly, yes — but the deeper truth of a Tengu is that **the mountain never surprises them.** They feel the rockfall before it slides and the squall before it breaks.
+Tengu are the crow-born of the high country: lean, sharp-featured people with dark feathers through their hair and down their arms, black bright eyes, and broad wings that carry them off any cliff or updraft. They are born with those wings, so the feathers are a Kind, the ancestry they arrived with, and not a Condition, which would be a change that came later. They are the folk of the **peaks and the wind** — born where the air is thin and the weather turns in a heartbeat, and utterly unbothered by either. Where lowlanders see a killing drop and a coming storm, a Tengu reads a launch point and a rising thermal. They fly, yes — but the deeper truth of a Tengu is that **the mountain never surprises them.** They feel the rockfall before it slides and the squall before it breaks.
 
-Tengu are **the people who belong to the high wild**, the way Selkies belong to the sea: at home in the exact place that kills everyone else. The fox-born move unseen through *society*, the sea-born move freely through *water*, the crow-born move freely through *the sky and the heights,* and the good people keep *the hill and the night.*
+Tengu are **the people who belong to the high wild**, the way Selkies belong to the sea: at home in the exact place that kills everyone else. The fox-born Kitsune move unseen through *society*, the sea-born Selkie move freely through *water*, the crow-born move freely through *the sky and the heights,* and the [[Yumboe]], the good people, keep *the hill and the night.*
 
 ## Values & Worldview
 
-Tengu prize **perspective** — literally and otherwise. Their instinct in any tangle is to *get above it and look down*: gain height, gain distance, see the whole shape of a thing before acting. They tend toward blunt directness (from people used to seeing exactly where a path leads and saying so) and a certain impatience with those who won't climb to look for themselves. A crow-born saying: *"The valley argues about the storm; the ridge just watches it come."* They respect earned skill and hard-won height, and have little patience for status that wasn't climbed to.
+Tengu prize **perspective**, in the plain sense and in the other one. Their instinct in any tangle is to *get above it and look down*: gain height, gain distance, and see the whole shape of a thing before acting. They tend toward blunt directness, the habit of people who are used to seeing exactly where a path leads and saying so, and they run out of patience with anyone who will not climb and look for themselves. A crow-born saying: *"The valley argues about the storm; the ridge just watches it come."* They respect earned skill and hard-won height, and they have little patience for status that was not climbed to.
 
 ## Customs & Daily Life
 
-Because they can go where footpaths can't and read the mountain's mood before it turns, Tengu are the world's **high-pass guides, weather-callers, sky-couriers, and mountain rescue** — the ones who carry word over the peaks faster than any road, who call the avalanche warning down to the valley towns, and who go over the edge after the fallen climber. Tengu settlements cling to cliff faces and ridge-shelves, reached by wing or by rope, and a Tengu's first solo flight is as significant a coming-of-age as a Selkie child first given the run of their own skin. That flight is often off the **other perch** — a cousin's crag, a courier family's clock-tower — so ridge-speech does not thin into twenty private winds ([[Kinds of the Turning]]). They keep a running, half-teasing rivalry with the Selkies — sky-folk and sea-folk each convinced their element is the one worth belonging to.
+Because they can go where a footpath cannot, and because they read the mountain's mood before it turns, Tengu are the world's **high-pass guides, weather-callers, sky-couriers, and mountain rescue**. They carry word over the peaks faster than any road, they call an avalanche warning down to the valley towns, and they go over the edge after a fallen climber. Tengu settlements cling to cliff faces and ridge-shelves, reached by wing or by rope, and a Tengu's first solo flight is as significant a coming-of-age as the day a Selkie child is first given the run of their own skin. That flight is often off the **other perch**, a cousin's crag or a courier family's clock-tower, so ridge-speech does not thin into twenty private winds ([[Kinds of the Turning]]). They keep a running, half-teasing rivalry with the Selkies, sky-folk and sea-folk each convinced their own element is the one worth belonging to.
 
 ## Daggerheart (ancestry features)
 
-Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Caller · Hearth (not mixed) = The Mountain's Mood. Full custom package takes no [[Kind Heritage|Hearth-Mark]].
+Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Caller · Hearth (not mixed) = The Mountain's Mood. Full custom package takes no [[Kind Heritage|Hearth-Mark]]. In the published rules a mixed character takes the top feature of one ancestry and the bottom of another, so The Mountain's Mood, the hearth feature, stays with a full Tengu. The Hearth-Mark is the mark a stock character takes from the place that raised them, and this package does not take one.
 
 - **Wind-Winged** — You can fly. While flying, you can mark a **Stress** to fold your wings and **dive** on a target within Close range: treat it as a **Finesse** attack dealing **d8** physical damage using your Proficiency, and end the dive anywhere within **Very Close** range of that target.
 - **The Mountain's Mood** — You read the high wild before it moves. You have **advantage** on rolls to sense danger in the natural world (a coming storm, rockfall, avalanche, unstable footing, treacherous terrain) and to navigate mountainous or aerial ground. You **cannot be caught off guard by an environmental hazard or a terrain-based ambush** — you always feel it coming in time to act or call a warning before it lands. *(It does not cover a person stepping from a doorway.)*
@@ -42,20 +42,20 @@ Every Tengu has all three. **SRD mix:** Top = Wind-Winged · Bottom = Wind-Calle
 
 ## Naming & tongue
 
-Hearth-register **Gonan** (GO-nan) — clipped, windy, high-country. It does not sound like [[Kitsune|Kusawe]]. The full inventory is in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. The second name is often a byname that is a perch or a pass, not a harbour, or a house-name where a list keeps them.
+The hearth-register is **Gonan** (GO-nan), a clipped, windy, high-country tongue, and it does not sound like [[Kitsune|Kusawe]]. The full inventory is in [[Naming People in the Turning]]. Working given names: Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan. The second name is often a byname that names a perch or a pass, not a harbour, or a house-name where a list keeps one.
 
-Distribution (ridges, not a mountain-empire): [[Kinds of the Turning]].
+Where they live is the ridges, not a mountain-empire, and that map is [[Kinds of the Turning]].
 
 ## Links
-- [[Conditions]] — the two-layer (Kind + Condition) model
+- [[Conditions]] — the two-layer model, the Kind a person is born and the Condition they may become
 - [[Kitsune]] · [[Selkie]] · [[Yumboe]] — the other custom ancestries
 - [[Kinds of the Turning]] · [[Naming People in the Turning]] · [[Kind Heritage]]
 - [[03 - Cultures]]
 
 ## GM Notes
 
-- **Package locked.** Three features. Do not trim; stock characters take a [[Kind Heritage|Hearth-Mark]].
-- **Register.** *Gonan* seed `20260825`. Two folklore-Japanese Kinds must not collapse into one sound, so do not collapse it into [[Kitsune|Kusawe]].
-- **Flight.** At-will flight; dive is Stress-gated only (no per-scene cap). Offensive dive, not Faerie evasion.
-- **"Cannot be caught off guard"** lives **here only**, on The Mountain's Mood, and only against environmental hazards and terrain ambushes. Do not put the phrase back on Seal-Kin or Hollow-Hill.
-- **Wind-Caller** is the fan/wind lane: shove, carry, sweep. Not disguise, not escape.
+- **Package locked.** There are three features, and they should not be trimmed. Stock characters take a [[Kind Heritage|Hearth-Mark]] instead.
+- **Register.** *Gonan* was drawn at seed `20260825`. These are two folklore-Japanese Kinds, and they must not collapse into one sound, so do not fold Gonan into [[Kitsune|Kusawe]].
+- **Flight.** Flight is at will. The dive costs a Stress and has no cap of once per scene. It is an offensive dive, and it is not the evasion Faerie wings give.
+- **"Cannot be caught off guard"** lives **here only**, on The Mountain's Mood, and only against environmental hazards and terrain ambushes. Do not put the phrase back on Seal-Kin or on Hollow-Hill.
+- **Wind-Caller** is the fan and the wind: a shove, a carry, or a sweep. It is not a disguise, and it is not an escape.
