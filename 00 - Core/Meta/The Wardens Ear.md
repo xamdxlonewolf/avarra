@@ -12,13 +12,13 @@ updated: 2026-10-22
 
 # The Warden's Ear
 
-A spoken drill for learning **The Turning** well enough to pitch it. The setting book teaches recognition. This teaches the answer that has to leave your mouth when someone asks. Open it in a browser:
+This is a spoken drill for learning **The Turning** well enough to pitch it. The setting book teaches recognition. This teaches the answer that has to leave your mouth when someone asks. Open it in a browser:
 
 `14 - Assets/Documents/The Wardens Ear/index.html`
 
-Say the scene out loud before you reveal the line. Mark a card cold only when the words were already yours. The marks stay in that browser. Eighty scenes, ten numbered parts, and twelve sentences on the first screen for the night of the pitch.
+Say the scene out loud before you reveal the line. Mark a card cold only when the words were already yours. The marks stay in that browser. The drill holds eighty scenes, ten numbered parts, and twelve sentences on the first screen for the night of the pitch.
 
-If a sentence on the page and a vault note disagree, the note wins. The page adds no canon. The world book stays as it is.
+If a sentence on the page and a vault note disagree, the note wins, because the page adds no canon and the world book stays as it is.
 
 ## The order
 
@@ -37,15 +37,15 @@ The first screen is twelve sentences. If the pitch is tonight, say those, then d
 
 ## Left where it is
 
-This pass did not build more world. The holes below are real. They stay for a later ask.
+This pass did not build more world, the holes below are real, and they stay for a later ask.
 
-**A longer dated past.** The ordered history is [[A History of the Turning]]. A reliable year-count before the Walk is refused on purpose, and there is no chronicle of everything. What exists is the two clocks, plus the Other Count: the Closing, the Two Papers, the Grey Summer, the Thaw-Break, and the Hinge Hush, with the Wrong Green and Ledan's query beside them. More dated events inside Cut-years 0–387, the kind a kitchen still mentions, could still be written. The Tree stays undated. The cutter stays unpicked.
+**A longer dated past.** The ordered history is [[A History of the Turning]]. A reliable year-count before the Walk is refused on purpose, and there is no chronicle of everything. What exists is the two clocks, plus the Other Count: the Closing, the Two Papers, the Grey Summer, the Thaw-Break, and the Hinge Hush, with the Wrong Green and Ledan's query beside them. More dated events inside Cut-years 0–387, the kind a kitchen still mentions, could still be written, and the Tree stays undated, and the cutter stays unpicked.
 
-**City memory, streets, and roads.** Every seat has a way in, the work, one tension, a set of habits, and a few people. Maiethlir and Orentel have named streets. The later capitals and towns do not have founding stories, a street book, or a generation of civic grudges. Travel times and the named waters are in. A road with inns, mile-shrines, and the towns between the seats is not.
+**City memory, streets, and roads.** Every seat has a way in, the work, one tension, a set of habits, and a few people. Maiethlir and Orentel have named streets, while the later capitals and towns do not have founding stories, a street book, or a generation of civic grudges. Travel times and the named waters are in, and a road with inns, mile-shrines, and the towns between the seats is not.
 
 **Factions and guilds are already built.** The orders, the three criminal houses, the mill, the hull, the road, the watch, and the Tithe houses have a present: a want, a fear, and a dispute that can reach the table. What they lack is the memory of a house, the crises it survived. That is worth doing later, and only for the houses that will be on screen.
 
-Also still unwritten, and already tracked: the campaign's close, two claimants on one green, and the four open questions (see [[Roadmap]] Epic B). Those questions stay open.
+Also still unwritten, and already tracked, are the campaign's close, two claimants on one green, and the four open questions (see [[Roadmap]] Epic B). Those questions stay open.
 
 ## Links
 
@@ -56,4 +56,4 @@ Also still unwritten, and already tracked: the campaign's close, two claimants o
 
 ## GM Notes
 
-Part 9 states the keystone, the Other Hands, and the Phoenix harvest. The file is GM study. Do not hand the page to players. Player-facing procedure stays on [[At the Table]].
+Part 9 states the keystone, the Other Hands, and the Phoenix harvest, which is why the file is GM study. Do not hand the page to players; player-facing procedure stays on [[At the Table]].
