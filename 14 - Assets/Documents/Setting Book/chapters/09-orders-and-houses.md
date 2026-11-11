@@ -100,6 +100,8 @@ Skeptics sit the hearth, and believers gather at the Seat. A town-warden may sin
 
 A Condition, and the Tithe that comes with it or the lack of one, leans people toward the work that fits. It does not lock the door. Anyone who can do the work may still hold the office.
 
+Often is who usually does this work. The last column is who else is welcome to do it.
+
 | Office | Often | Why the Tithe fits | Also, and welcome |
 |---|---|---|---|
 | Town-warden | the Kept | They carry no Tithe, so they can sit a hearth the year round. | Anyone who will tend |
@@ -115,6 +117,8 @@ Struck wardens must still be vouched anew, the way any Struck person must. Someo
 ### How they live with the other houses
 
 What people do at the Tree is the peace. The Orenhael officiates the Leaf-Fall, and the other four houses stand at it. The fights stay local.
+
+Everyday arrangement is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
@@ -254,6 +258,8 @@ The argument inside the house walks into the square. A **Masked** Watcher will s
 
 A Condition, or the lack of one, may lean a person toward the night or the second reading. It does not close the door.
 
+Often is who usually does this work. The last column is who else is welcome to do it.
+
 | Act | Often | Why the Tithe (or the lack) fits | Also, and welcome |
 |---|---|---|---|
 | Night Watch | anyone of the house | The night does not care what you carry. | The Kept, who were seen as whole; the Struck, who were seen at a harder door |
@@ -267,6 +273,8 @@ Struck Watchers must still be vouched anew, the way any Struck person must. The 
 ### How they live with the other houses
 
 The warden officiates, the Watcher withholds a word, and the conflict stays local.
+
+Everyday arrangement is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
@@ -405,6 +413,8 @@ Practice comes first. You are taken as a hand when you are apprenticed at a tabl
 
 A Condition, or the lack of one, may lean a person toward the work. It does not lock the door.
 
+Often is who usually does this work. The last column is who else is welcome to do it.
+
 | Act | Often | Why the Tithe (or the lack) fits | Also, and welcome |
 |---|---|---|---|
 | Witnessing / teaching | Bound | Their book is a contract. The faith did not invent this. It made the contract legible. | The Unbound, people whose need is warmth and company, who have closed a year and will teach the closing; a Kept clerk, one of Lestrand's free |
@@ -416,6 +426,8 @@ The feared and still licensed are not barred. A Bound Book-hand is ordinary on L
 Struck Book-hands must still be vouched anew. Civic settling is how the house helps that vouching, which is also how the house can pressure the person it settled. It still does not rewrite a Bound person's clause.
 
 ### How they live with the other houses
+
+Everyday arrangement is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
@@ -538,6 +550,8 @@ Practice comes first. You are taken as a walker once you have carried the food, 
 
 A Condition, or the lack of one, leans a person toward the walk they already know. It does not bar the others.
 
+Often is who usually does this work. The last column is who else is welcome to do it.
+
 | Act | Often | Why the Tithe (or the lack) fits | Also, and welcome |
 |---|---|---|---|
 | Walking the doors | the Taken-In | They are the grove's own children, and a green Tithe lived in an old green is what already fits the walk. | Two-Bodied people, for whom the walk is a ranging, and the Kept, for whom a closed door was weather rather than a slight. |
@@ -549,6 +563,8 @@ The feared and still licensed are not barred. A Taken-In door-keeper is ordinary
 Struck door-keepers must still be vouched anew. Naming them kin is the house's courtesy at that seam, and it is not a substitute for the three pillars a town still wants, the Long-Lived, the Bound, and the Far-Voiced, before it lets someone stay. The town may still want a warrant.
 
 ### How they live with the other houses
+
+Everyday arrangement is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
@@ -680,6 +696,8 @@ The argument inside the house does the dishes. A **Staying** host will say the d
 
 On Kumbaan a Condition barely leans the work at all, because there are no Given Conditions on the isle. Elsewhere, the life that fits the table often keeps it. The table still seats the others.
 
+Often is who usually does this work. The last column is who else is welcome to do it.
+
 | Act | Often | Why | Also, and welcome |
 |---|---|---|---|
 | Hill-hall on the isle | whoever inherited the hall | There are no Given Conditions on Kumbaan, and the Kind is Yumboe because that is who lives there, not because the order requires it. | A rare Struck person who still hosts, and a mainlander who stayed after the second sitting. |
@@ -691,6 +709,8 @@ The feared and still licensed are not barred, and they almost never arise on the
 Struck table-keepers on the mainland must still be vouched anew if they want to stay in a town. The second supper will not satisfy a clerk who wants a Turning-witness. That collision is the ordinary weather of the house abroad, and it is not a failure of the hospitality.
 
 ### How they live with the other houses
+
+Everyday arrangement is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|
@@ -852,6 +872,8 @@ Practice comes first. You are of the Slide when someone comes back next week and
 
 A Condition leans a keeper toward the week they already know how to furnish. It does not bar anyone else.
 
+Often is who usually does this work. The last column is who else is welcome to do it.
+
 | Act | Often | Why | Also, and welcome |
 |---|---|---|---|
 | A pot, a strip, a night of dirt | a Taken-In person who kept a private lot | They already furnish green. | A Kept person, who carries no Tithe of their own, with a window-box. |
@@ -862,6 +884,8 @@ A Condition leans a keeper toward the week they already know how to furnish. It 
 The feared and still licensed are not barred. A Stilled person who rents hours of stillness is rare and tightly watched. A Bound person who holds civic debt is dealing in money, not in a Counterparty's Terms.
 
 ### How they live with the other houses
+
+Everyday arrangement is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
 
 | House | Everyday arrangement | The hard edge |
 |---|---|---|

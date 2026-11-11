@@ -12,12 +12,14 @@ This was not a civilizing mission, and the Walking Years were not a golden age o
 
 ## The ages at a glance
 
+Everyday is the name people use. Liturgical is the old name. Says is what that old name means.
+
 | | Everyday | Liturgical | Says | What it is |
 |---|---|---|---|---|
-| Preface | **Before the Walk** | unnamed; the Watching say **the Before** | — | Tree already stood. No count. |
+| Preface | **Before the Walk** | unnamed; the Watching say **the Before** | no old phrase | Tree already stood. No count. |
 | How you Turned, old | **the Walking Years** | **Brenvaeth** | the hearth gone to waiting | Walk to Thaeloren, or stay UnTurned. |
 | The hinge | **the First Cut** | **Eoloren** | the witnessed hinge | A cutting took. Who cut it is argued. |
-| Where the wood reached | **the Grafting** | still moving | — | Wood carried outward. Unfinished on Heskoren. Never on Kumbaan. |
+| Where the wood reached | **the Grafting** | still moving | no old phrase | Wood carried outward. Unfinished on Heskoren. Never on Kumbaan. |
 | How you Turned, now | **the Years of Hands** | **Ornthael** | Tree-land | A town Tree is the ordinary Turning. |
 
 The pair of liturgical names turns inside out the name the Road-hands use for the work of carrying wood, and the Road-hands are the tree-wardens who walk that wood. In the Old Tongue, Thaelvaeth means "the Tree gone to the waiting," which is wood carried out to the hearths. Brenvaeth *(BREN-vaeth)* means "the hearth gone to the waiting," which is people walking in to the Tree. Eoloren *(EOL-or-en)* is the liturgical name of the cut, and Ornthael *(ORN-thael)* is the liturgical name of the years when a town has its own Tree. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths.

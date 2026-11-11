@@ -26,8 +26,8 @@ Each gate has a shape of *enough*, a moment when it closes, and a place the need
 | Novelty | A long-house of books, where a deathless chair still sits. What it furnishes is something genuinely new, which is the upkeep of a Long-Lived person, someone who does not die of age and who fades without it. | Closing. They will not carry a rumour to a fade shut in a room. | A junior who extends a page. That junior has started a week. |
 | Unbound warmth | Almost none. An Unbound person is what a finished contract leaves behind, free of the Terms and missing the piece the contract took, and the upkeep is connection. Family, an attic, or a paid sitting is what there is. | The sector has no hour to close. | None. The sector cannot buy being known. |
 | Bound Terms | An honest table, and the Book-Hands, the clerks who close a civic year. A Bound person swore a contract and is still under its Terms. This is not a body-ticket. The Whisper, the contract's voice, cannot command another person's will. | The year closes. The Terms do not. | The Holding Desk, the back room that will write a next term when the honest stamp has already closed. |
-| Returned purpose | Cannot be furnished. A Returned person died with a purpose unfinished and came back to it. A purpose is not a share the sector can hand over, and no employer can supply a vengeance, a vow, or a person still to find. | — | None. |
-| Two-Bodied ranging | Civic land, and no ticket. A Two-Bodied person carries a second, animal body, and the upkeep is time spent as that animal. | — | None. |
+| Returned purpose | Cannot be furnished. A Returned person died with a purpose unfinished and came back to it. A purpose is not a share the sector can hand over, and no employer can supply a vengeance, a vow, or a person still to find. | It does not close. There is nothing to hand over. | None. |
+| Two-Bodied ranging | Civic land, and no ticket. A Two-Bodied person carries a second, animal body, and the upkeep is time spent as that animal. | It does not close. The animal time is the upkeep. | None. |
 
 The three tickets are for danger to others only. The person holds the paper. The craft issues it.
 
@@ -283,6 +283,8 @@ There is no Stillers' Seat over other towns. A rich infirmary in the core is ric
 
 They live beside the other houses the way any craft lives beside its neighbours, and the hard edge is where the jobs must not be swapped.
 
+Everyday is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
+
 | House | Everyday | The hard edge |
 |---|---|---|
 | Hall-keepers and the element-guilds | Sister tickets. They share the Intake. | A Cry is not a Gaze. A Far-Voiced person is not sent to the yard to be stilled quiet. |
@@ -322,6 +324,8 @@ They cannot still a will, and they will not pretend they can in order to frighte
 ### Who may hold a ticket
 
 The Gaze does not care what you were born. A child of one of the common ancestries and a Kitsune apprentice, one of the fox-born, can stand in the same yard. You are of the house when you can still a wound and then move, and when the town has watched you do both. The house leans toward the Stilled for the work that matches the Tithe. It does not gate the yard by Condition.
+
+Often is who usually does this work. The last column is who else is welcome to do it.
 
 | Act | Often | Why | Also, and welcome |
 |---|---|---|---|
@@ -378,6 +382,8 @@ Earnest work, the element used at the craft and not in play, slakes the Tithe. T
 
 The paper is ordinary on purpose. An apprenticeship term, a supervised Reach, a crowded-yard endorsement, a night rotation, and a transfer are the boxes a clerk already understands. A Reach is the element answering through the hands. The danger enters when one of those boxes is hiding grief, or coercion, or a master protecting a fee. A Condition does not hand the house a personality. An even-tempered Root potter and a short-fused Ember smith share a ticket standard and almost nothing else.
 
+Everyday is how the two houses share an ordinary year. The hard edge is where that sharing breaks.
+
 | House | Everyday | The hard edge |
 |---|---|---|
 | Stillers and hall-keepers | Sister tickets. They share the Intake shed. | An untended element is not a Gaze and not a Cry, so the person has to reach the right shed. |
@@ -424,6 +430,8 @@ They will not switch an element to suit a labour shortage, because the shade of 
 ### Who may hold a ticket
 
 The ticket is not a Kind. Ember is not a Drakona chapter, and Gale is not a Tengu chapter. Drakona and Tengu are born peoples. You meet more Drakona where a work-fire stays lit from morning until dark, and some of them are Ember-Answered, which is common and still not a gate. A Tengu, the crow-born of the high country, lean and sharp-featured, with dark feathers through the hair and down the arms, who is also Gale-Answered, is a common lean of the same kind. The element is not reserved to either people. You are of the house when the element answers your work and not the rafters. The house keeps those leans. It does not keep a gate.
+
+Often is who usually does this work. The last column is who else is welcome to do it.
 
 | Act | Often | Why | Also, and welcome |
 |---|---|---|---|
