@@ -1924,6 +1924,624 @@
         "The pushed branch name is in ## Branch."
       ],
       "openPR": false
+    },
+    {
+      "name": "book-front",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nThese opening chapters have to carry a reader who has not opened a vault note. Kind and Condition get explained here, once, in the sentences that name them.\n\n- `14 - Assets/Documents/Setting Book/chapters/00-using-this-book.md`\n- `14 - Assets/Documents/Setting Book/chapters/01-the-world-in-brief.md`\n- `14 - Assets/Documents/Setting Book/chapters/02-kind-and-condition.md`\n\nPush `orch/vault-voice/book-front` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/00-using-this-book.md",
+        "14 - Assets/Documents/Setting Book/chapters/01-the-world-in-brief.md",
+        "14 - Assets/Documents/Setting Book/chapters/02-kind-and-condition.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-conditions",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nRebuild the Conditions chapter from 09 - Creatures/Conditions. Keep the ten Conditions distinct, with their paths, tithes, and numbers.\n\n- `14 - Assets/Documents/Setting Book/chapters/03-the-conditions.md`\n\nPush `orch/vault-voice/book-conditions` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/03-the-conditions.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-kinds",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nRebuild Kinds, language, and naming from 03 - Cultures. Keep the Tengu portrait if it already breathes. Keep sound inventories and example names.\n\n- `14 - Assets/Documents/Setting Book/chapters/04-the-kinds.md`\n- `14 - Assets/Documents/Setting Book/chapters/05-language-and-naming.md`\n\nPush `orch/vault-voice/book-kinds` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/04-the-kinds.md",
+        "14 - Assets/Documents/Setting Book/chapters/05-language-and-naming.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-faith",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nThe Leaf-Mother stays a belief, not confirmed cosmology, wherever the notes leave the schism open. Keep the Leaf-Fall's colours and the difference between Given, Kept, and Struck.\n\n- `14 - Assets/Documents/Setting Book/chapters/06-the-turning-tree.md`\n- `14 - Assets/Documents/Setting Book/chapters/07-the-leaf-mother.md`\n- `14 - Assets/Documents/Setting Book/chapters/08-the-five-faiths.md`\n\nPush `orch/vault-voice/book-faith` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/06-the-turning-tree.md",
+        "14 - Assets/Documents/Setting Book/chapters/07-the-leaf-mother.md",
+        "14 - Assets/Documents/Setting Book/chapters/08-the-five-faiths.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-orders",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nThis is the long orders chapter. Keep each order's job and its limits. Unexplained habits in the Pourers, the Walled Book, and the houses stay unexplained.\n\n- `14 - Assets/Documents/Setting Book/chapters/09-orders-and-houses.md`\n\nPush `orch/vault-voice/book-orders` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/09-orders-and-houses.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-living",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nKeep the law, the rates, and the household facts. Explain Tithe, Kind, and Condition in the sentence that needs them.\n\n- `14 - Assets/Documents/Setting Book/chapters/10-law-and-citizenship.md`\n- `14 - Assets/Documents/Setting Book/chapters/11-economy-and-the-tithe.md`\n- `14 - Assets/Documents/Setting Book/chapters/12-daily-life.md`\n\nPush `orch/vault-voice/book-living` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/10-law-and-citizenship.md",
+        "14 - Assets/Documents/Setting Book/chapters/11-economy-and-the-tithe.md",
+        "14 - Assets/Documents/Setting Book/chapters/12-daily-life.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-guilds",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nKeep the fellowships' unexplained habits: grain on the lip, the silent walk, the shovel in the bank, and any other the notes refuse to explain.\n\n- `14 - Assets/Documents/Setting Book/chapters/13-tithe-guilds.md`\n\nPush `orch/vault-voice/book-guilds` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/13-tithe-guilds.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-lands",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nKeep distances, seasons, and map claims. Do not redraw a map. The map chapter points at the sheets that already exist.\n\n- `14 - Assets/Documents/Setting Book/chapters/14-the-lands.md`\n- `14 - Assets/Documents/Setting Book/chapters/15-the-reckoning.md`\n- `14 - Assets/Documents/Setting Book/chapters/16-climate-and-ecology.md`\n- `14 - Assets/Documents/Setting Book/chapters/17-maps.md`\n\nPush `orch/vault-voice/book-lands` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/14-the-lands.md",
+        "14 - Assets/Documents/Setting Book/chapters/15-the-reckoning.md",
+        "14 - Assets/Documents/Setting Book/chapters/16-climate-and-ecology.md",
+        "14 - Assets/Documents/Setting Book/chapters/17-maps.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-ages",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nKeep the order of the ages and the dates. The six library pages stay summaries of what a page is. Do not paste the handouts' speaker into the narrator, and do not edit the handout files.\n\n- `14 - Assets/Documents/Setting Book/chapters/18-the-ages.md`\n\nPush `orch/vault-voice/book-ages` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/18-the-ages.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-powers",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nThere are fifteen powers. Do not add a sixteenth. Rothallo is the Inner Close, not a new power.\n\n- `14 - Assets/Documents/Setting Book/chapters/19-the-fifteen-powers.md`\n\nPush `orch/vault-voice/book-powers` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/19-the-fifteen-powers.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-gazetteer",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nEach entry keeps its place, its work, and its unexplained habits. Do not give a town a reason the note withholds.\n\n- `14 - Assets/Documents/Setting Book/chapters/20-gazetteer.md`\n\nPush `orch/vault-voice/book-gazetteer` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/20-gazetteer.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-places",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nOther places stay partial where the notes are still thin. Faces keep the people the notes name. At the Table explains how to play, and it does not become a second rules book.\n\n- `14 - Assets/Documents/Setting Book/chapters/21-other-places.md`\n- `14 - Assets/Documents/Setting Book/chapters/22-faces-of-the-turning.md`\n- `14 - Assets/Documents/Setting Book/chapters/23-at-the-table.md`\n\nPush `orch/vault-voice/book-places` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/21-other-places.md",
+        "14 - Assets/Documents/Setting Book/chapters/22-faces-of-the-turning.md",
+        "14 - Assets/Documents/Setting Book/chapters/23-at-the-table.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-gm",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Rebuild these world-book chapters from the vault notes on this branch, then read them aloud and rewrite any paragraph that still sounds assembled.\n\nThis is the only chapter that may carry GM canon. Keep the secrets that are already in this chapter. Do not add a secret that is not already in the GM notes or in 11 - Secrets, and do not soften a secret into a player-facing hint in another file. You may not edit other chapters.\n\n- `14 - Assets/Documents/Setting Book/chapters/24-gm-canon.md`\n\nPush `orch/vault-voice/book-gm` if the platform accepts it. Otherwise push the branch you are on and put that exact name in ## Branch. Do not open a pull request.\n\nIn ## What I did, one line per chapter: what you took from the notes, and whether the read-aloud still needed a rewrite.",
+      "brief": "Task brief. Two steps, in this order. Do both before you hand off.\n\nStep 1 — rebuild. This branch already has the rewritten vault notes. The compiled chapter is the reading copy and is now behind those notes. Rewrite the chapter from the notes, on the headings that already exist. Read STRUCTURE.md and do not invent a new chapter, rename a file, or rename a heading. If the chapter and a vault note disagree, the note wins. Keep every number, table, and name the notes still stand by. If a \"Not yet written\" hole is filled by the notes, replace that block. If the notes still have nothing for a hole, leave the hole.\n\nStep 2 — voice. Read the chapter aloud. A paragraph has to sound like someone explaining the place. One sentence arrives at the next. If it comes out as a list with periods, rewrite it. If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. Explain a term the first time a new reader of this chapter needs it, in the sentence that uses it, using a fact the notes already allow a reader of this chapter to know.\n\nDo not invent a place, a person, a cause, or a number. Habits the notes leave unexplained stay unexplained, including the heel of the loaf at Ndenjoo and every other \"they will not say why.\" Do not copy a fact that lives only under GM Notes, or only in 11 - Secrets, into a player-facing chapter. Chapter 24 is the only chapter that carries GM canon.\n\nDo not edit vault notes, STRUCTURE.md, the HTML, or the PDF. Do not run the book build. Another task compiles the book after the chapters are merged.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/chapters/24-gm-canon.md"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "06 - Magic/**",
+        "07 - Religion/**",
+        "08 - People/**",
+        "09 - Creatures/**",
+        "10 - Items/**",
+        "11 - Secrets/**",
+        "12 - Campaigns/**",
+        "13 - Game/**",
+        "14 - Assets/Documents/Primers/**",
+        "14 - Assets/Documents/Library/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "acceptance": [
+        "The chapter still uses the existing file name and headings.",
+        "A fact that disagreed with a vault note now follows the note.",
+        "The read-aloud does not come out as a list with periods.",
+        "Unexplained habits have no new cause. Player chapters did not gain GM-only facts.",
+        "HTML, PDF, STRUCTURE.md, and the vault notes were not edited."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "book-primer",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/notes",
+      "scopedGoal": "Give the player primer the same voice as the rewritten vault notes, then rebuild its HTML and PDF from Player Primer.md. Keep it short enough to read before a first session, and keep it player-safe.\n\nPush `orch/vault-voice/book-primer` if you can. Otherwise report the real branch in ## Branch. Do not open a pull request.",
+      "brief": "Task brief. The player primer is a short book a new player reads before the first session. The vault notes on this branch are already in the setting-book voice. Bring Player Primer.md to that same voice.\n\nRead it aloud. One sentence arrives at the next. If a paragraph comes out as a list with periods, rewrite it. Keep a sentence that already sounds like a person, and fold any missing explanation into it. Explain a term the first time this primer needs it, in the sentence that uses it. Facts, numbers, and the player-safe boundary stay. Do not import GM Notes or anything from 11 - Secrets. Do not invent canon. Unexplained habits stay unexplained.\n\nThen rebuild the reading copy from the note:\n\npython3 \"14 - Assets/Documents/Primers/build_player_primer.py\"\n\nCommit the markdown, the HTML, and the PDF if the build produces them. If the PDF tool is missing, commit the markdown and the HTML and say exactly what failed. Do not edit the world book.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Primers/**"
+      ],
+      "pathsForbidden": [
+        "14 - Assets/Documents/Setting Book/**",
+        "00 - Core/**",
+        "01 - World/**",
+        "11 - Secrets/**"
+      ],
+      "acceptance": [
+        "Player Primer.md reads aloud as connected explanation and does not pick up GM secrets.",
+        "The HTML matches the note. The PDF matches it too, or the handoff says why the PDF build failed."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "merge-book",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "dependsOn": [
+        "book-front",
+        "book-conditions",
+        "book-kinds",
+        "book-faith",
+        "book-orders",
+        "book-living",
+        "book-guilds",
+        "book-lands",
+        "book-ages",
+        "book-powers",
+        "book-gazetteer",
+        "book-places",
+        "book-gm",
+        "book-primer"
+      ],
+      "scopedGoal": "Merge the chapter branches and the primer branch into `orch/vault-voice/book`. Do not rewrite prose. The vault notes on the result must still be the notes from `orch/vault-voice/notes`, plus the chapter and primer edits.",
+      "brief": "Create `orch/vault-voice/book` from `orch/vault-voice/notes` if it does not exist, not from master. The chapter branches were cut from the notes branch. Merging them onto master would drop the notes or conflict. Merge each dependency in order. Use the ## Branch line in each handoff when it differs from `orch/vault-voice/<task>`. Do not edit sentences. If a merge conflicts, stop and name the files. Push `orch/vault-voice/book`. Do not open a pull request.",
+      "pathsAllowed": [
+        "**"
+      ],
+      "pathsForbidden": [],
+      "acceptance": [
+        "Every chapter branch and the primer branch are merged, or a conflict is named and the merge stopped.",
+        "The pushed branch is named in ## Branch.",
+        "Vault notes are still present. Chapter files contain the rebuild."
+      ],
+      "openPR": false
+    },
+    {
+      "name": "build-world-book",
+      "type": "worker",
+      "model": "grok-4.7-xhigh-fast",
+      "startingRef": "orch/vault-voice/book",
+      "dependsOn": [
+        "merge-book"
+      ],
+      "scopedGoal": "Compile the world book HTML and PDF from the merged chapters. Do not rewrite prose. Run `python3 \"14 - Assets/Documents/Setting Book/build_world_book.py\"` from the repo root. Commit the HTML and PDF. If the PDF step fails, commit the HTML and say what failed. Open a pull request of this branch against master. The branch must contain the rewritten notes, the rebuilt chapters, and the voiced primer.",
+      "brief": "This is a compile step. The chapters are already written. Do not restyle them while compiling.",
+      "pathsAllowed": [
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.html",
+        "14 - Assets/Documents/Setting Book/The-Turning-World-Book.pdf"
+      ],
+      "pathsForbidden": [
+        "00 - Core/**",
+        "01 - World/**",
+        "02 - History/**",
+        "03 - Cultures/**",
+        "04 - Settlements/**",
+        "05 - Factions/**",
+        "14 - Assets/Documents/Setting Book/chapters/**",
+        "14 - Assets/Documents/Setting Book/STRUCTURE.md"
+      ],
+      "acceptance": [
+        "The HTML was rebuilt from the chapters on this branch.",
+        "The PDF was rebuilt, or the handoff names the tool failure.",
+        "A pull request against master exists and includes the notes, the chapters, and the primer."
+      ],
+      "openPR": true
     }
   ]
 }
