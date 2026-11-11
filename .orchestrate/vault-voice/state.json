@@ -1726,12 +1726,12 @@
       "agentId": "bc-b6ff80c5-97cd-418e-ad6f-f4d40c383111",
       "runId": "run-0be073fb-5d79-462c-9c36-eda7dfa83755",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/book-gazetteer.md",
       "startedAt": "2026-11-11T06:50:11.186Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:50:13.530Z",
+      "finishedAt": "2026-11-11T07:04:01.672Z",
+      "lastUpdate": "2026-11-11T07:04:01.672Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
@@ -1775,12 +1775,12 @@
       "handoffPath": "handoffs/book-gm.md",
       "startedAt": "2026-11-11T06:50:16.905Z",
       "finishedAt": "2026-11-11T07:04:00.393Z",
-      "lastUpdate": "2026-11-11T07:04:00.393Z",
+      "lastUpdate": "2026-11-11T07:04:01.609Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
+      "verification": "not-verified",
       "attempts": 1
     },
     {
@@ -2077,6 +2077,10 @@
     {
       "at": "2026-11-11T07:03:43.885Z",
       "message": "book-kinds: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T07:04:01.610Z",
+      "message": "book-gm: verification self-reported (not-verified)"
     }
   ]
 }
