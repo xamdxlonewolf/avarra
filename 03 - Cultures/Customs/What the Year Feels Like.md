@@ -14,46 +14,49 @@ updated: 2026-10-22
 
 # What the Year Feels Like
 
-> **How to use this.** [[Daily Life]] is the household: marriage, medicine, the way a town is built. This note is the year's weather on a street. The festival week is [[How the Week Is Kept]]. A burial, a stranger's bowl, and the hour a person changes are [[When the Town Buries]], [[The Guest-Meal]], and [[When Someone Is Struck]]. Kind-kitchens stay on [[Kinds of the Turning]]. The faiths keep their own essays.
+> **How to use this.** [[Daily Life]] is the household: marriage, medicine, and the way a town is built. This note is the year's weather on a street. The festival week is [[How the Week Is Kept]]. A burial, a stranger's bowl, and the hour a person changes are [[When the Town Buries]], [[The Guest-Meal]], and [[When Someone Is Struck]]. Kind-kitchens stay on [[Kinds of the Turning]]. The faiths keep their own essays.
 
-The year is kept by **stance**, and argued by **faith**. A Watcher can eat on a dock. A Settler, a follower of [[The Fair Hand]], can stand in a pious square. A place sets how long people talk and what they repeat. A person's faith sets which words they will not say.
+The year is kept by **stance** and argued by **faith**, and the two do different work. A place sets how long people talk and what they repeat, and a person's faith sets which words they will not say. That is why a Watcher can eat on a dock, and why a Settler, a follower of [[The Fair Hand]], can stand in a pious square.
 
 ## A devout square
 
-[[Maiethlir]], and any square that puts the name back when a sentence dropped it. The year they feel opens in [[The Reckoning of the Year|Eolthael]], whatever a tablet started earlier.
+[[Maiethlir]], and any square that puts the name back when a sentence dropped it, feels the year open in [[The Reckoning of the Year|Eolthael]], whatever a tablet started earlier.
 
-On an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. The wood is the wood. A Settler passing through will not wait. The square notices. Nobody stops them. The square's peace and its old grudges both show in who waits and who does not.
+On an ordinary market morning, people who are carrying baskets stop when a warden steps onto the root, and start again when the warden steps off. A Watcher will not say Maieth, and will still wait. The wood is the wood. A Settler passing through will not wait, and the square notices without stopping them. The square's peace and its old grudges both show in who waits and who does not.
 
-They say **Maieth** and **the Mother's Hand** the way [[How a Place Speaks]] already has. A clerk in this city may be copying a slate of bells in the same hour. The hymn is still first when [[Rithim]] can make it first.
+They say **Maieth** and **the Mother's Hand** the way [[How a Place Speaks]] already has those names. A clerk in this city may be copying a slate of bells in the same hour, and the hymn is still first when [[Rithim]] can make it first.
 
 ## A dock
 
-[[Orentel]], and any quay that lets the thorn go. The year the books feel opens at the Deep, when the notes close. Turning-month is a fair set down on top of that. It is not the start of the quay's own count.
+On [[Orentel]], and on any quay that lets the thorn go — the *th* the devout keep in a name — the year the books feel opens at the Deep, when the notes close. Turning-month is a fair set down on top of that closing, and it is not the start of the quay's own count.
 
-All year, a **clear** is someone a crane can take. They say it the way they say a berth. Even a house that never kept a book will count coins into the other person's hand, not onto the barrel, when the one they owe is watching. A book-hand calls that worship. The gang calls it how you fail to start a fight. Both of them are on the same landing in [[The Reckoning of the Year|Ledger-month]], borrowing ink, and they only collide when a child in the tenth year is present.
+All year, a **clear** is someone a crane can take, and they say the word the way they say a berth. Even a house that never kept a book will count coins into the other person's hand, not onto the barrel, when the one they owe is watching. A book-hand calls that worship. The gang calls it how you fail to start a fight. Both of them are on the same landing in [[The Reckoning of the Year|Ledger-month]], borrowing ink, and they only collide when a child in the tenth year is present.
 
 ## A waiting town
 
-[[Eolvaeth]], and any town whose sentence does not close the week. They date a child from the last summer the wood actually spoke. The pulpit may say Eolthael. The field says the last real fall. Both are already on [[The Reckoning of the Year]].
+[[Eolvaeth]], and any town whose sentence does not close the week, dates a child from the last summer the wood actually spoke. The pulpit may say Eolthael, and the field says the last real fall. Both of those counts are already on [[The Reckoning of the Year]].
 
-They do not spend the good flour on a promise. A guest gets the pot. If the wood spoke last year, the week gets the better loaf. If it did not, the week gets the pot too. Some houses walk the old doors at a flood or at the ice and leave food, and they do not call that a second Turning ([[The Old Ways]] · [[The Door-Keepers]]).
+They do not spend the good flour on a promise, and a guest gets the pot. If the wood spoke last year, the week gets the better loaf. If it did not, the week gets the pot too. Some houses walk the old doors at a flood or at the ice and leave food, and they do not call that a second Turning ([[The Old Ways]] · [[The Door-Keepers]]).
 
-[[Harrow's Green]], when the wood will speak, is this same tone with the other repeat: **the wood**, then the neighbour. The waiting town repeats the week that has not come.
+[[Harrow's Green]], when the wood will speak, keeps this same tone with the other repeat: **the wood**, then the neighbour. The waiting town repeats the week that has not come.
 
 ## A hill-hall
 
-[[Ndenjoo]]. The year is moons. A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time, and the hall will not correct the chart ([[The Reckoning of the Year]]).
+[[Ndenjoo]] keeps the year by moons. A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time, and the hall will not correct the chart ([[The Reckoning of the Year]]).
 
-Noon is when the hall is asleep. A tool you need at noon waits, or you stay quiet enough that the sleepers stay asleep, and you still do not sit the place that is already set. What they do on the night a mainlander wants a Leaf-Fall is [[How the Week Is Kept]]. The supper itself is the hall's, on [[Ndenjoo]] and [[The Open Table]].
+Noon is when the hall is asleep, so a tool you need at noon waits, or you stay quiet enough that the sleepers stay asleep, and you still do not sit the place that is already set. What they do on the night a mainlander wants a Leaf-Fall is [[How the Week Is Kept]]. The supper itself is the hall's, on [[Ndenjoo]] and [[The Open Table]].
 
 ## What they will not explain
 
-Each stance keeps one habit. This page does not gloss it.
+Each stance keeps one habit. The people who keep it will not explain it, and this page does not gloss it.
 
-- **The square.** The thaw runs louder the week before the fall. [[Maiethlir]] will not explain it.
-- **The dock.** Salt sits on the roots in Eolthael. [[Orentel]] will not explain it.
-- **The waiting town.** A wet leaf on the spring, or too many, or none. [[Eolvaeth]] will not explain it.
-- **The hill.** On one night of the moon sailors call Yoltal, the heel of the loaf is eaten first. [[Ndenjoo]] will not explain it.
+In the square, the thaw runs louder the week before the fall. [[Maiethlir]] will not explain it.
+
+On the dock, salt sits on the roots in Eolthael. [[Orentel]] will not explain it.
+
+In the waiting town, a wet leaf lies on the spring, or too many, or none. [[Eolvaeth]] will not explain it.
+
+On the hill, on one night of the moon sailors call Yoltal, the heel of the loaf is eaten first. [[Ndenjoo]] will not explain it.
 
 ## Links
 
@@ -68,6 +71,8 @@ Each stance keeps one habit. This page does not gloss it.
 ## GM Notes
 *(Stripped on player-safe export.)*
 
-- **Practice, not a second doctrine.** If a later pass explains the thaw, the salt, the leaf, or the heel, it has turned a habit back into a sermon. Leave each one.
-- **Do not** date the Tree, name the cutter, lock the nature of her limit, add a power, put a graft on Kumbaan, or set anything in the storm-wall. Do not coin a blessing. World book untouched.
-- **Daily Life stays the household grammar.** Do not copy marriage, medicine, or the Warm / Watchful / Frontier faces onto this page.
+These are practices, not a second doctrine. If a later pass explains the thaw, the salt, the leaf, or the heel, it has turned a habit back into a sermon, and each habit has to stay unexplained.
+
+Do not date the Tree, name the cutter, lock the nature of her limit, add a power, put a graft on Kumbaan, or set anything in the storm-wall. Do not coin a blessing, and leave the world book untouched.
+
+[[Daily Life]] stays the household grammar. Do not copy marriage, medicine, or the Warm, the Watchful, and the Frontier faces onto this page.
