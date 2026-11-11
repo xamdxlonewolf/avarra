@@ -24,67 +24,65 @@ updated: 2026-10-22
 
 # When the Fire Is Caught
 
-> **Story R.2 lock.** This settles the apparent-second-Phoenix problem without touching the one-Gift rule. The harvesters are [[The Protectors]]. Hidden-Phoenix PC agency: [[A Hidden Phoenix]]. Opening kit: [[The Opening]].
+> **Story R.2 lock.** This note settles the problem of an apparent second Phoenix without touching the rule that there is only one Gift. The people who catch the fire are [[The Protectors]]. If a player character is the hidden Phoenix, their agency lives on [[A Hidden Phoenix]]. The opening kit is [[The Opening]].
 
-> **Do not put this in a player-facing note.** Player-facing [[Phoenix]] still reads: there is one, they Rise until they cannot, then a leaf falls.
+> **Do not put this in a player-facing note.** What a player is allowed to read on [[Phoenix]] is still the public doctrine: there is one, they Rise until they cannot, and then a leaf falls.
 
 ## The Secret (GM truth)
 
-**There is never a second Gift.** The Tree Gives white-fire to one living person. While that person can still Rise From Ash, no second leaf falls. What can *look* like two Phoenixes is leftover fire standing next to a new Gift.
+**There is never a second Gift:** the Turning Tree Gives its white-fire to one living person, and for as long as that person can still Rise From Ash, spending a Hope slot on the Phoenix card to come back from that death, no second leaf falls. What can look like two Phoenixes is leftover fire standing next to that one new Gift.
 
 ### When the original self ends
 
-The original self ends at the death they **cannot Rise from** — the death that would cross out their last Hope slot. That is already the card. That death ends the Gift. The person the leaf wrapped is gone. A new white-fire leaf may fall at the next High Solstice any living Tree can reach.
-
-A captive who still has a Hope slot they can spend to Rise still holds the Gift. No leaf falls. Two Gifts never overlap.
+The original self ends at the death they cannot Rise from, the death that would cross out their last Hope slot, which is already how the card works. That death ends the Gift, the person the leaf wrapped is gone, and a new white-fire leaf may fall at the next High Solstice any living Tree can reach. A captive who still has a Hope slot they can spend to Rise still holds the Gift, so no leaf falls while they can, and two Gifts never overlap.
 
 ### How harvested fire sustains what remains
 
-Each Rise burns a body to nothing and remakes it. The fire of that burn can be **caught** if the death is prepared. Banked fire has two jobs, and only two:
+Each Rise burns a body down to nothing and then remakes it. If the death was prepared for, the fire of that burn can be caught and banked, and banked fire has two jobs, and only two.
 
-1. **While the Gift lasts.** Spend a measure to force a Rise the Phoenix did not choose, and take the memory of that death with it. The Hope slot still scars. The named piece of the old life still does not come back. The player of a PC Phoenix is never forced to Rise; this is what is done to a captive.
-2. **After the Gift ends.** Spend the bank to keep the *last risen body* assembled. That is not a Rise. No Hope is crossed, because none remain. The body walks, burns, and can still take the air. It is fire's memory of a person, not a Phoenix. If the store runs out, the remnant goes to cold ash and stays there.
+1. **While the Gift lasts,** someone can spend a measure of that bank to force a Rise the Phoenix did not choose, and the memory of that death is taken with the Rise. The Hope slot still scars. The named piece of the old life still does not come back. The player of a PC Phoenix is never forced to Rise. Forcing the Rise is what is done to a captive.
+2. **After the Gift ends,** the bank can be spent to keep the last risen body assembled. That upkeep is not a Rise, so no Hope is crossed, because none remain. The body walks, it burns, and it can still take the air. It is the fire's memory of a person, and it is not a Phoenix. When the store runs out, the remnant goes to cold ash and stays there.
 
-The remnant cannot Rise, cannot be Given, and cannot Give. Immunity and wings can linger because those are properties of the *fire*, not of the Gift. Kindle and the Dwindling do not. A remnant that still thinks it is the Phoenix is a tragedy, not a second Condition.
+The remnant cannot Rise, cannot be Given, and cannot Give, while immunity and wings can linger on it because those are properties of the fire rather than of the Gift, and Kindle and the Dwindling do not linger with the remnant. A remnant that still thinks it is the Phoenix is a tragedy, and it is not a second Condition.
 
 ### Why a new leaf can fall unseen
 
-The slot is empty from the true death. The leaf may fall. The wider world does not see it because the remnant is still *called* the Phoenix and kept out of sight. Doctrine says there cannot be two, so a Spoken white-fire while a sanctuary still "holds the Phoenix" is filed as a mis-Speaking or a hush. A far graft with no Speaker never enters the record. The new child is real. The stories are still about the old name.
+The slot is empty from the true death, the one the Gift could not Rise out of, so the leaf may fall. The wider world does not see that fall, because the remnant is still called the Phoenix and is kept out of sight. Doctrine says there cannot be two, so a Spoken white-fire is filed as a mis-Speaking or a hush for as long as a sanctuary still claims to hold the Phoenix. A far graft with no Speaker never enters the record at all. The new child is real, and the stories people tell are still about the old name.
 
 ### What later stories must not do
 
-- Do not add a second Gift to make the mystery easier.
-- Do not let the remnant count as a Phoenix for Leaf-Fall, law, or the roster.
-- [[The Protectors]] catch the fire. They use this engine; they do not rewrite it.
-- A hidden Phoenix PC: [[A Hidden Phoenix]]. If that PC still has a Rise left, they *are* the one Gift. A second leaf waits. If the opening needs an apparent two, the walker from the sanctuary is the remnant.
-- **Opening picked:** [[The Opening]] sits remnant-walker + unseen leaf at [[Harrow's Green]]. Taeren *or* a PC occupies the new-Gift seat, not both. Two Gifts at once is not. The walker-PC-who-can-still-Rise shape remains legal as a *different* opening; do not run it on top of this kit.
-- [[Taeren]] (Brenod hush at the neighbour's canopy) and [[Rosire]] (door that opened; Harrow's upper room this Hale-month) are witnesses. Plot lives on the opening kit, not on those notes.
+- Do not add a second Gift to make the mystery easier to explain.
+- Do not let the remnant count as a Phoenix for the Leaf-Fall, for the law, or for the roster.
+- [[The Protectors]] are the ones who catch the fire. They use this engine, and they do not get to rewrite it.
+- A hidden Phoenix played by a PC is handled on [[A Hidden Phoenix]]. If that PC still has a Rise left, they are the one Gift, and a second leaf waits. If the opening needs what looks like two, the walker who came out of the sanctuary is the remnant, and the PC is not a second living Gift.
+- **The opening that was picked** is [[The Opening]], which sits a remnant-walker and an unseen leaf together at [[Harrow's Green]]. [[Taeren]] or a PC occupies the seat of the new Gift, and not both of them at once. Two Gifts at the same time is not this opening. A walker-PC who can still Rise remains a legal shape for a different opening, and you do not run that shape on top of this kit.
+- [[Taeren]], the Brenod hush at the neighbour's canopy, and [[Rosire]], the door that opened, in Harrow's upper room this Hale-month, are witnesses. The plot lives on the opening kit, and not on those two notes.
 
 ## How It Surfaces (clues, in order)
 
-**Plot (1–4) may run without the keystone.** [[The Opening]] already puts 1–4 on-screen. Do not lead with a second bird. Do not require [[The Spent Leaf]]. Cosmology (that she Gave the leaf) stays behind the keystone. Clue 5 stays late.
+Plot clues 1–4 may run without the keystone, and [[The Opening]] already puts 1–4 on-screen, so you do not lead with a second bird and you do not require [[The Spent Leaf]] before the hour can start. The cosmology, the claim that she Gave the leaf, stays behind the keystone, and clue 5 stays late.
 
-1. **Hope scars without memories.** A Phoenix (or something that burns like one) has more crossed slots than lives they can name.
-2. **A sanctuary that will not produce the Phoenix.** The world is told the one is being kept safe. No town has seen them in a generation.
-3. **A white-fire fall that was never Spoken.** A far warden's letter, a hush, a runner who did not arrive.
-4. **Fire that answers a child and an old name at once.** The stored fire knows both. That is the tell, not a second Gift. Object: [[The Closed Lamp]] — lean, two people, then tea. Not a leaf. Not [[The Spent Leaf]].
-5. **The confirming beat (late, GM's to place).** The remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. Warmth with a theft under it. Not a harvest-god reveal. Do not fire this in session one. The plot does not need it. The plot does not need the keystone.
+1. **Hope scars without memories.** A Phoenix, or something that burns the way a Phoenix burns, has more crossed Hope slots than lives they can name.
+2. **A sanctuary that will not produce the Phoenix.** The world is told that the one is being kept safe, and no town has seen them in a generation.
+3. **A white-fire fall that was never Spoken.** The evidence is a far warden's letter, or a hush, or a runner who did not arrive.
+4. **Fire that answers a child and an old name at once.** The stored fire knows both, and that double recognition is the tell, not a second Gift. The object is [[The Closed Lamp]], which leans, answers two people, and then there is tea. It is not a leaf, and it is not [[The Spent Leaf]].
+5. **The confirming beat, which is late and the GM's to place.** The remnant goes to ash when the store is spent, or the new Gift stands in a room with the old name and the Tree does not argue. What lands is warmth with a theft under it, and it is not a harvest-god reveal. Do not fire this in session one: the plot does not need the confirmation, and the plot does not need the keystone.
 
 ## Player Misreadings
 
-- **"There were always two."** Wrong. One Gift. Leftover fire is not a Gift.
-- **"The Tree made a mistake."** Wrong. The slot was empty. The leaf was on time.
-- **"The remnant is the real Phoenix and the child is a fraud."** The useful lie. The harvesters need it. It is backwards.
-- **"She stopped Giving white-fire."** Incomplete. She (or the Tree, if you are still unconfirmed) Gave. The record was kept from seeing it.
-- **"The Closed Lamp is a Spent Leaf / harvested-fire-as-leaf."** Reject. Brass and a banked coal. The colourless remainder is a different pin. Do not braid them.
+- **"There were always two."** There was one Gift, and leftover fire is not a Gift, however completely it burns.
+- **"The Tree made a mistake."** The slot was already empty when the leaf fell, and the leaf was on time.
+- **"The remnant is the real Phoenix and the child is a fraud."** That is the useful lie, the one the harvesters need people to believe, and it is backwards.
+- **"She stopped Giving white-fire."** She Gave, or the Tree Gave if the table is still unconfirmed on her, and the record was kept from seeing the fall.
+- **"The Closed Lamp is a Spent Leaf, or harvested fire passed off as a leaf."** The lamp is brass and a banked coal, the colourless remainder is a different pin, and the two are not to be braided together.
 
 ## Links
-- [[Phoenix]] — the card this sits under
-- [[Turning Tree]] — white-fire row; a Spoken fall is history and a problem
-- [[Is the Leaf-Mother Real]] — do not confirm her in player text to explain the slot
-- [[The Other Hands]] — Phoenix is hers only; no Other Hand Gives it
-- [[The Protectors]] — the harvesters · [[A Hidden Phoenix]] — PC agency · [[The Opening]] — the opening
-- [[Taeren]] · [[Rosire]] — witnesses, not the house
-- [[The Closed Lamp]] — plot object · [[The Spent Leaf]] — do not braid
-- [[Revelation Architecture]] — fire plot may run without the keystone · [[Reveal Index]]
+- [[Phoenix]] is the card this secret sits under.
+- [[Turning Tree]] carries the white-fire row, where a Spoken fall is both history and a problem.
+- [[Is the Leaf-Mother Real]] is why you do not confirm her in player text just to explain the slot.
+- [[The Other Hands]] keeps Phoenix as hers only, so no Other Hand Gives it.
+- [[The Protectors]] are the harvesters, [[A Hidden Phoenix]] is the PC's agency, and [[The Opening]] is the opening.
+- [[Taeren]] and [[Rosire]] are witnesses, and they are not the house that holds the plot.
+- [[The Closed Lamp]] is the plot's object, and [[The Spent Leaf]] is the pin you do not braid to it.
+- [[Revelation Architecture]] is where the fire plot is allowed to run without the keystone, and [[Reveal Index]] keys the tag.
 - [[11 - Secrets]]

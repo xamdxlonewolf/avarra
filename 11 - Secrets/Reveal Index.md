@@ -11,29 +11,29 @@ updated: 2026-10-22
 
 # Reveal Index
 
-> **Machine-and-GM index.** Each `reveal_tag` points to the secret note. Under it are the notes whose `reveals:` front-matter lists that tag. The lists below were rebuilt on 2026-10-22 from the front-matter of every note, so they match it exactly. Procedure: [[Revelation Architecture]]. Strip rule: [[Conventions#Player-safe export]].
+> **Machine-and-GM index.** Each `reveal_tag` points at the secret note it belongs to, and under that tag are the notes whose `reveals:` front-matter lists it. The lists below were rebuilt on 2026-10-22 from the front-matter of every note in the vault, so they match that day's files exactly. The procedure for firing what they point at is [[Revelation Architecture]]. The rule for stripping a note before a player sees it is [[Conventions#Player-safe export]].
 
-`leaf-mother-is-real` marks confirmation, or the keystone's own tag. `keystone-adjacent` marks a clue that does not confirm the keystone; it has no secret note of its own and is the clue tag for [[Is the Leaf-Mother Real]]. The household, Unspent, and fire tags mark notes that expose those secrets, usually behind `## GM Notes`. A tag on a mixed note does **not** mean the player body still spoils the secret once the wall is stripped. Campaign filter step 5 still requires that the leftover body would spoil.
+`leaf-mother-is-real` marks a confirmation, or it is the keystone's own tag, the tag on the question of whether the Leaf-Mother is real. `keystone-adjacent` marks a clue that does not confirm the keystone. That tag has no secret note of its own, and it is the clue tag for [[Is the Leaf-Mother Real]]. The household tag, the Unspent tag, and the fire tag mark notes that expose those secrets, usually from behind a `## GM Notes` wall. A tag sitting on a mixed note does **not** mean the player-facing body still gives the secret away once that wall is stripped. Campaign filter step 5 still requires that the leftover body would spoil the tag before the note is held back.
 
-A Condition hub or card has `reveals: []` unless its *player body* confirms a secret. A GM Notes section that names a Hand does not count. [[Bound]] and [[Returned]] have GM Notes that name a Hand, and their player bodies do not confirm anything, so both are empty. [[Phoenix]] and [[Conditions]] are empty for the same reason.
+A Condition hub or a Condition card has `reveals: []` unless the player-facing body itself confirms a secret. A `## GM Notes` section that names a Hand does not count as that confirmation. [[Bound]] and [[Returned]] have GM Notes that name a Hand, their player bodies do not confirm anything, and so both lists are empty. [[Phoenix]] and [[Conditions]] are empty for the same reason: what a player can read does not confirm the secret.
 
 ## `leaf-mother-is-real`
 
 **Secret:** [[Is the Leaf-Mother Real]]
 
-**Notes that list it:** none, and that is correct. Public notes that only give a clue use `keystone-adjacent`. Do not put this tag on a player body.
+**Notes that list it:** none, and that emptiness is correct. A public note that only offers a clue uses `keystone-adjacent` instead, and this tag does not go on a player-facing body.
 
-**GM notes that confirm her without the tag:** none found. Confirmation is written only in `visibility: gm` notes ([[Is the Leaf-Mother Real]] and this folder).
+**GM notes that confirm her without the tag:** none were found. The confirmation is written only in notes whose visibility is `gm`, which means [[Is the Leaf-Mother Real]] and the rest of this folder.
 
 ## `keystone-adjacent`
 
-**Secret it clues:** [[Is the Leaf-Mother Real]] (without confirming her)
+**Secret it clues:** [[Is the Leaf-Mother Real]], and the clue does not confirm her.
 
-**Firing pin (listed under this tag, but it is the pin, not a clue):** [[The Spent Leaf]]. The desk that holds it is [[The Remainder]].
+**Firing pin:** [[The Spent Leaf]] is listed under this tag, and it is the pin rather than one more clue. The desk that holds the leaf is [[The Remainder]].
 
 ### Notes that list it
 
-Grouped by home folder. This is a find-list, not a reading order. The rungs of the reveal stay on the secret note.
+The names below are grouped by the folder they live in. This is a find-list, not the order a table should hear the clues, and the rungs of the reveal stay on the secret note.
 
 **World (astronomy, climate, ecology, geography, phenomena, planes)**
 [[The Reckoning of the Year]] · [[The Sky from the Ground]] · [[Climate of Heskoren]] · [[Climate of Kumbaan]] · [[Climate of Maiethorn]] · [[Climate of Strandoren]] · [[Climate of the Turning]] · [[Ecology of the Turning]] · [[Heskoren]] · [[Maiethorn]] · [[Named Ground]] · [[Strandoren]] · [[The Sundering Isle]] · [[The World Frame]] · [[Brine and Rain]] · [[The Day-Wash]] · [[The Green Across the Gap]] · [[Planes]]
@@ -63,7 +63,7 @@ Grouped by home folder. This is a find-list, not a reading order. The rungs of t
 
 **Secret:** [[The Other Hands]]
 
-**Firing pin:** none as an object. The Hands are named late, after split testimony. The handout that can carry a hint is [[The Uncoloured Intake]]. Never use it first, and never together with the Spent Leaf pin.
+**Firing pin:** there is no object that fires this one. The Hands are named late, after testimony has already split, and the handout that can carry a hint without finishing the job is [[The Uncoloured Intake]]. Never use that handout first, and never put it in the same beat as the Spent Leaf pin.
 
 ### Notes that list it
 
@@ -82,13 +82,13 @@ Grouped by home folder. This is a find-list, not a reading order. The rungs of t
 **Religion (faiths, myth, deities, rites)**
 [[Maieth]] · [[Faiths of the Turning]] · [[The Fair Hand]] · [[The Leaf-Mother]] · [[The Old Ways]] · [[The Open Table]] · [[The Watching]] · [[The Houses and the Years]] · [[The Uncoloured Intake]]
 
-[[Laevila]] holds the copy of the recut beam's hidden face, which is a Watching clue. Its GM wall does not name the Hands, so `keystone-adjacent` alone is correct there.
+[[Laevila]] holds the copy of the recut beam's hidden face, and that copy is a Watching clue. The GM wall on Laevila's note does not name the Hands, so `keystone-adjacent` alone is the right tag there.
 
 ## `the-unspent`
 
-**Secret home:** [[The Unspent]] (a player deity note with a GM wall; the `reveal_tag` is on that file)
+**Secret home:** [[The Unspent]], which is a player-facing deity note with a GM wall. The `reveal_tag` lives on that file, not on a second copy here.
 
-**Firing pin:** the cup and the claim. The Unspent is older than the name the Pourers gave it. That stays behind the wall. It is not a sixth Hand.
+**Firing pin:** the cup, and the claim the circle makes about it. The Unspent is older than the name the Pourers gave it. That age stays behind the wall, and the Unspent is not a sixth Hand.
 
 ### Notes that list it
 
@@ -113,7 +113,7 @@ Grouped by home folder. This is a find-list, not a reading order. The rungs of t
 
 **Secret:** [[When the Fire Is Caught]]
 
-**Firing pin (plot):** [[The Opening]]. A remnant and an unseen leaf, with no keystone needed. The object is [[The Closed Lamp]]. **Firing pin (cosmology):** clue 5 on the secret (later, optional).
+**Firing pin for the plot:** [[The Opening]], which already has a remnant and an unseen leaf on the table, and which does not need the keystone. The object in that hour is [[The Closed Lamp]]. **Firing pin for the cosmology:** clue 5 on the secret, later, and optional. The plot can be played while that clue is still unfired.
 
 ### Notes that list it
 
@@ -135,7 +135,7 @@ Grouped by home folder. This is a find-list, not a reading order. The rungs of t
 **Game**
 [[A Hidden Phoenix]]
 
-[[Phoenix]]'s player body is public doctrine: one Phoenix at a time, then a leaf. Its `reveals: []` is correct. The engine is in the GM Notes of the Condition hub and card.
+[[Phoenix]]'s player body is the public doctrine, that there is one Phoenix at a time and that a leaf follows when that one can no longer Rise, so an empty `reveals:` list is correct. The engine that makes a remnant possible stays in the GM Notes of the Condition hub and of the card.
 
 ## Condition cards
 
@@ -143,22 +143,22 @@ Do not put confirmation language in a Condition's player body.
 
 | Note | Tag | Status |
 |---|---|---|
-| [[Bound]] | none | `reveals: []`. GM Notes name Orledd, the player body confirms nothing. |
-| [[Returned]] | none | `reveals: []`. GM Notes name Threnvaeth, the player body confirms nothing. |
-| [[Phoenix]] | `when-the-fire-is-caught` (optional) | Empty. The player body is doctrine and the engine stays in GM Notes. |
-| [[Conditions]] | `when-the-fire-is-caught` (optional) | Empty. The hub body is mechanics. |
+| [[Bound]] | none | `reveals: []`. The GM Notes name Orledd, and the player body confirms nothing. |
+| [[Returned]] | none | `reveals: []`. The GM Notes name Threnvaeth, and the player body confirms nothing. |
+| [[Phoenix]] | `when-the-fire-is-caught` (optional) | Left empty. The player body is doctrine, and the engine stays in GM Notes. |
+| [[Conditions]] | `when-the-fire-is-caught` (optional) | Left empty. The hub body is the mechanics, and the engine stays off the player page. |
 
-**Checked and left empty:** [[Far-Voiced]], [[The Stilled]], and [[The Taken-In]] have GM Notes that do not name Hands. [[Long-Lived]] points at the cup without saying what the Unspent is. [[At the Table]] points at the opening kit without spoiling cosmology.
+**Checked and left empty:** [[Far-Voiced]], [[The Stilled]], and [[The Taken-In]] have GM Notes, and those notes do not name Hands. [[Long-Lived]] points at the cup without saying what the Unspent is. [[At the Table]] points at the opening kit without spoiling the cosmology.
 
 ## Playable mysteries (not pins)
 
-[[The Name-Stone Bed]] and [[A Buyer for the Knife]] have no `reveal_tag`. They are not `leaf-mother-is-real`, `the-other-hands`, or `when-the-fire-is-caught`, and they confirm neither the Leaf-Mother nor the Other Hands. Find them from [[Mysteries]]. [[Revelations]] and [[Clues]] point back here and do not hold a second copy of this index.
+[[The Name-Stone Bed]] and [[A Buyer for the Knife]] have no `reveal_tag`. They are not `leaf-mother-is-real`, not `the-other-hands`, and not `when-the-fire-is-caught`, and they confirm neither the Leaf-Mother nor the Other Hands. You find them from [[Mysteries]]. [[Revelations]] and [[Clues]] point back at this index, and neither of them keeps a second copy of it.
 
 ## How to use this in export
 
-1. Omit `visibility: gm` notes.
-2. Strip `## GM Notes` (and `GM —` blockquotes and HTML comments) per [[Conventions#Player-safe export]].
-3. Optional: drop notes whose `reveals` still contain an unrevealed tag **and** whose remaining body would spoil that tag. Do not hide [[Conditions]] or [[Kind Heritage]] this way.
+1. Leave out every note whose front-matter says `visibility: gm`.
+2. Strip each `## GM Notes` section, and strip blockquotes that begin `GM —` and any HTML comments, following [[Conventions#Player-safe export]].
+3. If you are filtering for a campaign, you may then drop a note whose `reveals` still contain a tag you have not revealed and whose remaining body would spoil that tag. Do not use that step to hide [[Conditions]] or [[Kind Heritage]].
 
 ## Links
 - [[Revelation Architecture]] — procedure · [[11 - Secrets]] · [[Mysteries]] · [[Revelations]] · [[Clues]]
