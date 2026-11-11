@@ -103,13 +103,13 @@
       "handoffPath": "handoffs/world-life.md",
       "startedAt": "2026-11-11T06:01:03.883Z",
       "finishedAt": "2026-11-11T06:20:59.721Z",
-      "lastUpdate": "2026-11-11T06:20:59.721Z",
+      "lastUpdate": "2026-11-11T06:21:00.893Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "history-events",
@@ -208,12 +208,12 @@
       "agentId": "bc-90627cd4-bad1-4e92-8f8d-c157fc09a1ef",
       "runId": "run-86ebc89d-122d-4229-bd5b-f7ecace5af6e",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/cultures-tongue.md",
       "startedAt": "2026-11-11T06:01:28.709Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:37.889Z",
+      "finishedAt": "2026-11-11T06:21:11.184Z",
+      "lastUpdate": "2026-11-11T06:21:11.184Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1609,6 +1609,10 @@
     {
       "at": "2026-11-11T06:20:44.013Z",
       "message": "creatures-conditions: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:21:00.894Z",
+      "message": "world-life: verification self-reported (not-verified)"
     }
   ]
 }
