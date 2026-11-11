@@ -191,13 +191,13 @@
       "handoffPath": "handoffs/cultures-peoples.md",
       "startedAt": "2026-11-11T06:01:24.451Z",
       "finishedAt": "2026-11-11T06:19:13.623Z",
-      "lastUpdate": "2026-11-11T06:19:13.623Z",
+      "lastUpdate": "2026-11-11T06:19:14.803Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "cultures-tongue",
@@ -362,12 +362,12 @@
       "agentId": "bc-5247deaa-1dc9-4196-9098-068e563ed4c7",
       "runId": "run-6cb622e0-2b65-4049-a3e8-c7034edbb33e",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/factions-orders-seat.md",
       "startedAt": "2026-11-11T06:02:04.345Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:06.619Z",
+      "finishedAt": "2026-11-11T06:19:14.806Z",
+      "lastUpdate": "2026-11-11T06:19:14.806Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1557,6 +1557,10 @@
     {
       "at": "2026-11-11T06:19:11.092Z",
       "message": "factions-guilds: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:14.804Z",
+      "message": "cultures-peoples: verification self-reported (not-verified)"
     }
   ]
 }
