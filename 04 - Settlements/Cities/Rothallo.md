@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Rothallo
 
-> **Orenbren's capital.** *(roh-THAL-oh.)* People still say **the Inner Close**, and **the Close**. The walls answer to those names. The seat's name is Rothallo. It stays inside [[Orenbren]]. It is not a second power.
+> **Orenbren's capital.** *(roh-THAL-oh.)* People still say **the Inner Close**, and **the Close**, and the walls answer to those names. The seat's name is Rothallo. It stays inside [[Orenbren]], and it is not a second power.
 
 ## At the table
 
@@ -31,35 +31,35 @@ updated: 2026-10-22
 
 ## Overview
 
-Rothallo is a walled city, one day's walk from the Motherwood, and the capital of the [[Orenbren|Witness-Hearths]]. Smaller towns and villages lie around it in the lodging-country. This note does not name them. [[The Third Hearth]], [[The Mill-hold]], and [[Nelath]] are in that country. They are not this capital.
+Rothallo is a walled city, one day's walk from the Motherwood, and the capital of the [[Orenbren|Witness-Hearths]]. Smaller towns and villages lie around it in the lodging-country, and this note does not name them. [[The Third Hearth]], [[The Mill-hold]], and [[Nelath]] stand in that same country, and they are not this capital.
 
-The [[The Tree-Wardens|First Seat]] is in the wood, beyond the wall. The wood is not crowned. Rothallo is not the college. A Hand stands inside the walls. The city has no speaker of its own for Leaf-Fall. A warden of the First Seat may come in for Turning-Week and Speak the fall there. If a colour is copied afterward, the copy is the Close's.
+The [[The Tree-Wardens|First Seat]] is in the wood, beyond the wall. The wood is not crowned, and Rothallo is not the college. A Hand stands inside the walls, and the city has no speaker of its own for Leaf-Fall. A warden of the First Seat may come in for Turning-Week and Speak the fall there. If a colour is copied afterward, the copy is the Close's.
 
-[[The Walled Book|Closed Heirs]] rank the Conditioned by the Book of Tithes. Orenbren witnesses who slept. They share a country. They do not share a page. Hildal's Retreat put the lodging-beds outside the wall and kept the Book inside it. Orenbren says the wall was meant as a guest-compact, and the compact never opened to guests.
+[[The Walled Book|Closed Heirs]] rank the Conditioned by the Book of Tithes, while Orenbren witnesses who slept. They share a country, and they do not share a page. Hildal's Retreat put the lodging-beds outside the wall and kept the Book inside it. Orenbren says the wall was meant as a guest-compact, and the compact never opened to guests.
 
-The city's daily work is ranking people by the Book of Tithes. Hospitality is the lodging-country's business, on the other side of the gate. Devotion walks the Near Mile. The White Note is a quay's paper.
+The city's daily work is ranking people by the Book of Tithes, while hospitality stays the lodging-country's business on the other side of the gate. Devotion walks the Near Mile, and the White Note is a quay's paper.
 
 ## Ways in
 
-- **From [[Turning Tree|Thaeloren]].** One day's walk. The wood stays outside the wall. Arriving does not make the college a room in the city.
-- **From the Near Mile.** This wall is one day from the grove. [[The Third Hearth]] is three. Coming in from the country, you have already passed the outer hearths. A person who thought the Close was an inn finds a gate.
-- **From [[Maiethlir]].** The river road is a different road. [[Polity Archetypes|Threnmaieth]] sends clerks to the gate with empty tablets. They do not get the page.
+- **From [[Turning Tree|Thaeloren]].** The walk is one day. The wood stays outside the wall, and arriving does not make the college a room in the city.
+- **From the Near Mile.** This wall is one day from the grove, and [[The Third Hearth]] is three. Coming in from the country, you have already passed the outer hearths. A person who thought the Close was an inn finds a gate.
+- **From [[Maiethlir]].** The river road is a different road from this one. [[Polity Archetypes|Threnmaieth]] sends clerks to the gate with empty tablets, and they do not get the page.
 
-The wall is old. It was closed in the Retreat, not raised to make a new kingdom. Water inside is cisterns and a well the wall owns. Food is the lodging-country's surplus and what the Book assigns bodies to grow. The [[The Taken-In|Taken-In]] work lots the Book can write them onto. They are not a nation.
+The wall is old. It was closed in the Retreat, not raised to make a new kingdom. Water inside is cisterns and a well the wall owns. Food is the lodging-country's surplus, and whatever the Book assigns bodies to grow. The [[The Taken-In|Taken-In]] work lots the Book can write them onto, and they are not a nation.
 
 ## The work
 
 The work happens where the **Book of Tithes** is kept, inside the walls.
 
-[[The Walled Book|Delamem]] keeps the Book. The pages assign taxes, restrictions, and labour. The Tithe a person already carries is not the assignment. The assignment sits on top of it. They will not call the Book a scripture. They will not Speak a colour. Talnin is still the heir whose tenth year is not finished.
+[[The Walled Book|Delamem]] keeps the Book. The pages assign taxes, restrictions, and labour, and the Tithe a person already carries is not that assignment. The assignment sits on top of it. They will not call the Book a scripture, and they will not Speak a colour. Talnin is still the heir whose tenth year is not finished.
 
-A neighbour in the city says a given name. A clerk says the **house first**, then the given name. *Closed* on a roster is a rank, not a second name. The line can cast a person out and keep the house on them.
+A neighbour in the city says a given name, and a clerk says the **house first**, then the given name. *Closed* on a roster is a rank, not a second name. The line can cast a person out and still keep the house on them.
 
 ## One tension
 
-In Turning-Week the wall will not lodge a Given pilgrim, and the lodging-country is in the business of beds. [[Breolnir]] writes who slept. The Book writes who owes. The same person can be a guest on one page and labour on the other. The pages will not be copied onto each other.
+In Turning-Week the wall will not lodge a Given pilgrim, and the lodging-country is in the business of beds. [[Breolnir]] writes who slept. The Book writes who owes. The same person can be a guest on one page and labour on the other, and the pages will not be copied onto each other.
 
-[[Methei]] is on the Book's list for the beds outside the gate, and lives there while the turn lasts. Methei can walk away on any day the gate is open. [[Brimaen]] keeps a stall inside on a licence the Book can revoke. The dispute is over who sleeps where, and it is had at the gate. It is not a second city.
+[[Methei]] is on the Book's list for the beds outside the gate, and lives there while the turn lasts. Methei can walk away on any day the gate is open. [[Brimaen]] keeps a stall inside the walls on a licence the Book can revoke. The dispute is over who sleeps where, and it is had at the gate. It is not a second city.
 
 ## Habits
 
@@ -77,7 +77,7 @@ A Closed child, the week before the tenth year, leaves one shoe by the Book's st
 
 ## People
 
-Three people. They are not a replacement for Delamem or Talnin, and not a court beyond them.
+The note names three people. They are not a replacement for Delamem or Talnin, and they are not a court beyond them.
 
 - **[[Brimaen]]** — neighbour inside the walls. House **Lanbru**. A neighbour says Brimaen. A clerk says Lanbru, Brimaen.
 - **[[Breolnir]]** — gate clerk. House **Tethnae**. The file is Tethnae, Breolnir. A neighbour still says Breolnir.
@@ -94,10 +94,10 @@ The First Seat is not staffed from this list. [[Hithaen]] is a disinherited heir
 
 ## GM Notes
 
-- **S.1 seat.** Orenbren's capital. Inner Close stays an alias. The place stays inside Orenbren. One day's walk from the wood. Not a sixteenth power. The First Seat stays in the wood. The wood is not crowned. Rothallo is not the college.
+- **S.1 seat.** This is Orenbren's capital. Inner Close stays an alias, and the place stays inside Orenbren, one day's walk from the wood. It is not a sixteenth power. The First Seat stays in the wood, the wood is not crowned, and Rothallo is not the college.
 - **Do not** move the Book to the Hinge Shore. Do not capture the First Seat. Do not date the Tree. Do not name the cutter. Do not make the Third Hearth, the Mill-hold, Nelath, or Brenthael into this capital.
 - **Towns and villages** around the walls stay unnamed, except the squares already written. Do not census them.
 - **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261015 --register conservative --count 80`. Givens: **Breolnir** position 30, **Brimaen** position 39, **Methei** position 70. Houses: **Lanbru** position 36, **Tethnae** position 63, **Sithlaen** position 76. A neighbour gets the given name. A clerk gets the house first. No English surname. No Kind-name in the civic slot. Thrown back from that field: Malsainrein (rein); Leoseirvar and Leosibrith (leo); Theirte, Thenna, Theoneor, Netaithteo, Mairteothteo (theo); Leollaith (laith); Reithmol (mol); Runrair (run); Varbrail (rail); Seinnair (beside Seinbrun); Silveor (silver); Maethmae (beside Maethaem); Rothtulmar (beside Rothallo); Raitansun (beside Raitin, and sun); Bravol (brave); Naillolvi (nail); Naeththin, Naththir, Veithothveith (th-stacks); Rolbrul (brul); Sothmonbre (month).
 - **Habits.** Six. The count is full. A later note must not explain them, and must not turn them into a power, a relic, or a rite.
-- **One tension.** Beds outside, Book inside. Do not add a ward-grid. The sheet, if it is drawn, is Epic M.
+- **One tension.** The beds are outside, and the Book is inside. Do not add a ward-grid. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.
