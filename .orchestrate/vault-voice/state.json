@@ -692,17 +692,17 @@
       "agentId": null,
       "runId": null,
       "parentAgentId": null,
-      "status": "error",
+      "status": "pending",
       "resultStatus": null,
       "handoffPath": null,
-      "startedAt": "2026-11-11T06:25:14.485Z",
+      "startedAt": null,
       "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:25:14.996Z",
-      "note": "spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously.",
+      "lastUpdate": "2026-11-11T06:27:08.823Z",
+      "note": "respawned by self-planner (was error; attempts=2)",
       "attempts": 2,
       "slackTs": null,
       "prNumber": null,
-      "failureMode": "unknown",
+      "failureMode": null,
       "verification": null
     },
     {
@@ -1649,6 +1649,10 @@
     {
       "at": "2026-11-11T06:25:16.080Z",
       "message": "game: spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously."
+    },
+    {
+      "at": "2026-11-11T06:27:08.596Z",
+      "message": "campaigns: respawned by self-planner (was error)"
     }
   ]
 }
