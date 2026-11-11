@@ -450,12 +450,12 @@
       "agentId": "bc-d8fffe94-7181-42a8-8981-ab02f74579d9",
       "runId": "run-42dd3782-c696-4b25-a7da-cda9df428301",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/factions-guilds.md",
       "startedAt": "2026-11-11T06:02:20.675Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:23.341Z",
+      "finishedAt": "2026-11-11T06:19:10.065Z",
+      "lastUpdate": "2026-11-11T06:19:10.065Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -565,13 +565,13 @@
       "handoffPath": "handoffs/creatures-rest.md",
       "startedAt": "2026-11-11T06:02:49.845Z",
       "finishedAt": "2026-11-11T06:18:37.648Z",
-      "lastUpdate": "2026-11-11T06:18:37.648Z",
+      "lastUpdate": "2026-11-11T06:18:38.698Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "people-npcs-major",
@@ -1549,6 +1549,10 @@
     {
       "at": "2026-11-11T06:18:36.917Z",
       "message": "settlements-cities: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:18:38.698Z",
+      "message": "creatures-rest: verification self-reported (not-verified)"
     }
   ]
 }
