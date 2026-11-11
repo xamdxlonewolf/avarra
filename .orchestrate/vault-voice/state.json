@@ -1709,12 +1709,12 @@
       "handoffPath": "handoffs/book-powers.md",
       "startedAt": "2026-11-11T06:50:08.155Z",
       "finishedAt": "2026-11-11T07:05:53.160Z",
-      "lastUpdate": "2026-11-11T07:05:53.160Z",
+      "lastUpdate": "2026-11-11T07:05:54.866Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
+      "verification": "not-verified",
       "attempts": 1
     },
     {
@@ -1829,17 +1829,18 @@
       "agentId": null,
       "runId": null,
       "parentAgentId": null,
-      "status": "pending",
+      "status": "running",
       "resultStatus": null,
       "handoffPath": null,
-      "startedAt": null,
+      "startedAt": "2026-11-11T07:05:55.081Z",
       "finishedAt": null,
-      "lastUpdate": null,
+      "lastUpdate": "2026-11-11T07:05:55.081Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": null,
+      "attempts": 1
     },
     {
       "name": "build-world-book",
@@ -2089,6 +2090,10 @@
     {
       "at": "2026-11-11T07:04:28.400Z",
       "message": "book-guilds: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T07:05:54.867Z",
+      "message": "book-powers: verification self-reported (not-verified)"
     }
   ]
 }
