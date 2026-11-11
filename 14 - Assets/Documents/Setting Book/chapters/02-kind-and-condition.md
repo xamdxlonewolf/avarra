@@ -53,7 +53,7 @@ The card does not level with the character. The card you hold at level 1 is the 
 The shares below are of all people, not of the three-quarters who carry a Condition. They are the one count this book uses. The Unbound row is already inside Bound's five percent, and adding it a second time would count those people twice.
 
 | Condition | Old tales | Arrives | Of all people | How a town sees them |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | Long-Lived | vampires | at the Tree | ~2.5% | rare, and revered |
 | Two-Bodied | werewolves | at the Tree | ~18% | common neighbours |
 | Returned | the walking dead | after a death | ~7% | respected |
