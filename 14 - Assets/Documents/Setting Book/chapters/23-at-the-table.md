@@ -120,6 +120,8 @@ Settlements already have the things that can enter one of their scenes, a cohort
 
 Start battle points from the SRD: `[(3 × PCs) + 2]`. Spend: Minion group 1 · Support/Social 1 · Horde/Ranged/Skulk/Standard 2 · Leader 3 · Bruiser 4 · Solo 5. Benchmarks: Tier 1 Difficulty 11, thresholds 7/12, ATK +1; Tier 2 Difficulty 14, 10/20, ATK +2.
 
+Tier is how hard the fight is. The type is the Daggerheart role. What it wants is what it is trying to do when the party meets it.
+
 | Name | Tier / type | Where it lives | What it wants |
 |---|---|---|---|
 | **Gap-Cat** | T1 Skulk | Rain-Wall shelves, Heskoren ridge, mile-gaps | A quiet kill, and then the high rock back |

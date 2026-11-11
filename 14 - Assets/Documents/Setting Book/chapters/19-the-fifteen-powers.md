@@ -33,7 +33,7 @@ Governance is how far the state reaches onto the person. It runs from light guil
 
 ### The fifteen at a glance
 
-The table reads on those three axes. **T** is theology, Motherfaith gift-devotion, **R** is reach, and **G** is governance. A filled mark, ●, is high, a half mark, ◐, is mid, and an empty mark, ○, is low. The three corners that were set down first stay the reference points, and the other twelve are read between them.
+The table reads on those three axes. **T** is how devout the power is. **R** is how many healthy Trees it has. **G** is how far the state writes a person down. A filled mark, ●, is high, a half mark, ◐, is in the middle, and an empty mark, ○, is low. The last column is the older job that ground still does. The three corners that were set down first stay the reference points, and the other twelve are read between them.
 
 | Polity | Continent | T | R | G | One-line feel | Older job of the ground |
 |---|---|---|---|---|---|---|

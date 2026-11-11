@@ -6,20 +6,20 @@ On the sheet, a Condition is a Daggerheart Transformation card. The card opens w
 
 The card does not level, and it does not grow because the character does. A becoming is not a class. The card you hold at level 1 is the card you hold at level 10, while class features, domain cards, Experiences, weapon tier, and Hope scars are what change around it. A few things look like the card is growing, and they are not. A Two-Bodied may attach an animal-form Experience when they would gain an Experience, and a second signature capability is a once-ever story milestone, not a level to pick. Returned and Phoenix spend Hope slots, and that spending is a countdown of the returns they have left, not a power that climbs as they level. A Bound's Terms, the standing obligations written into the contract, and the Pledge, the piece of themselves named at signing as the price, move when the story moves them. Attacks that use Proficiency rise because Proficiency rises. Those attacks are Kindle, the Phoenix's burst of fire, Reach, the moment an Answered element's answer leaves the hands, the Green Word, the Taken-In's sudden growth, and the Two-Bodied natural weapon.
 
-A Tithe's tokens drain or fill when the day is over, at a long rest, unless the card names another time. Two short rests in one day do not count as that rest. Check each line once.
+A becoming has an upkeep. That is a **Tithe**. When the day is over, at a long rest, read this table once. Two short rests in the same day do not count as that rest. Some Conditions change at the long rest. Some change at another time. The table says which, and what is being counted.
 
-| Condition | At the end of the day | During play |
+| Condition | At a long rest | At other times |
 |---|---|---|
-| Long-Lived | Learn, read a memory, or stand witness: refill. Otherwise lose a Memory token. | — |
-| The Answered | Spend Hope on Reach: refill. Otherwise lose a token. A question does not refill. | — |
-| The Taken-In | Touch a living plant: refill. Otherwise lose a Green token. | — |
-| The Stilled | No hard physical work in the rest: add a Grey token. | The Gaze also adds a Grey token |
-| The Unbound | Someone who knows your name shares the meal or the watch: refill Quiet. | Spend Quiet to act through what was taken |
-| Returned | Nothing done toward the Purpose: mark a Stress. The touch runs cold. | — |
-| Far-Voiced | — | Vent a strong feeling before the scene ends |
-| Two-Bodied | — | A day without the other self, then Fear forces the change |
-| Bound | — | A broken term, a missed payment, or the Whisper while a debt is owed |
-| Phoenix | — | Each rise from death costs a Hope |
+| Long-Lived | Memory tokens are filled if, since the last long rest, they spent Hope to recall something exactly, read a memory from a drop of blood, or spent downtime studying or witnessing. If they did none of those, take one Memory token off. | Only the long rest changes these tokens. |
+| The Answered | Tokens are filled if they spent Hope to make their element reach. If they did not, take one token off. | Asking the element a question does not fill or empty the tokens. |
+| The Taken-In | Green tokens are filled if they can touch a living plant where they rest. If they cannot, take one Green token off. | Only the long rest changes these tokens. |
+| The Stilled | If the rest included no hard physical work, no spar, no drill, and no fight, add one Grey token. Grey is stillness building up in the body. | Each use of the Gaze, the look that holds a wound or a person still, adds one Grey token. A scene where they mark Stress from hard effort, or deal or take damage, takes one Grey token off. |
+| The Unbound | Quiet tokens are filled if they rest with someone who knows their name and shares the meal or the watch. Quiet tokens are spent to act through the part the contract took. If they rest alone, or with people who do not know them, the tokens stay as they are. | They spend Quiet tokens during play. |
+| Returned | If they did nothing toward their Purpose, the unfinished thing that keeps them walking, they settle. Mark a Stress, and their touch runs cold. | Only the long rest does this. |
+| Far-Voiced | The long rest does not change the Breath tokens. | In a scene, if they mark Stress because of what they feel, or the GM names grief, terror, rage, or joy, they have to let it out aloud before the scene ends. If they do not, take one Breath token off. |
+| Two-Bodied | The long rest does not cause the shift. | If a full day passes with no time in the animal body, the next roll with Fear shifts them even if they did not choose it, and they mark a Stress. |
+| Bound | The long rest does not settle the contract. | If they break a Term, a promise written in the contract, the GM gains Fear. Until they make it right, the granted power costs a Hit Point instead of a Stress. While that debt is still owed, a roll with Fear can bring the other party's whisper. Shutting the whisper out costs a Stress. |
+| Phoenix | The long rest does not spend a life. | Each time they die and rise from ash, cross out one Hope slot. The death that would cross out the last Hope slot is the last one. |
 
 There are nine Conditions a person can be Given or Struck with, and the tenth, the Unbound, is not a starting Condition. Common speech calls those people the Hollow, for the hole a finished contract leaves. A Bound enters that state when a term-limited contract ends and no further contract is signed, so you become Unbound only through Bound, in play or arranged with the GM before the first session. There are nine to choose from, and ten in the world. The Given-Over is a title rather than a Condition, the world's name for a Bound who signs contract after contract until the being on the other side effectively holds them. The contract-guilds call that fate the Forfeit. It is not a card anyone plays, and the account of it sits with the Bound.
 
@@ -248,6 +248,8 @@ Choose your element at creation: **Ember**, **Tide**, **Root**, or **Gale**. The
 - **The Answering Hand** *(boon):* Your element answers your hands without a tool, a forge, or force behind it. Glass blows with no furnace, a hull bends with no steam, stone is coaxed with no chisel, and you have **advantage** on any action roll to shape, repair, wield, or read something made of your element. In the moment it answers too. Spend a **Hope** to use your element's **Reach**, in the table below. The Reach is always there to spend. What wears down, if you go too long without speaking, is the Tithe.
 - **Spoken, not commanded:** Once per long rest, you may ask your element one question it can feel through its own medium. Ember can tell you about heat, fuel, and what would burn. Tide can tell you about flow, depth, and what the water has touched. Root can tell you about weight, fault, and what the stone holds. Gale can tell you about pressure, scent, and what the air is carrying. The GM gives you a clear impression, not a map you could navigate by. Your element does not obey another creature's order, and it does not take their bargain. If someone tries to treat the element as theirs, it answers them with silence. You may spend a Hope to turn that refusal into a Reach effect aimed at the interruption: the fire flares, the stone holds, or the water pulls away.
 - **The Untended Element** *(Tithe):* Place **3 tokens** on this card. At a long rest, refill all of them if you have spent Hope on Reach since your last long rest. Otherwise remove a token. Asking the element a question does not refill the clock. Spending Hope on Reach does. At 2 tokens nothing has changed, and at 1 token and at 0 the element starts speaking for itself, which the table describes.
+
+Reach is what spending a Hope does. One token left means the element is restless. No tokens left means it lets go, and the tokens then fill back to two.
 
 | Element | **Reach** *(spend a Hope)* | **1 token** (restless) | **0 tokens** (it lets go) |
 |---|---|---|---|

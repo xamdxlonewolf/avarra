@@ -58,7 +58,7 @@ The shares below are of all people, not of the three-quarters who carry a Condit
 | Two-Bodied | werewolves | at the Tree | ~18% | common neighbours |
 | Returned | the walking dead | after a death | ~7% | respected |
 | Bound | demons, by an oath | by a contract | ~5% in all; ~3.5% still bound | feared |
-| The Unbound | — | when a Bound term ends | ~1.5%, already inside that 5% | pitied |
+| The Unbound | no old tale; people say the Hollow | when a Bound term ends | ~1.5%, already inside that 5% | pitied |
 | Far-Voiced | sirens | at the Tree, or by a drowning | ~12%, nearly all at the Tree | revered |
 | The Stilled | gorgons | at the Tree, or by stone | ~7%, nearly all at the Tree | feared; the work is licensed |
 | The Answered | djinn | at the Tree | ~10% | no one reputation |
