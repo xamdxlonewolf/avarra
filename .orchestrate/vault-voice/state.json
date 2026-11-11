@@ -675,13 +675,13 @@
       "handoffPath": "handoffs/campaigns.md",
       "startedAt": "2026-11-11T06:27:15.873Z",
       "finishedAt": "2026-11-11T06:42:45.974Z",
-      "lastUpdate": "2026-11-11T06:42:45.975Z",
+      "lastUpdate": "2026-11-11T06:42:47.103Z",
       "note": "respawned by self-planner (was error; attempts=2)",
       "attempts": 3,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "game",
@@ -692,12 +692,12 @@
       "agentId": "bc-491dfb60-94df-4b6c-9623-83e324f7d76c",
       "runId": "run-02d6b00b-bba6-4203-a655-9e882b5ebdb4",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/game.md",
       "startedAt": "2026-11-11T06:27:18.546Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:27:21.255Z",
+      "finishedAt": "2026-11-11T06:44:36.545Z",
+      "lastUpdate": "2026-11-11T06:44:36.545Z",
       "note": "respawned by self-planner (was error; attempts=2)",
       "attempts": 3,
       "slackTs": null,
@@ -1657,6 +1657,10 @@
     {
       "at": "2026-11-11T06:27:09.809Z",
       "message": "game: respawned by self-planner (was error)"
+    },
+    {
+      "at": "2026-11-11T06:42:47.104Z",
+      "message": "campaigns: verification self-reported (not-verified)"
     }
   ]
 }
