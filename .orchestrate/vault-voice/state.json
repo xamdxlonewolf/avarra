@@ -1511,12 +1511,12 @@
       "handoffPath": "handoffs/book-front.md",
       "startedAt": "2026-11-11T06:49:36.397Z",
       "finishedAt": "2026-11-11T07:02:30.198Z",
-      "lastUpdate": "2026-11-11T07:02:30.199Z",
+      "lastUpdate": "2026-11-11T07:02:31.327Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
+      "verification": "not-verified",
       "attempts": 1
     },
     {
@@ -1572,12 +1572,12 @@
       "agentId": "bc-5b053c27-3055-4e93-9fad-ee893bfb5098",
       "runId": "run-b6c7c9c2-8975-4edf-befb-7149356bd23f",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/book-faith.md",
       "startedAt": "2026-11-11T06:49:45.522Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:49:49.875Z",
+      "finishedAt": "2026-11-11T07:03:40.932Z",
+      "lastUpdate": "2026-11-11T07:03:40.932Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
@@ -2065,6 +2065,10 @@
     {
       "at": "2026-11-11T07:02:28.933Z",
       "message": "book-orders: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T07:02:31.328Z",
+      "message": "book-front: verification self-reported (not-verified)"
     }
   ]
 }
