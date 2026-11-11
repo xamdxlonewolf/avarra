@@ -14,9 +14,9 @@ updated: 2026-10-22
 
 # Encounters
 
-A fight on the road is [[Dangers of the Turning]]. The five adversaries stay on their own notes under `09 - Creatures/Adversaries`. A scene in a town stays on that town's note.
+A fight that happens on the road, out between one settlement and the next, is [[Dangers of the Turning]]. The five adversaries that page names keep their stat blocks on their own notes under `09 - Creatures/Adversaries`, so this folder does not reprint the numbers. A scene that starts inside a town stays on that town's note, which already says who can come into the square and what they want when they do.
 
-There are no stocked encounters beyond those.
+Past those five, and past whatever a settlement already wrote for itself, there are no stocked encounters waiting on a shelf.
 
 ## Links
 
@@ -24,4 +24,4 @@ There are no stocked encounters beyond those.
 
 ## GM Notes
 
-This section stays a pointer. A later note must not restock the five, and must not add a sixth adversary here.
+This section stays a pointer, so a later note must not restock the five adversaries onto this page, and it must not add a sixth adversary here.

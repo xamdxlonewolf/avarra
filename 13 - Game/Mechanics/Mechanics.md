@@ -14,9 +14,9 @@ updated: 2026-10-22
 
 # Mechanics
 
-The Tithe clocks live on [[Conditions]] and each Condition card. Marks and the one Phoenix gift live on [[At the Table]], [[Kind Heritage]], and [[A Hidden Phoenix]]. A road roll lives on [[Dangers of the Turning]].
+The clocks a Tithe runs, the upkeep a Condition asks the person who carries it to keep, live on [[Conditions]] and on each Condition card. The marks those rulings already name, and the one Phoenix gift the table has to hold, live on [[At the Table]], [[Kind Heritage]], and [[A Hidden Phoenix]]. When the thing you are rolling is the road itself, the mile and the weather and whatever is in the gap, that roll lives on [[Dangers of the Turning]].
 
-There is one text for each of these, and no other.
+Each of those has one written text, and this page does not keep a second copy that could drift away from it.
 
 ## Links
 
@@ -24,4 +24,4 @@ There is one text for each of these, and no other.
 
 ## GM Notes
 
-This section stays a pointer. A later note must not move those four notes here, and must not invent a clock to fill the shelf.
+This section stays a pointer. A later note must not move those notes onto this page, and it must not invent a clock to fill the shelf.

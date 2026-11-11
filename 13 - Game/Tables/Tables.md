@@ -14,9 +14,9 @@ updated: 2026-10-22
 
 # Tables
 
-The tables a session uses are on [[At the Table]], [[Kind Heritage]], [[Dangers of the Turning]], and [[A Hidden Phoenix]]. The d6 weather turn is on [[Climate of the Turning]]. The table of warden questions is on [[Turning Tree]].
+The tables a session actually uses are already printed where the ruling is. [[At the Table]], [[Kind Heritage]], [[Dangers of the Turning]], and [[A Hidden Phoenix]] carry the ones those procedures need, so you read the table in the note that explains it. When you want the weather to turn, you roll the d6 on [[Climate of the Turning]]. When a family brings a warden a question about the Leaf-Fall, the week a child stands under the Turning Tree, the answers are the table on [[Turning Tree]].
 
-There is no other generator.
+There is no other generator on this shelf, so if a scene needs a table, it is one of those.
 
 ## Links
 
@@ -24,4 +24,4 @@ There is no other generator.
 
 ## GM Notes
 
-This section stays a pointer. A later note must not write a random table to fill it.
+This section stays a pointer, so a later note must not write a random table here to fill the page.
