@@ -433,13 +433,13 @@
       "handoffPath": "handoffs/factions-gov-powers.md",
       "startedAt": "2026-11-11T06:02:13.479Z",
       "finishedAt": "2026-11-11T06:19:43.409Z",
-      "lastUpdate": "2026-11-11T06:19:43.409Z",
+      "lastUpdate": "2026-11-11T06:19:44.506Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "factions-guilds",
@@ -648,12 +648,12 @@
       "agentId": "bc-fa841d68-8a8e-4e2f-8e05-6a55d0ed8c1b",
       "runId": "run-528de6b7-7830-4bc3-9975-2a37022537e8",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/secrets.md",
       "startedAt": "2026-11-11T06:03:02.951Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:03:05.213Z",
+      "finishedAt": "2026-11-11T06:19:44.569Z",
+      "lastUpdate": "2026-11-11T06:19:44.570Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1573,6 +1573,10 @@
     {
       "at": "2026-11-11T06:19:25.254Z",
       "message": "factions-edges: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:44.507Z",
+      "message": "factions-gov-powers: verification self-reported (not-verified)"
     }
   ]
 }
