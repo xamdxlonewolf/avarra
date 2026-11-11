@@ -257,13 +257,13 @@
       "handoffPath": "handoffs/cultures-daily.md",
       "startedAt": "2026-11-11T06:01:42.568Z",
       "finishedAt": "2026-11-11T06:20:01.421Z",
-      "lastUpdate": "2026-11-11T06:20:01.421Z",
+      "lastUpdate": "2026-11-11T06:20:02.784Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "settlements-cities",
@@ -516,12 +516,12 @@
       "agentId": "bc-bb5944ee-4314-4381-9e9b-89f1a2aec176",
       "runId": "run-6a547a58-87bb-4715-9692-f29a81a3e206",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/religion-practice.md",
       "startedAt": "2026-11-11T06:02:43.132Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:45.648Z",
+      "finishedAt": "2026-11-11T06:20:10.981Z",
+      "lastUpdate": "2026-11-11T06:20:10.981Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1593,6 +1593,10 @@
     {
       "at": "2026-11-11T06:19:54.709Z",
       "message": "world-geography: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:20:02.785Z",
+      "message": "cultures-daily: verification self-reported (not-verified)"
     }
   ]
 }
