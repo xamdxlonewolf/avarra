@@ -59,13 +59,13 @@
       "handoffPath": "handoffs/world-geography.md",
       "startedAt": "2026-11-11T06:00:54.530Z",
       "finishedAt": "2026-11-11T06:19:53.521Z",
-      "lastUpdate": "2026-11-11T06:19:53.521Z",
+      "lastUpdate": "2026-11-11T06:19:54.708Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "world-climate",
@@ -252,12 +252,12 @@
       "agentId": "bc-f13a669d-b6ad-4e39-abb4-e0125baaa9cc",
       "runId": "run-a4b378d9-c71b-468a-8007-aeb00b3ae1d1",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/cultures-daily.md",
       "startedAt": "2026-11-11T06:01:42.568Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:46.499Z",
+      "finishedAt": "2026-11-11T06:20:01.421Z",
+      "lastUpdate": "2026-11-11T06:20:01.421Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1589,6 +1589,10 @@
     {
       "at": "2026-11-11T06:19:50.946Z",
       "message": "settlements-sites: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:54.709Z",
+      "message": "world-geography: verification self-reported (not-verified)"
     }
   ]
 }
