@@ -98,12 +98,12 @@
       "agentId": "bc-b69c4001-fafe-4c70-b022-5740a33e2aad",
       "runId": "run-2b4b509a-5d1b-452a-aa7d-aecc5b12f326",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/world-life.md",
       "startedAt": "2026-11-11T06:01:03.883Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:13.433Z",
+      "finishedAt": "2026-11-11T06:20:59.721Z",
+      "lastUpdate": "2026-11-11T06:20:59.721Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -543,13 +543,13 @@
       "handoffPath": "handoffs/creatures-conditions.md",
       "startedAt": "2026-11-11T06:02:45.913Z",
       "finishedAt": "2026-11-11T06:20:42.788Z",
-      "lastUpdate": "2026-11-11T06:20:42.788Z",
+      "lastUpdate": "2026-11-11T06:20:44.012Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "creatures-rest",
@@ -1605,6 +1605,10 @@
     {
       "at": "2026-11-11T06:20:32.860Z",
       "message": "cultures-law: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:20:44.013Z",
+      "message": "creatures-conditions: verification self-reported (not-verified)"
     }
   ]
 }
