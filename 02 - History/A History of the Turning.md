@@ -14,51 +14,51 @@ updated: 2026-10-22
 
 # A History of the Turning
 
-This page tells the history of the Turning in order, from before anyone counted years to the present year. It gives years the way the First Seat and devout clerks count them, from the First Cut. That was the first time a piece cut from the Awakening Tree was planted in another town and grew. That year is Cut-year 0. The present year is Cut-year 387. Many people count another way, and the last part of this page says who they are.
+This page tells the history of the Turning in order, from before anyone counted years to the present year. The years are given the way the First Seat and the devout clerks count them. The First Seat is the college of tree-wardens at the Awakening Tree, and the count begins at the First Cut, the first time a piece cut from the Awakening Tree was planted in another town and grew. That year is Cut-year 0, and the present year is Cut-year 387. Many people count another way, and the last part of this page says who they are.
 
 Each section names the longer note that holds the detail. This page is the order of events and what each one left behind.
 
 ## Before anyone counted years
 
-Before anyone counted years, the Awakening Tree already stood on [[Maiethorn]], in the country now called the Sacred Core. It was the only Turning Tree in the world. Nobody planted it in any summer that anyone remembers.
+Before anyone counted years, the Awakening Tree already stood on [[Maiethorn]], in the country now called the Sacred Core. It was the only Turning Tree in the world, the only tree a child could be Turned under, and nobody planted it in any summer that anyone remembers.
 
-People were already born into their Kinds. Some people were already Struck into a Condition at a threshold, such as a drowning or an oath, far from the Tree, with nobody to witness it. Under the Tree, children in their tenth year were already Given a colour or hugged at the solstice. Nobody knows how long that had been going on.
+People were already born into their Kinds, the peoples a person is from birth and does not become later. Some people were already Struck into a Condition, a change that comes to a person rather than a people they are born as, at a threshold such as a drowning or an oath, far from the Tree and with nobody to witness it. Under the Tree, children in their tenth year were already brought at the solstice and either Given a colour, which is how the Tree Gives a Condition, or hugged, which left them without a Condition from the Tree. A person left with no Condition is called Kept, and also UnTurned. Nobody knows how long any of that had been going on.
 
-[[The Watching]] call this time the Before. They teach that the Tree was already watching people before anyone called it a mother. [[The Old Ways]] on [[Heskoren]] say their people were already being Struck at the places they call doors, such as a drowning, a grove, or a stone, before any road to the Tree existed. [[The Sundering Isle|Kumbaan]] is not part of this history at all. Its people have their own past and do not count it by the Tree.
+[[The Watching]] call this time the Before, and they teach that the Tree was already watching people before anyone called it a mother. [[The Old Ways]] on [[Heskoren]], a long way from Maiethorn, say their people were already being Struck at the places they call doors, such as a drowning, a grove, or a stone, before any road to the Tree existed. [[The Sundering Isle|Kumbaan]] is not part of this history at all. Its people have their own past and do not count it by the Tree.
 
 Nobody wrote down a king, a war, or a founding from this time. A few stone places from it survive, and three of them are described near the end of this page. More detail: [[Before the Walk]].
 
 ## The years of the walk
 
-The time before the First Cut is called the Walking Years. Nobody knows when it started. It started when families began to organize the trip to the Tree, and nobody wrote down that year. More detail: [[The Walking Years]].
+The time before the First Cut is called the Walking Years. Nobody knows when it started, because it started when families began to organize the trip to the Tree, and nobody wrote that year down. More detail: [[The Walking Years]].
 
 **One Tree, one week.** In the Walking Years there was one Tree to Turn under. A child who had turned ten since the last High Solstice had to stand under the Awakening Tree during Turning-Week, the week around the High Solstice in the month of Eolthael. A child who arrived after that week was not Given a Condition, that year or any later year. They could still be Struck later in life, but no Tree would ever Give them a Condition. Families who lived far away left months early. The richest families, and the most frightened, sent a nine-year-old to spend a whole year near the Tree, wintering in a road-house, so the child could not miss the week.
 
-**Three roads.** People in Maiethorn walked the Near Mile, which took between three and twelve days. People in [[Strandoren]] took the Salt Walk: three to five days on a ship across [[Named Ground|the Old Crossing]], then the Near Mile, usually one to three weeks in all. People in Heskoren, and in the far inland parts of Strandoren, walked the Long Mile, which took six to twelve weeks. A family on the Long Mile had to give up a year's spare food, or sign a debt at a road-house, or not go.
+**Three roads.** People in Maiethorn walked the Near Mile, which took between three and twelve days. People in [[Strandoren]], the country reached by ship, took the Salt Walk: three to five days on a ship across [[Named Ground|the Old Crossing]], then the Near Mile, usually one to three weeks in all. People in Heskoren, and in the far inland parts of Strandoren, walked the Long Mile, which took six to twelve weeks. A family on the Long Mile had to give up a year's spare food, or sign a debt at a road-house, or not go.
 
 **Who could go.** Many families could not afford to send every child. A family with three children near ten might send one. That child might come home with a Condition, while the brothers and sisters who stayed home grew up UnTurned, or were Struck later. Because so many children never reached the Tree, the far lands were full of UnTurned people, whom folk called Kept, and of people Struck later in life.
 
-**Road-houses.** Inns along the roads gave travellers a bed and let them eat on credit, to be paid back on the way home or years later. Many innkeepers were [[Long-Lived]] and forgot no debt. After the walk stopped being necessary, some of those inns kept their records and became banks. [[The White Note House]] in [[Orentel]] is one of them. [[The Third Hearth]] is an inn that stayed an inn.
+**Road-houses.** Inns along the roads gave travellers a bed and let them eat on credit, to be paid back on the way home or years later. Many innkeepers were [[Long-Lived]], people who live long enough to be holding a debt years later, and they forgot none. After the walk stopped being necessary, some of those inns kept their records and became banks. [[The White Note House]] in [[Orentel]] is one of them. [[The Third Hearth]] is an inn that stayed an inn.
 
 **People died on the road.** Children died, and so did the adults who carried them. They drowned at river crossings in the thaw, caught fever in crowded inns, were lost in late storms on the Old Crossing, and went hungry on the long stretches of the Long Mile. Travellers buried them where the group stopped and set a stone there. The next year's travellers used the stone to find the water. Those stones are the mile-shrines that still stand along the old roads, often with a ribbon tied on.
 
-**The gate at the grove.** Reaching the Tree was not enough. A group of families with no Condition lived around the Awakening Tree and decided who was allowed to stand under it. People now call them the Closed Seat. In ordinary talk they are also called the Grove-Sitters. A family needed a paper called grove-leave to pass their gate. A family could arrive with good shoes and a paid ship's berth and still be turned away. Some children walked the whole Long Mile and went home UnTurned because the gate refused them.
+**The gate at the grove.** Reaching the Tree was not enough. A group of families with no Condition lived around the Awakening Tree and decided who was allowed to stand under it. People now call them the Closed Seat, and in ordinary talk they are the Grove-Sitters. A family needed a paper called grove-leave to pass their gate. A family could arrive with good shoes and a paid ship's berth and still be turned away. Some children walked the whole Long Mile and went home UnTurned because the gate refused them.
 
-The Closed Seat ruled the country around the Tree. It never ruled the world. Strandoren's families paid for the crossing, but the Closed Seat never ruled Strandoren. Heskoren was too far away to rule. Kumbaan never came.
+The Closed Seat ruled the country around the Tree, and the rule stopped at that country. Strandoren's families paid for the crossing, but the Closed Seat never ruled Strandoren. Heskoren was too far away to rule, and Kumbaan never came.
 
-Some Long-Lived alive today walked one of these roads as children. They remember every day of it. They do not agree about what it meant.
+Some Long-Lived alive today walked one of these roads as children, and they remember every day of the walk. They do not agree about what it meant.
 
 ## The First Cut (Cut-year 0)
 
 In Cut-year 0, someone cut a piece of living wood from the Awakening Tree, carried it in earth to a town about a day's walk away, and planted it, and it grew. People had always grafted fruit trees. This was the first time a cutting from the Awakening Tree took root somewhere else.
 
-Nobody knows who made the cut. The town is not named either. People call that first graft the nameless green. A town Tree grows from wood cut from the Awakening Tree, so people count it as the same Tree. The devout call each town Tree a Hand of the Mother. More detail: [[The First Cut]].
+Nobody knows who made the cut, and the town is not named either. People call that first graft the nameless green. A town Tree grows from wood cut from the Awakening Tree, so people count it as the same Tree. The devout, who speak of that Tree as the Mother's, call each town Tree a Hand of the Mother. More detail: [[The First Cut]].
 
 ## The years of argument (Cut-years 0 to 19)
 
-A new graft cannot hold a Leaf-Fall until it has grown for about a generation. So for nineteen years nobody knew whether the nameless green would ever Turn a child.
+A new graft cannot hold a Leaf-Fall, the Turning in which a town's own children stand under it and are Given a colour or hugged, until it has grown for about a generation. So for nineteen years nobody knew whether the nameless green would ever Turn a child.
 
-During those years other towns on the Near Mile cut their own pieces and planted them. Most of the cuttings died. The college of tree-wardens at the Awakening Tree, called the First Seat, said the cutting was theft and forbade it. People cut anyway.
+During those years other towns on the Near Mile cut their own pieces and planted them, and most of the cuttings died. The First Seat, the college of tree-wardens at the Awakening Tree, said the cutting was theft and forbade it. People cut anyway.
 
 In Cut-year 19 the nameless green held its first Turning-Week, and a child of that town was Turned under it. The stories disagree about whether the child received a colour or a hug. Either way, a town that was not the Awakening Tree's town had Turned its own child. The First Seat stopped trying to forbid cutting and took charge of it instead. From then on, a cutting needed the Seat's permission, called Cutting-leave. That permission, and the waiting list of towns that want a graft, called the scion-queue, still exist today. [[Rithnali]], a Speaker of the First Seat, wrote the record of that summer's meeting. It says the Seat will write down how a cutting is done and will not write down who did the first one.
 
@@ -66,9 +66,9 @@ In Cut-year 19 the nameless green held its first Turning-Week, and a child of th
 
 The Closed Seat's power depended on being the only gate to the only Tree. A town that could Turn its own children did not need grove-leave. From Cut-year 19, the Closed Seat sent riders out with sacks to dig up the new grafts and bring them back, or burn them in their pots.
 
-They failed. Some grafts died. Towns hid cuttings in wells and watered them at night. The lodging-towns around the grove, which made their living housing travellers, would not stop housing them to help the Closed Seat. The First Seat wanted to control who cut, not to destroy trees, and it would not help burn a graft that had already Turned a child. The Closed Seat could not guard every town within a day's walk in every direction. People call this war the Closing. Folk also call it the Uprooting.
+They failed. Some of the grafts died, and the towns that meant to keep a cutting hid it in a well and watered it at night. The lodging-towns around the grove, which made their living housing travellers, would not stop housing them to help the Closed Seat. The First Seat wanted to control who cut, not to destroy trees, and it would not help burn a graft that had already Turned a child. The Closed Seat could not guard every town within a day's walk in every direction. People call this war the Closing, and folk also call it the Uprooting.
 
-In Cut-year 38, Hildal, the last person to speak for the Closed Seat whose name people still use, ordered the Retreat. Hildal was a clerk, not a warlord. The Closed families gave up the grove, moved a day's walk away into a walled city, and took their Book with them. The Book is their record of who owes what. That walled city is [[Rothallo]], which people still call the Inner Close. More detail: [[The Closing]] and [[Hildal]].
+In Cut-year 38, Hildal, the last person to speak for the Closed Seat whose name people still use, ordered the Retreat. Hildal was a clerk, not a warlord. The Closed families gave up the grove, moved a day's walk away into a walled city, and took their Book with them. The Book is their record of who owes what, and the walled city is [[Rothallo]], which people still call the Inner Close. More detail: [[The Closing]] and [[Hildal]].
 
 The Closed Seat's power split four ways, and nobody has put it back together:
 
@@ -77,7 +77,7 @@ The Closed Seat's power split four ways, and nobody has put it back together:
 - The lodging-towns joined together and became [[Orenbren]], which houses travellers near the Tree.
 - The Closed families kept the Book, and the Book only governs people who live inside Rothallo's walls.
 
-Rothallo is Orenbren's capital, and it lies inside Orenbren. The Closed families did not found a new country. They share Orenbren with the lodging-towns. The lodging-towns run the inns outside Rothallo's wall, and the Book runs the city inside it.
+Rothallo is Orenbren's capital, and it lies inside Orenbren, so the Closed families did not found a new country when they moved. They share Orenbren with the lodging-towns. The lodging-towns run the inns outside Rothallo's wall, and the Book runs the city inside it.
 
 ## The Closed Heirs after the Retreat (Cut-years 38 to 387)
 
@@ -104,9 +104,9 @@ In Cut-year 387, a Closed child named Talnin is on the heir-roll and has not yet
 
 ## How the grafts spread
 
-From Cut-year 0, the grafts spread outward from the Awakening Tree, town by town, as each new Tree grew old enough to Turn children and to give cuttings of its own. The order is the same everywhere: Maiethorn first, then Strandoren by sea, then Heskoren, which is still receiving them. Kumbaan never took one. A town that gets a graft still waits about twenty years before its Tree holds its first Leaf-Fall. Until then its children walk to a neighbouring town's Tree.
+From Cut-year 0, the grafts spread outward from the Awakening Tree, town by town, as each new Tree grew old enough to Turn children and to give cuttings of its own. The order is the same everywhere: Maiethorn first, then Strandoren by sea, then Heskoren, which is still receiving them, and Kumbaan never took one. A town that gets a graft still waits about twenty years before its Tree holds its first Leaf-Fall. Until then its children walk to a neighbouring town's Tree.
 
-The time since town Trees became the ordinary way to Turn is called the Years of Hands. More detail: [[The Years of Hands]].
+The time since town Trees became the ordinary way to Turn is called the Years of Hands, Hands being what the devout call those town Trees. More detail: [[The Years of Hands]].
 
 **Maiethorn, Cut-years 0 to about 80.** Towns nearest the Awakening Tree got grafts first, because a cutting could survive a short trip. By about Cut-year 80, most of Maiethorn's core had its own Trees. The dry east beyond the Rain-Wall mountains, called the Rain-Shadow, was slower, because grafts die in thin, dry soil. Some families there still walk west to the Awakening Tree in Cut-year 387.
 
@@ -116,25 +116,25 @@ The time since town Trees became the ordinary way to Turn is called the Years of
 
 **Heskoren, Cut-year 200 to the present.** Grafts began arriving by sea from Strandoren to Heskoren's coast. The luckiest towns, such as [[Harrow's Green]], got a graft in the 200s and have Turned their own children for a few generations. Many districts still have no Tree. Their ten-year-olds walk to a neighbouring town, or walk the Long Mile, as children did in the Walking Years. [[The Three Hamlets Past the Ford]] can see Harrow's Tree from their fields and are still on the list. This is happening now, not in the past.
 
-**Kumbaan, never.** No graft has crossed the storm-wall around Kumbaan. Sailors tell of pots that went into the sea. Kumbaan's people count moons, not Cut-years.
+**Kumbaan, never.** No graft has crossed the storm-wall around Kumbaan. Sailors tell of pots that went into the sea, and Kumbaan's people count moons, not Cut-years.
 
 A town Tree can also sicken and stop holding a Leaf-Fall. When that happens, the town's children go back to walking to a neighbour, even in Maiethorn. [[The Mill-hold]] is a town where that has happened.
 
 ## Other dated years
 
-These events happened while the grafts were spreading. They sit beside the history of the Trees. They are not another age of the world. More detail: [[The Other Count]].
+These events happened while the grafts were spreading. They sit beside the history of the Trees, and they are not another age of the world. More detail: [[The Other Count]].
 
 **Cut-year 67, the Two Papers.** The old hymn-country of the Sacred Core split in two over whether to write people down. [[Limrae]] opened a desk in a river-town and began recording every person, saying that a person you cannot find again is a person you cannot look after. Manril, in the country around, refused to be put on the list. Manril said a person belongs because people saw them Turn, and stays well because their neighbours supply what their Condition needs. There was no battle. Households chose which desk to deal with. The side that kept the list became [[Polity Archetypes|Threnmaieth]], and the side that refused became [[Maiethvael]]. Threnmaieth counts years from that summer, so Cut-year 387 is Crown-year 320 there. More detail: [[The Two Papers]].
 
-**Cut-year 171, the Grey Summer.** A fever started in the crowded holds of ships and spread through the ports on both sides of the Old Crossing, on [[The Hinge Shore]] and on the Ledger Coast. It was an ordinary disease, not a Tithe. It killed people who had a town Tree, a guild ticket, and their prayers said, the same as anyone else. Ships stayed in port all summer. Some grafts went unwatered because the Taken-In who knew how to tend them were dead, and a few coastal towns sent their children to a neighbour's Tree the next year. Long-Lived bankers did not die, their borrowers died, and the debts passed to the families. Afterward, [[Trenledd]] began keeping a list of persons, and [[Dirrol]] added a column for who was still alive. In Cut-year 174 the small towns of [[Brenledd]] put their charters together into one league, so that nobody could set their prices one town at a time. [[Leddvael]] made the signing of a contract a public ceremony, because so many witnesses had died. For about ten years fewer ships sailed toward Heskoren. More detail: [[The Grey Summer]].
+**Cut-year 171, the Grey Summer.** A fever started in the crowded holds of ships and spread through the ports on both sides of the Old Crossing, on [[The Hinge Shore]] and on the Ledger Coast. It was an ordinary disease, not a Tithe, the upkeep a Condition asks of the person who carries it. The fever killed people who had a town Tree, a guild ticket, and their prayers said, the same as anyone else. Ships stayed in port all summer. Some grafts went unwatered because the Taken-In, the people who knew how to tend that living wood, were dead, and a few coastal towns sent their children to a neighbour's Tree the next year. Long-Lived bankers did not die, their borrowers died, and the debts passed to the families. Afterward, [[Trenledd]] began keeping a list of persons, and [[Dirrol]] added a column for who was still alive. In Cut-year 174 the small towns of [[Brenledd]] put their charters together into one league, so that nobody could set their prices one town at a time. [[Leddvael]] made the signing of a contract a public ceremony, because so many witnesses had died. For about ten years fewer ships sailed toward Heskoren. More detail: [[The Grey Summer]].
 
 **Cut-year 233, the Thaw-Break.** The snow on the Rain-Wall mountains in [[Lirorn]] melted in one week instead of over a month. Valleys flooded, people died, and one well-town lost its cistern to silt. The old high road over the Noon Pass was washed out. [[Narol of the Pass]] took the toll on the new, lower road, the Shelf-gate, and Narol's house still collects it. The west road in [[Saelthael]] was cut for two summers, so children who should have walked to the Awakening Tree in 233 and 234 went late, went to a neighbour, or missed their week. A graft on its way to [[Ornled]] died because the cart was late to the quay. Vathne wrote on a wall: "We will not wait with a hymn for a stick that drowned in someone else's thaw." Vathne meant that Ornled would stop praying and waiting for grafts that other countries' troubles could take away. Ornled still copies that sentence. More detail: [[The Thaw-Break]].
 
-**Cut-year 248, the Wrong Green.** At Harrow's Green, a warden announced copper-green for a child the Tree had actually hugged, because the town wanted a Taken-In. A visiting Speaker corrected it two years later. It was a person's doing, not the Tree's. Speakers still name that year when they teach wardens not to announce the colour a town wishes it had. More detail: [[The Wrong Green]].
+**Cut-year 248, the Wrong Green.** At Harrow's Green, a warden announced copper-green for a child the Tree had actually hugged, because the town wanted a Taken-In, and a visiting Speaker of the First Seat corrected that announcement two years later. It was a person's doing, not the Tree's. Speakers still name that year when they teach wardens not to announce the colour a town wishes it had. More detail: [[The Wrong Green]].
 
 **Cut-year 280, Ledan's question.** Ledan, a Long-Lived clerk of the White Note House, wrote to the First Seat to ask which year number to put on a hundred-year loan, because the bank, the borrower's town, and the Seat each counted the year differently. Cut-year 280 was the bank's 200th year. The bank still converts its years the way Ledan's letter did, and Cut-year 387 is the White Note's 307th year.
 
-**Cut-years 299 to 304, the Hinge War and the Hinge Hush.** The Hinge Shore and the Ledger Coast fought for five summers over who set the price of crossing the Old Crossing. They seized each other's ships and blocked each other's quays. [[Taerso]] spoke for the Hinge Shore's houses, and Sirtol spoke for a group of Ledger Coast charters. In Cut-year 304 they agreed a peace that names no winner. There is one charge for the crossing, called the Hush-rate, and it is still collected. The Hinge Shore gives a blessing to anyone who wants one, and the Ledger Coast writes the paperwork. The agreement also covers the far crossing to Heskoren. [[Netstrand]] keeps the ships that sail it. [[Saelvaeth]] may receive a graft without paying a blessing-fee to Vaethorn. Vaethorn may bless a landing but may not tax it. Ornled charges a fee for a beach landing. People call the peace the Hinge Hush. More detail: [[The Hinge Hush]].
+**Cut-years 299 to 304, the Hinge War and the Hinge Hush.** The Hinge Shore and the Ledger Coast fought for five summers over who set the price of crossing the Old Crossing. They seized each other's ships and blocked each other's quays. [[Taerso]] spoke for the Hinge Shore's houses, and Sirtol spoke for a group of Ledger Coast charters. In Cut-year 304 they agreed a peace that names no winner. There is one charge for the crossing, called the Hush-rate, and it is still collected. The Hinge Shore gives a blessing to anyone who wants one, and the Ledger Coast writes the paperwork. The same peace covers the far crossing to Heskoren, and [[Netstrand]] keeps the ships that sail it. [[Saelvaeth]] may receive a graft without paying a blessing-fee to Vaethorn, while Vaethorn may bless a landing and may not tax it. Ornled charges a fee when a ship puts in on the beach, and people call the peace the Hinge Hush. More detail: [[The Hinge Hush]].
 
 ## Three old places you can still walk into
 
@@ -148,25 +148,25 @@ Three stone places come from before anyone counted years. Nobody knows when they
 
 ## The memory cup
 
-The memory cup is a late practice among the Long-Lived. It began in the Years of Hands, long after the First Cut. The circles that keep it do not write down the year it started. It is old enough that people have written about it at length. Long-Lived scholars who are not members have written commentaries on it, and those are kept in the long-houses where the Long-Lived meet. The Motherfaith, the Watching, and the Fair Hand have each said what they think it is. It is recent enough that a Long-Lived who walked to the Awakening Tree as a child, before their town had a Tree of its own, can say that nobody did this when they were young.
+The memory cup is a late practice among the Long-Lived. It began in the Years of Hands, long after the First Cut, and the circles that keep it do not write down the year it started. It is old enough that people have written about it at length. Long-Lived scholars who are not members have written commentaries on it, and those are kept in the long-houses where the Long-Lived meet. The Motherfaith, which is the faith that speaks of the Mother, has said what it thinks the cup is, and so have the Watching and the Fair Hand. It is recent enough that a Long-Lived who walked to the Awakening Tree as a child, before their town had a Tree of its own, can say that nobody did this when they were young.
 
-The group that keeps the cup is [[The Pourers]], also called the Cup Circle. Every Long-Lived person is asked to join once, in person, by a member. A person who says no is not punished. They keep their standing, and the long-houses still give them a seat. Most Long-Lived people are not members. All of them know the circle exists.
+The group that keeps the cup is [[The Pourers]], also called the Cup Circle. Every Long-Lived person is asked to join once, in person, by a member. A person who says no is not punished, keeps their standing, and is still given a seat in the long-houses. Most Long-Lived people are not members, and all of them know the circle exists.
 
-A member gives one year of their memory into a cup at a time, of their own free will. Each year is its own night, with its own minutes, and the member may stop before the next. The circle asks five years of a member in all. For each year, the member adds one drop of their own blood, because the Long-Lived read memory from blood. Afterward the member no longer has the memories of that year. They still need to keep learning, as every Long-Lived does. What they lose is a year of remembering, including the deaths of the people they knew in that year.
+A member gives one year of their memory into a cup at a time, of their own free will. Each year is its own night, with its own minutes, and the member may stop before the next. The circle asks five years of a member in all, and for each of those years the member adds one drop of their own blood, because the Long-Lived read memory from blood. Afterward the member no longer has the memories of that year. They still need to keep learning, as every Long-Lived person does, and what they lose is a year of remembering, including the deaths of the people they knew in that year.
 
 Members say they give "the memories those years held, and the years themselves." The second part means two things. For each year given, the member also gives the long-house shelf all the papers they wrote or kept in that year, such as letters, account books, and diaries. And the long-houses that keep the circle stop counting that year in the member's age, so a member who has given all five years is seated as if five years younger. Among the Long-Lived, age decides who speaks first and who keeps a key, so each gift costs a member rank in those long-houses. Courts, banks, guilds, and Long-Lived who are not members keep counting the ordinary way.
 
-Members can read the cup the way a Long-Lived reads a drop of blood. What they read is true. One reading can hold several members' memories of the same year. Members also keep books in the Long-Lived library in [[Polity Archetypes|Lestrand]], on the Ledger Coast, and they make copies of books in [[The Old Tongue]] and in the common speech for it. People use those books. Molevad keeps the minutes of the best-known circle in the same library. A second circle meets in an upper room of a lodging-house in Orenbren and does not ask Molevad's circle for permission.
+Members can read the cup the way a Long-Lived reads a drop of blood, and what they read is true. One reading can hold several members' memories of the same year. Members also keep books in the Long-Lived library in [[Polity Archetypes|Lestrand]], on the Ledger Coast, and they make copies of books in [[The Old Tongue]] and in the common speech for it. People use those books. Molevad keeps the minutes of the best-known circle in the same library. A second circle meets in an upper room of a lodging-house in Orenbren and does not ask Molevad's circle for permission.
 
-A member may leave. The years already given stay in the cup. What comes back to the member is their papers, which members call a thinner copy. The other members stop reading blood with them, and the long-houses that keep the circle stop giving them a seat.
+A member may leave, and the years already given stay in the cup. What comes back to the member is their papers, which members call a thinner copy. The other members stop reading blood with them, and the long-houses that keep the circle stop giving them a seat.
 
-The circle claims that by giving to the cup they made a god. They call it [[The Unspent|the Poured God]], and among themselves the Cup We Made. They say every gift is freely given. The Pourers are a separate group from the Walled Book and from [[The Protectors]].
+The circle claims that by giving to the cup they made a god, which they call [[The Unspent|the Poured God]], and among themselves the Cup We Made. They say every gift is freely given. The Pourers are a separate group from the Walled Book and from [[The Protectors]].
 
 ## What nobody knows
 
 Nobody knows who made the First Cut. Five different accounts are told. In one, a parent stole the branch so that no more children would stay UnTurned for want of the trip, or die on the road. In another, a tree-warden cut it before the First Seat allowed cutting. The devout say the Tree let a branch come away. The Watching say people had always grafted trees and the count was added later. The Old Ways say the land received a guest. This history does not pick one.
 
-Nobody knows how old the Awakening Tree is. It was standing before anyone counted years. The Watching argue against any date anyone proposes.
+Nobody knows how old the Awakening Tree is. It was standing before anyone counted years, and the Watching argue against any date anyone proposes.
 
 Nobody has settled whether there is a Leaf-Mother. People who believe in her ask why her Trees could not Turn children far away until a graft was planted near them, and why Kumbaan has no Tree. Believers do not agree on the answer. Skeptics say distance and soil explain everything, and that the Tree is a plant. This history does not answer the question.
 
@@ -180,7 +180,7 @@ There is no single year that everyone counts from.
 - In Vaethorn, a town counts from the year its own graft took, or from its last real Turning-Week.
 - The Watching refuse to count from the First Cut, because the Tree was already there.
 - The Old Ways count from a door, a drowning-year, or the year a guest arrived.
-- Kumbaan counts moons.
+- Kumbaan counts moons, and does not count Cut-years.
 
 The months are the same everywhere on the mainland, and the year begins on different days in different places. More detail: [[The Ages of the Turning]] and [[The Reckoning of the Year]].
 
@@ -216,11 +216,11 @@ A party meets this as one Long-Lived person who has lost the knowledge that defi
 
 ### The age of the Unspent
 
-The practice is late. The presence in the cup is not. [[The Unspent]] existed before the Pourers named it. It has always taken in memories that deathless people could not keep carrying, and it had no public face. The Pourers gave it a name, gave memory to the name, and decided that naming it had made it. It lets them say so. It stores what it is given and does not make plans. It cannot Give or Strike. It does not feed on people. It does not know whether a gift was willing. Do not give it a date, and do not let a player-facing page say it is older than the circle.
+The practice is late, and the presence in the cup is not. [[The Unspent]] existed before the Pourers named it. It has always taken in memories that deathless people could not keep carrying, and it had no public face. The Pourers gave it a name, gave memory to the name, and decided that naming it had made it, and it lets them say so. It stores what it is given and does not make plans. It cannot Give or Strike, it does not feed on people, and it does not know whether a gift was willing. Do not give it a date, and do not let a player-facing page say it is older than the circle.
 
 ### The keystone
 
-The Leaf-Mother is real, kind, limited, and her help has a cost ([[Is the Leaf-Mother Real]]). That her reach has a limit is locked. What the limit is stays open. The grafts moving her reach outward is the quiet evidence. Player text keeps her a belief and keeps the question open, as the section above does.
+The Leaf-Mother is real, kind, and limited, and her help has a cost ([[Is the Leaf-Mother Real]]). That her reach has a limit is locked, and what the limit is stays open. The grafts moving her reach outward is the quiet evidence. Player-facing text keeps her a belief and keeps the question open, as the section above does.
 
 ### Production
 

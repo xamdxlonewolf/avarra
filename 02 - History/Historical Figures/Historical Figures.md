@@ -14,11 +14,7 @@ updated: 2026-10-22
 
 # Historical Figures
 
-The people the years still name live under `08 - People/Historical Figures`. This folder points. It does not keep a second copy.
-
-[[Hildal]] · [[Limrae]] · [[Dirrol]] · [[Narol of the Pass]] · [[Taerso]] · [[Rithnali]] · [[Monseoth]] · [[Sedrad]]
-
-What a street still says about them is [[Heroes and Villains]]. The events stay in `02 - History/Events`.
+The people the years still name do not live in this folder. Their notes are kept under `08 - People/Historical Figures`, and this page points there so the same life is not written out a second time. The names are [[Hildal]], [[Limrae]], [[Dirrol]], [[Narol of the Pass]], [[Taerso]], [[Rithnali]], [[Monseoth]], and [[Sedrad]]. What a street still says about them is [[Heroes and Villains]]. The events they belong to stay in `02 - History/Events`.
 
 ## Links
 
