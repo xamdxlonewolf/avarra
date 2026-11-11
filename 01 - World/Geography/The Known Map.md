@@ -14,55 +14,53 @@ updated: 2026-10-22
 
 # The Known Map
 
-> **The labelled picture.** East is the old heart. West is the wave's front, then the wall. Names: [[Named Ground]]. The idea the picture is *of*: [[The World Frame]].
+> **The labelled picture.** On the drawing, east is the old heart, where the Trees have stood longest and thickest. West of that heart is the front of the wave of grafts, and past that front is the wall. The names are [[Named Ground]]. The idea the picture is of, the gradient of how far the Trees have reached, is [[The World Frame]].
 
-> Physical names, power seats, climate bands, and travel relationships are on the drawing. Coastlines are schematic, not a survey.
+> The drawing carries the physical names, the seats of the powers, the climate bands, and the relationships of travel. The coastlines are schematic, not a survey.
 
-Reading **west → east** (left to right on the drawing) is the reach-gradient run *backward*: storm-wall → thin → high → full.
+If you read the drawing from west to east, left to right, you are walking the reach-gradient backward. You start at the storm-wall, where the diagram marks none, pass through thin, then high, and come at last to full.
 
 ```
 Kumbaan  ~storm-wall~  HESKOREN  ==West Water==  STRANDOREN  ==Old Crossing==  MAIETHORN
  (none)                 thin                      high                         full
 ```
 
-The drawing is a labelled schematic: it shows placement and little terrain. Regional sheets for Maiethorn, Strandoren, Heskoren, and Kumbaan, and a world sheet, carry the same four landmasses.
+The drawing is a labelled schematic, showing where things sit and little of the terrain. Regional sheets for Maiethorn, Strandoren, Heskoren, and Kumbaan, together with a world sheet, carry the same four landmasses.
 
 ![[14 - Assets/Maps/The-Turning-Known-Map.svg]]
 
 ## What the drawing shows
 
-- Four landmasses in their fixed relative places.
-- The **Old Crossing**, the **West Water**, the **Rain-Wall**, four rivers, the Noon Pass / Shelf-gate.
-- The fifteen as *regions*, not surveyed borders. [[Rothallo]], still called the Inner Close, as a mark *inside* Orenbren, not a sixteenth colour.
-- The towns and the seats. Capitals, large cities, and important towns are marked. [[Rothallo]] is the mark inside Orenbren. People still say the Inner Close. [[Maiethlir]] and [[Orentel]] stay the marks they were. [[Vaelhesk]] is the land, not a dot.
-- The three pre-Walk leftovers as small marks ([[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]).
+- It shows four landmasses, and their places relative to one another are fixed.
+- It shows the **Old Crossing**, the **West Water**, the **Rain-Wall**, the four rivers, and the Noon Pass and the Shelf-gate.
+- It shows the fifteen powers as regions, not as borders anyone has surveyed. [[Rothallo]], still called the Inner Close, is a mark inside Orenbren, and it is not a sixteenth colour.
+- It shows the towns and the seats. Capitals, large cities, and important towns are marked. [[Rothallo]] is the mark inside Orenbren, and people still say the Inner Close. [[Maiethlir]] and [[Orentel]] stay the marks they already were. [[Vaelhesk]] is the land itself, not a dot standing in for a city.
+- It shows the three pre-Walk leftovers, places left from before the Walking Years, as small marks: [[The Low Wall]], [[The Seeing-Ring]], and [[The Dry Stair]].
 
 ## What the drawing does not show
 
-- A graft on Kumbaan.
-- A Kind-nation colour.
-- The First Seat as a capital.
-- Harrow's or Ornsael as a capital.
-- A dated Tree.
+It does not show a graft on Kumbaan, and it does not show a Kind-nation colour, a tint that would turn one born people into a country of their own. It does not show the First Seat as a capital, it does not show Harrow's Green or Ornsael as a capital, and it does not show a date written on a Tree.
 
 ## How to walk it
 
-Travel times: [[Named Ground#Travel times]]. A day's walk is a mile-shrine. The Salt Walk is the Old Crossing plus the Near Mile. The Long Mile is the West Water plus Heskoren mud.
+The travel times live in [[Named Ground#Travel times]]. A day's walk is the interval a mile-shrine on the old roads already marks. The Salt Walk is the Old Crossing plus the Near Mile, the inland walk to the Awakening Tree. The Long Mile is the West Water plus Heskoren mud.
 
 ## Links
-- [[Named Ground]] · [[The World Frame]] · [[Powers of the Turning]]
-- [[Maiethorn]] · [[Strandoren]] · [[Heskoren]] · [[The Sundering Isle]]
-- [[The Other Count]] · [[The Walking Years]]
-- [[01 - World]] · [[14 - Assets]]
+- The names are [[Named Ground]]. The idea is [[The World Frame]]. The powers marked as regions are [[Powers of the Turning]].
+- The four lands on the sheet are [[Maiethorn]], [[Strandoren]], [[Heskoren]], and [[The Sundering Isle]].
+- The chronicle beside the clocks is [[The Other Count]]. The old walks are [[The Walking Years]].
+- This note sits under [[01 - World]], and the pictures live with [[14 - Assets]].
 
 ## GM Notes
 
-- **Map production.** The SVG is the **labelled schematic** — placement only, light on terrain. The selected label-free paintings live in `14 - Assets/Maps/` ([[The Atlas Sheets]]; Prototype 3). Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey; add names from this schematic and [[Named Ground]] rather than inventing them from visual texture. A 2026-09-01 Heskoren overlay (`Heskoren-Atlas-Labeled.png`) is a table aid on that painting, not a replacement for this schematic. On that sheet, west is left (last capes · Ornled · storm-wall) and the sea on the right is **the West Water** (to Strandoren), matching this drawing. A 2026-09-03 world overlay (`The-Turning-World-Atlas-Labeled.png`) puts the same west-to-east line on the Prototype 3 world master: Kumbaan · storm-wall · Heskoren · West Water · Strandoren · Old Crossing · Maiethorn · Rain-Wall. Extra painted isles stay unnamed.
-- **Story M.4 (2026-10-05).** Capitals, large cities, and important towns were marked on the drawing.
-- **Flipping the compass.** A later campaign may put the gradient on another axis. The relative positions stay.
+**Map production.** The SVG is the labelled schematic. It is placement only, and it is light on terrain. The selected label-free paintings live in `14 - Assets/Maps/`, with [[The Atlas Sheets]] and Prototype 3. Their world sheet is built from the same continent masters and contains the same four landmasses, but a painting is still not a survey. Add names from this schematic and from [[Named Ground]], rather than inventing a name out of visual texture. A 2026-09-01 Heskoren overlay, `Heskoren-Atlas-Labeled.png`, is a table aid laid on that painting, and it is not a replacement for this schematic. On that sheet, west is left: the last capes, Ornled, and the storm-wall. The sea on the right is **the West Water**, the water toward Strandoren, matching this drawing. A 2026-09-03 world overlay, `The-Turning-World-Atlas-Labeled.png`, puts the same west-to-east line on the Prototype 3 world master: Kumbaan, the storm-wall, Heskoren, the West Water, Strandoren, the Old Crossing, Maiethorn, and the Rain-Wall. Extra painted isles stay unnamed.
 
-The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], between [[Sanbreo]] and the square, and not on the ford. The Heskoren overlay and the world overlay now put the dot there. The paintings were not redrawn.
+**Story M.4 (2026-10-05).** Capitals, large cities, and important towns were marked on the drawing in that pass.
 
-[[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square. They were not redrawn to city scale. No capital star. The city plate is the city.
+**Flipping the compass.** A later campaign may put the gradient on another axis. The relative positions stay where they are.
 
-[[Larbril]] is where the west road meets the Well-wash, short of the pass. [[Ornsael]] is farther into the dry, at a well, not the next roof and not the coast. The rain-shadow sheet and the Maiethorn sheet use that same gap. The paintings were not redrawn.
+The schematic is the placement. [[Natai]] sits west of [[Harrow's Green]], between [[Sanbreo]] and the square, and not on the ford. The Heskoren overlay and the world overlay now put the dot there. The paintings were not redrawn to match.
+
+[[Rothallo]] is the capital inside [[Orenbren]]. The regional paintings still show the small walled square, and they were not redrawn up to the scale of a city. There is no capital star. The city plate is the city.
+
+[[Larbril]] is where the west road meets the Well-wash, short of the pass. [[Ornsael]] is farther into the dry country, at a well, and it is not the next roof along and not the coast. The rain-shadow sheet and the Maiethorn sheet use that same gap. The paintings were not redrawn.
