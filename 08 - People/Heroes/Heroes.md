@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # Heroes
 
-Praised, condemned, and still argued share one index: [[Heroes and Villains]]. That note lives beside this folder. The people stay on their own notes.
+Praised, condemned, and still argued are the three ways a street still talks about a person, and they share one index, [[Heroes and Villains]]. That note lives beside this folder, and the people stay on their own notes.
 
 This folder does not split the praised off into a list of their own.
 
@@ -24,4 +24,4 @@ This folder does not split the praised off into a list of their own.
 
 ## GM Notes
 
-Do not write a second heroes index here. Do not add a campaign hero to fill the folder.
+Do not write a second heroes index here, and do not add a campaign hero to fill the folder.

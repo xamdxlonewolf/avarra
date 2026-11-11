@@ -18,9 +18,9 @@ updated: 2026-10-22
 
 # Hildal
 
-> The last person of the Closed Seat that anyone will still name. Clerk of the Retreat. Dead since the walls closed.
+> Hildal is the last person of the Closed Seat that anyone will still name, and they were clerk of the Retreat. They have been dead since the walls closed.
 
-*(HIL-dal.)* The name in the Book is Hildal. **Memory: still argued.**
+*(HIL-dal.)* The name in the Book is Hildal, and the memory of that clerk is **still argued**.
 
 ## At a glance
 
@@ -33,24 +33,24 @@ updated: 2026-10-22
 
 ## Summary
 
-In Cut-year 38 the Closed Seat's rule at the grove was over. Hildal ordered the Retreat. They did not save the grove. They saved a book. The walls that order closed are the [[The Walled Book|Inner Close]]. The war is [[The Closing]]. The knife is still unwritten.
+In Cut-year 38 the Closed Seat's rule at the grove was over. The Closed Seat had been the gate on that grove, and Hildal ordered the Retreat, which is the withdrawal that carried a book behind a wall. They did not save the grove, and what they saved was a book. The walls that order closed are the [[The Walled Book|Inner Close]], and the war those walls come out of is [[The Closing]]. The knife is still unwritten.
 
-They wanted the copy, which had already been seen to Turn, to stop being a fight the gate could not win. The leaf says to carry the Book behind the wall, to rank who owes, and to leave the college on the grove. A gift is a gift. A gift is not a seat. They wrote the house. They left the knife off the page.
+They wanted the copy, which had already been seen to Turn, to stop being a fight the gate could not win. The leaf says to carry the Book behind the wall, to rank who owes, and to leave the college on the grove. The same leaf says that a gift is a gift, and that a gift is not a seat. They wrote the house, and they left the knife off the page.
 
-The Close still calls that stewardship. Folk who hid a slip and kept it still call it a gate that chose a wall. A [[Long-Lived]] who walked as a child in the Closed Seat's years and a Closed Heir who keeps the page will not agree about that summer. Memory is perfect. The meaning is the argument.
+The Close still calls that stewardship of a house. Folk who hid a slip, a cutting of the wood, and kept it, still call it a gate that chose a wall. A [[Long-Lived]] who walked as a child in the Closed Seat's years remembers that summer whole, and a Closed Heir who keeps the page will not agree about it. The memory is perfect. The meaning is the argument.
 
 ## Appearance & Demeanor
 
-Remembered as a hand, not a height. Ink. A leaf. No crown in any telling that has held. People who arrive hoping for a king find a clerk's page and a list of pots the riders did not bring home.
+People remember a hand, not a height: ink, and a leaf, and no crown in any telling that has held. Someone who arrives hoping for a king finds a clerk's page, and a list of pots the riders did not bring home.
 
 ## Role & Relationships
 
-- **[[The Closing]]** — the war. Hildal is the last named person of the Seat in it, not its map.
-- **[[The Walled Book]]** — the remnant. The present heir-roll keeps the Retreat leaf. The living line calls the page housekeeping. This note does not make Hildal their parent.
-- **[[The First Cut]]** — the copy they could not unspeak. They fought the copy. They never received a face for the knife.
-- **[[Orenbren]]** — the beds that would not starve a pilgrim-season to keep the Closed Seat's gate. Outside the wall. Not this clerk's country to sit.
+- **[[The Closing]]** is the war. Hildal is the last named person of the Seat in it, not the map of the war.
+- **[[The Walled Book]]** is the remnant. The present heir-roll keeps the Retreat leaf, and the living line calls that page housekeeping. This note does not make Hildal their parent.
+- **[[The First Cut]]** is the copy they could not unspeak. They fought the copy, and they never received a face for the knife.
+- **[[Orenbren]]** is the beds that would not starve a pilgrim-season to keep the Closed Seat's gate. Those beds sit outside the wall, and they were not this clerk's country to sit.
 
-The college will not write the name on the grove. The Close will not loan the page.
+The college will not write the name on the grove, and the Close will not loan the page.
 
 ## Links
 - [[The Closing]] · [[The Other Count]] · [[The Walled Book]] · [[Orenbren]]
@@ -59,8 +59,8 @@ The college will not write the name on the grove. The Close will not loan the pa
 
 ## GM Notes
 
-- **Memory: still argued.** Past layer only. Dead. Not a present antagonist. Not a villain-king. A clerk who chose a wall over a grove the Closed Seat could no longer hold.
-- **Positional.** Threshold guardian at the end of a gate. The standard they kept (who owes, who sits) became the remnant's constitution because they were the last person the Book would name. They could not put the grove back.
-- **Arc, if you need one.** *Want:* the house saved as rank. *Lie:* closing the door is the same tending the grove was. *Need:* to see that striking heir behind a wall is the Closed Seat's rule, continued. They did not take it. The Book outlived them. Do not give them a redemption in play, or a throne.
+- **Memory: still argued.** This is a past layer only. Hildal is dead, not a present antagonist, and not a villain-king. They were a clerk who chose a wall over a grove the Closed Seat could no longer hold.
+- **Positional.** They stood as the threshold guardian at the end of a gate. The standard they kept, who owes and who sits, became the remnant's constitution because they were the last person the Book would name. They could not put the grove back.
+- **Arc, if you need one.** They wanted the house saved as rank. The lie was that closing the door is the same tending the grove was. What they needed was to see that striking an heir behind a wall is the Closed Seat's rule, continued. They did not take it. The Book outlived them. Do not give them a redemption in play, or a throne.
 - **Do not** name the cutter to explain them. Do not add a house-line. The name the year uses is Hildal. *Closed* on a roster is a rank, not a second name. Do not make the Inner Close a sixteenth power. Do not date the Tree. Do not loan the page to the college to tidy the argument.
-- **The other people of the war stay a class.** One remembered clerk. Not a court.
+- **The other people of the war stay a class.** There is one remembered clerk, and there is not a court.

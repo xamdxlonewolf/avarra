@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # Villains
 
-There is no villains list beside [[Heroes and Villains]]. The condemned and the still argued are already on that index. No campaign villain was written to fill this folder.
+There is no villains list beside [[Heroes and Villains]]. The people a street condemns, and the ones it still argues about, are already on that index, and no campaign villain was written to fill this folder.
 
 ## Links
 
@@ -22,4 +22,4 @@ There is no villains list beside [[Heroes and Villains]]. The condemned and the 
 
 ## GM Notes
 
-Do not split the index. Do not add a present antagonist here.
+Do not split the index, and do not add a present antagonist here.
