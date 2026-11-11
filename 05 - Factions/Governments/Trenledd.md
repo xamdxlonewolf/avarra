@@ -17,33 +17,33 @@ updated: 2026-10-22
 
 # Trenledd
 
-> **The Worn Count.** *(formal *Trenledd*, TREN-ledd · eroded [[The Old Tongue|thren]] "sacred counting" + [[The Old Tongue|ledd]] "to reckon.")* It has little faith, wide reach, and a heavy government: a cold surveillance-state with no faith to sanctify it.
+> **The Worn Count.** *(formal *Trenledd*, TREN-ledd · eroded [[The Old Tongue|thren]] "sacred counting" + [[The Old Tongue|ledd]] "to reckon.")* It has little faith, wide reach, and a heavy government: a cold surveillance of persons, with no faith that would make the surveillance holy.
 
-People say **the Worn Count** and **Count-folk**. Official records write *Trenledd*. They call the list **the roll** — the Ledger Coast's word for a tax roll, here meaning persons.
+People say **the Worn Count** and **Count-folk**, and official records write *Trenledd*. They call the list **the roll**. On the Ledger Coast that word means a tax roll, and here it means persons.
 
 ## Overview (public)
 
-Wealthy [[Strandoren]] interior: mature Trees, dense Given, guilds thick — and a state that **writes people down**. The list began as ticket-and-tax machinery (safety-licences, house-notes, charter-rolls) and forgot to stop at property. There is no hymn that makes it stewardship. There is no Mother to be accounted to. You are on the roll because commerce and hazard-control wanted a name they could find again.
+Trenledd is the wealthy interior of [[Strandoren]], with mature Trees, a dense population of the Given — people the Tree marked — and guilds thick on the ground. Over that wealth sits a state that **writes people down**. The list began as the machinery of tickets and taxes, safety-licences and house-notes and charter-rolls, and it forgot to stop when it reached the edge of property. No hymn calls the list stewardship, and there is no Mother to be accounted to. You are on the roll because commerce and hazard-control wanted a name they could find again.
 
-[[Polity Archetypes|Threnmaieth]] at least claims to keep you hale. Trenledd claims to keep you *findable*. Cutting you off is default, not impiety.
+[[Polity Archetypes|Threnmaieth]] at least claims to keep you hale, whole and looked after, while Trenledd claims to keep you *findable*. Cutting a person off from what they need is the default here, and the state does not treat that cut as impiety, because it keeps no piety the cut could offend.
 
-**Site.** Tree-rich interior (not the deep thin interior — reach is high). It has road-end Tree-towns that got *filed*, and stones in squares with numbers on the back.
+**Site.** The country is Tree-rich interior rather than the deep thin interior where reach fails, and the reach here is high. Road-end Tree-towns got *filed*, and the stones in the squares have numbers on the back.
 
-**Seat.** [[Lunbra]] is the large city on the [[Named Ground|Chart-run]], four to eight days upriver of [[Orentel]], where the roll is kept. It is wealthy, and it shows the money. People go there because a family already has it, or because they want it. Towns and villages through the filed country stay unnamed. Whoever governs Trenledd stays unnamed. [[Vamar]] keeps a column. Vamar is not the ruler.
+**Seat.** [[Lunbra]] is the large city on the [[Named Ground|Chart-run]], the upriver route, four to eight days upriver of [[Orentel]], and the roll is kept there. The city is wealthy, and it shows the money. People go there because a family already has the money, or because they want it. Towns and villages through the filed country stay unnamed, whoever governs Trenledd stays unnamed, and [[Vamar]] keeps a column of the roll without being the ruler.
 
-**How it formed.** Guild-tickets plus deathless memory plus a council that distrusted living witness the way Threnmaieth does, without Threnmaieth's scripture. [[The Grey Summer]] added the column that would not stop: **Dirrol** wrote *who is still alive to be found.* The three pillars work here and are treated as *insufficient* — feeling, word, and memory answer to themselves. A ledger answers to the desk. Evolutionary, not a coup: each crisis added a column.
+**How it formed.** The roll grew from guild-tickets, from deathless memory, the remembering that does not die with a mortal clerk, and from a council that distrusted a living witness the way Threnmaieth does, without Threnmaieth's scripture to bless the distrust. [[The Grey Summer]] added the column that would not stop, and **Dirrol** wrote down who is still alive to be found. The [[Law and Citizenship|three pillars]] work here — feeling, word, and memory — and the state treats them as *insufficient*, because feeling, word, and memory answer to themselves while a ledger answers to the desk. The growth was evolutionary rather than a coup, each crisis adding a column.
 
-**What they remember.** They wanted [[The Hinge Hush]] written as persons. Both shores refused. The Worn Count is a fever's child, not a hymn's. Chronicle: [[The Other Count]].
+**What they remember.** They wanted [[The Hinge Hush]] written as persons, and both shores refused. The Worn Count is a fever's child, the Grey Summer's, and not a hymn's, and the chronicle is [[The Other Count]].
 
 ## Structure & Membership
 
-A crown or council that writes the roll runs it; who sits on it is not named. Licence-guilds as state organs. Recruits not by Kind. The [[Law and Citizenship|Struck]] are pursued to be catalogued because an unwitnessed change is a row that appeared without a clerk.
+A crown or a council writes the roll and runs the state, and the person who sits at the head of it is not named. Licence-guilds work as organs of that state. The state does not recruit by Kind, the ancestry a person is born with. The [[Law and Citizenship|Struck]], people who changed without the Tree's festival, are pursued so they can be catalogued. An unwitnessed change is a row that appeared on the page without a clerk.
 
 ## Goals & Methods
 
-Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that can be shut. When someone objects, its clerks answer with procedure and never with theology.
+The state wants to know who is dangerous, who owes, and who Turned. It furnishes the Tithe, the upkeep a person needs, through channels that can be shut. When someone objects, its clerks answer with procedure, and they never answer with theology.
 
-**Its injustice.** **A census with the halo worn off.** You cannot appeal to piety. You cannot shame them with "the Mother's gifts should not be listed" — they agree, and list you anyway, as cargo and hazard. It is colder than the Tallied Crown.
+**Its injustice.** The harm is **a census with the halo worn off**: a list of persons, and no sacred claim wrapped around it. You cannot appeal to piety when you want off the list, and you cannot shame them by saying the Mother's gifts should not be listed. They agree with the sentence, and they list you anyway, as cargo and as hazard. It is colder than the Tallied Crown, which is what people say when the charters write Threnmaieth.
 
 ## Links
 - [[Powers of the Turning]] · [[Strandoren]] · [[Lunbra]] · [[Polity Archetypes]]
@@ -53,12 +53,12 @@ Know who is dangerous, who owes, who Turned. Furnish Tithe through channels that
 
 ## GM Notes
 
-- Play Trenledd's clerks as arguing procedure. Do not have them argue theology.
-- Do not flesh districts.
-- Do not give them a Threnhael by another name without noticing the difference.
-- Seat is [[Lunbra]]. The ruler stays unnamed. Do not make Vamar, or Dirrol, the ruler. Do not census the filed country.
+Play Trenledd's clerks as people who argue procedure, and do not have them argue theology. Leave the districts unfleshed, and do not give them a Threnhael under another name unless the missing hymn is part of what you are showing. The seat is [[Lunbra]], the ruler stays unnamed, and neither Vamar nor Dirrol becomes that ruler. Do not census the filed country.
 
-- **Colder, not kinder.** Removing the hymn does not make the list care for the people on it.
-- **Etymology tell.** *Thren* → *Tren* is GM-legible. Reserve noticing.
-- **Do not let them be "the Watchful" clone on the wrong continent without the independent-axes proof.** Same high-G as Threnmaieth, opposite theology, same high reach. The pair isolates theology: surveillance with and without sanctification.
-- **Hooks.** Steal a roll that is not called sacred; a family whose private Turning was ticketed; a Long-Lived clerk who remembers the column that was added; a Lestrand factor who will not enter because they do not wish to be written.
+**Colder, not kinder.** Taking the hymn off the list does not make the list care for the people written on it.
+
+**Etymology tell.** *Thren* worn down to *Tren* is legible to the GM, and the noticing should wait for a table that earns it. Do not gloss that wearing-down as a pun on any page a player is handed.
+
+**Do not let them be the Watchful clone on the wrong continent without the independent-axes proof.** Trenledd has Threnmaieth's heavy governance, the opposite theology, and the same high reach. Set side by side, the pair isolates theology: surveillance that has been sanctified, and surveillance that has not.
+
+**Hooks.** Someone can steal a roll that nobody calls sacred, a family's private Turning can have been ticketed, a Long-Lived clerk can remember which column was added, and a Lestrand factor can refuse to enter because they do not wish to be written down.

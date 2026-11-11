@@ -18,9 +18,9 @@ updated: 2026-10-22
 
 # Sorim
 
-> Factor on [[Orentel]]'s first quay. Charters berths. Files occupancy of water. They are not Ledan. They are not the council.
+> Sorim is the factor on [[Orentel]]'s first quay, chartering berths and filing who occupies the water, and they are not Ledan and not the council.
 
-*(SOR-im.)* Eroded drift. Of the Salt Quay. A neighbour says Sorim. A stranger gets Sorim of Orentel, or of the first quay if they are already on it. The house-share is the hold-fee, not a family. A list gets of the Salt Quay and nothing to put first. On Kumbaan the name is Sorim.
+The name is Sorim (SOR-im), in the eroded drift of the docks, and a neighbour says Sorim, a stranger gets Sorim of Orentel, or of the first quay if they are already standing on it, and a list gets of the Salt Quay with nothing to put first. The house-share is the hold-fee, not a family. On Kumbaan, where a person is asked for the given name, the name is Sorim.
 
 ## At a glance
 
@@ -34,20 +34,20 @@ updated: 2026-10-22
 
 ## Summary
 
-They answer in occupancy. They did not invent the hold. Their winter is the fee on water that stays empty for people who can pay to walk a walk they do not need.
+They answer in occupancy, which is who is holding the water and who is not, and they did not invent the hold. Their winter is the fee on water that stays empty for people who can pay to walk a walk they do not need, and what they can tell you is who chartered that empty water in Eolthael, the Turning-month.
 
-The families who pay to hold the water want the prestige of a walk they do not need. Sorim takes the fee, and the fee looks like competence.
+The families who pay to hold the water want the prestige of a walk they do not need, and Sorim takes the fee, which then looks like competence. A pot is cargo and a child is not, and both of them want the same timber.
 
 ## Appearance & Demeanor
 
-Salt in the seams. A slate-stick behind an ear. They talk to cranes the way other people talk to horses. They will explain once. They will not convert a house-year.
+Salt has worked into the seams of what they wear, and a slate-stick rides behind one ear. They talk to cranes the way other people talk to horses. They will explain the occupancy once, and they will not convert a house-year.
 
 ## Role & Relationships
 
-- **The charter-council** — watches the guild, never the person. Sorim is a house-agent, one ticket among many.
-- **[[Mataero]]** — inland loft. Hears beds. Sorim hears water. Same city, different job.
-- **[[Didel]]** of Hallowquay — wants a kin-berth. Cannot hold 1–4. Sorim did not invent that either.
-- **[[Vaethod]]** — does not know Sorim. A household they sent may be the family who wanted berth 5 for a child.
+- **The charter-council** — The council watches the guild and never the person, and Sorim is a house-agent, one ticket among many.
+- **[[Mataero]]** — Mataero keeps the inland loft and hears beds, Sorim hears water, and it is the same city with a different job.
+- **[[Didel]]** of Hallowquay — Didel wants a kin-berth and cannot hold berths 1–4, and Sorim did not invent that either.
+- **[[Vaethod]]** — Vaethod does not know Sorim, and a household they sent toward another Tree may be the family who wanted berth 5 for a child.
 
 ## Links
 - [[Orentel]] · [[People of the Turning]] · [[Mataero]] · [[Didel]]
@@ -55,7 +55,7 @@ Salt in the seams. A slate-stick behind an ear. They talk to cranes the way othe
 
 ## GM Notes
 
-- Sorim is a want with a berth attached. If the party only meets Ledan, they have not met Orentel. If they only meet Sorim, they have not met the loft.
-- **No full arc required.** Competence as injustice is enough. If you want a lie: *I did not invent the hold* (true as market, false as innocence).
-- **Do not** let them assert the mind of the Tree. Salt on the roots is not theirs to schedule.
-- **Do not** make them the White Note.
+- Sorim is a want with a berth attached, so a party that only meets Ledan has not met Orentel, and a party that only meets Sorim has not met the loft.
+- **No full arc required,** since competence as injustice is enough, and if you want a lie the line is *I did not invent the hold* (true as market, false as innocence).
+- **Do not** let them assert the mind of the Tree, and salt on the roots is not theirs to schedule.
+- **Do not** make Sorim the White Note, and do not let a later note do it either.

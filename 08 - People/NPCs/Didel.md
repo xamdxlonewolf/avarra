@@ -18,11 +18,9 @@ updated: 2026-10-01
 
 # Didel
 
-*(dih-DEL.)* [[Selkie]] of Hallowquay — hearth-given, Strand-byname. The civic name is the quay, not the Kind. A neighbour says Didel. A stranger gets Didel of Hallowquay. A list gets of Hallowquay and no house. On Kumbaan the name is Didel. Haulage. Not a Kind-champion.
+Didel (dih-DEL) is [[Selkie]], sea-born and keeping a skin of their own, of Hallowquay, where the hearth gave the name and the Strand gave the byname, so the civic name is the quay and not the Kind. A neighbour says Didel, a stranger gets Didel of Hallowquay, and a list gets of Hallowquay with no house to put first. On Kumbaan, where a person is asked for the given name, the name is Didel. The work is haulage, and Didel is not put forward as a champion of the Kind.
 
-**Want:** a kin-berth for a skin-kin wedding in Eolthael. [[Sorim]] has held 1–4 for a First-Hand year. Didel cannot hold those.
-
-Has hauled a person to [[Tesara]]'s door once. Will not haul a rope.
+They want a kin-berth for a skin-kin wedding in Eolthael, the Turning-month, and [[Sorim]] has held berths 1–4 for a First-Hand year, which are the berths Didel cannot hold. They have hauled a person to [[Tesara]]'s door once, and they will not haul a rope.
 
 ## Links
 - [[Orentel]] · [[Sorim]] · [[Tesara]] · [[Selkie]] · [[People of the Turning]]

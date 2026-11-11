@@ -16,9 +16,9 @@ updated: 2026-10-22
 
 # Denlad
 
-> **A cove on the Salt Walk.** *(DEN-lad.)* On the Strandoren shore of the Old Crossing, about a day's sail short of [[Orentel]]'s estuary, in a side inlet the city's berths do not count. Ships from [[The Hinge Shore]] can tie here and still not be in the city. Not the Salt Quay. Not [[The White Note House]]. Not a hold.
+> **A cove on the Salt Walk.** *(DEN-lad.)* It sits on the Strandoren shore of the Old Crossing, about a day's sail short of [[Orentel]]'s estuary, in a side inlet the city's berths do not count. A ship out of [[The Hinge Shore]] can tie up here and still not have arrived in the city. This cove is not the Salt Quay, it is not [[The White Note House]], and it is not a hold.
 
-> Keeper of the post: *Relmun*. A neighbour says the given name. A stranger hears *Relmun of Denlad*. No house-name. This is not [[Trenledd]] and not a filing house.
+> The keeper of the post is *Relmun*. A neighbour says the given name, and a stranger hears *Relmun of Denlad*. There is no house-name. This is not [[Trenledd]], and it is not a filing house.
 
 ## At the table
 
@@ -33,36 +33,35 @@ updated: 2026-10-22
 
 ## Overview
 
-The Salt Walk is a sail and then the inland days. Most of the sail aims at [[Orentel]], where empty Eolthael berths are a product. Denlad is the inlet a day's sail short of that estuary: a village Hand on a low rise, a post, kitchens that smell of smoke and salt. You can make the city from here if the weather allows. You can also miss the week without ever seeing a crane. Coast-folk speak the eroded way. They do not keep a Threnhael. They also do not keep the city's slate.
+The Salt Walk is a sail across the Old Crossing and then the inland days after you land, and most of that sail is aimed at [[Orentel]], where empty Eolthael berths are a product. Denlad is the inlet a day's sail short of that estuary: a village Hand on a low rise, a tying-post, and kitchens that smell of smoke and salt. You can make the city from here when the weather allows. You can also miss the week, the days when a child of ten is witnessed, without ever seeing a crane. Coast-folk here speak the eroded way. They do not keep a Threnhael, and they do not keep the city's slate.
 
-The Tree Turns the cove's own children. It does not Turn the Crossing. A family from the [[The Hinge Shore|other shore]] who missed the fair wind can sit here and watch the week happen somewhere they cannot see.
+The Tree on that rise is the Hand, and it Turns the cove's own children. It does not Turn the Crossing. A family from the [[The Hinge Shore|other shore]] who missed the fair wind can sit here and watch the week happen somewhere they cannot see.
 
-**Denlad's work is the missed tide.** Prestige is Orentel's hold. Devotion, if it lands, is a hymn the city will schedule. Necessity is a child who is ten and a squall that does not care.
+**Denlad's work is the missed tide.** The prestige of a real hold belongs to Orentel. Devotion, if it lands here at all, is a hymn the city will schedule. Necessity is a child who is ten, and a squall that does not care whether the week is happening in the city.
 
 ## The street
 
-From the post to the Tree is a short climb. The rise is above the inlet. The tide writes the working hour and does not reach the Hand. **Relmun** *(REL-mun)* watches the sky the way a village watches weather, not the way [[Sorim]] watches occupancy. One hull ties up because the alternative is the estuary in a blow. Relmun will not call that a hold, and will not charge a house-share for it. Lestrand's council is a day's sail further, at the estuary. It does not charter this post.
+From the post to the Tree is a short climb. The rise sits above the inlet, so the tide writes the working hour down at the water and does not reach the Hand. **Relmun** *(REL-mun)* watches the sky the way a village watches weather, not the way [[Sorim]] watches occupancy. One hull ties up because the alternative is the estuary in a blow. Relmun will not call that a hold, and will not charge a house-share for it. Lestrand's council is a day's sail further on, at the estuary, and it does not charter this post.
 
-Food is fish, bread, and whatever the tied hull will trade. A [[The Taken-In|Taken-In]] garden sits landward of the Tree, where brine is a storm-story and not the daily drink. Mixed Kinds. [[Selkie]] hearths use this water because it is water, not because the cove is a gate. No Kind-quarter. No ticket-infirmary. A cough in a closed hull is the Grey Summer's memory, not a second plague on the page.
+Food is fish, bread, and whatever the tied hull will trade. A [[The Taken-In|Taken-In]] garden sits landward of the Tree, where brine is a story you tell about a storm and not the water you drink every day. The hearths are mixed Kinds, with no Kind-quarter and no ticket-infirmary. [[Selkie]] hearths use this water because it is water, not because the cove is a gate. A cough in a closed hull is the memory of the Grey Summer, and it is not a second plague written on the page.
 
-Chalk will not stick to the wet post. Relmun says the name aloud and does not write it. A mother hears a week. Relmun hears a tide. Denlad will not say which of those they are refusing.
+Chalk will not stick to the wet post, so Relmun says the name aloud and does not write it. A mother hears a week, and Relmun hears a tide. Denlad will not say which of those they are refusing.
 
 ## What can enter a scene
 
-- **A hull that stays tied.** Hale-month squall. The estuary is a rumour of cranes. Turning-Week does not move.
-- **A child who is ten.** The city has the witness they wanted. This cove has a Hand that is not theirs and a post that is not a berth.
-- **Chalk on the fingers.** The name was said. The post would not keep it. Someone asks Relmun to say it again, as if saying were a stamp.
+- **A hull that stays tied.** A Hale-month squall has pinned it to the post, and from here the estuary is only a rumour of cranes. Turning-Week does not move to meet the hull.
+- **A child who is ten.** The city has the witness the family wanted, and this cove has a Hand that is not theirs and a post that is not a berth.
+- **Chalk on the fingers.** The name was said, and the post would not keep it. Someone asks Relmun to say it again, as if saying the name were a stamp.
 
 ## In-world text
 
-*A tide-slate, cove post, Hale-month. Relmun. The city's berths are not on it.*
+*A tide-slate at the cove post, written in Hale-month by Relmun. The city's berths are not on it.*
 
 > *Child is ten. The post is not a berth. If the squall holds, the week is missed here. I will not call that a hold, and I will not send the city a fee to make it one.*
 >
 > *The Tree on the rise is ours. It is not their witness. Say the name. The post will not keep the chalk.*
 
 The slate shows a missed week at one cove, which is the whole cost of the Salt Walk. A family that misses the tide is told by the post that a village Hand is also a door.
-
 
 ## Links
 - [[Orentel]] · [[Named Ground]] · [[The Hinge Shore]] · [[Strandoren]]
@@ -71,8 +70,8 @@ The slate shows a missed week at one cove, which is the whole cost of the Salt W
 ## GM Notes
 
 - **Do not make the cove a second capital, and do not make the post a berth.**
-- **A village on a road that already exists.** The Salt Walk's sea-leg. Not a gazetteer of coves.
+- **A village on a road that already exists.** This is the sea-leg of the Salt Walk, and it is not a gazetteer of coves.
 - **Not Orentel.** Berths 1–4, the Drop, the White Note, and the rise-salt stay in the city. Do not explain that salt by copying it here. This Tree is simply above the inlet.
-- **Not a list-land.** No house-name. Lestrand prices; it does not enroll this kitchen.
+- **Not a list-land.** There is no house-name. Lestrand prices, and it does not enroll this kitchen.
 - **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261002 --register eroded --count 40` — **Denlad** position 4, **Relmun** position 10.
 - **Keystone:** a missed sail is weather and a door that does not move. Do not make the wet chalk a sign.

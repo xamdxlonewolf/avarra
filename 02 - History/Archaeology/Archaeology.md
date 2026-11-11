@@ -14,11 +14,7 @@ updated: 2026-10-22
 
 # Archaeology
 
-Archaeology is the three sites already written. It is not a discipline, and it is not a fourth site.
-
-[[The Low Wall]] · [[The Seeing-Ring]] · [[The Dry Stair]]
-
-The Low Wall records who dug, and what they fought over. That dig was one summer. The other two stay as they are. All three live in `04 - Settlements/Sites`.
+This page points at three places and does nothing else with them. They are already written, [[The Low Wall]], [[The Seeing-Ring]], and [[The Dry Stair]], and calling the three archaeology is not a discipline and is not a fourth site. The Low Wall is the note that records who dug and what they fought over, and that digging was a single summer. The Seeing-Ring and the Dry Stair stay as they are written. All three notes live in `04 - Settlements/Sites`, and this folder only points at them.
 
 ## Links
 

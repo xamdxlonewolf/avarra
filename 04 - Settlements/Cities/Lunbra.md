@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Lunbra
 
-> **Trenledd's city on the Chart-run.** *(LUN-bra.)* People say **the Worn Count**. Records write *Trenledd*. This is where the roll is kept. The city shows the money. Trenledd's governing office (or council) is not named here.
+> **Trenledd's city on the Chart-run.** *(LUN-bra.)* People say **the Worn Count**, and the records write *Trenledd*. This is where the roll is kept. The city shows the money, and Trenledd's governing office (or council) is not named here.
 
 ## At the table
 
@@ -31,39 +31,39 @@ updated: 2026-10-22
 
 ## Overview
 
-Lunbra is a large city on [[Strandoren]], on the wealthy stretch of the [[Named Ground|Chart-run]], four to eight days upriver of [[Orentel]]. It is inland of the salt. Towns and villages through the filed country stay unnamed.
+Lunbra is a large city on [[Strandoren]], on the wealthy stretch of the [[Named Ground|Chart-run]], four to eight days upriver of [[Orentel]] and inland of the salt. The towns and villages through the filed country stay unnamed.
 
-The city is rich, and it shows it. Stone fronts, paid chairs, guild doors left open onto the square so the coin is visible from the street. People come because a family already has the money, or because they want it. Both kinds are written down. [[Trenledd]] began as ticket-and-tax machinery and did not stop at property. You are on the roll so commerce and hazard can find you again. There is no hymn that makes the list a stewardship. [[Polity Archetypes|Threnmaieth]] at least claims to keep you hale. The Worn Count claims to keep you findable.
+The city is rich, and it shows the money, in stone fronts, paid chairs, and guild doors left open onto the square so the coin is visible from the street. People come because a family already has the money, or because they want it, and both kinds of arrival are written down. [[Trenledd]] began as ticket-and-tax machinery and did not stop at property. You are on the roll so commerce and hazard can find you again. There is no hymn that makes the list a stewardship. [[Polity Archetypes|Threnmaieth]] at least claims to keep you hale. The Worn Count claims to keep you findable.
 
-[[Dirrol]]'s column, after [[The Grey Summer]], was *who is still alive to be found.* That column is the city's memory. Dirrol is not a living clerk in this room, and not the crown.
+After [[The Grey Summer]], [[Dirrol]]'s column was *who is still alive to be found*, and that column is the city's memory. Dirrol is not a living clerk in this room, and not the crown.
 
 The governing office stays unnamed. Cutting a person off the furnished channels is the default, and it is not called impiety. The [[Law and Citizenship|Struck]] are pursued to be catalogued, because an unwitnessed change is a row that appeared without a clerk.
 
-A Hand stands in the square. The Trees on this stretch are mature. Faith is worn light. The number on the back of a stone is not a prayer.
+A Hand stands in the square, the trees on this stretch are mature, and faith is worn light. The number on the back of a stone is not a prayer.
 
 The city's daily work is keeping the roll. The money is shown in the square, and a name has to be findable before it is allowed to try.
 
 ## Ways in
 
-- **Down the Chart-run.** Four to eight days in fair weather to Orentel's estuary. Grain, beans, and the inland tickets go that way to the salt. The food on the Ledger Coast is this plain as much as it is the catch. Lunbra is where the plain's people are filed.
-- **Through the filed country.** Road-end Tree-towns that got written down sit on the approaches. This note does not name them. A village is not the roll-room.
-- **When the roads fail.** In winter the banks go to mud and the river still moves. The week belongs to the boats. That shift is weather. It is not a second government.
+- **Down the Chart-run.** Orentel's estuary is four to eight days downstream in fair weather. Grain, beans, and the inland tickets go that way to the salt, and the food on the Ledger Coast is this plain as much as it is the catch. Lunbra is where the plain's people are filed.
+- **Through the filed country.** Road-end Tree-towns that got written down sit on the approaches. This note does not name them, and a village is not the roll-room.
+- **When the roads fail.** In winter the banks go to mud and the river still moves, so the week belongs to the boats. That shift is weather, and it is not a second government.
 
-Water for the city is the river, settled, and wells off the towpath. Food is the plain itself: grain, beans, roots, cattle, and what a barge brings back up from the coast. The [[The Taken-In|Taken-In]] work the river-gardens. They are not a nation. Oxen pull the heavy carts. A barge does the bulk.
+Water for the city is the river, once it has been settled, and the wells off the towpath. Food is the plain itself, grain and beans and roots and cattle, and what a barge brings back up from the coast. The [[The Taken-In|Taken-In]] work the river-gardens, and they are not a nation. Oxen pull the heavy carts, and a barge does the bulk.
 
-The roll-room and the square in front of it are what a crowd can point at. The money is the front. The writing is the room.
+The roll-room and the square in front of it are what a crowd can point at: the money is the front, and the writing is the room.
 
 ## The work
 
 The work happens in the **roll-room**, on the square where the money is shown.
 
-[[Vamar]] keeps a column: who owes, who Turned, who can be found. The file is Melro, Vamar. A neighbour says Vamar. A clerk says the house first. A stranger hears Vamar of Lunbra. Vamar is not the governing office. This note does not name that office. Licence-guilds write their own tickets through the same room. They are not a second crown.
+[[Vamar]] keeps a column of who owes, who Turned, and who can be found. The file is Melro, Vamar. A neighbour says Vamar, a clerk says the house first, and a stranger hears Vamar of Lunbra. Vamar is not the governing office, and this note does not name that office. Licence-guilds write their own tickets through the same room, and they are not a second crown.
 
 In Trenledd the column may file a person under the house that pays, including a house they dislike. Vamar's page is where that fight becomes ink.
 
 ## One tension
 
-The city shows the money, and the roll is how a person is allowed near it. A family that already has the money is already a house on the page. A person who came to make it is written in order to try. There is no hymn to appeal to. The office that could strike the row stays unnamed, and the column does not become that office by being the page people can see.
+The city shows the money, and the roll is how a person is allowed near it. A family that already has the money is already a house on the page, and a person who came to make it is written in order to try. There is no hymn to appeal to. The office that could strike the row stays unnamed, and the column does not become that office by being the page people can see.
 
 ## Habits
 
@@ -75,7 +75,7 @@ A newcomer is shown the expensive chair and is not asked to sit until the house 
 
 ## People
 
-One person. Not the crown. Not a court.
+The note names one person, not the crown, and not a court.
 
 - **[[Vamar]]** — a column of the roll. House Melro. Not the governing office.
 
@@ -88,9 +88,9 @@ One person. Not the crown. Not a court.
 
 ## GM Notes
 
-- **S.2 seat.** Trenledd's large city on the Chart-run, four to eight days upriver of Orentel. Wealthy, and it shows the money. The roll is kept here. Towns and villages through the filed country stay unnamed. The governing office stays unnamed. Vamar is not that office, and not Dirrol.
-- **List-land.** A neighbour gets the given name. A clerk says the house first. The house-word is eroded drift, not an English surname. No Kind-name in the civic slot.
+- **S.2 seat.** This is Trenledd's large city on the Chart-run, four to eight days upriver of Orentel, wealthy enough that it shows the money, and the place where the roll is kept. The towns and villages through the filed country stay unnamed. The governing office stays unnamed. Vamar is not that office, and not Dirrol.
+- **List-land.** A neighbour gets the given name, and a clerk says the house first. The house-word is eroded drift, not an English surname. Do not put a Kind-name in the civic slot.
 - **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261020 --register eroded --count 80` — given **Vamar** position 33, house **Melro** position 76. Thrown back from that field: Modor; Nemor beside Naenor; Marmol (mol); Donen; Valid beside Valen; Suntun (sun); Nater beside Natai; Tense; Milrad (mil); Mollu (molly); Solinsir (sir); Ladrun (run); Lunu beside Lunbra; Votod beside Votaer; Tasidon beside Tasain; Lanro beside Lanbru; Valvin beside Valen; Sedvud beside Sedrad; Muted; Sulnu, already drawn for Raitin.
 - **Habits.** Three. The count is full. A later note must not explain them, and must not turn them into a power, a relic, or a rite. The coin on the page is not a fee and not a relic.
-- **One tension.** Shown money, and the writing that lets you stand near it. Do not name the governing office. Do not add a ward-grid. The sheet, if it is drawn, is Epic M.
+- **One tension.** The tension is shown money, and the writing that lets a person stand near it. Do not name the governing office, and do not add a ward-grid. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.

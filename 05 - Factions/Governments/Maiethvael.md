@@ -17,31 +17,31 @@ updated: 2026-10-22
 
 # Maiethvael
 
-> **The Gift-Realm.** *(formal *Maiethvael*, MAI-eth-vael · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift.")* Conservative drift. A rich, devout country with a very light government.
+> **The Gift-Realm.** *(formal *Maiethvael*, MAI-eth-vael · [[The Old Tongue|maieth]] "Mother" + [[The Old Tongue|vael]] "gift.")* The drift of the name is conservative, the old sounds kept the way a devout Motherland name keeps them. It is a rich, devout country with a very light government.
 
 People say **the Gift-Realm** and **Gift-folk**. Charters and learned maps write *Maiethvael*.
 
 ## Overview (public)
 
-An old, Tree-dense Motherland realm that treats Tithe-provision as **public tending** — greens, halls, and medicine furnished by congregation and guild, not by a crown channel. Citizenship is witnessed in the world's warm default. There is no [[Naming in the Turning|Threnhael]] here; they will tell you counting persons is a failure of trust in the [[Law and Citizenship|three pillars]]. The hymns are the same ones [[Polity Archetypes|Threnmaieth]] sings. The paper is not.
+Maiethvael is an old, Tree-dense realm of the Motherland that treats Tithe-provision as **public tending**. The Tithe is the upkeep a person needs in order to carry what they have become, and here the greens, the halls, and the medicine are furnished by congregation and guild, not by a channel the crown controls. Citizenship is witnessed in the world's warm default: you belong because living people saw you Turn, not because a clerk wrote you down. There is no [[Naming in the Turning|Threnhael]] here, no sacred roll of persons. They will tell you that counting persons is a failure of trust in the [[Law and Citizenship|three pillars]], the feeling, the word, and the memory that prove a person without a list. The hymns are the same ones [[Polity Archetypes|Threnmaieth]] sings. The paper is not, because Threnmaieth writes people down and Maiethvael will not.
 
-**Site.** Full-reach [[Maiethorn]] country, in sight of the pilgrimage weather but not built around the grove. It is the old pilgrimage country, and it *furnishes*: the extra mile is hospitality, not a line on a roll.
+**Site.** This is full-reach [[Maiethorn]] country, in sight of the pilgrimage weather and not built around the grove. It is the old pilgrimage country, and it *furnishes*. The extra mile, the walk someone still makes toward the grove when a local Tree would have done, is hospitality here. It is not a line on a roll.
 
-**Seat.** [[Seinbrun]] is the capital, a large city off the [[Named Ground|Core-thaw]], more than a day from [[Maiethlir]], past the first day below the Down Gate where Maiethvael's people live. Not Maiethlir. Not [[The Down-Bank]]. Smaller towns and villages around it stay unnamed. The hall furnishes. The city does not keep a list.
+**Seat.** [[Seinbrun]] is the capital, a large city off the [[Named Ground|Core-thaw]], more than a day from [[Maiethlir]], past the first day below the Down Gate where Maiethvael's people live. It is neither Maiethlir nor [[The Down-Bank]], and the smaller towns and villages around it stay unnamed. The hall furnishes what people need, and the city does not keep a list of them.
 
-**How it formed.** Gift-integration that never accepted a census. [[The Two Papers]] (Cut-year 67) is the year: **Manril** would not be named to Limrae's roll. Maiethvael kept the older proof: you belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given. The state is light on purpose. Faith and guild do the work a clerk would do elsewhere.
+**How it formed.** The realm is gift-integration that never accepted a census. [[The Two Papers]], in the year numbered Cut-year 67, is the year people point to: **Manril** would not be named to Limrae's roll. Maiethvael kept the older proof. You belong because you were seen to Turn, and you stay whole because your neighbours tend what you were Given, the change the Tree marked on you. The state is light on purpose, because faith and guild do the work a clerk would do elsewhere.
 
-**What they remember.** Same hymn, opposite paper. Threnmaieth's crown-count is a river-habit they will not convert. The Close's Book is someone else's rank. Chronicle: [[The Other Count]].
+**What they remember.** They remember the same hymn and the opposite paper. Threnmaieth's crown-count is a river-habit they will not convert to, and the Close's Book is someone else's rank. The chronicle of that split is [[The Other Count]].
 
 ## Structure & Membership
 
-Guild self-rule under ardent practice. Recruits by office, faith, Condition-lean — **not Kind**. [[The Watching]] persists in old districts as it does elsewhere on Maiethorn; it is not a second flag.
+Guilds rule themselves under an ardent practice. The realm recruits by office, by faith, and by Condition-lean, the Condition a person carries, and **not** by Kind, the ancestry they were born with. [[The Watching]] persists in old districts as it does elsewhere on Maiethorn. It is not a second flag.
 
 ## Goals & Methods
 
-Keep the gift hale without writing the gifted down. Furnish generously. Pity the [[Law and Citizenship|Kept]] in a land that teaches that a hug at the Tree is rare. The land is wrong about that, but it teaches it. The pity is a slight, and it has no thin-Tree excuse.
+They keep the gift hale without writing the gifted down, and they furnish generously. They pity the [[Law and Citizenship|Kept]], the people the Tree hugged and did not mark, in a land that teaches that a hug at the Tree is rare. The land is wrong about that, but it teaches it. The pity is a slight, and it has no thin-Tree excuse, because the Trees here are not scarce.
 
-**Its injustice.** Not a boot. A **social tax of piety**. Warmth is real and so is the bill: fall out of congregation and the net goes with it, and there is no crown to appeal to. The Kept here are pitied in *plenty*. Threnmaieth at least files them; Maiethvael loves them and cannot stop measuring what they missed.
+**Its injustice.** What hurts here does not arrive as a boot. It is a **social tax of piety**, real warmth with a real bill attached: fall out of the congregation and the net goes with it, and there is no crown to appeal to. The Kept here are pitied in the middle of *plenty*, and where Threnmaieth at least files them, Maiethvael loves them and cannot stop measuring what they missed.
 
 ## Links
 
@@ -51,11 +51,10 @@ Keep the gift hale without writing the gifted down. Furnish generously. Pity the
 
 ## GM Notes
 
-- Do not flesh districts.
-- Seat is [[Seinbrun]]. Do not move it onto Maiethlir or the Down-Bank. Do not census the towns around it.
-- Do not make this the kind foil to [[Polity Archetypes|Threnmaieth]].
-- The three corner seats stay [[Eolvaeth]] · [[Orentel]] · [[Maiethlir]]. Seinbrun is this power's capital, not a fourth corner.
+Leave the districts unfleshed, and keep the seat at [[Seinbrun]]. Do not move it onto Maiethlir or the Down-Bank, do not census the towns around it, and do not make this realm the kind foil to [[Polity Archetypes|Threnmaieth]]. The three corner seats stay [[Eolvaeth]], [[Orentel]], and [[Maiethlir]]. Seinbrun is this power's capital, and it is not a fourth corner.
 
-- **Not the good kingdom.** Congregation-welfare can still price belonging through piety.
-- **Name-pair with Threnmaieth.** Same *maieth*; gift vs reckoning. A scholar may notice. Do not gloss it.
-- **Hooks.** A Kept child in full-reach plenty; a Tithe-poor household that left the hymn and lost the green; Threnmaieth clerks who want this realm *named* to the roll; a Watcher family and a Motherfaith guild sharing a Tree and not a list.
+**Not the good kingdom.** Congregation-welfare can still price belonging through piety, which is why the warmth does not acquit the realm.
+
+**Name-pair with Threnmaieth.** The two names share *maieth*, gift set against reckoning. A scholar may notice the pair, and you should not gloss it for them.
+
+**Hooks.** A Kept child can grow up in full-reach plenty, a Tithe-poor household can leave the hymn and lose the green, Threnmaieth clerks can want this realm *named* to the roll, and a Watcher family and a Motherfaith guild can share a Tree without sharing a list.

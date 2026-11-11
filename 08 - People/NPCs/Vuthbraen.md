@@ -18,9 +18,9 @@ updated: 2026-10-22
 
 # Vuthbraen
 
-> Keeps the furnished hall at [[Seinbrun]]. The pot, the beds the hall has, the threshold.
+> Vuthbraen keeps the furnished hall at [[Seinbrun]]: the pot, the beds the hall has, and the threshold.
 
-*(VUTH-brayn.)* Of Seinbrun. A neighbour says Vuthbraen. A stranger hears Vuthbraen of Seinbrun. There is no house. Maiethvael will not write one.
+People in the hall say Vuthbraen (VUTH-brayn), and a stranger hears Vuthbraen of Seinbrun. [[Maiethvael]] will not write a house, so there is no house-name to give them.
 
 ## At a glance
 
@@ -29,25 +29,25 @@ updated: 2026-10-22
 | **Want** | The hall's pot still open to a house that left the hymn |
 | **Have** | The hall, the green beside it, the first piece of bread |
 | **Fear** | A tablet on the threshold, and a bowl they can no longer set |
-| **Live conflict** | Hospitality is the job. The net is the hymn. |
+| **Live conflict** | Hospitality is the job, and the net is the hymn |
 | **Hooks** | Bread on the threshold; an empty bowl at the end of the table; [[Breillai]] in the lane; a clerk up from [[Maiethlir]] |
 
 ## Summary
 
-Vuthbraen tends what the Gift-Realm furnishes in its capital: the hall's pot, a bed when there is one, the green's surplus when the congregation has brought it. They are not a crown's clerk and not a warden. The colour is Spoken at the Hand beside the hall. Vuthbraen does not copy it.
+Vuthbraen tends what the Gift-Realm, which is what people call [[Maiethvael]], furnishes in its capital. That furnishing is the hall's pot, a bed when the hall has one, and the green's surplus when the congregation has brought it in. They are not a crown's clerk and not a warden, the colour is Spoken at the Hand beside the hall, and Vuthbraen does not copy that colour onto any page of their own.
 
-They tear a guest's bread and set the first piece on the threshold. They will not say why.
+They tear a guest's bread and set the first piece on the threshold, and they will not say why.
 
 ## Appearance & Demeanor
 
-Flour on a cuff. A key to the hall's side door, worn on a cord, not as a rank. They speak to the room at the volume of a pot, and they notice who did not sit down.
+Flour stays on a cuff, and a key to the hall's side door hangs on a cord, worn as a way to open the door and not as a rank. They speak to the room at the volume of a pot, and they notice who did not sit down.
 
 ## Role & Relationships
 
-- **[[Seinbrun]]** — the hall is the work. The city is the capital. Vuthbraen is one person in it.
-- **[[Breillai]]** — left the hymn. Vuthbraen still knows the bowl. The net did not stay for them.
-- **[[Raermu]]** — the medicine basket. Same morning, some days. They do not share a key.
-- **[[Maiethlir]]** — a day's argument off, on the river. A clerk from that hall is a guest Vuthbraen will feed and will not write down.
+- **[[Seinbrun]]** — The hall is the work in the capital, and Vuthbraen is one person in that city.
+- **[[Breillai]]** — Breillai left the hymn, Vuthbraen still knows the bowl, and the net of the hymn did not stay for them.
+- **[[Raermu]]** — Raermu carries the medicine basket, they share a morning some days, and they do not share a key.
+- **[[Maiethlir]]** — Maiethlir is a day's argument off, on the river, and a clerk from that hall is a guest Vuthbraen will feed and will not write down.
 
 ## Links
 - [[Seinbrun]] · [[Maiethvael]] · [[Breillai]] · [[Raermu]]
@@ -55,7 +55,7 @@ Flour on a cuff. A key to the hall's side door, worn on a cord, not as a rank. T
 
 ## GM Notes
 
-- **Not a court.** One of three people at Seinbrun. No person-list. Do not invent a house.
+- **Not a court.** Vuthbraen is one of three people at Seinbrun, there is no person-list, and a later note must not invent a house.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261014 --register conservative --count 80` — position 31. Full throwback list on [[Seinbrun]].
-- **The threshold bread is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
+- **The threshold bread is a habit,** and a later note must not explain it or turn it into a power, a relic, or a rite.
 - **Do not** make them a Speaker, a crown, or the First Seat's messenger.

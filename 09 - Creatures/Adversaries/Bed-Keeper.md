@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Bed-Keeper
 
-Tier 1 Leader. Someone who still makes the bed after the walk ended. They keep guests from leaving by feeding them and holding them to guest-right, and they get angry when a guest goes. They want the upper room occupied.
+A Bed-Keeper is a Tier 1 Leader in a road-house still open on the Long Mile, the person who still makes the bed after the walk that brought the guest has ended. They keep a guest from leaving by feeding them and then holding them to guest-right, the hold that begins once the guest has eaten, so the house stands for the stay. They get angry when a guest goes anyway, and what they want is the upper room occupied.
 
 **Motives & Tactics:** seat you · ask which walk · fill the slate · call a walker to the door · never start with a knife
 
@@ -42,6 +42,8 @@ Tier 1 Leader. Someone who still makes the bed after the walk ended. They keep g
 
 ## GM Notes
 
-- Orthogonal to bandits: they want occupancy, not your purse. Thilim's Held bed is a *kind* version of this job; do not restock the Third Hearth as this block. This keeper is the road-house that did not become a deathless house or a hearth — it became a host who cannot stop.
-- Defeat can be a door closed, a slate washed, or a Bound word that the week is over. Killing the host is legal and ugly; the next shrine will hear it.
-- Do not give them a Condition that is the plot. They may be Kept, Given, or Struck like anyone. The stat block is the hold, not a Tithe.
+They are not bandits, because they want the room occupied and they do not want the purse. Thilim's Held bed is a *kind* version of this job, so do not restock the Third Hearth as this block. This keeper is the road-house that did not become a deathless house or a hearth, and became a host who cannot stop.
+
+Defeat can be a door closed, a slate washed, or a Bound word that the week is over. Killing the host is legal and ugly, and the next shrine will hear it.
+
+Do not give them a Condition that is the plot. They may be Kept, Given, or Struck like anyone, and the stat block is the hold, not a Tithe.

@@ -1,15 +1,11 @@
 # Using This Book
 
-This is the world book of **the Turning**, written for people who will play here. It explains the place in ordinary language. A line in quotation marks is something a person in the world might say, and the text says who says it. A habit people will not explain is described as what they do. The way the world works is stated as fact. Open questions the world itself has not settled stay open in the text.
+This is the world book of **the Turning**, written for the people who will sit down and play here. It explains the place in ordinary language, so a reader can follow a chapter without having opened the working notes. When a line is in quotation marks, it is something a person in the world might say, and the text tells you who is speaking. When people keep a habit and will not say why, the book tells you what they do and stops there, and what the world itself does is stated as fact. A question the world has not settled stays open on the page, because the people who live here have not settled it either.
 
-Chapters keep their numbers and titles. When more of the world is written, it goes into the chapter that already exists. A grey box that begins **Not yet written** is an intentional hole. Filling one means replacing that box inside its chapter. The hole that remains is two claimants on one green in Other Places. The climate chapter does not catalog every plant.
+The chapters keep the numbers and the titles they already have. When more of the world is written, it goes into the chapter that already holds that part of life. A grey box that begins **Not yet written** is a hole left on purpose. Filling one means taking that box out and putting the real account in its place, inside the same chapter. The hole that is still empty is two claimants on one green, in Other Places. The climate chapter names the weather, the water, and the walks between places, and it does not catalog every plant.
 
-**Books I–IX** are what a player reads.
+**Books I–IX** are what a player reads. **Book X** is for the person running the game. It holds the sound-system behind the names, and the material a table does not start out knowing. **Language and Naming** is where you name a person, coin a new name, or glue two old words into the name of a hall. The names of the continents, and what those names are saying the first time you meet them as places, are given in **The Four Continents**.
 
-**Book X** is for the person running the game. It holds the sound-system behind the names, and material the table does not start knowing. How to name a person, make a new name, and glue two old words into a hall-name stays in **Language and Naming**. Continent names are given in **The Four Continents**.
+The rules for Daggerheart sit inside the Condition and Kind entries, where the life and the card on the table are the same subject. Those entries use the game's own terms: Hope, Stress, Hit Points, Fear, and the range bands. Folklore, and any paper written by someone inside the world, is quoted as that person told it. The line around such a paper still says what the paper is.
 
-**Rules** for Daggerheart sit inside the Condition and Kind entries: Transformation cards and ancestry features, using the game's own terms (Hope, Stress, Hit Points, Fear, range bands). Folklore and in-world papers are quoted as they are told.
-
-The working notes remain the record this book is drawn from. This book is the copy you read, and it is filled as the world grows.
-
-Print the PDF with a wide right margin, or annotate it in any PDF reader. The HTML is the same book: searchable, with a clickable contents. Open the HTML in a word processor if you want comments in the margin.
+The working notes remain the record this book is drawn from. This book is the copy you read, and it is filled as the world grows. Print the PDF with a wide right margin if you want room to write in it, or annotate it in any PDF reader. The HTML is the same book, searchable, with a clickable contents. Open that file in a word processor when you want comments in the margin.

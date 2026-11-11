@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Spent-Week Walker
 
-Tier 2 Standard. A person who was sent, or who sent themselves, for a tenth-year week that closed without them. They are still on the road. UnTurned, not Kept. They want the door that will not reopen. Not undead. Not a [[Returned]] unless the fiction already made them one — then use the Condition, not this block.
+A Spent-Week Walker is a Tier 2 Standard, a person who was sent, or who sent themselves, for a tenth-year week that closed without them, and who is still on the road. They are UnTurned, not Kept: the week ended before they stood under a Tree, and Kept would mean the leaves hugged them while the town watched, which is not what happened. They want the door that will not reopen, and they are not undead. They are not a [[Returned]] unless the fiction already made them one, in which case you use the Condition and not this block.
 
 **Motives & Tactics:** ask the date · follow anyone heading toward a Tree · spend the last of the food on one more day · break when told the week is gone
 
@@ -40,7 +40,10 @@ Tier 2 Standard. A person who was sent, or who sent themselves, for a tenth-year
 
 ## GM Notes
 
-- UnTurned is the legal fact. They missed, or the wood was unsound, or the trip they were sent on spent the week. Do not give them a late leaf to make the fight kind. Struck doors still exist; that is a player-consent becoming, not a drop.
-- Vaethod's returning cohort is Eolvaeth's "enters a scene." Use this block when the week is already gone and the walking did not stop.
-- They carry no Tithe unless a later Condition gave them one. Do not make a Tithe the attack. The attack is the unfinished week.
-- Tone: aching, not haunted. A person. The 5% is that they will hurt you to make the calendar untrue.
+UnTurned is the legal fact. They missed, or the wood was unsound, or the trip they were sent on spent the week. Do not give them a late leaf to make the fight kind. Struck doors still exist, and that is a player-consent becoming, not a drop from this block.
+
+Vaethod's returning cohort is Eolvaeth's "enters a scene." Use this block when the week is already gone and the walking did not stop.
+
+They carry no Tithe unless a later Condition gave them one. Do not make a Tithe the attack, because the attack is the unfinished week.
+
+The tone is aching, not haunted, because this is a person. The 5% is that they will hurt you to make the calendar untrue.

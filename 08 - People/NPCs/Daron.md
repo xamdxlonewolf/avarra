@@ -18,9 +18,9 @@ updated: 2026-10-01
 
 # Daron
 
-*(DAR-on.)* [[Returned]]. Far shed, downwind of [[Eolvaeth]]'s spring. A neighbour says Daron. A stranger gets Daron of Eolvaeth, of the far shed if they have come downwind. There is no house. On Kumbaan the name is Daron.
+Daron (DAR-on) is [[Returned]], a person who died with something unfinished and got back up, living in the far shed downwind of [[Eolvaeth]]'s spring. A neighbour says Daron, and a stranger gets Daron of Eolvaeth, or of the far shed if they have come downwind, there being no house to give. On Kumbaan, where a person is asked for the given name, the name is Daron.
 
-**Want:** a specific corpse named so a grain-debt dies with it. The family will not come downwind to do it.
+They want a specific corpse named so a grain-debt dies with it, and the family will not come downwind to do that naming.
 
 ## Links
 - [[Eolvaeth]] · [[People of the Turning]] · [[Returned]]

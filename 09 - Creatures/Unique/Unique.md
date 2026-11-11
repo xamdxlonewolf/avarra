@@ -14,9 +14,7 @@ updated: 2026-10-22
 
 # Unique
 
-There is no quota of unique creatures, and no empty slot this folder is waiting to fill.
-
-A made thing, if a town has one, is [[A Made Thing]]. A [[Two-Bodied]] other self stays a person. The working animals are [[The Cart-Ox]], [[The Terrace Goat]], and [[The Path Dog]]. A door and a return are [[Kin at the Door]].
+There is no quota of unique creatures, and no empty slot this folder is waiting to fill. If a town has a made thing, that thing is already [[A Made Thing]], a [[Two-Bodied]] other self stays a person, and the working animals are [[The Cart-Ox]], [[The Terrace Goat]], and [[The Path Dog]]. A door and a return, the meal left at an old door and the person who came back, are [[Kin at the Door]].
 
 ## Links
 

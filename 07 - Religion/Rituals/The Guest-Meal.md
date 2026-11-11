@@ -14,37 +14,37 @@ updated: 2026-10-22
 
 # The Guest-Meal
 
-> **A stranger at a board.** The moon-feast is [[Ndenjoo]] and [[The Open Table]]. The place kept for the dead in the ground is [[The Old Ways]]. A wedding is [[Daily Life]]. This is the hour a person who does not live here is fed, and what the street asks after the bowl is down.
+> **A stranger fed at a board.** The moon-feast belongs to [[Ndenjoo]] and [[The Open Table]]. The place kept at the board for the dead who are in the ground belongs to [[The Old Ways]]. A wedding belongs to [[Daily Life]]. This page is the hour in which a person who does not live here is fed, and what the street finds it can ask once the bowl is down.
 
-The bowl is down before the question. That much travels. Everything after it is the stance.
+The bowl is set down before anyone asks the guest who they are, and that order is the part of the meal that travels from town to town. Everything that happens after the bowl is the stance the street was already keeping.
 
 ## In a devout square
 
-[[Maiethlir]], a thaw-street kitchen. Bread, greens, the river loud enough to talk over. The guest is a walker from the vale with a letter and wet shoes. They sit. They eat. Then someone asks *of where?* They say the vale. Nobody asks what colour they are, or whether they have one.
+In [[Maiethlir]], in a kitchen on a thaw-street, there is bread and there are greens, and the river is loud enough that people can talk over it. The guest is a walker come from the vale, with a letter and with wet shoes. They sit and they eat, and only then does someone ask *of where?* The guest says the vale, and nobody asks what colour they are, or whether any leaf fell for them at all.
 
-The host says Maieth over the host's own bowl. The guest is not handed the name. A Watcher in the same kitchen tells the guest what is in the pot — greens, a bone, too much salt — and stops. A Settler at the end of the bench does not open a book. There is nothing to settle but the letter, and the letter can wait until the shoes are dry.
+The host says Maieth, the name the devout use, over the host's own bowl, and does not hand that name to the guest to say. A Watcher in the same kitchen tells the guest what is in the pot, greens and a bone and too much salt, and then stops there. A Settler at the end of the bench does not open a book. The only thing waiting to be settled is the letter, and the letter can wait until the shoes are dry.
 
 ## On a dock
 
-[[Orentel]]. First bread is standing, at a barrel, in sight of the crane. Sitting down before that is how you claim a berth you have not paid. After the bread, if no paper is open, there is a chair. They ask which berth. The guest has none. The guest still eats.
+At [[Orentel]] the first bread is eaten standing up, at a barrel, where the crane can be seen. If you sit down before that bread, you are claiming a berth you have not paid for. After the bread, if no paper is open, there is a chair, and they ask which berth the guest holds. The guest has none, and the guest still eats.
 
-If a filing house has a paper open, the house-name comes before the chair. The speech rule is on [[How a Place Speaks]]. The bowl does not wait on the house. A book-hand who wants the guest's affairs in ink is told, by the person who cut the bread, to do it on the quay in the morning.
+If a filing house has a paper open, the house-name is spoken before anyone offers the chair. The rule for how that name is said lives on [[How a Place Speaks]]. The bowl does not wait for the house to finish its paper. A book-hand who wants the guest's affairs written in ink is told, by the person who cut the bread, to come back and do that writing on the quay in the morning.
 
 ## In a waiting town
 
-The guest in [[Eolvaeth]] is often the other way around: a core clerk who came to see a week and found a pot. They are fed from the gift-hall if the house is thin. Nobody promises that the wood will speak. If the clerk asks about the leaf on the spring, someone passes the bread. The leaf stays unexplained ([[Eolvaeth]]).
+The guest who turns up in [[Eolvaeth]] is often the visit turned around: a clerk from the core who came to see a week and found a pot. If the house is thin, that clerk is fed out of the gift-hall. Nobody promises the guest that the wood will speak. If the clerk asks about the leaf on the spring, someone passes the bread instead of answering. The leaf stays unexplained, and they will not say why ([[Eolvaeth]]).
 
-A walker who came in with a cohort that was sent to another Tree eats with the cohort. The town does not make a separate table for people who stood somewhere else this summer.
+A walker who arrived with a cohort, the group the town sent on to another Tree, eats with that cohort. The town does not lay a separate table for people who stood somewhere else this summer.
 
 ## At the hill
 
-First night at [[Ndenjoo]], the guest does not serve and does not sit the place that is set back from the board. Second night, a plate is put in their hands to carry, and someone says the sentence the hall already lives by. The words and the legal weight of a second supper are on [[The Open Table]]. This page only has the plate.
+On the first night at [[Ndenjoo]], the guest does not serve the food, and does not sit in the place that is set back from the board. On the second night a plate is put into the guest's hands to carry, and someone says the sentence the hall already lives by. The words of that sentence, and the legal weight of being fed a second time, are on [[The Open Table]], and this page only has the plate.
 
-A guest who asks why the heel was eaten first, on the one night that happens, is given more bread. That is the whole answer ([[Ndenjoo]]).
+On the one night when the heel of the loaf is eaten first, a guest who asks why is given more bread. That is the whole answer, and they will not say why ([[Ndenjoo]]).
 
 ## When it fails
 
-Someone asks what the guest *is* before the bowl is down. The room goes quiet. The person nearest the pot puts the bowl down anyway. Talk starts again at the second bite, or it does not. There is no speech to repair it. A host who wants a doctrine can have one after the dishes, from whichever faith they already keep.
+If someone asks what the guest *is* before the bowl has been set down, the room goes quiet. The person nearest the pot puts the bowl down anyway. Talk may start again when the guest takes a second bite, or it may not start again at all, and there is no speech kept in reserve to repair the asking. A host who wants a doctrine can have one after the dishes are done, taken from whichever faith that host already keeps.
 
 ## Links
 
@@ -58,5 +58,5 @@ Someone asks what the guest *is* before the bowl is down. The room goes quiet. T
 ## GM Notes
 *(Stripped on player-safe export.)*
 
-- **Courtesy with a street attached.** Do not turn a second supper into a geas, and do not turn the first bowl into a test. The Open Table's scare, when a tenth year is in the room, is already on that note.
-- **Do not** coin a grace. The hill's place-setting words stay on [[Ndenjoo]] and [[The Open Table]]. Do not explain the heel, the leaf, the salt, or the thaw. World book untouched.
+- **The courtesy has a street attached to it.** Do not turn a second supper into a geas, and do not turn the first bowl into a test the guest can pass or fail. When a tenth year is in the room, the scare that belongs to the Open Table is already on that note, and it should not be replayed here.
+- **Do not** coin a grace for this hour. The words that go with the hill's place-setting stay on [[Ndenjoo]] and [[The Open Table]]. Do not explain the heel, the leaf, the salt, or the thaw. The world book stays untouched.

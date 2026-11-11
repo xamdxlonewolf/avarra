@@ -14,9 +14,7 @@ updated: 2026-10-22
 
 # Movements Home
 
-[[Movements]] already has a home, under `05 - Factions/Organizations`. The pear-graft, the withdrawers, and the disinherited stay on that note.
-
-This folder does not hold a second copy.
+[[Movements]] already has a home, under `05 - Factions/Organizations`, and that is the note to read if you want the people. The pear-graft, the withdrawers, and the disinherited stay on that note. This folder does not hold a second copy of them.
 
 ## Links
 
@@ -24,4 +22,4 @@ This folder does not hold a second copy.
 
 ## GM Notes
 
-Do not move [[Movements]] into this folder so the heading has the file. Do not add a fourth movement.
+Do not move [[Movements]] into this folder so the heading has a file of its own. Do not add a fourth movement.

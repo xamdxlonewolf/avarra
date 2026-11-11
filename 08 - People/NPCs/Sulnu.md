@@ -18,9 +18,9 @@ updated: 2026-10-22
 
 # Sulnu
 
-> Carries a cleared ticket from the council hall at [[Raitin]] down to the river stair. The ticket is the league's arithmetic. It is not a crown.
+> Sulnu carries a cleared ticket from the council hall at [[Raitin]] down to the river stair. The ticket is the league's arithmetic, and it is not a crown.
 
-*(SUL-noo.)* Of Raitin. A neighbour says Sulnu. A stranger hears Sulnu of Raitin. There is no house.
+People on the stair say Sulnu (SUL-noo), and a stranger hears Sulnu of Raitin. There is no house-name to give them.
 
 ## At a glance
 
@@ -29,27 +29,27 @@ updated: 2026-10-22
 | **Want** | A ticket that still means something at the water |
 | **Have** | The stair, the stone, the bowl |
 | **Fear** | A note that cleared upstairs and is refused at the tying-post |
-| **Live conflict** | Shared coin moves. Standing does not. |
+| **Live conflict** | Shared coin moves, and standing does not |
 | **Hooks** | A river-stone in a bowl at dusk; [[Turvo]]'s book; [[Nubo]]'s name on a ticket the next hearth will not take |
 
 ## Summary
 
-Sulnu works the distance between the hall and the river. When a shared note clears, the ticket has to reach a barge, a factor, or a hearth's runner. Sulnu walks it down. They are not the council, and they do not speak for the six charter-towns.
+Sulnu works the distance between the hall and the river. When a shared note clears, the ticket has to reach a barge, a factor, or a hearth's runner, and Sulnu is who walks it down. They are not the council, and they do not speak for the six charter-towns.
 
-They set a river-stone on a shared note, and put the stone in a bowl of water at dusk. They will not say why.
+They set a river-stone on a shared note, and put the stone in a bowl of water at dusk, and they will not say why.
 
-The league underwrites. It does not become one house because the ticket passed through one pair of hands.
+The league underwrites, and it does not become one house because the ticket passed through one pair of hands. Shared coin can move down the stair, and a person's standing does not move with it.
 
 ## Appearance & Demeanor
 
-Damp cuffs. A satchel that closes. They will say the hearth's name if they were given it, and they will not invent one to make the stair feel finished.
+The cuffs stay damp, the satchel closes, and they will say the hearth's name if they were given it, and they will not invent one to make the stair feel finished.
 
 ## Role & Relationships
 
-- **[[Raitin]]** — the stair is the work. The hall is upstairs.
-- **[[Turvo]]** — the page. Sulnu does not turn it.
-- **[[Nubo]]** — a ticket that can leave the hall and still fail. Sulnu has carried that kind.
-- **[[Orentel]]** — a different river's mouth, and a different price. Sulnu does not clear a berth.
+- **[[Raitin]]** — The stair is the work Sulnu walks, and the hall that clears the note is upstairs from it.
+- **[[Turvo]]** — Turvo keeps the page in the hall, and Sulnu does not turn that page.
+- **[[Nubo]]** — A ticket can leave the hall and still fail at the next hearth, and Sulnu has carried that kind of ticket.
+- **[[Orentel]]** — Orentel is a different river's mouth and a different price, and Sulnu does not clear a berth there.
 
 ## Links
 - [[Raitin]] · [[Brenledd]] · [[Turvo]] · [[Nubo]]
@@ -57,6 +57,6 @@ Damp cuffs. A satchel that closes. They will say the hearth's name if they were 
 
 ## GM Notes
 
-- **Not a court.** One of three people at Raitin. No person-list. Do not invent a house. Do not make the ticket a second government.
+- **Not a court.** Sulnu is one of three people at Raitin, there is no person-list, and a later note must not invent a house or make the ticket a second government.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261018 --register eroded --count 80` — position 60. Full throwback list on [[Raitin]].
-- **The stone in the bowl is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite.
+- **The stone in the bowl is a habit,** and a later note must not explain it or turn it into a power, a relic, or a rite.

@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Raitin
 
-> **Brenledd's throne-city.** *(RAY-tin.)* People say **the Hearth-League**. Charters write *Brenledd*. This is where the council sits and the shared notes clear. The league stays a league of hearths. It does not become one house.
+> **Brenledd's throne-city.** *(RAY-tin.)* People say **the Hearth-League**, and the charters write *Brenledd*. This is where the council sits and where the shared notes clear. The league stays a league of hearths. It does not become one house.
 
 ## At the table
 
@@ -31,35 +31,35 @@ updated: 2026-10-22
 
 ## Overview
 
-Raitin is a river-city on [[Strandoren]], inland of the Ledger Coast, and one of the largest cities on that shore. It is the throne-city of [[Brenledd]]. Six charter-towns sit around it. This note does not name them. Villages and hamlets along the same water are not on the shared list.
+Raitin is a river-city on [[Strandoren]], inland of the Ledger Coast, and one of the largest cities on that shore. It is the throne-city of [[Brenledd]], with six charter-towns around it that this note does not name. The villages and hamlets along the same water are not on the shared list.
 
-The shared list is seven hearths. Raitin is one. People still recite Nidtol when [[Polity Archetypes|Lestrand]] offers to deal with one ruler instead of seven hearths. Nidtol is the hearth that made the league's first shared refusal in Cut-year 174, after the Grey Summer, and the name is recited for that. It is not this city, and it is not a person in this hall.
+The shared list is seven hearths, and Raitin is one of them. People still recite Nidtol when [[Polity Archetypes|Lestrand]] offers to deal with one ruler instead of seven hearths. Nidtol is the hearth that made the league's first shared refusal in Cut-year 174, after the Grey Summer, and the name is recited for that. Nidtol is not this city, and it is not a person in this hall.
 
-[[Orentel]] prices a berth. Raitin clears a note among hearths. It is not a second Orentel. There is no crown here, and no [[Naming in the Turning|Threnhael]]. You are of your town first. The [[Law and Citizenship|three pillars]] are the machinery a commercial shore already uses. An unvouched person is a transaction that cannot clear. A vouched person can still be unknown in the next hearth.
+Where [[Orentel]] prices a berth, Raitin clears a note among hearths, and this city is not a second Orentel. There is no crown here and no [[Naming in the Turning|Threnhael]], and you are of your town first. The [[Law and Citizenship|three pillars]] are the machinery a commercial shore already uses. An unvouched person is a transaction that cannot clear, and a vouched person can still be unknown in the next hearth.
 
-Faith is worn light, as on the rest of this coast. A Hand stands beside the council hall. Leaf-Fall is kept there. Nothing is policed. A charter is.
+Faith is worn light, as on the rest of this coast, and a Hand stands beside the council hall, where Leaf-Fall is kept. Nothing is policed. A charter is.
 
-Raitin's daily work is clearing shared notes between hearths. Necessity is a person the next charter does not know.
+Raitin's daily work is clearing the shared notes that pass between hearths, and necessity is a person the next charter does not know.
 
 ## Ways in
 
-- **From the Ledger Coast.** The coast this league got tired of meeting as the other party on a note is the Ledger Coast. The road to Raitin comes inland from [[Orentel]] and the premier quays, south-west of Orentel on the atlas. This note does not record the days. The city is not that estuary, and it does not hold a First-Hand year.
+- **From the Ledger Coast.** The coast this league got tired of meeting as the other party on a note is the Ledger Coast. The road to Raitin comes inland from [[Orentel]] and the premier quays, south-west of Orentel on the atlas, and this note does not record the days. The city is not that estuary, and it does not hold a First-Hand year.
 - **By the river.** Barges and the lesser boat-traffic tie at the stair under the hall. This water is not the [[Named Ground|Chart-run]]. That run is [[Lunbra]]'s, four to eight days upriver of Orentel.
-- **From the charter-towns.** Six hearths sit around the city, each with its own Tree and its own vouching. Their names are not written here. A hamlet on the towpath is not a seventh name on the list.
+- **From the charter-towns.** Six hearths sit around the city, each with its own Tree and its own vouching, and their names are not written here. A hamlet on the towpath is not a seventh name on the list.
 
-Water for the city is the river and the cisterns above the stair. Food is what the hearths underwrite into the market: grain, river-fish, and a ticket a charter will still honour. The [[The Taken-In|Taken-In]] keep rented greens off the towpath. They are not a nation.
+Water for the city is the river and the cisterns above the stair. Food is what the hearths underwrite into the market: grain, river-fish, and a ticket a charter will still honour. The [[The Taken-In|Taken-In]] keep rented greens off the towpath, and they are not a nation.
 
-The hall and the river stair are what a crowd can point at. A rise in the river still lifts the lower doors. The city plans for that week.
+The hall and the river stair are what a crowd can point at. A rise in the river still lifts the lower doors, and the city plans for that week.
 
 ## The work
 
 The work happens in the **council hall**, at the head of the river stair, where the shared notes clear.
 
-[[Turvo]] keeps the notes. [[Sulnu]] carries a cleared ticket down to the stair. [[Nubo]] is vouched in this city and still unknown where another hearth did not stand them. A neighbour says the given name. A stranger hears *of Raitin*. There is no house to put first. The Hearth-League will not write one. The six charter-towns keep their own hearths. This hall does not appoint them.
+[[Turvo]] keeps the notes. [[Sulnu]] carries a cleared ticket down to the stair. [[Nubo]] is vouched in this city and still unknown where another hearth did not stand them. A neighbour says the given name, and a stranger hears *of Raitin*. There is no house to put first, and the Hearth-League will not write one. The six charter-towns keep their own hearths. This hall does not appoint them.
 
 ## One tension
 
-A note can clear in this hall and still die in the next hearth. The fade sits in that gap, and the league calls the gap local. Lestrand can still offer one ruler in place of seven hearths. Raitin is where the council sits. It is not that ruler, and the league does not become one house by having a throne-city.
+A note can clear in this hall and still die in the next hearth. The fade sits in that gap, and the league calls the gap local. Lestrand can still offer one ruler in place of the seven hearths. Raitin is where the council sits. It is not that ruler, and the league does not become one house by having a throne-city.
 
 ## Habits
 
@@ -81,10 +81,10 @@ The lamps on the river stair are lit from the hall downward. They will not say w
 
 ## People
 
-Three people. Not a court. Not a house.
+The note names three people, not a court, and not a house.
 
 - **[[Turvo]]** — keeps the shared notes. A neighbour says Turvo. A stranger hears Turvo of Raitin.
-- **[[Nubo]]** — vouched in the city. Unknown in a hearth that did not stand them.
+- **[[Nubo]]** — vouched in the city, and unknown in a hearth that did not stand them.
 - **[[Sulnu]]** — carries the cleared ticket between the hall and the river stair.
 
 [[Orentel]]'s factors, [[Lunbra]]'s roll, and the signing-watch at [[Naenor]] are other powers. They are not a staff for this hall. Nidtol is not a chair here.
@@ -98,9 +98,9 @@ Three people. Not a court. Not a house.
 
 ## GM Notes
 
-- **S.2 seat.** Brenledd's throne-city. A river-city, upper end of large, one of the largest. The council sits here. The shared notes clear here. Six charter-towns stay around it, unnamed. Villages and hamlets are not on the list. Seven hearths. Raitin is one. Nidtol stays the recited hearth-name, and is not this city. Do not give Nidtol a note, a ruler, or a chair. The league stays a league of hearths. It does not become one house. Not a second Orentel.
-- **No person-list.** A neighbour gets the given name. Do not invent a house for Raitin. Do not put a Kind-name in the civic slot. Do not staff the six charter-towns. Do not give them a habit.
+- **S.2 seat.** This is Brenledd's throne-city, a river-city at the upper end of large, and one of the largest. The council sits here, and the shared notes clear here. Six charter-towns stay around it, unnamed, and the villages and hamlets are not on the list. The shared list is seven hearths, and Raitin is one. Nidtol stays the recited hearth-name, and Nidtol is not this city. Do not give Nidtol a note, a ruler, or a chair. The league stays a league of hearths, and it does not become one house. This is not a second Orentel.
+- **No person-list.** A neighbour gets the given name. Do not invent a house for Raitin, do not put a Kind-name in the civic slot, do not staff the six charter-towns, and do not give them a habit.
 - **Names.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261018 --register eroded --count 80` — **Nubo** position 27, **Turvo** position 42, **Sulnu** position 60. Thrown back from that field: Sosonsi, Noson, Rusudson, Sonlo (son); Lerun and Durun (run); Volna beside Volnae; Nidte beside Nidtol; Romon (roman); Mortu (mort); Sirdel (sir); Sunel (sun); Nunorad (nun); Nulsin (sin); Tended; Minor; Bernadlen; Varmer; Savil; Vontol and Vono beside Vonti; Manin beside Talnin; Dadradtar and Lodnudnul, which a table will not say.
 - **Habits.** Eight. The count is full. A later note must not explain them, and must not turn them into a power, a relic, or a rite.
-- **One tension.** A cleared note can still die between hearths. Do not add a second city-problem. Do not draw a ward-grid. Do not name the river as a second Chart-run. The sheet, if it is drawn, is Epic M.
+- **One tension.** A cleared note can still die between hearths. Do not add a second city-problem, do not draw a ward-grid, and do not name the river as a second Chart-run. The sheet, if it is drawn, is Epic M.
 - **World book.** Do not fold this note into the book unless asked.

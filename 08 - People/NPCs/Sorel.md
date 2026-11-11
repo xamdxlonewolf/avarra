@@ -18,9 +18,9 @@ updated: 2026-10-01
 
 # Sorel
 
-Mataero's mother. Of the rise, [[Orentel]]. A neighbour says Sorel. A stranger gets Sorel of Orentel. Still alive. Still on a [[The White Note House|White Note]] century-instrument from a walk she cannot point to. While that paper is open the desk may head the line White Note, and it is the desk. It is not her family. Shut it, and she is Sorel of the rise. On Kumbaan the name is Sorel.
+Sorel is [[Mataero]]'s mother, still alive on the rise at [[Orentel]], and a neighbour says Sorel and a stranger gets Sorel of Orentel. She is still on a [[The White Note House|White Note]] century-instrument, a debt-paper out of a walk she cannot point to, and while that paper is open the desk may head the line White Note, which is the desk and not her family. Shut the paper, and she is Sorel of the rise. On Kumbaan, where a person is asked for the given name, the name is Sorel.
 
-**Want:** to understand the paper, or to die off it. She has not told her child which.
+She wants to understand the paper, or to die off it, and she has not told her child which.
 
 ## Links
 - [[Mataero]] · [[The White Note House]] · [[People of the Turning]]

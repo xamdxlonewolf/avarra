@@ -18,11 +18,9 @@ updated: 2026-10-22
 
 # Saelid
 
-*(SAY-lid.)* Camp-street baker, [[Eolvaeth]]. Younger sibling of [[Vaethod]]. A neighbour says Saelid. On those streets they are Saelid of the camp-streets. A stranger to the vale gets Saelid of Eolvaeth. There is no house. On Kumbaan the name is Saelid. Taken-In green in the stall-pots; ordinary flour in the rest.
+Saelid (SAY-lid) bakes on the camp-streets of [[Eolvaeth]] and is the younger sibling of [[Vaethod]], and a neighbour says Saelid, the streets say Saelid of the camp-streets, and a stranger to the vale gets Saelid of Eolvaeth, there being no house to put first. On Kumbaan, where a person is asked for the given name, the name is Saelid. The stall-pots hold [[The Taken-In|Taken-In]] green, the green of people the wild took partway into itself, and the rest of the bread is ordinary flour.
 
-**Want:** winter customers to buy bread. A year Vaethod sends a cohort away takes them.
-
-They know Vaethod waits until the week is over. They have not asked them to say it is for the stall.
+They want winter customers to buy the bread, and a year when Vaethod sends a cohort away takes those customers. Saelid knows Vaethod waits until the week is over, and has not asked them to say that waiting is for the stall.
 
 ## Links
 - [[Vaethod]] · [[Eolvaeth]] · [[People of the Turning]]

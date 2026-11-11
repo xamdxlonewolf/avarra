@@ -1,22 +1,22 @@
 # Maps
 
-East is Maiethorn, where the wood is oldest. West is Heskoren, where the wood is still thin, and past the storm-wall is Kumbaan. The names of the water and the stone are in *Climate, Ecology, and Travel*. What the lands are is in *The Four Continents*. These sheets show where a named place sits. If a painted roof and a sentence in this book disagree, follow the sentence.
+East is Maiethorn, where the wood is oldest. West of that heart the grafts are still arriving on Heskoren, and past the storm-wall is Kumbaan, where the count of Trees is none. The names of the water and the stone are in *Climate, Ecology, and Travel*. What the lands are is in *The Four Continents*. These sheets show where a named place sits. If a painted roof and a sentence in this book disagree, follow the sentence.
 
-On the drawing, west is left and east is right. From the left the lands run: Kumbaan, an isle with no Trees, then the storm-wall, then Heskoren, where the wood is thin, then the West Water, then Strandoren, where the wood is mature, then the Old Crossing, then Maiethorn, where the wood is oldest. The coastlines are a sketch, not a measured survey. West is left on the sheets that carry names. The relative positions stay.
+There are two kinds of drawing, and they are not the same thing. The schematic is the placement: west is left, east is right, and if you read it from the left you are walking the reach backward, from none, through thin, through high, and at last to full. Kumbaan, the storm-wall, Heskoren, the West Water, Strandoren, the Old Crossing, and Maiethorn sit in that order, and the coastlines on it are a sketch, not a measured survey. The pictures in this chapter are the labeled paintings. They carry the same four landmasses and the same west-is-left rule, and they are still paintings. The relative positions stay. A later page may turn the compass. What has to hold is who sits next to whom, and how far.
 
 ## World map
 
-The picture is the labeled world painting. West is left. The labels are the ones painted on that sheet. Four landmasses. The Old Crossing, the West Water, the Rain-Wall, four rivers, the Noon Pass, and the Shelf-gate. The fifteen powers are regions of ground. No surveyed border is painted. If a painted roof and a sentence here disagree, follow the sentence. An isle with no name in these notes is paint.
+The picture is the labeled world painting. West is left, and the labels are the ones painted on that sheet: four landmasses, the Old Crossing, the West Water, the Rain-Wall, the four rivers, the Noon Pass, and the Shelf-gate. The fifteen powers are regions of ground. No surveyed border is painted. If a painted roof and a sentence here disagree, follow the sentence. An isle with no name in these notes is paint.
 
-**Rothallo** is the mark inside Orenbren, one day's walk from the wood. People still say the Inner Close. That name is this city, and the city is the capital. On the regional sheets the painted mark is small. No sheet paints a star on a capital. Maiethlir and Orentel are each marked once.
+**Rothallo** is the mark inside Orenbren, one day's walk from the wood. People still say the Inner Close. That name is this city, and the city is the capital. On the regional sheets the painted mark is still the small walled square. No sheet paints a star on a capital. Maiethlir and Orentel are each marked once.
 
-Capitals, large cities, and important towns are marked where the notes already place them. **Vaelhesk** is the land. It has no settlement dot. Harrow's Green is a grove-town. Ornsael is a well-town. The First Seat stands in the wood. No sheet marks it. Rothallo is the capital. No date is written on the Tree. There is no graft on Kumbaan. None took on the isle.
+Capitals, large cities, and important towns are marked where the notes already place them. **Vaelhesk** is the land. It has no settlement dot. Harrow's Green is a grove-town, not a capital. Ornsael is a well-town, not a capital. The First Seat stands in the wood, and no sheet marks it. No date is written on the Tree. There is no graft on Kumbaan, and none took on the isle.
 
-On the drawing, three older stones are small marks: the Low Wall, the Seeing-Ring, and the Dry Stair. They are found stone from before the Walking Years. The Seeing-Ring is on a hill north-east of Maiethlir. The painted sheets do not mark it. The Ages chapter tells that stretch.
+On the drawing, three older stones are small marks: the Low Wall, the Seeing-Ring, and the Dry Stair. They are found stone from before the Walking Years, on this same ground. The Seeing-Ring is on a hill north-east of Maiethlir. The painted sheets do not mark it. The Ages chapter tells that stretch.
 
 <img src="../../Maps/The-Turning-World-Atlas-Labeled.png" alt="Labeled world painting. West is left. Kumbaan behind the storm-wall, then Heskoren, the West Water, Strandoren, the Old Crossing, and Maiethorn." />
 
-**Natai** sits west of Harrow's Green, between Sanbreo and that grove, on ground of its own. The hamlets' ford is a different crossing. **Larbril** is where the west road meets the Well-wash, short of the pass, west of Ornsael's well. **Ornsael** is farther into the dry, at a well. Open country lies between it and Larbril, and the town sits inland.
+**Natai** sits west of Harrow's Green, between Sanbreo and that grove, on ground of its own. The hamlets' ford is a different crossing. **Larbril** is where the west road meets the Well-wash, short of the pass, west of Ornsael's well. **Ornsael** is farther into the dry, at a well. Open country lies between it and Larbril, and the town sits inland. Where the paint and a sentence in this book disagree, follow the sentence.
 
 ## Continent maps
 
@@ -24,25 +24,25 @@ On the drawing, three older stones are small marks: the Low Wall, the Seeing-Rin
 
 <img src="../../Maps/Maiethorn-Atlas-Labeled.png" alt="Labeled painting of Maiethorn. West is left." />
 
-The Mother-core lies west of the Rain-Wall. Thaeloren is the canopy-ring in the old growth, the Tree the later cuttings came from. Rothallo is the walled mark one day out. People still say the Inner Close, and the city is the capital. Maiethlir sits where the Core-thaw slows. Seinbrun stands off that river, north of Maiethlir. The Seeing-Ring's hill is north-east of Maiethlir and is not painted. The Third Hearth is a road-house three days out. Lirorn is the range. The name of the divide is the Rain-Wall. Lirorn calls it the Thaw-Wall. The Noon Pass is the older high notch. The Shelf-gate is the lower road. Tasain is in the valley below that gate, on the wet side, south of Thaeloren. Saelthael is the dry east. Larbril is the meeting of the west road and the Well-wash, east of the range. Ornsael is the well-town farther along that road into the dry. The Hinge Shore is Maiethorn's face on the Old Crossing. Votaer is the port on that shore.
+The Mother-core lies west of the Rain-Wall. Thaeloren is the canopy-ring in the old growth, the Tree the later cuttings came from. Rothallo is the walled mark one day out. People still say the Inner Close, and the city is the capital, still painted at the scale of that small square. Maiethlir sits where the Core-thaw slows. Seinbrun stands off that river, north of Maiethlir. The Seeing-Ring's hill is north-east of Maiethlir and is not painted. The Third Hearth is a road-house three days out. Lirorn is the range. The name of the divide is the Rain-Wall, and Lirorn calls it the Thaw-Wall. The Noon Pass is the older high notch, the one with the water-line. The Shelf-gate is the lower road, the one taken after the Break. Tasain is in the valley below that gate, on the wet side, south of Thaeloren. Saelthael is the dry east. Larbril is the meeting of the west road and the Well-wash, east of the range and short of the pass. Ornsael is the well-town farther along that road into the dry, with open country between the two, and the town sits inland. The Hinge Shore is Maiethorn's face on the Old Crossing. Votaer is the port on that shore.
 
 **Strandoren**, middle. The labeled continent painting is the picture.
 
 <img src="../../Maps/Strandoren-Atlas-Labeled.png" alt="Labeled painting of Strandoren. West is left." />
 
-Orentel is a plain dot at the eastern estuary. The Chart-run crosses the interior to that estuary. Lunbra is on the run, upriver of the salt. Raitin stands on the river behind the premier coast, south-west of Orentel. The Chart-run is the river that reaches Orentel's estuary. Trenledd and Netstrand are written as areas of ground. No border is painted around them. Naenor is on the south coast, south-west of Orentel and south of Raitin, on water of its own, apart from the Chart-run and apart from the West Water. Braetu is the harbour on the Night Shore. Six charter-towns sit around Raitin. This sheet does not name them, and it does not mark them.
+Orentel is a plain dot at the eastern estuary, not a star. The Chart-run crosses the interior to that estuary. Lunbra is on the run, upriver of the salt. Raitin stands on the river behind the premier coast, south-west of Orentel. Trenledd and Netstrand are written as areas of ground, and no border is painted around them. Naenor is on the south coast, south-west of Orentel and south of Raitin, on water of its own, apart from the Chart-run and apart from the West Water. Braetu is the harbour on the Night Shore. Six charter-towns sit around Raitin. This sheet does not name them, and it does not mark them. Denlad, the inlet about a day's sail short of the estuary, has no sheet of its own.
 
 **Heskoren**, west of the West Water. The labeled continent painting is the picture.
 
 <img src="../../Maps/Heskoren-Atlas-Labeled.png" alt="Labeled painting of Heskoren. West is left." />
 
-West is left. The west coast is the slate-shore, in Ornled, facing the last capes and the storm-wall. The sea on the right of the sheet, the Strandoren side, is the West Water, off Heskoren's east coast. Eolvaeth is the pilgrim-town in the waiting vale. The vale has no view of Harrow's. Sanbreo is the slate-shore town on the west coast, the mark that names Ornled's seat. Its beach faces west. Harrow's Green is a plain grove-town on the live-front rise. Natai is the march west of that grove, between Sanbreo and Harrow's, on ground of its own. The hamlets sit on different ground past the Rise-water crossing: Brenod, Vaelun, and Ornath. Their ford is that crossing. Harrow's square is the grove-town's own ground. Vaelhesk is old greens. It has no settlement dot.
+West is left. The west coast is the slate-shore, in Ornled, facing the last capes and the storm-wall. The sea on the right of the sheet, the Strandoren side, is the West Water, off Heskoren's east coast. Eolvaeth is the pilgrim-town in the waiting vale, and the vale has no view of Harrow's. Sanbreo is the slate-shore town on the west coast, the mark that names Ornled's seat, and its beach faces west. Harrow's Green is a plain grove-town on the live-front rise. Natai is the march west of that grove, between Sanbreo and Harrow's, on ground of its own. The hamlets sit on different ground past the Rise-water crossing: Brenod, Vaelun, and Ornath. Their ford is that crossing. Harrow's square is the grove-town's own ground. Vaelhesk is old greens, and it has no settlement dot. Tunral, a kitchen and a post coastward of Harrow's with no sight of the canopy, has no sheet of its own.
 
 **Kumbaan**, behind the storm-wall. The labeled continent painting is the picture. There is no settlement dot and no graft.
 
 <img src="../../Maps/Kumbaan-Atlas-Labeled.png" alt="Labeled painting of Kumbaan. The storm-wall is weather around the isle. No graft." />
 
-One isle. The name sits on the hill-country with no point marker. The storm-wall is weather around the isle: cloud, current, and reef. The sheet shows no graft, no city, no harbour, no safe channel, and no Tree. Ndenjoo is a hill-hall. The sheet gives it no flag. Nothing on the isle is a graft.
+It is one isle, and the name sits on the hill-country with no point marker. The storm-wall is weather around the isle: cloud, current, and reef. The sheet shows no graft, no city, no harbour, no safe channel, and no Tree. Ndenjoo is a hill-hall. Njunda keeps its table, and that is a person, not a second mark. The sheet gives the hall no flag. Nothing on the isle is a graft.
 
 ## The overlays
 
@@ -62,11 +62,11 @@ Each painted region keeps the names the ground already had.
 
 <img src="../../Maps/Rain-Wall-Atlas-Labeled.png" alt="Labeled painting of the Rain-Wall. Tasain is the town below the Shelf-gate." />
 
-**The Rain-Shadow.** The dry east, painted as weather. Larbril is on the west road, short of the pass. Ornsael is on the well, farther into the dry. The Well-wash is seasonal water. The Dry Stair is a site on a different rise. The well-town at its shoulder has no name in these notes.
+**The Rain-Shadow.** The dry east, painted as weather. Larbril is on the west road, short of the pass. Ornsael is on the well, farther into the dry, with open country between them. The Well-wash is seasonal water. The Dry Stair is a site on a different rise. The well-town at its shoulder has no name in these notes.
 
 <img src="../../Maps/Rain-Shadow-Atlas-Labeled.png" alt="Labeled painting of the Rain-Shadow. Larbril is short of the pass. Ornsael is the well farther into the dry." />
 
-**The Chart-run.** The river to Orentel's estuary. The first quay is the old landing. The White Note is one desk-house on the third quay, north side. It keeps the notes. Lunbra is upriver of the salt. Other towns in the filed country have no names on this sheet.
+**The Chart-run.** The river to Orentel's estuary. The first quay is the old landing. The White Note is one desk-house on the third quay, north side. It keeps the notes, and it is not a crown. Lunbra is upriver of the salt. Other towns in the filed country have no names on this sheet.
 
 <img src="../../Maps/Chart-Run-Atlas-Labeled.png" alt="Labeled painting of the Chart-run. Lunbra is upriver. The White Note is a desk, not a crown." />
 
@@ -74,7 +74,7 @@ Each painted region keeps the names the ground already had.
 
 <img src="../../Maps/West-Water-Atlas-Labeled.png" alt="Labeled painting of the West Water. Braetu is the harbour on the Night Shore." />
 
-**The live front.** Harrow's is a grove-town on the rise. The march's seat is Natai, west of this grove. The Rise-water runs to the ford. Brenod, Vaelun, and Ornath are three small hearths past the crossing.
+**The live front.** Harrow's is a grove-town on the rise. The march's seat is Natai, west of this grove, and this sheet is not Natai's square. The Rise-water runs to the ford. Brenod, Vaelun, and Ornath are three small hearths past the crossing.
 
 <img src="../../Maps/Live-Front-Atlas-Labeled.png" alt="Labeled painting of the live front. Harrow's Green is on the rise. Natai is not this square." />
 
@@ -84,7 +84,7 @@ Each painted region keeps the names the ground already had.
 
 ## Square and seat maps
 
-Closer sheets exist for the seats and the town squares that already have streets. They are the same places as the notes. A closer sheet of a city is that city. Rothallo's gate is the same square gatehouse as the city: beds outside, the Book inside. Larbril's Well-wash is a silt-line. The road there is the west road. Vaelhesk has no sheet.
+Closer sheets exist for the seats and the town squares that already have streets. They are the same places as the notes. A closer sheet of a city is that city. Rothallo's gate is the same square gatehouse as the city: beds outside, the Book inside. Larbril's Well-wash is a silt-line, and the road there is the west road. Vaelhesk has no sheet. Raillath, Denlad, and Tunral are on the travel table, and they have no sheet of their own. The Third Hearth, the three hamlets, and the First Bowl are painted on the regional sheets above, not as cities of their own.
 
 | Place | What to find |
 |---|---|
@@ -92,13 +92,15 @@ Closer sheets exist for the seats and the town squares that already have streets
 | **Seinbrun** | Maiethvael's capital, off the Core-thaw, north of Maiethlir and more than a day from it |
 | **Maiethlir** | on the Core-thaw, a day's carry of living wood out from the Motherwood. The grove is other ground. The First Seat has no mark |
 | **the Third Hearth / Brenthael** | Near Mile, three days out from Thaeloren, then one day further |
+| **Raillath** | the ordinary halt between Brenthael and the Mill-hold, a day from each; no sheet |
 | **the Mill-hold** | two days past Brenthael; the culvert and the Hand, its Turning Tree |
 | **Nelath** | the spur off the Near Mile; the road stops |
 | **Larbril** | west road meets the Well-wash, short of the pass, on the dry side east of the Rain-Wall |
 | **Ornsael** | well-town farther into the dry, inland, with open country between it and Larbril |
 | **Votaer** | Hinge Shore port, facing Orentel |
 | **Tasain** | walled town below the Shelf-gate, south of Thaeloren on the west road |
-| **Orentel** | Chart-run estuary; the White Note is a desk on the third quay |
+| **Orentel** | Chart-run estuary; the White Note is a desk on the third quay, north side |
+| **Denlad** | a side inlet about a day's sail short of that estuary, toward the Hinge Shore; no sheet |
 | **Raitin** | Brenledd's throne-city, on the river behind the premier coast, south-west of Orentel |
 | **Naenor** | Leddvael's port, on its own south-coast water, south-west of Orentel and south of Raitin |
 | **Lunbra** | Trenledd, on the Chart-run |
@@ -106,26 +108,29 @@ Closer sheets exist for the seats and the town squares that already have streets
 | **Sanbreo** | Ornled's slate-town on Heskoren's west coast, the slate-shore; on the brink of a small city; the beach faces the last capes |
 | **Natai** | Saelvaeth's march-town, west of Harrow's Green, between Sanbreo and that grove |
 | **Harrow's Green** | grove-town on the live front; the Rise-water runs to the ford. The march's seat is Natai |
+| **Tunral** | a kitchen and a post coastward of Harrow's, about a week, with no sight of the canopy; no sheet |
 | **the Three Hamlets** | the ford; canopy visible from the water in clear weather |
 | **the First Bowl** | guest-grove in the Yield, away from Harrow's. Vaelhesk itself has no dot |
 | **Eolvaeth** | Vaethorn vale, with no view of Harrow's |
 | **Ndenjoo** | hill-hall on Kumbaan; no Tree and no graft |
 
-Three old walks are still roads:
+Three old walks are still roads.
 
-- **Near Mile** — inland stones toward Thaeloren. Some now end at a Turning Tree. Nelath's spur is one road that stops.
-- **Salt Walk** — the Old Crossing, then the Near Mile. The Hush-rate is charged on the hinge. Votaer sorts the hull. Orentel prices the berth.
-- **Long Mile** — the West Water, then Heskoren mud. Empty road-houses still make the bed. Braetu quotes the far run.
+The **Near Mile** is the inland stones toward Thaeloren. Some of them now end at a Turning Tree. Nelath's spur is one road that stops, and Raillath is the halt that does not.
+
+The **Salt Walk** is the Old Crossing, then the Near Mile. The Hush-rate is charged on the hinge. Votaer sorts the hull. Orentel prices the berth. Denlad is the inlet where a family can still miss the week.
+
+The **Long Mile** is the West Water, then Heskoren mud. Empty road-houses still make the bed. Braetu quotes the far run.
 
 The travel times are in *Climate, Ecology, and Travel*. A day's walk is the interval a mile-shrine marks.
 
-Closer paintings of the seats and town squares that have them. West is left on each. Vaelhesk has no sheet. The Third Hearth, the three hamlets, and the First Bowl are painted on the regional sheets above.
+Closer paintings of the seats and town squares that have them follow. West is left on each.
 
 **Rothallo**, the walled capital. People still say the Inner Close.
 
 <img src="../../Maps/Rothallo-Atlas-Labeled.png" alt="Labeled painting of Rothallo, Orenbren's walled capital." />
 
-The gate is the same square gatehouse. Beds are outside. The Book is inside.
+The gate is the same square gatehouse, with the beds outside and the Book inside.
 
 <img src="../../Maps/Rothallo-Gate-Atlas-Labeled.png" alt="Labeled painting of Rothallo's gate. Beds outside, the Book inside." />
 
