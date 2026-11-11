@@ -14,27 +14,27 @@ updated: 2026-10-22
 
 # The Houses and the Years
 
-> **This page points to the notes that hold the ages and the faiths.** The ages, the cut, and the year a square still cites already have their notes. So do the faiths. This page does not retell them.
+> **This page points at the notes that already hold the ages and the faiths.** The ages, the cut, and the year a square still cites when it teaches a rite all have their own notes, and so do the faiths. Nothing on this page retells them.
 
 ## What they count
 
-[[The Ages of the Turning]] is how the past is divided: two clocks, an unnamed preface, no universal year-zero. [[Before the Walk]] is that preface, kept thin on purpose. The origin Tree is not given a birthday there.
+[[The Ages of the Turning]] is the note that divides the past. It keeps two clocks, it keeps a preface that was never given a name, and it keeps no year that the whole world treats as zero. [[Before the Walk]] is that preface, and it is kept thin on purpose, so the origin Tree is not given a birthday there.
 
-[[The First Cut]] is the hinge a Seat and a devout clerk count from. The note keeps five attributions and does not pick a hand. This page does not pick one either.
+[[The First Cut]] is the hinge a Seat and a devout clerk use when they count years forward from something. That note keeps five attributions for the hand that did the cutting, and it does not choose among them. This page does not choose either.
 
-[[The Wrong Green]] is the cited mis-Speaking, Harrow's, Cut-year 248. Wardens still use it when they teach a town not to name a fall the square wishes it had. It is case-law for a rite. It is not an age.
+[[The Wrong Green]] is the mis-Speaking the squares still cite, the one at Harrow's in Cut-year 248. Wardens still bring it out when they are teaching a town not to give a fall the name the square wishes the fall had earned. It is case-law for a rite, a ruling a warden can point at, and it is not one of the ages of the world.
 
-What a clerical count starts, and what that start does not make into a first becoming, is said on [[The Ages of the Turning]] and [[Before the Walk]]. Nothing on this page adds a year before the cut, or a year for the wood.
+What a clerical count is allowed to treat as its beginning, and what that beginning does not turn into a first becoming, is said on [[The Ages of the Turning]] and on [[Before the Walk]]. Nothing written here adds a year before the cut, or a year that would belong to the wood itself.
 
-A Watcher will not start history at the cut. The Old Ways start at a door. The Fair Hand starts at a signing. The Open Table keeps moons and owes the ages nothing. Those uses are already in the ages note and in [[Faiths of the Turning]].
+A Watcher will not begin history at the cut, the Old Ways begin at a door, the Fair Hand begins at a signing, and the Open Table keeps its moons and owes the ages nothing. Those ways of starting are already set down in the ages note and in [[Faiths of the Turning]].
 
 ## What is kept off the square
 
-[[The Unspent]] is a cup some [[Long-Lived]] keep, and [[The Pourers]] are the people who keep the cup. Neighbours call it a memorial with airs. It does not stand in a square, and it is not one of the five faiths.
+[[The Unspent]] is a cup that some [[Long-Lived]] keep, and [[The Pourers]] are the people who keep the cup. Neighbours call the arrangement a memorial with airs, the cup is not stood up in a square, and the practice is not one of the five faiths.
 
-[[The Uncoloured Intake]] is a gift-hall's working copy: slips from people who would not agree to one explanation. It is paper. It is not a roster of powers.
+[[The Uncoloured Intake]] is a working copy from a gift-hall, slips written down for people who would not agree to a single explanation of what had happened to them. The slips are paper, and they are not a roster of powers.
 
-[[The Leaf-Mother]] holds the argument about a threshold — still hers, or not — as belief. [[Maieth]] is the presence the devout name. The other faiths keep their own verbs for the same hour. The map is [[Faiths of the Turning]].
+[[The Leaf-Mother]] holds the argument about a threshold, whether a change that came away from the Tree is still hers or is not, and it holds that argument as belief. [[Maieth]] is the name the devout use for the presence they mean. The other faiths keep their own verbs for that same hour, and the map of all of them is [[Faiths of the Turning]].
 
 ## Links
 
@@ -47,6 +47,6 @@ A Watcher will not start history at the cut. The Old Ways start at a door. The F
 
 ## GM Notes
 
-- **Do not rewrite the ages.** Epic 6 already locked the spine, the cut, the spread, and the cited year. This hub points. It does not grow a pre-Cut chronicle, a cutter, a Tree-date, or a cause for her limit.
-- **Household notes stay behind the wall.** [[The Other Hands]] is the household. [[Is the Leaf-Mother Real]] is the keystone. Do not copy either into the player body. [[The Unspent]] is already the player-facing cup; its reality stays on that note's own wall.
-- **Do not** add a power, put a graft on Kumbaan, or set a power in the storm-wall to block anyone. World book untouched.
+- **Do not rewrite the ages.** Epic 6 already locked the spine of them, the cut, the spread, and the year the squares cite. This page points at those notes. It does not grow a chronicle from before the Cut, it does not name the person who cut, it does not date a Tree, and it does not supply a cause for her limit.
+- **The household notes stay behind the wall.** [[The Other Hands]] is the household. [[Is the Leaf-Mother Real]] is the keystone. Do not copy either of those notes into the player-facing body of this page. [[The Unspent]] is already the cup a player is allowed to read about, and what that cup actually is stays on the wall inside the Unspent note.
+- **Do not** add a power to this page, set a graft on Kumbaan, or plant a power in the storm-wall for the sake of blocking someone. The world book stays untouched.

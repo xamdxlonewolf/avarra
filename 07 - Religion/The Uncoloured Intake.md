@@ -13,9 +13,9 @@ updated: 2026-10-22
 
 # The Uncoloured Intake
 
-> **A gift-hall working copy.** Not a hymn. Not a census. Three slips and a covering note from a live-front hall that will feed anyone who arrived without a leaf. The clerk who wrote it can see a pot and a charter. They cannot see why the four people describe what happened to them so differently.
+> **A working copy from a gift-hall, not a hymn and not a census.** What survived is three slips and a covering note, written at a hall on the live front, a hall that will feed anyone who arrived with no leaf. The clerk who wrote the note can see a pot and can see a charter. The clerk cannot see why the four people describe what happened to them in such different ways.
 
-Found among last Hale-month's papers at a Heskoren gift-hall that still takes the neighbour's week. No Speaker signed it. The verso is a grain-count.
+The pages were found among last Hale-month's papers at a gift-hall on [[Heskoren]]. That hall still takes the neighbour's week, the week kept with the neighbouring town, and it still feeds the people who arrive during it. No Speaker signed the pages. A Speaker would have been the warden whose work is to name a colour, and no such name is on the page. The verso, which is the back of the sheet, is a count of grain.
 
 ## Covering note
 
@@ -33,16 +33,13 @@ A fourth line, same hand, thinner ink:
 
 > *One more who will only say the ground held, then let go. Same stamp. The ink looked tired. That is the weather, or I am.*
 
-The stamp on all four is identical: *Mother's catch — uncoloured — fed.* Someone has under-scored *Mother's* on the drowning slip, then rubbed it. The paper still shows the pressure.
+The stamp on all four is the same stamp: *Mother's catch — uncoloured — fed.* Someone has under-scored *Mother's* on the drowning slip and then rubbed at the line, and the paper still shows the pressure of the pen.
 
 ## How it travels
 
-- A Wide-Hand warden keeps a copy so the hall can justify the pot.
-- A Narrow-Hand preacher quotes the drowning slip and stops before the stamp.
-- A Book-hand on a quay asks to see Senn's clause and is told the hall does not keep clauses, only soup.
-- The fourth line is sometimes omitted. Halls that omit it say the clerk was tired. Halls that keep it do not agree what *thinner* means.
+Wide-Hand and Narrow-Hand are the two readings the Motherfaith keeps of a change that arrived with no colour, and this sheaf of paper does not decide which reading is right. A Wide-Hand warden keeps a copy, because the copy lets the hall justify the pot. A Narrow-Hand preacher quotes the drowning slip and stops before the stamp, which is what the covering note expected from the preacher who would call the feeding a leak. A book-hand working a quay asks to see the clause Senn mentions, and is told that the hall does not keep clauses, only soup. The fourth line is sometimes omitted from the copy that travels. Halls that omit it say the clerk was tired. Halls that keep the line do not agree about what the thinner ink is supposed to mean.
 
-It is not taught to children. It is not [[The Child at Four Doors]]. It is paperwork that failed to settle.
+Children are not taught this paper, and it is not the story told in [[The Child at Four Doors]]. It is paperwork that tried to settle four accounts and failed.
 
 ## Links
 - [[The Leaf-Mother]] — Wide-Hand / Narrow-Hand · [[Faiths of the Turning]]
@@ -52,9 +49,9 @@ It is not taught to children. It is not [[The Child at Four Doors]]. It is paper
 
 ## GM Notes
 
-- **Household clue, not confirmation.** Four people, four rooms (book / term / breath / holding). The clerk *needs* one Mother or the charter will not feed them. That need is the blindness. Do not complete the table for the party — [[The Taken-In|Vaelorn]] is absent this season on purpose. A fifth slip that names green would turn this into a roster.
-- **Do not name Hands in play from this paper.** The party may notice the rooms disagree. You do not award [[The Other Hands]]. Pair that naming late, or never, and never with [[The Spent Leaf]].
-- **Rung 5 adjacent, not rung 6.** Struck-received, still testimony. The stamp is doctrine. The rubbed underscore is a person losing an argument with their own job.
-- **Use it as a handout.** One slip in a pack. The covering note on a hall door. Senn's line quoted by a Bound who is tired of being blessed. Do not read all four in a row as a lecture.
-- **Keyed tags.** `keystone-adjacent` (clue, no mind proved) · `the-other-hands` (this wall). Player body does not confirm her and does not name a Hand.
-- **Links (GM).** [[The Other Hands]] — what the rooms are. [[Is the Leaf-Mother Real]] — do not fire the pin through soup. [[Revelation Architecture]].
+- **A clue to the household, and not a confirmation.** You have four people and four rooms, a book, a term, a breath, and a holding. The clerk needs there to be one Mother, because otherwise the charter will not let the hall feed them, and that need is the clerk's blindness. Do not finish the table for the party. [[The Taken-In|Vaelorn]] is absent this season on purpose. A fifth slip that named the colour green would turn the paper into a roster.
+- **Do not hand the party the names of the Hands off this paper.** They may notice that the rooms do not agree with each other. Noticing is not an award of [[The Other Hands]]. If that naming ever comes, it comes late, or it never comes, and it never comes in the same breath as [[The Spent Leaf]].
+- **This sits beside rung 5, and it is not rung 6.** What you have is people who were Struck and then received, and their words are still testimony. The stamp is the doctrine the charter required. The underscore that was rubbed out is a person losing an argument with the job they are paid to do.
+- **Use the paper as a handout.** One slip can ride in a pack. The covering note can be nailed on a hall door. A Bound who is tired of being blessed can quote Senn's line. Do not read all four slips in a row and call that a lecture.
+- **The tags.** `keystone-adjacent` marks a clue, and it does not prove a mind. `the-other-hands` belongs on this side of the wall. The player-facing body does not confirm her, and it does not name a Hand.
+- **Links (GM).** [[The Other Hands]] is what those four rooms are. [[Is the Leaf-Mother Real]] is where a confirmation would have to live, and this soup must not be the thing that fires it. [[Revelation Architecture]].
