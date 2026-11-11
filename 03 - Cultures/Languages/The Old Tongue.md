@@ -16,31 +16,34 @@ updated: 2026-10-22
 
 # The Old Tongue
 
-> **How to use this.** The Old Tongue is a box of old words, not a language you have to speak. **Speak the common name; write the liturgical name.** At the table, say *the Night Shore* or *tree-wardens*. Put *Netstrand* or *Orenhael* on a charter, rite, learned map, or scholar's tongue. Kumbaan is not in this box.
+> **How to use this.** The Old Tongue is a box of old words, not a language you have to speak. **Speak the common name, and write the liturgical name.** The liturgical name is the one that belongs on a charter, a rite, a learned map, or a scholar's tongue. At the table, say *the Night Shore* or *tree-wardens*. Put *Netstrand* or *Orenhael* on the paper. Kumbaan is not in this box.
 
-> **What this is.** The root language of **The Turning** — the old **liturgical tongue of the [[Turning Tree|Awakening Tree]]**, in which the [[The Leaf-Mother|Motherfaith]] says its rites. Every place-name, institution, and polity-name on the mainland derives from it. In-world it is called **Maiethren** *(MAI-eth-ren, "Mother-speech")* by the devout, or just **the Old Tongue** by everyone else. It is this world's **Latin**: nobody's mother-tongue on the street anymore, but the ancestor of every tongue that is, and still the language of the Tree, the rite, and the law's oldest words.
+> **What this is.** This is the root language of **The Turning**, the old liturgical tongue of the [[Turning Tree|Awakening Tree]], the tongue in which the [[The Leaf-Mother|Motherfaith]] says its rites. Every place-name, institution, and polity-name on the mainland derives from it. The devout call it **Maiethren** *(MAI-eth-ren, "Mother-speech")*. Everyone else calls it **the Old Tongue**. It is this world's **Latin**: nobody's mother-tongue on the street anymore, but the ancestor of every tongue that is, and still the language of the Tree, the rite, and the law's oldest words.
 
-> **In short.** One Tree, grafts carried out. One old tongue, names wearing down as they travel. Devout lands keep the *th*. Dock towns sand it off. How a written name sounds is how it sits toward the Tree, and that is why a polity's name for a thing shows its stance ([[Polity Archetypes]]). No new liturgical names are being made.
+> **In short.** There is one Tree, with grafts, the wood carried out from it, and one old tongue whose names wear down as they travel. Devout lands keep the *th*, and dock towns sand that sound off, so the way a written name sounds is the way that place sits toward the Tree. That is why a polity's name for a thing shows its stance ([[Polity Archetypes]]). No new liturgical names are being made.
 
 ## Phonology & feel
 
-**Feel:** warm and weighty — a hall-and-hearth tongue with a thread of solemn, archaic gravity. Liquids and nasals carry the warmth; thorn (*th*) and long vowels carry the weight. Clusters exist, but they are a small inherited set rather than an open invitation to pile consonants together.
+The Old Tongue feels warm and weighty, a hall-and-hearth tongue with a thread of solemn, archaic gravity. The liquids and the nasals carry the warmth, which is to say *l* and *r*, and *m* and *n*. The thorn, the *th* of *thin*, and the long vowels carry the weight. Clusters exist, but they are a small inherited set, not an open invitation to pile consonants together.
 
 **Consonants:** m n · l r w j · p t k · b d g · f v s h · **þ (*th*, as in _thin_)**.
 
-**Vowels:** a e i o u, plus the digraphs **ae, ai, ei, eo**.
+**Vowels:** a e i o u, plus the digraphs, two letters standing for one vowel sound, **ae, ai, ei, eo**.
 
-**Syllables and licensed clusters:** ordinary syllables are `(C)(r/l)V(V)(C)`. The inherited onset clusters are **br, cr/kr, st, str, th+r**; inherited codas include **sk, nd**. They license *bren, crae, stel, strand, thren,* and *hesk*. New roots should prefer the simpler shape. No three-consonant onset except **str-**, no invented four-consonant knot, and no cluster crosses a compound boundary unless ordinary speech can keep both roots audible.
+An onset is the consonant or consonants that begin a syllable, and a coda is what closes it. Ordinary syllables follow `(C)(r/l)V(V)(C)`. That formula means an optional opening consonant, an optional *r* or *l* after it, a vowel that may be written double, and an optional closing consonant. The inherited onset clusters, the ones the old words already use, are **br, cr/kr, st, str, th+r**. The inherited codas include **sk, nd**. Those patterns are what license the shapes in *bren, crae, stel, strand, thren,* and *hesk*. A new root should prefer the simpler shape. Do not invent a three-consonant onset except **str-**, do not invent a four-consonant knot, and do not let a cluster cross the boundary inside a compound unless ordinary speech can still hear both roots.
 
 **Pronunciation key** *(used on every coined name in the vault):*
+
+Capitals mark the stressed syllable. A digraph is read as one sound, and *th* is always the soft thorn, never the voiced *th* of *the*.
+
 - **CAPS** = the stressed syllable.
 - `ae` = **"ay"** (as in _day_) · `ai` = **"eye"** · `ei` = **"eye"** · `eo` = an **"ay-oh"** glide · `a` = _father_ · `e` = _bed_ · `i` = _machine_ · `o` = _go_ · `u` = _moon_.
 - `th` = soft **"th"** as in _thin_ (never as in _the_).
-- A simple root keeps its listed stress. A transparent two-root compound normally takes **primary stress on the first root** and a lighter beat on the second: **THAEL**-oren, **VAETH**-orn. Old ceremonial forms and personal names may preserve lexical stress; their first-use pronunciation is authoritative. Stress is not a rule that blindly targets the second syllable.
+- A simple root keeps the stress listed for it. A transparent compound, one in which a hearer can still tell the two roots apart, normally takes its primary stress on the first root and a lighter beat on the second: **THAEL**-oren, **VAETH**-orn. Old ceremonial forms, and personal names, may keep their lexical stress, which is the stress that word already had before anyone compounded it. When that happens, the pronunciation given on first use is the one to trust. Stress is not a rule that blindly targets the second syllable.
 
 ## Notable words & roots
 
-The old words the setting's names are built from. The meaning is what the word meant in the rite. A dock town may keep the sound and let the meaning slide.
+The old words below are the ones the setting's names are built from. A root is one of those words, still small enough to set beside another. The meaning column is what the word meant in the rite, even when a dock town has kept the sound and let the meaning slide. The Says column is how to pronounce it. A suffix is an ending, and *ren* used as a suffix means "the speech of" whatever stands in front of it, so Maiethren is Mother-speech. A month-root is a root the calendar took for a month, and those month-names live in [[The Reckoning of the Year]]. A loan is a word that arrived from another shore and was naturalized, made ordinary here, before the daughter speeches divided. *Strand* is that loan. Where the notes contrast *thren* with *ledd*, *thren* is sacred counting, a stewardship reckoned before the Mother, and *ledd* is the commercial twin, the ledger and the sum.
 
 | Root | Says | Meaning | Note |
 |---|---|---|---|
@@ -65,13 +68,13 @@ The old words the setting's names are built from. The meaning is what the word m
 | **hesk** | hesk | far/outer edge | Frontier coinage, not in the old liturgy (the liturgy is older than this grafting). [[Heskoren]], [[Vaelhesk]]. |
 | **strand** | strand | shore, strand, landing-coast | An old coastal loan naturalized before the daughter drifts; retained in [[Strandoren]], [[Polity Archetypes\|Lestrand]], and [[Netstrand]]. |
 
-The word list is small and settled. No new roots are being added, and the names built on the old roots stay as they are.
+The word list is small and settled. No new roots are being added, and the names already built on the old roots stay as they are.
 
-**A name that carries the whole setting:** the Awakening Tree's own liturgical name is **Thaeloren** *(THAEL-or-en)* — **thael** (Tree) + **oren** (to witness): *"the Tree that witnesses."* The world's entire [[Law and Citizenship|citizenship-by-witness]] system is folded into the name of the Tree itself. (Everyday worn form: **"the Thallow."**)
+One name carries the whole setting. The Awakening Tree's own liturgical name is **Thaeloren** *(THAEL-or-en)*, *thael* for the Tree set beside *oren* for witnessing, so the name means "the Tree that witnesses." To witness, in this tongue, is to speak truly, and the world's [[Law and Citizenship|citizenship-by-witness]] is that witnessing, folded into the name of the Tree itself. The everyday worn form is **"the Thallow."**
 
 ## The three daughter drifts
 
-Each daughter is the Old Tongue *eroded* by distance from the Trees and the faith. The sound-changes are regular, so any Old-Tongue word can be pushed through them:
+Each daughter is the Old Tongue eroded by distance from the Trees and from the faith. A daughter, here, is a later speech descended from this root, and a drift is the regular pattern of that wearing-down. The changes are regular enough that any Old-Tongue word can be pushed through them. In the worn row, intervocalic means the *th* is sitting between two vowels, and a post-vowel *th* is one that comes immediately after a vowel. Careful prayer restores the thorn, which is that *th* put back. In the eroded row, a loan is a word trade brought in and the docks kept.
 
 | Drift | Polity | Sound-changes from the root | Feel |
 |---|---|---|---|
@@ -79,105 +82,77 @@ Each daughter is the Old Tongue *eroded* by distance from the Trees and the fait
 | **Worn** | **[[Polity Archetypes|Vaethorn]]** (the devout frontier) | Intervocalic and post-vowel *th* commonly **→ t** in speech; endings simplify; unstressed vowels flatten. Written *Vaethorn* becomes spoken **Wetorn**. Careful prayer restores the thorn. | Rough-warm folk-speech that still *reaches* for the old holy words. |
 | **Eroded** | **[[Polity Archetypes|Lestrand]]** (the secular coast) | *th* **→ t/d and often dropped**; long vowels clipped; word-ends worn off; trade-contact loans. | Smooth, clipped, mercantile. The most-drifted sound = the least-devout polity. |
 
+Conservative speech sounds archaic, formal, and holy, because it barely moved from the liturgy and so still sounds like it. Worn speech is rough-warm folk-speech that still reaches for the old holy words. The eroded row is the point of the table, because the most-drifted sound belongs to the least-devout polity.
+
 ## The four faith-names
 
-Coined from the same roots, so a faith *sounds* like the land that keeps it. Full notes in [[Faiths of the Turning]].
+The faiths are coined from the same roots, so a faith sounds like the land that keeps it. The full accounts are in [[Faiths of the Turning]].
 
-- **Haelthael** *(HAEL-thael)* — *hael* + *thael* = "the Tree kept whole." [[The Watching]]'s own name: the Tree before it was given a mother's name.
-- **Leddoren** *(LEDD-or-en)* — *ledd* + *oren* = "the witnessed account." [[The Fair Hand]]'s own name: the Tree as a signing-table.
-- **Vaeloren** *(VAEL-or-en)* — *vael* + *oren* in the *older* sense = "the land's witnessing." [[The Old Ways]]' liturgical name.
-- **Ndeyaan** *(ndey-AHN)* — not Maiethren; the [[Yumboe]] night-keeping. [[The Open Table]]'s own name. The one faith-name that owes the liturgy nothing.
+[[The Watching]] calls itself **Haelthael** *(HAEL-thael)*. The name sets *hael*, whole and hale, beside *thael*, the Tree, and it means "the Tree kept whole," which is what they call the Tree from before anyone gave it a mother's name. [[The Fair Hand]]'s own name is **Leddoren** *(LEDD-or-en)*, *ledd* joined to *oren*, "the witnessed account," because they take the Tree as a signing-table. [[The Old Ways]] keep **Vaeloren** *(VAEL-or-en)* as their liturgical name. That is *vael* in the older sense, what the land yields, plus *oren*, "the land's witnessing." **Ndeyaan** *(ndey-AHN)* owes this liturgy nothing. It is not Maiethren. It is the [[Yumboe]] night-keeping, and it is [[The Open Table]]'s own name, the name that house uses for itself.
 
 **Clergy coinages:**
 
-- **Orenhael** *(OREN-hael)* — *oren* + *hael* = "the witnessing-whole." Liturgical name of [[The Tree-Wardens]]: they *speak the fall truly* and *keep the Tree hale.*
-- **Thaelvaeth** *(THAEL-vaeth)* — *thael* + *vaeth* = "the Tree gone to the waiting." Liturgical name of the Road-hands.
-- **Nethoren** *(NETH-or-en)* — *neth* + *oren* = "the night-witnesses." Liturgical name of [[The Watchers]]. Not *Haeloren* (too close to Orenhael).
-- **Leddhael** *(LEDD-hael)* — *ledd* + *hael* = "the accounted-whole." Liturgical name of [[The Book-Hands]]. Not *Orenledd* (collides with *Orledd*, the Counterparty).
-- **Vaelbren** *(VAEL-bren)* — *vael* (older: land's yield) + *bren* = "the yield-hearth." Liturgical name of [[The Door-Keepers]]. Not *Vaelorn* (the Taking).
-- **Njaalo** *(NJAH-lo)* — not Maiethren; a [[Yumboe]] coinage, "the hall that is kept." Own-name of [[The Table-Keepers]].
-- Isle flavor (not Maiethren): **Njawaal** *(njah-WAHL)* — [[The Shore-Sitters]].
-- **Vaethledd** *(VAETH-ledd)* — *vaeth* + *ledd* = "the waiting reckoned." Cant-name of [[The Slide]]. Not *Orledd*. Not *Nethledd* (retired with the Back Table).
+The houses that work the faith are named from the same box. [[The Tree-Wardens]] write themselves **Orenhael** *(OREN-hael)*, *oren* beside *hael*, "the witnessing-whole," because they speak the fall truly and keep the Tree hale. The Road-hands are **Thaelvaeth** *(THAEL-vaeth)* when the rite names them, *thael* and *vaeth*, "the Tree gone to the waiting." [[The Watchers]] are **Nethoren** *(NETH-or-en)*, *neth* and *oren*, "the night-witnesses." They are not written *Haeloren*, which would sit too close to Orenhael. [[The Book-Hands]] are **Leddhael** *(LEDD-hael)*, *ledd* and *hael*, "the accounted-whole." *Orenledd* was not used, because it collides with *Orledd*, the Counterparty.
+
+[[The Door-Keepers]] are **Vaelbren** *(VAEL-bren)*. Here *vael* keeps the older sense, the land's yield, and beside *bren*, the hearth, the name means "the yield-hearth." It is not *Vaelorn*, which belongs to the Taking. **Njaalo** *(NJAH-lo)* is not Maiethren. It is a [[Yumboe]] coinage meaning "the hall that is kept," and it is the own-name of [[The Table-Keepers]]. The isle's name for [[The Shore-Sitters]], also outside Maiethren, is **Njawaal** *(njah-WAHL)*. [[The Slide]]'s cant is **Vaethledd** *(VAETH-ledd)*, *vaeth* and *ledd*, "the waiting reckoned." A cant is the house's other name, neither the everyday word nor the compound a charter writes. Vaethledd is not *Orledd*, and it is not *Nethledd*, which was retired with the Back Table.
 
 **Guild and furnishing coinages:**
 
-- **Saelhael** *(SAEL-hael)* — *sael* + *hael* = "the sown-whole." Liturgical name of [[The Greens-Keepers]]. Not *Saelorn* (a month).
-- **Aeloren is retired.** It collided with *Vaeloren / Leddoren / Eoloren* and never carried information that **hall-keepers** or **ael-hands** did not carry better. Old rosters may preserve it as a crossed-out form; no living house claims it.
-- **Stelhael** *(STEL-hael)* — *stel* + *hael* = "the held-whole." Liturgical name of [[The Stillers]].
-- **the Crae** *(kray)* — *crae* = "craft." Umbrella of [[The Element-Guilds]]. Four doors, not four liturgies.
-- [[The Intake]] has no liturgical name. Cant: *the catching-year*.
+[[The Greens-Keepers]] are **Saelhael** *(SAEL-hael)* in the liturgy, *sael* and *hael*, "the sown-whole." That name is not *Saelorn*, which is a month. **Aeloren is retired.** It collided with *Vaeloren*, *Leddoren*, and *Eoloren*, and it never carried information that **hall-keepers** or **ael-hands** did not carry better. Old rosters may preserve it as a crossed-out form, and no living house claims it. [[The Stillers]] are **Stelhael** *(STEL-hael)*, *stel* and *hael*, "the held-whole." **The Crae** *(kray)* is simply *crae*, "craft," and it is the umbrella over [[The Element-Guilds]], one name set over the houses rather than a separate liturgy for each. There are four doors under it, and those four do not each receive a liturgy. [[The Intake]] has no liturgical name, and its cant is *the catching-year*.
 
 **Era coinages:**
 
-- **Brenvaeth** *(BREN-vaeth)* — *bren* + *vaeth* = "the hearth gone to the waiting." Liturgical name of [[The Walking Years]]. Deliberate inversion of *Thaelvaeth* (the Tree gone to the waiting): people walked *in*; later, wood walked *out*.
-- **Eoloren** *(EOL-or-en)* — *eol* + *oren* = "the witnessed hinge." Liturgical name of [[The First Cut]], and of the clerical year-count (*Eoloren-count* / Cut-years). Not *Eolthael* (a month).
-- **Ornthael** *(ORN-thael)* — *orn* + *thael* = "Tree-land." Liturgical name of [[The Years of Hands]]. Not *Maiethorn* (the Motherland). Not *Haelthael* (the Watching).
-- [[Before the Walk]] stays mostly unnamed; [[The Watching]] keep **the Before**.
+[[The Walking Years]] are **Brenvaeth** *(BREN-vaeth)* when the count is liturgical, *bren* and *vaeth*, "the hearth gone to the waiting." The compound is a deliberate inversion of *Thaelvaeth*, the Tree gone to the waiting. People walked in, and later the wood walked out. [[The First Cut]] is **Eoloren** *(EOL-or-en)*, *eol* and *oren*, "the witnessed hinge," and the same name serves the clerical year-count, called the *Eoloren-count* or the Cut-years. It is not *Eolthael*, which is a month. [[The Years of Hands]] are **Ornthael** *(ORN-thael)*, *orn* and *thael*, "Tree-land." That name is not *Maiethorn*, the Motherland, and it is not *Haelthael*, the Watching. [[Before the Walk]] stays mostly unnamed, while [[The Watching]] keep **the Before**.
 
 **Road coinages:**
 
-- **brenhael** *(BREN-hael)* — *bren* + *hael* = "the hearth kept whole." Cant of a [[The Walking Years|Walking-era road-house]]: the inn that kept you hale for the waiting. Everyday *road-house*. Not *Brenvaeth* (the era). Not *Brenorn* (a month). The three walks (Near Mile · Salt Walk · Long Mile) stay common-tongue on purpose — logistics before liturgy.
+A Walking-era road-house has the cant **brenhael** *(BREN-hael)*, *bren* and *hael*, "the hearth kept whole," the inn that kept you hale through the waiting. The everyday word is *road-house*. The cant is not *Brenvaeth*, which is the era, and it is not *Brenorn*, which is a month. The three walks stay in the common tongue on purpose, the Near Mile, the Salt Walk, and the Long Mile, because they were logistics before they were liturgy.
 
 **Cut coinages:**
 
-- **the nameless knife** / **the nameless green** — folk objects of [[The First Cut]]. No liturgical form on purpose: naming the green would pick a hearth, and a hearth would pick a hand. Everyday first.
-- **the generation of argument** — the summers from the first taking to the first local Leaf-Fall, when the First Seat could not undo the graft and had not yet written permission for grafting. Common-tongue on purpose (a quarrel, not a rite). Not *Eoloren* (the hinge). Not *Brenvaeth* (the road).
+**The nameless knife** and **the nameless green** are folk objects of [[The First Cut]], and they have no liturgical form on purpose. Naming the green would pick a hearth, and a hearth would pick a hand, so the everyday name comes first and stays. **The generation of argument** is the run of summers from the first taking to the first local Leaf-Fall, the stretch when the First Seat could not undo the graft and had not yet written permission for grafting. It stays in the common tongue because it was a quarrel, not a rite. It is not *Eoloren*, the hinge, and it is not *Brenvaeth*, the road.
 
 **Residue coinages:**
 
-- **the extra mile** / **the First-Hand year** / **the neighbour's week** — the walk's three jobs in [[The Years of Hands]]. Common-tongue on purpose (jobs, not a fourth age). Not *Brenvaeth* (the requirement). Not *Ornthael* (the era). *The old mile* still means the Long Mile when the neighbour is a continent.
-- **the stone in the square** / **the upper room** / **the Held bed** — what the walk left in a Hands town. Everyday first. *brenhael* remains the inn's cant, not the loft's.
+**The extra mile**, **the First-Hand year**, and **the neighbour's week** are the walk's three jobs in [[The Years of Hands]]. They stay in the common tongue because they are jobs, not a fourth age. They are not *Brenvaeth*, which is the requirement, and they are not *Ornthael*, which is the era. *The old mile* still means the Long Mile when the neighbour is a continent. **The stone in the square**, **the upper room**, and **the Held bed** are what that walk left sitting in a Hands town. The everyday name comes first. *Brenhael* remains the inn's cant, and it does not become the loft's name.
 
 **Square coinages:**
 
-- **Ornsael** *(ORN-sael)* — *orn* + *sael* = "the sown-ground." Rain-Shadow walk-hold on [[Saelthael]]. Not *Saelthael* (the polity). Not *Saelorn* (a month). Not *Saelhael* (greens-keepers). Not *Ornthael* (the era).
-- **Brenthael** *(BREN-thael)* — *bren* + *thael* = "the hearth-Tree." Neighbour Hands-town of [[The Third Hearth]]. Not *brenhael* (an inn's cant). Not *Brenvaeth* (the era). Not *Brenorn* (a month). Not *Orenbren* (the lodging-power).
-- **Brenod** *(BREN-od)* · **Vaelun** *(VAY-lun)* · **Ornath** *(OR-nath)* — worn folk hearth-names of [[The Three Hamlets Past the Ford]]. No liturgy on purpose (the Seat's leave did not write them). Not *Vaeloren* / *Brenvaeth* / *Ornled*.
-- **the Mill-hold** · **the First Bowl** *(folk hearth-name Lonasir)* — two more squares. Common-tongue first; no liturgy. Not *Brenthael*. Not *Vaelun*.
+**Ornsael** *(ORN-sael)* sets *orn* beside *sael* and means "the sown-ground." It is the Rain-Shadow walk-hold on [[Saelthael]]. It is not *Saelthael* itself, the polity, and it is not *Saelorn*, a month, or *Saelhael*, the greens-keepers, or *Ornthael*, the era. **Brenthael** *(BREN-thael)* sets *bren* beside *thael* and means "the hearth-Tree." It is the neighbour Hands-town of [[The Third Hearth]]. It is not *brenhael*, an inn's cant, not *Brenvaeth*, the era, not *Brenorn*, a month, and not *Orenbren*, the lodging-power.
+
+**Brenod** *(BREN-od)*, **Vaelun** *(VAY-lun)*, and **Ornath** *(OR-nath)* are the worn folk hearth-names of [[The Three Hamlets Past the Ford]]. They have no liturgy on purpose, because the Seat's leave did not write them. They stay clear of *Vaeloren*, *Brenvaeth*, and *Ornled*. **The Mill-hold** and **the First Bowl** are two more squares, the First Bowl's folk hearth-name is *Lonasir*, and the common tongue comes first, with no liturgy. They stay clear of *Brenthael* and of *Vaelun*.
 
 **Seat coinages:**
 
-- **Eolvaeth** *(EOL-vaeth)* — *eol* + *vaeth* = "the hinge-waiting." [[Polity Archetypes|Vaethorn]]'s pilgrim-edge seat. Everyday worn *Elvaeth* *(EL-vaeth)*. Not *Vaethorn* (the land). Not *Thaelvaeth* (Road-hands). Not *Eoloren* / *Eolthael*.
-- **Orentel** *(OREN-tel)* — eroded *oren* + *thael* = "the witnessing-Tree" with the *th* worn off. [[Polity Archetypes|Lestrand]]'s salt-quay seat. Everyday also *the Salt Quay*. Not *Thaeloren* (the grove). Not *Orenbren* (the lodging-power). Not *Lestrand* / *Netstrand*.
-- **Maiethlir** *(MAI-eth-lir)* — *maieth* + *lir* = "the Mother's thaw." [[Polity Archetypes|Threnmaieth]]'s counted river-seat. Not *Threnmaieth* / *Threnhael* / *Thaeloren*. Not *Maiethvael* / *Maiethorn*. Not *Lirorn* / *Liren*. Not *Brenthael*.
+**Eolvaeth** *(EOL-vaeth)* is *eol* and *vaeth*, "the hinge-waiting," and it is [[Polity Archetypes|Vaethorn]]'s pilgrim-edge seat. Everyday worn speech says *Elvaeth* *(EL-vaeth)*. The name is not *Vaethorn*, the land, not *Thaelvaeth*, the Road-hands, and not *Eoloren* or *Eolthael*. **Orentel** *(OREN-tel)* is eroded *oren* and *thael*, "the witnessing-Tree," with the *th* worn off. It is [[Polity Archetypes|Lestrand]]'s salt-quay seat, and everyday speech also calls it *the Salt Quay*. It is not *Thaeloren*, the grove, not *Orenbren*, the lodging-power, and not *Lestrand* or *Netstrand*. **Maiethlir** *(MAI-eth-lir)* is *maieth* and *lir*, "the Mother's thaw," and it is [[Polity Archetypes|Threnmaieth]]'s counted river-seat. It stays clear of *Threnmaieth*, *Threnhael*, *Thaeloren*, *Maiethvael*, *Maiethorn*, *Lirorn*, *Liren*, and *Brenthael*.
 
 ## The fifteen polities, named
 
-The three [[Polity Archetypes]] plus the twelve other powers of [[Powers of the Turning]]. Each name is derived from its drift, so it *sounds like* the stance.
+The fifteen are the three [[Polity Archetypes]] plus the twelve other powers of [[Powers of the Turning]]. Each name comes from its drift, so the name sounds like the stance the land is taking.
 
 **Conservative ([[Maiethorn]]):**
 
-- **Threnmaieth** *(THREN-mai-eth)* — **thren** + **maieth** = *"the Mother's Reckoning."*
-- **Maiethvael** *(MAI-eth-vael)* — **maieth** + **vael** = *"the Mother's Gift."* Same *maieth* as Threnmaieth; gift, not count.
-- **Orenbren** *(OREN-bren)* — **oren** + **bren** = *"the witnessing-hearth."* Not *brenhael* (an inn).
-- **Saelthael** *(SAEL-thael)* — **sael** + **thael** = *"the sown Tree."* Not *Saelorn* / *Saelhael*.
-- **The Hinge Shore** — the common name replaced retired *Eolstrand*, which crowded *Eoloren / Eolthael / Eolvaeth*. A few old dockets still use the crossed-out compound; current speech and writing use the common name.
-- **Lirorn** *(LIR-orn)* — **lir** + **orn** = *"thaw-land."* Not *Liren* / *Ornthael*.
+**Threnmaieth** *(THREN-mai-eth)* sets **thren** beside **maieth** and means "the Mother's Reckoning," while **Maiethvael** *(MAI-eth-vael)* keeps that same *maieth* and joins it to **vael**, so the name means "the Mother's Gift," gift rather than count. **Orenbren** *(OREN-bren)* is **oren** and **bren**, "the witnessing-hearth," and it stays clear of *brenhael*, which is an inn. **Saelthael** *(SAEL-thael)* is **sael** and **thael**, "the sown Tree," and it stays clear of *Saelorn* and of *Saelhael*. **The Hinge Shore** is the common name that replaced the retired *Eolstrand*, a compound that had crowded *Eoloren*, *Eolthael*, and *Eolvaeth*. A few old dockets still carry the crossed-out form, while current speech and current writing use the common name. **Lirorn** *(LIR-orn)* is **lir** and **orn**, "thaw-land," and it stays clear of *Liren* and of *Ornthael*.
 
 **Eroded ([[Strandoren]]):**
 
-- **Lestrand** *(LES-trand)* — **ledd** + **strand**, eroded smooth = *"the Reckoning Coast."*
-- **Brenledd** *(BREN-ledd)* — **bren** + **ledd** = *"hearths of the ledger."* The compact.
-- **Leddvael** *(LEDD-vael)* — **ledd** + **vael** = *"the gift reckoned."* Not *Leddoren* / *Leddhael*.
-- **Trenledd** *(TREN-ledd)* — eroded **thren** + **ledd**. Reconstruction *Threnledd* unused: they will not say the holy word.
-- **Netstrand** *(NET-strand)* — eroded **neth** + **strand**. Reconstruction *Nethstrand* unused. People there will not say why the name means night.
+**Lestrand** *(LES-trand)* is **ledd** and **strand** eroded smooth, "the Reckoning Coast." **Brenledd** *(BREN-ledd)* sets **bren** beside **ledd**, "hearths of the ledger," and that name is the compact. **Leddvael** *(LEDD-vael)* is **ledd** and **vael**, "the gift reckoned," and it stays clear of *Leddoren* and of *Leddhael*. **Trenledd** *(TREN-ledd)* is eroded **thren** beside **ledd**, and the reconstruction *Threnledd* goes unused, because they will not say the holy word. **Netstrand** *(NET-strand)* is eroded **neth** beside **strand**, the reconstruction *Nethstrand* goes unused, and people there will not say why the name means night.
 
 **Worn ([[Heskoren]]):**
 
-- **Vaethorn** *(VAETH-orn; spoken *Wetorn*)* — formal writing keeps the sacred **th**; ordinary worn speech does not.
-- **Ornled** *(ORN-led)* — **orn** + **ledd**, clipped. On this continent, dropping *th* is a neglect. Reconstruction *Ornledd* unused.
-- **Vaelhesk** *(VAEL-hesk)* — **vael** (older: land's yield) + *hesk-*. Not *Vaeloren* / *Vaethorn*. The fight is in the first syllable: *vael* vs *vaeth*.
-- **Saelvaeth** *(SAEL-vaeth)* — **sael** + **vaeth** = *"sowing into the waiting."* Shares *sael* with Saelthael on purpose.
+**Vaethorn** keeps the sacred **th** in formal writing, *(VAETH-orn)*, and ordinary worn speech does not, so people say *Wetorn*. **Ornled** *(ORN-led)* is **orn** and **ledd** clipped, and on this continent, dropping *th* is a neglect, so the reconstruction *Ornledd* goes unused. **Vaelhesk** *(VAEL-hesk)* sets **vael**, in the older sense of what the land yields, beside the frontier *hesk-*, and it stays clear of *Vaeloren* and of *Vaethorn*. The fight is in the first syllable, *vael* against *vaeth*. **Saelvaeth** *(SAEL-vaeth)* joins **sael** to **vaeth** and means "sowing into the waiting," and it shares *sael* with Saelthael on purpose.
 
-Full one-line derivations of the original three remain:
+The original three still have their full derivations, for the moment someone asks what the written name is doing.
 
-- **Vaethorn** *(VAETH-orn; spoken worn **Wetorn**)* — **vaeth** (the waiting) + **orn** (land) = *"the Waiting Land."* Careful writing and prayer keep the sacred **th**; ordinary speech wears it to *t*. People say **the Waiting Lands** or **the Waiting**.
-- **Lestrand** *(LES-trand)* — **ledd** (to reckon) + **strand** (shore), eroded smooth = *"the Reckoning Coast."* It is the **most-drifted name of the original three**, and that is the point: the faith wore off the docks, and so did the thorn. People say **the Ledger Coast**; formal records retain *Lestrand*.
-- **Threnmaieth** *(THREN-mai-eth)* — **thren** (sacred counting) + **maieth** (the Mother) = *"the Mother's Reckoning."* The pious core keeps the full sacred sound, and names its census outright as reverent stewardship of Her gifts. People say **the Tallied Crown**; the crown writes *Threnmaieth*.
+**Vaethorn** *(VAETH-orn; spoken worn **Wetorn**)* joins **vaeth**, the waiting, to **orn**, land, and means "the Waiting Land." Careful writing and prayer keep the sacred **th**, ordinary speech wears it down to *t*, and people say **the Waiting Lands**, or simply **the Waiting**.
+
+**Lestrand** *(LES-trand)* joins **ledd**, to reckon, to **strand**, the shore, and then erodes the compound smooth, so the name means "the Reckoning Coast." It is the most-drifted name of the original three, and that is the point: the faith wore off the docks, and so did the thorn. People say **the Ledger Coast**, while formal records retain *Lestrand*.
+
+**Threnmaieth** *(THREN-mai-eth)* joins **thren**, sacred counting, to **maieth**, the Mother, and means "the Mother's Reckoning." The pious core keeps the full sacred sound, and it names its census outright as reverent stewardship of Her gifts. People say **the Tallied Crown**, and the crown writes *Threnmaieth*.
 
 **Kumbaan** is not a sixteenth name on this list.
 
-**Named ground:** no new roots. Everyday first: **the Old Crossing** · **the West Water** · **the Rain-Wall** (Lirorn: *the Thaw-Wall*) · **the Noon Pass** · **the Shelf-gate** · **the Core-thaw** · **the Well-wash** · **the Rise-water** · **the Chart-run**. Gazetteer: [[Named Ground]]. These stay in the common tongue.
+No new roots are spent on ground. The everyday name comes first, and these stay in the common tongue: **the Old Crossing**, **the West Water**, **the Rain-Wall** (Lirorn calls it *the Thaw-Wall*), **the Noon Pass**, **the Shelf-gate**, **the Core-thaw**, **the Well-wash**, **the Rise-water**, and **the Chart-run**. Their gazetteer is [[Named Ground]].
 
 ## Links
 - [[Polity Archetypes]] — the three corners · [[Powers of the Turning]] — all fifteen · [[The Leaf-Mother]] — whose liturgy this tongue carries · [[Turning Tree]] (Thaeloren)
@@ -202,24 +177,31 @@ Full one-line derivations of the original three remain:
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **The etymology is a quiet keystone tell.** That **Thaeloren** = "the Tree that witnesses" is not decoration: per [[Is the Leaf-Mother Real|the keystone]], the Tree genuinely *does* witness (she is real, and the Leaf-Fall is her seeing each child). The language preserves a truth the skeptics have explained away. Don't gloss it in player-facing text as mere poetry; let a scholar-PC *notice* it.
-- **Drift is GM-legible as the reach-edge.** The daughters drift furthest where the Trees are thinnest — which is the same [[Is the Leaf-Mother Real|bounded-reach]] edge that stays GM-side elsewhere. In-world the erosion reads as plain distance-and-trade (true, as far as it goes); the deeper pull that *conserves* the tongue near the Trees is the Mother's nearness. Same fact, two readings. **History adds a mechanism:** the pilgrimage itself was a conserving pull (people from far away walked to the same grove each year). Local Trees let daughters grow *in place* — Hands-era weather on a Walking-era root. See [[The Ages of the Turning]].
-- **Deep grammar is still deferred.** This note fixes phonology, a root lexicon (including the month-roots), and the drift-rules — enough to coin consistent names. Morphology/syntax (a *full* conlang) is only worth it if the campaign ever needs spoken dialogue. Don't relexify English into "sentences." Person-names and hearth-registers live in [[Naming People in the Turning]].
-- **Coinage freeze.** Do not make another liturgical compound merely because two familiar roots fit. The crowded families in the collision register are closed. A genuinely necessary coinage must first add a root here, pass the collision check in `14 - Assets/Names/generate_names.py`, and earn a common spoken handle. The collision data and deterministic generators live in `14 - Assets/Names/`; existing names are not regenerated.
-- **Unused cants (do not flesh).** *Orenvaeth* and *Thaelneth*. *Orenvaeth* was parked as a Slide cant and is not the Walking-Years name (too close to a queue-word; *Brenvaeth* does the inversion instead).
-- **Seed.** The twelve other powers' names were drawn at seed `20260827`.
+The etymology is a quiet keystone tell, and it stays on this side of the export. That **Thaeloren** means "the Tree that witnesses" is not decoration. Per [[Is the Leaf-Mother Real|the keystone]], the Tree genuinely does witness. She is real, and the Leaf-Fall is her seeing each child. The language preserves a truth the skeptics have explained away. Do not gloss that, in player-facing text, as mere poetry. Let a scholar player-character notice it.
+
+Drift is legible, on the GM's side, as the reach-edge. The daughters drift furthest where the Trees are thinnest, and that thinness is the same [[Is the Leaf-Mother Real|bounded-reach]] edge that stays GM-side in the other notes. In the world, the erosion reads as plain distance and trade, and that reading is true as far as it goes. The deeper pull that conserves the tongue near the Trees is the Mother's nearness. It is the same fact under two readings. History adds a mechanism of its own. The pilgrimage was a conserving pull, because people from far away walked to the same grove each year. Local Trees then let the daughter speeches grow in the place where people lived, so Hands-era change sits on a Walking-era root. See [[The Ages of the Turning]].
+
+Deep grammar is still deferred. This note fixes the phonology, the root lexicon, including the month-roots, and the drift rules, which is enough to coin names that stay consistent. Morphology, the way words change shape, and syntax, the way they build a sentence, are a full conlang, a language built out to that depth, and they are worth writing only if the campaign ever needs spoken dialogue. Do not relexify English into "sentences," which would mean dressing English syntax in swapped vocabulary and calling the result Maiethren. Person-names and the hearth-registers live in [[Naming People in the Turning]].
+
+Coinage is frozen. Do not make another liturgical compound merely because two familiar roots fit. The crowded families in the collision register are closed. A coinage that is genuinely necessary has to add a root here first, pass the collision check in `14 - Assets/Names/generate_names.py`, and earn a common spoken handle. The collision data and the deterministic generators live in `14 - Assets/Names/`. Existing names are not regenerated.
+
+Two cants stay unused, and they should not be fleshed out: *Orenvaeth* and *Thaelneth*. *Orenvaeth* was parked as a Slide cant. It is not the name of the Walking Years, because it sits too close to a queue-word, and *Brenvaeth* is the compound that does the inversion instead.
+
+The twelve other powers' names were drawn at seed `20260827`.
 
 ### Root reserve and closed families
 
 The lexicon is intentionally small, but small must not mean endlessly recycling the same six sounds.
 
-- **Closed for new compounds:** *eol-, sael-, vael-/vaeth-, bren-, maieth-/thren-, -oren,* and *-hael*. Existing words remain; these families take no new members.
-- **Available but use sparingly:** *orn, lir, neth, ledd, hesk, strand, stel,* and *crae*. A use must still pass a spoken-collision check.
-- **Adding a root:** define its sound, old meaning, historical layer, and at least one reason existing roots cannot do the job. Add the root before the name, not afterward as an invented etymology.
+The families closed to new compounds are *eol-*, *sael-*, *vael-* and *vaeth-*, *bren-*, *maieth-* and *thren-*, *-oren*, and *-hael*. The words that already exist remain. Those families take no new members.
+
+What is still available, and should be used sparingly, is *orn*, *lir*, *neth*, *ledd*, *hesk*, *strand*, *stel*, and *crae*. A use still has to pass a spoken-collision check, said out loud next to the names it might be mistaken for.
+
+Adding a root means defining its sound, its old meaning, its historical layer, and at least one reason the roots already here cannot do the job. Add the root before the name. Do not invent the etymology afterward, once you have already decided you like the compound.
 
 ### Collision register
 
-This is a stop-list, not another source of names.
+This is a stop-list, not another source of names. A closed family keeps the words it already has, and it takes nothing new.
 
 | Family | Existing words that remain | Ruling |
 |---|---|---|
