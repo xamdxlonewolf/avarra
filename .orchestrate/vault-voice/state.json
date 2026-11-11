@@ -323,13 +323,13 @@
       "handoffPath": "handoffs/settlements-villages.md",
       "startedAt": "2026-11-11T06:01:56.118Z",
       "finishedAt": "2026-11-11T06:17:43.436Z",
-      "lastUpdate": "2026-11-11T06:17:43.437Z",
+      "lastUpdate": "2026-11-11T06:17:44.498Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "settlements-sites",
@@ -384,12 +384,12 @@
       "agentId": "bc-591d2d18-ffeb-4bac-b783-c97d632e4610",
       "runId": "run-5d684e89-fb40-475d-a0f1-70a51cb73500",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/factions-orders-houses.md",
       "startedAt": "2026-11-11T06:02:06.980Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:09.945Z",
+      "finishedAt": "2026-11-11T06:17:53.335Z",
+      "lastUpdate": "2026-11-11T06:17:53.335Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1525,6 +1525,10 @@
     {
       "at": "2026-11-11T06:17:10.194Z",
       "message": "people-npcs-major: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:17:44.499Z",
+      "message": "settlements-villages: verification self-reported (not-verified)"
     }
   ]
 }
