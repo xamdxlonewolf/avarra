@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Chart-Crew
 
-Tier 1 Horde. Night-Shore hands who wait for hulls that do not arrive, then take what the water gives. They are grieving, and they carry hooks. Not a pirate flag. Not [[The Standing Trade]]: they claim wrecks; they do not sell vouches.
+A Chart-Crew is a Tier 1 Horde: Night-Shore hands on the Chart-run, the Netstrand quays, and the West Water wrecks, who wait for hulls that do not arrive and then take what the water gives. They are grieving, and the tools in their hands are hooks. They are not under a pirate flag, and they are not [[The Standing Trade]], because they claim the wrecks and they do not sell vouches, which would be selling someone who will stand for a stranger.
 
 **Motives & Tactics:** claim the wash · keep the slate empty · drive a stranger off a berth · fold when a known clerk stamps
 
@@ -40,6 +40,8 @@ Tier 1 Horde. Night-Shore hands who wait for hulls that do not arrive, then take
 
 ## GM Notes
 
-- They are people. Defeat can be a routed quay, a clerk's stamp, or a Bound word — not only corpses.
-- Do not clone the Standing Trade. A sold vouch is a different house. This crew wants the hull, not a citizenship sentence.
-- A late berth on [[Named Ground]] is enough excuse to spotlight them. They do not need a mastermind.
+They are people, so a defeat can be a routed quay, a clerk's stamp, or a Bound word, and it does not have to be a pile of corpses.
+
+Do not clone the Standing Trade. A sold vouch is a different house, and this crew wants the hull, not a citizenship sentence.
+
+A late berth on [[Named Ground]] is enough excuse to spotlight them, and they do not need a mastermind behind the quay.

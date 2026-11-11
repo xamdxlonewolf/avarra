@@ -16,7 +16,7 @@ updated: 2026-10-22
 
 # Colourless Host
 
-Tier 2 Support. A graft that never took, or wood that sickened, still dropping leaves with no colour. It wants to Give. It cannot. People who stand under it too long start to act as if a week were happening. This is dead graft wood, not a Turning Tree.
+A Colourless Host is a Tier 2 Support, a graft that never took or wood that sickened, still dropping leaves that have no colour. It wants to Give the way a Turning Tree Gives, and it cannot. People who stand under it too long start to act as if they were ten and a week were happening. What stands in front of you is dead graft wood, not a Turning Tree.
 
 **Motives & Tactics:** gather a circle · drop a leaf that names nothing · make a warden guess · thin a Tithe · fold when someone names it unsound and walks
 
@@ -43,8 +43,12 @@ Tier 2 Support. A graft that never took, or wood that sickened, still dropping l
 
 ## GM Notes
 
-- **Not a Tree.** A taking never happened; a pot died; a scion sickened. The First Cut's "dead wood is not a Tree" stays. Do not let this block become a second-chance year or a third visible outcome.
-- **Do not confirm her.** Believers will say a Hand that cannot close. Skeptics will say a plant that still tropisms. Both can be loud. The player body does not settle it. `reveals` stays empty.
-- **Not the Wrong Green.** That year was a human name on a hug. This is wood that cannot Turn. Cite the year if a warden is present and wants a story; do not merge them.
-- **Support, not Solo.** Pair with walkers or a cat. A Host alone is a scene about leaving, not a boss.
-- **Tone.** 5%. Wrongness is a leaf with no colour and a circle that forms anyway. Do not make the bough whisper secrets or Speak a Condition.
+This is not a Tree. A taking never happened, a pot died, or a scion sickened, and the First Cut's line that dead wood is not a Tree stays in force. Do not let this block become a second-chance year or a third visible outcome.
+
+Do not confirm her. Believers will say a Hand that cannot close, and skeptics will say a plant that still tropisms, and both can be loud. The player body does not settle it, and `reveals` stays empty.
+
+This is not the Wrong Green. That year was a human name on a hug, and this is wood that cannot Turn. Cite the year if a warden is present and wants a story, and do not merge the two.
+
+It is a Support, and it is not a Solo. Pair it with walkers or a cat, because a Host alone is a scene about leaving and not a boss.
+
+Keep the tone at 5%. The wrongness is a leaf with no colour and a circle that forms anyway. Do not make the bough whisper secrets or Speak a Condition.
