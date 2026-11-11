@@ -6,17 +6,17 @@ The year is familiar enough to farm by and strange enough to argue over. Maietho
 
 ## Named water, range, and rivers
 
-| Everyday | What it is | Who says something else |
+| Everyday | What it is | Other name |
 |---|---|---|
-| **the Old Crossing** | the busy water between Maiethorn and Strandoren, narrow enough to be one argument and old enough to be the oldest trade route | Lestrand: *the crossing.* Vaethorn: *the waiting-water.* Sailors: *the Crossing.* Threnmaieth wants the name on a roll. |
-| **the West Water** | the wider sea between Strandoren and Heskoren | already the Night Shore's word for this sea. The Hush's west-water clause lives on it. |
-| **the Rain-Wall** | Maiethorn's central range, wet on one side and dry on the other | Lirorn-folk: *the Thaw-Wall.* Clerks: *the Divide.* |
-| **the Noon Pass** | the old high road over the Rain-Wall. It lost its stone in Cut-year 233. | the courier's *noon-pass.* The water-line is still on the stone. |
-| **the Shelf-gate** | the pass Narol of the Pass took after the Break, when the old high road was no longer the way | Threnmaieth named it *the new one.* Lirorn charges **Break-rate.** |
-| **the Core-thaw** | the river Maiethlir sits on | clerks file the rise as *snowmelt.* Watchers will not. |
-| **the Well-wash** | seasonal water in the Rain-Shadow, east of the range | dry most years; a bad thaw leaves silt |
-| **the Rise-water** | the stream from Harrow's Green down to the hamlets' ford | the Seat still says *the ford* |
-| **the Chart-run** | Strandoren's interior river, running out to Orentel's estuary | Lestrand files it as inland tickets that have reached salt |
+| **Old Crossing** | Water between Maiethorn and Strandoren | *the crossing*; *the waiting-water* |
+| **West Water** | Sea between Strandoren and Heskoren | Night Shore's name. Hush clause. |
+| **Rain-Wall** | Maiethorn's range. Wet one side, dry the other. | *Thaw-Wall*; *the Divide* |
+| **Noon Pass** | Old high road. Lost its stone, Cut-year 233. | *noon-pass* |
+| **Shelf-gate** | The pass after the Break | *the new one.* Break-rate. |
+| **Core-thaw** | Maiethlir's river | clerks: *snowmelt* |
+| **Well-wash** | Seasonal water, Rain-Shadow | dry most years |
+| **Rise-water** | Harrow's stream to the ford | the Seat says *the ford* |
+| **Chart-run** | Strandoren's river, out at Orentel | inland tickets that reached salt |
 
 **the Old Crossing.** This is the oldest trade route in the world. It is narrow enough that a fair-weather hull makes it in a handful of days, and busy enough that a late storm in Hale-month, when the land is supposed to be sound, can hold a family past Turning-Week. Miss that week, and the child stays UnTurned, having reached no Tree in the year they turned ten. The Hinge Shore is Maiethorn's face on this water. Orentel is Strandoren's face. The Salt Walk, the old way a Shore-lands child reached a Turning, was this water first and the Near Mile inland after that, the walk on Maiethorn to Thaeloren.
 

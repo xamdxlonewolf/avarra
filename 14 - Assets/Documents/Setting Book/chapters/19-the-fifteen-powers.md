@@ -95,23 +95,23 @@ The Three Hamlets Past the Ford sit on the seam where those four can all be hear
 
 What the fifteen inherited is younger than a row of ancient kingdoms, and two clocks still organize a life beside that inheritance: how a person Turned, by the old walk to the grove or under a town Tree, and how far the wood has reached. The clerical count, the Cut-years, runs from the First Cut, the grafting's arrival, and the present year of that count is Cut-year 387, which is why a border, a rate, or a grudge can be pointed at the year that left it. In the Closing, from Cut-year 19 to 38, the old gate on the one Tree tried to pull the copied Trees up and could not. In Cut-year 171 the Grey Summer, which the docks call the Salt-Grey, was a quay-fever in which people died who already had a local Tree, and no colour fell with the fever, so the summer never became a Tithe. When a household fails for want of what keeps it whole, that failing is a fade. In Cut-year 304 the Hinge Hush ended a fight between the Hinge Shore and the Ledger Coast over who set the toll, and the rate it left still covers hulls without covering the origin-winter, the prestige year a household books at the grove.
 
-| Polity | What they inherited | The live claim or grudge |
+| Polity | Inherited | Live grudge |
 |---|---|---|
-| **Threnmaieth** | The Two Papers, in Cut-year 67, when the crown-count started on Limrae's desk. The present Crown-year is **320**. | Maiethvael will not be named to the roll, and the Close's Book is the insult next door. |
-| **Maiethvael** | The same split, because Manril would not be listed. | Threnmaieth brings its tablets to a furnished green. The hymn is the same, and the paper is the opposite. |
-| **Orenbren** | The Closing: hearths that would not starve, and the guest-compact with the Retreat. | The beds sit outside the wall and the Book sits inside it. Threnmaieth wants the lodging-rolls. |
-| **Saelthael** | Slower grafts, a matter of the dirt, and the Thaw-Break, the one-week melt of Cut-year 233, which cut the west-road for two summers. | The core calls that ground waiting soil. They still walk west. |
-| **the Hinge Shore** | The oldest crossing, the Grey Summer, and a signing of the Hinge Hush through Taerso. | The live claim is the Hush-rate. A blessing is given when someone asks for one, and they learned to step around a fade. |
-| **Lirorn** | A watershed holding, and Narol's pass after the Break. | Threnmaieth wants the high road counted, and the ridge pays for water the valley drinks. |
-| **Lestrand** | Salt Walk paper that outlived the gate, the Grey notes, and a signing of the Hush through Sirtol. | Brenledd will not be priced one hearth at a time. The White Note House speaks for one quay, and it is not the crown. |
-| **Brenledd** | A compact piled in Cut-year 174 after the Salt-Grey, still recited under the hearth-name Nidtol, and a side-paper of the Hush. | Lestrand still offers to simplify them, and the fade happens in the gaps between the charters. |
-| **Leddvael** | A civic Settling, the Fair Hand's signed close, made after the witnesses died in the Grey. | A gift-reading family is treated as a bad debtor. A Bound person, someone who swore a contract, is treated as the shape of honesty. |
-| **Trenledd** | Dirrol's person-column, written after the Grey. | They wanted the Hush written down as souls, and both shores refused. The roll they kept is colder than the Threnhael. |
-| **Netstrand** | The west-water clause of the Hush, which covers hulls and does not cover the origin-winter. | They quote the far crossing. For them, night is a watch kept for ships that do not arrive. |
-| **Vaethorn** | The late wave, and a Hush clause that says they may bless a landing and may not levy it. | Ornled has no hymn, Saelvaeth has a pot without Vaethorn's due, and the guilt in the waiting-gospel wants both of those neighbours unworthy. |
-| **Ornled** | A refusal of the waiting-gospel, Vathne's slate after a Thaw-Break pot died, and a beach-fee under the Hush. | Vaethorn hears godlessness in the refusal, and Ornled keeps no net of congregations. |
-| **Vaelhesk** | Host-rights older than the wave, and those rights are not written on the Hush clause. | A first meal given to a guest is not a landing-due. Vaethorn reads Vaelhesk's children as Kept-for-want. |
-| **Saelvaeth** | A live march running from the Cut-year 200s, and a Hush clause that lets them take a pot without paying a waiting-due. | The queue is the border, and Harrow's luck is politics. |
+| **Threnmaieth** | Two Papers, Cut-year 67. Crown-year **320** | Maiethvael will not be listed |
+| **Maiethvael** | the same split; Manril refused the list | same hymn, opposite paper |
+| **Orenbren** | Closing hearths; guest-compact with the Retreat | beds outside the wall, Book inside |
+| **Saelthael** | slow grafts; Thaw-Break, Cut-year 233 | still walks west |
+| **Hinge Shore** | the crossing; Grey Summer; Hinge Hush | the Hush-rate |
+| **Lirorn** | the watershed; Narol's pass | the ridge pays for the valley's water |
+| **Lestrand** | Salt Walk paper; Grey notes; the Hush | White Note is one quay, not the crown |
+| **Brenledd** | compact of Cut-year 174 | will not be priced hearth by hearth |
+| **Leddvael** | Fair Hand settling after the Grey | a Bound contract counts as honesty |
+| **Trenledd** | Dirrol's person-column | a colder roll than the Threnhael |
+| **Netstrand** | west-water clause: hulls, not the origin-winter | night is a watch for ships that do not come |
+| **Vaethorn** | the late wave; may bless a landing, may not levy it | wants Ornled and Saelvaeth unworthy |
+| **Ornled** | refused the waiting-gospel; a beach-fee | no congregations |
+| **Vaelhesk** | host-rights older than the wave | a first meal is not a landing-due |
+| **Saelvaeth** | live march from the Cut-year 200s | the queue is the border |
 
 Rothallo, still called the Inner Close, sits inside Orenbren and remembers the Closed Seat rather than a continent of its own. The Closed Seat was the old gate on the one Tree, the class that decided who might walk up to Thaeloren. In the Closing, the war of Cut-year 19 to 38, that gate tried to pull the copied Trees up and could not, and what remained went behind the Close's walls. The Book kept there ranks who owes, and Rothallo is not a sixteenth flag.
 

@@ -14,11 +14,11 @@ This was not a civilizing mission, and the Walking Years were not a golden age o
 
 | | Everyday | Liturgical | Says | What it is |
 |---|---|---|---|---|
-| Preface | **Before the Walk** | *(mostly unnamed)* · the Watching keep **the Before** | — | The Awakening Tree already stood. People were already born into Kinds, already becoming at doors, and already seeing, and nobody had called the Tree a mother. The time is left uncounted on purpose. |
-| Count of how you Turned, old default | **the Walking Years** | **Brenvaeth** *(BREN-vaeth)* | "the hearth gone to waiting" | You walked to Thaeloren or you stayed UnTurned for want of the trip. The far lands ran heavy with the UnTurned, and with people who were Struck later. |
-| The hinge | **the First Cut** | **Eoloren** *(EOL-or-en)* | "the witnessed hinge" | Someone cut living wood and the cutting took. Who cut it is argued. That it happened is not. |
-| Count of where the wood has reached | **the Grafting** | *(a process, not an age you leave)* | — | The carrying of living wood, Hand by Hand. It is still unfinished on Heskoren, the Sundered Reach, and it never crossed the storm-wall. |
-| Count of how you Turned, new default | **the Years of Hands** | **Ornthael** *(ORN-thael)* | "Tree-land" | A town Tree is the ordinary way to Turn. Pilgrimage remains, as devotion, as prestige, or as a necessity wherever a graft has failed. |
+| Preface | **Before the Walk** | unnamed; the Watching say **the Before** | — | Tree already stood. No count. |
+| How you Turned, old | **the Walking Years** | **Brenvaeth** | the hearth gone to waiting | Walk to Thaeloren, or stay UnTurned. |
+| The hinge | **the First Cut** | **Eoloren** | the witnessed hinge | A cutting took. Who cut it is argued. |
+| Where the wood reached | **the Grafting** | still moving | — | Wood carried outward. Unfinished on Heskoren. Never on Kumbaan. |
+| How you Turned, now | **the Years of Hands** | **Ornthael** | Tree-land | A town Tree is the ordinary Turning. |
 
 The pair of liturgical names turns inside out the name the Road-hands use for the work of carrying wood, and the Road-hands are the tree-wardens who walk that wood. In the Old Tongue, Thaelvaeth means "the Tree gone to the waiting," which is wood carried out to the hearths. Brenvaeth *(BREN-vaeth)* means "the hearth gone to the waiting," which is people walking in to the Tree. Eoloren *(EOL-or-en)* is the liturgical name of the cut, and Ornthael *(ORN-thael)* is the liturgical name of the years when a town has its own Tree. The Grafting is the moment the world stopped sending hearths to the Tree and started sending the Tree to hearths.
 
@@ -178,15 +178,15 @@ Nobody has settled whether there is a Leaf-Mother. People who believe in her ask
 
 There is no year-zero that everyone shares. The calendar these counts sit on has the same twelve months, and it has three different days for the new year. The past is the same past. There are seven honest ways to count it, and the number a clerk writes on a debt is a theology, because the year you choose is the place you are willing to start the story from.
 
-| Who | What they count from | What it sounds like |
+| Who | Counts from | Sounds like |
 |---|---|---|
-| First Seat / devout clerks | **the First Cut** — **Cut-years** (in the liturgy, the *Eoloren-count*) | "the 387th Cut-year" |
-| Threnmaieth | Cut-years *and* a **crown-count** from the Two Papers (Cut-year 67; the present is **Crown-year 320**) | a number that wants to be a roll |
-| Lestrand / deathless houses | a **house-founding**, the issue of a note, or the term of a contract | "the 307th summer of the White Note," which is the present; the archival conversion is the **200th**, Ledan's query in Cut-year 280 |
-| Vaethorn | **the year our graft took**, or the last actual Turning-Week | a child "turns the year" when the local Tree last managed a fall, and that is already how Vaethorn starts its calendar |
-| the Watching | they **refuse the Cut-count** | a count laid over the Tree is not an epoch, because the Tree was already seeing |
-| the Old Ways | a closed door, a drowning-year, or a guest that took | the Years of Hands are when guests arrived, not when history began |
-| Kumbaan | **moons** | the mainland ages are a sailor's chart, and Kumbaan does not owe that chart a count |
+| First Seat | the First Cut; **Cut-years** | "the 387th Cut-year" |
+| Threnmaieth | Cut-years and a crown-count from Cut-year 67 | Crown-year **320** |
+| Lestrand houses | a founding, a note, or a contract | "307th summer of the White Note" |
+| Vaethorn | the year the local graft took | "turns the year" of the last real fall |
+| the Watching | no Cut-count | the Tree was already seeing |
+| the Old Ways | a door, a drowning, a guest | guests arrived; history did not start |
+| Kumbaan | moons | no mainland count |
 
 The present is Cut-year 387, the 387th summer since the First Cut. It is not a round number chosen to look finished.
 
@@ -200,15 +200,15 @@ The years on this table are the dated ones inside Cut-year 0 to Cut-year 387 tha
 
 In the Walking Years the grove at the origin was not open to everyone who arrived. A class of the untithed, people of whom no Tithe was asked, sat on Thaeloren and decided who might walk up to it. They were a gate that grew a country around the one Tree, and not a banner planted on all three continents. Strandoren paid for the Salt Walk and was never a province of that gate. Heskoren lay beyond a ride from that gate, and Kumbaan was not in the story. Who held the nameless knife, the person who made the first cut, is still unwritten. The First Seat stays in the wood. Rothallo, still called the Inner Close, is a walled city inside Orenbren, and it is Orenbren's capital. It is not a sixteenth power.
 
-| Cut-years | Everyday name | Kind | What it left |
+| Cut-years | Name | Kind | Left behind |
 |---|---|---|---|
-| **Cut-year 19–38** | **the Closing** | war / political | The First Cut gave a town a Tree of its own. The old Closed Seat tried to pull the copies up and could not. The Seat collapsed, and what remained went behind the Inner Close. |
-| **Cut-year 67** | **the Two Papers** | political / dynastic (paper, not blood) | One hymn-country became Maiethvael and Threnmaieth. The crown-count starts here, and the present is **Crown-year 320**. |
-| **Cut-year 171** | **the Grey Summer** | epidemic | Quay-fever on the Old Crossing. It was an epidemic, not a Tithe. Trenledd began writing persons down. Brenledd piled a compact in Cut-year 174. Leddvael made the signing of a contract a civic rite. |
-| **Cut-year 233** | **the Thaw-Break** | natural | Snow on the Rain-Wall, in Lirorn, melted in one week. The Noon Pass was lost and the Shelf-gate was taken. The west road was cut for two summers. An Ornled graft that was waiting died, and a gospel was refused. |
-| **Cut-year 248** | **the Wrong Green** | Tree / civic | A hug was announced as copper-green, and the wound was a human one. This is not one of the five years that were not about the Tree. It sits on the table because the year is already written. |
-| **Cut-year 280** | **Ledan's query** | archival dating | The White Note House was in its 200th summer. Ledan is Long-Lived, and the conversion Ledan wrote is still the habit of the house. The present house-year is **307**. |
-| **Cut-year 299–304** | **the Hinge War** → **the Hinge Hush** | inter-power / treaty | The Hinge Shore and the Ledger Coast fought over who set the tolls on the hinge. The hush is the peace that still governs the Old Crossing, and it carries a West Water clause that Netstrand still quotes. |
+| **19–38** | **the Closing** | war | Closed Seat falls. What remains is the Inner Close. |
+| **67** | **the Two Papers** | paper | Maiethvael and Threnmaieth split. Crown-year starts. Now **320**. |
+| **171** | **the Grey Summer** | fever | Quay-fever, not a Tithe. New rolls and a compact follow. |
+| **233** | **the Thaw-Break** | flood | One-week melt. West road cut two summers. |
+| **248** | **the Wrong Green** | civic | A hug Spoken as copper-green. |
+| **280** | **Ledan's query** | dating | White Note year 200. House-year now **307**. |
+| **299–304** | **the Hinge Hush** | treaty | Toll-fight ends. The rate still stands. |
 
 The present year is Cut-year 387. Who cut remains unpicked. A chronicle that writes a first king onto the Before is laying a later story on a time that was left uncounted. The Watching warn against that.
 
@@ -226,11 +226,11 @@ The bands below are enough to keep the geography honest. They are not a campaign
 
 | Cut-years | Where the wood went |
 |---|---|
-| **Cut-year 0** | the First Cut, near Thaeloren, on Maiethorn. The first witnessed graft. |
-| **Cut-year 0–80** | Maiethorn filling. The origin-towns, nearest the Awakening Tree, came first, and the Rain-Shadow was slower. |
-| **Cut-year 40–160** | Strandoren by sea. The wealthy coasts came first, and the deep interior later. |
-| **Cut-year 200–387** | Heskoren, still incomplete. The luckiest towns have had a local Turning for a few generations, and whole districts still wait. |
-| **never** | Kumbaan. The wood never crossed. |
+| **0** | First Cut, near Thaeloren |
+| **0–80** | Maiethorn. Origin-towns first. Rain-Shadow later. |
+| **40–160** | Strandoren by sea. Coasts first. |
+| **200–387** | Heskoren, still unfinished |
+| **never** | Kumbaan |
 
 A freshly planted scion, the cutting kept alive on the road, still takes a generation to hold a Leaf-Fall. So the year a graft arrives and the year a town Turns its own children under its own canopy are twenty years apart. Heskoren's waiting is not only the queue. It is the queue, and then the childhood of the wood. The forty years in which no graft reached Heskoren at all, about Cut-year 160 to 200, are told under "The gap."
 

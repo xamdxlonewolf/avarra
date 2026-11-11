@@ -88,9 +88,9 @@ Closer sheets exist for the seats and the town squares that already have streets
 
 | Place | What to find |
 |---|---|
-| **Rothallo** | walled capital inside Orenbren; people still say the Inner Close; one day from the wood; no star |
-| **Seinbrun** | Maiethvael's capital, off the Core-thaw, north of Maiethlir and more than a day from it |
-| **Maiethlir** | on the Core-thaw, a day's carry of living wood out from the Motherwood. The grove is other ground. The First Seat has no mark |
+| **Rothallo** | Orenbren's walled capital. Inner Close. One day from the wood. |
+| **Seinbrun** | Maiethvael's capital, north of Maiethlir |
+| **Maiethlir** | On the Core-thaw. The grove is other ground. |
 | **the Third Hearth / Brenthael** | Near Mile, three days out from Thaeloren, then one day further |
 | **Raillath** | the ordinary halt between Brenthael and the Mill-hold, a day from each; no sheet |
 | **the Mill-hold** | two days past Brenthael; the culvert and the Hand, its Turning Tree |

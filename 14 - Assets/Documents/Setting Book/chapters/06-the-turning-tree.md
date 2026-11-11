@@ -67,10 +67,10 @@ The Conditions that are only ever Given have colours that are clear and widely k
 | **deep red / wine** | Long-Lived | folk-known (already proverbial) |
 | **storm-grey** | Two-Bodied | folk-known (already proverbial) |
 | **lamp-amber / brass** | the Answered | folk-known |
-| **sea-blue** | Far-Voiced | folk-known (a Given blue-leaf child is trained; a Struck Far-Voiced has no leaf at all) |
-| **pale stone / marble-white** | the Stilled | folk-known, and feared. The warden says it carefully |
-| **copper-green / verdigris** | the Taken-In | folk-known. This green is metallic, distinct from the Tree's own summer green and from the hug |
-| **white-fire / opal** | Phoenix | clergy-known from texts. Almost no living town has seen it fall. A warden who names it at a ceremony has just made history (and a problem). |
+| **sea-blue** | Far-Voiced | folk-known. Struck: no leaf |
+| **pale stone** | the Stilled | folk-known, and feared |
+| **copper-green** | the Taken-In | metallic. Not the hug's green |
+| **white-fire** | Phoenix | clergy-known. Almost never seen |
 
 The Tree never Strikes, so the Returned and the Bound have no colour, and the Unbound has none either. A Returned is a person who died with something unfinished, and whose purpose got them walking again. The Bound come by the contract, not by a leaf. The Unbound is what a term-limited contract leaves behind when the term ends and the other party to that contract collects the piece the person named at the signing, so they walk away free of the terms and short of that piece, and that becoming chains off Bound instead of falling as a leaf of its own. The hug that marks the Kept is ordinary summer-green, and it carries no naming colour. That is why the leaf of the Taken-In must not be that same ordinary green.
 
@@ -82,20 +82,20 @@ The Tree only **Gives**, or it **Keeps**. People who are Struck received a Condi
 
 These are the questions families actually bring to a warden, and the answers are the custom of the town. The door is still **one week**, the High Solstice week of the year a child turns ten. In the Walking Years the only Tree was the origin, so a tenth year was a journey or it was no Leaf-Fall at all, and the towns of the Years of Hands did not grow a second chance beside that narrow door. A healthy Tree, with a child stood under it, still gives a colour or a hug.
 
-| What they ask | What you say | What you do not |
+| What they ask | Say | Do not |
 |---|---|---|
-| **We missed the week.** Fever, a shut pass, a boat that did not come. | They are **unTurned**. The child never stood. Their week for a Gift is over. Next summer they may visit the square; they do not stand for a Gift. A Struck threshold can still come later. The costly mercy is the old one: house a nine-year-old through the winter near a sound Tree. | Call them Kept. A Kept child was hugged while the town watched. |
-| **We will not stand.** The Old Ways kept their own rites before the grafts arrived. The Isle keeps the Open Table as its own faith. Some refuse from fear, or from a quarrel. | The Tree does not chase them. Same legal result as a miss: **unTurned**, and the week for a Gift is over. A warden may ask once. They do not put a rope on a child to make a Gift. | Treat refusal as a failure of the wood. |
-| **Who brings an orphan?** | The town is the family. Kin first; then the household that feeds them; then the **warden-hearth**. That is the warden's house on the square. An orphan who stands is witnessed like anyone. An orphan no one brings is a miss. | A second leaf as consolation. |
-| **An adult who never Turned.** | They stay **unTurned**. They do not stand for a Gift at thirty. They can be vouched as the person the town raised. They can still be Struck. Some hearths file them as Kept to be kind. That kindness is sloppy law. | A late appointment. |
-| **Can they stand again?** Wrong colour wanted. Hug regretted. | **No.** A completed standing — colour *or* hug, under a Tree the warden called sound — is once. You may correct a **Speaking**. That is the colour or the hug as the warden said it. You may not rerun a fall. | Offer a second Leaf-Fall. The wood has never answered one. |
-| **Our Tree is sick this week.** | Do not stand them under unsound wood. Borrow a neighbour's canopy *this same week*. A warden who lets a cohort stand under a Tree they know cannot Turn has spent the week. Those children are unTurned. | Next year as a repair. |
-| **The child is already Struck.** | Bring them to be acknowledged, not for a Gift. The Tree does not lay a second Condition on the first. | A tenth year that starts the life over. |
-| **Twins, or a fall nobody will name.** | Two children are two standings. A mixed fall is why the Speaking exists. | Two Speakers both claiming the last word. |
-| **The warden named it wrong.** | Correct the Speaking. Do not stand the child again. The year people cite is the Wrong Green. | A second Leaf-Fall. |
-| **White-fire fell. Or someone wants to say it did.** | A town-warden does not guess Phoenix. They send to the First Seat by runner. Naming white-fire is history, and a problem. | Guess from a book in the square. |
-| **A child of the Open Table, from the Isle. A Yumboe from that isle, under our boughs.** | If they stand in their tenth-year week, the Tree does what it does. If the host will not bring them, the week can end. No warden is sent to Kumbaan to fetch a child. Kumbaan is the storm-walled isle. | Wait for the argument to finish. The week does not wait. |
-| **The city cannot know every child.** | They stand **by hearth**, in named slots. The square is full. The memory is the street that brought them, plus one pillar who can carry it. The colours stay unwritten. | A city register. |
+| **Missed the week** | **UnTurned.** The Gift-week is over. A Strike can still come later. | Call them Kept |
+| **Will not stand** | Same result: **UnTurned.** Ask once. No rope. | Call the refusal a failure of the wood |
+| **An orphan** | Kin, then the household that feeds them, then the warden's house | A second leaf |
+| **An adult who never Turned** | Stays **UnTurned.** No Gift at thirty. Can still be Struck. | A late appointment |
+| **Stand again?** | **No.** One standing. You may correct the Speaking. | A second Leaf-Fall |
+| **Tree is sick** | Borrow a neighbour *this week.* A wasted standing spends the year. | Next year as a repair |
+| **Already Struck** | Acknowledge them. No second Condition. | Start the tenth year over |
+| **Twins, or a mixed fall** | Two children, two standings. The warden Speaks the mix. | Two last words in one square |
+| **Named wrong** | Correct the word. Do not stand them again. | Rerun the fall |
+| **White-fire** | Send to the First Seat. Do not guess. | Name Phoenix from a town book |
+| **Open Table, or a Yumboe** | If they stand, the Tree does what it does. Nobody is sent to Kumbaan. | Wait out the argument |
+| **A city** | Stand by hearth. Colours stay unwritten. | A register of colours |
 
 **UnTurned is not the same thing as Kept.** Kept means the leaves hugged the child and the town watched it happen. UnTurned means the child never stood. From the street the two lives can look alike, because neither one carries a Tithe and neither one carries a guild, and only the Kept life was witnessed at the Tree. Citizenship still depends on who saw you. A neighbour who is unTurned is vouched for as the child the town raised, and not as a colour, and not as a hug.
 

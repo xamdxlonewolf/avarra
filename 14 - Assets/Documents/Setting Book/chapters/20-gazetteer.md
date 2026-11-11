@@ -10,18 +10,18 @@ Kumbaan has no towns of this kind. The storm-walled island keeps a different pas
 
 Once a town had a Tree of its own, the long walk to the origin stopped being required, and a place can still be doing one of the jobs that walk used to do. Devotion is the extra mile, the walk you take to the Motherwood when you already have a Tree at home. Prestige is the origin-winter you can pay for, a First-Hand year, bought by a household that does not need the walk. Necessity is the neighbour's week, the walk you still have to make because your Tree is missing, or young, or sick. A Held bed is a bed kept for a named person who has not come. An inn on that road can sleep more than one kind of traveler in the same week. The town around the inn still has a job of its own.
 
-| Type | What it is | Older job of the walk | Where it lives | Named square or seat |
+| Type | What it is | Older job | Where | Named place |
 |---|---|---|---|---|
-| **Origin pilgrimage-town** | devotion's extra mile, and the Motherwood's lodging | the Near Mile as a civic season and as a holiday, with the Seat close by | Maiethorn's Sacred Core | Maiethlir. The roll layers the extra mile and does not own the grove. Neighbour square: Brenthael |
-| **Road-end Tree-town** | the walk stopped here, and the square is the last mile | a stone in the square, a road that ends at the boughs, an upper room | any Hands land, densest on Maiethorn | Nelath, a spur that stops. Harrow's Green, Brenthael, and the Mill-hold are other kinds of square |
-| **Deathless inn-bank** | the road's past, kept as credit | beds and notes, with a Held bed as the house custom | the Near Mile inland, and a Salt Walk quay | the Third Hearth, which stayed a hearth. The White Note House on Orentel, a desk on the third quay and not the crown |
-| **Salt quay** | a prestige-walk, and the pots that come with it | empty Eolthael berths, holds that smell of earth, a Fair Hand signing-watch | Strandoren's coasts | Orentel. The White Note is a desk on the third quay, and it is not the crown |
-| **Live-front Tree-town** | the luckiest ground on Heskoren, under a neighbour's canopy | the Harrow-sentence as this decade, with borrowed Turnings coming in | Heskoren | Harrow's Green |
-| **Waiting cluster** | a queue made visible, this year's children still walking | a neighbour's canopy in sight, folk-right cutting as a temptation, a cohort Kept-heavy and Struck-heavy | Heskoren, and Rain-Shadow pockets | the Three Hamlets Past the Ford. Folk names Brenod, Vaelun, and Ornath. The Seat still does not use them |
-| **Sick-Tree square** | a Hand that fails | the necessity-walk returns, and the civic crisis shows up as a child's summer | any continent the wood has reached | the Mill-hold, in Orenbren's lodging-country. Ornsael's well can drop without a sick fall |
-| **Guest-grove** | an Old Ways planting | a first meal set against a Cutting-leave, the paper that says where the wood may take | old greens on Heskoren | the First Bowl, folk name Lonasir, on Vaelhesk. Not a second Harrow. Vaelun points at it and is not it |
-| **Rain-Shadow walk-hold** | a well-town whose wood grew up and whose drink is leaving | the west-road, walked now because the water will not stretch | Maiethorn's dry hills, east of the Rain-Wall | Ornsael. Larbril, Saelthael's city, is where the west road meets the Well-wash, short of the pass |
-| **Pilgrim-edge** | the wait kept as a destination | a congregation that made a country, and a Tree that speaks in some years | Heskoren | Eolvaeth |
+| **Pilgrimage-town** | extra mile; lodging by the wood | the Near Mile | Sacred Core | Maiethlir. Neighbour: Brenthael |
+| **Road-end** | the walk stops at the square | stone, road, upper room | Maiethorn, mostly | Nelath |
+| **Deathless inn** | the road kept as credit | beds, notes, a Held bed | Near Mile; a salt quay | Third Hearth. White Note, Orentel |
+| **Salt quay** | a paid walk, and the pots | empty berths; a signing-watch | Strandoren coasts | Orentel |
+| **Live-front** | a grown Hand on the frontier | borrowed Turnings | Heskoren | Harrow's Green |
+| **Waiting cluster** | this year's children still walking | a neighbour's canopy in sight | Heskoren; some dry pockets | Brenod, Vaelun, Ornath |
+| **Sick-Tree** | the Hand fails | the walk comes back | wherever the wood reached | the Mill-hold |
+| **Guest-grove** | an Old Ways planting | a first meal, not a Cutting-leave | old Heskoren greens | the First Bowl (Lonasir) |
+| **Rain-Shadow hold** | wood grew; the drink is leaving | the west road | dry Maiethorn | Ornsael. City: Larbril |
+| **Pilgrim-edge** | the wait is the place | a Tree that speaks in some years | Heskoren | Eolvaeth |
 
 Three kinds of place the road already needed now have names, and they are written in Other Places. The sick-Tree town is the Mill-hold. The guest-grove is the First Bowl. The road-end is Nelath. One kind of place is still only a kind. Two claimants on one green, a tree-warden and an Old Ways door-keeper, both sure the wood is theirs to speak for, have no named square yet. Vaelun, one of the three hamlets past the ford, leans that way. The First Bowl remains the guest-grove. Vaelun remains a kitchen past the ford.
 

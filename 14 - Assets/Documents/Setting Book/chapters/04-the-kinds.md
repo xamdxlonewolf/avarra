@@ -14,9 +14,9 @@ The Yumboes are the case that shows the rule. They are rare off Kumbaan, the far
 
 | Layer | What it tells you | What it does not |
 |---|---|---|
-| **Kind** | The birth-shape, and sometimes a hearth, the coast, ridge, wood, or isle where that shape is densest | Loyalty, faith, legal standing, or which country they belong to |
-| **Condition** | What they became. Most people carry one. It also tells you the Tithe, the upkeep that Condition asks, and often a guild or a licence | Ancestry. The birth-body stays the Kind |
-| **Place** | The drift they speak, which is the local wear on the old tongue, the names they use for institutions, the country that stood witness for them, and whether the second name is a byname or a house-name | What ears they have |
+| **Kind** | Birth-shape, and where that shape is densest | Faith, loyalty, or country |
+| **Condition** | The becoming, its Tithe, often a guild | Ancestry |
+| **Place** | Speech, witness, byname or house-name | The body |
 
 A byname is the second name a witness-town uses, *of a town* or *of a deed*, and a house-name is the inherited name a list uses when it has to find you after the witness is gone. Lestrand is the Ledger Coast, the secular docks. Threnmaieth is the Tallied Crown. Vaethorn is the Waiting Lands. A Kitsune clerk on the docks of Lestrand, a Tengu pilgrim in Threnmaieth, and a Selkie standing witness for someone in Vaethorn are all ordinary lives, and none of those lives is a contradiction. What matters is the Kind, the Condition, and the place that raised them, taken together. A Tithe belongs to a Condition.
 
@@ -28,7 +28,7 @@ A byname is the second name a witness-town uses, *of a town* or *of a deed*, and
 |---|---|---|
 | **Wilds** (red / forest) | tangled wood, hedgerow, Motherwood | densest in Maiethorn's Motherwood and Heskoren's deep forests |
 | **Snows** (white / high cold) | high snow, pale open country | densest on Maiethorn's Rain-Wall and Heskoren's highland spines |
-| **Sands** (pale / dry) | dry hills, rain-shadow, sand-country | densest in Maiethorn's Rain-Shadow, the leeward east of the Rain-Wall, the one true dry country in the known world |
+| **Sands** (pale / dry) | dry hills, rain-shadow | Maiethorn's Rain-Shadow |
 
 The Rain-Wall is the high country on Maiethorn that catches the weather, and the Rain-Shadow is the dry country in its lee. A Fox of the Sands in a wet Strandoren harbour has simply moved, the way people do. Strandoren is the shore-continent, almost all coastline. A town in the Rain-Shadow with no fox-born at all would be the thing worth asking about.
 
@@ -54,10 +54,10 @@ The civic year happens at home. That is the drift of the old tongue, the second 
 
 | Kind | What they call the season | What moves |
 |---|---|---|
-| Kitsune | a **fox-summer** | A child of one Fox-ground sleeps in another, so the Wilds, the Snows, and the Sands stay one Kind. The register is taught in person, and foxfire is shown, not described. |
-| Selkie | a summer on **another strand** | Kin from a second coast attend the skin-days, or the child is sent. The stitch-pattern of a skin is a family thing, and it does not travel well as a letter. |
-| Tengu | a season at the **other perch** | A visiting ridge, or a sky-courier family carrying a child over the Old Crossing. A first solo flight may be off a crag that is not the home one. |
-| Yumboe | the **hill-feast** | They do not run a diaspora season. The isle is the hearth. A Yumboe on the mainland keeps the one register by being the only one in the room. |
+| Kitsune | a **fox-summer** | Another Fox-ground. Foxfire is shown, not written. |
+| Selkie | **another strand** | A second coast, for the skin-days. |
+| Tengu | the **other perch** | Another ridge, or a courier family's run. |
+| Yumboe | the **hill-feast** | The isle only. No mainland season. |
 
 Families who cannot send a child still teach at home. Poverty, a sick Tree-year, a war, or a child needed on the boat, and the register survives those. What the other kitchen does is keep a dispersed Kind from thinning into twenty private dialects. A fox-born child who has never left Hallowquay, a quay people name in the ordinary way, still answers to a Kusawe name, the fox-born hearth-register, because someone who had left came through to trade and to talk.
 

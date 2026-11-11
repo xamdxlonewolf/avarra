@@ -52,17 +52,17 @@ The card does not level with the character. The card you hold at level 1 is the 
 
 The shares below are of all people, not of the three-quarters who carry a Condition. They are the one count this book uses. The Unbound row is already inside Bound's five percent, and adding it a second time would count those people twice.
 
-| Condition | Folk still know | Path | Share of the people | Given / Struck | Standing |
+| Condition | Old tales | Arrives | Of all people | How a town sees them |
 |---|---|---|---|---|---|
-| Long-Lived | vampire | Given | ~2.5% | all Given | rare / revered |
-| Two-Bodied | werewolf | Given | ~18% | all Given | common |
-| Returned | zombie | Struck | ~7% | all Struck | normal / quietly respected |
-| Bound | demon (by contract) | Struck | ~5%, counting the Unbound (about 3.5% currently Bound, 1.5% Unbound) | all Struck | feared |
-| The Unbound *(the Hollow)* | the price of a contract | Struck, chains off Bound only | ~1.5%, *inside* Bound's ~5% | — | pitied / uneasy |
-| Far-Voiced | siren | Both | ~12% | ~11% Given / ~1% Struck | revered |
-| The Stilled | gorgon | Both | ~7% | ~6% Given / ~1% Struck | feared / guild-regulated |
-| The Answered | djinn | Given | ~10% | all Given | wildcard (no single standing) |
-| The Taken-In | leshy | Both | ~13% | ~12% Given / ~1% Struck | respected-but-looked-down / frontier |
-| Phoenix | phoenix | Given | <0.1% (one at a time) | all Given | legendary |
+| Long-Lived | vampires | at the Tree | ~2.5% | rare, and revered |
+| Two-Bodied | werewolves | at the Tree | ~18% | common neighbours |
+| Returned | the walking dead | after a death | ~7% | respected |
+| Bound | demons, by an oath | by a contract | ~5% in all; ~3.5% still bound | feared |
+| The Unbound | — | when a Bound term ends | ~1.5%, already inside that 5% | pitied |
+| Far-Voiced | sirens | at the Tree, or by a drowning | ~12%, nearly all at the Tree | revered |
+| The Stilled | gorgons | at the Tree, or by stone | ~7%, nearly all at the Tree | feared; the work is licensed |
+| The Answered | djinn | at the Tree | ~10% | no one reputation |
+| The Taken-In | the wild's people | at the Tree, or in the deep wild | ~13%, nearly all at the Tree | needed, and kept back |
+| Phoenix | the phoenix | at the Tree | one person alive | legendary |
 
 The Kept are not on this table. They are the ~25 percent who carry no Condition for life. The Tree hugged them at the ceremony, the town was there to see it, and they are wanted in their own right.

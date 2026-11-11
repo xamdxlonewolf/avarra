@@ -6,20 +6,20 @@ On the sheet, a Condition is a Daggerheart Transformation card. The card opens w
 
 The card does not level, and it does not grow because the character does. A becoming is not a class. The card you hold at level 1 is the card you hold at level 10, while class features, domain cards, Experiences, weapon tier, and Hope scars are what change around it. A few things look like the card is growing, and they are not. A Two-Bodied may attach an animal-form Experience when they would gain an Experience, and a second signature capability is a once-ever story milestone, not a level to pick. Returned and Phoenix spend Hope slots, and that spending is a countdown of the returns they have left, not a power that climbs as they level. A Bound's Terms, the standing obligations written into the contract, and the Pledge, the piece of themselves named at signing as the price, move when the story moves them. Attacks that use Proficiency rise because Proficiency rises. Those attacks are Kindle, the Phoenix's burst of fire, Reach, the moment an Answered element's answer leaves the hands, the Green Word, the Taken-In's sudden growth, and the Two-Bodied natural weapon.
 
-A Tithe's tokens drain or fill on a long rest, the full rest between days, unless the card names another trigger. A day with two short rests does not tick that clock a second time. When the long rest comes, you run this list once, and each line is a yes-or-no for that rest alone.
+A Tithe's tokens drain or fill when the day is over, at a long rest, unless the card names another time. Two short rests in one day do not count as that rest. Check each line once.
 
-| Condition | At this long rest | Not a rest clock |
+| Condition | At the end of the day | During play |
 |---|---|---|
-| Long-Lived | Spent Hope on Unfading Mind, used Blood-Read, or spent a downtime move in study or witness? **Refill.** Else **remove a Memory token.** | — |
-| The Answered | Spent Hope on Reach since last long rest? **Refill.** Else **remove a token.** | Asking the element a question leaves the tokens where they are |
-| The Taken-In | Can you touch a living plant where you rest? **Refill.** Else **remove a Green token.** | — |
-| The Stilled | This long rest included a physical downtime move, a spar, a drill, or a fight? If not, **add a Grey token.** | The Gaze still adds a Grey token when it is used |
-| The Unbound | Rested with someone who knows your name and shares the meal or the watch? **Refill Quiet.** Else the tokens stay. | Quiet is spent in play, to act through what the contract took |
-| Returned | Did anything toward your Purpose, the unfinished thing that keeps you walking, since last long rest? If not, you settle: mark a Stress, and your touch runs cold. | — |
-| Far-Voiced | — | In a scene, marking Stress from feeling, or the GM naming grief, terror, rage, or joy, means you vent before the scene ends |
-| Two-Bodied | — | A full day without the other self, then the next roll with Fear shifts you |
-| Bound | — | A broken Term or a missed payment, and the Whisper while a debt is owed |
-| Phoenix | — | Death, and the Dwindling, which is what each Rise From Ash costs |
+| Long-Lived | Learn, read a memory, or stand witness: refill. Otherwise lose a Memory token. | — |
+| The Answered | Spend Hope on Reach: refill. Otherwise lose a token. A question does not refill. | — |
+| The Taken-In | Touch a living plant: refill. Otherwise lose a Green token. | — |
+| The Stilled | No hard physical work in the rest: add a Grey token. | The Gaze also adds a Grey token |
+| The Unbound | Someone who knows your name shares the meal or the watch: refill Quiet. | Spend Quiet to act through what was taken |
+| Returned | Nothing done toward the Purpose: mark a Stress. The touch runs cold. | — |
+| Far-Voiced | — | Vent a strong feeling before the scene ends |
+| Two-Bodied | — | A day without the other self, then Fear forces the change |
+| Bound | — | A broken term, a missed payment, or the Whisper while a debt is owed |
+| Phoenix | — | Each rise from death costs a Hope |
 
 There are nine Conditions a person can be Given or Struck with, and the tenth, the Unbound, is not a starting Condition. Common speech calls those people the Hollow, for the hole a finished contract leaves. A Bound enters that state when a term-limited contract ends and no further contract is signed, so you become Unbound only through Bound, in play or arranged with the GM before the first session. There are nine to choose from, and ten in the world. The Given-Over is a title rather than a Condition, the world's name for a Bound who signs contract after contract until the being on the other side effectively holds them. The contract-guilds call that fate the Forfeit. It is not a card anyone plays, and the account of it sits with the Bound.
 

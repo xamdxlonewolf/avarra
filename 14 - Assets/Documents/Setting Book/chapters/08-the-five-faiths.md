@@ -46,12 +46,12 @@ On the Sundering Isle the wall still holds. A Yumboe on the mainland, one of the
 
 Most years what actually happens is a household keeping two practices. The hard edge is the hour when the two stop agreeing.
 
-| Pair | The common blend | The hard edge |
+| Pair | Usual mix | Where it breaks |
 |---|---|---|
-| Motherfaith + Watching | The household keeps the same Tree and inherits which of the two blessings it speaks. | Threnmaieth's roll wants one name for what you are. |
-| Motherfaith + Fair Hand | The Leaf-Fall is a festival and a signing-watch, the Fair Hand standing witness to the terms, and the Tithe is paid as both tending and settling. | Gift-language and debt-language contend over the same Bound soul. |
-| Motherfaith + Old Ways | People make a pilgrimage to a graft and still walk the old doors at the threshold. | When a Tree sickens, the quarrel is who tends it, the warden or the door-keeper. |
-| Any mainland + Open Table | A shared supper is rare, and someone will say "no one is a stranger twice." | On the mainland a person belongs because a town watched them Turn. The Open Table says a person belongs after two suppers. A child of the table who reaches Turning-Week in Eolthael, the Turning-month of the High Solstice, is the hard case. |
+| Motherfaith + Watching | One Tree. Two blessings. | The roll wants one name. |
+| Motherfaith + Fair Hand | Festival and signing-watch in one week. | Gift and debt, over one Bound person. |
+| Motherfaith + Old Ways | Pilgrimage, and the old doors. | A sick Tree: warden or door-keeper. |
+| Mainland + Open Table | A shared supper. Rare. | Watched Turning, or two suppers. |
 
 All five houses tell the Child at Four Doors, and the last line changes. That is how the world argues without a council.
 
