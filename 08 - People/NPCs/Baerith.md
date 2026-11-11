@@ -18,11 +18,9 @@ updated: 2026-10-01
 
 # Baerith
 
-*(BAY-rith.)* House **Rairtei** *(rair-TAY)*. [[Far-Voiced]]. Sings the counted hour in [[Maiethlir]]. A neighbour says Baerith. A clerk says Rairtei, Baerith. Their sister keeps the pot under the same house. A stranger gets Baerith of Maiethlir. On Kumbaan the name is Baerith.
+Baerith (BAY-rith), of house **Rairtei** (rair-TAY), is [[Far-Voiced]], so the voice carries what they mean, as far as they mean it to, and in [[Maiethlir]] they sing the counted hour. A neighbour says Baerith, a clerk says Rairtei, Baerith, house first, their sister keeps the pot under that same house, and a stranger gets Baerith of Maiethlir. On Kumbaan, where a person is asked for the given name, the name is Baerith.
 
-**Want:** the crown to stop cutting green on the street where their sister keeps a pot. To be cut off is framed as a lapse. It is a household going hungry.
-
-Has asked [[Laevila]] to describe a fall the channel already named.
+They want the crown to stop cutting the green on the street where their sister keeps a pot. To be cut off is framed as a lapse, and it is a household going hungry. They have asked [[Laevila]] to describe a fall the channel already named.
 
 ## Links
 - [[Maiethlir]] · [[Laevila]] · [[Far-Voiced]] · [[People of the Turning]]

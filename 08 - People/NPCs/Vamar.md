@@ -18,9 +18,9 @@ updated: 2026-10-22
 
 # Vamar
 
-> Keeps a column of the roll at [[Lunbra]]. Not the people who govern Trenledd. Not [[Dirrol]].
+> Vamar keeps one column of the roll at [[Lunbra]], and they are not the people who govern [[Trenledd]], and not [[Dirrol]].
 
-*(vah-MAR.)* House **Melro** *(MEL-ro).* The file is Melro, Vamar. A neighbour says Vamar. A stranger hears Vamar of Lunbra. A clerk says the house first.
+The name is Vamar (vah-MAR), of house **Melro** (MEL-ro), and the file reads Melro, Vamar, because a clerk in this list-land says the house first, while a neighbour says Vamar and a stranger hears Vamar of Lunbra.
 
 ## At a glance
 
@@ -28,28 +28,28 @@ updated: 2026-10-22
 |---|---|
 | **Want** | The row under the house that was said |
 | **Have** | The column, the coin on the page, the expensive chair |
-| **Fear** | The house that paid, written over the house that was spoken. The people who govern, whom this note does not name. |
-| **Live conflict** | The money is shown. The writing is the price of standing near it. |
+| **Fear** | The house that paid, written over the house that was spoken, and the people who govern, whom this note does not name |
+| **Live conflict** | The money is shown, and the writing is the price of standing near it |
 | **Hooks** | A coin that is not the fee; stones turned number-down; a newcomer left standing |
 
 ## Summary
 
-Vamar sits the roll-room on the square where Lunbra shows its money. The column is who can be found: who owes, who Turned, which house the row belongs to. People come to the city because a family already has the money, or because they want it. Both are Vamar's morning.
+Vamar sits the roll-room on the square where [[Lunbra]] shows its money. The column is who can be found: who owes, who has Turned at a Tree, and which house the row belongs to. People come to the city because a family already has the money, or because they want it, and both kinds of morning land on Vamar's page.
 
-They set a coin on the open page. The coin is not the fee. They will not say why.
+They set a coin on the open page, the coin is not the fee, and they will not say why.
 
-The people who govern [[Trenledd]] are not Vamar, and this note does not name them. [[Dirrol]] wrote, after the Grey, who was still alive to be found. That column is the memory. The living hand on today's page is Vamar's. In this land the column may file a person under the house that pays. Vamar wants the house that was said. The page does not always give it.
+The people who govern [[Trenledd]] are not Vamar, and this note does not name them. [[Dirrol]] wrote, after the Grey, the column of who was still alive to be found, that column is the city's memory, and the living hand on today's page is Vamar's. In this land the column may file a person under the house that pays, Vamar wants the house that was said, and the page does not always give it.
 
 ## Appearance & Demeanor
 
-A good coat, because the square can see the room. Ink anyway. They ask the house when the paper is open, and they use the given name when they are buying bread. They are sharp with a speaker who performs the wrong one.
+They wear a good coat, because the square can see into the room, and the ink gets on it anyway. They ask the house when the paper is open, and they use the given name when they are buying bread. They are sharp with a speaker who performs the wrong one.
 
 ## Role & Relationships
 
-- **[[Lunbra]]** — the roll-room is the work. The money in the square is the reason the room is full. Vamar does not own the money.
-- **[[Dirrol]]** — the old column. Not this clerk. Not a crown Vamar inherits.
-- **[[Orentel]]** — four to eight days down the Chart-run. A factor who will not be written does not stay for the chair.
-- **The people who govern Trenledd** — unnamed. Not this note's person.
+- **[[Lunbra]]** — The roll-room is the work, the money shown in the square is why the room is full, and Vamar does not own that money.
+- **[[Dirrol]]** — The old column is Dirrol's memory of who could still be found, and it is not this clerk and not a crown Vamar inherits.
+- **[[Orentel]]** — The Chart-run is four to eight days downstream, and a factor who will not be written does not stay for the chair.
+- **The people who govern Trenledd** — They stay unnamed in this note, and the person at the roll is not one of them.
 
 ## Links
 - [[Lunbra]] · [[Trenledd]] · [[Dirrol]] · [[Naming People in the Turning]]
@@ -57,6 +57,6 @@ A good coat, because the square can see the room. Ink anyway. They ask the house
 
 ## GM Notes
 
-- **Not the crown.** One person at Lunbra. The governing body stays unnamed. Do not biograph Dirrol into this chair. Do not invent a second house. Melro is the house-word. It is not an English surname.
+- **Not the crown.** One person sits the roll at Lunbra, the governing body stays unnamed, Dirrol is not to be biographed into this chair, a second house is not to be invented, and Melro is the house-word rather than an English surname.
 - **Name.** Algorithm 1. `python3 "14 - Assets/Names/generate_names.py" --seed 20261020 --register eroded --count 80` — given **Vamar** position 33, house **Melro** position 76. Clerk: house first. Full throwback list on [[Lunbra]].
-- **The coin on the page is a habit.** A later note must not explain it, and must not turn it into a power, a relic, or a rite. It is not the fee.
+- **The coin on the page is a habit,** a later note must not explain it or turn it into a power, a relic, or a rite, and it is not the fee.
