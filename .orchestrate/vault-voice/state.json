@@ -670,14 +670,14 @@
       "agentId": null,
       "runId": null,
       "parentAgentId": null,
-      "status": "pending",
+      "status": "running",
       "resultStatus": null,
       "handoffPath": null,
-      "startedAt": null,
+      "startedAt": "2026-11-11T06:27:15.873Z",
       "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:27:07.545Z",
+      "lastUpdate": "2026-11-11T06:27:15.873Z",
       "note": "respawned by self-planner (was error; attempts=2)",
-      "attempts": 2,
+      "attempts": 3,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
@@ -1653,6 +1653,10 @@
     {
       "at": "2026-11-11T06:27:08.596Z",
       "message": "campaigns: respawned by self-planner (was error)"
+    },
+    {
+      "at": "2026-11-11T06:27:09.809Z",
+      "message": "game: respawned by self-planner (was error)"
     }
   ]
 }
