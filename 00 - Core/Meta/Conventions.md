@@ -6,7 +6,7 @@ note_status: draft
 tags: [meta, conventions, schema]
 aliases: [Schema, Front-matter Reference]
 created: 2026-08-11
-updated: 2026-10-22
+updated: 2026-11-11
 ---
 
 # Vault Conventions
@@ -148,30 +148,25 @@ It does not rewrite voice. It does not remove `🔒` / `🟡` from the Roadmap. 
 
 ## Plain prose
 
-Setting notes, roadmap tasks, and explanations of this world use ordinary sentences. A reader should be able to say the fact back without translating the sentence. Write the way the Turning Tree chapter explains a town: who does what, in words a person would use out loud.
+A setting note reads like a person explaining a place in a Daggerheart or D&D setting book. One sentence arrives at the next. Read it aloud. If it comes out as a list with periods, rewrite it. A reader who has not read the rest of the vault should be able to follow the page. The same standard covers an answer to a question about the world, not only a new note.
 
-A picture, a nickname, or a metaphor may not stand in for the fact. If the sentence only makes sense after you already know the hidden meaning, rewrite it.
+If a sentence already sounds like a person, keep it and fold any missing explanation into it. Do not chop prose that already breathes. The sentence to keep is the Tengu overview, "lean, sharp-featured people with dark feathers through their hair and down their arms." Two shapes were rejected as too short and assembled. One is "Tengu are a people, born that way." The other is "One Phoenix is alive in the world at a time. The wings are living fire. The moment they fly, anyone watching knows what they are."
 
-Say the thing:
+Explain a term the first time a new reader needs it, in the sentence that uses it, using a fact the note is allowed to say. Do not add canon to make the gloss.
 
-- A Long-Lived gives one year of memory into a cup at a time. Later the others can read those memories from it.
-- "The circle drinks that winter back" hides that fact. Do not write it.
-- The Unspent is a small household presence that stores the memories it is given. It lets the circle describe it however they like. It does not make plans.
-- "The Unspent stays a cupboard" and "it wears the face they draw" hide that fact. Do not write them as the explanation.
-- "The body goes still" is the Long-Lived death, when the memories are gone and the person dies. Say that.
-- "The room," "a winter" used for a year of memory, "clean hands," "the courtesy travels," and "the manners walked out with the book" are the same habit. Name the people, the offer, the death, the chair, and the years after the war.
+A picture, a nickname, or a metaphor may not stand in for the fact. If the sentence only makes sense after you already know the hidden meaning, rewrite it. The Long-Lived cup and the Unspent are failures of hiding. They are not a demand to write the shortest possible sentence, and they are not a shape to copy. A Long-Lived gives one year of memory into a cup at a time, and later the others can read those memories from it, so do not write "The circle drinks that winter back." The Unspent is a small household presence that stores the memories it is given, lets the circle describe it however they like, and does not make plans, so do not write "The Unspent stays a cupboard" or "it wears the face they draw" as the explanation. When the memories are gone and the person dies, that is the Long-Lived death: say that, and do not leave it as "the body goes still." Name the people, the offer, the death, the chair, and the years after the war when the picture would otherwise be "the room," "a winter" used for a year of memory, "clean hands," "the courtesy travels," or "the manners walked out with the book."
 
-People in the world may refuse to explain a habit. Write what they do, then say they will not say why. "On one night, Ndenjoo eats the heel of the loaf first. They will not say why."
+Unexplained habits stay unexplained. Write what people do, then say they will not say why. The named example is the heel of the loaf at Ndenjoo: "On one night, Ndenjoo eats the heel of the loaf first. They will not say why." The same refusal covers every other habit the notes already leave unexplained. Do not invent a cause for the heel or for any other habit left unexplained. Do not enumerate a partial list of those habits that a later reader could take as the whole set. A later note must not turn the habit into a power, relic, or rite. Do not label a fact "Inscrutable," "leave it," or "20%." Do not hide a simple fact in a riddle. "They cook on the quay, close enough to hear the tide" is a normal sentence.
 
-Do not label a fact "Inscrutable," "leave it," or "20%." Do not hide a simple fact in a riddle. "They cook on the quay, close enough to hear the tide" is a normal sentence.
+In-world pages stay in the speaker's voice. A library handout, a poem, a minute-book, a play, or another page written as someone inside the world uses that speaker's words. The note around the page still says what the page is, and what a reader is meant to understand. `oblique-worldbuilding` is for those pages. It is not the voice of a reference note or of an explanation of the world.
 
-A later note must not invent an explanation for a habit left unexplained, and must not turn that habit into a new power, relic, or rite. Put that instruction in ordinary words under `## GM Notes`.
+GM truth stays in `## GM Notes` and in `11 - Secrets`. Player-facing text does not pick up what is under GM Notes.
 
-This rule covers an answer to a question about the world, not only a new note. Epic B and Epic C rewrote the setting book into this speech. New writing does not put the old voice back. The baseline is the opening of the Turning Tree chapter in the setting book, and [[How a Place Speaks]].
+Facts, numbers, secrets, and front-matter stay. Do not invent canon.
 
-A poem, a play, a minute-book, or another page written as someone inside the world may use that speaker's words. The note around the page still says what the page is and what a reader is meant to understand. `oblique-worldbuilding` is for those pages. It is not the voice of a reference note, a roadmap task, or an explanation.
+The Turning Tree chapter is no longer the baseline for short sentences. Do not use that chapter, or an older tracker line that still names it, as a reason to chop a setting note into one-sentence definitions. Do not put that short voice back. Roadmap tasks and checklists stay short because they are a tracker, not setting notes. Do not rewrite the Roadmap into chapters. Do not use the Roadmap's shortness as a reason to chop a setting note.
 
-Story P2.2 (2026-10-02). Sharpened 2026-10-15 after Epic H came back in the old voice. The world book is rebuilt only when the user asks.
+Story P2.2 (2026-10-02). Sharpened 2026-10-15 after Epic H came back in the old voice. The short-sentence baseline was retired on 2026-11-11. The world book is rebuilt only when the user asks.
 
 ## Linking & naming
 
