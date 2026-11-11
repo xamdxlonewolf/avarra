@@ -367,13 +367,13 @@
       "handoffPath": "handoffs/factions-orders-seat.md",
       "startedAt": "2026-11-11T06:02:04.345Z",
       "finishedAt": "2026-11-11T06:19:14.806Z",
-      "lastUpdate": "2026-11-11T06:19:14.806Z",
+      "lastUpdate": "2026-11-11T06:19:15.865Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "factions-orders-houses",
@@ -604,12 +604,12 @@
       "agentId": "bc-5138f15c-a2aa-49e7-a2e7-1523a4031a4b",
       "runId": "run-ca6f680d-af88-4672-95fd-54f41495b320",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/people-npcs-minor.md",
       "startedAt": "2026-11-11T06:02:57.428Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:59.843Z",
+      "finishedAt": "2026-11-11T06:19:18.613Z",
+      "lastUpdate": "2026-11-11T06:19:18.613Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1561,6 +1561,10 @@
     {
       "at": "2026-11-11T06:19:14.804Z",
       "message": "cultures-peoples: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:15.866Z",
+      "message": "factions-orders-seat: verification self-reported (not-verified)"
     }
   ]
 }
