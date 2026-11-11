@@ -697,13 +697,13 @@
       "handoffPath": "handoffs/game.md",
       "startedAt": "2026-11-11T06:27:18.546Z",
       "finishedAt": "2026-11-11T06:44:36.545Z",
-      "lastUpdate": "2026-11-11T06:44:36.545Z",
+      "lastUpdate": "2026-11-11T06:44:37.726Z",
       "note": "respawned by self-planner (was error; attempts=2)",
       "attempts": 3,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "verify-voice-rules",
@@ -1484,17 +1484,18 @@
       "agentId": null,
       "runId": null,
       "parentAgentId": null,
-      "status": "pending",
+      "status": "running",
       "resultStatus": null,
       "handoffPath": null,
-      "startedAt": null,
+      "startedAt": "2026-11-11T06:44:41.570Z",
       "finishedAt": null,
-      "lastUpdate": null,
+      "lastUpdate": "2026-11-11T06:44:41.570Z",
       "note": null,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": null,
+      "attempts": 1
     }
   ],
   "attention": [
@@ -1661,6 +1662,10 @@
     {
       "at": "2026-11-11T06:42:47.104Z",
       "message": "campaigns: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:44:37.727Z",
+      "message": "game: verification self-reported (not-verified)"
     }
   ]
 }
