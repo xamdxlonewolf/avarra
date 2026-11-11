@@ -10,18 +10,18 @@
       "agentId": "bc-22db4738-6063-45e2-a7a5-ff13a8244474",
       "runId": "run-46dc84fc-8581-49c5-bb9c-a23c52b03994",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/voice-rules.md",
       "startedAt": "2026-11-11T06:00:45.231Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:00:48.592Z",
+      "finishedAt": "2026-11-11T06:04:57.281Z",
+      "lastUpdate": "2026-11-11T06:04:57.281Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "core-concept",
@@ -39,11 +39,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:00:54.150Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "world-geography",
@@ -61,11 +61,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:00:57.094Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "world-climate",
@@ -83,11 +83,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:02.526Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "world-life",
@@ -105,11 +105,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:13.433Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "history-events",
@@ -127,11 +127,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:16.120Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "history-eras",
@@ -149,11 +149,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:21.387Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "history-record",
@@ -171,11 +171,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:24.181Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "cultures-peoples",
@@ -193,11 +193,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:28.436Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "cultures-tongue",
@@ -215,11 +215,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:37.889Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "cultures-law",
@@ -237,11 +237,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:41.996Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "cultures-daily",
@@ -259,11 +259,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:46.499Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "settlements-cities",
@@ -281,11 +281,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:51.975Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "settlements-towns",
@@ -303,11 +303,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:55.818Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "settlements-villages",
@@ -325,11 +325,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:01:58.746Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "settlements-sites",
@@ -347,11 +347,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:04.064Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "factions-orders-seat",
@@ -369,11 +369,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:06.619Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "factions-orders-houses",
@@ -391,11 +391,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:09.945Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "factions-gov-seats",
@@ -413,11 +413,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:13.209Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "factions-gov-powers",
@@ -435,11 +435,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:20.239Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "factions-guilds",
@@ -457,11 +457,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:23.341Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "factions-edges",
@@ -479,11 +479,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:38.500Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "religion-faiths",
@@ -501,11 +501,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:42.909Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "religion-practice",
@@ -523,11 +523,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:45.648Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "creatures-conditions",
@@ -545,11 +545,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:49.587Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "creatures-rest",
@@ -567,11 +567,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:53.667Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "people-npcs-major",
@@ -589,11 +589,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:57.190Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "people-npcs-minor",
@@ -611,11 +611,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:02:59.843Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "people-cast",
@@ -633,11 +633,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:03:02.635Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "secrets",
@@ -655,11 +655,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:03:05.213Z",
       "note": null,
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "campaigns",
@@ -677,11 +677,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:03:15.177Z",
       "note": "spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously.",
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": "unknown",
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "game",
@@ -699,11 +699,11 @@
       "finishedAt": null,
       "lastUpdate": "2026-11-11T06:03:30.815Z",
       "note": "spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously.",
+      "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": "unknown",
-      "verification": null,
-      "attempts": 1
+      "verification": null
     },
     {
       "name": "verify-voice-rules",
