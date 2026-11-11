@@ -428,12 +428,12 @@
       "agentId": "bc-e88bd422-ebd7-47ce-869a-ebac2e5a7354",
       "runId": "run-cac925a9-2026-4564-aa3a-79eab67a06c7",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/factions-gov-powers.md",
       "startedAt": "2026-11-11T06:02:13.479Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:20.239Z",
+      "finishedAt": "2026-11-11T06:19:43.409Z",
+      "lastUpdate": "2026-11-11T06:19:43.409Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -477,13 +477,13 @@
       "handoffPath": "handoffs/factions-edges.md",
       "startedAt": "2026-11-11T06:02:23.573Z",
       "finishedAt": "2026-11-11T06:19:24.148Z",
-      "lastUpdate": "2026-11-11T06:19:24.148Z",
+      "lastUpdate": "2026-11-11T06:19:25.254Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "religion-faiths",
@@ -1569,6 +1569,10 @@
     {
       "at": "2026-11-11T06:19:19.629Z",
       "message": "people-npcs-minor: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:25.254Z",
+      "message": "factions-edges: verification self-reported (not-verified)"
     }
   ]
 }
