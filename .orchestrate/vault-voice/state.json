@@ -147,13 +147,13 @@
       "handoffPath": "handoffs/history-eras.md",
       "startedAt": "2026-11-11T06:01:16.487Z",
       "finishedAt": "2026-11-11T06:21:14.356Z",
-      "lastUpdate": "2026-11-11T06:21:14.356Z",
+      "lastUpdate": "2026-11-11T06:21:15.479Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "history-record",
@@ -494,12 +494,12 @@
       "agentId": "bc-ae866c10-b7d3-496b-93e2-4ff6685eb556",
       "runId": "run-8f630d6e-e112-438a-8911-d62393595b2d",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/religion-faiths.md",
       "startedAt": "2026-11-11T06:02:38.693Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:42.909Z",
+      "finishedAt": "2026-11-11T06:23:07.216Z",
+      "lastUpdate": "2026-11-11T06:23:07.216Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1617,6 +1617,10 @@
     {
       "at": "2026-11-11T06:21:12.253Z",
       "message": "cultures-tongue: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:21:15.479Z",
+      "message": "history-eras: verification self-reported (not-verified)"
     }
   ]
 }
