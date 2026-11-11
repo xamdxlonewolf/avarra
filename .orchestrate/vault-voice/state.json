@@ -32,12 +32,12 @@
       "agentId": "bc-1bc4a717-9a12-4115-88f3-2b4f8243643c",
       "runId": "run-a062c9b5-439d-4b09-9966-006fae915dea",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/core-concept.md",
       "startedAt": "2026-11-11T06:00:48.841Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:00:54.150Z",
+      "finishedAt": "2026-11-11T06:19:46.029Z",
+      "lastUpdate": "2026-11-11T06:19:46.029Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -653,13 +653,13 @@
       "handoffPath": "handoffs/secrets.md",
       "startedAt": "2026-11-11T06:03:02.951Z",
       "finishedAt": "2026-11-11T06:19:44.569Z",
-      "lastUpdate": "2026-11-11T06:19:44.570Z",
+      "lastUpdate": "2026-11-11T06:19:45.660Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "campaigns",
@@ -1577,6 +1577,10 @@
     {
       "at": "2026-11-11T06:19:44.507Z",
       "message": "factions-gov-powers: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:45.660Z",
+      "message": "secrets: verification self-reported (not-verified)"
     }
   ]
 }
