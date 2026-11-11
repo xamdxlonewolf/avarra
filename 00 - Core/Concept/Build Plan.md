@@ -22,7 +22,7 @@ Each paragraph says what the epic built and what is next. The history of each is
 
 **Epic T — Books for the table (T.2 done 2026-11-02).** The user asked for four books: a refresh of the world book from the vault, a player primer, a GM cheat sheet, and a GM primer of 20 pages or fewer that explains the whole world in plain words. Nothing in the epic adds canon. T.1 rebuilt the world book from the vault after Epic H and Epic V, and closed V.4h. T.2 wrote [[Player Primer]], about eight pages, player-safe, from the player chapters. The reading copy is 7 letter pages. **Next:** Story T.3, the GM cheat sheet, one or two printed pages.
 
-**Epic V — Read the whole vault ✅ (V.0–V.4h done 2026-10-22).** A script and eight readers went through every note. The report is [[Vault Audit 2026-10-22]]. The user answered in V.3: the Pourers give one year at a time, so [[Reimaethe]] is right; Maiethorn may run higher on the Given, though a hug there is not rare; [[Sanbreo]] is on Heskoren's west coast. V.4 fixed the findings in three waves from [[V.4 Fix Prompt]]: by folder, then the [[Reveal Index]] and the links, then a reread. C-10 to C-24 are resolved on [[Contradictions]]. A child who never stood under a Tree is UnTurned in every note, history included. The near-alike name pairs and the travel times for the newer seats were left for the user. **Next:** nothing. The world book was rebuilt in Story T.1.
+**Epic V — Read the whole vault ✅ (V.0–V.4h done 2026-10-22).** A script and eight readers went through every note. The report is [[Vault Audit 2026-10-22]]. The user answered in V.3 that the Pourers give one year at a time, which is why [[Reimaethe]] is right, that Maiethorn may run higher on the Given, the people who receive a Condition at the tenth-year Leaf-Fall, even though a hug there, the Tree keeping the child and giving no colour, is not rare, and that [[Sanbreo]] is on Heskoren's west coast. V.4 fixed the findings in three waves from [[V.4 Fix Prompt]]: by folder, then the [[Reveal Index]] and the links, then a reread. C-10 to C-24 are resolved on [[Contradictions]]. A child who never stood under a Tree is UnTurned in every note, history included. The near-alike name pairs and the travel times for the newer seats were left for the user. **Next:** nothing. The world book was rebuilt in Story T.1.
 
 **Epic H — A past you can hold ✅ (2026-10-22).** It wrote [[The Pourers]], what a visitor sees at the Walled Book in [[Rothallo]] ([[The Walled Book]]), the ordered history in [[A History of the Turning]], and six pages a party can find in [[The Library Pages]]. The three groups stay three, the founder stays unnamed, and no power was added. **Next:** nothing in this epic. The world book is rebuilt only when the user asks.
 
@@ -67,41 +67,41 @@ Each paragraph says what the epic built and what is next. The history of each is
 - Stock a construct people or a sixth adversary.
 - Explain the shallow-ford lead or the colour on the socket ribbon.
 
-Two clocks stand: how you Turned, and where the wood has reached. The cutter is unpicked. Years are counted from the First Cut, which was a graft; the Conditions, the Giving, and the doors are older and have no date ([[Before the Walk]] · [[The Ages of the Turning]]). Kumbaan's storm-wall stays weather.
+Two clocks stand: how you Turned, Walking or Hands, and where the wood has reached, with Grafting still moving. Years are counted from the First Cut, and that Cut was a graft, so the Conditions, the Giving, and the doors are older than the count and have no date ([[Before the Walk]] · [[The Ages of the Turning]]). The cutter, the one who made that Cut, stays unpicked. Kumbaan's storm-wall stays weather, and no power is set in it to block the household.
 
 ## What this world is
 
-Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fresh takes, not horror-movie clichés. Tone **~5% scary**.
+Vampires, werewolves, and their kin are **accepted, employed, and needed**, and each of them is a fresh take on the familiar monster rather than a horror-movie cliché. The tone sits at about **~5% scary**, mostly mundane, with a real and dangerous obstacle underneath.
 
-**Two-layer model:** **Kind** (born ancestry, mundane) +, for most people, a **Condition** (acquired becoming). They stack. *Becoming = Condition; born-that-way = Kind.*
+A person carries two layers at once, and the layers stack: **Kind** is the ancestry you are born, and it is mundane, while a **Condition**, for most people, is the becoming they acquire. The test that sorts them is the one to keep: a becoming is a Condition, and born-that-way is a Kind.
 
-**Acquisition:** **Given** at the tenth-year Leaf-Fall at a town [[Turning Tree]], or **Struck** later. The rest are Kept. The shares are on [[The Premise]]. Every Condition has a **Tithe** that never seizes the PC.
+A Condition is **Given** at the tenth-year Leaf-Fall, when the town gathers at its [[Turning Tree]], or it is **Struck** into someone later in life, and everyone who takes neither path is Kept. The shares of Given, Struck, and Kept live on [[The Premise]], and every Condition has a **Tithe** that never seizes the player character.
 
-**Roster:** **9 selectable Conditions** + [[The Unbound]] downstream of [[Bound]] (inside Bound's share). **4 custom Kinds:** [[Kitsune]] · [[Selkie]] · [[Tengu]] · [[Yumboe]].
+A person can be one of **9 selectable Conditions**, with [[The Unbound]] coming afterward, downstream of [[Bound]] and counted inside Bound's share rather than beside it. **4 custom Kinds** stand with the stock ancestries: [[Kitsune]], [[Selkie]], [[Tengu]], and [[Yumboe]].
 
-**Leaf-Mother:** a *belief* in player text. GM keystone: she is real, benevolent, bounded, and costly ([[Is the Leaf-Mother Real]]).
+Where a player is reading, the **Leaf-Mother** stays a belief, and the GM keystone, which that player text does not confirm, is that she is real, benevolent, bounded, and costly ([[Is the Leaf-Mother Real]]).
 
 ## Locked (do not re-litigate)
 
-- **Name:** _The Turning_. Everyday register; "The Turning Lands" is regional phrasing.
-- **Engine and math:** Given / Struck / Kept as above. Shares live only on [[The Premise]]. Unbound is inside Bound's share. The Returned and the both-path Struck have their shares there too.
-- **Condition cards do not level.** Tithe clocks tick on a **long rest** unless a card names another trigger. → [[Conditions]]
-- **One Phoenix Gift.** Never two living Phoenix Conditions. Apparent two = leftover fire + a new Gift. Remnant is not a Phoenix. → [[When the Fire Is Caught]]. Fire immunity stays full. Hidden PC agency → [[A Hidden Phoenix]]. Opening → [[The Opening]].
-- **Vampire sink:** Long-Lived can have children; none are guaranteed to inherit. Deathless, not unkillable.
-- **Kind-hearths, not Kind-nations.** Stock ancestries lean; they do not own continents. Four customs keep three features. Stock (and stock-and-stock mixes) take a [[Kind Heritage|Hearth-Mark]]. Mixed Ancestry as the SRD (Top + Bottom; no hearth feature). [[Yumboe]] PCs need GM leave and are always the full Kind. "Cannot be caught off guard" once, on [[Tengu|The Mountain's Mood]].
-- **Person-naming:** named by *place*; hearth-registers *Kusawe · Sakoa · Gonan* + Yumboe. The second name is a **byname** where people are witnessed, and a **house-name** (surname slot) in Threnmaieth, Trenledd, the Inner Close, and filing houses. Speak the common name; write the liturgical name. New liturgical coinage is frozen. → [[Naming People in the Turning]] · [[The Old Tongue]] · [[Naming Tools]]
-- **Calendar:** twelve Maiethren months; year-start splits by stance; Kumbaan keeps twelve moons. Leaf-colours on [[Turning Tree]].
-- **Era spine:** two clocks — how you Turned (Walking vs Hands) and where the wood has reached (Grafting still moving). No universal year-zero. *Brenvaeth / Eoloren / Ornthael* 🔒. Present **Cut-year 387** 🔒. Tree undated. Cutter unpicked. Limit's nature open. → [[The Ages of the Turning]]
-- **~15 powers.** Inner Close stays inside [[Orenbren]]. Kumbaan is not a thirteenth mainland power and never took a graft. *Eolstrand* is retired; the slot is [[The Hinge Shore]]. Named ground: [[Named Ground]].
-- **Kumbaan committed for play:** [[Ndenjoo]] · [[Njunda]] · crossing rules on [[The Sundering Isle]].
-- **Table procedures:** [[At the Table]]. Infernis + Bound stack. Wilderness rolls: [[Dangers of the Turning]]. Export strip and `note_status` vocabulary: [[Conventions]]. Pass-two log: [[Contradictions]].
+- **Name.** The setting is called _The Turning_, in the everyday register, and "The Turning Lands" is a regional way of phrasing the same place.
+- **Engine and math.** Given, Struck, and Kept are as the section above describes them, and the shares live only on [[The Premise]]. Unbound stays inside Bound's share, and the Returned and the both-path Struck have their shares on that same page.
+- **Condition cards do not level.** A Tithe clock ticks on a **long rest** unless the card itself names another trigger. → [[Conditions]]
+- **One Phoenix Gift.** There is one Phoenix Gift, and never two living Phoenix Conditions: what looks like two is leftover fire beside a new Gift, a Remnant is not a Phoenix, and fire immunity stays full. → [[When the Fire Is Caught]]. Hidden player-character agency is on [[A Hidden Phoenix]], and the opening that uses the Gift is [[The Opening]].
+- **Vampire sink.** The Long-Lived can have children, none of those children are guaranteed to inherit the Condition, and the Long-Lived are deathless without being unkillable.
+- **Kind-hearths, not Kind-nations.** Stock ancestries are a lean presence and do not own continents, and the four custom Kinds keep three features each. A stock character, and a mix of stock with stock, takes a [[Kind Heritage|Hearth-Mark]]. Mixed Ancestry works as the SRD has it, a Top and a Bottom, with no hearth feature. A [[Yumboe]] player character needs the GM's leave and is always the full Kind. The line "cannot be caught off guard" is used once, on [[Tengu|The Mountain's Mood]].
+- **Person-naming.** People are named by *place*, and the hearth-registers are *Kusawe · Sakoa · Gonan*, with Yumboe beside them. Where people are witnessed, the second name is a **byname**, and in Threnmaieth, Trenledd, the Inner Close, and the filing houses it is a **house-name**, the slot a surname would fill. You speak the common name and you write the liturgical name, and new liturgical coinage is frozen. → [[Naming People in the Turning]] · [[The Old Tongue]] · [[Naming Tools]]
+- **Calendar.** The year has twelve Maiethren months, the start of the year splits by stance, Kumbaan keeps twelve moons, and the leaf-colours are on [[Turning Tree]].
+- **Era spine.** Two clocks run the age, how you Turned (Walking vs Hands) and where the wood has reached (Grafting still moving), and there is no universal year-zero. *Brenvaeth / Eoloren / Ornthael* stay 🔒, the present is **Cut-year 387** 🔒, the Tree is undated, the cutter is unpicked, and the nature of the Leaf-Mother's limit stays open. → [[The Ages of the Turning]]
+- **~15 powers.** About fifteen powers are the ones worth naming: the Inner Close stays inside [[Orenbren]], Kumbaan is not a thirteenth mainland power and never took a graft, the name *Eolstrand* is retired and the slot is [[The Hinge Shore]], and the ground that has been given a name is on [[Named Ground]].
+- **Kumbaan committed for play.** What is committed is [[Ndenjoo]], [[Njunda]], and the crossing rules on [[The Sundering Isle]].
+- **Table procedures.** The procedures live on [[At the Table]], where Infernis and Bound stack. Wilderness rolls are on [[Dangers of the Turning]], the export strip and the `note_status` vocabulary are in [[Conventions]], and the pass-two log is [[Contradictions]].
 
 ## Rejected (don't re-propose)
 
-- As **Conditions:** Selkie, Puca, Kitsune, Doppelganger. Selkie and Kitsune became Kinds; Puca and Doppelganger were cut entirely. Rusalka folded into Returned's water-door.
-- As custom **ancestries:** Puca, Rusalka, Doppelganger cut. Kitsune + Selkie + Tengu + Yumboe stand.
-- Invented Condition batches (Kindled / Taken / Hungering; Well / Chorus / Unspooled / Graven) and last-slot misses (Ghoul, D&D-race lookalikes, Ghost/Mummy, etc.).
-- **Design rule:** recognizable folklore monsters, fresh spin; Tithes manageable; never seize the PC.
+- As **Conditions**, Selkie, Puca, Kitsune, and Doppelganger were set aside. Selkie and Kitsune became Kinds, Puca and Doppelganger were cut entirely, and Rusalka was folded into the Returned's water-door.
+- As custom **ancestries**, Puca, Rusalka, and Doppelganger were cut, and Kitsune, Selkie, Tengu, and Yumboe are the ones that stand.
+- The invented Condition batches were rejected as well (Kindled / Taken / Hungering; Well / Chorus / Unspooled / Graven), and so were the last-slot misses (Ghoul, D&D-race lookalikes, Ghost/Mummy, and the rest of that kind).
+- **Design rule.** A Condition should be a recognizable folklore monster with a fresh spin, its Tithe should stay manageable, and the Tithe should never seize the player character.
 
 ## How to work
 
@@ -113,7 +113,7 @@ Vampires, werewolves, and their kin are **accepted, employed, and needed**. Fres
 
 ## Daggerheart baseline
 
-**18 stock ancestries** (SRD heritage). **9 communities.** Design customs and Conditions against these so ours stay distinct.
+Daggerheart's own heritage is the baseline these customs and Conditions are designed against, so ours stay distinct: **18 stock ancestries** (SRD heritage) and **9 communities**.
 
 SRD: https://daggerheartsrd.com/heritage/ · /ancestries/ · /communities/ · /rules/ · /gm/
 
