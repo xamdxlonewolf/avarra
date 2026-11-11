@@ -2,7 +2,7 @@
 
 Most families in the Turning are ordinary, and that is the first thing to understand about them. Two people marry. Some of the household carry a **Condition**, the change that arrives across a life, and some do not. The children have not Turned yet, and will not until their tenth year. A **Kind** is what a person is by birth, the ancestry they arrived in, and a Condition stacks onto that Kind. It can arrive years later. A **Tithe** is the upkeep a Condition keeps requiring, and it shows up in a house as a cost, a noise, or a door left waiting. A wife born a Selkie, one of the seal-people, a husband Returned from a drowning, a Kept grandmother, three children who are simply children so far: this is not a remarkable household. It is the household. Because nearly every family is mixed in that way, mixed families are not a category anyone thinks about. There is no unmixed household to marry away from, so nobody treats the mix as a departure, and nobody keeps a separate name for it.
 
-### Family, the whole spectrum
+## Family, the whole spectrum
 
 Family life spreads along a range, and the spread itself is the point.
 
@@ -24,7 +24,7 @@ Every parent lives the same open question until the child's tenth year: what wil
 
 Mixed-Kind children are allowed. Two mainland Kinds may sit in one body, the way the rules already allow a mixed ancestry, and a fox-and-seal child, Kitsune and Selkie together, is as ordinary as a Returned husband. Nobody files the marriage. Nobody calls it marrying out. The live question is whose kitchen the summer before they Turn, not whether the marriage was permitted. Yumboe, the people of the Sundering Isle, are the exception. A Yumboe at the table needs the GM's leave, because they are mythic-rare off the isle, and if one is seated they are the full Kind, never a mix. A child of a Yumboe and a mainlander is a full Yumboe, under that same leave, or the mainland Kind, with at most a story people tell about the child. There is never a half.
 
-### Medicine: miraculous, and strange to outside eyes
+## Medicine: miraculous, and strange to outside eyes
 
 Medicine in the Turning is astonishing for a late-medieval world, a world of guilds and bone and herb with no anaesthetic worth the name, and it is astonishing for one reason. The work a Condition makes possible shows up hardest at the sickbed and the deathbed. Two Conditions turn a clinic into something a world of this technology should not have. To anyone standing outside it, the room holds wonder and wrongness together.
 
@@ -34,7 +34,7 @@ The Returned do the work that kills the living. Plague wards, mine collapses, th
 
 The rest of medicine is ordinary, and ordinarily unequal. Midwives, bonesetters, herbalists, and the Answered's craft turned to apothecary and instrument-making do the everyday care. More of the population carries a useful becoming, so that everyday care is better staffed than a town of this technology would otherwise manage. The care that makes the world exceptional is not evenly available. The great Stilled infirmaries and the deathless-endowed hospitals stand in the rich, Tree-dense core. A frontier town makes do with a travelling stiller if it is lucky, and with cloth, a rope, and a prayer if it is not. The deepest inequity is the one the economy already names. You can be too poor to stay whole, and the medicine that treats a lapsing Condition is the medicine the poor can least reach. The wonder is real. So is the queue outside it.
 
-### Living in a Turning town: city design
+## Living in a Turning town: city design
 
 A city here is shaped by a fact no other world's city has to build for. Most of its adults have an upkeep, and some of those upkeeps are dangerous or expensive to meet. So the town builds for the Tithe the way it builds for water and waste, as civic infrastructure, visible and load-bearing.
 
@@ -60,7 +60,7 @@ Ordinary houses bend quietly to what the people in them have become. Windows ope
 
 Core and frontier show in how much of that provision is there at all. Dense, Tree-rich towns are thick with it. Frontier settlements have little of it and improvise. How much of a town's Tithe-provision is public, private, or simply missing tells you where that town sits.
 
-### How polities vary (domestic faces)
+## How polities vary (domestic faces)
 
 Everyday life varies on the same three choices as the law and the economy: how gift-devout the place is, how many healthy Trees it has, and how far the state reaches into a house. Three stances recur.
 
@@ -72,7 +72,7 @@ Everyday life varies on the same three choices as the law and the economy: how g
 
 A place's daily texture is set by all three choices at once. A devout frontier holds joyous Turnings with almost no infirmary behind them. A secular Tree-rich republic has superb medicine and a marriage market that shrugs at theology. A Watchful-and-pious core turns the sacrament of a child's Turning into a state census with a hymn over it.
 
-### When the town buries
+## When the town buries
 
 A funeral is the hour a street has a body to carry. It is a walk, and then a meal, and then a door. It is not a Turning. Nobody asks the Tree what the dead person was, and nobody stands the body under the branches for a colour.
 
@@ -94,7 +94,7 @@ Eolvaeth does not send off to a Tree-town to borrow a warden it does not have. I
 
 At Ndenjoo the body is carried above the tide, and the hall does not lay a second empty plate for the dead. The dead person's own cup is set in the place that was already laid. It sits there for one night, and then it goes back onto the shelf. Whether anyone speaks a name is the argument the valley already knows how to have, and that argument waits until the dishes are done. The shore does not come up the hill to invent a rite on the sand.
 
-### The guest-meal
+## The guest-meal
 
 The bowl is set down before anyone asks the guest who they are. That order travels from town to town. Everything after the bowl is the stance the street was already keeping.
 
@@ -108,7 +108,7 @@ On the first night at Ndenjoo, the guest does not serve the food, and does not s
 
 If someone asks what the guest is before the bowl has been set down, the room goes quiet. The person nearest the pot puts the bowl down anyway. Talk may start again when the guest takes a second bite, or it may not start again at all. There is no speech kept in reserve to repair the asking. A host who wants a doctrine can have one after the dishes, taken from whichever faith that host already keeps.
 
-### What a house keeps
+## What a house keeps
 
 When a town needs work done, it hires a person. The work people expect from a made thing is already someone's job. An Answered coaxes stone, water, fire, or air, and then goes home. A Stilled holds a body still for a knife. A mill-hand sets the stones, a hull-wright walks a hull, and a road-mend leaves a shovel in the bank. Those are people. A Clank is a Kind, a person born a Clank, who mends flood-walls, hulls, mills, and lofts alongside everyone else who does that work. A made thing is a thing, and a Clank is a person.
 

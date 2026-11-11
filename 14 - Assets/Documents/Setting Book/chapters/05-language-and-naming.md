@@ -143,12 +143,12 @@ The lists are what you pick from. **To make another** is only for when you need 
 
 A Kitsune hearth-name sounds light, slipping, and a little sibilant, full of *s* and *sh*, the sort of name that slips round the corner of a sentence.
 
-| | |
-|---|---|
-| **Consonants** | k s sh n r m t w y f h |
-| **Vowels** | a i u e o ai |
-| **Syllables** | CV · CVF (F = n/m/r) · 2–3 syllables |
-| **Forbidden** | *th* (Maiethren sacred), prenasals *mb/nd/nj* (Yumboe), *kr/gr* (Tengu) |
+**At the table**
+
+- **Consonants** k s sh n r m t w y f h
+- **Vowels** a i u e o ai
+- **Syllables** CV · CVF (F = n/m/r) · 2–3 syllables
+- **Forbidden** *th* (Maiethren sacred), prenasals *mb/nd/nj* (Yumboe), *kr/gr* (Tengu)
 
 **Pick from:** Raki, Nenyu, Wishi, Kiraye, Suti, Hatu, Ranyu, Sinro, Foryo, Heka, Sofan.
 
@@ -160,12 +160,12 @@ The hearth-name is the one they answer to when someone is trying to pin them dow
 
 A Selkie hearth-name sounds liquid, rounded, and coastal. You can say it with cold air in your mouth.
 
-| | |
-|---|---|
-| **Consonants** | l r n m s v f d b k w |
-| **Vowels** | o u a ea oa i e |
-| **Syllables** | CV · CVC · 2–3 syllables |
-| **Forbidden** | *th*, *sh*, *kr/gr*, prenasals |
+**At the table**
+
+- **Consonants** l r n m s v f d b k w
+- **Vowels** o u a ea oa i e
+- **Syllables** CV · CVC · 2–3 syllables
+- **Forbidden** *th*, *sh*, *kr/gr*, prenasals
 
 **Pick from:** Lavo, Fesa, Moka, Dovo, Neson, Foaro, Veakea, Didel, Roadoa, Woanun, Laknea.
 
@@ -177,12 +177,12 @@ The day a child is first given the run of their own skin is when the hearth-name
 
 A Tengu hearth-name is clipped, windy, and high-country. The names are shorter, and they start hard, on a single consonant or on an onset such as *kr*, *gr*, and *hr*, said as if the wind might take the end. This is ridge-speech, and it does not sound like Kusawe.
 
-| | |
-|---|---|
-| **Consonants** | k t g n r h s b d · onsets kr gr hr |
-| **Vowels** | a o u e *(few i — that vowel lives in Kusawe)* |
-| **Syllables** | CVC · CV · 1–3 syllables, prefer 2 |
-| **Forbidden** | *th*, *sh*, prenasals, long *ai/ea/oa* glides |
+**At the table**
+
+- **Consonants** k t g n r h s b d · onsets kr gr hr
+- **Vowels** a o u e *(few i — that vowel lives in Kusawe)*
+- **Syllables** CVC · CV · 1–3 syllables, prefer 2
+- **Forbidden** *th*, *sh*, prenasals, long *ai/ea/oa* glides
 
 **Pick from:** Teku, Kukra, Gobak, Hosen, Kotak, Buka, Rekren, Kuhos, Hrarat, Gonan.
 

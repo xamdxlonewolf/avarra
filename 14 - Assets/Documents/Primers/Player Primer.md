@@ -59,11 +59,11 @@ The colour of the leaf names the Condition.
 |---|---|
 | Deep red | Long-Lived |
 | Storm-grey | Two-Bodied |
-| Lamp-amber | The Answered. The shade names the element: Ember (fire), Tide (water), Root (earth and stone), or Gale (air) |
+| Lamp-amber | The Answered (Ember, Tide, Root, or Gale) |
 | Sea-blue | Far-Voiced |
 | Pale stone | The Stilled |
-| Copper-green | The Taken-In. This green is metallic, and it is not the Tree's summer green |
-| White-fire | Phoenix. Almost no living town has seen this leaf. A town-warden sends word of it to the First Seat, the wardens at the Awakening Tree, rather than announcing Phoenix in the square |
+| Copper-green | The Taken-In (metallic green, not the hug) |
+| White-fire | Phoenix (rare; the warden sends word to the First Seat) |
 
 A hug is the Tree's own summer green, and it has no naming colour. Returned, Bound, and the Unbound have no leaf-colour. The Tree Gives, or it Keeps, and a Strike happens later, away from the Tree.
 
@@ -81,7 +81,7 @@ Nine of these can be chosen at character creation, when the path allows. The Unb
 
 Far-Voiced, the Stilled, and the Taken-In can be Given or Struck, and most of them are Given. For each of those three, the people who were Struck are about one person in a hundred. Long-Lived, Two-Bodied, the Answered, and Phoenix are Given only. Returned and Bound are Struck only.
 
-The paragraph that begins with **Tithe** is the upkeep. Most Tithes are checked once at a long rest, and two short rests in one day leave the tokens as they are. Far-Voiced, Two-Bodied, Bound, and Phoenix use a different time, and that paragraph says so. The card in the world book lists any step between a first miss and the end named here.
+The Tithe is the upkeep. Most of them are checked once at a long rest, and two short rests in one day leave the tokens as they are. Far-Voiced, Two-Bodied, Bound, and Phoenix keep a different clock, and that entry says so. The card in the world book lists any step between a first miss and the end named here.
 
 **Long-Lived.** Old tales called them vampires, and what the towns actually have is a keeper of memory. The Tree Gives this Condition, and only the Tree, by the deep-red leaf, and about 2.5 percent of people live this way. Aging stops, they forget nothing they have witnessed, and one drop of blood, freely given or taken from a wound that is already there, shows them a true memory from the person it came from. The drop is a reading, and it does no harm. They keep the records a court will trust, and they wait to be asked through a door, which the towns take as manners. They can have children, though most of those children do not inherit the Condition, and violence, an accident, or a failed Tithe can still kill them.
 

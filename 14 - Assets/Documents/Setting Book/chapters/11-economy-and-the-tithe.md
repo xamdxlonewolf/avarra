@@ -8,7 +8,7 @@ The ordinary technology of the age is late medieval: guilds, letters of credit, 
 
 Society organizes around the Conditioned, the people who carry a Condition, for that reason, rather than from reverence or from fear. The work fits the Tithe, and there is a net under the people whose Tithe does not pay itself. Most of the Conditioned pay by working, because for them the need and the job are the same act. A smaller share has to be furnished by someone else. The ones who furnish, and the ones who need furnishing, are often the same people. Whoever holds the gate holds power.
 
-### Who actually buys provision
+## Who actually buys provision
 
 The share of people with each Condition is in *The Conditions*. This table sorts people by how they pay, and it gives no numbers of its own.
 
@@ -21,7 +21,7 @@ The share of people with each Condition is in *The Conditions*. This table sorts
 
 Green is free on a farm, and most Taken-In live where it is free. The purchased or civic customer base is a minority of the people, and it concentrates in the stone towns: urban Taken-In, hall-users who have no stage of their own, people seeking novelty, and warmth that money can only approximate. The queues at those doors are real. The doors are not granaries. A city fights over lot-hours and over hall-bells, the hours a voice is allowed to vent, the way it fights over wells. A wilt for lack of green, or a Cry breaking in the square, is a public problem. Tithe-goods do not move in the grain carts, and they do not rival bread by the cartload.
 
-### Self-paying vs provided-for Tithes
+## Self-paying vs provided-for Tithes
 
 Not all Tithes cost the same to pay, and some do not cost coin at all, because paying them is doing useful work. That sorts the Conditioned along a range from self-paying to provided-for, and almost everything else follows from where a Condition sits. The line is a range, not a wall. Which side a person lands on can depend on the work they actually do, not only on the Condition. Far-Voiced and Returned are where that shows.
 
@@ -51,7 +51,7 @@ Not all Tithes cost the same to pay, and some do not cost coin at all, because p
 
 The self-payers are prosperous almost automatically, because their Condition is a trade. Prosperity is not the same thing as ease. The Stilled self-pay and are still the most tightly licensed people in the world. The Answered self-pay under heavy guild discipline. Self-paying buys a living. It does not buy social comfort along with the living. The provided-for are economically exposed. They depend on someone furnishing the upkeep, and whoever furnishes it holds power over them. The people on the seam are the most precarious of all. A Far-Voiced who loses the stage, or a Returned whose Purpose turns personal, can slide from self-paying to exposed overnight. That slide is where the injustice runs.
 
-### Tithe-poverty and the safety net
+## Tithe-poverty and the safety net
 
 Because the provided-for Tithes cost money, you can be too poor to stay whole. A Taken-In who cannot afford green, a Long-Lived with no access to anything new, a Far-Voiced with nowhere to vent: these people do not only suffer want. They slide toward the danger, into the wilting, the fade, or the involuntary Cry, a voice breaking out because it was not let out on purpose. Destitution here has a visible, dangerous face.
 
@@ -63,7 +63,7 @@ Where provision is left as a private burden, harsher polities hand it to the ind
 
 The cynical middle is leverage. The town, the guild, or the employer does provide the Tithe, and holds what it provides, so the furnisher can withhold it. How that lands on the stances is at the end of this chapter.
 
-### Labor: who does what
+## Labor: who does what
 
 The Tithe and the vocation are usually the same shape, which is why a town's jobs sound like its Conditions. How large each workforce is lives in *The Conditions*. What follows is the work, not a census.
 
@@ -81,7 +81,7 @@ What has to be remembered, the archives and the notarial acts and the judgments 
 
 A Phoenix is only a trace, and the economy does not employ them as a class of worker. They are a political symbol, not a trade. The Kept are the inversion of that whole ledger. They carry no Tithe, so there is no upkeep to fund, and they carry no Condition, so no Condition-guild claims them. They take ordinary work and move where the work is. Where the faithful pity them for missing a gift, the ledger calls them the least encumbered people in the world, a real freedom sitting under the slight.
 
-### Why Taken-In live in stone cities
+## Why Taken-In live in stone cities
 
 Green costs money in a stone city, and the cities keep the Taken-In at arm's length because the Taken-In thrive on the frontier. Both are true. Arm's length is how the polite districts stand toward the bark and antler a Taken-In carries on the body. The lots are still staffed.
 
@@ -95,7 +95,7 @@ They are in the city for five ordinary reasons.
 
 The Taken-In share of the whole world is in *The Conditions*. A stone city runs lower than that share. The Taken-In who are there concentrate on the lots, the orchards, the river-gardens, and the week-keeper's pot, the private green that same trade rents by the week. There are enough of them to make a queue, enough for a wilt two streets off the lot, and enough for the Slide to have a customer. The frontier keeps the density and the honour. The city keeps the gate.
 
-### Banking and the deathless houses
+## Banking and the deathless houses
 
 The banks of the Turning do not die. These are the **deathless houses**. A Long-Lived founds the house and is still personally running it two centuries later, the same memory, the same word, and the same unbroken ledger. In a world of letters of credit and merchant houses, that continuity is the great advance a Condition makes in finance. A letter of credit is a written promise to pay, carried in place of a chest of coin. Three things follow.
 
@@ -107,7 +107,7 @@ The banks of the Turning do not die. These are the **deathless houses**. A Long-
 
 Many of the houses began as road-houses in the Walking Years, the age when families still had to walk to Thaeloren. They were inns, beds, and century-credit for that road. The everyday name is still road-house. The cant, the working nickname, is *brenhael* *(BREN-hael)*, "the hearth kept whole." The lived version is a house still in the act of being an inn: the Held bed, a bed kept for a name that has not come, and a note a necessity-family pays on the home-walk, which is to say they eat now and pay when they walk home. When the walk stopped being required in the core, the lands nearest the Awakening Tree, the same Long-Lived still remembered every debtor, and the paper outlived the pilgrimage season. The inns became banks. Two fates of that memory are still standing, on opposite errands. The White Note House took the path of collecting on the old paper. The Third Hearth kept making the bed. The trusted note is an instrument from the Walking Years that outlived the road it was written for.
 
-### Inheritance and the problem of not dying
+## Inheritance and the problem of not dying
 
 Inheritance law is bent by the deathless, and the bend is a grief as well as a rule. A Long-Lived's children are not guaranteed to inherit the Condition. Most of them age and die while the parent does not. A deathless person therefore outlives most of the heirs, and the estate never enters the inheritance stream at all. A fortune that is never passed down still has to go somewhere.
 
@@ -115,13 +115,13 @@ The usual answer is that the deathless endow. They have no line of heirs waiting
 
 For everyone else, inheritance is ordinary, except in the Two-Bodied bloodlines, where the Condition, the family's animal, and often the family's trade descend together, so that a place in the guild and a Condition can be a single inheritance. The sharpest question the law still has open is economic at the root. The Given-Over is a Bound who contracted away so much of themselves that the counterparty effectively owns the person. That is the ultimate inheritance failure: an estate, and a self, absorbed by a creditor.
 
-### Center and periphery
+## Center and periphery
 
 The economy is not spread evenly, and the unevenness follows the same geography that shapes the law. Near the mature Trees, in the core, Conditions lie thick, the guilds are strong, and specialized Condition-work and the goods that come from it are what the core sells to everyone else. Out at the margins, on the frontier, the giving thins. More of the people there are generalist Kept, or Struck and untrained, and fewer of them are Given specialists.
 
 The core exports the specialized work and the finished goods, Answered crafts, Stilled medicine, deathless-house credit, and it imports the raw staples. The frontier leans hardest on the Taken-In, who thrive there and are neighbours, and on Kept labor that can turn its hand to whatever the week needs. It exports food, timber, and raw materials, and it imports the specialists it cannot grow. Distance, spoilage, and the thin reach together make the friction real. They leave the frontier specialist-poor and self-reliant. Cities still keep a working minority of Taken-In behind a gate. They do not ship the Condition out of town.
 
-### The shadow economy
+## The shadow economy
 
 Every gate grows a market on the far side of it. The gates in this economy are Tithe-provision and vouching.
 
@@ -133,7 +133,7 @@ Every gate grows a market on the far side of it. The gates in this economy are T
 
 The Slide sells the upkeep. The Holding Desk sells clauses. The Standing Trade sells a witness.
 
-### How polities vary (economic faces)
+## How polities vary (economic faces)
 
 The rules of the Tithe are the same everywhere. Who actually receives what is politics. It follows the same three choices as the law: how gift-devout the polity is, how many healthy Trees it has, and how far the state reaches onto the person. Three stances keep recurring, and each has an economic face.
 

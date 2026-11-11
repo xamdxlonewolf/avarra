@@ -2,7 +2,7 @@
 
 Some people hold that the **Leaf-Mother** blessed the world with the Conditions, the gifts of a becoming beyond the life a person was born into, and that the Turning Trees are her hands reaching down to choose. On that account each **Leaf-Fall**, the town's gathering when a child of ten stands at the solstice and a leaf falls or the leaves hug, is an act of a mother's love. Many people hold this, and it remains a belief, because nobody in the world has proved it. The skeptics who decline it are sincere and full members of society, the faith having been built to keep a place for them. Everyday people call the faith **the Motherfaith**. The faith calls itself **Maieth**, and a devout square that says the name means a mother, quiet, who gives, and who does not come because someone called.
 
-### A gift-religion
+## A gift-religion
 
 The faith begins from gifts the world received, the Conditions, and from the gifts that still come at each solstice. Nobody here is being rescued from a fallen state. The long question is how a person lives worthy of a gift.
 
@@ -14,7 +14,7 @@ The Motherfaith is the dominant faith of the Turning lands, and the other faiths
 
 The houses do not share one face for her. What they share is the wood. A pressed leaf kept in a chest is a common keepsake, and it is only a leaf, and it does not speak, and some hearths keep no image of her at all. The faith does not picture her standing at a drowning, or at an oath, or out in the deep wild, because it has not agreed that she is in those places, and that argument stays open. Some Long-Lived people, the ageless keepers of memory, keep a cup they call the **Unspent**. Among themselves they say the Cup We Made, because they will tell you they invented whatever is on the other side by pouring in memories they could no longer carry, and on a quay people say the Poured God, with the smile they keep for a rich uncle's hobby. No town Tree is involved in it, no leaf falls for the cup, and a warden does not set that cup on the sill.
 
-### Doctrine (as the faithful hold it)
+## Doctrine (as the faithful hold it)
 
 What follows is what the faithful hold. Nobody in the world has proved it.
 
@@ -28,7 +28,7 @@ To be Kept, hugged by the leaves and given no colour, is in the doctrine a gift 
 
 She has no throne a person can visit, and no voice that answers because someone demanded an answer. The faithful say a person meets her at the Tree, in the turning of a life, and in the fittingness of things, and never by summoning her. They hold that the quiet is intended, because a mother lets her children live. The same quiet is what leaves room for honest doubt.
 
-### Practice
+## Practice
 
 The Leaf-Fall is the central rite, a child's tenth-year solstice Turning, and people keep it as sacrament, coming-of-age, and the town's great festival in the same afternoon. The questions a warden actually gets, a missed week, a refusal, an orphan, a child who is already Struck, and whether anyone stands twice, belong with the Tree. The rite's cited shadow is the **Wrong Green**. In Cut-year 248, at Harrow's Green, a warden named a hug as copper-green, and the child spent two summers in a garden that had no gift to teach, until the correction came as a second word and the child was not stood under the Tree again.
 
@@ -44,7 +44,7 @@ The **First Seat** is a college in the Motherwood about the Awakening Tree, the 
 
 The keeping of the order is ordinary and local. Towns house the warden-hearth, the warden's house on the square, and the stipend is bread, wood, and a place, not a tax on Conditions. During Turning-Week the warden eats from the festival, the way the town feeds any office it needs that week. **Cutting-leave**, the paper that says who may take wood and for where, carries a fee the Seat describes as carrying-earth, the cost of the living soil the cutting travels in and of a Road-hand's year. Pilgrimage keeps the Seat: offerings, lodging, and the devout who settle in the Motherwood. The wardens point a new Given toward the work the colour named. The halls that help a person meet a Tithe are other people's work.
 
-### The live schism
+## The live schism
 
 The faith holds more than one reading. The central argument is sincere on every side, and no one has settled it, which is why the faith endures. It turns on three questions the doctrine cannot prove.
 
@@ -56,7 +56,7 @@ The third question is whether a mind chooses at all, and it is the line between 
 
 Because a person belongs by the rite they keep, a skeptic who tends their Tithe and brings their children to the Tree is a good member of the Motherfaith. Belief in the Mother is honoured, and it is not policed, so the skeptic can speak the doubt and remain that member. Every branch above is held in good faith, and no house is a villain. Being a skeptic costs nothing day to day, because the practice is what binds. The questions stay open because no one in the square can close them.
 
-### Two sayings
+## Two sayings
 
 The Tender's blessing is spoken over each child at the Leaf-Fall.
 

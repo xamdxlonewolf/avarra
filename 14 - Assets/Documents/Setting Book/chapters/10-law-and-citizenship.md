@@ -10,7 +10,7 @@ That morning is also why a stranger can be known without papers, why a town can 
 
 This is how belonging works in the **Years of Hands**, the present age, when a town's own Tree is the ordinary place to Turn. The road under it is older. In the **Walking Years**, everyone who was Given had walked to Thaeloren, the Awakening Tree, or had been carried there. The crowd that saw you was the crowd under that one Tree, or there was no crowd at all if you never arrived. Someone who stood there, or a word from that someone, still has to be able to carry the witness home. The law on this page is the present. The custom of answering for a person who is far away is what that older walk left on the road.
 
-### Turning in a city: the hearth stood
+## Turning in a city: the hearth stood
 
 A village of three hundred can remember every child who stands. A salt-city of tens of thousands cannot, so witnessed citizenship does not turn into a register at that scale. The memory nests. It moves down into hearths, and the city does not open a book to replace them.
 
@@ -24,7 +24,7 @@ To prove you are of a city, you name a hearth and produce someone of it, or a pi
 
 Threnmaieth and Trenledd write the stand down. That writing is still the aberration. Everyone else keeps the week's slate as hours, which hearth at which bell, and the slate does not record the gift.
 
-### How you prove who you are: by *people*, not papers
+## How you prove who you are: by *people*, not papers
 
 If no one is written down, a stranger still has to prove citizenship in a far city. The Turning never had to invent a state of papers and registers, because trust runs through people who cannot be faked. The work those people do, and the witness they can give, exists because they carry a Condition. You are known by witnesses, not by a document a state issued you. Everyday speech calls this **standing-for**.
 
@@ -34,7 +34,7 @@ To establish yourself in a new place is to be vouched into it. You acquire peopl
 
 The same act wears a different name from town to town. In Vaethorn, the Waiting Lands, where the faith runs hot and the Trees run thin, someone vouches for you at worship, and they call that *the speaking*. On Lestrand, the Ledger Coast, where guilds do the governing a crown would do elsewhere, a commercial guarantee is *warranting*. In Threnmaieth you are named to the crown, and they call that *the naming*.
 
-### How a traveler stays vouched
+## How a traveler stays vouched
 
 The unvouched remain the vulnerable class. A legitimate traveler moves on someone's word, not on a paper a state handed them. The road still works the way it did when the witness had to come home from Thaeloren. The person who saw you, or their word, still has to be able to answer.
 
@@ -57,7 +57,7 @@ People still sell a vouch under no name. That sale sits outside the customs in t
 
 Kumbaan, the Sundering Isle, is not a jurisdiction under this law, so you do not arrive there already vouched. A road-word, a company's vouch, or a guild-mark can still help you leave a quay on Strandoren, the continent across the water. None of those file you on a hill of the isle, and none of them make the isle a place this law administers. On the isle, guest-right is a seat at the table, and eating there a second time makes you kin of that table. The meal does not become a last hearth you can offer when a mainland watch asks where you slept. Hand that watch the hall's sentence instead of a person who saw you, and the watch still wants the witness.
 
-### The Struck: those who changed *unwitnessed*
+## The Struck: those who changed *unwitnessed*
 
 The seam this whole body of law grows around is not that someone fell off a list. A Struck person acquired their Condition later, and alone, by a drowning, a death, or a sworn contract, long after their tenth-year Turning. The town watched everyone else become who they are. No one watched the Struck. They changed with no witnesses.
 
@@ -69,7 +69,7 @@ The second is that some doors sit next to crimes. The Bound are Struck by a swor
 
 The second word shows the stance. Vaethorn says *the late-come*, met at a later door; Lestrand says *the turned*, a fact said plainly; Threnmaieth says *the unwitnessed*, suspect until the crown has named them.
 
-### The hour someone is Struck
+## The hour someone is Struck
 
 The first hour is care. To be Struck is to be changed with no leaf in anyone's hand, before a town has had time to decide what sentence fits. The person has changed, and nobody has a colour for them yet. Later the town may acknowledge them at a Tree, settle their civic standing, or walk them back to an Old Ways door, the older faith's own threshold. Those are other days. This hour is the coat, the breaths, and the pen taken out of a hand.
 
@@ -87,7 +87,7 @@ If the change came by an oath said in a back room, the people there take the pen
 
 If the person is still inside their tenth year, the problem is a different one, and it is short. While Turning-Week is still open, people bring them to be welcomed. They do not stand the child under the Tree as if the Tree were giving them a second life.
 
-### The Inviolate Will
+## The Inviolate Will
 
 Every polity holds one principle as the floor of law, and it holds because it is true of the Conditions. No Condition can compel, control, or bend another person's will. The Bound's Whisper cannot, the Far-Voiced's Cry cannot, and the Long-Lived's regard cannot. Every Condition's danger stops at property, at pain, at fear, and at the edge of another person's choosing. That limit is the **Inviolate Will**. Every child is taught the maxim:
 
@@ -101,7 +101,7 @@ The same maxim is the shield the feared hide behind. A Bound can say, truthfully
 
 Vaethorn keeps the maxim as *the Mother's own line*, and reads it as scripture. Lestrand cites *the free-will clause*, and treats it as ordinary commercial law. Threnmaieth cites *the crown's assurance*, and uses that citation to justify the roll.
 
-### The safety-licence: how hazard is regulated (and by whom)
+## The safety-licence: how hazard is regulated (and by whom)
 
 The one place the law takes hold of a particular person is public safety, and it takes hold narrowly. A **ticket** attaches to a hazardous use, not to the fact of being Conditioned. Across the world, a licence attaches where a practice is dangerous to other people. It does not attach where a gift is merely powerful, and it is not a way to keep track of people. Everyday speech calls this leave **the ticket**. In Vaethorn a practitioner asks for *the blessing-to-practice*. On Lestrand they show *the guild-ticket*. In Threnmaieth they show *the crown-warrant*.
 
@@ -123,7 +123,7 @@ Most people never hold a paper at all. The Kept do not. The Two-Bodied do not, a
 
 Licences are guild-issued, not state-issued, which is the arrangement a craft town of this age already knows. A guild knows its own members the way any craft guild does. The state charters the guild and lets the guild police its own, under the threat of losing the charter. No single authority thereby holds the Conditioned. The arrangement makes its own friction. Guilds guard their monopolies, tickets become property, and an unlicensed practitioner threatens the guild's charter as much as the public's safety. A mill, a hull, and a road keep fellowships of their own, and those fellowships are not these papers.
 
-### Harm, the watch, and the hearing
+## Harm, the watch, and the hearing
 
 The Inviolate Will has already sorted the charge into negligent Tithe-lapse or willful weaponizing. The ladder below is the path that charge walks. There is no crime on it for merely being a Condition.
 
@@ -135,7 +135,7 @@ The Inviolate Will has already sorted the charge into negligent Tithe-lapse or w
 
 The two Watchful crowns write you down on top of whatever else the hearing did. That extra record is their extra punishment, and it is why a Watchful town feels like a different country.
 
-### The watch and the cohort
+## The watch and the cohort
 
 A town keeps a watch for the night. In a bad year it sends a cohort down the road with the children who still have to be Turned. Two old wars are finished. What they left, and what a power still collects, is a wall and a rate. In an ordinary year the work is a bench until morning.
 
@@ -165,7 +165,7 @@ What the hush still collects is the rate, and the present year is Cut-year 387. 
 
 The stool-mark is the stamp from the ticket-stool. The watch that pinned this up thinks "we do not ask your colour" makes the gate unlike Threnmaieth. The three questions are the whole of how citizenship works, run at a gate, and the watch does not write the answers down. That is how a city of tens of thousands still runs on hearths.
 
-### The three pillars: why the Conditioned *are* the legal system
+## The three pillars: why the Conditioned *are* the legal system
 
 Walk into a hearing and three Conditions are already the court. The law is not a set of rules imposed on the Conditioned from outside. These three are the legal apparatus, which is why a register is unnecessary.
 
@@ -177,7 +177,7 @@ A Far-Voiced cannot fake the feeling in the voice. Under strain the voice betray
 
 Evidence and contract in the Turning are therefore made of people. Memory that does not corrupt, an oath that hears a lie, and testimony that cannot fake a feeling are enough. The people who do those jobs were Given their Condition at the Tree or Struck with it later, so the courts do not need a paper bureaucracy to do the work. A world with witnesses like these does not need to write everyone down, which is why the two crowns that insist on writing everyone down look so strange to everyone else.
 
-### Rights of the Kept
+## Rights of the Kept
 
 The Kept are the quiet centre of citizenship, and their legal position is gloriously unremarkable. They were witnessed at their Turning like everyone else. They carry no Tithe, they need no licence, and they answer to no guild. In most polities the Kept are the default legal person, the frame the rest of the law is drawn around. In one surviving compact they are also a ruling class. The Walled Book ranks the tithed, the people who carry a Condition and so owe a Tithe, and it will strike a Closed Heir for taking a colour.
 
@@ -189,7 +189,7 @@ Where reverence for the gift runs hot, the Kept can be quietly pitied or pressur
 
 The Given keep their plain name everywhere, and the second word is the stance again: *the gifted*, said as a blessing in Vaethorn; *the Given*, said as a plain fact on Lestrand; *the marked* in Threnmaieth, because the name goes on the roll.
 
-### Edge cases the law must hold
+## Edge cases the law must hold
 
 A few people do not fit the ordinary hour, and the law has to hold them without pretending the fit is easy.
 
@@ -201,7 +201,7 @@ Phoenix is not a licensing problem. One legendary person is alive at a time and 
 
 A child who missed the week, refused to stand, or never stood is **UnTurned**. They have no hug and no colour. Folk will still call that child Kept. The law files them as the person the town raised, vouched if someone will stand, and unwitnessed at the Tree. A second Leaf-Fall is not a remedy. The doors that Strike a person later still open in their own time.
 
-### Three polity stances
+## Three polity stances
 
 The rules above hold in every polity. The tone does not. Three choices carry most of the difference, and every polity sets each one separately.
 

@@ -16,7 +16,7 @@ Smaller household rites, quay-charms, and Kind-customs stay local, especially th
 
 The people who do the daily work are the tree-wardens, who keep the Motherfaith at the Tree; the Watchers, who keep the vigil; the Book-Hands, who witness a signing; the Door-Keepers, who walk the rivers, the stones, and the groves; the Table-Keepers, who keep the supper; and the Shore-Sitters of the isle, who sit the storm-beach and wait, and do not swim out. A fringe of the Long-Lived, the people whose aging has stopped, call themselves the Pourers and keep a cup they call the Poured God, and that cup is not a sixth faith.
 
-### The argument (what a becoming *is*)
+## The argument (what a becoming *is*)
 
 Every faith in this world has to answer the same fact, that most people become something they were not born as, and the faiths do not agree on the verb for that becoming.
 
@@ -30,7 +30,7 @@ The Tithe is the upkeep a becoming still asks, and the faiths read that same upk
 
 None of these is a villain-theology. Each is a sincere answer to a seam people actually live with: gifts that fit, a reach that runs thin at the edge, the written terms a Bound person carries, the Struck who change with no Tree nearby, and a whole isle that never Turned, that never brought its children under a Tree to become. The Motherfaith's own schism already taught the courtesy the others use. What you do at the rite is what binds, what you believe is what gets argued, and a household that keeps two practices is ordinary rather than a scandal.
 
-### How they live together
+## How they live together
 
 People belong by the rite they keep, and the creed can wait. Because the Motherfaith counts you by what you do at the Tree, a Watcher who brings their child, a Settler of the Fair Hand who stands as witness to the colour, and a Kin-speaker of the Old Ways who also walks the rivers, the hills, and the stones can all belong at the same Leaf-Fall. Doctrine fights, and the festival usually does not.
 

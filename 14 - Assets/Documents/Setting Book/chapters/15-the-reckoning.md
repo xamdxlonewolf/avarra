@@ -2,7 +2,7 @@
 
 The Turning keeps time by the sun. The Leaf-Fall, the week when the Trees turn their colour and the year's ten-year-olds stand under them, falls at a solstice, so the count is also how people know when children Turn, when the great festival falls, and how a world with mechanical clocks and no printing press numbers its days. The sky here is enough to run the rite and to date a debt.
 
-### The sky
+## The sky
 
 There is one sun, and on the mainland one moon, on a familiar monthly round that is enough for nights and for tides. Kumbaan keeps twelve named moons and does not owe that mainland round a translation. They are the same sky, counted differently. There are four true seasons, and the winters are real. People stand on one ground. The storm-wall is weather, current, and reef, and it is not a door. The hills at Ndenjoo are hills people live in. A Tree is a tree on this ground, and a person who has become is still standing on this ground. The Low Wall, the Seeing-Ring, and the Dry Stair are older stone on this same ground, not a ruined heaven you can walk into. People reach a place by walking or by sail. What a faith calls a door, people keep as a practice, a meal, a return, or a hymn.
 
@@ -16,7 +16,7 @@ At Ndenjoo, on a bright night, the moon is the daylight, and you can carry a bow
 
 The Leaf-Fall happens at the solstice because that is when the Trees turn their colour and choose. The sun reaches its turning, and so do the children. The devout and the skeptics share that calendar.
 
-### The Turning Year
+## The Turning Year
 
 The year hinges on **two solstices**, and those two dates are the fixed anchors everyone can see.
 
@@ -26,15 +26,15 @@ The **High Solstice**, at midsummer, is the longest day, and it is **the Turning
 
 The High Solstice is warm, safe to travel and to gather, and full of light. A child's Turning is a joyous festival, so midsummer suits it, and that same warmth makes the pilgrimage to Thaeloren a summer road.
 
-### Turning-Week
+## Turning-Week
 
 The Leaf-Fall is not a single day. It runs through **Turning-Week**, the week that brackets the High Solstice, when the Trees hold their colour and the choosing is done. Every child who has turned ten since the last High Solstice Turns during this week, or misses it. The town gathers, the tree-wardens officiate, and the week is at once the holiest rite and the biggest fair of the year, part christening, part graduation, and part festival. A city nests that witness among the people who already know the child. A village stands as one circle. The year of a person's Turning becomes a lifelong marker of age and of cohort, which is what people mean when they say, "We Turned the same summer."
 
-### Months and weeks
+## Months and weeks
 
 The calendar is plainly countable. Twelve months follow the moon's cycle, arranged as four seasons of three months each, hinged on the two solstices, with the two equinoxes between them kept as the lesser markers. The week is the working unit of the guild towns: guild-weeks, market-days, and the mechanical clock-towers of the trade cities striking the hours. There is no printing press, so clergy and clerks keep the calendars by hand, which is one reason the tree-wardens and the Tallied Crown's clerks hold a quiet power. They are the ones who keep the dates.
 
-#### The twelve Maiethren months
+### The twelve Maiethren months
 
 The liturgical names are Maiethren, the old speech of Maiethorn. Beside them sits the worn common-tongue form, the way Lestrand says the same month. The name a person uses shows the stance they are taking. The table is counted **from the Deep Solstice**, as an astronomical order. The argument about which day opens the year comes after it.
 
@@ -53,11 +53,11 @@ The liturgical names are Maiethren, the old speech of Maiethorn. Beside them sit
 | 11 | Autumn | **Vaethren** (VAYTH-ren) | "the waiting-speech" | *Vaeren* / **the Wait** | longing toward the dark |
 | 12 | Winter | **Nethorn** (NETH-orn) | "night-land" | *Nethorn* / **Dark-month** | approaching the Deep |
 
-### When the year starts: three new-year days by stance
+## When the year starts: three new-year days by stance
 
 The devout and the clergy begin the year at **Eolthael**, because for them the Turning is the hinge that matters. Lestrand and the deathless houses begin it at **Nethael**, because midwinter is when the books close. In Vaethorn the pulpit follows the clergy, and the fields follow the last summer a local Tree actually managed a fall, so a child "turns the year" from that summer. The twelve names do not change. Any of the three days can open the year, and any of the three can open a dispute about what year a debt belongs to. A debt can be late on one count and early on another, and people will argue which day began it.
 
-### Kumbaan's moons
+## Kumbaan's moons
 
 The Yumboes of Kumbaan do not use the mainland table. They keep **twelve named moons**, a lunar count that owes the solstice nothing:
 
@@ -65,7 +65,7 @@ The Yumboes of Kumbaan do not use the mainland table. They keep **twelve named m
 
 *Saalo* is a moon, and Seed-month is a mainland month. A mainlander who points up in Saalo and calls it Seed-month has put the moon in the wrong quarter of the year. Njunda will say the moon's name. The hall will not correct the chart. It corrects the visitor by still being on its own moon when the mainlander's month has moved on. Soonke, in that list, is one of the twelve moons. The sand below Ndenjoo is also called Soonke, because Soonke is the person who sits that stretch.
 
-### How years are numbered
+## How years are numbered
 
 Months name a season inside the year, and **years have no universal number**. The count written on a debt is a theology, the same argument as which day opens the year, turned now toward history. The Ages chapter keeps the full count.
 
@@ -81,7 +81,7 @@ The Watching refuse the Cut-count entirely. Kumbaan keeps its moons and owes the
 
 The Awakening Tree is old beyond reliable dating. There is no year the world began, and no year she appeared.
 
-### How it is lived along the gradient
+## How it is lived along the gradient
 
 One sun, one moon, and the two solstices make the count the same sky on the mainland. People live it differently as the wood thins, from a country where Turning-Week is an institution to the one country that has no Trees.
 
@@ -93,7 +93,7 @@ On **Heskoren**, where the reach is thin, Turning-Week is a hard-won event of a 
 
 On **Kumbaan**, where there is no reach, the Yumboes keep the moon and not the solstice. Their reckoning is nocturnal and lunar, and it owes the Trees nothing, because they have none. They are the one people in the world whose calendar has no Leaf-Fall in it. A mainlander who lines a moon up with a Maiethren month is wrong in the same direction every time, and the hall will not correct the chart.
 
-### What the year feels like
+## What the year feels like
 
 The year is kept by stance and argued by faith, and the two do different work. A place sets how long people talk and what they repeat. A person's faith sets which words they will not say. That is why someone of the Watching can eat on a dock, and why a follower of the Fair Hand can stand in a pious square. Each street chooses the words. Each street also keeps one habit, and the people who keep it will not explain it.
 

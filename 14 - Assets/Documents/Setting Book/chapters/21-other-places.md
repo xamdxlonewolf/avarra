@@ -10,14 +10,14 @@ The wall is shoulder-high in most places, higher where the ground dips, and brok
 
 The Closing, the later work of dressed stone that people still live inside, made a different wall. Hildal's Retreat is that work, taller than this and still inhabited. People who say the Low Wall is the Close's outer ring are doing a claim.
 
-| | |
-|---|---|
-| **Want** | A child brought down off the high dip, labour taken off the garden, and a year kept from being scratched into the panel. |
-| **Have** | Three gaps, an inward step, a blank name-stone, and a garden-end loft. |
-| **Fear** | The Close confirming the wall as theirs, a clerk dating the Before, and a knife-ribbon left here in error. |
-| **Live conflict** | The Close's claim, a Watcher's refusal, the lodging-guild's nuisance, and the climb itself. |
-| **Enters a scene** | A labour-gang in the person-gap, a child on the high dip, and a chisel at the panel. |
-| **How this site talks** | As a walk and an argument, not as a warden's notice. |
+**At the table**
+
+- **Want** A child brought down off the high dip, labour taken off the garden, and a year kept from being scratched into the panel.
+- **Have** Three gaps, an inward step, a blank name-stone, and a garden-end loft.
+- **Fear** The Close confirming the wall as theirs, a clerk dating the Before, and a knife-ribbon left here in error.
+- **Live conflict** The Close's claim, a Watcher's refusal, the lodging-guild's nuisance, and the climb itself.
+- **Enters a scene** A labour-gang in the person-gap, a child on the high dip, and a chisel at the panel.
+- **How this site talks** As a walk and an argument, not as a warden's notice.
 
 One gap has a socket that might have held a post, one has been widened so a cart can pass, and one is only wide enough for a person. The Close's labour-roster sometimes assigns a walk through that last gap as owed work. The Book, the Close's own record of who owes, cannot make that walk count as owning the stone. On the field side the footing is built as if someone expected to stand behind the wall and look out. There is no walkway left, and there is a habit of standing there anyway. Mid-run, a slab carries a panel that once held letters. The letters are gone, and they were taken off rather than worn away. Watchers say that taking is correct. A Closed Heir, someone who still claims a rank inside the Close, says the panel was theirs. A lodging-guild says a later pilgrim stole a luck-name. At the garden end the wall dives into the back of a hearth that still lets beds, a road-house of the same kind as the Third Hearth and not Thilim's house. The innkeep waters the last course of stone as if it were a pot-ring, the circle where a pot would sit, and it is not a pot-ring.
 
@@ -59,14 +59,14 @@ On a hill in Maiethorn's old Watching country, the hymn-country where people kep
 
 The hill is not Thaeloren, the origin Tree in the Motherwood, and it does not want to be. On a clear Eolthael you can see a smear of Motherwood weather from the top, which is why later people built a shrine. If the First Hand is there, her hand at the origin, showing in that weather, a seeing-place here can be talked into hers. The lower work is a ring, not quite a circle and not quite a wall, of stones set to make a person turn as they walk, so that you look out. That looking-out is the argument the Watching needs. The Watchers keep the Tree and say it was already seeing, and that a mother-name came after the seeing. Each layer on this hill is a story laid over a seeing. The upper work is cut from a kinder quarry, stone that is not the ring's own. The steps do not match the ring's tread, and a socket once held a door-beam. A Tender's mark, the sign a tree-warden pecks to bless a place, is pecked over a withheld pattern. The roof is gone, and the mark is still there if you know to rub the lichen. Wardens call the emptying respect, and Watchers call it finally.
 
-| | |
-|---|---|
-| **Want** | The night kept, a colour-ribbon taken off the socket, and a year kept from being cut into the ring. |
-| **Have** | A ring-walk, four out-looks, an emptied shrine, and a pecked mark. |
-| **Fear** | A roof put back on, a congregation forming, and a clerk with a chisel. |
-| **Live conflict** | The Watchers' seeing, the wardens' emptied respect, and a roll that wants the hill written down as a person. |
-| **Enters a scene** | A chisel, a ribbon, a child who wants a door that is not a slight, and rain on the open socket. |
-| **How this site talks** | As a night and a refusal, in Tithsael's slate, not in a Speaker's notice. |
+**At the table**
+
+- **Want** The night kept, a colour-ribbon taken off the socket, and a year kept from being cut into the ring.
+- **Have** A ring-walk, four out-looks, an emptied shrine, and a pecked mark.
+- **Fear** A roof put back on, a congregation forming, and a clerk with a chisel.
+- **Live conflict** The Watchers' seeing, the wardens' emptied respect, and a roll that wants the hill written down as a person.
+- **Enters a scene** A chisel, a ribbon, a child who wants a door that is not a slight, and rain on the open socket.
+- **How this site talks** As a night and a refusal, in Tithsael's slate, not in a Speaker's notice.
 
 Clockwise is the local habit of the ring-walk, and a Watcher will not tell you why. A warden will tell you it is Turning-Week in stone, the week of the Turning copied into a direction, which is overlay so confident it sounds like folklore. Four gaps are wider than the rest. One faces the smear of the origin, one faces the Old Crossing weather, and two face nothing a present map cares about. Nobody says what those two face. What is left of the shrine is steps, a beam-socket, and no roof. In Eolthael someone ties a cloth ribbon on the open socket, and by Leddorn, the later month when contracts are reckoned, it is gone. Tithsael takes the ribbon off if it is a colour-ribbon, a ribbon tied for a colour a Tree Gives, and leaves a hug-ribbon, tied for the hug that Keeps a child and gives no colour. That is how a Watcher does a kindness the Seat will not understand. Pilgrims say the wood sent the ribbon, or that it fell from the origin and landed on this hill. It is cloth that someone on the hill ties, and they will not say why they chose a colour, and the origin did not drop it. A person can untie it and hold it, and it is a strip of cloth that does not Speak and does not cast anything. You can feel both cuts if you put a thumb on the pecked mark, the warden's sign and the older pattern under it. Tithsael keeps the night not as a service but as a seeing. People come with a cough, a question, or a child who was not Held and was not Given, neither kept by a Tree nor given anything by one, and who wants a hill that does not owe them a name.
 
@@ -106,14 +106,14 @@ The Rain-Shadow still walks west after the core stopped. The core is the country
 
 A later warden planted a slip in the upper basin, a cutting of living wood carried in a pot, so the stair would have a point. The slip died, and the Seat did not send a second. What is left is a thumb of dead wood in a crack at the lip. A person can work it free and hold it, and it still will not green and will not take in a pot, and what they are holding is not a scion and not a colour. People say the stair refused a mother. The rock was dry, the pecking was wrong for water, and the slip died of that. The refusal is the story they prefer to the dirt. Saelthael already knows about dirt: the soil is why a slip dies on this rise. Dead wood is not a Tree.
 
-| | |
-|---|---|
-| **Want** | A dare finished, a second slip stopped before it is planted, and a missed child sat with, without the town calling that child Kept. |
-| **Have** | A worn flight of steps, a door-stone, a dry basin, and a well-town below that is not Ornsael. |
-| **Fear** | Outsiders claiming the rise as a Fox shrine, a clerk copying the scratches on the risers, and a warden who comes to plant again. |
-| **Live conflict** | The joke, the shame, and a west-road that still goes. |
-| **Enters a scene** | A slip in a pot, a child on the last step, a year rubbed into a riser, and night on the slab. |
-| **How this site talks** | As a climb and a dare, in a child's count, not in a warden's notice. |
+**At the table**
+
+- **Want** A dare finished, a second slip stopped before it is planted, and a missed child sat with, without the town calling that child Kept.
+- **Have** A worn flight of steps, a door-stone, a dry basin, and a well-town below that is not Ornsael.
+- **Fear** Outsiders claiming the rise as a Fox shrine, a clerk copying the scratches on the risers, and a warden who comes to plant again.
+- **Live conflict** The joke, the shame, and a west-road that still goes.
+- **Enters a scene** A slip in a pot, a child on the last step, a year rubbed into a riser, and night on the slab.
+- **How this site talks** As a climb and a dare, in a child's count, not in a warden's notice.
 
 The steps are countable, and the count changes if you ask three children. One step is broken, and people skip it and call the skip luck, or a slight, or nothing, without agreeing which. The door-stone is a threshold with no wall and nothing over it, so you can stand in it and be on both sides of a door that does not enclose anything. Door-Keepers, who officiate at a real door and at the meal that makes a guest, will not officiate when they have come this far west, though they will eat if a bowl is there. The pecking of the basin is the wrong shape for a well and the right size for a pot, which is why the warden tried a slip there. A ring of salt-white sits in the pecking. It is not ash brought from the Motherwood, and it is not a colour. The well-town below is not Ornsael. It is a lesser walk-hold, a well-town that still sends its people west. The stair is the town's dare and its shame at once: visitors ask where the Tree is, the town points west, and then someone laughs at the stair. A few steps have a scratch that might be a person. Watchers would not date them. A Threnmaieth clerk, the kind who copies a mark onto a record, would want them copied. The town rubs them with a thumb and does not read them aloud.
 
@@ -153,14 +153,14 @@ Ndenjoo is one of the Paps, a green hill honeycombed underneath, with pasture an
 
 This is an ordinary home that happens to be nearly impossible to reach. The uncanniness is the distance, and the hands you can see without bodies. The home is not a paradise, and it is not a monster-haunt. Mainland noon-faiths are loud here the way a guest who will not sit is loud. Kumbaan never had the pilgrim walk, and it never had a Tree. What the hill carries from the wall is people who arrived and did not leave, and people who want to leave and cannot book a thinning. A thinning is a moon the sitters know, not a ferry.
 
-| | |
-|---|---|
-| **Want** | An extra place laid. A second night that makes kin. A guest who can sleep the day. |
-| **Have** | A hall under the turf. Unseen hands. A path down to Soonke's sand. |
-| **Fear** | A wreck that becomes a crowd. A kin who will not leave. A noon that will not stay quiet. |
-| **Live conflict** | Njunda seats; Soonke only decides alive; Saalo wants a crossing out; Nolas has sat twice. |
-| **Enters a scene** | A wreck walked uphill tonight; the hands stop; a guest loud at noon; a hull rumour. |
-| **How this place talks** | A second night at the table. There is no warden, no notice, and no Tree. |
+**At the table**
+
+- **Want** An extra place laid. A second night that makes kin. A guest who can sleep the day.
+- **Have** A hall under the turf. Unseen hands. A path down to Soonke's sand.
+- **Fear** A wreck that becomes a crowd. A kin who will not leave. A noon that will not stay quiet.
+- **Live conflict** Njunda seats; Soonke only decides alive; Saalo wants a crossing out; Nolas has sat twice.
+- **Enters a scene** A wreck walked uphill tonight; the hands stop; a guest loud at noon; a hull rumour.
+- **How this place talks** A second night at the table. There is no warden, no notice, and no Tree.
 
 The hill is why anyone stayed. The hall is a long room under the turf, with lamps that face the table and not the sea. On the surface there are terrace-gardens, a standing-stone the children dare, and goats. Below that are the hearths, the feast-board, and the extra place, set slightly back from the rest. Water is a hill-spring and caught rain. Food is the terrace, the shallows when the wall is kind, and whatever the unseen hands fetch, so that a poor house still sets a table that looks like more than its means. Fuel is peat, and whatever a wreck sometimes gives the hall. There is no lot, no counted hall, and no stiller. There are no walls. The boundary is the last path-cut toward the sand, and the storm. A slip planted here would die. Dead wood is not a Tree, and no one in this valley is waiting for a colour. A few dozen hearths live under the one Pap, and they come to the one hall.
 
@@ -194,14 +194,14 @@ West of the Rain-Wall, on Maiethorn's four-season core, a mill-town grew around 
 
 Unsound wood spends the week. A warden who lets a cohort stand under a Tree they know cannot Turn has made those children unTurned, and a later summer does not repair this week. The civic crisis is wearing a child's summer, which is the only summer the Given-door will open. The town's daily work is meeting need, so the neighbour's week returns, the week of walking to someone else's Tree. Devotion belongs to people whose Hand still Speaks. Nobody books a blight.
 
-| | |
-|---|---|
-| **Want** | A neighbour's week that still has room, and a mill that still turns after the culvert is opened. |
-| **Have** | A neighbour-slate, a shovel at the drain, and Brenthael's canopy two days grove-ward. |
-| **Fear** | A child stood under unsound wood, Brenthael's extra-mile week too full, and a second cut taken from this Hand while it is sick. |
-| **Live conflict** | Milsun's drain against Talen's race against Thurrei's wood. |
-| **Enters a scene** | A bough coming down, mill-foam on the lip, a slate with one name too many, or a child already in the square. |
-| **How this square talks** | A neighbour-slate and a shovel. Two working people, and a Road-hand who came for the wood, not for the children. |
+**At the table**
+
+- **Want** A neighbour's week that still has room, and a mill that still turns after the culvert is opened.
+- **Have** A neighbour-slate, a shovel at the drain, and Brenthael's canopy two days grove-ward.
+- **Fear** A child stood under unsound wood, Brenthael's extra-mile week too full, and a second cut taken from this Hand while it is sick.
+- **Live conflict** Milsun's drain against Talen's race against Thurrei's wood.
+- **Enters a scene** A bough coming down, mill-foam on the lip, a slate with one name too many, or a child already in the square.
+- **How this square talks** A neighbour-slate and a shovel. Two working people, and a Road-hand who came for the wood, not for the children.
 
 Counted from the grove, the Third Hearth is three days out, Brenthael is one day further, and the Mill-hold is two days past Brenthael's boughs. Six days out, still lodging-country, and still not a throne. Brenthael is the neighbour Hand, and its Tree is sound. Fair weather is a promise the culvert did not keep. A side-cut of living water feeds the race, and the same cut was supposed to take flood off the square. The oldest houses face the Tree. The mill-house and the race sit on the lower side, where the water wants to be. No walls stand here. The boundary is the last mill-share and the ranging. Water for people is not the crisis. There is drink, and there is too much of it in the wrong place. Food is mill-grain, terrace gardens, and pigs on mast-rights older than the lodging-guild. Fuel is coppice the Two-Bodied also range. A travelling stiller, one of the Stilled who hold a wound or a moment still, is a Near-Mile luck, not a resident of the hold.
 
@@ -231,14 +231,14 @@ The First Bowl is a guest-grove. An old green kept host-rights here before any l
 
 The vale is a pocket on Heskoren, in the Far Yield, and what the pocket still has is an old green, ancestor-doors, and first meals. The Mother's wood stands here as a guest. A Cutting-leave, the Seat's paper for a cut, is a claiming if it arrives without the meal. Door-Keepers walk here as Kin-speakers. They did not carry the scion, they do not confirm colours, and the thing they argue is who the host is. The cut came from Harrow's after Harrow's took. What stands here now is a healthy Hand, and it was not a first Tree for the three hamlets past the ford. The hamlets can see that from the ford even when they cannot see this vale. The wood went past them into Yield-land. Brenod calls it the queue. Vaelun calls it a guest that should have sat at their green. Ornath has looked at the other road. None of those kitchens is this grove. The village's daily work is host-rights, and the right is the meal. Devotion is a misreading visitors bring, because they come looking for a chapel. Nobody books a first bowl. A Road-hand's necessity leaked through once, and it leaked through in a pot.
 
-| | |
-|---|---|
-| **Want** | The bowl before the colour. A child who can be kin and Given without one name eating the other. |
-| **Have** | An old green, a young guest, a bowl, two people who both love the wood. |
-| **Fear** | A warden who will not sit. A leave that treats the meal as delay. Vaethorn calling refusal deprivation. |
-| **Live conflict** | Delvor's bowl against Vilraet's Speaking against Brudu's morning water. |
-| **Enters a scene** | The bowl set out; a pot that has not sat; a child waiting in the rain; Nethiro from Vaelun with a question about the heel. |
-| **How this square talks** | Two settings of one bowl. No slate. The leave does not mention the meal. |
+**At the table**
+
+- **Want** The bowl before the colour. A child who can be kin and Given without one name eating the other.
+- **Have** An old green, a young guest, a bowl, two people who both love the wood.
+- **Fear** A warden who will not sit. A leave that treats the meal as delay. Vaethorn calling refusal deprivation.
+- **Live conflict** Delvor's bowl against Vilraet's Speaking against Brudu's morning water.
+- **Enters a scene** The bowl set out; a pot that has not sat; a child waiting in the rain; Nethiro from Vaelun with a question about the heel.
+- **How this square talks** Two settings of one bowl. No slate. The leave does not mention the meal.
 
 The vale is a day's walk from Vaelun, sometimes two, and the walk goes away from Harrow's, deeper into the Yield rather than back along the Rise-water. You do not pass Harrow's square to reach it unless you are carrying wood from there. The weather is sheltered. People grow rye, oats, cabbage, and hay, with apples on the warm slope and pigs on woodland mast under local rights. The kind season is short: one brilliant dry day, and then rain. A clear day is when everything moves at once, so Leaf-Fall, the week the children stand under the Hand, and a hinge-walk can land on the same dry hours. Water is a vale-beck and a planting-ditch. It is not a named river, and it is not Ornsael's well. The fight over a morning bucket is host against guest in the same green, not a town emptying itself for drink. The houses sit dispersed around the green. You walk from hearth to grove, and you do not walk through a town. There are no walls, and the boundary is where the old green ends and the moor begins.
 
@@ -266,14 +266,14 @@ Nelath *(NEL-ath)* is the road-end Tree-town, the place where the walk stopped, 
 
 West of the Rain-Wall, in Orenbren lodging-country, a graft took where a side-day of the Near Mile used to end. The main Mile still goes on to the Third Hearth, Brenthael, and the Mill-hold. This track leaves that road and does not rejoin it. When Hands made the origin-walk optional, this town did not leave the feeling in a sentence. They brought the next stone in. The boughs closed what had been the day after. Many Hands-roads end at a canopy while a cart-track continues to a ford, a mill, or a neighbour. That sentence is true at Harrow's, and it is true at the Mill-hold, whose children can still walk grove-ward. It is not true here. Beyond these boughs there is no ford. There is a scar: a ditch, thorns, and the width of a road that is no longer a road. The town's daily work is being the place where the walk stopped. A pilgrim may leave a ribbon. A family in need, if one comes, turns around and uses the Mile. Nobody books a spur that cannot be walked through.
 
-| | |
-|---|---|
-| **Want** | The stone left in the square, the scar left closed, and a bed that is not being asked to be a next day. |
-| **Have** | A sound Hand, a stone that used to be a further day, an upper room, and a ditch of thorns where the road was. |
-| **Fear** | The stone hauled back onto the scar, a child told the ditch is a mile, and a slate that files the name over the door. |
-| **Live conflict** | Raetoth keeps the mile in the square. Lithsur wants the name back on a day of walking. |
-| **Enters a scene** | A rope on the stone, someone coming out of the scar, or a Road-hand asking which bed is the next day. |
-| **How this square talks** | A cistern-chalk and a neighbour. Two people. The Mile is a different road. |
+**At the table**
+
+- **Want** The stone left in the square, the scar left closed, and a bed that is not being asked to be a next day.
+- **Have** A sound Hand, a stone that used to be a further day, an upper room, and a ditch of thorns where the road was.
+- **Fear** The stone hauled back onto the scar, a child told the ditch is a mile, and a slate that files the name over the door.
+- **Live conflict** Raetoth keeps the mile in the square. Lithsur wants the name back on a day of walking.
+- **Enters a scene** A rope on the stone, someone coming out of the scar, or a Road-hand asking which bed is the next day.
+- **How this square talks** A cistern-chalk and a neighbour. Two people. The Mile is a different road.
 
 The junction is on the Near Mile, a day short of the Third Hearth, about two days from Thaeloren in fair weather. From the junction the spur is one day, and then the canopy. You do not pass Thilim, or Meirim, or the culvert. The Low Wall is a different fold, closer to the wood, and has no Hand. The graft was planted beside the old day-mark because living earth and a child want a drink. The drink for people is a cistern by the warden-hearth, and the stone is not the well. Settlement nucleated around the canopy and then stopped, because there was nowhere further to put a house. The oldest houses face the Tree, the spur comes in on one side and becomes the square, and no walls stand here. The boundary is the last garden and the scar. Food is the spur's gardens, a pig on a mast-right, and whatever a Mile-cart leaves when someone is willing to turn around. Fuel is coppice. A travelling stiller is a Near-Mile luck, not a resident, and the Taken-In who keep the green around the Hand are neighbours, not a nation.
 

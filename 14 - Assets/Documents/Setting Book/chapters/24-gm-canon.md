@@ -154,30 +154,30 @@ Each custom Kind has a register, a closed set of sounds for given names and in-g
 
 **Kitsune: Kusawe** (koo-SAH-way). Light, slipping, a little hissy.
 
-| | |
-|---|---|
-| Consonants | k s sh n r m t w y f h |
-| Vowels | a i u e o, and *ai* as in *eye* |
-| Beats | CV, or CV ending on n, m, or r. Two or three beats. |
-| Never uses | *th* (church), *mb/nd/nj* (Yumboe), *kr/gr* (Tengu) |
+**At the table**
+
+- Consonants k s sh n r m t w y f h
+- Vowels a i u e o, and *ai* as in *eye*
+- Beats CV, or CV ending on n, m, or r. Two or three beats.
+- Never uses *th* (church), *mb/nd/nj* (Yumboe), *kr/gr* (Tengu)
 
 **Selkie: Sakoa** (sah-KOH-ah). Liquid, rounded, coastal.
 
-| | |
-|---|---|
-| Consonants | l r n m s v f d b k w |
-| Vowels | o u a i e, and *ea*, *oa* |
-| Beats | CV or CVC. Two or three beats. |
-| Never uses | *th*, *sh*, *kr/gr*, *mb/nd/nj* |
+**At the table**
+
+- Consonants l r n m s v f d b k w
+- Vowels o u a i e, and *ea*, *oa*
+- Beats CV or CVC. Two or three beats.
+- Never uses *th*, *sh*, *kr/gr*, *mb/nd/nj*
 
 **Tengu: Gonan** (GO-nan). Clipped, windy, high-country. The names start hard, on a single consonant or on *kr*, *gr*, or *hr*. This is ridge-speech, not the fox register, and Tengu and Kitsune do not share one.
 
-| | |
-|---|---|
-| Consonants | k t g n r h s b d. Front clusters *kr*, *gr*, *hr* are at home. |
-| Vowels | a o u e. Few *i* (that vowel lives with the foxes). |
-| Beats | CVC or CV. One to three beats, prefer two. |
-| Never uses | *th*, *sh*, *mb/nd/nj*, long *ai/ea/oa* |
+**At the table**
+
+- Consonants k t g n r h s b d. Front clusters *kr*, *gr*, *hr* are at home.
+- Vowels a o u e. Few *i* (that vowel lives with the foxes).
+- Beats CVC or CV. One to three beats, prefer two.
+- Never uses *th*, *sh*, *mb/nd/nj*, long *ai/ea/oa*
 
 **Yumboe.** Not Maiethren. Open vowels, a drum-like rhythm, prenasals *mb*, *nd*, *nk*, and *nj*. Their own name is *Bakhna Rakhna*, "the good people." Home is *Kumbaan*, "the hidden home." It has no *th*, and it is not clipped down to a dock-name.
 
@@ -270,7 +270,7 @@ The list of turns is a duty of living inside the walls, not ownership. A person 
 The Closed Seat once sat the grove and decided who could walk. The First Cut broke that hold. The Closing was the war that followed, and Hildal's Retreat is what closed the walls a day's walk from the Motherwood. Do not name the cutter in order to explain the war, and do not make Hildal a villain-king. Rothallo, still called the Inner Close, is Orenbren's capital and stays inside Orenbren. It is not a sixteenth power, not Threnmaieth's inner court, and not the college in the wood. The Book keeps no Phoenix fire. Do not move the walls to the Hinge Shore, and do not let them capture the First Seat.
 
 
-# Appendix: GM Canon
+## Appendix
 
 Player-facing notes keep her unproven. This appendix is what is actually true, regardless of what anyone in the world believes.
 
@@ -656,12 +656,12 @@ If this player character can still Rise, they are the one Gift, and a remnant in
 
 The first campaign starts at a square that already exists. Session one is a kit, not a novel. Mystery comes first. There is one beat of wrongness, at about that five percent, and the wonder belongs to an isolated fall that has already happened. The Leaf-Mother is not this session's reveal.
 
-| | |
-|---|---|
-| **Sits** | Harrow's Green, Hale-month, Cut-year 387. Next week is Eolthael, and Leaf-Fall comes inside that month. |
-| **On-screen** | The walker, Rosire, the new Gift (Taeren, or a player character in that seat), Haelin, and Tora of Brenod. |
-| **Offstage** | Reimaethe, Hithaen, Vimein, Tesara's week, and the Care as a place you can walk into. |
-| **Not in this kit** | A Protector fortress. Opening on a second Phoenix. Confirming her. Naming the cutter. Dating the Tree. A sixteenth power. |
+**At the table**
+
+- **Sits** Harrow's Green, Hale-month, Cut-year 387. Next week is Eolthael, and Leaf-Fall comes inside that month.
+- **On-screen** The walker, Rosire, the new Gift (Taeren, or a player character in that seat), Haelin, and Tora of Brenod.
+- **Offstage** Reimaethe, Hithaen, Vimein, Tesara's week, and the Care as a place you can walk into.
+- **Not in this kit** A Protector fortress. Opening on a second Phoenix. Confirming her. Naming the cutter. Dating the Tree. A sixteenth power.
 
 There is one Gift. This opening needs what looks like two, so the new Gift is an unseen leaf, able to Rise, and the walker is the remnant, the Gift already ended, unable to Rise, not a Phoenix for the Leaf-Fall, for the law, or for the roster. Rosire opened a door that was not on the slate. Rosire is of Orentel, walked the Long Mile with someone who burns, and took an upper-room bed Haelin will not always name.
 

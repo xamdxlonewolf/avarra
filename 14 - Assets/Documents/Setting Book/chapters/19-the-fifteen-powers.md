@@ -10,10 +10,10 @@ Beneath the fifteen the world still swarms with marches, free towns, petty Tree-
 
 | Continent | Reach | How many | Why that many |
 |---|---|---|---|
-| **Maiethorn** | full | **6** | The old heart, a clutch of kingdoms competing for the grove and the Old Crossing. |
-| **Strandoren** | high | **5** | A constellation of coasts and compacts, with no single market wearing a crown. |
-| **Heskoren** | thin | **4** | Fewer, poorer, and scattered, with a long wild between the Trees. |
-| **The Sundering Isle** | near-none | **0** | The Isle is not on this list. |
+| **Maiethorn** | full | **6** | old heart; a clutch of kingdoms competing for the grove and the Old Crossing |
+| **Strandoren** | high | **5** | a constellation of coasts and compacts |
+| **Heskoren** | thin | **4** | fewer, poorer, scattered; long wild between Trees |
+| **The Sundering Isle** | near-none | **0** | a people at home |
 
 The name a polity gives itself shows the stance it has taken. The root sits in the old tongue, and the sound then drifts with that polity's devotion and with how far its Trees reach. On this page, **CAPS** mark the stress, `ae` is "ay", and `th` is the *th* of *thin*.
 
@@ -35,29 +35,29 @@ Governance is how far the state reaches onto the person. It runs from light guil
 
 The table reads on those three axes. **T** is theology, Motherfaith gift-devotion, **R** is reach, and **G** is governance. A filled mark, ●, is high, a half mark, ◐, is mid, and an empty mark, ○, is low. The three corners that were set down first stay the reference points, and the other twelve are read between them.
 
-| Spoken handle | Written form | Continent | T | R | G | One-line feel |
+| Polity | Continent | T | R | G | One-line feel | Older job of the ground |
 |---|---|---|---|---|---|---|
-| **the Tallied Crown** | Threnmaieth | Maiethorn | ● | ● | ● | They keep a census and call it care, and the origin towns sit under that roll. |
-| **the Gift-Realm** | Maiethvael | Maiethorn | ● | ● | ○ | The country is plentiful, and it keeps no list. |
-| **the Witness-Hearths** | Orenbren | Maiethorn | ● | ● | ◐ | Lodging is the power, and the power does not own the Tree. |
-| **the Sown Tree** | Saelthael | Maiethorn | ● | ◐ | ○ | On the Rain-Shadow, they are still planting. |
-| **the Hinge Shore** | the Hinge Shore | Maiethorn | ◐ | ● | ○ | It faces the Old Crossing, and it classifies the hull. |
-| **the Thaw-Land** | Lirorn | Maiethorn | ◐ | ● | ◐ | It holds the Rain-Wall, and it holds the snowmelt. |
-| **the Ledger Coast** | Lestrand | Strandoren | ○ | ● | ○ | The trade is priced, and the coast stays free. |
-| **the Hearth-League** | Brenledd | Strandoren | ○ | ● | ○ | Many charters sit inside one compact. |
-| **the Reckoned Gift** | Leddvael | Strandoren | ○* | ● | ◐ | The Fair Hand is kept here as a civic rite. |
-| **the Worn Count** | Trenledd | Strandoren | ○ | ● | ● | It keeps a roll, and the hymn has worn off that roll. |
-| **the Night Shore** | Netstrand | Strandoren | ◐ | ● | ○ | It watches for hulls that do not arrive. |
-| **the Waiting Lands** | Vaethorn | Heskoren | ● | ○ | ○ | The gift is scarce here, and the faith runs hot. |
-| **the Outer Ledger** | Ornled | Heskoren | ○ | ○ | ○ | A secular frontier, with no net of congregations under it. |
-| **the Far Yield** | Vaelhesk | Heskoren | ◐** | ○ | ○ | Host-rights, kept in the manner of the Old Ways. |
-| **the Sown Waiting** | Saelvaeth | Heskoren | ◐ | ○ | ◐ | The live front is kept as a march. |
+| **Threnmaieth** | Maiethorn | ● | ● | ● | the Mother's Reckoning; census as care | origin pilgrimage-towns *under* a roll; seat Maiethlir |
+| **Maiethvael** | Maiethorn | ● | ● | ○ | the Gift-Realm: plenty, no list | origin pilgrimage-country that furnishes |
+| **Orenbren** | Maiethorn | ● | ● | ◐ | the Witness-Hearths: lodging as power; does not own the Tree | origin pilgrimage-town |
+| **Saelthael** | Maiethorn | ● | ◐ | ○ | the Sown Tree: Rain-Shadow still planting | Rain-Shadow walk-hold |
+| **the Hinge Shore** | Maiethorn | ◐ | ● | ○ | Old Crossing face; classifies the hull | salt-adjacent Old-World quays |
+| **Lirorn** | Maiethorn | ◐ | ● | ◐ | the Thaw-Land: range and snowmelt | ridge-roads |
+| **Lestrand** | Strandoren | ○ | ● | ○ | the Ledger Coast: priced and free | salt quay; seat Orentel |
+| **Brenledd** | Strandoren | ○ | ● | ○ | the Hearth-League: many charters, one compact | salt / river towns between houses |
+| **Leddvael** | Strandoren | ○* | ● | ◐ | the Reckoned Gift: Fair Hand as civic rite | salt quay with a signing-watch |
+| **Trenledd** | Strandoren | ○ | ● | ● | the Worn Count: a roll with the hymn worn off | road-end Tree-towns *filed* |
+| **Netstrand** | Strandoren | ◐ | ● | ○ | the Night Shore: west water, Heskoren trade | salt quay; hulls and west-water berths |
+| **Vaethorn** | Heskoren | ● | ○ | ○ | the Waiting Lands: scarce gift, hot faith | pilgrim-edge; seat Eolvaeth |
+| **Ornled** | Heskoren | ○ | ○ | ○ | the Outer Ledger: secular frontier, no congregation-net | waiting cluster without a gospel |
+| **Vaelhesk** | Heskoren | ◐** | ○ | ○ | the Far Yield: Old Ways host-rights | guest-grove |
+| **Saelvaeth** | Heskoren | ◐ | ○ | ◐ | the Sown Waiting: the live front as a march | live-front Tree-town |
 
 \* **Leddvael** sits low on Motherfaith and high on the Fair Hand, the fortune-and-contract faith of the Strandoren docks, which reads a gift as a bargain with terms. The theology mark still measures gift-devotion. A rival faith filling that gap is not a fourth mark. \*\* **Vaelhesk** is the same shape, with the Old Ways where Leddvael has the Fair Hand. The Old Ways are the ancestor-practice of doors and first meals, older than the grafts on Heskoren.
 
 Three more corners sit on the map beside the three drawn first: Maiethvael, devout, rich, and lightly governed; Trenledd, a cold surveillance with no faith to sanctify it; and Ornled, a secular frontier with the same thin Trees as the Waiting Lands and no net of congregations underneath.
 
-The fifteen are hearth-countries, countries of towns and households, and none of them is one born people under a crown. The Sown Tree is sand-country. It is not a kingdom of the Fox of the Sands, the fox-born who come into the world with a fox's ears and a brush of tail, pale and huge-eared because the dry ground shaped that line. The Thaw-Land is a watershed. It is not an empire of the Tengu, the crow-born of the high country, lean, sharp-featured people with dark feathers through their hair and down their arms. The Hinge Shore and the Night Shore are shores. They are not sea-realms of the Selkie, the sea-born, who carry a hereditary sealskin and belong to shore and sea at once. The Far Yield keeps host-rights, the custom of giving a guest the first meal before anyone leaves with something of the place. It is not a nation of the Taken-In, the people the wild has taken partway into itself, bark at the knuckles and moss in the hair, whom a hard country puts to work on the living earth.
+The fifteen are hearth-countries, towns and households, and none of them is one born people under a crown. The Sown Tree is sand-country, not a kingdom of the fox-born. The Thaw-Land is a watershed, not a country of the Tengu. The Hinge Shore and the Night Shore are shores, not sea-realms of the Selkie. The Far Yield keeps the old guest-meal. It is not a nation of the Taken-In.
 
 The Watching stays a heartland heresy inside Maiethorn's districts. It is an older Tree-faith the Motherfaith grew over. They keep the Tree, they refuse the Mother-name, and they say the colours fall because the Tree sees, not because a mother chooses. Leddvael is the one power that made a rival faith civic. Even there the Book-Hands, the clerks who stamp a Fair Hand signing and recite its terms, have no seat of their own.
 

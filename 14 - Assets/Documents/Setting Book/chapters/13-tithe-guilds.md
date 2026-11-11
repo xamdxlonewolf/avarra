@@ -7,7 +7,7 @@ What the sector does is keep people whole *enough*, in public, and then stop at 
 
 The greens-keepers and the hall-keepers are parts of this sector. They keep a lot or an hour, and they are not houses with colleges of their own. The Stillers and the element-guilds remain craft-guilds. They stamp a licence where a use can hurt someone standing nearby. The Intake is the shed that does not face the street. A person newly Struck, changed outside the childhood ceremony and not yet safe to stand next to, is caught there before the town reaches for a rope.
 
-### Shape of the sector
+## Shape of the sector
 
 Furnishing and ticketing are two jobs. A town may put both under one roof, and they stay two jobs even then. Furnishing is the share of upkeep: a bed of living dirt, a scheduled hour, a library that is open. Ticketing is the licence for a hazardous act. The product of the official door is a person who can walk away until tomorrow. The Slide's product is a person who cannot. The town is glad of both. On an ordinary day the guilds pretend not to know the week-keepers next door. When an official gate closes on purpose, or a wilt or a Cry can be walked from that gate to the room that still opens, the pretence is over, because the two doors are then serving the same street, and the town has to say so.
 
@@ -15,7 +15,7 @@ A ticket names a competence, the practiced skill, and not the Condition itself. 
 
 There is no Furnishing Seat, no college set over the other towns. A town keeps its own lot and its own hall. A deathless house, a house of people who do not die of age, endows its own stacks of books. Nothing in this sector tells a far commons how to water a bed.
 
-### Who furnishes what
+## Who furnishes what
 
 Each gate has a shape of *enough*, a moment when it closes, and a place the need goes when the gate has shut. The official door does not follow you past that line.
 
@@ -41,7 +41,7 @@ The three tickets are for danger to others only. The person holds the paper. The
 
 The Intake is the shared shed of those three ticket-yards. It catches a raw Struck person before anything happens in public, and the work has succeeded when nothing is heard of it afterwards.
 
-### Fellowships
+## Fellowships
 
 A mill, a hull, and a road each have people who keep them through a season, and those people are the fellowships. The work is the ordinary keeping of that mill, that hull, or that road, and it does not licence a body. The licences already written stay where they are: the Stillers stamp a Gaze, the element-guilds stamp an element, the hall-keepers stamp a Voice-ticket, and the Intake catches a raw Struck person before the town reaches for a rope. A mill-share, a hull-wright, and a road-mend do not stamp any of those. They will not rent a week, which is the Slide's rental, or refinance a Term, which is the paper the Holding Desk refinances when the honest stamp has closed, or sell a standing, which is the witness the Standing Trade sells, a person paid to say they were there when a town was not.
 
@@ -79,7 +79,7 @@ The Walled Book can give a turn on the road to a person who lives inside its wal
 
 At the first ford after a town, they leave the shovel standing in the bank overnight after a mend. They will not say why.
 
-### The work people hire
+## The work people hire
 
 When the work needs doing, people hire a craft. They do not enroll in a school of magic to get it.
 
@@ -101,11 +101,11 @@ An Answered person who also carries an Arcana card has a Tithe and a craft, and 
 
 At Leaf-Fall, the week the door is open and a child can stand under a Tree, a warden says the colour, or says that the child was held. The square hears what the leaf did. That sentence is the Speaking. It is not a spell, and it does not use a Spellcast trait, the trait a spell would call on. Hope does not buy a colour. A warden cannot Speak a person into a Condition who is not standing under a sound Tree in the week the door is open. When a colour is misspoken, it is corrected, and the week is not run again.
 
-### The long-house (novelty without a new order)
+## The long-house (novelty without a new order)
 
 A Long-Lived house that has endowed a library is already this sector. What that house furnishes is something genuinely new. The money goes out into the stacks, and a deathless member of the house still sits the chair and names the scholars, which is how an endowment keeps the steering after the coin has left. The Pourers, a circle of Long-Lived who meet at a shelf in a deathless library, keep one such shelf on the Ledger Coast. Staff are often the Kept, people with no Tithe of their own, able to fetch and to stay. What the house will not furnish is a page at a time to a person who cannot walk in. They will not carry a rumour to a fade shut in a room. A junior who extends a page, the way a clerk extends a novelty subscription one more week, has started the Slide's week beside the long-house.
 
-### The gate (the sector's shared courtesy)
+## The gate (the sector's shared courtesy)
 
 Every official door stops at a line the town has agreed to call *enough*. The greens-keeper keeps the lot, and does not walk the room where someone is already wilting. The hall-keeper keeps the hour, and does not open the side door after the lamps for a voice that missed its slate. The long-house is open to a person who can walk in, and it will not carry news to a Long-Lived shut in a room. The ticket-house trains the child who was Given the colour, and stamps the adult who has become competent. The raw Struck person is the Intake's problem. The guild is glad to forget the shed if the catching-year, the in-house word for that week, stays quiet.
 
@@ -121,7 +121,7 @@ Under the Tallied Crown the hall and the green *are* the channel, the share the 
 
 The keepers do know a cousin's pot, and they do know a room that still shuts. The notice says they do not, so that neither the lot nor the hall is blamed for what the pot and the room do. The town is glad of both, the official gate and the week that opens when the gate has shut.
 
-### How they live in the three corners
+## How they live in the three corners
 
 In the Waiting Lands the works are commons-minded, and the purse is thin. A cousin's field stands in when the lot is short. You were helped, so the valley expects you to spend the gift as it asks, and when the share fails the Slide is a private pot they call the last pot, and also gift-credit.
 

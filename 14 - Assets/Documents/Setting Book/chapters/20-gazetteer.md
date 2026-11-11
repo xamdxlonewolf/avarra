@@ -2,7 +2,7 @@
 
 ## Gazetteer types
 
-Every place the Turning has already built shares a grammar, rich town and waiting kitchen alike. A Turning Tree stands at the centre, the living wood a town gathers under when a child comes of age, or else the neighbour's Tree does that work, or the place is still waiting for a Tree of its own. Where a polity can afford it, the Tithe is treated as something the town has to furnish, the upkeep a Condition asks of the person who carries one. A Condition is what a person becomes, at the Tree or later in life, and a Kind is what they were born, so a town does not sort its streets into Kind-nations. Dangerous trades sit out on the edges, houses are built so a becoming has room in them, and the edge of the wood's reach is what draws the map.
+Every place the Turning has already built shares a grammar, rich town and waiting kitchen alike. A Turning Tree stands at the centre, or the neighbour's Tree does that work, or the place is still waiting for a Tree of its own. Where a town can afford it, the Tithe is something the town furnishes. Streets are not sorted into Kind-nations. Dangerous trades sit out on the edges, houses are built so a becoming has room, and the edge of the wood's reach is what draws the map.
 
 The Years of Hands left a road that used to go further than it goes now, a stone that used to mark a day's walk, an upper room that used to sleep pilgrims, and a house that used to be an inn. People reused what the walk left behind, and that reuse is how Ornthael, the years a town is living in now, comes to look like a present.
 
