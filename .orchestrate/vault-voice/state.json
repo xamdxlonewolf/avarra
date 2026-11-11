@@ -54,12 +54,12 @@
       "agentId": "bc-87bac6ff-361a-48bb-8eb7-ba851681ae4e",
       "runId": "run-46ea0594-edf3-41c5-bcb0-2d6d70d7ada8",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/world-geography.md",
       "startedAt": "2026-11-11T06:00:54.530Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:00:57.094Z",
+      "finishedAt": "2026-11-11T06:19:53.521Z",
+      "lastUpdate": "2026-11-11T06:19:53.521Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -345,13 +345,13 @@
       "handoffPath": "handoffs/settlements-sites.md",
       "startedAt": "2026-11-11T06:01:59.135Z",
       "finishedAt": "2026-11-11T06:19:49.892Z",
-      "lastUpdate": "2026-11-11T06:19:49.892Z",
+      "lastUpdate": "2026-11-11T06:19:50.946Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "factions-orders-seat",
@@ -1585,6 +1585,10 @@
     {
       "at": "2026-11-11T06:19:47.070Z",
       "message": "core-concept: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:19:50.946Z",
+      "message": "settlements-sites: verification self-reported (not-verified)"
     }
   ]
 }
