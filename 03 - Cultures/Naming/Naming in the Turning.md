@@ -13,24 +13,24 @@ updated: 2026-10-22
 
 # Naming in the Turning
 
-> **How to use this.** Same building, three names. Find the thing in the dictionary, then the column for the land you are in. **Speak the common name; write the liturgical name.** A traveller asks for the *hall-keepers* or sails to *the Night Shore*. A rite, charter, learned map, or scholar may write *Orenhael* or *Netstrand*. The common handle comes first at the table.
+> **How to use this.** The same building can carry three names. Find the thing in the dictionary below, then read across to the land you are standing in. **Speak the common name, and write the liturgical name.** The common name is what a person says. The liturgical name is what a rite, a charter, a learned map, or a scholar writes. A traveller asks for the *hall-keepers*, or sails to *the Night Shore*. The paper may say *Orenhael*, or *Netstrand*. At the table, the common handle comes first.
 
-> **What this is.** The companion to [[The Old Tongue]]: how things are *named* in **The Turning**, and the settled in-world names for the institutions that [[Law and Citizenship]], [[Economy and the Tithe]], and [[Daily Life]] describe in plain words. One rule governs them:
+> **What this is.** This note is the companion to [[The Old Tongue]]. It is how things are *named* in **The Turning**, and it holds the settled in-world names for the institutions that [[Law and Citizenship]], [[Economy and the Tithe]], and [[Daily Life]] describe in plain words. One rule governs them:
 
 > ## **The name a polity gives a shared thing reveals its stance.**
-> Every polity has the same institutions (they flow from the [[Turning Tree|Trees]] and the Conditions, which are universal). But **what each calls them** is set by how it stands on theology, reach, and governance ([[Polity Archetypes]]). A [[The Leaf-Mother|devout]] land calls the release-hall a *gift-hall*; a merchant coast calls it a *release-house*; a surveillance-crown calls it a *counted hall*. Same building, three worldviews. This note is the dictionary of those names.
+> Every polity, which is to say every land with its own way of standing, has the same institutions. They flow from the [[Turning Tree|Trees]] and the Conditions, and both are universal. **What each land calls those institutions** comes from how it stands on theology, on reach, and on governance ([[Polity Archetypes]]). A [[The Leaf-Mother|devout]] land, one that keeps the Leaf-Mother's faith, calls the release-hall a *gift-hall*, a merchant coast calls that same building a *release-house*, and a surveillance-crown calls it a *counted hall*. It is the same building under three worldviews, and this note is the dictionary of those names.
 
 ## How names are built
 
-- **The root is [[The Old Tongue]]** (Maiethren, the liturgical Mothertongue). Sacred and old things keep their Old-Tongue shape; everyday things wear it down. See that note for the full sound-palette, compound-initial stress, and pronunciation key.
-- **Three daughter drifts carry the stance in the *sound* itself:** the pious core (**[[Polity Archetypes|Threnmaieth]]**) conserves the sacred sound; the devout frontier (**[[Polity Archetypes|Vaethorn]]**) wears it rougher; the secular coast (**[[Polity Archetypes|Lestrand]]**) erodes it smooth (the *th* drops, ends clip). *The most-drifted name belongs to the least-devout place.*
-- **The common tongue** — the plainspoken trade-vernacular most people actually speak — is the worn-down middle everyone shares. Its words are the plain compounds already used across the notes (*the Kept*, *venting-hall*), understood as **worn Old-Tongue** rather than a separate language.
-- **The common handle is primary in play.** It is not a translation in parentheses after the "real" name. It is the name spoken at a dock, road, market, and table. Liturgical forms remain real, but belong to writing, ritual, formal self-styling, and deliberate register shifts.
-- **No new liturgical names are being coined.** The names in this note are the settled ones.
+The root under the names is [[The Old Tongue]], called Maiethren by the devout, the liturgical Mothertongue. Sacred and old things keep their Old-Tongue shape, and everyday things wear that shape down. The full sound-palette, the rule that a compound stresses its first root, and the pronunciation key all live in that note.
+
+Three daughter drifts carry the stance in the sound itself. A drift is the regular way the old sound has worn, and a daughter is a later speech descended from that root. The pious core, **[[Polity Archetypes|Threnmaieth]]**, conserves the sacred sound, the devout frontier, **[[Polity Archetypes|Vaethorn]]**, wears it rougher, and the secular coast, **[[Polity Archetypes|Lestrand]]**, erodes it smooth, so the *th* drops and the ends clip. The most-drifted name belongs to the least-devout place.
+
+The common tongue is the plainspoken trade-speech most people actually use, the worn-down middle everyone shares. Its words are the plain compounds already walking around the notes, *the Kept* and *venting-hall* among them, and you should hear those as worn Old-Tongue rather than as a separate language. The common handle is primary in play, and it is not a translation sitting in parentheses after the "real" name. It is the name spoken at a dock, on a road, in a market, and at the table. Liturgical forms stay real. They belong to writing, to ritual, to formal self-styling, and to the moment someone deliberately uses that older form. No new liturgical names are being coined, and the names in this note are the settled ones.
 
 ## The three polities
 
-Full derivations in [[The Old Tongue#The fifteen polities, named]]. In short:
+The full derivations sit in [[The Old Tongue#The fifteen polities, named]]. What you need in the room is shorter than that: the common spoken handle is what you say, the liturgical name is what the land writes, and the last column is the stance you can hear inside the written name.
 
 | Common spoken handle | Liturgical / formal writing | Says | Literally | Its stance, in its written name |
 |---|---|---|---|---|
@@ -38,13 +38,15 @@ Full derivations in [[The Old Tongue#The fifteen polities, named]]. In short:
 | **the Ledger Coast** | *Lestrand* | LES-trand | "the Reckoning Coast" | most-eroded name = most secular of the original three |
 | **the Tallied Crown** | *Threnmaieth* | THREN-mai-eth | "the Mother's Reckoning" | sanctifies its census as stewardship of Her gifts |
 
-The other twelve live in [[Powers of the Turning]]. Same lever: *thren* worn to *Tren* in [[Trenledd]]; *maieth* as gift not count in [[Maiethvael]]; *vael* vs *vaeth* on [[Heskoren]] ([[Vaelhesk]] / Vaethorn).
+The other twelve powers live in [[Powers of the Turning]], and the lever is the same one. *Thren* wears down to *Tren* in [[Trenledd]], *maieth* is gift rather than count in [[Maiethvael]], and on [[Heskoren]] the contrast is *vael* against *vaeth*, which you can hear by setting [[Vaelhesk]] beside Vaethorn.
 
 ## The institution dictionary
 
-The institutions, with the **common-tongue** name and the three polity variants where stance diverges.
+What follows is the institutions, with the common-tongue name and the three polity variants where the stance actually diverges. The left column is the thing in plain words, the next column is what people say, and Vaethorn, Lestrand, and Threnmaieth are the devout frontier, the secular coast, and the surveillance crown.
 
 ### Citizenship & law (from [[Law and Citizenship]])
+
+These are the ways a town proves, hosts, watches, and counts people. When a cell pauses in parentheses, that parenthesis is the stance in miniature, whether the vouch happened at worship, the guarantee is commercial, or the crown has already named you.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -59,9 +61,11 @@ The institutions, with the **common-tongue** name and the three polity variants 
 | a census of persons | *(no common name; only two crowns keep one: Trenledd's **roll**, and Threnmaieth's Threnhael)* | *(none — the giving is the Mother's to know)* | *the roll* (a **tax** roll only, never of persons) | **the Threnhael** (THREN-hayl, "the whole-keeping") |
 | the Inviolate Will | **"the will is one's own"** | *the Mother's own line* (held as scripture) | *the free-will clause* (sound commercial law) | *the crown's assurance* (cited to justify the roll) |
 
-> Threnmaieth's census calls itself the **Threnhael** — *thren* (sacred counting) + *hael* (whole, hale): **"the keeping-whole."** It *sounds* like care (keeping every subject hale), and *is* total surveillance. Its own clerks say they "keep the realm hale"; its subjects are "kept whole"; outsiders hear "the Counting." The name shows how the crown sees its roll: as sanctified care. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands do not do this. → [[Naming People in the Turning#House-names — where a list outlives the witness]]
+> Threnmaieth's census calls itself the **Threnhael** — *thren*, sacred counting, set beside *hael*, whole and hale, so the name means **"the keeping-whole."** It *sounds* like care, the keeping of every subject hale, and it *is* total surveillance. Its own clerks say they "keep the realm hale." Its subjects are "kept whole." Outsiders hear "the Counting." The name shows how the crown sees its roll: as sanctified care. On that roll the second name is the **house**, said where other lands would say a surname. Witness-lands, which still name you by who saw you, do not do this. The worked pattern is in [[Naming People in the Turning#House-names — where a list outlives the witness]].
 
 ### Tithe-provision (civic infrastructure, from [[Economy and the Tithe]] / [[Daily Life]])
+
+These are the civic buildings the tithe-provision furnishes, the halls, the commons, and the endowed library. The left column names the building in plain words, a venting-hall, a ranging-commons, a garden-commons, or an endowed library, and it names who that building is for. *Ael* in the ael-hall is pronounced AYL, and the word means "the airing."
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -72,7 +76,7 @@ The institutions, with the **common-tongue** name and the three polity variants 
 
 ### The people (the standing-terms, from [[Law and Citizenship]])
 
-The three standing-terms *the Given*, *the Struck*, and *the Kept* keep their plain names everywhere. But each polity's *second* word for them betrays how it feels:
+Three standing-terms keep their plain names in every polity, and each land's second word for them shows how that land feels. **The Given** are people a Condition was Given to, **the Struck** were turned later and alone, and **the Kept** are untithed and whole.
 
 | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|
@@ -80,11 +84,11 @@ The three standing-terms *the Given*, *the Struck*, and *the Kept* keep their pl
 | **the Struck** (turned later, alone) | *the late-come* (met at a later door) | *the turned* (neutral, a fact) | *the unwitnessed* (suspect until named) |
 | **the Kept** (untithed, whole) | *the Waited* / *Mother-kept* (pitied — passed over) | *the free* (**approving** — unencumbered labor) | *the unmarked* / *the passed-over* (noted as such) |
 
-> The Kept are *pitied* in devout Vaethorn (they "missed the gift"), *envied as free* on mercantile Lestrand (no Tithe, no guild, go anywhere), and *filed as unmarked* in Threnmaieth (a gap in the roll to be explained).
+> The Kept are *pitied* in devout Vaethorn, where people say they missed the gift. They are *envied as free* on mercantile Lestrand, where no Tithe and no guild means a person can go anywhere, and the word is said with approval, as unencumbered labor. They are *filed as unmarked* in Threnmaieth, a gap in the roll that the crown wants explained.
 
 ### Clergy (from [[The Tree-Wardens]] and the other four houses)
 
-Everyday words are already in the faith notes. This table adds the liturgical and own names.
+Everyday words for these people already live in the faith notes. The Motherfaith is the common name of the [[The Leaf-Mother]]'s faith, and its working clergy are the tree-wardens. A liturgical name, marked *liturg.* in the table, is the name a rite or a charter writes. An own-name is the name the house uses for itself. The three polity columns are the second word, the one that shows the stance.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -101,7 +105,7 @@ Everyday words are already in the faith notes. This table adds the liturgical an
 
 ### Tithe-infrastructure & tickets (from [[Tithe-Infrastructure]])
 
-Everyday words are already in the economy and law notes. This table adds the liturgical and umbrella names.
+The economy notes and the law notes already use the everyday words. This table adds the liturgical names, and the umbrella names that sit over more than one house. An umbrella name is a single word set over several of those houses. A cant, where the table marks one, is the other recorded name, neither the everyday word nor the liturgical compound.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -114,7 +118,7 @@ Everyday words are already in the economy and law notes. This table adds the lit
 
 ### Faiths (from [[Faiths of the Turning]])
 
-Same lever, now for religions. The common-tongue name is what a traveller says; the own-name is what the house says; the polity's *second* word is how the state files them.
+The same lever moves the religions. A traveller says the common-tongue name, the house says its own-name, and the polity's second word is how that state files the faith, when it files the faith at all.
 
 | Faith | Common tongue | Own name | **Vaethorn** | **Lestrand** | **Threnmaieth** |
 |---|---|---|---|---|---|
@@ -126,7 +130,7 @@ Same lever, now for religions. The common-tongue name is what a traveller says; 
 
 ### Eras & dating (from [[The Ages of the Turning]])
 
-Same lever, on history itself. There is no universal year-zero.
+The lever works on history, too, and there is no universal year-zero. Travellers call the pilgrimage-required past **the Walking Years**, the first successful town-graft **the First Cut**, the still-moving spread of grafts **the Grafting**, and the town-Tree present **the Years of Hands**. A year's number stays local. Vaethorn counts from the year its graft took, Lestrand uses a house-year or a note-year, and Threnmaieth uses a Cut-year, and later a crown-count.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -136,11 +140,11 @@ Same lever, on history itself. There is no universal year-zero.
 | the town-Tree present | **the Years of Hands** (liturg. *Ornthael*) | *Since the Hands* | *since the local canopy* | *the Reckoned Hands-years* |
 | a year's number | *(none universal)* | *the year our graft took* | *a house-year* / *a note-year* | *a Cut-year* (and a crown-count, later) |
 
-[[Before the Walk]] stays mostly unnamed. [[The Watching]] keep **the Before**. [[The Sundering Isle|Kumbaan]] keeps moons.
+[[Before the Walk]] stays mostly unnamed, while [[The Watching]] keep **the Before**, and [[The Sundering Isle|Kumbaan]] keeps moons rather than this count.
 
 ### The road (from [[The Walking Years]])
 
-Lived names of Brenvaeth. The everyday name comes first, then the liturgical or cant one.
+These are the lived names of Brenvaeth, the liturgical name of the Walking Years, and the everyday name comes first, with the liturgical name or the cant after it. The inland walk through Maiethorn is **the Near Mile**, the sea-then-land walk through Strandoren is **the Salt Walk**, and the walk through Heskoren and the far interior is **the Long Mile**. A deathless inn on that walk is a **road-house**, and its cant is *brenhael*. A day's stone is a **mile-shrine**, and the tenth-year week at the origin is **the one-week door**, which the table marks as descriptive.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -153,7 +157,7 @@ Lived names of Brenvaeth. The everyday name comes first, then the liturgical or 
 
 ### The Cut and the spread (from [[The First Cut]])
 
-Lived names of Eoloren. The everyday name comes first. The cutter is unnamed.
+These are the lived names of Eoloren, the liturgical name of the First Cut. The everyday name comes first, and the cutter is unnamed. People call the folk object of the first taking **the nameless knife**, and they call the first town-graft, which is itself unnamed, **the nameless green**. The Seat's quarrel before the paper is **the generation of argument**, and the Old Ways' courtesy at a planting is **the first meal**.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -164,7 +168,7 @@ Lived names of Eoloren. The everyday name comes first. The cutter is unnamed.
 
 ### Residues (from [[The Years of Hands]])
 
-Lived names of Ornthael. The everyday name comes first.
+These are the lived names of Ornthael, the liturgical name of the Years of Hands, and again the everyday name comes first. An origin-walk you take when you already have a Tree is **the extra mile**, while a walk you take because the Tree is missing, young, or sick is **the neighbour's week**, and people still say *the old mile* when that neighbour is a continent. The prestige origin-winter is **the First-Hand year**. What the walk left in a Hands town is **the stone in the square**, where a mile-shrine now stands, **the upper room** of the unused pilgrim dorm, and **the Held bed**, the bed that is never let.
 
 | Thing | Common tongue | **Vaethorn** (devout) | **Lestrand** (secular) | **Threnmaieth** (surveillance) |
 |---|---|---|---|---|
@@ -193,18 +197,20 @@ Lived names of Ornthael. The everyday name comes first.
 ## GM Notes
 *(Stripped on player-safe export. Keyed to the keystone via `reveals: [keystone-adjacent]`.)*
 
-- **A polity's vocabulary is self-justification, not a verdict.** Threnmaieth's "keeping-whole" calls surveillance care; the Ledger Coast's "free" turns a social slight into market praise; the Waiting Lands' "Waited" wraps pity in reverence. The words tell you what each polity needs its practice to mean.
-- **Etymology as a GM tell.** [[The Old Tongue|Thaeloren = "the Tree that witnesses"]] preserves a keystone truth the skeptics explain away. Reserve the *noticing* of these buried meanings for a scholar-PC or a reveal beat; don't front-load them.
-- **The names are settled, and coinage is frozen.** The twelve power-names are settled with the rest. There is no sixteenth power. If a later note needs another institution variant, coin it by the rules in "How to coin more" below rather than retrofitting these.
+A polity's vocabulary is self-justification, not a verdict on the practice. Threnmaieth's "keeping-whole" calls surveillance care. The Ledger Coast's "free" takes what might have been a social slight and says it as market praise. The Waiting Lands' "Waited" wraps pity in reverence. The words tell you what each polity needs its own practice to mean.
 
-- **Production tools.** [[Naming Tools]] holds the reproducible candidate streams and collision checks. A new root added to [[The Old Tongue]] has to clear the closed collision families and the generator's collision gate before it is used.
+Etymology can be a tell, and it should stay on this side of the page. [[The Old Tongue|Thaeloren]], "the Tree that witnesses," preserves a keystone truth the skeptics explain away. Reserve the noticing of that buried meaning for a scholar player-character, or for a reveal beat. Do not front-load it into player-facing speech.
+
+The names are settled, and coinage is frozen. The twelve power-names are settled with the rest of the list. There is no sixteenth power. If a later note needs another variant of an institution, coin that variant by the rules in "How to coin more" below, rather than going back and retrofitting the names already here.
+
+[[Naming Tools]] holds the reproducible candidate streams and the collision checks. A new root added to [[The Old Tongue]] has to clear the closed collision families, and the generator's collision gate, before anyone uses it.
 
 ### How to coin more (for later notes)
 
-New liturgical names are frozen. If play creates a need that common speech cannot meet:
+New liturgical names are frozen. If play creates a need that common speech cannot meet, coin in this order, and do not skip ahead.
 
-1. **Name the need first.** Explain why a common handle or existing root cannot do the job.
-2. **Add the root before the name.** Give it a sound, old meaning, historical layer, and place in [[The Old Tongue#Root reserve and closed families]]. Never backfill an etymology after liking a compound.
-3. **Run the collision gate.** Use [[Naming Tools]] and reject closed families, near-homophones, and cross-category confusion.
-4. **Push through one established drift.** Do not invent a fourth mainland language.
-5. **Give the common spoken handle at the same time.** Mark pronunciation on first formal use. The handle must work without an etymology lesson.
+1. **Name the need first.** Say why a common handle, or a root that already exists, cannot do the job. The need comes before the pretty compound.
+2. **Add the root before the name.** Give that root a sound, an old meaning, a historical layer, and a place in [[The Old Tongue#Root reserve and closed families]]. Never backfill an etymology after you have already fallen for a compound.
+3. **Run the collision gate.** Use [[Naming Tools]], and reject a closed family, a near-homophone, and any name that will be confused with a name from another category.
+4. **Push the name through one established drift.** Do not invent a fourth mainland language to make the coinage fit.
+5. **Give the common spoken handle at the same time.** Mark the pronunciation the first time the formal name is used. The handle has to work for a player who never gets the etymology lesson.
