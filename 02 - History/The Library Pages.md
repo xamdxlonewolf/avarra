@@ -14,95 +14,59 @@ updated: 2026-10-22
 
 # The Library Pages
 
-This note lists six short pages a party can find and read. Each page was written by someone inside the world, in that person's own words, and each is a page or two long. A page can be wrong about the world. This note says where each page is kept, who works there, what that person says if a visitor asks about it, and what a reader is meant to understand from it.
+This note lists six short pages a party can find and read. Each page was written by someone inside the world, in that person's own words, and each is a page or two long. A page can be wrong about the world. For each one, what follows says where it is kept, who works there, what that person says if a visitor asks, and what a reader is meant to understand from it.
 
-The pages sit on shelves that already exist in the notes. Three are in [[Rothallo]]: the school beside the Book's house, the Book's house itself, and the gate clerk's desk. Three are on Molevad's long-house shelf in [[Polity Archetypes|Lestrand]], where [[The Pourers]] keep their library. People name that building by the house. It has no other name.
+The pages sit on shelves the other notes already have. Three are in [[Rothallo]]: at the school beside the Book's house, in the Book's house itself, and at the gate clerk's desk. The Book's house is where the Closed houses keep their records, and the school beside it is where their children learn to read. The other three pages are on Molevad's long-house shelf in [[Polity Archetypes|Lestrand]], where [[The Pourers]] keep their library. The Pourers are the circle that gives years of memory into a cup, one year at a time. People name that building by the house, and it has no other name.
 
-The pages themselves are in `14 - Assets/Documents/Library/`.
+The pages themselves are in `14 - Assets/Documents/Library/`. Those six are in the writers' voices. This note says what each page is, and it does not take the writer's voice for its own.
 
 ## The school primer
 
-**The page:** [[First Lessons at the Close School]].
+The page is [[First Lessons at the Close School]]. It is kept at the school beside the Book's house in Rothallo, where the children of the Closed houses learn their letters, and where other families inside the walls can send a child if they pay ([[The Walled Book]]). Volnai teaches there. If a visitor asks about the page, Volnai says, "This is what the children learn in their first year. A hug is rare. Take a copy if you like; I write out more every summer."
 
-**Where it is kept:** at the school beside the Book's house in Rothallo. The children of the Closed houses learn their letters there, and other families inside the walls can send a child if they pay ([[The Walled Book]]).
-
-**Who works there:** Volnai, the teacher.
-
-**What Volnai says if a visitor asks:** "This is what the children learn in their first year. A hug is rare. Take a copy if you like; I write out more every summer."
-
-**What a reader is meant to understand:** this is the lesson the Close teaches its children, in questions and answers they say back. Volnai believes every line of it. The primer teaches that most children receive a colour, that a hug is rare, and that the Tree keeps back a hugged child for something better than a colour. It also teaches the seating at a Closed table, who holds the keys, what happens to a Closed child who receives a colour, and why households with a Condition get the heavier turns of work.
+A reader is meant to understand that this is the lesson the Close teaches its children, set as questions and answers they say back. The Close is the name this lesson uses for the Closed houses' way of teaching, and Volnai believes every line of it. The primer teaches that most children receive a colour, that a hug is rare, and that the Tree keeps back a hugged child for something better than a colour. At the Leaf-Fall, the Tree's giving to a child, a colour means the child was Given a Condition, and a hug means no colour was given. The primer also teaches the seating at a Closed table, who holds the keys, what happens to a Closed child who receives a colour, and why, on the primer's own account, households with a Condition get the heavier turns of work.
 
 The primer is wrong about the hug. About two children in five are hugged at the Leaf-Fall, and about a quarter of all people stay Kept for their whole lives. Those figures are on [[The Premise]]. Being hugged is common. What is rare is a family like the Closed houses, which has stayed Kept on purpose for generations. The primer gives no numbers of its own.
 
 ## A history of the Closing
 
-**The page:** [[The Keeping of the Grove]].
+The page is [[The Keeping of the Grove]]. It is kept in the Book's house in Rothallo, on the same shelf as the Book of Tithes, and Delamem keeps the Book of Tithes. If a visitor asks, Delamem says, "It is our history of the Seat. You may read it here. The Book's house does not lend."
 
-**Where it is kept:** in the Book's house in Rothallo, on the same shelf as the Book of Tithes.
+A reader is meant to understand that this is the Closed Heirs' own account of [[The Closing]], and that the account speaks well of the Closed Seat. It says the gate at the grove kept order at the one Tree, that children turned away at the gate went home unharmed, and that the riders who dug up and burned the new grafts were stewards bringing back stolen wood. It says [[Hildal]], a clerk, chose to keep the Book rather than fight for the grove, and that the Closed families moved a day's walk away into Rothallo, in the country that became [[Orenbren]].
 
-**Who works there:** Delamem, who keeps the Book of Tithes.
+The facts on the page match the other notes. The war ran from Cut-year 19 to Cut-year 38, and the writer counts those years from the cutting and calls them the nineteenth and the thirty-eighth year. The page does not name who made the First Cut, and it does not put a year on the Tree.
 
-**What Delamem says if a visitor asks:** "It is our history of the Seat. You may read it here. The Book's house does not lend."
-
-**What a reader is meant to understand:** this is the Closed Heirs' own account of [[The Closing]], and it speaks well of the Closed Seat. It says the gate at the grove kept order at the one Tree, that children turned away at the gate went home unharmed, and that the riders who dug up and burned the new grafts were stewards bringing back stolen wood. It says [[Hildal]], a clerk, chose to keep the Book rather than fight for the grove, and that the Closed families moved a day's walk away into Rothallo, in the country that became [[Orenbren]].
-
-The facts on the page match the other notes. The war ran from Cut-year 19 to Cut-year 38. The writer counts those years from the cutting and calls them the nineteenth and the thirty-eighth year. The page does not name who made the First Cut, and it does not put a year on the Tree.
-
-What the page leaves out is the cost. It does not say that children walked the whole Long Mile and went home UnTurned because the gate refused them, or that people died on the roads ([[A History of the Turning]]). It calls a child sent home "Kept" and "whole," as if that were no loss.
+What the page leaves out is the cost. It does not say that children walked the whole Long Mile, the long road to the Tree, and went home UnTurned, never Turned, because the gate refused them, or that people died on the roads ([[A History of the Turning]]). The page calls a child sent home "Kept" and "whole," as if that were no loss.
 
 ## Minutes from the long-house
 
-**The page:** [[Minutes of a Gift]].
+The page is [[Minutes of a Gift]]. It is one meeting copied out of the minute-book, and it is kept on Molevad's long-house shelf in Lestrand. Molevad keeps the minute-book and the key to the shelf. If a visitor asks, Molevad says, "This is one meeting. K. said it could be read. The rest of the book stays shut."
 
-**Where it is kept:** on Molevad's long-house shelf in Lestrand. The page is one meeting copied out of the minute-book.
+A reader is meant to understand that these are the circle's own minutes of one willing gift. The circle asks five years of a member in all, one year on each night, and this meeting is the fifth that a Long-Lived member called K. gives, so K. is on the last of them. The Long-Lived are the people who can make this gift, because a year of their memory is a year they have actually kept. K. asks to give that year, names it, and says why: K. is tired of carrying a husband's death. The circle asks three times whether the gift is K.'s own wish. K. gives the year into the cup with one drop of blood. Afterward K. still knows the husband's name and face from before the marriage, and remembers nothing from that year. K.'s papers from that year go onto the shelf, and the minutes end with the long-house seating K. one year younger, five in all.
 
-**Who works there:** Molevad, who keeps the minute-book and the key to the shelf.
-
-**What Molevad says if a visitor asks:** "This is one meeting. K. said it could be read. The rest of the book stays shut."
-
-**What a reader is meant to understand:** these are the circle's own minutes of one willing gift: one year, the fifth that a Long-Lived member called K. gives. The circle asks five years of a member in all, one year on each night, and K. is on the last. K. asks to give that year, names it, and says why: K. is tired of carrying a husband's death. The circle asks three times whether the gift is K.'s own wish. K. gives the year into the cup with one drop of blood. Afterward K. still knows the husband's name and face from before the marriage and remembers nothing from that year. K.'s papers from that year go onto the shelf, and the minutes end with the long-house seating K. one year younger, five in all. The minutes record how the circle will describe its god this decade, that one reading held two members' memories of the same summer, and that nobody asked to stop. They end with the circle's claim that every gift is freely given and that the circle made the god it gives to.
-
-That claim is the circle's belief. These minutes do not settle whether it is true.
+The minutes also record how the circle will describe its god this decade, that one reading held two members' memories of the same summer, and that nobody asked to stop. They end on the circle's claim that every gift is freely given and that the circle made the god it gives to. That claim is the circle's belief. These minutes do not settle whether it is true.
 
 ## A scene from a play
 
-**The page:** [[The Heir's Seat]].
+The page is [[The Heir's Seat]]. It is kept on Molevad's long-house shelf in Lestrand as a copy in the common speech. Members of the circle copy books into the common speech, and this play is one of those copies. Molevad holds the key, and the copies are made by members of Molevad's circle. If a visitor asks, Molevad says, "People borrow it to put on in a yard at Turning-Week. Bring it back when you're done." The week Molevad means, Turning-Week, is when a town Turns its children.
 
-**Where it is kept:** on Molevad's long-house shelf in Lestrand, as a copy in the common speech. Members of the circle copy books in the common speech, and this is one of them.
+A reader is meant to understand that this is a scene players can perform straight from the page, with a table, a tall chair, and a lantern, and that no theatre is needed. Two cousins of a Closed house were Turned in the same week. One was hugged, and the other received a storm-grey leaf, so that cousin is the Given one, the cousin the Tree gave a colour, which is a Condition. A clerk of the Book strikes the Given cousin from the heir-roll and writes the name again on the page of turns of work. The Given cousin is sent to the far end of the table, and the hugged cousin is given the heir's chair and a gate key.
 
-**Who works there:** Molevad holds the key. The copies are made by members of Molevad's circle.
-
-**What Molevad says if a visitor asks:** "People borrow it to put on in a yard at Turning-Week. Bring it back when you're done."
-
-**What a reader is meant to understand:** this is a scene that players can perform straight from the page, with a table, a tall chair, and a lantern. No theatre is needed. Two cousins of a Closed house were Turned in the same week. One was hugged. The other received a storm-grey leaf. A clerk of the Book strikes the Given cousin from the heir-roll and writes their name again on the page of turns of work. The Given cousin is sent to the far end of the table. The hugged cousin is given the heir's chair and a gate key.
-
-The scene does not say which cousin got the better life. The hugged cousin keeps the seat and has to stay inside the walls and hold the keys. The Given cousin loses the seat, owes heavier work, and can walk out of the gate any morning. The play ends on a question nobody in it answers.
+The scene does not say which cousin got the better life. The hugged cousin keeps the seat, and has to stay inside the walls and hold the keys. The Given cousin loses the seat, owes heavier work, and can walk out of the gate any morning. The play ends on a question nobody in it answers.
 
 ## A poem
 
-**The page:** [[A Room I Do Not Go Into]].
+The page is [[A Room I Do Not Go Into]]. It is kept on Molevad's long-house shelf in Lestrand. The copy has no name on it, and a Long-Lived writer wrote it. Molevad keeps the shelf. If a visitor asks, Molevad says, "One of us wrote it. Read it."
 
-**Where it is kept:** on Molevad's long-house shelf in Lestrand. The copy has no name on it. It was written by a Long-Lived writer.
-
-**Who works there:** Molevad.
-
-**What Molevad says if a visitor asks:** "One of us wrote it. Read it."
-
-**What a reader is meant to understand:** the poem is about a person who has five summers they no longer remember, and a room they walk past and do not open. People who read it often ask whether it is about the cup, where [[The Pourers]] give years of memory away, one year at a time. If anyone asks Molevad, or any other Long-Lived person at the shelf, whether the poem is about the cup, that person will not say whether it is. This note records that they refuse to answer. It does not answer the question for them.
+A reader is meant to understand that the poem is about a person who has five summers they no longer remember, and a room they walk past and do not open. People who read it often ask whether it is about the cup, where [[The Pourers]] give years of memory away, one year at a time. If anyone asks Molevad, or any other Long-Lived person at the shelf, whether the poem is about the cup, that person will not say whether it is. This note records that they refuse to answer. It does not answer the question for them.
 
 ## A road song
 
-**The page:** [[The Day-Road Count]].
+The page is [[The Day-Road Count]]. It is kept at the gate clerk's desk at Rothallo's gate, written on the back of an old sleep-line sheet, the list of who slept in the beds outside the wall. [[Breolnir]], the gate clerk, keeps that desk and writes the list. If a visitor asks, Breolnir says, "The school children sing it on the road to the wood. Pilgrims keep asking for the words, so I keep a copy."
 
-**Where it is kept:** at the gate clerk's desk at Rothallo's gate, written on the back of an old sleep-line sheet.
+A reader is meant to understand that this is a counting song the school beside the Book's house teaches children to sing as they walk the day's road from Rothallo to the Awakening Tree. It counts the Kept the way the Close teaches. At every town Tree on the road, and even under the Awakening Tree, the song has every child receive a colour, and nobody is hugged. Only at the end, back at Rothallo's wall, does the song find a hug.
 
-**Who works there:** [[Breolnir]], the gate clerk, who writes down who slept in the beds outside the wall.
-
-**What Breolnir says if a visitor asks:** "The school children sing it on the road to the wood. Pilgrims keep asking for the words, so I keep a copy."
-
-**What a reader is meant to understand:** this is a counting song the school beside the Book's house teaches children to sing as they walk the day's road from Rothallo to the Awakening Tree. It counts the Kept the way the Close teaches: at every town Tree on the road, and even under the Awakening Tree, every child gets a colour and nobody is hugged. Only at the end, back at Rothallo's wall, does the song find a hug.
-
-The song is wrong. A tree-warden sees children hugged at every Leaf-Fall, in every town, and under the Awakening Tree itself. A warden who hears children singing it on the road can tell it is wrong. The song gives no numbers. The real figures are on [[The Premise]].
+The song is wrong. A tree-warden sees children hugged at every Leaf-Fall, in every town, and under the Awakening Tree itself, and a warden who hears children singing the song on the road can tell that it is wrong. The song gives no numbers. The real figures are on [[The Premise]].
 
 ## Links
 
