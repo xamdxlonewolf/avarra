@@ -318,12 +318,12 @@
       "agentId": "bc-d8af2c00-26e5-437f-afcc-86b32b2bfd55",
       "runId": "run-3f550171-bcfe-4b51-985c-468f2726acae",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/settlements-villages.md",
       "startedAt": "2026-11-11T06:01:56.118Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:58.746Z",
+      "finishedAt": "2026-11-11T06:17:43.436Z",
+      "lastUpdate": "2026-11-11T06:17:43.437Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -587,13 +587,13 @@
       "handoffPath": "handoffs/people-npcs-major.md",
       "startedAt": "2026-11-11T06:02:54.487Z",
       "finishedAt": "2026-11-11T06:17:09.093Z",
-      "lastUpdate": "2026-11-11T06:17:09.093Z",
+      "lastUpdate": "2026-11-11T06:17:10.193Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "people-npcs-minor",
@@ -1521,6 +1521,10 @@
     {
       "at": "2026-11-11T06:17:07.757Z",
       "message": "people-cast: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:17:10.194Z",
+      "message": "people-npcs-major: verification self-reported (not-verified)"
     }
   ]
 }
