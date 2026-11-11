@@ -15,13 +15,19 @@ updated: 2026-10-22
 
 # Climate of the Turning
 
-The year is familiar enough to farm by and strange enough to argue over. The Old World pair keep four seasons and twelve shared month-names. The Rain-Wall makes the same month into flood on one face and a dry well on the other. Heskoren gets a shorter kindness between frosts. [[The Sundering Isle|Kumbaan]] keeps its own moons and lives inside the weather of the wall.
+The year is familiar enough to farm by and strange enough to argue over. The Old World pair, Maiethorn and Strandoren, keep four seasons and twelve shared month-names. The Rain-Wall, the range down the middle of Maiethorn, makes that same month into a flood on one face and a dry well on the other. Heskoren gets a shorter kindness between frosts. [[The Sundering Isle|Kumbaan]] keeps its own moons and lives inside the weather of the storm-wall, the wind and reef at the edge of that isle.
 
-This is the week-weather layer. Named waters, passes, rivers, and journey lengths remain on [[Named Ground]]; crops, forage, disease, and working animals are on [[Ecology of the Turning]].
+This is the week-weather layer. Named waters, passes, rivers, and the lengths of journeys remain on [[Named Ground]]. Crops, forage, disease, and the animals people work beside are on [[Ecology of the Turning]].
 
 ## Seasons are not months
 
-A month tells people what work should be possible. A season tells them what the land actually did. A late frost can put winter into Seed-month. Three clear weeks can put Harvest into Ledger-month. Clerks still date the note by the month; farmers date the year by what survived.
+A month tells people what work should be possible. A season tells them what the land actually did. A late frost can put winter into Seed-month, and three clear weeks can put Harvest into Ledger-month. Clerks still date the note by the month. Farmers date the year by what survived.
+
+The Deep is the Deep Solstice and the hardest of the winter, when roads shorten to the daylight and stores, peat, and dry bedding matter more than the miles. Hearth-month is the held cold, snow crusting or rain settling in, and the repairs happening under cover. The Thaw, also called Liren, is the first running water. Low roads soften, the Shelf-gate can fill until it is a lake, and last year's snow begins deciding this year's dues. Seed-month is the first ground anyone can work, so sowing starts where the soil drains, and the Long Mile columns that are going to leave have usually gone by now or during the Thaw. The Long Mile is the long road across Heskoren. Hale-month is when the land is sound and the roads fill, the usual month for travelling, and a storm on the Old Crossing can still decide a Salt Walk, the crossing a family makes in order to reach a Turning.
+
+Turning-month, also called Eolthael, holds the High Solstice and Turning-Week, the longest light and the one fixed week under the boughs of a Turning Tree, the grafted motherwood a town keeps, and weather does not extend that week. Gift-month is the settled summer of hay, garden work, the repairs after the fair, and the road carrying people home. Ledger-month is the late summer markets, when the quays are busiest, the upland nights sharpen, and a grain price becomes a weather report. Harvest is the bringing-in, when every dry day is borrowed and the labour of the Taken-In and the Two-Bodied is most visible. The Taken-In are people who have to keep near living plants, and the Two-Bodied are people with another self in a real animal body. The Tally is the autumn count, when stores are measured, animals are brought closer, and the drains and the roofs are cleared. The Wait is leaf-fall and the first hard weather, when mud, fog, and early snow expose every road job that was left unfinished. Dark-month is winter coming on: the coastal gales return, and travel in the uplands becomes a promise made to the weather.
+
+These are mainland expectations, not a law of the sky. Kumbaan does not translate its twelve moons into this table. A mainlander who says a Kumbaan moon is "really Seed-month" is usually wrong before the rain has finished.
 
 | Month in common speech | Expected turn | What a traveller notices |
 |---|---|---|
@@ -38,11 +44,23 @@ A month tells people what work should be possible. A season tells them what the 
 | **the Wait** | leaf-fall and first hard weather | Mud, fog, and early snow expose every unfinished road job. |
 | **Dark-month** | winter approaching | Coastal gales return; upland travel becomes a promise made to weather. |
 
-These are mainland expectations, not a law of the sky. Kumbaan does not translate its twelve moons into this table. A mainlander who says a Kumbaan moon is "really Seed-month" is usually wrong before the rain has finished.
-
 ## The eight bands, one week of weather each
 
-Choose the band, read the month, then let the weather turn once during the week. A whole week of identical weather should feel notable.
+Choose the band, read the month, and then let the weather turn once during the week. A whole week of identical weather should feel notable. On the Crossing-shore the week opens under low cloud and mild rain, with wet rope and streets that never quite dry, and the turn is a clear tide-day or a fast squall, with Hale-month favouring the squall, so the berths close before the roads do. A Salt Walk family can wait on a harbour mouth and lose Turning-Week without ever being far inland.
+
+The Mother-core opens on weather you would recognize as four seasons: frost, spring rain, summer warmth, or autumn drizzle. The turn is a river rising, a bright drying wind, or a cold night that does not belong to its month. Mills and markets keep moving, while living grafts, orchards, and crowded greens all want the same drink at the same well-timed hour.
+
+The Rain-Wall, also called the Thaw-Wall, opens with snow on the high shelves and, below them, cold rain or meltwater. The turn is a freeze that locks the path, or a thaw that unlocks all of it at once. Lirorn can open the pass, levy it, or close it. In Liren the Shelf-gate may already be water before a traveller reaches the toll.
+
+The Rain-Shadow opens on a clear sky, cool shade, a dry wind, and dust in the worked ground. The turn is a brief hard shower, a blow of dust, or no change at all, and the wells fail before the roads do. The Well-wash, the seasonal water of that dry country, may run for a day and still provide no drink anyone can depend on.
+
+The Shore-lands open in salt mist, changeable rain, mild air, and a working tide. The turn is sun enough to unload, estuary rain enough to flood, or a gale along the coast, and the Chart-run and the quay schedules slip together. A leaf-lot, the living green a town keeps, can be drenched with fresh water or burned by brine in the same month.
+
+The Night Shore opens on an open-ocean wind and long cloud moving in from the west. The front arrives as hard rain, a sudden lull, and then a second wind. Missing hulls become a kind of local weather. Far-Voiced warnings travel, and the cargo and the people do not necessarily follow them. The [[Far-Voiced]] are people who have to put the voice somewhere, which is why a warning can cross the weather when a hull cannot.
+
+The Sundered upland opens in cold rain below, sleet on the ridges, sun in one vale and cloud in the next. The turn is a hard frost, a rain that softens the bog, or one clear day that makes everyone move, and the gaps between the mile-shrines lengthen. A healthy pocket can be bringing in a harvest while the next valley loses its roof, its road, or its young graft.
+
+The storm-wall on Kumbaan opens as mild wet air under cloud on the inside of the island, and as reef thunder and violent wind at the edge. The turn is a bright night within the wall, or a wall-squall that reaches inland as steady rain. Terraces slump, the shallows close, the peat smokes, and a wreck may appear. The crossing remains a chance, and it is never a timetable.
 
 | Existing band | How the week opens | The turn in the middle | What it changes |
 |---|---|---|---|
@@ -57,7 +75,9 @@ Choose the band, read the month, then let the weather turn once during the week.
 
 ### A quick weather turn
 
-When the week needs movement, choose or roll:
+When the week needs to move, choose or roll. A 1 holds: the expected weather stays three days too long, and the stores or the patience become the problem. A 2 hardens: rain becomes hail, a breeze becomes a gale, or a frost takes the road. A 3 breaks: the sky clears, and everyone who was waiting tries to use the same dry hours. A 4 runs: meltwater, a stream that is bank-full, a cistern overflowing, a hall that leaks. A 5 shifts: the weather arrives from the wrong quarter, and the local advice disagrees with itself. A 6 leaves a cost: the fine weather returns, and a bridge, a berth, a terrace, a roof, or a green is already damaged.
+
+Weather is usually an inconvenience before it is a danger. The scene is the queue at the dry shed, the cart sharing a rock, the neighbour whose cistern failed, or the hall making room, not a constant struggle against the sky.
 
 | d6 | The week does this | Put it in a scene as |
 |---:|---|---|
@@ -68,24 +88,25 @@ When the week needs movement, choose or roll:
 | 5 | **Shifts** | Weather arrives from the wrong quarter; local advice disagrees. |
 | 6 | **Leaves a cost** | Fine weather returns, but a bridge, berth, terrace, roof, or green is already damaged. |
 
-Weather is usually an inconvenience before it is a danger. The scene is the queue at the dry shed, the cart sharing a rock, the neighbour whose cistern failed, or the hall making room—not a constant struggle against the sky.
-
 ## Turning-Week under weather
 
-Turning-Week remains the week around the High Solstice. A storm, fever, blocked pass, or late hull does not move the door.
+Turning-Week remains the week around the High Solstice. A storm, a fever, a blocked pass, or a late hull does not move the door. At a sound Tree, rain changes the crowd and the footing, and it does not change the two outcomes. There is a colour, or there is a hug. At an unsound Tree, the wardens send the cohort on to a neighbour if that same week can still be reached. A later summer is not a repair.
 
-- **At a sound Tree:** rain changes the crowd and the footing, not the two outcomes. There is a colour, or there is a hug.
-- **At an unsound Tree:** wardens send the cohort to a neighbour if the same week can still be reached. A later summer is not a repair.
-- **On the Old Crossing:** Hale-month weather decides whether a family sails at all. Waiting for a perfect forecast can cost the week as surely as leaving in a gale.
-- **On the Rain-Wall:** Liren decides whether a pass is road, mud, or lake. [[The Thaw-Break]] is the remembered extreme: a month of melt in seven days and roads closed for two summers.
-- **On Heskoren:** weather stacks with distance and young, sick, or scarce grafts. A neighbour's canopy can be visible and still unreachable after a flood.
-- **On Kumbaan:** there is no Tree and no Leaf-Fall. Bright nights and named moons order the year instead.
+On the Old Crossing, Hale-month weather decides whether a family sails at all. Waiting for a perfect forecast can cost the week as surely as leaving in a gale. On the Rain-Wall, Liren decides whether a pass is road, mud, or lake. [[The Thaw-Break]] is the remembered extreme: a month of melt in seven days, and roads closed for two summers. On Heskoren, weather stacks with the distance and with grafts that are young, sick, or scarce. A neighbour's canopy can be visible and still unreachable after a flood. On Kumbaan there is no Tree and no Leaf-Fall, the giving that would have happened under one. Bright nights and named moons order the year instead.
 
 The weather can cause a miss. It does not create a third fall, a second-chance year, or a hidden colour.
 
 ## Weather meets the Tithes
 
-The Tithe is often the same shape as the day's work, so bad weather removes both livelihood and upkeep at once.
+A Condition is a change a person lives with, and the Tithe is the upkeep that change keeps requiring. The Tithe is often the same shape as the day's work, so bad weather removes both the livelihood and the upkeep at once.
+
+The Taken-In find living plants in fields, orchards, woods, terrace-green, and the lots of a city. Saltwater, a hard frost, a flood, a drought, or confinement can cut a person off from sound green even where the food stores remain. The [[The Stilled|Stilled]], whose upkeep is exertion, find it in surgery, patrol, hauling, and the repair after a storm. A closed pass can leave no surgeon. Enforced idleness after the danger has passed can let the Grey settle, the stillness that fills the body when the work stops. The Far-Voiced find outlets on quays, in courts, in worship, at warning posts, and in work-songs. Isolation, a storm-watch that has been silenced, or a packed hall with no safe hour turns the feeling into a problem for the whole town.
+
+The [[Returned]] can serve a chosen Purpose in recovery, in plague work, and in tending the dead. Weather creates deadly work, and not every Purpose points toward it, so a useful job is not automatically their reason for walking. The Two-Bodied live outdoors in herding, scouting, courier work, and ranging. The animal body can take a route a cart cannot, and it still needs shelter, food, and a deliberate day, because it is not weatherproof freight. The [[The Answered|Answered]], whose craft is water, stone, fire, or air, use that material in ordinary repair. Storm work gives them an outlet, and then the guilds face the dangerous quiet after it. The Answered improve the work, and they do not abolish the weather.
+
+A [[Long-Lived]] person draws genuine learning from courts, books, travellers, and what they witnessed themselves. A road snowed in may bring something new at first. Repetition is not novelty, and novelty is never a crop that a granary can issue.
+
+Provision remains a civic utility in the same way a well is. The town furnishes green, an outlet, a place to range, and work worth doing, and it is not a second food supply. See [[Economy and the Tithe]].
 
 | Condition | Ordinary weather-fit | A bad week does |
 |---|---|---|
@@ -97,27 +118,17 @@ The Tithe is often the same shape as the day's work, so bad weather removes both
 | [[The Answered]] | Water, stone, fire, and air are used in ordinary craft and repair. | Storm work gives an outlet, then guilds face the dangerous quiet after it. The Answered improve the work; they do not abolish weather. |
 | [[Long-Lived]] | Courts, books, travellers, and first-hand witness supply genuine learning. | A snowed-in road may bring novelty at first. Repetition is not novelty, and novelty is never a crop that a granary can issue. |
 
-Provision remains a civic utility like a well: green, an outlet, a place to range, work worth doing. It is not a second food supply. See [[Economy and the Tithe]].
-
 ## Mortal wood in a mortal climate
 
-A town Tree is grafted motherwood, not a weather-proof relic. It wants living earth, drainage, room for roots, and a dependable drink.
+A town Tree is grafted motherwood, not a relic the weather cannot touch. It wants living earth, drainage, room for its roots, and a drink it can depend on. Drought browns the leaves, standing water rots the roots, salt burns the soil, a gale tears a young union where the graft joins the ground, and a hard frost splits wood that was left exposed. Towns keep drains, windbreaks, a share of the cistern, and a turn at the watering around the Tree. Taken-In labour and ordinary horticulture matter. A square can have grain in store and still fear for its Hand, the Tree once it is mature enough to Turn.
 
-1. **First order:** drought browns leaves; standing water rots roots; salt burns soil; gale tears young unions; hard frost splits exposed wood.
-2. **Second order:** towns keep drains, windbreaks, cistern shares, and watering turns around the Tree. Taken-In labour and ordinary horticulture matter. A square can have grain in store and still fear for its Hand.
-3. **Third order:** weather becomes citizenship. A sick canopy sends children onto a neighbour's road; that road needs beds, witnesses, and a same-week decision. A dead Tree means a fresh graft and another generation of waiting.
-
-What people see is young, sick, or few grafts at a distance from the core, poorer soil, harder weather, and a history of who received living wood.
+From there the weather becomes a question of who belongs where this week. A sick canopy sends children onto a neighbour's road, and that road needs beds, witnesses, and a decision inside the same week. A dead Tree means a fresh graft and another generation of waiting. What people see, when they look at a place where Turning fails, is young grafts, sick grafts, or few grafts, at a distance from the core, on poorer soil, in harder weather, and after a history of who received living wood and who did not.
 
 ## Running a weather week
 
-1. Name the **band**, not a new province.
-2. Name the **month in common speech**.
-3. Pick one ordinary condition and one midweek turn.
-4. Put the consequence on a **door, drink, green, berth, crop, or road**.
-5. Let a person enter carrying it: the well-share, the wet cart, the closed lot, the late witness.
+Name the band, and do not invent a province to hold it, then name the month in common speech. Pick one ordinary condition and one turn in the middle of the week, and put the consequence on a door, a drink, a green, a berth, a crop, or a road. Then let a person come in carrying it: the share of the well, the wet cart, the closed lot, or the witness who is late.
 
-For exact journeys and named ground, use [[Named Ground]]. For food, illness, and animals people work beside, use [[Ecology of the Turning]]. For road danger when weather needs teeth, use [[Dangers of the Turning]].
+For the exact journeys and the named ground, use [[Named Ground]]. For food, illness, and the animals people work beside, use [[Ecology of the Turning]]. For danger on the road when the weather needs teeth, use [[Dangers of the Turning]].
 
 ## Links
 - [[Ecology of the Turning]] — food, disease, Tithe-ecology, and working beasts
@@ -130,6 +141,8 @@ For exact journeys and named ground, use [[Named Ground]]. For food, illness, an
 
 ## GM Notes
 
-- **Reach stays deniable.** Healthy or failing wood visibly follows horticulture, weather, distance, and history. Those causes are true as far as player knowledge goes. Do not use a forecast, drought, or frost-line to confirm a mind behind the grafts.
-- **Kumbaan is the control only behind the wall.** Player text says the observable fact: no Tree, no Leaf-Fall, another calendar. It does not explain the household or the nature of the limit.
-- **Escalation order:** inconvenience → shared scarcity → civic choice → danger. Start with the wet bedding or closed berth. Spend the harder edge only when a person must choose who gets the drink, the road, or the sound Tree this week.
+Reach stays deniable. Healthy wood and failing wood visibly follow horticulture, weather, distance, and history, and those causes are true as far as player knowledge goes, so do not use a forecast, a drought, or a frost-line to confirm a mind behind the grafts.
+
+Kumbaan is the control only behind the wall. The player-facing text says the fact that can be observed: no Tree, no Leaf-Fall, and another calendar. It does not explain the household, and it does not explain the nature of the limit.
+
+Escalate in this order, and do not start at the end of it. Inconvenience comes first, then a scarcity people have to share, then a civic choice, then danger. Begin with the wet bedding or the closed berth. Spend the harder edge only when a person has to choose who gets the drink, the road, or the sound Tree this week.
