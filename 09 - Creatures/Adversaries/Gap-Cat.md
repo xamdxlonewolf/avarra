@@ -16,7 +16,7 @@ updated: 2026-08-31
 
 # Gap-Cat
 
-Tier 1 Skulk. A long-bodied cat of the high rock — tawny on the Rain-Wall, smoke-grey on Heskoren shale. Not a Condition. Not a story about a person who shifted and stayed. Two-Bodied range against these.
+A Gap-Cat is a Tier 1 Skulk, a long-bodied cat of the high rock, tawny on the Rain-Wall shelves and smoke-grey on Heskoren shale. It is not a Condition, and it is not a story about a person who shifted and stayed in that shape. [[Two-Bodied]] people range against cats like this one, and the cat stays an animal rather than becoming one of them.
 
 **Motives & Tactics:** take the straggler · keep the high rock · drag down, not duel · leave when the noise is a crowd
 
@@ -39,6 +39,8 @@ Tier 1 Skulk. A long-bodied cat of the high rock — tawny on the Rain-Wall, smo
 
 ## GM Notes
 
-- Spotlight as an animal. It does not hate Trees and it does not know the party. It wants meat that lagged.
-- A Two-Bodied in a form that can take a shelf may track or warn; that is ranging, not a second adversary type.
-- Do not give it a Tithe or a leaf-colour. If you want a person in a cat-shape, that is a Two-Bodied NPC, and you should not use this block for them.
+Spotlight it as an animal. It does not hate Trees, and it does not know the party. It wants the meat that lagged.
+
+A Two-Bodied person in a form that can take a shelf may track the cat or warn the others, and that is ranging, not a second adversary type.
+
+Do not give it a Tithe or a leaf-colour. If you want a person in a cat-shape, that is a Two-Bodied NPC, and you should not use this block for them.

@@ -14,9 +14,7 @@ updated: 2026-10-22
 
 # Equipment
 
-The tools a place needed are listed on [[What a Place Needed]]. There is no other kit list.
-
-Nothing on that list is rarer than the next town's version of the same need.
+The tools a place needed are listed on [[What a Place Needed]], and there is no other kit list beside that one. Nothing on that list is rarer than the next town's version of the same need.
 
 ## Links
 

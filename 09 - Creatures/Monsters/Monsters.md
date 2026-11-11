@@ -14,9 +14,7 @@ updated: 2026-10-22
 
 # Monsters
 
-There is no bestiary.
-
-The recognizable monsters are [[Conditions]]. Those notes stay in `09 - Creatures/Conditions`. The five road adversaries stay the five, in `09 - Creatures/Adversaries`. [[Dangers of the Turning]] says when a road opens one of them.
+There is no bestiary in this folder, because what a reader would recognize as a monster is already a [[Conditions|Condition]], one of the changes a person comes to live with, and those notes stay in `09 - Creatures/Conditions`. The five road adversaries stay the five, in `09 - Creatures/Adversaries`, and [[Dangers of the Turning]] says when a road opens one of them.
 
 ## Links
 

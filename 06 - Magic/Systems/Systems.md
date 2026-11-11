@@ -14,9 +14,7 @@ updated: 2026-10-22
 
 # Systems
 
-There is no second system.
-
-[[How the Work Is Done]] is the one account of the work. The Condition cards are described in [[Conditions]]. A domain card stays on the SRD. A card does not Turn anyone.
+There is no second system of magic beside the work. [[How the Work Is Done]] is the one account of that work. The Condition cards, the becomings, are described in [[Conditions]], a domain card stays on the SRD where it was printed, and a card does not Turn anyone, which is to say it does not make a person into a Condition.
 
 ## Links
 

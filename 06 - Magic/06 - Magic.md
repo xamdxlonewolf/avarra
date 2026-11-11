@@ -11,29 +11,23 @@ updated: 2026-10-22
 
 # 06 - Magic
 
-One hub. Domain cards are crafts with jobs. A Spoken colour is a warden's sentence. Condition cards stay in `09 - Creatures/Conditions`.
+There is one hub for this, and it is the work people hire. A domain card is a craft with a job, a Spoken colour is a warden's sentence, and the Condition cards stay in `09 - Creatures/Conditions` because those cards are becomings and not a second set of crafts.
 
 ## Contents
 
-- [[How the Work Is Done]] — the nine jobs, and what a Speaking is
+[[How the Work Is Done]] holds the nine jobs, and it is where a Speaking, that warden's sentence, is explained.
 
-The artifacts are described in [[10 - Items]]:
-
-- [[The Spent Leaf]] · [[The Closed Lamp]]
-- [[The Other Chip]] · [[The Dry Slip]] — true
-- [[The Ribboned Knife]] · [[The Socket Ribbon]] — embellished
-- [[The One Knife]] — never found
-- [[What a Place Needed]] — coats, tools, and materials a place used
+The artifacts are described in [[10 - Items]], and this hub does not copy them. [[The Spent Leaf]] and [[The Closed Lamp]] are kept there with the rest. [[The Other Chip]] and [[The Dry Slip]] are true, which means the object is really there as its note describes it. [[The Ribboned Knife]] and [[The Socket Ribbon]] are embellished, which means the story told about them claims more than the object is. [[The One Knife]] was never found. [[What a Place Needed]] holds the coats, tools, and materials a place used, and those are ordinary things, not artifacts.
 
 A thing left running, if a town has one, is [[A Made Thing]].
 
 ## Shelves
 
-[[Schools]], [[Traditions]], and [[Systems]] record the same decision. There is no school, no tradition, and no second system. The hub is [[How the Work Is Done]].
+[[Schools]], [[Traditions]], and [[Systems]] record the same decision. There is no school of magic, no tradition of magic beside the work, and no second system. The hub is [[How the Work Is Done]].
 
-[[Artifacts]] lists the artifacts, which are described in [[10 - Items]].
+[[Artifacts]] lists those same artifacts again, and they are still described in [[10 - Items]].
 
-What people see in the weather is [[The Green Across the Gap]], [[The Day-Wash]], and [[Brine and Rain]].
+What people see when they look at the weather is already written as [[The Green Across the Gap]], [[The Day-Wash]], and [[Brine and Rain]].
 
 ## Related
 
@@ -41,4 +35,4 @@ What people see in the weather is [[The Green Across the Gap]], [[The Day-Wash]]
 
 ## GM Notes
 
-`Practices` and `Phenomena` are unused shelves. Nothing has decided a note for either. The work is the hub.
+`Practices` and `Phenomena` are unused shelves, and nothing has decided a note for either of them. The work is the hub.

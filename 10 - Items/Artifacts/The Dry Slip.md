@@ -15,11 +15,11 @@ updated: 2026-10-22
 
 # The Dry Slip
 
-This one is true.
+This one is true, which means the wood is really there.
 
-A later warden planted a slip in the basin at the top of [[The Dry Stair]], so the stair would have a point. The slip died. The Seat did not send a second. [[Saelthael]] already knows about dirt. The pecking was never a good cistern. Taken-In who know wells have already said so.
+A later warden planted a slip in the basin at the top of [[The Dry Stair]], so the stair would have a point. The slip died, and the Seat did not send a second. [[Saelthael]] already knows about dirt, the pecking was never a good cistern, and [[The Taken-In|Taken-In]] who know wells have already said so.
 
-What is left is a thumb of dead wood in a crack at the basin's lip. A person can work it free and hold it. It does not green. It is not a scion. It will not take in a pot. It is not a colour, and it is not [[The Spent Leaf]].
+What is left is a thumb of dead wood in a crack at the basin's lip. A person can work it free and hold it, and it still will not green and will not take in a pot, and what they are holding is not a scion, not a colour, and not [[The Spent Leaf]].
 
 People say the stair refused a mother. The rock was dry, the pecking was wrong for water, and the slip died of that. The refusal is the story they prefer to the dirt.
 
@@ -31,4 +31,4 @@ People say the stair refused a mother. The rock was dry, the pecking was wrong f
 
 ## GM Notes
 
-The wood is real and dead. The refusal story is what visitors add. Do not let the thumb prove a mind, a Hand, or a second planting that the Seat already declined. Do not make it a relic that greens when the right person holds it.
+The wood is real and dead, and the refusal story is what visitors add. Do not let the thumb prove a mind, a Hand, or a second planting that the Seat already declined, and do not make it a relic that greens when the right person holds it.

@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # Artifacts
 
-The magic artifacts are described in [[10 - Items]]: [[The Spent Leaf]], [[The Closed Lamp]], [[The Other Chip]], [[The Dry Slip]], [[The Ribboned Knife]], [[The Socket Ribbon]], and [[The One Knife]]. Ordinary coats, tools, and materials are on [[What a Place Needed]].
+The magic artifacts are not written out a second time on this page. They are described in [[10 - Items]]: [[The Spent Leaf]], [[The Closed Lamp]], [[The Other Chip]], [[The Dry Slip]], [[The Ribboned Knife]], [[The Socket Ribbon]], and [[The One Knife]]. Ordinary coats, tools, and materials are on [[What a Place Needed]].
 
 ## Links
 
@@ -22,4 +22,4 @@ The magic artifacts are described in [[10 - Items]]: [[The Spent Leaf]], [[The C
 
 ## GM Notes
 
-This note stays a pointer, with no second copy of the artifacts. Do not move those notes here so the sidebar has files. Do not fire the keystone from this pointer. Do not turn an argued object into a school of magic.
+This note stays a pointer, with no second copy of the artifacts. Do not move those notes here so the sidebar has files, do not fire the keystone from this pointer, and do not turn an argued object into a school of magic.

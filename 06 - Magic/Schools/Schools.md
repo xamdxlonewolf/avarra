@@ -14,7 +14,7 @@ updated: 2026-10-22
 
 # Schools
 
-People hire a craft. The jobs are [[How the Work Is Done]]. There is no school of magic beside that note.
+When the work needs doing, people hire a craft, and the jobs they hire are the ones on [[How the Work Is Done]]. There is no school of magic beside that note.
 
 ## Links
 
