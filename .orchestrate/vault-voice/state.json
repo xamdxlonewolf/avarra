@@ -1500,6 +1500,10 @@
     {
       "at": "2026-11-11T06:03:16.202Z",
       "message": "campaigns: spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously."
+    },
+    {
+      "at": "2026-11-11T06:03:31.981Z",
+      "message": "game: spawn failed after 3 transient sub-attempts: ConfigurationError: [validation_error] Upgrade to Ultra for more Cloud Agents: You've reached the limit for your current plan. Upgrade to Ultra to run more Cloud Agents simultaneously."
     }
   ]
 }
