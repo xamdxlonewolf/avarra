@@ -296,12 +296,12 @@
       "agentId": "bc-675f78e6-5d93-471e-8f34-06a411ca9340",
       "runId": "run-f5b26a0e-055e-4018-88c6-d1f40e9aea51",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/settlements-towns.md",
       "startedAt": "2026-11-11T06:01:52.826Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:55.818Z",
+      "finishedAt": "2026-11-11T06:17:54.452Z",
+      "lastUpdate": "2026-11-11T06:17:54.452Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -389,13 +389,13 @@
       "handoffPath": "handoffs/factions-orders-houses.md",
       "startedAt": "2026-11-11T06:02:06.980Z",
       "finishedAt": "2026-11-11T06:17:53.335Z",
-      "lastUpdate": "2026-11-11T06:17:53.335Z",
+      "lastUpdate": "2026-11-11T06:17:54.449Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "factions-gov-seats",
@@ -1529,6 +1529,10 @@
     {
       "at": "2026-11-11T06:17:44.499Z",
       "message": "settlements-villages: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:17:54.449Z",
+      "message": "factions-orders-houses: verification self-reported (not-verified)"
     }
   ]
 }
