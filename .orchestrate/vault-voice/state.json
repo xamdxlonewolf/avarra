@@ -582,12 +582,12 @@
       "agentId": "bc-608e140d-4c33-41b0-96cb-3aeed50ea66e",
       "runId": "run-4f931f04-d34b-4e0c-9344-62fed776ee79",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/people-npcs-major.md",
       "startedAt": "2026-11-11T06:02:54.487Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:02:57.190Z",
+      "finishedAt": "2026-11-11T06:17:09.093Z",
+      "lastUpdate": "2026-11-11T06:17:09.093Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -631,13 +631,13 @@
       "handoffPath": "handoffs/people-cast.md",
       "startedAt": "2026-11-11T06:03:00.220Z",
       "finishedAt": "2026-11-11T06:17:06.446Z",
-      "lastUpdate": "2026-11-11T06:17:06.446Z",
+      "lastUpdate": "2026-11-11T06:17:07.756Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "secrets",
@@ -1517,6 +1517,10 @@
     {
       "at": "2026-11-11T06:16:27.186Z",
       "message": "world-climate: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:17:07.757Z",
+      "message": "people-cast: verification self-reported (not-verified)"
     }
   ]
 }
