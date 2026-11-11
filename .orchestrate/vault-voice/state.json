@@ -125,13 +125,13 @@
       "handoffPath": "handoffs/history-events.md",
       "startedAt": "2026-11-11T06:01:13.698Z",
       "finishedAt": "2026-11-11T06:18:33.949Z",
-      "lastUpdate": "2026-11-11T06:18:33.949Z",
+      "lastUpdate": "2026-11-11T06:18:35.052Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
       "prNumber": null,
       "failureMode": null,
-      "verification": null
+      "verification": "not-verified"
     },
     {
       "name": "history-eras",
@@ -274,12 +274,12 @@
       "agentId": "bc-b1d93b11-fc94-4a08-a320-c4d8895f7aba",
       "runId": "run-56c7da08-47db-4e91-b95e-75373187a73b",
       "parentAgentId": "bc-ffc76101-0ea5-47f5-94c5-d66f119ea29a",
-      "status": "running",
-      "resultStatus": null,
-      "handoffPath": null,
+      "status": "handed-off",
+      "resultStatus": "finished",
+      "handoffPath": "handoffs/settlements-cities.md",
       "startedAt": "2026-11-11T06:01:46.790Z",
-      "finishedAt": null,
-      "lastUpdate": "2026-11-11T06:01:51.975Z",
+      "finishedAt": "2026-11-11T06:18:35.872Z",
+      "lastUpdate": "2026-11-11T06:18:35.872Z",
       "note": null,
       "attempts": 1,
       "slackTs": null,
@@ -1541,6 +1541,10 @@
     {
       "at": "2026-11-11T06:18:15.672Z",
       "message": "factions-gov-seats: verification self-reported (not-verified)"
+    },
+    {
+      "at": "2026-11-11T06:18:35.052Z",
+      "message": "history-events: verification self-reported (not-verified)"
     }
   ]
 }
