@@ -6,7 +6,7 @@ note_status: draft
 tags: [moc]
 aliases: []
 created: 2026-08-11
-updated: 2026-11-02
+updated: 2026-11-12
 ---
 
 # 14 - Assets
@@ -24,6 +24,11 @@ Maps, images, handouts, documents, and references.
   - `Documents/Primers/The-Turning-Player-Primer.html`
   - `Documents/Primers/The-Turning-Player-Primer.pdf`
   - `Documents/Primers/build_player_primer.py` — rebuilds the HTML and PDF
+- **A Telling of the Turning** (a short reading for the person who will run the game, about 40 to 60 pages):
+  - `Documents/A Telling/telling.md` — the source
+  - `Documents/A Telling/The-Turning-A-Telling.html`
+  - `Documents/A Telling/The-Turning-A-Telling.pdf`
+  - `Documents/A Telling/build_telling.py` — rebuilds the HTML and PDF
 - **The Turning — World Book** (compiled reading copy):
   - `Documents/Setting Book/The-Turning-World-Book.html`
   - `Documents/Setting Book/The-Turning-World-Book.pdf`
